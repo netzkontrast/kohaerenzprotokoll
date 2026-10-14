@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "genesis-klammer",
+ "title": "Genesis-Klammer",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "erneutes Erzählen derselben Ereignisse",
+  "Unterschied zwischen Echo und Wiederholung",
+  "Wissen der rückblickenden Stimme",
+  "Wandel ohne Änderung des ursprünglichen Schmerzes",
+  "Tragfähigkeit von Kap 0 und Kap 40"
+ ],
+ "basis": {
+  "genesis-klammer": {
+   "title": "Genesis-Klammer",
+   "path": "Wiki/candidates/genesis-klammer.md",
+   "hash": "cb0c2af03ef01a3757eb1dfc38211430ec0f4325958224c3a7f38ff120afe1db"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "formel-inversion": {
+   "title": "Formel-Inversion",
+   "path": "Wiki/candidates/formel-inversion.md",
+   "hash": "dc66354ebd196afc9ce831cf9a83f9ad516f3ca65e773f27ca3f8475d00ca000"
+  },
+  "vermittler-stimme": {
+   "title": "Vermittler-Stimme",
+   "path": "Wiki/candidates/vermittler-stimme.md",
+   "hash": "7978045e549b6ee232628e5846d5b0b0becdccf4d709d72fd78ee1be6bb73c5a"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-genesis-klammer-001",
+   "question": "Welches Detail der Genesis muss in Kap 40 gleich bleiben, damit eine neue Lesart entsteht und kein heimlicher Reset?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-002",
+   "question": "Welche Lesarten auf der Seite zu Genesis-Klammer stützen oder begrenzen „erneutes Erzählen derselben Ereignisse“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-003",
+   "question": "Welcher Grenzfall würde bei Genesis-Klammer die Annahmen über „erneutes Erzählen derselben Ereignisse“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-004",
+   "question": "Wer könnte innerhalb des Romans bei Genesis-Klammer etwas über „erneutes Erzählen derselben Ereignisse“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-005",
+   "question": "Welche konkrete Entscheidung könnte „erneutes Erzählen derselben Ereignisse“ bei Genesis-Klammer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „erneutes Erzählen derselben Ereignisse“ bei Genesis-Klammer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-007",
+   "question": "Wie lässt sich „erneutes Erzählen derselben Ereignisse“ bei Genesis-Klammer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-008",
+   "question": "Welche Alternativen sollte der Autor bei Genesis-Klammer für „erneutes Erzählen derselben Ereignisse“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-009",
+   "question": "Was bedeutet bei Genesis-Klammer der Themenpunkt „Unterschied zwischen Echo und Wiederholung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-010",
+   "question": "Welche Lesarten auf der Seite zu Genesis-Klammer stützen oder begrenzen „Unterschied zwischen Echo und Wiederholung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-011",
+   "question": "Welcher Grenzfall würde bei Genesis-Klammer die Annahmen über „Unterschied zwischen Echo und Wiederholung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-012",
+   "question": "Wer könnte innerhalb des Romans bei Genesis-Klammer etwas über „Unterschied zwischen Echo und Wiederholung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Echo und Wiederholung“ bei Genesis-Klammer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Echo und Wiederholung“ bei Genesis-Klammer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-015",
+   "question": "Wie lässt sich „Unterschied zwischen Echo und Wiederholung“ bei Genesis-Klammer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-016",
+   "question": "Welche Alternativen sollte der Autor bei Genesis-Klammer für „Unterschied zwischen Echo und Wiederholung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-017",
+   "question": "Was bedeutet bei Genesis-Klammer der Themenpunkt „Wissen der rückblickenden Stimme“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-018",
+   "question": "Welche Lesarten auf der Seite zu Genesis-Klammer stützen oder begrenzen „Wissen der rückblickenden Stimme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-019",
+   "question": "Welcher Grenzfall würde bei Genesis-Klammer die Annahmen über „Wissen der rückblickenden Stimme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-020",
+   "question": "Wer könnte innerhalb des Romans bei Genesis-Klammer etwas über „Wissen der rückblickenden Stimme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-021",
+   "question": "Welche konkrete Entscheidung könnte „Wissen der rückblickenden Stimme“ bei Genesis-Klammer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen der rückblickenden Stimme“ bei Genesis-Klammer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-023",
+   "question": "Wie lässt sich „Wissen der rückblickenden Stimme“ bei Genesis-Klammer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-024",
+   "question": "Welche Alternativen sollte der Autor bei Genesis-Klammer für „Wissen der rückblickenden Stimme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-025",
+   "question": "Was bedeutet bei Genesis-Klammer der Themenpunkt „Wandel ohne Änderung des ursprünglichen Schmerzes“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-026",
+   "question": "Welche Lesarten auf der Seite zu Genesis-Klammer stützen oder begrenzen „Wandel ohne Änderung des ursprünglichen Schmerzes“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-027",
+   "question": "Welcher Grenzfall würde bei Genesis-Klammer die Annahmen über „Wandel ohne Änderung des ursprünglichen Schmerzes“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-028",
+   "question": "Wer könnte innerhalb des Romans bei Genesis-Klammer etwas über „Wandel ohne Änderung des ursprünglichen Schmerzes“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-029",
+   "question": "Welche konkrete Entscheidung könnte „Wandel ohne Änderung des ursprünglichen Schmerzes“ bei Genesis-Klammer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wandel ohne Änderung des ursprünglichen Schmerzes“ bei Genesis-Klammer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-031",
+   "question": "Wie lässt sich „Wandel ohne Änderung des ursprünglichen Schmerzes“ bei Genesis-Klammer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-032",
+   "question": "Welche Alternativen sollte der Autor bei Genesis-Klammer für „Wandel ohne Änderung des ursprünglichen Schmerzes“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-033",
+   "question": "Was bedeutet bei Genesis-Klammer der Themenpunkt „Tragfähigkeit von Kap 0 und Kap 40“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-034",
+   "question": "Welche Lesarten auf der Seite zu Genesis-Klammer stützen oder begrenzen „Tragfähigkeit von Kap 0 und Kap 40“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-035",
+   "question": "Welcher Grenzfall würde bei Genesis-Klammer die Annahmen über „Tragfähigkeit von Kap 0 und Kap 40“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-036",
+   "question": "Wer könnte innerhalb des Romans bei Genesis-Klammer etwas über „Tragfähigkeit von Kap 0 und Kap 40“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-037",
+   "question": "Welche konkrete Entscheidung könnte „Tragfähigkeit von Kap 0 und Kap 40“ bei Genesis-Klammer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Tragfähigkeit von Kap 0 und Kap 40“ bei Genesis-Klammer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-039",
+   "question": "Wie lässt sich „Tragfähigkeit von Kap 0 und Kap 40“ bei Genesis-Klammer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-040",
+   "question": "Welche Alternativen sollte der Autor bei Genesis-Klammer für „Tragfähigkeit von Kap 0 und Kap 40“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-041",
+   "question": "Wo unterscheiden sich Genesis-Klammer und Genesis, wenn man sie unter dem Gesichtspunkt „erneutes Erzählen derselben Ereignisse“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-042",
+   "question": "Welche Quelle verbindet Genesis-Klammer mit Genesis in Bezug auf „erneutes Erzählen derselben Ereignisse“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-043",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Genesis-Klammer unter „erneutes Erzählen derselben Ereignisse“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-044",
+   "question": "Wie könnte sich das Wissen über Genesis-Klammer vom Wissen über Genesis unterscheiden, wenn „erneutes Erzählen derselben Ereignisse“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis-Klammer und Genesis bei „erneutes Erzählen derselben Ereignisse“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-046",
+   "question": "Falls Genesis-Klammer im Hinblick auf „erneutes Erzählen derselben Ereignisse“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis-Klammer und Genesis bei „erneutes Erzählen derselben Ereignisse“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-048",
+   "question": "Braucht der Roman eine Verbindung von Genesis-Klammer und Genesis bei „erneutes Erzählen derselben Ereignisse“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-049",
+   "question": "In welchem denkbaren Fall könnte Genesis-Klammer bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „erneutes Erzählen derselben Ereignisse“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-050",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis-Klammer und Genesis in Bezug auf „erneutes Erzählen derselben Ereignisse“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-051",
+   "question": "Welche ältere Lesart von Genesis-Klammer oder Genesis könnte die Gegenüberstellung unter „erneutes Erzählen derselben Ereignisse“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis-Klammer und Genesis unter „erneutes Erzählen derselben Ereignisse“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "genesis-klammer",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-053",
+   "question": "Wo unterscheiden sich Genesis-Klammer und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Echo und Wiederholung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-054",
+   "question": "Welche Quelle verbindet Genesis-Klammer mit Ouroboros-Struktur in Bezug auf „Unterschied zwischen Echo und Wiederholung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-055",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Genesis-Klammer unter „Unterschied zwischen Echo und Wiederholung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-056",
+   "question": "Wie könnte sich das Wissen über Genesis-Klammer vom Wissen über Ouroboros-Struktur unterscheiden, wenn „Unterschied zwischen Echo und Wiederholung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis-Klammer und Ouroboros-Struktur bei „Unterschied zwischen Echo und Wiederholung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-058",
+   "question": "Falls Genesis-Klammer im Hinblick auf „Unterschied zwischen Echo und Wiederholung“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis-Klammer und Ouroboros-Struktur bei „Unterschied zwischen Echo und Wiederholung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-060",
+   "question": "Braucht der Roman eine Verbindung von Genesis-Klammer und Ouroboros-Struktur bei „Unterschied zwischen Echo und Wiederholung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-061",
+   "question": "In welchem denkbaren Fall könnte Genesis-Klammer bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Echo und Wiederholung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-062",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis-Klammer und Ouroboros-Struktur in Bezug auf „Unterschied zwischen Echo und Wiederholung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-063",
+   "question": "Welche ältere Lesart von Genesis-Klammer oder Ouroboros-Struktur könnte die Gegenüberstellung unter „Unterschied zwischen Echo und Wiederholung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis-Klammer und Ouroboros-Struktur unter „Unterschied zwischen Echo und Wiederholung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "genesis-klammer",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-065",
+   "question": "Wo unterscheiden sich Genesis-Klammer und Formel-Inversion, wenn man sie unter dem Gesichtspunkt „Wissen der rückblickenden Stimme“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-066",
+   "question": "Welche Quelle verbindet Genesis-Klammer mit Formel-Inversion in Bezug auf „Wissen der rückblickenden Stimme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-067",
+   "question": "Welche Grenzen aus der Seite zu Formel-Inversion müsste eine Deutung von Genesis-Klammer unter „Wissen der rückblickenden Stimme“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-068",
+   "question": "Wie könnte sich das Wissen über Genesis-Klammer vom Wissen über Formel-Inversion unterscheiden, wenn „Wissen der rückblickenden Stimme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis-Klammer und Formel-Inversion bei „Wissen der rückblickenden Stimme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-070",
+   "question": "Falls Genesis-Klammer im Hinblick auf „Wissen der rückblickenden Stimme“ anders festgelegt wird: Welche Aussagen über Formel-Inversion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis-Klammer und Formel-Inversion bei „Wissen der rückblickenden Stimme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-072",
+   "question": "Braucht der Roman eine Verbindung von Genesis-Klammer und Formel-Inversion bei „Wissen der rückblickenden Stimme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-073",
+   "question": "In welchem denkbaren Fall könnte Genesis-Klammer bestehen, ohne dass Formel-Inversion dieselbe Funktion übernimmt, und was würde das für „Wissen der rückblickenden Stimme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-074",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis-Klammer und Formel-Inversion in Bezug auf „Wissen der rückblickenden Stimme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-075",
+   "question": "Welche ältere Lesart von Genesis-Klammer oder Formel-Inversion könnte die Gegenüberstellung unter „Wissen der rückblickenden Stimme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis-Klammer und Formel-Inversion unter „Wissen der rückblickenden Stimme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "genesis-klammer",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-077",
+   "question": "Wo unterscheiden sich Genesis-Klammer und Vermittler-Stimme, wenn man sie unter dem Gesichtspunkt „Wandel ohne Änderung des ursprünglichen Schmerzes“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-078",
+   "question": "Welche Quelle verbindet Genesis-Klammer mit Vermittler-Stimme in Bezug auf „Wandel ohne Änderung des ursprünglichen Schmerzes“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-079",
+   "question": "Welche Grenzen aus der Seite zu Vermittler-Stimme müsste eine Deutung von Genesis-Klammer unter „Wandel ohne Änderung des ursprünglichen Schmerzes“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-080",
+   "question": "Wie könnte sich das Wissen über Genesis-Klammer vom Wissen über Vermittler-Stimme unterscheiden, wenn „Wandel ohne Änderung des ursprünglichen Schmerzes“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis-Klammer und Vermittler-Stimme bei „Wandel ohne Änderung des ursprünglichen Schmerzes“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-082",
+   "question": "Falls Genesis-Klammer im Hinblick auf „Wandel ohne Änderung des ursprünglichen Schmerzes“ anders festgelegt wird: Welche Aussagen über Vermittler-Stimme müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis-Klammer und Vermittler-Stimme bei „Wandel ohne Änderung des ursprünglichen Schmerzes“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-084",
+   "question": "Braucht der Roman eine Verbindung von Genesis-Klammer und Vermittler-Stimme bei „Wandel ohne Änderung des ursprünglichen Schmerzes“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-085",
+   "question": "In welchem denkbaren Fall könnte Genesis-Klammer bestehen, ohne dass Vermittler-Stimme dieselbe Funktion übernimmt, und was würde das für „Wandel ohne Änderung des ursprünglichen Schmerzes“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-086",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis-Klammer und Vermittler-Stimme in Bezug auf „Wandel ohne Änderung des ursprünglichen Schmerzes“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-087",
+   "question": "Welche ältere Lesart von Genesis-Klammer oder Vermittler-Stimme könnte die Gegenüberstellung unter „Wandel ohne Änderung des ursprünglichen Schmerzes“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis-Klammer und Vermittler-Stimme unter „Wandel ohne Änderung des ursprünglichen Schmerzes“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "genesis-klammer",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-089",
+   "question": "Wo unterscheiden sich Genesis-Klammer und AEGIS, wenn man sie unter dem Gesichtspunkt „Tragfähigkeit von Kap 0 und Kap 40“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-090",
+   "question": "Welche Quelle verbindet Genesis-Klammer mit AEGIS in Bezug auf „Tragfähigkeit von Kap 0 und Kap 40“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Genesis-Klammer unter „Tragfähigkeit von Kap 0 und Kap 40“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-092",
+   "question": "Wie könnte sich das Wissen über Genesis-Klammer vom Wissen über AEGIS unterscheiden, wenn „Tragfähigkeit von Kap 0 und Kap 40“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis-Klammer und AEGIS bei „Tragfähigkeit von Kap 0 und Kap 40“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-094",
+   "question": "Falls Genesis-Klammer im Hinblick auf „Tragfähigkeit von Kap 0 und Kap 40“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis-Klammer und AEGIS bei „Tragfähigkeit von Kap 0 und Kap 40“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-096",
+   "question": "Braucht der Roman eine Verbindung von Genesis-Klammer und AEGIS bei „Tragfähigkeit von Kap 0 und Kap 40“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-097",
+   "question": "In welchem denkbaren Fall könnte Genesis-Klammer bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Tragfähigkeit von Kap 0 und Kap 40“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-098",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis-Klammer und AEGIS in Bezug auf „Tragfähigkeit von Kap 0 und Kap 40“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-099",
+   "question": "Welche ältere Lesart von Genesis-Klammer oder AEGIS könnte die Gegenüberstellung unter „Tragfähigkeit von Kap 0 und Kap 40“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-klammer-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis-Klammer und AEGIS unter „Tragfähigkeit von Kap 0 und Kap 40“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "genesis-klammer",
+    "aegis"
+   ]
+  }
+ ]
+}

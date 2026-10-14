@@ -192,3 +192,10 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 | `web.py` | The app as a website: runs `ui.py --no-checks`, then copies the frames beside `web/support.js`, the canvas's runtime, vendored and pinned by sha256, and serves `llms.txt` and `agents/` beside them. What Vercel builds (`vercel.json`, decision 022). `--no-build`, `--check`. | `Plan/derived/web/` |
 | `sessions.py` | The next sessions, derived from NOW.md § Half-done and nothing else: each item with a next step, in NOW.md's order, ready or waiting on the author, with a self-contained prompt. A view, never a backlog. `--json`, `--prompt <id>`, `selftest`. | — (the app's Now screen and `agents/sessions.json`) |
 | `appstamp.py` | Whether the app was rebuilt and checked for HEAD's tree: `ui.py --check` writes the stamp, `verify` reads it (the pre-PR hook that ran it was removed on 2026-10-06). `show`, `waive "<reason>"`, `selftest`. | `Plan/derived/ui/stamp.json` |
+
+## Additional reading questions
+
+`reading_questions.py check|show <term>|selftest` checks and reads the proposed
+per-term question banks in `Wiki/questions/reading/`. The app shows these separately
+from unresolved Q records. Topic selection and comparison partners are editorial;
+counts, references and identity are checked offline.

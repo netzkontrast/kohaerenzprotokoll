@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "landauer-signatur",
+ "title": "Landauer-Signatur",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Sinneseindruck gegenüber tatsächlicher Wärme",
+  "Kosten irreversibler Informationslöschung",
+  "kaltes Ozon als erzählerische Codierung",
+  "Grenze der Übertragung physikalischer Gesetze",
+  "Zunahme der Signatur vor dem Kollaps"
+ ],
+ "basis": {
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  },
+  "hitze-polaritaetsregel": {
+   "title": "Hitze-Polaritätsregel",
+   "path": "Wiki/candidates/hitze-polaritaetsregel.md",
+   "hash": "05425c17e06d24db35e071eb605a12e86c8515b4051328eadc7098553d7bf82c"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-landauer-signatur-001",
+   "question": "Welche Kette verbindet Informationslöschung, abgeführte Wärme und Kaels kalten Ozoneindruck, ohne die Sinnesmetapher als Messung auszugeben?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-002",
+   "question": "Welche Lesarten auf der Seite zu Landauer-Signatur stützen oder begrenzen „Sinneseindruck gegenüber tatsächlicher Wärme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-003",
+   "question": "Welcher Grenzfall würde bei Landauer-Signatur die Annahmen über „Sinneseindruck gegenüber tatsächlicher Wärme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-004",
+   "question": "Wer könnte innerhalb des Romans bei Landauer-Signatur etwas über „Sinneseindruck gegenüber tatsächlicher Wärme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-005",
+   "question": "Welche konkrete Entscheidung könnte „Sinneseindruck gegenüber tatsächlicher Wärme“ bei Landauer-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Sinneseindruck gegenüber tatsächlicher Wärme“ bei Landauer-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-007",
+   "question": "Wie lässt sich „Sinneseindruck gegenüber tatsächlicher Wärme“ bei Landauer-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-008",
+   "question": "Welche Alternativen sollte der Autor bei Landauer-Signatur für „Sinneseindruck gegenüber tatsächlicher Wärme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-009",
+   "question": "Was bedeutet bei Landauer-Signatur der Themenpunkt „Kosten irreversibler Informationslöschung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-010",
+   "question": "Welche Lesarten auf der Seite zu Landauer-Signatur stützen oder begrenzen „Kosten irreversibler Informationslöschung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-011",
+   "question": "Welcher Grenzfall würde bei Landauer-Signatur die Annahmen über „Kosten irreversibler Informationslöschung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-012",
+   "question": "Wer könnte innerhalb des Romans bei Landauer-Signatur etwas über „Kosten irreversibler Informationslöschung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-013",
+   "question": "Welche konkrete Entscheidung könnte „Kosten irreversibler Informationslöschung“ bei Landauer-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kosten irreversibler Informationslöschung“ bei Landauer-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-015",
+   "question": "Wie lässt sich „Kosten irreversibler Informationslöschung“ bei Landauer-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-016",
+   "question": "Welche Alternativen sollte der Autor bei Landauer-Signatur für „Kosten irreversibler Informationslöschung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-017",
+   "question": "Was bedeutet bei Landauer-Signatur der Themenpunkt „kaltes Ozon als erzählerische Codierung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-018",
+   "question": "Welche Lesarten auf der Seite zu Landauer-Signatur stützen oder begrenzen „kaltes Ozon als erzählerische Codierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-019",
+   "question": "Welcher Grenzfall würde bei Landauer-Signatur die Annahmen über „kaltes Ozon als erzählerische Codierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-020",
+   "question": "Wer könnte innerhalb des Romans bei Landauer-Signatur etwas über „kaltes Ozon als erzählerische Codierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-021",
+   "question": "Welche konkrete Entscheidung könnte „kaltes Ozon als erzählerische Codierung“ bei Landauer-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „kaltes Ozon als erzählerische Codierung“ bei Landauer-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-023",
+   "question": "Wie lässt sich „kaltes Ozon als erzählerische Codierung“ bei Landauer-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-024",
+   "question": "Welche Alternativen sollte der Autor bei Landauer-Signatur für „kaltes Ozon als erzählerische Codierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-025",
+   "question": "Was bedeutet bei Landauer-Signatur der Themenpunkt „Grenze der Übertragung physikalischer Gesetze“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-026",
+   "question": "Welche Lesarten auf der Seite zu Landauer-Signatur stützen oder begrenzen „Grenze der Übertragung physikalischer Gesetze“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-027",
+   "question": "Welcher Grenzfall würde bei Landauer-Signatur die Annahmen über „Grenze der Übertragung physikalischer Gesetze“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-028",
+   "question": "Wer könnte innerhalb des Romans bei Landauer-Signatur etwas über „Grenze der Übertragung physikalischer Gesetze“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze der Übertragung physikalischer Gesetze“ bei Landauer-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze der Übertragung physikalischer Gesetze“ bei Landauer-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-031",
+   "question": "Wie lässt sich „Grenze der Übertragung physikalischer Gesetze“ bei Landauer-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-032",
+   "question": "Welche Alternativen sollte der Autor bei Landauer-Signatur für „Grenze der Übertragung physikalischer Gesetze“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-033",
+   "question": "Was bedeutet bei Landauer-Signatur der Themenpunkt „Zunahme der Signatur vor dem Kollaps“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-034",
+   "question": "Welche Lesarten auf der Seite zu Landauer-Signatur stützen oder begrenzen „Zunahme der Signatur vor dem Kollaps“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-035",
+   "question": "Welcher Grenzfall würde bei Landauer-Signatur die Annahmen über „Zunahme der Signatur vor dem Kollaps“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-036",
+   "question": "Wer könnte innerhalb des Romans bei Landauer-Signatur etwas über „Zunahme der Signatur vor dem Kollaps“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-037",
+   "question": "Welche konkrete Entscheidung könnte „Zunahme der Signatur vor dem Kollaps“ bei Landauer-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zunahme der Signatur vor dem Kollaps“ bei Landauer-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-039",
+   "question": "Wie lässt sich „Zunahme der Signatur vor dem Kollaps“ bei Landauer-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-040",
+   "question": "Welche Alternativen sollte der Autor bei Landauer-Signatur für „Zunahme der Signatur vor dem Kollaps“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-041",
+   "question": "Wo unterscheiden sich Landauer-Signatur und Hitze-Polaritätsregel, wenn man sie unter dem Gesichtspunkt „Sinneseindruck gegenüber tatsächlicher Wärme“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-042",
+   "question": "Welche Quelle verbindet Landauer-Signatur mit Hitze-Polaritätsregel in Bezug auf „Sinneseindruck gegenüber tatsächlicher Wärme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-043",
+   "question": "Welche Grenzen aus der Seite zu Hitze-Polaritätsregel müsste eine Deutung von Landauer-Signatur unter „Sinneseindruck gegenüber tatsächlicher Wärme“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-044",
+   "question": "Wie könnte sich das Wissen über Landauer-Signatur vom Wissen über Hitze-Polaritätsregel unterscheiden, wenn „Sinneseindruck gegenüber tatsächlicher Wärme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Landauer-Signatur und Hitze-Polaritätsregel bei „Sinneseindruck gegenüber tatsächlicher Wärme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-046",
+   "question": "Falls Landauer-Signatur im Hinblick auf „Sinneseindruck gegenüber tatsächlicher Wärme“ anders festgelegt wird: Welche Aussagen über Hitze-Polaritätsregel müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Landauer-Signatur und Hitze-Polaritätsregel bei „Sinneseindruck gegenüber tatsächlicher Wärme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-048",
+   "question": "Braucht der Roman eine Verbindung von Landauer-Signatur und Hitze-Polaritätsregel bei „Sinneseindruck gegenüber tatsächlicher Wärme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-049",
+   "question": "In welchem denkbaren Fall könnte Landauer-Signatur bestehen, ohne dass Hitze-Polaritätsregel dieselbe Funktion übernimmt, und was würde das für „Sinneseindruck gegenüber tatsächlicher Wärme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-050",
+   "question": "Welche Kosten könnte eine Verbindung von Landauer-Signatur und Hitze-Polaritätsregel in Bezug auf „Sinneseindruck gegenüber tatsächlicher Wärme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-051",
+   "question": "Welche ältere Lesart von Landauer-Signatur oder Hitze-Polaritätsregel könnte die Gegenüberstellung unter „Sinneseindruck gegenüber tatsächlicher Wärme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Landauer-Signatur und Hitze-Polaritätsregel unter „Sinneseindruck gegenüber tatsächlicher Wärme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "landauer-signatur",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-053",
+   "question": "Wo unterscheiden sich Landauer-Signatur und Erason, wenn man sie unter dem Gesichtspunkt „Kosten irreversibler Informationslöschung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-054",
+   "question": "Welche Quelle verbindet Landauer-Signatur mit Erason in Bezug auf „Kosten irreversibler Informationslöschung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-055",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Landauer-Signatur unter „Kosten irreversibler Informationslöschung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-056",
+   "question": "Wie könnte sich das Wissen über Landauer-Signatur vom Wissen über Erason unterscheiden, wenn „Kosten irreversibler Informationslöschung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Landauer-Signatur und Erason bei „Kosten irreversibler Informationslöschung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-058",
+   "question": "Falls Landauer-Signatur im Hinblick auf „Kosten irreversibler Informationslöschung“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Landauer-Signatur und Erason bei „Kosten irreversibler Informationslöschung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-060",
+   "question": "Braucht der Roman eine Verbindung von Landauer-Signatur und Erason bei „Kosten irreversibler Informationslöschung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-061",
+   "question": "In welchem denkbaren Fall könnte Landauer-Signatur bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Kosten irreversibler Informationslöschung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-062",
+   "question": "Welche Kosten könnte eine Verbindung von Landauer-Signatur und Erason in Bezug auf „Kosten irreversibler Informationslöschung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-063",
+   "question": "Welche ältere Lesart von Landauer-Signatur oder Erason könnte die Gegenüberstellung unter „Kosten irreversibler Informationslöschung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Landauer-Signatur und Erason unter „Kosten irreversibler Informationslöschung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "landauer-signatur",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-065",
+   "question": "Wo unterscheiden sich Landauer-Signatur und AEGIS, wenn man sie unter dem Gesichtspunkt „kaltes Ozon als erzählerische Codierung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-066",
+   "question": "Welche Quelle verbindet Landauer-Signatur mit AEGIS in Bezug auf „kaltes Ozon als erzählerische Codierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Landauer-Signatur unter „kaltes Ozon als erzählerische Codierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-068",
+   "question": "Wie könnte sich das Wissen über Landauer-Signatur vom Wissen über AEGIS unterscheiden, wenn „kaltes Ozon als erzählerische Codierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Landauer-Signatur und AEGIS bei „kaltes Ozon als erzählerische Codierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-070",
+   "question": "Falls Landauer-Signatur im Hinblick auf „kaltes Ozon als erzählerische Codierung“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Landauer-Signatur und AEGIS bei „kaltes Ozon als erzählerische Codierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-072",
+   "question": "Braucht der Roman eine Verbindung von Landauer-Signatur und AEGIS bei „kaltes Ozon als erzählerische Codierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-073",
+   "question": "In welchem denkbaren Fall könnte Landauer-Signatur bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „kaltes Ozon als erzählerische Codierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-074",
+   "question": "Welche Kosten könnte eine Verbindung von Landauer-Signatur und AEGIS in Bezug auf „kaltes Ozon als erzählerische Codierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-075",
+   "question": "Welche ältere Lesart von Landauer-Signatur oder AEGIS könnte die Gegenüberstellung unter „kaltes Ozon als erzählerische Codierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Landauer-Signatur und AEGIS unter „kaltes Ozon als erzählerische Codierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "landauer-signatur",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-077",
+   "question": "Wo unterscheiden sich Landauer-Signatur und Entropie, wenn man sie unter dem Gesichtspunkt „Grenze der Übertragung physikalischer Gesetze“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-078",
+   "question": "Welche Quelle verbindet Landauer-Signatur mit Entropie in Bezug auf „Grenze der Übertragung physikalischer Gesetze“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-079",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Landauer-Signatur unter „Grenze der Übertragung physikalischer Gesetze“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-080",
+   "question": "Wie könnte sich das Wissen über Landauer-Signatur vom Wissen über Entropie unterscheiden, wenn „Grenze der Übertragung physikalischer Gesetze“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Landauer-Signatur und Entropie bei „Grenze der Übertragung physikalischer Gesetze“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-082",
+   "question": "Falls Landauer-Signatur im Hinblick auf „Grenze der Übertragung physikalischer Gesetze“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Landauer-Signatur und Entropie bei „Grenze der Übertragung physikalischer Gesetze“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-084",
+   "question": "Braucht der Roman eine Verbindung von Landauer-Signatur und Entropie bei „Grenze der Übertragung physikalischer Gesetze“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-085",
+   "question": "In welchem denkbaren Fall könnte Landauer-Signatur bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Grenze der Übertragung physikalischer Gesetze“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-086",
+   "question": "Welche Kosten könnte eine Verbindung von Landauer-Signatur und Entropie in Bezug auf „Grenze der Übertragung physikalischer Gesetze“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-087",
+   "question": "Welche ältere Lesart von Landauer-Signatur oder Entropie könnte die Gegenüberstellung unter „Grenze der Übertragung physikalischer Gesetze“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Landauer-Signatur und Entropie unter „Grenze der Übertragung physikalischer Gesetze“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "landauer-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-089",
+   "question": "Wo unterscheiden sich Landauer-Signatur und Vortex, wenn man sie unter dem Gesichtspunkt „Zunahme der Signatur vor dem Kollaps“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-090",
+   "question": "Welche Quelle verbindet Landauer-Signatur mit Vortex in Bezug auf „Zunahme der Signatur vor dem Kollaps“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-091",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Landauer-Signatur unter „Zunahme der Signatur vor dem Kollaps“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-092",
+   "question": "Wie könnte sich das Wissen über Landauer-Signatur vom Wissen über Vortex unterscheiden, wenn „Zunahme der Signatur vor dem Kollaps“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Landauer-Signatur und Vortex bei „Zunahme der Signatur vor dem Kollaps“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-094",
+   "question": "Falls Landauer-Signatur im Hinblick auf „Zunahme der Signatur vor dem Kollaps“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Landauer-Signatur und Vortex bei „Zunahme der Signatur vor dem Kollaps“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-096",
+   "question": "Braucht der Roman eine Verbindung von Landauer-Signatur und Vortex bei „Zunahme der Signatur vor dem Kollaps“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-097",
+   "question": "In welchem denkbaren Fall könnte Landauer-Signatur bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Zunahme der Signatur vor dem Kollaps“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-098",
+   "question": "Welche Kosten könnte eine Verbindung von Landauer-Signatur und Vortex in Bezug auf „Zunahme der Signatur vor dem Kollaps“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-099",
+   "question": "Welche ältere Lesart von Landauer-Signatur oder Vortex könnte die Gegenüberstellung unter „Zunahme der Signatur vor dem Kollaps“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-landauer-signatur-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Landauer-Signatur und Vortex unter „Zunahme der Signatur vor dem Kollaps“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "landauer-signatur",
+    "vortex"
+   ]
+  }
+ ]
+}

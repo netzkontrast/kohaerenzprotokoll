@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "junas-ankerpunkt",
+ "title": "Junas Ankerpunkt",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Kontakt als Ort oder Zustand",
+  "Tür auf der einen und Riss auf der anderen Seite",
+  "Möglichkeit einseitigen Zugangs",
+  "Kontrolle über Öffnung und Rückzug",
+  "Preis einer Verbindung zwischen Ebenen"
+ ],
+ "basis": {
+  "junas-ankerpunkt": {
+   "title": "Junas Ankerpunkt",
+   "path": "Wiki/candidates/junas-ankerpunkt.md",
+   "hash": "842d31958c8d5bac8d49b14e7af32fbd9e6ece42e6b55c31061ab0abfd4cdbf5"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  },
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "garten-der-stillen-praesenz": {
+   "title": "Garten der stillen Präsenz",
+   "path": "Wiki/candidates/garten-der-stillen-praesenz.md",
+   "hash": "db5fa3219544b2b2c2b4dcf3e69d8512437bfcde7caa2646ed5df66b0b8709d1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-junas-ankerpunkt-001",
+   "question": "Wer kann Junas Ankerpunkt öffnen oder schließen, wenn derselbe Übergang auf einer Seite als Tür und auf der anderen als Riss erscheint?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-002",
+   "question": "Welche Lesarten auf der Seite zu Junas Ankerpunkt stützen oder begrenzen „Kontakt als Ort oder Zustand“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-003",
+   "question": "Welcher Grenzfall würde bei Junas Ankerpunkt die Annahmen über „Kontakt als Ort oder Zustand“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-004",
+   "question": "Wer könnte innerhalb des Romans bei Junas Ankerpunkt etwas über „Kontakt als Ort oder Zustand“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-005",
+   "question": "Welche konkrete Entscheidung könnte „Kontakt als Ort oder Zustand“ bei Junas Ankerpunkt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kontakt als Ort oder Zustand“ bei Junas Ankerpunkt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-007",
+   "question": "Wie lässt sich „Kontakt als Ort oder Zustand“ bei Junas Ankerpunkt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-008",
+   "question": "Welche Alternativen sollte der Autor bei Junas Ankerpunkt für „Kontakt als Ort oder Zustand“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-009",
+   "question": "Was bedeutet bei Junas Ankerpunkt der Themenpunkt „Tür auf der einen und Riss auf der anderen Seite“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-010",
+   "question": "Welche Lesarten auf der Seite zu Junas Ankerpunkt stützen oder begrenzen „Tür auf der einen und Riss auf der anderen Seite“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-011",
+   "question": "Welcher Grenzfall würde bei Junas Ankerpunkt die Annahmen über „Tür auf der einen und Riss auf der anderen Seite“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-012",
+   "question": "Wer könnte innerhalb des Romans bei Junas Ankerpunkt etwas über „Tür auf der einen und Riss auf der anderen Seite“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-013",
+   "question": "Welche konkrete Entscheidung könnte „Tür auf der einen und Riss auf der anderen Seite“ bei Junas Ankerpunkt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Tür auf der einen und Riss auf der anderen Seite“ bei Junas Ankerpunkt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-015",
+   "question": "Wie lässt sich „Tür auf der einen und Riss auf der anderen Seite“ bei Junas Ankerpunkt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-016",
+   "question": "Welche Alternativen sollte der Autor bei Junas Ankerpunkt für „Tür auf der einen und Riss auf der anderen Seite“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-017",
+   "question": "Was bedeutet bei Junas Ankerpunkt der Themenpunkt „Möglichkeit einseitigen Zugangs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-018",
+   "question": "Welche Lesarten auf der Seite zu Junas Ankerpunkt stützen oder begrenzen „Möglichkeit einseitigen Zugangs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-019",
+   "question": "Welcher Grenzfall würde bei Junas Ankerpunkt die Annahmen über „Möglichkeit einseitigen Zugangs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-020",
+   "question": "Wer könnte innerhalb des Romans bei Junas Ankerpunkt etwas über „Möglichkeit einseitigen Zugangs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-021",
+   "question": "Welche konkrete Entscheidung könnte „Möglichkeit einseitigen Zugangs“ bei Junas Ankerpunkt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Möglichkeit einseitigen Zugangs“ bei Junas Ankerpunkt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-023",
+   "question": "Wie lässt sich „Möglichkeit einseitigen Zugangs“ bei Junas Ankerpunkt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-024",
+   "question": "Welche Alternativen sollte der Autor bei Junas Ankerpunkt für „Möglichkeit einseitigen Zugangs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-025",
+   "question": "Was bedeutet bei Junas Ankerpunkt der Themenpunkt „Kontrolle über Öffnung und Rückzug“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-026",
+   "question": "Welche Lesarten auf der Seite zu Junas Ankerpunkt stützen oder begrenzen „Kontrolle über Öffnung und Rückzug“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-027",
+   "question": "Welcher Grenzfall würde bei Junas Ankerpunkt die Annahmen über „Kontrolle über Öffnung und Rückzug“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-028",
+   "question": "Wer könnte innerhalb des Romans bei Junas Ankerpunkt etwas über „Kontrolle über Öffnung und Rückzug“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-029",
+   "question": "Welche konkrete Entscheidung könnte „Kontrolle über Öffnung und Rückzug“ bei Junas Ankerpunkt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kontrolle über Öffnung und Rückzug“ bei Junas Ankerpunkt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-031",
+   "question": "Wie lässt sich „Kontrolle über Öffnung und Rückzug“ bei Junas Ankerpunkt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-032",
+   "question": "Welche Alternativen sollte der Autor bei Junas Ankerpunkt für „Kontrolle über Öffnung und Rückzug“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-033",
+   "question": "Was bedeutet bei Junas Ankerpunkt der Themenpunkt „Preis einer Verbindung zwischen Ebenen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-034",
+   "question": "Welche Lesarten auf der Seite zu Junas Ankerpunkt stützen oder begrenzen „Preis einer Verbindung zwischen Ebenen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-035",
+   "question": "Welcher Grenzfall würde bei Junas Ankerpunkt die Annahmen über „Preis einer Verbindung zwischen Ebenen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-036",
+   "question": "Wer könnte innerhalb des Romans bei Junas Ankerpunkt etwas über „Preis einer Verbindung zwischen Ebenen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-037",
+   "question": "Welche konkrete Entscheidung könnte „Preis einer Verbindung zwischen Ebenen“ bei Junas Ankerpunkt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Preis einer Verbindung zwischen Ebenen“ bei Junas Ankerpunkt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-039",
+   "question": "Wie lässt sich „Preis einer Verbindung zwischen Ebenen“ bei Junas Ankerpunkt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-040",
+   "question": "Welche Alternativen sollte der Autor bei Junas Ankerpunkt für „Preis einer Verbindung zwischen Ebenen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-041",
+   "question": "Wo unterscheiden sich Junas Ankerpunkt und Juna, wenn man sie unter dem Gesichtspunkt „Kontakt als Ort oder Zustand“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-042",
+   "question": "Welche Quelle verbindet Junas Ankerpunkt mit Juna in Bezug auf „Kontakt als Ort oder Zustand“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Junas Ankerpunkt unter „Kontakt als Ort oder Zustand“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-044",
+   "question": "Wie könnte sich das Wissen über Junas Ankerpunkt vom Wissen über Juna unterscheiden, wenn „Kontakt als Ort oder Zustand“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Junas Ankerpunkt und Juna bei „Kontakt als Ort oder Zustand“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-046",
+   "question": "Falls Junas Ankerpunkt im Hinblick auf „Kontakt als Ort oder Zustand“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Junas Ankerpunkt und Juna bei „Kontakt als Ort oder Zustand“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-048",
+   "question": "Braucht der Roman eine Verbindung von Junas Ankerpunkt und Juna bei „Kontakt als Ort oder Zustand“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-049",
+   "question": "In welchem denkbaren Fall könnte Junas Ankerpunkt bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Kontakt als Ort oder Zustand“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-050",
+   "question": "Welche Kosten könnte eine Verbindung von Junas Ankerpunkt und Juna in Bezug auf „Kontakt als Ort oder Zustand“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-051",
+   "question": "Welche ältere Lesart von Junas Ankerpunkt oder Juna könnte die Gegenüberstellung unter „Kontakt als Ort oder Zustand“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Junas Ankerpunkt und Juna unter „Kontakt als Ort oder Zustand“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "junas-ankerpunkt",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-053",
+   "question": "Wo unterscheiden sich Junas Ankerpunkt und Risse, wenn man sie unter dem Gesichtspunkt „Tür auf der einen und Riss auf der anderen Seite“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-054",
+   "question": "Welche Quelle verbindet Junas Ankerpunkt mit Risse in Bezug auf „Tür auf der einen und Riss auf der anderen Seite“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-055",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Junas Ankerpunkt unter „Tür auf der einen und Riss auf der anderen Seite“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-056",
+   "question": "Wie könnte sich das Wissen über Junas Ankerpunkt vom Wissen über Risse unterscheiden, wenn „Tür auf der einen und Riss auf der anderen Seite“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Junas Ankerpunkt und Risse bei „Tür auf der einen und Riss auf der anderen Seite“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-058",
+   "question": "Falls Junas Ankerpunkt im Hinblick auf „Tür auf der einen und Riss auf der anderen Seite“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Junas Ankerpunkt und Risse bei „Tür auf der einen und Riss auf der anderen Seite“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-060",
+   "question": "Braucht der Roman eine Verbindung von Junas Ankerpunkt und Risse bei „Tür auf der einen und Riss auf der anderen Seite“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-061",
+   "question": "In welchem denkbaren Fall könnte Junas Ankerpunkt bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Tür auf der einen und Riss auf der anderen Seite“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-062",
+   "question": "Welche Kosten könnte eine Verbindung von Junas Ankerpunkt und Risse in Bezug auf „Tür auf der einen und Riss auf der anderen Seite“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-063",
+   "question": "Welche ältere Lesart von Junas Ankerpunkt oder Risse könnte die Gegenüberstellung unter „Tür auf der einen und Riss auf der anderen Seite“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Junas Ankerpunkt und Risse unter „Tür auf der einen und Riss auf der anderen Seite“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "junas-ankerpunkt",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-065",
+   "question": "Wo unterscheiden sich Junas Ankerpunkt und Externe Ebene, wenn man sie unter dem Gesichtspunkt „Möglichkeit einseitigen Zugangs“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-066",
+   "question": "Welche Quelle verbindet Junas Ankerpunkt mit Externe Ebene in Bezug auf „Möglichkeit einseitigen Zugangs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-067",
+   "question": "Welche Grenzen aus der Seite zu Externe Ebene müsste eine Deutung von Junas Ankerpunkt unter „Möglichkeit einseitigen Zugangs“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-068",
+   "question": "Wie könnte sich das Wissen über Junas Ankerpunkt vom Wissen über Externe Ebene unterscheiden, wenn „Möglichkeit einseitigen Zugangs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Junas Ankerpunkt und Externe Ebene bei „Möglichkeit einseitigen Zugangs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-070",
+   "question": "Falls Junas Ankerpunkt im Hinblick auf „Möglichkeit einseitigen Zugangs“ anders festgelegt wird: Welche Aussagen über Externe Ebene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Junas Ankerpunkt und Externe Ebene bei „Möglichkeit einseitigen Zugangs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-072",
+   "question": "Braucht der Roman eine Verbindung von Junas Ankerpunkt und Externe Ebene bei „Möglichkeit einseitigen Zugangs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-073",
+   "question": "In welchem denkbaren Fall könnte Junas Ankerpunkt bestehen, ohne dass Externe Ebene dieselbe Funktion übernimmt, und was würde das für „Möglichkeit einseitigen Zugangs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-074",
+   "question": "Welche Kosten könnte eine Verbindung von Junas Ankerpunkt und Externe Ebene in Bezug auf „Möglichkeit einseitigen Zugangs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-075",
+   "question": "Welche ältere Lesart von Junas Ankerpunkt oder Externe Ebene könnte die Gegenüberstellung unter „Möglichkeit einseitigen Zugangs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Junas Ankerpunkt und Externe Ebene unter „Möglichkeit einseitigen Zugangs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "junas-ankerpunkt",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-077",
+   "question": "Wo unterscheiden sich Junas Ankerpunkt und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Kontrolle über Öffnung und Rückzug“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-078",
+   "question": "Welche Quelle verbindet Junas Ankerpunkt mit Moonshine-Link in Bezug auf „Kontrolle über Öffnung und Rückzug“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-079",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Junas Ankerpunkt unter „Kontrolle über Öffnung und Rückzug“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-080",
+   "question": "Wie könnte sich das Wissen über Junas Ankerpunkt vom Wissen über Moonshine-Link unterscheiden, wenn „Kontrolle über Öffnung und Rückzug“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Junas Ankerpunkt und Moonshine-Link bei „Kontrolle über Öffnung und Rückzug“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-082",
+   "question": "Falls Junas Ankerpunkt im Hinblick auf „Kontrolle über Öffnung und Rückzug“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Junas Ankerpunkt und Moonshine-Link bei „Kontrolle über Öffnung und Rückzug“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-084",
+   "question": "Braucht der Roman eine Verbindung von Junas Ankerpunkt und Moonshine-Link bei „Kontrolle über Öffnung und Rückzug“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-085",
+   "question": "In welchem denkbaren Fall könnte Junas Ankerpunkt bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Kontrolle über Öffnung und Rückzug“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-086",
+   "question": "Welche Kosten könnte eine Verbindung von Junas Ankerpunkt und Moonshine-Link in Bezug auf „Kontrolle über Öffnung und Rückzug“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-087",
+   "question": "Welche ältere Lesart von Junas Ankerpunkt oder Moonshine-Link könnte die Gegenüberstellung unter „Kontrolle über Öffnung und Rückzug“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Junas Ankerpunkt und Moonshine-Link unter „Kontrolle über Öffnung und Rückzug“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "junas-ankerpunkt",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-089",
+   "question": "Wo unterscheiden sich Junas Ankerpunkt und Garten der stillen Präsenz, wenn man sie unter dem Gesichtspunkt „Preis einer Verbindung zwischen Ebenen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-090",
+   "question": "Welche Quelle verbindet Junas Ankerpunkt mit Garten der stillen Präsenz in Bezug auf „Preis einer Verbindung zwischen Ebenen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-091",
+   "question": "Welche Grenzen aus der Seite zu Garten der stillen Präsenz müsste eine Deutung von Junas Ankerpunkt unter „Preis einer Verbindung zwischen Ebenen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-092",
+   "question": "Wie könnte sich das Wissen über Junas Ankerpunkt vom Wissen über Garten der stillen Präsenz unterscheiden, wenn „Preis einer Verbindung zwischen Ebenen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Junas Ankerpunkt und Garten der stillen Präsenz bei „Preis einer Verbindung zwischen Ebenen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-094",
+   "question": "Falls Junas Ankerpunkt im Hinblick auf „Preis einer Verbindung zwischen Ebenen“ anders festgelegt wird: Welche Aussagen über Garten der stillen Präsenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Junas Ankerpunkt und Garten der stillen Präsenz bei „Preis einer Verbindung zwischen Ebenen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-096",
+   "question": "Braucht der Roman eine Verbindung von Junas Ankerpunkt und Garten der stillen Präsenz bei „Preis einer Verbindung zwischen Ebenen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-097",
+   "question": "In welchem denkbaren Fall könnte Junas Ankerpunkt bestehen, ohne dass Garten der stillen Präsenz dieselbe Funktion übernimmt, und was würde das für „Preis einer Verbindung zwischen Ebenen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-098",
+   "question": "Welche Kosten könnte eine Verbindung von Junas Ankerpunkt und Garten der stillen Präsenz in Bezug auf „Preis einer Verbindung zwischen Ebenen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-099",
+   "question": "Welche ältere Lesart von Junas Ankerpunkt oder Garten der stillen Präsenz könnte die Gegenüberstellung unter „Preis einer Verbindung zwischen Ebenen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-junas-ankerpunkt-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Junas Ankerpunkt und Garten der stillen Präsenz unter „Preis einer Verbindung zwischen Ebenen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "junas-ankerpunkt",
+    "garten-der-stillen-praesenz"
+   ]
+  }
+ ]
+}

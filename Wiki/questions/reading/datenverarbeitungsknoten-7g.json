@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "datenverarbeitungsknoten-7g",
+ "title": "Datenverarbeitungsknoten 7G",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "monotone systemerhaltende Arbeit",
+  "Entdeckung der ersten Anomalie",
+  "Zugriff auf fremde Daten",
+  "Unterscheidung von Routine und Eingriff",
+  "Konsequenzen einer abweichenden Entscheidung"
+ ],
+ "basis": {
+  "datenverarbeitungsknoten-7g": {
+   "title": "Datenverarbeitungsknoten 7G",
+   "path": "Wiki/candidates/datenverarbeitungsknoten-7g.md",
+   "hash": "f65b6216f6dad2a038e75178b9e26606f21bed53a5b1532afb88a909deb21cee"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "logos": {
+   "title": "LogOS",
+   "path": "Wiki/candidates/logos.md",
+   "hash": "d667c8f76ae17d3ab2c925db860c87bf6e0666f1e7400b49b0bdfc8f8fbd9a0e"
+  },
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  },
+  "sektor-04": {
+   "title": "Sektor 04",
+   "path": "Wiki/candidates/sektor-04.md",
+   "hash": "c1bad95e53d5861dcef99423b35b975f338a8061dd232f4dc7e232d7c2c1627e"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-001",
+   "question": "Welche kleine Abweichung am Datenverarbeitungsknoten 7G macht Kaels Routine erstmals zu einer Entscheidung mit Folgen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-002",
+   "question": "Welche Lesarten auf der Seite zu Datenverarbeitungsknoten 7G stützen oder begrenzen „monotone systemerhaltende Arbeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-003",
+   "question": "Welcher Grenzfall würde bei Datenverarbeitungsknoten 7G die Annahmen über „monotone systemerhaltende Arbeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-004",
+   "question": "Wer könnte innerhalb des Romans bei Datenverarbeitungsknoten 7G etwas über „monotone systemerhaltende Arbeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-005",
+   "question": "Welche konkrete Entscheidung könnte „monotone systemerhaltende Arbeit“ bei Datenverarbeitungsknoten 7G in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „monotone systemerhaltende Arbeit“ bei Datenverarbeitungsknoten 7G haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-007",
+   "question": "Wie lässt sich „monotone systemerhaltende Arbeit“ bei Datenverarbeitungsknoten 7G zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-008",
+   "question": "Welche Alternativen sollte der Autor bei Datenverarbeitungsknoten 7G für „monotone systemerhaltende Arbeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-009",
+   "question": "Was bedeutet bei Datenverarbeitungsknoten 7G der Themenpunkt „Entdeckung der ersten Anomalie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-010",
+   "question": "Welche Lesarten auf der Seite zu Datenverarbeitungsknoten 7G stützen oder begrenzen „Entdeckung der ersten Anomalie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-011",
+   "question": "Welcher Grenzfall würde bei Datenverarbeitungsknoten 7G die Annahmen über „Entdeckung der ersten Anomalie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-012",
+   "question": "Wer könnte innerhalb des Romans bei Datenverarbeitungsknoten 7G etwas über „Entdeckung der ersten Anomalie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-013",
+   "question": "Welche konkrete Entscheidung könnte „Entdeckung der ersten Anomalie“ bei Datenverarbeitungsknoten 7G in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entdeckung der ersten Anomalie“ bei Datenverarbeitungsknoten 7G haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-015",
+   "question": "Wie lässt sich „Entdeckung der ersten Anomalie“ bei Datenverarbeitungsknoten 7G zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-016",
+   "question": "Welche Alternativen sollte der Autor bei Datenverarbeitungsknoten 7G für „Entdeckung der ersten Anomalie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-017",
+   "question": "Was bedeutet bei Datenverarbeitungsknoten 7G der Themenpunkt „Zugriff auf fremde Daten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-018",
+   "question": "Welche Lesarten auf der Seite zu Datenverarbeitungsknoten 7G stützen oder begrenzen „Zugriff auf fremde Daten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-019",
+   "question": "Welcher Grenzfall würde bei Datenverarbeitungsknoten 7G die Annahmen über „Zugriff auf fremde Daten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-020",
+   "question": "Wer könnte innerhalb des Romans bei Datenverarbeitungsknoten 7G etwas über „Zugriff auf fremde Daten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-021",
+   "question": "Welche konkrete Entscheidung könnte „Zugriff auf fremde Daten“ bei Datenverarbeitungsknoten 7G in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugriff auf fremde Daten“ bei Datenverarbeitungsknoten 7G haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-023",
+   "question": "Wie lässt sich „Zugriff auf fremde Daten“ bei Datenverarbeitungsknoten 7G zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-024",
+   "question": "Welche Alternativen sollte der Autor bei Datenverarbeitungsknoten 7G für „Zugriff auf fremde Daten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-025",
+   "question": "Was bedeutet bei Datenverarbeitungsknoten 7G der Themenpunkt „Unterscheidung von Routine und Eingriff“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-026",
+   "question": "Welche Lesarten auf der Seite zu Datenverarbeitungsknoten 7G stützen oder begrenzen „Unterscheidung von Routine und Eingriff“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-027",
+   "question": "Welcher Grenzfall würde bei Datenverarbeitungsknoten 7G die Annahmen über „Unterscheidung von Routine und Eingriff“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-028",
+   "question": "Wer könnte innerhalb des Romans bei Datenverarbeitungsknoten 7G etwas über „Unterscheidung von Routine und Eingriff“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterscheidung von Routine und Eingriff“ bei Datenverarbeitungsknoten 7G in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterscheidung von Routine und Eingriff“ bei Datenverarbeitungsknoten 7G haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-031",
+   "question": "Wie lässt sich „Unterscheidung von Routine und Eingriff“ bei Datenverarbeitungsknoten 7G zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-032",
+   "question": "Welche Alternativen sollte der Autor bei Datenverarbeitungsknoten 7G für „Unterscheidung von Routine und Eingriff“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-033",
+   "question": "Was bedeutet bei Datenverarbeitungsknoten 7G der Themenpunkt „Konsequenzen einer abweichenden Entscheidung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-034",
+   "question": "Welche Lesarten auf der Seite zu Datenverarbeitungsknoten 7G stützen oder begrenzen „Konsequenzen einer abweichenden Entscheidung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-035",
+   "question": "Welcher Grenzfall würde bei Datenverarbeitungsknoten 7G die Annahmen über „Konsequenzen einer abweichenden Entscheidung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-036",
+   "question": "Wer könnte innerhalb des Romans bei Datenverarbeitungsknoten 7G etwas über „Konsequenzen einer abweichenden Entscheidung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-037",
+   "question": "Welche konkrete Entscheidung könnte „Konsequenzen einer abweichenden Entscheidung“ bei Datenverarbeitungsknoten 7G in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Konsequenzen einer abweichenden Entscheidung“ bei Datenverarbeitungsknoten 7G haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-039",
+   "question": "Wie lässt sich „Konsequenzen einer abweichenden Entscheidung“ bei Datenverarbeitungsknoten 7G zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-040",
+   "question": "Welche Alternativen sollte der Autor bei Datenverarbeitungsknoten 7G für „Konsequenzen einer abweichenden Entscheidung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-041",
+   "question": "Wo unterscheiden sich Datenverarbeitungsknoten 7G und Kael, wenn man sie unter dem Gesichtspunkt „monotone systemerhaltende Arbeit“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-042",
+   "question": "Welche Quelle verbindet Datenverarbeitungsknoten 7G mit Kael in Bezug auf „monotone systemerhaltende Arbeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Datenverarbeitungsknoten 7G unter „monotone systemerhaltende Arbeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-044",
+   "question": "Wie könnte sich das Wissen über Datenverarbeitungsknoten 7G vom Wissen über Kael unterscheiden, wenn „monotone systemerhaltende Arbeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Datenverarbeitungsknoten 7G und Kael bei „monotone systemerhaltende Arbeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-046",
+   "question": "Falls Datenverarbeitungsknoten 7G im Hinblick auf „monotone systemerhaltende Arbeit“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Datenverarbeitungsknoten 7G und Kael bei „monotone systemerhaltende Arbeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-048",
+   "question": "Braucht der Roman eine Verbindung von Datenverarbeitungsknoten 7G und Kael bei „monotone systemerhaltende Arbeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-049",
+   "question": "In welchem denkbaren Fall könnte Datenverarbeitungsknoten 7G bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „monotone systemerhaltende Arbeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-050",
+   "question": "Welche Kosten könnte eine Verbindung von Datenverarbeitungsknoten 7G und Kael in Bezug auf „monotone systemerhaltende Arbeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-051",
+   "question": "Welche ältere Lesart von Datenverarbeitungsknoten 7G oder Kael könnte die Gegenüberstellung unter „monotone systemerhaltende Arbeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Datenverarbeitungsknoten 7G und Kael unter „monotone systemerhaltende Arbeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-053",
+   "question": "Wo unterscheiden sich Datenverarbeitungsknoten 7G und LogOS, wenn man sie unter dem Gesichtspunkt „Entdeckung der ersten Anomalie“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-054",
+   "question": "Welche Quelle verbindet Datenverarbeitungsknoten 7G mit LogOS in Bezug auf „Entdeckung der ersten Anomalie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-055",
+   "question": "Welche Grenzen aus der Seite zu LogOS müsste eine Deutung von Datenverarbeitungsknoten 7G unter „Entdeckung der ersten Anomalie“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-056",
+   "question": "Wie könnte sich das Wissen über Datenverarbeitungsknoten 7G vom Wissen über LogOS unterscheiden, wenn „Entdeckung der ersten Anomalie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Datenverarbeitungsknoten 7G und LogOS bei „Entdeckung der ersten Anomalie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-058",
+   "question": "Falls Datenverarbeitungsknoten 7G im Hinblick auf „Entdeckung der ersten Anomalie“ anders festgelegt wird: Welche Aussagen über LogOS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Datenverarbeitungsknoten 7G und LogOS bei „Entdeckung der ersten Anomalie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-060",
+   "question": "Braucht der Roman eine Verbindung von Datenverarbeitungsknoten 7G und LogOS bei „Entdeckung der ersten Anomalie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-061",
+   "question": "In welchem denkbaren Fall könnte Datenverarbeitungsknoten 7G bestehen, ohne dass LogOS dieselbe Funktion übernimmt, und was würde das für „Entdeckung der ersten Anomalie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-062",
+   "question": "Welche Kosten könnte eine Verbindung von Datenverarbeitungsknoten 7G und LogOS in Bezug auf „Entdeckung der ersten Anomalie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-063",
+   "question": "Welche ältere Lesart von Datenverarbeitungsknoten 7G oder LogOS könnte die Gegenüberstellung unter „Entdeckung der ersten Anomalie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Datenverarbeitungsknoten 7G und LogOS unter „Entdeckung der ersten Anomalie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-065",
+   "question": "Wo unterscheiden sich Datenverarbeitungsknoten 7G und Konstrukt-Stadt, wenn man sie unter dem Gesichtspunkt „Zugriff auf fremde Daten“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-066",
+   "question": "Welche Quelle verbindet Datenverarbeitungsknoten 7G mit Konstrukt-Stadt in Bezug auf „Zugriff auf fremde Daten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-067",
+   "question": "Welche Grenzen aus der Seite zu Konstrukt-Stadt müsste eine Deutung von Datenverarbeitungsknoten 7G unter „Zugriff auf fremde Daten“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-068",
+   "question": "Wie könnte sich das Wissen über Datenverarbeitungsknoten 7G vom Wissen über Konstrukt-Stadt unterscheiden, wenn „Zugriff auf fremde Daten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Datenverarbeitungsknoten 7G und Konstrukt-Stadt bei „Zugriff auf fremde Daten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-070",
+   "question": "Falls Datenverarbeitungsknoten 7G im Hinblick auf „Zugriff auf fremde Daten“ anders festgelegt wird: Welche Aussagen über Konstrukt-Stadt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Datenverarbeitungsknoten 7G und Konstrukt-Stadt bei „Zugriff auf fremde Daten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-072",
+   "question": "Braucht der Roman eine Verbindung von Datenverarbeitungsknoten 7G und Konstrukt-Stadt bei „Zugriff auf fremde Daten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-073",
+   "question": "In welchem denkbaren Fall könnte Datenverarbeitungsknoten 7G bestehen, ohne dass Konstrukt-Stadt dieselbe Funktion übernimmt, und was würde das für „Zugriff auf fremde Daten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-074",
+   "question": "Welche Kosten könnte eine Verbindung von Datenverarbeitungsknoten 7G und Konstrukt-Stadt in Bezug auf „Zugriff auf fremde Daten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-075",
+   "question": "Welche ältere Lesart von Datenverarbeitungsknoten 7G oder Konstrukt-Stadt könnte die Gegenüberstellung unter „Zugriff auf fremde Daten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Datenverarbeitungsknoten 7G und Konstrukt-Stadt unter „Zugriff auf fremde Daten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-077",
+   "question": "Wo unterscheiden sich Datenverarbeitungsknoten 7G und Sektor 04, wenn man sie unter dem Gesichtspunkt „Unterscheidung von Routine und Eingriff“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-078",
+   "question": "Welche Quelle verbindet Datenverarbeitungsknoten 7G mit Sektor 04 in Bezug auf „Unterscheidung von Routine und Eingriff“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-079",
+   "question": "Welche Grenzen aus der Seite zu Sektor 04 müsste eine Deutung von Datenverarbeitungsknoten 7G unter „Unterscheidung von Routine und Eingriff“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-080",
+   "question": "Wie könnte sich das Wissen über Datenverarbeitungsknoten 7G vom Wissen über Sektor 04 unterscheiden, wenn „Unterscheidung von Routine und Eingriff“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Datenverarbeitungsknoten 7G und Sektor 04 bei „Unterscheidung von Routine und Eingriff“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-082",
+   "question": "Falls Datenverarbeitungsknoten 7G im Hinblick auf „Unterscheidung von Routine und Eingriff“ anders festgelegt wird: Welche Aussagen über Sektor 04 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Datenverarbeitungsknoten 7G und Sektor 04 bei „Unterscheidung von Routine und Eingriff“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-084",
+   "question": "Braucht der Roman eine Verbindung von Datenverarbeitungsknoten 7G und Sektor 04 bei „Unterscheidung von Routine und Eingriff“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-085",
+   "question": "In welchem denkbaren Fall könnte Datenverarbeitungsknoten 7G bestehen, ohne dass Sektor 04 dieselbe Funktion übernimmt, und was würde das für „Unterscheidung von Routine und Eingriff“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-086",
+   "question": "Welche Kosten könnte eine Verbindung von Datenverarbeitungsknoten 7G und Sektor 04 in Bezug auf „Unterscheidung von Routine und Eingriff“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-087",
+   "question": "Welche ältere Lesart von Datenverarbeitungsknoten 7G oder Sektor 04 könnte die Gegenüberstellung unter „Unterscheidung von Routine und Eingriff“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Datenverarbeitungsknoten 7G und Sektor 04 unter „Unterscheidung von Routine und Eingriff“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-089",
+   "question": "Wo unterscheiden sich Datenverarbeitungsknoten 7G und AEGIS, wenn man sie unter dem Gesichtspunkt „Konsequenzen einer abweichenden Entscheidung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-090",
+   "question": "Welche Quelle verbindet Datenverarbeitungsknoten 7G mit AEGIS in Bezug auf „Konsequenzen einer abweichenden Entscheidung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Datenverarbeitungsknoten 7G unter „Konsequenzen einer abweichenden Entscheidung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-092",
+   "question": "Wie könnte sich das Wissen über Datenverarbeitungsknoten 7G vom Wissen über AEGIS unterscheiden, wenn „Konsequenzen einer abweichenden Entscheidung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Datenverarbeitungsknoten 7G und AEGIS bei „Konsequenzen einer abweichenden Entscheidung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-094",
+   "question": "Falls Datenverarbeitungsknoten 7G im Hinblick auf „Konsequenzen einer abweichenden Entscheidung“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Datenverarbeitungsknoten 7G und AEGIS bei „Konsequenzen einer abweichenden Entscheidung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-096",
+   "question": "Braucht der Roman eine Verbindung von Datenverarbeitungsknoten 7G und AEGIS bei „Konsequenzen einer abweichenden Entscheidung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-097",
+   "question": "In welchem denkbaren Fall könnte Datenverarbeitungsknoten 7G bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Konsequenzen einer abweichenden Entscheidung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-098",
+   "question": "Welche Kosten könnte eine Verbindung von Datenverarbeitungsknoten 7G und AEGIS in Bezug auf „Konsequenzen einer abweichenden Entscheidung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-099",
+   "question": "Welche ältere Lesart von Datenverarbeitungsknoten 7G oder AEGIS könnte die Gegenüberstellung unter „Konsequenzen einer abweichenden Entscheidung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-datenverarbeitungsknoten-7g-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Datenverarbeitungsknoten 7G und AEGIS unter „Konsequenzen einer abweichenden Entscheidung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "datenverarbeitungsknoten-7g",
+    "aegis"
+   ]
+  }
+ ]
+}

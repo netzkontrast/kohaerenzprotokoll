@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "nullpunkt-protokoll",
+ "title": "Nullpunkt-Protokoll",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status des kritisierten Protokolls",
+  "Bedeutung eines Nullpunkts",
+  "Unterschied zwischen Rücksetzung und Ursprung",
+  "Voraussetzungen eines Beginns ohne Außen",
+  "Konsequenz absoluter Selbstreferenz"
+ ],
+ "basis": {
+  "nullpunkt-protokoll": {
+   "title": "Nullpunkt-Protokoll",
+   "path": "Wiki/candidates/nullpunkt-protokoll.md",
+   "hash": "3642a4a372dd5db598f6a83c68241c136b13a6f5fbe34a1cd4c0908012c20f77"
+  },
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "ars": {
+   "title": "ARS — Autopoietische Reentry-Segmentierung",
+   "path": "Wiki/candidates/ars.md",
+   "hash": "99e25ae6bd378660810f3d60d0cc1c498368062b587d57b0c58b21efa805fa50"
+  },
+  "rsa": {
+   "title": "RSA — Rekursive semantische Autogenese",
+   "path": "Wiki/candidates/rsa.md",
+   "hash": "bf91e26da13bc4edd430b1bec2bc945eb8d230819bf30206976507a9dc8abfba"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-nullpunkt-protokoll-001",
+   "question": "Welche Voraussetzung setzt das Nullpunkt-Protokoll schon voraus, obwohl es einen Beginn ohne vorhandene Struktur erklären soll?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-002",
+   "question": "Welche Lesarten auf der Seite zu Nullpunkt-Protokoll stützen oder begrenzen „Status des kritisierten Protokolls“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-003",
+   "question": "Welcher Grenzfall würde bei Nullpunkt-Protokoll die Annahmen über „Status des kritisierten Protokolls“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-004",
+   "question": "Wer könnte innerhalb des Romans bei Nullpunkt-Protokoll etwas über „Status des kritisierten Protokolls“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-005",
+   "question": "Welche konkrete Entscheidung könnte „Status des kritisierten Protokolls“ bei Nullpunkt-Protokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des kritisierten Protokolls“ bei Nullpunkt-Protokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-007",
+   "question": "Wie lässt sich „Status des kritisierten Protokolls“ bei Nullpunkt-Protokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-008",
+   "question": "Welche Alternativen sollte der Autor bei Nullpunkt-Protokoll für „Status des kritisierten Protokolls“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-009",
+   "question": "Was bedeutet bei Nullpunkt-Protokoll der Themenpunkt „Bedeutung eines Nullpunkts“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-010",
+   "question": "Welche Lesarten auf der Seite zu Nullpunkt-Protokoll stützen oder begrenzen „Bedeutung eines Nullpunkts“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-011",
+   "question": "Welcher Grenzfall würde bei Nullpunkt-Protokoll die Annahmen über „Bedeutung eines Nullpunkts“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-012",
+   "question": "Wer könnte innerhalb des Romans bei Nullpunkt-Protokoll etwas über „Bedeutung eines Nullpunkts“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-013",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung eines Nullpunkts“ bei Nullpunkt-Protokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung eines Nullpunkts“ bei Nullpunkt-Protokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-015",
+   "question": "Wie lässt sich „Bedeutung eines Nullpunkts“ bei Nullpunkt-Protokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-016",
+   "question": "Welche Alternativen sollte der Autor bei Nullpunkt-Protokoll für „Bedeutung eines Nullpunkts“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-017",
+   "question": "Was bedeutet bei Nullpunkt-Protokoll der Themenpunkt „Unterschied zwischen Rücksetzung und Ursprung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-018",
+   "question": "Welche Lesarten auf der Seite zu Nullpunkt-Protokoll stützen oder begrenzen „Unterschied zwischen Rücksetzung und Ursprung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-019",
+   "question": "Welcher Grenzfall würde bei Nullpunkt-Protokoll die Annahmen über „Unterschied zwischen Rücksetzung und Ursprung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-020",
+   "question": "Wer könnte innerhalb des Romans bei Nullpunkt-Protokoll etwas über „Unterschied zwischen Rücksetzung und Ursprung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Rücksetzung und Ursprung“ bei Nullpunkt-Protokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Rücksetzung und Ursprung“ bei Nullpunkt-Protokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-023",
+   "question": "Wie lässt sich „Unterschied zwischen Rücksetzung und Ursprung“ bei Nullpunkt-Protokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-024",
+   "question": "Welche Alternativen sollte der Autor bei Nullpunkt-Protokoll für „Unterschied zwischen Rücksetzung und Ursprung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-025",
+   "question": "Was bedeutet bei Nullpunkt-Protokoll der Themenpunkt „Voraussetzungen eines Beginns ohne Außen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-026",
+   "question": "Welche Lesarten auf der Seite zu Nullpunkt-Protokoll stützen oder begrenzen „Voraussetzungen eines Beginns ohne Außen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-027",
+   "question": "Welcher Grenzfall würde bei Nullpunkt-Protokoll die Annahmen über „Voraussetzungen eines Beginns ohne Außen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-028",
+   "question": "Wer könnte innerhalb des Romans bei Nullpunkt-Protokoll etwas über „Voraussetzungen eines Beginns ohne Außen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-029",
+   "question": "Welche konkrete Entscheidung könnte „Voraussetzungen eines Beginns ohne Außen“ bei Nullpunkt-Protokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Voraussetzungen eines Beginns ohne Außen“ bei Nullpunkt-Protokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-031",
+   "question": "Wie lässt sich „Voraussetzungen eines Beginns ohne Außen“ bei Nullpunkt-Protokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-032",
+   "question": "Welche Alternativen sollte der Autor bei Nullpunkt-Protokoll für „Voraussetzungen eines Beginns ohne Außen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-033",
+   "question": "Was bedeutet bei Nullpunkt-Protokoll der Themenpunkt „Konsequenz absoluter Selbstreferenz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-034",
+   "question": "Welche Lesarten auf der Seite zu Nullpunkt-Protokoll stützen oder begrenzen „Konsequenz absoluter Selbstreferenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-035",
+   "question": "Welcher Grenzfall würde bei Nullpunkt-Protokoll die Annahmen über „Konsequenz absoluter Selbstreferenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-036",
+   "question": "Wer könnte innerhalb des Romans bei Nullpunkt-Protokoll etwas über „Konsequenz absoluter Selbstreferenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-037",
+   "question": "Welche konkrete Entscheidung könnte „Konsequenz absoluter Selbstreferenz“ bei Nullpunkt-Protokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Konsequenz absoluter Selbstreferenz“ bei Nullpunkt-Protokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-039",
+   "question": "Wie lässt sich „Konsequenz absoluter Selbstreferenz“ bei Nullpunkt-Protokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-040",
+   "question": "Welche Alternativen sollte der Autor bei Nullpunkt-Protokoll für „Konsequenz absoluter Selbstreferenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-041",
+   "question": "Wo unterscheiden sich Nullpunkt-Protokoll und Emergenz, wenn man sie unter dem Gesichtspunkt „Status des kritisierten Protokolls“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-042",
+   "question": "Welche Quelle verbindet Nullpunkt-Protokoll mit Emergenz in Bezug auf „Status des kritisierten Protokolls“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-043",
+   "question": "Welche Grenzen aus der Seite zu Emergenz müsste eine Deutung von Nullpunkt-Protokoll unter „Status des kritisierten Protokolls“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-044",
+   "question": "Wie könnte sich das Wissen über Nullpunkt-Protokoll vom Wissen über Emergenz unterscheiden, wenn „Status des kritisierten Protokolls“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nullpunkt-Protokoll und Emergenz bei „Status des kritisierten Protokolls“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-046",
+   "question": "Falls Nullpunkt-Protokoll im Hinblick auf „Status des kritisierten Protokolls“ anders festgelegt wird: Welche Aussagen über Emergenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nullpunkt-Protokoll und Emergenz bei „Status des kritisierten Protokolls“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-048",
+   "question": "Braucht der Roman eine Verbindung von Nullpunkt-Protokoll und Emergenz bei „Status des kritisierten Protokolls“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-049",
+   "question": "In welchem denkbaren Fall könnte Nullpunkt-Protokoll bestehen, ohne dass Emergenz dieselbe Funktion übernimmt, und was würde das für „Status des kritisierten Protokolls“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-050",
+   "question": "Welche Kosten könnte eine Verbindung von Nullpunkt-Protokoll und Emergenz in Bezug auf „Status des kritisierten Protokolls“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-051",
+   "question": "Welche ältere Lesart von Nullpunkt-Protokoll oder Emergenz könnte die Gegenüberstellung unter „Status des kritisierten Protokolls“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nullpunkt-Protokoll und Emergenz unter „Status des kritisierten Protokolls“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nullpunkt-protokoll",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-053",
+   "question": "Wo unterscheiden sich Nullpunkt-Protokoll und Genesis, wenn man sie unter dem Gesichtspunkt „Bedeutung eines Nullpunkts“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-054",
+   "question": "Welche Quelle verbindet Nullpunkt-Protokoll mit Genesis in Bezug auf „Bedeutung eines Nullpunkts“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-055",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Nullpunkt-Protokoll unter „Bedeutung eines Nullpunkts“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-056",
+   "question": "Wie könnte sich das Wissen über Nullpunkt-Protokoll vom Wissen über Genesis unterscheiden, wenn „Bedeutung eines Nullpunkts“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nullpunkt-Protokoll und Genesis bei „Bedeutung eines Nullpunkts“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-058",
+   "question": "Falls Nullpunkt-Protokoll im Hinblick auf „Bedeutung eines Nullpunkts“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nullpunkt-Protokoll und Genesis bei „Bedeutung eines Nullpunkts“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-060",
+   "question": "Braucht der Roman eine Verbindung von Nullpunkt-Protokoll und Genesis bei „Bedeutung eines Nullpunkts“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-061",
+   "question": "In welchem denkbaren Fall könnte Nullpunkt-Protokoll bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „Bedeutung eines Nullpunkts“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-062",
+   "question": "Welche Kosten könnte eine Verbindung von Nullpunkt-Protokoll und Genesis in Bezug auf „Bedeutung eines Nullpunkts“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-063",
+   "question": "Welche ältere Lesart von Nullpunkt-Protokoll oder Genesis könnte die Gegenüberstellung unter „Bedeutung eines Nullpunkts“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nullpunkt-Protokoll und Genesis unter „Bedeutung eines Nullpunkts“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nullpunkt-protokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-065",
+   "question": "Wo unterscheiden sich Nullpunkt-Protokoll und ARS — Autopoietische Reentry-Segmentierung, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Rücksetzung und Ursprung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-066",
+   "question": "Welche Quelle verbindet Nullpunkt-Protokoll mit ARS — Autopoietische Reentry-Segmentierung in Bezug auf „Unterschied zwischen Rücksetzung und Ursprung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-067",
+   "question": "Welche Grenzen aus der Seite zu ARS — Autopoietische Reentry-Segmentierung müsste eine Deutung von Nullpunkt-Protokoll unter „Unterschied zwischen Rücksetzung und Ursprung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-068",
+   "question": "Wie könnte sich das Wissen über Nullpunkt-Protokoll vom Wissen über ARS — Autopoietische Reentry-Segmentierung unterscheiden, wenn „Unterschied zwischen Rücksetzung und Ursprung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nullpunkt-Protokoll und ARS — Autopoietische Reentry-Segmentierung bei „Unterschied zwischen Rücksetzung und Ursprung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-070",
+   "question": "Falls Nullpunkt-Protokoll im Hinblick auf „Unterschied zwischen Rücksetzung und Ursprung“ anders festgelegt wird: Welche Aussagen über ARS — Autopoietische Reentry-Segmentierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nullpunkt-Protokoll und ARS — Autopoietische Reentry-Segmentierung bei „Unterschied zwischen Rücksetzung und Ursprung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-072",
+   "question": "Braucht der Roman eine Verbindung von Nullpunkt-Protokoll und ARS — Autopoietische Reentry-Segmentierung bei „Unterschied zwischen Rücksetzung und Ursprung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-073",
+   "question": "In welchem denkbaren Fall könnte Nullpunkt-Protokoll bestehen, ohne dass ARS — Autopoietische Reentry-Segmentierung dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Rücksetzung und Ursprung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-074",
+   "question": "Welche Kosten könnte eine Verbindung von Nullpunkt-Protokoll und ARS — Autopoietische Reentry-Segmentierung in Bezug auf „Unterschied zwischen Rücksetzung und Ursprung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-075",
+   "question": "Welche ältere Lesart von Nullpunkt-Protokoll oder ARS — Autopoietische Reentry-Segmentierung könnte die Gegenüberstellung unter „Unterschied zwischen Rücksetzung und Ursprung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nullpunkt-Protokoll und ARS — Autopoietische Reentry-Segmentierung unter „Unterschied zwischen Rücksetzung und Ursprung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nullpunkt-protokoll",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-077",
+   "question": "Wo unterscheiden sich Nullpunkt-Protokoll und RSA — Rekursive semantische Autogenese, wenn man sie unter dem Gesichtspunkt „Voraussetzungen eines Beginns ohne Außen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-078",
+   "question": "Welche Quelle verbindet Nullpunkt-Protokoll mit RSA — Rekursive semantische Autogenese in Bezug auf „Voraussetzungen eines Beginns ohne Außen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-079",
+   "question": "Welche Grenzen aus der Seite zu RSA — Rekursive semantische Autogenese müsste eine Deutung von Nullpunkt-Protokoll unter „Voraussetzungen eines Beginns ohne Außen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-080",
+   "question": "Wie könnte sich das Wissen über Nullpunkt-Protokoll vom Wissen über RSA — Rekursive semantische Autogenese unterscheiden, wenn „Voraussetzungen eines Beginns ohne Außen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nullpunkt-Protokoll und RSA — Rekursive semantische Autogenese bei „Voraussetzungen eines Beginns ohne Außen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-082",
+   "question": "Falls Nullpunkt-Protokoll im Hinblick auf „Voraussetzungen eines Beginns ohne Außen“ anders festgelegt wird: Welche Aussagen über RSA — Rekursive semantische Autogenese müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nullpunkt-Protokoll und RSA — Rekursive semantische Autogenese bei „Voraussetzungen eines Beginns ohne Außen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-084",
+   "question": "Braucht der Roman eine Verbindung von Nullpunkt-Protokoll und RSA — Rekursive semantische Autogenese bei „Voraussetzungen eines Beginns ohne Außen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-085",
+   "question": "In welchem denkbaren Fall könnte Nullpunkt-Protokoll bestehen, ohne dass RSA — Rekursive semantische Autogenese dieselbe Funktion übernimmt, und was würde das für „Voraussetzungen eines Beginns ohne Außen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-086",
+   "question": "Welche Kosten könnte eine Verbindung von Nullpunkt-Protokoll und RSA — Rekursive semantische Autogenese in Bezug auf „Voraussetzungen eines Beginns ohne Außen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-087",
+   "question": "Welche ältere Lesart von Nullpunkt-Protokoll oder RSA — Rekursive semantische Autogenese könnte die Gegenüberstellung unter „Voraussetzungen eines Beginns ohne Außen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nullpunkt-Protokoll und RSA — Rekursive semantische Autogenese unter „Voraussetzungen eines Beginns ohne Außen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nullpunkt-protokoll",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-089",
+   "question": "Wo unterscheiden sich Nullpunkt-Protokoll und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Konsequenz absoluter Selbstreferenz“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-090",
+   "question": "Welche Quelle verbindet Nullpunkt-Protokoll mit Nichts-Rauschen in Bezug auf „Konsequenz absoluter Selbstreferenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-091",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von Nullpunkt-Protokoll unter „Konsequenz absoluter Selbstreferenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-092",
+   "question": "Wie könnte sich das Wissen über Nullpunkt-Protokoll vom Wissen über Nichts-Rauschen unterscheiden, wenn „Konsequenz absoluter Selbstreferenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nullpunkt-Protokoll und Nichts-Rauschen bei „Konsequenz absoluter Selbstreferenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-094",
+   "question": "Falls Nullpunkt-Protokoll im Hinblick auf „Konsequenz absoluter Selbstreferenz“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nullpunkt-Protokoll und Nichts-Rauschen bei „Konsequenz absoluter Selbstreferenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-096",
+   "question": "Braucht der Roman eine Verbindung von Nullpunkt-Protokoll und Nichts-Rauschen bei „Konsequenz absoluter Selbstreferenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-097",
+   "question": "In welchem denkbaren Fall könnte Nullpunkt-Protokoll bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Konsequenz absoluter Selbstreferenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-098",
+   "question": "Welche Kosten könnte eine Verbindung von Nullpunkt-Protokoll und Nichts-Rauschen in Bezug auf „Konsequenz absoluter Selbstreferenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-099",
+   "question": "Welche ältere Lesart von Nullpunkt-Protokoll oder Nichts-Rauschen könnte die Gegenüberstellung unter „Konsequenz absoluter Selbstreferenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nullpunkt-protokoll-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nullpunkt-Protokoll und Nichts-Rauschen unter „Konsequenz absoluter Selbstreferenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nullpunkt-protokoll",
+    "nichts-rauschen"
+   ]
+  }
+ ]
+}

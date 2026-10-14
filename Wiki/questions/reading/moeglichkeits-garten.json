@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "moeglichkeits-garten",
+ "title": "Möglichkeits-Garten",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Erleben alternativer Verläufe",
+  "Unterschied zwischen Möglichkeit und freier Wahl",
+  "Konsequenzen einer festgelegten Zukunft",
+  "Orientierung in variabler Umgebung",
+  "Verhältnis von Hoffnung und Kontrollverlust"
+ ],
+ "basis": {
+  "moeglichkeits-garten": {
+   "title": "Möglichkeits-Garten",
+   "path": "Wiki/candidates/moeglichkeits-garten.md",
+   "hash": "e693bd36f30be04233b018d4241e0e1e0896eefac7d4d4dc4b5e194352c9fe6c"
+  },
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "nexus": {
+   "title": "Nexus",
+   "path": "Wiki/candidates/nexus.md",
+   "hash": "2c8839ab4082b2f72d9df1267685dacd4c2870d69c3c15afbf866825d87bb40f"
+  },
+  "garten-der-stillen-praesenz": {
+   "title": "Garten der stillen Präsenz",
+   "path": "Wiki/candidates/garten-der-stillen-praesenz.md",
+   "hash": "db5fa3219544b2b2c2b4dcf3e69d8512437bfcde7caa2646ed5df66b0b8709d1"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-moeglichkeits-garten-001",
+   "question": "Woran erkennt Kael im Möglichkeits-Garten eine eigene Wahl, wenn die Umgebung mehrere Verläufe bereits bereithält?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-002",
+   "question": "Welche Lesarten auf der Seite zu Möglichkeits-Garten stützen oder begrenzen „Erleben alternativer Verläufe“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-003",
+   "question": "Welcher Grenzfall würde bei Möglichkeits-Garten die Annahmen über „Erleben alternativer Verläufe“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-004",
+   "question": "Wer könnte innerhalb des Romans bei Möglichkeits-Garten etwas über „Erleben alternativer Verläufe“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-005",
+   "question": "Welche konkrete Entscheidung könnte „Erleben alternativer Verläufe“ bei Möglichkeits-Garten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erleben alternativer Verläufe“ bei Möglichkeits-Garten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-007",
+   "question": "Wie lässt sich „Erleben alternativer Verläufe“ bei Möglichkeits-Garten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-008",
+   "question": "Welche Alternativen sollte der Autor bei Möglichkeits-Garten für „Erleben alternativer Verläufe“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-009",
+   "question": "Was bedeutet bei Möglichkeits-Garten der Themenpunkt „Unterschied zwischen Möglichkeit und freier Wahl“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-010",
+   "question": "Welche Lesarten auf der Seite zu Möglichkeits-Garten stützen oder begrenzen „Unterschied zwischen Möglichkeit und freier Wahl“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-011",
+   "question": "Welcher Grenzfall würde bei Möglichkeits-Garten die Annahmen über „Unterschied zwischen Möglichkeit und freier Wahl“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-012",
+   "question": "Wer könnte innerhalb des Romans bei Möglichkeits-Garten etwas über „Unterschied zwischen Möglichkeit und freier Wahl“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Möglichkeit und freier Wahl“ bei Möglichkeits-Garten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Möglichkeit und freier Wahl“ bei Möglichkeits-Garten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-015",
+   "question": "Wie lässt sich „Unterschied zwischen Möglichkeit und freier Wahl“ bei Möglichkeits-Garten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-016",
+   "question": "Welche Alternativen sollte der Autor bei Möglichkeits-Garten für „Unterschied zwischen Möglichkeit und freier Wahl“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-017",
+   "question": "Was bedeutet bei Möglichkeits-Garten der Themenpunkt „Konsequenzen einer festgelegten Zukunft“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-018",
+   "question": "Welche Lesarten auf der Seite zu Möglichkeits-Garten stützen oder begrenzen „Konsequenzen einer festgelegten Zukunft“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-019",
+   "question": "Welcher Grenzfall würde bei Möglichkeits-Garten die Annahmen über „Konsequenzen einer festgelegten Zukunft“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-020",
+   "question": "Wer könnte innerhalb des Romans bei Möglichkeits-Garten etwas über „Konsequenzen einer festgelegten Zukunft“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-021",
+   "question": "Welche konkrete Entscheidung könnte „Konsequenzen einer festgelegten Zukunft“ bei Möglichkeits-Garten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Konsequenzen einer festgelegten Zukunft“ bei Möglichkeits-Garten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-023",
+   "question": "Wie lässt sich „Konsequenzen einer festgelegten Zukunft“ bei Möglichkeits-Garten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-024",
+   "question": "Welche Alternativen sollte der Autor bei Möglichkeits-Garten für „Konsequenzen einer festgelegten Zukunft“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-025",
+   "question": "Was bedeutet bei Möglichkeits-Garten der Themenpunkt „Orientierung in variabler Umgebung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-026",
+   "question": "Welche Lesarten auf der Seite zu Möglichkeits-Garten stützen oder begrenzen „Orientierung in variabler Umgebung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-027",
+   "question": "Welcher Grenzfall würde bei Möglichkeits-Garten die Annahmen über „Orientierung in variabler Umgebung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-028",
+   "question": "Wer könnte innerhalb des Romans bei Möglichkeits-Garten etwas über „Orientierung in variabler Umgebung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-029",
+   "question": "Welche konkrete Entscheidung könnte „Orientierung in variabler Umgebung“ bei Möglichkeits-Garten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Orientierung in variabler Umgebung“ bei Möglichkeits-Garten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-031",
+   "question": "Wie lässt sich „Orientierung in variabler Umgebung“ bei Möglichkeits-Garten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-032",
+   "question": "Welche Alternativen sollte der Autor bei Möglichkeits-Garten für „Orientierung in variabler Umgebung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-033",
+   "question": "Was bedeutet bei Möglichkeits-Garten der Themenpunkt „Verhältnis von Hoffnung und Kontrollverlust“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-034",
+   "question": "Welche Lesarten auf der Seite zu Möglichkeits-Garten stützen oder begrenzen „Verhältnis von Hoffnung und Kontrollverlust“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-035",
+   "question": "Welcher Grenzfall würde bei Möglichkeits-Garten die Annahmen über „Verhältnis von Hoffnung und Kontrollverlust“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-036",
+   "question": "Wer könnte innerhalb des Romans bei Möglichkeits-Garten etwas über „Verhältnis von Hoffnung und Kontrollverlust“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-037",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Hoffnung und Kontrollverlust“ bei Möglichkeits-Garten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Hoffnung und Kontrollverlust“ bei Möglichkeits-Garten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-039",
+   "question": "Wie lässt sich „Verhältnis von Hoffnung und Kontrollverlust“ bei Möglichkeits-Garten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-040",
+   "question": "Welche Alternativen sollte der Autor bei Möglichkeits-Garten für „Verhältnis von Hoffnung und Kontrollverlust“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-041",
+   "question": "Wo unterscheiden sich Möglichkeits-Garten und Kairos, wenn man sie unter dem Gesichtspunkt „Erleben alternativer Verläufe“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-042",
+   "question": "Welche Quelle verbindet Möglichkeits-Garten mit Kairos in Bezug auf „Erleben alternativer Verläufe“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-043",
+   "question": "Welche Grenzen aus der Seite zu Kairos müsste eine Deutung von Möglichkeits-Garten unter „Erleben alternativer Verläufe“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-044",
+   "question": "Wie könnte sich das Wissen über Möglichkeits-Garten vom Wissen über Kairos unterscheiden, wenn „Erleben alternativer Verläufe“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Möglichkeits-Garten und Kairos bei „Erleben alternativer Verläufe“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-046",
+   "question": "Falls Möglichkeits-Garten im Hinblick auf „Erleben alternativer Verläufe“ anders festgelegt wird: Welche Aussagen über Kairos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Möglichkeits-Garten und Kairos bei „Erleben alternativer Verläufe“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-048",
+   "question": "Braucht der Roman eine Verbindung von Möglichkeits-Garten und Kairos bei „Erleben alternativer Verläufe“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-049",
+   "question": "In welchem denkbaren Fall könnte Möglichkeits-Garten bestehen, ohne dass Kairos dieselbe Funktion übernimmt, und was würde das für „Erleben alternativer Verläufe“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-050",
+   "question": "Welche Kosten könnte eine Verbindung von Möglichkeits-Garten und Kairos in Bezug auf „Erleben alternativer Verläufe“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-051",
+   "question": "Welche ältere Lesart von Möglichkeits-Garten oder Kairos könnte die Gegenüberstellung unter „Erleben alternativer Verläufe“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Möglichkeits-Garten und Kairos unter „Erleben alternativer Verläufe“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moeglichkeits-garten",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-053",
+   "question": "Wo unterscheiden sich Möglichkeits-Garten und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Möglichkeit und freier Wahl“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-054",
+   "question": "Welche Quelle verbindet Möglichkeits-Garten mit Kern-Welten in Bezug auf „Unterschied zwischen Möglichkeit und freier Wahl“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-055",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Möglichkeits-Garten unter „Unterschied zwischen Möglichkeit und freier Wahl“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-056",
+   "question": "Wie könnte sich das Wissen über Möglichkeits-Garten vom Wissen über Kern-Welten unterscheiden, wenn „Unterschied zwischen Möglichkeit und freier Wahl“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Möglichkeits-Garten und Kern-Welten bei „Unterschied zwischen Möglichkeit und freier Wahl“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-058",
+   "question": "Falls Möglichkeits-Garten im Hinblick auf „Unterschied zwischen Möglichkeit und freier Wahl“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Möglichkeits-Garten und Kern-Welten bei „Unterschied zwischen Möglichkeit und freier Wahl“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-060",
+   "question": "Braucht der Roman eine Verbindung von Möglichkeits-Garten und Kern-Welten bei „Unterschied zwischen Möglichkeit und freier Wahl“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-061",
+   "question": "In welchem denkbaren Fall könnte Möglichkeits-Garten bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Möglichkeit und freier Wahl“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-062",
+   "question": "Welche Kosten könnte eine Verbindung von Möglichkeits-Garten und Kern-Welten in Bezug auf „Unterschied zwischen Möglichkeit und freier Wahl“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-063",
+   "question": "Welche ältere Lesart von Möglichkeits-Garten oder Kern-Welten könnte die Gegenüberstellung unter „Unterschied zwischen Möglichkeit und freier Wahl“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Möglichkeits-Garten und Kern-Welten unter „Unterschied zwischen Möglichkeit und freier Wahl“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moeglichkeits-garten",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-065",
+   "question": "Wo unterscheiden sich Möglichkeits-Garten und Nexus, wenn man sie unter dem Gesichtspunkt „Konsequenzen einer festgelegten Zukunft“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-066",
+   "question": "Welche Quelle verbindet Möglichkeits-Garten mit Nexus in Bezug auf „Konsequenzen einer festgelegten Zukunft“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-067",
+   "question": "Welche Grenzen aus der Seite zu Nexus müsste eine Deutung von Möglichkeits-Garten unter „Konsequenzen einer festgelegten Zukunft“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-068",
+   "question": "Wie könnte sich das Wissen über Möglichkeits-Garten vom Wissen über Nexus unterscheiden, wenn „Konsequenzen einer festgelegten Zukunft“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Möglichkeits-Garten und Nexus bei „Konsequenzen einer festgelegten Zukunft“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-070",
+   "question": "Falls Möglichkeits-Garten im Hinblick auf „Konsequenzen einer festgelegten Zukunft“ anders festgelegt wird: Welche Aussagen über Nexus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Möglichkeits-Garten und Nexus bei „Konsequenzen einer festgelegten Zukunft“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-072",
+   "question": "Braucht der Roman eine Verbindung von Möglichkeits-Garten und Nexus bei „Konsequenzen einer festgelegten Zukunft“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-073",
+   "question": "In welchem denkbaren Fall könnte Möglichkeits-Garten bestehen, ohne dass Nexus dieselbe Funktion übernimmt, und was würde das für „Konsequenzen einer festgelegten Zukunft“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-074",
+   "question": "Welche Kosten könnte eine Verbindung von Möglichkeits-Garten und Nexus in Bezug auf „Konsequenzen einer festgelegten Zukunft“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-075",
+   "question": "Welche ältere Lesart von Möglichkeits-Garten oder Nexus könnte die Gegenüberstellung unter „Konsequenzen einer festgelegten Zukunft“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Möglichkeits-Garten und Nexus unter „Konsequenzen einer festgelegten Zukunft“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moeglichkeits-garten",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-077",
+   "question": "Wo unterscheiden sich Möglichkeits-Garten und Garten der stillen Präsenz, wenn man sie unter dem Gesichtspunkt „Orientierung in variabler Umgebung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-078",
+   "question": "Welche Quelle verbindet Möglichkeits-Garten mit Garten der stillen Präsenz in Bezug auf „Orientierung in variabler Umgebung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-079",
+   "question": "Welche Grenzen aus der Seite zu Garten der stillen Präsenz müsste eine Deutung von Möglichkeits-Garten unter „Orientierung in variabler Umgebung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-080",
+   "question": "Wie könnte sich das Wissen über Möglichkeits-Garten vom Wissen über Garten der stillen Präsenz unterscheiden, wenn „Orientierung in variabler Umgebung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Möglichkeits-Garten und Garten der stillen Präsenz bei „Orientierung in variabler Umgebung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-082",
+   "question": "Falls Möglichkeits-Garten im Hinblick auf „Orientierung in variabler Umgebung“ anders festgelegt wird: Welche Aussagen über Garten der stillen Präsenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Möglichkeits-Garten und Garten der stillen Präsenz bei „Orientierung in variabler Umgebung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-084",
+   "question": "Braucht der Roman eine Verbindung von Möglichkeits-Garten und Garten der stillen Präsenz bei „Orientierung in variabler Umgebung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-085",
+   "question": "In welchem denkbaren Fall könnte Möglichkeits-Garten bestehen, ohne dass Garten der stillen Präsenz dieselbe Funktion übernimmt, und was würde das für „Orientierung in variabler Umgebung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-086",
+   "question": "Welche Kosten könnte eine Verbindung von Möglichkeits-Garten und Garten der stillen Präsenz in Bezug auf „Orientierung in variabler Umgebung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-087",
+   "question": "Welche ältere Lesart von Möglichkeits-Garten oder Garten der stillen Präsenz könnte die Gegenüberstellung unter „Orientierung in variabler Umgebung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Möglichkeits-Garten und Garten der stillen Präsenz unter „Orientierung in variabler Umgebung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moeglichkeits-garten",
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-089",
+   "question": "Wo unterscheiden sich Möglichkeits-Garten und Kael, wenn man sie unter dem Gesichtspunkt „Verhältnis von Hoffnung und Kontrollverlust“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-090",
+   "question": "Welche Quelle verbindet Möglichkeits-Garten mit Kael in Bezug auf „Verhältnis von Hoffnung und Kontrollverlust“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Möglichkeits-Garten unter „Verhältnis von Hoffnung und Kontrollverlust“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-092",
+   "question": "Wie könnte sich das Wissen über Möglichkeits-Garten vom Wissen über Kael unterscheiden, wenn „Verhältnis von Hoffnung und Kontrollverlust“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Möglichkeits-Garten und Kael bei „Verhältnis von Hoffnung und Kontrollverlust“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-094",
+   "question": "Falls Möglichkeits-Garten im Hinblick auf „Verhältnis von Hoffnung und Kontrollverlust“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Möglichkeits-Garten und Kael bei „Verhältnis von Hoffnung und Kontrollverlust“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-096",
+   "question": "Braucht der Roman eine Verbindung von Möglichkeits-Garten und Kael bei „Verhältnis von Hoffnung und Kontrollverlust“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-097",
+   "question": "In welchem denkbaren Fall könnte Möglichkeits-Garten bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Hoffnung und Kontrollverlust“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-098",
+   "question": "Welche Kosten könnte eine Verbindung von Möglichkeits-Garten und Kael in Bezug auf „Verhältnis von Hoffnung und Kontrollverlust“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-099",
+   "question": "Welche ältere Lesart von Möglichkeits-Garten oder Kael könnte die Gegenüberstellung unter „Verhältnis von Hoffnung und Kontrollverlust“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moeglichkeits-garten-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Möglichkeits-Garten und Kael unter „Verhältnis von Hoffnung und Kontrollverlust“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moeglichkeits-garten",
+    "kael"
+   ]
+  }
+ ]
+}

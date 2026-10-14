@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "atemporalitaet",
+ "title": "Atemporalität",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Erleben ohne Zeitpfeil",
+  "Grenze zeitlicher Messbarkeit",
+  "Fortbestand von Bindung",
+  "Folgen für Ursache und Wirkung",
+  "Szenenfolge trotz Zeitlosigkeit"
+ ],
+ "basis": {
+  "atemporalitaet": {
+   "title": "Atemporalität",
+   "path": "Wiki/candidates/atemporalitaet.md",
+   "hash": "14b4b5f52007a37646a202ac97f2543e4ad19fca8a3d5d317831e1102305b681"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-atemporalitaet-001",
+   "question": "Wie kann eine atemporale Bindung in zeitlich aufeinanderfolgenden Szenen sichtbar werden, ohne zu einem Allzweck-Ausweg zu werden?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-002",
+   "question": "Welche Lesarten auf der Seite zu Atemporalität stützen oder begrenzen „Erleben ohne Zeitpfeil“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-003",
+   "question": "Welcher Grenzfall würde bei Atemporalität die Annahmen über „Erleben ohne Zeitpfeil“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-004",
+   "question": "Wer könnte innerhalb des Romans bei Atemporalität etwas über „Erleben ohne Zeitpfeil“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-005",
+   "question": "Welche konkrete Entscheidung könnte „Erleben ohne Zeitpfeil“ bei Atemporalität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erleben ohne Zeitpfeil“ bei Atemporalität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-007",
+   "question": "Wie lässt sich „Erleben ohne Zeitpfeil“ bei Atemporalität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-008",
+   "question": "Welche Alternativen sollte der Autor bei Atemporalität für „Erleben ohne Zeitpfeil“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-009",
+   "question": "Was bedeutet bei Atemporalität der Themenpunkt „Grenze zeitlicher Messbarkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-010",
+   "question": "Welche Lesarten auf der Seite zu Atemporalität stützen oder begrenzen „Grenze zeitlicher Messbarkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-011",
+   "question": "Welcher Grenzfall würde bei Atemporalität die Annahmen über „Grenze zeitlicher Messbarkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-012",
+   "question": "Wer könnte innerhalb des Romans bei Atemporalität etwas über „Grenze zeitlicher Messbarkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zeitlicher Messbarkeit“ bei Atemporalität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zeitlicher Messbarkeit“ bei Atemporalität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-015",
+   "question": "Wie lässt sich „Grenze zeitlicher Messbarkeit“ bei Atemporalität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-016",
+   "question": "Welche Alternativen sollte der Autor bei Atemporalität für „Grenze zeitlicher Messbarkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-017",
+   "question": "Was bedeutet bei Atemporalität der Themenpunkt „Fortbestand von Bindung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-018",
+   "question": "Welche Lesarten auf der Seite zu Atemporalität stützen oder begrenzen „Fortbestand von Bindung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-019",
+   "question": "Welcher Grenzfall würde bei Atemporalität die Annahmen über „Fortbestand von Bindung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-020",
+   "question": "Wer könnte innerhalb des Romans bei Atemporalität etwas über „Fortbestand von Bindung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-021",
+   "question": "Welche konkrete Entscheidung könnte „Fortbestand von Bindung“ bei Atemporalität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortbestand von Bindung“ bei Atemporalität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-023",
+   "question": "Wie lässt sich „Fortbestand von Bindung“ bei Atemporalität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-024",
+   "question": "Welche Alternativen sollte der Autor bei Atemporalität für „Fortbestand von Bindung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-025",
+   "question": "Was bedeutet bei Atemporalität der Themenpunkt „Folgen für Ursache und Wirkung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-026",
+   "question": "Welche Lesarten auf der Seite zu Atemporalität stützen oder begrenzen „Folgen für Ursache und Wirkung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-027",
+   "question": "Welcher Grenzfall würde bei Atemporalität die Annahmen über „Folgen für Ursache und Wirkung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-028",
+   "question": "Wer könnte innerhalb des Romans bei Atemporalität etwas über „Folgen für Ursache und Wirkung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-029",
+   "question": "Welche konkrete Entscheidung könnte „Folgen für Ursache und Wirkung“ bei Atemporalität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen für Ursache und Wirkung“ bei Atemporalität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-031",
+   "question": "Wie lässt sich „Folgen für Ursache und Wirkung“ bei Atemporalität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-032",
+   "question": "Welche Alternativen sollte der Autor bei Atemporalität für „Folgen für Ursache und Wirkung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-033",
+   "question": "Was bedeutet bei Atemporalität der Themenpunkt „Szenenfolge trotz Zeitlosigkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-034",
+   "question": "Welche Lesarten auf der Seite zu Atemporalität stützen oder begrenzen „Szenenfolge trotz Zeitlosigkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-035",
+   "question": "Welcher Grenzfall würde bei Atemporalität die Annahmen über „Szenenfolge trotz Zeitlosigkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-036",
+   "question": "Wer könnte innerhalb des Romans bei Atemporalität etwas über „Szenenfolge trotz Zeitlosigkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-037",
+   "question": "Welche konkrete Entscheidung könnte „Szenenfolge trotz Zeitlosigkeit“ bei Atemporalität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Szenenfolge trotz Zeitlosigkeit“ bei Atemporalität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-039",
+   "question": "Wie lässt sich „Szenenfolge trotz Zeitlosigkeit“ bei Atemporalität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-040",
+   "question": "Welche Alternativen sollte der Autor bei Atemporalität für „Szenenfolge trotz Zeitlosigkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-041",
+   "question": "Wo unterscheiden sich Atemporalität und Coheron, wenn man sie unter dem Gesichtspunkt „Erleben ohne Zeitpfeil“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-042",
+   "question": "Welche Quelle verbindet Atemporalität mit Coheron in Bezug auf „Erleben ohne Zeitpfeil“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-043",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Atemporalität unter „Erleben ohne Zeitpfeil“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-044",
+   "question": "Wie könnte sich das Wissen über Atemporalität vom Wissen über Coheron unterscheiden, wenn „Erleben ohne Zeitpfeil“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Atemporalität und Coheron bei „Erleben ohne Zeitpfeil“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-046",
+   "question": "Falls Atemporalität im Hinblick auf „Erleben ohne Zeitpfeil“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Atemporalität und Coheron bei „Erleben ohne Zeitpfeil“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-048",
+   "question": "Braucht der Roman eine Verbindung von Atemporalität und Coheron bei „Erleben ohne Zeitpfeil“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-049",
+   "question": "In welchem denkbaren Fall könnte Atemporalität bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „Erleben ohne Zeitpfeil“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-050",
+   "question": "Welche Kosten könnte eine Verbindung von Atemporalität und Coheron in Bezug auf „Erleben ohne Zeitpfeil“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-051",
+   "question": "Welche ältere Lesart von Atemporalität oder Coheron könnte die Gegenüberstellung unter „Erleben ohne Zeitpfeil“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Atemporalität und Coheron unter „Erleben ohne Zeitpfeil“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "atemporalitaet",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-053",
+   "question": "Wo unterscheiden sich Atemporalität und Erason, wenn man sie unter dem Gesichtspunkt „Grenze zeitlicher Messbarkeit“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-054",
+   "question": "Welche Quelle verbindet Atemporalität mit Erason in Bezug auf „Grenze zeitlicher Messbarkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-055",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Atemporalität unter „Grenze zeitlicher Messbarkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-056",
+   "question": "Wie könnte sich das Wissen über Atemporalität vom Wissen über Erason unterscheiden, wenn „Grenze zeitlicher Messbarkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Atemporalität und Erason bei „Grenze zeitlicher Messbarkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-058",
+   "question": "Falls Atemporalität im Hinblick auf „Grenze zeitlicher Messbarkeit“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Atemporalität und Erason bei „Grenze zeitlicher Messbarkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-060",
+   "question": "Braucht der Roman eine Verbindung von Atemporalität und Erason bei „Grenze zeitlicher Messbarkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-061",
+   "question": "In welchem denkbaren Fall könnte Atemporalität bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Grenze zeitlicher Messbarkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-062",
+   "question": "Welche Kosten könnte eine Verbindung von Atemporalität und Erason in Bezug auf „Grenze zeitlicher Messbarkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-063",
+   "question": "Welche ältere Lesart von Atemporalität oder Erason könnte die Gegenüberstellung unter „Grenze zeitlicher Messbarkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Atemporalität und Erason unter „Grenze zeitlicher Messbarkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "atemporalitaet",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-065",
+   "question": "Wo unterscheiden sich Atemporalität und Juna, wenn man sie unter dem Gesichtspunkt „Fortbestand von Bindung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-066",
+   "question": "Welche Quelle verbindet Atemporalität mit Juna in Bezug auf „Fortbestand von Bindung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-067",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Atemporalität unter „Fortbestand von Bindung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-068",
+   "question": "Wie könnte sich das Wissen über Atemporalität vom Wissen über Juna unterscheiden, wenn „Fortbestand von Bindung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Atemporalität und Juna bei „Fortbestand von Bindung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-070",
+   "question": "Falls Atemporalität im Hinblick auf „Fortbestand von Bindung“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Atemporalität und Juna bei „Fortbestand von Bindung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-072",
+   "question": "Braucht der Roman eine Verbindung von Atemporalität und Juna bei „Fortbestand von Bindung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-073",
+   "question": "In welchem denkbaren Fall könnte Atemporalität bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Fortbestand von Bindung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-074",
+   "question": "Welche Kosten könnte eine Verbindung von Atemporalität und Juna in Bezug auf „Fortbestand von Bindung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-075",
+   "question": "Welche ältere Lesart von Atemporalität oder Juna könnte die Gegenüberstellung unter „Fortbestand von Bindung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Atemporalität und Juna unter „Fortbestand von Bindung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "atemporalitaet",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-077",
+   "question": "Wo unterscheiden sich Atemporalität und Kairos, wenn man sie unter dem Gesichtspunkt „Folgen für Ursache und Wirkung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-078",
+   "question": "Welche Quelle verbindet Atemporalität mit Kairos in Bezug auf „Folgen für Ursache und Wirkung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-079",
+   "question": "Welche Grenzen aus der Seite zu Kairos müsste eine Deutung von Atemporalität unter „Folgen für Ursache und Wirkung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-080",
+   "question": "Wie könnte sich das Wissen über Atemporalität vom Wissen über Kairos unterscheiden, wenn „Folgen für Ursache und Wirkung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Atemporalität und Kairos bei „Folgen für Ursache und Wirkung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-082",
+   "question": "Falls Atemporalität im Hinblick auf „Folgen für Ursache und Wirkung“ anders festgelegt wird: Welche Aussagen über Kairos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Atemporalität und Kairos bei „Folgen für Ursache und Wirkung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-084",
+   "question": "Braucht der Roman eine Verbindung von Atemporalität und Kairos bei „Folgen für Ursache und Wirkung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-085",
+   "question": "In welchem denkbaren Fall könnte Atemporalität bestehen, ohne dass Kairos dieselbe Funktion übernimmt, und was würde das für „Folgen für Ursache und Wirkung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-086",
+   "question": "Welche Kosten könnte eine Verbindung von Atemporalität und Kairos in Bezug auf „Folgen für Ursache und Wirkung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-087",
+   "question": "Welche ältere Lesart von Atemporalität oder Kairos könnte die Gegenüberstellung unter „Folgen für Ursache und Wirkung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Atemporalität und Kairos unter „Folgen für Ursache und Wirkung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "atemporalitaet",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-089",
+   "question": "Wo unterscheiden sich Atemporalität und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Szenenfolge trotz Zeitlosigkeit“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-090",
+   "question": "Welche Quelle verbindet Atemporalität mit Moonshine-Link in Bezug auf „Szenenfolge trotz Zeitlosigkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-091",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Atemporalität unter „Szenenfolge trotz Zeitlosigkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-092",
+   "question": "Wie könnte sich das Wissen über Atemporalität vom Wissen über Moonshine-Link unterscheiden, wenn „Szenenfolge trotz Zeitlosigkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Atemporalität und Moonshine-Link bei „Szenenfolge trotz Zeitlosigkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-094",
+   "question": "Falls Atemporalität im Hinblick auf „Szenenfolge trotz Zeitlosigkeit“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Atemporalität und Moonshine-Link bei „Szenenfolge trotz Zeitlosigkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-096",
+   "question": "Braucht der Roman eine Verbindung von Atemporalität und Moonshine-Link bei „Szenenfolge trotz Zeitlosigkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-097",
+   "question": "In welchem denkbaren Fall könnte Atemporalität bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Szenenfolge trotz Zeitlosigkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-098",
+   "question": "Welche Kosten könnte eine Verbindung von Atemporalität und Moonshine-Link in Bezug auf „Szenenfolge trotz Zeitlosigkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-099",
+   "question": "Welche ältere Lesart von Atemporalität oder Moonshine-Link könnte die Gegenüberstellung unter „Szenenfolge trotz Zeitlosigkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-atemporalitaet-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Atemporalität und Moonshine-Link unter „Szenenfolge trotz Zeitlosigkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "atemporalitaet",
+    "moonshine-link"
+   ]
+  }
+ ]
+}

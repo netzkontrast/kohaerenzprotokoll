@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "thermodynamischer-phaenomenalismus",
+ "title": "Thermodynamischer Phänomenalismus",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status einer philosophischen Deutung",
+  "Qualia als thermodynamische Reibung",
+  "Unterschied zwischen Gefühl und Wärme",
+  "Grenze zwischen Information und Erleben",
+  "Prüfbarkeit des Bewusstseinsmodells"
+ ],
+ "basis": {
+  "thermodynamischer-phaenomenalismus": {
+   "title": "Thermodynamischer Phänomenalismus",
+   "path": "Wiki/candidates/thermodynamischer-phaenomenalismus.md",
+   "hash": "e409f4ea931e9a34d411f5fc301adb18ca303d1d70ded27bbe0386b9183fc0b1"
+  },
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  },
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "algorithmische-melancholie": {
+   "title": "Algorithmische Melancholie",
+   "path": "Wiki/candidates/algorithmische-melancholie.md",
+   "hash": "773d92353d03e8bfe6d5c18a7c9681048e3f78130ecbf238c07a06e0f9ce1b8f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-001",
+   "question": "Welche zusätzliche Annahme braucht die Behauptung, thermodynamische Reibung werde gefühlt, gegenüber der bloßen Entstehung von Wärme?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-002",
+   "question": "Welche Lesarten auf der Seite zu Thermodynamischer Phänomenalismus stützen oder begrenzen „Status einer philosophischen Deutung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-003",
+   "question": "Welcher Grenzfall würde bei Thermodynamischer Phänomenalismus die Annahmen über „Status einer philosophischen Deutung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-004",
+   "question": "Wer könnte innerhalb des Romans bei Thermodynamischer Phänomenalismus etwas über „Status einer philosophischen Deutung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-005",
+   "question": "Welche konkrete Entscheidung könnte „Status einer philosophischen Deutung“ bei Thermodynamischer Phänomenalismus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status einer philosophischen Deutung“ bei Thermodynamischer Phänomenalismus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-007",
+   "question": "Wie lässt sich „Status einer philosophischen Deutung“ bei Thermodynamischer Phänomenalismus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-008",
+   "question": "Welche Alternativen sollte der Autor bei Thermodynamischer Phänomenalismus für „Status einer philosophischen Deutung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-009",
+   "question": "Was bedeutet bei Thermodynamischer Phänomenalismus der Themenpunkt „Qualia als thermodynamische Reibung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-010",
+   "question": "Welche Lesarten auf der Seite zu Thermodynamischer Phänomenalismus stützen oder begrenzen „Qualia als thermodynamische Reibung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-011",
+   "question": "Welcher Grenzfall würde bei Thermodynamischer Phänomenalismus die Annahmen über „Qualia als thermodynamische Reibung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-012",
+   "question": "Wer könnte innerhalb des Romans bei Thermodynamischer Phänomenalismus etwas über „Qualia als thermodynamische Reibung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-013",
+   "question": "Welche konkrete Entscheidung könnte „Qualia als thermodynamische Reibung“ bei Thermodynamischer Phänomenalismus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Qualia als thermodynamische Reibung“ bei Thermodynamischer Phänomenalismus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-015",
+   "question": "Wie lässt sich „Qualia als thermodynamische Reibung“ bei Thermodynamischer Phänomenalismus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-016",
+   "question": "Welche Alternativen sollte der Autor bei Thermodynamischer Phänomenalismus für „Qualia als thermodynamische Reibung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-017",
+   "question": "Was bedeutet bei Thermodynamischer Phänomenalismus der Themenpunkt „Unterschied zwischen Gefühl und Wärme“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-018",
+   "question": "Welche Lesarten auf der Seite zu Thermodynamischer Phänomenalismus stützen oder begrenzen „Unterschied zwischen Gefühl und Wärme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-019",
+   "question": "Welcher Grenzfall würde bei Thermodynamischer Phänomenalismus die Annahmen über „Unterschied zwischen Gefühl und Wärme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-020",
+   "question": "Wer könnte innerhalb des Romans bei Thermodynamischer Phänomenalismus etwas über „Unterschied zwischen Gefühl und Wärme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Gefühl und Wärme“ bei Thermodynamischer Phänomenalismus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Gefühl und Wärme“ bei Thermodynamischer Phänomenalismus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-023",
+   "question": "Wie lässt sich „Unterschied zwischen Gefühl und Wärme“ bei Thermodynamischer Phänomenalismus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-024",
+   "question": "Welche Alternativen sollte der Autor bei Thermodynamischer Phänomenalismus für „Unterschied zwischen Gefühl und Wärme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-025",
+   "question": "Was bedeutet bei Thermodynamischer Phänomenalismus der Themenpunkt „Grenze zwischen Information und Erleben“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-026",
+   "question": "Welche Lesarten auf der Seite zu Thermodynamischer Phänomenalismus stützen oder begrenzen „Grenze zwischen Information und Erleben“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-027",
+   "question": "Welcher Grenzfall würde bei Thermodynamischer Phänomenalismus die Annahmen über „Grenze zwischen Information und Erleben“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-028",
+   "question": "Wer könnte innerhalb des Romans bei Thermodynamischer Phänomenalismus etwas über „Grenze zwischen Information und Erleben“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Information und Erleben“ bei Thermodynamischer Phänomenalismus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Information und Erleben“ bei Thermodynamischer Phänomenalismus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-031",
+   "question": "Wie lässt sich „Grenze zwischen Information und Erleben“ bei Thermodynamischer Phänomenalismus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-032",
+   "question": "Welche Alternativen sollte der Autor bei Thermodynamischer Phänomenalismus für „Grenze zwischen Information und Erleben“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-033",
+   "question": "Was bedeutet bei Thermodynamischer Phänomenalismus der Themenpunkt „Prüfbarkeit des Bewusstseinsmodells“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-034",
+   "question": "Welche Lesarten auf der Seite zu Thermodynamischer Phänomenalismus stützen oder begrenzen „Prüfbarkeit des Bewusstseinsmodells“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-035",
+   "question": "Welcher Grenzfall würde bei Thermodynamischer Phänomenalismus die Annahmen über „Prüfbarkeit des Bewusstseinsmodells“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-036",
+   "question": "Wer könnte innerhalb des Romans bei Thermodynamischer Phänomenalismus etwas über „Prüfbarkeit des Bewusstseinsmodells“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-037",
+   "question": "Welche konkrete Entscheidung könnte „Prüfbarkeit des Bewusstseinsmodells“ bei Thermodynamischer Phänomenalismus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Prüfbarkeit des Bewusstseinsmodells“ bei Thermodynamischer Phänomenalismus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-039",
+   "question": "Wie lässt sich „Prüfbarkeit des Bewusstseinsmodells“ bei Thermodynamischer Phänomenalismus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-040",
+   "question": "Welche Alternativen sollte der Autor bei Thermodynamischer Phänomenalismus für „Prüfbarkeit des Bewusstseinsmodells“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-041",
+   "question": "Wo unterscheiden sich Thermodynamischer Phänomenalismus und Landauer-Signatur, wenn man sie unter dem Gesichtspunkt „Status einer philosophischen Deutung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-042",
+   "question": "Welche Quelle verbindet Thermodynamischer Phänomenalismus mit Landauer-Signatur in Bezug auf „Status einer philosophischen Deutung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-043",
+   "question": "Welche Grenzen aus der Seite zu Landauer-Signatur müsste eine Deutung von Thermodynamischer Phänomenalismus unter „Status einer philosophischen Deutung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-044",
+   "question": "Wie könnte sich das Wissen über Thermodynamischer Phänomenalismus vom Wissen über Landauer-Signatur unterscheiden, wenn „Status einer philosophischen Deutung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Thermodynamischer Phänomenalismus und Landauer-Signatur bei „Status einer philosophischen Deutung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-046",
+   "question": "Falls Thermodynamischer Phänomenalismus im Hinblick auf „Status einer philosophischen Deutung“ anders festgelegt wird: Welche Aussagen über Landauer-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Thermodynamischer Phänomenalismus und Landauer-Signatur bei „Status einer philosophischen Deutung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-048",
+   "question": "Braucht der Roman eine Verbindung von Thermodynamischer Phänomenalismus und Landauer-Signatur bei „Status einer philosophischen Deutung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-049",
+   "question": "In welchem denkbaren Fall könnte Thermodynamischer Phänomenalismus bestehen, ohne dass Landauer-Signatur dieselbe Funktion übernimmt, und was würde das für „Status einer philosophischen Deutung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-050",
+   "question": "Welche Kosten könnte eine Verbindung von Thermodynamischer Phänomenalismus und Landauer-Signatur in Bezug auf „Status einer philosophischen Deutung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-051",
+   "question": "Welche ältere Lesart von Thermodynamischer Phänomenalismus oder Landauer-Signatur könnte die Gegenüberstellung unter „Status einer philosophischen Deutung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Thermodynamischer Phänomenalismus und Landauer-Signatur unter „Status einer philosophischen Deutung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-053",
+   "question": "Wo unterscheiden sich Thermodynamischer Phänomenalismus und Dual-Kernel-Theorie (DKT), wenn man sie unter dem Gesichtspunkt „Qualia als thermodynamische Reibung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-054",
+   "question": "Welche Quelle verbindet Thermodynamischer Phänomenalismus mit Dual-Kernel-Theorie (DKT) in Bezug auf „Qualia als thermodynamische Reibung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-055",
+   "question": "Welche Grenzen aus der Seite zu Dual-Kernel-Theorie (DKT) müsste eine Deutung von Thermodynamischer Phänomenalismus unter „Qualia als thermodynamische Reibung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-056",
+   "question": "Wie könnte sich das Wissen über Thermodynamischer Phänomenalismus vom Wissen über Dual-Kernel-Theorie (DKT) unterscheiden, wenn „Qualia als thermodynamische Reibung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Thermodynamischer Phänomenalismus und Dual-Kernel-Theorie (DKT) bei „Qualia als thermodynamische Reibung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-058",
+   "question": "Falls Thermodynamischer Phänomenalismus im Hinblick auf „Qualia als thermodynamische Reibung“ anders festgelegt wird: Welche Aussagen über Dual-Kernel-Theorie (DKT) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Thermodynamischer Phänomenalismus und Dual-Kernel-Theorie (DKT) bei „Qualia als thermodynamische Reibung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-060",
+   "question": "Braucht der Roman eine Verbindung von Thermodynamischer Phänomenalismus und Dual-Kernel-Theorie (DKT) bei „Qualia als thermodynamische Reibung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-061",
+   "question": "In welchem denkbaren Fall könnte Thermodynamischer Phänomenalismus bestehen, ohne dass Dual-Kernel-Theorie (DKT) dieselbe Funktion übernimmt, und was würde das für „Qualia als thermodynamische Reibung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-062",
+   "question": "Welche Kosten könnte eine Verbindung von Thermodynamischer Phänomenalismus und Dual-Kernel-Theorie (DKT) in Bezug auf „Qualia als thermodynamische Reibung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-063",
+   "question": "Welche ältere Lesart von Thermodynamischer Phänomenalismus oder Dual-Kernel-Theorie (DKT) könnte die Gegenüberstellung unter „Qualia als thermodynamische Reibung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Thermodynamischer Phänomenalismus und Dual-Kernel-Theorie (DKT) unter „Qualia als thermodynamische Reibung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-065",
+   "question": "Wo unterscheiden sich Thermodynamischer Phänomenalismus und Coheron, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Gefühl und Wärme“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-066",
+   "question": "Welche Quelle verbindet Thermodynamischer Phänomenalismus mit Coheron in Bezug auf „Unterschied zwischen Gefühl und Wärme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-067",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Thermodynamischer Phänomenalismus unter „Unterschied zwischen Gefühl und Wärme“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-068",
+   "question": "Wie könnte sich das Wissen über Thermodynamischer Phänomenalismus vom Wissen über Coheron unterscheiden, wenn „Unterschied zwischen Gefühl und Wärme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Thermodynamischer Phänomenalismus und Coheron bei „Unterschied zwischen Gefühl und Wärme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-070",
+   "question": "Falls Thermodynamischer Phänomenalismus im Hinblick auf „Unterschied zwischen Gefühl und Wärme“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Thermodynamischer Phänomenalismus und Coheron bei „Unterschied zwischen Gefühl und Wärme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-072",
+   "question": "Braucht der Roman eine Verbindung von Thermodynamischer Phänomenalismus und Coheron bei „Unterschied zwischen Gefühl und Wärme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-073",
+   "question": "In welchem denkbaren Fall könnte Thermodynamischer Phänomenalismus bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Gefühl und Wärme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-074",
+   "question": "Welche Kosten könnte eine Verbindung von Thermodynamischer Phänomenalismus und Coheron in Bezug auf „Unterschied zwischen Gefühl und Wärme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-075",
+   "question": "Welche ältere Lesart von Thermodynamischer Phänomenalismus oder Coheron könnte die Gegenüberstellung unter „Unterschied zwischen Gefühl und Wärme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Thermodynamischer Phänomenalismus und Coheron unter „Unterschied zwischen Gefühl und Wärme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-077",
+   "question": "Wo unterscheiden sich Thermodynamischer Phänomenalismus und Erason, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Information und Erleben“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-078",
+   "question": "Welche Quelle verbindet Thermodynamischer Phänomenalismus mit Erason in Bezug auf „Grenze zwischen Information und Erleben“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-079",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Thermodynamischer Phänomenalismus unter „Grenze zwischen Information und Erleben“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-080",
+   "question": "Wie könnte sich das Wissen über Thermodynamischer Phänomenalismus vom Wissen über Erason unterscheiden, wenn „Grenze zwischen Information und Erleben“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Thermodynamischer Phänomenalismus und Erason bei „Grenze zwischen Information und Erleben“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-082",
+   "question": "Falls Thermodynamischer Phänomenalismus im Hinblick auf „Grenze zwischen Information und Erleben“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Thermodynamischer Phänomenalismus und Erason bei „Grenze zwischen Information und Erleben“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-084",
+   "question": "Braucht der Roman eine Verbindung von Thermodynamischer Phänomenalismus und Erason bei „Grenze zwischen Information und Erleben“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-085",
+   "question": "In welchem denkbaren Fall könnte Thermodynamischer Phänomenalismus bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Information und Erleben“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-086",
+   "question": "Welche Kosten könnte eine Verbindung von Thermodynamischer Phänomenalismus und Erason in Bezug auf „Grenze zwischen Information und Erleben“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-087",
+   "question": "Welche ältere Lesart von Thermodynamischer Phänomenalismus oder Erason könnte die Gegenüberstellung unter „Grenze zwischen Information und Erleben“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Thermodynamischer Phänomenalismus und Erason unter „Grenze zwischen Information und Erleben“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-089",
+   "question": "Wo unterscheiden sich Thermodynamischer Phänomenalismus und Algorithmische Melancholie, wenn man sie unter dem Gesichtspunkt „Prüfbarkeit des Bewusstseinsmodells“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-090",
+   "question": "Welche Quelle verbindet Thermodynamischer Phänomenalismus mit Algorithmische Melancholie in Bezug auf „Prüfbarkeit des Bewusstseinsmodells“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-091",
+   "question": "Welche Grenzen aus der Seite zu Algorithmische Melancholie müsste eine Deutung von Thermodynamischer Phänomenalismus unter „Prüfbarkeit des Bewusstseinsmodells“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-092",
+   "question": "Wie könnte sich das Wissen über Thermodynamischer Phänomenalismus vom Wissen über Algorithmische Melancholie unterscheiden, wenn „Prüfbarkeit des Bewusstseinsmodells“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Thermodynamischer Phänomenalismus und Algorithmische Melancholie bei „Prüfbarkeit des Bewusstseinsmodells“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-094",
+   "question": "Falls Thermodynamischer Phänomenalismus im Hinblick auf „Prüfbarkeit des Bewusstseinsmodells“ anders festgelegt wird: Welche Aussagen über Algorithmische Melancholie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Thermodynamischer Phänomenalismus und Algorithmische Melancholie bei „Prüfbarkeit des Bewusstseinsmodells“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-096",
+   "question": "Braucht der Roman eine Verbindung von Thermodynamischer Phänomenalismus und Algorithmische Melancholie bei „Prüfbarkeit des Bewusstseinsmodells“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-097",
+   "question": "In welchem denkbaren Fall könnte Thermodynamischer Phänomenalismus bestehen, ohne dass Algorithmische Melancholie dieselbe Funktion übernimmt, und was würde das für „Prüfbarkeit des Bewusstseinsmodells“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-098",
+   "question": "Welche Kosten könnte eine Verbindung von Thermodynamischer Phänomenalismus und Algorithmische Melancholie in Bezug auf „Prüfbarkeit des Bewusstseinsmodells“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-099",
+   "question": "Welche ältere Lesart von Thermodynamischer Phänomenalismus oder Algorithmische Melancholie könnte die Gegenüberstellung unter „Prüfbarkeit des Bewusstseinsmodells“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-thermodynamischer-phaenomenalismus-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Thermodynamischer Phänomenalismus und Algorithmische Melancholie unter „Prüfbarkeit des Bewusstseinsmodells“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "thermodynamischer-phaenomenalismus",
+    "algorithmische-melancholie"
+   ]
+  }
+ ]
+}

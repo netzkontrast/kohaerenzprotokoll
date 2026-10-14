@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "drei-ontologische-schichten",
+ "title": "Drei ontologische Schichten",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Gleichzeitigkeit der Schichten",
+  "Unterschied zwischen Schicht und Ort",
+  "Stellung des Zeitprinzips",
+  "Einheit vor der Trennung",
+  "Zugang zwischen ontologischen Zuständen"
+ ],
+ "basis": {
+  "drei-ontologische-schichten": {
+   "title": "Drei ontologische Schichten",
+   "path": "Wiki/candidates/drei-ontologische-schichten.md",
+   "hash": "7a502c21f77d057073e5aa20358987b8e6ef4a3269781606cb5a5ec8ffb67c8d"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  },
+  "k0-existenz": {
+   "title": "K0-Existenz",
+   "path": "Wiki/candidates/k0-existenz.md",
+   "hash": "c3a340bb3d310fc40c5f29c873588d250c4b8a4ce73918ddf6c5698ff157f0da"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-drei-ontologische-schichten-001",
+   "question": "Wie unterscheiden sich die drei gleichzeitig geltenden ontologischen Schichten von den räumlich durchlaufenen Realitätsebenen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-002",
+   "question": "Welche Lesarten auf der Seite zu Drei ontologische Schichten stützen oder begrenzen „Gleichzeitigkeit der Schichten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-003",
+   "question": "Welcher Grenzfall würde bei Drei ontologische Schichten die Annahmen über „Gleichzeitigkeit der Schichten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-004",
+   "question": "Wer könnte innerhalb des Romans bei Drei ontologische Schichten etwas über „Gleichzeitigkeit der Schichten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-005",
+   "question": "Welche konkrete Entscheidung könnte „Gleichzeitigkeit der Schichten“ bei Drei ontologische Schichten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gleichzeitigkeit der Schichten“ bei Drei ontologische Schichten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-007",
+   "question": "Wie lässt sich „Gleichzeitigkeit der Schichten“ bei Drei ontologische Schichten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-008",
+   "question": "Welche Alternativen sollte der Autor bei Drei ontologische Schichten für „Gleichzeitigkeit der Schichten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-009",
+   "question": "Was bedeutet bei Drei ontologische Schichten der Themenpunkt „Unterschied zwischen Schicht und Ort“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-010",
+   "question": "Welche Lesarten auf der Seite zu Drei ontologische Schichten stützen oder begrenzen „Unterschied zwischen Schicht und Ort“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-011",
+   "question": "Welcher Grenzfall würde bei Drei ontologische Schichten die Annahmen über „Unterschied zwischen Schicht und Ort“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-012",
+   "question": "Wer könnte innerhalb des Romans bei Drei ontologische Schichten etwas über „Unterschied zwischen Schicht und Ort“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Schicht und Ort“ bei Drei ontologische Schichten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Schicht und Ort“ bei Drei ontologische Schichten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-015",
+   "question": "Wie lässt sich „Unterschied zwischen Schicht und Ort“ bei Drei ontologische Schichten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-016",
+   "question": "Welche Alternativen sollte der Autor bei Drei ontologische Schichten für „Unterschied zwischen Schicht und Ort“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-017",
+   "question": "Was bedeutet bei Drei ontologische Schichten der Themenpunkt „Stellung des Zeitprinzips“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-018",
+   "question": "Welche Lesarten auf der Seite zu Drei ontologische Schichten stützen oder begrenzen „Stellung des Zeitprinzips“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-019",
+   "question": "Welcher Grenzfall würde bei Drei ontologische Schichten die Annahmen über „Stellung des Zeitprinzips“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-020",
+   "question": "Wer könnte innerhalb des Romans bei Drei ontologische Schichten etwas über „Stellung des Zeitprinzips“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-021",
+   "question": "Welche konkrete Entscheidung könnte „Stellung des Zeitprinzips“ bei Drei ontologische Schichten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Stellung des Zeitprinzips“ bei Drei ontologische Schichten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-023",
+   "question": "Wie lässt sich „Stellung des Zeitprinzips“ bei Drei ontologische Schichten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-024",
+   "question": "Welche Alternativen sollte der Autor bei Drei ontologische Schichten für „Stellung des Zeitprinzips“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-025",
+   "question": "Was bedeutet bei Drei ontologische Schichten der Themenpunkt „Einheit vor der Trennung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-026",
+   "question": "Welche Lesarten auf der Seite zu Drei ontologische Schichten stützen oder begrenzen „Einheit vor der Trennung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-027",
+   "question": "Welcher Grenzfall würde bei Drei ontologische Schichten die Annahmen über „Einheit vor der Trennung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-028",
+   "question": "Wer könnte innerhalb des Romans bei Drei ontologische Schichten etwas über „Einheit vor der Trennung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-029",
+   "question": "Welche konkrete Entscheidung könnte „Einheit vor der Trennung“ bei Drei ontologische Schichten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Einheit vor der Trennung“ bei Drei ontologische Schichten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-031",
+   "question": "Wie lässt sich „Einheit vor der Trennung“ bei Drei ontologische Schichten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-032",
+   "question": "Welche Alternativen sollte der Autor bei Drei ontologische Schichten für „Einheit vor der Trennung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-033",
+   "question": "Was bedeutet bei Drei ontologische Schichten der Themenpunkt „Zugang zwischen ontologischen Zuständen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-034",
+   "question": "Welche Lesarten auf der Seite zu Drei ontologische Schichten stützen oder begrenzen „Zugang zwischen ontologischen Zuständen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-035",
+   "question": "Welcher Grenzfall würde bei Drei ontologische Schichten die Annahmen über „Zugang zwischen ontologischen Zuständen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-036",
+   "question": "Wer könnte innerhalb des Romans bei Drei ontologische Schichten etwas über „Zugang zwischen ontologischen Zuständen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-037",
+   "question": "Welche konkrete Entscheidung könnte „Zugang zwischen ontologischen Zuständen“ bei Drei ontologische Schichten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugang zwischen ontologischen Zuständen“ bei Drei ontologische Schichten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-039",
+   "question": "Wie lässt sich „Zugang zwischen ontologischen Zuständen“ bei Drei ontologische Schichten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-040",
+   "question": "Welche Alternativen sollte der Autor bei Drei ontologische Schichten für „Zugang zwischen ontologischen Zuständen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-041",
+   "question": "Wo unterscheiden sich Drei ontologische Schichten und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Gleichzeitigkeit der Schichten“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-042",
+   "question": "Welche Quelle verbindet Drei ontologische Schichten mit Realitätsebenen in Bezug auf „Gleichzeitigkeit der Schichten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-043",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Drei ontologische Schichten unter „Gleichzeitigkeit der Schichten“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-044",
+   "question": "Wie könnte sich das Wissen über Drei ontologische Schichten vom Wissen über Realitätsebenen unterscheiden, wenn „Gleichzeitigkeit der Schichten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Drei ontologische Schichten und Realitätsebenen bei „Gleichzeitigkeit der Schichten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-046",
+   "question": "Falls Drei ontologische Schichten im Hinblick auf „Gleichzeitigkeit der Schichten“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Drei ontologische Schichten und Realitätsebenen bei „Gleichzeitigkeit der Schichten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-048",
+   "question": "Braucht der Roman eine Verbindung von Drei ontologische Schichten und Realitätsebenen bei „Gleichzeitigkeit der Schichten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-049",
+   "question": "In welchem denkbaren Fall könnte Drei ontologische Schichten bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Gleichzeitigkeit der Schichten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-050",
+   "question": "Welche Kosten könnte eine Verbindung von Drei ontologische Schichten und Realitätsebenen in Bezug auf „Gleichzeitigkeit der Schichten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-051",
+   "question": "Welche ältere Lesart von Drei ontologische Schichten oder Realitätsebenen könnte die Gegenüberstellung unter „Gleichzeitigkeit der Schichten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Drei ontologische Schichten und Realitätsebenen unter „Gleichzeitigkeit der Schichten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "drei-ontologische-schichten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-053",
+   "question": "Wo unterscheiden sich Drei ontologische Schichten und K0-Existenz, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Schicht und Ort“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-054",
+   "question": "Welche Quelle verbindet Drei ontologische Schichten mit K0-Existenz in Bezug auf „Unterschied zwischen Schicht und Ort“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-055",
+   "question": "Welche Grenzen aus der Seite zu K0-Existenz müsste eine Deutung von Drei ontologische Schichten unter „Unterschied zwischen Schicht und Ort“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-056",
+   "question": "Wie könnte sich das Wissen über Drei ontologische Schichten vom Wissen über K0-Existenz unterscheiden, wenn „Unterschied zwischen Schicht und Ort“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Drei ontologische Schichten und K0-Existenz bei „Unterschied zwischen Schicht und Ort“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-058",
+   "question": "Falls Drei ontologische Schichten im Hinblick auf „Unterschied zwischen Schicht und Ort“ anders festgelegt wird: Welche Aussagen über K0-Existenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Drei ontologische Schichten und K0-Existenz bei „Unterschied zwischen Schicht und Ort“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-060",
+   "question": "Braucht der Roman eine Verbindung von Drei ontologische Schichten und K0-Existenz bei „Unterschied zwischen Schicht und Ort“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-061",
+   "question": "In welchem denkbaren Fall könnte Drei ontologische Schichten bestehen, ohne dass K0-Existenz dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Schicht und Ort“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-062",
+   "question": "Welche Kosten könnte eine Verbindung von Drei ontologische Schichten und K0-Existenz in Bezug auf „Unterschied zwischen Schicht und Ort“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-063",
+   "question": "Welche ältere Lesart von Drei ontologische Schichten oder K0-Existenz könnte die Gegenüberstellung unter „Unterschied zwischen Schicht und Ort“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Drei ontologische Schichten und K0-Existenz unter „Unterschied zwischen Schicht und Ort“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "drei-ontologische-schichten",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-065",
+   "question": "Wo unterscheiden sich Drei ontologische Schichten und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Stellung des Zeitprinzips“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-066",
+   "question": "Welche Quelle verbindet Drei ontologische Schichten mit Nichts-Rauschen in Bezug auf „Stellung des Zeitprinzips“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-067",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von Drei ontologische Schichten unter „Stellung des Zeitprinzips“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-068",
+   "question": "Wie könnte sich das Wissen über Drei ontologische Schichten vom Wissen über Nichts-Rauschen unterscheiden, wenn „Stellung des Zeitprinzips“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Drei ontologische Schichten und Nichts-Rauschen bei „Stellung des Zeitprinzips“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-070",
+   "question": "Falls Drei ontologische Schichten im Hinblick auf „Stellung des Zeitprinzips“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Drei ontologische Schichten und Nichts-Rauschen bei „Stellung des Zeitprinzips“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-072",
+   "question": "Braucht der Roman eine Verbindung von Drei ontologische Schichten und Nichts-Rauschen bei „Stellung des Zeitprinzips“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-073",
+   "question": "In welchem denkbaren Fall könnte Drei ontologische Schichten bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Stellung des Zeitprinzips“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-074",
+   "question": "Welche Kosten könnte eine Verbindung von Drei ontologische Schichten und Nichts-Rauschen in Bezug auf „Stellung des Zeitprinzips“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-075",
+   "question": "Welche ältere Lesart von Drei ontologische Schichten oder Nichts-Rauschen könnte die Gegenüberstellung unter „Stellung des Zeitprinzips“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Drei ontologische Schichten und Nichts-Rauschen unter „Stellung des Zeitprinzips“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "drei-ontologische-schichten",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-077",
+   "question": "Wo unterscheiden sich Drei ontologische Schichten und Juna, wenn man sie unter dem Gesichtspunkt „Einheit vor der Trennung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-078",
+   "question": "Welche Quelle verbindet Drei ontologische Schichten mit Juna in Bezug auf „Einheit vor der Trennung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-079",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Drei ontologische Schichten unter „Einheit vor der Trennung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-080",
+   "question": "Wie könnte sich das Wissen über Drei ontologische Schichten vom Wissen über Juna unterscheiden, wenn „Einheit vor der Trennung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Drei ontologische Schichten und Juna bei „Einheit vor der Trennung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-082",
+   "question": "Falls Drei ontologische Schichten im Hinblick auf „Einheit vor der Trennung“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Drei ontologische Schichten und Juna bei „Einheit vor der Trennung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-084",
+   "question": "Braucht der Roman eine Verbindung von Drei ontologische Schichten und Juna bei „Einheit vor der Trennung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-085",
+   "question": "In welchem denkbaren Fall könnte Drei ontologische Schichten bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Einheit vor der Trennung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-086",
+   "question": "Welche Kosten könnte eine Verbindung von Drei ontologische Schichten und Juna in Bezug auf „Einheit vor der Trennung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-087",
+   "question": "Welche ältere Lesart von Drei ontologische Schichten oder Juna könnte die Gegenüberstellung unter „Einheit vor der Trennung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Drei ontologische Schichten und Juna unter „Einheit vor der Trennung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "drei-ontologische-schichten",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-089",
+   "question": "Wo unterscheiden sich Drei ontologische Schichten und Dual-Kernel-Theorie (DKT), wenn man sie unter dem Gesichtspunkt „Zugang zwischen ontologischen Zuständen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-090",
+   "question": "Welche Quelle verbindet Drei ontologische Schichten mit Dual-Kernel-Theorie (DKT) in Bezug auf „Zugang zwischen ontologischen Zuständen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-091",
+   "question": "Welche Grenzen aus der Seite zu Dual-Kernel-Theorie (DKT) müsste eine Deutung von Drei ontologische Schichten unter „Zugang zwischen ontologischen Zuständen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-092",
+   "question": "Wie könnte sich das Wissen über Drei ontologische Schichten vom Wissen über Dual-Kernel-Theorie (DKT) unterscheiden, wenn „Zugang zwischen ontologischen Zuständen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Drei ontologische Schichten und Dual-Kernel-Theorie (DKT) bei „Zugang zwischen ontologischen Zuständen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-094",
+   "question": "Falls Drei ontologische Schichten im Hinblick auf „Zugang zwischen ontologischen Zuständen“ anders festgelegt wird: Welche Aussagen über Dual-Kernel-Theorie (DKT) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Drei ontologische Schichten und Dual-Kernel-Theorie (DKT) bei „Zugang zwischen ontologischen Zuständen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-096",
+   "question": "Braucht der Roman eine Verbindung von Drei ontologische Schichten und Dual-Kernel-Theorie (DKT) bei „Zugang zwischen ontologischen Zuständen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-097",
+   "question": "In welchem denkbaren Fall könnte Drei ontologische Schichten bestehen, ohne dass Dual-Kernel-Theorie (DKT) dieselbe Funktion übernimmt, und was würde das für „Zugang zwischen ontologischen Zuständen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-098",
+   "question": "Welche Kosten könnte eine Verbindung von Drei ontologische Schichten und Dual-Kernel-Theorie (DKT) in Bezug auf „Zugang zwischen ontologischen Zuständen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-099",
+   "question": "Welche ältere Lesart von Drei ontologische Schichten oder Dual-Kernel-Theorie (DKT) könnte die Gegenüberstellung unter „Zugang zwischen ontologischen Zuständen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-drei-ontologische-schichten-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Drei ontologische Schichten und Dual-Kernel-Theorie (DKT) unter „Zugang zwischen ontologischen Zuständen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "drei-ontologische-schichten",
+    "dkt"
+   ]
+  }
+ ]
+}

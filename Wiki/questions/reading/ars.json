@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ars",
+ "title": "ARS — Autopoietische Reentry-Segmentierung",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Autopoiesis ohne äußeren Input",
+  "Reentry als Selbstbezug",
+  "Segmentierung des Systems",
+  "Unterscheidung von Postulat und Kritik",
+  "Zirkularität der Begründung"
+ ],
+ "basis": {
+  "ars": {
+   "title": "ARS — Autopoietische Reentry-Segmentierung",
+   "path": "Wiki/candidates/ars.md",
+   "hash": "99e25ae6bd378660810f3d60d0cc1c498368062b587d57b0c58b21efa805fa50"
+  },
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  },
+  "rsa": {
+   "title": "RSA — Rekursive semantische Autogenese",
+   "path": "Wiki/candidates/rsa.md",
+   "hash": "bf91e26da13bc4edd430b1bec2bc945eb8d230819bf30206976507a9dc8abfba"
+  },
+  "ani": {
+   "title": "ANI — Äußere Nicht-Identifikation",
+   "path": "Wiki/candidates/ani.md",
+   "hash": "626a0d92812e0a67660438f5761e6fc59c4a8e9d3a8e017dd9b199027834af19"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ars-001",
+   "question": "Wie soll ein System durch Reentry neue Segmente bilden, wenn sein angeblich leerer Ausgangszustand noch keine Unterscheidung erlaubt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-002",
+   "question": "Welche Lesarten auf der Seite zu ARS — Autopoietische Reentry-Segmentierung stützen oder begrenzen „Autopoiesis ohne äußeren Input“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-003",
+   "question": "Welcher Grenzfall würde bei ARS — Autopoietische Reentry-Segmentierung die Annahmen über „Autopoiesis ohne äußeren Input“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-004",
+   "question": "Wer könnte innerhalb des Romans bei ARS — Autopoietische Reentry-Segmentierung etwas über „Autopoiesis ohne äußeren Input“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-005",
+   "question": "Welche konkrete Entscheidung könnte „Autopoiesis ohne äußeren Input“ bei ARS — Autopoietische Reentry-Segmentierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Autopoiesis ohne äußeren Input“ bei ARS — Autopoietische Reentry-Segmentierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-007",
+   "question": "Wie lässt sich „Autopoiesis ohne äußeren Input“ bei ARS — Autopoietische Reentry-Segmentierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-008",
+   "question": "Welche Alternativen sollte der Autor bei ARS — Autopoietische Reentry-Segmentierung für „Autopoiesis ohne äußeren Input“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-009",
+   "question": "Was bedeutet bei ARS — Autopoietische Reentry-Segmentierung der Themenpunkt „Reentry als Selbstbezug“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-010",
+   "question": "Welche Lesarten auf der Seite zu ARS — Autopoietische Reentry-Segmentierung stützen oder begrenzen „Reentry als Selbstbezug“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-011",
+   "question": "Welcher Grenzfall würde bei ARS — Autopoietische Reentry-Segmentierung die Annahmen über „Reentry als Selbstbezug“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-012",
+   "question": "Wer könnte innerhalb des Romans bei ARS — Autopoietische Reentry-Segmentierung etwas über „Reentry als Selbstbezug“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-013",
+   "question": "Welche konkrete Entscheidung könnte „Reentry als Selbstbezug“ bei ARS — Autopoietische Reentry-Segmentierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Reentry als Selbstbezug“ bei ARS — Autopoietische Reentry-Segmentierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-015",
+   "question": "Wie lässt sich „Reentry als Selbstbezug“ bei ARS — Autopoietische Reentry-Segmentierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-016",
+   "question": "Welche Alternativen sollte der Autor bei ARS — Autopoietische Reentry-Segmentierung für „Reentry als Selbstbezug“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-017",
+   "question": "Was bedeutet bei ARS — Autopoietische Reentry-Segmentierung der Themenpunkt „Segmentierung des Systems“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-018",
+   "question": "Welche Lesarten auf der Seite zu ARS — Autopoietische Reentry-Segmentierung stützen oder begrenzen „Segmentierung des Systems“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-019",
+   "question": "Welcher Grenzfall würde bei ARS — Autopoietische Reentry-Segmentierung die Annahmen über „Segmentierung des Systems“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-020",
+   "question": "Wer könnte innerhalb des Romans bei ARS — Autopoietische Reentry-Segmentierung etwas über „Segmentierung des Systems“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-021",
+   "question": "Welche konkrete Entscheidung könnte „Segmentierung des Systems“ bei ARS — Autopoietische Reentry-Segmentierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Segmentierung des Systems“ bei ARS — Autopoietische Reentry-Segmentierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-023",
+   "question": "Wie lässt sich „Segmentierung des Systems“ bei ARS — Autopoietische Reentry-Segmentierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-024",
+   "question": "Welche Alternativen sollte der Autor bei ARS — Autopoietische Reentry-Segmentierung für „Segmentierung des Systems“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-025",
+   "question": "Was bedeutet bei ARS — Autopoietische Reentry-Segmentierung der Themenpunkt „Unterscheidung von Postulat und Kritik“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-026",
+   "question": "Welche Lesarten auf der Seite zu ARS — Autopoietische Reentry-Segmentierung stützen oder begrenzen „Unterscheidung von Postulat und Kritik“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-027",
+   "question": "Welcher Grenzfall würde bei ARS — Autopoietische Reentry-Segmentierung die Annahmen über „Unterscheidung von Postulat und Kritik“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-028",
+   "question": "Wer könnte innerhalb des Romans bei ARS — Autopoietische Reentry-Segmentierung etwas über „Unterscheidung von Postulat und Kritik“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterscheidung von Postulat und Kritik“ bei ARS — Autopoietische Reentry-Segmentierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterscheidung von Postulat und Kritik“ bei ARS — Autopoietische Reentry-Segmentierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-031",
+   "question": "Wie lässt sich „Unterscheidung von Postulat und Kritik“ bei ARS — Autopoietische Reentry-Segmentierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-032",
+   "question": "Welche Alternativen sollte der Autor bei ARS — Autopoietische Reentry-Segmentierung für „Unterscheidung von Postulat und Kritik“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-033",
+   "question": "Was bedeutet bei ARS — Autopoietische Reentry-Segmentierung der Themenpunkt „Zirkularität der Begründung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-034",
+   "question": "Welche Lesarten auf der Seite zu ARS — Autopoietische Reentry-Segmentierung stützen oder begrenzen „Zirkularität der Begründung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-035",
+   "question": "Welcher Grenzfall würde bei ARS — Autopoietische Reentry-Segmentierung die Annahmen über „Zirkularität der Begründung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-036",
+   "question": "Wer könnte innerhalb des Romans bei ARS — Autopoietische Reentry-Segmentierung etwas über „Zirkularität der Begründung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-037",
+   "question": "Welche konkrete Entscheidung könnte „Zirkularität der Begründung“ bei ARS — Autopoietische Reentry-Segmentierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zirkularität der Begründung“ bei ARS — Autopoietische Reentry-Segmentierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-039",
+   "question": "Wie lässt sich „Zirkularität der Begründung“ bei ARS — Autopoietische Reentry-Segmentierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-040",
+   "question": "Welche Alternativen sollte der Autor bei ARS — Autopoietische Reentry-Segmentierung für „Zirkularität der Begründung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-ars-041",
+   "question": "Wo unterscheiden sich ARS — Autopoietische Reentry-Segmentierung und Emergenz, wenn man sie unter dem Gesichtspunkt „Autopoiesis ohne äußeren Input“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-042",
+   "question": "Welche Quelle verbindet ARS — Autopoietische Reentry-Segmentierung mit Emergenz in Bezug auf „Autopoiesis ohne äußeren Input“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-043",
+   "question": "Welche Grenzen aus der Seite zu Emergenz müsste eine Deutung von ARS — Autopoietische Reentry-Segmentierung unter „Autopoiesis ohne äußeren Input“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-044",
+   "question": "Wie könnte sich das Wissen über ARS — Autopoietische Reentry-Segmentierung vom Wissen über Emergenz unterscheiden, wenn „Autopoiesis ohne äußeren Input“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ARS — Autopoietische Reentry-Segmentierung und Emergenz bei „Autopoiesis ohne äußeren Input“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-046",
+   "question": "Falls ARS — Autopoietische Reentry-Segmentierung im Hinblick auf „Autopoiesis ohne äußeren Input“ anders festgelegt wird: Welche Aussagen über Emergenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ARS — Autopoietische Reentry-Segmentierung und Emergenz bei „Autopoiesis ohne äußeren Input“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-048",
+   "question": "Braucht der Roman eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und Emergenz bei „Autopoiesis ohne äußeren Input“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-049",
+   "question": "In welchem denkbaren Fall könnte ARS — Autopoietische Reentry-Segmentierung bestehen, ohne dass Emergenz dieselbe Funktion übernimmt, und was würde das für „Autopoiesis ohne äußeren Input“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-050",
+   "question": "Welche Kosten könnte eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und Emergenz in Bezug auf „Autopoiesis ohne äußeren Input“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-051",
+   "question": "Welche ältere Lesart von ARS — Autopoietische Reentry-Segmentierung oder Emergenz könnte die Gegenüberstellung unter „Autopoiesis ohne äußeren Input“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ARS — Autopoietische Reentry-Segmentierung und Emergenz unter „Autopoiesis ohne äußeren Input“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ars",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-ars-053",
+   "question": "Wo unterscheiden sich ARS — Autopoietische Reentry-Segmentierung und RSA — Rekursive semantische Autogenese, wenn man sie unter dem Gesichtspunkt „Reentry als Selbstbezug“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-054",
+   "question": "Welche Quelle verbindet ARS — Autopoietische Reentry-Segmentierung mit RSA — Rekursive semantische Autogenese in Bezug auf „Reentry als Selbstbezug“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-055",
+   "question": "Welche Grenzen aus der Seite zu RSA — Rekursive semantische Autogenese müsste eine Deutung von ARS — Autopoietische Reentry-Segmentierung unter „Reentry als Selbstbezug“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-056",
+   "question": "Wie könnte sich das Wissen über ARS — Autopoietische Reentry-Segmentierung vom Wissen über RSA — Rekursive semantische Autogenese unterscheiden, wenn „Reentry als Selbstbezug“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ARS — Autopoietische Reentry-Segmentierung und RSA — Rekursive semantische Autogenese bei „Reentry als Selbstbezug“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-058",
+   "question": "Falls ARS — Autopoietische Reentry-Segmentierung im Hinblick auf „Reentry als Selbstbezug“ anders festgelegt wird: Welche Aussagen über RSA — Rekursive semantische Autogenese müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ARS — Autopoietische Reentry-Segmentierung und RSA — Rekursive semantische Autogenese bei „Reentry als Selbstbezug“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-060",
+   "question": "Braucht der Roman eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und RSA — Rekursive semantische Autogenese bei „Reentry als Selbstbezug“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-061",
+   "question": "In welchem denkbaren Fall könnte ARS — Autopoietische Reentry-Segmentierung bestehen, ohne dass RSA — Rekursive semantische Autogenese dieselbe Funktion übernimmt, und was würde das für „Reentry als Selbstbezug“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-062",
+   "question": "Welche Kosten könnte eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und RSA — Rekursive semantische Autogenese in Bezug auf „Reentry als Selbstbezug“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-063",
+   "question": "Welche ältere Lesart von ARS — Autopoietische Reentry-Segmentierung oder RSA — Rekursive semantische Autogenese könnte die Gegenüberstellung unter „Reentry als Selbstbezug“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ARS — Autopoietische Reentry-Segmentierung und RSA — Rekursive semantische Autogenese unter „Reentry als Selbstbezug“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ars",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-ars-065",
+   "question": "Wo unterscheiden sich ARS — Autopoietische Reentry-Segmentierung und ANI — Äußere Nicht-Identifikation, wenn man sie unter dem Gesichtspunkt „Segmentierung des Systems“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-066",
+   "question": "Welche Quelle verbindet ARS — Autopoietische Reentry-Segmentierung mit ANI — Äußere Nicht-Identifikation in Bezug auf „Segmentierung des Systems“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-067",
+   "question": "Welche Grenzen aus der Seite zu ANI — Äußere Nicht-Identifikation müsste eine Deutung von ARS — Autopoietische Reentry-Segmentierung unter „Segmentierung des Systems“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-068",
+   "question": "Wie könnte sich das Wissen über ARS — Autopoietische Reentry-Segmentierung vom Wissen über ANI — Äußere Nicht-Identifikation unterscheiden, wenn „Segmentierung des Systems“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ARS — Autopoietische Reentry-Segmentierung und ANI — Äußere Nicht-Identifikation bei „Segmentierung des Systems“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-070",
+   "question": "Falls ARS — Autopoietische Reentry-Segmentierung im Hinblick auf „Segmentierung des Systems“ anders festgelegt wird: Welche Aussagen über ANI — Äußere Nicht-Identifikation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ARS — Autopoietische Reentry-Segmentierung und ANI — Äußere Nicht-Identifikation bei „Segmentierung des Systems“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-072",
+   "question": "Braucht der Roman eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und ANI — Äußere Nicht-Identifikation bei „Segmentierung des Systems“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-073",
+   "question": "In welchem denkbaren Fall könnte ARS — Autopoietische Reentry-Segmentierung bestehen, ohne dass ANI — Äußere Nicht-Identifikation dieselbe Funktion übernimmt, und was würde das für „Segmentierung des Systems“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-074",
+   "question": "Welche Kosten könnte eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und ANI — Äußere Nicht-Identifikation in Bezug auf „Segmentierung des Systems“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-075",
+   "question": "Welche ältere Lesart von ARS — Autopoietische Reentry-Segmentierung oder ANI — Äußere Nicht-Identifikation könnte die Gegenüberstellung unter „Segmentierung des Systems“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ARS — Autopoietische Reentry-Segmentierung und ANI — Äußere Nicht-Identifikation unter „Segmentierung des Systems“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ars",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ars-077",
+   "question": "Wo unterscheiden sich ARS — Autopoietische Reentry-Segmentierung und AEGIS, wenn man sie unter dem Gesichtspunkt „Unterscheidung von Postulat und Kritik“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-078",
+   "question": "Welche Quelle verbindet ARS — Autopoietische Reentry-Segmentierung mit AEGIS in Bezug auf „Unterscheidung von Postulat und Kritik“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von ARS — Autopoietische Reentry-Segmentierung unter „Unterscheidung von Postulat und Kritik“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-080",
+   "question": "Wie könnte sich das Wissen über ARS — Autopoietische Reentry-Segmentierung vom Wissen über AEGIS unterscheiden, wenn „Unterscheidung von Postulat und Kritik“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ARS — Autopoietische Reentry-Segmentierung und AEGIS bei „Unterscheidung von Postulat und Kritik“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-082",
+   "question": "Falls ARS — Autopoietische Reentry-Segmentierung im Hinblick auf „Unterscheidung von Postulat und Kritik“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ARS — Autopoietische Reentry-Segmentierung und AEGIS bei „Unterscheidung von Postulat und Kritik“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-084",
+   "question": "Braucht der Roman eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und AEGIS bei „Unterscheidung von Postulat und Kritik“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-085",
+   "question": "In welchem denkbaren Fall könnte ARS — Autopoietische Reentry-Segmentierung bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Unterscheidung von Postulat und Kritik“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-086",
+   "question": "Welche Kosten könnte eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und AEGIS in Bezug auf „Unterscheidung von Postulat und Kritik“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-087",
+   "question": "Welche ältere Lesart von ARS — Autopoietische Reentry-Segmentierung oder AEGIS könnte die Gegenüberstellung unter „Unterscheidung von Postulat und Kritik“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ARS — Autopoietische Reentry-Segmentierung und AEGIS unter „Unterscheidung von Postulat und Kritik“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ars",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ars-089",
+   "question": "Wo unterscheiden sich ARS — Autopoietische Reentry-Segmentierung und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Zirkularität der Begründung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-090",
+   "question": "Welche Quelle verbindet ARS — Autopoietische Reentry-Segmentierung mit Nichts-Rauschen in Bezug auf „Zirkularität der Begründung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-091",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von ARS — Autopoietische Reentry-Segmentierung unter „Zirkularität der Begründung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-092",
+   "question": "Wie könnte sich das Wissen über ARS — Autopoietische Reentry-Segmentierung vom Wissen über Nichts-Rauschen unterscheiden, wenn „Zirkularität der Begründung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ARS — Autopoietische Reentry-Segmentierung und Nichts-Rauschen bei „Zirkularität der Begründung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-094",
+   "question": "Falls ARS — Autopoietische Reentry-Segmentierung im Hinblick auf „Zirkularität der Begründung“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ARS — Autopoietische Reentry-Segmentierung und Nichts-Rauschen bei „Zirkularität der Begründung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-096",
+   "question": "Braucht der Roman eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und Nichts-Rauschen bei „Zirkularität der Begründung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-097",
+   "question": "In welchem denkbaren Fall könnte ARS — Autopoietische Reentry-Segmentierung bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Zirkularität der Begründung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-098",
+   "question": "Welche Kosten könnte eine Verbindung von ARS — Autopoietische Reentry-Segmentierung und Nichts-Rauschen in Bezug auf „Zirkularität der Begründung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-099",
+   "question": "Welche ältere Lesart von ARS — Autopoietische Reentry-Segmentierung oder Nichts-Rauschen könnte die Gegenüberstellung unter „Zirkularität der Begründung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-ars-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ARS — Autopoietische Reentry-Segmentierung und Nichts-Rauschen unter „Zirkularität der Begründung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ars",
+    "nichts-rauschen"
+   ]
+  }
+ ]
+}

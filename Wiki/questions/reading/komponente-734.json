@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "komponente-734",
+ "title": "Komponente 734",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Entstehung der Funktionseinheit",
+  "Verhältnis zwischen Bezeichnung und Identität",
+  "Reihenfolge gegenüber dem Trennungsprotokoll",
+  "Unterschied zwischen Ursprung und herausgeschnittenem Cluster",
+  "Wissen um das eigene frühere Selbst"
+ ],
+ "basis": {
+  "komponente-734": {
+   "title": "Komponente 734",
+   "path": "Wiki/candidates/komponente-734.md",
+   "hash": "49eb6bffb13cf9ad2de22e6e3802ad061e5be0d2c4ddf9d433d1425d1c07deec"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "trennungsprotokoll": {
+   "title": "Trennungsprotokoll",
+   "path": "Wiki/candidates/trennungsprotokoll.md",
+   "hash": "33c7084360ab2602ba3969b0722bf09d92e20952f7cbcc9235d8a3bbb5ca3bfc"
+  },
+  "residual-echos": {
+   "title": "Residual-Echos",
+   "path": "Wiki/candidates/residual-echos.md",
+   "hash": "14ca98c946db7871ebc5d5f88340e8142cfec215a321d8053abe7c15c44d6abe"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-komponente-734-001",
+   "question": "Welche Eigenschaft verbindet Kael mit Komponente 734, ohne seine spätere Person auf eine ursprüngliche Funktion festzulegen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-002",
+   "question": "Welche Lesarten auf der Seite zu Komponente 734 stützen oder begrenzen „Entstehung der Funktionseinheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-003",
+   "question": "Welcher Grenzfall würde bei Komponente 734 die Annahmen über „Entstehung der Funktionseinheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-004",
+   "question": "Wer könnte innerhalb des Romans bei Komponente 734 etwas über „Entstehung der Funktionseinheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-005",
+   "question": "Welche konkrete Entscheidung könnte „Entstehung der Funktionseinheit“ bei Komponente 734 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entstehung der Funktionseinheit“ bei Komponente 734 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-007",
+   "question": "Wie lässt sich „Entstehung der Funktionseinheit“ bei Komponente 734 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-008",
+   "question": "Welche Alternativen sollte der Autor bei Komponente 734 für „Entstehung der Funktionseinheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-009",
+   "question": "Was bedeutet bei Komponente 734 der Themenpunkt „Verhältnis zwischen Bezeichnung und Identität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-010",
+   "question": "Welche Lesarten auf der Seite zu Komponente 734 stützen oder begrenzen „Verhältnis zwischen Bezeichnung und Identität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-011",
+   "question": "Welcher Grenzfall würde bei Komponente 734 die Annahmen über „Verhältnis zwischen Bezeichnung und Identität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-012",
+   "question": "Wer könnte innerhalb des Romans bei Komponente 734 etwas über „Verhältnis zwischen Bezeichnung und Identität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-013",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis zwischen Bezeichnung und Identität“ bei Komponente 734 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis zwischen Bezeichnung und Identität“ bei Komponente 734 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-015",
+   "question": "Wie lässt sich „Verhältnis zwischen Bezeichnung und Identität“ bei Komponente 734 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-016",
+   "question": "Welche Alternativen sollte der Autor bei Komponente 734 für „Verhältnis zwischen Bezeichnung und Identität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-017",
+   "question": "Was bedeutet bei Komponente 734 der Themenpunkt „Reihenfolge gegenüber dem Trennungsprotokoll“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-018",
+   "question": "Welche Lesarten auf der Seite zu Komponente 734 stützen oder begrenzen „Reihenfolge gegenüber dem Trennungsprotokoll“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-019",
+   "question": "Welcher Grenzfall würde bei Komponente 734 die Annahmen über „Reihenfolge gegenüber dem Trennungsprotokoll“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-020",
+   "question": "Wer könnte innerhalb des Romans bei Komponente 734 etwas über „Reihenfolge gegenüber dem Trennungsprotokoll“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-021",
+   "question": "Welche konkrete Entscheidung könnte „Reihenfolge gegenüber dem Trennungsprotokoll“ bei Komponente 734 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Reihenfolge gegenüber dem Trennungsprotokoll“ bei Komponente 734 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-023",
+   "question": "Wie lässt sich „Reihenfolge gegenüber dem Trennungsprotokoll“ bei Komponente 734 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-024",
+   "question": "Welche Alternativen sollte der Autor bei Komponente 734 für „Reihenfolge gegenüber dem Trennungsprotokoll“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-025",
+   "question": "Was bedeutet bei Komponente 734 der Themenpunkt „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-026",
+   "question": "Welche Lesarten auf der Seite zu Komponente 734 stützen oder begrenzen „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-027",
+   "question": "Welcher Grenzfall würde bei Komponente 734 die Annahmen über „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-028",
+   "question": "Wer könnte innerhalb des Romans bei Komponente 734 etwas über „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ bei Komponente 734 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ bei Komponente 734 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-031",
+   "question": "Wie lässt sich „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ bei Komponente 734 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-032",
+   "question": "Welche Alternativen sollte der Autor bei Komponente 734 für „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-033",
+   "question": "Was bedeutet bei Komponente 734 der Themenpunkt „Wissen um das eigene frühere Selbst“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-034",
+   "question": "Welche Lesarten auf der Seite zu Komponente 734 stützen oder begrenzen „Wissen um das eigene frühere Selbst“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-035",
+   "question": "Welcher Grenzfall würde bei Komponente 734 die Annahmen über „Wissen um das eigene frühere Selbst“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-036",
+   "question": "Wer könnte innerhalb des Romans bei Komponente 734 etwas über „Wissen um das eigene frühere Selbst“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-037",
+   "question": "Welche konkrete Entscheidung könnte „Wissen um das eigene frühere Selbst“ bei Komponente 734 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen um das eigene frühere Selbst“ bei Komponente 734 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-039",
+   "question": "Wie lässt sich „Wissen um das eigene frühere Selbst“ bei Komponente 734 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-040",
+   "question": "Welche Alternativen sollte der Autor bei Komponente 734 für „Wissen um das eigene frühere Selbst“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-041",
+   "question": "Wo unterscheiden sich Komponente 734 und Kael, wenn man sie unter dem Gesichtspunkt „Entstehung der Funktionseinheit“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-042",
+   "question": "Welche Quelle verbindet Komponente 734 mit Kael in Bezug auf „Entstehung der Funktionseinheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Komponente 734 unter „Entstehung der Funktionseinheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-044",
+   "question": "Wie könnte sich das Wissen über Komponente 734 vom Wissen über Kael unterscheiden, wenn „Entstehung der Funktionseinheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Komponente 734 und Kael bei „Entstehung der Funktionseinheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-046",
+   "question": "Falls Komponente 734 im Hinblick auf „Entstehung der Funktionseinheit“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Komponente 734 und Kael bei „Entstehung der Funktionseinheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-048",
+   "question": "Braucht der Roman eine Verbindung von Komponente 734 und Kael bei „Entstehung der Funktionseinheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-049",
+   "question": "In welchem denkbaren Fall könnte Komponente 734 bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Entstehung der Funktionseinheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-050",
+   "question": "Welche Kosten könnte eine Verbindung von Komponente 734 und Kael in Bezug auf „Entstehung der Funktionseinheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-051",
+   "question": "Welche ältere Lesart von Komponente 734 oder Kael könnte die Gegenüberstellung unter „Entstehung der Funktionseinheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Komponente 734 und Kael unter „Entstehung der Funktionseinheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "komponente-734",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-053",
+   "question": "Wo unterscheiden sich Komponente 734 und AEGIS, wenn man sie unter dem Gesichtspunkt „Verhältnis zwischen Bezeichnung und Identität“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-054",
+   "question": "Welche Quelle verbindet Komponente 734 mit AEGIS in Bezug auf „Verhältnis zwischen Bezeichnung und Identität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-055",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Komponente 734 unter „Verhältnis zwischen Bezeichnung und Identität“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-056",
+   "question": "Wie könnte sich das Wissen über Komponente 734 vom Wissen über AEGIS unterscheiden, wenn „Verhältnis zwischen Bezeichnung und Identität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Komponente 734 und AEGIS bei „Verhältnis zwischen Bezeichnung und Identität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-058",
+   "question": "Falls Komponente 734 im Hinblick auf „Verhältnis zwischen Bezeichnung und Identität“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Komponente 734 und AEGIS bei „Verhältnis zwischen Bezeichnung und Identität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-060",
+   "question": "Braucht der Roman eine Verbindung von Komponente 734 und AEGIS bei „Verhältnis zwischen Bezeichnung und Identität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-061",
+   "question": "In welchem denkbaren Fall könnte Komponente 734 bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Verhältnis zwischen Bezeichnung und Identität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-062",
+   "question": "Welche Kosten könnte eine Verbindung von Komponente 734 und AEGIS in Bezug auf „Verhältnis zwischen Bezeichnung und Identität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-063",
+   "question": "Welche ältere Lesart von Komponente 734 oder AEGIS könnte die Gegenüberstellung unter „Verhältnis zwischen Bezeichnung und Identität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Komponente 734 und AEGIS unter „Verhältnis zwischen Bezeichnung und Identität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "komponente-734",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-065",
+   "question": "Wo unterscheiden sich Komponente 734 und Genesis, wenn man sie unter dem Gesichtspunkt „Reihenfolge gegenüber dem Trennungsprotokoll“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-066",
+   "question": "Welche Quelle verbindet Komponente 734 mit Genesis in Bezug auf „Reihenfolge gegenüber dem Trennungsprotokoll“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-067",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Komponente 734 unter „Reihenfolge gegenüber dem Trennungsprotokoll“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-068",
+   "question": "Wie könnte sich das Wissen über Komponente 734 vom Wissen über Genesis unterscheiden, wenn „Reihenfolge gegenüber dem Trennungsprotokoll“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Komponente 734 und Genesis bei „Reihenfolge gegenüber dem Trennungsprotokoll“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-070",
+   "question": "Falls Komponente 734 im Hinblick auf „Reihenfolge gegenüber dem Trennungsprotokoll“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Komponente 734 und Genesis bei „Reihenfolge gegenüber dem Trennungsprotokoll“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-072",
+   "question": "Braucht der Roman eine Verbindung von Komponente 734 und Genesis bei „Reihenfolge gegenüber dem Trennungsprotokoll“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-073",
+   "question": "In welchem denkbaren Fall könnte Komponente 734 bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „Reihenfolge gegenüber dem Trennungsprotokoll“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-074",
+   "question": "Welche Kosten könnte eine Verbindung von Komponente 734 und Genesis in Bezug auf „Reihenfolge gegenüber dem Trennungsprotokoll“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-075",
+   "question": "Welche ältere Lesart von Komponente 734 oder Genesis könnte die Gegenüberstellung unter „Reihenfolge gegenüber dem Trennungsprotokoll“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Komponente 734 und Genesis unter „Reihenfolge gegenüber dem Trennungsprotokoll“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "komponente-734",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-077",
+   "question": "Wo unterscheiden sich Komponente 734 und Trennungsprotokoll, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-078",
+   "question": "Welche Quelle verbindet Komponente 734 mit Trennungsprotokoll in Bezug auf „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-079",
+   "question": "Welche Grenzen aus der Seite zu Trennungsprotokoll müsste eine Deutung von Komponente 734 unter „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-080",
+   "question": "Wie könnte sich das Wissen über Komponente 734 vom Wissen über Trennungsprotokoll unterscheiden, wenn „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Komponente 734 und Trennungsprotokoll bei „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-082",
+   "question": "Falls Komponente 734 im Hinblick auf „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ anders festgelegt wird: Welche Aussagen über Trennungsprotokoll müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Komponente 734 und Trennungsprotokoll bei „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-084",
+   "question": "Braucht der Roman eine Verbindung von Komponente 734 und Trennungsprotokoll bei „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-085",
+   "question": "In welchem denkbaren Fall könnte Komponente 734 bestehen, ohne dass Trennungsprotokoll dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-086",
+   "question": "Welche Kosten könnte eine Verbindung von Komponente 734 und Trennungsprotokoll in Bezug auf „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-087",
+   "question": "Welche ältere Lesart von Komponente 734 oder Trennungsprotokoll könnte die Gegenüberstellung unter „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Komponente 734 und Trennungsprotokoll unter „Unterschied zwischen Ursprung und herausgeschnittenem Cluster“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "komponente-734",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-089",
+   "question": "Wo unterscheiden sich Komponente 734 und Residual-Echos, wenn man sie unter dem Gesichtspunkt „Wissen um das eigene frühere Selbst“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-090",
+   "question": "Welche Quelle verbindet Komponente 734 mit Residual-Echos in Bezug auf „Wissen um das eigene frühere Selbst“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-091",
+   "question": "Welche Grenzen aus der Seite zu Residual-Echos müsste eine Deutung von Komponente 734 unter „Wissen um das eigene frühere Selbst“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-092",
+   "question": "Wie könnte sich das Wissen über Komponente 734 vom Wissen über Residual-Echos unterscheiden, wenn „Wissen um das eigene frühere Selbst“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Komponente 734 und Residual-Echos bei „Wissen um das eigene frühere Selbst“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-094",
+   "question": "Falls Komponente 734 im Hinblick auf „Wissen um das eigene frühere Selbst“ anders festgelegt wird: Welche Aussagen über Residual-Echos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Komponente 734 und Residual-Echos bei „Wissen um das eigene frühere Selbst“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-096",
+   "question": "Braucht der Roman eine Verbindung von Komponente 734 und Residual-Echos bei „Wissen um das eigene frühere Selbst“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-097",
+   "question": "In welchem denkbaren Fall könnte Komponente 734 bestehen, ohne dass Residual-Echos dieselbe Funktion übernimmt, und was würde das für „Wissen um das eigene frühere Selbst“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-098",
+   "question": "Welche Kosten könnte eine Verbindung von Komponente 734 und Residual-Echos in Bezug auf „Wissen um das eigene frühere Selbst“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-099",
+   "question": "Welche ältere Lesart von Komponente 734 oder Residual-Echos könnte die Gegenüberstellung unter „Wissen um das eigene frühere Selbst“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-komponente-734-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Komponente 734 und Residual-Echos unter „Wissen um das eigene frühere Selbst“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "komponente-734",
+    "residual-echos"
+   ]
+  }
+ ]
+}

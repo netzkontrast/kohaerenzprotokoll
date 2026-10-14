@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "telefon-stille",
+ "title": "Telefon-Stille",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Verbindung ohne gesprochene Daten",
+  "Unterschied zwischen ursprünglichem Ereignis und Erinnerung",
+  "Informationsdichte der Stille",
+  "Eigenständigkeit beider Gesprächspartner",
+  "spätere Wiederkehr eines intimen Motivs"
+ ],
+ "basis": {
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "hitze-polaritaetsregel": {
+   "title": "Hitze-Polaritätsregel",
+   "path": "Wiki/candidates/hitze-polaritaetsregel.md",
+   "hash": "05425c17e06d24db35e071eb605a12e86c8515b4051328eadc7098553d7bf82c"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-telefon-stille-001",
+   "question": "Was macht die Telefon-Stille zu einem gegenseitigen Ereignis, wenn gerade keine gesprochenen Daten ausgetauscht werden?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-002",
+   "question": "Welche Lesarten auf der Seite zu Telefon-Stille stützen oder begrenzen „Verbindung ohne gesprochene Daten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-003",
+   "question": "Welcher Grenzfall würde bei Telefon-Stille die Annahmen über „Verbindung ohne gesprochene Daten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-004",
+   "question": "Wer könnte innerhalb des Romans bei Telefon-Stille etwas über „Verbindung ohne gesprochene Daten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-005",
+   "question": "Welche konkrete Entscheidung könnte „Verbindung ohne gesprochene Daten“ bei Telefon-Stille in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verbindung ohne gesprochene Daten“ bei Telefon-Stille haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-007",
+   "question": "Wie lässt sich „Verbindung ohne gesprochene Daten“ bei Telefon-Stille zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-008",
+   "question": "Welche Alternativen sollte der Autor bei Telefon-Stille für „Verbindung ohne gesprochene Daten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-009",
+   "question": "Was bedeutet bei Telefon-Stille der Themenpunkt „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-010",
+   "question": "Welche Lesarten auf der Seite zu Telefon-Stille stützen oder begrenzen „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-011",
+   "question": "Welcher Grenzfall würde bei Telefon-Stille die Annahmen über „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-012",
+   "question": "Wer könnte innerhalb des Romans bei Telefon-Stille etwas über „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ bei Telefon-Stille in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ bei Telefon-Stille haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-015",
+   "question": "Wie lässt sich „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ bei Telefon-Stille zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-016",
+   "question": "Welche Alternativen sollte der Autor bei Telefon-Stille für „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-017",
+   "question": "Was bedeutet bei Telefon-Stille der Themenpunkt „Informationsdichte der Stille“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-018",
+   "question": "Welche Lesarten auf der Seite zu Telefon-Stille stützen oder begrenzen „Informationsdichte der Stille“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-019",
+   "question": "Welcher Grenzfall würde bei Telefon-Stille die Annahmen über „Informationsdichte der Stille“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-020",
+   "question": "Wer könnte innerhalb des Romans bei Telefon-Stille etwas über „Informationsdichte der Stille“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-021",
+   "question": "Welche konkrete Entscheidung könnte „Informationsdichte der Stille“ bei Telefon-Stille in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Informationsdichte der Stille“ bei Telefon-Stille haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-023",
+   "question": "Wie lässt sich „Informationsdichte der Stille“ bei Telefon-Stille zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-024",
+   "question": "Welche Alternativen sollte der Autor bei Telefon-Stille für „Informationsdichte der Stille“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-025",
+   "question": "Was bedeutet bei Telefon-Stille der Themenpunkt „Eigenständigkeit beider Gesprächspartner“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-026",
+   "question": "Welche Lesarten auf der Seite zu Telefon-Stille stützen oder begrenzen „Eigenständigkeit beider Gesprächspartner“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-027",
+   "question": "Welcher Grenzfall würde bei Telefon-Stille die Annahmen über „Eigenständigkeit beider Gesprächspartner“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-028",
+   "question": "Wer könnte innerhalb des Romans bei Telefon-Stille etwas über „Eigenständigkeit beider Gesprächspartner“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-029",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit beider Gesprächspartner“ bei Telefon-Stille in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit beider Gesprächspartner“ bei Telefon-Stille haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-031",
+   "question": "Wie lässt sich „Eigenständigkeit beider Gesprächspartner“ bei Telefon-Stille zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-032",
+   "question": "Welche Alternativen sollte der Autor bei Telefon-Stille für „Eigenständigkeit beider Gesprächspartner“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-033",
+   "question": "Was bedeutet bei Telefon-Stille der Themenpunkt „spätere Wiederkehr eines intimen Motivs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-034",
+   "question": "Welche Lesarten auf der Seite zu Telefon-Stille stützen oder begrenzen „spätere Wiederkehr eines intimen Motivs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-035",
+   "question": "Welcher Grenzfall würde bei Telefon-Stille die Annahmen über „spätere Wiederkehr eines intimen Motivs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-036",
+   "question": "Wer könnte innerhalb des Romans bei Telefon-Stille etwas über „spätere Wiederkehr eines intimen Motivs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-037",
+   "question": "Welche konkrete Entscheidung könnte „spätere Wiederkehr eines intimen Motivs“ bei Telefon-Stille in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „spätere Wiederkehr eines intimen Motivs“ bei Telefon-Stille haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-039",
+   "question": "Wie lässt sich „spätere Wiederkehr eines intimen Motivs“ bei Telefon-Stille zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-040",
+   "question": "Welche Alternativen sollte der Autor bei Telefon-Stille für „spätere Wiederkehr eines intimen Motivs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-041",
+   "question": "Wo unterscheiden sich Telefon-Stille und Juna, wenn man sie unter dem Gesichtspunkt „Verbindung ohne gesprochene Daten“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-042",
+   "question": "Welche Quelle verbindet Telefon-Stille mit Juna in Bezug auf „Verbindung ohne gesprochene Daten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Telefon-Stille unter „Verbindung ohne gesprochene Daten“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-044",
+   "question": "Wie könnte sich das Wissen über Telefon-Stille vom Wissen über Juna unterscheiden, wenn „Verbindung ohne gesprochene Daten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Telefon-Stille und Juna bei „Verbindung ohne gesprochene Daten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-046",
+   "question": "Falls Telefon-Stille im Hinblick auf „Verbindung ohne gesprochene Daten“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Telefon-Stille und Juna bei „Verbindung ohne gesprochene Daten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-048",
+   "question": "Braucht der Roman eine Verbindung von Telefon-Stille und Juna bei „Verbindung ohne gesprochene Daten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-049",
+   "question": "In welchem denkbaren Fall könnte Telefon-Stille bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Verbindung ohne gesprochene Daten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-050",
+   "question": "Welche Kosten könnte eine Verbindung von Telefon-Stille und Juna in Bezug auf „Verbindung ohne gesprochene Daten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-051",
+   "question": "Welche ältere Lesart von Telefon-Stille oder Juna könnte die Gegenüberstellung unter „Verbindung ohne gesprochene Daten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Telefon-Stille und Juna unter „Verbindung ohne gesprochene Daten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "telefon-stille",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-053",
+   "question": "Wo unterscheiden sich Telefon-Stille und Kael, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-054",
+   "question": "Welche Quelle verbindet Telefon-Stille mit Kael in Bezug auf „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-055",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Telefon-Stille unter „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-056",
+   "question": "Wie könnte sich das Wissen über Telefon-Stille vom Wissen über Kael unterscheiden, wenn „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Telefon-Stille und Kael bei „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-058",
+   "question": "Falls Telefon-Stille im Hinblick auf „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Telefon-Stille und Kael bei „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-060",
+   "question": "Braucht der Roman eine Verbindung von Telefon-Stille und Kael bei „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-061",
+   "question": "In welchem denkbaren Fall könnte Telefon-Stille bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-062",
+   "question": "Welche Kosten könnte eine Verbindung von Telefon-Stille und Kael in Bezug auf „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-063",
+   "question": "Welche ältere Lesart von Telefon-Stille oder Kael könnte die Gegenüberstellung unter „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Telefon-Stille und Kael unter „Unterschied zwischen ursprünglichem Ereignis und Erinnerung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "telefon-stille",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-065",
+   "question": "Wo unterscheiden sich Telefon-Stille und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Informationsdichte der Stille“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-066",
+   "question": "Welche Quelle verbindet Telefon-Stille mit Moonshine-Link in Bezug auf „Informationsdichte der Stille“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-067",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Telefon-Stille unter „Informationsdichte der Stille“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-068",
+   "question": "Wie könnte sich das Wissen über Telefon-Stille vom Wissen über Moonshine-Link unterscheiden, wenn „Informationsdichte der Stille“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Telefon-Stille und Moonshine-Link bei „Informationsdichte der Stille“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-070",
+   "question": "Falls Telefon-Stille im Hinblick auf „Informationsdichte der Stille“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Telefon-Stille und Moonshine-Link bei „Informationsdichte der Stille“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-072",
+   "question": "Braucht der Roman eine Verbindung von Telefon-Stille und Moonshine-Link bei „Informationsdichte der Stille“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-073",
+   "question": "In welchem denkbaren Fall könnte Telefon-Stille bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Informationsdichte der Stille“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-074",
+   "question": "Welche Kosten könnte eine Verbindung von Telefon-Stille und Moonshine-Link in Bezug auf „Informationsdichte der Stille“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-075",
+   "question": "Welche ältere Lesart von Telefon-Stille oder Moonshine-Link könnte die Gegenüberstellung unter „Informationsdichte der Stille“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Telefon-Stille und Moonshine-Link unter „Informationsdichte der Stille“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "telefon-stille",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-077",
+   "question": "Wo unterscheiden sich Telefon-Stille und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit beider Gesprächspartner“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-078",
+   "question": "Welche Quelle verbindet Telefon-Stille mit Ouroboros-Struktur in Bezug auf „Eigenständigkeit beider Gesprächspartner“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-079",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Telefon-Stille unter „Eigenständigkeit beider Gesprächspartner“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-080",
+   "question": "Wie könnte sich das Wissen über Telefon-Stille vom Wissen über Ouroboros-Struktur unterscheiden, wenn „Eigenständigkeit beider Gesprächspartner“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Telefon-Stille und Ouroboros-Struktur bei „Eigenständigkeit beider Gesprächspartner“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-082",
+   "question": "Falls Telefon-Stille im Hinblick auf „Eigenständigkeit beider Gesprächspartner“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Telefon-Stille und Ouroboros-Struktur bei „Eigenständigkeit beider Gesprächspartner“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-084",
+   "question": "Braucht der Roman eine Verbindung von Telefon-Stille und Ouroboros-Struktur bei „Eigenständigkeit beider Gesprächspartner“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-085",
+   "question": "In welchem denkbaren Fall könnte Telefon-Stille bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit beider Gesprächspartner“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-086",
+   "question": "Welche Kosten könnte eine Verbindung von Telefon-Stille und Ouroboros-Struktur in Bezug auf „Eigenständigkeit beider Gesprächspartner“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-087",
+   "question": "Welche ältere Lesart von Telefon-Stille oder Ouroboros-Struktur könnte die Gegenüberstellung unter „Eigenständigkeit beider Gesprächspartner“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Telefon-Stille und Ouroboros-Struktur unter „Eigenständigkeit beider Gesprächspartner“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "telefon-stille",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-089",
+   "question": "Wo unterscheiden sich Telefon-Stille und Hitze-Polaritätsregel, wenn man sie unter dem Gesichtspunkt „spätere Wiederkehr eines intimen Motivs“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-090",
+   "question": "Welche Quelle verbindet Telefon-Stille mit Hitze-Polaritätsregel in Bezug auf „spätere Wiederkehr eines intimen Motivs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-091",
+   "question": "Welche Grenzen aus der Seite zu Hitze-Polaritätsregel müsste eine Deutung von Telefon-Stille unter „spätere Wiederkehr eines intimen Motivs“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-092",
+   "question": "Wie könnte sich das Wissen über Telefon-Stille vom Wissen über Hitze-Polaritätsregel unterscheiden, wenn „spätere Wiederkehr eines intimen Motivs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Telefon-Stille und Hitze-Polaritätsregel bei „spätere Wiederkehr eines intimen Motivs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-094",
+   "question": "Falls Telefon-Stille im Hinblick auf „spätere Wiederkehr eines intimen Motivs“ anders festgelegt wird: Welche Aussagen über Hitze-Polaritätsregel müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Telefon-Stille und Hitze-Polaritätsregel bei „spätere Wiederkehr eines intimen Motivs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-096",
+   "question": "Braucht der Roman eine Verbindung von Telefon-Stille und Hitze-Polaritätsregel bei „spätere Wiederkehr eines intimen Motivs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-097",
+   "question": "In welchem denkbaren Fall könnte Telefon-Stille bestehen, ohne dass Hitze-Polaritätsregel dieselbe Funktion übernimmt, und was würde das für „spätere Wiederkehr eines intimen Motivs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-098",
+   "question": "Welche Kosten könnte eine Verbindung von Telefon-Stille und Hitze-Polaritätsregel in Bezug auf „spätere Wiederkehr eines intimen Motivs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-099",
+   "question": "Welche ältere Lesart von Telefon-Stille oder Hitze-Polaritätsregel könnte die Gegenüberstellung unter „spätere Wiederkehr eines intimen Motivs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-telefon-stille-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Telefon-Stille und Hitze-Polaritätsregel unter „spätere Wiederkehr eines intimen Motivs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "telefon-stille",
+    "hitze-polaritaetsregel"
+   ]
+  }
+ ]
+}

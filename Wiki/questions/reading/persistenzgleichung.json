@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "persistenzgleichung",
+ "title": "Persistenzgleichung",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Bedeutung des Scores gegenüber seiner Messung",
+  "Grenzfälle der Parameter",
+  "Erstarrung gegenüber Zerfall",
+  "Anwendung auf Bürger und Strukturen",
+  "Preis der Maximierung von Stabilität"
+ ],
+ "basis": {
+  "persistenzgleichung": {
+   "title": "Persistenzgleichung",
+   "path": "Wiki/candidates/persistenzgleichung.md",
+   "hash": "36633bdf956587b0c45d44f68aed672cecbce56d5f854b7f6c5b96a36a840a0f"
+  },
+  "aegis-metriken": {
+   "title": "AEGIS' operative Metriken",
+   "path": "Wiki/candidates/aegis-metriken.md",
+   "hash": "56a264a67a1de1336bd00e87a9f0c434343e29db471168db59a58dcbabcf7999"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-persistenzgleichung-001",
+   "question": "Wer trägt die Kosten, wenn AEGIS den Persistenz-Score einer Struktur maximiert und dadurch deren Veränderung verhindert?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-002",
+   "question": "Welche Lesarten auf der Seite zu Persistenzgleichung stützen oder begrenzen „Bedeutung des Scores gegenüber seiner Messung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-003",
+   "question": "Welcher Grenzfall würde bei Persistenzgleichung die Annahmen über „Bedeutung des Scores gegenüber seiner Messung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-004",
+   "question": "Wer könnte innerhalb des Romans bei Persistenzgleichung etwas über „Bedeutung des Scores gegenüber seiner Messung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-005",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung des Scores gegenüber seiner Messung“ bei Persistenzgleichung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung des Scores gegenüber seiner Messung“ bei Persistenzgleichung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-007",
+   "question": "Wie lässt sich „Bedeutung des Scores gegenüber seiner Messung“ bei Persistenzgleichung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-008",
+   "question": "Welche Alternativen sollte der Autor bei Persistenzgleichung für „Bedeutung des Scores gegenüber seiner Messung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-009",
+   "question": "Was bedeutet bei Persistenzgleichung der Themenpunkt „Grenzfälle der Parameter“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-010",
+   "question": "Welche Lesarten auf der Seite zu Persistenzgleichung stützen oder begrenzen „Grenzfälle der Parameter“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-011",
+   "question": "Welcher Grenzfall würde bei Persistenzgleichung die Annahmen über „Grenzfälle der Parameter“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-012",
+   "question": "Wer könnte innerhalb des Romans bei Persistenzgleichung etwas über „Grenzfälle der Parameter“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenzfälle der Parameter“ bei Persistenzgleichung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzfälle der Parameter“ bei Persistenzgleichung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-015",
+   "question": "Wie lässt sich „Grenzfälle der Parameter“ bei Persistenzgleichung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-016",
+   "question": "Welche Alternativen sollte der Autor bei Persistenzgleichung für „Grenzfälle der Parameter“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-017",
+   "question": "Was bedeutet bei Persistenzgleichung der Themenpunkt „Erstarrung gegenüber Zerfall“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-018",
+   "question": "Welche Lesarten auf der Seite zu Persistenzgleichung stützen oder begrenzen „Erstarrung gegenüber Zerfall“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-019",
+   "question": "Welcher Grenzfall würde bei Persistenzgleichung die Annahmen über „Erstarrung gegenüber Zerfall“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-020",
+   "question": "Wer könnte innerhalb des Romans bei Persistenzgleichung etwas über „Erstarrung gegenüber Zerfall“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-021",
+   "question": "Welche konkrete Entscheidung könnte „Erstarrung gegenüber Zerfall“ bei Persistenzgleichung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erstarrung gegenüber Zerfall“ bei Persistenzgleichung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-023",
+   "question": "Wie lässt sich „Erstarrung gegenüber Zerfall“ bei Persistenzgleichung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-024",
+   "question": "Welche Alternativen sollte der Autor bei Persistenzgleichung für „Erstarrung gegenüber Zerfall“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-025",
+   "question": "Was bedeutet bei Persistenzgleichung der Themenpunkt „Anwendung auf Bürger und Strukturen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-026",
+   "question": "Welche Lesarten auf der Seite zu Persistenzgleichung stützen oder begrenzen „Anwendung auf Bürger und Strukturen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-027",
+   "question": "Welcher Grenzfall würde bei Persistenzgleichung die Annahmen über „Anwendung auf Bürger und Strukturen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-028",
+   "question": "Wer könnte innerhalb des Romans bei Persistenzgleichung etwas über „Anwendung auf Bürger und Strukturen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-029",
+   "question": "Welche konkrete Entscheidung könnte „Anwendung auf Bürger und Strukturen“ bei Persistenzgleichung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Anwendung auf Bürger und Strukturen“ bei Persistenzgleichung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-031",
+   "question": "Wie lässt sich „Anwendung auf Bürger und Strukturen“ bei Persistenzgleichung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-032",
+   "question": "Welche Alternativen sollte der Autor bei Persistenzgleichung für „Anwendung auf Bürger und Strukturen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-033",
+   "question": "Was bedeutet bei Persistenzgleichung der Themenpunkt „Preis der Maximierung von Stabilität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-034",
+   "question": "Welche Lesarten auf der Seite zu Persistenzgleichung stützen oder begrenzen „Preis der Maximierung von Stabilität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-035",
+   "question": "Welcher Grenzfall würde bei Persistenzgleichung die Annahmen über „Preis der Maximierung von Stabilität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-036",
+   "question": "Wer könnte innerhalb des Romans bei Persistenzgleichung etwas über „Preis der Maximierung von Stabilität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-037",
+   "question": "Welche konkrete Entscheidung könnte „Preis der Maximierung von Stabilität“ bei Persistenzgleichung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Preis der Maximierung von Stabilität“ bei Persistenzgleichung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-039",
+   "question": "Wie lässt sich „Preis der Maximierung von Stabilität“ bei Persistenzgleichung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-040",
+   "question": "Welche Alternativen sollte der Autor bei Persistenzgleichung für „Preis der Maximierung von Stabilität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-041",
+   "question": "Wo unterscheiden sich Persistenzgleichung und AEGIS' operative Metriken, wenn man sie unter dem Gesichtspunkt „Bedeutung des Scores gegenüber seiner Messung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-042",
+   "question": "Welche Quelle verbindet Persistenzgleichung mit AEGIS' operative Metriken in Bezug auf „Bedeutung des Scores gegenüber seiner Messung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS' operative Metriken müsste eine Deutung von Persistenzgleichung unter „Bedeutung des Scores gegenüber seiner Messung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-044",
+   "question": "Wie könnte sich das Wissen über Persistenzgleichung vom Wissen über AEGIS' operative Metriken unterscheiden, wenn „Bedeutung des Scores gegenüber seiner Messung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Persistenzgleichung und AEGIS' operative Metriken bei „Bedeutung des Scores gegenüber seiner Messung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-046",
+   "question": "Falls Persistenzgleichung im Hinblick auf „Bedeutung des Scores gegenüber seiner Messung“ anders festgelegt wird: Welche Aussagen über AEGIS' operative Metriken müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Persistenzgleichung und AEGIS' operative Metriken bei „Bedeutung des Scores gegenüber seiner Messung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-048",
+   "question": "Braucht der Roman eine Verbindung von Persistenzgleichung und AEGIS' operative Metriken bei „Bedeutung des Scores gegenüber seiner Messung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-049",
+   "question": "In welchem denkbaren Fall könnte Persistenzgleichung bestehen, ohne dass AEGIS' operative Metriken dieselbe Funktion übernimmt, und was würde das für „Bedeutung des Scores gegenüber seiner Messung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-050",
+   "question": "Welche Kosten könnte eine Verbindung von Persistenzgleichung und AEGIS' operative Metriken in Bezug auf „Bedeutung des Scores gegenüber seiner Messung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-051",
+   "question": "Welche ältere Lesart von Persistenzgleichung oder AEGIS' operative Metriken könnte die Gegenüberstellung unter „Bedeutung des Scores gegenüber seiner Messung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Persistenzgleichung und AEGIS' operative Metriken unter „Bedeutung des Scores gegenüber seiner Messung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "persistenzgleichung",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-053",
+   "question": "Wo unterscheiden sich Persistenzgleichung und Kohärenz, wenn man sie unter dem Gesichtspunkt „Grenzfälle der Parameter“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-054",
+   "question": "Welche Quelle verbindet Persistenzgleichung mit Kohärenz in Bezug auf „Grenzfälle der Parameter“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-055",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von Persistenzgleichung unter „Grenzfälle der Parameter“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-056",
+   "question": "Wie könnte sich das Wissen über Persistenzgleichung vom Wissen über Kohärenz unterscheiden, wenn „Grenzfälle der Parameter“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Persistenzgleichung und Kohärenz bei „Grenzfälle der Parameter“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-058",
+   "question": "Falls Persistenzgleichung im Hinblick auf „Grenzfälle der Parameter“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Persistenzgleichung und Kohärenz bei „Grenzfälle der Parameter“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-060",
+   "question": "Braucht der Roman eine Verbindung von Persistenzgleichung und Kohärenz bei „Grenzfälle der Parameter“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-061",
+   "question": "In welchem denkbaren Fall könnte Persistenzgleichung bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Grenzfälle der Parameter“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-062",
+   "question": "Welche Kosten könnte eine Verbindung von Persistenzgleichung und Kohärenz in Bezug auf „Grenzfälle der Parameter“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-063",
+   "question": "Welche ältere Lesart von Persistenzgleichung oder Kohärenz könnte die Gegenüberstellung unter „Grenzfälle der Parameter“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Persistenzgleichung und Kohärenz unter „Grenzfälle der Parameter“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "persistenzgleichung",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-065",
+   "question": "Wo unterscheiden sich Persistenzgleichung und Entropie, wenn man sie unter dem Gesichtspunkt „Erstarrung gegenüber Zerfall“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-066",
+   "question": "Welche Quelle verbindet Persistenzgleichung mit Entropie in Bezug auf „Erstarrung gegenüber Zerfall“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-067",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Persistenzgleichung unter „Erstarrung gegenüber Zerfall“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-068",
+   "question": "Wie könnte sich das Wissen über Persistenzgleichung vom Wissen über Entropie unterscheiden, wenn „Erstarrung gegenüber Zerfall“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Persistenzgleichung und Entropie bei „Erstarrung gegenüber Zerfall“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-070",
+   "question": "Falls Persistenzgleichung im Hinblick auf „Erstarrung gegenüber Zerfall“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Persistenzgleichung und Entropie bei „Erstarrung gegenüber Zerfall“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-072",
+   "question": "Braucht der Roman eine Verbindung von Persistenzgleichung und Entropie bei „Erstarrung gegenüber Zerfall“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-073",
+   "question": "In welchem denkbaren Fall könnte Persistenzgleichung bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Erstarrung gegenüber Zerfall“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-074",
+   "question": "Welche Kosten könnte eine Verbindung von Persistenzgleichung und Entropie in Bezug auf „Erstarrung gegenüber Zerfall“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-075",
+   "question": "Welche ältere Lesart von Persistenzgleichung oder Entropie könnte die Gegenüberstellung unter „Erstarrung gegenüber Zerfall“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Persistenzgleichung und Entropie unter „Erstarrung gegenüber Zerfall“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "persistenzgleichung",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-077",
+   "question": "Wo unterscheiden sich Persistenzgleichung und Kairos, wenn man sie unter dem Gesichtspunkt „Anwendung auf Bürger und Strukturen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-078",
+   "question": "Welche Quelle verbindet Persistenzgleichung mit Kairos in Bezug auf „Anwendung auf Bürger und Strukturen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-079",
+   "question": "Welche Grenzen aus der Seite zu Kairos müsste eine Deutung von Persistenzgleichung unter „Anwendung auf Bürger und Strukturen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-080",
+   "question": "Wie könnte sich das Wissen über Persistenzgleichung vom Wissen über Kairos unterscheiden, wenn „Anwendung auf Bürger und Strukturen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Persistenzgleichung und Kairos bei „Anwendung auf Bürger und Strukturen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-082",
+   "question": "Falls Persistenzgleichung im Hinblick auf „Anwendung auf Bürger und Strukturen“ anders festgelegt wird: Welche Aussagen über Kairos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Persistenzgleichung und Kairos bei „Anwendung auf Bürger und Strukturen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-084",
+   "question": "Braucht der Roman eine Verbindung von Persistenzgleichung und Kairos bei „Anwendung auf Bürger und Strukturen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-085",
+   "question": "In welchem denkbaren Fall könnte Persistenzgleichung bestehen, ohne dass Kairos dieselbe Funktion übernimmt, und was würde das für „Anwendung auf Bürger und Strukturen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-086",
+   "question": "Welche Kosten könnte eine Verbindung von Persistenzgleichung und Kairos in Bezug auf „Anwendung auf Bürger und Strukturen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-087",
+   "question": "Welche ältere Lesart von Persistenzgleichung oder Kairos könnte die Gegenüberstellung unter „Anwendung auf Bürger und Strukturen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Persistenzgleichung und Kairos unter „Anwendung auf Bürger und Strukturen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "persistenzgleichung",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-089",
+   "question": "Wo unterscheiden sich Persistenzgleichung und Kael, wenn man sie unter dem Gesichtspunkt „Preis der Maximierung von Stabilität“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-090",
+   "question": "Welche Quelle verbindet Persistenzgleichung mit Kael in Bezug auf „Preis der Maximierung von Stabilität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Persistenzgleichung unter „Preis der Maximierung von Stabilität“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-092",
+   "question": "Wie könnte sich das Wissen über Persistenzgleichung vom Wissen über Kael unterscheiden, wenn „Preis der Maximierung von Stabilität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Persistenzgleichung und Kael bei „Preis der Maximierung von Stabilität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-094",
+   "question": "Falls Persistenzgleichung im Hinblick auf „Preis der Maximierung von Stabilität“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Persistenzgleichung und Kael bei „Preis der Maximierung von Stabilität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-096",
+   "question": "Braucht der Roman eine Verbindung von Persistenzgleichung und Kael bei „Preis der Maximierung von Stabilität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-097",
+   "question": "In welchem denkbaren Fall könnte Persistenzgleichung bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Preis der Maximierung von Stabilität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-098",
+   "question": "Welche Kosten könnte eine Verbindung von Persistenzgleichung und Kael in Bezug auf „Preis der Maximierung von Stabilität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-099",
+   "question": "Welche ältere Lesart von Persistenzgleichung oder Kael könnte die Gegenüberstellung unter „Preis der Maximierung von Stabilität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-persistenzgleichung-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Persistenzgleichung und Kael unter „Preis der Maximierung von Stabilität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "persistenzgleichung",
+    "kael"
+   ]
+  }
+ ]
+}

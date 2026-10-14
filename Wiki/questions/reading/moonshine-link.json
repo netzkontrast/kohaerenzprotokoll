@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "moonshine-link",
+ "title": "Moonshine-Link",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status von Mathematik als Metapher oder Mechanismus",
+  "nichtlokale Gegenseitigkeit",
+  "Unsichtbarkeit für AEGIS",
+  "Verbindung trotz Trennung",
+  "Unterschied zwischen Korrelation und Zugriff"
+ ],
+ "basis": {
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "atemporalitaet": {
+   "title": "Atemporalität",
+   "path": "Wiki/candidates/atemporalitaet.md",
+   "hash": "14b4b5f52007a37646a202ac97f2543e4ad19fca8a3d5d317831e1102305b681"
+  },
+  "chaitin-konstante": {
+   "title": "Chaitin-Konstante",
+   "path": "Wiki/candidates/chaitin-konstante.md",
+   "hash": "a25371d3cedc288db9e3e8e9c70f8e482370e0391f208cf1b722b283f6fefe21"
+  },
+  "verschraenkungs-insel": {
+   "title": "Verschränkungs-Insel",
+   "path": "Wiki/candidates/verschraenkungs-insel.md",
+   "hash": "75cfd1a128debe5e93f4e4ccd54408eb571cde0fcb55dbf44192b52fbc096f1e"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-moonshine-link-001",
+   "question": "Was unterscheidet den Moonshine-Link von einer jederzeit verfügbaren Verbindung, wenn er für AEGIS unsichtbar ist?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-002",
+   "question": "Welche Lesarten auf der Seite zu Moonshine-Link stützen oder begrenzen „Status von Mathematik als Metapher oder Mechanismus“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-003",
+   "question": "Welcher Grenzfall würde bei Moonshine-Link die Annahmen über „Status von Mathematik als Metapher oder Mechanismus“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-004",
+   "question": "Wer könnte innerhalb des Romans bei Moonshine-Link etwas über „Status von Mathematik als Metapher oder Mechanismus“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-005",
+   "question": "Welche konkrete Entscheidung könnte „Status von Mathematik als Metapher oder Mechanismus“ bei Moonshine-Link in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status von Mathematik als Metapher oder Mechanismus“ bei Moonshine-Link haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-007",
+   "question": "Wie lässt sich „Status von Mathematik als Metapher oder Mechanismus“ bei Moonshine-Link zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-008",
+   "question": "Welche Alternativen sollte der Autor bei Moonshine-Link für „Status von Mathematik als Metapher oder Mechanismus“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-009",
+   "question": "Was bedeutet bei Moonshine-Link der Themenpunkt „nichtlokale Gegenseitigkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-010",
+   "question": "Welche Lesarten auf der Seite zu Moonshine-Link stützen oder begrenzen „nichtlokale Gegenseitigkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-011",
+   "question": "Welcher Grenzfall würde bei Moonshine-Link die Annahmen über „nichtlokale Gegenseitigkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-012",
+   "question": "Wer könnte innerhalb des Romans bei Moonshine-Link etwas über „nichtlokale Gegenseitigkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-013",
+   "question": "Welche konkrete Entscheidung könnte „nichtlokale Gegenseitigkeit“ bei Moonshine-Link in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „nichtlokale Gegenseitigkeit“ bei Moonshine-Link haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-015",
+   "question": "Wie lässt sich „nichtlokale Gegenseitigkeit“ bei Moonshine-Link zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-016",
+   "question": "Welche Alternativen sollte der Autor bei Moonshine-Link für „nichtlokale Gegenseitigkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-017",
+   "question": "Was bedeutet bei Moonshine-Link der Themenpunkt „Unsichtbarkeit für AEGIS“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-018",
+   "question": "Welche Lesarten auf der Seite zu Moonshine-Link stützen oder begrenzen „Unsichtbarkeit für AEGIS“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-019",
+   "question": "Welcher Grenzfall würde bei Moonshine-Link die Annahmen über „Unsichtbarkeit für AEGIS“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-020",
+   "question": "Wer könnte innerhalb des Romans bei Moonshine-Link etwas über „Unsichtbarkeit für AEGIS“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-021",
+   "question": "Welche konkrete Entscheidung könnte „Unsichtbarkeit für AEGIS“ bei Moonshine-Link in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unsichtbarkeit für AEGIS“ bei Moonshine-Link haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-023",
+   "question": "Wie lässt sich „Unsichtbarkeit für AEGIS“ bei Moonshine-Link zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-024",
+   "question": "Welche Alternativen sollte der Autor bei Moonshine-Link für „Unsichtbarkeit für AEGIS“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-025",
+   "question": "Was bedeutet bei Moonshine-Link der Themenpunkt „Verbindung trotz Trennung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-026",
+   "question": "Welche Lesarten auf der Seite zu Moonshine-Link stützen oder begrenzen „Verbindung trotz Trennung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-027",
+   "question": "Welcher Grenzfall würde bei Moonshine-Link die Annahmen über „Verbindung trotz Trennung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-028",
+   "question": "Wer könnte innerhalb des Romans bei Moonshine-Link etwas über „Verbindung trotz Trennung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-029",
+   "question": "Welche konkrete Entscheidung könnte „Verbindung trotz Trennung“ bei Moonshine-Link in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verbindung trotz Trennung“ bei Moonshine-Link haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-031",
+   "question": "Wie lässt sich „Verbindung trotz Trennung“ bei Moonshine-Link zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-032",
+   "question": "Welche Alternativen sollte der Autor bei Moonshine-Link für „Verbindung trotz Trennung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-033",
+   "question": "Was bedeutet bei Moonshine-Link der Themenpunkt „Unterschied zwischen Korrelation und Zugriff“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-034",
+   "question": "Welche Lesarten auf der Seite zu Moonshine-Link stützen oder begrenzen „Unterschied zwischen Korrelation und Zugriff“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-035",
+   "question": "Welcher Grenzfall würde bei Moonshine-Link die Annahmen über „Unterschied zwischen Korrelation und Zugriff“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-036",
+   "question": "Wer könnte innerhalb des Romans bei Moonshine-Link etwas über „Unterschied zwischen Korrelation und Zugriff“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-037",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Korrelation und Zugriff“ bei Moonshine-Link in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Korrelation und Zugriff“ bei Moonshine-Link haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-039",
+   "question": "Wie lässt sich „Unterschied zwischen Korrelation und Zugriff“ bei Moonshine-Link zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-040",
+   "question": "Welche Alternativen sollte der Autor bei Moonshine-Link für „Unterschied zwischen Korrelation und Zugriff“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-041",
+   "question": "Wo unterscheiden sich Moonshine-Link und Kael, wenn man sie unter dem Gesichtspunkt „Status von Mathematik als Metapher oder Mechanismus“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-042",
+   "question": "Welche Quelle verbindet Moonshine-Link mit Kael in Bezug auf „Status von Mathematik als Metapher oder Mechanismus“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Moonshine-Link unter „Status von Mathematik als Metapher oder Mechanismus“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-044",
+   "question": "Wie könnte sich das Wissen über Moonshine-Link vom Wissen über Kael unterscheiden, wenn „Status von Mathematik als Metapher oder Mechanismus“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moonshine-Link und Kael bei „Status von Mathematik als Metapher oder Mechanismus“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-046",
+   "question": "Falls Moonshine-Link im Hinblick auf „Status von Mathematik als Metapher oder Mechanismus“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moonshine-Link und Kael bei „Status von Mathematik als Metapher oder Mechanismus“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-048",
+   "question": "Braucht der Roman eine Verbindung von Moonshine-Link und Kael bei „Status von Mathematik als Metapher oder Mechanismus“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-049",
+   "question": "In welchem denkbaren Fall könnte Moonshine-Link bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Status von Mathematik als Metapher oder Mechanismus“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-050",
+   "question": "Welche Kosten könnte eine Verbindung von Moonshine-Link und Kael in Bezug auf „Status von Mathematik als Metapher oder Mechanismus“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-051",
+   "question": "Welche ältere Lesart von Moonshine-Link oder Kael könnte die Gegenüberstellung unter „Status von Mathematik als Metapher oder Mechanismus“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moonshine-Link und Kael unter „Status von Mathematik als Metapher oder Mechanismus“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moonshine-link",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-053",
+   "question": "Wo unterscheiden sich Moonshine-Link und Juna, wenn man sie unter dem Gesichtspunkt „nichtlokale Gegenseitigkeit“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-054",
+   "question": "Welche Quelle verbindet Moonshine-Link mit Juna in Bezug auf „nichtlokale Gegenseitigkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-055",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Moonshine-Link unter „nichtlokale Gegenseitigkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-056",
+   "question": "Wie könnte sich das Wissen über Moonshine-Link vom Wissen über Juna unterscheiden, wenn „nichtlokale Gegenseitigkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moonshine-Link und Juna bei „nichtlokale Gegenseitigkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-058",
+   "question": "Falls Moonshine-Link im Hinblick auf „nichtlokale Gegenseitigkeit“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moonshine-Link und Juna bei „nichtlokale Gegenseitigkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-060",
+   "question": "Braucht der Roman eine Verbindung von Moonshine-Link und Juna bei „nichtlokale Gegenseitigkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-061",
+   "question": "In welchem denkbaren Fall könnte Moonshine-Link bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „nichtlokale Gegenseitigkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-062",
+   "question": "Welche Kosten könnte eine Verbindung von Moonshine-Link und Juna in Bezug auf „nichtlokale Gegenseitigkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-063",
+   "question": "Welche ältere Lesart von Moonshine-Link oder Juna könnte die Gegenüberstellung unter „nichtlokale Gegenseitigkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moonshine-Link und Juna unter „nichtlokale Gegenseitigkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moonshine-link",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-065",
+   "question": "Wo unterscheiden sich Moonshine-Link und Atemporalität, wenn man sie unter dem Gesichtspunkt „Unsichtbarkeit für AEGIS“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-066",
+   "question": "Welche Quelle verbindet Moonshine-Link mit Atemporalität in Bezug auf „Unsichtbarkeit für AEGIS“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-067",
+   "question": "Welche Grenzen aus der Seite zu Atemporalität müsste eine Deutung von Moonshine-Link unter „Unsichtbarkeit für AEGIS“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-068",
+   "question": "Wie könnte sich das Wissen über Moonshine-Link vom Wissen über Atemporalität unterscheiden, wenn „Unsichtbarkeit für AEGIS“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moonshine-Link und Atemporalität bei „Unsichtbarkeit für AEGIS“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-070",
+   "question": "Falls Moonshine-Link im Hinblick auf „Unsichtbarkeit für AEGIS“ anders festgelegt wird: Welche Aussagen über Atemporalität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moonshine-Link und Atemporalität bei „Unsichtbarkeit für AEGIS“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-072",
+   "question": "Braucht der Roman eine Verbindung von Moonshine-Link und Atemporalität bei „Unsichtbarkeit für AEGIS“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-073",
+   "question": "In welchem denkbaren Fall könnte Moonshine-Link bestehen, ohne dass Atemporalität dieselbe Funktion übernimmt, und was würde das für „Unsichtbarkeit für AEGIS“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-074",
+   "question": "Welche Kosten könnte eine Verbindung von Moonshine-Link und Atemporalität in Bezug auf „Unsichtbarkeit für AEGIS“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-075",
+   "question": "Welche ältere Lesart von Moonshine-Link oder Atemporalität könnte die Gegenüberstellung unter „Unsichtbarkeit für AEGIS“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moonshine-Link und Atemporalität unter „Unsichtbarkeit für AEGIS“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moonshine-link",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-077",
+   "question": "Wo unterscheiden sich Moonshine-Link und Chaitin-Konstante, wenn man sie unter dem Gesichtspunkt „Verbindung trotz Trennung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-078",
+   "question": "Welche Quelle verbindet Moonshine-Link mit Chaitin-Konstante in Bezug auf „Verbindung trotz Trennung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-079",
+   "question": "Welche Grenzen aus der Seite zu Chaitin-Konstante müsste eine Deutung von Moonshine-Link unter „Verbindung trotz Trennung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-080",
+   "question": "Wie könnte sich das Wissen über Moonshine-Link vom Wissen über Chaitin-Konstante unterscheiden, wenn „Verbindung trotz Trennung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moonshine-Link und Chaitin-Konstante bei „Verbindung trotz Trennung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-082",
+   "question": "Falls Moonshine-Link im Hinblick auf „Verbindung trotz Trennung“ anders festgelegt wird: Welche Aussagen über Chaitin-Konstante müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moonshine-Link und Chaitin-Konstante bei „Verbindung trotz Trennung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-084",
+   "question": "Braucht der Roman eine Verbindung von Moonshine-Link und Chaitin-Konstante bei „Verbindung trotz Trennung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-085",
+   "question": "In welchem denkbaren Fall könnte Moonshine-Link bestehen, ohne dass Chaitin-Konstante dieselbe Funktion übernimmt, und was würde das für „Verbindung trotz Trennung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-086",
+   "question": "Welche Kosten könnte eine Verbindung von Moonshine-Link und Chaitin-Konstante in Bezug auf „Verbindung trotz Trennung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-087",
+   "question": "Welche ältere Lesart von Moonshine-Link oder Chaitin-Konstante könnte die Gegenüberstellung unter „Verbindung trotz Trennung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moonshine-Link und Chaitin-Konstante unter „Verbindung trotz Trennung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moonshine-link",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-089",
+   "question": "Wo unterscheiden sich Moonshine-Link und Verschränkungs-Insel, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Korrelation und Zugriff“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-090",
+   "question": "Welche Quelle verbindet Moonshine-Link mit Verschränkungs-Insel in Bezug auf „Unterschied zwischen Korrelation und Zugriff“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-091",
+   "question": "Welche Grenzen aus der Seite zu Verschränkungs-Insel müsste eine Deutung von Moonshine-Link unter „Unterschied zwischen Korrelation und Zugriff“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-092",
+   "question": "Wie könnte sich das Wissen über Moonshine-Link vom Wissen über Verschränkungs-Insel unterscheiden, wenn „Unterschied zwischen Korrelation und Zugriff“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moonshine-Link und Verschränkungs-Insel bei „Unterschied zwischen Korrelation und Zugriff“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-094",
+   "question": "Falls Moonshine-Link im Hinblick auf „Unterschied zwischen Korrelation und Zugriff“ anders festgelegt wird: Welche Aussagen über Verschränkungs-Insel müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moonshine-Link und Verschränkungs-Insel bei „Unterschied zwischen Korrelation und Zugriff“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-096",
+   "question": "Braucht der Roman eine Verbindung von Moonshine-Link und Verschränkungs-Insel bei „Unterschied zwischen Korrelation und Zugriff“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-097",
+   "question": "In welchem denkbaren Fall könnte Moonshine-Link bestehen, ohne dass Verschränkungs-Insel dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Korrelation und Zugriff“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-098",
+   "question": "Welche Kosten könnte eine Verbindung von Moonshine-Link und Verschränkungs-Insel in Bezug auf „Unterschied zwischen Korrelation und Zugriff“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-099",
+   "question": "Welche ältere Lesart von Moonshine-Link oder Verschränkungs-Insel könnte die Gegenüberstellung unter „Unterschied zwischen Korrelation und Zugriff“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-moonshine-link-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moonshine-Link und Verschränkungs-Insel unter „Unterschied zwischen Korrelation und Zugriff“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moonshine-link",
+    "verschraenkungs-insel"
+   ]
+  }
+ ]
+}

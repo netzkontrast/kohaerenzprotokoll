@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "nyx",
+ "title": "Nyx",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Kampf als Schutzreaktion",
+  "Angst vor Ohnmacht",
+  "Preis aggressiver Kontrolle",
+  "Verletzlichkeit hinter dem Widerstand",
+  "Kooperation ohne Verlust der Schutzfunktion"
+ ],
+ "basis": {
+  "nyx": {
+   "title": "Nyx",
+   "path": "Wiki/candidates/nyx.md",
+   "hash": "aa8229d8a97c26a7de00405ae622849723762c4d13b598d13466ea7a98add48c"
+  },
+  "lex": {
+   "title": "Lex",
+   "path": "Wiki/candidates/lex.md",
+   "hash": "e0735fa95ac7b6e928b025c52f36ddfee357107824ddd781bda09d6067e9e0a5"
+  },
+  "alex": {
+   "title": "Alex",
+   "path": "Wiki/candidates/alex.md",
+   "hash": "6538e2812c49740b4f41298d6f960d97b2a61a3920710e00f930f4a7ded901d2"
+  },
+  "isabelle": {
+   "title": "Isabelle",
+   "path": "Wiki/candidates/isabelle.md",
+   "hash": "9108fdc9f8103430fead050e32571903834f16310b76321dd72a5941384e60f0"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-nyx-001",
+   "question": "Wie kann Nyx Verletzlichkeit erkennen, ohne darauf ausschließlich mit der Wiederherstellung von Dominanz zu antworten?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-002",
+   "question": "Welche Lesarten auf der Seite zu Nyx stützen oder begrenzen „Kampf als Schutzreaktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-003",
+   "question": "Welcher Grenzfall würde bei Nyx die Annahmen über „Kampf als Schutzreaktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-004",
+   "question": "Wer könnte innerhalb des Romans bei Nyx etwas über „Kampf als Schutzreaktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-005",
+   "question": "Welche konkrete Entscheidung könnte „Kampf als Schutzreaktion“ bei Nyx in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kampf als Schutzreaktion“ bei Nyx haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-007",
+   "question": "Wie lässt sich „Kampf als Schutzreaktion“ bei Nyx zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-008",
+   "question": "Welche Alternativen sollte der Autor bei Nyx für „Kampf als Schutzreaktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-009",
+   "question": "Was bedeutet bei Nyx der Themenpunkt „Angst vor Ohnmacht“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-010",
+   "question": "Welche Lesarten auf der Seite zu Nyx stützen oder begrenzen „Angst vor Ohnmacht“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-011",
+   "question": "Welcher Grenzfall würde bei Nyx die Annahmen über „Angst vor Ohnmacht“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-012",
+   "question": "Wer könnte innerhalb des Romans bei Nyx etwas über „Angst vor Ohnmacht“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-013",
+   "question": "Welche konkrete Entscheidung könnte „Angst vor Ohnmacht“ bei Nyx in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Angst vor Ohnmacht“ bei Nyx haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-015",
+   "question": "Wie lässt sich „Angst vor Ohnmacht“ bei Nyx zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-016",
+   "question": "Welche Alternativen sollte der Autor bei Nyx für „Angst vor Ohnmacht“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-017",
+   "question": "Was bedeutet bei Nyx der Themenpunkt „Preis aggressiver Kontrolle“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-018",
+   "question": "Welche Lesarten auf der Seite zu Nyx stützen oder begrenzen „Preis aggressiver Kontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-019",
+   "question": "Welcher Grenzfall würde bei Nyx die Annahmen über „Preis aggressiver Kontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-020",
+   "question": "Wer könnte innerhalb des Romans bei Nyx etwas über „Preis aggressiver Kontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-021",
+   "question": "Welche konkrete Entscheidung könnte „Preis aggressiver Kontrolle“ bei Nyx in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Preis aggressiver Kontrolle“ bei Nyx haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-023",
+   "question": "Wie lässt sich „Preis aggressiver Kontrolle“ bei Nyx zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-024",
+   "question": "Welche Alternativen sollte der Autor bei Nyx für „Preis aggressiver Kontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-025",
+   "question": "Was bedeutet bei Nyx der Themenpunkt „Verletzlichkeit hinter dem Widerstand“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-026",
+   "question": "Welche Lesarten auf der Seite zu Nyx stützen oder begrenzen „Verletzlichkeit hinter dem Widerstand“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-027",
+   "question": "Welcher Grenzfall würde bei Nyx die Annahmen über „Verletzlichkeit hinter dem Widerstand“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-028",
+   "question": "Wer könnte innerhalb des Romans bei Nyx etwas über „Verletzlichkeit hinter dem Widerstand“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-029",
+   "question": "Welche konkrete Entscheidung könnte „Verletzlichkeit hinter dem Widerstand“ bei Nyx in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verletzlichkeit hinter dem Widerstand“ bei Nyx haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-031",
+   "question": "Wie lässt sich „Verletzlichkeit hinter dem Widerstand“ bei Nyx zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-032",
+   "question": "Welche Alternativen sollte der Autor bei Nyx für „Verletzlichkeit hinter dem Widerstand“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-033",
+   "question": "Was bedeutet bei Nyx der Themenpunkt „Kooperation ohne Verlust der Schutzfunktion“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-034",
+   "question": "Welche Lesarten auf der Seite zu Nyx stützen oder begrenzen „Kooperation ohne Verlust der Schutzfunktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-035",
+   "question": "Welcher Grenzfall würde bei Nyx die Annahmen über „Kooperation ohne Verlust der Schutzfunktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-036",
+   "question": "Wer könnte innerhalb des Romans bei Nyx etwas über „Kooperation ohne Verlust der Schutzfunktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-037",
+   "question": "Welche konkrete Entscheidung könnte „Kooperation ohne Verlust der Schutzfunktion“ bei Nyx in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kooperation ohne Verlust der Schutzfunktion“ bei Nyx haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-039",
+   "question": "Wie lässt sich „Kooperation ohne Verlust der Schutzfunktion“ bei Nyx zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-040",
+   "question": "Welche Alternativen sollte der Autor bei Nyx für „Kooperation ohne Verlust der Schutzfunktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-nyx-041",
+   "question": "Wo unterscheiden sich Nyx und Lex, wenn man sie unter dem Gesichtspunkt „Kampf als Schutzreaktion“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-042",
+   "question": "Welche Quelle verbindet Nyx mit Lex in Bezug auf „Kampf als Schutzreaktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-043",
+   "question": "Welche Grenzen aus der Seite zu Lex müsste eine Deutung von Nyx unter „Kampf als Schutzreaktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-044",
+   "question": "Wie könnte sich das Wissen über Nyx vom Wissen über Lex unterscheiden, wenn „Kampf als Schutzreaktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nyx und Lex bei „Kampf als Schutzreaktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-046",
+   "question": "Falls Nyx im Hinblick auf „Kampf als Schutzreaktion“ anders festgelegt wird: Welche Aussagen über Lex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nyx und Lex bei „Kampf als Schutzreaktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-048",
+   "question": "Braucht der Roman eine Verbindung von Nyx und Lex bei „Kampf als Schutzreaktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-049",
+   "question": "In welchem denkbaren Fall könnte Nyx bestehen, ohne dass Lex dieselbe Funktion übernimmt, und was würde das für „Kampf als Schutzreaktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-050",
+   "question": "Welche Kosten könnte eine Verbindung von Nyx und Lex in Bezug auf „Kampf als Schutzreaktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-051",
+   "question": "Welche ältere Lesart von Nyx oder Lex könnte die Gegenüberstellung unter „Kampf als Schutzreaktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nyx und Lex unter „Kampf als Schutzreaktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nyx",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-053",
+   "question": "Wo unterscheiden sich Nyx und Alex, wenn man sie unter dem Gesichtspunkt „Angst vor Ohnmacht“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-054",
+   "question": "Welche Quelle verbindet Nyx mit Alex in Bezug auf „Angst vor Ohnmacht“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-055",
+   "question": "Welche Grenzen aus der Seite zu Alex müsste eine Deutung von Nyx unter „Angst vor Ohnmacht“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-056",
+   "question": "Wie könnte sich das Wissen über Nyx vom Wissen über Alex unterscheiden, wenn „Angst vor Ohnmacht“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nyx und Alex bei „Angst vor Ohnmacht“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-058",
+   "question": "Falls Nyx im Hinblick auf „Angst vor Ohnmacht“ anders festgelegt wird: Welche Aussagen über Alex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nyx und Alex bei „Angst vor Ohnmacht“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-060",
+   "question": "Braucht der Roman eine Verbindung von Nyx und Alex bei „Angst vor Ohnmacht“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-061",
+   "question": "In welchem denkbaren Fall könnte Nyx bestehen, ohne dass Alex dieselbe Funktion übernimmt, und was würde das für „Angst vor Ohnmacht“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-062",
+   "question": "Welche Kosten könnte eine Verbindung von Nyx und Alex in Bezug auf „Angst vor Ohnmacht“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-063",
+   "question": "Welche ältere Lesart von Nyx oder Alex könnte die Gegenüberstellung unter „Angst vor Ohnmacht“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nyx und Alex unter „Angst vor Ohnmacht“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nyx",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-nyx-065",
+   "question": "Wo unterscheiden sich Nyx und Isabelle, wenn man sie unter dem Gesichtspunkt „Preis aggressiver Kontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-066",
+   "question": "Welche Quelle verbindet Nyx mit Isabelle in Bezug auf „Preis aggressiver Kontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-067",
+   "question": "Welche Grenzen aus der Seite zu Isabelle müsste eine Deutung von Nyx unter „Preis aggressiver Kontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-068",
+   "question": "Wie könnte sich das Wissen über Nyx vom Wissen über Isabelle unterscheiden, wenn „Preis aggressiver Kontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nyx und Isabelle bei „Preis aggressiver Kontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-070",
+   "question": "Falls Nyx im Hinblick auf „Preis aggressiver Kontrolle“ anders festgelegt wird: Welche Aussagen über Isabelle müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nyx und Isabelle bei „Preis aggressiver Kontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-072",
+   "question": "Braucht der Roman eine Verbindung von Nyx und Isabelle bei „Preis aggressiver Kontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-073",
+   "question": "In welchem denkbaren Fall könnte Nyx bestehen, ohne dass Isabelle dieselbe Funktion übernimmt, und was würde das für „Preis aggressiver Kontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-074",
+   "question": "Welche Kosten könnte eine Verbindung von Nyx und Isabelle in Bezug auf „Preis aggressiver Kontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-075",
+   "question": "Welche ältere Lesart von Nyx oder Isabelle könnte die Gegenüberstellung unter „Preis aggressiver Kontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nyx und Isabelle unter „Preis aggressiver Kontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nyx",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-nyx-077",
+   "question": "Wo unterscheiden sich Nyx und Kael, wenn man sie unter dem Gesichtspunkt „Verletzlichkeit hinter dem Widerstand“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-078",
+   "question": "Welche Quelle verbindet Nyx mit Kael in Bezug auf „Verletzlichkeit hinter dem Widerstand“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Nyx unter „Verletzlichkeit hinter dem Widerstand“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-080",
+   "question": "Wie könnte sich das Wissen über Nyx vom Wissen über Kael unterscheiden, wenn „Verletzlichkeit hinter dem Widerstand“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nyx und Kael bei „Verletzlichkeit hinter dem Widerstand“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-082",
+   "question": "Falls Nyx im Hinblick auf „Verletzlichkeit hinter dem Widerstand“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nyx und Kael bei „Verletzlichkeit hinter dem Widerstand“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-084",
+   "question": "Braucht der Roman eine Verbindung von Nyx und Kael bei „Verletzlichkeit hinter dem Widerstand“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-085",
+   "question": "In welchem denkbaren Fall könnte Nyx bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Verletzlichkeit hinter dem Widerstand“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-086",
+   "question": "Welche Kosten könnte eine Verbindung von Nyx und Kael in Bezug auf „Verletzlichkeit hinter dem Widerstand“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-087",
+   "question": "Welche ältere Lesart von Nyx oder Kael könnte die Gegenüberstellung unter „Verletzlichkeit hinter dem Widerstand“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nyx und Kael unter „Verletzlichkeit hinter dem Widerstand“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nyx",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-nyx-089",
+   "question": "Wo unterscheiden sich Nyx und Alters, wenn man sie unter dem Gesichtspunkt „Kooperation ohne Verlust der Schutzfunktion“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-090",
+   "question": "Welche Quelle verbindet Nyx mit Alters in Bezug auf „Kooperation ohne Verlust der Schutzfunktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Nyx unter „Kooperation ohne Verlust der Schutzfunktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-092",
+   "question": "Wie könnte sich das Wissen über Nyx vom Wissen über Alters unterscheiden, wenn „Kooperation ohne Verlust der Schutzfunktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nyx und Alters bei „Kooperation ohne Verlust der Schutzfunktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-094",
+   "question": "Falls Nyx im Hinblick auf „Kooperation ohne Verlust der Schutzfunktion“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nyx und Alters bei „Kooperation ohne Verlust der Schutzfunktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-096",
+   "question": "Braucht der Roman eine Verbindung von Nyx und Alters bei „Kooperation ohne Verlust der Schutzfunktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-097",
+   "question": "In welchem denkbaren Fall könnte Nyx bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Kooperation ohne Verlust der Schutzfunktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-098",
+   "question": "Welche Kosten könnte eine Verbindung von Nyx und Alters in Bezug auf „Kooperation ohne Verlust der Schutzfunktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-099",
+   "question": "Welche ältere Lesart von Nyx oder Alters könnte die Gegenüberstellung unter „Kooperation ohne Verlust der Schutzfunktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-nyx-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nyx und Alters unter „Kooperation ohne Verlust der Schutzfunktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nyx",
+    "alters"
+   ]
+  }
+ ]
+}

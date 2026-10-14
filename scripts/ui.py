@@ -103,6 +103,8 @@ import sessions as session_plan  # noqa: E402
 import state  # noqa: E402
 import subject  # noqa: E402
 import wiki_index  # noqa: E402
+import reading_questions  # noqa: E402
+import promote  # noqa: E402
 from account import account_order  # noqa: E402
 
 HERE = ROOT / "scripts"
@@ -660,6 +662,7 @@ def export(checks: bool = True) -> dict:
         # A term page (Wiki/terms/, terms.py) goes first, under the same address; the candidate's readings follow it.
         tpath = TERMS / f"{slug}.md"
         tstatus = ""
+        tlede, tsecs, term_behind = [], [], False
         if tpath.exists():
             ttext = tpath.read_text(encoding="utf-8")
             tstatus = wiki_index.frontmatter(ttext).get("status", "") or "draft"
@@ -667,17 +670,34 @@ def export(checks: bool = True) -> dict:
             tbody = re.sub(r"^<!--.*?-->\s*$", "", tbody, flags=re.M)
             tbody = re.sub(r"^## ", "## Begriffsseite · ", tbody, flags=re.M)
             _, tlede, tsecs = md.sections(tbody)
+            term_behind = wiki_index.frontmatter(ttext).get("candidate_hash") != promote.digest(text) or bool(promote.since_readings(text))
             sep = [md.runs(f"Kandidatenseite · die Lesarten der Quellen, Wiki/candidates/{slug}.md"), -1, "", lede]
-            secs, lede = tsecs + [sep] + secs, tlede
+            # Render the two layers independently; the old address still opens this term.
         node = g["nodes"].get(f"term:{slug}", {})
         ev = Counter(e["status"] for e in g["evidence"].get(slug, []))
         num = lambda v: int(v) if str(v).isdigit() else 0  # noqa: E731
         pages.append({"s": slug, "t": meta.get("term") or title or slug, "st": meta.get("status", ""), "tp": tstatus,
                       "src": num(meta.get("sources")), "rd": num(meta.get("readings")), "cf": meta.get("conflict", ""),
-                      "g": meta.get("gathered", ""), "sf": [x for x in node.get("surfaces", []) if x != slug][:24],
+                      "g": meta.get("gathered", ""), "reviewed": meta.get("reviewed", ""),
+                      "waiting": len(promote.since_readings(text)), "termBehind": term_behind, "termLede": tlede, "termSec": tsecs, "sf": [x for x in node.get("surfaces", []) if x != slug][:24],
                       "lede": lede, "sec": secs,
                       "ev": [ev.get("verified", 0), ev.get("unchecked", 0), ev.get("unresolved", 0)],
                       "ing": [], "out": [], "in": [], "cx": [], "qx": []})
+
+    banks = reading_questions.read_banks()
+    errors, notices = reading_questions.validate(banks)
+    if errors:
+        raise ValueError("reading questions: " + "; ".join(errors[:10]))
+    rq, rq_banks = [], []
+    rq_pages = reading_questions.terms(ROOT)
+    for bank in banks:
+        stale = [s for s, b in bank["basis"].items() if rq_pages[s]["hash"] != b["hash"]]
+        owner = pidx[bank["term"]]
+        rq_banks.append({"owner": owner, "path": f"Wiki/questions/reading/{bank['term']}.json", "stale": stale,
+                         "concerns": bank["concerns"], "status": bank["status"], "method": bank["method"]})
+        for q in bank["questions"]:
+            rq.append({"id": q["id"], "q": q["question"], "c": q["category"], "topic": bank["concerns"][q["focus"]],
+                       "terms": [pidx[s] for s in q["terms"]], "owner": owner})
 
     # conflicts and questions: text from the file, relations from the graph
     def number(path: Path) -> int:
@@ -913,7 +933,7 @@ def export(checks: bool = True) -> dict:
     return {
         "meta": {"commit": head[0] if head else "", "date": head[1] if len(head) > 1 else ""},
         "state": {k: [v["value"], v["how"]] for k, v in derived.items()},
-        "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "compare": compare,
+        "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "readingQuestions": rq, "readingBanks": rq_banks, "questionCategories": reading_questions.CATEGORIES, "compare": compare,
         "agenda": agenda, "sessions": plan, "now": {"lede": now_lede, "sec": now_secs},
         "goal": {"title": goal_title, "lede": goal_lede, "sec": goal_secs},
         "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript, "novel": novel,
@@ -990,6 +1010,15 @@ def main_artboard(data: dict, template: str | None = None) -> str:
              "$preview": {"width": WIDTH, "height": HEIGHT}}
     attr = json.dumps(props, separators=(",", ":")).replace("&", "&amp;").replace("'", "&#39;")
     markup = template if template is not None else TEMPLATE.read_text(encoding="utf-8")
+    options = {
+        "terms": [("", "Alle Begriffe")] + [(p["s"], p["t"] + " · 100") for p in sorted(data["pages"], key=lambda p: p["t"].casefold())],
+        "categories": [("", "Alle Blickwinkel")] + [(c, c) for c in data["questionCategories"]],
+        "kinds": [("", "Alle Fragen"), ("direct", "Zum Begriff"), ("cross", "Termübergreifend")],
+        "statuses": [("", "Alle lokalen Zustände"), ("saved", "Vorgemerkt"), ("working", "In Arbeit"), ("answered", "Lokal beantwortet")],
+        "editStatuses": [("unseen", "Noch nicht bearbeitet"), ("saved", "Vorgemerkt"), ("working", "In Arbeit"), ("answered", "Lokal beantwortet")],
+    }
+    for key, values in options.items():
+        markup = markup.replace("@RQ_OPTIONS_" + key + "@", "".join(f'<option value="{html.escape(v, quote=True)}">{html.escape(label)}</option>' for v, label in values))
     markup = re.sub(r"@RUNSFLAT\(([^)@]+)\)@", lambda m: RUNSFLAT % m.group(1), markup)
     markup = re.sub(r"@RUNS\(([^)@]+)\)@", lambda m: RUNS % m.group(1), markup)
     markup = markup.replace("@TITLE@", "Kohärenz Protokoll — Now").replace("@PROPS@", attr)
@@ -1031,6 +1060,12 @@ def agent_index(data: dict) -> list[dict]:
                "address": f"#/conflicts/{c['id']}", "status": c["status"]} for c in data["conflicts"]]
     items += [{"kind": "question", "id": q["id"], "title": q["title"], "path": rel(QUESTIONS / f"{q['f']}.md"),
                "address": f"#/questions/{q['id']}", "status": q["status"]} for q in data["questions"]]
+    items += [{"kind": "term-page", "id": p["s"], "title": p["t"], "path": rel(TERMS / f"{p['s']}.md"),
+               "address": f"#/wiki/{p['s']}/term", "status": p["tp"]} for p in data["pages"] if p["tp"]]
+    items += [{"kind": "reading-question", "id": q["id"], "title": q["q"],
+               "path": f"Wiki/questions/reading/{data['pages'][q['owner']]['s']}.json",
+               "address": f"#/questions/reading/{q['id']}", "status": "proposed", "answer_status": "unchecked"}
+              for q in data["readingQuestions"]]
     items += [{"kind": "record", "id": c["k"], "title": c["title"], "path": rel(COMPARE / f"{c['f']}.md"),
                "address": f"#/process/compare/{c['k']}"} for c in data["compare"]]
     items += [{"kind": "decision", "id": d["id"], "title": d["title"], "path": rel(DECISIONS / f"{d['f']}.md"),
@@ -1058,6 +1093,7 @@ container without the author's decision.
 - [sessions.json](agents/sessions.json): the next sessions, derived from NOW.md § Half-done in its order — each
   with its next step, whether it waits on the author, the files to open first, and a self-contained prompt.
   {n_ready} ready, {n_gated} waiting on the author.
+- [reading-questions.json](agents/reading-questions.json): additional reading prompts; editorial topics explored through shared lenses, not unresolved canon findings. Stable addresses: `#/questions/reading/<RQ-id>`.
 - [index.json](agents/index.json): {n_items} items (pages, conflicts, questions, records, decisions, drafts,
   sessions), each with its repository path and its address in this app.
 - [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
@@ -1088,7 +1124,8 @@ def agent_files(data: dict, out: Path) -> list[str]:
               "standing": plan["standing"]}
     items = agent_index(data)
     files = {"sessions.json": served, "index.json": {"commit": data["meta"]["commit"], "items": items},
-             "state.json": {"commit": data["meta"]["commit"], "measurements": data["state"]}, "data.json": data}
+             "state.json": {"commit": data["meta"]["commit"], "measurements": data["state"]}, "data.json": data,
+             "reading-questions.json": {"commit": data["meta"]["commit"], "status": "proposed", "answer_status": "unchecked", "banks": data["readingBanks"], "questions": data["readingQuestions"]}}
     for name, body in files.items():
         (agents / name).write_text(json.dumps(body, ensure_ascii=False, indent=None if name == "data.json" else 1),
                                    encoding="utf-8")
@@ -1209,6 +1246,14 @@ def check_data(data: dict) -> list[str]:
     """Every reference in the data points at something that exists; counts are measurements."""
     problems = []
     n_pages, n_docs = len(data["pages"]), len(data["docs"])
+    rq = data.get("readingQuestions", [])
+    counts = Counter(q.get("owner") for q in rq)
+    if any(counts.get(i) != 100 for i in range(n_pages)) or sum(counts.values()) != 100 * n_pages:
+        problems.append("reading questions: expected 100 for every term")
+    if len({q.get("id") for q in rq}) != len(rq): problems.append("reading questions: duplicate identity")
+    for q in rq:
+        if any(not isinstance(i, int) or not 0 <= i < n_pages for i in q.get("terms", [])):
+            problems.append("reading questions: link to no term")
 
     def walk(runs, where):
         for r in runs:
@@ -1241,6 +1286,10 @@ def check_data(data: dict) -> list[str]:
             if not -1 <= sec[1] < n_docs:
                 problems.append(f"{where}: section of no document ({sec[1]})")
     for p in data["pages"]:
+        blocks(p.get("termLede", []), f"term page {p['s']}")
+        for sec in p.get("termSec", []):
+            walk(sec[0], f"term page {p['s']}")
+            blocks(sec[3], f"term page {p['s']}")
         for key, limit in (("out", n_pages), ("in", n_pages), ("ing", n_docs), ("cx", len(data["conflicts"])),
                            ("qx", len(data["questions"]))):
             bad = [i for i in p[key] if not 0 <= i < limit]
@@ -1323,7 +1372,9 @@ const rt = (st, label) => {
   if (h2 !== h) bad.push(label + ': ' + h + ' comes back as ' + h2);
 };
 ['now', 'wiki', 'conflicts', 'questions', 'manuscript', 'graph', 'corpus', 'process'].forEach((x) => rt({ screen: x }, 'screen ' + x));
-D.pages.forEach((x, i) => rt({ screen: 'wiki', page: i }, 'page ' + x.s));
+D.pages.forEach((x, i) => { rt({ screen: 'wiki', page: i }, 'page ' + x.s); ['term', 'readings', 'promotion'].forEach((v) => rt({ screen: 'wiki', page: i, wview: v }, 'wiki view ' + v + x.s)); });
+D.readingQuestions.forEach((x) => rt({ screen: 'questions', qt: 'reading', rqi: x.id, rt: D.pages[x.owner].s }, 'reading ' + x.id));
+D.pages.forEach((x) => rt({ screen: 'questions', qt: 'reading', rt: x.s }, 'bank ' + x.s));
 D.conflicts.forEach((x, i) => rt({ screen: 'conflicts', conf: i }, 'conflict ' + x.id));
 D.questions.forEach((x, i) => rt({ screen: 'questions', ques: i }, 'question ' + x.id));
 rt({ screen: 'questions', ques: -1 }, 'the agenda');
@@ -1469,6 +1520,18 @@ def check_session_ui(data: dict, js: str | None = None, template: str | None = N
         "session UI: export guards, manual drafts, forks and board request lifecycle checked offline, with node"
 
 
+def check_reading_ui(data: dict) -> tuple[list[str], str]:
+    node = shutil.which("node")
+    if not node: return [], "reading UI NOT checked: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "reading.js"
+        path.write_text(stub + data_script(data) + "\n" + (HERE / "ui_reading_fixture.js").read_text())
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True, timeout=30)
+    if proc.returncode: return ["reading UI: " + proc.stderr.strip().splitlines()[-1]], "reading UI"
+    return ["reading UI: " + p for p in json.loads(proc.stdout.strip().splitlines()[-1])], "reading UI: filters, pagination, local notes, exports and wiki layers checked with node"
+
+
 def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[str]]:
     """(problems, notes) for what `build` wrote."""
     project = out / "canvas" / "project"
@@ -1492,13 +1555,21 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
         for it in json.loads((out / "agents" / "index.json").read_text(encoding="utf-8"))["items"]:
             if not (ROOT / it["path"]).exists():
                 problems.append(f"agents/index.json: {it['kind']} {it['id']} names {it['path']}, which does not exist")
+    served_questions = out / "agents" / "reading-questions.json"
+    if not served_questions.exists():
+        problems.append("agents/reading-questions.json: missing")
+    else:
+        served = json.loads(served_questions.read_text())
+        if served.get("questions") != data["readingQuestions"] or served.get("banks") != data["readingBanks"]:
+            problems.append("agents/reading-questions.json: differs from the workshop")
     script_problems, note = check_script(data)
     route_problems, route_note = check_routes(data) if not script_problems else ([], "addresses not checked: the syntax failed")
     board_problems, board_note = check_board(data) if not script_problems else ([], "board not compared: the syntax failed")
     editor_problems, editor_note = check_editor(data) if not script_problems else ([], "editor not checked: the syntax failed")
     session_problems, session_note = check_session_ui(data) if not script_problems else ([], "session UI not checked: the syntax failed")
-    return (problems + script_problems + route_problems + board_problems + editor_problems + session_problems,
-            [note, route_note, board_note, editor_note, session_note])
+    reading_problems, reading_note = check_reading_ui(data) if not script_problems else ([], "reading UI not checked: syntax failed")
+    return (problems + script_problems + route_problems + board_problems + editor_problems + session_problems + reading_problems,
+            [note, route_note, board_note, editor_note, session_note, reading_note])
 
 
 # ---------------------------------------------------------------- selftest

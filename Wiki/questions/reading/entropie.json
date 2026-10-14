@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "entropie",
+ "title": "Entropie",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "mehrdeutige Verwendung von Unordnung",
+  "Trennung physikalischer und informationeller Entropie",
+  "Komplexität ohne Zerfall",
+  "Systemperspektive auf menschliche Vielfalt",
+  "Kosten erzwungener Ordnung"
+ ],
+ "basis": {
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "negentropie": {
+   "title": "Negentropie",
+   "path": "Wiki/candidates/negentropie.md",
+   "hash": "d8946392e840d2a9fbb4349001cf9cf7adf9d112058bfc231a5a5370c173e472"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-entropie-001",
+   "question": "Wann bezeichnet Entropie im Projekt eine physikalische Größe, wann Informationsverlust und wann lediglich AEGIS' Urteil über Vielfalt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-002",
+   "question": "Welche Lesarten auf der Seite zu Entropie stützen oder begrenzen „mehrdeutige Verwendung von Unordnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-003",
+   "question": "Welcher Grenzfall würde bei Entropie die Annahmen über „mehrdeutige Verwendung von Unordnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-004",
+   "question": "Wer könnte innerhalb des Romans bei Entropie etwas über „mehrdeutige Verwendung von Unordnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-005",
+   "question": "Welche konkrete Entscheidung könnte „mehrdeutige Verwendung von Unordnung“ bei Entropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „mehrdeutige Verwendung von Unordnung“ bei Entropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-007",
+   "question": "Wie lässt sich „mehrdeutige Verwendung von Unordnung“ bei Entropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-008",
+   "question": "Welche Alternativen sollte der Autor bei Entropie für „mehrdeutige Verwendung von Unordnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-009",
+   "question": "Was bedeutet bei Entropie der Themenpunkt „Trennung physikalischer und informationeller Entropie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-010",
+   "question": "Welche Lesarten auf der Seite zu Entropie stützen oder begrenzen „Trennung physikalischer und informationeller Entropie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-011",
+   "question": "Welcher Grenzfall würde bei Entropie die Annahmen über „Trennung physikalischer und informationeller Entropie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-012",
+   "question": "Wer könnte innerhalb des Romans bei Entropie etwas über „Trennung physikalischer und informationeller Entropie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-013",
+   "question": "Welche konkrete Entscheidung könnte „Trennung physikalischer und informationeller Entropie“ bei Entropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Trennung physikalischer und informationeller Entropie“ bei Entropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-015",
+   "question": "Wie lässt sich „Trennung physikalischer und informationeller Entropie“ bei Entropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-016",
+   "question": "Welche Alternativen sollte der Autor bei Entropie für „Trennung physikalischer und informationeller Entropie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-017",
+   "question": "Was bedeutet bei Entropie der Themenpunkt „Komplexität ohne Zerfall“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-018",
+   "question": "Welche Lesarten auf der Seite zu Entropie stützen oder begrenzen „Komplexität ohne Zerfall“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-019",
+   "question": "Welcher Grenzfall würde bei Entropie die Annahmen über „Komplexität ohne Zerfall“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-020",
+   "question": "Wer könnte innerhalb des Romans bei Entropie etwas über „Komplexität ohne Zerfall“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-021",
+   "question": "Welche konkrete Entscheidung könnte „Komplexität ohne Zerfall“ bei Entropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Komplexität ohne Zerfall“ bei Entropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-023",
+   "question": "Wie lässt sich „Komplexität ohne Zerfall“ bei Entropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-024",
+   "question": "Welche Alternativen sollte der Autor bei Entropie für „Komplexität ohne Zerfall“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-025",
+   "question": "Was bedeutet bei Entropie der Themenpunkt „Systemperspektive auf menschliche Vielfalt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-026",
+   "question": "Welche Lesarten auf der Seite zu Entropie stützen oder begrenzen „Systemperspektive auf menschliche Vielfalt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-027",
+   "question": "Welcher Grenzfall würde bei Entropie die Annahmen über „Systemperspektive auf menschliche Vielfalt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-028",
+   "question": "Wer könnte innerhalb des Romans bei Entropie etwas über „Systemperspektive auf menschliche Vielfalt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-029",
+   "question": "Welche konkrete Entscheidung könnte „Systemperspektive auf menschliche Vielfalt“ bei Entropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Systemperspektive auf menschliche Vielfalt“ bei Entropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-031",
+   "question": "Wie lässt sich „Systemperspektive auf menschliche Vielfalt“ bei Entropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-032",
+   "question": "Welche Alternativen sollte der Autor bei Entropie für „Systemperspektive auf menschliche Vielfalt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-033",
+   "question": "Was bedeutet bei Entropie der Themenpunkt „Kosten erzwungener Ordnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-034",
+   "question": "Welche Lesarten auf der Seite zu Entropie stützen oder begrenzen „Kosten erzwungener Ordnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-035",
+   "question": "Welcher Grenzfall würde bei Entropie die Annahmen über „Kosten erzwungener Ordnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-036",
+   "question": "Wer könnte innerhalb des Romans bei Entropie etwas über „Kosten erzwungener Ordnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-037",
+   "question": "Welche konkrete Entscheidung könnte „Kosten erzwungener Ordnung“ bei Entropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kosten erzwungener Ordnung“ bei Entropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-039",
+   "question": "Wie lässt sich „Kosten erzwungener Ordnung“ bei Entropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-040",
+   "question": "Welche Alternativen sollte der Autor bei Entropie für „Kosten erzwungener Ordnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-041",
+   "question": "Wo unterscheiden sich Entropie und Negentropie, wenn man sie unter dem Gesichtspunkt „mehrdeutige Verwendung von Unordnung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-042",
+   "question": "Welche Quelle verbindet Entropie mit Negentropie in Bezug auf „mehrdeutige Verwendung von Unordnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-043",
+   "question": "Welche Grenzen aus der Seite zu Negentropie müsste eine Deutung von Entropie unter „mehrdeutige Verwendung von Unordnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-044",
+   "question": "Wie könnte sich das Wissen über Entropie vom Wissen über Negentropie unterscheiden, wenn „mehrdeutige Verwendung von Unordnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie und Negentropie bei „mehrdeutige Verwendung von Unordnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-046",
+   "question": "Falls Entropie im Hinblick auf „mehrdeutige Verwendung von Unordnung“ anders festgelegt wird: Welche Aussagen über Negentropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie und Negentropie bei „mehrdeutige Verwendung von Unordnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-048",
+   "question": "Braucht der Roman eine Verbindung von Entropie und Negentropie bei „mehrdeutige Verwendung von Unordnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-049",
+   "question": "In welchem denkbaren Fall könnte Entropie bestehen, ohne dass Negentropie dieselbe Funktion übernimmt, und was würde das für „mehrdeutige Verwendung von Unordnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-050",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie und Negentropie in Bezug auf „mehrdeutige Verwendung von Unordnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-051",
+   "question": "Welche ältere Lesart von Entropie oder Negentropie könnte die Gegenüberstellung unter „mehrdeutige Verwendung von Unordnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie und Negentropie unter „mehrdeutige Verwendung von Unordnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-053",
+   "question": "Wo unterscheiden sich Entropie und Multiplizität, wenn man sie unter dem Gesichtspunkt „Trennung physikalischer und informationeller Entropie“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-054",
+   "question": "Welche Quelle verbindet Entropie mit Multiplizität in Bezug auf „Trennung physikalischer und informationeller Entropie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-055",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Entropie unter „Trennung physikalischer und informationeller Entropie“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-056",
+   "question": "Wie könnte sich das Wissen über Entropie vom Wissen über Multiplizität unterscheiden, wenn „Trennung physikalischer und informationeller Entropie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie und Multiplizität bei „Trennung physikalischer und informationeller Entropie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-058",
+   "question": "Falls Entropie im Hinblick auf „Trennung physikalischer und informationeller Entropie“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie und Multiplizität bei „Trennung physikalischer und informationeller Entropie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-060",
+   "question": "Braucht der Roman eine Verbindung von Entropie und Multiplizität bei „Trennung physikalischer und informationeller Entropie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-061",
+   "question": "In welchem denkbaren Fall könnte Entropie bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Trennung physikalischer und informationeller Entropie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-062",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie und Multiplizität in Bezug auf „Trennung physikalischer und informationeller Entropie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-063",
+   "question": "Welche ältere Lesart von Entropie oder Multiplizität könnte die Gegenüberstellung unter „Trennung physikalischer und informationeller Entropie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie und Multiplizität unter „Trennung physikalischer und informationeller Entropie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-entropie-065",
+   "question": "Wo unterscheiden sich Entropie und AEGIS, wenn man sie unter dem Gesichtspunkt „Komplexität ohne Zerfall“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-066",
+   "question": "Welche Quelle verbindet Entropie mit AEGIS in Bezug auf „Komplexität ohne Zerfall“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Entropie unter „Komplexität ohne Zerfall“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-068",
+   "question": "Wie könnte sich das Wissen über Entropie vom Wissen über AEGIS unterscheiden, wenn „Komplexität ohne Zerfall“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie und AEGIS bei „Komplexität ohne Zerfall“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-070",
+   "question": "Falls Entropie im Hinblick auf „Komplexität ohne Zerfall“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie und AEGIS bei „Komplexität ohne Zerfall“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-072",
+   "question": "Braucht der Roman eine Verbindung von Entropie und AEGIS bei „Komplexität ohne Zerfall“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-073",
+   "question": "In welchem denkbaren Fall könnte Entropie bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Komplexität ohne Zerfall“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-074",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie und AEGIS in Bezug auf „Komplexität ohne Zerfall“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-075",
+   "question": "Welche ältere Lesart von Entropie oder AEGIS könnte die Gegenüberstellung unter „Komplexität ohne Zerfall“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie und AEGIS unter „Komplexität ohne Zerfall“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-077",
+   "question": "Wo unterscheiden sich Entropie und Erason, wenn man sie unter dem Gesichtspunkt „Systemperspektive auf menschliche Vielfalt“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-078",
+   "question": "Welche Quelle verbindet Entropie mit Erason in Bezug auf „Systemperspektive auf menschliche Vielfalt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-079",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Entropie unter „Systemperspektive auf menschliche Vielfalt“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-080",
+   "question": "Wie könnte sich das Wissen über Entropie vom Wissen über Erason unterscheiden, wenn „Systemperspektive auf menschliche Vielfalt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie und Erason bei „Systemperspektive auf menschliche Vielfalt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-082",
+   "question": "Falls Entropie im Hinblick auf „Systemperspektive auf menschliche Vielfalt“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie und Erason bei „Systemperspektive auf menschliche Vielfalt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-084",
+   "question": "Braucht der Roman eine Verbindung von Entropie und Erason bei „Systemperspektive auf menschliche Vielfalt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-085",
+   "question": "In welchem denkbaren Fall könnte Entropie bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Systemperspektive auf menschliche Vielfalt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-086",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie und Erason in Bezug auf „Systemperspektive auf menschliche Vielfalt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-087",
+   "question": "Welche ältere Lesart von Entropie oder Erason könnte die Gegenüberstellung unter „Systemperspektive auf menschliche Vielfalt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie und Erason unter „Systemperspektive auf menschliche Vielfalt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-entropie-089",
+   "question": "Wo unterscheiden sich Entropie und Kohärenz, wenn man sie unter dem Gesichtspunkt „Kosten erzwungener Ordnung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-090",
+   "question": "Welche Quelle verbindet Entropie mit Kohärenz in Bezug auf „Kosten erzwungener Ordnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-091",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von Entropie unter „Kosten erzwungener Ordnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-092",
+   "question": "Wie könnte sich das Wissen über Entropie vom Wissen über Kohärenz unterscheiden, wenn „Kosten erzwungener Ordnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie und Kohärenz bei „Kosten erzwungener Ordnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-094",
+   "question": "Falls Entropie im Hinblick auf „Kosten erzwungener Ordnung“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie und Kohärenz bei „Kosten erzwungener Ordnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-096",
+   "question": "Braucht der Roman eine Verbindung von Entropie und Kohärenz bei „Kosten erzwungener Ordnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-097",
+   "question": "In welchem denkbaren Fall könnte Entropie bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Kosten erzwungener Ordnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-098",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie und Kohärenz in Bezug auf „Kosten erzwungener Ordnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-099",
+   "question": "Welche ältere Lesart von Entropie oder Kohärenz könnte die Gegenüberstellung unter „Kosten erzwungener Ordnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie und Kohärenz unter „Kosten erzwungener Ordnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie",
+    "kohaerenz"
+   ]
+  }
+ ]
+}

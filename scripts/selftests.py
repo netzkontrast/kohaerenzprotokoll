@@ -74,6 +74,8 @@ SUITES = [
     ("pack: hits, fit, status, the byte unit", "std", ["scripts/pack.py", "selftest"]),
     ("ask pack contract: byte budget, incomplete, share, frontmatter", "std", ["scripts/ask.py", "pack-selftest"]),
     ("ask novelgraph finder: off by default, refuses without its venv", "std", ["scripts/ask.py", "novelgraph-selftest"]),
+    ("reading questions: coverage and refusals", "std", ["scripts/reading_questions.py", "selftest"]),
+    ("reading questions, live", "std", ["scripts/reading_questions.py", "check"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("next sessions from NOW.md: order, gates, prompt", "std", ["scripts/sessions.py", "selftest"]),
     ("next sessions, live: NOW.md names at least one", "std", ["scripts/sessions.py"]),

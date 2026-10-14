@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "goedel-gambit",
+ "title": "Gödel-Gambit",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Grenze der mathematischen Analogie",
+  "wahre gegenüber beweisbarer Aussage",
+  "Handlung statt logischer Erklärung",
+  "Folgen für AEGIS ohne Vernichtung",
+  "Ort und Träger der unentscheidbaren Aussage"
+ ],
+ "basis": {
+  "goedel-gambit": {
+   "title": "Gödel-Gambit",
+   "path": "Wiki/candidates/goedel-gambit.md",
+   "hash": "a84aea6b9acca2e4c1a99d552bc6e9b9488e221dedef98363ab3d2ae26b9cec0"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "chaitin-konstante": {
+   "title": "Chaitin-Konstante",
+   "path": "Wiki/candidates/chaitin-konstante.md",
+   "hash": "a25371d3cedc288db9e3e8e9c70f8e482370e0391f208cf1b722b283f6fefe21"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-goedel-gambit-001",
+   "question": "Welche konkrete Entscheidung Kaels zwingt AEGIS an eine Beweisgrenze, statt nur einen mathematischen Vergleich zu illustrieren?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-002",
+   "question": "Welche Lesarten auf der Seite zu Gödel-Gambit stützen oder begrenzen „Grenze der mathematischen Analogie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-003",
+   "question": "Welcher Grenzfall würde bei Gödel-Gambit die Annahmen über „Grenze der mathematischen Analogie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-004",
+   "question": "Wer könnte innerhalb des Romans bei Gödel-Gambit etwas über „Grenze der mathematischen Analogie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-005",
+   "question": "Welche konkrete Entscheidung könnte „Grenze der mathematischen Analogie“ bei Gödel-Gambit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze der mathematischen Analogie“ bei Gödel-Gambit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-007",
+   "question": "Wie lässt sich „Grenze der mathematischen Analogie“ bei Gödel-Gambit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-008",
+   "question": "Welche Alternativen sollte der Autor bei Gödel-Gambit für „Grenze der mathematischen Analogie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-009",
+   "question": "Was bedeutet bei Gödel-Gambit der Themenpunkt „wahre gegenüber beweisbarer Aussage“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-010",
+   "question": "Welche Lesarten auf der Seite zu Gödel-Gambit stützen oder begrenzen „wahre gegenüber beweisbarer Aussage“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-011",
+   "question": "Welcher Grenzfall würde bei Gödel-Gambit die Annahmen über „wahre gegenüber beweisbarer Aussage“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-012",
+   "question": "Wer könnte innerhalb des Romans bei Gödel-Gambit etwas über „wahre gegenüber beweisbarer Aussage“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-013",
+   "question": "Welche konkrete Entscheidung könnte „wahre gegenüber beweisbarer Aussage“ bei Gödel-Gambit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „wahre gegenüber beweisbarer Aussage“ bei Gödel-Gambit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-015",
+   "question": "Wie lässt sich „wahre gegenüber beweisbarer Aussage“ bei Gödel-Gambit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-016",
+   "question": "Welche Alternativen sollte der Autor bei Gödel-Gambit für „wahre gegenüber beweisbarer Aussage“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-017",
+   "question": "Was bedeutet bei Gödel-Gambit der Themenpunkt „Handlung statt logischer Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-018",
+   "question": "Welche Lesarten auf der Seite zu Gödel-Gambit stützen oder begrenzen „Handlung statt logischer Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-019",
+   "question": "Welcher Grenzfall würde bei Gödel-Gambit die Annahmen über „Handlung statt logischer Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-020",
+   "question": "Wer könnte innerhalb des Romans bei Gödel-Gambit etwas über „Handlung statt logischer Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-021",
+   "question": "Welche konkrete Entscheidung könnte „Handlung statt logischer Erklärung“ bei Gödel-Gambit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlung statt logischer Erklärung“ bei Gödel-Gambit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-023",
+   "question": "Wie lässt sich „Handlung statt logischer Erklärung“ bei Gödel-Gambit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-024",
+   "question": "Welche Alternativen sollte der Autor bei Gödel-Gambit für „Handlung statt logischer Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-025",
+   "question": "Was bedeutet bei Gödel-Gambit der Themenpunkt „Folgen für AEGIS ohne Vernichtung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-026",
+   "question": "Welche Lesarten auf der Seite zu Gödel-Gambit stützen oder begrenzen „Folgen für AEGIS ohne Vernichtung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-027",
+   "question": "Welcher Grenzfall würde bei Gödel-Gambit die Annahmen über „Folgen für AEGIS ohne Vernichtung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-028",
+   "question": "Wer könnte innerhalb des Romans bei Gödel-Gambit etwas über „Folgen für AEGIS ohne Vernichtung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-029",
+   "question": "Welche konkrete Entscheidung könnte „Folgen für AEGIS ohne Vernichtung“ bei Gödel-Gambit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen für AEGIS ohne Vernichtung“ bei Gödel-Gambit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-031",
+   "question": "Wie lässt sich „Folgen für AEGIS ohne Vernichtung“ bei Gödel-Gambit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-032",
+   "question": "Welche Alternativen sollte der Autor bei Gödel-Gambit für „Folgen für AEGIS ohne Vernichtung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-033",
+   "question": "Was bedeutet bei Gödel-Gambit der Themenpunkt „Ort und Träger der unentscheidbaren Aussage“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-034",
+   "question": "Welche Lesarten auf der Seite zu Gödel-Gambit stützen oder begrenzen „Ort und Träger der unentscheidbaren Aussage“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-035",
+   "question": "Welcher Grenzfall würde bei Gödel-Gambit die Annahmen über „Ort und Träger der unentscheidbaren Aussage“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-036",
+   "question": "Wer könnte innerhalb des Romans bei Gödel-Gambit etwas über „Ort und Träger der unentscheidbaren Aussage“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-037",
+   "question": "Welche konkrete Entscheidung könnte „Ort und Träger der unentscheidbaren Aussage“ bei Gödel-Gambit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Ort und Träger der unentscheidbaren Aussage“ bei Gödel-Gambit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-039",
+   "question": "Wie lässt sich „Ort und Träger der unentscheidbaren Aussage“ bei Gödel-Gambit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-040",
+   "question": "Welche Alternativen sollte der Autor bei Gödel-Gambit für „Ort und Träger der unentscheidbaren Aussage“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-041",
+   "question": "Wo unterscheiden sich Gödel-Gambit und AEGIS, wenn man sie unter dem Gesichtspunkt „Grenze der mathematischen Analogie“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-042",
+   "question": "Welche Quelle verbindet Gödel-Gambit mit AEGIS in Bezug auf „Grenze der mathematischen Analogie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Gödel-Gambit unter „Grenze der mathematischen Analogie“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-044",
+   "question": "Wie könnte sich das Wissen über Gödel-Gambit vom Wissen über AEGIS unterscheiden, wenn „Grenze der mathematischen Analogie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Gödel-Gambit und AEGIS bei „Grenze der mathematischen Analogie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-046",
+   "question": "Falls Gödel-Gambit im Hinblick auf „Grenze der mathematischen Analogie“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Gödel-Gambit und AEGIS bei „Grenze der mathematischen Analogie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-048",
+   "question": "Braucht der Roman eine Verbindung von Gödel-Gambit und AEGIS bei „Grenze der mathematischen Analogie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-049",
+   "question": "In welchem denkbaren Fall könnte Gödel-Gambit bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Grenze der mathematischen Analogie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-050",
+   "question": "Welche Kosten könnte eine Verbindung von Gödel-Gambit und AEGIS in Bezug auf „Grenze der mathematischen Analogie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-051",
+   "question": "Welche ältere Lesart von Gödel-Gambit oder AEGIS könnte die Gegenüberstellung unter „Grenze der mathematischen Analogie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Gödel-Gambit und AEGIS unter „Grenze der mathematischen Analogie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "goedel-gambit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-053",
+   "question": "Wo unterscheiden sich Gödel-Gambit und Kael, wenn man sie unter dem Gesichtspunkt „wahre gegenüber beweisbarer Aussage“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-054",
+   "question": "Welche Quelle verbindet Gödel-Gambit mit Kael in Bezug auf „wahre gegenüber beweisbarer Aussage“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-055",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Gödel-Gambit unter „wahre gegenüber beweisbarer Aussage“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-056",
+   "question": "Wie könnte sich das Wissen über Gödel-Gambit vom Wissen über Kael unterscheiden, wenn „wahre gegenüber beweisbarer Aussage“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Gödel-Gambit und Kael bei „wahre gegenüber beweisbarer Aussage“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-058",
+   "question": "Falls Gödel-Gambit im Hinblick auf „wahre gegenüber beweisbarer Aussage“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Gödel-Gambit und Kael bei „wahre gegenüber beweisbarer Aussage“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-060",
+   "question": "Braucht der Roman eine Verbindung von Gödel-Gambit und Kael bei „wahre gegenüber beweisbarer Aussage“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-061",
+   "question": "In welchem denkbaren Fall könnte Gödel-Gambit bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „wahre gegenüber beweisbarer Aussage“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-062",
+   "question": "Welche Kosten könnte eine Verbindung von Gödel-Gambit und Kael in Bezug auf „wahre gegenüber beweisbarer Aussage“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-063",
+   "question": "Welche ältere Lesart von Gödel-Gambit oder Kael könnte die Gegenüberstellung unter „wahre gegenüber beweisbarer Aussage“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Gödel-Gambit und Kael unter „wahre gegenüber beweisbarer Aussage“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "goedel-gambit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-065",
+   "question": "Wo unterscheiden sich Gödel-Gambit und Vortex, wenn man sie unter dem Gesichtspunkt „Handlung statt logischer Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-066",
+   "question": "Welche Quelle verbindet Gödel-Gambit mit Vortex in Bezug auf „Handlung statt logischer Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-067",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Gödel-Gambit unter „Handlung statt logischer Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-068",
+   "question": "Wie könnte sich das Wissen über Gödel-Gambit vom Wissen über Vortex unterscheiden, wenn „Handlung statt logischer Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Gödel-Gambit und Vortex bei „Handlung statt logischer Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-070",
+   "question": "Falls Gödel-Gambit im Hinblick auf „Handlung statt logischer Erklärung“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Gödel-Gambit und Vortex bei „Handlung statt logischer Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-072",
+   "question": "Braucht der Roman eine Verbindung von Gödel-Gambit und Vortex bei „Handlung statt logischer Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-073",
+   "question": "In welchem denkbaren Fall könnte Gödel-Gambit bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Handlung statt logischer Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-074",
+   "question": "Welche Kosten könnte eine Verbindung von Gödel-Gambit und Vortex in Bezug auf „Handlung statt logischer Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-075",
+   "question": "Welche ältere Lesart von Gödel-Gambit oder Vortex könnte die Gegenüberstellung unter „Handlung statt logischer Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Gödel-Gambit und Vortex unter „Handlung statt logischer Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "goedel-gambit",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-077",
+   "question": "Wo unterscheiden sich Gödel-Gambit und Chaitin-Konstante, wenn man sie unter dem Gesichtspunkt „Folgen für AEGIS ohne Vernichtung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-078",
+   "question": "Welche Quelle verbindet Gödel-Gambit mit Chaitin-Konstante in Bezug auf „Folgen für AEGIS ohne Vernichtung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-079",
+   "question": "Welche Grenzen aus der Seite zu Chaitin-Konstante müsste eine Deutung von Gödel-Gambit unter „Folgen für AEGIS ohne Vernichtung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-080",
+   "question": "Wie könnte sich das Wissen über Gödel-Gambit vom Wissen über Chaitin-Konstante unterscheiden, wenn „Folgen für AEGIS ohne Vernichtung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Gödel-Gambit und Chaitin-Konstante bei „Folgen für AEGIS ohne Vernichtung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-082",
+   "question": "Falls Gödel-Gambit im Hinblick auf „Folgen für AEGIS ohne Vernichtung“ anders festgelegt wird: Welche Aussagen über Chaitin-Konstante müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Gödel-Gambit und Chaitin-Konstante bei „Folgen für AEGIS ohne Vernichtung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-084",
+   "question": "Braucht der Roman eine Verbindung von Gödel-Gambit und Chaitin-Konstante bei „Folgen für AEGIS ohne Vernichtung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-085",
+   "question": "In welchem denkbaren Fall könnte Gödel-Gambit bestehen, ohne dass Chaitin-Konstante dieselbe Funktion übernimmt, und was würde das für „Folgen für AEGIS ohne Vernichtung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-086",
+   "question": "Welche Kosten könnte eine Verbindung von Gödel-Gambit und Chaitin-Konstante in Bezug auf „Folgen für AEGIS ohne Vernichtung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-087",
+   "question": "Welche ältere Lesart von Gödel-Gambit oder Chaitin-Konstante könnte die Gegenüberstellung unter „Folgen für AEGIS ohne Vernichtung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Gödel-Gambit und Chaitin-Konstante unter „Folgen für AEGIS ohne Vernichtung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "goedel-gambit",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-089",
+   "question": "Wo unterscheiden sich Gödel-Gambit und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Ort und Träger der unentscheidbaren Aussage“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-090",
+   "question": "Welche Quelle verbindet Gödel-Gambit mit Truth-Rotation in Bezug auf „Ort und Träger der unentscheidbaren Aussage“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-091",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Gödel-Gambit unter „Ort und Träger der unentscheidbaren Aussage“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-092",
+   "question": "Wie könnte sich das Wissen über Gödel-Gambit vom Wissen über Truth-Rotation unterscheiden, wenn „Ort und Träger der unentscheidbaren Aussage“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Gödel-Gambit und Truth-Rotation bei „Ort und Träger der unentscheidbaren Aussage“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-094",
+   "question": "Falls Gödel-Gambit im Hinblick auf „Ort und Träger der unentscheidbaren Aussage“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Gödel-Gambit und Truth-Rotation bei „Ort und Träger der unentscheidbaren Aussage“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-096",
+   "question": "Braucht der Roman eine Verbindung von Gödel-Gambit und Truth-Rotation bei „Ort und Träger der unentscheidbaren Aussage“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-097",
+   "question": "In welchem denkbaren Fall könnte Gödel-Gambit bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Ort und Träger der unentscheidbaren Aussage“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-098",
+   "question": "Welche Kosten könnte eine Verbindung von Gödel-Gambit und Truth-Rotation in Bezug auf „Ort und Träger der unentscheidbaren Aussage“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-099",
+   "question": "Welche ältere Lesart von Gödel-Gambit oder Truth-Rotation könnte die Gegenüberstellung unter „Ort und Träger der unentscheidbaren Aussage“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-goedel-gambit-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Gödel-Gambit und Truth-Rotation unter „Ort und Träger der unentscheidbaren Aussage“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "goedel-gambit",
+    "truth-rotation"
+   ]
+  }
+ ]
+}

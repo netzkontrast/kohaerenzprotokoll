@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "lex",
+ "title": "Lex",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Rationalität als Schutz",
+  "frühere Darstellung als Nebenfigur",
+  "Abgrenzung von Analyse und Kontrolle",
+  "Wissen ohne Zugang zum Erleben",
+  "Kooperation mit widersprechenden Anteilen"
+ ],
+ "basis": {
+  "lex": {
+   "title": "Lex",
+   "path": "Wiki/candidates/lex.md",
+   "hash": "e0735fa95ac7b6e928b025c52f36ddfee357107824ddd781bda09d6067e9e0a5"
+  },
+  "nyx": {
+   "title": "Nyx",
+   "path": "Wiki/candidates/nyx.md",
+   "hash": "aa8229d8a97c26a7de00405ae622849723762c4d13b598d13466ea7a98add48c"
+  },
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "cache-kohaerenz": {
+   "title": "Cache-Kohärenz",
+   "path": "Wiki/candidates/cache-kohaerenz.md",
+   "hash": "38b366ecb71be124ee23458f7a92d3ed0c0d4e96765a3da59e44d8d2b70c25f8"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-lex-001",
+   "question": "Wann hilft Lex' Analyse einem anderen Anteil, und wann versucht sie dessen Erleben durch eine Erklärung zu ersetzen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-002",
+   "question": "Welche Lesarten auf der Seite zu Lex stützen oder begrenzen „Rationalität als Schutz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-003",
+   "question": "Welcher Grenzfall würde bei Lex die Annahmen über „Rationalität als Schutz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-004",
+   "question": "Wer könnte innerhalb des Romans bei Lex etwas über „Rationalität als Schutz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-005",
+   "question": "Welche konkrete Entscheidung könnte „Rationalität als Schutz“ bei Lex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Rationalität als Schutz“ bei Lex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-007",
+   "question": "Wie lässt sich „Rationalität als Schutz“ bei Lex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-008",
+   "question": "Welche Alternativen sollte der Autor bei Lex für „Rationalität als Schutz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-009",
+   "question": "Was bedeutet bei Lex der Themenpunkt „frühere Darstellung als Nebenfigur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-010",
+   "question": "Welche Lesarten auf der Seite zu Lex stützen oder begrenzen „frühere Darstellung als Nebenfigur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-011",
+   "question": "Welcher Grenzfall würde bei Lex die Annahmen über „frühere Darstellung als Nebenfigur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-012",
+   "question": "Wer könnte innerhalb des Romans bei Lex etwas über „frühere Darstellung als Nebenfigur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-013",
+   "question": "Welche konkrete Entscheidung könnte „frühere Darstellung als Nebenfigur“ bei Lex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „frühere Darstellung als Nebenfigur“ bei Lex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-015",
+   "question": "Wie lässt sich „frühere Darstellung als Nebenfigur“ bei Lex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-016",
+   "question": "Welche Alternativen sollte der Autor bei Lex für „frühere Darstellung als Nebenfigur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-017",
+   "question": "Was bedeutet bei Lex der Themenpunkt „Abgrenzung von Analyse und Kontrolle“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-018",
+   "question": "Welche Lesarten auf der Seite zu Lex stützen oder begrenzen „Abgrenzung von Analyse und Kontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-019",
+   "question": "Welcher Grenzfall würde bei Lex die Annahmen über „Abgrenzung von Analyse und Kontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-020",
+   "question": "Wer könnte innerhalb des Romans bei Lex etwas über „Abgrenzung von Analyse und Kontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-021",
+   "question": "Welche konkrete Entscheidung könnte „Abgrenzung von Analyse und Kontrolle“ bei Lex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abgrenzung von Analyse und Kontrolle“ bei Lex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-023",
+   "question": "Wie lässt sich „Abgrenzung von Analyse und Kontrolle“ bei Lex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-024",
+   "question": "Welche Alternativen sollte der Autor bei Lex für „Abgrenzung von Analyse und Kontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-025",
+   "question": "Was bedeutet bei Lex der Themenpunkt „Wissen ohne Zugang zum Erleben“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-026",
+   "question": "Welche Lesarten auf der Seite zu Lex stützen oder begrenzen „Wissen ohne Zugang zum Erleben“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-027",
+   "question": "Welcher Grenzfall würde bei Lex die Annahmen über „Wissen ohne Zugang zum Erleben“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-028",
+   "question": "Wer könnte innerhalb des Romans bei Lex etwas über „Wissen ohne Zugang zum Erleben“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-029",
+   "question": "Welche konkrete Entscheidung könnte „Wissen ohne Zugang zum Erleben“ bei Lex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen ohne Zugang zum Erleben“ bei Lex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-031",
+   "question": "Wie lässt sich „Wissen ohne Zugang zum Erleben“ bei Lex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-032",
+   "question": "Welche Alternativen sollte der Autor bei Lex für „Wissen ohne Zugang zum Erleben“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-033",
+   "question": "Was bedeutet bei Lex der Themenpunkt „Kooperation mit widersprechenden Anteilen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-034",
+   "question": "Welche Lesarten auf der Seite zu Lex stützen oder begrenzen „Kooperation mit widersprechenden Anteilen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-035",
+   "question": "Welcher Grenzfall würde bei Lex die Annahmen über „Kooperation mit widersprechenden Anteilen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-036",
+   "question": "Wer könnte innerhalb des Romans bei Lex etwas über „Kooperation mit widersprechenden Anteilen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-037",
+   "question": "Welche konkrete Entscheidung könnte „Kooperation mit widersprechenden Anteilen“ bei Lex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kooperation mit widersprechenden Anteilen“ bei Lex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-039",
+   "question": "Wie lässt sich „Kooperation mit widersprechenden Anteilen“ bei Lex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-040",
+   "question": "Welche Alternativen sollte der Autor bei Lex für „Kooperation mit widersprechenden Anteilen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-lex-041",
+   "question": "Wo unterscheiden sich Lex und Nyx, wenn man sie unter dem Gesichtspunkt „Rationalität als Schutz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-042",
+   "question": "Welche Quelle verbindet Lex mit Nyx in Bezug auf „Rationalität als Schutz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-043",
+   "question": "Welche Grenzen aus der Seite zu Nyx müsste eine Deutung von Lex unter „Rationalität als Schutz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-044",
+   "question": "Wie könnte sich das Wissen über Lex vom Wissen über Nyx unterscheiden, wenn „Rationalität als Schutz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lex und Nyx bei „Rationalität als Schutz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-046",
+   "question": "Falls Lex im Hinblick auf „Rationalität als Schutz“ anders festgelegt wird: Welche Aussagen über Nyx müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lex und Nyx bei „Rationalität als Schutz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-048",
+   "question": "Braucht der Roman eine Verbindung von Lex und Nyx bei „Rationalität als Schutz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-049",
+   "question": "In welchem denkbaren Fall könnte Lex bestehen, ohne dass Nyx dieselbe Funktion übernimmt, und was würde das für „Rationalität als Schutz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-050",
+   "question": "Welche Kosten könnte eine Verbindung von Lex und Nyx in Bezug auf „Rationalität als Schutz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-051",
+   "question": "Welche ältere Lesart von Lex oder Nyx könnte die Gegenüberstellung unter „Rationalität als Schutz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lex und Nyx unter „Rationalität als Schutz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "lex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-lex-053",
+   "question": "Wo unterscheiden sich Lex und Rhys, wenn man sie unter dem Gesichtspunkt „frühere Darstellung als Nebenfigur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-054",
+   "question": "Welche Quelle verbindet Lex mit Rhys in Bezug auf „frühere Darstellung als Nebenfigur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-055",
+   "question": "Welche Grenzen aus der Seite zu Rhys müsste eine Deutung von Lex unter „frühere Darstellung als Nebenfigur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-056",
+   "question": "Wie könnte sich das Wissen über Lex vom Wissen über Rhys unterscheiden, wenn „frühere Darstellung als Nebenfigur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lex und Rhys bei „frühere Darstellung als Nebenfigur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-058",
+   "question": "Falls Lex im Hinblick auf „frühere Darstellung als Nebenfigur“ anders festgelegt wird: Welche Aussagen über Rhys müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lex und Rhys bei „frühere Darstellung als Nebenfigur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-060",
+   "question": "Braucht der Roman eine Verbindung von Lex und Rhys bei „frühere Darstellung als Nebenfigur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-061",
+   "question": "In welchem denkbaren Fall könnte Lex bestehen, ohne dass Rhys dieselbe Funktion übernimmt, und was würde das für „frühere Darstellung als Nebenfigur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-062",
+   "question": "Welche Kosten könnte eine Verbindung von Lex und Rhys in Bezug auf „frühere Darstellung als Nebenfigur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-063",
+   "question": "Welche ältere Lesart von Lex oder Rhys könnte die Gegenüberstellung unter „frühere Darstellung als Nebenfigur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lex und Rhys unter „frühere Darstellung als Nebenfigur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "lex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lex-065",
+   "question": "Wo unterscheiden sich Lex und Kael, wenn man sie unter dem Gesichtspunkt „Abgrenzung von Analyse und Kontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-066",
+   "question": "Welche Quelle verbindet Lex mit Kael in Bezug auf „Abgrenzung von Analyse und Kontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Lex unter „Abgrenzung von Analyse und Kontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-068",
+   "question": "Wie könnte sich das Wissen über Lex vom Wissen über Kael unterscheiden, wenn „Abgrenzung von Analyse und Kontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lex und Kael bei „Abgrenzung von Analyse und Kontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-070",
+   "question": "Falls Lex im Hinblick auf „Abgrenzung von Analyse und Kontrolle“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lex und Kael bei „Abgrenzung von Analyse und Kontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-072",
+   "question": "Braucht der Roman eine Verbindung von Lex und Kael bei „Abgrenzung von Analyse und Kontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-073",
+   "question": "In welchem denkbaren Fall könnte Lex bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Abgrenzung von Analyse und Kontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-074",
+   "question": "Welche Kosten könnte eine Verbindung von Lex und Kael in Bezug auf „Abgrenzung von Analyse und Kontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-075",
+   "question": "Welche ältere Lesart von Lex oder Kael könnte die Gegenüberstellung unter „Abgrenzung von Analyse und Kontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lex und Kael unter „Abgrenzung von Analyse und Kontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "lex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lex-077",
+   "question": "Wo unterscheiden sich Lex und Cache-Kohärenz, wenn man sie unter dem Gesichtspunkt „Wissen ohne Zugang zum Erleben“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-078",
+   "question": "Welche Quelle verbindet Lex mit Cache-Kohärenz in Bezug auf „Wissen ohne Zugang zum Erleben“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-079",
+   "question": "Welche Grenzen aus der Seite zu Cache-Kohärenz müsste eine Deutung von Lex unter „Wissen ohne Zugang zum Erleben“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-080",
+   "question": "Wie könnte sich das Wissen über Lex vom Wissen über Cache-Kohärenz unterscheiden, wenn „Wissen ohne Zugang zum Erleben“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lex und Cache-Kohärenz bei „Wissen ohne Zugang zum Erleben“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-082",
+   "question": "Falls Lex im Hinblick auf „Wissen ohne Zugang zum Erleben“ anders festgelegt wird: Welche Aussagen über Cache-Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lex und Cache-Kohärenz bei „Wissen ohne Zugang zum Erleben“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-084",
+   "question": "Braucht der Roman eine Verbindung von Lex und Cache-Kohärenz bei „Wissen ohne Zugang zum Erleben“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-085",
+   "question": "In welchem denkbaren Fall könnte Lex bestehen, ohne dass Cache-Kohärenz dieselbe Funktion übernimmt, und was würde das für „Wissen ohne Zugang zum Erleben“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-086",
+   "question": "Welche Kosten könnte eine Verbindung von Lex und Cache-Kohärenz in Bezug auf „Wissen ohne Zugang zum Erleben“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-087",
+   "question": "Welche ältere Lesart von Lex oder Cache-Kohärenz könnte die Gegenüberstellung unter „Wissen ohne Zugang zum Erleben“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lex und Cache-Kohärenz unter „Wissen ohne Zugang zum Erleben“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "lex",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-lex-089",
+   "question": "Wo unterscheiden sich Lex und Alters, wenn man sie unter dem Gesichtspunkt „Kooperation mit widersprechenden Anteilen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-090",
+   "question": "Welche Quelle verbindet Lex mit Alters in Bezug auf „Kooperation mit widersprechenden Anteilen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Lex unter „Kooperation mit widersprechenden Anteilen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-092",
+   "question": "Wie könnte sich das Wissen über Lex vom Wissen über Alters unterscheiden, wenn „Kooperation mit widersprechenden Anteilen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lex und Alters bei „Kooperation mit widersprechenden Anteilen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-094",
+   "question": "Falls Lex im Hinblick auf „Kooperation mit widersprechenden Anteilen“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lex und Alters bei „Kooperation mit widersprechenden Anteilen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-096",
+   "question": "Braucht der Roman eine Verbindung von Lex und Alters bei „Kooperation mit widersprechenden Anteilen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-097",
+   "question": "In welchem denkbaren Fall könnte Lex bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Kooperation mit widersprechenden Anteilen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-098",
+   "question": "Welche Kosten könnte eine Verbindung von Lex und Alters in Bezug auf „Kooperation mit widersprechenden Anteilen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-099",
+   "question": "Welche ältere Lesart von Lex oder Alters könnte die Gegenüberstellung unter „Kooperation mit widersprechenden Anteilen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lex-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lex und Alters unter „Kooperation mit widersprechenden Anteilen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "lex",
+    "alters"
+   ]
+  }
+ ]
+}

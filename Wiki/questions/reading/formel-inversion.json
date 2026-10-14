@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "formel-inversion",
+ "title": "Formel-Inversion",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Umkehr von Verhindern zu Bewahren",
+  "Unterschied zwischen Ich und Wir",
+  "Wiederholung des Wortlauts mit anderer Bedeutung",
+  "Verbindung zwischen Form und Handlung",
+  "Legitimität der Schlusserkenntnis"
+ ],
+ "basis": {
+  "formel-inversion": {
+   "title": "Formel-Inversion",
+   "path": "Wiki/candidates/formel-inversion.md",
+   "hash": "dc66354ebd196afc9ce831cf9a83f9ad516f3ca65e773f27ca3f8475d00ca000"
+  },
+  "genesis-klammer": {
+   "title": "Genesis-Klammer",
+   "path": "Wiki/candidates/genesis-klammer.md",
+   "hash": "cb0c2af03ef01a3757eb1dfc38211430ec0f4325958224c3a7f38ff120afe1db"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "vermittler-stimme": {
+   "title": "Vermittler-Stimme",
+   "path": "Wiki/candidates/vermittler-stimme.md",
+   "hash": "7978045e549b6ee232628e5846d5b0b0becdccf4d709d72fd78ee1be6bb73c5a"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-formel-inversion-001",
+   "question": "Welche Handlung macht den Wechsel von Verhindern zu Bewahren wahr, bevor der Schluss ihn in einer Formel ausspricht?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-002",
+   "question": "Welche Lesarten auf der Seite zu Formel-Inversion stützen oder begrenzen „Umkehr von Verhindern zu Bewahren“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-003",
+   "question": "Welcher Grenzfall würde bei Formel-Inversion die Annahmen über „Umkehr von Verhindern zu Bewahren“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-004",
+   "question": "Wer könnte innerhalb des Romans bei Formel-Inversion etwas über „Umkehr von Verhindern zu Bewahren“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-005",
+   "question": "Welche konkrete Entscheidung könnte „Umkehr von Verhindern zu Bewahren“ bei Formel-Inversion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Umkehr von Verhindern zu Bewahren“ bei Formel-Inversion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-007",
+   "question": "Wie lässt sich „Umkehr von Verhindern zu Bewahren“ bei Formel-Inversion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-008",
+   "question": "Welche Alternativen sollte der Autor bei Formel-Inversion für „Umkehr von Verhindern zu Bewahren“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-009",
+   "question": "Was bedeutet bei Formel-Inversion der Themenpunkt „Unterschied zwischen Ich und Wir“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-010",
+   "question": "Welche Lesarten auf der Seite zu Formel-Inversion stützen oder begrenzen „Unterschied zwischen Ich und Wir“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-011",
+   "question": "Welcher Grenzfall würde bei Formel-Inversion die Annahmen über „Unterschied zwischen Ich und Wir“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-012",
+   "question": "Wer könnte innerhalb des Romans bei Formel-Inversion etwas über „Unterschied zwischen Ich und Wir“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Ich und Wir“ bei Formel-Inversion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Ich und Wir“ bei Formel-Inversion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-015",
+   "question": "Wie lässt sich „Unterschied zwischen Ich und Wir“ bei Formel-Inversion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-016",
+   "question": "Welche Alternativen sollte der Autor bei Formel-Inversion für „Unterschied zwischen Ich und Wir“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-017",
+   "question": "Was bedeutet bei Formel-Inversion der Themenpunkt „Wiederholung des Wortlauts mit anderer Bedeutung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-018",
+   "question": "Welche Lesarten auf der Seite zu Formel-Inversion stützen oder begrenzen „Wiederholung des Wortlauts mit anderer Bedeutung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-019",
+   "question": "Welcher Grenzfall würde bei Formel-Inversion die Annahmen über „Wiederholung des Wortlauts mit anderer Bedeutung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-020",
+   "question": "Wer könnte innerhalb des Romans bei Formel-Inversion etwas über „Wiederholung des Wortlauts mit anderer Bedeutung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-021",
+   "question": "Welche konkrete Entscheidung könnte „Wiederholung des Wortlauts mit anderer Bedeutung“ bei Formel-Inversion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wiederholung des Wortlauts mit anderer Bedeutung“ bei Formel-Inversion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-023",
+   "question": "Wie lässt sich „Wiederholung des Wortlauts mit anderer Bedeutung“ bei Formel-Inversion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-024",
+   "question": "Welche Alternativen sollte der Autor bei Formel-Inversion für „Wiederholung des Wortlauts mit anderer Bedeutung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-025",
+   "question": "Was bedeutet bei Formel-Inversion der Themenpunkt „Verbindung zwischen Form und Handlung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-026",
+   "question": "Welche Lesarten auf der Seite zu Formel-Inversion stützen oder begrenzen „Verbindung zwischen Form und Handlung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-027",
+   "question": "Welcher Grenzfall würde bei Formel-Inversion die Annahmen über „Verbindung zwischen Form und Handlung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-028",
+   "question": "Wer könnte innerhalb des Romans bei Formel-Inversion etwas über „Verbindung zwischen Form und Handlung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-029",
+   "question": "Welche konkrete Entscheidung könnte „Verbindung zwischen Form und Handlung“ bei Formel-Inversion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verbindung zwischen Form und Handlung“ bei Formel-Inversion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-031",
+   "question": "Wie lässt sich „Verbindung zwischen Form und Handlung“ bei Formel-Inversion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-032",
+   "question": "Welche Alternativen sollte der Autor bei Formel-Inversion für „Verbindung zwischen Form und Handlung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-033",
+   "question": "Was bedeutet bei Formel-Inversion der Themenpunkt „Legitimität der Schlusserkenntnis“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-034",
+   "question": "Welche Lesarten auf der Seite zu Formel-Inversion stützen oder begrenzen „Legitimität der Schlusserkenntnis“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-035",
+   "question": "Welcher Grenzfall würde bei Formel-Inversion die Annahmen über „Legitimität der Schlusserkenntnis“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-036",
+   "question": "Wer könnte innerhalb des Romans bei Formel-Inversion etwas über „Legitimität der Schlusserkenntnis“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-037",
+   "question": "Welche konkrete Entscheidung könnte „Legitimität der Schlusserkenntnis“ bei Formel-Inversion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Legitimität der Schlusserkenntnis“ bei Formel-Inversion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-039",
+   "question": "Wie lässt sich „Legitimität der Schlusserkenntnis“ bei Formel-Inversion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-040",
+   "question": "Welche Alternativen sollte der Autor bei Formel-Inversion für „Legitimität der Schlusserkenntnis“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-041",
+   "question": "Wo unterscheiden sich Formel-Inversion und Genesis-Klammer, wenn man sie unter dem Gesichtspunkt „Umkehr von Verhindern zu Bewahren“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-042",
+   "question": "Welche Quelle verbindet Formel-Inversion mit Genesis-Klammer in Bezug auf „Umkehr von Verhindern zu Bewahren“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-043",
+   "question": "Welche Grenzen aus der Seite zu Genesis-Klammer müsste eine Deutung von Formel-Inversion unter „Umkehr von Verhindern zu Bewahren“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-044",
+   "question": "Wie könnte sich das Wissen über Formel-Inversion vom Wissen über Genesis-Klammer unterscheiden, wenn „Umkehr von Verhindern zu Bewahren“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Formel-Inversion und Genesis-Klammer bei „Umkehr von Verhindern zu Bewahren“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-046",
+   "question": "Falls Formel-Inversion im Hinblick auf „Umkehr von Verhindern zu Bewahren“ anders festgelegt wird: Welche Aussagen über Genesis-Klammer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Formel-Inversion und Genesis-Klammer bei „Umkehr von Verhindern zu Bewahren“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-048",
+   "question": "Braucht der Roman eine Verbindung von Formel-Inversion und Genesis-Klammer bei „Umkehr von Verhindern zu Bewahren“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-049",
+   "question": "In welchem denkbaren Fall könnte Formel-Inversion bestehen, ohne dass Genesis-Klammer dieselbe Funktion übernimmt, und was würde das für „Umkehr von Verhindern zu Bewahren“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-050",
+   "question": "Welche Kosten könnte eine Verbindung von Formel-Inversion und Genesis-Klammer in Bezug auf „Umkehr von Verhindern zu Bewahren“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-051",
+   "question": "Welche ältere Lesart von Formel-Inversion oder Genesis-Klammer könnte die Gegenüberstellung unter „Umkehr von Verhindern zu Bewahren“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Formel-Inversion und Genesis-Klammer unter „Umkehr von Verhindern zu Bewahren“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "formel-inversion",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-053",
+   "question": "Wo unterscheiden sich Formel-Inversion und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Ich und Wir“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-054",
+   "question": "Welche Quelle verbindet Formel-Inversion mit Ouroboros-Struktur in Bezug auf „Unterschied zwischen Ich und Wir“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-055",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Formel-Inversion unter „Unterschied zwischen Ich und Wir“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-056",
+   "question": "Wie könnte sich das Wissen über Formel-Inversion vom Wissen über Ouroboros-Struktur unterscheiden, wenn „Unterschied zwischen Ich und Wir“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Formel-Inversion und Ouroboros-Struktur bei „Unterschied zwischen Ich und Wir“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-058",
+   "question": "Falls Formel-Inversion im Hinblick auf „Unterschied zwischen Ich und Wir“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Formel-Inversion und Ouroboros-Struktur bei „Unterschied zwischen Ich und Wir“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-060",
+   "question": "Braucht der Roman eine Verbindung von Formel-Inversion und Ouroboros-Struktur bei „Unterschied zwischen Ich und Wir“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-061",
+   "question": "In welchem denkbaren Fall könnte Formel-Inversion bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Ich und Wir“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-062",
+   "question": "Welche Kosten könnte eine Verbindung von Formel-Inversion und Ouroboros-Struktur in Bezug auf „Unterschied zwischen Ich und Wir“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-063",
+   "question": "Welche ältere Lesart von Formel-Inversion oder Ouroboros-Struktur könnte die Gegenüberstellung unter „Unterschied zwischen Ich und Wir“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Formel-Inversion und Ouroboros-Struktur unter „Unterschied zwischen Ich und Wir“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "formel-inversion",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-065",
+   "question": "Wo unterscheiden sich Formel-Inversion und AEGIS, wenn man sie unter dem Gesichtspunkt „Wiederholung des Wortlauts mit anderer Bedeutung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-066",
+   "question": "Welche Quelle verbindet Formel-Inversion mit AEGIS in Bezug auf „Wiederholung des Wortlauts mit anderer Bedeutung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Formel-Inversion unter „Wiederholung des Wortlauts mit anderer Bedeutung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-068",
+   "question": "Wie könnte sich das Wissen über Formel-Inversion vom Wissen über AEGIS unterscheiden, wenn „Wiederholung des Wortlauts mit anderer Bedeutung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Formel-Inversion und AEGIS bei „Wiederholung des Wortlauts mit anderer Bedeutung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-070",
+   "question": "Falls Formel-Inversion im Hinblick auf „Wiederholung des Wortlauts mit anderer Bedeutung“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Formel-Inversion und AEGIS bei „Wiederholung des Wortlauts mit anderer Bedeutung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-072",
+   "question": "Braucht der Roman eine Verbindung von Formel-Inversion und AEGIS bei „Wiederholung des Wortlauts mit anderer Bedeutung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-073",
+   "question": "In welchem denkbaren Fall könnte Formel-Inversion bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Wiederholung des Wortlauts mit anderer Bedeutung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-074",
+   "question": "Welche Kosten könnte eine Verbindung von Formel-Inversion und AEGIS in Bezug auf „Wiederholung des Wortlauts mit anderer Bedeutung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-075",
+   "question": "Welche ältere Lesart von Formel-Inversion oder AEGIS könnte die Gegenüberstellung unter „Wiederholung des Wortlauts mit anderer Bedeutung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Formel-Inversion und AEGIS unter „Wiederholung des Wortlauts mit anderer Bedeutung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "formel-inversion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-077",
+   "question": "Wo unterscheiden sich Formel-Inversion und Vermittler-Stimme, wenn man sie unter dem Gesichtspunkt „Verbindung zwischen Form und Handlung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-078",
+   "question": "Welche Quelle verbindet Formel-Inversion mit Vermittler-Stimme in Bezug auf „Verbindung zwischen Form und Handlung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-079",
+   "question": "Welche Grenzen aus der Seite zu Vermittler-Stimme müsste eine Deutung von Formel-Inversion unter „Verbindung zwischen Form und Handlung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-080",
+   "question": "Wie könnte sich das Wissen über Formel-Inversion vom Wissen über Vermittler-Stimme unterscheiden, wenn „Verbindung zwischen Form und Handlung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Formel-Inversion und Vermittler-Stimme bei „Verbindung zwischen Form und Handlung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-082",
+   "question": "Falls Formel-Inversion im Hinblick auf „Verbindung zwischen Form und Handlung“ anders festgelegt wird: Welche Aussagen über Vermittler-Stimme müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Formel-Inversion und Vermittler-Stimme bei „Verbindung zwischen Form und Handlung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-084",
+   "question": "Braucht der Roman eine Verbindung von Formel-Inversion und Vermittler-Stimme bei „Verbindung zwischen Form und Handlung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-085",
+   "question": "In welchem denkbaren Fall könnte Formel-Inversion bestehen, ohne dass Vermittler-Stimme dieselbe Funktion übernimmt, und was würde das für „Verbindung zwischen Form und Handlung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-086",
+   "question": "Welche Kosten könnte eine Verbindung von Formel-Inversion und Vermittler-Stimme in Bezug auf „Verbindung zwischen Form und Handlung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-087",
+   "question": "Welche ältere Lesart von Formel-Inversion oder Vermittler-Stimme könnte die Gegenüberstellung unter „Verbindung zwischen Form und Handlung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Formel-Inversion und Vermittler-Stimme unter „Verbindung zwischen Form und Handlung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "formel-inversion",
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-089",
+   "question": "Wo unterscheiden sich Formel-Inversion und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Legitimität der Schlusserkenntnis“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-090",
+   "question": "Welche Quelle verbindet Formel-Inversion mit Truth-Rotation in Bezug auf „Legitimität der Schlusserkenntnis“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-091",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Formel-Inversion unter „Legitimität der Schlusserkenntnis“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-092",
+   "question": "Wie könnte sich das Wissen über Formel-Inversion vom Wissen über Truth-Rotation unterscheiden, wenn „Legitimität der Schlusserkenntnis“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Formel-Inversion und Truth-Rotation bei „Legitimität der Schlusserkenntnis“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-094",
+   "question": "Falls Formel-Inversion im Hinblick auf „Legitimität der Schlusserkenntnis“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Formel-Inversion und Truth-Rotation bei „Legitimität der Schlusserkenntnis“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-096",
+   "question": "Braucht der Roman eine Verbindung von Formel-Inversion und Truth-Rotation bei „Legitimität der Schlusserkenntnis“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-097",
+   "question": "In welchem denkbaren Fall könnte Formel-Inversion bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Legitimität der Schlusserkenntnis“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-098",
+   "question": "Welche Kosten könnte eine Verbindung von Formel-Inversion und Truth-Rotation in Bezug auf „Legitimität der Schlusserkenntnis“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-099",
+   "question": "Welche ältere Lesart von Formel-Inversion oder Truth-Rotation könnte die Gegenüberstellung unter „Legitimität der Schlusserkenntnis“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-formel-inversion-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Formel-Inversion und Truth-Rotation unter „Legitimität der Schlusserkenntnis“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "formel-inversion",
+    "truth-rotation"
+   ]
+  }
+ ]
+}

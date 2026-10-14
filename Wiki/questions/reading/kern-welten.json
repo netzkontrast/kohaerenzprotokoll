@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kern-welten",
+ "title": "Kern-Welten",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "wechselnde Anzahl und Zuordnung der Welten",
+  "Eigenständigkeit ihrer lokalen Physik",
+  "Grenze zwischen Raum und psychischer Funktion",
+  "Bedingungen eines Weltwechsels",
+  "Kontinuität von Wissen über Übergänge"
+ ],
+ "basis": {
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  },
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  },
+  "grenzfeste": {
+   "title": "Grenzfeste",
+   "path": "Wiki/candidates/grenzfeste.md",
+   "hash": "6f5d61cb867320ac02514a09f01dad6c72901f5e6873a02a04830f3fb396de75"
+  },
+  "moeglichkeits-garten": {
+   "title": "Möglichkeits-Garten",
+   "path": "Wiki/candidates/moeglichkeits-garten.md",
+   "hash": "e693bd36f30be04233b018d4241e0e1e0896eefac7d4d4dc4b5e194352c9fe6c"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kern-welten-001",
+   "question": "Was nimmt Kael bei einem Weltwechsel an Wissen, Körpererfahrung und Verlusten mit, obwohl die lokale Physik wechselt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-002",
+   "question": "Welche Lesarten auf der Seite zu Kern-Welten stützen oder begrenzen „wechselnde Anzahl und Zuordnung der Welten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-003",
+   "question": "Welcher Grenzfall würde bei Kern-Welten die Annahmen über „wechselnde Anzahl und Zuordnung der Welten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-004",
+   "question": "Wer könnte innerhalb des Romans bei Kern-Welten etwas über „wechselnde Anzahl und Zuordnung der Welten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-005",
+   "question": "Welche konkrete Entscheidung könnte „wechselnde Anzahl und Zuordnung der Welten“ bei Kern-Welten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „wechselnde Anzahl und Zuordnung der Welten“ bei Kern-Welten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-007",
+   "question": "Wie lässt sich „wechselnde Anzahl und Zuordnung der Welten“ bei Kern-Welten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-008",
+   "question": "Welche Alternativen sollte der Autor bei Kern-Welten für „wechselnde Anzahl und Zuordnung der Welten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-009",
+   "question": "Was bedeutet bei Kern-Welten der Themenpunkt „Eigenständigkeit ihrer lokalen Physik“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-010",
+   "question": "Welche Lesarten auf der Seite zu Kern-Welten stützen oder begrenzen „Eigenständigkeit ihrer lokalen Physik“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-011",
+   "question": "Welcher Grenzfall würde bei Kern-Welten die Annahmen über „Eigenständigkeit ihrer lokalen Physik“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-012",
+   "question": "Wer könnte innerhalb des Romans bei Kern-Welten etwas über „Eigenständigkeit ihrer lokalen Physik“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-013",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit ihrer lokalen Physik“ bei Kern-Welten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit ihrer lokalen Physik“ bei Kern-Welten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-015",
+   "question": "Wie lässt sich „Eigenständigkeit ihrer lokalen Physik“ bei Kern-Welten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-016",
+   "question": "Welche Alternativen sollte der Autor bei Kern-Welten für „Eigenständigkeit ihrer lokalen Physik“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-017",
+   "question": "Was bedeutet bei Kern-Welten der Themenpunkt „Grenze zwischen Raum und psychischer Funktion“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-018",
+   "question": "Welche Lesarten auf der Seite zu Kern-Welten stützen oder begrenzen „Grenze zwischen Raum und psychischer Funktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-019",
+   "question": "Welcher Grenzfall würde bei Kern-Welten die Annahmen über „Grenze zwischen Raum und psychischer Funktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-020",
+   "question": "Wer könnte innerhalb des Romans bei Kern-Welten etwas über „Grenze zwischen Raum und psychischer Funktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-021",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Raum und psychischer Funktion“ bei Kern-Welten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Raum und psychischer Funktion“ bei Kern-Welten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-023",
+   "question": "Wie lässt sich „Grenze zwischen Raum und psychischer Funktion“ bei Kern-Welten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-024",
+   "question": "Welche Alternativen sollte der Autor bei Kern-Welten für „Grenze zwischen Raum und psychischer Funktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-025",
+   "question": "Was bedeutet bei Kern-Welten der Themenpunkt „Bedingungen eines Weltwechsels“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-026",
+   "question": "Welche Lesarten auf der Seite zu Kern-Welten stützen oder begrenzen „Bedingungen eines Weltwechsels“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-027",
+   "question": "Welcher Grenzfall würde bei Kern-Welten die Annahmen über „Bedingungen eines Weltwechsels“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-028",
+   "question": "Wer könnte innerhalb des Romans bei Kern-Welten etwas über „Bedingungen eines Weltwechsels“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-029",
+   "question": "Welche konkrete Entscheidung könnte „Bedingungen eines Weltwechsels“ bei Kern-Welten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedingungen eines Weltwechsels“ bei Kern-Welten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-031",
+   "question": "Wie lässt sich „Bedingungen eines Weltwechsels“ bei Kern-Welten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-032",
+   "question": "Welche Alternativen sollte der Autor bei Kern-Welten für „Bedingungen eines Weltwechsels“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-033",
+   "question": "Was bedeutet bei Kern-Welten der Themenpunkt „Kontinuität von Wissen über Übergänge“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-034",
+   "question": "Welche Lesarten auf der Seite zu Kern-Welten stützen oder begrenzen „Kontinuität von Wissen über Übergänge“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-035",
+   "question": "Welcher Grenzfall würde bei Kern-Welten die Annahmen über „Kontinuität von Wissen über Übergänge“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-036",
+   "question": "Wer könnte innerhalb des Romans bei Kern-Welten etwas über „Kontinuität von Wissen über Übergänge“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-037",
+   "question": "Welche konkrete Entscheidung könnte „Kontinuität von Wissen über Übergänge“ bei Kern-Welten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kontinuität von Wissen über Übergänge“ bei Kern-Welten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-039",
+   "question": "Wie lässt sich „Kontinuität von Wissen über Übergänge“ bei Kern-Welten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-040",
+   "question": "Welche Alternativen sollte der Autor bei Kern-Welten für „Kontinuität von Wissen über Übergänge“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-041",
+   "question": "Wo unterscheiden sich Kern-Welten und Konstrukt-Stadt, wenn man sie unter dem Gesichtspunkt „wechselnde Anzahl und Zuordnung der Welten“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-042",
+   "question": "Welche Quelle verbindet Kern-Welten mit Konstrukt-Stadt in Bezug auf „wechselnde Anzahl und Zuordnung der Welten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-043",
+   "question": "Welche Grenzen aus der Seite zu Konstrukt-Stadt müsste eine Deutung von Kern-Welten unter „wechselnde Anzahl und Zuordnung der Welten“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-044",
+   "question": "Wie könnte sich das Wissen über Kern-Welten vom Wissen über Konstrukt-Stadt unterscheiden, wenn „wechselnde Anzahl und Zuordnung der Welten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kern-Welten und Konstrukt-Stadt bei „wechselnde Anzahl und Zuordnung der Welten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-046",
+   "question": "Falls Kern-Welten im Hinblick auf „wechselnde Anzahl und Zuordnung der Welten“ anders festgelegt wird: Welche Aussagen über Konstrukt-Stadt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kern-Welten und Konstrukt-Stadt bei „wechselnde Anzahl und Zuordnung der Welten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-048",
+   "question": "Braucht der Roman eine Verbindung von Kern-Welten und Konstrukt-Stadt bei „wechselnde Anzahl und Zuordnung der Welten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-049",
+   "question": "In welchem denkbaren Fall könnte Kern-Welten bestehen, ohne dass Konstrukt-Stadt dieselbe Funktion übernimmt, und was würde das für „wechselnde Anzahl und Zuordnung der Welten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kern-Welten und Konstrukt-Stadt in Bezug auf „wechselnde Anzahl und Zuordnung der Welten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-051",
+   "question": "Welche ältere Lesart von Kern-Welten oder Konstrukt-Stadt könnte die Gegenüberstellung unter „wechselnde Anzahl und Zuordnung der Welten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kern-Welten und Konstrukt-Stadt unter „wechselnde Anzahl und Zuordnung der Welten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kern-welten",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-053",
+   "question": "Wo unterscheiden sich Kern-Welten und Resonanz-Landschaft, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit ihrer lokalen Physik“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-054",
+   "question": "Welche Quelle verbindet Kern-Welten mit Resonanz-Landschaft in Bezug auf „Eigenständigkeit ihrer lokalen Physik“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-055",
+   "question": "Welche Grenzen aus der Seite zu Resonanz-Landschaft müsste eine Deutung von Kern-Welten unter „Eigenständigkeit ihrer lokalen Physik“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-056",
+   "question": "Wie könnte sich das Wissen über Kern-Welten vom Wissen über Resonanz-Landschaft unterscheiden, wenn „Eigenständigkeit ihrer lokalen Physik“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kern-Welten und Resonanz-Landschaft bei „Eigenständigkeit ihrer lokalen Physik“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-058",
+   "question": "Falls Kern-Welten im Hinblick auf „Eigenständigkeit ihrer lokalen Physik“ anders festgelegt wird: Welche Aussagen über Resonanz-Landschaft müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kern-Welten und Resonanz-Landschaft bei „Eigenständigkeit ihrer lokalen Physik“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-060",
+   "question": "Braucht der Roman eine Verbindung von Kern-Welten und Resonanz-Landschaft bei „Eigenständigkeit ihrer lokalen Physik“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-061",
+   "question": "In welchem denkbaren Fall könnte Kern-Welten bestehen, ohne dass Resonanz-Landschaft dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit ihrer lokalen Physik“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kern-Welten und Resonanz-Landschaft in Bezug auf „Eigenständigkeit ihrer lokalen Physik“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-063",
+   "question": "Welche ältere Lesart von Kern-Welten oder Resonanz-Landschaft könnte die Gegenüberstellung unter „Eigenständigkeit ihrer lokalen Physik“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kern-Welten und Resonanz-Landschaft unter „Eigenständigkeit ihrer lokalen Physik“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kern-welten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-065",
+   "question": "Wo unterscheiden sich Kern-Welten und Grenzfeste, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Raum und psychischer Funktion“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-066",
+   "question": "Welche Quelle verbindet Kern-Welten mit Grenzfeste in Bezug auf „Grenze zwischen Raum und psychischer Funktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-067",
+   "question": "Welche Grenzen aus der Seite zu Grenzfeste müsste eine Deutung von Kern-Welten unter „Grenze zwischen Raum und psychischer Funktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-068",
+   "question": "Wie könnte sich das Wissen über Kern-Welten vom Wissen über Grenzfeste unterscheiden, wenn „Grenze zwischen Raum und psychischer Funktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kern-Welten und Grenzfeste bei „Grenze zwischen Raum und psychischer Funktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-070",
+   "question": "Falls Kern-Welten im Hinblick auf „Grenze zwischen Raum und psychischer Funktion“ anders festgelegt wird: Welche Aussagen über Grenzfeste müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kern-Welten und Grenzfeste bei „Grenze zwischen Raum und psychischer Funktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-072",
+   "question": "Braucht der Roman eine Verbindung von Kern-Welten und Grenzfeste bei „Grenze zwischen Raum und psychischer Funktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-073",
+   "question": "In welchem denkbaren Fall könnte Kern-Welten bestehen, ohne dass Grenzfeste dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Raum und psychischer Funktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kern-Welten und Grenzfeste in Bezug auf „Grenze zwischen Raum und psychischer Funktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-075",
+   "question": "Welche ältere Lesart von Kern-Welten oder Grenzfeste könnte die Gegenüberstellung unter „Grenze zwischen Raum und psychischer Funktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kern-Welten und Grenzfeste unter „Grenze zwischen Raum und psychischer Funktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kern-welten",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-077",
+   "question": "Wo unterscheiden sich Kern-Welten und Möglichkeits-Garten, wenn man sie unter dem Gesichtspunkt „Bedingungen eines Weltwechsels“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-078",
+   "question": "Welche Quelle verbindet Kern-Welten mit Möglichkeits-Garten in Bezug auf „Bedingungen eines Weltwechsels“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-079",
+   "question": "Welche Grenzen aus der Seite zu Möglichkeits-Garten müsste eine Deutung von Kern-Welten unter „Bedingungen eines Weltwechsels“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-080",
+   "question": "Wie könnte sich das Wissen über Kern-Welten vom Wissen über Möglichkeits-Garten unterscheiden, wenn „Bedingungen eines Weltwechsels“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kern-Welten und Möglichkeits-Garten bei „Bedingungen eines Weltwechsels“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-082",
+   "question": "Falls Kern-Welten im Hinblick auf „Bedingungen eines Weltwechsels“ anders festgelegt wird: Welche Aussagen über Möglichkeits-Garten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kern-Welten und Möglichkeits-Garten bei „Bedingungen eines Weltwechsels“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-084",
+   "question": "Braucht der Roman eine Verbindung von Kern-Welten und Möglichkeits-Garten bei „Bedingungen eines Weltwechsels“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-085",
+   "question": "In welchem denkbaren Fall könnte Kern-Welten bestehen, ohne dass Möglichkeits-Garten dieselbe Funktion übernimmt, und was würde das für „Bedingungen eines Weltwechsels“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kern-Welten und Möglichkeits-Garten in Bezug auf „Bedingungen eines Weltwechsels“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-087",
+   "question": "Welche ältere Lesart von Kern-Welten oder Möglichkeits-Garten könnte die Gegenüberstellung unter „Bedingungen eines Weltwechsels“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kern-Welten und Möglichkeits-Garten unter „Bedingungen eines Weltwechsels“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kern-welten",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-089",
+   "question": "Wo unterscheiden sich Kern-Welten und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Kontinuität von Wissen über Übergänge“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-090",
+   "question": "Welche Quelle verbindet Kern-Welten mit Realitätsebenen in Bezug auf „Kontinuität von Wissen über Übergänge“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-091",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Kern-Welten unter „Kontinuität von Wissen über Übergänge“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-092",
+   "question": "Wie könnte sich das Wissen über Kern-Welten vom Wissen über Realitätsebenen unterscheiden, wenn „Kontinuität von Wissen über Übergänge“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kern-Welten und Realitätsebenen bei „Kontinuität von Wissen über Übergänge“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-094",
+   "question": "Falls Kern-Welten im Hinblick auf „Kontinuität von Wissen über Übergänge“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kern-Welten und Realitätsebenen bei „Kontinuität von Wissen über Übergänge“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-096",
+   "question": "Braucht der Roman eine Verbindung von Kern-Welten und Realitätsebenen bei „Kontinuität von Wissen über Übergänge“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-097",
+   "question": "In welchem denkbaren Fall könnte Kern-Welten bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Kontinuität von Wissen über Übergänge“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kern-Welten und Realitätsebenen in Bezug auf „Kontinuität von Wissen über Übergänge“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-099",
+   "question": "Welche ältere Lesart von Kern-Welten oder Realitätsebenen könnte die Gegenüberstellung unter „Kontinuität von Wissen über Übergänge“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-kern-welten-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kern-Welten und Realitätsebenen unter „Kontinuität von Wissen über Übergänge“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kern-welten",
+    "realitaetsebenen"
+   ]
+  }
+ ]
+}

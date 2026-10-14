@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "externe-ebene",
+ "title": "Externe Ebene",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unbestimmtheit des Außen",
+  "Grenze des Zugangs für Guardians",
+  "Unterschied zwischen Realität und Transzendenz",
+  "Eigenständigkeit außerhalb des Systems",
+  "Möglichkeit einer Begegnung über Ebenen hinweg"
+ ],
+ "basis": {
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "ueberwelt": {
+   "title": "Überwelt",
+   "path": "Wiki/candidates/ueberwelt.md",
+   "hash": "5b0376c5488a6266c9ac1396245c5a00f1851ec5d7b03cfc8b4790171abef5a6"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  },
+  "junas-ankerpunkt": {
+   "title": "Junas Ankerpunkt",
+   "path": "Wiki/candidates/junas-ankerpunkt.md",
+   "hash": "842d31958c8d5bac8d49b14e7af32fbd9e6ece42e6b55c31061ab0abfd4cdbf5"
+  },
+  "nexus": {
+   "title": "Nexus",
+   "path": "Wiki/candidates/nexus.md",
+   "hash": "2c8839ab4082b2f72d9df1267685dacd4c2870d69c3c15afbf866825d87bb40f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-externe-ebene-001",
+   "question": "Wie erhält die Externe Ebene Eigenständigkeit, wenn der Roman sie überwiegend durch AEGIS' Unverständnis beschreibt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-002",
+   "question": "Welche Lesarten auf der Seite zu Externe Ebene stützen oder begrenzen „Unbestimmtheit des Außen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-003",
+   "question": "Welcher Grenzfall würde bei Externe Ebene die Annahmen über „Unbestimmtheit des Außen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-004",
+   "question": "Wer könnte innerhalb des Romans bei Externe Ebene etwas über „Unbestimmtheit des Außen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-005",
+   "question": "Welche konkrete Entscheidung könnte „Unbestimmtheit des Außen“ bei Externe Ebene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unbestimmtheit des Außen“ bei Externe Ebene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-007",
+   "question": "Wie lässt sich „Unbestimmtheit des Außen“ bei Externe Ebene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-008",
+   "question": "Welche Alternativen sollte der Autor bei Externe Ebene für „Unbestimmtheit des Außen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-009",
+   "question": "Was bedeutet bei Externe Ebene der Themenpunkt „Grenze des Zugangs für Guardians“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-010",
+   "question": "Welche Lesarten auf der Seite zu Externe Ebene stützen oder begrenzen „Grenze des Zugangs für Guardians“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-011",
+   "question": "Welcher Grenzfall würde bei Externe Ebene die Annahmen über „Grenze des Zugangs für Guardians“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-012",
+   "question": "Wer könnte innerhalb des Romans bei Externe Ebene etwas über „Grenze des Zugangs für Guardians“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenze des Zugangs für Guardians“ bei Externe Ebene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze des Zugangs für Guardians“ bei Externe Ebene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-015",
+   "question": "Wie lässt sich „Grenze des Zugangs für Guardians“ bei Externe Ebene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-016",
+   "question": "Welche Alternativen sollte der Autor bei Externe Ebene für „Grenze des Zugangs für Guardians“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-017",
+   "question": "Was bedeutet bei Externe Ebene der Themenpunkt „Unterschied zwischen Realität und Transzendenz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-018",
+   "question": "Welche Lesarten auf der Seite zu Externe Ebene stützen oder begrenzen „Unterschied zwischen Realität und Transzendenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-019",
+   "question": "Welcher Grenzfall würde bei Externe Ebene die Annahmen über „Unterschied zwischen Realität und Transzendenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-020",
+   "question": "Wer könnte innerhalb des Romans bei Externe Ebene etwas über „Unterschied zwischen Realität und Transzendenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Realität und Transzendenz“ bei Externe Ebene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Realität und Transzendenz“ bei Externe Ebene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-023",
+   "question": "Wie lässt sich „Unterschied zwischen Realität und Transzendenz“ bei Externe Ebene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-024",
+   "question": "Welche Alternativen sollte der Autor bei Externe Ebene für „Unterschied zwischen Realität und Transzendenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-025",
+   "question": "Was bedeutet bei Externe Ebene der Themenpunkt „Eigenständigkeit außerhalb des Systems“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-026",
+   "question": "Welche Lesarten auf der Seite zu Externe Ebene stützen oder begrenzen „Eigenständigkeit außerhalb des Systems“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-027",
+   "question": "Welcher Grenzfall würde bei Externe Ebene die Annahmen über „Eigenständigkeit außerhalb des Systems“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-028",
+   "question": "Wer könnte innerhalb des Romans bei Externe Ebene etwas über „Eigenständigkeit außerhalb des Systems“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-029",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit außerhalb des Systems“ bei Externe Ebene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit außerhalb des Systems“ bei Externe Ebene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-031",
+   "question": "Wie lässt sich „Eigenständigkeit außerhalb des Systems“ bei Externe Ebene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-032",
+   "question": "Welche Alternativen sollte der Autor bei Externe Ebene für „Eigenständigkeit außerhalb des Systems“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-033",
+   "question": "Was bedeutet bei Externe Ebene der Themenpunkt „Möglichkeit einer Begegnung über Ebenen hinweg“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-034",
+   "question": "Welche Lesarten auf der Seite zu Externe Ebene stützen oder begrenzen „Möglichkeit einer Begegnung über Ebenen hinweg“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-035",
+   "question": "Welcher Grenzfall würde bei Externe Ebene die Annahmen über „Möglichkeit einer Begegnung über Ebenen hinweg“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-036",
+   "question": "Wer könnte innerhalb des Romans bei Externe Ebene etwas über „Möglichkeit einer Begegnung über Ebenen hinweg“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-037",
+   "question": "Welche konkrete Entscheidung könnte „Möglichkeit einer Begegnung über Ebenen hinweg“ bei Externe Ebene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Möglichkeit einer Begegnung über Ebenen hinweg“ bei Externe Ebene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-039",
+   "question": "Wie lässt sich „Möglichkeit einer Begegnung über Ebenen hinweg“ bei Externe Ebene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-040",
+   "question": "Welche Alternativen sollte der Autor bei Externe Ebene für „Möglichkeit einer Begegnung über Ebenen hinweg“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-041",
+   "question": "Wo unterscheiden sich Externe Ebene und Juna, wenn man sie unter dem Gesichtspunkt „Unbestimmtheit des Außen“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-042",
+   "question": "Welche Quelle verbindet Externe Ebene mit Juna in Bezug auf „Unbestimmtheit des Außen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Externe Ebene unter „Unbestimmtheit des Außen“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-044",
+   "question": "Wie könnte sich das Wissen über Externe Ebene vom Wissen über Juna unterscheiden, wenn „Unbestimmtheit des Außen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Externe Ebene und Juna bei „Unbestimmtheit des Außen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-046",
+   "question": "Falls Externe Ebene im Hinblick auf „Unbestimmtheit des Außen“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Externe Ebene und Juna bei „Unbestimmtheit des Außen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-048",
+   "question": "Braucht der Roman eine Verbindung von Externe Ebene und Juna bei „Unbestimmtheit des Außen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-049",
+   "question": "In welchem denkbaren Fall könnte Externe Ebene bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Unbestimmtheit des Außen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-050",
+   "question": "Welche Kosten könnte eine Verbindung von Externe Ebene und Juna in Bezug auf „Unbestimmtheit des Außen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-051",
+   "question": "Welche ältere Lesart von Externe Ebene oder Juna könnte die Gegenüberstellung unter „Unbestimmtheit des Außen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Externe Ebene und Juna unter „Unbestimmtheit des Außen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "externe-ebene",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-053",
+   "question": "Wo unterscheiden sich Externe Ebene und Überwelt, wenn man sie unter dem Gesichtspunkt „Grenze des Zugangs für Guardians“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-054",
+   "question": "Welche Quelle verbindet Externe Ebene mit Überwelt in Bezug auf „Grenze des Zugangs für Guardians“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-055",
+   "question": "Welche Grenzen aus der Seite zu Überwelt müsste eine Deutung von Externe Ebene unter „Grenze des Zugangs für Guardians“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-056",
+   "question": "Wie könnte sich das Wissen über Externe Ebene vom Wissen über Überwelt unterscheiden, wenn „Grenze des Zugangs für Guardians“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Externe Ebene und Überwelt bei „Grenze des Zugangs für Guardians“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-058",
+   "question": "Falls Externe Ebene im Hinblick auf „Grenze des Zugangs für Guardians“ anders festgelegt wird: Welche Aussagen über Überwelt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Externe Ebene und Überwelt bei „Grenze des Zugangs für Guardians“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-060",
+   "question": "Braucht der Roman eine Verbindung von Externe Ebene und Überwelt bei „Grenze des Zugangs für Guardians“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-061",
+   "question": "In welchem denkbaren Fall könnte Externe Ebene bestehen, ohne dass Überwelt dieselbe Funktion übernimmt, und was würde das für „Grenze des Zugangs für Guardians“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-062",
+   "question": "Welche Kosten könnte eine Verbindung von Externe Ebene und Überwelt in Bezug auf „Grenze des Zugangs für Guardians“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-063",
+   "question": "Welche ältere Lesart von Externe Ebene oder Überwelt könnte die Gegenüberstellung unter „Grenze des Zugangs für Guardians“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Externe Ebene und Überwelt unter „Grenze des Zugangs für Guardians“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "externe-ebene",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-065",
+   "question": "Wo unterscheiden sich Externe Ebene und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Realität und Transzendenz“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-066",
+   "question": "Welche Quelle verbindet Externe Ebene mit Realitätsebenen in Bezug auf „Unterschied zwischen Realität und Transzendenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-067",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Externe Ebene unter „Unterschied zwischen Realität und Transzendenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-068",
+   "question": "Wie könnte sich das Wissen über Externe Ebene vom Wissen über Realitätsebenen unterscheiden, wenn „Unterschied zwischen Realität und Transzendenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Externe Ebene und Realitätsebenen bei „Unterschied zwischen Realität und Transzendenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-070",
+   "question": "Falls Externe Ebene im Hinblick auf „Unterschied zwischen Realität und Transzendenz“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Externe Ebene und Realitätsebenen bei „Unterschied zwischen Realität und Transzendenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-072",
+   "question": "Braucht der Roman eine Verbindung von Externe Ebene und Realitätsebenen bei „Unterschied zwischen Realität und Transzendenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-073",
+   "question": "In welchem denkbaren Fall könnte Externe Ebene bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Realität und Transzendenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-074",
+   "question": "Welche Kosten könnte eine Verbindung von Externe Ebene und Realitätsebenen in Bezug auf „Unterschied zwischen Realität und Transzendenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-075",
+   "question": "Welche ältere Lesart von Externe Ebene oder Realitätsebenen könnte die Gegenüberstellung unter „Unterschied zwischen Realität und Transzendenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Externe Ebene und Realitätsebenen unter „Unterschied zwischen Realität und Transzendenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "externe-ebene",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-077",
+   "question": "Wo unterscheiden sich Externe Ebene und Junas Ankerpunkt, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit außerhalb des Systems“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-078",
+   "question": "Welche Quelle verbindet Externe Ebene mit Junas Ankerpunkt in Bezug auf „Eigenständigkeit außerhalb des Systems“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-079",
+   "question": "Welche Grenzen aus der Seite zu Junas Ankerpunkt müsste eine Deutung von Externe Ebene unter „Eigenständigkeit außerhalb des Systems“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-080",
+   "question": "Wie könnte sich das Wissen über Externe Ebene vom Wissen über Junas Ankerpunkt unterscheiden, wenn „Eigenständigkeit außerhalb des Systems“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Externe Ebene und Junas Ankerpunkt bei „Eigenständigkeit außerhalb des Systems“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-082",
+   "question": "Falls Externe Ebene im Hinblick auf „Eigenständigkeit außerhalb des Systems“ anders festgelegt wird: Welche Aussagen über Junas Ankerpunkt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Externe Ebene und Junas Ankerpunkt bei „Eigenständigkeit außerhalb des Systems“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-084",
+   "question": "Braucht der Roman eine Verbindung von Externe Ebene und Junas Ankerpunkt bei „Eigenständigkeit außerhalb des Systems“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-085",
+   "question": "In welchem denkbaren Fall könnte Externe Ebene bestehen, ohne dass Junas Ankerpunkt dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit außerhalb des Systems“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-086",
+   "question": "Welche Kosten könnte eine Verbindung von Externe Ebene und Junas Ankerpunkt in Bezug auf „Eigenständigkeit außerhalb des Systems“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-087",
+   "question": "Welche ältere Lesart von Externe Ebene oder Junas Ankerpunkt könnte die Gegenüberstellung unter „Eigenständigkeit außerhalb des Systems“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Externe Ebene und Junas Ankerpunkt unter „Eigenständigkeit außerhalb des Systems“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "externe-ebene",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-089",
+   "question": "Wo unterscheiden sich Externe Ebene und Nexus, wenn man sie unter dem Gesichtspunkt „Möglichkeit einer Begegnung über Ebenen hinweg“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-090",
+   "question": "Welche Quelle verbindet Externe Ebene mit Nexus in Bezug auf „Möglichkeit einer Begegnung über Ebenen hinweg“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-091",
+   "question": "Welche Grenzen aus der Seite zu Nexus müsste eine Deutung von Externe Ebene unter „Möglichkeit einer Begegnung über Ebenen hinweg“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-092",
+   "question": "Wie könnte sich das Wissen über Externe Ebene vom Wissen über Nexus unterscheiden, wenn „Möglichkeit einer Begegnung über Ebenen hinweg“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Externe Ebene und Nexus bei „Möglichkeit einer Begegnung über Ebenen hinweg“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-094",
+   "question": "Falls Externe Ebene im Hinblick auf „Möglichkeit einer Begegnung über Ebenen hinweg“ anders festgelegt wird: Welche Aussagen über Nexus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Externe Ebene und Nexus bei „Möglichkeit einer Begegnung über Ebenen hinweg“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-096",
+   "question": "Braucht der Roman eine Verbindung von Externe Ebene und Nexus bei „Möglichkeit einer Begegnung über Ebenen hinweg“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-097",
+   "question": "In welchem denkbaren Fall könnte Externe Ebene bestehen, ohne dass Nexus dieselbe Funktion übernimmt, und was würde das für „Möglichkeit einer Begegnung über Ebenen hinweg“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-098",
+   "question": "Welche Kosten könnte eine Verbindung von Externe Ebene und Nexus in Bezug auf „Möglichkeit einer Begegnung über Ebenen hinweg“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-099",
+   "question": "Welche ältere Lesart von Externe Ebene oder Nexus könnte die Gegenüberstellung unter „Möglichkeit einer Begegnung über Ebenen hinweg“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-externe-ebene-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Externe Ebene und Nexus unter „Möglichkeit einer Begegnung über Ebenen hinweg“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "externe-ebene",
+    "nexus"
+   ]
+  }
+ ]
+}

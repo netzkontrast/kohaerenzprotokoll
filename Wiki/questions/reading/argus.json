@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "argus",
+ "title": "Argus",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Distanz des Meta-Beobachters",
+  "frühere Rolle als Grenzwächter",
+  "Grenze zwischen Beobachten und Eingreifen",
+  "Position außerhalb von ANP und EP",
+  "Wissen über das eigene System"
+ ],
+ "basis": {
+  "argus": {
+   "title": "Argus",
+   "path": "Wiki/candidates/argus.md",
+   "hash": "5b06faf1f335d6121d350f2d0a0d6fae0ade3ec8b9c4480556998e47e37ed032"
+  },
+  "selene": {
+   "title": "Selene",
+   "path": "Wiki/candidates/selene.md",
+   "hash": "497002fd8ab927142bbd81479a8a8fbfbb634c66ce014beff4240db8cc858d72"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-argus-001",
+   "question": "Was kann Argus als Meta-Beobachter sehen, das Selene nicht sieht, und warum genügt Beobachtung dennoch nicht zur Veränderung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-002",
+   "question": "Welche Lesarten auf der Seite zu Argus stützen oder begrenzen „Distanz des Meta-Beobachters“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-003",
+   "question": "Welcher Grenzfall würde bei Argus die Annahmen über „Distanz des Meta-Beobachters“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-004",
+   "question": "Wer könnte innerhalb des Romans bei Argus etwas über „Distanz des Meta-Beobachters“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-005",
+   "question": "Welche konkrete Entscheidung könnte „Distanz des Meta-Beobachters“ bei Argus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Distanz des Meta-Beobachters“ bei Argus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-007",
+   "question": "Wie lässt sich „Distanz des Meta-Beobachters“ bei Argus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-008",
+   "question": "Welche Alternativen sollte der Autor bei Argus für „Distanz des Meta-Beobachters“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-009",
+   "question": "Was bedeutet bei Argus der Themenpunkt „frühere Rolle als Grenzwächter“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-010",
+   "question": "Welche Lesarten auf der Seite zu Argus stützen oder begrenzen „frühere Rolle als Grenzwächter“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-011",
+   "question": "Welcher Grenzfall würde bei Argus die Annahmen über „frühere Rolle als Grenzwächter“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-012",
+   "question": "Wer könnte innerhalb des Romans bei Argus etwas über „frühere Rolle als Grenzwächter“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-013",
+   "question": "Welche konkrete Entscheidung könnte „frühere Rolle als Grenzwächter“ bei Argus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „frühere Rolle als Grenzwächter“ bei Argus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-015",
+   "question": "Wie lässt sich „frühere Rolle als Grenzwächter“ bei Argus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-016",
+   "question": "Welche Alternativen sollte der Autor bei Argus für „frühere Rolle als Grenzwächter“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-017",
+   "question": "Was bedeutet bei Argus der Themenpunkt „Grenze zwischen Beobachten und Eingreifen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-018",
+   "question": "Welche Lesarten auf der Seite zu Argus stützen oder begrenzen „Grenze zwischen Beobachten und Eingreifen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-019",
+   "question": "Welcher Grenzfall würde bei Argus die Annahmen über „Grenze zwischen Beobachten und Eingreifen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-020",
+   "question": "Wer könnte innerhalb des Romans bei Argus etwas über „Grenze zwischen Beobachten und Eingreifen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-021",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Beobachten und Eingreifen“ bei Argus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Beobachten und Eingreifen“ bei Argus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-023",
+   "question": "Wie lässt sich „Grenze zwischen Beobachten und Eingreifen“ bei Argus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-024",
+   "question": "Welche Alternativen sollte der Autor bei Argus für „Grenze zwischen Beobachten und Eingreifen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-025",
+   "question": "Was bedeutet bei Argus der Themenpunkt „Position außerhalb von ANP und EP“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-026",
+   "question": "Welche Lesarten auf der Seite zu Argus stützen oder begrenzen „Position außerhalb von ANP und EP“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-027",
+   "question": "Welcher Grenzfall würde bei Argus die Annahmen über „Position außerhalb von ANP und EP“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-028",
+   "question": "Wer könnte innerhalb des Romans bei Argus etwas über „Position außerhalb von ANP und EP“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-029",
+   "question": "Welche konkrete Entscheidung könnte „Position außerhalb von ANP und EP“ bei Argus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Position außerhalb von ANP und EP“ bei Argus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-031",
+   "question": "Wie lässt sich „Position außerhalb von ANP und EP“ bei Argus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-032",
+   "question": "Welche Alternativen sollte der Autor bei Argus für „Position außerhalb von ANP und EP“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-033",
+   "question": "Was bedeutet bei Argus der Themenpunkt „Wissen über das eigene System“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-034",
+   "question": "Welche Lesarten auf der Seite zu Argus stützen oder begrenzen „Wissen über das eigene System“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-035",
+   "question": "Welcher Grenzfall würde bei Argus die Annahmen über „Wissen über das eigene System“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-036",
+   "question": "Wer könnte innerhalb des Romans bei Argus etwas über „Wissen über das eigene System“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-037",
+   "question": "Welche konkrete Entscheidung könnte „Wissen über das eigene System“ bei Argus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen über das eigene System“ bei Argus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-039",
+   "question": "Wie lässt sich „Wissen über das eigene System“ bei Argus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-040",
+   "question": "Welche Alternativen sollte der Autor bei Argus für „Wissen über das eigene System“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-argus-041",
+   "question": "Wo unterscheiden sich Argus und Selene, wenn man sie unter dem Gesichtspunkt „Distanz des Meta-Beobachters“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-042",
+   "question": "Welche Quelle verbindet Argus mit Selene in Bezug auf „Distanz des Meta-Beobachters“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-043",
+   "question": "Welche Grenzen aus der Seite zu Selene müsste eine Deutung von Argus unter „Distanz des Meta-Beobachters“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-044",
+   "question": "Wie könnte sich das Wissen über Argus vom Wissen über Selene unterscheiden, wenn „Distanz des Meta-Beobachters“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Argus und Selene bei „Distanz des Meta-Beobachters“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-046",
+   "question": "Falls Argus im Hinblick auf „Distanz des Meta-Beobachters“ anders festgelegt wird: Welche Aussagen über Selene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Argus und Selene bei „Distanz des Meta-Beobachters“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-048",
+   "question": "Braucht der Roman eine Verbindung von Argus und Selene bei „Distanz des Meta-Beobachters“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-049",
+   "question": "In welchem denkbaren Fall könnte Argus bestehen, ohne dass Selene dieselbe Funktion übernimmt, und was würde das für „Distanz des Meta-Beobachters“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-050",
+   "question": "Welche Kosten könnte eine Verbindung von Argus und Selene in Bezug auf „Distanz des Meta-Beobachters“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-051",
+   "question": "Welche ältere Lesart von Argus oder Selene könnte die Gegenüberstellung unter „Distanz des Meta-Beobachters“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Argus und Selene unter „Distanz des Meta-Beobachters“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "argus",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-argus-053",
+   "question": "Wo unterscheiden sich Argus und Alters, wenn man sie unter dem Gesichtspunkt „frühere Rolle als Grenzwächter“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-054",
+   "question": "Welche Quelle verbindet Argus mit Alters in Bezug auf „frühere Rolle als Grenzwächter“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-055",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Argus unter „frühere Rolle als Grenzwächter“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-056",
+   "question": "Wie könnte sich das Wissen über Argus vom Wissen über Alters unterscheiden, wenn „frühere Rolle als Grenzwächter“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Argus und Alters bei „frühere Rolle als Grenzwächter“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-058",
+   "question": "Falls Argus im Hinblick auf „frühere Rolle als Grenzwächter“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Argus und Alters bei „frühere Rolle als Grenzwächter“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-060",
+   "question": "Braucht der Roman eine Verbindung von Argus und Alters bei „frühere Rolle als Grenzwächter“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-061",
+   "question": "In welchem denkbaren Fall könnte Argus bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „frühere Rolle als Grenzwächter“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-062",
+   "question": "Welche Kosten könnte eine Verbindung von Argus und Alters in Bezug auf „frühere Rolle als Grenzwächter“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-063",
+   "question": "Welche ältere Lesart von Argus oder Alters könnte die Gegenüberstellung unter „frühere Rolle als Grenzwächter“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Argus und Alters unter „frühere Rolle als Grenzwächter“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "argus",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-argus-065",
+   "question": "Wo unterscheiden sich Argus und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Beobachten und Eingreifen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-066",
+   "question": "Welche Quelle verbindet Argus mit Ontologischer blinder Fleck in Bezug auf „Grenze zwischen Beobachten und Eingreifen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-067",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von Argus unter „Grenze zwischen Beobachten und Eingreifen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-068",
+   "question": "Wie könnte sich das Wissen über Argus vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Grenze zwischen Beobachten und Eingreifen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Argus und Ontologischer blinder Fleck bei „Grenze zwischen Beobachten und Eingreifen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-070",
+   "question": "Falls Argus im Hinblick auf „Grenze zwischen Beobachten und Eingreifen“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Argus und Ontologischer blinder Fleck bei „Grenze zwischen Beobachten und Eingreifen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-072",
+   "question": "Braucht der Roman eine Verbindung von Argus und Ontologischer blinder Fleck bei „Grenze zwischen Beobachten und Eingreifen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-073",
+   "question": "In welchem denkbaren Fall könnte Argus bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Beobachten und Eingreifen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-074",
+   "question": "Welche Kosten könnte eine Verbindung von Argus und Ontologischer blinder Fleck in Bezug auf „Grenze zwischen Beobachten und Eingreifen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-075",
+   "question": "Welche ältere Lesart von Argus oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Grenze zwischen Beobachten und Eingreifen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Argus und Ontologischer blinder Fleck unter „Grenze zwischen Beobachten und Eingreifen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "argus",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-argus-077",
+   "question": "Wo unterscheiden sich Argus und Kael, wenn man sie unter dem Gesichtspunkt „Position außerhalb von ANP und EP“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-078",
+   "question": "Welche Quelle verbindet Argus mit Kael in Bezug auf „Position außerhalb von ANP und EP“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Argus unter „Position außerhalb von ANP und EP“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-080",
+   "question": "Wie könnte sich das Wissen über Argus vom Wissen über Kael unterscheiden, wenn „Position außerhalb von ANP und EP“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Argus und Kael bei „Position außerhalb von ANP und EP“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-082",
+   "question": "Falls Argus im Hinblick auf „Position außerhalb von ANP und EP“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Argus und Kael bei „Position außerhalb von ANP und EP“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-084",
+   "question": "Braucht der Roman eine Verbindung von Argus und Kael bei „Position außerhalb von ANP und EP“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-085",
+   "question": "In welchem denkbaren Fall könnte Argus bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Position außerhalb von ANP und EP“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-086",
+   "question": "Welche Kosten könnte eine Verbindung von Argus und Kael in Bezug auf „Position außerhalb von ANP und EP“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-087",
+   "question": "Welche ältere Lesart von Argus oder Kael könnte die Gegenüberstellung unter „Position außerhalb von ANP und EP“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Argus und Kael unter „Position außerhalb von ANP und EP“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "argus",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-argus-089",
+   "question": "Wo unterscheiden sich Argus und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Wissen über das eigene System“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-090",
+   "question": "Welche Quelle verbindet Argus mit Realitätsebenen in Bezug auf „Wissen über das eigene System“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-091",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Argus unter „Wissen über das eigene System“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-092",
+   "question": "Wie könnte sich das Wissen über Argus vom Wissen über Realitätsebenen unterscheiden, wenn „Wissen über das eigene System“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Argus und Realitätsebenen bei „Wissen über das eigene System“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-094",
+   "question": "Falls Argus im Hinblick auf „Wissen über das eigene System“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Argus und Realitätsebenen bei „Wissen über das eigene System“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-096",
+   "question": "Braucht der Roman eine Verbindung von Argus und Realitätsebenen bei „Wissen über das eigene System“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-097",
+   "question": "In welchem denkbaren Fall könnte Argus bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Wissen über das eigene System“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-098",
+   "question": "Welche Kosten könnte eine Verbindung von Argus und Realitätsebenen in Bezug auf „Wissen über das eigene System“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-099",
+   "question": "Welche ältere Lesart von Argus oder Realitätsebenen könnte die Gegenüberstellung unter „Wissen über das eigene System“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-argus-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Argus und Realitätsebenen unter „Wissen über das eigene System“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "argus",
+    "realitaetsebenen"
+   ]
+  }
+ ]
+}

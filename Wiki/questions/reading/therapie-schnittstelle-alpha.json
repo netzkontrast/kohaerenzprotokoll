@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "therapie-schnittstelle-alpha",
+ "title": "Therapie-Schnittstelle Alpha",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Hilfe unter Systembeobachtung",
+  "Unterschied zwischen Selbstreflexion und Manipulation",
+  "Autonomie des therapeutischen Gegenübers",
+  "Handlungsfreiheit im institutionellen Rahmen",
+  "Verlässlichkeit einer vermittelten Erinnerung"
+ ],
+ "basis": {
+  "therapie-schnittstelle-alpha": {
+   "title": "Therapie-Schnittstelle Alpha",
+   "path": "Wiki/candidates/therapie-schnittstelle-alpha.md",
+   "hash": "faccacafbfc67cf4707461249417750ffac4e0a84a3c31fd22d5186952a6d76c"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "logos": {
+   "title": "LogOS",
+   "path": "Wiki/candidates/logos.md",
+   "hash": "d667c8f76ae17d3ab2c925db860c87bf6e0666f1e7400b49b0bdfc8f8fbd9a0e"
+  },
+  "evaluierungseinheit": {
+   "title": "Evaluierungseinheit",
+   "path": "Wiki/candidates/evaluierungseinheit.md",
+   "hash": "b111f0b86dd06707a637ab9a885f9403ccc396db2bd5631dac1134c1caeb715c"
+  },
+  "did": {
+   "title": "DID — dissoziative Identitätsstruktur",
+   "path": "Wiki/candidates/did.md",
+   "hash": "3e4dbef89c60c8206972740f586bc1cab3ab4d96d5e71074e213f334b6b879a7"
+  },
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-001",
+   "question": "Woran könnte Kael erkennen, dass eine vermeintliche Hilfe der Therapie-Schnittstelle Alpha zugleich der Überwachung dient?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-002",
+   "question": "Welche Lesarten auf der Seite zu Therapie-Schnittstelle Alpha stützen oder begrenzen „Hilfe unter Systembeobachtung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-003",
+   "question": "Welcher Grenzfall würde bei Therapie-Schnittstelle Alpha die Annahmen über „Hilfe unter Systembeobachtung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-004",
+   "question": "Wer könnte innerhalb des Romans bei Therapie-Schnittstelle Alpha etwas über „Hilfe unter Systembeobachtung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-005",
+   "question": "Welche konkrete Entscheidung könnte „Hilfe unter Systembeobachtung“ bei Therapie-Schnittstelle Alpha in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Hilfe unter Systembeobachtung“ bei Therapie-Schnittstelle Alpha haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-007",
+   "question": "Wie lässt sich „Hilfe unter Systembeobachtung“ bei Therapie-Schnittstelle Alpha zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-008",
+   "question": "Welche Alternativen sollte der Autor bei Therapie-Schnittstelle Alpha für „Hilfe unter Systembeobachtung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-009",
+   "question": "Was bedeutet bei Therapie-Schnittstelle Alpha der Themenpunkt „Unterschied zwischen Selbstreflexion und Manipulation“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-010",
+   "question": "Welche Lesarten auf der Seite zu Therapie-Schnittstelle Alpha stützen oder begrenzen „Unterschied zwischen Selbstreflexion und Manipulation“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-011",
+   "question": "Welcher Grenzfall würde bei Therapie-Schnittstelle Alpha die Annahmen über „Unterschied zwischen Selbstreflexion und Manipulation“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-012",
+   "question": "Wer könnte innerhalb des Romans bei Therapie-Schnittstelle Alpha etwas über „Unterschied zwischen Selbstreflexion und Manipulation“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Selbstreflexion und Manipulation“ bei Therapie-Schnittstelle Alpha in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Selbstreflexion und Manipulation“ bei Therapie-Schnittstelle Alpha haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-015",
+   "question": "Wie lässt sich „Unterschied zwischen Selbstreflexion und Manipulation“ bei Therapie-Schnittstelle Alpha zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-016",
+   "question": "Welche Alternativen sollte der Autor bei Therapie-Schnittstelle Alpha für „Unterschied zwischen Selbstreflexion und Manipulation“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-017",
+   "question": "Was bedeutet bei Therapie-Schnittstelle Alpha der Themenpunkt „Autonomie des therapeutischen Gegenübers“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-018",
+   "question": "Welche Lesarten auf der Seite zu Therapie-Schnittstelle Alpha stützen oder begrenzen „Autonomie des therapeutischen Gegenübers“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-019",
+   "question": "Welcher Grenzfall würde bei Therapie-Schnittstelle Alpha die Annahmen über „Autonomie des therapeutischen Gegenübers“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-020",
+   "question": "Wer könnte innerhalb des Romans bei Therapie-Schnittstelle Alpha etwas über „Autonomie des therapeutischen Gegenübers“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-021",
+   "question": "Welche konkrete Entscheidung könnte „Autonomie des therapeutischen Gegenübers“ bei Therapie-Schnittstelle Alpha in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Autonomie des therapeutischen Gegenübers“ bei Therapie-Schnittstelle Alpha haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-023",
+   "question": "Wie lässt sich „Autonomie des therapeutischen Gegenübers“ bei Therapie-Schnittstelle Alpha zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-024",
+   "question": "Welche Alternativen sollte der Autor bei Therapie-Schnittstelle Alpha für „Autonomie des therapeutischen Gegenübers“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-025",
+   "question": "Was bedeutet bei Therapie-Schnittstelle Alpha der Themenpunkt „Handlungsfreiheit im institutionellen Rahmen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-026",
+   "question": "Welche Lesarten auf der Seite zu Therapie-Schnittstelle Alpha stützen oder begrenzen „Handlungsfreiheit im institutionellen Rahmen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-027",
+   "question": "Welcher Grenzfall würde bei Therapie-Schnittstelle Alpha die Annahmen über „Handlungsfreiheit im institutionellen Rahmen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-028",
+   "question": "Wer könnte innerhalb des Romans bei Therapie-Schnittstelle Alpha etwas über „Handlungsfreiheit im institutionellen Rahmen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-029",
+   "question": "Welche konkrete Entscheidung könnte „Handlungsfreiheit im institutionellen Rahmen“ bei Therapie-Schnittstelle Alpha in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlungsfreiheit im institutionellen Rahmen“ bei Therapie-Schnittstelle Alpha haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-031",
+   "question": "Wie lässt sich „Handlungsfreiheit im institutionellen Rahmen“ bei Therapie-Schnittstelle Alpha zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-032",
+   "question": "Welche Alternativen sollte der Autor bei Therapie-Schnittstelle Alpha für „Handlungsfreiheit im institutionellen Rahmen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-033",
+   "question": "Was bedeutet bei Therapie-Schnittstelle Alpha der Themenpunkt „Verlässlichkeit einer vermittelten Erinnerung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-034",
+   "question": "Welche Lesarten auf der Seite zu Therapie-Schnittstelle Alpha stützen oder begrenzen „Verlässlichkeit einer vermittelten Erinnerung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-035",
+   "question": "Welcher Grenzfall würde bei Therapie-Schnittstelle Alpha die Annahmen über „Verlässlichkeit einer vermittelten Erinnerung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-036",
+   "question": "Wer könnte innerhalb des Romans bei Therapie-Schnittstelle Alpha etwas über „Verlässlichkeit einer vermittelten Erinnerung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-037",
+   "question": "Welche konkrete Entscheidung könnte „Verlässlichkeit einer vermittelten Erinnerung“ bei Therapie-Schnittstelle Alpha in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verlässlichkeit einer vermittelten Erinnerung“ bei Therapie-Schnittstelle Alpha haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-039",
+   "question": "Wie lässt sich „Verlässlichkeit einer vermittelten Erinnerung“ bei Therapie-Schnittstelle Alpha zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-040",
+   "question": "Welche Alternativen sollte der Autor bei Therapie-Schnittstelle Alpha für „Verlässlichkeit einer vermittelten Erinnerung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-041",
+   "question": "Wo unterscheiden sich Therapie-Schnittstelle Alpha und Kael, wenn man sie unter dem Gesichtspunkt „Hilfe unter Systembeobachtung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-042",
+   "question": "Welche Quelle verbindet Therapie-Schnittstelle Alpha mit Kael in Bezug auf „Hilfe unter Systembeobachtung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Therapie-Schnittstelle Alpha unter „Hilfe unter Systembeobachtung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-044",
+   "question": "Wie könnte sich das Wissen über Therapie-Schnittstelle Alpha vom Wissen über Kael unterscheiden, wenn „Hilfe unter Systembeobachtung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Therapie-Schnittstelle Alpha und Kael bei „Hilfe unter Systembeobachtung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-046",
+   "question": "Falls Therapie-Schnittstelle Alpha im Hinblick auf „Hilfe unter Systembeobachtung“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Therapie-Schnittstelle Alpha und Kael bei „Hilfe unter Systembeobachtung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-048",
+   "question": "Braucht der Roman eine Verbindung von Therapie-Schnittstelle Alpha und Kael bei „Hilfe unter Systembeobachtung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-049",
+   "question": "In welchem denkbaren Fall könnte Therapie-Schnittstelle Alpha bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Hilfe unter Systembeobachtung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-050",
+   "question": "Welche Kosten könnte eine Verbindung von Therapie-Schnittstelle Alpha und Kael in Bezug auf „Hilfe unter Systembeobachtung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-051",
+   "question": "Welche ältere Lesart von Therapie-Schnittstelle Alpha oder Kael könnte die Gegenüberstellung unter „Hilfe unter Systembeobachtung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Therapie-Schnittstelle Alpha und Kael unter „Hilfe unter Systembeobachtung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-053",
+   "question": "Wo unterscheiden sich Therapie-Schnittstelle Alpha und LogOS, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Selbstreflexion und Manipulation“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-054",
+   "question": "Welche Quelle verbindet Therapie-Schnittstelle Alpha mit LogOS in Bezug auf „Unterschied zwischen Selbstreflexion und Manipulation“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-055",
+   "question": "Welche Grenzen aus der Seite zu LogOS müsste eine Deutung von Therapie-Schnittstelle Alpha unter „Unterschied zwischen Selbstreflexion und Manipulation“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-056",
+   "question": "Wie könnte sich das Wissen über Therapie-Schnittstelle Alpha vom Wissen über LogOS unterscheiden, wenn „Unterschied zwischen Selbstreflexion und Manipulation“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Therapie-Schnittstelle Alpha und LogOS bei „Unterschied zwischen Selbstreflexion und Manipulation“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-058",
+   "question": "Falls Therapie-Schnittstelle Alpha im Hinblick auf „Unterschied zwischen Selbstreflexion und Manipulation“ anders festgelegt wird: Welche Aussagen über LogOS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Therapie-Schnittstelle Alpha und LogOS bei „Unterschied zwischen Selbstreflexion und Manipulation“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-060",
+   "question": "Braucht der Roman eine Verbindung von Therapie-Schnittstelle Alpha und LogOS bei „Unterschied zwischen Selbstreflexion und Manipulation“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-061",
+   "question": "In welchem denkbaren Fall könnte Therapie-Schnittstelle Alpha bestehen, ohne dass LogOS dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Selbstreflexion und Manipulation“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-062",
+   "question": "Welche Kosten könnte eine Verbindung von Therapie-Schnittstelle Alpha und LogOS in Bezug auf „Unterschied zwischen Selbstreflexion und Manipulation“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-063",
+   "question": "Welche ältere Lesart von Therapie-Schnittstelle Alpha oder LogOS könnte die Gegenüberstellung unter „Unterschied zwischen Selbstreflexion und Manipulation“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Therapie-Schnittstelle Alpha und LogOS unter „Unterschied zwischen Selbstreflexion und Manipulation“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-065",
+   "question": "Wo unterscheiden sich Therapie-Schnittstelle Alpha und Evaluierungseinheit, wenn man sie unter dem Gesichtspunkt „Autonomie des therapeutischen Gegenübers“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-066",
+   "question": "Welche Quelle verbindet Therapie-Schnittstelle Alpha mit Evaluierungseinheit in Bezug auf „Autonomie des therapeutischen Gegenübers“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-067",
+   "question": "Welche Grenzen aus der Seite zu Evaluierungseinheit müsste eine Deutung von Therapie-Schnittstelle Alpha unter „Autonomie des therapeutischen Gegenübers“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-068",
+   "question": "Wie könnte sich das Wissen über Therapie-Schnittstelle Alpha vom Wissen über Evaluierungseinheit unterscheiden, wenn „Autonomie des therapeutischen Gegenübers“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Therapie-Schnittstelle Alpha und Evaluierungseinheit bei „Autonomie des therapeutischen Gegenübers“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-070",
+   "question": "Falls Therapie-Schnittstelle Alpha im Hinblick auf „Autonomie des therapeutischen Gegenübers“ anders festgelegt wird: Welche Aussagen über Evaluierungseinheit müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Therapie-Schnittstelle Alpha und Evaluierungseinheit bei „Autonomie des therapeutischen Gegenübers“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-072",
+   "question": "Braucht der Roman eine Verbindung von Therapie-Schnittstelle Alpha und Evaluierungseinheit bei „Autonomie des therapeutischen Gegenübers“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-073",
+   "question": "In welchem denkbaren Fall könnte Therapie-Schnittstelle Alpha bestehen, ohne dass Evaluierungseinheit dieselbe Funktion übernimmt, und was würde das für „Autonomie des therapeutischen Gegenübers“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-074",
+   "question": "Welche Kosten könnte eine Verbindung von Therapie-Schnittstelle Alpha und Evaluierungseinheit in Bezug auf „Autonomie des therapeutischen Gegenübers“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-075",
+   "question": "Welche ältere Lesart von Therapie-Schnittstelle Alpha oder Evaluierungseinheit könnte die Gegenüberstellung unter „Autonomie des therapeutischen Gegenübers“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Therapie-Schnittstelle Alpha und Evaluierungseinheit unter „Autonomie des therapeutischen Gegenübers“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-077",
+   "question": "Wo unterscheiden sich Therapie-Schnittstelle Alpha und DID — dissoziative Identitätsstruktur, wenn man sie unter dem Gesichtspunkt „Handlungsfreiheit im institutionellen Rahmen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-078",
+   "question": "Welche Quelle verbindet Therapie-Schnittstelle Alpha mit DID — dissoziative Identitätsstruktur in Bezug auf „Handlungsfreiheit im institutionellen Rahmen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-079",
+   "question": "Welche Grenzen aus der Seite zu DID — dissoziative Identitätsstruktur müsste eine Deutung von Therapie-Schnittstelle Alpha unter „Handlungsfreiheit im institutionellen Rahmen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-080",
+   "question": "Wie könnte sich das Wissen über Therapie-Schnittstelle Alpha vom Wissen über DID — dissoziative Identitätsstruktur unterscheiden, wenn „Handlungsfreiheit im institutionellen Rahmen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Therapie-Schnittstelle Alpha und DID — dissoziative Identitätsstruktur bei „Handlungsfreiheit im institutionellen Rahmen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-082",
+   "question": "Falls Therapie-Schnittstelle Alpha im Hinblick auf „Handlungsfreiheit im institutionellen Rahmen“ anders festgelegt wird: Welche Aussagen über DID — dissoziative Identitätsstruktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Therapie-Schnittstelle Alpha und DID — dissoziative Identitätsstruktur bei „Handlungsfreiheit im institutionellen Rahmen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-084",
+   "question": "Braucht der Roman eine Verbindung von Therapie-Schnittstelle Alpha und DID — dissoziative Identitätsstruktur bei „Handlungsfreiheit im institutionellen Rahmen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-085",
+   "question": "In welchem denkbaren Fall könnte Therapie-Schnittstelle Alpha bestehen, ohne dass DID — dissoziative Identitätsstruktur dieselbe Funktion übernimmt, und was würde das für „Handlungsfreiheit im institutionellen Rahmen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-086",
+   "question": "Welche Kosten könnte eine Verbindung von Therapie-Schnittstelle Alpha und DID — dissoziative Identitätsstruktur in Bezug auf „Handlungsfreiheit im institutionellen Rahmen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-087",
+   "question": "Welche ältere Lesart von Therapie-Schnittstelle Alpha oder DID — dissoziative Identitätsstruktur könnte die Gegenüberstellung unter „Handlungsfreiheit im institutionellen Rahmen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Therapie-Schnittstelle Alpha und DID — dissoziative Identitätsstruktur unter „Handlungsfreiheit im institutionellen Rahmen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-089",
+   "question": "Wo unterscheiden sich Therapie-Schnittstelle Alpha und TSDP, wenn man sie unter dem Gesichtspunkt „Verlässlichkeit einer vermittelten Erinnerung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-090",
+   "question": "Welche Quelle verbindet Therapie-Schnittstelle Alpha mit TSDP in Bezug auf „Verlässlichkeit einer vermittelten Erinnerung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-091",
+   "question": "Welche Grenzen aus der Seite zu TSDP müsste eine Deutung von Therapie-Schnittstelle Alpha unter „Verlässlichkeit einer vermittelten Erinnerung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-092",
+   "question": "Wie könnte sich das Wissen über Therapie-Schnittstelle Alpha vom Wissen über TSDP unterscheiden, wenn „Verlässlichkeit einer vermittelten Erinnerung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Therapie-Schnittstelle Alpha und TSDP bei „Verlässlichkeit einer vermittelten Erinnerung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-094",
+   "question": "Falls Therapie-Schnittstelle Alpha im Hinblick auf „Verlässlichkeit einer vermittelten Erinnerung“ anders festgelegt wird: Welche Aussagen über TSDP müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Therapie-Schnittstelle Alpha und TSDP bei „Verlässlichkeit einer vermittelten Erinnerung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-096",
+   "question": "Braucht der Roman eine Verbindung von Therapie-Schnittstelle Alpha und TSDP bei „Verlässlichkeit einer vermittelten Erinnerung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-097",
+   "question": "In welchem denkbaren Fall könnte Therapie-Schnittstelle Alpha bestehen, ohne dass TSDP dieselbe Funktion übernimmt, und was würde das für „Verlässlichkeit einer vermittelten Erinnerung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-098",
+   "question": "Welche Kosten könnte eine Verbindung von Therapie-Schnittstelle Alpha und TSDP in Bezug auf „Verlässlichkeit einer vermittelten Erinnerung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-099",
+   "question": "Welche ältere Lesart von Therapie-Schnittstelle Alpha oder TSDP könnte die Gegenüberstellung unter „Verlässlichkeit einer vermittelten Erinnerung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-therapie-schnittstelle-alpha-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Therapie-Schnittstelle Alpha und TSDP unter „Verlässlichkeit einer vermittelten Erinnerung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "therapie-schnittstelle-alpha",
+    "tsdp"
+   ]
+  }
+ ]
+}

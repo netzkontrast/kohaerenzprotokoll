@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kiko",
+ "title": "Kiko",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Erstarrung als Schutzreaktion",
+  "Verständlichkeit einer kindlichen Perspektive",
+  "Wünsche jenseits des Trauma-Symbols",
+  "Zeitpunkt des erkennbaren Auftretens",
+  "Wandel ohne Verlust der kindlichen Stimme"
+ ],
+ "basis": {
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  },
+  "lia": {
+   "title": "Lia",
+   "path": "Wiki/candidates/lia.md",
+   "hash": "fe3c6497a56a97dc22976b6049a7b2262a0d6d55f6ba40dad6ce609c6e492614"
+  },
+  "moros": {
+   "title": "Moros",
+   "path": "Wiki/candidates/moros.md",
+   "hash": "9c231ef2f8ffca2d9f201b1bbb263071597f939c9c8e823e2454ce1bc965f7a1"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "chaitin-konstante": {
+   "title": "Chaitin-Konstante",
+   "path": "Wiki/candidates/chaitin-konstante.md",
+   "hash": "a25371d3cedc288db9e3e8e9c70f8e482370e0391f208cf1b722b283f6fefe21"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kiko-001",
+   "question": "Was möchte Kiko in einer Szene außer Sicherheit, und wie bleibt dieser Wunsch bei seiner Erstarrung erkennbar?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-002",
+   "question": "Welche Lesarten auf der Seite zu Kiko stützen oder begrenzen „Erstarrung als Schutzreaktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-003",
+   "question": "Welcher Grenzfall würde bei Kiko die Annahmen über „Erstarrung als Schutzreaktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-004",
+   "question": "Wer könnte innerhalb des Romans bei Kiko etwas über „Erstarrung als Schutzreaktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-005",
+   "question": "Welche konkrete Entscheidung könnte „Erstarrung als Schutzreaktion“ bei Kiko in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erstarrung als Schutzreaktion“ bei Kiko haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-007",
+   "question": "Wie lässt sich „Erstarrung als Schutzreaktion“ bei Kiko zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-008",
+   "question": "Welche Alternativen sollte der Autor bei Kiko für „Erstarrung als Schutzreaktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-009",
+   "question": "Was bedeutet bei Kiko der Themenpunkt „Verständlichkeit einer kindlichen Perspektive“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-010",
+   "question": "Welche Lesarten auf der Seite zu Kiko stützen oder begrenzen „Verständlichkeit einer kindlichen Perspektive“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-011",
+   "question": "Welcher Grenzfall würde bei Kiko die Annahmen über „Verständlichkeit einer kindlichen Perspektive“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-012",
+   "question": "Wer könnte innerhalb des Romans bei Kiko etwas über „Verständlichkeit einer kindlichen Perspektive“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-013",
+   "question": "Welche konkrete Entscheidung könnte „Verständlichkeit einer kindlichen Perspektive“ bei Kiko in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verständlichkeit einer kindlichen Perspektive“ bei Kiko haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-015",
+   "question": "Wie lässt sich „Verständlichkeit einer kindlichen Perspektive“ bei Kiko zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-016",
+   "question": "Welche Alternativen sollte der Autor bei Kiko für „Verständlichkeit einer kindlichen Perspektive“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-017",
+   "question": "Was bedeutet bei Kiko der Themenpunkt „Wünsche jenseits des Trauma-Symbols“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-018",
+   "question": "Welche Lesarten auf der Seite zu Kiko stützen oder begrenzen „Wünsche jenseits des Trauma-Symbols“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-019",
+   "question": "Welcher Grenzfall würde bei Kiko die Annahmen über „Wünsche jenseits des Trauma-Symbols“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-020",
+   "question": "Wer könnte innerhalb des Romans bei Kiko etwas über „Wünsche jenseits des Trauma-Symbols“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-021",
+   "question": "Welche konkrete Entscheidung könnte „Wünsche jenseits des Trauma-Symbols“ bei Kiko in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wünsche jenseits des Trauma-Symbols“ bei Kiko haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-023",
+   "question": "Wie lässt sich „Wünsche jenseits des Trauma-Symbols“ bei Kiko zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-024",
+   "question": "Welche Alternativen sollte der Autor bei Kiko für „Wünsche jenseits des Trauma-Symbols“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-025",
+   "question": "Was bedeutet bei Kiko der Themenpunkt „Zeitpunkt des erkennbaren Auftretens“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-026",
+   "question": "Welche Lesarten auf der Seite zu Kiko stützen oder begrenzen „Zeitpunkt des erkennbaren Auftretens“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-027",
+   "question": "Welcher Grenzfall würde bei Kiko die Annahmen über „Zeitpunkt des erkennbaren Auftretens“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-028",
+   "question": "Wer könnte innerhalb des Romans bei Kiko etwas über „Zeitpunkt des erkennbaren Auftretens“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-029",
+   "question": "Welche konkrete Entscheidung könnte „Zeitpunkt des erkennbaren Auftretens“ bei Kiko in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zeitpunkt des erkennbaren Auftretens“ bei Kiko haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-031",
+   "question": "Wie lässt sich „Zeitpunkt des erkennbaren Auftretens“ bei Kiko zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-032",
+   "question": "Welche Alternativen sollte der Autor bei Kiko für „Zeitpunkt des erkennbaren Auftretens“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-033",
+   "question": "Was bedeutet bei Kiko der Themenpunkt „Wandel ohne Verlust der kindlichen Stimme“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-034",
+   "question": "Welche Lesarten auf der Seite zu Kiko stützen oder begrenzen „Wandel ohne Verlust der kindlichen Stimme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-035",
+   "question": "Welcher Grenzfall würde bei Kiko die Annahmen über „Wandel ohne Verlust der kindlichen Stimme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-036",
+   "question": "Wer könnte innerhalb des Romans bei Kiko etwas über „Wandel ohne Verlust der kindlichen Stimme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-037",
+   "question": "Welche konkrete Entscheidung könnte „Wandel ohne Verlust der kindlichen Stimme“ bei Kiko in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wandel ohne Verlust der kindlichen Stimme“ bei Kiko haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-039",
+   "question": "Wie lässt sich „Wandel ohne Verlust der kindlichen Stimme“ bei Kiko zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-040",
+   "question": "Welche Alternativen sollte der Autor bei Kiko für „Wandel ohne Verlust der kindlichen Stimme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-kiko-041",
+   "question": "Wo unterscheiden sich Kiko und Lia, wenn man sie unter dem Gesichtspunkt „Erstarrung als Schutzreaktion“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-042",
+   "question": "Welche Quelle verbindet Kiko mit Lia in Bezug auf „Erstarrung als Schutzreaktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-043",
+   "question": "Welche Grenzen aus der Seite zu Lia müsste eine Deutung von Kiko unter „Erstarrung als Schutzreaktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-044",
+   "question": "Wie könnte sich das Wissen über Kiko vom Wissen über Lia unterscheiden, wenn „Erstarrung als Schutzreaktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kiko und Lia bei „Erstarrung als Schutzreaktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-046",
+   "question": "Falls Kiko im Hinblick auf „Erstarrung als Schutzreaktion“ anders festgelegt wird: Welche Aussagen über Lia müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kiko und Lia bei „Erstarrung als Schutzreaktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-048",
+   "question": "Braucht der Roman eine Verbindung von Kiko und Lia bei „Erstarrung als Schutzreaktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-049",
+   "question": "In welchem denkbaren Fall könnte Kiko bestehen, ohne dass Lia dieselbe Funktion übernimmt, und was würde das für „Erstarrung als Schutzreaktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kiko und Lia in Bezug auf „Erstarrung als Schutzreaktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-051",
+   "question": "Welche ältere Lesart von Kiko oder Lia könnte die Gegenüberstellung unter „Erstarrung als Schutzreaktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kiko und Lia unter „Erstarrung als Schutzreaktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kiko",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-kiko-053",
+   "question": "Wo unterscheiden sich Kiko und Moros, wenn man sie unter dem Gesichtspunkt „Verständlichkeit einer kindlichen Perspektive“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-054",
+   "question": "Welche Quelle verbindet Kiko mit Moros in Bezug auf „Verständlichkeit einer kindlichen Perspektive“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-055",
+   "question": "Welche Grenzen aus der Seite zu Moros müsste eine Deutung von Kiko unter „Verständlichkeit einer kindlichen Perspektive“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-056",
+   "question": "Wie könnte sich das Wissen über Kiko vom Wissen über Moros unterscheiden, wenn „Verständlichkeit einer kindlichen Perspektive“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kiko und Moros bei „Verständlichkeit einer kindlichen Perspektive“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-058",
+   "question": "Falls Kiko im Hinblick auf „Verständlichkeit einer kindlichen Perspektive“ anders festgelegt wird: Welche Aussagen über Moros müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kiko und Moros bei „Verständlichkeit einer kindlichen Perspektive“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-060",
+   "question": "Braucht der Roman eine Verbindung von Kiko und Moros bei „Verständlichkeit einer kindlichen Perspektive“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-061",
+   "question": "In welchem denkbaren Fall könnte Kiko bestehen, ohne dass Moros dieselbe Funktion übernimmt, und was würde das für „Verständlichkeit einer kindlichen Perspektive“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kiko und Moros in Bezug auf „Verständlichkeit einer kindlichen Perspektive“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-063",
+   "question": "Welche ältere Lesart von Kiko oder Moros könnte die Gegenüberstellung unter „Verständlichkeit einer kindlichen Perspektive“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kiko und Moros unter „Verständlichkeit einer kindlichen Perspektive“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kiko",
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-kiko-065",
+   "question": "Wo unterscheiden sich Kiko und Kael, wenn man sie unter dem Gesichtspunkt „Wünsche jenseits des Trauma-Symbols“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-066",
+   "question": "Welche Quelle verbindet Kiko mit Kael in Bezug auf „Wünsche jenseits des Trauma-Symbols“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Kiko unter „Wünsche jenseits des Trauma-Symbols“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-068",
+   "question": "Wie könnte sich das Wissen über Kiko vom Wissen über Kael unterscheiden, wenn „Wünsche jenseits des Trauma-Symbols“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kiko und Kael bei „Wünsche jenseits des Trauma-Symbols“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-070",
+   "question": "Falls Kiko im Hinblick auf „Wünsche jenseits des Trauma-Symbols“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kiko und Kael bei „Wünsche jenseits des Trauma-Symbols“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-072",
+   "question": "Braucht der Roman eine Verbindung von Kiko und Kael bei „Wünsche jenseits des Trauma-Symbols“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-073",
+   "question": "In welchem denkbaren Fall könnte Kiko bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Wünsche jenseits des Trauma-Symbols“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kiko und Kael in Bezug auf „Wünsche jenseits des Trauma-Symbols“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-075",
+   "question": "Welche ältere Lesart von Kiko oder Kael könnte die Gegenüberstellung unter „Wünsche jenseits des Trauma-Symbols“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kiko und Kael unter „Wünsche jenseits des Trauma-Symbols“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kiko",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kiko-077",
+   "question": "Wo unterscheiden sich Kiko und Chaitin-Konstante, wenn man sie unter dem Gesichtspunkt „Zeitpunkt des erkennbaren Auftretens“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-078",
+   "question": "Welche Quelle verbindet Kiko mit Chaitin-Konstante in Bezug auf „Zeitpunkt des erkennbaren Auftretens“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-079",
+   "question": "Welche Grenzen aus der Seite zu Chaitin-Konstante müsste eine Deutung von Kiko unter „Zeitpunkt des erkennbaren Auftretens“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-080",
+   "question": "Wie könnte sich das Wissen über Kiko vom Wissen über Chaitin-Konstante unterscheiden, wenn „Zeitpunkt des erkennbaren Auftretens“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kiko und Chaitin-Konstante bei „Zeitpunkt des erkennbaren Auftretens“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-082",
+   "question": "Falls Kiko im Hinblick auf „Zeitpunkt des erkennbaren Auftretens“ anders festgelegt wird: Welche Aussagen über Chaitin-Konstante müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kiko und Chaitin-Konstante bei „Zeitpunkt des erkennbaren Auftretens“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-084",
+   "question": "Braucht der Roman eine Verbindung von Kiko und Chaitin-Konstante bei „Zeitpunkt des erkennbaren Auftretens“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-085",
+   "question": "In welchem denkbaren Fall könnte Kiko bestehen, ohne dass Chaitin-Konstante dieselbe Funktion übernimmt, und was würde das für „Zeitpunkt des erkennbaren Auftretens“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kiko und Chaitin-Konstante in Bezug auf „Zeitpunkt des erkennbaren Auftretens“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-087",
+   "question": "Welche ältere Lesart von Kiko oder Chaitin-Konstante könnte die Gegenüberstellung unter „Zeitpunkt des erkennbaren Auftretens“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kiko und Chaitin-Konstante unter „Zeitpunkt des erkennbaren Auftretens“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kiko",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-kiko-089",
+   "question": "Wo unterscheiden sich Kiko und Alters, wenn man sie unter dem Gesichtspunkt „Wandel ohne Verlust der kindlichen Stimme“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-090",
+   "question": "Welche Quelle verbindet Kiko mit Alters in Bezug auf „Wandel ohne Verlust der kindlichen Stimme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Kiko unter „Wandel ohne Verlust der kindlichen Stimme“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-092",
+   "question": "Wie könnte sich das Wissen über Kiko vom Wissen über Alters unterscheiden, wenn „Wandel ohne Verlust der kindlichen Stimme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kiko und Alters bei „Wandel ohne Verlust der kindlichen Stimme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-094",
+   "question": "Falls Kiko im Hinblick auf „Wandel ohne Verlust der kindlichen Stimme“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kiko und Alters bei „Wandel ohne Verlust der kindlichen Stimme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-096",
+   "question": "Braucht der Roman eine Verbindung von Kiko und Alters bei „Wandel ohne Verlust der kindlichen Stimme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-097",
+   "question": "In welchem denkbaren Fall könnte Kiko bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Wandel ohne Verlust der kindlichen Stimme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kiko und Alters in Bezug auf „Wandel ohne Verlust der kindlichen Stimme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-099",
+   "question": "Welche ältere Lesart von Kiko oder Alters könnte die Gegenüberstellung unter „Wandel ohne Verlust der kindlichen Stimme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kiko-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kiko und Alters unter „Wandel ohne Verlust der kindlichen Stimme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kiko",
+    "alters"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "vortex",
+ "title": "Vortex",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Reihenfolge und Zahl der Wendungsbeats",
+  "Fortlauf der beiden Storyforms",
+  "Verbindung zwischen Erkenntnis und körperlicher Handlung",
+  "Zeitpunkt der inneren Rückfrage",
+  "Wärmebudget als endliche Grenze"
+ ],
+ "basis": {
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "mnemosyne-server-architektur": {
+   "title": "Mnemosyne-Server-Architektur",
+   "path": "Wiki/candidates/mnemosyne-server-architektur.md",
+   "hash": "b1bfea5cc7f5bd5cb90eef8569b085e290042fc0affb9a4c10e1533e8ac62820"
+  },
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-vortex-001",
+   "question": "Welche körperlich ausgeführte Handlung verbindet Kaels innere Rückfrage mit AEGIS' endlichem Wärmebudget?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-002",
+   "question": "Welche Lesarten auf der Seite zu Vortex stützen oder begrenzen „Reihenfolge und Zahl der Wendungsbeats“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-003",
+   "question": "Welcher Grenzfall würde bei Vortex die Annahmen über „Reihenfolge und Zahl der Wendungsbeats“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-004",
+   "question": "Wer könnte innerhalb des Romans bei Vortex etwas über „Reihenfolge und Zahl der Wendungsbeats“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-005",
+   "question": "Welche konkrete Entscheidung könnte „Reihenfolge und Zahl der Wendungsbeats“ bei Vortex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Reihenfolge und Zahl der Wendungsbeats“ bei Vortex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-007",
+   "question": "Wie lässt sich „Reihenfolge und Zahl der Wendungsbeats“ bei Vortex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-008",
+   "question": "Welche Alternativen sollte der Autor bei Vortex für „Reihenfolge und Zahl der Wendungsbeats“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-009",
+   "question": "Was bedeutet bei Vortex der Themenpunkt „Fortlauf der beiden Storyforms“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-010",
+   "question": "Welche Lesarten auf der Seite zu Vortex stützen oder begrenzen „Fortlauf der beiden Storyforms“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-011",
+   "question": "Welcher Grenzfall würde bei Vortex die Annahmen über „Fortlauf der beiden Storyforms“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-012",
+   "question": "Wer könnte innerhalb des Romans bei Vortex etwas über „Fortlauf der beiden Storyforms“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-013",
+   "question": "Welche konkrete Entscheidung könnte „Fortlauf der beiden Storyforms“ bei Vortex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortlauf der beiden Storyforms“ bei Vortex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-015",
+   "question": "Wie lässt sich „Fortlauf der beiden Storyforms“ bei Vortex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-016",
+   "question": "Welche Alternativen sollte der Autor bei Vortex für „Fortlauf der beiden Storyforms“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-017",
+   "question": "Was bedeutet bei Vortex der Themenpunkt „Verbindung zwischen Erkenntnis und körperlicher Handlung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-018",
+   "question": "Welche Lesarten auf der Seite zu Vortex stützen oder begrenzen „Verbindung zwischen Erkenntnis und körperlicher Handlung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-019",
+   "question": "Welcher Grenzfall würde bei Vortex die Annahmen über „Verbindung zwischen Erkenntnis und körperlicher Handlung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-020",
+   "question": "Wer könnte innerhalb des Romans bei Vortex etwas über „Verbindung zwischen Erkenntnis und körperlicher Handlung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-021",
+   "question": "Welche konkrete Entscheidung könnte „Verbindung zwischen Erkenntnis und körperlicher Handlung“ bei Vortex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verbindung zwischen Erkenntnis und körperlicher Handlung“ bei Vortex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-023",
+   "question": "Wie lässt sich „Verbindung zwischen Erkenntnis und körperlicher Handlung“ bei Vortex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-024",
+   "question": "Welche Alternativen sollte der Autor bei Vortex für „Verbindung zwischen Erkenntnis und körperlicher Handlung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-025",
+   "question": "Was bedeutet bei Vortex der Themenpunkt „Zeitpunkt der inneren Rückfrage“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-026",
+   "question": "Welche Lesarten auf der Seite zu Vortex stützen oder begrenzen „Zeitpunkt der inneren Rückfrage“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-027",
+   "question": "Welcher Grenzfall würde bei Vortex die Annahmen über „Zeitpunkt der inneren Rückfrage“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-028",
+   "question": "Wer könnte innerhalb des Romans bei Vortex etwas über „Zeitpunkt der inneren Rückfrage“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-029",
+   "question": "Welche konkrete Entscheidung könnte „Zeitpunkt der inneren Rückfrage“ bei Vortex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zeitpunkt der inneren Rückfrage“ bei Vortex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-031",
+   "question": "Wie lässt sich „Zeitpunkt der inneren Rückfrage“ bei Vortex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-032",
+   "question": "Welche Alternativen sollte der Autor bei Vortex für „Zeitpunkt der inneren Rückfrage“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-033",
+   "question": "Was bedeutet bei Vortex der Themenpunkt „Wärmebudget als endliche Grenze“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-034",
+   "question": "Welche Lesarten auf der Seite zu Vortex stützen oder begrenzen „Wärmebudget als endliche Grenze“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-035",
+   "question": "Welcher Grenzfall würde bei Vortex die Annahmen über „Wärmebudget als endliche Grenze“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-036",
+   "question": "Wer könnte innerhalb des Romans bei Vortex etwas über „Wärmebudget als endliche Grenze“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-037",
+   "question": "Welche konkrete Entscheidung könnte „Wärmebudget als endliche Grenze“ bei Vortex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wärmebudget als endliche Grenze“ bei Vortex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-039",
+   "question": "Wie lässt sich „Wärmebudget als endliche Grenze“ bei Vortex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-040",
+   "question": "Welche Alternativen sollte der Autor bei Vortex für „Wärmebudget als endliche Grenze“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-vortex-041",
+   "question": "Wo unterscheiden sich Vortex und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Reihenfolge und Zahl der Wendungsbeats“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-042",
+   "question": "Welche Quelle verbindet Vortex mit Truth-Rotation in Bezug auf „Reihenfolge und Zahl der Wendungsbeats“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-043",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Vortex unter „Reihenfolge und Zahl der Wendungsbeats“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-044",
+   "question": "Wie könnte sich das Wissen über Vortex vom Wissen über Truth-Rotation unterscheiden, wenn „Reihenfolge und Zahl der Wendungsbeats“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vortex und Truth-Rotation bei „Reihenfolge und Zahl der Wendungsbeats“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-046",
+   "question": "Falls Vortex im Hinblick auf „Reihenfolge und Zahl der Wendungsbeats“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vortex und Truth-Rotation bei „Reihenfolge und Zahl der Wendungsbeats“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-048",
+   "question": "Braucht der Roman eine Verbindung von Vortex und Truth-Rotation bei „Reihenfolge und Zahl der Wendungsbeats“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-049",
+   "question": "In welchem denkbaren Fall könnte Vortex bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Reihenfolge und Zahl der Wendungsbeats“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-050",
+   "question": "Welche Kosten könnte eine Verbindung von Vortex und Truth-Rotation in Bezug auf „Reihenfolge und Zahl der Wendungsbeats“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-051",
+   "question": "Welche ältere Lesart von Vortex oder Truth-Rotation könnte die Gegenüberstellung unter „Reihenfolge und Zahl der Wendungsbeats“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vortex und Truth-Rotation unter „Reihenfolge und Zahl der Wendungsbeats“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vortex",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-vortex-053",
+   "question": "Wo unterscheiden sich Vortex und AEGIS, wenn man sie unter dem Gesichtspunkt „Fortlauf der beiden Storyforms“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-054",
+   "question": "Welche Quelle verbindet Vortex mit AEGIS in Bezug auf „Fortlauf der beiden Storyforms“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-055",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Vortex unter „Fortlauf der beiden Storyforms“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-056",
+   "question": "Wie könnte sich das Wissen über Vortex vom Wissen über AEGIS unterscheiden, wenn „Fortlauf der beiden Storyforms“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vortex und AEGIS bei „Fortlauf der beiden Storyforms“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-058",
+   "question": "Falls Vortex im Hinblick auf „Fortlauf der beiden Storyforms“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vortex und AEGIS bei „Fortlauf der beiden Storyforms“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-060",
+   "question": "Braucht der Roman eine Verbindung von Vortex und AEGIS bei „Fortlauf der beiden Storyforms“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-061",
+   "question": "In welchem denkbaren Fall könnte Vortex bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Fortlauf der beiden Storyforms“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-062",
+   "question": "Welche Kosten könnte eine Verbindung von Vortex und AEGIS in Bezug auf „Fortlauf der beiden Storyforms“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-063",
+   "question": "Welche ältere Lesart von Vortex oder AEGIS könnte die Gegenüberstellung unter „Fortlauf der beiden Storyforms“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vortex und AEGIS unter „Fortlauf der beiden Storyforms“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vortex",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vortex-065",
+   "question": "Wo unterscheiden sich Vortex und Kael, wenn man sie unter dem Gesichtspunkt „Verbindung zwischen Erkenntnis und körperlicher Handlung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-066",
+   "question": "Welche Quelle verbindet Vortex mit Kael in Bezug auf „Verbindung zwischen Erkenntnis und körperlicher Handlung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Vortex unter „Verbindung zwischen Erkenntnis und körperlicher Handlung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-068",
+   "question": "Wie könnte sich das Wissen über Vortex vom Wissen über Kael unterscheiden, wenn „Verbindung zwischen Erkenntnis und körperlicher Handlung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vortex und Kael bei „Verbindung zwischen Erkenntnis und körperlicher Handlung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-070",
+   "question": "Falls Vortex im Hinblick auf „Verbindung zwischen Erkenntnis und körperlicher Handlung“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vortex und Kael bei „Verbindung zwischen Erkenntnis und körperlicher Handlung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-072",
+   "question": "Braucht der Roman eine Verbindung von Vortex und Kael bei „Verbindung zwischen Erkenntnis und körperlicher Handlung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-073",
+   "question": "In welchem denkbaren Fall könnte Vortex bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Verbindung zwischen Erkenntnis und körperlicher Handlung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-074",
+   "question": "Welche Kosten könnte eine Verbindung von Vortex und Kael in Bezug auf „Verbindung zwischen Erkenntnis und körperlicher Handlung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-075",
+   "question": "Welche ältere Lesart von Vortex oder Kael könnte die Gegenüberstellung unter „Verbindung zwischen Erkenntnis und körperlicher Handlung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vortex und Kael unter „Verbindung zwischen Erkenntnis und körperlicher Handlung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vortex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vortex-077",
+   "question": "Wo unterscheiden sich Vortex und Mnemosyne-Server-Architektur, wenn man sie unter dem Gesichtspunkt „Zeitpunkt der inneren Rückfrage“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-078",
+   "question": "Welche Quelle verbindet Vortex mit Mnemosyne-Server-Architektur in Bezug auf „Zeitpunkt der inneren Rückfrage“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-079",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne-Server-Architektur müsste eine Deutung von Vortex unter „Zeitpunkt der inneren Rückfrage“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-080",
+   "question": "Wie könnte sich das Wissen über Vortex vom Wissen über Mnemosyne-Server-Architektur unterscheiden, wenn „Zeitpunkt der inneren Rückfrage“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vortex und Mnemosyne-Server-Architektur bei „Zeitpunkt der inneren Rückfrage“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-082",
+   "question": "Falls Vortex im Hinblick auf „Zeitpunkt der inneren Rückfrage“ anders festgelegt wird: Welche Aussagen über Mnemosyne-Server-Architektur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vortex und Mnemosyne-Server-Architektur bei „Zeitpunkt der inneren Rückfrage“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-084",
+   "question": "Braucht der Roman eine Verbindung von Vortex und Mnemosyne-Server-Architektur bei „Zeitpunkt der inneren Rückfrage“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-085",
+   "question": "In welchem denkbaren Fall könnte Vortex bestehen, ohne dass Mnemosyne-Server-Architektur dieselbe Funktion übernimmt, und was würde das für „Zeitpunkt der inneren Rückfrage“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-086",
+   "question": "Welche Kosten könnte eine Verbindung von Vortex und Mnemosyne-Server-Architektur in Bezug auf „Zeitpunkt der inneren Rückfrage“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-087",
+   "question": "Welche ältere Lesart von Vortex oder Mnemosyne-Server-Architektur könnte die Gegenüberstellung unter „Zeitpunkt der inneren Rückfrage“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vortex und Mnemosyne-Server-Architektur unter „Zeitpunkt der inneren Rückfrage“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vortex",
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-089",
+   "question": "Wo unterscheiden sich Vortex und Landauer-Signatur, wenn man sie unter dem Gesichtspunkt „Wärmebudget als endliche Grenze“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-090",
+   "question": "Welche Quelle verbindet Vortex mit Landauer-Signatur in Bezug auf „Wärmebudget als endliche Grenze“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-091",
+   "question": "Welche Grenzen aus der Seite zu Landauer-Signatur müsste eine Deutung von Vortex unter „Wärmebudget als endliche Grenze“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-092",
+   "question": "Wie könnte sich das Wissen über Vortex vom Wissen über Landauer-Signatur unterscheiden, wenn „Wärmebudget als endliche Grenze“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vortex und Landauer-Signatur bei „Wärmebudget als endliche Grenze“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-094",
+   "question": "Falls Vortex im Hinblick auf „Wärmebudget als endliche Grenze“ anders festgelegt wird: Welche Aussagen über Landauer-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vortex und Landauer-Signatur bei „Wärmebudget als endliche Grenze“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-096",
+   "question": "Braucht der Roman eine Verbindung von Vortex und Landauer-Signatur bei „Wärmebudget als endliche Grenze“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-097",
+   "question": "In welchem denkbaren Fall könnte Vortex bestehen, ohne dass Landauer-Signatur dieselbe Funktion übernimmt, und was würde das für „Wärmebudget als endliche Grenze“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-098",
+   "question": "Welche Kosten könnte eine Verbindung von Vortex und Landauer-Signatur in Bezug auf „Wärmebudget als endliche Grenze“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-099",
+   "question": "Welche ältere Lesart von Vortex oder Landauer-Signatur könnte die Gegenüberstellung unter „Wärmebudget als endliche Grenze“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-vortex-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vortex und Landauer-Signatur unter „Wärmebudget als endliche Grenze“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vortex",
+    "landauer-signatur"
+   ]
+  }
+ ]
+}

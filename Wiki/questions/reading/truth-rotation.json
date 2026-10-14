@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "truth-rotation",
+ "title": "Truth-Rotation",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unterschied zwischen Inversion und Erkenntnismoment",
+  "Wandel der Zuordnung von Wahrheit und Kernel",
+  "Vorbereitung des Perspektivwechsels",
+  "Folgen für bereits gelesene Szenen",
+  "Grenze zwischen Enthüllung und Behauptung"
+ ],
+ "basis": {
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  },
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "formel-inversion": {
+   "title": "Formel-Inversion",
+   "path": "Wiki/candidates/formel-inversion.md",
+   "hash": "dc66354ebd196afc9ce831cf9a83f9ad516f3ca65e773f27ca3f8475d00ca000"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-truth-rotation-001",
+   "question": "Welche frühere Szene muss nach der Truth-Rotation anders verstanden werden, damit die Umkehr mehr als eine neue Behauptung ist?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-002",
+   "question": "Welche Lesarten auf der Seite zu Truth-Rotation stützen oder begrenzen „Unterschied zwischen Inversion und Erkenntnismoment“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-003",
+   "question": "Welcher Grenzfall würde bei Truth-Rotation die Annahmen über „Unterschied zwischen Inversion und Erkenntnismoment“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-004",
+   "question": "Wer könnte innerhalb des Romans bei Truth-Rotation etwas über „Unterschied zwischen Inversion und Erkenntnismoment“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-005",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Inversion und Erkenntnismoment“ bei Truth-Rotation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Inversion und Erkenntnismoment“ bei Truth-Rotation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-007",
+   "question": "Wie lässt sich „Unterschied zwischen Inversion und Erkenntnismoment“ bei Truth-Rotation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-008",
+   "question": "Welche Alternativen sollte der Autor bei Truth-Rotation für „Unterschied zwischen Inversion und Erkenntnismoment“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-009",
+   "question": "Was bedeutet bei Truth-Rotation der Themenpunkt „Wandel der Zuordnung von Wahrheit und Kernel“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-010",
+   "question": "Welche Lesarten auf der Seite zu Truth-Rotation stützen oder begrenzen „Wandel der Zuordnung von Wahrheit und Kernel“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-011",
+   "question": "Welcher Grenzfall würde bei Truth-Rotation die Annahmen über „Wandel der Zuordnung von Wahrheit und Kernel“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-012",
+   "question": "Wer könnte innerhalb des Romans bei Truth-Rotation etwas über „Wandel der Zuordnung von Wahrheit und Kernel“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-013",
+   "question": "Welche konkrete Entscheidung könnte „Wandel der Zuordnung von Wahrheit und Kernel“ bei Truth-Rotation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wandel der Zuordnung von Wahrheit und Kernel“ bei Truth-Rotation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-015",
+   "question": "Wie lässt sich „Wandel der Zuordnung von Wahrheit und Kernel“ bei Truth-Rotation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-016",
+   "question": "Welche Alternativen sollte der Autor bei Truth-Rotation für „Wandel der Zuordnung von Wahrheit und Kernel“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-017",
+   "question": "Was bedeutet bei Truth-Rotation der Themenpunkt „Vorbereitung des Perspektivwechsels“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-018",
+   "question": "Welche Lesarten auf der Seite zu Truth-Rotation stützen oder begrenzen „Vorbereitung des Perspektivwechsels“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-019",
+   "question": "Welcher Grenzfall würde bei Truth-Rotation die Annahmen über „Vorbereitung des Perspektivwechsels“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-020",
+   "question": "Wer könnte innerhalb des Romans bei Truth-Rotation etwas über „Vorbereitung des Perspektivwechsels“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-021",
+   "question": "Welche konkrete Entscheidung könnte „Vorbereitung des Perspektivwechsels“ bei Truth-Rotation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Vorbereitung des Perspektivwechsels“ bei Truth-Rotation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-023",
+   "question": "Wie lässt sich „Vorbereitung des Perspektivwechsels“ bei Truth-Rotation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-024",
+   "question": "Welche Alternativen sollte der Autor bei Truth-Rotation für „Vorbereitung des Perspektivwechsels“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-025",
+   "question": "Was bedeutet bei Truth-Rotation der Themenpunkt „Folgen für bereits gelesene Szenen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-026",
+   "question": "Welche Lesarten auf der Seite zu Truth-Rotation stützen oder begrenzen „Folgen für bereits gelesene Szenen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-027",
+   "question": "Welcher Grenzfall würde bei Truth-Rotation die Annahmen über „Folgen für bereits gelesene Szenen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-028",
+   "question": "Wer könnte innerhalb des Romans bei Truth-Rotation etwas über „Folgen für bereits gelesene Szenen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-029",
+   "question": "Welche konkrete Entscheidung könnte „Folgen für bereits gelesene Szenen“ bei Truth-Rotation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen für bereits gelesene Szenen“ bei Truth-Rotation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-031",
+   "question": "Wie lässt sich „Folgen für bereits gelesene Szenen“ bei Truth-Rotation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-032",
+   "question": "Welche Alternativen sollte der Autor bei Truth-Rotation für „Folgen für bereits gelesene Szenen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-033",
+   "question": "Was bedeutet bei Truth-Rotation der Themenpunkt „Grenze zwischen Enthüllung und Behauptung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-034",
+   "question": "Welche Lesarten auf der Seite zu Truth-Rotation stützen oder begrenzen „Grenze zwischen Enthüllung und Behauptung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-035",
+   "question": "Welcher Grenzfall würde bei Truth-Rotation die Annahmen über „Grenze zwischen Enthüllung und Behauptung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-036",
+   "question": "Wer könnte innerhalb des Romans bei Truth-Rotation etwas über „Grenze zwischen Enthüllung und Behauptung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Enthüllung und Behauptung“ bei Truth-Rotation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Enthüllung und Behauptung“ bei Truth-Rotation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-039",
+   "question": "Wie lässt sich „Grenze zwischen Enthüllung und Behauptung“ bei Truth-Rotation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-040",
+   "question": "Welche Alternativen sollte der Autor bei Truth-Rotation für „Grenze zwischen Enthüllung und Behauptung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-041",
+   "question": "Wo unterscheiden sich Truth-Rotation und Dual-Kernel-Theorie (DKT), wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Inversion und Erkenntnismoment“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-042",
+   "question": "Welche Quelle verbindet Truth-Rotation mit Dual-Kernel-Theorie (DKT) in Bezug auf „Unterschied zwischen Inversion und Erkenntnismoment“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-043",
+   "question": "Welche Grenzen aus der Seite zu Dual-Kernel-Theorie (DKT) müsste eine Deutung von Truth-Rotation unter „Unterschied zwischen Inversion und Erkenntnismoment“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-044",
+   "question": "Wie könnte sich das Wissen über Truth-Rotation vom Wissen über Dual-Kernel-Theorie (DKT) unterscheiden, wenn „Unterschied zwischen Inversion und Erkenntnismoment“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Truth-Rotation und Dual-Kernel-Theorie (DKT) bei „Unterschied zwischen Inversion und Erkenntnismoment“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-046",
+   "question": "Falls Truth-Rotation im Hinblick auf „Unterschied zwischen Inversion und Erkenntnismoment“ anders festgelegt wird: Welche Aussagen über Dual-Kernel-Theorie (DKT) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Truth-Rotation und Dual-Kernel-Theorie (DKT) bei „Unterschied zwischen Inversion und Erkenntnismoment“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-048",
+   "question": "Braucht der Roman eine Verbindung von Truth-Rotation und Dual-Kernel-Theorie (DKT) bei „Unterschied zwischen Inversion und Erkenntnismoment“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-049",
+   "question": "In welchem denkbaren Fall könnte Truth-Rotation bestehen, ohne dass Dual-Kernel-Theorie (DKT) dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Inversion und Erkenntnismoment“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-050",
+   "question": "Welche Kosten könnte eine Verbindung von Truth-Rotation und Dual-Kernel-Theorie (DKT) in Bezug auf „Unterschied zwischen Inversion und Erkenntnismoment“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-051",
+   "question": "Welche ältere Lesart von Truth-Rotation oder Dual-Kernel-Theorie (DKT) könnte die Gegenüberstellung unter „Unterschied zwischen Inversion und Erkenntnismoment“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Truth-Rotation und Dual-Kernel-Theorie (DKT) unter „Unterschied zwischen Inversion und Erkenntnismoment“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "truth-rotation",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-053",
+   "question": "Wo unterscheiden sich Truth-Rotation und AEGIS, wenn man sie unter dem Gesichtspunkt „Wandel der Zuordnung von Wahrheit und Kernel“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-054",
+   "question": "Welche Quelle verbindet Truth-Rotation mit AEGIS in Bezug auf „Wandel der Zuordnung von Wahrheit und Kernel“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-055",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Truth-Rotation unter „Wandel der Zuordnung von Wahrheit und Kernel“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-056",
+   "question": "Wie könnte sich das Wissen über Truth-Rotation vom Wissen über AEGIS unterscheiden, wenn „Wandel der Zuordnung von Wahrheit und Kernel“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Truth-Rotation und AEGIS bei „Wandel der Zuordnung von Wahrheit und Kernel“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-058",
+   "question": "Falls Truth-Rotation im Hinblick auf „Wandel der Zuordnung von Wahrheit und Kernel“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Truth-Rotation und AEGIS bei „Wandel der Zuordnung von Wahrheit und Kernel“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-060",
+   "question": "Braucht der Roman eine Verbindung von Truth-Rotation und AEGIS bei „Wandel der Zuordnung von Wahrheit und Kernel“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-061",
+   "question": "In welchem denkbaren Fall könnte Truth-Rotation bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Wandel der Zuordnung von Wahrheit und Kernel“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-062",
+   "question": "Welche Kosten könnte eine Verbindung von Truth-Rotation und AEGIS in Bezug auf „Wandel der Zuordnung von Wahrheit und Kernel“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-063",
+   "question": "Welche ältere Lesart von Truth-Rotation oder AEGIS könnte die Gegenüberstellung unter „Wandel der Zuordnung von Wahrheit und Kernel“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Truth-Rotation und AEGIS unter „Wandel der Zuordnung von Wahrheit und Kernel“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "truth-rotation",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-065",
+   "question": "Wo unterscheiden sich Truth-Rotation und Vortex, wenn man sie unter dem Gesichtspunkt „Vorbereitung des Perspektivwechsels“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-066",
+   "question": "Welche Quelle verbindet Truth-Rotation mit Vortex in Bezug auf „Vorbereitung des Perspektivwechsels“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-067",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Truth-Rotation unter „Vorbereitung des Perspektivwechsels“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-068",
+   "question": "Wie könnte sich das Wissen über Truth-Rotation vom Wissen über Vortex unterscheiden, wenn „Vorbereitung des Perspektivwechsels“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Truth-Rotation und Vortex bei „Vorbereitung des Perspektivwechsels“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-070",
+   "question": "Falls Truth-Rotation im Hinblick auf „Vorbereitung des Perspektivwechsels“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Truth-Rotation und Vortex bei „Vorbereitung des Perspektivwechsels“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-072",
+   "question": "Braucht der Roman eine Verbindung von Truth-Rotation und Vortex bei „Vorbereitung des Perspektivwechsels“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-073",
+   "question": "In welchem denkbaren Fall könnte Truth-Rotation bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Vorbereitung des Perspektivwechsels“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-074",
+   "question": "Welche Kosten könnte eine Verbindung von Truth-Rotation und Vortex in Bezug auf „Vorbereitung des Perspektivwechsels“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-075",
+   "question": "Welche ältere Lesart von Truth-Rotation oder Vortex könnte die Gegenüberstellung unter „Vorbereitung des Perspektivwechsels“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Truth-Rotation und Vortex unter „Vorbereitung des Perspektivwechsels“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "truth-rotation",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-077",
+   "question": "Wo unterscheiden sich Truth-Rotation und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „Folgen für bereits gelesene Szenen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-078",
+   "question": "Welche Quelle verbindet Truth-Rotation mit Ouroboros-Struktur in Bezug auf „Folgen für bereits gelesene Szenen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-079",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Truth-Rotation unter „Folgen für bereits gelesene Szenen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-080",
+   "question": "Wie könnte sich das Wissen über Truth-Rotation vom Wissen über Ouroboros-Struktur unterscheiden, wenn „Folgen für bereits gelesene Szenen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Truth-Rotation und Ouroboros-Struktur bei „Folgen für bereits gelesene Szenen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-082",
+   "question": "Falls Truth-Rotation im Hinblick auf „Folgen für bereits gelesene Szenen“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Truth-Rotation und Ouroboros-Struktur bei „Folgen für bereits gelesene Szenen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-084",
+   "question": "Braucht der Roman eine Verbindung von Truth-Rotation und Ouroboros-Struktur bei „Folgen für bereits gelesene Szenen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-085",
+   "question": "In welchem denkbaren Fall könnte Truth-Rotation bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „Folgen für bereits gelesene Szenen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-086",
+   "question": "Welche Kosten könnte eine Verbindung von Truth-Rotation und Ouroboros-Struktur in Bezug auf „Folgen für bereits gelesene Szenen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-087",
+   "question": "Welche ältere Lesart von Truth-Rotation oder Ouroboros-Struktur könnte die Gegenüberstellung unter „Folgen für bereits gelesene Szenen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Truth-Rotation und Ouroboros-Struktur unter „Folgen für bereits gelesene Szenen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "truth-rotation",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-089",
+   "question": "Wo unterscheiden sich Truth-Rotation und Formel-Inversion, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Enthüllung und Behauptung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-090",
+   "question": "Welche Quelle verbindet Truth-Rotation mit Formel-Inversion in Bezug auf „Grenze zwischen Enthüllung und Behauptung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-091",
+   "question": "Welche Grenzen aus der Seite zu Formel-Inversion müsste eine Deutung von Truth-Rotation unter „Grenze zwischen Enthüllung und Behauptung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-092",
+   "question": "Wie könnte sich das Wissen über Truth-Rotation vom Wissen über Formel-Inversion unterscheiden, wenn „Grenze zwischen Enthüllung und Behauptung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Truth-Rotation und Formel-Inversion bei „Grenze zwischen Enthüllung und Behauptung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-094",
+   "question": "Falls Truth-Rotation im Hinblick auf „Grenze zwischen Enthüllung und Behauptung“ anders festgelegt wird: Welche Aussagen über Formel-Inversion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Truth-Rotation und Formel-Inversion bei „Grenze zwischen Enthüllung und Behauptung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-096",
+   "question": "Braucht der Roman eine Verbindung von Truth-Rotation und Formel-Inversion bei „Grenze zwischen Enthüllung und Behauptung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-097",
+   "question": "In welchem denkbaren Fall könnte Truth-Rotation bestehen, ohne dass Formel-Inversion dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Enthüllung und Behauptung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-098",
+   "question": "Welche Kosten könnte eine Verbindung von Truth-Rotation und Formel-Inversion in Bezug auf „Grenze zwischen Enthüllung und Behauptung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-099",
+   "question": "Welche ältere Lesart von Truth-Rotation oder Formel-Inversion könnte die Gegenüberstellung unter „Grenze zwischen Enthüllung und Behauptung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-truth-rotation-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Truth-Rotation und Formel-Inversion unter „Grenze zwischen Enthüllung und Behauptung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "truth-rotation",
+    "formel-inversion"
+   ]
+  }
+ ]
+}
