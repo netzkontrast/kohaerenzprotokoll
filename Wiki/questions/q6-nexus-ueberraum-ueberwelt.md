@@ -333,3 +333,11 @@ Stands as the Nexus in one title and the simulation as Unsere Realität / Kernwe
 The glossary reads „Die chaotische Außenwelt oder Meta-Realität, vor der AEGIS die Simulation schützt“ ^[physik-fuer-simulierte-realitaet.md:L28], and the title names the subject „Physikalische Indizien für eine Meta-Realität (AEGIS/Überwelt)“ ^[physik-fuer-simulierte-realitaet.md:L11]. `Nexus` ^[physik-fuer-simulierte-realitaet.md:#0] and `Überraum` ^[physik-fuer-simulierte-realitaet.md:#0] are not counted in the document.
 
 Stands as the Potentialmeer/Überwelt written as one outer world; its wording, recorded, the question stays open.
+
+## 2026-10-14 — `konzept-expose-schwarzschild-protokoll-optimierung`, 2025-11-25, the event-horizon exposé
+
+**The event-horizon exposé writes the Überwelt as another name for the Potentialmeer, the outer realm beyond the simulated Kernwelten, and names neither the Nexus nor the Überraum.**
+
+It writes „Jenseits der simulierten Kernwelten existiert das“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L173] the Potentialmeer, and gives „oder die Überwelt“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L173] as its other name. `Nexus` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#0] and `Überraum` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#0] are not counted in the document.
+
+Stands as the Überwelt written as the outer realm; its wording, recorded, the question stays open.
