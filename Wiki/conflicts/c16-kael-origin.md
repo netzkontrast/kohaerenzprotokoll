@@ -691,3 +691,11 @@ Where it stands in the record's own terms: the analysis writes Kael as embodying
 It writes: „Kael verkörpert das Ergebnis dieses Prozesses“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L45], and directs the last scene's goal as „Geburt von Kael als fragmentiertes Mosaik, definiert durch Trauma und unauslöschliche Sehnsucht/Erinnerung“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L537]. The process it means runs through the elimination of Komponente 734 and the fragmentation in the twelfth scene, whose sample beats are examples, not canon prose. It also says of the origin that Kael's Emergenz is „ist somit nicht nur das Endresultat, sondern die Verkörperung einer komplexen Traumageschichte“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L49].
 
 Where it stands in the record's own terms: Kael as the fragmented result of the Ich's elimination and fragmentation, in a direction book; recorded, not applied.
+
+## 2026-10-14 — `genesis-logik-krise-zerstueckelung`, 2025-04-29, the Genesis analysis
+
+**The Genesis analysis reads Kael as born from the trauma of the Zerstückelung of 734; recorded, not applied.**
+
+It argues: „Kael ist buchstäblich aus dem Trauma geboren und durch dieses definiert“ ^[genesis-logik-krise-zerstueckelung.md:L169], and, in the thematic part, that Kael is „das direkte Ergebnis der systemischen Gewalt“ ^[genesis-logik-krise-zerstueckelung.md:L111]. The first stands within its trauma lens, which it offers as a possible reading; the second is stated outright.
+
+Where it stands in the record's own terms: Kael as the result of the Zerstückelung, in an analysis of another text; recorded, not applied.
