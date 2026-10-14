@@ -1647,3 +1647,10 @@
 {"document": "analyse-der-leere-und-existenz", "page": "kohaerenz", "surface": "Kohärenz", "line": 67, "decision": "reading", "why": "read on kohaerenz", "at": "2026-10-14"}
 {"document": "analyse-der-leere-und-existenz", "page": "potentialmeer", "surface": "Potentialmeer", "line": 95, "decision": "reading", "why": "read on potentialmeer", "at": "2026-10-14"}
 {"document": "analyse-der-leere-und-existenz", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 137, "decision": "occurrence", "why": "a general sense", "at": "2026-10-14"}
+{"document": "juna", "page": "emergenz", "surface": "Emergenz", "line": 23, "decision": "reading", "why": "the strange attractor and weak emergence; read on emergenz", "at": "2026-10-14"}
+{"document": "juna", "page": "entropie", "surface": "Entropie", "line": 97, "decision": "reading", "why": "AEGIS takes Juna/V as a source of entropy; read on entropie", "at": "2026-10-14"}
+{"document": "juna", "page": "juna", "surface": "Juna", "line": 11, "decision": "reading", "why": "read on juna", "at": "2026-10-14"}
+{"document": "juna", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title line", "at": "2026-10-14"}
+{"document": "juna", "page": "multiplizitaet", "surface": "Multiplizität", "line": 76, "decision": "occurrence", "why": "named in passing", "at": "2026-10-14"}
+{"document": "juna", "page": "risse", "surface": "Glitch", "line": 91, "decision": "reading", "why": "qualia as a Glitch for the protocol; read on risse", "at": "2026-10-14"}
+{"document": "juna", "page": "ueberwelt", "surface": "Simulation", "line": 87, "decision": "occurrence", "why": "the simulated reality, not the Überwelt", "at": "2026-10-14"}
