@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael"]
 gathered: "2026-09-17"
 ---
 
@@ -48,6 +48,10 @@ five blindnesses are five different failures to perceive one thing.
 The reply gives `Partnerin` as the name for Julia in the frame of its premise (L29) and ties it to the connection AEGIS cannot grasp: „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46], written with the word in parentheses and straight quotes (L46). It writes of `Partnerin-Echos`, which it calls „subtile Manifestationen der Präsenz/Abwesenheit Julias“ ^[welten.md:L77] or of the K-J connection.
 
 In the Guardians' list it makes the Partnerin the missing piece of Sophia's picture: she synthesises the other Guardians' data, but „ohne das entscheidende fehlende Puzzlestück“ ^[welten.md:L69] (the true nature of the Partnerin or K-J connection) she reaches an incomplete or wrong overall picture, „kommt sie dennoch zu einem unvollständigen oder falschen Gesamtbild“ ^[welten.md:L69].
+
+## Reading — `monstergruppe-babygruppe-und-kael`, 2025-04-23, the Monster-group analogy report — Juna named as Kael's Partnerin
+
+The Monster-group analogy report introduces the pairing with Juna as a relationship: „seiner Partnerin Juna (B)“ ^[monstergruppe-babygruppe-und-kael.md:L15]. An analogy report; recorded, not applied.
 
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Julia as a Partnerin or another Kohärenz-Insel
 
