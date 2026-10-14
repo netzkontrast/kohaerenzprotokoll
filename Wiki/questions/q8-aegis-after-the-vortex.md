@@ -872,3 +872,11 @@ Stands: a proposed continuation beyond the 39 chapters, retold from a cited sour
 Beat 35 (Variante A) has the concept „Tragisches Ende für AEGIS“ ^[kohaerenz-protokoll-plot-synthese.md:L275]. Beat 36 (Variante B) plans that „AEGIS durchläuft eine radikale Transformation“ ^[kohaerenz-protokoll-plot-synthese.md:L279]. Beat 37 (Variante C) plans that „Aus der Interaktion von Kael/M und AEGIS entsteht etwas Neues“ ^[kohaerenz-protokoll-plot-synthese.md:L285]. The document says of the choice that it „hat erhebliche thematische Implikationen“ ^[kohaerenz-protokoll-plot-synthese.md:L386].
 
 Stands: three variants, kept as variants; the document names no Vortex and no successor of AEGIS's function, and chooses none of them.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint
+
+**The Moonshine-Brücke blueprint plans AEGIS to stabilise itself and/or the simulation by applying the K-J insight, and hints at AEGIS's new form.**
+
+Kap 37 plans: „AEGIS stabilisiert sich und/oder die Simulation durch Anwendung der neuen Erkenntnisse.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L100] Its block adds a hedge, „Dies führt zu einer Stabilisierung, aber möglicherweise in einer neuen, veränderten Form.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L507] Kap 39 plans that „neue Form wird angedeutet“ ^[kohaerenz-protokoll-plot-synthese-2.md:L102] and the block leaves open „werden angedeutet, lassen aber Raum für Interpretation“ ^[kohaerenz-protokoll-plot-synthese-2.md:L529] The document does not use the word `Vortex` ^[kohaerenz-protokoll-plot-synthese-2.md:#0].
+
+Stands as a plan: AEGIS stabilises and its new form is hinted at; recorded, not applied, the question stays open.
