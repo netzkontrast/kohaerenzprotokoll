@@ -1,0 +1,69 @@
+{
+  "document": "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+  "drive_id": "1o7A5djeqAQCbeguESp3sOqHVAIyHWThA",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 42,
+  "typographic_marks": 3,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "kapit": [
+      "Kapitel",
+      "Kapiteln",
+      "Kapitels"
+    ],
+    "alter": [
+      "Alter",
+      "Alternation"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale"
+    ],
+    "multi": [
+      "Multiplizität",
+      "Multiplizitäts"
+    ],
+    "story": [
+      "Storyform",
+      "Storyforms"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Alter",
+      "Alternation"
+    ],
+    [
+      "Gerade",
+      "Ungerade"
+    ],
+    [
+      "Kapitel",
+      "Kapiteln"
+    ],
+    [
+      "Kapitel",
+      "Kapitels"
+    ],
+    [
+      "Funktion",
+      "Funktionale"
+    ],
+    [
+      "Storyform",
+      "Storyforms"
+    ],
+    [
+      "Multiplizität",
+      "Multiplizitäts"
+    ]
+  ]
+}

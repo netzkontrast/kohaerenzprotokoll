@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 485 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 485 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 488 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 488 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -409,7 +409,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Projektplanung für Kohärenz Protokoll](drive/projektplanung-fuer-kohaerenz-protokoll.md) | 2025-12-05 | 4,214 | **read** | Kollaps-Kernel 4, Kohärenz-Kernel 3, Gödel-Gambit 3, Lex 17, Dual-Kernel-Theorie† 3, Nyx 11, Kiko 7, Argus 2 | Maximal-Plotter 8, Meta-Prompting 6, Ergosphäre 6, LeanRAG 4, Slots 4 |
 | [An Introduction to the Coherence Protocol: The War for Reality](drive/an-introduction-to-the-coherence-protocol-the-war-for-realit.md) | 2026-01-02 | 1,340 | **read** | Dual-Kernel-Theorie† 2, Nichts-Rauschen 2, Alters 2, Entropie† 4, Risse† 4, Kael 8, AEGIS 18 | Nothingness Noise 2, Garden 2, Collapse Kernel 2, Classical Logic 3, Coherence Kernel 2 |
 | [Kohärenz Protokoll: The Official Project Handbook](drive/kohaerenz-protokoll-the-official-project-handbook.md) | 2026-01-02 | 2,614 |  | Dual-Kernel-Theorie† 4, Kollaps-Kernel 2, Kohärenz-Kernel 2, TSDP 6, Guardians 2, Alters 3, Kern-Welten 4, Emergenz† 2 | Exclusionary Order 2, Slots 2, Operational Closure 2, Correspondence 2, IFS 4 |
-| [DKT_FUNDAMENT_KOHAERENZ_PROTOKOLL.md](drive/dkt-fundament-kohaerenz-protokoll-md.md) | 2026-03-26 | 3,075 |  | Persistenzgleichung 7, Coheron 14, Erason 6, Kohärenz-Kernel 27, Kollaps-Kernel 24, Dual-Kernel-Theorie 29, Juna 16, DID 3 | CSI 7, PAL 7, Erason-Ereignis 2, K₀-Druck 4, TGF 2 |
+| [DKT_FUNDAMENT_KOHAERENZ_PROTOKOLL.md](drive/dkt-fundament-kohaerenz-protokoll-md.md) | 2026-03-26 | 3,075 | **read** | Persistenzgleichung 7, Coheron 14, Erason 6, Kohärenz-Kernel 27, Kollaps-Kernel 24, Dual-Kernel-Theorie 29, Juna 16, DID 3 | CSI 7, PAL 7, Erason-Ereignis 2, K₀-Druck 4, TGF 2 |
 | [KOHAERENZ_PROTOKOLL_MASTER_INTEGRATION.md](drive/kohaerenz-protokoll-master-integration-md.md) | 2026-03-26 | 3,451 | **read** | Persistenzgleichung 5, Erason 8, Coheron 11, Kollaps-Kernel 19, Kohärenz-Kernel 20, Dual-Kernel-Theorie 20, Gödel-Gambit 3, Algorithmische Melancholie 3 | PAL 6, CSI 4, Zeugenfunktion 4, MI 7, Grenzfläche 5 |
 | [Kohärenz Protokoll: System, Realität, Leser](drive/kohaerenz-protokoll-system-realitaet-leser.md) | 2026-04-26 | 4,311 |  | Kollaps-Kernel 20, Kohärenz-Kernel 21, Dual-Kernel-Theorie† 21, Nichts-Rauschen 13, TSDP 8, Entropie 12, Überwelt 10, Kohärenz 11 | Prefrontal Cortex 8, Agency-System 12, Hypothalamus 3, Giannakopoulos 10, Zeugenfunktion 4 |
 | [Kohärenz Protokoll: Architecture Synthesis](drive/kohaerenz-protokoll-architecture-synthesis.md) | 2026-04-28 | 8,406 | **read** | Chaitin-Konstante† 5, Kollaps-Kernel 24, Kohärenz-Kernel 25, Vortex 6, Truth-Rotation 3, Dual-Kernel-Theorie† 16, Trennungsprotokoll† 3, Mosaik-Herz 2 | Zeuge-Funktion 5, Vortex-Inversion 14, Algorithmically Irreducible 3, Ergodic 5, Heuristik der Integration 5 |
@@ -631,7 +631,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll: Kapitel-Outline-Generierung](drive/kohaerenz-protokoll-kapitel-outline-generierung.md) | 2026-04-30 | 11,909 | **read** | Vortex 17, Sektor 04 5, Silas 21, Oblivion 17, Truth-Rotation 5, Telefon-Stille 3, Trennungsprotokoll 4, Alex 18 | Heuristics of Integration 40, Phoenix Collapse 40, Throughline 82, Storyform B 40, Storyform A 41 |
 | [Kohärenz Protokoll: Kapitel-Outline-Generierung](drive/kohaerenz-protokoll-kapitel-outline-generierung-2.md) | 2026-04-30 | 3,836 | **read** | Vortex 8, Silas 5, Nexus 2, Oblivion 2, Konstrukt-Stadt 5, Kollaps-Kernel 2, Kohärenz-Kernel 2, Algorithmische Melancholie 3 | Storyform A 43, Storyform B 39, RS 19, Heuristics of Integration 4, IC 15 |
 | [kohaerenz_protokoll_outline_revision_2026-05-01.md](drive/kohaerenz-protokoll-outline-revision-2026-05-01-md.md) | 2026-04-30 | 7,493 | **read** | Vortex 12, Oblivion 12, Truth-Rotation 4, Silas 12, Telefon-Stille 3, Sektor 04 2, AEGIS' four sub-functions 5, Mnemosyne 32 | Schrein 9, T-734 3, Wir-Stimme 5, ZTEM 6, Cache 11 |
-| [Kohaerenz_Protokoll_Outline_Revision_Pacing_2026-05-01.md](drive/kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md) | 2026-04-30 | 272 |  | Juna 4, Kael 3 | — |
+| [Kohaerenz_Protokoll_Outline_Revision_Pacing_2026-05-01.md](drive/kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md) | 2026-04-30 | 272 | **read** | Juna 4, Kael 3 | — |
 | [Kohaerenz_Protokoll_Struktur_Kanon_Reset_2026-04-30.md](drive/kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md.md) | 2026-04-30 | 4,779 | **read** | Telefon-Stille 10, Truth-Rotation 8, Vortex 9, Oblivion 8, Silas 6, Genesis 8, AEGIS' four sub-functions 3, Dual-Kernel-Theorie 7 | K1 11, Driver-Pivot 4, Ouroboros 7, Erasure-Sweep 3, K0 8 |
 | [Romanprojekt Analyse & Synthese](drive/romanprojekt-analyse-synthese.md) | 2026-04-30 | 2,536 | **read** | Dual-Kernel-Theorie 10, Konstrukt-Stadt 6, Kollaps-Kernel 2, Kohärenz-Kernel 2, Juna 16, Multiplizität 4, LogOS 3, Alters 6 | We-Voice 2, Kernels 3, Prime 4, Storyform 4, Landauer-Prinzip 3 |
 | [Romanprojekt Kohärenz Protokoll Analyse](drive/romanprojekt-kohaerenz-protokoll-analyse.md) | 2026-04-30 | 2,929 | **read** | Truth-Rotation 3, Vortex 4, Telefon-Stille 2, Trennungsprotokoll 3, Oblivion 3, Dual-Kernel-Theorie 7, Komponente 734 2, AEGIS' four sub-functions 2 | K1 13, Bekenstein-Schranke 5, K0 10, Storyform B 7, Driver-Pivot 3 |
@@ -880,7 +880,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kernwelten und fragmentierte Wahrnehmung](drive/kernwelten-und-fragmentierte-wahrnehmung.md) | 2025-04-29 | 8,111 | **read** | Rhys 28, Lia 14, Alex 17, Isabelle 6, Moros 14, Argus 7, Kiko 26, Lex 35 | Disco Elysium 7, Solaris 5, Free Indirect Discourse 2, OAPEN 6, Silent Hill 2 2 |
 | [Welt](drive/welt.md) | 2025-07-29 | 3,690 | **read** | Realitätsebenen 10, Externe Ebene 6, Möglichkeits-Garten 2, Grenzfeste 2, Potentialmeer 3, Konstrukt-Stadt 2, Kern-Welten 13, Guardians 2 | FDE 4, Relevanzlogik 2, First Degree Entailment 2, Guardian Cerberus 2, NP 3 |
 | [The Coherence Protocol: A Worldbuilding Bible](drive/the-coherence-protocol-a-worldbuilding-bible.md) | 2025-11-03 | 3,838 | **read** | Kollaps-Kernel 8, Kohärenz-Kernel 6, Externe Ebene† 4, Potentialmeer† 5, Nichts-Rauschen† 4, Dual-Kernel-Theorie† 2, Alex 2, Rhys 2 | Correspondence Truth 3, Collapse Kernel 3, Corrective Wavelet 2, "living Gödel-Satz" 4, Coherence Kernel 3 |
-| [Kohärenz Protokoll: Szene - Der Stillstand der Welt](drive/kohaerenz-protokoll-szene-der-stillstand-der-welt.md) | 2026-02-25 | 395 |  | Kael 6 | — |
+| [Kohärenz Protokoll: Szene - Der Stillstand der Welt](drive/kohaerenz-protokoll-szene-der-stillstand-der-welt.md) | 2026-02-25 | 395 | **read** | Kael 6 | — |
 | [Digitale Überwelt: Konzept und Gestaltung](drive/digitale-uberwelt-konzept-und-gestaltung.md) | 2026-03-26 | 2,738 | **read** | AEGIS' four sub-functions 7, Sophia 4, Kairos 4, LogOS 7, Cerberus 4, Guardians 6, Mnemosyne 4, Juna 7 | Blindsight 4, Peter Watts 4, BPoF 5, Encrypted Intent Channels 3, Digitale Überwelt 3 |
 | [Roman-Assistenz: Kohärenz und Weltgestaltung](drive/roman-assistenz-kohaerenz-und-weltgestaltung.md) | 2026-04-25 | 4,082 | **read** | Silas 3, Oblivion 2, Kollaps-Kernel 2, Argus 3, Isabelle 2, Alex 3, Rhys 2, Nyx 3 | Gelb 9, Agency-System 8, ASDLS 2, Lias 3, Jitter 2 |
 | [Worldbuilding_Konzept_KohärenzProtokoll.md](drive/worldbuilding-konzept-kohaerenzprotokoll-md.md) | 2026-05-08 | 6,057 | **read** | Vortex 13, Persistenzgleichung 3, Coheron 9, Telefon-Stille 5, Erason 4, Ouroboros-Struktur 2, Kohärenz-Kernel 16, Kollaps-Kernel 10 | Coheronen 8, MI 6, Egan 6, Erasure-Pol 4, Erasure-Sweep 4 |
@@ -894,7 +894,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | page | first unread documents qmd ranks |
 |---|---|
 | [AEGIS](../Wiki/candidates/aegis.md) | [roman-plot-konzept-kohaerenz-protokoll](drive/roman-plot-konzept-kohaerenz-protokoll.md) |
-| [AEGIS' operative Metriken](../Wiki/candidates/aegis-metriken.md) | [digitale-uberwelt](drive/digitale-uberwelt.md), [dkt-fundament-kohaerenz-protokoll-md](drive/dkt-fundament-kohaerenz-protokoll-md.md), [aegis-genesis-krise-prosa-auftrag-formulieren](drive/aegis-genesis-krise-prosa-auftrag-formulieren.md), [aegis-genesis-krise-prosa-auftrag-formulieren-2](drive/aegis-genesis-krise-prosa-auftrag-formulieren-2.md) |
+| [AEGIS' operative Metriken](../Wiki/candidates/aegis-metriken.md) | [digitale-uberwelt](drive/digitale-uberwelt.md), [aegis-genesis-krise-prosa-auftrag-formulieren](drive/aegis-genesis-krise-prosa-auftrag-formulieren.md), [aegis-genesis-krise-prosa-auftrag-formulieren-2](drive/aegis-genesis-krise-prosa-auftrag-formulieren-2.md) |
 | [AEGIS' four sub-functions](../Wiki/candidates/aegis-teilfunktionen.md) | — |
 | [Alex](../Wiki/candidates/alex.md) | — |
 | [Algorithmische Melancholie](../Wiki/candidates/algorithmische-melancholie.md) | — |
@@ -909,7 +909,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Cache-Kohärenz](../Wiki/candidates/cache-kohaerenz.md) | [plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur](drive/plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md) |
 | [Cerberus](../Wiki/candidates/cerberus.md) | [kapitel-13-momente](drive/kapitel-13-momente.md) |
 | [Chaitin-Konstante](../Wiki/candidates/chaitin-konstante.md) | — |
-| [Coheron](../Wiki/candidates/coheron.md) | [dkt-fundament-kohaerenz-protokoll-md](drive/dkt-fundament-kohaerenz-protokoll-md.md) |
+| [Coheron](../Wiki/candidates/coheron.md) | — |
 | [Datenverarbeitungsknoten 7G](../Wiki/candidates/datenverarbeitungsknoten-7g.md) | — |
 | [DID](../Wiki/candidates/did.md) | [recherche-kohaerenz-protokoll](drive/recherche-kohaerenz-protokoll.md), [kohaerenz-protokoll-konzept](drive/kohaerenz-protokoll-konzept.md) |
 | [Dual-Kernel-Theorie](../Wiki/candidates/dkt.md) | [forschungsprojekt-kohaerenz-protokoll-analyse](drive/forschungsprojekt-kohaerenz-protokoll-analyse.md), [dramatica-storyform-kohaerenz-protokoll-analyse](drive/dramatica-storyform-kohaerenz-protokoll-analyse.md), [kohaerenz-protokoll-system-realitaet-leser](drive/kohaerenz-protokoll-system-realitaet-leser.md) |
@@ -920,7 +920,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Maximale Entropie-Katastrophe](../Wiki/candidates/entropie-katastrophe.md) | — |
 | [Entropie-Resonanz / Entropie-Resonanz-Protokolle](../Wiki/candidates/entropie-resonanz.md) | — |
 | [Entropie-Signatur](../Wiki/candidates/entropie-signatur.md) | — |
-| [Erason](../Wiki/candidates/erason.md) | [dkt-fundament-kohaerenz-protokoll-md](drive/dkt-fundament-kohaerenz-protokoll-md.md) |
+| [Erason](../Wiki/candidates/erason.md) | — |
 | [Evaluierungseinheit](../Wiki/candidates/evaluierungseinheit.md) | — |
 | [Externe Ebene](../Wiki/candidates/externe-ebene.md) | [junas-liebe-kaels-trauma-aegis-docx](drive/junas-liebe-kaels-trauma-aegis-docx.md), [recherche-kohaerenz-protokoll](drive/recherche-kohaerenz-protokoll.md), [kohaerenz-protokoll-konzept](drive/kohaerenz-protokoll-konzept.md), [projekt-kohaerenz-protokoll-tiefenanalyse](drive/projekt-kohaerenz-protokoll-tiefenanalyse.md) |
 | [Formel-Inversion](../Wiki/candidates/formel-inversion.md) | — |
@@ -968,7 +968,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Oblivion](../Wiki/candidates/oblivion.md) | [aegis-manifest-genesis-krise-reboot-2](drive/aegis-manifest-genesis-krise-reboot-2.md) |
 | [Ouroboros-Struktur](../Wiki/candidates/ouroboros-struktur.md) | — |
 | [Partnerin](../Wiki/candidates/partnerin.md) | [roman-blueprint-seelen-kohaerenz-protokoll](drive/roman-blueprint-seelen-kohaerenz-protokoll.md), [plotpunkte-liste](drive/plotpunkte-liste.md), [erstelle-eine-liste-mit-allen-plot-points-formu](drive/erstelle-eine-liste-mit-allen-plot-points-formu.md), [im-finale-wendet-sich-fuer-persona-der-partnerin-z](drive/im-finale-wendet-sich-fuer-persona-der-partnerin-z.md), [liste-nun-alle-plot-ideen-kurz-auf](drive/liste-nun-alle-plot-ideen-kurz-auf.md), [parakonsistente-logik-im-seelen-protokoll](drive/parakonsistente-logik-im-seelen-protokoll.md) |
-| [Persistenzgleichung](../Wiki/candidates/persistenzgleichung.md) | [dkt-fundament-kohaerenz-protokoll-md](drive/dkt-fundament-kohaerenz-protokoll-md.md) |
+| [Persistenzgleichung](../Wiki/candidates/persistenzgleichung.md) | — |
 | [Personas](../Wiki/candidates/personas.md) | [roman-blueprint-seelen-kohaerenz-protokoll](drive/roman-blueprint-seelen-kohaerenz-protokoll.md), [liste-nun-alle-plot-ideen-kurz-auf](drive/liste-nun-alle-plot-ideen-kurz-auf.md), [im-finale-wendet-sich-fuer-persona-der-partnerin-z](drive/im-finale-wendet-sich-fuer-persona-der-partnerin-z.md), [erstelle-eine-liste-mit-allen-plot-points-formu](drive/erstelle-eine-liste-mit-allen-plot-points-formu.md), [plotpunkte-liste](drive/plotpunkte-liste.md) |
 | [PMS](../Wiki/candidates/pms.md) | [traumaheilung-neurochemie-adhs-dis-kunst](drive/traumaheilung-neurochemie-adhs-dis-kunst.md), [projekt-kohaerenz-protokoll-tiefenanalyse](drive/projekt-kohaerenz-protokoll-tiefenanalyse.md), [angst-und-vermeidung-in-dis-systemen](drive/angst-und-vermeidung-in-dis-systemen.md) |
 | [Potentialmeer](../Wiki/candidates/potentialmeer.md) | — |
@@ -980,7 +980,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Risse](../Wiki/candidates/risse.md) | — |
 | [RSA](../Wiki/candidates/rsa.md) | [p-vs-np-und-kohaerenz](drive/p-vs-np-und-kohaerenz.md) |
 | [Schleuse 7](../Wiki/candidates/schleuse-7.md) | [protokoll-der-offenbarung](drive/protokoll-der-offenbarung.md) |
-| [Sektor 04](../Wiki/candidates/sektor-04.md) | [kohaerenz-protokoll-szene-der-stillstand-der-welt](drive/kohaerenz-protokoll-szene-der-stillstand-der-welt.md) |
+| [Sektor 04](../Wiki/candidates/sektor-04.md) | — |
 | [Selene](../Wiki/candidates/selene.md) | [tattoo-konzept-archetypen-heilung-rebellion](drive/tattoo-konzept-archetypen-heilung-rebellion.md) |
 | [Silas](../Wiki/candidates/silas.md) | — |
 | [SNK](../Wiki/candidates/snk.md) | — |
