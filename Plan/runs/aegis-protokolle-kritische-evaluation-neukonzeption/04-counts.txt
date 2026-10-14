@@ -1,0 +1,55 @@
+# counts for 37 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            31 word    60 in   [11, 15, 21, 29, 32, 33]
+                                    8      as AEGIS-Philosophie
+                                    3      as AEGIS-Protokoll-Skizzen
+                                    3      as AEGIS-Prinzipien
+                                    2      as AEGIS-Protokolle
+  AFP v1.4                          1 word     1 in   [15]
+  ZTEM                              1 word     1 in   [15]
+  RTSV                              3 word     3 in   [15, 31, 34]
+  SVI                               3 word     3 in   [15, 31, 34]
+  P-INIT                           10 word    11 in   [40, 46, 97, 105, 136, 153]
+                                    1      as P-INIT-Problem
+  P-ENTROPY                         8 word     9 in   [50, 126, 128, 129, 153, 174]
+                                    1      as P-ENTROPY-Problem
+  Ontologische Exklusion            5 word     5 in   [60, 81, 130, 168, 193]
+  No-Trust / No-Control             2 word     2 in   [72, 166]
+  No-Trust                          3 word     7 in   [72, 76, 78, 138, 151, 166]  <-- substring
+                                    2      as No-Trust-Prinzip
+                                    1      as No-Trust-Prinzips
+                                    1      as No-Trust-Anspruch
+  No-Control                        2 word     3 in   [72, 151, 166]
+                                    1      as No-Control-Prinzips
+  Kohärenz als Existenzbedingung    3 word     3 in   [33, 81, 167]
+  Emergenz durch Negation           2 word     2 in   [90, 96]
+  Rekursion und Selbstverifikation    2 word     2 in   [99, 101]
+  Funktionale Ontologie             2 word     2 in   [108, 172]
+  Operative Geschlossenheit         3 word     3 in   [116, 122, 173]
+  Entropisches Gatekeeping          2 word     2 in   [124, 175]
+  Kernphilosophie                   5 word     6 in   [11, 15, 17, 38, 68, 145]
+  Passive Nicht-Integration         1 word     1 in   [60]
+  Nicht-Andocken                    2 word     2 in   [66, 168]
+  Gründungsproblem                  3 word     3 in   [103, 105, 171]
+  Protokoll-Skizzen                 4 word     7 in   [11, 15, 17, 25, 70, 134]
+  Free Energy Principle             1 word     1 in   [33]
+  FEP                               5 word     6 in   [33, 65, 86, 130, 167, 209]
+  Active Inference                  3 word     3 in   [33, 65, 208]
+  AIF                               2 word     2 in   [33, 167]
+  HoTT                              6 word     7 in   [33, 78, 104, 106, 171, 191]
+                                    1      as HoTT-Crypt
+  Landauer-Prinzip                  5 word     5 in   [55, 56, 129, 174, 183]
+  Maxwell'sche Dämon                2 word     3 in   [55, 128, 129]
+  BFT                               2 word     7 in   [77, 78, 79, 121, 166, 202]  <-- substring
+  Fixpunktsemantik                  3 word     6 in   [45, 65, 104, 170, 171, 191]
+                                    2      as Fixpunktsemantiken
+                                    1      as Fixpunktsemantik-Grenzen
+  dissipative Strukturen            2 word     2 in   [55, 56]
+  Selbstorganisierte Kritikalität    1 word     1 in   [66]
+  Constraint Satisfaction           4 word     4 in   [96, 169]
+  Prägeometrie                      5 word     5 in   [122, 170, 173, 182, 191]
+  Negentropie                       1 word     1 in   [128]
+  Computational Mechanics           4 word     4 in   [175, 183, 191, 254]
