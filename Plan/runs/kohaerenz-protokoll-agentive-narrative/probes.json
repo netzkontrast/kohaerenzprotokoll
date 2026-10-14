@@ -1,0 +1,306 @@
+{
+  "document": "kohaerenz-protokoll-agentive-narrative",
+  "drive_id": "1owe7uOMZe--SNvvgyP9qTSA4ca1Co8jayRA29w6MQms",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 108,
+  "backslash_escapes": 193,
+  "typographic_marks": 182,
+  "ascii_quotes": 486,
+  "inflection_families": {
+    "daten": [
+      "Daten",
+      "Datenabruf",
+      "Datenbank",
+      "Datenbanken",
+      "Datenbankinfrastruktur",
+      "Datenbanklösung",
+      "Datenbankstrategie",
+      "Datenbasis",
+      "Datenintegrität",
+      "Datenmenge",
+      "Datenpunkte",
+      "Datenpunkten",
+      "Datenstruktur",
+      "Datentyp"
+    ],
+    "inter": [
+      "Inter",
+      "Interactive",
+      "Interaktion",
+      "Interaktionsmodalität",
+      "Interaktionsmodalitäten",
+      "Interaktionsmodell",
+      "Interferenz",
+      "Interferenzereignis",
+      "Interferenzpotential",
+      "Internal",
+      "Internet",
+      "Intervention",
+      "Interventionen"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustands",
+      "Zustandsaktualisierung",
+      "Zustandsanalyse",
+      "Zustandsmanagement",
+      "Zustandsobjekts",
+      "Zustandsspeicher",
+      "Zustandsupdate",
+      "Zustandsvariable",
+      "Zustandsvariablen",
+      "Zustandsvergessenheit"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemik",
+      "Systemintegration",
+      "Systemisch",
+      "Systemische",
+      "Systemkomponenten",
+      "Systemlogik",
+      "Systems"
+    ],
+    "spiel": [
+      "Spieldurchläufe",
+      "Spielen",
+      "Spieler",
+      "Spielerlebnis",
+      "Spielers",
+      "Spielzug",
+      "Spielzugs",
+      "Spielzüge",
+      "Spielzügen"
+    ],
+    "erzäh": [
+      "Erzähle",
+      "Erzählebenen",
+      "Erzählens",
+      "Erzählerlebnis",
+      "Erzählung",
+      "Erzählungen",
+      "Erzählwelt"
+    ],
+    "narra": [
+      "NARRATIVE",
+      "Narration",
+      "Narrations",
+      "Narrationsgenerierung",
+      "Narrative",
+      "Narrativen",
+      "Narratives"
+    ],
+    "proto": [
+      "PROTOCOL",
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls",
+      "Prototyping"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysieren",
+      "Analysis",
+      "Analytical",
+      "Analytics",
+      "Analyze"
+    ],
+    "archi": [
+      "Architectures",
+      "Architektonischer",
+      "Architektur",
+      "Architekturen",
+      "Archiv",
+      "Archivierungszwecke"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modells",
+      "Models"
+    ],
+    "psych": [
+      "Psychiatric",
+      "Psychiatry",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychology"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentic",
+      "Agentive",
+      "Agents"
+    ],
+    "gener": [
+      "Generating",
+      "Generation",
+      "Generations",
+      "Generative",
+      "Generierung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsabsicht",
+      "Handlungsstrangs",
+      "Handlungsstränge"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationstreue",
+      "Informationszurückhaltung",
+      "Informed"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storymind",
+      "Storytelling"
+    ],
+    "varia": [
+      "Variable",
+      "Variablen",
+      "Variablennamen",
+      "Variationen",
+      "Variations"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergenten",
+      "Emergenz"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehleranalyse",
+      "Fehlerquellen",
+      "Fehlersuche"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle",
+      "Geführte",
+      "Geführter"
+    ],
+    "kompr": [
+      "Kompression",
+      "Kompressions",
+      "Kompressionsmethoden",
+      "Kompressionsraten"
+    ],
+    "nutze": [
+      "Nutzer",
+      "Nutzererfahrung",
+      "Nutzerreise",
+      "Nutzers"
+    ],
+    "progr": [
+      "Programm",
+      "Programmierparadigma",
+      "Programming",
+      "Progress"
+    ],
+    "reali": [
+      "Realisierung",
+      "Reality",
+      "Realität",
+      "Realitätsebenen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Faktenbasierte"
+    ],
+    [
+      "Best",
+      "Bestandteil"
+    ],
+    [
+      "Book",
+      "Notebooks"
+    ],
+    [
+      "Code",
+      "Codegenerierung"
+    ],
+    [
+      "Cons",
+      "Consider"
+    ],
+    [
+      "Cons",
+      "Constraint"
+    ],
+    [
+      "Core",
+      "SCORE"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Meilensteine"
+    ],
+    [
+      "Fail",
+      "Failures"
+    ],
+    [
+      "Form",
+      "Forms"
+    ],
+    [
+      "Form",
+      "Informed"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Formuliere"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ]
+  ]
+}
