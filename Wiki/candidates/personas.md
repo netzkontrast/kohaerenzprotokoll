@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -70,6 +70,10 @@ The TSDP revision proposes in section 3, headed Re-Mapping der `Personas` „auf
 ## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — the Personas distributed over the Kernwelten
 
 The logline analysis states Kael as „fragmentiert in Personas/Anteile über Kernwelten verteilt“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L80]. It proposes viewing them as parts with good intentions: „Seine Personas als 'Teile' mit potenziell positiven Absichten zu betrachten“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L82].
+
+## Reading — `tsdp-analyse-kaels-innere-welt`, 2025-04-28, the TSDP analysis of Kael's inner world — Kael's inner Personas read as manifestations of dissociated parts
+
+The report fixes how it reads the term: „Die Analyse interpretiert Kaels innere“ ^[tsdp-analyse-kaels-innere-welt.md:L19] `Personas` (the word stands in nested quotation marks on the line) „konsequent als Manifestationen dissoziierter Anteile im Sinne der TSDP.“ ^[tsdp-analyse-kaels-innere-welt.md:L19] The scope is the TSDP applied to the supplied character information, no more.
 
 ## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — the Personas as AEGIS's isolated data caches
 
