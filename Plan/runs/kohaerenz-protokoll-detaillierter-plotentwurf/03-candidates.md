@@ -1,0 +1,130 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Kaels
+- Kael's
+- Juna
+- Junas
+- Monstergruppe
+- M
+- Kael-Juna-Verbindung
+- Kael-Juna-Verbindung (K-J)
+- K-J Verbindung
+- K-J-Verbindung
+- K-J
+- K-J Impuls
+- Kernwelten
+- Kernwelt 1
+- KW1
+- KW2
+- KW3
+- KW4
+- Potentialmeer
+- Potentialmeers
+- Risse
+- Rissen
+- Alters
+- Alter Kaels
+- Guardians
+- Guardian von KW1
+- Gödel'sche Decke
+- Ontologische Dissonanz
+- Existenz durch Abgrenzung
+- Neues Protokoll
+- Kern-Selbst
+- Moonshine
+- Moonshine-Aspekt
+- Moonshine-Mysterium
+- Simplicity
+- Sporadicity
+- Complexity/Symmetry
+- Internal Structure
+- Paradox der Analyse
+- Kernkonflikt
+- Teil 1
+- Teil 2
+- Teil 3
+- Kapitel 1-13
+- Kapitel 14-26
+- Kapitel 27-39
+- 39-Kapitel-Struktur
+- Meta-Plot
+- Zyklische Entwicklung
+- Der Pendler
+- Die Statikerin
+- Der Ordner
+- Das Echo
+- Der Axiomat
+- Schrödingers Führer
+- Der Endlosschleifen-Wächter
+- Der Logikfresser
+- Die Brücke
+- Der Kartograph der Verbindungen
+- Der Schwellenhüter
+- Das Kind im Brunnen
+- Der Spiegel der Teile
+- Der Kern-Optimierer
+- Der Emotionsverstärker
+- Der Logik-Übersetzer
+- Der Muster-Sucher
+- Der Archivar des Rauschens
+- Die Schwarm-Intelligenz
+- Der Unbeweisbare Satz
+- Der Zyklus-Wächter
+- Der Reflektor
+- Der Resonanz-Dämpfer
+- Der Riss-Wanderer
+- Die Navigatorin im Chaos
+- Der Protokoll-Wächter
+- Die Stimme des Selbst
+- Der Resonanz-Weber
+- Der Wächter der Negation
+- Der Zersetzer
+- Der Stabilitäts-Prediger
+- Die Symphonie der Symmetrie
+- Der Architekt der Ordnung
+- Das Protokoll des Bedauerns
+- Der Leuchtende Kern
+- Der Keim des Neuen Protokolls
+- Der Torwächter der Welten
+- Der Übersetzer der Ebenen
+- Junas Flüstern
+
+## lens
+
+- Heldinnenreise
+- Heldenreise
+- Welt des Alltags
+- Ruf zum Abenteuer
+- Weigerung des Rufs
+- Überschreiten der ersten Schwelle
+- Der Bauch des Walfischs
+- Rückkehr mit Elixier
+- Apotheose
+- Internal Family Systems (IFS) Therapie
+- IFS
+- Self Energy
+- Exiles
+- Firefighters
+- Manager
+- Dissoziativen Identitätsstörung (DID)
+- Trauma-Informierten Versorgung
+- Autopoiesis
+- Parakonsistente Logik
+- Shannon-Entropie
+- Emergenz
+- Selbstorganisation
+- Feedbackschleifen
+- Metafiktion
+- Simulationshypothese
+- Hard Problem of Consciousness
+- Value Alignment
+- Kontrollillusion
+- Secure Base
+- Komplexe Adaptive Systeme
+- Reduktionismus
+- Holismus
+
+The document is a chapter table for a 39-chapter outline in three parts, each chapter carrying a theme with a numbered source and one secondary character in quotation marks. Terms of the novel's world are the main list; borrowed theory and the hero's journey stations are under lens. Chapter numbers stand in the first table column and in the part headings; they are counted from the document after the list is frozen. The minor characters are written with the article inside quotation marks and are listed as written. Nothing here names a real person.

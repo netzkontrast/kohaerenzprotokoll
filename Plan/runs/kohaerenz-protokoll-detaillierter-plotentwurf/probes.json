@@ -1,0 +1,285 @@
+{
+  "document": "kohaerenz-protokoll-detaillierter-plotentwurf",
+  "drive_id": "1YAQt4ma0PHl1Ce4p7R1R82mUdwGdJeQQezSKhxZcP0w",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 148,
+  "backslash_escapes": 415,
+  "typographic_marks": 23,
+  "ascii_quotes": 180,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systeme",
+      "Systemelement",
+      "Systemfehler",
+      "Systeminstabilitäten",
+      "Systemische",
+      "Systemkonflikt",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemversagen",
+      "Systemweite"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationstheorie",
+      "Informationsverlust",
+      "Informationsüberflutung",
+      "Informed",
+      "Informierten"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseansätze",
+      "Analysemethode",
+      "Analyseobjekt",
+      "Analysephase",
+      "Analysezyklus",
+      "Analysis"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenbank",
+      "Datenkorrelationen",
+      "Datenmengen",
+      "Datenpaket",
+      "Datenpunkt"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsriss",
+      "Realitätsverlust",
+      "Realitätsverschiebung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhalt",
+      "Selbsterhaltungstrieb",
+      "Selbstmodifikation",
+      "Selbstorganisation",
+      "Selbstprüfung",
+      "Selbstwerdung"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulations",
+      "Simulationsebene",
+      "Simulationshypothese",
+      "Simulationslogik",
+      "Simulierte"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionalität",
+      "Emotionen",
+      "Emotionstheorien",
+      "Emotionsverstärker"
+    ],
+    "inner": [
+      "Innere",
+      "Innerem",
+      "Inneren",
+      "Innerer",
+      "Inneres",
+      "Innerhalb"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialitätsthema",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatry",
+      "Psycho",
+      "Psychologie",
+      "Psychologisch",
+      "Psychology"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationserfolg",
+      "Integrationsreise",
+      "Integriert",
+      "Integrität"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollillusion",
+      "Kontrollverlust",
+      "Kontrollversuche"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "trans": [
+      "Transfer",
+      "Transformation",
+      "Transpersonal",
+      "Transpersonale",
+      "Transzendenz"
+    ],
+    "disso": [
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziativen"
+    ],
+    "kernp": [
+      "Kernplot",
+      "Kernprinzip",
+      "Kernprogrammierung",
+      "Kernprüfung"
+    ],
+    "neben": [
+      "Nebencharakter",
+      "Nebencharaktere",
+      "Nebencharakteren",
+      "Nebeneffekte"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophisch",
+      "Philosophischer",
+      "Philosophy"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektanforderungen",
+      "Projektion",
+      "Projekts"
+    ],
+    "reche": [
+      "Rechenleistung",
+      "Recherche",
+      "Recherchebereichen",
+      "Rechercheergebnissen"
+    ],
+    "resea": [
+      "Research",
+      "ResearchGate",
+      "ResearchGuides",
+      "ResearchNet"
+    ],
+    "verst": [
+      "Verständnis",
+      "Verständnisebenen",
+      "Verständnisse",
+      "Verständnissen"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchstoleranz",
+      "Widersprüche"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Base",
+      "Based"
+    ],
+    [
+      "Base",
+      "Baseline"
+    ],
+    [
+      "Bell",
+      "Tabelle"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Ende",
+      "Leuchtende"
+    ],
+    [
+      "Ende",
+      "Zyklusende"
+    ],
+    [
+      "Ende",
+      "Rückblenden"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Entscheidende"
+    ],
+    [
+      "Form",
+      "Informed"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Formalismus"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informierten"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ]
+  ]
+}

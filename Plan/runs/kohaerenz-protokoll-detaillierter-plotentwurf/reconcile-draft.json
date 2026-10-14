@@ -1,0 +1,276 @@
+{
+  "document": "kohaerenz-protokoll-detaillierter-plotentwurf",
+  "drive_id": "1YAQt4ma0PHl1Ce4p7R1R82mUdwGdJeQQezSKhxZcP0w",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 121,
+    "decisions": 134,
+    "decided_by_lookup": 105,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        26,
+        27,
+        108,
+        116,
+        120,
+        131,
+        133,
+        135,
+        138
+      ],
+      "attribution": "",
+      "note": "AEGIS as the reductionist that fails, and the system a new model could transform"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27,
+        87,
+        89
+      ],
+      "attribution": "",
+      "note": "the Alters in Kap 1 and Kap 3"
+    },
+    {
+      "page": "did",
+      "lines": [
+        27,
+        87
+      ],
+      "attribution": "",
+      "note": "DID read as AEGIS's fragmentation"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "emergence planned for Kap 19"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        27,
+        91,
+        131
+      ],
+      "attribution": "",
+      "note": "the Guardians as AEGIS's, and one in KW1"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        33,
+        44,
+        45,
+        88,
+        130,
+        135,
+        139,
+        141
+      ],
+      "attribution": "",
+      "note": "Juna as source, vision and possible reunion"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        87,
+        91,
+        98,
+        99,
+        119,
+        130,
+        131,
+        137,
+        139,
+        141
+      ],
+      "attribution": "",
+      "note": "Kael's planned path from fragmentation to coherence"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        27,
+        28,
+        91,
+        98,
+        113,
+        118
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, three of them set in chapters"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        25,
+        138,
+        141
+      ],
+      "attribution": "",
+      "note": "coherence by integration against demarcation"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        25,
+        45,
+        117,
+        130
+      ],
+      "attribution": "",
+      "note": "the non-local Kael-Juna connection and M's Moonshine aspect"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        28,
+        46,
+        59,
+        118,
+        139
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as pre-real basis, rejected as a sketch"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        43,
+        118,
+        119
+      ],
+      "attribution": "",
+      "note": "the Risse as horror, as system-wide failure, as a tool"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        28,
+        44,
+        87,
+        139
+      ],
+      "attribution": "",
+      "note": "the simulations as constructed realities inside AEGIS"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 27,
+      "decision": "reading",
+      "why": "Kael's DID read as AEGIS's artificial fragmentation of M"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 46,
+      "decision": "occurrence",
+      "why": "entropy in the rejected sketch's general sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 140,
+      "decision": "occurrence",
+      "why": "a level of reality in the general sense"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 44,
+      "decision": "reading",
+      "why": "a way out of the simulation, sketch 2"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

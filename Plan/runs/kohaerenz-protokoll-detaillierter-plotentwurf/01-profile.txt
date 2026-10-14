@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-detaillierter-plotentwurf
+  lines                192  (frontmatter ends at 9)
+  body words           6690
+  headings             2   bold-only lines 11
+  table rows           56   code fences 0
+  question marks       11
+  backslash escapes    415
+  typographic marks    23   ascii quotes 180
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    148
+  repeated labels      none
+  longest line         1551 chars
+
