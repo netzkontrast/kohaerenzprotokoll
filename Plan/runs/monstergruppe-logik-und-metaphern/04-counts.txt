@@ -1,0 +1,73 @@
+# counts for 60 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Monstergruppe                    41 word    46 in   [11, 15, 17, 19, 26, 28]
+  sporadischen Gruppen             15 word    15 in   [15, 44, 56, 58, 73, 160]
+  Fischer-Griess-Monster            1 word     1 in   [15]
+  Freundlicher Riese                1 word     1 in   [15]
+  Baby-Monstergruppe                5 word     5 in   [44, 64, 85, 166, 195]
+  Happy Family                     15 word    15 in   [20, 54, 58, 60, 73, 167]
+  Pariahs                           9 word     9 in   [54, 58, 66, 73, 167, 215]
+  Subquotienten                    10 word    10 in   [44, 54, 56, 58, 73, 167]
+  maximale Untergruppe              5 word     7 in   [77, 83, 91, 92, 191, 202]
+  Griess-Algebra                   13 word    13 in   [46, 52, 96, 98, 100, 104]
+  Moonshine-Modul-VOA               1 word     1 in   [104]
+  Monstrous Moonshine              13 word    15 in   [21, 48, 104, 106, 108, 112]
+  Moonshine-Vermutungen             3 word     3 in   [110, 124, 144]
+  Vertexoperatoralgebren            5 word     5 in   [21, 104, 108, 122, 380]
+  VOAs                              8 word     8 in   [21, 104, 108, 122, 138, 142]
+  Moonshine-Moduls                  2 word     2 in   [124, 134]
+  Monster-Lie-Algebra               2 word     2 in   [138, 146]
+  Leech-Gitter                      5 word     7 in   [63, 132, 168, 190, 232, 260]
+                                    1      as Leech-Gitters
+                                    1      as Leech-Gitter-Automorphismen
+  Orbifold-Konstruktion             1 word     1 in   [132]
+  Mathieu-Gruppen                   4 word     4 in   [62, 166, 168, 173]
+  Conway-Gruppen                    3 word     3 in   [63, 168, 184]
+  Golay-Code                        3 word     5 in   [62, 102, 179, 232, 260]
+                                    2      as Golay-Codes
+  Moufang-Loop                      1 word     1 in   [102]
+  McKay-Thompson-Reihe              1 word     1 in   [130]
+  Hauptmodul                        2 word     2 in   [120, 130]
+  Erklärungsrahmen                  1 word     1 in   [148]
+  Stringtheorie                     8 word     9 in   [21, 48, 138, 140, 144, 148]
+                                    1      as Stringtheorien
+  Steiner-Systems                   1 word     1 in   [179]
+  Pariah-Gruppen                    2 word     2 in   [206, 320]
+  Prinzip der Explosion             3 word     3 in   [243, 268, 290]
+  Ex Contradictione Quodlibet       1 word     1 in   [243]
+  ECQ                               4 word     4 in   [243, 268, 290, 291]
+  klassischen Logik                 5 word     5 in   [241, 243, 256, 262, 279]
+  klassische Logik                  3 word     3 in   [239, 249, 382]
+  parakonsistente Logik             6 word     7 in   [23, 239, 264, 266, 279, 304]
+  Parakonsistente Logik             5 word     6 in   [268, 281, 283, 289, 302, 306]
+  Dialetheismus                     2 word     2 in   [281]
+  Konstruktionsopazität             1 word     1 in   [254]
+  dekonstruktive Logik              1 word     1 in   [256]
+  Parker-Loop                       1 word     1 in   [260]
+  Satz vom Widerspruch              2 word     2 in   [243, 291]
+  Abstraktion                       2 word     2 in   [251, 382]
+  Dimensionalität                   3 word     3 in   [252, 368, 382]
+  Komputationale Komplexität        1 word     1 in   [253]
+  Moonshine                        24 word    37 in   [21, 48, 104, 106, 108, 110]
+                                    3      as Moonshine-Vermutungen
+                                    2      as Moonshine-Verbindungen
+                                    2      as Moonshine-Moduls
+                                    2      as Moonshine-Verbindung
+  Friendly Giant                    1 word     1 in   [360]
+  Parakonsistenz                    2 word     2 in   [295, 303]
+  Komplexität ohne Trivialität      1 word     1 in   [302]
+  Grenzen der Zerlegung             1 word     1 in   [303]
+  Metaphorisches Werkzeug           1 word     1 in   [304]
+  Denkrahmen                        2 word     2 in   [266, 306]
+  Unermessliche Skala und Macht     1 word     1 in   [312]
+  Exzeptionalität und Isolation     1 word     1 in   [320]
+  Verborgene Ordnung und Symmetrie    1 word     1 in   [328]
+  Unverständlichkeit und Mysterium    1 word     1 in   [336]
+  Interne Struktur (Happy Family / Pariahs)    1 word     1 in   [344]
+  Hohe Dimensionalität (196.883+)    1 word     1 in   [368]
+  Narrative Potenziale              1 word     1 in   [308]
+  dekonstruierender Logiken         1 word     1 in   [303]
+  Moonshine-Phänomens               1 word     1 in   [306]
