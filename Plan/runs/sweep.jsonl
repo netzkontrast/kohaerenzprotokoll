@@ -1608,3 +1608,5 @@
 {"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
 {"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "multiplizitaet", "surface": "Multiplizität", "line": 29, "decision": "occurrence", "why": "the Potentialmeer's multiplicity, not functional multiplicity", "at": "2026-10-14"}
 {"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 126, "decision": "occurrence", "why": "levels of reality in a general sense", "at": "2026-10-14"}
+{"document": "kosmischer-horror-in-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
+{"document": "kosmischer-horror-in-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 177, "decision": "occurrence", "why": "the simulated reality, not the Überwelt", "at": "2026-10-14"}
