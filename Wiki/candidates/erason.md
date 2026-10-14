@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-epische-plot-anreicherung"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-epische-plot-anreicherung", "dkt-fundament-kohaerenz-protokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -16,6 +16,10 @@ of [[coheron|Coheron]].
 ## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — Erasonen as elementary erasure events and the arrow of time
 
 The master integration defines Erasonen in the same section as Coherons: „Elementare Löschungsereignisse“ ^[kohaerenz-protokoll-master-integration-md.md:L60], the moment in which informational correlation becomes irreversible. Their sum is physics: „Kumulative Erason-Aktivität = Zeitpfeil, Gravitation, thermodynamische Drift“ ^[kohaerenz-protokoll-master-integration-md.md:L62]. Kernwelt 2 has the „höchste Erason-Dichte, maximale Narbenbildung“ ^[kohaerenz-protokoll-master-integration-md.md:L231]. Each Riss is an „Erason-Kaskade“ ^[kohaerenz-protokoll-master-integration-md.md:L259]. In the Juna options, Option C reads: „Juna ist ein Erason, das sich weigert, irreversibel zu sein.“ ^[kohaerenz-protokoll-master-integration-md.md:L205]
+
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — Erasons as elementary erasure events in K₀, and every trauma as an Erason event
+
+The DKT-Fundament memo defines Erasonen as „elementare Löschungsereignisse“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L48] in K₀ that leave informational scars in the remaining K₁ structure, and sets the narrative rule „Jedes Trauma, jeder Verlust, jeder Tod ist ein Erason-Ereignis“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L51]. It proposes the Ursprungstrauma as both „ein massives Erason-Ereignis (K₀)“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L180] and a core of dark matter, and defines pain in prose as „die Registrierung eines Erason-Ereignisses durch die Witness Function“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L240]. Of the three open Juna physics, the third is „Juna als Erason-Inversion“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L144]: „Ein Löschungsereignis, das seine eigene Löschung rückgängig macht“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L145]. Proposals; recorded, not applied.
 
 ## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Erasonen erasing concepts and narrowing the world
 
