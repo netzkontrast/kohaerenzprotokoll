@@ -1486,3 +1486,11 @@ Where it stands in the record's own terms: four Kernwelten in a concept document
 The table (L66–L70) names KW1 Logos-Prime, KW2 Mnemosyne-Archipel, KW3 Cerberus-Labyrinth and KW4 Kairos-Potentialis. It glosses the Kernwelten as „the simulated realities that are direct externalizations“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L61] of Kael's inner landscape (L61). It names three alters for stories (Nyx, Kiko, Lex, L37–L39) and gives no number of parts.
 
 Where it stands in the record's own terms: four Kernwelten in a proposal; recorded, not decided.
+
+## 2026-10-14 — `narrative-vertiefung-kohaerenz-protokoll`, 2025-04-27, the deepening research report
+
+**The deepening report restates from the plot concept twenty Kernwelten, based metaphorically on the twenty sporadic subquotients of M; it gives no number of alters.**
+
+Under the restated-concept label the report writes: „Die 20 Kernwelten basieren metaphorisch auf den 20 sporadischen Subquotienten von M.“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L145] The same line adds that the symmetry of each group defines the rules of its world. The report's description of alters is a general one for the disorder (L206) and names no count for the novel.
+
+Where it stands in the record's own terms: twenty Kernwelten restated from a plot concept in a research report; recorded, not applied and not decided; the question stays open.
