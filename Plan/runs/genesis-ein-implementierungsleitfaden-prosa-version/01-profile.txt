@@ -1,0 +1,14 @@
+# genesis-ein-implementierungsleitfaden-prosa-version
+  lines                559  (frontmatter ends at 9)
+  body words           9817
+  headings             22   bold-only lines 18
+  table rows           11   code fences 0
+  question marks       27
+  backslash escapes    94
+  typographic marks    28   ascii quotes 510
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    173
+  repeated labels      Dominante Stimmung/Atmosphäre x13, Perspektive x13, Spezifische Techniken/Beispiele x13, Stylistische Direktiven x13, Ziel x13, Nutzen für Outline x4, Potenzielle Fallstricke x4, Relevanz x4
+  longest line         1283 chars
+

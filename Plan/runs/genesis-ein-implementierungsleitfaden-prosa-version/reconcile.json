@@ -1,0 +1,183 @@
+{
+  "document": "genesis-ein-implementierungsleitfaden-prosa-version",
+  "drive_id": "156cozTac3xrIEaZo5q0VWQ5JYAylJSLwNjPXX4eIT4w",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and three record entries by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-462/brief.md, 2026-10-14; the document was first held by the privacy screen on the word Foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 81,
+    "decided_by_lookup": 53,
+    "needs_judgement": 28
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A direction book for the 13-scene Genesis outline: its new surfaces are Direktive 0, the scene titles and part headings, its field labels, the protocol's Gamma name and the borrowed lenses; what it directs for AEGIS, Komponente 734, Kael, the Nichts Rauschen, the Überwelt, Genesis, the Kernwelten, DID and emergence went on existing pages, and 734, Kael's birth and the 13 scenes on Q7, C16 and C12.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        31,
+        33,
+        37,
+        400,
+        456
+      ],
+      "attribution": "",
+      "note": "AEGIS as a purely functional system whose limit is its own logic"
+    },
+    {
+      "page": "did",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "dissociation as the trauma lens"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "Kael's Emergenz in the last scene as the embodiment of a trauma history"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        11,
+        17,
+        313
+      ],
+      "attribution": "",
+      "note": "a direction book for the Genesis outline in thirteen scenes"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        45,
+        49,
+        51,
+        61,
+        537,
+        540
+      ],
+      "attribution": "",
+      "note": "Kael as the result of the process, defined by trauma"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        540
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as something Kael perceives in the last scene"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        21,
+        406,
+        414,
+        517
+      ],
+      "attribution": "",
+      "note": "the Ich reclassified as Komponente 734, then eliminated"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        23,
+        127
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the void of the Ich's awakening, to be carried by metaphor"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        106,
+        273,
+        305,
+        438,
+        443
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's simulation space, written in the AEGIS voice"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C12",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Resonanz` and `Echo` the Ich's, not the protocol, the landscape or the residual echoes; `Mosaik` Kael's mosaic identity, not the Mosaik-Herz; `Systemgrenze` and `Risse` words in lists; `Kohärenz Protokoll Gamma-Exekution` the protocol's name; people's names never written",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 43,
+      "decision": "reading",
+      "why": "dissociation as a trauma coping strategy; read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 49,
+      "decision": "reading",
+      "why": "Kael's Emergenz in Szene 13; read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 127,
+      "decision": "occurrence",
+      "why": "an effect the metaphors should evoke, general sense"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 221,
+      "decision": "occurrence",
+      "why": "a glossary word"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "systems coherence"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 199,
+      "decision": "occurrence",
+      "why": "a word in a sample metaphor list"
+    }
+  ],
+  "not_promoted": [
+    "Direktive 0, Ich-Perspektive, Echo, Resonanz, Dissonanz, Mosaik, Protokoll Gamma-Exekution, Regiebuch, Stylistic Contrast Summary, the scene titles, the part headings, and the borrowed concepts"
+  ],
+  "internal_tension": "Part 3 marked as illustration because the research was not done (L171) beside a demand of strict adherence (L313); scene numbers with letters in the pacing section (L293, L295) against 1–13 elsewhere — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

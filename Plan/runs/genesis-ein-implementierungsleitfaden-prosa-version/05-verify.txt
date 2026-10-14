@@ -1,0 +1,180 @@
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "NEUE"
+whole word, case-sensitive     3
+whole word, case-insensitive   9
+including compounds            3
+
+`NEUE` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#3]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Beat"
+whole word, case-sensitive     70
+whole word, case-insensitive   70
+including compounds            70
+
+`Beat` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#70]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Stylistische Direktiven"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Stylistische Direktiven` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#13]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Spezifische Techniken/Beispiele"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Spezifische Techniken/Beispiele` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#13]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "exemplarisch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`exemplarisch` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#1]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Ich"
+whole word, case-sensitive     65
+whole word, case-insensitive   67
+including compounds            101
+
+`Ich` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#65]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Ich-Perspektive"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Ich-Perspektive` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#29]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Komponente 734"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`Komponente 734` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#36]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Kael"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            19
+
+`Kael` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#18]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Mosaik"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Mosaik` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#6]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Echo"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            33
+
+`Echo` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#25]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Resonanz"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            39
+
+`Resonanz` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#34]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Dissonanz"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Dissonanz` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#22]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Überwelt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Überwelt` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#8]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Überwelt-Subsystem"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt-Subsystem` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#2]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Autopoiesis"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Autopoiesis` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#5]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Homöostase"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Homöostase` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#4]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Dissoziation"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Dissoziation` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#8]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Direktive 0"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Direktive 0` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#8]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Regiebuch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Regiebuch` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#2]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Stylistic Contrast Summary"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Stylistic Contrast Summary` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#1]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Kohärenz Protokoll Gamma-Exekution"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll Gamma-Exekution` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#1]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Protokoll Gamma-Exekution"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Protokoll Gamma-Exekution` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#4]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kernwelt` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#0]
+
+$ python3 scripts/read.py genesis-ein-implementierungsleitfaden-prosa-version --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[genesis-ein-implementierungsleitfaden-prosa-version.md:#2]
+
+stance_marker_count = NEUE 3 + Beat 70 + Stylistische Direktiven 13 + Spezifische Techniken/Beispiele 13 + exemplarisch 1 = 100
+profile numbers (94 escapes, 173 glued, 510 ascii quotes, 12 'standing alone less often', 76 candidates): from 01-profile.txt and census-draft.md
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
