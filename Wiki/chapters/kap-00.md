@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 20
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "roman-outline-fuer-kohaerenz-protokoll", "roman-plot-entwicklung-und-kohaerenz-analyse", "roman-outline-kohaerenz-protokoll-uberarbeitung", "tropen-konzepte-fuer-kohaerenz-protokoll"]
+sources: 21
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "roman-outline-fuer-kohaerenz-protokoll", "roman-plot-entwicklung-und-kohaerenz-analyse", "roman-outline-kohaerenz-protokoll-uberarbeitung", "tropen-konzepte-fuer-kohaerenz-protokoll", "roman-outline-kohaerenz-protokoll-strategie"]
 records: ["C3", "C10", "C12", "C7", "C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -36,6 +36,10 @@ Focus: `Ursprungsparadoxon`, „Die Entstehung von AEGIS aus Chaos/Angst“ ^[2-
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage, the alignment concept
 
 - The strategy report keys this chapter to Murdock's stage „Trennung vom Weiblichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L115]; to the alignment concept „Ziel-Fehlspezifikation / Goodhart's Law“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L196]; to the alignment concept „Fehlendes Management von Emergenz/Komplexität“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L199]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — the Prolog
+
+The strategy outline opens with the Prolog „Das Flackern“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L13]. It plans: „Kael erlebt einen Moment der kognitiven Dissonanz“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L17] in a detail of the surroundings, a flicker or a déjà-vu, and a first doubt about the stability of Kael's world; AEGIS is hinted at only.
 
 ## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — the Prolog as origin of AEGIS and the Leere
 
