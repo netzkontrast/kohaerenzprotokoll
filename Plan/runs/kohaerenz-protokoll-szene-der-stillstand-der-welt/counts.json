@@ -1,0 +1,146 @@
+{
+  "document": "kohaerenz-protokoll-szene-der-stillstand-der-welt",
+  "drive_id": "1vDpr8Fdg-2iN9H5OFWg_x9x7mT3IyAvQSxV2vivH03Q",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Die Stasis-Lücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Foreshadowing Meta-Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        19,
+        25,
+        27,
+        29,
+        43
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Sektor 04": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "funktionale Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Beobachter": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        35
+      ]
+    },
+    "Beobachter-Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "AEGIS v.4.2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "SYSTEMMELDUNG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Lese-Frequenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "narrative Dichte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Weiß zwischen den Zeilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Wassertropfen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        29
+      ]
+    },
+    "Transformatoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Fabriken im Untergrund": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Muster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    }
+  }
+}

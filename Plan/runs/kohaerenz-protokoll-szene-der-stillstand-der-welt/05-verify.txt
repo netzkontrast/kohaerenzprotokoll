@@ -1,0 +1,98 @@
+# counts, from python3 scripts/read.py kohaerenz-protokoll-szene-der-stillstand-der-welt --count
+## Kael
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`Kael` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#6]
+## Sektor 04
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sektor 04` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Konstrukt-Stadt
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Stadt` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## funktionale Stille
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`funktionale Stille` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## AEGIS
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Beobachter
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Beobachter` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Beobachter-Resonanz
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beobachter-Resonanz` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Lese-Frequenz
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lese-Frequenz` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Weiß zwischen den Zeilen
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Weiß zwischen den Zeilen` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## SYSTEMMELDUNG
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`SYSTEMMELDUNG` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## STATUS
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`STATUS` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## WARNUNG
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`WARNUNG` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## MASSNAHME
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`MASSNAHME` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Stille
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Stille` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#3]
+## wegsaieht
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`wegsaieht` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+## Ozon
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ozon` ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:#1]
+# stance_marker_count 4 = SYSTEMMELDUNG 1 + STATUS 1 + WARNUNG 1 + MASSNAHME 1
