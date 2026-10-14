@@ -1470,3 +1470,11 @@ Where it stands in the record's own terms: a proposal in a matrix labelled as an
 Co₁ stands for extreme order and control (L69), McL could explore knowledge and truth (L70), B could embody the cyclic struggle (L71) and Ly could represent emergence, chaos and liveliness (L72). In the words of one line: „Die Umgebung könnte fließend, unvorhersehbar, organisch oder ästhetisch reich im Kontrast zu Co₁ sein.“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L72]
 
 Where it stands in the record's own terms: a set of conditional suggestions, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `concept-document-the-nature-of-the-foundation-juna-v-and-the`, 2025-10-15, the Foundation concept document
+
+**The Foundation concept document gives four Kernwelten, KW1 to KW4; recorded.**
+
+Its table lists four Kernwelten, each with a principle and a function, from `Logos-Prime` with „Formal Logic, Order, Control“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L54] to `Kairos-Potentialis` with „Emergence, Potential, Transcendence“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L57]. Each is „an externalized psychological landscape“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L49].
+
+Where it stands in the record's own terms: four Kernwelten in a concept document; recorded, not decided.
