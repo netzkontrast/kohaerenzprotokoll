@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      86
+  backslash escapes      16
+  typographic marks      221
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemfehler, Systemische, Systemischer, Systemprotokollen, Systems, Systemstillstand, Systemwartung
+  selbs    Selbst, Selbstdefinition, Selbsterhaltung, Selbsterkenntnis, Selbstverzehrs, Selbstzerstörerischen, Selbstzerstörung
+  erzäh    Erzählens, Erzähler, Erzählstil, Erzählstimme, Erzählstimmen, Erzählung
+  inter    Interaction, Interaktionen, Interferenzmuster, Interpretation, Intervention, Interventionen
+  kontr    Kontrollalgorithmen, Kontrolle, Kontrollmaßnahmen, Kontrollversuch, Kontrollversuche
+  antei    Anteil, Anteile, Anteilen, Anteils
+  disso    Dissociative, Dissonance, Dissonanz, Dissoziativen
+  gegen    Gegensatz, Gegensätze, Gegensätzen, Gegenwart
+  konst    Konstante, Konstanten, Konstrukt, Konstruktion
+  metap    Metapher, Metaphern, Metaphors, Metaphysischen
+  parad    Paradigm, Paradoxen, Paradoxon, Paradoxons
+  reali    Realität, Realitätsverständnis, Realitätswahrnehmung, Realitätsüberlappung
+  symbo    Symbole, Symbolic, Symbolisches, Symbolism
+  techn    Technik, Techniken, Technique, Techniques
+  analy    Analyse, Analysis, Analytics
+  ander    Andere, Anderen, Anderer
+  archi    Archipel, Architektur, Archive
+  argum    Argument, Argumente, Arguments
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsstrom
+  chara    Character, Characters, Charakterbogen
+  diese    Diese, Dieser, Dieses
+  ereig    Ereignis, Ereignisse, Ereignisses
+  fehle    Fehler, Fehlern, Fehlertyp
+  fragm    Fragment, Fragmente, Fragmentierung
+  handl    Handlung, Handlungen, Handlungsfähigkeit
+
+# substring pairs -- never one term, often merged by accident
+  Book < Bookish
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Form < Performanz
+  Form < Information
+  Form < Performance
+  Form < Performative
+  Form < Informationen
+  Form < Transformation
+  Form < Informationstheorie
+  KAEL < Kael
+  KAEL < Kaels
+  Kael < Kaels
+  Kiko < Kikos
+  Lage < Niederlage
+  Lage < Überlagerung
+  Last < Belastung
+  Last < Glastürmen

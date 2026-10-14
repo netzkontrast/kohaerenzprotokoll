@@ -1,0 +1,164 @@
+{
+  "document": "kohaerenz-protokoll-narrative-architekturanalyse",
+  "drive_id": "1O54QxPc7fMWY11V4ggLelzjcro8zK51bkv-Eeek9xaw",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and the Q5 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-514/brief.md, 2026-10-14; first held by the privacy screen on the word foreshadowing, released on re-screening",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 84,
+    "decisions": 92,
+    "decided_by_lookup": 68,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A strategy text on how to narrate AEGIS, the Kael system, Juna/V, Das Fundament and the reader: its new surfaces are borrowed concepts and its world names; what it proposes for AEGIS, Kael, Juna, coherence, the Risse, the Kernwelten, the Guardians, entropy, multiplicity, Lex, Kiko and Rhys went on existing pages, and the four world names on Q5.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        42,
+        46,
+        72,
+        76,
+        213
+      ],
+      "attribution": "",
+      "note": "a proposal to narrate AEGIS as a tragic figure of misaligned coherence"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        34
+      ],
+      "attribution": "",
+      "note": "the encounter with the Leere as maximal entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "Guardians as an example of deadlocking subsystems"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        147,
+        157,
+        169,
+        205
+      ],
+      "attribution": "",
+      "note": "Juna/V as overlap, synaesthesia and presence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        88,
+        96,
+        110,
+        112,
+        157
+      ],
+      "attribution": "",
+      "note": "the parts as narrated multiplicity and the Kernwelten as Kael's environment"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        110,
+        112
+      ],
+      "attribution": "",
+      "note": "four worlds as symbolic landscape and literal environment"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "Kiko as a fear style of prose"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        42,
+        76,
+        129
+      ],
+      "attribution": "",
+      "note": "coherence as AEGIS's goal and as a cache metaphor"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "Lex as an analytical style of prose"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal, not a cure by fusion"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        100
+      ],
+      "attribution": "",
+      "note": "Rhys as a declarative style of prose"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        54
+      ],
+      "attribution": "",
+      "note": "the Risse as consequences of AEGIS's own actions"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "the four world names (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis) recorded on Q5, not merged into the Guardian pages; `Resonanz` in the general sense an occurrence; the meta-narrator's `Persona` an occurrence; names of people never written",
+  "sweep": [
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 244,
+      "decision": "occurrence",
+      "why": "the meta-narrator as a persona within the narrative system"
+    }
+  ],
+  "not_promoted": [
+    "MAD, Cache Coherence as a surface, the four world names as surfaces, Meta-Erzähler, Anagnorisis, Gnosis, Realitätsüberlappung, and the borrowed concepts (several named after people)"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
