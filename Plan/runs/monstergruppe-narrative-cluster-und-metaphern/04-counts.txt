@@ -1,0 +1,54 @@
+# counts for 37 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Monstergruppe                    28 word    28 in   [25, 37, 43, 49, 51, 55]
+  Monster                          41 word   105 in   [11, 13, 23, 25, 37, 39]  <-- substring
+                                   28      as Monstergruppe
+                                   24      as Monsters
+                                    2      as Monster-Struktur
+                                    2      as Monster_group
+  Baby Monster                      5 word     7 in   [101, 113, 180, 379, 384, 425]
+  Happy Family                     13 word    13 in   [39, 91, 95, 97, 103, 162]
+  Pariahs                           8 word     8 in   [91, 95, 103, 267, 346, 423]
+  Pariah-Gruppen                    2 word     2 in   [298, 423]
+  freundlicher Riese                2 word     2 in   [25, 39]
+  Monstrous Moonshine               7 word     7 in   [39, 65, 73, 75, 478, 479]
+  Verallgemeinerter Moonshine       1 word     1 in   [422]
+  Griess-Algebra                    8 word     8 in   [53, 55, 57, 59, 71, 85]
+  Moonshine-Modul                   1 word     4 in   [59, 85, 371]  <-- substring
+                                    3      as Moonshine-Moduls
+  Leech-Gitter                      8 word    15 in   [100, 103, 140, 141, 142, 146]
+                                    6      as Leech-Gitters
+                                    1      as Leech-Gitter-
+  Golay-Code                        7 word    13 in   [141, 154, 155, 156, 158, 160]
+                                    5      as Golay-Codes
+                                    1      as Golay-Code-Symmetrien
+  Conway-Gruppen                    5 word     5 in   [103, 136, 146, 401, 404]
+  Mathieu-Gruppen                   8 word     8 in   [99, 103, 150, 158, 280, 402]
+  Fischer-Gruppe                    3 word     7 in   [103, 124, 131, 166, 386, 400]  <-- substring
+                                    4      as Fischer-Gruppen
+  Fischer-Gruppen                   4 word     4 in   [103, 166, 400, 404]
+  Thompson-Gruppe                   1 word     1 in   [167]
+  Harada-Norton-Gruppe              1 word     1 in   [168]
+  Held-Gruppe                       1 word     1 in   [169]
+  sporadische Gruppen               5 word     6 in   [21, 164, 174, 231, 390, 411]
+  Subquotienten                     8 word     8 in   [39, 93, 95, 105, 164, 231]
+  Konjugationsklassen               5 word     5 in   [105, 119, 342, 379]
+  Zentralisatoren                   6 word     6 in   [334, 343, 380, 390, 411]
+  3-Transpositionsgruppe            4 word     5 in   [129, 181, 345]
+                                    1      as 3-Transpositionsgruppen
+  Die Titanen                       1 word     1 in   [111]
+  Die Architekten der Symmetrie     1 word     1 in   [134]
+  Die Code-Meister                  1 word     1 in   [148]
+  Narratives Cluster                4 word     4 in   [120, 132, 146, 158]
+  Narrative Cluster                 1 word     1 in   [107]
+  Metapher-Cluster                  2 word     3 in   [284, 286, 290]
+                                    1      as Metapher-Clustern
+  Clusterung von Metaphern          1 word     1 in   [261]
+  Atome der Symmetrie               2 word     2 in   [17, 367]
+  Symmetrie-Persönlichkeiten        1 word     1 in   [404]
+  Klassifikationssatz der endlichen einfachen Gruppen    2 word     2 in   [19, 443]
+  Environmental Storytelling       11 word    12 in   [43, 300, 302, 304, 306, 336]
+  Set Dressing                      1 word     1 in   [316]
