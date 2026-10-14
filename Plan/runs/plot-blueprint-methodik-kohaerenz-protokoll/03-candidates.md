@@ -1,0 +1,85 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a method handbook for working out 39 plot points. It names the novel's world only inside application bullets, each tagged with a bracketed „Kontext“ number that points to material not in this file. Technique headings A to L, the matrix columns and the template fields (a) to (g) are the document's own labels and are listed as terms. The world codes KW1 to KW4 are written with plain digits. Names of the cited works and the numbered reference list (L401 to L403) are left out.
+
+- Kael
+- Juna
+- AEGIS
+- Kern-Welten
+- Kern-Welt
+- KW1
+- KW2
+- KW3
+- KW4
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Überwelt
+- AEGIS-Kontrollebene
+- Alters
+- Alter
+- Nox
+- Praetor
+- Flicker
+- Index
+- Guardians
+- LogOS
+- Mnemosyne
+- OBP
+- RIVE
+- SARM
+- PMAS
+- CCPP
+- K-Juna-Paradoxon
+- K-Juna Paradoxon
+- K-Juna-Verbindung
+- Risse
+- Welle von Unmöglichkeit
+- Ufer
+- Kohärenz-Insel
+- Simulation
+- Kipple
+- Trauma-Loops
+- Datenfriedhöfe
+- DIS
+- Plot-Punkte
+- 7-Punkte-Struktur
+- Environmental Storytelling (EST)
+- EST
+- Setting als Charakter
+- Architektur als Metapher
+- Sensorische Details im Worldbuilding
+- DIS-Darstellung
+- Subjektive Wahrnehmungsnarration
+- Darstellung Innerer Konflikte
+- Verkörperung Abstrakter Konzepte
+- Entropie als Narratives Mittel
+- Paradoxien in Literatur
+- Psychologischen Horrors
+- Vermeidung von Didaktik
+- Anwendungsmatrix Narrativer Techniken
+- Angereicherte Plot-Punkt-Vorlage
+- Grundprinzipien
+- Vertiefte Betrachtung
+- Kapitel-Titel/Fokus
+- Detaillierte Handlungssynopsis
+- Konzeptionelle Einbettung & Klärung
+- Charakter- & System-Entwicklung
+- Theorie- & Paradox-Integration
+- Thematischer Beitrag & Narrative Funktion
+- Kael/Alters Subjektivität
+- AEGIS/Systemlogik
+- Kern-Welten Atmosphäre
+- Abstrakte Konzepte
+- Thematische Tiefe
+- Informationsentropie
+- Negentropie
+- Hitzetod
+- Plot-Blueprint
+
+## lens
+
+- Internal Family Systems
+- Dissoziative Identitätsstörung
+- Maxwells Dämon
+- Lügner-Paradoxon
+- Körperhorror
