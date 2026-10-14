@@ -86,10 +86,11 @@
         "aegis-philosophische-und-systemtheoretische-analyse-docx",
         "the-architecture-of-a-misguided-god-a-biography-of-aegis",
         "dramatica-storyform-kohaerenz-protokoll",
-        "aegis-seele-und-entropie"
+        "aegis-seele-und-entropie",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko"
       ],
-      "sources": 51,
-      "readings": 49,
+      "sources": 52,
+      "readings": 50,
       "conflict": "none"
     },
     "aegis": {
@@ -455,10 +456,18 @@
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 353,
-      "readings": 353,
+      "sources": 361,
+      "readings": 361,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -584,10 +593,11 @@
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
         "the-true-coherence-protocol-architecting-kaels-journey-from",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
-        "roman-analyse-kohaerenz-protokoll-akt-i"
+        "roman-analyse-kohaerenz-protokoll-akt-i",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll"
       ],
-      "sources": 117,
-      "readings": 117,
+      "sources": 118,
+      "readings": 118,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -874,10 +884,11 @@
         "romanplot-kohaerenz-protokoll-entwicklung",
         "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
         "monstergruppe-primzahlen-plot-neukonstruktion",
-        "plot-rekonstruktion-kohaerenz-protokoll"
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 171,
-      "readings": 171,
+      "sources": 172,
+      "readings": 172,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1145,10 +1156,11 @@
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt"
       ],
-      "sources": 38,
-      "readings": 38,
+      "sources": 39,
+      "readings": 39,
       "conflict": "none"
     },
     "cerberus": {
@@ -1260,10 +1272,11 @@
         "roman-kohaerenz-protokoll",
         "kohaerenz-protokoll-epische-plot-anreicherung",
         "kapitel-17",
-        "kapitel-18"
+        "kapitel-18",
+        "ki-antagonist-fragmentierte-gottheit-analyse"
       ],
-      "sources": 103,
-      "readings": 103,
+      "sources": 104,
+      "readings": 104,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1712,10 +1725,12 @@
         "physik-fuer-simulierte-realitaet",
         "kohaerenz-protokoll-roman-ausarbeitung",
         "kohaerenz-protokoll-umfassendes-konzept",
-        "narrative-techniken-fuer-kohaerenz-protokoll"
+        "narrative-techniken-fuer-kohaerenz-protokoll",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 91,
-      "readings": 91,
+      "sources": 93,
+      "readings": 93,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1930,10 +1945,13 @@
         "romanplot-kohaerenz-protokoll-entwicklung",
         "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
         "kohaerenz-protokoll-roman-ausarbeitung",
-        "kohaerenz-protokoll-umfassendes-konzept"
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 163,
-      "readings": 163,
+      "sources": 166,
+      "readings": 166,
       "conflict": "C2"
     },
     "erason": {
@@ -2257,10 +2275,11 @@
         "a-definitive-architectural-blueprint-of-the-kohaerenz-protok",
         "aegis-eingriff-angriff-oder-rettung",
         "genesis-aegis",
-        "the-architecture-of-a-misguided-god-a-biography-of-aegis"
+        "the-architecture-of-a-misguided-god-a-biography-of-aegis",
+        "ki-antagonist-fragmentierte-gottheit-analyse"
       ],
-      "sources": 112,
-      "readings": 112,
+      "sources": 113,
+      "readings": 113,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -2374,10 +2393,11 @@
         "an-introduction-to-the-coherence-protocol-the-war-for-realit",
         "dramatica-storyform-validierung-und-synthese",
         "the-coherence-protocol-an-architectural-blueprint-for-agenti",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko"
       ],
-      "sources": 105,
-      "readings": 103,
+      "sources": 106,
+      "readings": 104,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -2638,10 +2658,12 @@
         "plot-rekonstruktion-kohaerenz-protokoll",
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll"
       ],
-      "sources": 165,
-      "readings": 165,
+      "sources": 167,
+      "readings": 167,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -3093,10 +3115,15 @@
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 303,
-      "readings": 303,
+      "sources": 308,
+      "readings": 308,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3507,10 +3534,18 @@
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 341,
-      "readings": 342,
+      "sources": 349,
+      "readings": 350,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3894,10 +3929,15 @@
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 238,
-      "readings": 237,
+      "sources": 243,
+      "readings": 242,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -4081,10 +4121,13 @@
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "dramatica-storyform-kohaerenz-protokoll-2",
         "multidimensionale-narrative-strukturmodelle-entwickeln",
-        "kael-uberarbeitung-des-konzepts-unter-tsdp"
+        "kael-uberarbeitung-des-konzepts-unter-tsdp",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung"
       ],
-      "sources": 175,
-      "readings": 176,
+      "sources": 178,
+      "readings": 179,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -4121,10 +4164,11 @@
         "kohaerenz-protokoll-analyse-und-synthese",
         "blueprint",
         "roman-konzeptentwicklung-kohaerenz-protokoll",
-        "bewerte-kishotenketsu-als-zentrales-narrativ"
+        "bewerte-kishotenketsu-als-zentrales-narrativ",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko"
       ],
-      "sources": 28,
-      "readings": 28,
+      "sources": 29,
+      "readings": 29,
       "conflict": "none yet"
     },
     "kohaerenz-kernel": {
@@ -4571,10 +4615,11 @@
         "dramatica-dual-storyform-mapping-protokoll",
         "roman-analyse-kohaerenz-protokoll-akt-i",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt"
       ],
-      "sources": 125,
-      "readings": 125,
+      "sources": 126,
+      "readings": 126,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -4822,10 +4867,14 @@
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "multidimensionale-narrative-strukturmodelle-entwickeln",
         "roman-analyse-kohaerenz-protokoll-akt-i",
-        "kael-uberarbeitung-des-konzepts-unter-tsdp"
+        "kael-uberarbeitung-des-konzepts-unter-tsdp",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll"
       ],
-      "sources": 189,
-      "readings": 190,
+      "sources": 193,
+      "readings": 194,
       "conflict": "none"
     },
     "lia": {
@@ -5074,10 +5123,12 @@
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "konzept-expose-schwarzschild-protokoll-optimierung"
       ],
-      "sources": 122,
-      "readings": 122,
+      "sources": 124,
+      "readings": 124,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -5489,10 +5540,11 @@
         "kohaerenz-protokoll-roman-ausarbeitung",
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko"
       ],
-      "sources": 172,
-      "readings": 172,
+      "sources": 173,
+      "readings": 173,
       "conflict": "none"
     },
     "moros": {
@@ -5619,10 +5671,11 @@
         "the-coherence-protocol-a-comparative-analysis-across-the-sca",
         "roman-kapitel-1-generierungsprozess",
         "konsolidierung-des-hard-canon-protokolls",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll"
       ],
-      "sources": 118,
-      "readings": 118,
+      "sources": 119,
+      "readings": 119,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -5848,10 +5901,13 @@
         "dramatica-storyform-validierung-und-synthese",
         "konsolidierung-des-hard-canon-protokolls",
         "storyforms-system-mind-bewusstsein",
-        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "konzept-expose-schwarzschild-protokoll-optimierung"
       ],
-      "sources": 161,
-      "readings": 161,
+      "sources": 164,
+      "readings": 164,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -5888,10 +5944,12 @@
         "logiksystem-aegis-entwicklungsszenarien-docx",
         "roman-kapitel-1-generierungsprozess",
         "storyforms-system-mind-bewusstsein",
-        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "konzept-expose-schwarzschild-protokoll-optimierung"
       ],
-      "sources": 28,
-      "readings": 27,
+      "sources": 30,
+      "readings": 29,
       "conflict": "none yet"
     },
     "nexus": {
@@ -6090,10 +6148,12 @@
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
         "konsolidierung-des-hard-canon-protokolls",
-        "multidimensionale-narrative-strukturmodelle-entwickeln"
+        "multidimensionale-narrative-strukturmodelle-entwickeln",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung"
       ],
-      "sources": 137,
-      "readings": 137,
+      "sources": 139,
+      "readings": 139,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -6305,10 +6365,14 @@
         "dramatica-storyform-kohaerenz-protokoll-2",
         "multidimensionale-narrative-strukturmodelle-entwickeln",
         "roman-analyse-kohaerenz-protokoll-akt-i",
-        "kael-uberarbeitung-des-konzepts-unter-tsdp"
+        "kael-uberarbeitung-des-konzepts-unter-tsdp",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll"
       ],
-      "sources": 190,
-      "readings": 191,
+      "sources": 194,
+      "readings": 195,
       "conflict": "C10"
     },
     "oblivion": {
@@ -6491,10 +6555,11 @@
         "in-teil-2-werden-die-persona-von-ihren-spezifis",
         "narrative-loesungen-fuer-romanprojekt",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "tsdp-analyse-kaels-innere-welt"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none"
     },
     "pms": {
@@ -6621,10 +6686,13 @@
         "physik-fuer-simulierte-realitaet",
         "plot-rekonstruktion-kohaerenz-protokoll",
         "kohaerenz-protokoll-umfassendes-konzept",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 105,
-      "readings": 106,
+      "sources": 108,
+      "readings": 109,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -6921,10 +6989,13 @@
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "konsolidierung-des-hard-canon-protokolls",
         "roman-analyse-kohaerenz-protokoll-akt-i",
-        "kael-uberarbeitung-des-konzepts-unter-tsdp"
+        "kael-uberarbeitung-des-konzepts-unter-tsdp",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll"
       ],
-      "sources": 128,
-      "readings": 128,
+      "sources": 131,
+      "readings": 131,
       "conflict": "none"
     },
     "risse": {
@@ -7184,10 +7255,15 @@
         "kohaerenz-protokoll-roman-ausarbeitung",
         "kohaerenz-protokoll-umfassendes-konzept",
         "narrative-techniken-fuer-kohaerenz-protokoll",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll",
+        "konzept-expose-schwarzschild-protokoll-optimierung",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 249,
-      "readings": 249,
+      "sources": 254,
+      "readings": 254,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -7388,10 +7464,12 @@
         "an-introduction-to-the-concepts-of-coherence-protocol",
         "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
-        "kael-uberarbeitung-des-konzepts-unter-tsdp"
+        "kael-uberarbeitung-des-konzepts-unter-tsdp",
+        "tsdp-analyse-kaels-innere-welt",
+        "ki-antagonist-fragmentierte-gottheit-analyse"
       ],
-      "sources": 139,
-      "readings": 139,
+      "sources": 141,
+      "readings": 141,
       "conflict": "none"
     },
     "silas": {
@@ -7993,10 +8071,16 @@
         "konsolidierung-des-hard-canon-protokolls",
         "storyforms-system-mind-bewusstsein",
         "multidimensionale-narrative-strukturmodelle-entwickeln",
-        "kael-uberarbeitung-des-konzepts-unter-tsdp"
+        "kael-uberarbeitung-des-konzepts-unter-tsdp",
+        "tsdp-analyse-kaels-innere-welt",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+        "canonical-narrative-architecture-for-kohaerenz-protokoll",
+        "ki-rolle-aegis-genesis-fragestellungen"
       ],
-      "sources": 197,
-      "readings": 197,
+      "sources": 203,
+      "readings": 203,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -8158,10 +8242,12 @@
         "monstergruppe-primzahlen-plot-neukonstruktion",
         "physik-fuer-simulierte-realitaet",
         "plot-rekonstruktion-kohaerenz-protokoll",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang",
+        "konzept-expose-schwarzschild-protokoll-optimierung"
       ],
-      "sources": 136,
-      "readings": 136,
+      "sources": 138,
+      "readings": 138,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
