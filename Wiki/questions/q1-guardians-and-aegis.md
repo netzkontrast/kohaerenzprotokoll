@@ -598,3 +598,11 @@ Stands as one more position on how the Guardians stand to AEGIS; recorded, not a
 The text reads „AEGIS' Guardians oder Herausforderungen in den Kernwelten“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27), and Kap 5 plans „Guardian von KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91), „Eine logische Entität, die die Grundregeln von KW1 verkörpert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91).
 
 Where it stands: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `romanplot-kohaerenz-protokoll-entwicklung`, 2025-04-25, the optimised blueprint
+
+**The optimised blueprint plans the Guardians as AEGIS's subsystems, personifying its inner conflict, and step 4's Wächter as an AEGIS subsystem in KW2.**
+
+The line reads „AEGIS Subsysteme/Guardians“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L103] and „Diese können Aspekte von AEGIS' internem Konflikt personifizieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L103] Step 4: „Der Wächter repräsentiert AEGIS' Kontrollmechanismen und seine autopoietische Tendenz, Abweichungen zu korrigieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L193]
+
+Where it stands: a plan, recorded, not applied; the question stays open.
