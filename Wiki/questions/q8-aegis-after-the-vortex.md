@@ -936,3 +936,11 @@ Where it stands in the record's own terms: a proposal among beats marked as exam
 It introduces them with „Mehrere Ausgänge sind denkbar“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L226]. Collapse: „Das System fragmentiert und löst sich möglicherweise im Chaos des Potentialmeers auf“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L228]. Transformation: „Es könnte gezwungen sein, seine negative Selbstdefinition aufzugeben“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L229]. Restart: „Es könnte das Experiment abbrechen, die Kernwelten auflösen und eine völlig neue Strategie im Umgang mit M entwickeln“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L230]. Part VIII asks only that the result be made concrete: „Das Ergebnis der Klimax für AEGIS wird konkretisiert“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L248].
 
 Where it stands in the record's own terms: a proposal among conditionals, recorded, not decided; the question stays open.
+
+## 2026-10-14 — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline
+
+**The strategy outline plans AEGIS in its sample Chapter 38 as trying to regain control, and leaves the ultimate fate open in Chapter 39: „Verzweifelter Versuch, die Kontrolle wiederzuerlangen, das Protokoll zu stabilisieren oder zumindest den Schaden einzudämmen“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L306].**
+
+The field continues: „letzte Verteidigung der (simulierten) Realität“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L306]. For Chapter 39 the outline plans: „Das Ende bleibt offen bezüglich des ultimativen Schicksals und der Natur der Realität.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L327] Its AEGIS field there reads: „AEGIS als Organisation ist zerschlagen oder stark geschwächt; einzelne Elemente könnten überlebt haben, stellen aber keine unmittelbare, kohärente Bedrohung mehr dar.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L329] The outline does not use the word `Vortex` ^[roman-outline-kohaerenz-protokoll-strategie.md:#0].
+
+Stands: recorded as an early outline's sample, neither applied nor set against the record's other answers.
