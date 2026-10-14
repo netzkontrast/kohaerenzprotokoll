@@ -896,3 +896,11 @@ Where it stands: a plan, recorded, not applied; the question stays open.
 Kap 33's narrator line plans „dessen Kollaps unter dem Gewicht seiner inneren Widersprüche oder durch die Präsenz von M“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L339], and its AEGIS line „Systemkollaps aufgrund unlösbarer Paradoxien“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L340] (the line goes on to name a person and a failure of autopoiesis). Kap 34 has „(Nicht mehr existent oder nur noch als passive Datenreste)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L350]. From Kap 35 the AEGIS line is „(Irrelevant)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L360], and so on to Kap 39.
 
 Where it stands in the record's own terms: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung`, 2025-10-16, the epilogue dossier
+
+**The epilogue dossier proposes AEGIS collapsed after the end, its agents inert and its core in a state of algorithmic melancholy.**
+
+Scene 1 shows „Kael besucht die nun inerten Überreste von AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166], and scene 3 has „Kael meditiert in der Nähe des Kerns des kollabierten AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L168], whose state the dossier calls „algorithmischer Melancholie“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L168]. The agents run their old routines in „sinnlosen, repetitiven Schleifen“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166].
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
