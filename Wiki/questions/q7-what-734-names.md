@@ -466,3 +466,11 @@ Where it stands in the record's own terms: it supports the designation sense of 
 In its Storyform A Kael has run out of ways to hide: „Kael gehen in den ersten 13 Kapiteln die Optionen und Vermeidungsstrategien aus, sich vor seinem Kern-Trauma (T-734) zu verstecken.“ ^[storyforms-system-mind-bewusstsein.md:L35] In its Storyform B Kael „hält kompromisslos an seinem Kern-Trauma (T-734) als harte Faktenbasis der Realität fest“ ^[storyforms-system-mind-bewusstsein.md:L70], refusing AEGIS's deletion.
 
 Where it stands in the record's own terms: 734 as a trauma of Kael, not a dwelling and not AEGIS's designation; recorded, the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure
+
+**The three-voice chapter structure plans a log whose data source is `Kael Trauma Archive T-734`; it names no dwelling and no component.**
+
+In the planned AEGIS log for Kap 27 the deployment lists a „Personalized Fear Matrix Simulation“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L305] with the data source „Kael Trauma Archive T-734“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L305]. The log is a draft passage in a plan; the number labels an archive of Kael's trauma there.
+
+Where it stands in the record's own terms: it has the number label an archive; on the component and dwelling senses it says nothing; recorded, not applied, the question stays open.
