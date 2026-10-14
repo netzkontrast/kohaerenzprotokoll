@@ -1,0 +1,239 @@
+{
+  "document": "tsdp-analyse-kaels-innere-welt",
+  "drive_id": "1HWxoovrII80Ev2bFlWm8uGnt5tnIEWoPiJGh1YfjVlo",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 48,
+    "decided_by_lookup": 39,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        47,
+        118,
+        159,
+        200,
+        400,
+        412,
+        423
+      ],
+      "attribution": "",
+      "note": "AEGIS as an outer amplifier of the parts' phobias, per part"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        398,
+        421
+      ],
+      "attribution": "",
+      "note": "the cache problem as outward inconsistency and a source of plot complications"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        47,
+        114,
+        119,
+        400
+      ],
+      "attribution": "",
+      "note": "the Juna/V connection as a challenge to the parts' phobias of attachment"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        19,
+        23,
+        30,
+        398,
+        404,
+        444
+      ],
+      "attribution": "",
+      "note": "Kael's five parts read as structural dissociation, as hypotheses for the novel"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        79,
+        87,
+        89,
+        90,
+        431
+      ],
+      "attribution": "",
+      "note": "the four worlds as the setting of each part's tension points"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        59,
+        72,
+        139,
+        140,
+        148,
+        160
+      ],
+      "attribution": "",
+      "note": "an EP holding fear, grief and pain, with a phobia of abandonment"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        87,
+        128
+      ],
+      "attribution": "",
+      "note": "the logical world as resonance and strain for Lex, as friction for Kiko"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        52,
+        58,
+        71,
+        87,
+        90,
+        118,
+        148
+      ],
+      "attribution": "",
+      "note": "an ANP of logic and control, with a phobia of the EPs"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        60,
+        73,
+        181,
+        200
+      ],
+      "attribution": "",
+      "note": "an EP holding anger and aggression, defending by fight"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "Kael's inner Personas read as manifestations of dissociated parts"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        61,
+        74,
+        221,
+        222,
+        232
+      ],
+      "attribution": "",
+      "note": "an ANP of social harmony, with a phobia of conflict and of Nyx"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        94,
+        99,
+        140,
+        181,
+        222
+      ],
+      "attribution": "",
+      "note": "Wächterin/Selene as a symbol of integration, read differently by each part"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17,
+        19,
+        36,
+        47,
+        52,
+        56,
+        66
+      ],
+      "attribution": "",
+      "note": "the theory applied to Kael's system, with provisional role hypotheses"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 467,
+      "decision": "occurrence",
+      "why": "a reference-list title"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 467,
+      "decision": "occurrence",
+      "why": "a reference-list title"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 47,
+      "decision": "reading",
+      "why": "the connection to Juna/V challenging phobias of attachment"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "personas",
+      "surface": "Personas",
+      "line": 19,
+      "decision": "reading",
+      "why": "Kael's Personas read as dissociated parts"
+    },
+    {
+      "page": "selene",
+      "surface": "Selene",
+      "line": 94,
+      "decision": "reading",
+      "why": "Wächterin/Selene within the whole system"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      30
+  backslash escapes      38
+  typographic marks      20
+  ascii quotes           134
+
+# inflection families -- one term, several surfaces
+  bindu    Bindung, Bindungen, Bindungs, Bindungsappelle, Bindungsbedürfnis, Bindungsruf, Bindungssehnsüchte, Bindungssystem, Bindungsverhalten, Bindungsversuchen
+  konfl    Konflikt, Konfliktdynamik, Konfliktdynamiken, Konflikte, Konflikten, Konfliktlösung, Konfliktpotenzial, Konfliktpotenziale, Konfliktscheu, Konfliktvermeidung
+  kontr    Kontrast, Kontroll, Kontrollanstrengung, Kontrollbedürfnis, Kontrolle, Kontrollmechanismen, Kontrollneigung, Kontrollphantasie, Kontrollverlust, Kontrollversuche
+  emoti    Emotion, Emotional, Emotionale, Emotionalen, Emotionalität, Emotionen, Emotionsregulation
+  regel    Regelbruch, Regelbrüche, Regelkonformität, Regeln, Regelnavigation, Regelverstöße, Regelverstößen
+  verte    Verteidigerin, Verteidigung, Verteidigungs, Verteidigungsbereitschaft, Verteidigungsmodi, Verteidigungsreaktionen, Verteidigungssystem
+  besch    Beschwerden, Beschwichtigung, Beschwichtigungsversuchen, Beschützer, Beschützerin, Beschützerinstinkt
+  chara    Charakter, Charakterinformationen, Charakterinteraktionen, Charakteristika, Charakterprofile, Charakterzeichnung
+  gegen    Gegenpol, Gegenspieler, Gegensätzen, Gegenteil, Gegenwart, Gegenüber
+  selbs    Selbst, Selbstaufopferung, Selbstberuhigungsfähigkeiten, Selbstempfinden, Selbstfürsorge, Selbstversorgung
+  unter    Unterdrücker, Unterdrückung, Unterschiedliche, Unterschätzung, Untersuchung, Unterwerfung
+  abweh    Abwehr, Abwehrmechanismen, Abwehrmechanismus, Abwehrreaktion, Abwehrreaktionen
+  allta    Alltag, Alltagsbewältigung, Alltagsfunktionalität, Alltagsfunktionen, Alltagslebens
+  ident    Identifikation, Identifizierung, Identity, Identität, Identitätsverlust
+  integ    Integration, Integrationsdefizits, Integrationsprozess, Integrationsprozessen, Integrationsprozesses
+  traum    Trauma, Traumareaktion, Traumas, Traumatisierung, Traumatization
+  verha    Verhalten, Verhaltensmuster, Verhaltensmustern, Verhaltenswechseln, Verhaltensänderungen
+  verla    Verlassenheit, Verlassenheitsangst, Verlassenheitsgefühlen, Verlassenheitsängste, Verlassenwerden
+  wider    Widersprüchlichkeiten, Widerstand, Widerstands, Widerstände, Widerwillen
+  aggre    Aggression, Aggressiv, Aggressor, Aggressoranteile
+  aktio    Aktionen, Aktionssystem, Aktionssysteme, Aktionssystemen
+  antei    Anteil, Anteile, Anteilen, Anteils
+  bedür    Bedürfnis, Bedürfnisse, Bedürfnissen, Bedürftigkeit
+  disso    DISSOCIATION, Dissociation, Dissociative, Dissoziation
+  fried    Frieden, Friedens, Friedensstifter, Friedensstiftung
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Eine < Seine
+  Eine < Weinen
+  Eine < Einengung
+  Eine < Einerseits
+  Eine < Anscheinend
+  Kael < Kaels
+  Kann < Unbekannten
+  Kern < Kernwelt
+  Kern < Kernphobie
+  Kern < Kernwelten
+  Kern < Kernphobien
+  Kern < Kernproblem
+  Kern < Kernfunktion
+  Kern < Kernfunktionen
+  Kern < Kernprinzipien
+  Kern < Kernüberzeugung
+  Kiko < Kikos
+  Leid < Leiden

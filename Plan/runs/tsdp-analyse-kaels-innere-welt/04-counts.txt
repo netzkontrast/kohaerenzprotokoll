@@ -1,0 +1,65 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             16 word    32 in   [11, 17, 19, 21, 23, 30]
+                                   16      as Kaels
+  Lex                              60 word    60 in   [17, 23, 30, 37, 52, 58]
+  Kiko                             46 word    63 in   [17, 23, 30, 38, 58, 59]
+                                   17      as Kikos
+  Nyx                              64 word    64 in   [17, 23, 30, 38, 51, 58]
+  Rhys                             57 word    57 in   [17, 23, 30, 37, 51, 52]
+  Kai                              44 word    55 in   [17, 23, 30, 37, 62, 75]
+  AEGIS                            51 word    51 in   [47, 60, 62, 110, 114, 118]
+  Juna/V                           24 word    24 in   [47, 114, 119, 155, 160, 196]
+  Paradoxon X                      12 word    12 in   [114, 120, 155, 161, 196, 202]
+  Wächterin/Selene                 11 word    11 in   [94, 99, 135, 140, 176, 181]
+  Wächterin                        14 word    14 in   [94, 99, 135, 140, 176, 181]
+  Kernwelten                       10 word    10 in   [79, 83, 124, 165, 206, 247]
+  Kernwelt-Regeln                   1 word     1 in   [62]
+  Co₁                              16 word    16 in   [83, 87, 124, 128, 165, 169]
+  Konstrukt-Stadt                   1 word     1 in   [87]
+  McL                              15 word    16 in   [83, 88, 124, 129, 165, 170]
+  McLeans Anstalt                   1 word     1 in   [88]
+  B                                34 word   189 in   [11, 15, 17, 21, 27, 28]  <-- substring
+  Bibliothek/Archiv                 1 word     1 in   [89]
+  Bibliothek                        3 word     3 in   [89, 130, 253]
+  Ly                               15 word    15 in   [83, 90, 124, 131, 165, 172]
+  Labyrinth/Wildnis                 1 word     1 in   [90]
+  Labyrinth                         2 word     2 in   [90, 131]
+  Cache Kohärenz                    2 word     2 in   [398, 421]
+  Kohärenz Protokoll                5 word     5 in   [11, 17, 19, 404, 444]
+  Spannungspunkte                  10 word    10 in   [11, 17, 77, 79, 81, 122]
+  Lasten                            6 word     6 in   [308, 328, 348, 368, 388, 442]
+  Notwendige Schritte               5 word     5 in   [306, 326, 346, 366, 386]
+  Bedürfnisse                      15 word    16 in   [61, 150, 201, 221, 231, 307]
+                                    1      as Bedürfnissen
+  Potenzial für Integration         5 word     5 in   [302, 322, 342, 362, 382]
+  Kernphobien                       7 word     7 in   [56, 58, 59, 60, 61, 62]
+  Schlüsselphobien                  1 word     1 in   [70]
+  TSDP                             13 word    29 in   [11, 17, 19, 21, 25, 32]  <-- substring
+                                    6      as TSDP-Rolle
+                                    2      as TSDP-Prinzipien
+                                    1      as TSDP-Basierte
+                                    1      as TSDP-Frameworks
+  Anscheinend Normale Teile         1 word     1 in   [27]
+  Anscheinend Normalen Teil         1 word     1 in   [23]
+  Emotionale Teile                  1 word     1 in   [28]
+  Emotionalen Teil                  1 word     1 in   [23]
+  ANP                              30 word    64 in   [23, 27, 28, 36, 37, 38]  <-- substring
+  EP                               17 word    57 in   [23, 28, 36, 37, 38, 43]  <-- substring
+  ANPs                             20 word    20 in   [36, 37, 43, 51, 52, 59]
+  EPs                              28 word    28 in   [28, 36, 37, 38, 43, 44]
+  Tertiäre Strukturelle Dissoziation    2 word     2 in   [23, 52]
+  TSD                               5 word    34 in   [11, 17, 19, 21, 23, 25]  <-- substring
+  Aktionssysteme                    5 word     8 in   [51, 60, 292, 352, 372]
+                                    2      as Aktionssystemen
+  Attachment Cry                    6 word     6 in   [51, 59, 72, 128, 148, 312]
+  Bindungsruf                       2 word     3 in   [38, 51, 59]
+                                    1      as Bindungsruf-System
+  Verteidigungssystem               1 word     1 in   [51]
+  Phobien                          22 word    22 in   [17, 39, 45, 46, 47, 222]
+  Intrusionen                       4 word     8 in   [28, 38, 62, 74, 75, 87]
+  Flashbacks                        2 word     2 in   [28, 396]
+  Ko-Bewusstseins                   1 word     1 in   [440]
