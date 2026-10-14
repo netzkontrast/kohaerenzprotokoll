@@ -1,0 +1,76 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+---
+
+Candidate list for a plot synthesis report ("Synthese-Bericht") that proposes four plot theses and a 39-chapter blueprint. The export writes a backslash-escaped space between the words of most bold labels and table-derived concept lines, so multi-word concept labels are listed by their single parts or by the unescaped table form. Chapter titles are the document's own labels for planned chapters; only the ones that name a place or object of the world are listed. The document is a version of a plot synthesis; its voice is a report that plans, with a second voice in the chapter blocks that describes what happens in each planned chapter.
+
+- AEGIS
+- Kael
+- Juna
+- Potentialmeer
+- Monstergruppe
+- Monstergruppe (M)
+- Kernwelt
+- Kernwelten
+- Riss
+- Risse
+- Alters
+- K-J Verbindung
+- K-J
+- Baby-Monster-Gruppen
+- Baby-Monster-Mathematik
+- Baby-Monster-Gruppen-Hierarchie
+- Der Baby-Monster-Schlüssel
+- Der Wächter am Abgrund
+- Der Riss-Wanderer
+- Kernwelt-Karussell
+- Nexus
+- Parias
+- Simplicity
+- Sporadicity
+- Complexity/Symmetry
+- Internal Structure
+- Sub-Protokollarische
+- sub-protokollarisches
+- Fragile Realität
+- Potentialmeer-Inkursionen
+- Pufferraum
+- Analyse-Sandbox
+- Verteidigungsperimeter
+- Informationsleckagen
+- Riss-Navigation
+- Simulation
+- AEGIS's Gambit
+- Kael's Integrierende Odyssee
+- Der Unaufhaltsame Riss
+- Die Moonshine-Brücke
+- Moonshine-Brücke
+- Existenz durch Negation
+- Der Ankerpunkt
+- Spiegelwelten
+
+## lens
+
+- Autopoiesis
+- Parakonsistenter
+- parakonsistenter Logik
+- Apophatische
+- apophatische
+- Gödel'schen
+- Gödel'sche
+- Moonshine
+- Moonshine-Phänomen
+- Emergenz
+- Nicht-Lokalität
+- Entropie
+- Potentialität
+- Cosmic Horror
+- Hard Sci-Fi
+- Kosmischen Horrors
+- Kosmische Gleichgültigkeit
+- verbotenes Wissen
+- Dread
+- Dissociative Identity Disorder (DID)
+- Internal Family Systems (IFS)
+- DID
+- IFS

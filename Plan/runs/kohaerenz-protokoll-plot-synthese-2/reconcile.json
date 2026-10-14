@@ -1,0 +1,259 @@
+{
+  "document": "kohaerenz-protokoll-plot-synthese-2",
+  "drive_id": "1dLNkVzhwLDXj7caOKlwve_g64pLPn1LrH3hrLxyS3pg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings, two record entries and 39 chapter readings (Kap 1–39) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-423/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a plot blueprint with no personal material; a gendered pronoun for Kael in the note was replaced by the name before the commit; read in full, since its content differs from the read kohaerenz-protokoll-plot-synthese despite the slug",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 68,
+    "decided_by_lookup": 43,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A 39-chapter plot blueprint built on the thesis „Die Moonshine-Brücke“: its new surfaces are M and its properties, the Parias, the Baby-Monster-Gruppen, the four theses, its chapter titles and borrowed concepts; what it plans for AEGIS, Kael, Juna, the alters, DID, emergence, entropy, the Kernwelten, coherence, the Nexus, the Potentialmeer, the Risse, the simulation and the Moonshine link went on existing pages, AEGIS's end on Q8 and the Nexus on Q6, and each chapter's plan on Kap 1 to Kap 39.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        36,
+        77,
+        85,
+        97,
+        100,
+        102,
+        408,
+        507
+      ],
+      "attribution": "",
+      "note": "AEGIS as the defender by negation, and the plan for its turn"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        25,
+        64,
+        76,
+        86,
+        94
+      ],
+      "attribution": "",
+      "note": "The Alters as parts of the self, from denial to integration"
+    },
+    {
+      "page": "did",
+      "lines": [
+        25,
+        34
+      ],
+      "attribution": "",
+      "note": "DID as the analogy for Kael's condition"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        26,
+        69,
+        188
+      ],
+      "attribution": "",
+      "note": "Emergence in the K-J connection and in the Risse"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "Entropy as the Potentialmeer's gradient and AEGIS's cost"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        26,
+        36,
+        81,
+        102,
+        166,
+        211,
+        497,
+        530
+      ],
+      "attribution": "",
+      "note": "Juna as the connected entity and the anchor of the search"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        44,
+        48,
+        62,
+        71,
+        86,
+        99,
+        102
+      ],
+      "attribution": "",
+      "note": "Kael as the Riss-Wanderer, from fragmentation to the transmitter of coherence"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23,
+        63,
+        74,
+        81,
+        83,
+        98,
+        111
+      ],
+      "attribution": "",
+      "note": "Kernwelten as possible parallel instances, and the chapters that cross them"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        78,
+        100,
+        507
+      ],
+      "attribution": "",
+      "note": "Coherence as a chapter theme: through integration, and as AEGIS's new principle"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        26,
+        40,
+        87,
+        99
+      ],
+      "attribution": "",
+      "note": "The K-J connection as an emergent Moonshine phenomenon, and the chosen thesis"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "The Nexus in the title of Kap 26"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        21,
+        22,
+        23,
+        65,
+        93,
+        101,
+        144
+      ],
+      "attribution": "",
+      "note": "The Potentialmeer as high-entropy foundation, glimpsed through the Risse"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        23,
+        35,
+        77,
+        93,
+        199,
+        265
+      ],
+      "attribution": "",
+      "note": "The Risse as symptoms and leaks, escalating through the plan"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        23,
+        66,
+        98
+      ],
+      "attribution": "",
+      "note": "The Simulation as AEGIS's buffer, permeable and decaying"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q6",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Der Ankerpunkt` Kap 10's title, the K-J connection as anchor, not Junas Ankerpunkt; `Moonshine` read on moonshine-link where the line is about the K-J connection; `Kernwelt` and `Kernwelten` one term; `Riss` and `Risse` one term; `Alters` on alters; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "Monstergruppe (M) and its four properties, the Parias, the K-J Verbindung, the Baby-Monster-Gruppen and their hierarchy, Der Baby-Monster-Schlüssel, Der Wächter am Abgrund, Der Riss-Wanderer, the four theses, Kernwelt-Karussell, Spiegelwelten, Potentialmeer-Inkursionen, the sub-protokollarische Phänomene, NZT-Ideal, the chapter titles, and the borrowed concepts"
+  ],
+  "internal_tension": "it calls its frame binding and definitive (L15, L19) while hedging most of what it plans; it names the Nexus only in a chapter title and explains it nowhere; the Kernwelten get several possible natures at once (L23) — all recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

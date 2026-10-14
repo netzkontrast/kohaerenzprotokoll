@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plot-synthese-2
+  lines                538  (frontmatter ends at 9)
+  body words           7407
+  headings             7   bold-only lines 4
+  table rows           45   code fences 0
+  question marks       2
+  backslash escapes    12
+  typographic marks    85   ascii quotes 56
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    59
+  repeated labels      Genre-Fokus x39, Handlung/Charakterentwicklung x39, Nebencharaktere x39, Zentrales Konzept/Thema x39
+  longest line         1273 chars
+

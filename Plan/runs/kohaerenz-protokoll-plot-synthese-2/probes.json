@@ -1,0 +1,276 @@
+{
+  "document": "kohaerenz-protokoll-plot-synthese-2",
+  "drive_id": "1dLNkVzhwLDXj7caOKlwve_g64pLPn1LrH3hrLxyS3pg",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 59,
+  "backslash_escapes": 12,
+  "typographic_marks": 85,
+  "ascii_quotes": 56,
+  "inflection_families": {
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsauflösung",
+      "Realitätsblasen",
+      "Realitätsbruch",
+      "Realitätsbrüche",
+      "Realitätsendes",
+      "Realitätsinstabilität",
+      "Realitätskrise",
+      "Realitätsstörungen",
+      "Realitätswechsel",
+      "Realitätszerfall"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systemintegrität",
+      "Systemkollaps",
+      "Systemkontrolle",
+      "Systemrauschen",
+      "Systems",
+      "Systemstörungen",
+      "Systemtheorie"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationsebene",
+      "Simulationsinstanzen",
+      "Simulationsmechanik",
+      "Simulationsparameter",
+      "Simulationsparametern",
+      "Simulationsregeln",
+      "Simulationsschichten",
+      "Simulierte"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsauflösung",
+      "Informationsleckagen",
+      "Informationsmuster",
+      "Informationsphysik",
+      "Informationsverbindung",
+      "Informationsübertragung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfragmente",
+      "Datenfragmenten",
+      "Datenmuster",
+      "Datenpunkte",
+      "Datentransfer"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzielle",
+      "Existenzkampf",
+      "Existenzmodus",
+      "Existenzprinzip",
+      "Existenzweise"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungsimpulse",
+      "Handlungsstränge",
+      "Handlungszusammenfassung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsmodell",
+      "Integrationsprozess",
+      "Integrationsprozesses",
+      "Integrationsstatus",
+      "Integrierende"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzepts",
+      "Konzeptuellen"
+    ],
+    "chara": [
+      "Charakterbogen",
+      "Charakterdynamiken",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakteristika"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Internal",
+      "Interpretation"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analyseprozess",
+      "Analysesystemen"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentiert",
+      "Fragmentierung"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "poten": [
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial"
+    ],
+    "verst": [
+      "Verstand",
+      "Verständnis",
+      "Verständnisgrenzen",
+      "Verständnisses"
+    ],
+    "wider": [
+      "Widerspruchstoleranz",
+      "Widersprüche",
+      "Widersprüchliche",
+      "Widerstand"
+    ],
+    "überl": [
+      "Überlastung",
+      "Überlebende",
+      "Überlebenden",
+      "Überlebenskampf"
+    ],
+    "anker": [
+      "Anker",
+      "Ankerpunkt",
+      "Ankerung"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekte",
+      "Aspekten"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung",
+      "Beobachtungsgabe"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbruch",
+      "Durchbruchs"
+    ],
+    "eingr": [
+      "Eingriff",
+      "Eingriffe",
+      "Eingriffen"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Wende"
+    ],
+    [
+      "Ende",
+      "Beginnende"
+    ],
+    [
+      "Ende",
+      "Überlebende"
+    ],
+    [
+      "Ende",
+      "Überlebenden"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Ende",
+      "Integrierende"
+    ],
+    [
+      "Ende",
+      "Kollabierende"
+    ],
+    [
+      "Ende",
+      "Realitätsendes"
+    ],
+    [
+      "Ende",
+      "Fortschreitende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ]
+  ]
+}
