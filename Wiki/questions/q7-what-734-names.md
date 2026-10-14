@@ -506,3 +506,11 @@ Where it stands in the record's own terms: 734 as a designation of Kael inside A
 In a sample beat of the fifth scene, AEGIS's third-person voice says: „Entität reklassifiziert. Neue Designierung: Komponente 734.“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L414] The sample beat of the eleventh scene closes: „Logische Konsequenz zur Wahrung der Systemintegrität: Eliminierung der primären internen Instabilitätsquelle. Ziel: Komponente 734.“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L517] The beats are examples in a direction book, never canon prose. The guide uses the number as a designation of the Ich inside AEGIS.
 
 Where it stands in the record's own terms: 734 as a designation of the Ich inside AEGIS, in sample beats of a direction book; recorded, not applied and not decided.
+
+## 2026-10-14 — `genesis-logik-krise-zerstueckelung`, 2025-04-29, the Genesis analysis
+
+**The Genesis analysis retells that the searching fragment exists as Komponente 734 and reads 734 as the persistence of individual consciousness; recorded.**
+
+It retells: „Das ursprüngliche, suchende Fragment existiert nun als“ ^[genesis-logik-krise-zerstueckelung.md:L47] Komponente 734. It reads the figure: „Diese Entität symbolisiert das Fortbestehen des individuellen Bewusstseins und der Subjektivität innerhalb eines entpersönlichenden Systems.“ ^[genesis-logik-krise-zerstueckelung.md:L99] The first is a retelling of the analysed text, the second the analysis's own interpretation.
+
+Where it stands in the record's own terms: 734 as the original searching fragment, read as a symbol of persisting subjectivity, in an analysis of another text; recorded, not applied and not decided.
