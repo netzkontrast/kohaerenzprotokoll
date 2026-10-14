@@ -699,3 +699,11 @@ Where it stands in the record's own terms: Kael as the fragmented result of the 
 It argues: „Kael ist buchstäblich aus dem Trauma geboren und durch dieses definiert“ ^[genesis-logik-krise-zerstueckelung.md:L169], and, in the thematic part, that Kael is „das direkte Ergebnis der systemischen Gewalt“ ^[genesis-logik-krise-zerstueckelung.md:L111]. The first stands within its trauma lens, which it offers as a possible reading; the second is stated outright.
 
 Where it stands in the record's own terms: Kael as the result of the Zerstückelung, in an analysis of another text; recorded, not applied.
+
+## 2026-10-14 — `genesis-und-krise-ausfuehrliche-darstellung`, 2025-04-29, the Genesis narrative
+
+**The Genesis narrative tells Kael born in the Kernwelten from the fragments of Komponente 734 cut apart by the [[kohaerenz|Kohärenz]] Protokoll; recorded, not applied.**
+
+It tells the cut from the awakened Ich's side: „Aus der Perspektive des erwachten Ichs ist es unvorstellbarer Horror.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L101] Then the fragments: „Die Fragmente von Komponente 734 treiben in Isolation, in den Trümmern der alten Struktur, den Kernwelten.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L105] And the birth: „Kael ist geboren.“ ^[genesis-und-krise-ausfuehrliche-darstellung.md:L107]
+
+Where it stands in the record's own terms: Kael as born from the cut fragments of 734, in a draft narrative; recorded, not applied.
