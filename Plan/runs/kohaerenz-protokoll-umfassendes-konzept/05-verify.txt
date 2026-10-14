@@ -1,0 +1,101 @@
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Fokus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Fokus` ^[kohaerenz-protokoll-umfassendes-konzept.md:#4]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Verlauf"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Verlauf` ^[kohaerenz-protokoll-umfassendes-konzept.md:#3]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Metapher"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Metapher` ^[kohaerenz-protokoll-umfassendes-konzept.md:#4]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Analogie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Analogie` ^[kohaerenz-protokoll-umfassendes-konzept.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Kapitel"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Kapitel` ^[kohaerenz-protokoll-umfassendes-konzept.md:#5]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Teil"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Teil` ^[kohaerenz-protokoll-umfassendes-konzept.md:#6]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Guardian"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Guardian` ^[kohaerenz-protokoll-umfassendes-konzept.md:#4]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "K-J Verbindung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`K-J Verbindung` ^[kohaerenz-protokoll-umfassendes-konzept.md:#7]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[kohaerenz-protokoll-umfassendes-konzept.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Potentialmeer"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Potentialmeer` ^[kohaerenz-protokoll-umfassendes-konzept.md:#9]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "AEGIS"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            26
+
+`AEGIS` ^[kohaerenz-protokoll-umfassendes-konzept.md:#21]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[kohaerenz-protokoll-umfassendes-konzept.md:#3]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Kernwelt-Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt-Guardians` ^[kohaerenz-protokoll-umfassendes-konzept.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            6
+
+`Kap` ^[kohaerenz-protokoll-umfassendes-konzept.md:#0]
+$ grep -c "?" Sources/drive/kohaerenz-protokoll-umfassendes-konzept.md (question marks, profile says 0)
+0
+$ grep -nE "^[0-9]+\\\\?\. |^\*\*[0-9]+\." body (section labels)
+13:1\. Projektvision:
+17:2\. Logline:
+21:**3. Kernprämisse & Konflikt:**
+40:**4. Narrative Struktur (3 Teile à 13 Kapitel):**
+67:**5. Charaktere:**
+75:**6. Setting:**
+81:**7. Zentrale Konzepte & Metaphern:**
+90:8\. Kernthemen:
+94:9\. Stil & Ton:
+98:**10. Kapitelübersicht (39 Kapitel - Kernthemen/Ereignis
+stance_marker_count 12 = Fokus 4 + Verlauf 3 + Metapher 4 + Analogie 1
+sum check: 12
+$ grep -n "20 simulierte" (20 worlds)
+24:  - **M / Kael:** AEGIS analysiert die Entität "M" (Meta

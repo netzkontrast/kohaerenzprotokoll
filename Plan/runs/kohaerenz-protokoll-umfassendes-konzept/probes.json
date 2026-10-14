@@ -1,0 +1,208 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept",
+  "drive_id": "12IT3YD9eFb6k9ik_M4ujLgCVGhy7TZqoKA3UrYSk2AM",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 9,
+  "backslash_escapes": 0,
+  "typographic_marks": 3,
+  "ascii_quotes": 42,
+  "inflection_families": {
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsparadoxien",
+      "Identitätsstörung"
+    ],
+    "kernw": [
+      "Kernwahrheit",
+      "Kernwelt",
+      "Kernwelten",
+      "Kernwunde"
+    ],
+    "insta": [
+      "Instabiler",
+      "Instabilität",
+      "Instanzen"
+    ],
+    "kernt": [
+      "Kernthemen",
+      "Kerntrauma",
+      "Kerntraumas"
+    ],
+    "monst": [
+      "Monster",
+      "Monstergruppe",
+      "Monstrous"
+    ],
+    "muste": [
+      "Muster",
+      "Mustererkennung",
+      "Mustern"
+    ],
+    "netzw": [
+      "Netzweber",
+      "Netzwerk",
+      "Netzwerke"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenanteilen",
+      "Schattenkonfrontation"
+    ],
+    "syste": [
+      "System",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltagsintegrationstest"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen"
+    ],
+    "angst": [
+      "Angst",
+      "Angstsimulationen"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur"
+    ],
+    "aspek": [
+      "Aspekte",
+      "Aspekts"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakterreise"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "einbl": [
+      "Einblicke",
+      "Einblicken"
+    ],
+    "emerg": [
+      "Emergent",
+      "Emergenz"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählstil"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "herau": [
+      "Herausforderung",
+      "Herausforderungen"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsversuche"
+    ],
+    "inter": [
+      "Intern",
+      "Internal"
+    ],
+    "intui": [
+      "Intuition",
+      "Intuitionsquelle"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernwunde"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kerntrauma"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kerntraumas"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernprämisse"
+    ],
+    [
+      "Kern",
+      "Kernwahrheit"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Meta",
+      "Metaphern"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Kerntrauma"
+    ],
+    [
+      "Raum",
+      "Kerntraumas"
+    ],
+    [
+      "Stil",
+      "Erzählstil"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Schattenanteilen"
+    ]
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept",
+  "drive_id": "12IT3YD9eFb6k9ik_M4ujLgCVGhy7TZqoKA3UrYSk2AM",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings, two record entries and 39 chapter readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-437/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a novel concept whose Wächterin is a part of Kael; its trauma symbol stays in the census and is never written on a page",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 79,
+    "decisions": 91,
+    "decided_by_lookup": 51,
+    "needs_judgement": 40
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A comprehensive concept in ten sections: its new surfaces are M as the Entität, Kael/M, the world codes, the four Guardians' names, the Kernwunde and Kerntrauma, the symbols, the Wächterin, cache conflicts, the chapter labels and borrowed concepts; what it plans for AEGIS, Kael, Juna, the Potentialmeer, the Kernwelten, the Guardians, the Moonshine link, DID, entropy, emergence, cache coherence and the Risse went on existing pages, the twenty worlds on Q3 and the four Guardians on Q5, and each chapter's label on Kap 1 to Kap 39.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        24,
+        70,
+        79,
+        101,
+        102
+      ],
+      "attribution": "",
+      "note": "AEGIS as a self-preserving autopoietic AI, an antagonist the plan brings to its limit and to collapse"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        25,
+        86
+      ],
+      "attribution": "",
+      "note": "Each Kernwelt as an incoherent cache of Kael's identity"
+    },
+    {
+      "page": "did",
+      "lines": [
+        24,
+        69,
+        85
+      ],
+      "attribution": "",
+      "note": "Kael's fragmentation experienced as an induced DID"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        32,
+        38,
+        84
+      ],
+      "attribution": "",
+      "note": "Emergenz as a theme of the fourth world and of the systems concepts"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        37,
+        77,
+        83
+      ],
+      "attribution": "",
+      "note": "Entropie as a property of the Potentialmeer"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        29,
+        30,
+        31,
+        73
+      ],
+      "attribution": "",
+      "note": "Four Kernwelt-Guardians, one per focus world"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        36,
+        71,
+        102
+      ],
+      "attribution": "",
+      "note": "Juna as catalyst of the K-J connection, the nature left ambivalent"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        46,
+        65,
+        69,
+        102
+      ],
+      "attribution": "",
+      "note": "Kael as the human avatar of M: fragmentation, struggle and integration planned in three parts"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        24,
+        25,
+        29,
+        30,
+        31,
+        32,
+        78
+      ],
+      "attribution": "",
+      "note": "Twenty simulated Kernwelten, four in focus"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        36,
+        71,
+        83
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link as Kael's non-logical connection to Juna"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        37,
+        77,
+        102
+      ],
+      "attribution": "",
+      "note": "The Potentialmeer as a meta-space that threatens AEGIS, and the place of the exodus"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "Visible cracks in AEGIS's system"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael/M` read on kael; `AEGIS' System` and the chapter labels read with aegis; `Kernwelt-Guardians` and `Guardian` read on guardians, not the Integrity Guardian; `Architekt` the first world's Guardian; `Die Entität` names M, not the DID structure; `Cache Kohärenz Metapher` read on cache-kohaerenz; `Rissen` on risse; `Scherben/Mosaik` and `Garten` symbols, not the Mosaik-Herz nor the gardens; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "M (Die Entität), Kael/M, the world codes, the four Guardians' names, Kernwunde, Kerntrauma and its symbol, Bunker, Scherben/Mosaik, Garten, Jetzt-Raum, Wächterin/Selbst, Cache-Konflikte, the chapter labels, and the borrowed concepts"
+  ],
+  "internal_tension": "its part headings put Kap 26 in Part 2 (L51) while its overview lists it in Part 3 (L102); it counts twenty Kernwelten and designs four (L24, L25) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
