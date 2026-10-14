@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 436 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 436 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 437 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 437 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -360,7 +360,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kohärenz Protokoll - Umfassendes Konzept (mit Prin...](drive/kohaerenz-protokoll-umfassendes-konzept-mit-prin.md) | 2025-04-27 | 1,456 | **read** | Potentialmeer 5, Realitätsebenen 2, Emergenz 6, Kern-Welten 3, Juna 2, Entropie 4, Kohärenz 5, AEGIS 17 | K-J-Verbindung 3, Co₁ 2, Selbstorganisation 2, Autopoiesis 3, Gödel 2 |
 | [Entwicklungsstrategie für „Kohärenz Protokoll“](drive/entwicklungsstrategie-fuer-kohaerenz-protokoll.md) | 2025-04-28 | 5,960 | **read** | Cache-Kohärenz 5, Kern-Welten 10, Moonshine-Link 2, Juna 2, Kael 13, AEGIS 20, Kohärenz 2 | Novelcrafter 96, Codex 80, Ollama 2, Kernwelt McL 2, Kernwelt Ly 2 |
 | [Fundament-Konzept für "Kohärenz Protokoll"](drive/fundament-konzept-fuer-kohaerenz-protokoll.md) | 2025-04-28 | 10,685 | **read** | Realitätsebenen 4, Sophia 3, Potentialmeer 4, Emergenz† 48, TSDP 5, Kern-Welten 5, Kohärenz 9, Kael 43 | Yin-Yang 10, TOE 6, Advaita 7, Advaita Vedanta 10, Madhyamaka 10 |
-| [Kohärenz Protokoll: Analyse und Loglines](drive/kohaerenz-protokoll-analyse-und-loglines.md) | 2025-04-28 | 6,692 |  | Möglichkeits-Garten 6, Grenzfeste 7, Resonanz-Landschaft 7, Cache-Kohärenz 3, Konstrukt-Stadt 9, Personas 2, Guardians 11, DID 8 | Juna-Verbindung 27, Cybernetics 7, Exil 3, Paradoxon X 12, Requisite 2 |
+| [Kohärenz Protokoll: Analyse und Loglines](drive/kohaerenz-protokoll-analyse-und-loglines.md) | 2025-04-28 | 6,692 | **read** | Möglichkeits-Garten 6, Grenzfeste 7, Resonanz-Landschaft 7, Cache-Kohärenz 3, Konstrukt-Stadt 9, Personas 2, Guardians 11, DID 8 | Juna-Verbindung 27, Cybernetics 7, Exil 3, Paradoxon X 12, Requisite 2 |
 | ["Kohärenz Protokoll" Themenanalyse und -anreicheru...](drive/kohaerenz-protokoll-themenanalyse-und-anreicheru.md) | 2025-04-28 | 6,801 |  | Mosaik-Herz 2, Potentialmeer 4, Kern-Welten 13, Emergenz† 14, Guardians 2, Entropie† 9, Überwelt 18, Risse 10 | Ricoeur 11, Lacan 7, Floridi 5, LoA 3, Levels of Abstraction 3 |
 | [Codex-Optimierung für „Kohärenz Protokoll“](drive/codex-optimierung-fuer-kohaerenz-protokoll.md) | 2025-04-29 | 6,133 |  | Kern-Welten 11, TSDP 5, Juna 3, Risse 6, Überwelt 6, AEGIS 32, Kael 9 | Novelcrafter 39, Codex 71, Kernwelt B 6, Paradoxon X 23, Co₁ 9 |
 | [2 „Kohärenz Protokoll" Konzeptentwicklung](drive/2-kohaerenz-protokoll-konzeptentwicklung.md) | 2025-05-03 | 9,762 | **read** | Argus 12, Alex 16, Cerberus 13, Rhys 15, Mnemosyne 14, LogOS 12, Selene 11, TSDP 47 | Cosmicism 4, Second-order_cybernetics 10, OSDD 5, SOC 2, Simulation_hypothesis 9 |
@@ -928,7 +928,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Genesis](../Wiki/candidates/genesis.md) | [ontologie-des-gelesenen-traumas](drive/ontologie-des-gelesenen-traumas.md), [genesis-logik-krise-zerstueckelung](drive/genesis-logik-krise-zerstueckelung.md), [roman-plot-konzept-kohaerenz-protokoll](drive/roman-plot-konzept-kohaerenz-protokoll.md) |
 | [Genesis-Klammer](../Wiki/candidates/genesis-klammer.md) | — |
 | [Gödel-Gambit](../Wiki/candidates/goedel-gambit.md) | [plot-exploration-kohaerenz-protokollkonzepte](drive/plot-exploration-kohaerenz-protokollkonzepte.md) |
-| [Grenzfeste](../Wiki/candidates/grenzfeste.md) | [kohaerenz-protokoll-analyse-und-loglines](drive/kohaerenz-protokoll-analyse-und-loglines.md) |
+| [Grenzfeste](../Wiki/candidates/grenzfeste.md) | — |
 | [Die Große Mauer](../Wiki/candidates/grosse-mauer.md) | [kohaerenz-protokoll-thematische-tiefenanalyse](drive/kohaerenz-protokoll-thematische-tiefenanalyse.md), [kohaerenz-protokoll-finaler-plot-blueprint](drive/kohaerenz-protokoll-finaler-plot-blueprint.md), [romanentwurf-ruf-des-abenteuers](drive/romanentwurf-ruf-des-abenteuers.md) |
 | [Guardians](../Wiki/candidates/guardians.md) | [roman-blueprint-seelen-kohaerenz-protokoll](drive/roman-blueprint-seelen-kohaerenz-protokoll.md), [recherche-kohaerenz-protokoll](drive/recherche-kohaerenz-protokoll.md), [liste-nun-alle-plot-ideen-kurz-auf](drive/liste-nun-alle-plot-ideen-kurz-auf.md), [kohaerenz-protokoll-konzept](drive/kohaerenz-protokoll-konzept.md), [digitale-uberwelt](drive/digitale-uberwelt.md), [erstelle-eine-liste-mit-allen-plot-points-formu](drive/erstelle-eine-liste-mit-allen-plot-points-formu.md) |
 | [Hitze-Polaritätsregel](../Wiki/candidates/hitze-polaritaetsregel.md) | — |
@@ -955,7 +955,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [LogOS](../Wiki/candidates/logos.md) | [roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung](drive/roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md), [narrative-physik-attraktoren-leserbewusstsein](drive/narrative-physik-attraktoren-leserbewusstsein.md) |
 | [Mnemosyne](../Wiki/candidates/mnemosyne.md) | — |
 | [Mnemosyne-Server-Architektur](../Wiki/candidates/mnemosyne-server-architektur.md) | — |
-| [Möglichkeits-Garten](../Wiki/candidates/moeglichkeits-garten.md) | [roman-blueprint-seelen-kohaerenz-protokoll](drive/roman-blueprint-seelen-kohaerenz-protokoll.md), [parakonsistente-logik-im-seelen-protokoll](drive/parakonsistente-logik-im-seelen-protokoll.md), [kohaerenz-protokoll-analyse-und-loglines](drive/kohaerenz-protokoll-analyse-und-loglines.md) |
+| [Möglichkeits-Garten](../Wiki/candidates/moeglichkeits-garten.md) | [roman-blueprint-seelen-kohaerenz-protokoll](drive/roman-blueprint-seelen-kohaerenz-protokoll.md), [parakonsistente-logik-im-seelen-protokoll](drive/parakonsistente-logik-im-seelen-protokoll.md) |
 | [Moonshine-Link](../Wiki/candidates/moonshine-link.md) | [report-the-transcendent-architecture-of-the-kohaerenz-protok](drive/report-the-transcendent-architecture-of-the-kohaerenz-protok.md), [the-juna-vector-an-ontological-and-narrative-analysis-for-ko](drive/the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md), [report-reorienting-the-central-conflict-as-a-call-to-wholene](drive/report-reorienting-the-central-conflict-as-a-call-to-wholene.md) |
 | [Moros](../Wiki/candidates/moros.md) | [juna-kael-system-analyse-und-rettungsplan-docx](drive/juna-kael-system-analyse-und-rettungsplan-docx.md) |
 | [Mosaik-Herz](../Wiki/candidates/mosaik-herz.md) | [plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur](drive/plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md), [roman-pitch-reduktion-auf-kern](drive/roman-pitch-reduktion-auf-kern.md) |
@@ -975,7 +975,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Protokoll v1.4](../Wiki/candidates/protokoll-v14.md) | [kohaerenz-protokoll-finaler-plot-blueprint](drive/kohaerenz-protokoll-finaler-plot-blueprint.md), [roman-plot-konzept-kohaerenz-protokoll](drive/roman-plot-konzept-kohaerenz-protokoll.md), [kohaerenz-protokoll-plot-entwurf](drive/kohaerenz-protokoll-plot-entwurf.md), [kapitel-13-momente](drive/kapitel-13-momente.md), [aieos-schema-fuer-ki-charaktere](drive/aieos-schema-fuer-ki-charaktere.md) |
 | [Realitätsebenen](../Wiki/candidates/realitaetsebenen.md) | [spannungsfelder-und-aegis-meta-framework-analyse-docx](drive/spannungsfelder-und-aegis-meta-framework-analyse-docx.md) |
 | [Residual-Echos](../Wiki/candidates/residual-echos.md) | — |
-| [Resonanz-Landschaft](../Wiki/candidates/resonanz-landschaft.md) | [romanentwurf-ruf-des-abenteuers](drive/romanentwurf-ruf-des-abenteuers.md), [parakonsistente-logik-im-seelen-protokoll](drive/parakonsistente-logik-im-seelen-protokoll.md), [kohaerenz-protokoll-analyse-und-loglines](drive/kohaerenz-protokoll-analyse-und-loglines.md) |
+| [Resonanz-Landschaft](../Wiki/candidates/resonanz-landschaft.md) | [romanentwurf-ruf-des-abenteuers](drive/romanentwurf-ruf-des-abenteuers.md), [parakonsistente-logik-im-seelen-protokoll](drive/parakonsistente-logik-im-seelen-protokoll.md) |
 | [Rhys](../Wiki/candidates/rhys.md) | [tsdp-analyse-kaels-innere-welt](drive/tsdp-analyse-kaels-innere-welt.md), [neurochemische-lyrik-transzendenz-durch-klang](drive/neurochemische-lyrik-transzendenz-durch-klang.md) |
 | [Risse](../Wiki/candidates/risse.md) | — |
 | [RSA](../Wiki/candidates/rsa.md) | [p-vs-np-und-kohaerenz](drive/p-vs-np-und-kohaerenz.md) |

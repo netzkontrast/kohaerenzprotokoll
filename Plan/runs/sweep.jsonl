@@ -1554,3 +1554,6 @@
 {"document": "narrative-techniken-fuer-kohaerenz-protokoll", "page": "did", "surface": "DID", "line": 189, "decision": "occurrence", "why": "a clinical definition in a borrowed psychology section", "at": "2026-10-14"}
 {"document": "narrative-techniken-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "kael-uberarbeitung-des-konzepts-unter-tsdp", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-analyse-und-loglines", "page": "emergenz", "surface": "Emergenz", "line": 122, "decision": "occurrence", "why": "Kontrolle/Emergenz in the list of themes", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-analyse-und-loglines", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "kohaerenz-protokoll-analyse-und-loglines", "page": "personas", "surface": "Personas", "line": 80, "decision": "reading", "why": "Kael fragmented into Personas over the Kernwelten", "at": "2026-10-14"}
