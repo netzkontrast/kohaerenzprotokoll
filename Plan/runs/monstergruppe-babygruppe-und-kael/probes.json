@@ -1,0 +1,241 @@
+{
+  "document": "monstergruppe-babygruppe-und-kael",
+  "drive_id": "1EkMcR9MTIzgkEUG9FLx_5a7ABzwKIWTC46yJMpJdtVk",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 55,
+  "backslash_escapes": 18,
+  "typographic_marks": 130,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematiker",
+      "Mathematisch",
+      "Mathematische",
+      "Mathematisches"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsfähigkeit",
+      "Funktionsweise"
+    ],
+    "haupt": [
+      "Hauptmerkmale",
+      "Hauptpfeiler",
+      "Hauptstrukturkomponente",
+      "Hauptträger",
+      "Haupttyps"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeiten",
+      "Persönlichkeitsfragmenten",
+      "Persönlichkeitsstruktur",
+      "Persönlichkeitstypen"
+    ],
+    "analo": [
+      "Analogie",
+      "Analogien",
+      "Analogy",
+      "AnalogyConcepts"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsdiagramme",
+      "Beziehungsdiagrammen"
+    ],
+    "diagr": [
+      "Diagram",
+      "Diagramm",
+      "Diagramme",
+      "Diagrammen"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenoperationen",
+      "Gruppenstruktur"
+    ],
+    "proje": [
+      "Project",
+      "Projective",
+      "Projekt",
+      "Projekts"
+    ],
+    "stabi": [
+      "Stabilisierung",
+      "Stabilität",
+      "Stabilitäten",
+      "Stabilitätsmuster"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetrieelemente",
+      "Symmetrien",
+      "Symmetry"
+    ],
+    "zentr": [
+      "Zentralisator",
+      "Zentralisatoren",
+      "Zentralisators",
+      "Zentralisatorstruktur"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekte",
+      "Aspekts"
+    ],
+    "babym": [
+      "BabyMonster",
+      "BabyMonsterGroup",
+      "Babymonster"
+    ],
+    "berei": [
+      "Bereich",
+      "Bereichen",
+      "Bereitstellung"
+    ],
+    "darst": [
+      "Darstellung",
+      "Darstellungen",
+      "Darstellungs"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensionalität",
+      "Dimensionen"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen"
+    ],
+    "entfe": [
+      "Entfernen",
+      "Entfernt",
+      "Entfernung"
+    ],
+    "famil": [
+      "Familie",
+      "Familien",
+      "Family"
+    ],
+    "gesam": [
+      "Gesamtgefüges",
+      "Gesamtstruktur",
+      "Gesamtsymmetrie"
+    ],
+    "group": [
+      "Group",
+      "GroupTheory",
+      "Groups"
+    ],
+    "grund": [
+      "Grundbaustein",
+      "Grundlage",
+      "Grundzügen"
+    ],
+    "ident": [
+      "Identität",
+      "Identitätsstruktur",
+      "Identitätsstörung"
+    ],
+    "inspi": [
+      "Inspiration",
+      "Inspirationen",
+      "Inspirationsquelle"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Baby",
+      "BabyMonster"
+    ],
+    [
+      "Baby",
+      "Babymonster"
+    ],
+    [
+      "Baby",
+      "FBabyMonster"
+    ],
+    [
+      "Baby",
+      "BabyMonsterGroup"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Steine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Bausteinen"
+    ],
+    [
+      "Fall",
+      "Zufall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Hier",
+      "Hierarchie"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernpunkt"
+    ],
+    [
+      "Kern",
+      "Kernaspekt"
+    ],
+    [
+      "Kern",
+      "Kernselbst"
+    ],
+    [
+      "Kern",
+      "Kernaspekte"
+    ],
+    [
+      "Kern",
+      "Kernaspekts"
+    ]
+  ]
+}
