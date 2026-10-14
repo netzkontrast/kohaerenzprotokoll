@@ -1604,3 +1604,7 @@
 {"document": "monstergruppe-kohaerenz-protokoll-fundament", "page": "guardians", "surface": "Guardians", "line": 250, "decision": "reading", "why": "AEGIS's Analyse-Guardians; read on guardians", "at": "2026-10-14"}
 {"document": "monstergruppe-kohaerenz-protokoll-fundament", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
 {"document": "monstergruppe-kohaerenz-protokoll-fundament", "page": "ueberwelt", "surface": "Simulation", "line": 51, "decision": "occurrence", "why": "an analysis method, not the Überwelt", "at": "2026-10-14"}
+{"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "emergenz", "surface": "Emergenz", "line": 132, "decision": "reading", "why": "level 1 of the hierarchy: M emerges from level 0; read on emergenz", "at": "2026-10-14"}
+{"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
+{"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "multiplizitaet", "surface": "Multiplizität", "line": 29, "decision": "occurrence", "why": "the Potentialmeer's multiplicity, not functional multiplicity", "at": "2026-10-14"}
+{"document": "konzeptanalyse-kohaerenz-protokoll-s-fundament", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 126, "decision": "occurrence", "why": "levels of reality in a general sense", "at": "2026-10-14"}
