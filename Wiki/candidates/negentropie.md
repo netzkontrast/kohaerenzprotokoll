@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 31
-readings: 30
+sources: 32
+readings: 31
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung", "konzept-expose-schwarzschild-protokoll-optimierung", "narrative-entropie-existenzielle-bedrohung-des-romans"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung", "konzept-expose-schwarzschild-protokoll-optimierung", "narrative-entropie-existenzielle-bedrohung-des-romans", "narrative-physik-attraktoren-leserbewusstsein"]
 gathered: "2026-09-16"
 ---
 
@@ -126,6 +126,10 @@ The epilogue dossier proposes that Kael's gardening is negentropic: it defines �
 ## Reading — `narrative-entropie-existenzielle-bedrohung-des-romans`, 2025-10-16, the narrative-entropy dossier — negentropy as narrative currency
 
 The narrative-entropy dossier proposes the journey of Kael as „einzige Quelle der Negentropie (narrative Währung) der Welt“ ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:L208]. Negentropy is here the dossier's own counterpart to its narrative entropy. Recorded, not applied.
+
+## Reading — `narrative-physik-attraktoren-leserbewusstsein`, 2025-10-16, the narrative-physics framework — negentropy as Logos's stability and Eros's anti-entropic order
+
+The narrative-physics framework links negentropy to AEGIS's aim: „Aus informationstheoretischer Sicht ist dies ein Bestreben nach“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L58] (the line goes on with negentropy in italics, described). Logos strives for „negentropischer Stabilität“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L87] in the definition at L87, and Eros is called „Es ist eine anti-entropische Kraft, die emergente, dynamische Strukturen erschafft.“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L115] Table 2 lists negentropy as the scientific metaphor of Logos (L130, described, the row names theorists). Recorded, not applied.
 
 ## Reading — `textanalyse-existenz-system-und-leid`, 2025-11-18, the Textanalyse — Negentropie as the order the minimal being holds against Rauschen
 
