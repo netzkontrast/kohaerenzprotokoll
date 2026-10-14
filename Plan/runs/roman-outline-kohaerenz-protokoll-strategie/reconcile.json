@@ -1,0 +1,135 @@
+{
+  "document": "roman-outline-kohaerenz-protokoll-strategie",
+  "drive_id": "1h2K4XcnY3H6ERS3fNtDrCyQuMpaiCEeFaE_DUCsm9H4",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings, one record entry and fifteen chapter readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-466/brief.md, 2026-10-14; the document was first held by the privacy screen on the word Foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 56,
+    "decided_by_lookup": 34,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An early chapter outline: its new surfaces are Chrono-Weave, the Sentient Echo, its own figures, the Phantom-Protokoll, its field labels and tropes; what it plans for AEGIS, Kael, the Risse, the simulation and the Kohärenz Protokoll went on existing pages, AEGIS's open end on Q8, and fifteen chapter readings on the chapter pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        19,
+        105,
+        213,
+        234,
+        284,
+        306
+      ],
+      "attribution": "",
+      "note": "AEGIS as the controlling instance whose strategy shifts per chapter"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        18,
+        25,
+        89,
+        126,
+        212,
+        283,
+        327,
+        353
+      ],
+      "attribution": "",
+      "note": "Kael's shift per chapter, from dissonance to an open end"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        45,
+        199,
+        291,
+        354
+      ],
+      "attribution": "",
+      "note": "the Kohärenz Protokoll as the central mystery"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        121,
+        125,
+        127,
+        134,
+        156,
+        242
+      ],
+      "attribution": "",
+      "note": "Chapter 5 and the glitch as a flaw in AEGIS's control"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        278,
+        290,
+        291,
+        294,
+        313,
+        364
+      ],
+      "attribution": "",
+      "note": "the simulation twist of Chapter 25"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      15,
+      25,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Protokoll` the Kohärenz Protokoll, not the other protocols' pages; `Der Architekt` Chapter 4's title, not the server architecture; `Kollabierende Kohärenz` Chapter 38's title; `Glitch` read on risse; `Simulation` read on ueberwelt as the outline's twist; the outline's own figures described by role, never named on a page",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "reading",
+      "why": "the protocol as the outline's central mystery; read on kohaerenz"
+    }
+  ],
+  "not_promoted": [
+    "Chrono-Weave, the Sentient Echo, the scientist and ally figures, Phantom-Protokoll, Kognitive Dissonanz, the field labels, and the tropes"
+  ],
+  "internal_tension": "the protocol unclear (L45), a question (L199) and the simulation's mechanism (L291); Chrono-Weave the protocol's component (L234) and a question about its core (L240) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
