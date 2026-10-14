@@ -1,0 +1,75 @@
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Zweck"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zweck` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#3]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Fokus"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Fokus` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#6]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Framework I"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            40
+
+`Framework I` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#35]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#0]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#0]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Kapitels"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitels` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#0]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "möglicherweise"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`möglicherweise` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#10]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "könnte"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            26
+
+`könnte` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#17]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "könnten"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`könnten` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#9]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Zugriff"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Zugriff` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#22]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#1]
+$ python3 scripts/read.py plot-konzepte-kohaerenz-protokoll-generierung --count "Plot-Bogen"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Plot-Bogen` ^[plot-konzepte-kohaerenz-protokoll-generierung.md:#5]
+$ grep -c "Zugriff am" Sources/drive/
+22
+stance_marker_count 3+6+35 = 44

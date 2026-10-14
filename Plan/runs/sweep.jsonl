@@ -1509,3 +1509,7 @@
 {"document": "kohaerenz-protokoll-plot-synthese-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "narrative-kernvalidierung-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "narrative-kernvalidierung-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 17, "decision": "reading", "why": "Kael as an M-instance inside the simulation", "at": "2026-10-14"}
+{"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "entropie", "surface": "Entropie", "line": 19, "decision": "reading", "why": "the Potentialmeer's extremely high entropy", "at": "2026-10-14"}
+{"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "genesis", "surface": "Genesis", "line": 39, "decision": "occurrence", "why": "the table's row label Genesis/Ursprung", "at": "2026-10-14"}
+{"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "plot-konzepte-kohaerenz-protokoll-generierung", "page": "ueberwelt", "surface": "Simulation", "line": 42, "decision": "reading", "why": "simulation among AEGIS's methods", "at": "2026-10-14"}

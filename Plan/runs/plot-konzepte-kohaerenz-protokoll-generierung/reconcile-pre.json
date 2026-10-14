@@ -1,0 +1,432 @@
+{
+  "document": "plot-konzepte-kohaerenz-protokoll-generierung",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-13",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 54,
+  "decisions": 59,
+  "same_surface": {
+    "kaeljuna": [
+      "Kael & Juna",
+      "Kael/Juna"
+    ]
+  },
+  "decided_mechanically": 41,
+  "needs_judgement": 18,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 93
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 335
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 326
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 288
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 222
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 86
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 163
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 82
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Baby-Monster-Natur"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "M-Substrat"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung (DID)"
+      },
+      {
+        "candidate": "Vertex-Operator-Algebren"
+      },
+      {
+        "candidate": "VOAs"
+      },
+      {
+        "candidate": "Modulformen"
+      },
+      {
+        "candidate": "Subquotienten"
+      },
+      {
+        "candidate": "Sporadizität"
+      },
+      {
+        "candidate": "Irreduzibilität"
+      },
+      {
+        "candidate": "sub-protokollarisch"
+      },
+      {
+        "candidate": "parakonsistente Logik"
+      },
+      {
+        "candidate": "Parias"
+      },
+      {
+        "candidate": "Happy Family"
+      },
+      {
+        "candidate": "Petrischalen"
+      },
+      {
+        "candidate": "Zentraler Konflikt"
+      },
+      {
+        "candidate": "Das Erkennungsparadoxon"
+      },
+      {
+        "candidate": "Die Resonanzkaskade"
+      },
+      {
+        "candidate": "Die interne Kontradiktion"
+      },
+      {
+        "candidate": "Die Marionetten durchschneiden die Fäden"
+      },
+      {
+        "candidate": "Die Paria-Integration"
+      },
+      {
+        "candidate": "Plot-Bogen"
+      },
+      {
+        "candidate": "Setup"
+      },
+      {
+        "candidate": "Auslösendes Ereignis"
+      },
+      {
+        "candidate": "Steigende Handlung"
+      },
+      {
+        "candidate": "Höhepunkt"
+      },
+      {
+        "candidate": "Auflösung (Potenzial)"
+      },
+      {
+        "candidate": "Framework I"
+      },
+      {
+        "candidate": "Abwärtskausalität"
+      },
+      {
+        "candidate": "Parakonsistenz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS Reaktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe (M)  /  Monstergruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe  /  Baby-Monster-Gruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstergruppe  /  Baby-Monster-Gruppen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael & Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael & Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Baby-Monster-Gruppe  /  Baby-Monster-Gruppen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K-J Verbindung  /  K-J Verbindung (Moonshine)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "K-J Verbindung (Moonshine)  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Moonshine-Modul",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Emergente Moonshine-Rolle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "M-Kohärenz  /  M-Kohärenz Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "M-Kohärenz Emergenz  /  Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael & Juna",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      },
+      {
+        "candidate": "M-Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS Reaktion",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "M-Kohärenz Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          },
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 39,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 42,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

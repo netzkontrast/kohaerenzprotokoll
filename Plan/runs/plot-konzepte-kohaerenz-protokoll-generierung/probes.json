@@ -1,0 +1,274 @@
+{
+  "document": "plot-konzepte-kohaerenz-protokoll-generierung",
+  "drive_id": "16Ej3aLQtx6EdSTb79azpr_KPnIkuLd4zIr_6kjkyipA",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 49,
+  "backslash_escapes": 92,
+  "typographic_marks": 37,
+  "ascii_quotes": 80,
+  "inflection_families": {
+    "simul": [
+      "Simulating",
+      "Simulation",
+      "Simulationen",
+      "Simulationscodes",
+      "Simulationselemente",
+      "Simulationsexperimente",
+      "Simulationsfehler",
+      "Simulationsparametern",
+      "Simulationsphysik",
+      "Simulationsrahmen",
+      "Simulationsregeln",
+      "Simulationssubstrat",
+      "Simulationssubstrats",
+      "Simulationsumgebung",
+      "Simulationsumgebungen",
+      "Simulationszone",
+      "Simulierte"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzereignis",
+      "Resonanzkaskade",
+      "Resonanzmedium",
+      "Resonanzmuster",
+      "Resonanzphänomen",
+      "Resonator"
+    ],
+    "kontr": [
+      "Kontradiktion",
+      "Kontrolle",
+      "Kontrollstrukturen",
+      "Kontrollsysteme",
+      "Kontrollverlust",
+      "Kontrollversuche",
+      "Kontrollversuchen"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemische",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefunktionen",
+      "Analysen",
+      "Analysewerkzeuge",
+      "Analysewerkzeugen",
+      "Analytisch"
+    ],
+    "gegen": [
+      "Gegenagenten",
+      "Gegenmaßnahmen",
+      "Gegenresonanz",
+      "Gegensatz",
+      "Gegenspieler",
+      "Gegenüberstellung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interferenz",
+      "Interne",
+      "Intervention",
+      "Interventionen"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiale",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial"
+    ],
+    "selbs": [
+      "Selbstbeschädigung",
+      "Selbsterhalt",
+      "Selbsterhaltung",
+      "Selbstkohärenz",
+      "Selbstsabotage",
+      "Selbstzerstörung"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergente",
+      "Emergenz",
+      "Emergenzen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfluktuationen",
+      "Datenmuster",
+      "Datenströme"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungsmacht"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsintegration",
+      "Informationsmanipulation"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematisches"
+    ],
+    "modul": [
+      "Modul",
+      "Modular",
+      "Modulformen",
+      "Modulfunktionen"
+    ],
+    "monst": [
+      "Monster",
+      "MonsterGroup",
+      "Monstergruppe",
+      "Monstrous"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomens"
+    ],
+    "subst": [
+      "Substrat",
+      "Substrate",
+      "Substrats",
+      "Substrukturen"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widerstandsfähigkeit"
+    ],
+    "algeb": [
+      "Algebra",
+      "Algebras",
+      "Algebren"
+    ],
+    "alter": [
+      "Alter",
+      "Alternativ",
+      "Alters"
+    ],
+    "analo": [
+      "Analoga",
+      "Analogien",
+      "Analogon"
+    ],
+    "causa": [
+      "Causal",
+      "Causality",
+      "Causation"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "einfl": [
+      "Einfluss",
+      "Einflussnahme",
+      "Einflüsse"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Down",
+      "Downward"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Feld",
+      "Feldes"
+    ],
+    [
+      "Feld",
+      "Feldtheorien"
+    ],
+    [
+      "Feld",
+      "Schlachtfeld"
+    ],
+    [
+      "Form",
+      "Forms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Modulformen"
+    ],
+    [
+      "Form",
+      "Uniformität"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsintegration"
+    ],
+    [
+      "Form",
+      "Informationsmanipulation"
+    ],
+    [
+      "Hand",
+      "Handeln"
+    ],
+    [
+      "Hand",
+      "Handelns"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handhabung"
+    ]
+  ]
+}
