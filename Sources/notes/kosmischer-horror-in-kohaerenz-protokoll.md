@@ -69,7 +69,7 @@ What this document says about the terms that matter in it. Every quotation carri
 
 ## 9 · Said two ways, or left open — recorded, not resolved
 
-- **Observed:** the connection between Kael and Juna is given two roles in two places: a source of disturbing, inexplicable phenomena at L116 and a source of resilience at L171 (quoted in section 5). The document does not reconcile them in a sentence; both are proposals for the author of the novel.
+- **Observed:** the connection between Kael and Juna is given two roles in two places: a source of disturbing, inexplicable phenomena at L116 and a source of resilience at L171 (quoted in section 5). The document does not reconcile them in a sentence; both are proposals.
 - **Observed:** M is first called an integrated coherence at L106, then its benevolence is put in question at L107 (section 4). The document sets the second as an instruction, not as a finding.
 - **Observed:** the document asks to leave aspects of M and the Potentialmeer undefined (section 2); it does not itself define either beyond L88 and L106.
 
