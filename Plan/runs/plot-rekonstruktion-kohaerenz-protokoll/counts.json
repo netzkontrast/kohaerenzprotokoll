@@ -1,0 +1,1014 @@
+{
+  "document": "plot-rekonstruktion-kohaerenz-protokoll",
+  "drive_id": "1uvULaaOIKkKyDqWSkvb6C1Ko7ps2vG-07xsIVea0fEU",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 60,
+      "n_including_compounds": 124,
+      "lines": [
+        25,
+        29,
+        51,
+        55,
+        57,
+        59,
+        64,
+        65,
+        66,
+        67,
+        71,
+        76,
+        77,
+        82,
+        90,
+        94,
+        99,
+        104,
+        105,
+        111,
+        119,
+        121,
+        123,
+        131,
+        132,
+        134,
+        136,
+        137,
+        147,
+        150,
+        163,
+        164,
+        165,
+        166,
+        167,
+        169,
+        179,
+        182,
+        195,
+        198,
+        201,
+        203,
+        209,
+        220,
+        236,
+        245,
+        249,
+        250,
+        251,
+        252,
+        254,
+        255,
+        257,
+        265,
+        268,
+        271,
+        281,
+        285,
+        286,
+        292,
+        293,
+        295,
+        303,
+        307,
+        311,
+        312,
+        313,
+        314,
+        316,
+        317,
+        327,
+        332,
+        333,
+        339,
+        352,
+        363,
+        364,
+        377,
+        381,
+        382,
+        383,
+        387,
+        388,
+        389,
+        392,
+        406,
+        414,
+        430,
+        439,
+        447,
+        448,
+        456,
+        461,
+        465,
+        466,
+        474,
+        475,
+        477,
+        483,
+        484
+      ]
+    },
+    "Juna": {
+      "n": 25,
+      "n_including_compounds": 26,
+      "lines": [
+        25,
+        57,
+        59,
+        64,
+        65,
+        67,
+        71,
+        76,
+        77,
+        82,
+        111,
+        147,
+        179,
+        195,
+        265,
+        271,
+        285,
+        327,
+        332,
+        344,
+        392,
+        394,
+        406,
+        447,
+        474
+      ]
+    },
+    "AEGIS": {
+      "n": 179,
+      "n_including_compounds": 184,
+      "lines": [
+        25,
+        29,
+        39,
+        41,
+        42,
+        46,
+        51,
+        53,
+        54,
+        55,
+        59,
+        66,
+        71,
+        77,
+        85,
+        86,
+        90,
+        94,
+        99,
+        100,
+        104,
+        105,
+        111,
+        119,
+        121,
+        123,
+        131,
+        132,
+        133,
+        136,
+        147,
+        148,
+        149,
+        152,
+        159,
+        163,
+        164,
+        165,
+        167,
+        168,
+        169,
+        171,
+        179,
+        180,
+        184,
+        185,
+        187,
+        195,
+        196,
+        197,
+        199,
+        200,
+        201,
+        203,
+        209,
+        217,
+        218,
+        219,
+        220,
+        222,
+        223,
+        225,
+        233,
+        234,
+        238,
+        239,
+        241,
+        249,
+        251,
+        254,
+        265,
+        270,
+        271,
+        273,
+        277,
+        281,
+        290,
+        291,
+        293,
+        294,
+        295,
+        303,
+        311,
+        316,
+        317,
+        327,
+        333,
+        341,
+        348,
+        352,
+        356,
+        357,
+        358,
+        362,
+        363,
+        364,
+        365,
+        366,
+        369,
+        377,
+        381,
+        382,
+        383,
+        387,
+        391,
+        392,
+        407,
+        416,
+        430,
+        438,
+        439,
+        448,
+        452,
+        456,
+        457,
+        465,
+        475,
+        483,
+        484,
+        485
+      ]
+    },
+    "Alters": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        131,
+        163,
+        166,
+        217,
+        225,
+        249,
+        257,
+        311,
+        313,
+        319,
+        419,
+        465,
+        466
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        369,
+        419
+      ]
+    },
+    "Guardian-Avatar": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        163,
+        171,
+        187,
+        203,
+        297
+      ]
+    },
+    "Potentialmeer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        333,
+        337
+      ]
+    },
+    "Wächter-KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Kontrollinstanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        137
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        281
+      ]
+    },
+    "Simulationsblase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Simulationssubstrat": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        71,
+        76,
+        77,
+        90,
+        195,
+        209,
+        217,
+        265,
+        327,
+        447,
+        476
+      ]
+    },
+    "Stabilitätsdirektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        294
+      ]
+    },
+    "Eindämmungsprotokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "K-J Signatur": {
+      "n": 49,
+      "n_including_compounds": 49,
+      "lines": [
+        29,
+        77,
+        78,
+        90,
+        99,
+        104,
+        105,
+        119,
+        121,
+        123,
+        135,
+        143,
+        148,
+        151,
+        167,
+        183,
+        195,
+        196,
+        199,
+        209,
+        217,
+        218,
+        221,
+        237,
+        249,
+        253,
+        266,
+        269,
+        271,
+        281,
+        286,
+        293,
+        303,
+        311,
+        315,
+        340,
+        352,
+        365,
+        377,
+        381,
+        387,
+        390,
+        394,
+        415,
+        439,
+        456
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        25,
+        69,
+        71,
+        76,
+        78,
+        94,
+        200,
+        265,
+        443,
+        475,
+        476
+      ]
+    },
+    "Moonshine-Signatur": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        67,
+        69,
+        94,
+        111,
+        209,
+        261,
+        443,
+        476
+      ]
+    },
+    "M-Paradoxon": {
+      "n": 22,
+      "n_including_compounds": 23,
+      "lines": [
+        29,
+        111,
+        133,
+        149,
+        165,
+        181,
+        197,
+        209,
+        219,
+        229,
+        233,
+        235,
+        251,
+        267,
+        291,
+        313,
+        338,
+        363,
+        383,
+        388,
+        413,
+        425
+      ]
+    },
+    "M-Paradox": {
+      "n": 7,
+      "n_including_compounds": 30,
+      "lines": [
+        29,
+        111,
+        119,
+        121,
+        133,
+        149,
+        165,
+        175,
+        180,
+        181,
+        197,
+        209,
+        219,
+        229,
+        233,
+        234,
+        235,
+        251,
+        267,
+        291,
+        313,
+        338,
+        363,
+        383,
+        387,
+        388,
+        413,
+        425,
+        483
+      ]
+    },
+    "M-Kohärenz": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        312,
+        356,
+        357,
+        381,
+        383,
+        407,
+        408,
+        456,
+        484
+      ]
+    },
+    "Monstergruppe": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        25,
+        44,
+        46,
+        52,
+        76,
+        429,
+        438,
+        470
+      ]
+    },
+    "Baby-Monster": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        59,
+        474
+      ]
+    },
+    "Baby Monster Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "NZT-Ideal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Drei-Akt-Struktur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        478
+      ]
+    },
+    "VOA-Substrat Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        434
+      ]
+    },
+    "Parakonsistenz-Grenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        452
+      ]
+    },
+    "IFS für Kaels Reaktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        461
+      ]
+    },
+    "Parakonsistenz als Falle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Selbst-Partitionierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        358
+      ]
+    },
+    "Systemischer Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        356
+      ]
+    },
+    "Erzwungene Transformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        357
+      ]
+    },
+    "Beat 1": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        127,
+        191,
+        213,
+        229
+      ]
+    },
+    "Beat 2": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        143,
+        245,
+        261,
+        277,
+        307
+      ]
+    },
+    "Beat 5": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Beat 8": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Beat 12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Beat 15": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    },
+    "Beat 18": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Beat 21": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Beat 24": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Beat 26": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Beat 28": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        307
+      ]
+    },
+    "Beat 31": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        323
+      ]
+    },
+    "Beat 34": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        348,
+        391,
+        457
+      ]
+    },
+    "Beat 37": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    },
+    "Beat 39": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        398
+      ]
+    },
+    "Die kontrollierte Umgebung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Der Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "AEGIS Analyseprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Die irreduzible Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Eindämmungsversagen & Eskalation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Die VOA/CFT-Analogie wird explizit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    },
+    "Konfrontation mit dem M-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Kaels IFS-Reise beginnt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Moonshine-Signatur enthüllt Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Punkt ohne Wiederkehr": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Kael umarmt die Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        307
+      ]
+    },
+    "Höhepunkt - Konzeptuelle Konfrontation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        71,
+        76,
+        217,
+        265,
+        327
+      ]
+    },
+    "Self-Leadership": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Self-Energy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        252
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        249,
+        465
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        152,
+        168,
+        184,
+        238,
+        356,
+        456,
+        457
+      ]
+    },
+    "Vertex Operator Algebren": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        217
+      ]
+    },
+    "Konformen Feldtheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        71,
+        76,
+        447,
+        515,
+        518
+      ]
+    },
+    "Subquotienten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65
+      ]
+    },
+    "Zentralisator": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        233
+      ]
+    },
+    "Holomorphie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        331,
+        337
+      ]
+    },
+    "Symmetriebrechungsmuster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        332
+      ]
+    },
+    "Operatorproduktentwicklung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        217
+      ]
+    },
+    "Reduktionismus": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        26,
+        104,
+        164,
+        362,
+        408,
+        430,
+        477
+      ]
+    },
+    "Holismus": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        26,
+        104,
+        362,
+        408,
+        430,
+        477
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        27,
+        138,
+        154,
+        170,
+        186,
+        202,
+        224,
+        240,
+        256,
+        272,
+        296,
+        368,
+        393,
+        485
+      ]
+    },
+    "Hard Sci-Fi": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        138,
+        170,
+        186,
+        224,
+        240,
+        272,
+        343,
+        368,
+        485
+      ]
+    }
+  }
+}

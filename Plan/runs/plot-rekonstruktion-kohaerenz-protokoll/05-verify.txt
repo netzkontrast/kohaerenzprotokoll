@@ -1,0 +1,131 @@
+$ read.py --count "Kernkonzept"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Kernkonzept` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#5]
+$ read.py --count "Narrative Konsequenz"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Narrative Konsequenz` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#9]
+$ read.py --count "Inhalt"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Inhalt` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#15]
+$ read.py --count "Definition"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Definition` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#7]
+$ read.py --count "Narrative Anwendung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Narrative Anwendung` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#6]
+$ read.py --count "Nutzer-Query"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Nutzer-Query` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#15]
+$ read.py --count "Potentialmeer"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Potentialmeer` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#4]
+$ read.py --count "M-Paradoxon"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            23
+
+`M-Paradoxon` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#22]
+$ read.py --count "M-Paradox"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            30
+
+`M-Paradox` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#7]
+$ read.py --count "Juna"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            26
+
+`Juna` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#25]
+$ read.py --count "Alters"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Alters` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#15]
+$ read.py --count "K-J Signatur"
+whole word, case-sensitive     49
+whole word, case-insensitive   49
+including compounds            49
+
+`K-J Signatur` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#49]
+$ read.py --count "K-J Verbindung"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`K-J Verbindung` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#11]
+$ read.py --count "Moonshine-Signatur"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Moonshine-Signatur` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#8]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            6
+
+`Kap` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#0]
+$ read.py --count "Kapitel 1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel 1` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#0]
+$ read.py --count "Kapitel/Beat"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kapitel/Beat` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#2]
+$ read.py --count "Kapiteln/Beats"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapiteln/Beats` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#1]
+$ read.py --count "Beat"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            35
+
+`Beat` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#19]
+$ read.py --count "Vertiefung und narrative Bedeutung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Vertiefung und narrative Bedeutung` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#3]
+$ read.py --count "Zugriff"
+whole word, case-sensitive     38
+whole word, case-insensitive   38
+including compounds            38
+
+`Zugriff` ^[plot-rekonstruktion-kohaerenz-protokoll.md:#38]
+stance_marker_count 42 = Kernkonzept 5 + Narrative Konsequenz 9 + Inhalt 15 + Definition 7 + Narrative Anwendung 6
+candidates 77: capture.py --count header
+zeros: 0 (04-counts.txt)
+fifteen sketched beats: Beat 1,2,5,8,12,15,18,21,24,26,28,31,34,37,39 (count 15 by hand from 03-candidates.md)
+nine labels x15 and 76 glued, 10 escapes, 122 ascii, 38 typographic: 01-profile.txt

@@ -1541,3 +1541,8 @@
 {"document": "physik-fuer-simulierte-realitaet", "page": "entropie", "surface": "Entropie", "line": 102, "decision": "occurrence", "why": "entropy in a cited source's physics sense", "at": "2026-10-14"}
 {"document": "physik-fuer-simulierte-realitaet", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "physik-fuer-simulierte-realitaet", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 127, "decision": "occurrence", "why": "an underlying level of reality in the general sense", "at": "2026-10-14"}
+{"document": "plot-rekonstruktion-kohaerenz-protokoll", "page": "did", "surface": "DID", "line": 59, "decision": "reading", "why": "Kael's DID not a fragmentation of M or B", "at": "2026-10-14"}
+{"document": "plot-rekonstruktion-kohaerenz-protokoll", "page": "emergenz", "surface": "Emergenz", "line": 71, "decision": "occurrence", "why": "emergence named only to be denied", "at": "2026-10-14"}
+{"document": "plot-rekonstruktion-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "plot-rekonstruktion-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 343, "decision": "occurrence", "why": "the deepest levels of reality in a genre line's general sense", "at": "2026-10-14"}
+{"document": "plot-rekonstruktion-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 59, "decision": "reading", "why": "Kael and Juna as patterns within AEGIS's simulation", "at": "2026-10-14"}
