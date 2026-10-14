@@ -1,0 +1,14 @@
+# dramatica-agentic-storyform-interactive-novel
+  lines                556  (frontmatter ends at 9)
+  body words           10058
+  headings             30   bold-only lines 0
+  table rows           19   code fences 0
+  question marks       21
+  backslash escapes    116
+  typographic marks    31   ascii quotes 122
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    112
+  repeated labels      none
+  longest line         1120 chars
+
