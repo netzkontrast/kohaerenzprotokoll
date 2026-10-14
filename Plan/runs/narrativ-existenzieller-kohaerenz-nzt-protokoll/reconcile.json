@@ -1,0 +1,78 @@
+{
+  "document": "narrativ-existenzieller-kohaerenz-nzt-protokoll",
+  "drive_id": "1388ZMsf9BGuBjlKA1aThYTeXC1Z1uju2wxa5-jZHEBY",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; a first reading was discarded uncommitted because its list wrote a term in the wrong case and quotes.py refused the zero; light pass, no readings — an abstract premise that names nothing of the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 70,
+    "decisions": 66,
+    "decided_by_lookup": 52,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report on an abstract five-part premise: it names no figure, place or event of the novel (AEGIS, Kael, Juna each 0), so its vocabulary stays in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Entität`, `Grenze`, `Risse` and `Protagonist` the abstract premise's own roles, not the novel's; `Verschränkung` and `Simulationstheorie` the general physics and philosophy senses; the borrowed concepts not promoted; names of people never written",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "psychische Fragmentierung",
+      "line": 297,
+      "decision": "occurrence",
+      "why": "the abstract premise's own general use; a report that names nothing of the novel, light pass"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the abstract premise's own general use; a report that names nothing of the novel, light pass"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 190,
+      "decision": "occurrence",
+      "why": "the abstract premise's own general use; a report that names nothing of the novel, light pass"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 72,
+      "decision": "occurrence",
+      "why": "the abstract premise's own general use; a report that names nothing of the novel, light pass"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "the abstract premise's own general use; a report that names nothing of the novel, light pass"
+    }
+  ],
+  "not_promoted": [
+    "the premise roles, the NZT protocol, the alternative models from physics, logic, process philosophy and Eastern metaphysics, and the borrowed concepts (several named after people)"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

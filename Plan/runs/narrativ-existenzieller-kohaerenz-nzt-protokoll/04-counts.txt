@@ -1,0 +1,107 @@
+# counts for 71 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Entität                          70 word    78 in   [23, 24, 25, 26, 27, 39]
+                                    4      as Entitätsanalyse
+                                    2      as Entitätslogik
+                                    1      as Entitätsrealität
+                                    1      as Entitätsmethoden
+  Potentialität                    25 word    29 in   [23, 47, 70, 85, 97, 100]
+                                    4      as Potentialitäten
+  Äußere                           14 word    21 in   [23, 70, 72, 109, 147, 149]
+                                    6      as Äußeren
+                                    1      as Äußeres
+  Risse                            21 word    23 in   [25, 67, 98, 110, 185, 187]
+                                    2      as Rissen
+  Verbindung                       42 word    52 in   [26, 27, 39, 54, 66, 70]
+                                    7      as Verbindungen
+                                    1      as Verbindungsmechanismen
+                                    1      as Verbindungsstruktur
+  Kernspannung                     17 word    17 in   [27, 39, 65, 67, 68, 69]
+  Protagonist                      12 word    46 in   [25, 26, 27, 39, 54, 66]  <-- substring
+                                   31      as Protagonisten
+                                    1      as Protagonisten-Verbindung
+                                    1      as Protagonist-Realität
+                                    1      as Protagonistenerfahrung
+  Grenze                           23 word    52 in   [23, 47, 68, 71, 80, 86]  <-- substring
+                                   29      as Grenzen
+  Interface                         1 word     1 in   [25]
+  Narrativ Existenzieller Kohärenz    3 word     3 in   [11, 17, 305]
+  NZT-Protokoll Σ                   2 word     2 in   [17, 305]
+  Forschungsmandat                  2 word     2 in   [15, 31]
+  Das Interface/Der Protagonist     1 word     1 in   [25]
+  Die Entität & Ihr Raum            1 word     1 in   [23]
+  Leitfragen                        5 word     5 in   [31, 128, 132, 220, 222]
+  Tiefenrecherche                   4 word     4 in   [56, 76, 130, 132]
+  Basisrealität                     1 word     1 in   [23]
+  Autopoiesis                      30 word    31 in   [46, 65, 74, 80, 97, 124]
+  Autopoiese                        4 word     4 in   [80, 138]
+  operationale Geschlossenheit      7 word     7 in   [80, 97, 138, 168, 229, 239]
+  strukturelle Kopplung             2 word     2 in   [80, 168]
+  Selbstorganisation                8 word     8 in   [46, 65, 80, 83, 307]
+  Quantenverschränkung              8 word     9 in   [43, 81, 99, 125, 199, 205]
+  Verschränkung                     8 word     8 in   [26, 66, 81, 113, 199, 311]
+  Nichtlokalität                    2 word     5 in   [43, 66, 81, 311]  <-- substring
+  Quanten-Nichtlokalität            3 word     3 in   [66, 81, 311]
+  No-Communication Theorem          3 word     3 in   [81, 113, 199]
+  Prehension                       16 word    16 in   [47, 70, 85, 99, 113, 121]
+  Konkreszenz                       4 word     4 in   [134, 151, 179, 247]
+  ewige Objekte                     4 word     4 in   [97, 121, 230, 247]
+  aktualer Ereignisse               9 word     9 in   [97, 98, 134, 151, 179, 190]
+  aktualen Ereignissen              4 word     4 in   [99, 151, 229]
+  Prozessphilosophie               21 word    21 in   [47, 70, 74, 85, 97, 121]
+  Śūnyatā                          23 word    23 in   [50, 72, 87, 97, 98, 109]
+  Pratītyasamutpāda                 7 word     7 in   [87, 139, 156, 202, 248, 279]
+  Brahman                          16 word    16 in   [50, 72, 87, 109, 139, 157]
+                                    1      as brahman-atman-relationship-advaita-vedanta
+  Maya                              9 word     9 in   [50, 87, 139, 157, 230, 235]
+  Atman                             3 word     3 in   [50, 87, 445]
+  Advaita Vedanta                  11 word    11 in   [50, 87, 139, 152, 157, 230]
+  Madhyamaka                        8 word     9 in   [50, 87, 139, 152, 308, 439]
+                                    1      as Madhyamaka-Buddhismus
+  Parakonsistente Logik             9 word     9 in   [44, 71, 86, 136, 174, 229]
+  parakonsistente Logik             3 word     3 in   [174, 214, 229]
+  Dialetheismus                     3 word     3 in   [86, 136, 241]
+  Gödel'sche Sätze                  4 word     4 in   [71, 86, 229, 234]
+  Emergenz                         37 word    41 in   [27, 43, 69, 70, 74, 83]
+                                    2      as Emergenztheorien
+                                    1      as Emergenz-Theorien
+                                    1      as Emergenz-Modelle
+  Downward Causation                6 word     6 in   [84, 111, 121, 135, 212, 325]
+  Seltsame Attraktoren              3 word     3 in   [43, 68, 235]
+  Chaostheorie                      5 word     5 in   [43, 68, 83, 307]
+  Dissoziation                     11 word    11 in   [48, 67, 74, 82, 98, 187]
+  Liminalität                      12 word    12 in   [48, 67, 74, 82, 188, 231]
+  Communitas                        2 word     2 in   [82, 188]
+  Schwellenkonzepte                 5 word     8 in   [48, 67, 189, 193, 231, 310]
+                                    3      as Schwellenkonzepten
+  Schwellenkonzept                  1 word     9 in   [48, 67, 189, 193, 231, 259]  <-- substring
+                                    5      as Schwellenkonzepte
+                                    3      as Schwellenkonzepten
+  Trickster-Archetyp                3 word     4 in   [123, 137, 191, 310]
+                                    1      as Trickster-Archetyps
+  Trickster                         8 word    12 in   [48, 112, 123, 137, 191, 310]
+                                    3      as Trickster-Archetyp
+                                    1      as Trickster-Archetyps
+  Schatten                          6 word     7 in   [48, 137, 190, 232, 270, 271]
+                                    1      as Schattens
+  Synchronizität                    5 word     5 in   [99, 202, 233, 279]
+  Strukturelle Resonanz             5 word     5 in   [201, 205, 233, 279]
+  Kolmogorov-Komplexität            4 word     4 in   [45, 138, 178, 241]
+  Landauer's Prinzip                1 word     1 in   [178]
+  Entropie                          9 word    11 in   [43, 83, 138, 178, 213, 229]
+                                    2      as Entropiezunahme
+  Thermodynamik                     9 word     9 in   [43, 124, 178, 181, 229, 235]
+  Kognitive Dissonanz               2 word     2 in   [235]
+  Narrative Identität               2 word     2 in   [232, 235]
+  Simulationstheorie                2 word     2 in   [45, 231]
+  Netzwerktheorie                   4 word     4 in   [49, 203, 233]
+  Vakuumfluktuationen               5 word     5 in   [43, 109, 162, 230, 250]
+  Nullpunktenergie                  2 word     2 in   [43, 162]
+  Multiversum                       2 word     3 in   [43, 162, 250]
+                                    1      as Multiversum-Modelle
+  Qualia                            3 word     3 in   [47, 190, 425]
+  Lucas-Penrose                     4 word     5 in   [86, 173, 286, 341, 343]
+                                    1      as Lucas-Penrose-Argument
