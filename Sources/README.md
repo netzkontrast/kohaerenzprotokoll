@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 497 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 497 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 499 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 499 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -752,7 +752,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 
 | document | date | words | status | wiki names | other names |
 |---|---|--:|---|---|---|
-| [Narrativ Existenzieller Kohärenz: NZT-Protokoll Σ](drive/narrativ-existenzieller-kohaerenz-nzt-protokoll.md) | 2025-04-25 | 9,159 |  | Personas 2, Realitätsebenen 2, Emergenz† 61, Entropie† 13, Risse 21, Kohärenz 14, Überwelt 8 | Advaita Vedanta 19, Advaita 10, Schwellenkonzepte 5, Nāgārjuna 12, Kolmogorov 6 |
+| [Narrativ Existenzieller Kohärenz: NZT-Protokoll Σ](drive/narrativ-existenzieller-kohaerenz-nzt-protokoll.md) | 2025-04-25 | 9,159 | **read** | Personas 2, Realitätsebenen 2, Emergenz† 61, Entropie† 13, Risse 21, Kohärenz 14, Überwelt 8 | Advaita Vedanta 19, Advaita 10, Schwellenkonzepte 5, Nāgārjuna 12, Kolmogorov 6 |
 | [Narrative Plot-Exploration: Existenzielle Kohärenz](drive/narrative-plot-exploration-existenzielle-kohaerenz.md) | 2025-04-26 | 7,322 | **read** | Potentialmeer 21, Guardians 14, Realitätsebenen 2, Emergenz† 17, Alters 4, DID 2, Überwelt 23, Juna 3 | OSR 17, Madhyamaka 12, Simulation Sigma 3, Floridi 5, Juna-Verbindung 11 |
 | [Einleitung: Genesis der Existenz](drive/einleitung-genesis-der-existenz.md) | 2025-04-29 | 5,222 | **read** | Komponente 734 6, Nichts-Rauschen 3, Potentialmeer 2, Überwelt 12, Kohärenz 11, AEGIS 44 | Funke 3, Echo 8, Selbstorganisation 2, Rauschen 12, Schmerz 7 |
 | [Optimierte Plotline: Genesis der Existenz](drive/optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 2,640 | **read** | Komponente 734 21, Genesis 6, Überwelt 11, Kern-Welten 2, Kohärenz 5, AEGIS 25, Kael 3 | Resonanz-Kaskade 3, Echo 5, Rauschen 7, Qualia 2, Protokoll 2 |
@@ -843,7 +843,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Heilung: Hirnchemie, Kunst, Trauma](drive/heilung-hirnchemie-kunst-trauma.md) | 2025-08-07 | 4,557 |  | Kairos 14 | PFC 14, Chronos 9, Polyvagal 7, DMN 6, Dorsal 4 |
 | [Traumaheilung: Neurochemie, ADHS, DIS, Kunst](drive/traumaheilung-neurochemie-adhs-dis-kunst.md) | 2025-08-07 | 8,592 |  | DID 2, Alters 2 | PFC 24, Reconsolidation 13, HHN-Achse 8, Oxytocin 9, Frankl 13 |
 | [Heilung: Der Verlust von Superkräften](drive/heilung-der-verlust-von-superkraeften.md) | 2025-10-16 | 4,077 | **read** | Lex 19, Nyx 17, Rhys 2, Kiko 3, Kern-Welten 2, AEGIS 27 | Wabi-Sabi 16, Flow 8, Trauma Bonding 2, PTG 2, Friedenweiler 2 |
-| [Ontologie des Gelesenen Traumas](drive/ontologie-des-gelesenen-traumas.md) | 2025-10-16 | 4,588 |  | Genesis 7, AEGIS 11 | Dunamis 13, Archibald 7, Wheeler 11, Energeia 5, Quanteninformationstheorie 3 |
+| [Ontologie des Gelesenen Traumas](drive/ontologie-des-gelesenen-traumas.md) | 2025-10-16 | 4,588 | **read** | Genesis 7, AEGIS 11 | Dunamis 13, Archibald 7, Wheeler 11, Energeia 5, Quanteninformationstheorie 3 |
 | [Tattoo-Konzept: Archetypen, Heilung, Rebellion](drive/tattoo-konzept-archetypen-heilung-rebellion.md) | 2025-10-30 | 5,484 |  | Vortex 3, Isabelle 4, Selene 9, Moros 6, TSDP 17, Nyx 10, Lex 10, Kiko 6 | Wabi-Sabi 9, Kintsugi-Linien 3, Axis Mundi 3, Maurice Merleau-Ponty 3, Phänomenologie des Leibes 2 |
 | [Tattoo-Konzept: Symbolik, Trauma & Heilung](drive/tattoo-konzept-symbolik-trauma-heilung.md) | 2025-10-30 | 6,421 |  | Isabelle 5, Argus 6, Lia 5, Rhys 6, Alex 5, Moros 5, Selene 5, Kiko 6 | Axis Mundi 5, Trickster 9, Sekundärer ANP 6, Verwundete Aphrodite 2, Verspielte 3 |
 | [Causal Linkage: A Report on TSDP, Cache Incoherence, and the Mechanics of "Risse"](drive/causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md) | 2025-11-03 | 2,671 | **read** | Kohärenz-Kernel 3, Trennungsprotokoll† 2, Kollaps-Kernel 2, Moros 4, TSDP 10, Nyx 7, Lex 7, Kiko 4 | Cache Incoherence 2, Shutdown 3, Correspondence-Check 2, Worlds 5, Correspondence 3 |
@@ -915,7 +915,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Dual-Kernel-Theorie](../Wiki/candidates/dkt.md) | [forschungsprojekt-kohaerenz-protokoll-analyse](drive/forschungsprojekt-kohaerenz-protokoll-analyse.md), [dramatica-storyform-kohaerenz-protokoll-analyse](drive/dramatica-storyform-kohaerenz-protokoll-analyse.md), [kohaerenz-protokoll-system-realitaet-leser](drive/kohaerenz-protokoll-system-realitaet-leser.md) |
 | [Drei ontologische Schichten](../Wiki/candidates/drei-ontologische-schichten.md) | [research-prompt-kohaerenz-protokoll-dramatica-dual-storyform](drive/research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md) |
 | [ECR](../Wiki/candidates/ecr.md) | — |
-| [Emergenz](../Wiki/candidates/emergenz.md) | [narrativ-existenzieller-kohaerenz-nzt-protokoll](drive/narrativ-existenzieller-kohaerenz-nzt-protokoll.md), [spannungsfelder-und-aegis-meta-framework-analyse-docx](drive/spannungsfelder-und-aegis-meta-framework-analyse-docx.md), [aegis-protokolle-kritische-evaluation-neukonzeption](drive/aegis-protokolle-kritische-evaluation-neukonzeption.md) |
+| [Emergenz](../Wiki/candidates/emergenz.md) | [spannungsfelder-und-aegis-meta-framework-analyse-docx](drive/spannungsfelder-und-aegis-meta-framework-analyse-docx.md), [aegis-protokolle-kritische-evaluation-neukonzeption](drive/aegis-protokolle-kritische-evaluation-neukonzeption.md) |
 | [Entropie](../Wiki/candidates/entropie.md) | [kohaerenz-protokoll-system-realitaet-leser](drive/kohaerenz-protokoll-system-realitaet-leser.md) |
 | [Maximale Entropie-Katastrophe](../Wiki/candidates/entropie-katastrophe.md) | — |
 | [Entropie-Resonanz / Entropie-Resonanz-Protokolle](../Wiki/candidates/entropie-resonanz.md) | — |
@@ -925,7 +925,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Externe Ebene](../Wiki/candidates/externe-ebene.md) | [junas-liebe-kaels-trauma-aegis-docx](drive/junas-liebe-kaels-trauma-aegis-docx.md), [recherche-kohaerenz-protokoll](drive/recherche-kohaerenz-protokoll.md), [kohaerenz-protokoll-konzept](drive/kohaerenz-protokoll-konzept.md), [projekt-kohaerenz-protokoll-tiefenanalyse](drive/projekt-kohaerenz-protokoll-tiefenanalyse.md) |
 | [Formel-Inversion](../Wiki/candidates/formel-inversion.md) | — |
 | [Garten der stillen Präsenz](../Wiki/candidates/garten-der-stillen-praesenz.md) | [romanentwurf-ruf-des-abenteuers](drive/romanentwurf-ruf-des-abenteuers.md), [roman-als-transformativer-prozess-alchemie-der-erzaehlung](drive/roman-als-transformativer-prozess-alchemie-der-erzaehlung.md) |
-| [Genesis](../Wiki/candidates/genesis.md) | [ontologie-des-gelesenen-traumas](drive/ontologie-des-gelesenen-traumas.md), [roman-plot-konzept-kohaerenz-protokoll](drive/roman-plot-konzept-kohaerenz-protokoll.md) |
+| [Genesis](../Wiki/candidates/genesis.md) | [roman-plot-konzept-kohaerenz-protokoll](drive/roman-plot-konzept-kohaerenz-protokoll.md) |
 | [Genesis-Klammer](../Wiki/candidates/genesis-klammer.md) | — |
 | [Gödel-Gambit](../Wiki/candidates/goedel-gambit.md) | — |
 | [Grenzfeste](../Wiki/candidates/grenzfeste.md) | — |
