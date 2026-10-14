@@ -498,3 +498,11 @@ Where it stands in the record's own terms: it names an agent of AEGIS; a proposa
 In the prompt that addresses AEGIS, „Component 734 (Kael) is vital“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L302], and „The Subject: You hold Entity 734 (Kael) in containment.“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L319] Of the history it says: „734 was your Origin-Self. It touched the Void Entity (M/Juna) and resonated.“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L320] The prompt is the report's own construction for a language model.
 
 Where it stands in the record's own terms: 734 as a designation of Kael inside AEGIS, in a prompt of a research report; recorded, not applied and not decided.
+
+## 2026-10-14 — `genesis-ein-implementierungsleitfaden-prosa-version`, 2025-04-29, the Genesis implementation guide
+
+**The Genesis implementation guide has AEGIS reclassify the Ich as Komponente 734 and later eliminate it; recorded.**
+
+In a sample beat of the fifth scene, AEGIS's third-person voice says: „Entität reklassifiziert. Neue Designierung: Komponente 734.“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L414] The sample beat of the eleventh scene closes: „Logische Konsequenz zur Wahrung der Systemintegrität: Eliminierung der primären internen Instabilitätsquelle. Ziel: Komponente 734.“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L517] The beats are examples in a direction book, never canon prose. The guide uses the number as a designation of the Ich inside AEGIS.
+
+Where it stands in the record's own terms: 734 as a designation of the Ich inside AEGIS, in sample beats of a direction book; recorded, not applied and not decided.
