@@ -1796,3 +1796,10 @@
 {"document": "projekt-ockham-narrative-systemik-reduktion", "page": "kohaerenz", "surface": "Kohärenz", "line": 17, "decision": "occurrence", "why": "a general use", "at": "2026-10-14"}
 {"document": "projekt-ockham-narrative-systemik-reduktion", "page": "personas", "surface": "Persona", "line": 80, "decision": "occurrence", "why": "an agent persona in the software", "at": "2026-10-14"}
 {"document": "projekt-ockham-narrative-systemik-reduktion", "page": "ueberwelt", "surface": "Simulation", "line": 29, "decision": "occurrence", "why": "a general use", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "alters", "surface": "Alters", "line": 68, "decision": "reading", "why": "the system's parts; read on the page if the reader finds it", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "did", "surface": "DID", "line": 187, "decision": "occurrence", "why": "a reference title", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "emergenz", "surface": "Emergenz", "line": 102, "decision": "occurrence", "why": "a general use", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "entropie", "surface": "Entropie", "line": 36, "decision": "occurrence", "why": "read on aegis", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "genesis", "surface": "Genesis", "line": 171, "decision": "occurrence", "why": "a reference title", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
+{"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 28, "decision": "occurrence", "why": "the introduction; read on aegis", "at": "2026-10-14"}
