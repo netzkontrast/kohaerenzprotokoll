@@ -1,0 +1,124 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a four-stage report: 40 theory areas, 7 clusters, a prose plan, and a final commission for a scene. Its "Kontext" lines (marked with a bracketed Kontext) restate material it says it was given. Section 4 of the commission is a numbered 7-step trajectory. The reference list at the end names real works and people; none of those names is listed here. Figures: AEGIS, Kael, the Ursprungs-Ich. No Juna in the text.
+
+## world
+- AEGIS
+- Kael
+- Genesis-Krise
+- Leere
+- Ursprungs-Ich
+- Ursprungs-Ichs
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichteten Kohärenz
+- Kohärenz durch Entfremdung
+- AEGIS-Paradoxon
+- Paradoxon
+- Kernparadoxon
+- latente Echos
+- latenten Echos
+- Echos
+- Entität
+- Nichts Rauschen
+- Trauma-Zeit
+- traumatische Resonanz
+- traumatischen Resonanz
+- Kernwelten
+- Fragmentierung
+- Prosa-Auftrag
+- Prosa-Auftrags
+- Prosa-Plan
+- NZT-Modus
+- Potentialmeer
+- Leere/Potentialmeer
+- Grenzwacht
+- Kael-Struktur
+- Reboot
+- Partitionierung
+- Sharding
+- Kohärenz-Metriken
+- autopoietische Isolation
+- Alienationsparadox
+- Kontrollinstanz
+
+## lens
+- Existenzphilosophie
+- Phänomenologie
+- Traumatheorie
+- Strukturelle Dissoziation
+- Strukturellen Dissoziation
+- TSDP
+- ANP
+- EP
+- Dissociative Identity Disorder
+- DID
+- Systemtheorie
+- Autopoiesis
+- Feedback Loops
+- Informationstheorie
+- Value Alignment Problem
+- Kontrollproblem
+- KI-Ethik
+- Philosophie des Geistes
+- Qualia
+- Kosmischer Horror
+- Kosmischen Horrors
+- Cosmic Horror
+- Psychologischer Horror
+- Psychologischen Horror
+- Hard Science-Fiction
+- Hard SF
+- Ontologie
+- Informationsontologie
+- Digitale Ontologie
+- Sozialontologie
+- Inforg
+- Inforgs
+- Infosphäre
+- Resonanztheorie
+- Kybernetik
+- Gedächtnistheorie
+- Bewusstseinsphilosophie
+- Minimales Selbst
+- minimalen Selbst
+- Philosophie der Negation
+- Tragödientheorie
+- Hamartia
+- Hybris
+- Katharsis
+- Psychologie der Angst und Paranoia
+- Theorie der Verkörperung
+- Embodiment
+- Sprachphilosophie
+- Komplexitätstheorie
+- Emergenz
+- Chaos Theorie
+- Schmetterlingseffekt
+- Selbstorganisation
+- Netzwerktheorie
+- Network Theory
+- Abwehrmechanismen
+- Das Abjekte
+- Rekursive Selbstverbesserung
+- Katastrophales Vergessen
+- Computational Theory of Mind
+- CTM
+- IIT
+- GWT
+- Selbstmodifikation
+- Persönliche Identität
+- Psychologische Kontinuität
+- Epistemologie der Ignoranz
+- Agnotologie
+- Agnotology
+- Unzuverlässiger Erzähler
+- Schwarzes Loch Informationsparadoxon
+- Trauma Bonding
+- Bad Faith
+- Epoché
+- Intelligenzexplosion
+- Phasenübergang
+- Trigger
+- Reinszenierung

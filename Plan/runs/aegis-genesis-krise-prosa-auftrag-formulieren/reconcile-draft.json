@@ -1,0 +1,158 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag-formulieren",
+  "drive_id": "1Jb521AQvxUQ5irg9Z7HhxhgjxQO5B3O7fp7PQCFCXyo",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 117,
+    "decisions": 117,
+    "decided_by_lookup": 87,
+    "needs_judgement": 30
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        63,
+        189,
+        541,
+        596,
+        599,
+        601,
+        660,
+        671
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system whose paradox the report plans to show as the crisis's hinge"
+    },
+    {
+      "page": "did",
+      "lines": [
+        433,
+        485
+      ],
+      "attribution": "",
+      "note": "DID listed as a clinical analogy"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        71,
+        424,
+        532,
+        670
+      ],
+      "attribution": "",
+      "note": "Emergence as a theory area and as the plan's ending"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        63,
+        162,
+        351,
+        532,
+        613,
+        670
+      ],
+      "attribution": "",
+      "note": "Kael's origin in the crisis, planned as an emergence and not a finished figure"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        612
+      ],
+      "attribution": "",
+      "note": "a hint at later core worlds in step 6"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        45,
+        596
+      ],
+      "attribution": "",
+      "note": "the Leere as a possibly absurd Nichts Rauschen, AEGIS defined by its negation"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        607
+      ],
+      "attribution": "",
+      "note": "the opening view from outside"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        405,
+        622
+      ],
+      "attribution": "",
+      "note": "TSDP applied to the crisis"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 76,
+      "decision": "occurrence",
+      "why": "a theory definition"
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 677,
+      "decision": "occurrence",
+      "why": "a real person's given name in the reference list, not the early name"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the paradox and the Protokoll, read on aegis"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 54,
+      "decision": "occurrence",
+      "why": "a theory definition"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

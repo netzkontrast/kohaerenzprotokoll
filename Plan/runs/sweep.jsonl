@@ -1763,3 +1763,7 @@
 {"document": "genesis-krise-aegis-prosa-auftrag", "page": "juna", "surface": "Julia", "line": 299, "decision": "occurrence", "why": "a real person's given name in a reference entry, not the early name", "at": "2026-10-14"}
 {"document": "genesis-krise-aegis-prosa-auftrag", "page": "kohaerenz", "surface": "Kohärenz", "line": 23, "decision": "occurrence", "why": "the paradox, read on aegis", "at": "2026-10-14"}
 {"document": "genesis-krise-aegis-prosa-auftrag", "page": "ueberwelt", "surface": "Simulation", "line": 47, "decision": "occurrence", "why": "a line on the Leere, not the novel's simulation", "at": "2026-10-14"}
+{"document": "aegis-genesis-krise-prosa-auftrag-formulieren", "page": "entropie", "surface": "Entropie", "line": 76, "decision": "occurrence", "why": "a theory definition", "at": "2026-10-14"}
+{"document": "aegis-genesis-krise-prosa-auftrag-formulieren", "page": "juna", "surface": "Julia", "line": 677, "decision": "occurrence", "why": "a real person's given name in the reference list, not the early name", "at": "2026-10-14"}
+{"document": "aegis-genesis-krise-prosa-auftrag-formulieren", "page": "kohaerenz", "surface": "Kohärenz", "line": 17, "decision": "occurrence", "why": "the paradox and the Protokoll, read on aegis", "at": "2026-10-14"}
+{"document": "aegis-genesis-krise-prosa-auftrag-formulieren", "page": "ueberwelt", "surface": "Simulation", "line": 54, "decision": "occurrence", "why": "a theory definition", "at": "2026-10-14"}
