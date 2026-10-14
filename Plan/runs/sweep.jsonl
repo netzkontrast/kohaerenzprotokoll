@@ -1518,3 +1518,5 @@
 {"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
 {"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 95, "decision": "occurrence", "why": "a deeper level of reality in the general sense", "at": "2026-10-14"}
 {"document": "romanplot-kohaerenz-protokoll-entwicklung", "page": "ueberwelt", "surface": "Simulation", "line": 96, "decision": "reading", "why": "AEGIS's artificial, fragmented simulation", "at": "2026-10-14"}
+{"document": "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the novel's title", "at": "2026-10-14"}
+{"document": "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt", "page": "ueberwelt", "surface": "Simulation", "line": 43, "decision": "reading", "why": "the simulation briefly collapses during an experiment", "at": "2026-10-14"}

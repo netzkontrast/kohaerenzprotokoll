@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      28
+  backslash escapes      0
+  typographic marks      4
+  ascii quotes           52
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemebene, Systemfehler, Systemfehlers, Systemregeln
+  kontr    Kontrolle, Kontrollraum, Kontrollversuchen, Kontrollzentrum
+  antei    Anteil, Anteile, Anteilen
+  fehle    Fehler, Fehlerhaftigkeit, Fehlern
+  inner    Innere, Inneren, Innerer
+  netzw    Netzwerk, Netzwerkanalyse, Netzwerkarchitektur
+  traum    Trauma, Traumafragment, Traumwelt
+  wider    Widersprüchen, Widerstands, Widerstände
+  wiede    Wiedergeburt, Wiederkehrendes, Wiederverbindung
+  ansat    Ansatz, Ansatzes
+  beoba    Beobachter, Beobachtungsposten
+  dialo    Dialog, Dialograum
+  elixi    Elixier, Elixiers
+  fokus    Fokus, Fokussierung
+  fragm    Fragmentierung, Fragmentierungsmuster
+  gleic    Gleichgewicht, Gleichzeitig
+  grenz    Grenze, Grenzen
+  herau    Herausforderer, Herausforderungen
+  hinwe    Hinweis, Hinweisgeberin
+  ident    Identifikation, Identität
+  insta    Instabilität, Instanz
+  integ    Integration, Integrierte
+  kernw    Kernwelten, Kernwunde
+  konfe    Konferenzen, Konferenzraum
+  koope    Kooperation, Kooperationsversuche
+
+# substring pairs -- never one term, often merged by accident
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kernwunde
+  Kern < Kernwelten
+  Kern < Kernprozessor
+  Plan < Planungsraum
+  Raum < Trauma
+  Raum < Albtraum
+  Raum < Traumwelt
+  Raum < Dialograum
+  Raum < Projektraum
+  Raum < Kontrollraum
+  Raum < Planungsraum
+  Raum < Konferenzraum
+  Raum < Traumafragment
+  Raum < Evaluierungsraum
+  Raum < Verhandlungsraum
+  Sein < Bewusstsein
+  Teil < Anteil
+  Teil < Anteile

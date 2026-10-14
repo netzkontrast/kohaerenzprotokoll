@@ -1,0 +1,65 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             76 word    84 in   [17, 18, 19, 20, 21, 22]
+                                    8      as Kaels
+  Juna                             11 word    12 in   [23, 24, 38, 52, 61, 65]
+                                    1      as Junas
+  AEGIS                            35 word    38 in   [17, 18, 19, 21, 35, 41]
+                                    1      as AEGIS-Evaluierungsraum
+                                    1      as AEGIS-Kontrollraum
+                                    1      as AEGIS-Systemebene
+  M                                22 word    54 in   [15, 17, 19, 21, 22, 24]  <-- substring
+  Kael/M                           17 word    17 in   [58, 59, 60, 61, 62, 63]
+  Conway-Welt                       1 word     1 in   [17]
+  Co₁                               9 word    10 in   [17, 18, 19, 20, 22, 25]
+  McLaughlin-Welt                   1 word     1 in   [21]
+  McL                               6 word    11 in   [21, 22, 25, 26, 40]
+  Baby-Monster-Welt                 2 word     2 in   [36]
+  B-Welt                            4 word     4 in   [37, 38]
+  Lyons-Welt                        2 word     2 in   [42]
+  Ly                                5 word    10 in   [42, 43, 44, 46]
+  Ly-Welt                           3 word     3 in   [43, 44, 46]
+  Potentialmeer                    17 word    17 in   [43, 57, 59, 60, 61, 62]
+  Kernwelten                        2 word     2 in   [41]
+  Cache-Konflikt                    3 word     3 in   [22, 25, 40]
+  K-J Verbindung                    1 word     1 in   [23]
+  Kissen                            2 word     2 in   [45, 54]
+  Kernwunde                         1 word     1 in   [45]
+  Wächterin                         2 word     4 in   [24, 39]
+                                    1      as Wächterin-Analogon
+                                    1      as Wächterin-Anteil
+  Wächterin-Anteil                  1 word     1 in   [39]
+  Wächterin-Analogon                1 word     1 in   [39]
+  Trojaner                          1 word     1 in   [57]
+  ICH                               3 word     3 in   [56, 57]
+  Scherben                          1 word     1 in   [55]
+  Mosaik                            1 word     1 in   [27]
+  Garten                            3 word     3 in   [27, 29]
+  Bunker                            1 word     1 in   [19]
+  Wohnmodul                         1 word     1 in   [17]
+  AEGIS-Evaluierungsraum            1 word     1 in   [18]
+  Lernarchiv                        1 word     1 in   [19]
+  Öffentliches Forum                1 word     1 in   [20]
+  Kontrollzentrum der McL-Welt      1 word     1 in   [21]
+  AEGIS-Kontrollraum                1 word     1 in   [35]
+  AEGIS' Kernprozessor              1 word     1 in   [54]
+  Pforten der Verurteilung          1 word     1 in   [20]
+  Auge des Sturms                   1 word     1 in   [21]
+  Tod des Alten Selbst              1 word     1 in   [55]
+  Neue Innere Welt                  1 word     1 in   [29]
+  Innere Kohärenz                   1 word     1 in   [28]
+  Binnenerzählungen                 3 word     3 in   [11, 33, 50]
+  Zyklischer Erzählstil             1 word     1 in   [31]
+  Wiederkehrendes Thema             1 word     1 in   [45]
+  Der Wendepunkt                    1 word     1 in   [46]
+  Schatten                          2 word     3 in   [37]
+                                    1      as Schatten-Manifestation
+  Elixier                           1 word     2 in   [60, 61]
+                                    1      as Elixiers
+  Wächter der Schwelle              1 word     1 in   [53]
+  Feuerprobe                        1 word     1 in   [54]
+  Heldinnenreise                    2 word     2 in   [11, 13]
+  Heldenreise                       1 word     1 in   [48]

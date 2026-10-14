@@ -1,0 +1,18 @@
+# every number the census and note state, with the command that produced it (output of /tmp scratch run, pasted)
+$ python3 scripts/read.py S --count "Ort"         -> whole word 39
+$ python3 scripts/read.py S --count "Charakter"   -> whole word 39
+$ python3 scripts/read.py S --count "Stufe"       -> whole word 9
+$ python3 scripts/read.py S --count "Zyklus"      -> whole word 10
+$ python3 scripts/read.py S --count "Kapitel"     -> whole word 4
+$ python3 scripts/read.py S --count "Kap"         -> whole word 0, including compounds 4
+$ python3 scripts/read.py S --count "Erweiterung" -> whole word 3
+$ python3 scripts/read.py S --count "Entwurf"     -> whole word 1
+$ python3 scripts/read.py S --count "Kissen" 2 ; "Kernwunde" 1 ; "Cache-Konflikt" 3 ; "K-J Verbindung" 1 ; "Trojaner" 1 ; "ICH" 3
+$ python3 scripts/read.py S --count "Heldinnenreise" 2 ; "Heldenreise" 1 ; "Binnenerzählungen" 3 ; "Kernwelten" 2 ; "Elixier" 1 (compounds 2)
+$ python3 scripts/read.py S --count "AEGIS" -> 35 word, 38 in ; "Juna" 11 / 12 ; "Kael/M" 17 ; "Potentialmeer" 17 ; "Wächterin" 2 / 4
+stance_marker_count 81 = Ort 39 + Charakter 39 + Erweiterung 3
+steps: 13 + 12 + 14 = 39 (Teil 1 L17-L29, Teil 2 L35-L46, Teil 3 L52-L65)
+census: Kael 76/84, M 22/54, Co₁ 9/10, McL 6/11, Ly 5/10, Schatten 2/3 from 04-counts.txt (capture.py --count)
+M inside other words: 54 - 22 = 32
+Kael 84 - 76 = 8 as Kaels
+glued ref numbers 28 (01-profile.txt)
