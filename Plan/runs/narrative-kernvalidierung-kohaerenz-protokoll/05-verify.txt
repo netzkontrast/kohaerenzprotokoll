@@ -1,0 +1,80 @@
+# 05-verify: numbers stated in the note and census
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Dramatische Frage"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Dramatische Frage` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#20]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Konzeptuelle Vertiefung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Konzeptuelle Vertiefung` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Experienzielle Übersetzung"
+whole word, case-sensitive     7
+whole word, case-insensitive   9
+including compounds            7
+
+`Experienzielle Übersetzung` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Konflikt-Manifestation"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Konflikt-Manifestation` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Einsatz-Eskalation"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Einsatz-Eskalation` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Kritische Reflexion"
+whole word, case-sensitive     7
+whole word, case-insensitive   8
+including compounds            7
+
+`Kritische Reflexion` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Akt I"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            15
+
+`Akt I` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Akt II"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            11
+
+`Akt II` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#6]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Akt III"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Akt III` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py narrative-kernvalidierung-kohaerenz-protokoll --count "Alternative"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Alternative` ^[narrative-kernvalidierung-kohaerenz-protokoll.md:#4]
+$ grep -c "end list" Sources/drive/narrative-kernvalidierung-kohaerenz-protokoll.md
+83
+$ grep -c "^\*\*Sequenz [0-9]" Sources/drive/narrative-kernvalidierung-kohaerenz-protokoll.md
+7
+stance_marker_count 55 = 20+7+7+7+7+7 from the counts above (case-sensitive whole word)
+16 glued ref numbers, 38 ascii quotes, 64 typographic marks, 28 backslash escapes: 01-profile.txt
+39 references: last numbered item 39 of line 567 (read.py --from 567 --to 567)
