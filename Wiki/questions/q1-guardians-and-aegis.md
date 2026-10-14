@@ -622,3 +622,11 @@ Where it stands in the record's own terms: a declaration, recorded, not applied;
 It writes: „Guardians, die in den Kernwelten stationiert sind, um die Experimente zu überwachen oder durchzuführen“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L181], and for Akt II: „Die Loyalität einiger Guardians beginnt zu bröckeln“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L210].
 
 Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `monstergruppe-kohaerenz-protokoll-fundament`, 2025-04-23, the Monster-group foundation report
+
+**The Monster-group foundation report proposes, conditionally, specialised Analyse-Guardians that AEGIS sets on the Kohärenz-Insel and that fail.**
+
+„Szenen könnten zeigen, wie AEGIS spezialisierte Analyse-Guardians“ ^[monstergruppe-kohaerenz-protokoll-fundament.md:L250] are set on it; their reports go to higher AEGIS instances: „könnten Verwirrung und die Grenzen der AEGIS-Logik widerspiegeln“ ^[monstergruppe-kohaerenz-protokoll-fundament.md:L250].
+
+Stands as a conditional proposal of Guardians as AEGIS's analysis instances; recorded, the question stays open.
