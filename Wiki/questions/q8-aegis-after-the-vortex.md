@@ -880,3 +880,11 @@ Stands: three variants, kept as variants; the document names no Vortex and no su
 Kap 37 plans: „AEGIS stabilisiert sich und/oder die Simulation durch Anwendung der neuen Erkenntnisse.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L100] Its block adds a hedge, „Dies führt zu einer Stabilisierung, aber möglicherweise in einer neuen, veränderten Form.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L507] Kap 39 plans that „neue Form wird angedeutet“ ^[kohaerenz-protokoll-plot-synthese-2.md:L102] and the block leaves open „werden angedeutet, lassen aber Raum für Interpretation“ ^[kohaerenz-protokoll-plot-synthese-2.md:L529] The document does not use the word `Vortex` ^[kohaerenz-protokoll-plot-synthese-2.md:#0].
 
 Stands as a plan: AEGIS stabilises and its new form is hinted at; recorded, not applied, the question stays open.
+
+## 2026-10-14 — `romanplot-kohaerenz-protokoll-entwicklung`, 2025-04-25, the optimised blueprint
+
+**The optimised blueprint sets three end scenarios side by side and chooses none: collapse, transformation, partial collapse.**
+
+A: „AEGIS' System zerfällt“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L479] B: „AEGIS beginnt eine radikale Neuordnung“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L480] C: „Teile von AEGIS zerfallen, andere transformieren sich“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L481] Step 35 asks: „Was wurde aus den AEGIS-Subsystemen/Wächtern?“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L523]
+
+Where it stands: a plan, recorded, not applied; the question stays open.
