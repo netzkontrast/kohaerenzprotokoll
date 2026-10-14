@@ -1,0 +1,188 @@
+{
+  "document": "kael-uberarbeitung-des-konzepts-unter-tsdp",
+  "drive_id": "1zlRkR-R7VnDx8PYiqPeDqby1ce4cRZE3N_hsXq6Rp4k",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 59,
+    "decided_by_lookup": 46,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        23,
+        95,
+        99,
+        116
+      ],
+      "attribution": "",
+      "note": "AEGIS read as cause or sustainer of Kael's dissociation"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "the Cache Kohärenz problem as the symptom of dissociation"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "the Grenzfeste as an environment holding EP triggers"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        114,
+        117
+      ],
+      "attribution": "",
+      "note": "Juna/V as a possibly integration-promoting connection"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        15,
+        17,
+        22,
+        121
+      ],
+      "attribution": "",
+      "note": "Kael as a system of structural dissociation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "triggers in the Kernwelten"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        52,
+        53,
+        94
+      ],
+      "attribution": "",
+      "note": "Kiko as an emotional part carrying the childlike trauma"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        44,
+        97
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as a structured environment"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        43,
+        44,
+        94
+      ],
+      "attribution": "",
+      "note": "Lex as the logical ANP"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        61,
+        62
+      ],
+      "attribution": "",
+      "note": "Nyx as an emotional part fixed on fight or flight"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        22,
+        35,
+        37
+      ],
+      "attribution": "",
+      "note": "the Personas re-mapped onto ANP and EP roles"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        70,
+        71
+      ],
+      "attribution": "",
+      "note": "Rhys as a probable ANP of social interaction"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        88,
+        112
+      ],
+      "attribution": "",
+      "note": "Selene as the potential for integration, not a part"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15,
+        22,
+        43,
+        70,
+        79,
+        92,
+        121
+      ],
+      "attribution": "",
+      "note": "TSDP placed as the primary explanatory model"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

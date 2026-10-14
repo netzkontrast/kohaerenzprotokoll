@@ -445,10 +445,19 @@
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
         "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
-        "holographisches-prinzip-fuer-kohaerenz-protokoll"
+        "holographisches-prinzip-fuer-kohaerenz-protokoll",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "physik-fuer-simulierte-realitaet",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 343,
-      "readings": 343,
+      "sources": 352,
+      "readings": 352,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -861,10 +870,13 @@
         "kohaerenz-protokoll-plot-synthese-2",
         "narrative-kernvalidierung-kohaerenz-protokoll",
         "plot-konzepte-kohaerenz-protokoll-generierung",
-        "romanplot-kohaerenz-protokoll-entwicklung"
+        "romanplot-kohaerenz-protokoll-entwicklung",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "plot-rekonstruktion-kohaerenz-protokoll"
       ],
-      "sources": 168,
-      "readings": 168,
+      "sources": 171,
+      "readings": 171,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -1126,10 +1138,15 @@
         "protokoll-ontologie-roman-konzeptentwicklung",
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
         "the-coherence-protocol-a-comparative-analysis-across-the-sca",
-        "the-coherence-protocol-the-hidden-rules-that-hold-reality-to"
+        "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 32,
-      "readings": 32,
+      "sources": 37,
+      "readings": 37,
       "conflict": "none"
     },
     "cerberus": {
@@ -1453,10 +1470,13 @@
         "kohaerenz-protokoll-detaillierter-plotentwurf",
         "kohaerenz-protokoll-plot-synthese-2",
         "plot-konzepte-kohaerenz-protokoll-generierung",
-        "romanplot-kohaerenz-protokoll-entwicklung"
+        "romanplot-kohaerenz-protokoll-entwicklung",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-umfassendes-konzept"
       ],
-      "sources": 90,
-      "readings": 90,
+      "sources": 93,
+      "readings": 93,
       "conflict": "none yet"
     },
     "dkt": {
@@ -1684,10 +1704,15 @@
         "kohaerenz-protokoll-detaillierter-plotentwurf",
         "kohaerenz-protokoll-plot-synthese-2",
         "narrative-kernvalidierung-kohaerenz-protokoll",
-        "plot-konzepte-kohaerenz-protokoll-generierung"
+        "plot-konzepte-kohaerenz-protokoll-generierung",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "physik-fuer-simulierte-realitaet",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll"
       ],
-      "sources": 86,
-      "readings": 86,
+      "sources": 91,
+      "readings": 91,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -1899,10 +1924,13 @@
         "roman-outline-kohaerenz-protokoll",
         "kohaerenz-protokoll-plot-synthese-2",
         "plot-konzepte-kohaerenz-protokoll-generierung",
-        "romanplot-kohaerenz-protokoll-entwicklung"
+        "romanplot-kohaerenz-protokoll-entwicklung",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept"
       ],
-      "sources": 160,
-      "readings": 160,
+      "sources": 163,
+      "readings": 163,
       "conflict": "C2"
     },
     "erason": {
@@ -2411,10 +2439,11 @@
         "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
         "kernwelten-und-fragmentierte-wahrnehmung",
-        "report-plot-synthesis-and-final-outline-for-coherence-protoc"
+        "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 55,
-      "readings": 55,
+      "sources": 56,
+      "readings": 56,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -2601,10 +2630,13 @@
         "konsolidierung-des-hard-canon-protokolls",
         "kohaerenz-protokoll-detaillierter-plotentwurf",
         "narrative-kernvalidierung-kohaerenz-protokoll",
-        "romanplot-kohaerenz-protokoll-entwicklung"
+        "romanplot-kohaerenz-protokoll-entwicklung",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll"
       ],
-      "sources": 161,
-      "readings": 161,
+      "sources": 164,
+      "readings": 164,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -3047,10 +3079,18 @@
         "narrative-kernvalidierung-kohaerenz-protokoll",
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
-        "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt"
+        "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 294,
-      "readings": 294,
+      "sources": 302,
+      "readings": 302,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3451,10 +3491,19 @@
         "narrative-kernvalidierung-kohaerenz-protokoll",
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
-        "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt"
+        "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "physik-fuer-simulierte-realitaet",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 331,
-      "readings": 332,
+      "sources": 340,
+      "readings": 341,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3830,10 +3879,17 @@
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
         "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
-        "holographisches-prinzip-fuer-kohaerenz-protokoll"
+        "holographisches-prinzip-fuer-kohaerenz-protokoll",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "physik-fuer-simulierte-realitaet",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 230,
-      "readings": 229,
+      "sources": 237,
+      "readings": 236,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -4016,10 +4072,11 @@
         "untersuche-in-wie-fern-juna-bzw-das-fundament-du",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "dramatica-storyform-kohaerenz-protokoll-2",
-        "multidimensionale-narrative-strukturmodelle-entwickeln"
+        "multidimensionale-narrative-strukturmodelle-entwickeln",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 174,
-      "readings": 175,
+      "sources": 175,
+      "readings": 176,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -4504,10 +4561,11 @@
         "kohaerenz-protokoll-master-outline",
         "roman-outline-kohaerenz-protokoll",
         "dramatica-dual-storyform-mapping-protokoll",
-        "roman-analyse-kohaerenz-protokoll-akt-i"
+        "roman-analyse-kohaerenz-protokoll-akt-i",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 123,
-      "readings": 123,
+      "sources": 124,
+      "readings": 124,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -4754,10 +4812,11 @@
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
         "multidimensionale-narrative-strukturmodelle-entwickeln",
-        "roman-analyse-kohaerenz-protokoll-akt-i"
+        "roman-analyse-kohaerenz-protokoll-akt-i",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 188,
-      "readings": 189,
+      "sources": 189,
+      "readings": 190,
       "conflict": "none"
     },
     "lia": {
@@ -5414,10 +5473,15 @@
         "narrative-kernvalidierung-kohaerenz-protokoll",
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
-        "holographisches-prinzip-fuer-kohaerenz-protokoll"
+        "holographisches-prinzip-fuer-kohaerenz-protokoll",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll"
       ],
-      "sources": 166,
-      "readings": 166,
+      "sources": 171,
+      "readings": 171,
       "conflict": "none"
     },
     "moros": {
@@ -5597,10 +5661,12 @@
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
         "roman-outline-kohaerenz-protokoll",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"
       ],
-      "sources": 41,
-      "readings": 41,
+      "sources": 43,
+      "readings": 43,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -5770,10 +5836,11 @@
         "juna-v-exiliertes-ursprungs-ich",
         "dramatica-storyform-validierung-und-synthese",
         "konsolidierung-des-hard-canon-protokolls",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"
       ],
-      "sources": 160,
-      "readings": 160,
+      "sources": 161,
+      "readings": 161,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -5809,10 +5876,11 @@
         "emergenz-autonomer-systeme-aegis-forschung",
         "logiksystem-aegis-entwicklungsszenarien-docx",
         "roman-kapitel-1-generierungsprozess",
-        "storyforms-system-mind-bewusstsein"
+        "storyforms-system-mind-bewusstsein",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel"
       ],
-      "sources": 27,
-      "readings": 26,
+      "sources": 28,
+      "readings": 27,
       "conflict": "none yet"
     },
     "nexus": {
@@ -6225,10 +6293,11 @@
         "roman-kapitel-1-generierungsprozess",
         "dramatica-storyform-kohaerenz-protokoll-2",
         "multidimensionale-narrative-strukturmodelle-entwickeln",
-        "roman-analyse-kohaerenz-protokoll-akt-i"
+        "roman-analyse-kohaerenz-protokoll-akt-i",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 189,
-      "readings": 190,
+      "sources": 190,
+      "readings": 191,
       "conflict": "C10"
     },
     "oblivion": {
@@ -6409,10 +6478,11 @@
         "roman-konzeptentwicklung-kohaerenz-protokoll",
         "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
         "in-teil-2-werden-die-persona-von-ihren-spezifis",
-        "narrative-loesungen-fuer-romanprojekt"
+        "narrative-loesungen-fuer-romanprojekt",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "pms": {
@@ -6533,10 +6603,15 @@
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
         "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
-        "holographisches-prinzip-fuer-kohaerenz-protokoll"
+        "holographisches-prinzip-fuer-kohaerenz-protokoll",
+        "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "physik-fuer-simulierte-realitaet",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-umfassendes-konzept"
       ],
-      "sources": 99,
-      "readings": 100,
+      "sources": 104,
+      "readings": 105,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -6831,10 +6906,11 @@
         "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "konsolidierung-des-hard-canon-protokolls",
-        "roman-analyse-kohaerenz-protokoll-akt-i"
+        "roman-analyse-kohaerenz-protokoll-akt-i",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 127,
-      "readings": 127,
+      "sources": 128,
+      "readings": 128,
       "conflict": "none"
     },
     "risse": {
@@ -7087,10 +7163,16 @@
         "kohaerenz-protokoll-plot-synthese-2",
         "narrative-kernvalidierung-kohaerenz-protokoll",
         "romanplot-kohaerenz-protokoll-entwicklung",
-        "holographisches-prinzip-fuer-kohaerenz-protokoll"
+        "holographisches-prinzip-fuer-kohaerenz-protokoll",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "physik-fuer-simulierte-realitaet",
+        "plot-rekonstruktion-kohaerenz-protokoll",
+        "kohaerenz-protokoll-roman-ausarbeitung",
+        "kohaerenz-protokoll-umfassendes-konzept",
+        "narrative-techniken-fuer-kohaerenz-protokoll"
       ],
-      "sources": 242,
-      "readings": 242,
+      "sources": 248,
+      "readings": 248,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -7290,10 +7372,11 @@
         "aegis-eingriff-angriff-oder-rettung",
         "an-introduction-to-the-concepts-of-coherence-protocol",
         "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
-        "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho"
+        "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 138,
-      "readings": 138,
+      "sources": 139,
+      "readings": 139,
       "conflict": "none"
     },
     "silas": {
@@ -7894,10 +7977,11 @@
         "ki-roman-design-mechaniken",
         "konsolidierung-des-hard-canon-protokolls",
         "storyforms-system-mind-bewusstsein",
-        "multidimensionale-narrative-strukturmodelle-entwickeln"
+        "multidimensionale-narrative-strukturmodelle-entwickeln",
+        "kael-uberarbeitung-des-konzepts-unter-tsdp"
       ],
-      "sources": 196,
-      "readings": 196,
+      "sources": 197,
+      "readings": 197,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -8055,10 +8139,13 @@
         "plot-konzepte-kohaerenz-protokoll-generierung",
         "romanplot-kohaerenz-protokoll-entwicklung",
         "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
-        "holographisches-prinzip-fuer-kohaerenz-protokoll"
+        "holographisches-prinzip-fuer-kohaerenz-protokoll",
+        "monstergruppe-primzahlen-plot-neukonstruktion",
+        "physik-fuer-simulierte-realitaet",
+        "plot-rekonstruktion-kohaerenz-protokoll"
       ],
-      "sources": 132,
-      "readings": 132,
+      "sources": 135,
+      "readings": 135,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
