@@ -1,0 +1,117 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German technical compendium on a software system for AI-written fiction (NovelOS, Projekt Ockham) with a case study applying it to the novel's figures (L303 to L318). Figures of the novel appear in section 7.0 and in schema examples; most candidates are system terms the document defines in bold or heads sections with. Real-person names inside the philosophical passages are left off the list. The escaped forms K\_1 and K\_0 are written as the export writes them.
+
+- Projekt Ockham
+- NovelOS
+- NovelOS 1.0
+- NovelOS 2.0
+- Epistemische Isolation
+- Epistemischen Isolation
+- Epistemische Kontamination
+- Epistemische Konsistenz
+- Coherence Protocol
+- Kohärenz Protokoll
+- Dual-Kernel-Theorie
+- DKT
+- Dual-Kernel-Theorie (DKT)
+- Dual Kernel
+- K\_1
+- K\_0
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kernel
+- ARCHON
+- ARCHON Stack
+- Narrative Reliability Engineer
+- Narrative Reliability Engineering
+- Narrative Entropie
+- Kontext-Fäule
+- Context Rot
+- Context Engineering
+- Aktives Vergessen
+- Hard Canon
+- Soft Canon
+- Storyform
+- Storytelling
+- Muse
+- Architekt
+- Mediator
+- Isomorphie-Prinzip
+- Isomorphie
+- DIS
+- ANP
+- EP
+- Kael
+- Juna
+- AEGIS
+- Librarian
+- The Librarian
+- Sensory Drafter
+- System Architect
+- Narrative Director
+- Brainstormer
+- Weaver
+- Ontologist
+- Ontologist Agent
+- Editor / Critic
+- Character Bots
+- Environment Loop
+- Gemini CLI
+- Telepathie-Verbot
+- Agenten-Telepathie
+- God Mode
+- Externe Gehirn
+- Narrativen Datenbank
+- Wissens-Hypergraph
+- Atomare Entität
+- Atomic Entity
+- BDI-Modell
+- BDI-Modelle
+- BDI-Agent
+- Scene Card
+- Storybeat
+- Skill Library
+- Doppelt verkettete Liste der Kausalität
+- Waisen-Events
+- Kausalketten-Verifikation
+- Semantisches Linting
+- Semantischen Lintings
+- Coherence Digest
+- Shadow Git
+- Thematische Resonanz
+- Coherence Loop
+- Obsidian Canvas
+- Watchdog-Skript
+- NCP
+- Narrative Context Protocol
+- Golden Source
+- Sektor 4
+- Keycard
+- OntologyValidator
+- Hallucination Drift
+- Lost in the Middle
+
+## lens
+
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Dissoziativer Identitätsstruktur
+- Strukturellen Dissoziation
+- TSDP
+- Anscheinend Normale Persönlichkeitsanteile
+- Emotionale Persönlichkeitsanteile
+- Klassischer Logik
+- Parakonsistenter Logik
+- Gödel-Gambit
+- Fabula
+- Syuzhet
+- Zettelkasten
+- GraphRAG
+- Model Context Protocol
+- Prompt Injection
+- Garbage Collection
+- Voyager
+- LangGraph
+- AutoGen
+- CrewAI

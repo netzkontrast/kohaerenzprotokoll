@@ -1,0 +1,253 @@
+{
+  "document": "projekt-ockham-narrative-systemik-reduktion",
+  "drive_id": "1SFuKU0hZCgwwiHgYuCba7J8WFbszyxh6d1RnNEpekjY",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 51,
+  "backslash_escapes": 151,
+  "typographic_marks": 227,
+  "ascii_quotes": 92,
+  "inflection_families": {
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterauthentizität",
+      "Charakterbios",
+      "Charakteren",
+      "Charakterprofile",
+      "Charakters",
+      "Charakterstimme",
+      "Charakterwahrnehmung"
+    ],
+    "archi": [
+      "Architect",
+      "Architected",
+      "Architectural",
+      "Architecture",
+      "Architekt",
+      "Architekten",
+      "Architektur"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modellarchitekturen",
+      "Modelle",
+      "Modells",
+      "Models"
+    ],
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemen",
+      "Systemik",
+      "Systemprozesse",
+      "Systems"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interferenzmuster",
+      "Intervention",
+      "Interzeption"
+    ],
+    "schre": [
+      "Schreibe",
+      "Schreibens",
+      "Schreiber",
+      "Schreibprozess",
+      "Schreibt"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustands",
+      "Zustandsretention",
+      "Zustandsverwaltung",
+      "Zustandsänderungen"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentic",
+      "Agents"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenbanktechnologie",
+      "Datenstruktur"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlermodus",
+      "Fehlern",
+      "Fehlers"
+    ],
+    "graph": [
+      "Graph",
+      "GraphRAG",
+      "Graphdatenbank",
+      "Graphen"
+    ],
+    "imple": [
+      "Implementation",
+      "Implementierung",
+      "Implementierungsstrategie",
+      "Implementing"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narrativer"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologien",
+      "Ontologist",
+      "OntologyValidator"
+    ],
+    "story": [
+      "Storybeat",
+      "Storybeats",
+      "Storyform",
+      "Storytelling"
+    ],
+    "valid": [
+      "ValidationError",
+      "Validiert",
+      "Validierung",
+      "Validität"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsmodelle",
+      "Wahrheitstheorien"
+    ],
+    "autor": [
+      "Autor",
+      "Autors",
+      "Autorschaft"
+    ],
+    "besch": [
+      "BESCHR",
+      "Beschreibung",
+      "Beschränkungen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "durch": [
+      "Durch",
+      "Durchschnitts",
+      "Durchsetzung"
+    ],
+    "engin": [
+      "Engine",
+      "Engineer",
+      "Engineering"
+    ],
+    "entit": [
+      "Entity",
+      "Entität",
+      "Entitäten"
+    ],
+    "entwu": [
+      "Entwurf",
+      "Entwurfs",
+      "Entwurfsvarianten"
+    ],
+    "epist": [
+      "Epistemische",
+      "Epistemischen",
+      "Epistemologie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "BERT",
+      "Fiebertraum"
+    ],
+    [
+      "Blue",
+      "Blueprint"
+    ],
+    [
+      "Bots",
+      "Chatbots"
+    ],
+    [
+      "Card",
+      "Cards"
+    ],
+    [
+      "Card",
+      "Keycard"
+    ],
+    [
+      "Chat",
+      "Chatbots"
+    ],
+    [
+      "Data",
+      "DataCamp"
+    ],
+    [
+      "Data",
+      "Database"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Ended"
+    ],
+    [
+      "Ende",
+      "Tausende"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Rendering"
+    ],
+    [
+      "Ende",
+      "Independent"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}
