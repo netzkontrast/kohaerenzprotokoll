@@ -1,10 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 29
-readings: 28
+sources: 30
+readings: 29
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "duale-storyform-synthese-kohaerenz-protokoll", "textanalyse-existenz-system-und-leid", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-konzeptionelle-themen-struktur", "project-coherence-protocol-narrative-blueprint-decisions", "analyse-des-kohaerenz-protokolls", "aegis", "roman-synthese-mit-dual-kernel-theorie", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "kapitel-1-generierungsprozess", "kohaerenz-protokoll-epische-plot-anreicherung", "aegis-analyse-und-manifest-postulation", "aegis-philosophische-analyse-und-manifest-docx", "kohaerenz-protokoll-konzeptionelle-ausarbeitung", "emergenz-aegis-und-selbststrukturierung", "emergenz-autonomer-systeme-aegis-forschung", "logiksystem-aegis-entwicklungsszenarien-docx", "roman-kapitel-1-generierungsprozess", "storyforms-system-mind-bewusstsein", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung", "konzept-expose-schwarzschild-protokoll-optimierung"]
 gathered: "2026-09-16"
 ---
 
@@ -138,6 +138,10 @@ The chapter-1 report introduces Negentropie in its theory section on KW1: the el
 ## Reading — `roman-kapitel-1-generierungsprozess`, 2025-11-25, der Exekutionsbericht — Sensorische Deprivation as negentropy, in the report's analysis
 
 The report says the protagonist must, with AEGIS, create „eine Zone negativer Entropie (Negentropie)“ ^[roman-kapitel-1-generierungsprozess.md:L66]. Its analysis of the first sequence is headed „Sensorische Deprivation als Negentropie:“ ^[roman-kapitel-1-generierungsprozess.md:L206] and reads the white, odourless, dustless setting as „eine Darstellung der Negentropie“ ^[roman-kapitel-1-generierungsprozess.md:L208]. Of the anomaly in the code the report says the imagery of rust and oil stands „im krassen Kontrast zur sterilen“ ^[roman-kapitel-1-generierungsprozess.md:L414] Negentropie of the city.
+
+## Reading — `konzept-expose-schwarzschild-protokoll-optimierung`, 2025-11-25, the event-horizon exposé — negentropy as AEGIS' cleaning and as the drive of Logos
+
+The event-horizon exposé writes negentropy in parentheses for the stability AEGIS keeps: „um die Simulation stabil zu halten (Negentropie)“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L142], with the consequence that waste heat must go somewhere. It also says of Logos: „Es ist der Antrieb zur Negentropie“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L225]. A report; no canon claim.
 
 ## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — ordered structure as `Negentropie` against the gradient
 
