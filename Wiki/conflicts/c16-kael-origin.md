@@ -683,3 +683,11 @@ Where it stands in the record's own terms: it belongs with the reading of Kael a
 It titles its section „Kael: Der fragmentierte Avatar“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L78] and says Kael is „Ein Individuum, das M verkörpert oder mit M verbunden ist und dessen Psyche“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L82] is a DID, „ein direktes Resultat von AEGIS' Analysemethoden ist.“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L82] The Kernwelten are, in its text, AEGIS's tools of analysis.
 
 Where it stands in the record's own terms: the analysis writes Kael as embodying M or linked to M, and leaves which open; recorded, not applied.
+
+## 2026-10-14 — `genesis-ein-implementierungsleitfaden-prosa-version`, 2025-04-29, the Genesis implementation guide
+
+**The Genesis implementation guide has Kael born in the thirteenth scene as a fragmented mosaic, the result of the Ich's fragmentation; recorded, not applied.**
+
+It writes: „Kael verkörpert das Ergebnis dieses Prozesses“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L45], and directs the last scene's goal as „Geburt von Kael als fragmentiertes Mosaik, definiert durch Trauma und unauslöschliche Sehnsucht/Erinnerung“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L537]. The process it means runs through the elimination of Komponente 734 and the fragmentation in the twelfth scene, whose sample beats are examples, not canon prose. It also says of the origin that Kael's Emergenz is „ist somit nicht nur das Endresultat, sondern die Verkörperung einer komplexen Traumageschichte“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L49].
+
+Where it stands in the record's own terms: Kael as the fragmented result of the Ich's elimination and fragmentation, in a direction book; recorded, not applied.
