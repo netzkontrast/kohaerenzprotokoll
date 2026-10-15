@@ -1803,3 +1803,5 @@
 {"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "genesis", "surface": "Genesis", "line": 171, "decision": "occurrence", "why": "a reference title", "at": "2026-10-14"}
 {"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-14"}
 {"document": "dramatica-storyform-kohaerenz-protokoll-analyse", "page": "ueberwelt", "surface": "Simulation", "line": 28, "decision": "occurrence", "why": "the introduction; read on aegis", "at": "2026-10-14"}
+{"document": "codex-optimierung-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-15"}
+{"document": "codex-optimierung-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 43, "decision": "occurrence", "why": "sample data for a writing tool; light pass", "at": "2026-10-15"}

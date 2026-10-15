@@ -1,0 +1,276 @@
+{
+  "document": "codex-optimierung-fuer-kohaerenz-protokoll",
+  "drive_id": "1ErrA2EisDX9xQV9kbm1sHlEP1dGuv00CQJ1wv4-nqyQ",
+  "step": "probes",
+  "at": "2026-10-15",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 36,
+  "backslash_escapes": 315,
+  "typographic_marks": 35,
+  "ascii_quotes": 244,
+  "inflection_families": {
+    "konte": [
+      "Kontext",
+      "Kontextabruf",
+      "Kontextelemente",
+      "Kontextfenstern",
+      "Kontextgenerierung",
+      "Kontextgenerierungsstrategie",
+      "Kontextinformationen",
+      "Kontextlogik",
+      "Kontextmenge",
+      "Kontexts",
+      "Kontexttrennung",
+      "Kontextualisierung",
+      "Kontextübergabe"
+    ],
+    "konze": [
+      "Konzentriere",
+      "Konzept",
+      "Konzeptanalyse",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle",
+      "Konzeptionellen",
+      "Konzepts",
+      "Konzeptuell",
+      "Konzeptuelle"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschreibungsfeldern",
+      "Beschreibungstext",
+      "Beschreibungstexten",
+      "Beschränkungen",
+      "Beschützer"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterdetails",
+      "Charaktere",
+      "Charakteren",
+      "Charakteristika",
+      "Charakters"
+    ],
+    "eintr": [
+      "Eintrag",
+      "Eintrags",
+      "Eintragsname",
+      "Eintragstypen",
+      "Einträge",
+      "Einträgen"
+    ],
+    "grund": [
+      "Grundgefühl",
+      "Grundidee",
+      "Grundlagen",
+      "Grundlegende",
+      "Grundperspektive",
+      "Grundstimmung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interdependenzen",
+      "Interface",
+      "Intern",
+      "Interne"
+    ],
+    "szene": [
+      "Szene",
+      "Szenen",
+      "Szenenabschnitt",
+      "Szenenausformulierung",
+      "Szenengenerierung",
+      "Szenenplanung"
+    ],
+    "dynam": [
+      "Dynamic",
+      "Dynamically",
+      "Dynamik",
+      "Dynamiken",
+      "Dynamische"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen",
+      "Emotionsraum"
+    ],
+    "gener": [
+      "General",
+      "Generieren",
+      "Generierter",
+      "Generierung",
+      "Generierungsstrategie"
+    ],
+    "roman": [
+      "Roman",
+      "Romanautor",
+      "Romanprojekt",
+      "Romanprojekts",
+      "Romans"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelement",
+      "Strukturen",
+      "Strukturierte",
+      "Strukturierung"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "bedin": [
+      "Bedingte",
+      "Bedingter",
+      "Bedingtes",
+      "Bedingungen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsmöglichkeiten",
+      "Handlungsverlauf"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollverlust"
+    ],
+    "metho": [
+      "Methode",
+      "Methodik",
+      "Methodisch",
+      "Methodische"
+    ],
+    "relev": [
+      "Relevance",
+      "Relevant",
+      "Relevante",
+      "Relevanz"
+    ],
+    "thema": [
+      "Thema",
+      "Themas",
+      "Thematisch",
+      "Thematische"
+    ],
+    "ansch": [
+      "Anscheinend",
+      "Anschluss",
+      "Anschlussfähigkeit"
+    ],
+    "atmos": [
+      "Atmosphere",
+      "Atmosphäre",
+      "Atmosphärische"
+    ],
+    "bedro": [
+      "Bedrohlich",
+      "Bedrohung",
+      "Bedrohungen"
+    ],
+    "bedür": [
+      "Bedürfnis",
+      "Bedürfnisse",
+      "Bedürfnissen"
+    ],
+    "beisp": [
+      "Beispiel",
+      "Beispiele",
+      "Beispielsweise"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Bild",
+      "Bildhaft"
+    ],
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Code",
+      "Codex"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Verfeinern"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Feld",
+      "Felder"
+    ],
+    [
+      "Feld",
+      "Feldes"
+    ],
+    [
+      "Feld",
+      "Feldern"
+    ],
+    [
+      "Feld",
+      "Feldname"
+    ],
+    [
+      "Feld",
+      "Feldnamen"
+    ],
+    [
+      "Feld",
+      "Feldabrufe"
+    ],
+    [
+      "Feld",
+      "Datenfelder"
+    ],
+    [
+      "Feld",
+      "Feldvorschläge"
+    ],
+    [
+      "Feld",
+      "Metadatenfelder"
+    ],
+    [
+      "Feld",
+      "Beschreibungsfeldern"
+    ],
+    [
+      "Hier",
+      "Hierfür"
+    ]
+  ]
+}

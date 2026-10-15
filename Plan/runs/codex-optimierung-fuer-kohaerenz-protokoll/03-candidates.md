@@ -1,0 +1,51 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations. The document is a German research report on a writing tool's Codex structure and a master prompt for scene generation. Novel-world names (Kael, AEGIS, Juna, Kernwelten, Riss, Paradoxon X) appear as examples inside prompts and tables. The document's own working terms (Codex, Custom Details, Master-Prompt, Minimalität, Suffizienz) are listed too. TSDP stands alone zero times, only in compounds, so the compounds are listed as written. The export escapes underscores in field names and drops them in some lines, so field names are not listed.
+
+- Kael
+- AEGIS
+- Juna
+- Kael System
+- Der Wächter
+- Wächter
+- Das Kind
+- Anteil
+- Anteile
+- ANP
+- EP
+- Anscheinend Normale Persönlichkeit
+- Emotionale Persönlichkeit
+- TSDP-System
+- TSDP-Dynamiken
+- TSDP-basiert
+- TSDP-Rolle
+- Kernwelt
+- Kernwelten
+- Kernwelt B
+- Welt B
+- Co₁
+- McL
+- Ly
+- Riss
+- Risse
+- Paradoxon X
+- Fundaments
+- Fundament
+- Cache Kohärenz
+- Switching
+- Co-Präsenz
+- Heldinnenreise
+- Heldenreise
+- Novelcrafter
+- Codex
+- Custom Details
+- Master-Prompt
+- Voice Sheet
+- Scene Beat Completion
+- Lore
+- Style Guide
+- Genre Guide
+- Minimal Sufficiency
+- Minimalität
+- Suffizienz
+- KI-Zugänglichkeit

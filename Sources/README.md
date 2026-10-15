@@ -21,8 +21,8 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 514 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 514 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 515 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 515 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -362,7 +362,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Fundament-Konzept für "Kohärenz Protokoll"](drive/fundament-konzept-fuer-kohaerenz-protokoll.md) | 2025-04-28 | 10,685 | **read** | Realitätsebenen 4, Sophia 3, Potentialmeer 4, Emergenz† 48, TSDP 5, Kern-Welten 5, Kohärenz 9, Kael 43 | Yin-Yang 10, TOE 6, Advaita 7, Advaita Vedanta 10, Madhyamaka 10 |
 | [Kohärenz Protokoll: Analyse und Loglines](drive/kohaerenz-protokoll-analyse-und-loglines.md) | 2025-04-28 | 6,692 | **read** | Möglichkeits-Garten 6, Grenzfeste 7, Resonanz-Landschaft 7, Cache-Kohärenz 3, Konstrukt-Stadt 9, Personas 2, Guardians 11, DID 8 | Juna-Verbindung 27, Cybernetics 7, Exil 3, Paradoxon X 12, Requisite 2 |
 | ["Kohärenz Protokoll" Themenanalyse und -anreicheru...](drive/kohaerenz-protokoll-themenanalyse-und-anreicheru.md) | 2025-04-28 | 6,801 | **read** | Mosaik-Herz 2, Potentialmeer 4, Kern-Welten 13, Emergenz† 14, Guardians 2, Entropie† 9, Überwelt 18, Risse 10 | Ricoeur 11, Lacan 7, Floridi 5, LoA 3, Levels of Abstraction 3 |
-| [Codex-Optimierung für „Kohärenz Protokoll“](drive/codex-optimierung-fuer-kohaerenz-protokoll.md) | 2025-04-29 | 6,133 |  | Kern-Welten 11, TSDP 5, Juna 3, Risse 6, Überwelt 6, AEGIS 32, Kael 9 | Novelcrafter 39, Codex 71, Kernwelt B 6, Paradoxon X 23, Co₁ 9 |
+| [Codex-Optimierung für „Kohärenz Protokoll“](drive/codex-optimierung-fuer-kohaerenz-protokoll.md) | 2025-04-29 | 6,133 | **read** | Kern-Welten 11, TSDP 5, Juna 3, Risse 6, Überwelt 6, AEGIS 32, Kael 9 | Novelcrafter 39, Codex 71, Kernwelt B 6, Paradoxon X 23, Co₁ 9 |
 | [2 „Kohärenz Protokoll" Konzeptentwicklung](drive/2-kohaerenz-protokoll-konzeptentwicklung.md) | 2025-05-03 | 9,762 | **read** | Argus 12, Alex 16, Cerberus 13, Rhys 15, Mnemosyne 14, LogOS 12, Selene 11, TSDP 47 | Cosmicism 4, Second-order_cybernetics 10, OSDD 5, SOC 2, Simulation_hypothesis 9 |
 | [Kohärenz Protokoll: Gesamtkonzept-Entwicklung](drive/kohaerenz-protokoll-gesamtkonzept-entwicklung.md) | 2025-05-04 | 7,400 | **read** | Argus 15, Cerberus 16, Mnemosyne 18, Realitätsebenen 4, Alex 8, LogOS 11, Rhys 9, Selene 10 | Schwellenhüter 3, Camus 4, Levinas 4, AEGIS-Paradoxon 7, Existentialism 5 |
 | [Kohärenz Protokoll: Inkubation X](drive/kohaerenz-protokoll-inkubation-x.md) | 2025-05-04 | 7,652 | **read** | Nichts-Rauschen 3, Emergenz† 9, TSDP 3, Überwelt 25, Risse 20, Kohärenz 19, Kael 33, AEGIS 79 | Bran 18, GNW 6, BCI 7, Brain-Computer Interfaces 6, Wurmloch 9 |
