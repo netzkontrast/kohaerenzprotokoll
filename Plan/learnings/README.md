@@ -1,5 +1,12 @@
 # Learnings — one file per workflow step
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Plan guide](../README.md)
+<!-- readme-context:end -->
+
 These files are the bridge between doing a step by hand and building the tool
 for it. `PRINCIPLES.md` P3 says *by hand first, automate what has proved its
 shape* — this directory is where the shape gets recorded while it is still
@@ -17,9 +24,9 @@ is an impression, and an impression cannot be built against.
 | `fetch.md` | Drive → `Sources/drive/` | `scripts/sources.py` |
 | `extract-terms.md` | a source → its term census in `Sources/terms/` | `scripts/capture.py`, `scripts/profile.py`, the `ingest` skill |
 | `read-source.md` | a source → its notes | the note format, the extract step, its model choice |
-| `gather-term.md` | notes → a term page | the page schema, the compile step, the conflict detector |
-| `review-promote.md` | candidate → `Wiki/terms/` | the review checklist, what a person must keep deciding |
-| `ask.md` | a question → a cited answer | the retrieval path: `scripts/graphrag.py` |
+| `gather-term.md` | notes → a term page | the page schema, the gather step, and human conflict review |
+| `review-promote.md` | candidate → author review in place → German term-page draft | the review checklist, what a person must keep deciding |
+| `ask.md` | a question → a cited answer | retrieval and placed answers: `scripts/graphrag.py`, `scripts/ask.py` |
 
 The one-time reset of 2026-09-16 has no learnings file; decision 001 and
 `Plan/concept/repo-and-workflow-concept_2026-09-16.md` explain the shape it left.

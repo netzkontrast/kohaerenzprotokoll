@@ -1,70 +1,89 @@
 # Kohärenz Protokoll
 
-A German hard-SF novel (Hard SciFi / Cosmic Horror / Psychological Thriller) and
-the research corpus behind it.
-
-**This repository is building one thing right now: a wiki of the project's own
-terms, derived from its research sources.** What a term means, which source says
-so, where the sources disagree, and what none of them settles. The novel rests
-until that exists. `GOAL.md` says where it is going: a git-versioned knowledge
-graph and wiki that helps write the novel.
+A German hard-SF novel (cosmic horror / psychological thriller), its research
+corpus, and the tools used to develop it. Research readings, approved novel
+structure and manuscript drafts have separate authority: a source or a model
+cannot decide what becomes canon.
 
 ## Start here
 
-| read | for |
+| Goal | Entry point |
 |---|---|
-| `PRINCIPLES.md` | the rules, each with the evidence that produced it — before building anything |
-| `GOAL.md` | the author's brief, in German: the target, not the repository |
-| `CLAUDE.md` | the working agreement, and what exists now |
-| `NOW.md` | what is open: questions for the author, work half-done, what failed |
+| Read the novel's working material | [Manuscript](Manuscript/README.md), [canon ledger](Manuscript/kanon.md) |
+| Understand the approved plot structure | [Dual storyforms](Plan/storyform/README.md) |
+| Find attributed research and disagreements | [Wiki](Wiki/README.md), [Sources](Sources/README.md) |
+| Continue current work | [NOW.md](NOW.md), then [CLAUDE.md](CLAUDE.md) and [AGENTS.md](AGENTS.md) |
+| Change the architecture | [SPEC.md](SPEC.md), [PRINCIPLES.md](PRINCIPLES.md); [GOAL.md](GOAL.md) is the target brief |
+| Find a tool or workflow | [Scripts](scripts/README.md), [project skills](.agents/skills/README.md) |
+| Explore the graph | [Graph atlas](Graph/README.md) |
+| Inspect decisions and run evidence | [Plan](Plan/README.md) |
 
-## Layout
+The wiki records what sources say, attributed and unmerged. Reviewed candidates
+remain research; German term pages distinguish decisions, readings, proposals
+and gaps. The manuscript workspace holds canon and working drafts. Approved
+storyforms take precedence over draft execution; chapter approval comes only
+from the author. The AEGIS agent is a proposed offline pilot, described in the
+[pilot briefing](Plan/briefings/aegis-agent-pilot.md), rather than an implemented
+interactive novel.
 
-| folder | holds |
-|---|---|
-| `Sources/` | the research documents from Drive and the manifest that indexes them — the only layer that is true — and, beside each document read, its census and its note |
-| `Wiki/` | term pages derived from those sources, conflict records, question pages, and the record of each reconciliation |
-| `Manuscript/` | the novel's workspace: the canon ledger, the drafts one folder per chapter, plot drafts and cards for cast and world — only canon and working drafts, and nothing canon unless `kanon.md` lists it (decisions 023, 024) |
-| `Plan/` | how the work is done: concepts, decisions, learnings, and every artifact of every run |
-| `scripts/` | the tools, one job each |
-| `.agents/skills/` | this project's skills; `.claude/skills/` links to them and holds the vendored ones |
-| `Legacy/` | everything the project used to be, parked and read by nothing |
+## Local setup
 
-Each of these but `Legacy/` has a README that says what is in it.
-
-## Where things stand
-
-**586 <!--state:sources.landed--> of 587 <!--state:sources.total--> documents
-are landed, 525 <!--state:documents.reconciled--> are read and reconciled, and
-the wiki holds 106 <!--state:wiki.pages--> pages,
-17 <!--state:wiki.conflicts--> conflicts and 9 <!--state:wiki.questions-->
-questions.** Every number here is measured, and checked:
+Run commands from the repository root. Standard-library checks need Python 3;
+optional retrieval, model and MCP tools use their own virtual environments.
 
 ```bash
-python3 scripts/state.py            # every measurement, derived now
-python3 scripts/state.py --prose    # fail on any marked number that has gone stale
-python3 scripts/selftests.py        # every checker, one line each: held, FAILED, or not run
-python3 scripts/sources.py check    # the manifest against the disk
+python3 scripts/knowledge.py init --profile reader
+python3 scripts/sessions.py board
+python3 scripts/state.py --prose
+python3 scripts/account.py order --summary
 ```
 
-The standard-library scripts need no key and no network. A cloud session runs
-`scripts/install.sh` at start, which builds the virtualenvs and tools the other
-steps need; `scripts/install.sh --check` says what is present.
+The initializer reports missing capabilities and prepares existing indexes;
+`research` is the profile for DSPy work. Inspect its result rather than assuming
+all dependencies installed. A documentation-only session can continue without
+optional retrieval capabilities. `bash scripts/install.sh --list` lists install
+components; `bash scripts/install.sh --check` reports availability.
 
-**A model proposes, it never decides, and nothing leaves the container without
-the author's yes** (`GOAL.md`, rule 13). Every model call goes through a script
-that refuses it without an approval for that run.
+## App and retrieval
 
-## `Legacy/`
+The app is built from repository records by `python3 scripts/web.py`, into
+`Plan/derived/web/`. It includes manuscript, wiki, reading questions, graph and
+session views, plus `llms.txt`, agent JSON exports and plain HTML records.
+[Vercel configuration](vercel.json) enables deployments from `main`; branch
+previews are disabled. Building locally does not prove a live deployment or its
+access settings.
 
-Holds the previous shape of this project — the novel manuscript, the fact graph,
-the rendered codex, the canon documents, the old planning record and the retired
-command surface — parked at commit `608cbb5` when the wiki became the focus.
-Nothing in the working system links to it or reads it.
+The read-only MCP endpoint `/mcp` wraps [the serving tools](scripts/rag.py)
+through [FastMCP](api/rag_server.py). Local setup and access controls are in the
+[engineering guide](docs/README.md). Vercel project protection and the optional
+`RAG_MCP_TOKEN` are separate controls; see the current [handover](NOW.md).
 
-The full tree as it stood before the reset is also on the branch
-`backup/pre-restart-2026-09-16`.
+## Measured state and verification
+
+**586 <!--state:sources.landed--> of 587 <!--state:sources.total--> documents
+are landed; 525 <!--state:documents.reconciled--> are reconciled.** The wiki has
+106 <!--state:wiki.pages--> candidates, 17 <!--state:wiki.conflicts--> conflict
+records and 9 <!--state:wiki.questions--> shared question records. Reading
+question banks are a separate proposal collection.
+
+```bash
+python3 scripts/state.py             # measure now; writes Plan/state.json
+python3 scripts/sources.py check     # manifest against landed files
+python3 scripts/derive.py            # rebuild disposable document views
+python3 scripts/selftests.py --only std
+```
+
+Run every required step in [checks.yml](.github/workflows/checks.yml) before
+finishing a change. Optional environment suites have separate results; skipped
+or unavailable is not passed. Historical run READMEs describe their recorded
+inputs and dates, not the current repository's health.
+
+A model proposes, never decides. Model calls and corpus transfer follow the
+specific author decisions in [CLAUDE.md](CLAUDE.md); no README grants new
+provider access or spending permission.
+
+`Legacy/` holds the pre-reset project parked at commit `608cbb5`; it is not runtime input, canon or a manuscript voice reference.
 
 ## Licence
 
-See `LICENSE`.
+See [LICENSE](LICENSE).

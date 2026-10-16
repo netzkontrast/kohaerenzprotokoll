@@ -1,5 +1,12 @@
 # Graph — the novel's facts as plain files
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../README.md) · [Current work](../../NOW.md)
+<!-- readme-context:end -->
+
 This directory is the provenance layer of the three-layer knowledge system
 (`Sources/` → `Wiki/` → `Canon/` + graph). It holds the facts that were
 seeded from `Canon/` and are referenced by the manuscript: codex entries,

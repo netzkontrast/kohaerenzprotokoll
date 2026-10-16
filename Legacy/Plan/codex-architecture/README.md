@@ -1,5 +1,12 @@
 # Plan/codex-architecture — Codex/Wiki/Canon/NCP/graph information model
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md)
+<!-- readme-context:end -->
+
 Started 2026-09-16 for the `todo.md` task "Codex- und Wiki-Architektur für
 kontext-effiziente Romanarbeit". Own migration track per that task's
 `Arbeitsmodus` — not mixed with normal Wiki maintenance (`Plan/wiki/`, which

@@ -1,5 +1,13 @@
 # More gold — candidate lists only, 2026-09-30
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 The author, 2026-09-30: „Extract more Gold for learnings“.
 
 Gold is a candidate list `scripts/gold.py` accepts: written while reading, counted, frozen since

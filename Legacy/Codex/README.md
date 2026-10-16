@@ -1,5 +1,12 @@
 # Codex/ — generated views of the provenance graph
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../README.md) · [Current work](../../NOW.md)
+<!-- readme-context:end -->
+
 Every file here is **rendered** from `Graph/` by
 `python3 scripts/render_codex_views.py` and is write-protected in
 `.claude/settings.json`. Do not edit one by hand: change the record in

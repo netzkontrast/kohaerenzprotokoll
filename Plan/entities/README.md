@@ -1,5 +1,12 @@
 # Entity lists — one per source document, written by a model
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Plan guide](../README.md)
+<!-- readme-context:end -->
+
 Each `<slug>.md` here is **one model's reading of one document**: the 50-100
 entities it judged most important, most central first, each citing the file line
 it was found on. The names are Claude Haiku 4.5's, one reader per document and
@@ -9,8 +16,8 @@ and `python3 scripts/entities.py place <slug> names/<slug>.json` writes the list
 each name at its first whole-word line, and every name the document does not
 contain word for word dropped and listed on the file's `refused:` line.
 
-**They are proposals, not a census.** A census (`Sources/terms/`) is exhaustive
-and written by a person; a gold candidate list (`Plan/runs/<slug>/03-candidates.md`)
+**They are proposals, not a census.** A census (`Sources/terms/`) follows a written selection rule
+and is frozen by its reader; a gold candidate list (`Plan/runs/<slug>/03-candidates.md`)
 is written by a reader before any count. Nothing here may become either.
 
 What they are for is being searched:
@@ -37,7 +44,8 @@ Three rules hold for everything derived from them:
 Why these lists exist, and what they may and may not decide:
 `Plan/concept/entity-lists_2026-09-23.md`. Today 5 <!--state:entities.lists-->
 lists exist and 4 <!--state:entities.readings--> of them verify as readings;
-`NOW.md` has the numbers per list.
+`python3 scripts/entities.py verify` reports the evidence per list. Corpus-wide
+model runs and translation transfers still follow the specific permissions in `NOW.md`.
 
 ## The German–English map
 

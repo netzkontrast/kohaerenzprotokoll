@@ -1,5 +1,12 @@
 # Canon Rules — epistemology, adversarial protocols, anti-patterns
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md)
+<!-- readme-context:end -->
+
 Reference catalogue of canon-enforcement principles, epistemological
 operating rules, metascience diagnostic filters, adversarial validation
 protocols and anti-patterns. This is reference material, not a procedure:

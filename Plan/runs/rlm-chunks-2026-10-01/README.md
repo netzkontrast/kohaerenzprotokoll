@@ -1,5 +1,13 @@
 # Which chunk size helps a reader find the evidence — an RLM agent over the index
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 **2026-10-01.** On the author's „Überarbeite #76 so dass es auf Stand Main funktional ist — und erfolgreich zum chunk
 optimieren genutzt wird". PR #76 tried a `dspy.RLM` agent over the wiki graph (`scripts/rlm_retrieval.py`); this run
 puts the same kind of agent over the chunk index (`novelgraph rlm`, `novelgraph/src/novelgraph/rlm.py`) and lets its

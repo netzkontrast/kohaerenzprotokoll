@@ -1,5 +1,13 @@
 # Kapitel × NCP — was die Quellen je Kapitel schon sagen, neben dem, was die Storyform verlangt — 2026-10-05
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 **Derived, nothing decided.** Built by the session on the author's request („Mach es so“, 2026-10-05) as the model-free alternative to a `ChapterCards` run, which found nothing on heading-structured outlines (`Plan/runs/kontext-outline/hyperextract/chaptercards-sonnet-2026-10-05/`). Three sources, side by side, per chapter:
 
 - **NCP** — `Plan/storyform/ncp/kohaerenz-protokoll.ncp.json` (NCP 3.0.0-rc.1, written by `scripts/storyform.py`): the moment's act, its route (`hard-a`, `hard-b`, or a `bridge` with its anchor) and the signposts it carries. Its synopsis, setting and timing are „offen — das Treatment“ for every chapter (decision 025, step 23).

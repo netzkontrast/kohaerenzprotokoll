@@ -1,5 +1,13 @@
 # Narrative text among the unread, and the open records by vector — 2026-09-26
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 Asked for together, after the chapter run (`../qmd-chapters-2026-09-26/`) showed
 its limit: no Kap 0 question found the narrative Kap 0 text.
 

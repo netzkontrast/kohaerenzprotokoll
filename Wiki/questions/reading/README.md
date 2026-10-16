@@ -1,5 +1,12 @@
 # Lesefragen aus den Begriffsseiten
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Wiki guide](../../README.md)
+<!-- readme-context:end -->
+
 Diese Fragenentwürfe ergänzen die bestehenden Fragen Q1–Q9. Sie stellen
 keine neuen Konfliktbefunde fest und behaupten nicht, dass ihre Antworten fehlen.
 Der Antwortstand ist **ungeprüft**. Bestehende Autorentscheidungen gewinnen.

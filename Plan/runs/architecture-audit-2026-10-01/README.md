@@ -1,5 +1,13 @@
 # Architecture-session preparation: current baseline
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 2026-10-01. Read-only engineering review of `main` at
 `219a3ee9d3cf77649880c265c171eee949a834e2`, then branch
 `codex/strategic-learning-architecture-session`. The initial checkout was clean.

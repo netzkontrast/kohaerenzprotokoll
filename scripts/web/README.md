@@ -1,5 +1,12 @@
 # `scripts/web/` — the website's one vendored file
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md)
+<!-- readme-context:end -->
+
 `support.js` is the runtime a claude.ai Design canvas serves to each of its frames as `./support.js`. Without it a `.dc.html`
 file is inert markup; with it, the frame renders in any browser. `scripts/web.py` puts it beside the frames `ui.py` derives, and
 Vercel serves the result (`vercel.json`).

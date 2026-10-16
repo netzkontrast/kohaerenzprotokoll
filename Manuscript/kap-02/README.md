@@ -1,5 +1,12 @@
 # Kap 2 — Entwurf A, 2026-10-06
 
+<!-- readme-context:start -->
+Working drafts and dated editorial comparisons. The canon ledger and approved
+storyforms take precedence; a recommendation below is not chapter approval.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Canon](../kanon.md)
+<!-- readme-context:end -->
+
 **Auftrag des Autors, 2026-10-06:** über `dramatica-theory` mit `chapter-draft-engine`, beantwortet mit „Kap 2 entwerfen“.
 
 **Was das hier ist:** eine Fassung von Kap 2 von einer Claude-Sitzung, geschrieben aus dem Treatment

@@ -1,5 +1,13 @@
 # The graph laboratory, 2026-09-30
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 What each relation, weight and finder is worth to retrieval, measured on the wiki's own labels. The note that reads these
 tables is `Plan/concept/graph-contracts_2026-09-30.md`; the tool is `scripts/graphlab.py` (the `ask` finders are
 `scripts/ask.py bench`). Nothing here changes what `graphrag.py` or `ask.py` return by default.

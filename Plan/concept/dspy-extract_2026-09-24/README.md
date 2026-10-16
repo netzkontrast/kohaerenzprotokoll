@@ -1,5 +1,13 @@
 # What nine DSPy repositories contain — the readers' notes, 2026-09-24
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 The evidence behind `.agents/skills/dspy/`. On 2026-09-23 ten readers scanned
 the same nine repositories for *ideas this project could use*
 (`Plan/concept/dspy-repos_2026-09-23/`). On 2026-09-24 the author asked for

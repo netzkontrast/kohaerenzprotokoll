@@ -1,5 +1,13 @@
 # HyperExtract testbed — every contract on two small documents, Sonnet
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 **2026-10-01.** On the author's „Erstelle für jedes hyperextract Template eine Datei mit allen Ergebnissen aus zwei kleinen
 Test-sources - nutze sonnet agents für diese Tests", as the first fixture set of step 1b in `docs/README.md` (§3). Sonnet
 through `claude -p` (decision 011), on the port (`hx.py`, decision 020), **one run at a time** (`run.sh`).

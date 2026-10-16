@@ -1,5 +1,12 @@
 # Wiki/terms — the author's page for one term
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Wiki guide](../README.md)
+<!-- readme-context:end -->
+
 A **term page** is written from a candidate page the author reviewed (decision 026), for
 the author to work with: **German**, short, and every point tagged with its status and its
 evidence (`GOAL.md` §1.2). It keeps apart what the project has **decided** — only an author's

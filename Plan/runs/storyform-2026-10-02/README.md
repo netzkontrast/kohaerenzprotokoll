@@ -1,5 +1,13 @@
 # Storyform-Prüfung — 2026-10-02/05 (Historie)
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 **Die Storyforms leben jetzt in [`Plan/storyform/`](../../storyform/README.md); das Werkzeug in `scripts/dramatica.py` und `scripts/storyform.py`; das Vorgehen im Skill `storyform`.** Dieses Verzeichnis hält, was die Sitzung dabei herausfand:
 
 - `engine-rules.md` — was die Dramatica-Engine aus 12 Antworten ableitet, die zurückgerechneten Regeln D1–D7 und ihre Grenzen (die Signpost-Funktion ist nicht veröffentlicht).

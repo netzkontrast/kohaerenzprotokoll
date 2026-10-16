@@ -1,5 +1,12 @@
 # `Wiki/questions/` — a question that many pages ask, answered in one place
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Wiki guide](../README.md)
+<!-- readme-context:end -->
+
 **This page type was deferred on purpose and has now earned its existence.**
 `Plan/concept/wiki-system-plan_2026-09-16.md` wrote it down as a condition:
 
@@ -25,6 +32,13 @@ nothing would say they were the same question. That is the need.
 The harvest has grown with the wiki: 515 <!--state:wiki.open_statements-->
 open statements today, and 9 <!--state:wiki.questions--> question pages
 promoted from them.
+
+## Reading-question banks
+
+[Additional reading questions](reading/README.md) are a separate collection of
+editorial prompts, not new Q records or confirmed missing answers. Their local
+answer notes do not change canon. Run `python3 scripts/reading_questions.py check`
+to validate IDs, references and bank structure.
 
 ## What a question page is
 

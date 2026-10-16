@@ -1,5 +1,13 @@
 # GraphQLite CLI integration — 2026-09-30
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 Base: `ef5eeddf67cc2cd8b38d9ed49343d55fbaa317d6`. The author asked for
 GraphQLite integrated into a local CLI with repo skills. No source or wiki page
 was edited, no source newly ingested, and no model was called.

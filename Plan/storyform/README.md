@@ -1,5 +1,12 @@
 # `Plan/storyform/` — the novel's two Dramatica storyforms
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Plan guide](../README.md)
+<!-- readme-context:end -->
+
 The plot's structure, as the author decided it step by step (decision 025). Start with **`overview.md`**.
 
 | file | what | who writes it |

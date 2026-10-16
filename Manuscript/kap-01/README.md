@@ -1,8 +1,15 @@
-# Kap 1 — die Entwürfe A bis G, 2026-10-03
+# Kap 1 — Entwurfsvergleich und Arbeitsfassungen A bis J
+
+<!-- readme-context:start -->
+Working drafts and dated editorial comparisons. The canon ledger and approved
+storyforms take precedence; a recommendation below is not chapter approval.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Canon](../kanon.md)
+<!-- readme-context:end -->
 
 **Auftrag des Autors, 2026-10-03:** „Gehe mal tief in dich - und entwerfe mehrere Drafts für Kapitel 1“.
 
-**Was das hier ist:** vier Fassungen desselben Kapitels von einer Claude-Sitzung. Jede ist so gebaut,
+**Historischer Auftakt, 2026-10-03:** Die folgenden Abschnitte vergleichen zunächst vier Fassungen desselben Kapitels von einer Claude-Sitzung. Jede ist so gebaut,
 dass sie eine offene Weiche in Prosa zeigt (`Plan/weichen/`), statt sie nur zu beschreiben. Keine
 Fassung ist Kanon. Keine ist Stimmreferenz, solange du sie nicht freigibst. Keine entscheidet eine
 Weiche oder einen Konflikt. Der Schreibplan empfiehlt für Kap 1 weiterhin, dass du selbst schreibst
@@ -10,7 +17,7 @@ Weiche oder einen Konflikt. Der Schreibplan empfiehlt für Kap 1 weiterhin, dass
 umgehen das nicht. Sie sind Pole, an denen du dich reiben kannst, so wie `character-card-builder`
 dir zwei Positionen anbietet und keine davon für dich wählt.
 
-**Grundlage:** [Wiki/chapters/kap-01.md](../../Wiki/chapters/kap-01.md) (18 gelesene Quellen, Konflikte C9–C11),
+**Grundlage:** [Wiki/chapters/kap-01.md](../../Wiki/chapters/kap-01.md) (Quellenstand des ursprünglichen Vergleichs; Konflikte C9–C11),
 die Weichen W1–W5 und W7 sowie die [Treatment-Probe](../../Plan/concept/treatment-probe_2026-09-30.md).
 Kein neues Dokument wurde gelesen. `Legacy/` wurde nicht geöffnet, auch nicht `Plan/runs/writing/legacy-kap-01/`.
 

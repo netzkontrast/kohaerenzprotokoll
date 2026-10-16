@@ -1,5 +1,13 @@
 # Pipeline measurement — 2026-09-29
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 What the reading pipeline spent its effort on over every read document, measured
 for `Plan/concept/pipeline-optimization_2026-09-29.md`. Nothing here reads a new
 document, calls a model or changes the wiki.

@@ -1,5 +1,13 @@
 # Spec-to-Implementation - Evaluation Scenarios
 
+<!-- readme-context:start -->
+Vendored upstream documentation. The scenarios below describe upstream behavior,
+not authorization to transfer this project’s corpus or a claim of local test success.
+Project integration follows CLAUDE.md; upstream examples retain their original scope.
+
+[Project](../../../../README.md) · [Current work](../../../../NOW.md) · [Integration rules](../../../../CLAUDE.md)
+<!-- readme-context:end -->
+
 Test scenarios for validating specification parsing and implementation plan generation.
 
 ## Evaluation Criteria
