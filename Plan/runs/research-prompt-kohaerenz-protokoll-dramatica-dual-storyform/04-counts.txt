@@ -1,0 +1,185 @@
+# counts for 130 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                8 word     8 in   [15, 48, 62, 79, 324, 362]
+  Kael                             12 word    13 in   [164, 330, 332, 335, 350, 802]
+                                    1      as Kaels
+  Juna                              6 word    17 in   [117, 163, 331, 333, 338, 350]  <-- substring
+                                   11      as Junas
+  AEGIS                            18 word    25 in   [62, 102, 129, 162, 163, 332]
+                                    2      as AEGIS-Funktion
+                                    2      as AEGIS-Limitierung
+                                    1      as AEGIS-Architektur
+                                    1      as AEGIS-Mechanik
+  K1                               83 word   144 in   [15, 39, 42, 50, 104, 110]
+  K0                               51 word   121 in   [15, 39, 42, 50, 104, 122]  <-- substring
+  Coherence Kernel                 11 word    11 in   [15, 110, 221, 337, 362, 511]
+  Erasure Kernel                    8 word     8 in   [15, 221, 362, 669, 1302, 1623]
+  Erasure                          10 word    11 in   [15, 122, 221, 362, 511, 669]
+                                    1      as Erasure-Kernel-Geschichte
+  Entropie-Kernel                   2 word     2 in   [122, 511]
+  Dual-Kernel-Theorie               2 word     2 in   [42, 106]
+  DKT                               3 word    10 in   [62, 102, 106, 317, 337, 452]  <-- substring
+  Coherons                          1 word     1 in   [114]
+  Coheron                           1 word     2 in   [114, 1109]
+                                    1      as Coherons
+  Erasonen                          2 word     2 in   [126, 532]
+  Erason                            1 word     3 in   [126, 532, 1109]  <-- substring
+                                    2      as Erasonen
+  Landauer-Wärme                    2 word     2 in   [127, 337]
+  Telefonat                        28 word    50 in   [42, 177, 179, 183, 185, 189]
+                                   10      as Telefonat-Verifikation
+                                    4      as Telefonat-Anker
+                                    3      as Telefonat-Schlüsselbild
+                                    2      as Telefonat-Szene
+  Ouroboros                         5 word    12 in   [329, 455, 815, 844, 1108, 1161]  <-- substring
+                                    6      as Ouroboros-Ending
+                                    1      as Ouroboros-Endings
+  Ouroboros-Ending                  6 word     7 in   [455, 815, 844, 1473, 1625, 1626]
+                                    1      as Ouroboros-Endings
+  Kernfrage                         8 word     8 in   [185, 193, 328, 334, 814, 1108]
+  Kernparadoxon                     4 word     8 in   [336, 337, 816, 817, 976, 1110]
+  DKT-Kernparadoxon                 4 word     4 in   [337, 817, 976, 1625]
+  Funktionale Multiplizität         6 word     6 in   [339, 818, 976, 1110, 1625]
+  Genesis-Sequenz                   7 word     7 in   [102, 844, 1266, 1473, 1625, 1626]
+  Gödel-Gambit                      2 word     2 in   [340, 1100]
+  Klimax                            4 word     4 in   [340, 844, 1100, 1266]
+  Reader = substrat                 1 word     1 in   [175]
+  Werk-Anker                       14 word    21 in   [175, 315, 452, 705, 779, 787]
+                                    3      as Werk-Anker-Konsistenzprüfung
+                                    2      as Werk-Anker-Verbindung
+                                    1      as Werk-Ankern
+                                    1      as Werk-Anker-Konsistenz-Audit
+  Fundament                         2 word     2 in   [350, 1099]
+                                    1      as fundamentale
+  Steinbruch                        2 word     2 in   [317, 342]
+  Story-first-Phase                 3 word     3 in   [317, 493, 713]
+  Story-first-Pivot                 4 word     4 in   [344, 452, 470, 503]
+  Silas                             1 word     1 in   [1111]
+  Oblivion                          1 word     1 in   [1111]
+  Spiegel                           1 word     1 in   [1111]
+  ANP                               1 word     1 in   [1111]
+  EP                                1 word     1 in   [1111]
+  13 Alter                          1 word     1 in   [1111]
+  Gardener's Axiom                  1 word     1 in   [1112]
+  Guardian's Dilemma                1 word     1 in   [1112]
+  Dunkle-Körper-Theorie             1 word     1 in   [1109]
+  Fragmentierung                    1 word     1 in   [1110]
+  Lesersteuerung                    1 word     4 in   [701, 705, 737, 1312]  <-- substring
+                                    3      as Lesersteuerungs-Tragfähigkeit
+  Mutual-Information-Loops          1 word     1 in   [114]
+  Mutual Information                1 word     1 in   [531]
+  Zeitpfeil                         4 word     4 in   [126, 370, 532, 1304]
+  Storyform                        83 word   194 in   [15, 32, 33, 40, 48, 63]  <-- substring
+                                   31      as Storyforms
+                                    8      as Storyform-Zuordnung
+                                    4      as Storyform-Konstruktion
+                                    3      as Storyform-Zuordnungen
+  Throughline                      12 word    23 in   [32, 63, 67, 142, 229, 350]
+                                    5      as Throughlines
+                                    5      as Throughline-Verteilung
+                                    1      as Throughline-Mechanik
+                                    1      as throughlines
+  Main Character                    2 word     2 in   [519, 561]
+  Influence Character               2 word     2 in   [519, 565]
+  Overall Story                     2 word     2 in   [519, 569]
+  Relationship Story                2 word     2 in   [519, 573]
+  MC Resolve                        6 word     6 in   [348, 501, 520, 903, 1098, 1351]
+  MC Growth                         2 word     2 in   [520, 1352]
+  MC Approach                       2 word     2 in   [520, 1353]
+  Story Driver                      3 word     3 in   [521, 1135, 1355]
+  Story Limit                       3 word     3 in   [521, 1136, 1356]
+  Story Outcome                     2 word     2 in   [521, 1357]
+  Story Judgment                    2 word     2 in   [521, 1358]
+  Concern                           7 word     8 in   [229, 371, 523, 621, 689, 1130]
+  Issue                             7 word     8 in   [229, 371, 523, 621, 689, 1130]
+  Problem                          23 word    66 in   [15, 41, 42, 48, 67, 79]  <-- substring
+                                    1      as problems
+                                    1      as Problem-Hierarchie
+                                    1      as Problem-Solving
+                                    1      as Problems
+  Solution                          5 word     5 in   [523, 621, 1130, 1287, 1434]
+  Symptom                           4 word     4 in   [523, 621, 1287, 1434]
+  Response                          4 word     4 in   [523, 621, 1287, 1434]
+  Resolve                          10 word    10 in   [348, 371, 501, 520, 581, 903]
+  Growth                            8 word     8 in   [348, 371, 520, 585, 1098, 1132]
+  Approach                          7 word     7 in   [348, 371, 520, 589, 1133, 1285]
+  Style                             7 word     7 in   [348, 371, 520, 593, 1134, 1285]
+  Driver                            7 word     7 in   [349, 371, 521, 601, 1135, 1286]
+  Limit                             9 word    12 in   [118, 130, 349, 371, 521, 605]
+  Outcome                           9 word     9 in   [349, 371, 521, 531, 532, 609]
+  Judgment                          9 word     9 in   [349, 371, 521, 531, 532, 613]
+  MC-Quad                           5 word     5 in   [520, 577, 997, 1285, 1324]
+  Story-Quad                        4 word     7 in   [521, 597, 956, 997, 1286, 1324]
+                                    1      as Story-Quad-Zuordnung
+                                    1      as Story-Quad-Werten
+                                    1      as Story-Quad-Variablen
+  Optionlock                        5 word     5 in   [349, 521, 531, 605, 1136]
+  Timelock                          4 word     4 in   [521, 532, 605, 1136]
+  Do-er                             6 word     6 in   [348, 520, 532, 589, 941, 1133]
+  Be-er                             5 word     5 in   [520, 531, 589, 941, 1133]
+  Holistic                          6 word     6 in   [348, 520, 531, 593, 941, 1134]
+  Linear                            5 word     5 in   [520, 532, 593, 941, 1134]
+  Steadfast                         4 word     4 in   [520, 581, 949, 1131]
+  Dramatica                        21 word    74 in   [15, 31, 32, 35, 36, 48]  <-- substring
+                                   10      as Dramatica-Theorie
+                                    6      as Dramatica-Element-Matrix
+                                    5      as Dramatica-Analyst
+                                    3      as Dramatica-Storyform-Mapping
+  Subtxt                            1 word     2 in   [453, 1148]
+                                    1      as Subtxt-Dokumentation
+  Storyweaver                       2 word     2 in   [453, 1148]
+  Dramatica Pro                     1 word     1 in   [1148]
+  Hard Problem of Consciousness    12 word    12 in   [15, 48, 67, 79, 81, 83]
+  Hard-Problem-These               11 word    12 in   [15, 193, 221, 242, 372, 511]
+                                    1      as Hard-Problem-These-Sektion
+  Property Dualism                  4 word     4 in   [92, 174, 831, 1715]
+  Integrated Information Theory     2 word     2 in   [93, 1192]
+  Global Workspace Theory           2 word     2 in   [94, 1193]
+  Higher-Order Theories             2 word     2 in   [95, 372]
+  Predictive Processing             6 word     6 in   [96, 174, 372, 454, 833, 1723]
+  Panpsychismus                     4 word     4 in   [98, 372, 454, 835]
+  Reduktiver Physikalismus          1 word     1 in   [91]
+  Phänomenologische Tradition       2 word     2 in   [97, 834]
+  Bohr-Komplementarität             1 word     1 in   [777]
+  Erklärungs-Lücke                  1 word     1 in   [83]
+  explanatory gap                   3 word     3 in   [83, 1182, 1222]
+  qualia                            2 word     2 in   [83, 1183]
+  Aufhebung                         3 word     3 in   [960, 1158, 1627]
+  Interferenz                      32 word    93 in   [15, 42, 50, 140, 142, 164]  <-- substring
+                                   11      as Interferenz-Stellen
+                                    8      as Interferenz-Struktur
+                                    5      as Interferenz-Zonen
+                                    4      as Interferenz-Lesart
+  Interferenz-Struktur              8 word     8 in   [142, 305, 769, 773, 815, 1462]
+  Interferenz-Stellen              11 word    11 in   [173, 230, 304, 370, 375, 844]
+  Interferenz-Zonen                 5 word     5 in   [802, 1268, 1464, 1624, 1815]
+  5D-Interferenz                    3 word     4 in   [15, 50, 810, 1643]
+                                    1      as 5D-Interferenz-Architektur
+  fünfte Dimension                 10 word    10 in   [42, 140, 142, 174, 305, 773]
+  Bewusstseins-Topographie          6 word     6 in   [798, 1426, 1464, 1624, 1815, 2135]
+  Gegenläufigkeits-Achse            5 word     5 in   [42, 75, 104, 905, 1262]
+  K1/K0-Achse                       5 word     5 in   [761, 1260, 1461, 1743, 2059]
+  TRACE                             4 word     4 in   [26, 295, 297, 1232]
+  ReAct                             3 word     5 in   [26, 67, 251, 253, 1280]
+                                    1      as ReAct-Zyklus
+                                    1      as ReAct-Schleifen
+  Falsification                     7 word     7 in   [19, 67, 889, 1288, 1327, 1565]
+  Steelmanning                      6 word     6 in   [20, 67, 912, 918, 1569, 1618]
+  Contrast Classes                  4 word     4 in   [21, 935, 1581, 1618]
+  Dialectical Synthesis             5 word     5 in   [22, 958, 1453, 1585, 1618]
+  Phenomenological Anchor           7 word     7 in   [23, 983, 1292, 1453, 1589, 1618]
+  Bayesian Prior Surfacing          6 word     6 in   [24, 293, 1006, 1240, 1573, 1618]
+  Source Triangulation              6 word     6 in   [25, 463, 1029, 1577, 1618, 2092]
+  Adversarial Query Expansion       9 word     9 in   [26, 259, 1052, 1090, 1226, 1561]
+  Storyform Half-Life Audit         5 word     5 in   [1328, 1621, 1895, 1975, 2090]
+  Dramatica-Element-Matrix          6 word     6 in   [32, 1428, 1621, 1791, 1979, 2090]
+  Pre-Synthesis Integrity Check     7 word     7 in   [279, 411, 1078, 1479, 1481, 1611]
+  Restatement Checkpoint            6 word     6 in   [1234, 1276, 1304, 1332, 1453, 1497]
+  Query Expansion Log               4 word     4 in   [1073, 1620, 1903, 2089]
+  Phänomenologische Probe           4 word     4 in   [42, 377, 862, 1549]
+  Verifikations-Anker               3 word     3 in   [42, 177, 189]
+  Storyform A                      14 word    14 in   [15, 110, 409, 511, 1020, 1274]
+  Storyform B                      14 word    14 in   [15, 122, 409, 511, 1021, 1276]
