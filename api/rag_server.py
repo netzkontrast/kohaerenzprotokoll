@@ -132,9 +132,10 @@ class App:
         self.inner = inner
         self._stack: contextlib.AsyncExitStack | None = None
         self._lock = asyncio.Lock()
+        self._host_started = False  # the host sent lifespan.startup and the app completed it (Vercel's runtime does)
 
     async def _ensure_started(self) -> None:
-        if self._stack is None:
+        if self._stack is None and not self._host_started:
             async with self._lock:
                 if self._stack is None:
                     stack = contextlib.AsyncExitStack()
@@ -143,7 +144,11 @@ class App:
 
     async def __call__(self, scope, receive, send):
         if scope["type"] == "lifespan":
-            return await self.inner(scope, receive, send)
+            async def watch(message):
+                if message.get("type") == "lifespan.startup.complete":
+                    self._host_started = True
+                await send(message)
+            return await self.inner(scope, receive, watch)
         if scope["type"] == "http":
             # a rewrite may hand over `/mcp` or `/api/rag_server`: the MCP route is the one route this app has
             scope = {**scope, "path": PATH, "raw_path": PATH.encode()}
@@ -207,4 +212,6 @@ if __name__ == "__main__":
         print(f"mcp: {'held' if not bad else 'FAILED'} — " + ("every tool answers through FastMCP" if not bad else "; ".join(bad)))
         raise SystemExit(1 if bad else 0)
     import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=int(os.environ.get("PORT", 8000)), lifespan="off")
+    # RAG_LIFESPAN=on runs it the way Vercel's runtime does (it sends lifespan.startup); off, the way a host that
+    # never sends one does — both must answer
+    uvicorn.run(app, host="127.0.0.1", port=int(os.environ.get("PORT", 8000)), lifespan=os.environ.get("RAG_LIFESPAN", "off"))

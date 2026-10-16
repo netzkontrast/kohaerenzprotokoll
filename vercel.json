@@ -7,7 +7,11 @@
   "outputDirectory": "Plan/derived/web",
   "cleanUrls": false,
   "functions": {
-    "api/rag_server.py": { "includeFiles": "{scripts/**,Plan/derived/serve/serve.db}", "maxDuration": 60 }
+    "api/rag_server.py": {
+      "includeFiles": "{scripts/**,Plan/derived/serve/serve.db}",
+      "excludeFiles": "{Sources/**,Wiki/**,Index/**,Legacy/**,Graph/**,Manuscript/**,Plan/runs/**,Plan/derived/ui/**,Plan/derived/web/**,novelgraph/**,docs/**}",
+      "maxDuration": 60
+    }
   },
   "rewrites": [
     { "source": "/", "destination": "/Main.dc.html" },
