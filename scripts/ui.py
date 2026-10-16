@@ -1176,7 +1176,7 @@ container without the author's decision.
   pages, reconciliation records, decisions — no JavaScript needed (`scripts/static_pages.py`).
 - `/mcp`: the retrieval tools as an MCP server (Streamable HTTP; decision 029) — `search`, `ask`, `read_lines`,
   `verify_quote`, `item`, `list_items`, `document`, `state`, `sessions`; evidence with document and line, never prose.
-  Behind the same login: send `x-vercel-protection-bypass`.
+  Send `Authorization: Bearer <RAG_MCP_TOKEN>` (the project's own login, `middleware.js`).
 
 ## Addresses
 

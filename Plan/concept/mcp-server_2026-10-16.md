@@ -34,9 +34,10 @@ model can answer from them and every claim stays checkable.
 
 ## 4 · Access
 
-**First test without a login** (the author, 2026-10-16; decision 029 §4): the author turns Vercel's protection off for
-production in the project's settings, which opens the whole site, not only `/mcp`. Then a client needs no header at
-all, and `RAG_MCP_TOKEN` (set in Vercel) puts a bearer token in front of `/mcp` alone when wanted.
+**The project's own login** (decision 029 §5): `middleware.js` stands in front of every path once Vercel's login is
+off. In the Vercel project's *Environment Variables* the author sets `SITE_PASSWORD` (the website: the browser asks,
+any user name) and `RAG_MCP_TOKEN` (`/mcp`: `Authorization: Bearer <token>`), redeploys, and then turns Vercel
+Authentication off. Unset variables keep their paths closed (503). `scripts/auth_selftest.js` holds 12 cases.
 
 While the login is on, Vercel Authentication covers the function too. A client sends `x-vercel-protection-bypass: <secret>` (Vercel's
 *Protection Bypass for Automation*); Claude Code takes headers in its MCP configuration. A claude.ai connector would
@@ -74,10 +75,10 @@ Bypass for Automation*, kept in the environment, never in a file that is committ
 
 ```json
 {"mcpServers": {"kohaerenzprotokoll": {"type": "http", "url": "https://kohaerenzprotokoll.vercel.app/mcp",
-  "headers": {"x-vercel-protection-bypass": "${VERCEL_BYPASS}"}}}}
+  "headers": {"Authorization": "Bearer ${RAG_MCP_TOKEN}"}}}}
 ```
 
-With the login off, the same without `headers`. Locally, with no Vercel at all: `scripts/install.sh mcp`, `python3 scripts/rag.py build`, then
+While Vercel's own login is still on, add `"x-vercel-protection-bypass": "${VERCEL_BYPASS}"` to `headers`. Locally, with no Vercel at all: `scripts/install.sh mcp`, `python3 scripts/rag.py build`, then
 `.venv-mcp/bin/python api/rag_server.py` serves `http://127.0.0.1:8000/mcp`.
 
 ```yaml
