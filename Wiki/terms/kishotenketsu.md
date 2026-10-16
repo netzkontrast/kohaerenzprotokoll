@@ -47,7 +47,7 @@ by: session
 
 ## Offen
 
-- [L] Rezept oder Diagnose-Modell nach W1, siehe oben.
+- [L] Rezept oder Diagnose-Modell nach W1, siehe oben. Die Frage hat ein Entscheidungsblatt, [W33](../../Plan/weichen/w33-kishotenketsu-rezept.md), und einen Plot-Entwurf für den Fall „Rezept“, [Plot-Entwurf 3](../../Manuscript/plot/plot-entwurf-03-die-wendung.md).
 - [L] Die Zuordnung Kapitel für Kapitel. Zwei Quellen nennen sie unfertig, etwa „Sauberes Kap-für-Kap-Ki/Shō/Ten/Ketsu = teils noch zu setzen." ^[kapitel-kompendium-gather-2026-05-31-md.md:L264]
 - [L] Ob der Reset eine Lesart des Endes ist oder nur eine Projektion darauf.
 - [D] Sieben gelandete Dokumente, die den Begriff nennen, sind ungelesen, am häufigsten `roman-konzeptentwicklung-kohaerenz-protokoll` und `bewerte-kishotenketsu-als-zentrales-narrativ` (`python3 scripts/promote.py sheet kishotenketsu`).
