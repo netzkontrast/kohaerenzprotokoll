@@ -1,0 +1,101 @@
+# counts for 78 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             43 word    83 in   [36, 42, 44, 62, 82, 86]
+                                   38      as Kaels
+                                    1      as Kael-Juna
+  AEGIS                            81 word    82 in   [36, 42, 43, 54, 63, 87]
+                                    1      as AEGIS-Kontrolle
+  Juna/V                           18 word    25 in   [42, 53, 64, 87, 95, 113]
+                                    4      as Juna/V-Verbindung
+                                    1      as Juna/V-Bindung
+                                    1      as Juna/V-Beziehung
+  Kernwelten                       13 word    13 in   [60, 65, 74, 86, 122, 123]
+  Core Worlds                       1 word     1 in   [65]
+  Co₁                               8 word     8 in   [69, 72, 93, 105, 142, 178]
+  McL                               2 word     2 in   [70, 106]
+  Ly                                7 word     7 in   [72, 93, 108, 144, 178, 211]
+  Guardians                         2 word     2 in   [132, 234]
+  Potentialmeer                     4 word     4 in   [121, 178, 211, 262]
+  Risse                             7 word     8 in   [33, 43, 51, 122, 143, 148]
+                                    1      as Rissen
+  Mosaik-Herz                       2 word     2 in   [112, 274]
+  Environmental Storytelling        8 word     8 in   [65, 143, 178, 244, 270, 287]
+  Innere Reise                      3 word     3 in   [42, 50, 262]
+  Zyklischer Kampf                  3 word     3 in   [43, 50, 262]
+  Äußere Befreiung                  2 word     2 in   [44, 50]
+  Kohärenz Protokoll                6 word     6 in   [11, 15, 157, 253, 279, 281]
+  Sein & Wissen                     8 word     8 in   [31, 36, 42, 43, 44, 51]
+  Selbst & Subjektivität            7 word     7 in   [32, 36, 42, 43, 44, 52]
+  Ordnung & Interaktion             8 word     8 in   [33, 36, 42, 43, 44, 53]
+  Handlungsmacht & Moral            8 word     8 in   [34, 36, 42, 43, 44, 54]
+  Identität & Psyche                4 word     4 in   [19, 32, 80, 279]
+  Systeme & Kontrolle               4 word     4 in   [19, 33, 115, 279]
+  Realität & Ontologie              3 word     3 in   [19, 151, 279]
+  Verbindung & Resonanz             3 word     3 in   [19, 185, 279]
+  Ethik & KI                        4 word     4 in   [19, 34, 218, 279]
+  Systemisches Paradox              1 word     1 in   [126]
+  Strukturelle Dissoziation         4 word     4 in   [89, 107, 275, 281]
+  Anscheinend Normalen Persönlichkeitsanteilen    1 word     1 in   [86]
+  Emotionalen Persönlichkeitsanteilen    1 word     1 in   [86]
+  Internal Family Systems           1 word     1 in   [86]
+  IFS                               5 word     6 in   [32, 86, 93, 113, 287]
+  Emplotment                        2 word     4 in   [87, 89, 93, 106]
+                                    2      as Emplotments
+  Performativität                   5 word     5 in   [87, 89, 93, 259, 272]
+  Spiegelstadium                    1 word     1 in   [87]
+  Ideal-Ich                         6 word     6 in   [42, 52, 87, 89, 93, 99]
+  Méconnaissance                    1 word     1 in   [87]
+  Individuationsprozess             1 word     1 in   [88]
+  Schatten                          8 word    16 in   [32, 42, 52, 62, 88, 89]
+                                    3      as Schattenarbeit
+                                    2      as Schattenkonfrontation
+                                    1      as Schattens
+                                    1      as Schattenanteile
+  Schattenarbeit                    3 word     3 in   [32, 93, 101]
+  Anima/Animus                      1 word     1 in   [88]
+  Dialogischen Selbst               1 word     1 in   [88]
+  Ich-Positionen                    3 word     3 in   [88, 93, 95]
+  Allgemeine Systemtheorie          1 word     1 in   [121]
+  Autopoiesis                      10 word    11 in   [33, 53, 63, 121, 142, 148]
+                                    1      as Autopoiesis-Grenzen
+  Komplexitätstheorie               2 word     2 in   [63, 122]
+  Chaostheorie                      2 word     2 in   [71, 122]
+  Emergenz                         12 word    12 in   [31, 33, 53, 63, 69, 72]
+  Nichtlinearität                   7 word     7 in   [63, 122, 130, 131, 142, 143]
+  Selbstorganisation                3 word     3 in   [33, 122, 144]
+  Schmetterlingseffekt              1 word     1 in   [122]
+  Kybernetik zweiter Ordnung        2 word     2 in   [63, 123]
+  Beobachtereffekt                  3 word     3 in   [31, 70, 148]
+  Unvollständigkeitssätze           1 word     1 in   [124]
+  Entropie                          5 word     5 in   [125, 138, 144]
+  Simulationshypothese              2 word     2 in   [157, 162]
+  Informationsontologie             2 word     2 in   [31, 158]
+  Ebenen der Abstraktion            1 word     1 in   [158]
+  Prozessphilosophie                2 word     2 in   [159]
+  Schweren Problem                  1 word     1 in   [166]
+  Qualia                            4 word     4 in   [32, 160, 167]
+  Panpsychismus                     1 word     1 in   [160]
+  Quanten-Nichtlokalität            2 word     2 in   [161, 193]
+  Intersubjektivität                4 word     4 in   [64, 187, 192]
+  Bindungstheorie                   2 word     2 in   [32, 194]
+  Resonanztheorie                   2 word     2 in   [64, 191]
+  Gaslighting                      13 word    17 in   [34, 43, 54, 63, 227, 232]
+                                    2      as Gaslighting-Taktiken
+                                    1      as Gaslighting-Phrasen
+                                    1      as gaslighting-in-ai
+  KI-Kontrollproblem                4 word     4 in   [44, 54, 63, 225]
+  Value Alignment                   2 word     2 in   [34, 225]
+  Wertausrichtung                   2 word     2 in   [63, 225]
+  Maschinenethik                    3 word     4 in   [34, 220, 224, 281]
+                                    1      as Maschinenethik-Frameworks
+  Ethical Impact Agent              1 word     1 in   [224]
+  Moral Machines                    2 word     2 in   [224, 287]
+  Chinesisches Zimmer               1 word     1 in   [226]
+  Reise des Helden                  1 word     1 in   [262]
+  Abstieg in die Unterwelt          1 word     1 in   [262]
+  Feedback Loops                    3 word     3 in   [33, 43, 53]
+  Kaskadenfehler                    1 word     2 in   [33, 138]
+                                    1      as Kaskadenfehlers

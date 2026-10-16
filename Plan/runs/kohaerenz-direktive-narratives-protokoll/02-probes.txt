@@ -1,0 +1,34 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      3
+  backslash escapes      3
+  typographic marks      22
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  ebene    Ebene, Ebenen
+  fragm    Fragmente, Fragmentierte
+  grenz    Grenz, Grenze
+  infor    Information, Informationsphysik
+  nicht    Nicht, Nichts
+  regel    Regel, Regeln
+  schme    Schmelzen, Schmerz
+  schwa    Schwarze, Schwarzes
+  szene    Szene, Szenen
+
+# substring pairs -- never one term, often merged by accident
+  Form < Zeitform
+  Form < Information
+  Form < Ausformulierung
+  Form < Informationsphysik
+  Kael < Kaels
+  Satz < Unvollständigkeitssatz
+  Welt < Welten
+  Ebene < Ebenen
+  Grenz < Grenze
+  Nicht < Nichts
+  Regel < Regeln
+  Szene < Szenen
+  Physik < Informationsphysik
+  Schwarze < Schwarzes
+  Information < Informationsphysik

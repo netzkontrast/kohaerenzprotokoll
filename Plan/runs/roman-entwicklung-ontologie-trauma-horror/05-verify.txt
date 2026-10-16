@@ -1,0 +1,73 @@
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Kernbefund"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kernbefund` ^[roman-entwicklung-ontologie-trauma-horror.md:#4]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Das Unerwartete"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Das Unerwartete` ^[roman-entwicklung-ontologie-trauma-horror.md:#4]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Konkret nutzbar"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Konkret nutzbar` ^[roman-entwicklung-ontologie-trauma-horror.md:#4]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "\[H\]"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`\[H\]` ^[roman-entwicklung-ontologie-trauma-horror.md:#11]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "AEGIS"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            22
+
+`AEGIS` ^[roman-entwicklung-ontologie-trauma-horror.md:#14]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Juna"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Juna` ^[roman-entwicklung-ontologie-trauma-horror.md:#6]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Anker-Zustand"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Anker-Zustand` ^[roman-entwicklung-ontologie-trauma-horror.md:#1]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Alltags-Anker-Zustands"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alltags-Anker-Zustands` ^[roman-entwicklung-ontologie-trauma-horror.md:#2]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[roman-entwicklung-ontologie-trauma-horror.md:#0]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[roman-entwicklung-ontologie-trauma-horror.md:#0]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[roman-entwicklung-ontologie-trauma-horror.md:#0]
+$ read.py roman-entwicklung-ontologie-trauma-horror --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[roman-entwicklung-ontologie-trauma-horror.md:#0]
+stance_marker_count 12 = 4+4+4 (Kernbefund, Das Unerwartete, Konkret nutzbar)

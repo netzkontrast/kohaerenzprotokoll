@@ -1,0 +1,12 @@
+no number is stated in the note; census states 3, 4, 91, 2:
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Anteile` ^[dis-komorbiditaeten-und-alltagsbewaeltigung.md:#3]
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz` ^[dis-komorbiditaeten-und-alltagsbewaeltigung.md:#2]
+  glued ref numbers    91

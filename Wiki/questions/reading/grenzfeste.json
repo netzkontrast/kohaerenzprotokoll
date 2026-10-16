@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "grenzfeste",
+ "title": "Grenzfeste",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Verkörperung psychischer Abwehr",
+  "Alltag in einer befestigten Welt",
+  "Status wechselnder Guardian-Zuordnungen",
+  "Preis des Schutzes",
+  "Möglichkeit eines freiwilligen Übergangs"
+ ],
+ "basis": {
+  "grenzfeste": {
+   "title": "Grenzfeste",
+   "path": "Wiki/candidates/grenzfeste.md",
+   "hash": "6f5d61cb867320ac02514a09f01dad6c72901f5e6873a02a04830f3fb396de75"
+  },
+  "cerberus": {
+   "title": "Cerberus",
+   "path": "Wiki/candidates/cerberus.md",
+   "hash": "49c8604dd7260ec941debb7617dfaf07d3e3546b8f44dc6311dc81173e78b753"
+  },
+  "grosse-mauer": {
+   "title": "Die Große Mauer",
+   "path": "Wiki/candidates/grosse-mauer.md",
+   "hash": "3c904ccef5118cf80a309cd9b4906178da7d8a21d9676d206e73c4e3ec7ca0c2"
+  },
+  "schleuse-7": {
+   "title": "Schleuse 7",
+   "path": "Wiki/candidates/schleuse-7.md",
+   "hash": "f21abed2c3a7aa64f88e2a3ba14fba54d9bf4301917551299f63923ef49d4ada"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "alex": {
+   "title": "Alex",
+   "path": "Wiki/candidates/alex.md",
+   "hash": "6538e2812c49740b4f41298d6f960d97b2a61a3920710e00f930f4a7ded901d2"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-grenzfeste-001",
+   "question": "Welche Handlung wäre in der Grenzfeste freiwilliger Schutz, und welche äußerlich ähnliche Handlung wäre bereits erzwungene Abschottung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-002",
+   "question": "Welche Lesarten auf der Seite zu Grenzfeste stützen oder begrenzen „Verkörperung psychischer Abwehr“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-003",
+   "question": "Welcher Grenzfall würde bei Grenzfeste die Annahmen über „Verkörperung psychischer Abwehr“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-004",
+   "question": "Wer könnte innerhalb des Romans bei Grenzfeste etwas über „Verkörperung psychischer Abwehr“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-005",
+   "question": "Welche konkrete Entscheidung könnte „Verkörperung psychischer Abwehr“ bei Grenzfeste in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verkörperung psychischer Abwehr“ bei Grenzfeste haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-007",
+   "question": "Wie lässt sich „Verkörperung psychischer Abwehr“ bei Grenzfeste zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-008",
+   "question": "Welche Alternativen sollte der Autor bei Grenzfeste für „Verkörperung psychischer Abwehr“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-009",
+   "question": "Was bedeutet bei Grenzfeste der Themenpunkt „Alltag in einer befestigten Welt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-010",
+   "question": "Welche Lesarten auf der Seite zu Grenzfeste stützen oder begrenzen „Alltag in einer befestigten Welt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-011",
+   "question": "Welcher Grenzfall würde bei Grenzfeste die Annahmen über „Alltag in einer befestigten Welt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-012",
+   "question": "Wer könnte innerhalb des Romans bei Grenzfeste etwas über „Alltag in einer befestigten Welt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-013",
+   "question": "Welche konkrete Entscheidung könnte „Alltag in einer befestigten Welt“ bei Grenzfeste in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Alltag in einer befestigten Welt“ bei Grenzfeste haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-015",
+   "question": "Wie lässt sich „Alltag in einer befestigten Welt“ bei Grenzfeste zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-016",
+   "question": "Welche Alternativen sollte der Autor bei Grenzfeste für „Alltag in einer befestigten Welt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-017",
+   "question": "Was bedeutet bei Grenzfeste der Themenpunkt „Status wechselnder Guardian-Zuordnungen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-018",
+   "question": "Welche Lesarten auf der Seite zu Grenzfeste stützen oder begrenzen „Status wechselnder Guardian-Zuordnungen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-019",
+   "question": "Welcher Grenzfall würde bei Grenzfeste die Annahmen über „Status wechselnder Guardian-Zuordnungen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-020",
+   "question": "Wer könnte innerhalb des Romans bei Grenzfeste etwas über „Status wechselnder Guardian-Zuordnungen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-021",
+   "question": "Welche konkrete Entscheidung könnte „Status wechselnder Guardian-Zuordnungen“ bei Grenzfeste in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status wechselnder Guardian-Zuordnungen“ bei Grenzfeste haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-023",
+   "question": "Wie lässt sich „Status wechselnder Guardian-Zuordnungen“ bei Grenzfeste zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-024",
+   "question": "Welche Alternativen sollte der Autor bei Grenzfeste für „Status wechselnder Guardian-Zuordnungen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-025",
+   "question": "Was bedeutet bei Grenzfeste der Themenpunkt „Preis des Schutzes“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-026",
+   "question": "Welche Lesarten auf der Seite zu Grenzfeste stützen oder begrenzen „Preis des Schutzes“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-027",
+   "question": "Welcher Grenzfall würde bei Grenzfeste die Annahmen über „Preis des Schutzes“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-028",
+   "question": "Wer könnte innerhalb des Romans bei Grenzfeste etwas über „Preis des Schutzes“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-029",
+   "question": "Welche konkrete Entscheidung könnte „Preis des Schutzes“ bei Grenzfeste in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Preis des Schutzes“ bei Grenzfeste haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-031",
+   "question": "Wie lässt sich „Preis des Schutzes“ bei Grenzfeste zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-032",
+   "question": "Welche Alternativen sollte der Autor bei Grenzfeste für „Preis des Schutzes“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-033",
+   "question": "Was bedeutet bei Grenzfeste der Themenpunkt „Möglichkeit eines freiwilligen Übergangs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-034",
+   "question": "Welche Lesarten auf der Seite zu Grenzfeste stützen oder begrenzen „Möglichkeit eines freiwilligen Übergangs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-035",
+   "question": "Welcher Grenzfall würde bei Grenzfeste die Annahmen über „Möglichkeit eines freiwilligen Übergangs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-036",
+   "question": "Wer könnte innerhalb des Romans bei Grenzfeste etwas über „Möglichkeit eines freiwilligen Übergangs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-037",
+   "question": "Welche konkrete Entscheidung könnte „Möglichkeit eines freiwilligen Übergangs“ bei Grenzfeste in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Möglichkeit eines freiwilligen Übergangs“ bei Grenzfeste haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-039",
+   "question": "Wie lässt sich „Möglichkeit eines freiwilligen Übergangs“ bei Grenzfeste zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-040",
+   "question": "Welche Alternativen sollte der Autor bei Grenzfeste für „Möglichkeit eines freiwilligen Übergangs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-041",
+   "question": "Wo unterscheiden sich Grenzfeste und Cerberus, wenn man sie unter dem Gesichtspunkt „Verkörperung psychischer Abwehr“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-042",
+   "question": "Welche Quelle verbindet Grenzfeste mit Cerberus in Bezug auf „Verkörperung psychischer Abwehr“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-043",
+   "question": "Welche Grenzen aus der Seite zu Cerberus müsste eine Deutung von Grenzfeste unter „Verkörperung psychischer Abwehr“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-044",
+   "question": "Wie könnte sich das Wissen über Grenzfeste vom Wissen über Cerberus unterscheiden, wenn „Verkörperung psychischer Abwehr“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Grenzfeste und Cerberus bei „Verkörperung psychischer Abwehr“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-046",
+   "question": "Falls Grenzfeste im Hinblick auf „Verkörperung psychischer Abwehr“ anders festgelegt wird: Welche Aussagen über Cerberus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Grenzfeste und Cerberus bei „Verkörperung psychischer Abwehr“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-048",
+   "question": "Braucht der Roman eine Verbindung von Grenzfeste und Cerberus bei „Verkörperung psychischer Abwehr“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-049",
+   "question": "In welchem denkbaren Fall könnte Grenzfeste bestehen, ohne dass Cerberus dieselbe Funktion übernimmt, und was würde das für „Verkörperung psychischer Abwehr“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-050",
+   "question": "Welche Kosten könnte eine Verbindung von Grenzfeste und Cerberus in Bezug auf „Verkörperung psychischer Abwehr“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-051",
+   "question": "Welche ältere Lesart von Grenzfeste oder Cerberus könnte die Gegenüberstellung unter „Verkörperung psychischer Abwehr“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Grenzfeste und Cerberus unter „Verkörperung psychischer Abwehr“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "grenzfeste",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-053",
+   "question": "Wo unterscheiden sich Grenzfeste und Die Große Mauer, wenn man sie unter dem Gesichtspunkt „Alltag in einer befestigten Welt“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-054",
+   "question": "Welche Quelle verbindet Grenzfeste mit Die Große Mauer in Bezug auf „Alltag in einer befestigten Welt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-055",
+   "question": "Welche Grenzen aus der Seite zu Die Große Mauer müsste eine Deutung von Grenzfeste unter „Alltag in einer befestigten Welt“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-056",
+   "question": "Wie könnte sich das Wissen über Grenzfeste vom Wissen über Die Große Mauer unterscheiden, wenn „Alltag in einer befestigten Welt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Grenzfeste und Die Große Mauer bei „Alltag in einer befestigten Welt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-058",
+   "question": "Falls Grenzfeste im Hinblick auf „Alltag in einer befestigten Welt“ anders festgelegt wird: Welche Aussagen über Die Große Mauer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Grenzfeste und Die Große Mauer bei „Alltag in einer befestigten Welt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-060",
+   "question": "Braucht der Roman eine Verbindung von Grenzfeste und Die Große Mauer bei „Alltag in einer befestigten Welt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-061",
+   "question": "In welchem denkbaren Fall könnte Grenzfeste bestehen, ohne dass Die Große Mauer dieselbe Funktion übernimmt, und was würde das für „Alltag in einer befestigten Welt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-062",
+   "question": "Welche Kosten könnte eine Verbindung von Grenzfeste und Die Große Mauer in Bezug auf „Alltag in einer befestigten Welt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-063",
+   "question": "Welche ältere Lesart von Grenzfeste oder Die Große Mauer könnte die Gegenüberstellung unter „Alltag in einer befestigten Welt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Grenzfeste und Die Große Mauer unter „Alltag in einer befestigten Welt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "grenzfeste",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-065",
+   "question": "Wo unterscheiden sich Grenzfeste und Schleuse 7, wenn man sie unter dem Gesichtspunkt „Status wechselnder Guardian-Zuordnungen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-066",
+   "question": "Welche Quelle verbindet Grenzfeste mit Schleuse 7 in Bezug auf „Status wechselnder Guardian-Zuordnungen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-067",
+   "question": "Welche Grenzen aus der Seite zu Schleuse 7 müsste eine Deutung von Grenzfeste unter „Status wechselnder Guardian-Zuordnungen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-068",
+   "question": "Wie könnte sich das Wissen über Grenzfeste vom Wissen über Schleuse 7 unterscheiden, wenn „Status wechselnder Guardian-Zuordnungen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Grenzfeste und Schleuse 7 bei „Status wechselnder Guardian-Zuordnungen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-070",
+   "question": "Falls Grenzfeste im Hinblick auf „Status wechselnder Guardian-Zuordnungen“ anders festgelegt wird: Welche Aussagen über Schleuse 7 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Grenzfeste und Schleuse 7 bei „Status wechselnder Guardian-Zuordnungen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-072",
+   "question": "Braucht der Roman eine Verbindung von Grenzfeste und Schleuse 7 bei „Status wechselnder Guardian-Zuordnungen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-073",
+   "question": "In welchem denkbaren Fall könnte Grenzfeste bestehen, ohne dass Schleuse 7 dieselbe Funktion übernimmt, und was würde das für „Status wechselnder Guardian-Zuordnungen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-074",
+   "question": "Welche Kosten könnte eine Verbindung von Grenzfeste und Schleuse 7 in Bezug auf „Status wechselnder Guardian-Zuordnungen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-075",
+   "question": "Welche ältere Lesart von Grenzfeste oder Schleuse 7 könnte die Gegenüberstellung unter „Status wechselnder Guardian-Zuordnungen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Grenzfeste und Schleuse 7 unter „Status wechselnder Guardian-Zuordnungen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "grenzfeste",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-077",
+   "question": "Wo unterscheiden sich Grenzfeste und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Preis des Schutzes“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-078",
+   "question": "Welche Quelle verbindet Grenzfeste mit Kern-Welten in Bezug auf „Preis des Schutzes“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-079",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Grenzfeste unter „Preis des Schutzes“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-080",
+   "question": "Wie könnte sich das Wissen über Grenzfeste vom Wissen über Kern-Welten unterscheiden, wenn „Preis des Schutzes“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Grenzfeste und Kern-Welten bei „Preis des Schutzes“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-082",
+   "question": "Falls Grenzfeste im Hinblick auf „Preis des Schutzes“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Grenzfeste und Kern-Welten bei „Preis des Schutzes“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-084",
+   "question": "Braucht der Roman eine Verbindung von Grenzfeste und Kern-Welten bei „Preis des Schutzes“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-085",
+   "question": "In welchem denkbaren Fall könnte Grenzfeste bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Preis des Schutzes“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-086",
+   "question": "Welche Kosten könnte eine Verbindung von Grenzfeste und Kern-Welten in Bezug auf „Preis des Schutzes“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-087",
+   "question": "Welche ältere Lesart von Grenzfeste oder Kern-Welten könnte die Gegenüberstellung unter „Preis des Schutzes“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Grenzfeste und Kern-Welten unter „Preis des Schutzes“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "grenzfeste",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-089",
+   "question": "Wo unterscheiden sich Grenzfeste und Alex, wenn man sie unter dem Gesichtspunkt „Möglichkeit eines freiwilligen Übergangs“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-090",
+   "question": "Welche Quelle verbindet Grenzfeste mit Alex in Bezug auf „Möglichkeit eines freiwilligen Übergangs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-091",
+   "question": "Welche Grenzen aus der Seite zu Alex müsste eine Deutung von Grenzfeste unter „Möglichkeit eines freiwilligen Übergangs“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-092",
+   "question": "Wie könnte sich das Wissen über Grenzfeste vom Wissen über Alex unterscheiden, wenn „Möglichkeit eines freiwilligen Übergangs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Grenzfeste und Alex bei „Möglichkeit eines freiwilligen Übergangs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-094",
+   "question": "Falls Grenzfeste im Hinblick auf „Möglichkeit eines freiwilligen Übergangs“ anders festgelegt wird: Welche Aussagen über Alex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Grenzfeste und Alex bei „Möglichkeit eines freiwilligen Übergangs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-096",
+   "question": "Braucht der Roman eine Verbindung von Grenzfeste und Alex bei „Möglichkeit eines freiwilligen Übergangs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-097",
+   "question": "In welchem denkbaren Fall könnte Grenzfeste bestehen, ohne dass Alex dieselbe Funktion übernimmt, und was würde das für „Möglichkeit eines freiwilligen Übergangs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-098",
+   "question": "Welche Kosten könnte eine Verbindung von Grenzfeste und Alex in Bezug auf „Möglichkeit eines freiwilligen Übergangs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-099",
+   "question": "Welche ältere Lesart von Grenzfeste oder Alex könnte die Gegenüberstellung unter „Möglichkeit eines freiwilligen Übergangs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-grenzfeste-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Grenzfeste und Alex unter „Möglichkeit eines freiwilligen Übergangs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "grenzfeste",
+    "alex"
+   ]
+  }
+ ]
+}

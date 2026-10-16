@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "pms",
+ "title": "PMS — Protomemetische Speicherbildung",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Entstehung eines ersten Speichers",
+  "Unterschied zwischen Erinnerung und Mem",
+  "Voraussetzung von Speicherung aus Leere",
+  "Status als kritisiertes Postulat",
+  "Fortbestand selbst erzeugter Information"
+ ],
+ "basis": {
+  "pms": {
+   "title": "PMS — Protomemetische Speicherbildung",
+   "path": "Wiki/candidates/pms.md",
+   "hash": "c40c32832794177f4228977475d32be10712d24f8f5c15c7956b0eda3253af97"
+  },
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "residual-echos": {
+   "title": "Residual-Echos",
+   "path": "Wiki/candidates/residual-echos.md",
+   "hash": "14ca98c946db7871ebc5d5f88340e8142cfec215a321d8053abe7c15c44d6abe"
+  },
+  "rsa": {
+   "title": "RSA — Rekursive semantische Autogenese",
+   "path": "Wiki/candidates/rsa.md",
+   "hash": "bf91e26da13bc4edd430b1bec2bc945eb8d230819bf30206976507a9dc8abfba"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-pms-001",
+   "question": "Wie unterscheidet das PMS-Postulat einen ersten Speicher von der Information, die zur Bildung dieses Speichers bereits erforderlich wäre?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-002",
+   "question": "Welche Lesarten auf der Seite zu PMS — Protomemetische Speicherbildung stützen oder begrenzen „Entstehung eines ersten Speichers“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-003",
+   "question": "Welcher Grenzfall würde bei PMS — Protomemetische Speicherbildung die Annahmen über „Entstehung eines ersten Speichers“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-004",
+   "question": "Wer könnte innerhalb des Romans bei PMS — Protomemetische Speicherbildung etwas über „Entstehung eines ersten Speichers“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-005",
+   "question": "Welche konkrete Entscheidung könnte „Entstehung eines ersten Speichers“ bei PMS — Protomemetische Speicherbildung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entstehung eines ersten Speichers“ bei PMS — Protomemetische Speicherbildung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-007",
+   "question": "Wie lässt sich „Entstehung eines ersten Speichers“ bei PMS — Protomemetische Speicherbildung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-008",
+   "question": "Welche Alternativen sollte der Autor bei PMS — Protomemetische Speicherbildung für „Entstehung eines ersten Speichers“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-009",
+   "question": "Was bedeutet bei PMS — Protomemetische Speicherbildung der Themenpunkt „Unterschied zwischen Erinnerung und Mem“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-010",
+   "question": "Welche Lesarten auf der Seite zu PMS — Protomemetische Speicherbildung stützen oder begrenzen „Unterschied zwischen Erinnerung und Mem“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-011",
+   "question": "Welcher Grenzfall würde bei PMS — Protomemetische Speicherbildung die Annahmen über „Unterschied zwischen Erinnerung und Mem“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-012",
+   "question": "Wer könnte innerhalb des Romans bei PMS — Protomemetische Speicherbildung etwas über „Unterschied zwischen Erinnerung und Mem“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Erinnerung und Mem“ bei PMS — Protomemetische Speicherbildung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Erinnerung und Mem“ bei PMS — Protomemetische Speicherbildung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-015",
+   "question": "Wie lässt sich „Unterschied zwischen Erinnerung und Mem“ bei PMS — Protomemetische Speicherbildung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-016",
+   "question": "Welche Alternativen sollte der Autor bei PMS — Protomemetische Speicherbildung für „Unterschied zwischen Erinnerung und Mem“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-017",
+   "question": "Was bedeutet bei PMS — Protomemetische Speicherbildung der Themenpunkt „Voraussetzung von Speicherung aus Leere“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-018",
+   "question": "Welche Lesarten auf der Seite zu PMS — Protomemetische Speicherbildung stützen oder begrenzen „Voraussetzung von Speicherung aus Leere“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-019",
+   "question": "Welcher Grenzfall würde bei PMS — Protomemetische Speicherbildung die Annahmen über „Voraussetzung von Speicherung aus Leere“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-020",
+   "question": "Wer könnte innerhalb des Romans bei PMS — Protomemetische Speicherbildung etwas über „Voraussetzung von Speicherung aus Leere“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-021",
+   "question": "Welche konkrete Entscheidung könnte „Voraussetzung von Speicherung aus Leere“ bei PMS — Protomemetische Speicherbildung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Voraussetzung von Speicherung aus Leere“ bei PMS — Protomemetische Speicherbildung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-023",
+   "question": "Wie lässt sich „Voraussetzung von Speicherung aus Leere“ bei PMS — Protomemetische Speicherbildung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-024",
+   "question": "Welche Alternativen sollte der Autor bei PMS — Protomemetische Speicherbildung für „Voraussetzung von Speicherung aus Leere“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-025",
+   "question": "Was bedeutet bei PMS — Protomemetische Speicherbildung der Themenpunkt „Status als kritisiertes Postulat“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-026",
+   "question": "Welche Lesarten auf der Seite zu PMS — Protomemetische Speicherbildung stützen oder begrenzen „Status als kritisiertes Postulat“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-027",
+   "question": "Welcher Grenzfall würde bei PMS — Protomemetische Speicherbildung die Annahmen über „Status als kritisiertes Postulat“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-028",
+   "question": "Wer könnte innerhalb des Romans bei PMS — Protomemetische Speicherbildung etwas über „Status als kritisiertes Postulat“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-029",
+   "question": "Welche konkrete Entscheidung könnte „Status als kritisiertes Postulat“ bei PMS — Protomemetische Speicherbildung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als kritisiertes Postulat“ bei PMS — Protomemetische Speicherbildung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-031",
+   "question": "Wie lässt sich „Status als kritisiertes Postulat“ bei PMS — Protomemetische Speicherbildung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-032",
+   "question": "Welche Alternativen sollte der Autor bei PMS — Protomemetische Speicherbildung für „Status als kritisiertes Postulat“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-033",
+   "question": "Was bedeutet bei PMS — Protomemetische Speicherbildung der Themenpunkt „Fortbestand selbst erzeugter Information“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-034",
+   "question": "Welche Lesarten auf der Seite zu PMS — Protomemetische Speicherbildung stützen oder begrenzen „Fortbestand selbst erzeugter Information“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-035",
+   "question": "Welcher Grenzfall würde bei PMS — Protomemetische Speicherbildung die Annahmen über „Fortbestand selbst erzeugter Information“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-036",
+   "question": "Wer könnte innerhalb des Romans bei PMS — Protomemetische Speicherbildung etwas über „Fortbestand selbst erzeugter Information“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-037",
+   "question": "Welche konkrete Entscheidung könnte „Fortbestand selbst erzeugter Information“ bei PMS — Protomemetische Speicherbildung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortbestand selbst erzeugter Information“ bei PMS — Protomemetische Speicherbildung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-039",
+   "question": "Wie lässt sich „Fortbestand selbst erzeugter Information“ bei PMS — Protomemetische Speicherbildung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-040",
+   "question": "Welche Alternativen sollte der Autor bei PMS — Protomemetische Speicherbildung für „Fortbestand selbst erzeugter Information“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-pms-041",
+   "question": "Wo unterscheiden sich PMS — Protomemetische Speicherbildung und Emergenz, wenn man sie unter dem Gesichtspunkt „Entstehung eines ersten Speichers“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-042",
+   "question": "Welche Quelle verbindet PMS — Protomemetische Speicherbildung mit Emergenz in Bezug auf „Entstehung eines ersten Speichers“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-043",
+   "question": "Welche Grenzen aus der Seite zu Emergenz müsste eine Deutung von PMS — Protomemetische Speicherbildung unter „Entstehung eines ersten Speichers“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-044",
+   "question": "Wie könnte sich das Wissen über PMS — Protomemetische Speicherbildung vom Wissen über Emergenz unterscheiden, wenn „Entstehung eines ersten Speichers“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen PMS — Protomemetische Speicherbildung und Emergenz bei „Entstehung eines ersten Speichers“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-046",
+   "question": "Falls PMS — Protomemetische Speicherbildung im Hinblick auf „Entstehung eines ersten Speichers“ anders festgelegt wird: Welche Aussagen über Emergenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten PMS — Protomemetische Speicherbildung und Emergenz bei „Entstehung eines ersten Speichers“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-048",
+   "question": "Braucht der Roman eine Verbindung von PMS — Protomemetische Speicherbildung und Emergenz bei „Entstehung eines ersten Speichers“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-049",
+   "question": "In welchem denkbaren Fall könnte PMS — Protomemetische Speicherbildung bestehen, ohne dass Emergenz dieselbe Funktion übernimmt, und was würde das für „Entstehung eines ersten Speichers“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-050",
+   "question": "Welche Kosten könnte eine Verbindung von PMS — Protomemetische Speicherbildung und Emergenz in Bezug auf „Entstehung eines ersten Speichers“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-051",
+   "question": "Welche ältere Lesart von PMS — Protomemetische Speicherbildung oder Emergenz könnte die Gegenüberstellung unter „Entstehung eines ersten Speichers“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von PMS — Protomemetische Speicherbildung und Emergenz unter „Entstehung eines ersten Speichers“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "pms",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-pms-053",
+   "question": "Wo unterscheiden sich PMS — Protomemetische Speicherbildung und Mnemosyne, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Erinnerung und Mem“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-054",
+   "question": "Welche Quelle verbindet PMS — Protomemetische Speicherbildung mit Mnemosyne in Bezug auf „Unterschied zwischen Erinnerung und Mem“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-055",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von PMS — Protomemetische Speicherbildung unter „Unterschied zwischen Erinnerung und Mem“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-056",
+   "question": "Wie könnte sich das Wissen über PMS — Protomemetische Speicherbildung vom Wissen über Mnemosyne unterscheiden, wenn „Unterschied zwischen Erinnerung und Mem“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen PMS — Protomemetische Speicherbildung und Mnemosyne bei „Unterschied zwischen Erinnerung und Mem“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-058",
+   "question": "Falls PMS — Protomemetische Speicherbildung im Hinblick auf „Unterschied zwischen Erinnerung und Mem“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten PMS — Protomemetische Speicherbildung und Mnemosyne bei „Unterschied zwischen Erinnerung und Mem“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-060",
+   "question": "Braucht der Roman eine Verbindung von PMS — Protomemetische Speicherbildung und Mnemosyne bei „Unterschied zwischen Erinnerung und Mem“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-061",
+   "question": "In welchem denkbaren Fall könnte PMS — Protomemetische Speicherbildung bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Erinnerung und Mem“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-062",
+   "question": "Welche Kosten könnte eine Verbindung von PMS — Protomemetische Speicherbildung und Mnemosyne in Bezug auf „Unterschied zwischen Erinnerung und Mem“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-063",
+   "question": "Welche ältere Lesart von PMS — Protomemetische Speicherbildung oder Mnemosyne könnte die Gegenüberstellung unter „Unterschied zwischen Erinnerung und Mem“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von PMS — Protomemetische Speicherbildung und Mnemosyne unter „Unterschied zwischen Erinnerung und Mem“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "pms",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-pms-065",
+   "question": "Wo unterscheiden sich PMS — Protomemetische Speicherbildung und Residual-Echos, wenn man sie unter dem Gesichtspunkt „Voraussetzung von Speicherung aus Leere“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-066",
+   "question": "Welche Quelle verbindet PMS — Protomemetische Speicherbildung mit Residual-Echos in Bezug auf „Voraussetzung von Speicherung aus Leere“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-067",
+   "question": "Welche Grenzen aus der Seite zu Residual-Echos müsste eine Deutung von PMS — Protomemetische Speicherbildung unter „Voraussetzung von Speicherung aus Leere“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-068",
+   "question": "Wie könnte sich das Wissen über PMS — Protomemetische Speicherbildung vom Wissen über Residual-Echos unterscheiden, wenn „Voraussetzung von Speicherung aus Leere“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen PMS — Protomemetische Speicherbildung und Residual-Echos bei „Voraussetzung von Speicherung aus Leere“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-070",
+   "question": "Falls PMS — Protomemetische Speicherbildung im Hinblick auf „Voraussetzung von Speicherung aus Leere“ anders festgelegt wird: Welche Aussagen über Residual-Echos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten PMS — Protomemetische Speicherbildung und Residual-Echos bei „Voraussetzung von Speicherung aus Leere“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-072",
+   "question": "Braucht der Roman eine Verbindung von PMS — Protomemetische Speicherbildung und Residual-Echos bei „Voraussetzung von Speicherung aus Leere“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-073",
+   "question": "In welchem denkbaren Fall könnte PMS — Protomemetische Speicherbildung bestehen, ohne dass Residual-Echos dieselbe Funktion übernimmt, und was würde das für „Voraussetzung von Speicherung aus Leere“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-074",
+   "question": "Welche Kosten könnte eine Verbindung von PMS — Protomemetische Speicherbildung und Residual-Echos in Bezug auf „Voraussetzung von Speicherung aus Leere“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-075",
+   "question": "Welche ältere Lesart von PMS — Protomemetische Speicherbildung oder Residual-Echos könnte die Gegenüberstellung unter „Voraussetzung von Speicherung aus Leere“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von PMS — Protomemetische Speicherbildung und Residual-Echos unter „Voraussetzung von Speicherung aus Leere“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "pms",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-pms-077",
+   "question": "Wo unterscheiden sich PMS — Protomemetische Speicherbildung und RSA — Rekursive semantische Autogenese, wenn man sie unter dem Gesichtspunkt „Status als kritisiertes Postulat“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-078",
+   "question": "Welche Quelle verbindet PMS — Protomemetische Speicherbildung mit RSA — Rekursive semantische Autogenese in Bezug auf „Status als kritisiertes Postulat“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-079",
+   "question": "Welche Grenzen aus der Seite zu RSA — Rekursive semantische Autogenese müsste eine Deutung von PMS — Protomemetische Speicherbildung unter „Status als kritisiertes Postulat“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-080",
+   "question": "Wie könnte sich das Wissen über PMS — Protomemetische Speicherbildung vom Wissen über RSA — Rekursive semantische Autogenese unterscheiden, wenn „Status als kritisiertes Postulat“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen PMS — Protomemetische Speicherbildung und RSA — Rekursive semantische Autogenese bei „Status als kritisiertes Postulat“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-082",
+   "question": "Falls PMS — Protomemetische Speicherbildung im Hinblick auf „Status als kritisiertes Postulat“ anders festgelegt wird: Welche Aussagen über RSA — Rekursive semantische Autogenese müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten PMS — Protomemetische Speicherbildung und RSA — Rekursive semantische Autogenese bei „Status als kritisiertes Postulat“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-084",
+   "question": "Braucht der Roman eine Verbindung von PMS — Protomemetische Speicherbildung und RSA — Rekursive semantische Autogenese bei „Status als kritisiertes Postulat“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-085",
+   "question": "In welchem denkbaren Fall könnte PMS — Protomemetische Speicherbildung bestehen, ohne dass RSA — Rekursive semantische Autogenese dieselbe Funktion übernimmt, und was würde das für „Status als kritisiertes Postulat“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-086",
+   "question": "Welche Kosten könnte eine Verbindung von PMS — Protomemetische Speicherbildung und RSA — Rekursive semantische Autogenese in Bezug auf „Status als kritisiertes Postulat“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-087",
+   "question": "Welche ältere Lesart von PMS — Protomemetische Speicherbildung oder RSA — Rekursive semantische Autogenese könnte die Gegenüberstellung unter „Status als kritisiertes Postulat“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von PMS — Protomemetische Speicherbildung und RSA — Rekursive semantische Autogenese unter „Status als kritisiertes Postulat“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "pms",
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-pms-089",
+   "question": "Wo unterscheiden sich PMS — Protomemetische Speicherbildung und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Fortbestand selbst erzeugter Information“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-090",
+   "question": "Welche Quelle verbindet PMS — Protomemetische Speicherbildung mit Nichts-Rauschen in Bezug auf „Fortbestand selbst erzeugter Information“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-091",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von PMS — Protomemetische Speicherbildung unter „Fortbestand selbst erzeugter Information“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-092",
+   "question": "Wie könnte sich das Wissen über PMS — Protomemetische Speicherbildung vom Wissen über Nichts-Rauschen unterscheiden, wenn „Fortbestand selbst erzeugter Information“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen PMS — Protomemetische Speicherbildung und Nichts-Rauschen bei „Fortbestand selbst erzeugter Information“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-094",
+   "question": "Falls PMS — Protomemetische Speicherbildung im Hinblick auf „Fortbestand selbst erzeugter Information“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten PMS — Protomemetische Speicherbildung und Nichts-Rauschen bei „Fortbestand selbst erzeugter Information“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-096",
+   "question": "Braucht der Roman eine Verbindung von PMS — Protomemetische Speicherbildung und Nichts-Rauschen bei „Fortbestand selbst erzeugter Information“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-097",
+   "question": "In welchem denkbaren Fall könnte PMS — Protomemetische Speicherbildung bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Fortbestand selbst erzeugter Information“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-098",
+   "question": "Welche Kosten könnte eine Verbindung von PMS — Protomemetische Speicherbildung und Nichts-Rauschen in Bezug auf „Fortbestand selbst erzeugter Information“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-099",
+   "question": "Welche ältere Lesart von PMS — Protomemetische Speicherbildung oder Nichts-Rauschen könnte die Gegenüberstellung unter „Fortbestand selbst erzeugter Information“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-pms-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von PMS — Protomemetische Speicherbildung und Nichts-Rauschen unter „Fortbestand selbst erzeugter Information“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "pms",
+    "nichts-rauschen"
+   ]
+  }
+ ]
+}

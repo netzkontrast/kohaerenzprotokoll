@@ -1,0 +1,23 @@
+{
+  "document": "report-reorienting-the-central-conflict-as-a-call-to-wholene",
+  "drive_id": "1Xj9oOUNPss2JQyRxXgfxJDGQ5dhxcRBmd96I-dGZIWk",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 12,
+  "typographic_marks": 8,
+  "ascii_quotes": 76,
+  "inflection_families": {},
+  "substring_pairs": [
+    [
+      "Defining",
+      "Redefining"
+    ],
+    [
+      "Integration",
+      "Reintegration"
+    ]
+  ]
+}

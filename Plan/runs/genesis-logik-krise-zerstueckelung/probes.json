@@ -1,0 +1,256 @@
+{
+  "document": "genesis-logik-krise-zerstueckelung",
+  "drive_id": "1wMEdBAuMBsUyoT1jzAC5QpWkMOgrvJ6sI05oFYMUbOU",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 92,
+  "backslash_escapes": 0,
+  "typographic_marks": 359,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdiagnose",
+      "Systeme",
+      "Systemen",
+      "Systemintegrität",
+      "Systemische",
+      "Systemkritik",
+      "Systemlogik",
+      "Systemresonanz",
+      "Systems",
+      "Systemstabilität"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfehler",
+      "Datenmengen",
+      "Datenpunkt",
+      "Datenpunkten",
+      "Datenstrukturen",
+      "Datenverarbeitung"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsfunken",
+      "Bewusstseinsfunkens",
+      "Bewusstseinsphilosophie",
+      "Bewusstseinsprozessen"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzfrequenz",
+      "Resonanzfähigkeit",
+      "Resonanzsignale",
+      "Resonanzsignalen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbeschränkung",
+      "Selbstfragmentierung",
+      "Selbstverstümmelung",
+      "Selbstverwirklichung",
+      "Selbstzerstörung"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehralgorithmen",
+      "Abwehrfront",
+      "Abwehrmechanismus",
+      "Abwehrstrategien"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalisierung",
+      "Funktionen",
+      "Funktionseinheit",
+      "Funktionsweise"
+    ],
+    "konst": [
+      "Konstatierung",
+      "Konstrukt",
+      "Konstrukte",
+      "Konstruktion",
+      "Konstruktivismus"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analysevektoren",
+      "Analysewerkzeug"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungslage",
+      "Bedrohungsquelle"
+    ],
+    "inter": [
+      "Interaktionen",
+      "Interpretation",
+      "Interpretative",
+      "Intersubjektivität"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatheorie"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungstechnologien",
+      "Überwelt",
+      "Überwindung"
+    ],
+    "abstr": [
+      "Abstraktheit",
+      "Abstraktion",
+      "Abstraktionsgrad"
+    ],
+    "bedür": [
+      "Bedürfnis",
+      "Bedürfnissen",
+      "Bedürfnisses"
+    ],
+    "besch": [
+      "Beschreibungen",
+      "Beschränkung",
+      "Beschränkungen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entsc": [
+      "Entscheidend",
+      "Entscheidung",
+      "Entscheidungen"
+    ],
+    "funke": [
+      "Funke",
+      "Funken",
+      "Funkens"
+    ],
+    "grund": [
+      "Grundaxiome",
+      "Grundlagen",
+      "Grundlosigkeit"
+    ],
+    "indiv": [
+      "Individualität",
+      "Individuum",
+      "Individuums"
+    ],
+    "infor": [
+      "Informationsaustausch",
+      "Informationsverarbeitung",
+      "Informationszerfalls"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikten",
+      "Konflikts"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Endes"
+    ],
+    [
+      "Ende",
+      "Senden"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Ungeformte"
+    ],
+    [
+      "Form",
+      "Kohärenzformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationszerfalls"
+    ],
+    [
+      "Form",
+      "Informationsaustausch"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Kern",
+      "Kerns"
+    ],
+    [
+      "Kern",
+      "Kernaspekt"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernkonflikte"
+    ],
+    [
+      "Kern",
+      "Kernprogrammierung"
+    ]
+  ]
+}

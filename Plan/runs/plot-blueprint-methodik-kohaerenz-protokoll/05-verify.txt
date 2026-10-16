@@ -1,0 +1,159 @@
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Kontext"
+whole word, case-sensitive     47
+whole word, case-insensitive   47
+including compounds            47
+
+`Kontext` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#47]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Grundprinzipien"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Grundprinzipien` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#12]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Strategische Anwendung"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Strategische Anwendung` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#12]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Vertiefte Betrachtung"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Vertiefte Betrachtung` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#12]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Angereicherte Leitfragen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Angereicherte Leitfragen` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Original"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Original` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "OBP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`OBP` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "RIVE"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`RIVE` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "SARM"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`SARM` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "PMAS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PMAS` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "CCPP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`CCPP` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Ufer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ufer` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "KW4"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW4` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Plot-Punkte"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Plot-Punkte` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kapitel` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "verbindlich"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`verbindlich` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lock` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "K-Juna-Paradoxon"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            11
+
+`K-Juna-Paradoxon` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#9]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "K-Juna Paradoxon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K-Juna Paradoxon` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Primär"
+whole word, case-sensitive     16
+whole word, case-insensitive   17
+including compounds            16
+
+`Primär` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#16]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Kaels"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            42
+
+`Kaels` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#42]
+$ python3 scripts/read.py plot-blueprint-methodik-kohaerenz-protokoll --count "Alters"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`Alters` ^[plot-blueprint-methodik-kohaerenz-protokoll.md:#26]
+$ grep -c backslash/ glued: from 01-profile.txt: backslash escapes 223, glued ref numbers 47; stance_marker_count 43 = 12+12+12+7 (Grundprinzipien, Strategische Anwendung, Vertiefte Betrachtung, Angereicherte Leitfragen)
+$ grep -o "DIS-[A-Za-zäöü]*" Sources/drive/...md | sort | uniq -c
+      2 DIS-Darstellung
+      1 DIS-Manifestation
+      1 DIS-Phänomenologie
+$ grep -o "EST-[A-Za-zäöü]*" Sources/drive/...md | sort | uniq -c
+      1 EST-Ansätze
+      1 EST-Prinzipien
+      2 EST-Techniken

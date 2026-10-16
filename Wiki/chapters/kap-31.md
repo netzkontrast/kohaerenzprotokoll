@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 41
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 51
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "the-juna-vector-an-ontological-and-narrative-analysis-for-ko", "dkt-fundament-kohaerenz-protokoll-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ Was mit den Guardians geschieht, erzählen die Quellen verschieden: laut Konzept
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 31, in Teil 3: Die Transzendenz, is titled „Begegnung mit abtrünnigen Guardians“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L375]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Weg der Prüfungen (Final)`
+
+- The detailed plot draft plans for Kap 31, `Weg der Prüfungen (Final)`: „Stabilität um jeden Preis, Kontrolle, die Angst vor der Nicht-Existenz“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L133] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Die inneren Parias`
+
+- The Moonshine-Brücke blueprint plans for Kap 31, `Die inneren Parias`: „Kael erkennt Analogien zwischen seinen integrierten Alters und der internen Vielfalt von M.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L94] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „AEGIS' Schicksal: Kollaps oder Adaption?“ ^[monstergruppe-primzahlen-plot-blueprint.md:L335]
@@ -41,9 +49,21 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - The enriched plot concept's theme draft has for Kapitel 31, under the concept label `Cache Kohärenz (Aktive Synchronisation)`: „Kael entwickelt eine mentale Technik, um bewusst auf Fähigkeiten oder Erinnerungen aus anderen Welten“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L72] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Das Brechen der Fesseln`
+
+- The concept chapter map plans for Kap 31: „Der Kampf gegen letzte innere Widerstände und externe Bindungen an das alte System“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L319]; AEGIS „scheitert an dessen integrierter Resilienz“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L320]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Überwindung letzter Widerstände`
+
+- The comprehensive concept's overview gives Kap 31 the label „Überwindung letzter Widerstände“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L102] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 31 „Schritt ins Ungewisse“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L64] in its third part, the outer journey and assigns it the primary concept „Überwindung der Angst / Akt der Entscheidung“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L64]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — the Juna-Verbindung at maximum strength
+
+- The logline analysis proposes for Kap 31: „Die Juna-Verbindung erreicht ihre maximale Stärke“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L260] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Konfrontation mit dem Quellcode
 
@@ -125,6 +145,10 @@ Position: scene 3.2 at „3.2 - AEGIS Core Processor Chamber“ ^[ai-assisted-na
 
 - The plot framework titles Chapter 31 „First Contact“ ^[plot-generation-framework-for-the-coherence-protocol.md:L277]. It commissions: „Show Kael making contact with another fragmented consciousness within AEGIS, expanding the scope of the conflict from a personal struggle to a systemic rebellion“ ^[plot-generation-framework-for-the-coherence-protocol.md:L277] — a plan, not the chapter as written.
 
+## Reading — `the-juna-vector-an-ontological-and-narrative-analysis-for-ko`, 2025-11-03, the Juna-Vector analysis — The External Intervention
+
+- The Juna-Vector analysis names Chapter 31 as the external intervention, „Junas Hand“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L98], and writes: „Juna/V takes an active role for the first time, directly connecting to and influencing the simulated reality in a tangible way.“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L100] It argues that „This act validates his growing trust in the connection.“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L101] An analysis of the plot, not the chapter.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The temptress
 
 Title: „Die Frau als Versucherin“ ^[romanstruktur-und-philosophische-einleitung.md:L244]
@@ -176,6 +200,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 
 - Plot: „Die elf Alters von Kael treten sichtbar nebeneinander.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „Es findet keine magische Fusion zu einer einzigen“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „gesunden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „Person statt, sondern die Etablierung eines“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] „Wir-Geflechts“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123] (functional multiplicity, IFS).
 - Voice: „Jeder Alter steuert einen isolierten Sinneseindruck bei: Nyx die kinetische Spannung, Lex die Geometrie des Raums, Kiko die staunende Verwunderung.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L123]
+
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — an identity of perfect balance, unreachable
+
+The memo proposes for Kap. 30–32 that Kael understands a named identity of perfect balance (the memo names it after a person and writes its formula; both left out here). Kael is to understand: „Er versteht, warum AEGIS diesen Zustand anstrebt“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L269], and also „und warum er unerreichbar ist“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L269]. The memo's reason: reaching it would mean no experience at all. The range is read the same way on each of the three chapters. A proposal of the memo, recorded, not canon.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael embraces Oblivion, the AEGIS-Echo in himself
 
@@ -308,11 +336,24 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Idea 11: „Die Guardian-Auflösung (Kap 31“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (marked `[K]`) · „nicht als Kampf, sondern als doppeltes Angebot“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
 - Idea 11: „Kael absorbiert beide Prinzipien, indem er beide ablehnt und beide behält“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
 
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — threshold break and the first Silas appearance
+
+The sensory drafting manual names Kap 31 in three places. In the motif table it is the chapter of „Schwellen-Bruch“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L543], with the click motif: „Klick-Motiv beim Übertreten“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L543]; the line marks the chapter as „kanonisch“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L13]. In the mirror-alter section Silas becomes „Akt III: Silas wird zum aktiven Transmitter“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L498], and in the open points the manual lists „exakte Auftrittskapitel von Silas und Oblivion in Akt III“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1428] as undecided, with guide values around Kap 31/32 and 32/33. The appearance chapters are therefore a guide value, not a lock. A placement of the manual, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10, the parts-profiles and speech-DNA manual — Kap 31 as an approximate start of one alter's POV parts
+
+The parts-profiles and speech-DNA manual gives Kap 31 only in a range with a tilde, for the third act of one alter: „POV-Anteile ab \~Kap 31/32 (OQ-E, Detail offen).“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] The open-questions table repeats it as a rough guide: „Silas-POV ab \\\~Kap 31/32, Oblivion ab \\\~32/33 (Richtwerte).“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1075], with the detail lock due before the act-III encoding. Recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — names Kap 31/32 as the start of Silas's POV share
+
+The terms-and-concepts companion says of the alter Silas: „Silas trägt einen Splitter von Juna in Kael.“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L276] It sets the point of view for the third act: „POV-Anteile ab ~Kap 31/32 (Detail = OQ-E)“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L276] The chapter appears as one of a pair, with the detail left to an open question. Recorded, not canon.
+
 ## Where the sources differ
 
 - **What happens to the Guardians.** „Kael absorbiert Guardian-Prinzipien gesund.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] (konsolidiertes Konzept) · „Wächter, die in Lichtstaub aufgehen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] (storyform outline) · „Die Guardian-Auflösung (Kap 31“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] „nicht als Kampf, sondern als doppeltes Angebot“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (Plot-Konkretisierung) · „Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985] (strukturierter Outline), which keeps the Guardians active in Kap 32: „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005] (strukturierter Outline).
 - **Guardians after Kap 31, within one document.** „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] in Kap 31 · „Mnemosyne als erste betroffene Guardian.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381] in Kap 36 (both storyform outline).
 - **Title.** „Auflösung der Guardians“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626] (Konzept-Iteration Genesis) · „Crossing First Threshold: Angriff auf AEGIS“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L975] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the konsolidiertes Konzept gives the chapter: „HR-Stufe 5: Crossing First Threshold“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021] (konsolidiertes Konzept) · „Die Akzeptanz des Oblivion“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L180] (the Hard-SF-Outline).
+- The parts-profiles and speech-DNA manual gives Kap 31/32 as an open guide value (OQ-E) for POV parts.
 
 ## Questions for this chapter
 

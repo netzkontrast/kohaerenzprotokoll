@@ -1,0 +1,203 @@
+{
+  "document": "kohaerenz-protokoll-thematische-tiefenanalyse",
+  "drive_id": "1k3970EmMuevYzgJhIX_i0arY-TvkrVoBvZ_EffZdnFE",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 68,
+    "decisions": 72,
+    "decided_by_lookup": 60,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        207
+      ],
+      "attribution": "",
+      "note": "Zero-Trust as a rigid rule fostering avoidant attachment"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        35,
+        41,
+        43,
+        178,
+        184,
+        226
+      ],
+      "attribution": "",
+      "note": "AEGIS as the paradox and an externalised trauma response"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        35,
+        117
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz as the psychic manifestation of systemic control"
+    },
+    {
+      "page": "did",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "DID listed among the models for Kael's inner state"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        287
+      ],
+      "attribution": "",
+      "note": "Guardians as agents of control in Phase 1"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        77,
+        145,
+        226,
+        321
+      ],
+      "attribution": "",
+      "note": "the V/Juna connection with a psychological function"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        35,
+        65,
+        67,
+        68,
+        125,
+        128,
+        139
+      ],
+      "attribution": "",
+      "note": "Kael's inner state read through borrowed models"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        52,
+        199,
+        243,
+        244,
+        245,
+        276
+      ],
+      "attribution": "",
+      "note": "Kernwelten as diagnostic arenas and ontological laboratories"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        209,
+        213,
+        258
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a metaphor for a connection"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        299
+      ],
+      "attribution": "",
+      "note": "a Potentialmeer cell with a question mark"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        247,
+        288
+      ],
+      "attribution": "",
+      "note": "the Risse as system instabilities and limits of control"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        276,
+        288
+      ],
+      "attribution": "",
+      "note": "the Überwelt as an environment of separation and surveillance"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 23,
+      "decision": "reading",
+      "why": "DID among the models applied to Kael; read on did"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "control against emergence in general terms"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 25,
+      "decision": "occurrence",
+      "why": "ontological themes in general terms"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 77,
+      "decision": "occurrence",
+      "why": "a hedged hint at another level of reality, general sense"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

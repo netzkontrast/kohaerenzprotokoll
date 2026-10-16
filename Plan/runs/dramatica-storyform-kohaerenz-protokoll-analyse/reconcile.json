@@ -1,0 +1,201 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll-analyse",
+  "drive_id": "18wEusYQumxPOghiA7rQYeeqDhthvszZXVrntr1vI4pQ",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; the note was reworded before commit to drop a term named after a person; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-520/brief.md, 2026-10-14; first held by the privacy screen on the word Shadow in a reference title and the abbreviation DIS, released on re-screening",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 77,
+    "decided_by_lookup": 66,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An expert report applying the Dramatica storyform, the Dual Kernel Theory and TSDP to the novel: its new surfaces are Dramatica values and borrowed concepts; what it assigns and reads for AEGIS, Kael, Juna, the Moonshine Link, the alters, multiplicity, the DKT, the Nichts Rauschen, the Risse, TSDP, Lex and Nyx went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        24,
+        85,
+        101,
+        103,
+        147
+      ],
+      "attribution": "",
+      "note": "AEGIS as antagonist, Influence Character and status quo"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "the alters and functional multiplicity"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        86,
+        112,
+        114,
+        116
+      ],
+      "attribution": "",
+      "note": "Juna as catalyst and structural operator"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        84,
+        106,
+        124
+      ],
+      "attribution": "",
+      "note": "Kael as Main Character in Mind"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "Lex among the specialised agents"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "the Relationship Story"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        62,
+        68
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the goal"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "K0 as the realm of erasure"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "Nyx among the specialised agents"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        36
+      ],
+      "attribution": "",
+      "note": "K0 as the emotional part"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        34,
+        66
+      ],
+      "attribution": "",
+      "note": "TSDP as the psychological basis"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Die Anomalie` names Juna/V, read on juna; `Mosaik` the 39-part structure, not the page's term; `Kohärenz-Prime` and the title occurrences; the exegesis's Dramatica values its own proposal, never the project's storyform; the page whose term carries a person's name gets no reading; names of people never written",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 68,
+      "decision": "reading",
+      "why": "the system's parts; read on the page if the reader finds it"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 187,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 102,
+      "decision": "occurrence",
+      "why": "a general use"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 36,
+      "decision": "occurrence",
+      "why": "read on aegis"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 171,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 28,
+      "decision": "occurrence",
+      "why": "the introduction; read on aegis"
+    }
+  ],
+  "not_promoted": [
+    "the Dramatica values as surfaces, Seltsamer Attraktor, Diagonale Opposition, Kohärenz-Prime, Das Fundament as an operator, the three open questions, and the concepts named after people"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

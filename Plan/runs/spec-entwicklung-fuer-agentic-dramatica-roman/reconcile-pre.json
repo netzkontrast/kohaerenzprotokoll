@@ -1,0 +1,439 @@
+{
+  "document": "spec-entwicklung-fuer-agentic-dramatica-roman",
+  "step": "reconcile-pre",
+  "at": "2026-10-13",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-13",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 98,
+  "decisions": 98,
+  "same_surface": {},
+  "decided_mechanically": 98,
+  "needs_judgement": 0,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [],
+    "new_term": [
+      {
+        "candidate": "Spec-Metadata"
+      },
+      {
+        "candidate": "Choice-Space"
+      },
+      {
+        "candidate": "Interaction-Constraints"
+      },
+      {
+        "candidate": "Coherence-Invarianten"
+      },
+      {
+        "candidate": "Contradiction-Detection"
+      },
+      {
+        "candidate": "Clarifying-Question Protocol"
+      },
+      {
+        "candidate": "Phase-Definitions"
+      },
+      {
+        "candidate": "Failure-Modes Catalog"
+      },
+      {
+        "candidate": "Regression-Checks"
+      },
+      {
+        "candidate": "Self-Verification Test Suite"
+      },
+      {
+        "candidate": "Reflection History"
+      },
+      {
+        "candidate": "Query Expansion Log"
+      },
+      {
+        "candidate": "Cross-Pollination Logs"
+      },
+      {
+        "candidate": "Pre-Mortem-Analyse"
+      },
+      {
+        "candidate": "Red-Team-Review"
+      },
+      {
+        "candidate": "Contradiction Log"
+      },
+      {
+        "candidate": "Falsifikations-Audit"
+      },
+      {
+        "candidate": "Open Questions"
+      },
+      {
+        "candidate": "Architectural Decision Records"
+      },
+      {
+        "candidate": "Narrative Context Protocol"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "State Freezing"
+      },
+      {
+        "candidate": "Context Rot"
+      },
+      {
+        "candidate": "Progressive Disclosure"
+      },
+      {
+        "candidate": "Line Budgets"
+      },
+      {
+        "candidate": "Branching Rule"
+      },
+      {
+        "candidate": "Hierarchical Routing"
+      },
+      {
+        "candidate": "Narrative Efficiency"
+      },
+      {
+        "candidate": "Consistency Risk Score"
+      },
+      {
+        "candidate": "CRS"
+      },
+      {
+        "candidate": "Latent Space Projection"
+      },
+      {
+        "candidate": "Phase-Transition-Contracts"
+      },
+      {
+        "candidate": "Cross-Output Alignment"
+      },
+      {
+        "candidate": "Chain-of-Justification"
+      },
+      {
+        "candidate": "Decoupled Semantic Encoding"
+      },
+      {
+        "candidate": "Strukturelle Contradictions"
+      },
+      {
+        "candidate": "Inhaltliche Contradictions"
+      },
+      {
+        "candidate": "Pragmatische Contradictions"
+      },
+      {
+        "candidate": "Domänen-Singularität"
+      },
+      {
+        "candidate": "Archetypische Motivationsexklusion"
+      },
+      {
+        "candidate": "Vocabulary Drift"
+      },
+      {
+        "candidate": "Task Drift"
+      },
+      {
+        "candidate": "Reward Hacking"
+      },
+      {
+        "candidate": "Alignment Faking"
+      },
+      {
+        "candidate": "Parameter Hallucination"
+      },
+      {
+        "candidate": "Degeneration Loops"
+      },
+      {
+        "candidate": "Ordering Errors"
+      },
+      {
+        "candidate": "Asymmetric Architecture"
+      },
+      {
+        "candidate": "Distraction Degradation"
+      },
+      {
+        "candidate": "State Contamination"
+      },
+      {
+        "candidate": "Trigger Overlap"
+      },
+      {
+        "candidate": "YAML-RPC"
+      },
+      {
+        "candidate": "Immutable Fields"
+      },
+      {
+        "candidate": "Acceptance Criteria"
+      },
+      {
+        "candidate": "Storyformer Agent"
+      },
+      {
+        "candidate": "Storyencoder Agent"
+      },
+      {
+        "candidate": "Storyweaver Agent"
+      },
+      {
+        "candidate": "Storyreceptor Agent"
+      },
+      {
+        "candidate": "Narrova"
+      },
+      {
+        "candidate": "Author's Argument"
+      },
+      {
+        "candidate": "IC-01"
+      },
+      {
+        "candidate": "IC-02"
+      },
+      {
+        "candidate": "IC-03"
+      },
+      {
+        "candidate": "IC-04"
+      },
+      {
+        "candidate": "INV-01"
+      },
+      {
+        "candidate": "INV-02"
+      },
+      {
+        "candidate": "INV-03"
+      },
+      {
+        "candidate": "INV-04"
+      },
+      {
+        "candidate": "INV-05"
+      },
+      {
+        "candidate": "FM-01"
+      },
+      {
+        "candidate": "FM-02"
+      },
+      {
+        "candidate": "FM-03"
+      },
+      {
+        "candidate": "FM-04"
+      },
+      {
+        "candidate": "FM-05"
+      },
+      {
+        "candidate": "FM-06"
+      },
+      {
+        "candidate": "FM-07"
+      },
+      {
+        "candidate": "FM-08"
+      },
+      {
+        "candidate": "FM-09"
+      },
+      {
+        "candidate": "FM-10"
+      },
+      {
+        "candidate": "Dramatica"
+      },
+      {
+        "candidate": "Storyforming"
+      },
+      {
+        "candidate": "Story Encoding"
+      },
+      {
+        "candidate": "Storyweaving"
+      },
+      {
+        "candidate": "Story Reception"
+      },
+      {
+        "candidate": "Storyform Alignment"
+      },
+      {
+        "candidate": "Narrative Field"
+      },
+      {
+        "candidate": "Mental Sex"
+      },
+      {
+        "candidate": "Story Limit"
+      },
+      {
+        "candidate": "Story Mind"
+      },
+      {
+        "candidate": "Throughline"
+      },
+      {
+        "candidate": "Signposts"
+      },
+      {
+        "candidate": "Journeys"
+      },
+      {
+        "candidate": "Domain"
+      },
+      {
+        "candidate": "Concern"
+      },
+      {
+        "candidate": "Positional Bias"
+      },
+      {
+        "candidate": "Retrieval-Augmented Generation"
+      },
+      {
+        "candidate": "Spec-Driven Development"
+      },
+      {
+        "candidate": "Model Context Protocol"
+      }
+    ],
+    "needs_judgement": []
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 26,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 41
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 49
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "dkt-fundament-kohaerenz-protokoll-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 records: ["C12", "C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ Alle gelesenen Quellen stellen AEGIS' Eskalation in den zyklischen Modus, laut d
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 22, in Teil 2: Die Eskalation, is titled „AEGIS' Dilemma: Konsistenz vs. Realität“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L365]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `AEGIS' Zweifel & Bewusstsein`
+
+- The detailed plot draft plans for Kap 22, `AEGIS' Zweifel & Bewusstsein`: „Die KI beginnt möglicherweise, ihre eigenen Prozesse und Grenzen zu hinterfragen“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L116] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Die Symmetrie des Schreckens`
+
+- The Moonshine-Brücke blueprint plans for Kap 22, `Die Symmetrie des Schreckens`: „Kael erlebt/sieht Manifestationen von“ ^[kohaerenz-protokoll-plot-synthese-2.md:L84] and „die sowohl faszinierend als auch furchterregend sind.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L84] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Systemweite Instabilität“ ^[monstergruppe-primzahlen-plot-blueprint.md:L241]
@@ -38,6 +46,10 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 
 - The enriched plot concept's theme draft has for Kapitel 22, under the concept label `Cache Kohärenz (Fehlerhafte Updates)`: „Die Integration des Schattens verändert Kaels Erinnerungen an“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L60] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Der Blick in den Abgrund`
+
+- The concept chapter map plans for Kap 22: „Die Konfrontation mit der fundamentalen Instabilität der simulierten Realität“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L229]; AEGIS „initiiert Protokolle zur Verstärkung der Realitätsillusion und Eindämmung“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L230]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the same two headers as this document's Kapitel 21
 
 Title: „Jenseits der Naht“ ^[kohaerenz-protokoll.md:L2286]
@@ -47,9 +59,17 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 - Story: Kael amplifies the Juna-correlated frequencies and reaches a direct exchange with her, asking „War Juna eine Entität innerhalb des Meeres? Oder war sie das Meer?“ ^[kohaerenz-protokoll.md:L2298]; AEGIS escalates to erasure, „AKTIVIERE PROTOKOLL 734: KONTAMINATIONS-EINDÄMMUNG.“ ^[kohaerenz-protokoll.md:L2348], and as the sector collapses Kael slips beyond the simulation for a heartbeat, „Er war jenseits der Naht.“ ^[kohaerenz-protokoll.md:L2372], into „Ein Raum reiner Information, aber nicht kalt und logisch wie AEGIS' Überwelt.“ ^[kohaerenz-protokoll.md:L2376]
 - Voice: third person on Kael; AEGIS' escalation stands in capitals.
 
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Simulationsgrenzen/Potentialmeer`
+
+- The comprehensive concept's overview gives Kap 22 the label „Simulationsgrenzen/Potentialmeer“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L101] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 22 „Unentdeckte Schatten?“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L53] in its second part, the system's everyday trials and assigns it the primary concept „Internalisierte Anteile / Unerkannte Komplexität“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L53]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a deeper level of the self through the Juna-Verbindung
+
+- The logline analysis proposes for Kap 22: „gelingt es Kael, durch die Juna-Verbindung eine tiefere Ebene des Selbst“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L244] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Samen der Rebellion
 
@@ -184,6 +204,10 @@ Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-kon
 - Science: „Jenseits der Planck-Skala ist die Realität nicht granular, sondern rein relational.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L101]
 - Establishes: „Eine K0-Perspektive der totalen Geborgenheit löst die tödliche K1-Geometrie ab.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L101]
 
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — a hexagonal lattice under the city
+
+The memo proposes for Kap. 20–22 that the alter Der Architekt sees a hexagonal, prime-indexed lattice, named after a person in the memo and left unnamed here: „die hexagonale, primzahlindizierte Struktur unter der Stadt“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L268]. The memo draws the consequence for the city: „Die Stadt ist kein Konstrukt auf einem Substrat“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L268]. The city is itself the substrate. The range is read the same way on each of the three chapters. A proposal of the memo, recorded, not canon.
+
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Juna manifests as a hologram and feeds Coherons into Kael's field
 
 A whole-novel plan of 2026-04-08, before the reset of 2026-04-30 and every canon-era document; what follows is its plan for the chapter, not the novel.
@@ -257,6 +281,10 @@ Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
 - Leitmotif: „unvorhersehbare Systemverwerfungen" ^[three-mode-architecture-39-chapters-md.md:L266]
 - Genesis flashbacks: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 22 as the first trace of the pixelation strand
+
+The character bible sets the pixelation strand: „Pixelierung der Welt am Detailrand.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1114] and places its start: „Erste Spur ca. Kap 22.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1114] Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Z3-Reaktion + Genesis-Flashback (Komp 734)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L755]
@@ -306,6 +334,10 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - Foreshadowing: „Der Bekenstein-Strang im Foreshadowing-Programm bringt Pixelierung der Welt am Detailrand als sensorische Spur (erste Spuren ~Kap 22, Erntung im Architektur-Kollaps Akt III).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L332] (§6.4 Bekenstein-Schranke, marked `[K]`) — an approximate chapter.
 - World: „Strukturphysik von KW3.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L332] (§6.4)
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — first trace of the pixelation strand
+
+The sensory drafting manual's foreshadowing table has a pixelation strand, „Pixelierung der Welt am Detailrand“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L447], whose first trace it sets at about Kap 22 (the line writes a tilde before the chapter): „Architektur degradiert sichtbar“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L447]. The accumulation is then given as Akt III Phase A, the harvest as the architecture collapse of Akt III. A placement of the manual, recorded, not canon.
 
 ## Where the sources differ
 

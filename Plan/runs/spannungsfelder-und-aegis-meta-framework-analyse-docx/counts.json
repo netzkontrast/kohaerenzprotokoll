@@ -1,0 +1,780 @@
+{
+  "document": "spannungsfelder-und-aegis-meta-framework-analyse-docx",
+  "drive_id": "1SjX7GbNpKU5xfXqO1HRSlbuqtDT1QJ8l",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 16,
+      "n_including_compounds": 57,
+      "lines": [
+        11,
+        17,
+        19,
+        34,
+        35,
+        36,
+        37,
+        50,
+        64,
+        65,
+        67,
+        79,
+        80,
+        81,
+        82,
+        98,
+        99,
+        114,
+        115,
+        117,
+        118,
+        130,
+        131,
+        147,
+        148,
+        149,
+        150,
+        182,
+        183,
+        186,
+        198,
+        200,
+        201,
+        202,
+        214,
+        215,
+        217,
+        231,
+        290,
+        292,
+        294,
+        312,
+        322,
+        326,
+        335,
+        337,
+        339,
+        355,
+        368,
+        370,
+        372,
+        379,
+        385,
+        387,
+        389
+      ]
+    },
+    "AEGIS Meta-Framework": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        11,
+        17,
+        19,
+        290,
+        292,
+        337,
+        370,
+        385
+      ]
+    },
+    "Koheränz der Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        292
+      ]
+    },
+    "Spannungsfeld": {
+      "n": 27,
+      "n_including_compounds": 53,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        31,
+        38,
+        46,
+        51,
+        52,
+        53,
+        68,
+        83,
+        85,
+        87,
+        102,
+        103,
+        119,
+        135,
+        151,
+        159,
+        162,
+        163,
+        167,
+        169,
+        171,
+        187,
+        203,
+        216,
+        219,
+        230,
+        235,
+        237,
+        239,
+        243,
+        247,
+        254,
+        270,
+        288,
+        292,
+        296,
+        308,
+        346,
+        355,
+        375,
+        383,
+        387
+      ]
+    },
+    "Spannungsfelder": {
+      "n": 21,
+      "n_including_compounds": 24,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        85,
+        87,
+        169,
+        171,
+        237,
+        239,
+        243,
+        254,
+        270,
+        288,
+        292,
+        296,
+        308,
+        355,
+        375,
+        383,
+        387
+      ]
+    },
+    "Polaritäten": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        254,
+        268,
+        297,
+        300,
+        304,
+        320,
+        342,
+        377,
+        383,
+        385
+      ]
+    },
+    "Selbstbestätigung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        324,
+        326,
+        333,
+        385
+      ]
+    },
+    "Koheränzpunkte": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        35
+      ]
+    },
+    "Nullraum": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        34,
+        35,
+        274
+      ]
+    },
+    "quantenlogischen Nullraum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        35
+      ]
+    },
+    "Fluktuationskohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        36,
+        274
+      ]
+    },
+    "Metadimensionen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        297
+      ]
+    },
+    "Genesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        297,
+        298
+      ]
+    },
+    "Selbststrukturierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        297,
+        299
+      ]
+    },
+    "Interaktion": {
+      "n": 15,
+      "n_including_compounds": 23,
+      "lines": [
+        17,
+        52,
+        61,
+        65,
+        67,
+        68,
+        82,
+        116,
+        131,
+        134,
+        135,
+        216,
+        239,
+        292,
+        297,
+        300,
+        311,
+        322,
+        344,
+        362
+      ]
+    },
+    "Dynamische Achsen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Entropische Fluktuation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        302
+      ]
+    },
+    "Rekursive Adaptivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Koheränzbildung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        304
+      ]
+    },
+    "Emergenzpflicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        306
+      ]
+    },
+    "Rekursive Selbstprüfung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        307,
+        322
+      ]
+    },
+    "Spannungskohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        308
+      ]
+    },
+    "Adaptive Modularität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        309,
+        322
+      ]
+    },
+    "Entropische Offenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        310,
+        322
+      ]
+    },
+    "Architekturmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Meta-Knoten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        311
+      ]
+    },
+    "Emergenz aus der Leere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        37
+      ]
+    },
+    "Dynamische Selbstbalancierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        275
+      ]
+    },
+    "Relationale Emergenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        276
+      ]
+    },
+    "Rekursive Selbstdifferenzierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        277
+      ]
+    },
+    "Phasenstabilität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        91,
+        98,
+        100,
+        278
+      ]
+    },
+    "Emergente Semantik aus Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        107,
+        279
+      ]
+    },
+    "Minimale Kopplung bei maximaler Autonomie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        123,
+        280
+      ]
+    },
+    "Multikausale Emergenzzeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        139,
+        281
+      ]
+    },
+    "Fraktale Selbstähnlichkeit unter Differenzdruck": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        175,
+        283
+      ]
+    },
+    "Verschachtelte Realitätsebenen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        191,
+        284
+      ]
+    },
+    "Aktive Selbstgestaltung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        207,
+        285
+      ]
+    },
+    "Autonome Grenzbildung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        223,
+        286
+      ]
+    },
+    "Erhaltung und Dissipation als kreative Spannung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Layered Simulations / Nested Worlds": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        192,
+        200,
+        284
+      ]
+    },
+    "Existenz und Nicht-Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Ordnung und Chaos": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        52,
+        254,
+        329,
+        355
+      ]
+    },
+    "Autonomie und Abhängigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Bewusstsein und Reflexion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Veränderung und Stillstand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Information und Bedeutung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        248
+      ]
+    },
+    "Kommunikation und Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Zeit und Kausalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        137,
+        343
+      ]
+    },
+    "Energie und Entropie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        153,
+        166,
+        254
+      ]
+    },
+    "Identität und Differenzierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Realitätsschichten und Wahrnehmung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Wille und Handlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Systemgrenzen und Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Emergenz": {
+      "n": 28,
+      "n_including_compounds": 36,
+      "lines": [
+        15,
+        19,
+        27,
+        34,
+        36,
+        37,
+        38,
+        50,
+        57,
+        64,
+        139,
+        148,
+        201,
+        245,
+        261,
+        274,
+        276,
+        281,
+        284,
+        288,
+        292,
+        306,
+        310,
+        316,
+        320,
+        328,
+        377,
+        379,
+        383
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        19,
+        52,
+        221,
+        227,
+        232,
+        246,
+        261,
+        275,
+        286,
+        299,
+        310,
+        320,
+        331,
+        344,
+        377,
+        383
+      ]
+    },
+    "Realitätsschichten": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        189,
+        198,
+        284,
+        300,
+        304,
+        343,
+        374
+      ]
+    },
+    "Autopoiesis": {
+      "n": 26,
+      "n_including_compounds": 28,
+      "lines": [
+        108,
+        116,
+        119,
+        224,
+        230,
+        232,
+        234,
+        235,
+        246,
+        264,
+        279,
+        286,
+        307,
+        322,
+        331,
+        333,
+        375,
+        385,
+        451,
+        452,
+        461,
+        518
+      ]
+    },
+    "Rand des Chaos": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        50,
+        52,
+        247,
+        261,
+        342
+      ]
+    },
+    "Edge of Chaos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        275
+      ]
+    },
+    "Dissipative Strukturen": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        156,
+        163,
+        167,
+        282,
+        342
+      ]
+    },
+    "Free Energy Principle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        282,
+        481
+      ]
+    },
+    "Perkolationstheorie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        92,
+        99,
+        103,
+        278
+      ]
+    },
+    "Punktuiertes Gleichgewicht": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        100,
+        264,
+        278
+      ]
+    },
+    "Many-Worlds-Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Higher-Order Theories": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        277,
+        432
+      ]
+    },
+    "Strange Attractors": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        176,
+        187,
+        283,
+        375,
+        491
+      ]
+    },
+    "Operationale Schließung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        234,
+        286
+      ]
+    }
+  }
+}

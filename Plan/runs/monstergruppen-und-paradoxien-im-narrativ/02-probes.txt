@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      17
+  backslash escapes      110
+  typographic marks      35
+  ascii quotes           114
+
+# inflection families -- one term, several surfaces
+  monst    Monster, Monsterbedrohung, Monsterfiguren, Monsterforscher, Monstergruppe, Monstergruppen, Monsterkonzepts, Monstern, Monsters, Monstrosity, Monstrosität, Monstrous, Monströse, Monströsen
+  parad    Paradebeispiel, Paradox, Paradoxa, Paradoxe, Paradoxen, Paradoxes, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  erzäh    Erzählen, Erzählens, Erzähler, Erzählern, Erzählgeschichte, Erzählstruktur, Erzählung, Erzählungen
+  spiel    Spiel, Spieleentwickler, Spielen, Spieler, Spielercharakters, Spielereien, Spiels, Spielwelt
+  verst    Verstand, Verstehens, Verständigung, Verständnis, Verständnisses, Verständnissystems, Verstärkung, Verstümmelung
+  mensc    Mensch, Menschen, Menschenverstand, Menschheit, Menschlichen, Menschlichkeit, Menschsein
+  inter    Interessanterweise, Interesting, International, Internet, Interpretation, Interpretationen
+  ander    Andere, Anderem, Anderer, Andersartigkeit, Anderson
+  grenz    Grenze, Grenzen, Grenzgänger, Grenzüberschreitung, Grenzüberschreitungen
+  körpe    Körper, Körperlichkeit, Körpermerkmalen, Körpers, Körperteilen
+  publi    Publikum, Publikums, Publikumsreaktion, Publikumswirkung, Publishers
+  unter    Unterdrückung, Unterscheidungen, Unterschied, Unterschiede, Unterwasserstadt
+  zusam    Zusammenbruch, Zusammenfassend, Zusammenfassung, Zusammenspiel, Zusammenspiels
+  abwei    Abweichende, Abweichenden, Abweichung, Abweichungen
+  chara    CharacterRant, Charaktere, Charakterentwicklung, Charakters
+  ersch    Erschaffen, Erschaffung, Erscheinung, Erscheinungsformen
+  gesch    Geschichte, Geschichten, Geschöpf, Geschöpfs
+  handl    Handlung, Handlungsfreiheit, Handlungsfähigkeit, Handlungsleitende
+  horro    Horror, Horrorerzeugung, Horrorgenre, Horrors
+  intel    Intellekt, Intellektuelle, Intelligenz, Intelligenzen
+  kreat    Kreative, Kreativen, Kreatur, Kreaturen
+  metap    Metapher, Metaphern, Metaphors, Metaphysische
+  physi    Physics, Physis, Physisch, Physische
+  proje    Projekt, Projekte, Projekten, Projekts
+  schre    Schrecken, Schreckens, Schreckensgestalt, Schreckensgestalten
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Bauchgefühl
+  Auch < Taucheranzug
+  Auch < Gesamtverbrauch
+  Bild < Bildung
+  Bild < Weltbild
+  Bild < Missbildung
+  Böse < Bösem
+  Böse < Böses
+  Dies < Diese
+  Dies < Dieser
+  Dies < Daddies
+  Dies < Studies
+  Film < Filme
+  Film < Films
+  Film < Filmen
+  Film < AntiFilm
+  Film < TrueFilm
+  Film < Filmemacher
+  Form < Formen
+  Form < Deformation

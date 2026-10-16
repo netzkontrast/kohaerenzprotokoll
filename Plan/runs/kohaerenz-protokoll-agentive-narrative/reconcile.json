@@ -1,0 +1,113 @@
+{
+  "document": "kohaerenz-protokoll-agentive-narrative",
+  "drive_id": "1owe7uOMZe--SNvvgyP9qTSA4ca1Co8jayRA29w6MQms",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-513/brief.md, 2026-10-14; first held by the privacy screen on the word shadow in reference titles on shadow work, released on re-screening",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 76,
+    "decided_by_lookup": 58,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An architecture for an interactive, agent-driven version of the story: its new surfaces are its schema, state variables, prompt cascade, overseer and UI; what it models for AEGIS, Kael, Juna/V and the four reality levels went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        57,
+        62,
+        92,
+        302
+      ],
+      "attribution": "",
+      "note": "AEGIS as a layer, a damage model and a state variable of a software design"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        57,
+        62,
+        102,
+        303
+      ],
+      "attribution": "",
+      "note": "Juna/V as the ontological layer of a design proposal"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        57,
+        62,
+        80,
+        299
+      ],
+      "attribution": "",
+      "note": "Kael as the psychological layer of a design proposal"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        525
+      ],
+      "attribution": "",
+      "note": "four layers, each given its own interface"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz Protokoll` the project name; `Emergenz` in a table cell and `Simulation` of play-throughs occurrences; the report's state variables and UI modes its own design, never the novel's facts; names of people never written",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 62,
+      "decision": "occurrence",
+      "why": "a cell of the Dramatica table"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 525,
+      "decision": "reading",
+      "why": "the four layers as reality levels; read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 435,
+      "decision": "occurrence",
+      "why": "simulation of automated play-throughs"
+    }
+  ],
+  "not_promoted": [
+    "NCP, the state variables, interferenceRules, the prompt cascade, the dramaturgic overseer, Das Fundament as a layer, the UI modes, the build phases, and the borrowed concepts (several named after people)"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

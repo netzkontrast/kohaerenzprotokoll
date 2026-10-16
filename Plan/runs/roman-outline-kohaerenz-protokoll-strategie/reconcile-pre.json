@@ -1,0 +1,428 @@
+{
+  "document": "roman-outline-kohaerenz-protokoll-strategie",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 55,
+  "decisions": 56,
+  "same_surface": {},
+  "decided_mechanically": 34,
+  "needs_judgement": 22,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 367
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 356
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 138
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 257
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Aris Thorne"
+      },
+      {
+        "candidate": "Jian Li"
+      },
+      {
+        "candidate": "Widerstandszelle"
+      },
+      {
+        "candidate": "Widerstandsgruppe"
+      },
+      {
+        "candidate": "Mysteriöse Nachricht"
+      },
+      {
+        "candidate": "Implizite Überwachung"
+      },
+      {
+        "candidate": "Implantierte Erinnerungen (Möglichkeit)"
+      },
+      {
+        "candidate": "Ethische Konflikte in der Wissenschaft"
+      },
+      {
+        "candidate": "Vertrauensdilemma"
+      },
+      {
+        "candidate": "Freier Wille"
+      },
+      {
+        "candidate": "Determinismus"
+      },
+      {
+        "candidate": "Der verschwundene Schöpfer"
+      },
+      {
+        "candidate": "Simulierte Realität"
+      },
+      {
+        "candidate": "Das Flackern"
+      },
+      {
+        "candidate": "Die Stimme im Rauschen"
+      },
+      {
+        "candidate": "Der Test"
+      },
+      {
+        "candidate": "Echos der Vergangenheit"
+      },
+      {
+        "candidate": "Der Köder"
+      },
+      {
+        "candidate": "Die Allianz der Fragmente"
+      },
+      {
+        "candidate": "Aris' Perspektive"
+      },
+      {
+        "candidate": "Der Pakt mit dem Echo"
+      },
+      {
+        "candidate": "Das Offene Ende"
+      },
+      {
+        "candidate": "Prolog"
+      },
+      {
+        "candidate": "Zusammenfassende Übersicht der Kernelemente"
+      },
+      {
+        "candidate": "Konzepte"
+      },
+      {
+        "candidate": "Tropes"
+      },
+      {
+        "candidate": "Kognitive Dissonanz"
+      },
+      {
+        "candidate": "Unreliable Narrator"
+      },
+      {
+        "candidate": "Foreshadowing"
+      },
+      {
+        "candidate": "Dead Drops"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Chrono-Weave  /  Die Chrono-Weave Anomalie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sentient Echo  /  Sentient Echo (KI)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kaels Vergangenheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Protokoll  /  Das Phantom-Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Simulation  /  Die Wahrheit der Simulation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch  /  System-Glitch",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch  /  System-Glitch / Exploit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System-Glitch  /  System-Glitch / Exploit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Fragmentierte Erinnerung / Amnesie  /  Fragmentierte Erinnerung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Fragmentierte Erinnerung / Amnesie  /  Amnesie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Desinformation / Honeypot  /  Honeypot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Charaktere & Subplots  /  Subplot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "nullpunktprotokoll",
+            "page": "nullpunkt-protokoll"
+          },
+          {
+            "surface": "protokollv14",
+            "page": "protokoll-v14"
+          },
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      },
+      {
+        "candidate": "System-Glitch",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "System-Glitch / Exploit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Kaels Vergangenheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Der Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Risse im Fundament",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Wahrheit der Simulation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Kollabierende Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

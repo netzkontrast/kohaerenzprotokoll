@@ -1,0 +1,92 @@
+{
+  "document": "aegis-seele-und-entropie",
+  "drive_id": "15Vynp53rf5tt3D6pKMecHHzuOdu1BjyKyF9cjEiqKCQ",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one C16 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-409/brief.md, 2026-10-13; the document was first held back by a privacy screen on the word „Paar“ and released when every hit proved to be the novel's „Seelenpaar“",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 40,
+    "decided_by_lookup": 34,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis of a hypothetical meeting of Aegis with a transcendent Seelenpaar: its new surfaces are its own labels and borrowed concepts; what it argues of Aegis and its sub-functions went on aegis and aegis-teilfunktionen, and its scenario of a soul fragmented by Aegis on C16.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        132,
+        133
+      ],
+      "attribution": "",
+      "note": "subsystems named in the log it interprets"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        88,
+        108,
+        132,
+        133,
+        138,
+        152,
+        213,
+        217
+      ],
+      "attribution": "",
+      "note": "Aegis in a hypothetical encounter: paradox, reboot, isolation and fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Zero-Trust Execution Model` and `Cognitive Firewall Module` read on aegis-teilfunktionen; `absolute Kohärenz` and `brauchbare Quelle für innere Kohärenz` the report's phrases for the pair; `Fragmentierung` Aegis's act, not the DID page; `Entropiequelle` read on aegis; `Emergenz` a borrowed concept",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Cognitive Firewall",
+      "line": 132,
+      "decision": "reading",
+      "why": "the Cognitive Firewall Module in the log the report interprets, read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 104,
+      "decision": "occurrence",
+      "why": "logical entropy inside Aegis's processing, read on aegis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title's transcendent coherence, the report's general sense"
+    }
+  ],
+  "not_promoted": [
+    "Seelenpaar, Absolute Entropy Event, Consensus Enforcer Module, UNIVERSAL REBOOT PROTOCOL, Entropiequelle, ontologische Kontamination, Selbstproduktion, Organisationale Schließung, Strukturelle Kopplung, and the borrowed concepts"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

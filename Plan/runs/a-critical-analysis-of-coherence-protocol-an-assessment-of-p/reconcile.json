@@ -1,0 +1,118 @@
+{
+  "document": "a-critical-analysis-of-coherence-protocol-an-assessment-of-p",
+  "drive_id": "16_lZHXre_zxe_4gk8kKFdk2M3wNcF0CWDsBDrW2NpLk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-476/brief.md, 2026-10-14; the document was first held by the privacy screen on the word shadow and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 38,
+    "decisions": 39,
+    "decided_by_lookup": 36,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English critical review in questions: its new surfaces are its labels, the four axes, Das Fundament and the table's headings; what it reports and asks of Kael, AEGIS, Juna, the Risse, TSDP, DID, the Kernwelten and the Trennungsprotokoll went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        55,
+        59
+      ],
+      "attribution": "",
+      "note": "AEGIS's origin as a misread internal event, asked as a question"
+    },
+    {
+      "page": "did",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "a respectful and credible depiction of DID, as a listed triumph"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "Juna/V as external connection, and the mechanism asked for"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        23,
+        27,
+        37,
+        41
+      ],
+      "attribution": "",
+      "note": "the unified protagonist asked as a risk of one-to-one allegory"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the Kernwelten named once in the external conflict"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "the cracks and the question of a type-to-type mechanism"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [],
+      "attribution": "",
+      "note": "the Trennungsprotokoll in the summary of AEGIS's origin"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "TSDP named as the source of the world's instability"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Genesis-Krise` read on aegis, not the genesis page's term; `Simulation` in a heading's general sense; the German terms in straight quotes reported from the review's sources",
+  "sweep": [
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "the heading's general sense"
+    }
+  ],
+  "not_promoted": [
+    "Critical Question, critical review, the four axes, Das Fundament, Conceptual Triumphs, Structural Risks, and the borrowed concepts"
+  ],
+  "internal_tension": "none: it reports a critical review's doubts beside its own verdict of triumph (L27, L63, L69) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

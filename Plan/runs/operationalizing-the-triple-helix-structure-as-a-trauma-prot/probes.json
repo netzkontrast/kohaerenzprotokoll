@@ -1,0 +1,77 @@
+{
+  "document": "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
+  "drive_id": "1Xw6rMFaRYEanfM2B3sUezhZhhg9jXZmE1p0y-wTR4fA",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 4,
+  "backslash_escapes": 28,
+  "typographic_marks": 14,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrator"
+    ],
+    "drama": [
+      "Dramatize",
+      "Dramatizing"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational"
+    ],
+    "intro": [
+      "Introduce",
+      "Introduction"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "mecha": [
+      "Mechanic",
+      "Mechanics"
+    ],
+    "opera": [
+      "Operationalize",
+      "Operationalizing"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "stabi": [
+      "Stability",
+      "Stabilization"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Mechanic",
+      "Mechanics"
+    ],
+    [
+      "Foundation",
+      "Foundational"
+    ]
+  ]
+}

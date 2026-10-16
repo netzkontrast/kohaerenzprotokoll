@@ -1,0 +1,431 @@
+{
+  "document": "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
+  "drive_id": "1Xw6rMFaRYEanfM2B3sUezhZhhg9jXZmE1p0y-wTR4fA",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Triple Helix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "performative architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Three-Act Integration Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "39-Story Narrative Mosaic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        46
+      ]
+    },
+    "System Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        31,
+        38,
+        52,
+        77,
+        101
+      ]
+    },
+    "Kael": {
+      "n": 33,
+      "n_including_compounds": 33,
+      "lines": [
+        19,
+        23,
+        27,
+        31,
+        38,
+        39,
+        40,
+        46,
+        52,
+        53,
+        54,
+        58,
+        64,
+        68,
+        76,
+        77,
+        87,
+        89,
+        90,
+        91,
+        101,
+        108,
+        109,
+        113
+      ]
+    },
+    "AEGIS": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        23,
+        27,
+        31,
+        40,
+        58,
+        64,
+        68,
+        74,
+        95,
+        101,
+        109,
+        113
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Kernwelten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        74,
+        76,
+        90
+      ]
+    },
+    "Kernwelt": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        68,
+        74,
+        76,
+        90
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Riss im Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        91
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        91
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        77
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        95
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        76,
+        77
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        75,
+        76,
+        77,
+        95
+      ]
+    },
+    "Emotional Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "ANP-EP Phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Riss": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        75
+      ]
+    },
+    "6 Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "irreversible costs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        95
+      ]
+    },
+    "The Foundation": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        107
+      ]
+    },
+    "subtle symmetries": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "The Gardener": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Stabilization": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        21,
+        38,
+        66
+      ]
+    },
+    "Confrontation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        25,
+        39,
+        99
+      ]
+    },
+    "Integration": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        19,
+        29,
+        40,
+        99
+      ]
+    },
+    "Cyclical Structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "psycho-architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "ontological shock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Psychological Degradation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "External World Decay": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Relational Erosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Heroine's Journey": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        23,
+        38,
+        64
+      ]
+    },
+    "Hero's Journey": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        31,
+        40,
+        101
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    }
+  }
+}

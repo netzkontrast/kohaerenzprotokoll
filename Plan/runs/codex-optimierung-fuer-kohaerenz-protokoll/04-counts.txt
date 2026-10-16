@@ -1,0 +1,81 @@
+# counts for 47 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             12 word    13 in   [26, 38, 94, 111, 133, 150]
+                                    1      as Kaels
+  AEGIS                            32 word    33 in   [15, 38, 50, 62, 63, 96]
+                                    1      as AEGIS-Projektion
+  Juna                              3 word     3 in   [38, 112, 139]
+  Kael System                       3 word     3 in   [94, 111, 534]
+  Der Wächter                       4 word     4 in   [318, 329, 337, 370]
+  Wächter                           7 word     8 in   [138, 318, 324, 329, 337, 370]
+                                    1      as Wächters
+  Das Kind                          6 word     6 in   [409, 415, 420, 428, 471, 510]
+  Anteil                           41 word    60 in   [26, 30, 31, 32, 34, 38]
+                                    4      as Anteile
+                                    2      as Anteils
+                                    1      as Anteilen
+                                    1      as Anteils-Einträge
+  Anteile                           4 word     5 in   [26, 38, 60, 534, 550]
+                                    1      as Anteilen
+  ANP                               5 word     5 in   [30, 132, 318, 341, 371]
+  EP                                7 word     7 in   [30, 101, 111, 132, 409, 432]
+  Anscheinend Normale Persönlichkeit    1 word     1 in   [30]
+  Emotionale Persönlichkeit         1 word     1 in   [30]
+  TSDP-System                       1 word     1 in   [30]
+  TSDP-Dynamiken                    2 word     2 in   [50, 62]
+  TSDP-basiert                      1 word     1 in   [15]
+  TSDP-Rolle                        1 word     1 in   [284]
+  Kernwelt                         16 word    18 in   [43, 44, 63, 95, 101, 113]
+                                    1      as Kernwelt-Eintrag
+                                    1      as Kernwelten
+  Kernwelten                        1 word     1 in   [550]
+  Kernwelt B                        6 word     6 in   [409, 415, 420, 450, 488, 510]
+  Welt B                            2 word     2 in   [513, 515]
+  Co₁                              10 word    10 in   [43, 101, 113, 318, 324, 329]
+  McL                               1 word     1 in   [43]
+  Ly                                1 word     1 in   [43]
+  Riss                             12 word    20 in   [46, 59, 113, 142, 147, 225]
+                                    6      as Risse
+                                    1      as Rissen
+                                    1      as Risses
+  Risse                             6 word     8 in   [46, 113, 142, 147, 297, 353]
+                                    1      as Rissen
+                                    1      as Risses
+  Paradoxon X                      21 word    21 in   [50, 62, 96, 103, 114, 145]
+  Fundaments                        1 word     1 in   [50]
+  Fundament                         1 word     2 in   [50, 114]
+                                    1      as Fundaments
+  Cache Kohärenz                    1 word     1 in   [50]
+  Switching                         1 word     1 in   [50]
+  Co-Präsenz                        1 word     1 in   [50]
+  Heldinnenreise                    1 word     1 in   [25]
+  Heldenreise                       2 word     2 in   [25, 61]
+  Novelcrafter                     22 word    26 in   [15, 79, 89, 90, 103, 159]
+                                    2      as Novelcrafter-Funktionen
+                                    1      as Novelcrafter-Funktion
+                                    1      as Novelcrafter-Begriffe
+                                    1      as novelcrafter-review
+  Codex                            13 word    55 in   [11, 15, 19, 68, 70, 76]  <-- substring
+                                   14      as Codex-Struktur
+                                    9      as Codex-Eintrag
+                                    7      as Codex-Einträge
+                                    3      as Codex-Daten
+  Custom Details                   15 word    15 in   [78, 89, 103, 121, 123, 125]
+  Master-Prompt                     6 word    16 in   [15, 89, 159, 163, 165, 265]  <-- substring
+                                    5      as Master-Prompt-Struktur
+                                    2      as Master-Prompts
+                                    1      as Master-Prompt-Vorlage
+                                    1      as Master-Prompt-Strategie
+  Voice Sheet                       1 word     2 in   [116, 552]
+  Scene Beat Completion             2 word     2 in   [163, 165]
+  Lore                              8 word     8 in   [103, 114, 145, 358, 440, 460]
+  Style Guide                       5 word     5 in   [116, 117, 153, 182, 271]
+  Genre Guide                       3 word     3 in   [152, 181, 271]
+  Minimal Sufficiency               1 word     1 in   [276]
+  Minimalität                       4 word     5 in   [77, 87, 88, 270, 527]
+                                    1      as Minimalitätsstrategie
+  Suffizienz                        3 word     3 in   [76, 88, 527]
+  KI-Zugänglichkeit                 3 word     3 in   [78, 89, 527]

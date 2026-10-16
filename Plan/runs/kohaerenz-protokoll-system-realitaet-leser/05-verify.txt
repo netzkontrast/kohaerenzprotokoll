@@ -1,0 +1,118 @@
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Die Analyse belegt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Analyse belegt` ^[kohaerenz-protokoll-system-realitaet-leser.md:#1]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Wie die DKT beweist"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wie die DKT beweist` ^[kohaerenz-protokoll-system-realitaet-leser.md:#1]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Aus der Perspektive"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Aus der Perspektive` ^[kohaerenz-protokoll-system-realitaet-leser.md:#2]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[kohaerenz-protokoll-system-realitaet-leser.md:#0]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "nichts Rauschen"
+whole word, case-sensitive     10
+whole word, case-insensitive   12
+including compounds            10
+
+`nichts Rauschen` ^[kohaerenz-protokoll-system-realitaet-leser.md:#10]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   12
+including compounds            2
+
+`Nichts Rauschen` ^[kohaerenz-protokoll-system-realitaet-leser.md:#2]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Nichts-Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts-Rauschen` ^[kohaerenz-protokoll-system-realitaet-leser.md:#1]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Story Mind"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Story Mind` ^[kohaerenz-protokoll-system-realitaet-leser.md:#8]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "Inequity"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Inequity` ^[kohaerenz-protokoll-system-realitaet-leser.md:#8]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "ANP"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`ANP` ^[kohaerenz-protokoll-system-realitaet-leser.md:#7]
+$ read.py kohaerenz-protokoll-system-realitaet-leser --count "EP"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            10
+
+`EP` ^[kohaerenz-protokoll-system-realitaet-leser.md:#7]
+$ python3 scripts/profile.py (lines, escapes)
+# kohaerenz-protokoll-system-realitaet-leser
+  lines                192  (frontmatter ends at 9)
+  body words           4311
+  headings             18   bold-only lines 0
+  table rows           12   code fences 0
+  question marks       10
+  backslash escapes    60
+  typographic marks    18   ascii quotes 68
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    40
+  repeated labels      none
+  longest line         1236 chars
+
+stance_marker_count 4 = 1 + 1 + 2

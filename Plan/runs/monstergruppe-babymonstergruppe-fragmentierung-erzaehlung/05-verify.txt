@@ -1,0 +1,100 @@
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Tabelle"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Tabelle` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#4]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Zweck"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zweck` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#1]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Methodologie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodologie` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#1]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Kernmetapher"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernmetapher` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#1]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Metaphorische Kraft"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Metaphorische Kraft` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#1]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Ideen für die narrative Repräsentation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ideen für die narrative Repräsentation` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#1]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Kael"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            33
+
+`Kael` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#12]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Juna"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            21
+
+`Juna` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#16]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Entfernung"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Entfernung` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#21]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Nebenklassenraum"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            9
+
+`Nebenklassenraum` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#4]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Fragmentierung"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Fragmentierung` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#18]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Alter"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            15
+
+`Alter` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#8]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "DID"
+whole word, case-sensitive     12
+whole word, case-insensitive   13
+including compounds            16
+
+`DID` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#12]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#0]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#0]
+$ python3 scripts/read.py monstergruppe-babymonstergruppe-fragmentierung-erzaehlung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:#1]
+stance_marker_count 5 = 1+1+1+1+1 (Zweck, Methodologie, Kernmetapher, Metaphorische Kraft, Ideen für die narrative Repräsentation)
+43 reference items: L211 to L253
+$ grep -c -E '^[0-9]+\.\s+' Sources/drive/monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md (lines 211 to 253)
+43

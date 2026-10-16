@@ -1,0 +1,74 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an analysis of a proposed framework named AEGIS, in thirteen numbered Spannungsfelder with a Prinzip, Modell and Operation each, then an evaluation of the framework and of its use for narrative projects. It names no figure, place or chapter of a novel. The field labels Prinzip, Modell, Operation, Diskussion and Theoretische Konzepte repeat under every Spannungsfeld and are the template, not terms. Quotation marks around AEGIS terms report the framework's own words as the analysis restates them. The export writes Koheränz for Kohärenz in the framework's names, and keeps them so here. A Spannungsfeld heading names two poles joined by "und"; the table writes them with a slash.
+
+- AEGIS
+- AEGIS Meta-Framework
+- Koheränz der Emergenz
+- Spannungsfeld
+- Spannungsfelder
+- Polaritäten
+- Selbstbestätigung
+- Koheränzpunkte
+- Nullraum
+- quantenlogischen Nullraum
+- Fluktuationskohärenz
+- Metadimensionen
+- Genesis
+- Selbststrukturierung
+- Interaktion
+- Dynamische Achsen
+- Entropische Fluktuation
+- Rekursive Adaptivität
+- Koheränzbildung
+- Emergenzpflicht
+- Rekursive Selbstprüfung
+- Spannungskohärenz
+- Adaptive Modularität
+- Entropische Offenheit
+- Architekturmodell
+- Meta-Knoten
+- Emergenz aus der Leere
+- Dynamische Selbstbalancierung
+- Relationale Emergenz
+- Rekursive Selbstdifferenzierung
+- Phasenstabilität
+- Emergente Semantik aus Rauschen
+- Minimale Kopplung bei maximaler Autonomie
+- Multikausale Emergenzzeit
+- Fraktale Selbstähnlichkeit unter Differenzdruck
+- Verschachtelte Realitätsebenen
+- Aktive Selbstgestaltung
+- Autonome Grenzbildung
+- Erhaltung und Dissipation als kreative Spannung
+- Layered Simulations / Nested Worlds
+- Existenz und Nicht-Existenz
+- Ordnung und Chaos
+- Autonomie und Abhängigkeit
+- Bewusstsein und Reflexion
+- Veränderung und Stillstand
+- Information und Bedeutung
+- Kommunikation und Isolation
+- Zeit und Kausalität
+- Energie und Entropie
+- Identität und Differenzierung
+- Realitätsschichten und Wahrnehmung
+- Wille und Handlung
+- Systemgrenzen und Selbstorganisation
+- Emergenz
+- Selbstorganisation
+- Realitätsschichten
+
+## lens
+
+- Autopoiesis
+- Rand des Chaos
+- Edge of Chaos
+- Dissipative Strukturen
+- Free Energy Principle
+- Perkolationstheorie
+- Punktuiertes Gleichgewicht
+- Many-Worlds-Interpretation
+- Higher-Order Theories
+- Strange Attractors
+- Operationale Schließung

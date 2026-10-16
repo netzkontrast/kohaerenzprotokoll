@@ -1,0 +1,214 @@
+{
+  "document": "kael-uberarbeitung-des-konzepts-unter-tsdp",
+  "drive_id": "1zlRkR-R7VnDx8PYiqPeDqby1ce4cRZE3N_hsXq6Rp4k",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 34,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsweise"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Struktureller",
+      "Strukturen"
+    ],
+    "allta": [
+      "Alltagsbewältigung",
+      "Alltagsfassade",
+      "Alltagsfunktionieren",
+      "Alltagslebens"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdynamiken",
+      "Konflikte",
+      "Konflikten"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systems",
+      "Systemstruktur"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseinsmangel"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollen",
+      "Kontrollmethoden"
+    ],
+    "reakt": [
+      "Reaktion",
+      "Reaktionen",
+      "Reaktionsmuster"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumatisierung"
+    ],
+    "versc": [
+      "Verschiedene",
+      "Verschlimmerung",
+      "Verschmelzung"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustandswechsel",
+      "Zustandswechseln"
+    ],
+    "bedür": [
+      "Bedürfnisse",
+      "Bedürftigkeit"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsbedürfnissen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser"
+    ],
+    "emoti": [
+      "Emotionale",
+      "Emotionen"
+    ],
+    "fluch": [
+      "Flucht",
+      "Fluchtstrategie"
+    ],
+    "forts": [
+      "Fortschreiten",
+      "Fortschritt"
+    ],
+    "fähig": [
+      "Fähigkeit",
+      "Fähigkeiten"
+    ],
+    "grenz": [
+      "Grenzen",
+      "Grenzfeste"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsfähigkeit"
+    ],
+    "harmo": [
+      "Harmonie",
+      "Harmoniestreben"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsziel"
+    ],
+    "kompl": [
+      "Komplexen",
+      "Komplexität"
+    ],
+    "logik": [
+      "Logik",
+      "Logiker"
+    ],
+    "manif": [
+      "Manifestation",
+      "Manifestationen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Bewusstseinsmangel"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Teilen"
+    ],
+    [
+      "Teil",
+      "Aufteilung"
+    ],
+    [
+      "Type",
+      "Archetypen"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Zeit",
+      "Langzeitperspektive"
+    ],
+    [
+      "Ziel",
+      "Integrationsziel"
+    ],
+    [
+      "Diese",
+      "Dieser"
+    ],
+    [
+      "Folge",
+      "Schlussfolgerung"
+    ],
+    [
+      "Logik",
+      "Logiker"
+    ],
+    [
+      "Rolle",
+      "Rollen"
+    ],
+    [
+      "Rolle",
+      "Kontrolle"
+    ],
+    [
+      "Rolle",
+      "Kontrollen"
+    ]
+  ]
+}

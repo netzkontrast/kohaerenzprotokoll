@@ -1,0 +1,285 @@
+{
+  "document": "monstergruppe-als-denkmodell-der-komplexitaet",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 43,
+  "decisions": 42,
+  "same_surface": {},
+  "decided_mechanically": 36,
+  "needs_judgement": 6,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 93
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Monstergruppe"
+      },
+      {
+        "candidate": "sporadische Gruppen"
+      },
+      {
+        "candidate": "Sporadizität"
+      },
+      {
+        "candidate": "einfache Gruppe"
+      },
+      {
+        "candidate": "Normalteiler"
+      },
+      {
+        "candidate": "Kompositionsreihe"
+      },
+      {
+        "candidate": "Faktorgruppen"
+      },
+      {
+        "candidate": "Klassifikationssatz der endlichen einfachen Gruppen"
+      },
+      {
+        "candidate": "Enorme Theorem"
+      },
+      {
+        "candidate": "Happy Family"
+      },
+      {
+        "candidate": "Parias"
+      },
+      {
+        "candidate": "Pariah"
+      },
+      {
+        "candidate": "Griess-Algebra"
+      },
+      {
+        "candidate": "Leech-Gitter"
+      },
+      {
+        "candidate": "Jordan-Hölder-Theorem"
+      },
+      {
+        "candidate": "Conway-Norton-Vermutung"
+      },
+      {
+        "candidate": "McKay-Thompson-Reihe"
+      },
+      {
+        "candidate": "Monster-Lie-Algebra"
+      },
+      {
+        "candidate": "No-Ghost-Theorem"
+      },
+      {
+        "candidate": "Vertexoperatoralgebren"
+      },
+      {
+        "candidate": "Orbifold-Konstruktion"
+      },
+      {
+        "candidate": "Friendly Giant"
+      },
+      {
+        "candidate": "Hyperintegration"
+      },
+      {
+        "candidate": "Interne Architektur"
+      },
+      {
+        "candidate": "Intuition-Pumpe"
+      },
+      {
+        "candidate": "Meta-Metapher"
+      },
+      {
+        "candidate": "Rosetta-Steine"
+      },
+      {
+        "candidate": "Automorphismengruppe"
+      },
+      {
+        "candidate": "Konjugationsklassen"
+      },
+      {
+        "candidate": "Platonismus"
+      },
+      {
+        "candidate": "Formalismus"
+      },
+      {
+        "candidate": "Holismus"
+      },
+      {
+        "candidate": "Modularität"
+      },
+      {
+        "candidate": "Integrierte Informationstheorie"
+      },
+      {
+        "candidate": "IIT"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Monstrous Moonshine  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Moonshine-Modul",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Moonshine-Phänomen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Umbral Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Subquotienten  /  Subquotient",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

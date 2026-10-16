@@ -1,0 +1,14 @@
+# roman-outline-kohaerenz-protokoll-strategie
+  lines                373  (frontmatter ends at 9)
+  body words           5617
+  headings             16   bold-only lines 1
+  table rows           24   code fences 0
+  question marks       15
+  backslash escapes    116
+  typographic marks    10   ascii quotes 44
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    17
+  repeated labels      AEGIS Motivation/Strategy x15, Core Theme x15, Kael Motivation/Shift x15, Key Concepts & Discussions x15, Narrative Goals Summary x15, Plot Summary x15, Reader Psychology Focus x15, Setting & Atmosphere Notes x15
+  longest line         626 chars
+

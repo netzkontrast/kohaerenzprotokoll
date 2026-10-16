@@ -1,0 +1,598 @@
+{
+  "document": "parakonsistenz-aegis-und-nicht-existenz",
+  "drive_id": "1fSnaZcWqHPoQ8a0IvyIwSF8L3WOik205SVaLKcgv0Qo",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Aegis": {
+      "n": 70,
+      "n_including_compounds": 84,
+      "lines": [
+        11,
+        37,
+        38,
+        39,
+        45,
+        49,
+        50,
+        51,
+        53,
+        55,
+        212,
+        214,
+        228,
+        229,
+        234,
+        238,
+        240,
+        241,
+        242,
+        244,
+        246,
+        248,
+        258,
+        262,
+        263,
+        264,
+        268,
+        269,
+        281,
+        282,
+        299,
+        301,
+        302,
+        304,
+        306,
+        308,
+        312,
+        314,
+        319,
+        320,
+        322,
+        326,
+        328,
+        329,
+        330,
+        331,
+        339,
+        341,
+        345,
+        347,
+        348,
+        349,
+        350,
+        354,
+        356
+      ]
+    },
+    "Aegis-System": {
+      "n": 0,
+      "n_including_compounds": 5,
+      "lines": [
+        45,
+        53,
+        55,
+        299,
+        354
+      ]
+    },
+    "Aegis-Definition": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        49,
+        50,
+        212,
+        238,
+        240,
+        242,
+        244,
+        339
+      ]
+    },
+    "Aegis-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        349
+      ]
+    },
+    "Wächter": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        39,
+        41,
+        51,
+        306,
+        308,
+        312,
+        319,
+        322,
+        341
+      ]
+    },
+    "Wächterfunktion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        51,
+        319
+      ]
+    },
+    "Grenzwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Existenz": {
+      "n": 15,
+      "n_including_compounds": 24,
+      "lines": [
+        11,
+        27,
+        39,
+        51,
+        74,
+        115,
+        170,
+        306,
+        308,
+        314,
+        319,
+        322,
+        330,
+        331,
+        341
+      ]
+    },
+    "Nicht-Existenz": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        39,
+        51,
+        306,
+        308,
+        314,
+        319,
+        322,
+        341
+      ]
+    },
+    "Nichtsein": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        52,
+        319,
+        324,
+        328,
+        329,
+        330,
+        341,
+        347,
+        348,
+        356
+      ]
+    },
+    "Grenze": {
+      "n": 21,
+      "n_including_compounds": 44,
+      "lines": [
+        39,
+        52,
+        97,
+        238,
+        242,
+        306,
+        312,
+        314,
+        319,
+        320,
+        322,
+        324,
+        328,
+        330,
+        331,
+        339,
+        341,
+        347,
+        348,
+        349,
+        354,
+        356
+      ]
+    },
+    "konstitutiven Widerspruch": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        234,
+        304
+      ]
+    },
+    "Parakonsistente Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Strukturelle Stabilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        302
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        27,
+        87,
+        114,
+        115,
+        121,
+        125,
+        195,
+        302,
+        322,
+        339,
+        341,
+        347,
+        356
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        76,
+        105,
+        107,
+        109,
+        121,
+        141,
+        170,
+        179,
+        190,
+        297,
+        337
+      ]
+    },
+    "Ex contradictione quodlibet": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        27,
+        61,
+        337
+      ]
+    },
+    "ECQ": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        19,
+        22,
+        48,
+        59,
+        61,
+        65,
+        74,
+        96,
+        115,
+        121,
+        128,
+        155,
+        161,
+        179,
+        205,
+        286,
+        337
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        61
+      ]
+    },
+    "Inkonsistenz": {
+      "n": 11,
+      "n_including_compounds": 14,
+      "lines": [
+        47,
+        67,
+        69,
+        74,
+        81,
+        88,
+        123,
+        127,
+        204,
+        301,
+        304,
+        337
+      ]
+    },
+    "Trivialität": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        41,
+        47,
+        50,
+        63,
+        67,
+        69,
+        74,
+        80,
+        160,
+        277,
+        301,
+        302,
+        320,
+        339
+      ]
+    },
+    "Nicht-Trivialität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        50,
+        301,
+        339
+      ]
+    },
+    "Dialetheismus": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        96,
+        105,
+        107,
+        110,
+        117,
+        204,
+        337
+      ]
+    },
+    "Dialetheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        268
+      ]
+    },
+    "Trivialismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Logiken der Formalen Inkonsistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        123,
+        337
+      ]
+    },
+    "LFIs": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        48,
+        123,
+        127,
+        128,
+        129,
+        149,
+        212,
+        286,
+        337,
+        339
+      ]
+    },
+    "Relevanzlogiken": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        151,
+        153,
+        155,
+        161,
+        162,
+        191,
+        212,
+        337
+      ]
+    },
+    "Variablen-Sharing-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160
+      ]
+    },
+    "disjunktiven Syllogismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        161,
+        295
+      ]
+    },
+    "Logic of Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        173,
+        203
+      ]
+    },
+    "LP": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        50,
+        168,
+        173,
+        177,
+        179,
+        180,
+        203,
+        212,
+        244,
+        254,
+        258,
+        263,
+        268,
+        319,
+        337,
+        339,
+        350
+      ]
+    },
+    "First Degree Entailment": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        184,
+        203,
+        412,
+        413,
+        414
+      ]
+    },
+    "FDE": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        50,
+        168,
+        184,
+        188,
+        190,
+        191,
+        203,
+        212,
+        244,
+        254,
+        269,
+        319,
+        337,
+        339,
+        350,
+        414
+      ]
+    },
+    "Connexive Logiken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Konsistenzoperator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        205
+      ]
+    },
+    "C-Systeme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129
+      ]
+    },
+    "parakomplett": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Inclosure Schema": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        242,
+        328
+      ]
+    },
+    "Sorites-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Lügner-Paradox": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        240
+      ]
+    },
+    "Stresstest": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        354
+      ]
+    },
+    "Rache-Paradoxien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        356
+      ]
+    },
+    "Shunyata": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        329
+      ]
+    },
+    "Logischer Pluralismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        350
+      ]
+    },
+    "Mereotopologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        328
+      ]
+    }
+  }
+}

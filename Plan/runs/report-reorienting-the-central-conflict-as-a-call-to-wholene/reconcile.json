@@ -1,0 +1,103 @@
+{
+  "document": "report-reorienting-the-central-conflict-as-a-call-to-wholene",
+  "drive_id": "1Xj9oOUNPss2JQyRxXgfxJDGQ5dhxcRBmd96I-dGZIWk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-482/brief.md, 2026-10-14; the document was first held by the privacy screen on the word shadow and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 44,
+    "decisions": 45,
+    "decided_by_lookup": 40,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English directive report recasting the central conflict as Kael's internal Call to Wholeness: its new surfaces are its labels (Exilant, Herold, Manager, Victory Through Wholeness, algorithmic melancholy), the four axes' terms and the borrowed concepts; what it directs for Kael, Juna, AEGIS and the Moonshine-Link went on existing pages. Its redefinition of Juna/V as Kael's exiled core stands beside earlier exiled-part readings on juna; no new conflict record.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        41,
+        48,
+        55
+      ],
+      "attribution": "",
+      "note": "AEGIS as blind to the Moonshine-Link and undone by a paradox, as a directive"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        18,
+        24,
+        42,
+        53
+      ],
+      "attribution": "",
+      "note": "Juna/V redefined from a separate entity to Kael's exiled core"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        5,
+        22,
+        24,
+        25,
+        26,
+        53,
+        57
+      ],
+      "attribution": "",
+      "note": "the plot reframed as Kael's internal reintegration"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        34,
+        40,
+        41
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a non-local, unbreakable, invisible connection"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` and `leakage of Juna/V's pain` read on juna; `Genesis-Krise` an occurrence, read on juna; `Kohärenz` an occurrence; no person's name written",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 7,
+      "decision": "reading",
+      "why": "`Juna/V` redefined as an exiled part of the protagonist's self; read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 5,
+      "decision": "occurrence",
+      "why": "the title „Kohärenz Protokoll“"
+    }
+  ],
+  "not_promoted": [
+    "Call to Wholeness, Exilant, Herold, Manager, Gedächtnislücken, Ursprungs-Ich, The Foundation, functional multiplicity, Paraiyas, algorithmic melancholy, Victory Through Wholeness, Paradoxical Collapse, the four axes' terms, and the borrowed concepts"
+  ],
+  "internal_tension": "none: the table at L17–L18 states the report's own revision of an earlier conception of Juna/V",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

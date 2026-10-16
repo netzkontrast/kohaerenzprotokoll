@@ -37,6 +37,8 @@ decision files are missing from it or listed here without existing, and
 | `025-dramatica-is-the-recipe.md` | 2026-10-02 | Dramatica is the recipe (W1 A, B as check); the 2026-05-07 dual-storyform model; AEGIS Do-er (C8); Logic B's OS solution; element chains of A and B chosen step by step |
 | `026-the-first-promotion.md` | 2026-10-08 | The first promotion, Kishōtenketsu: a review of the account, not a choice of reading; `status: reviewed` in place, pinned in `Plan/runs/promotions.jsonl`; a later source waits under `## Since review` |
 | `027-term-pages.md` | 2026-10-08 | Term pages in `Wiki/terms/`: a German page for the author, written from a reviewed candidate, every point tagged and evidenced, `[K]` only from an author's decision; `terms.py` checks them, the author approves |
+| `028-held-documents-released.md` | 2026-10-16 | The 70 held documents are released: the early names read but never written, the album and the DIS and personal material in a light pass, reboot-2's gold list retired and the document read afresh; the empty export and the mp3 stay held |
+| `029-mcp-server-on-vercel.md` | 2026-10-16 | The retrieval tools as a read-only FastMCP server on Vercel: search over the landed documents and the wiki, graph retrieval, line windows and quotation checks; the documents' lines go to Vercel behind its login; access by a protection-bypass secret |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

@@ -1,0 +1,14 @@
+# genesis-und-krise-ausfuehrliche-darstellung
+  lines                108  (frontmatter ends at 9)
+  body words           2510
+  headings             2   bold-only lines 16
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    58   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    16
+  repeated labels      none
+  longest line         1025 chars
+

@@ -1,0 +1,62 @@
+# counts for 41 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             48 word    82 in   [15, 17, 21, 23, 25, 29]
+                                   32      as Kaels
+                                    1      as Kael-Juna-Struktur
+                                    1      as Kael-Juna-Bindung
+  Juna                             44 word    61 in   [15, 17, 45, 47, 51, 55]
+                                   15      as Junas
+  Kaels Welt                        2 word     2 in   [23, 169]
+  Kernselbst                        4 word     4 in   [105, 158, 159, 173]
+  Kernaspekt                        6 word     8 in   [77, 85, 123, 170, 171, 174]
+                                    1      as Kernaspekte
+                                    1      as Kernaspekts
+  Trigger                           5 word     9 in   [73, 77, 85, 121, 123, 157]
+                                    2      as Triggerpunkte
+                                    2      as Triggers
+  Kael-Juna-Struktur                1 word     1 in   [145]
+  Monstergruppe                    30 word    47 in   [15, 19, 23, 25, 27, 31]
+  Baby-Monstergruppe               17 word    17 in   [15, 19, 45, 47, 49, 53]
+  Baby Monster                      6 word     6 in   [55, 57, 243, 248, 251, 256]
+  Happy Family                      8 word     8 in   [53, 55, 156, 169, 183, 195]
+  einfache Gruppe                   4 word     4 in   [31, 49, 99]
+  sporadischen Gruppen              4 word     4 in   [53, 181, 183, 221]
+  Paria                             1 word     1 in   [221]
+  Involution                        4 word    21 in   [71, 73, 75, 83, 85, 87]  <-- substring
+                                    3      as Involutionen
+                                    1      as involutions
+  Involutionen                      3 word     8 in   [71, 73, 83, 87, 113, 115]  <-- substring
+  2A                                4 word    21 in   [71, 83, 85, 87, 89, 111]  <-- substring
+  2B                                2 word     2 in   [71, 83]
+  Zentralisator                    13 word    22 in   [75, 77, 83, 85, 89, 111]
+                                    5      as Zentralisatoren
+                                    2      as Zentralisatorstruktur
+                                    1      as Zentralisator-Beziehung
+                                    1      as Zentralisators
+  Zentralisatoren                   5 word     5 in   [75, 113, 117, 174]
+  doppelte Überlagerung             3 word     3 in   [79, 83, 103]
+  maximale Untergruppe              1 word     1 in   [119]
+  Maximale Untergruppen             2 word     2 in   [119]
+  Subquotienten                     2 word     3 in   [53, 156, 183]
+                                    1      as Subquotienten-Status
+  Griess-Algebra                    1 word     1 in   [97]
+  Monster-Vertex-Algebra            1 word     1 in   [98]
+  Conway-Gruppe                     1 word     1 in   [83]
+  Mathieu-Gruppen                   1 word     1 in   [195]
+  Leech-Gitter-Gruppen              1 word     1 in   [195]
+  Gestaltgesetz der Geschlossenheit    1 word     1 in   [131]
+  Architektonischer Schlussstein    1 word     1 in   [135]
+  Biologisches System               1 word     1 in   [139]
+  Structure Mapping Theory          1 word     1 in   [143]
+  dissoziative Identitätsstörung    1 word     1 in   [151]
+  DID                               5 word     5 in   [15, 151, 159, 177]
+  Fragmentierung                   14 word    14 in   [11, 15, 21, 123, 149, 151]
+  Kohärenz                          6 word     6 in   [105, 107, 125, 158, 174, 177]
+  Analogie                         25 word    30 in   [13, 15, 19, 21, 25, 29]
+                                    5      as Analogien
+  Narrative Verbindung              4 word     4 in   [85, 105, 121, 147]
+  Subgruppen-Beziehungsdiagramme    1 word     1 in   [183]
+  Verschleierte Symmetrien          1 word     1 in   [117]

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "mosaik-herz",
+ "title": "Mosaik-Herz",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Bezeichnung für Beat oder Ort",
+  "Unterschied der Kapitelzuordnungen",
+  "Integration als konkrete Handlung",
+  "Fortbestand der einzelnen Stücke",
+  "Vorbereitung der späteren Wendung"
+ ],
+ "basis": {
+  "mosaik-herz": {
+   "title": "Mosaik-Herz",
+   "path": "Wiki/candidates/mosaik-herz.md",
+   "hash": "5ef2aeec85dcd663124e89574b49b509860a62bd5583949d067ae137d369b065"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-mosaik-herz-001",
+   "question": "Welche Bedeutung verbindet das Mosaik-Herz in Kap 11 mit dem späteren Ort oder Ereignis in Kap 34?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-002",
+   "question": "Welche Lesarten auf der Seite zu Mosaik-Herz stützen oder begrenzen „Bezeichnung für Beat oder Ort“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-003",
+   "question": "Welcher Grenzfall würde bei Mosaik-Herz die Annahmen über „Bezeichnung für Beat oder Ort“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-004",
+   "question": "Wer könnte innerhalb des Romans bei Mosaik-Herz etwas über „Bezeichnung für Beat oder Ort“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-005",
+   "question": "Welche konkrete Entscheidung könnte „Bezeichnung für Beat oder Ort“ bei Mosaik-Herz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bezeichnung für Beat oder Ort“ bei Mosaik-Herz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-007",
+   "question": "Wie lässt sich „Bezeichnung für Beat oder Ort“ bei Mosaik-Herz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-008",
+   "question": "Welche Alternativen sollte der Autor bei Mosaik-Herz für „Bezeichnung für Beat oder Ort“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-009",
+   "question": "Was bedeutet bei Mosaik-Herz der Themenpunkt „Unterschied der Kapitelzuordnungen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-010",
+   "question": "Welche Lesarten auf der Seite zu Mosaik-Herz stützen oder begrenzen „Unterschied der Kapitelzuordnungen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-011",
+   "question": "Welcher Grenzfall würde bei Mosaik-Herz die Annahmen über „Unterschied der Kapitelzuordnungen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-012",
+   "question": "Wer könnte innerhalb des Romans bei Mosaik-Herz etwas über „Unterschied der Kapitelzuordnungen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied der Kapitelzuordnungen“ bei Mosaik-Herz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied der Kapitelzuordnungen“ bei Mosaik-Herz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-015",
+   "question": "Wie lässt sich „Unterschied der Kapitelzuordnungen“ bei Mosaik-Herz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-016",
+   "question": "Welche Alternativen sollte der Autor bei Mosaik-Herz für „Unterschied der Kapitelzuordnungen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-017",
+   "question": "Was bedeutet bei Mosaik-Herz der Themenpunkt „Integration als konkrete Handlung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-018",
+   "question": "Welche Lesarten auf der Seite zu Mosaik-Herz stützen oder begrenzen „Integration als konkrete Handlung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-019",
+   "question": "Welcher Grenzfall würde bei Mosaik-Herz die Annahmen über „Integration als konkrete Handlung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-020",
+   "question": "Wer könnte innerhalb des Romans bei Mosaik-Herz etwas über „Integration als konkrete Handlung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-021",
+   "question": "Welche konkrete Entscheidung könnte „Integration als konkrete Handlung“ bei Mosaik-Herz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Integration als konkrete Handlung“ bei Mosaik-Herz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-023",
+   "question": "Wie lässt sich „Integration als konkrete Handlung“ bei Mosaik-Herz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-024",
+   "question": "Welche Alternativen sollte der Autor bei Mosaik-Herz für „Integration als konkrete Handlung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-025",
+   "question": "Was bedeutet bei Mosaik-Herz der Themenpunkt „Fortbestand der einzelnen Stücke“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-026",
+   "question": "Welche Lesarten auf der Seite zu Mosaik-Herz stützen oder begrenzen „Fortbestand der einzelnen Stücke“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-027",
+   "question": "Welcher Grenzfall würde bei Mosaik-Herz die Annahmen über „Fortbestand der einzelnen Stücke“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-028",
+   "question": "Wer könnte innerhalb des Romans bei Mosaik-Herz etwas über „Fortbestand der einzelnen Stücke“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-029",
+   "question": "Welche konkrete Entscheidung könnte „Fortbestand der einzelnen Stücke“ bei Mosaik-Herz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortbestand der einzelnen Stücke“ bei Mosaik-Herz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-031",
+   "question": "Wie lässt sich „Fortbestand der einzelnen Stücke“ bei Mosaik-Herz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-032",
+   "question": "Welche Alternativen sollte der Autor bei Mosaik-Herz für „Fortbestand der einzelnen Stücke“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-033",
+   "question": "Was bedeutet bei Mosaik-Herz der Themenpunkt „Vorbereitung der späteren Wendung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-034",
+   "question": "Welche Lesarten auf der Seite zu Mosaik-Herz stützen oder begrenzen „Vorbereitung der späteren Wendung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-035",
+   "question": "Welcher Grenzfall würde bei Mosaik-Herz die Annahmen über „Vorbereitung der späteren Wendung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-036",
+   "question": "Wer könnte innerhalb des Romans bei Mosaik-Herz etwas über „Vorbereitung der späteren Wendung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-037",
+   "question": "Welche konkrete Entscheidung könnte „Vorbereitung der späteren Wendung“ bei Mosaik-Herz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Vorbereitung der späteren Wendung“ bei Mosaik-Herz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-039",
+   "question": "Wie lässt sich „Vorbereitung der späteren Wendung“ bei Mosaik-Herz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-040",
+   "question": "Welche Alternativen sollte der Autor bei Mosaik-Herz für „Vorbereitung der späteren Wendung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-041",
+   "question": "Wo unterscheiden sich Mosaik-Herz und Multiplizität, wenn man sie unter dem Gesichtspunkt „Bezeichnung für Beat oder Ort“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-042",
+   "question": "Welche Quelle verbindet Mosaik-Herz mit Multiplizität in Bezug auf „Bezeichnung für Beat oder Ort“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-043",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Mosaik-Herz unter „Bezeichnung für Beat oder Ort“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-044",
+   "question": "Wie könnte sich das Wissen über Mosaik-Herz vom Wissen über Multiplizität unterscheiden, wenn „Bezeichnung für Beat oder Ort“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mosaik-Herz und Multiplizität bei „Bezeichnung für Beat oder Ort“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-046",
+   "question": "Falls Mosaik-Herz im Hinblick auf „Bezeichnung für Beat oder Ort“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mosaik-Herz und Multiplizität bei „Bezeichnung für Beat oder Ort“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-048",
+   "question": "Braucht der Roman eine Verbindung von Mosaik-Herz und Multiplizität bei „Bezeichnung für Beat oder Ort“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-049",
+   "question": "In welchem denkbaren Fall könnte Mosaik-Herz bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Bezeichnung für Beat oder Ort“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-050",
+   "question": "Welche Kosten könnte eine Verbindung von Mosaik-Herz und Multiplizität in Bezug auf „Bezeichnung für Beat oder Ort“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-051",
+   "question": "Welche ältere Lesart von Mosaik-Herz oder Multiplizität könnte die Gegenüberstellung unter „Bezeichnung für Beat oder Ort“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mosaik-Herz und Multiplizität unter „Bezeichnung für Beat oder Ort“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mosaik-herz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-053",
+   "question": "Wo unterscheiden sich Mosaik-Herz und Vortex, wenn man sie unter dem Gesichtspunkt „Unterschied der Kapitelzuordnungen“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-054",
+   "question": "Welche Quelle verbindet Mosaik-Herz mit Vortex in Bezug auf „Unterschied der Kapitelzuordnungen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-055",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Mosaik-Herz unter „Unterschied der Kapitelzuordnungen“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-056",
+   "question": "Wie könnte sich das Wissen über Mosaik-Herz vom Wissen über Vortex unterscheiden, wenn „Unterschied der Kapitelzuordnungen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mosaik-Herz und Vortex bei „Unterschied der Kapitelzuordnungen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-058",
+   "question": "Falls Mosaik-Herz im Hinblick auf „Unterschied der Kapitelzuordnungen“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mosaik-Herz und Vortex bei „Unterschied der Kapitelzuordnungen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-060",
+   "question": "Braucht der Roman eine Verbindung von Mosaik-Herz und Vortex bei „Unterschied der Kapitelzuordnungen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-061",
+   "question": "In welchem denkbaren Fall könnte Mosaik-Herz bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Unterschied der Kapitelzuordnungen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-062",
+   "question": "Welche Kosten könnte eine Verbindung von Mosaik-Herz und Vortex in Bezug auf „Unterschied der Kapitelzuordnungen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-063",
+   "question": "Welche ältere Lesart von Mosaik-Herz oder Vortex könnte die Gegenüberstellung unter „Unterschied der Kapitelzuordnungen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mosaik-Herz und Vortex unter „Unterschied der Kapitelzuordnungen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mosaik-herz",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-065",
+   "question": "Wo unterscheiden sich Mosaik-Herz und Kael, wenn man sie unter dem Gesichtspunkt „Integration als konkrete Handlung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-066",
+   "question": "Welche Quelle verbindet Mosaik-Herz mit Kael in Bezug auf „Integration als konkrete Handlung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Mosaik-Herz unter „Integration als konkrete Handlung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-068",
+   "question": "Wie könnte sich das Wissen über Mosaik-Herz vom Wissen über Kael unterscheiden, wenn „Integration als konkrete Handlung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mosaik-Herz und Kael bei „Integration als konkrete Handlung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-070",
+   "question": "Falls Mosaik-Herz im Hinblick auf „Integration als konkrete Handlung“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mosaik-Herz und Kael bei „Integration als konkrete Handlung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-072",
+   "question": "Braucht der Roman eine Verbindung von Mosaik-Herz und Kael bei „Integration als konkrete Handlung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-073",
+   "question": "In welchem denkbaren Fall könnte Mosaik-Herz bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Integration als konkrete Handlung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-074",
+   "question": "Welche Kosten könnte eine Verbindung von Mosaik-Herz und Kael in Bezug auf „Integration als konkrete Handlung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-075",
+   "question": "Welche ältere Lesart von Mosaik-Herz oder Kael könnte die Gegenüberstellung unter „Integration als konkrete Handlung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mosaik-Herz und Kael unter „Integration als konkrete Handlung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mosaik-herz",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-077",
+   "question": "Wo unterscheiden sich Mosaik-Herz und Kohärenz, wenn man sie unter dem Gesichtspunkt „Fortbestand der einzelnen Stücke“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-078",
+   "question": "Welche Quelle verbindet Mosaik-Herz mit Kohärenz in Bezug auf „Fortbestand der einzelnen Stücke“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-079",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von Mosaik-Herz unter „Fortbestand der einzelnen Stücke“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-080",
+   "question": "Wie könnte sich das Wissen über Mosaik-Herz vom Wissen über Kohärenz unterscheiden, wenn „Fortbestand der einzelnen Stücke“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mosaik-Herz und Kohärenz bei „Fortbestand der einzelnen Stücke“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-082",
+   "question": "Falls Mosaik-Herz im Hinblick auf „Fortbestand der einzelnen Stücke“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mosaik-Herz und Kohärenz bei „Fortbestand der einzelnen Stücke“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-084",
+   "question": "Braucht der Roman eine Verbindung von Mosaik-Herz und Kohärenz bei „Fortbestand der einzelnen Stücke“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-085",
+   "question": "In welchem denkbaren Fall könnte Mosaik-Herz bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Fortbestand der einzelnen Stücke“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-086",
+   "question": "Welche Kosten könnte eine Verbindung von Mosaik-Herz und Kohärenz in Bezug auf „Fortbestand der einzelnen Stücke“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-087",
+   "question": "Welche ältere Lesart von Mosaik-Herz oder Kohärenz könnte die Gegenüberstellung unter „Fortbestand der einzelnen Stücke“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mosaik-Herz und Kohärenz unter „Fortbestand der einzelnen Stücke“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mosaik-herz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-089",
+   "question": "Wo unterscheiden sich Mosaik-Herz und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „Vorbereitung der späteren Wendung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-090",
+   "question": "Welche Quelle verbindet Mosaik-Herz mit Ouroboros-Struktur in Bezug auf „Vorbereitung der späteren Wendung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-091",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Mosaik-Herz unter „Vorbereitung der späteren Wendung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-092",
+   "question": "Wie könnte sich das Wissen über Mosaik-Herz vom Wissen über Ouroboros-Struktur unterscheiden, wenn „Vorbereitung der späteren Wendung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mosaik-Herz und Ouroboros-Struktur bei „Vorbereitung der späteren Wendung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-094",
+   "question": "Falls Mosaik-Herz im Hinblick auf „Vorbereitung der späteren Wendung“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mosaik-Herz und Ouroboros-Struktur bei „Vorbereitung der späteren Wendung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-096",
+   "question": "Braucht der Roman eine Verbindung von Mosaik-Herz und Ouroboros-Struktur bei „Vorbereitung der späteren Wendung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-097",
+   "question": "In welchem denkbaren Fall könnte Mosaik-Herz bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „Vorbereitung der späteren Wendung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-098",
+   "question": "Welche Kosten könnte eine Verbindung von Mosaik-Herz und Ouroboros-Struktur in Bezug auf „Vorbereitung der späteren Wendung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-099",
+   "question": "Welche ältere Lesart von Mosaik-Herz oder Ouroboros-Struktur könnte die Gegenüberstellung unter „Vorbereitung der späteren Wendung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-mosaik-herz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mosaik-Herz und Ouroboros-Struktur unter „Vorbereitung der späteren Wendung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mosaik-herz",
+    "ouroboros-struktur"
+   ]
+  }
+ ]
+}

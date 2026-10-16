@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "snk",
+ "title": "SNK — Strukturierte Nicht-Kontrolle",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Bedeutung strukturierter Nicht-Kontrolle",
+  "Grenze von Regel und Freiheit",
+  "Selbstorganisation ohne zentralen Eingriff",
+  "Status als kritisiertes Postulat",
+  "Unterschied zwischen Vertrauen und Passivität"
+ ],
+ "basis": {
+  "snk": {
+   "title": "SNK — Strukturierte Nicht-Kontrolle",
+   "path": "Wiki/candidates/snk.md",
+   "hash": "dd189597054363915e9f5fa42b0ac56d367cb02259de8c6c17d760e8cfde808c"
+  },
+  "ztv": {
+   "title": "ZTV — Vertrauenlose Validierung",
+   "path": "Wiki/candidates/ztv.md",
+   "hash": "ebe6b679678889449e0e08574ef904b486bf135ea2882f0746e327816483ecd8"
+  },
+  "ars": {
+   "title": "ARS — Autopoietische Reentry-Segmentierung",
+   "path": "Wiki/candidates/ars.md",
+   "hash": "99e25ae6bd378660810f3d60d0cc1c498368062b587d57b0c58b21efa805fa50"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-snk-001",
+   "question": "Welche verbindliche Struktur braucht Nicht-Kontrolle, damit SNK nicht bloß den Verzicht auf Verantwortung beschreibt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-002",
+   "question": "Welche Lesarten auf der Seite zu SNK — Strukturierte Nicht-Kontrolle stützen oder begrenzen „Bedeutung strukturierter Nicht-Kontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-003",
+   "question": "Welcher Grenzfall würde bei SNK — Strukturierte Nicht-Kontrolle die Annahmen über „Bedeutung strukturierter Nicht-Kontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-004",
+   "question": "Wer könnte innerhalb des Romans bei SNK — Strukturierte Nicht-Kontrolle etwas über „Bedeutung strukturierter Nicht-Kontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-005",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung strukturierter Nicht-Kontrolle“ bei SNK — Strukturierte Nicht-Kontrolle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung strukturierter Nicht-Kontrolle“ bei SNK — Strukturierte Nicht-Kontrolle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-007",
+   "question": "Wie lässt sich „Bedeutung strukturierter Nicht-Kontrolle“ bei SNK — Strukturierte Nicht-Kontrolle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-008",
+   "question": "Welche Alternativen sollte der Autor bei SNK — Strukturierte Nicht-Kontrolle für „Bedeutung strukturierter Nicht-Kontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-009",
+   "question": "Was bedeutet bei SNK — Strukturierte Nicht-Kontrolle der Themenpunkt „Grenze von Regel und Freiheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-010",
+   "question": "Welche Lesarten auf der Seite zu SNK — Strukturierte Nicht-Kontrolle stützen oder begrenzen „Grenze von Regel und Freiheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-011",
+   "question": "Welcher Grenzfall würde bei SNK — Strukturierte Nicht-Kontrolle die Annahmen über „Grenze von Regel und Freiheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-012",
+   "question": "Wer könnte innerhalb des Romans bei SNK — Strukturierte Nicht-Kontrolle etwas über „Grenze von Regel und Freiheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenze von Regel und Freiheit“ bei SNK — Strukturierte Nicht-Kontrolle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze von Regel und Freiheit“ bei SNK — Strukturierte Nicht-Kontrolle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-015",
+   "question": "Wie lässt sich „Grenze von Regel und Freiheit“ bei SNK — Strukturierte Nicht-Kontrolle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-016",
+   "question": "Welche Alternativen sollte der Autor bei SNK — Strukturierte Nicht-Kontrolle für „Grenze von Regel und Freiheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-017",
+   "question": "Was bedeutet bei SNK — Strukturierte Nicht-Kontrolle der Themenpunkt „Selbstorganisation ohne zentralen Eingriff“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-018",
+   "question": "Welche Lesarten auf der Seite zu SNK — Strukturierte Nicht-Kontrolle stützen oder begrenzen „Selbstorganisation ohne zentralen Eingriff“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-019",
+   "question": "Welcher Grenzfall würde bei SNK — Strukturierte Nicht-Kontrolle die Annahmen über „Selbstorganisation ohne zentralen Eingriff“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-020",
+   "question": "Wer könnte innerhalb des Romans bei SNK — Strukturierte Nicht-Kontrolle etwas über „Selbstorganisation ohne zentralen Eingriff“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-021",
+   "question": "Welche konkrete Entscheidung könnte „Selbstorganisation ohne zentralen Eingriff“ bei SNK — Strukturierte Nicht-Kontrolle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Selbstorganisation ohne zentralen Eingriff“ bei SNK — Strukturierte Nicht-Kontrolle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-023",
+   "question": "Wie lässt sich „Selbstorganisation ohne zentralen Eingriff“ bei SNK — Strukturierte Nicht-Kontrolle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-024",
+   "question": "Welche Alternativen sollte der Autor bei SNK — Strukturierte Nicht-Kontrolle für „Selbstorganisation ohne zentralen Eingriff“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-025",
+   "question": "Was bedeutet bei SNK — Strukturierte Nicht-Kontrolle der Themenpunkt „Status als kritisiertes Postulat“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-026",
+   "question": "Welche Lesarten auf der Seite zu SNK — Strukturierte Nicht-Kontrolle stützen oder begrenzen „Status als kritisiertes Postulat“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-027",
+   "question": "Welcher Grenzfall würde bei SNK — Strukturierte Nicht-Kontrolle die Annahmen über „Status als kritisiertes Postulat“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-028",
+   "question": "Wer könnte innerhalb des Romans bei SNK — Strukturierte Nicht-Kontrolle etwas über „Status als kritisiertes Postulat“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-029",
+   "question": "Welche konkrete Entscheidung könnte „Status als kritisiertes Postulat“ bei SNK — Strukturierte Nicht-Kontrolle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als kritisiertes Postulat“ bei SNK — Strukturierte Nicht-Kontrolle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-031",
+   "question": "Wie lässt sich „Status als kritisiertes Postulat“ bei SNK — Strukturierte Nicht-Kontrolle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-032",
+   "question": "Welche Alternativen sollte der Autor bei SNK — Strukturierte Nicht-Kontrolle für „Status als kritisiertes Postulat“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-033",
+   "question": "Was bedeutet bei SNK — Strukturierte Nicht-Kontrolle der Themenpunkt „Unterschied zwischen Vertrauen und Passivität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-034",
+   "question": "Welche Lesarten auf der Seite zu SNK — Strukturierte Nicht-Kontrolle stützen oder begrenzen „Unterschied zwischen Vertrauen und Passivität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-035",
+   "question": "Welcher Grenzfall würde bei SNK — Strukturierte Nicht-Kontrolle die Annahmen über „Unterschied zwischen Vertrauen und Passivität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-036",
+   "question": "Wer könnte innerhalb des Romans bei SNK — Strukturierte Nicht-Kontrolle etwas über „Unterschied zwischen Vertrauen und Passivität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-037",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Vertrauen und Passivität“ bei SNK — Strukturierte Nicht-Kontrolle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Vertrauen und Passivität“ bei SNK — Strukturierte Nicht-Kontrolle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-039",
+   "question": "Wie lässt sich „Unterschied zwischen Vertrauen und Passivität“ bei SNK — Strukturierte Nicht-Kontrolle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-040",
+   "question": "Welche Alternativen sollte der Autor bei SNK — Strukturierte Nicht-Kontrolle für „Unterschied zwischen Vertrauen und Passivität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-snk-041",
+   "question": "Wo unterscheiden sich SNK — Strukturierte Nicht-Kontrolle und ZTV — Vertrauenlose Validierung, wenn man sie unter dem Gesichtspunkt „Bedeutung strukturierter Nicht-Kontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-042",
+   "question": "Welche Quelle verbindet SNK — Strukturierte Nicht-Kontrolle mit ZTV — Vertrauenlose Validierung in Bezug auf „Bedeutung strukturierter Nicht-Kontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-043",
+   "question": "Welche Grenzen aus der Seite zu ZTV — Vertrauenlose Validierung müsste eine Deutung von SNK — Strukturierte Nicht-Kontrolle unter „Bedeutung strukturierter Nicht-Kontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-044",
+   "question": "Wie könnte sich das Wissen über SNK — Strukturierte Nicht-Kontrolle vom Wissen über ZTV — Vertrauenlose Validierung unterscheiden, wenn „Bedeutung strukturierter Nicht-Kontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen SNK — Strukturierte Nicht-Kontrolle und ZTV — Vertrauenlose Validierung bei „Bedeutung strukturierter Nicht-Kontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-046",
+   "question": "Falls SNK — Strukturierte Nicht-Kontrolle im Hinblick auf „Bedeutung strukturierter Nicht-Kontrolle“ anders festgelegt wird: Welche Aussagen über ZTV — Vertrauenlose Validierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten SNK — Strukturierte Nicht-Kontrolle und ZTV — Vertrauenlose Validierung bei „Bedeutung strukturierter Nicht-Kontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-048",
+   "question": "Braucht der Roman eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und ZTV — Vertrauenlose Validierung bei „Bedeutung strukturierter Nicht-Kontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-049",
+   "question": "In welchem denkbaren Fall könnte SNK — Strukturierte Nicht-Kontrolle bestehen, ohne dass ZTV — Vertrauenlose Validierung dieselbe Funktion übernimmt, und was würde das für „Bedeutung strukturierter Nicht-Kontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-050",
+   "question": "Welche Kosten könnte eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und ZTV — Vertrauenlose Validierung in Bezug auf „Bedeutung strukturierter Nicht-Kontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-051",
+   "question": "Welche ältere Lesart von SNK — Strukturierte Nicht-Kontrolle oder ZTV — Vertrauenlose Validierung könnte die Gegenüberstellung unter „Bedeutung strukturierter Nicht-Kontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von SNK — Strukturierte Nicht-Kontrolle und ZTV — Vertrauenlose Validierung unter „Bedeutung strukturierter Nicht-Kontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "snk",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-snk-053",
+   "question": "Wo unterscheiden sich SNK — Strukturierte Nicht-Kontrolle und ARS — Autopoietische Reentry-Segmentierung, wenn man sie unter dem Gesichtspunkt „Grenze von Regel und Freiheit“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-054",
+   "question": "Welche Quelle verbindet SNK — Strukturierte Nicht-Kontrolle mit ARS — Autopoietische Reentry-Segmentierung in Bezug auf „Grenze von Regel und Freiheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-055",
+   "question": "Welche Grenzen aus der Seite zu ARS — Autopoietische Reentry-Segmentierung müsste eine Deutung von SNK — Strukturierte Nicht-Kontrolle unter „Grenze von Regel und Freiheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-056",
+   "question": "Wie könnte sich das Wissen über SNK — Strukturierte Nicht-Kontrolle vom Wissen über ARS — Autopoietische Reentry-Segmentierung unterscheiden, wenn „Grenze von Regel und Freiheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen SNK — Strukturierte Nicht-Kontrolle und ARS — Autopoietische Reentry-Segmentierung bei „Grenze von Regel und Freiheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-058",
+   "question": "Falls SNK — Strukturierte Nicht-Kontrolle im Hinblick auf „Grenze von Regel und Freiheit“ anders festgelegt wird: Welche Aussagen über ARS — Autopoietische Reentry-Segmentierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten SNK — Strukturierte Nicht-Kontrolle und ARS — Autopoietische Reentry-Segmentierung bei „Grenze von Regel und Freiheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-060",
+   "question": "Braucht der Roman eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und ARS — Autopoietische Reentry-Segmentierung bei „Grenze von Regel und Freiheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-061",
+   "question": "In welchem denkbaren Fall könnte SNK — Strukturierte Nicht-Kontrolle bestehen, ohne dass ARS — Autopoietische Reentry-Segmentierung dieselbe Funktion übernimmt, und was würde das für „Grenze von Regel und Freiheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-062",
+   "question": "Welche Kosten könnte eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und ARS — Autopoietische Reentry-Segmentierung in Bezug auf „Grenze von Regel und Freiheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-063",
+   "question": "Welche ältere Lesart von SNK — Strukturierte Nicht-Kontrolle oder ARS — Autopoietische Reentry-Segmentierung könnte die Gegenüberstellung unter „Grenze von Regel und Freiheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von SNK — Strukturierte Nicht-Kontrolle und ARS — Autopoietische Reentry-Segmentierung unter „Grenze von Regel und Freiheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "snk",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-snk-065",
+   "question": "Wo unterscheiden sich SNK — Strukturierte Nicht-Kontrolle und Multiplizität, wenn man sie unter dem Gesichtspunkt „Selbstorganisation ohne zentralen Eingriff“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-066",
+   "question": "Welche Quelle verbindet SNK — Strukturierte Nicht-Kontrolle mit Multiplizität in Bezug auf „Selbstorganisation ohne zentralen Eingriff“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-067",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von SNK — Strukturierte Nicht-Kontrolle unter „Selbstorganisation ohne zentralen Eingriff“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-068",
+   "question": "Wie könnte sich das Wissen über SNK — Strukturierte Nicht-Kontrolle vom Wissen über Multiplizität unterscheiden, wenn „Selbstorganisation ohne zentralen Eingriff“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen SNK — Strukturierte Nicht-Kontrolle und Multiplizität bei „Selbstorganisation ohne zentralen Eingriff“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-070",
+   "question": "Falls SNK — Strukturierte Nicht-Kontrolle im Hinblick auf „Selbstorganisation ohne zentralen Eingriff“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten SNK — Strukturierte Nicht-Kontrolle und Multiplizität bei „Selbstorganisation ohne zentralen Eingriff“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-072",
+   "question": "Braucht der Roman eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und Multiplizität bei „Selbstorganisation ohne zentralen Eingriff“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-073",
+   "question": "In welchem denkbaren Fall könnte SNK — Strukturierte Nicht-Kontrolle bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Selbstorganisation ohne zentralen Eingriff“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-074",
+   "question": "Welche Kosten könnte eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und Multiplizität in Bezug auf „Selbstorganisation ohne zentralen Eingriff“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-075",
+   "question": "Welche ältere Lesart von SNK — Strukturierte Nicht-Kontrolle oder Multiplizität könnte die Gegenüberstellung unter „Selbstorganisation ohne zentralen Eingriff“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von SNK — Strukturierte Nicht-Kontrolle und Multiplizität unter „Selbstorganisation ohne zentralen Eingriff“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "snk",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-snk-077",
+   "question": "Wo unterscheiden sich SNK — Strukturierte Nicht-Kontrolle und AEGIS, wenn man sie unter dem Gesichtspunkt „Status als kritisiertes Postulat“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-078",
+   "question": "Welche Quelle verbindet SNK — Strukturierte Nicht-Kontrolle mit AEGIS in Bezug auf „Status als kritisiertes Postulat“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von SNK — Strukturierte Nicht-Kontrolle unter „Status als kritisiertes Postulat“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-080",
+   "question": "Wie könnte sich das Wissen über SNK — Strukturierte Nicht-Kontrolle vom Wissen über AEGIS unterscheiden, wenn „Status als kritisiertes Postulat“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen SNK — Strukturierte Nicht-Kontrolle und AEGIS bei „Status als kritisiertes Postulat“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-082",
+   "question": "Falls SNK — Strukturierte Nicht-Kontrolle im Hinblick auf „Status als kritisiertes Postulat“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten SNK — Strukturierte Nicht-Kontrolle und AEGIS bei „Status als kritisiertes Postulat“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-084",
+   "question": "Braucht der Roman eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und AEGIS bei „Status als kritisiertes Postulat“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-085",
+   "question": "In welchem denkbaren Fall könnte SNK — Strukturierte Nicht-Kontrolle bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Status als kritisiertes Postulat“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-086",
+   "question": "Welche Kosten könnte eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und AEGIS in Bezug auf „Status als kritisiertes Postulat“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-087",
+   "question": "Welche ältere Lesart von SNK — Strukturierte Nicht-Kontrolle oder AEGIS könnte die Gegenüberstellung unter „Status als kritisiertes Postulat“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von SNK — Strukturierte Nicht-Kontrolle und AEGIS unter „Status als kritisiertes Postulat“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "snk",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-snk-089",
+   "question": "Wo unterscheiden sich SNK — Strukturierte Nicht-Kontrolle und Kohärenz, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Vertrauen und Passivität“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-090",
+   "question": "Welche Quelle verbindet SNK — Strukturierte Nicht-Kontrolle mit Kohärenz in Bezug auf „Unterschied zwischen Vertrauen und Passivität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-091",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von SNK — Strukturierte Nicht-Kontrolle unter „Unterschied zwischen Vertrauen und Passivität“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-092",
+   "question": "Wie könnte sich das Wissen über SNK — Strukturierte Nicht-Kontrolle vom Wissen über Kohärenz unterscheiden, wenn „Unterschied zwischen Vertrauen und Passivität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen SNK — Strukturierte Nicht-Kontrolle und Kohärenz bei „Unterschied zwischen Vertrauen und Passivität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-094",
+   "question": "Falls SNK — Strukturierte Nicht-Kontrolle im Hinblick auf „Unterschied zwischen Vertrauen und Passivität“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten SNK — Strukturierte Nicht-Kontrolle und Kohärenz bei „Unterschied zwischen Vertrauen und Passivität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-096",
+   "question": "Braucht der Roman eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und Kohärenz bei „Unterschied zwischen Vertrauen und Passivität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-097",
+   "question": "In welchem denkbaren Fall könnte SNK — Strukturierte Nicht-Kontrolle bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Vertrauen und Passivität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-098",
+   "question": "Welche Kosten könnte eine Verbindung von SNK — Strukturierte Nicht-Kontrolle und Kohärenz in Bezug auf „Unterschied zwischen Vertrauen und Passivität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-099",
+   "question": "Welche ältere Lesart von SNK — Strukturierte Nicht-Kontrolle oder Kohärenz könnte die Gegenüberstellung unter „Unterschied zwischen Vertrauen und Passivität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-snk-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von SNK — Strukturierte Nicht-Kontrolle und Kohärenz unter „Unterschied zwischen Vertrauen und Passivität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "snk",
+    "kohaerenz"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-roman-ausarbeitung
+  lines                727  (frontmatter ends at 9)
+  body words           13026
+  headings             39   bold-only lines 1
+  table rows           10   code fences 0
+  question marks       38
+  backslash escapes    107
+  typographic marks    100   ascii quotes 134
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    308
+  repeated labels      none
+  longest line         1375 chars
+

@@ -1,0 +1,130 @@
+{
+  "document": "primzahlen-als-metapher-in-kohaerenz-protokoll",
+  "drive_id": "1Pe92R6_mYAley55hM0kjnBt2W8gBql3IaAmE6vxFIN4",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list — quotes.py --strict flags the census frontmatter title, which carries „Kohärenz Protokoll“ uncited, as earlier censuses with such titles do; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-410/brief.md, 2026-10-13; the document was first held back by a privacy screen on the word „Paar“ and released when the hit proved to be a prime pair",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 33,
+    "decisions": 39,
+    "decided_by_lookup": 27,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An evaluation of prime numbers as a metaphor system for the novel: its new surfaces are its own labels and mathematical concepts; what it restates as background and proposes in its mappings for AEGIS, Kael, Juna, the Moonshine-Link, the Potentialmeer and the Kernwelten went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        25,
+        86,
+        89,
+        97,
+        113
+      ],
+      "attribution": "",
+      "note": "AEGIS as the reductionist side of a proposed prime metaphor"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        24,
+        85,
+        95,
+        98,
+        112
+      ],
+      "attribution": "",
+      "note": "Juna in the proposed prime metaphor"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        24,
+        85,
+        95,
+        98,
+        100,
+        180
+      ],
+      "attribution": "",
+      "note": "Kael as a proposed 'prime' identity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        88
+      ],
+      "attribution": "",
+      "note": "Kernwelten named with the Potentialmeer in proposed mappings"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        24,
+        92,
+        99
+      ],
+      "attribution": "",
+      "note": "Moonshine as the bond of Kael and Juna, and a rarity analogy"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        88,
+        93
+      ],
+      "attribution": "",
+      "note": "Potentialmeer in two proposed mappings"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`M/Kael/Juna` and `Kael/Juna` read on kael and juna; `Moonshine` the bond of Kael and Juna, read on moonshine-link; `Potentialmeer / Kernwelten` read on both pages; `RSA` the cryptosystem, not the Rekursive semantische Autogenese; `Twin Primes` the report's mathematics",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 44,
+      "decision": "occurrence",
+      "why": "emergence in the report's general sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 39,
+      "decision": "occurrence",
+      "why": "levels of reality in the general sense"
+    }
+  ],
+  "not_promoted": [
+    "Monstergruppe (M), Baby-Monster, Kernkonflikt, Simplicity, Complexity, Kernlogik, Fehlklassifikation, Primzahlzwillinge, and the mathematical concepts"
+  ],
+  "internal_tension": "the report names two conflicts of its own metaphor — indivisibility against integration (L162), determinism against emergence (L170) — and proposes a resolution for each (L166, L174); recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ztv",
+ "title": "ZTV — Vertrauenlose Validierung",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Validierung ohne Vertrauen",
+  "Unterschied zwischen externem Beleg und Selbstprüfung",
+  "wechselnde Expansion des Kürzels",
+  "Status des kritisierten Postulats",
+  "Grenze ontologischer Abschottung"
+ ],
+ "basis": {
+  "ztv": {
+   "title": "ZTV — Vertrauenlose Validierung",
+   "path": "Wiki/candidates/ztv.md",
+   "hash": "ebe6b679678889449e0e08574ef904b486bf135ea2882f0746e327816483ecd8"
+  },
+  "ani": {
+   "title": "ANI — Äußere Nicht-Identifikation",
+   "path": "Wiki/candidates/ani.md",
+   "hash": "626a0d92812e0a67660438f5761e6fc59c4a8e9d3a8e017dd9b199027834af19"
+  },
+  "aegis-teilfunktionen": {
+   "title": "AEGIS' four sub-functions",
+   "path": "Wiki/candidates/aegis-teilfunktionen.md",
+   "hash": "496fc252f69f8db127d9cd31a3fe68eda3c577e300ea2c796e2432ad8c222019"
+  },
+  "snk": {
+   "title": "SNK — Strukturierte Nicht-Kontrolle",
+   "path": "Wiki/candidates/snk.md",
+   "hash": "dd189597054363915e9f5fa42b0ac56d367cb02259de8c6c17d760e8cfde808c"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ztv-001",
+   "question": "Welcher Befund könnte AEGIS' vertrauenslose Validierung korrigieren, wenn ein äußerer Beleg gerade nicht als vertrauenswürdig gelten darf?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-002",
+   "question": "Welche Lesarten auf der Seite zu ZTV — Vertrauenlose Validierung stützen oder begrenzen „Validierung ohne Vertrauen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-003",
+   "question": "Welcher Grenzfall würde bei ZTV — Vertrauenlose Validierung die Annahmen über „Validierung ohne Vertrauen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-004",
+   "question": "Wer könnte innerhalb des Romans bei ZTV — Vertrauenlose Validierung etwas über „Validierung ohne Vertrauen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-005",
+   "question": "Welche konkrete Entscheidung könnte „Validierung ohne Vertrauen“ bei ZTV — Vertrauenlose Validierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Validierung ohne Vertrauen“ bei ZTV — Vertrauenlose Validierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-007",
+   "question": "Wie lässt sich „Validierung ohne Vertrauen“ bei ZTV — Vertrauenlose Validierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-008",
+   "question": "Welche Alternativen sollte der Autor bei ZTV — Vertrauenlose Validierung für „Validierung ohne Vertrauen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-009",
+   "question": "Was bedeutet bei ZTV — Vertrauenlose Validierung der Themenpunkt „Unterschied zwischen externem Beleg und Selbstprüfung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-010",
+   "question": "Welche Lesarten auf der Seite zu ZTV — Vertrauenlose Validierung stützen oder begrenzen „Unterschied zwischen externem Beleg und Selbstprüfung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-011",
+   "question": "Welcher Grenzfall würde bei ZTV — Vertrauenlose Validierung die Annahmen über „Unterschied zwischen externem Beleg und Selbstprüfung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-012",
+   "question": "Wer könnte innerhalb des Romans bei ZTV — Vertrauenlose Validierung etwas über „Unterschied zwischen externem Beleg und Selbstprüfung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen externem Beleg und Selbstprüfung“ bei ZTV — Vertrauenlose Validierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen externem Beleg und Selbstprüfung“ bei ZTV — Vertrauenlose Validierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-015",
+   "question": "Wie lässt sich „Unterschied zwischen externem Beleg und Selbstprüfung“ bei ZTV — Vertrauenlose Validierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-016",
+   "question": "Welche Alternativen sollte der Autor bei ZTV — Vertrauenlose Validierung für „Unterschied zwischen externem Beleg und Selbstprüfung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-017",
+   "question": "Was bedeutet bei ZTV — Vertrauenlose Validierung der Themenpunkt „wechselnde Expansion des Kürzels“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-018",
+   "question": "Welche Lesarten auf der Seite zu ZTV — Vertrauenlose Validierung stützen oder begrenzen „wechselnde Expansion des Kürzels“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-019",
+   "question": "Welcher Grenzfall würde bei ZTV — Vertrauenlose Validierung die Annahmen über „wechselnde Expansion des Kürzels“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-020",
+   "question": "Wer könnte innerhalb des Romans bei ZTV — Vertrauenlose Validierung etwas über „wechselnde Expansion des Kürzels“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-021",
+   "question": "Welche konkrete Entscheidung könnte „wechselnde Expansion des Kürzels“ bei ZTV — Vertrauenlose Validierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „wechselnde Expansion des Kürzels“ bei ZTV — Vertrauenlose Validierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-023",
+   "question": "Wie lässt sich „wechselnde Expansion des Kürzels“ bei ZTV — Vertrauenlose Validierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-024",
+   "question": "Welche Alternativen sollte der Autor bei ZTV — Vertrauenlose Validierung für „wechselnde Expansion des Kürzels“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-025",
+   "question": "Was bedeutet bei ZTV — Vertrauenlose Validierung der Themenpunkt „Status des kritisierten Postulats“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-026",
+   "question": "Welche Lesarten auf der Seite zu ZTV — Vertrauenlose Validierung stützen oder begrenzen „Status des kritisierten Postulats“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-027",
+   "question": "Welcher Grenzfall würde bei ZTV — Vertrauenlose Validierung die Annahmen über „Status des kritisierten Postulats“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-028",
+   "question": "Wer könnte innerhalb des Romans bei ZTV — Vertrauenlose Validierung etwas über „Status des kritisierten Postulats“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-029",
+   "question": "Welche konkrete Entscheidung könnte „Status des kritisierten Postulats“ bei ZTV — Vertrauenlose Validierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des kritisierten Postulats“ bei ZTV — Vertrauenlose Validierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-031",
+   "question": "Wie lässt sich „Status des kritisierten Postulats“ bei ZTV — Vertrauenlose Validierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-032",
+   "question": "Welche Alternativen sollte der Autor bei ZTV — Vertrauenlose Validierung für „Status des kritisierten Postulats“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-033",
+   "question": "Was bedeutet bei ZTV — Vertrauenlose Validierung der Themenpunkt „Grenze ontologischer Abschottung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-034",
+   "question": "Welche Lesarten auf der Seite zu ZTV — Vertrauenlose Validierung stützen oder begrenzen „Grenze ontologischer Abschottung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-035",
+   "question": "Welcher Grenzfall würde bei ZTV — Vertrauenlose Validierung die Annahmen über „Grenze ontologischer Abschottung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-036",
+   "question": "Wer könnte innerhalb des Romans bei ZTV — Vertrauenlose Validierung etwas über „Grenze ontologischer Abschottung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze ontologischer Abschottung“ bei ZTV — Vertrauenlose Validierung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze ontologischer Abschottung“ bei ZTV — Vertrauenlose Validierung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-039",
+   "question": "Wie lässt sich „Grenze ontologischer Abschottung“ bei ZTV — Vertrauenlose Validierung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-040",
+   "question": "Welche Alternativen sollte der Autor bei ZTV — Vertrauenlose Validierung für „Grenze ontologischer Abschottung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ztv-041",
+   "question": "Wo unterscheiden sich ZTV — Vertrauenlose Validierung und ANI — Äußere Nicht-Identifikation, wenn man sie unter dem Gesichtspunkt „Validierung ohne Vertrauen“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-042",
+   "question": "Welche Quelle verbindet ZTV — Vertrauenlose Validierung mit ANI — Äußere Nicht-Identifikation in Bezug auf „Validierung ohne Vertrauen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-043",
+   "question": "Welche Grenzen aus der Seite zu ANI — Äußere Nicht-Identifikation müsste eine Deutung von ZTV — Vertrauenlose Validierung unter „Validierung ohne Vertrauen“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-044",
+   "question": "Wie könnte sich das Wissen über ZTV — Vertrauenlose Validierung vom Wissen über ANI — Äußere Nicht-Identifikation unterscheiden, wenn „Validierung ohne Vertrauen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ZTV — Vertrauenlose Validierung und ANI — Äußere Nicht-Identifikation bei „Validierung ohne Vertrauen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-046",
+   "question": "Falls ZTV — Vertrauenlose Validierung im Hinblick auf „Validierung ohne Vertrauen“ anders festgelegt wird: Welche Aussagen über ANI — Äußere Nicht-Identifikation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ZTV — Vertrauenlose Validierung und ANI — Äußere Nicht-Identifikation bei „Validierung ohne Vertrauen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-048",
+   "question": "Braucht der Roman eine Verbindung von ZTV — Vertrauenlose Validierung und ANI — Äußere Nicht-Identifikation bei „Validierung ohne Vertrauen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-049",
+   "question": "In welchem denkbaren Fall könnte ZTV — Vertrauenlose Validierung bestehen, ohne dass ANI — Äußere Nicht-Identifikation dieselbe Funktion übernimmt, und was würde das für „Validierung ohne Vertrauen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-050",
+   "question": "Welche Kosten könnte eine Verbindung von ZTV — Vertrauenlose Validierung und ANI — Äußere Nicht-Identifikation in Bezug auf „Validierung ohne Vertrauen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-051",
+   "question": "Welche ältere Lesart von ZTV — Vertrauenlose Validierung oder ANI — Äußere Nicht-Identifikation könnte die Gegenüberstellung unter „Validierung ohne Vertrauen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ZTV — Vertrauenlose Validierung und ANI — Äußere Nicht-Identifikation unter „Validierung ohne Vertrauen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ztv",
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ztv-053",
+   "question": "Wo unterscheiden sich ZTV — Vertrauenlose Validierung und AEGIS' four sub-functions, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen externem Beleg und Selbstprüfung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-054",
+   "question": "Welche Quelle verbindet ZTV — Vertrauenlose Validierung mit AEGIS' four sub-functions in Bezug auf „Unterschied zwischen externem Beleg und Selbstprüfung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-055",
+   "question": "Welche Grenzen aus der Seite zu AEGIS' four sub-functions müsste eine Deutung von ZTV — Vertrauenlose Validierung unter „Unterschied zwischen externem Beleg und Selbstprüfung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-056",
+   "question": "Wie könnte sich das Wissen über ZTV — Vertrauenlose Validierung vom Wissen über AEGIS' four sub-functions unterscheiden, wenn „Unterschied zwischen externem Beleg und Selbstprüfung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ZTV — Vertrauenlose Validierung und AEGIS' four sub-functions bei „Unterschied zwischen externem Beleg und Selbstprüfung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-058",
+   "question": "Falls ZTV — Vertrauenlose Validierung im Hinblick auf „Unterschied zwischen externem Beleg und Selbstprüfung“ anders festgelegt wird: Welche Aussagen über AEGIS' four sub-functions müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ZTV — Vertrauenlose Validierung und AEGIS' four sub-functions bei „Unterschied zwischen externem Beleg und Selbstprüfung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-060",
+   "question": "Braucht der Roman eine Verbindung von ZTV — Vertrauenlose Validierung und AEGIS' four sub-functions bei „Unterschied zwischen externem Beleg und Selbstprüfung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-061",
+   "question": "In welchem denkbaren Fall könnte ZTV — Vertrauenlose Validierung bestehen, ohne dass AEGIS' four sub-functions dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen externem Beleg und Selbstprüfung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-062",
+   "question": "Welche Kosten könnte eine Verbindung von ZTV — Vertrauenlose Validierung und AEGIS' four sub-functions in Bezug auf „Unterschied zwischen externem Beleg und Selbstprüfung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-063",
+   "question": "Welche ältere Lesart von ZTV — Vertrauenlose Validierung oder AEGIS' four sub-functions könnte die Gegenüberstellung unter „Unterschied zwischen externem Beleg und Selbstprüfung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ZTV — Vertrauenlose Validierung und AEGIS' four sub-functions unter „Unterschied zwischen externem Beleg und Selbstprüfung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ztv",
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-ztv-065",
+   "question": "Wo unterscheiden sich ZTV — Vertrauenlose Validierung und SNK — Strukturierte Nicht-Kontrolle, wenn man sie unter dem Gesichtspunkt „wechselnde Expansion des Kürzels“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-066",
+   "question": "Welche Quelle verbindet ZTV — Vertrauenlose Validierung mit SNK — Strukturierte Nicht-Kontrolle in Bezug auf „wechselnde Expansion des Kürzels“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-067",
+   "question": "Welche Grenzen aus der Seite zu SNK — Strukturierte Nicht-Kontrolle müsste eine Deutung von ZTV — Vertrauenlose Validierung unter „wechselnde Expansion des Kürzels“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-068",
+   "question": "Wie könnte sich das Wissen über ZTV — Vertrauenlose Validierung vom Wissen über SNK — Strukturierte Nicht-Kontrolle unterscheiden, wenn „wechselnde Expansion des Kürzels“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ZTV — Vertrauenlose Validierung und SNK — Strukturierte Nicht-Kontrolle bei „wechselnde Expansion des Kürzels“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-070",
+   "question": "Falls ZTV — Vertrauenlose Validierung im Hinblick auf „wechselnde Expansion des Kürzels“ anders festgelegt wird: Welche Aussagen über SNK — Strukturierte Nicht-Kontrolle müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ZTV — Vertrauenlose Validierung und SNK — Strukturierte Nicht-Kontrolle bei „wechselnde Expansion des Kürzels“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-072",
+   "question": "Braucht der Roman eine Verbindung von ZTV — Vertrauenlose Validierung und SNK — Strukturierte Nicht-Kontrolle bei „wechselnde Expansion des Kürzels“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-073",
+   "question": "In welchem denkbaren Fall könnte ZTV — Vertrauenlose Validierung bestehen, ohne dass SNK — Strukturierte Nicht-Kontrolle dieselbe Funktion übernimmt, und was würde das für „wechselnde Expansion des Kürzels“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-074",
+   "question": "Welche Kosten könnte eine Verbindung von ZTV — Vertrauenlose Validierung und SNK — Strukturierte Nicht-Kontrolle in Bezug auf „wechselnde Expansion des Kürzels“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-075",
+   "question": "Welche ältere Lesart von ZTV — Vertrauenlose Validierung oder SNK — Strukturierte Nicht-Kontrolle könnte die Gegenüberstellung unter „wechselnde Expansion des Kürzels“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ZTV — Vertrauenlose Validierung und SNK — Strukturierte Nicht-Kontrolle unter „wechselnde Expansion des Kürzels“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ztv",
+    "snk"
+   ]
+  },
+  {
+   "id": "RQ-ztv-077",
+   "question": "Wo unterscheiden sich ZTV — Vertrauenlose Validierung und AEGIS, wenn man sie unter dem Gesichtspunkt „Status des kritisierten Postulats“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-078",
+   "question": "Welche Quelle verbindet ZTV — Vertrauenlose Validierung mit AEGIS in Bezug auf „Status des kritisierten Postulats“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von ZTV — Vertrauenlose Validierung unter „Status des kritisierten Postulats“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-080",
+   "question": "Wie könnte sich das Wissen über ZTV — Vertrauenlose Validierung vom Wissen über AEGIS unterscheiden, wenn „Status des kritisierten Postulats“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ZTV — Vertrauenlose Validierung und AEGIS bei „Status des kritisierten Postulats“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-082",
+   "question": "Falls ZTV — Vertrauenlose Validierung im Hinblick auf „Status des kritisierten Postulats“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ZTV — Vertrauenlose Validierung und AEGIS bei „Status des kritisierten Postulats“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-084",
+   "question": "Braucht der Roman eine Verbindung von ZTV — Vertrauenlose Validierung und AEGIS bei „Status des kritisierten Postulats“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-085",
+   "question": "In welchem denkbaren Fall könnte ZTV — Vertrauenlose Validierung bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Status des kritisierten Postulats“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-086",
+   "question": "Welche Kosten könnte eine Verbindung von ZTV — Vertrauenlose Validierung und AEGIS in Bezug auf „Status des kritisierten Postulats“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-087",
+   "question": "Welche ältere Lesart von ZTV — Vertrauenlose Validierung oder AEGIS könnte die Gegenüberstellung unter „Status des kritisierten Postulats“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ZTV — Vertrauenlose Validierung und AEGIS unter „Status des kritisierten Postulats“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ztv",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ztv-089",
+   "question": "Wo unterscheiden sich ZTV — Vertrauenlose Validierung und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Grenze ontologischer Abschottung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-090",
+   "question": "Welche Quelle verbindet ZTV — Vertrauenlose Validierung mit Ontologischer blinder Fleck in Bezug auf „Grenze ontologischer Abschottung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-091",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von ZTV — Vertrauenlose Validierung unter „Grenze ontologischer Abschottung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-092",
+   "question": "Wie könnte sich das Wissen über ZTV — Vertrauenlose Validierung vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Grenze ontologischer Abschottung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ZTV — Vertrauenlose Validierung und Ontologischer blinder Fleck bei „Grenze ontologischer Abschottung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-094",
+   "question": "Falls ZTV — Vertrauenlose Validierung im Hinblick auf „Grenze ontologischer Abschottung“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ZTV — Vertrauenlose Validierung und Ontologischer blinder Fleck bei „Grenze ontologischer Abschottung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-096",
+   "question": "Braucht der Roman eine Verbindung von ZTV — Vertrauenlose Validierung und Ontologischer blinder Fleck bei „Grenze ontologischer Abschottung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-097",
+   "question": "In welchem denkbaren Fall könnte ZTV — Vertrauenlose Validierung bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Grenze ontologischer Abschottung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-098",
+   "question": "Welche Kosten könnte eine Verbindung von ZTV — Vertrauenlose Validierung und Ontologischer blinder Fleck in Bezug auf „Grenze ontologischer Abschottung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-099",
+   "question": "Welche ältere Lesart von ZTV — Vertrauenlose Validierung oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Grenze ontologischer Abschottung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ztv-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ZTV — Vertrauenlose Validierung und Ontologischer blinder Fleck unter „Grenze ontologischer Abschottung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ztv",
+    "blinder-fleck"
+   ]
+  }
+ ]
+}

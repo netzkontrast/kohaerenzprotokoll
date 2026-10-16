@@ -1,0 +1,746 @@
+{
+  "document": "kohaerenz-protokoll-agentive-narrative",
+  "drive_id": "1owe7uOMZe--SNvvgyP9qTSA4ca1Co8jayRA29w6MQms",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 16,
+      "n_including_compounds": 20,
+      "lines": [
+        57,
+        76,
+        80,
+        82,
+        94,
+        104,
+        177,
+        299,
+        300,
+        388,
+        446,
+        519,
+        535,
+        539,
+        544,
+        548
+      ]
+    },
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        57,
+        88,
+        92,
+        94,
+        104,
+        178,
+        301,
+        302,
+        446,
+        520,
+        544,
+        548
+      ]
+    },
+    "Juna/V": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        57,
+        98,
+        102,
+        104,
+        105,
+        303,
+        522,
+        557
+      ]
+    },
+    "Juna": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        57,
+        98,
+        102,
+        104,
+        105,
+        179,
+        303,
+        522,
+        557
+      ]
+    },
+    "Das Fundament": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        57,
+        109,
+        115,
+        523,
+        557
+      ]
+    },
+    "Fundament": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        22,
+        34,
+        57,
+        102,
+        109,
+        115,
+        116,
+        180,
+        304,
+        523,
+        557
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        22,
+        26,
+        51,
+        115,
+        145,
+        349,
+        575,
+        579
+      ]
+    },
+    "Narrative Kontext Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "NCP": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        51,
+        83,
+        128,
+        132,
+        134,
+        294,
+        539
+      ]
+    },
+    "System-Dirigent": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        42,
+        146
+      ]
+    },
+    "System-Dirigenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Theorie der Narrativen Systemik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        34
+      ]
+    },
+    "dramaturgischen Aufseher": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        374
+      ]
+    },
+    "Dramaturgische Aufseher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        370
+      ]
+    },
+    "Aufseher": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        51,
+        370,
+        374,
+        378,
+        404,
+        412,
+        557
+      ]
+    },
+    "Prompt-Kaskade": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        312,
+        323,
+        327,
+        412,
+        474,
+        496,
+        539
+      ]
+    },
+    "worldState": {
+      "n": 14,
+      "n_including_compounds": 16,
+      "lines": [
+        72,
+        161,
+        240,
+        292,
+        294,
+        312,
+        316,
+        319,
+        329,
+        332,
+        382,
+        400,
+        404,
+        416,
+        436,
+        517
+      ]
+    },
+    "interferenceRules": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        72,
+        116,
+        156,
+        304,
+        355,
+        381,
+        449,
+        548,
+        557
+      ]
+    },
+    "interferenceRule": {
+      "n": 3,
+      "n_including_compounds": 12,
+      "lines": [
+        72,
+        116,
+        134,
+        156,
+        159,
+        235,
+        304,
+        355,
+        381,
+        449,
+        548,
+        557
+      ]
+    },
+    "Story Mind": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        42,
+        64
+      ]
+    },
+    "Throughlines": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "State Analysis Prompt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        317,
+        329
+      ]
+    },
+    "Context Compression Prompt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        330,
+        349,
+        353
+      ]
+    },
+    "Narrative Generation Prompt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        331,
+        388
+      ]
+    },
+    "State Update Prompt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        332,
+        382,
+        404,
+        421
+      ]
+    },
+    "activeFocalSystem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        170,
+        355,
+        517
+      ]
+    },
+    "userModel": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        187,
+        416,
+        420,
+        421
+      ]
+    },
+    "narrativeInstruction": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        388,
+        408
+      ]
+    },
+    "Kael.integrationProgress": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        299,
+        388
+      ]
+    },
+    "AEGIS.entropyLevel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "AEGIS.protocolAdherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        302
+      ]
+    },
+    "JunaV.resonanceFrequency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Fundament.activeBinaryOpposition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Psychologische Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        76
+      ]
+    },
+    "Logisch-Systemische Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        88
+      ]
+    },
+    "Ontologische Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        98
+      ]
+    },
+    "Metaphysische Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        109
+      ]
+    },
+    "Semantische Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        400
+      ]
+    },
+    "Kontextfenster-Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        416
+      ]
+    },
+    "Inter-Agenten-Fehlausrichtung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        408
+      ]
+    },
+    "Zustands-Audits": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        404
+      ]
+    },
+    "narrative Gravitationsmechanik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        404
+      ]
+    },
+    "Decaying-Resolution Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        420
+      ]
+    },
+    "Geführter Abruf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        355
+      ]
+    },
+    "Geführte Korrektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        388
+      ]
+    },
+    "Harte Zurückweisung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        387
+      ]
+    },
+    "Hybridarchitektur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        378,
+        577
+      ]
+    },
+    "Constraint Solver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        378
+      ]
+    },
+    "Answer Set Programming": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        378,
+        577,
+        637,
+        640,
+        644,
+        646
+      ]
+    },
+    "ASP": {
+      "n": 2,
+      "n_including_compounds": 9,
+      "lines": [
+        378,
+        382,
+        388,
+        390,
+        400,
+        412,
+        557
+      ]
+    },
+    "clingo": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        380,
+        382,
+        641,
+        642,
+        643
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        351
+      ]
+    },
+    "RAG": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        351,
+        412,
+        507,
+        577,
+        632,
+        633
+      ]
+    },
+    "Desire Paths": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        448
+      ]
+    },
+    "SCORE-Framework": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        435
+      ]
+    },
+    "LangGraph": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        496,
+        502
+      ]
+    },
+    "Redis": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        316,
+        319,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621
+      ]
+    },
+    "MongoDB": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        318,
+        319,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621
+      ]
+    },
+    "Dramatica": {
+      "n": 13,
+      "n_including_compounds": 20,
+      "lines": [
+        38,
+        42,
+        44,
+        53,
+        150,
+        381,
+        438,
+        523,
+        539,
+        577,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592
+      ]
+    },
+    "Jungsche Schattenintegration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Schatten": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        82
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        84,
+        597,
+        598
+      ]
+    },
+    "IFS": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        84,
+        300,
+        596,
+        597
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Firefighter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Exiles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Selbst": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        83,
+        84,
+        300
+      ]
+    },
+    "verwundeten Heilers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94
+      ]
+    },
+    "Morphische Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Transzendentalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Über-Seele": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105
+      ]
+    },
+    "Lévi-Strauss'scher Strukturalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Mythemen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "binären Oppositionen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115
+      ]
+    },
+    "Perceive-Analyze-Plan-Act": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Agent Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        400
+      ]
+    }
+  }
+}

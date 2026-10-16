@@ -1,0 +1,57 @@
+{
+  "document": "projekt-kohaerenz-protokoll-narrative-dekonstruktion",
+  "drive_id": "19-ax4FA2YTkEVj1k99otyL8F1TFUlX4UwHOYwtrppJc",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; two references to the person whose draft the report analyses were reworded before the reconciliation; rlm_ingest not run; light pass, no readings — the report reads a differently built fantasy project of the same title; first held by the privacy screen on the word foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 52,
+    "decided_by_lookup": 40,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report on a project of the same title whose world is a fantasy of binary oppositions with a chosen one named Kael, Morgrath, Valerius, Gorn and a world called Aegis or Fundament: none of this matches the novel's figures or worlds, so its readings stay in the note and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the report's `Kael`, `Aegis` and `Risse im Fundament` belong to a differently built fantasy project of the same title and are not read on the novel's pages; `Protokoll` the project's own; people's names never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "the project's title"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "the differently built project's own heading, not the novel's Risse"
+    }
+  ],
+  "not_promoted": [
+    "Morgrath, Valerius, Gorn, Herz von Sol, Bruchpunkt, Story-Manager, the trope matrix, and the borrowed concepts"
+  ],
+  "internal_tension": "four phases promised (L35) against a three-part structure in the conclusion (L219); 39 tropes named (L60, L124, L128) against five matrix rows — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

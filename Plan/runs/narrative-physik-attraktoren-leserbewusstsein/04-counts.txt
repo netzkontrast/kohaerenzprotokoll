@@ -1,0 +1,116 @@
+# counts for 86 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              6 word    21 in   [66, 68, 70, 103, 119, 121]  <-- substring
+                                   15      as Kaels
+  Juna/V                            4 word     4 in   [119, 121, 132, 281]
+  Juna                              4 word     4 in   [119, 121, 132, 281]
+  AEGIS                            16 word    16 in   [36, 58, 91, 93, 105, 123]
+  Kernwelt                          1 word     2 in   [91]
+                                    1      as Kernwelten
+  Kernwelten                        1 word     1 in   [91]
+  KW1                               2 word     2 in   [91, 130]
+  Logos-Prime                       1 word     1 in   [91]
+  TSDP                              3 word     3 in   [103, 217, 234]
+  Echo-Intrusion                    1 word     1 in   [70]
+  Funktionalen Multiplizität        1 word     1 in   [119]
+  Kern-Selbst                       1 word     1 in   [119]
+  Manager                           1 word     1 in   [217]
+  Nichts                            3 word     4 in   [58, 105, 131, 148]
+                                    1      as Nichtssein
+  umgebende Nichtssein              1 word     1 in   [105]
+  Leser                            25 word    41 in   [18, 22, 26, 30, 34, 44]
+                                   15      as Lesers
+                                    1      as Leserintegration
+  Mitschöpfer                       2 word     2 in   [30, 233]
+  Glitches                          3 word     3 in   [52, 56, 58]
+  Logos                            20 word    23 in   [58, 67, 68, 69, 71, 79]
+                                    1      as Logos-Prime
+                                    1      as Logos-Attraktor
+                                    1      as Logos-Attraktors
+  Abyssos                          17 word    21 in   [68, 79, 97, 101, 103, 105]
+                                    2      as Abyssos-Attraktor
+                                    2      as Abyssos-Attraktors
+  Eros                             20 word    24 in   [70, 79, 111, 115, 117, 119]
+                                    3      as Eros-Attraktor
+                                    1      as Eros-Attraktors
+                                    1      as eros-and-thanatos-freuds-two-fundamental-drives
+                                    1      as eros-concept-freud-psychology
+  Logos-Attraktor                   1 word     2 in   [158, 172]
+                                    1      as Logos-Attraktors
+  Abyssos-Attraktor                 2 word     4 in   [159, 173, 188, 189]
+                                    2      as Abyssos-Attraktors
+  Eros-Attraktor                    3 word     4 in   [160, 174, 186, 187]
+                                    1      as Eros-Attraktors
+  narrativen Attraktoren            3 word     3 in   [75, 79, 125]
+  Anziehungsbecken                  3 word     4 in   [158, 159, 160, 162]
+                                    1      as Anziehungsbeckens
+  basin of attraction               1 word     1 in   [158]
+  Phasenraum                        3 word     5 in   [144, 148, 156, 187]
+                                    2      as Phasenraums
+  Phasenraums                       2 word     2 in   [148, 156]
+  Kontrollparameter                 2 word     2 in   [166, 170]
+  Trajektorie                       5 word     6 in   [148, 156, 180, 186, 188, 191]
+                                    1      as Trajektorien
+  Negentropie                       6 word     6 in   [58, 130, 253, 254]
+  Entropie                         11 word    12 in   [58, 101, 105, 131, 159, 255]
+                                    1      as Entropie_
+  Informationsentropie              1 word     1 in   [233]
+  Lexikon des ontologischen Foreshadowing    1 word     1 in   [62]
+  Perzeptuelle Instabilität         1 word     1 in   [67]
+  Zeitliche Diskontinuität          1 word     1 in   [68]
+  Räumliches Paradoxon              1 word     1 in   [69]
+  Emotionale Resonanz               1 word     1 in   [70]
+  Hellseherei der Figuren           1 word     1 in   [71]
+  Narrative Transportation          1 word     1 in   [71]
+  transzendente Umwelt              1 word     1 in   [34]
+  solipsistische Maschine           1 word     1 in   [36]
+  Quanten-Metapher                  1 word     1 in   [40]
+  Kollaps der Wellenfunktion        4 word     4 in   [48, 207, 247, 248]
+  Wahrscheinlichkeitswelle          2 word     2 in   [46, 219]
+  Superposition                     3 word     4 in   [46, 48, 244, 245]
+                                    1      as Superpositionen
+  Datenkorruption                   1 word     1 in   [91]
+  psychologischen Kriegsführung     1 word     1 in   [91]
+  Gedankenreform                    1 word     1 in   [91]
+  Frakturierte Untersuchung         1 word     1 in   [227]
+  Mosaik-Plot                       1 word     1 in   [229]
+  multiple personale Erzähler       1 word     1 in   [229]
+  anachronistische Zeitgestaltung    2 word     2 in   [229, 235]
+  unzuverlässigen Erzähler          1 word     1 in   [217]
+  Luhmann-Berkeley-Synthese         1 word     1 in   [30]
+  Esse est percipi                  1 word     1 in   [32]
+  Kopenhagener Deutung              1 word     1 in   [44]
+  strukturellen Kopplung            1 word     1 in   [56]
+  autopoietisches                   1 word     1 in   [34]
+  operativ geschlossenes            1 word     1 in   [34]
+  Beobachtereffekt                  1 word     1 in   [219]
+  seltsame Attraktoren              3 word     3 in   [152, 156]
+  Schmetterlingseffekt              1 word     1 in   [176]
+  mythoi                            1 word     1 in   [184]
+  Leerstellen                       3 word     3 in   [69, 170, 207]
+  Verfremdungseffekt                1 word     1 in   [209]
+  Über-Ich                          2 word     2 in   [89, 130]
+  Realitätsprinzips                 1 word     1 in   [89]
+  Lebenstrieb                       2 word     2 in   [117, 132]
+  Todestrieb                        2 word     2 in   [103, 131]
+  Thanatos                          6 word     6 in   [103, 117, 131, 273, 274, 280]
+  Skinner-Boxen                     1 word     1 in   [91]
+  Internal Family Systems           1 word     1 in   [119]
+  ER=EPR                            1 word     2 in   [121, 132]
+                                    1      as ER=EPR-Vermutung
+  Einstein-Rosen-Brücke             1 word     1 in   [121]
+  Wurmloch                          1 word     1 in   [121]
+  Das Schöne                        1 word     1 in   [130]
+  Erhabene                          6 word     7 in   [97, 107, 131, 277, 278]
+                                    1      as Erhabenen
+                                    1      as ErhabEnEn
+  Hard Science-Fiction              1 word     1 in   [93]
+  Kosmischen Horrors                1 word     1 in   [107]
+  Psychologischen Thrillers         1 word     1 in   [119]
+  Komödie                           4 word     4 in   [121, 132, 186]
+  Romanze                           4 word     4 in   [121, 132, 187]
+  Tragödie                          1 word     1 in   [188]
+  Ironie/Satire                     1 word     1 in   [189]

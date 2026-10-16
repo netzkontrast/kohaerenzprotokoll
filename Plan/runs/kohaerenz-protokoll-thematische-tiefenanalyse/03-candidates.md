@@ -1,0 +1,75 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German thematic analysis report for the novel project; it writes the figures and places of the novel's world in running prose and tables (Kael, AEGIS, Juna/V, Kernwelten Co₁, McL, B, Ly), and applies borrowed theories to them. The theories sit under the lens heading below. Single letters (P, V, B, X) are not listed. Names of persons (thinkers) are left out. The reference list at the end (Quellenangaben) is one flattened line of web titles and is not mined.
+
+- Kael
+- AEGIS
+- Juna
+- Juna/V
+- V/Juna
+- Kael/M
+- Kernwelten
+- Kernwelt B
+- Überwelt
+- AEGIS-Überwelt
+- Potentialmeer
+- Risse
+- Cache Kohärenz
+- Moonshine-Link
+- Guardians
+- Anteile
+- Logiker
+- Kind
+- Schatten
+- Co₁
+- McL
+- Ly
+- Kernparadoxon
+- Zero-Trust
+- Systeminstabilität
+- Innere Reise
+- Zyklischer Kampf
+- Äußere Konfrontation
+- Thematische Resonanzmatrix
+- Themen-Blaupausen
+- Kintsugi
+
+## lens
+
+- Internal Family Systems
+- IFS
+- Strukturelle Dissoziation
+- Exiles
+- Managers
+- Firefighters
+- Selbst-Führung
+- Bindungstheorie
+- Earned Security
+- Schattenarbeit
+- Individuation
+- Autopoiesis
+- Feedback Loops
+- Kybernetik zweiter Ordnung
+- Holismus
+- Reduktionismus
+- Erster Unvollständigkeitssatz
+- Parakonsistente Logik
+- Apollinisch
+- Dionysisch
+- Śūnyatā
+- Pratītyasamutpāda
+- Zwei Wahrheiten
+- Konstruktivismus
+- Phänomenologie
+- Epoché
+- Intentionalität
+- Landauer-Prinzip
+- Quanten-Nichtlokalität
+- Macht/Wissen
+- Value Alignment Problem
+- Kosmischer Horror
+- Environmental Storytelling
+- Gaslighting
+- Theseus-Schiff
+- Simulationshypothese
+- Beobachtereffekt

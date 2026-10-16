@@ -1,0 +1,14 @@
+# research-prompt-kohaerenz-protokoll-final-architecture-md
+  lines                936  (frontmatter ends at 9)
+  body words           7844
+  headings             58   bold-only lines 4
+  table rows           9   code fences 0
+  question marks       61
+  backslash escapes    98
+  typographic marks    133   ascii quotes 143
+  invisible characters none
+  math symbol lines    9
+  glued ref numbers    120
+  repeated labels      none
+  longest line         649 chars
+

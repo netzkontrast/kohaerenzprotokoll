@@ -1,0 +1,559 @@
+{
+  "document": "roman-outline-leserlebnis-und-tiefe",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 106,
+  "decisions": 110,
+  "same_surface": {},
+  "decided_mechanically": 98,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 76
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 257
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 96
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Leseerlebnis"
+      },
+      {
+        "candidate": "Kernkonflikt"
+      },
+      {
+        "candidate": "World-Building"
+      },
+      {
+        "candidate": "Hard SF"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Systemtheorie"
+      },
+      {
+        "candidate": "Kybernetik"
+      },
+      {
+        "candidate": "Second-Order Cybernetics"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Operational Closure"
+      },
+      {
+        "candidate": "Second-Order Observation"
+      },
+      {
+        "candidate": "Feedback Loops"
+      },
+      {
+        "candidate": "ontologische Verpflichtung"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Komplexität"
+      },
+      {
+        "candidate": "Selbstorganisation"
+      },
+      {
+        "candidate": "Nicht-Aggregativität"
+      },
+      {
+        "candidate": "Reduktionismus"
+      },
+      {
+        "candidate": "Chaostheorie"
+      },
+      {
+        "candidate": "Persönliche Identität"
+      },
+      {
+        "candidate": "Relation R"
+      },
+      {
+        "candidate": "Bündeltheorie"
+      },
+      {
+        "candidate": "Noumena"
+      },
+      {
+        "candidate": "Paradigmenwechsel"
+      },
+      {
+        "candidate": "Induktionsproblem"
+      },
+      {
+        "candidate": "Konsequentialismus"
+      },
+      {
+        "candidate": "Tugendethik"
+      },
+      {
+        "candidate": "Fürsorgeethik"
+      },
+      {
+        "candidate": "Problem des Bösen"
+      },
+      {
+        "candidate": "Prinzip des kleineren Übels"
+      },
+      {
+        "candidate": "Bad Faith"
+      },
+      {
+        "candidate": "Cosmic Horror"
+      },
+      {
+        "candidate": "Cosmic Awe"
+      },
+      {
+        "candidate": "kognitive Dissonanz"
+      },
+      {
+        "candidate": "Free-Choice Paradigm"
+      },
+      {
+        "candidate": "Effort-Justification Paradigm"
+      },
+      {
+        "candidate": "Experience-Taking"
+      },
+      {
+        "candidate": "Immersion"
+      },
+      {
+        "candidate": "Pacing"
+      },
+      {
+        "candidate": "Ticking Clock"
+      },
+      {
+        "candidate": "Cliffhanger"
+      },
+      {
+        "candidate": "Foreshadowing"
+      },
+      {
+        "candidate": "Hypervigilanz"
+      },
+      {
+        "candidate": "Dissoziation"
+      },
+      {
+        "candidate": "Flashbacks"
+      },
+      {
+        "candidate": "unzuverlässige Erzähler"
+      },
+      {
+        "candidate": "Verantwortungslücke"
+      },
+      {
+        "candidate": "Tropes"
+      },
+      {
+        "candidate": "Cyberspace"
+      },
+      {
+        "candidate": "Inside the Machine"
+      },
+      {
+        "candidate": "Logic Bomb"
+      },
+      {
+        "candidate": "Defeating the Logical Guardian"
+      },
+      {
+        "candidate": "Thinking Outside the Box"
+      },
+      {
+        "candidate": "Unreliable Narrator"
+      },
+      {
+        "candidate": "Amnesia"
+      },
+      {
+        "candidate": "Paranoia"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "False Memory"
+      },
+      {
+        "candidate": "Internal Conference Room"
+      },
+      {
+        "candidate": "Facing Your Demons"
+      },
+      {
+        "candidate": "Healing Old Wounds"
+      },
+      {
+        "candidate": "The Body Keeps the Score"
+      },
+      {
+        "candidate": "Protector/Caregiver"
+      },
+      {
+        "candidate": "Reluctant Hero"
+      },
+      {
+        "candidate": "Tragic Villain"
+      },
+      {
+        "candidate": "Rules Lawyer"
+      },
+      {
+        "candidate": "Threshold Guardian"
+      },
+      {
+        "candidate": "Origin Story"
+      },
+      {
+        "candidate": "Getting the Team Together"
+      },
+      {
+        "candidate": "The Plan in Motion"
+      },
+      {
+        "candidate": "Storming the Castle"
+      },
+      {
+        "candidate": "Final Battle"
+      },
+      {
+        "candidate": "Hope Spot"
+      },
+      {
+        "candidate": "Deus ex Machina"
+      },
+      {
+        "candidate": "Hoist by His Own Petard"
+      },
+      {
+        "candidate": "The Reveal"
+      },
+      {
+        "candidate": "Aftermath/The World After"
+      },
+      {
+        "candidate": "The Quiet After the Storm"
+      },
+      {
+        "candidate": "A New Beginning"
+      },
+      {
+        "candidate": "Sequel Hook"
+      },
+      {
+        "candidate": "Bittersweet Ending"
+      },
+      {
+        "candidate": "Open Ending"
+      },
+      {
+        "candidate": "What Measure Is a Non-Human"
+      },
+      {
+        "candidate": "Moralisches Dilemma"
+      },
+      {
+        "candidate": "Schwere Wahl"
+      },
+      {
+        "candidate": "Moral Dilemma"
+      },
+      {
+        "candidate": "Hard Choice"
+      },
+      {
+        "candidate": "Lesser Evil"
+      },
+      {
+        "candidate": "Deal with the Devil"
+      },
+      {
+        "candidate": "Time Loop"
+      },
+      {
+        "candidate": "Redemption Arc"
+      },
+      {
+        "candidate": "Productive Navel-Gazing"
+      },
+      {
+        "candidate": "Crossing Threshold"
+      },
+      {
+        "candidate": "Positiver Bogen"
+      },
+      {
+        "candidate": "Negativer Bogen"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll  /  Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Inkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch  /  Glitch in the Matrix",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch  /  The Glitch Becomes a Feature",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologie  /  Deontologie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "nullpunktprotokoll",
+            "page": "nullpunkt-protokoll"
+          },
+          {
+            "surface": "protokollv14",
+            "page": "protokoll-v14"
+          },
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      },
+      {
+        "candidate": "Inkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch in the Matrix",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "The Glitch Becomes a Feature",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Multiple Personalities",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 111,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 37,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

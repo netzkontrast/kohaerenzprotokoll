@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "vergessener-schrein",
+ "title": "Vergessener Schrein",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Ort verdrängter Erinnerung",
+  "Trauma-Konfrontation ohne Spektakel",
+  "Bedeutung des Dornen-Verschlusses",
+  "Unterschied zwischen Symbol und passierbarem Raum",
+  "Freiwilligkeit des Zugangs"
+ ],
+ "basis": {
+  "vergessener-schrein": {
+   "title": "Vergessener Schrein",
+   "path": "Wiki/candidates/vergessener-schrein.md",
+   "hash": "2a4e4c5a60f09667b677c16d16f6e9369d5f78585bfc1c1b54b30ab6f1f38a41"
+  },
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  },
+  "archiv-des-ungesagten": {
+   "title": "Archiv des Ungesagten",
+   "path": "Wiki/candidates/archiv-des-ungesagten.md",
+   "hash": "d9eda82db399c05be355ebfe9a0984269757ac4da18e262523c897aa123bf9a2"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-vergessener-schrein-001",
+   "question": "Was muss Kael selbst entscheiden, bevor sich der Dornen-Verschluss des Vergessenen Schreins als Zugang zu einer Erinnerung öffnet?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-002",
+   "question": "Welche Lesarten auf der Seite zu Vergessener Schrein stützen oder begrenzen „Ort verdrängter Erinnerung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-003",
+   "question": "Welcher Grenzfall würde bei Vergessener Schrein die Annahmen über „Ort verdrängter Erinnerung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-004",
+   "question": "Wer könnte innerhalb des Romans bei Vergessener Schrein etwas über „Ort verdrängter Erinnerung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-005",
+   "question": "Welche konkrete Entscheidung könnte „Ort verdrängter Erinnerung“ bei Vergessener Schrein in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Ort verdrängter Erinnerung“ bei Vergessener Schrein haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-007",
+   "question": "Wie lässt sich „Ort verdrängter Erinnerung“ bei Vergessener Schrein zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-008",
+   "question": "Welche Alternativen sollte der Autor bei Vergessener Schrein für „Ort verdrängter Erinnerung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-009",
+   "question": "Was bedeutet bei Vergessener Schrein der Themenpunkt „Trauma-Konfrontation ohne Spektakel“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-010",
+   "question": "Welche Lesarten auf der Seite zu Vergessener Schrein stützen oder begrenzen „Trauma-Konfrontation ohne Spektakel“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-011",
+   "question": "Welcher Grenzfall würde bei Vergessener Schrein die Annahmen über „Trauma-Konfrontation ohne Spektakel“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-012",
+   "question": "Wer könnte innerhalb des Romans bei Vergessener Schrein etwas über „Trauma-Konfrontation ohne Spektakel“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-013",
+   "question": "Welche konkrete Entscheidung könnte „Trauma-Konfrontation ohne Spektakel“ bei Vergessener Schrein in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Trauma-Konfrontation ohne Spektakel“ bei Vergessener Schrein haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-015",
+   "question": "Wie lässt sich „Trauma-Konfrontation ohne Spektakel“ bei Vergessener Schrein zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-016",
+   "question": "Welche Alternativen sollte der Autor bei Vergessener Schrein für „Trauma-Konfrontation ohne Spektakel“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-017",
+   "question": "Was bedeutet bei Vergessener Schrein der Themenpunkt „Bedeutung des Dornen-Verschlusses“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-018",
+   "question": "Welche Lesarten auf der Seite zu Vergessener Schrein stützen oder begrenzen „Bedeutung des Dornen-Verschlusses“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-019",
+   "question": "Welcher Grenzfall würde bei Vergessener Schrein die Annahmen über „Bedeutung des Dornen-Verschlusses“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-020",
+   "question": "Wer könnte innerhalb des Romans bei Vergessener Schrein etwas über „Bedeutung des Dornen-Verschlusses“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-021",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung des Dornen-Verschlusses“ bei Vergessener Schrein in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung des Dornen-Verschlusses“ bei Vergessener Schrein haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-023",
+   "question": "Wie lässt sich „Bedeutung des Dornen-Verschlusses“ bei Vergessener Schrein zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-024",
+   "question": "Welche Alternativen sollte der Autor bei Vergessener Schrein für „Bedeutung des Dornen-Verschlusses“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-025",
+   "question": "Was bedeutet bei Vergessener Schrein der Themenpunkt „Unterschied zwischen Symbol und passierbarem Raum“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-026",
+   "question": "Welche Lesarten auf der Seite zu Vergessener Schrein stützen oder begrenzen „Unterschied zwischen Symbol und passierbarem Raum“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-027",
+   "question": "Welcher Grenzfall würde bei Vergessener Schrein die Annahmen über „Unterschied zwischen Symbol und passierbarem Raum“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-028",
+   "question": "Wer könnte innerhalb des Romans bei Vergessener Schrein etwas über „Unterschied zwischen Symbol und passierbarem Raum“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Symbol und passierbarem Raum“ bei Vergessener Schrein in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Symbol und passierbarem Raum“ bei Vergessener Schrein haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-031",
+   "question": "Wie lässt sich „Unterschied zwischen Symbol und passierbarem Raum“ bei Vergessener Schrein zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-032",
+   "question": "Welche Alternativen sollte der Autor bei Vergessener Schrein für „Unterschied zwischen Symbol und passierbarem Raum“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-033",
+   "question": "Was bedeutet bei Vergessener Schrein der Themenpunkt „Freiwilligkeit des Zugangs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-034",
+   "question": "Welche Lesarten auf der Seite zu Vergessener Schrein stützen oder begrenzen „Freiwilligkeit des Zugangs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-035",
+   "question": "Welcher Grenzfall würde bei Vergessener Schrein die Annahmen über „Freiwilligkeit des Zugangs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-036",
+   "question": "Wer könnte innerhalb des Romans bei Vergessener Schrein etwas über „Freiwilligkeit des Zugangs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-037",
+   "question": "Welche konkrete Entscheidung könnte „Freiwilligkeit des Zugangs“ bei Vergessener Schrein in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Freiwilligkeit des Zugangs“ bei Vergessener Schrein haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-039",
+   "question": "Wie lässt sich „Freiwilligkeit des Zugangs“ bei Vergessener Schrein zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-040",
+   "question": "Welche Alternativen sollte der Autor bei Vergessener Schrein für „Freiwilligkeit des Zugangs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-041",
+   "question": "Wo unterscheiden sich Vergessener Schrein und Resonanz-Landschaft, wenn man sie unter dem Gesichtspunkt „Ort verdrängter Erinnerung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-042",
+   "question": "Welche Quelle verbindet Vergessener Schrein mit Resonanz-Landschaft in Bezug auf „Ort verdrängter Erinnerung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-043",
+   "question": "Welche Grenzen aus der Seite zu Resonanz-Landschaft müsste eine Deutung von Vergessener Schrein unter „Ort verdrängter Erinnerung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-044",
+   "question": "Wie könnte sich das Wissen über Vergessener Schrein vom Wissen über Resonanz-Landschaft unterscheiden, wenn „Ort verdrängter Erinnerung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vergessener Schrein und Resonanz-Landschaft bei „Ort verdrängter Erinnerung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-046",
+   "question": "Falls Vergessener Schrein im Hinblick auf „Ort verdrängter Erinnerung“ anders festgelegt wird: Welche Aussagen über Resonanz-Landschaft müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vergessener Schrein und Resonanz-Landschaft bei „Ort verdrängter Erinnerung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-048",
+   "question": "Braucht der Roman eine Verbindung von Vergessener Schrein und Resonanz-Landschaft bei „Ort verdrängter Erinnerung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-049",
+   "question": "In welchem denkbaren Fall könnte Vergessener Schrein bestehen, ohne dass Resonanz-Landschaft dieselbe Funktion übernimmt, und was würde das für „Ort verdrängter Erinnerung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-050",
+   "question": "Welche Kosten könnte eine Verbindung von Vergessener Schrein und Resonanz-Landschaft in Bezug auf „Ort verdrängter Erinnerung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-051",
+   "question": "Welche ältere Lesart von Vergessener Schrein oder Resonanz-Landschaft könnte die Gegenüberstellung unter „Ort verdrängter Erinnerung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vergessener Schrein und Resonanz-Landschaft unter „Ort verdrängter Erinnerung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vergessener-schrein",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-053",
+   "question": "Wo unterscheiden sich Vergessener Schrein und Mnemosyne, wenn man sie unter dem Gesichtspunkt „Trauma-Konfrontation ohne Spektakel“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-054",
+   "question": "Welche Quelle verbindet Vergessener Schrein mit Mnemosyne in Bezug auf „Trauma-Konfrontation ohne Spektakel“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-055",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Vergessener Schrein unter „Trauma-Konfrontation ohne Spektakel“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-056",
+   "question": "Wie könnte sich das Wissen über Vergessener Schrein vom Wissen über Mnemosyne unterscheiden, wenn „Trauma-Konfrontation ohne Spektakel“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vergessener Schrein und Mnemosyne bei „Trauma-Konfrontation ohne Spektakel“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-058",
+   "question": "Falls Vergessener Schrein im Hinblick auf „Trauma-Konfrontation ohne Spektakel“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vergessener Schrein und Mnemosyne bei „Trauma-Konfrontation ohne Spektakel“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-060",
+   "question": "Braucht der Roman eine Verbindung von Vergessener Schrein und Mnemosyne bei „Trauma-Konfrontation ohne Spektakel“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-061",
+   "question": "In welchem denkbaren Fall könnte Vergessener Schrein bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „Trauma-Konfrontation ohne Spektakel“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-062",
+   "question": "Welche Kosten könnte eine Verbindung von Vergessener Schrein und Mnemosyne in Bezug auf „Trauma-Konfrontation ohne Spektakel“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-063",
+   "question": "Welche ältere Lesart von Vergessener Schrein oder Mnemosyne könnte die Gegenüberstellung unter „Trauma-Konfrontation ohne Spektakel“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vergessener Schrein und Mnemosyne unter „Trauma-Konfrontation ohne Spektakel“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vergessener-schrein",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-065",
+   "question": "Wo unterscheiden sich Vergessener Schrein und Kiko, wenn man sie unter dem Gesichtspunkt „Bedeutung des Dornen-Verschlusses“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-066",
+   "question": "Welche Quelle verbindet Vergessener Schrein mit Kiko in Bezug auf „Bedeutung des Dornen-Verschlusses“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-067",
+   "question": "Welche Grenzen aus der Seite zu Kiko müsste eine Deutung von Vergessener Schrein unter „Bedeutung des Dornen-Verschlusses“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-068",
+   "question": "Wie könnte sich das Wissen über Vergessener Schrein vom Wissen über Kiko unterscheiden, wenn „Bedeutung des Dornen-Verschlusses“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vergessener Schrein und Kiko bei „Bedeutung des Dornen-Verschlusses“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-070",
+   "question": "Falls Vergessener Schrein im Hinblick auf „Bedeutung des Dornen-Verschlusses“ anders festgelegt wird: Welche Aussagen über Kiko müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vergessener Schrein und Kiko bei „Bedeutung des Dornen-Verschlusses“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-072",
+   "question": "Braucht der Roman eine Verbindung von Vergessener Schrein und Kiko bei „Bedeutung des Dornen-Verschlusses“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-073",
+   "question": "In welchem denkbaren Fall könnte Vergessener Schrein bestehen, ohne dass Kiko dieselbe Funktion übernimmt, und was würde das für „Bedeutung des Dornen-Verschlusses“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-074",
+   "question": "Welche Kosten könnte eine Verbindung von Vergessener Schrein und Kiko in Bezug auf „Bedeutung des Dornen-Verschlusses“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-075",
+   "question": "Welche ältere Lesart von Vergessener Schrein oder Kiko könnte die Gegenüberstellung unter „Bedeutung des Dornen-Verschlusses“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vergessener Schrein und Kiko unter „Bedeutung des Dornen-Verschlusses“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vergessener-schrein",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-077",
+   "question": "Wo unterscheiden sich Vergessener Schrein und Archiv des Ungesagten, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Symbol und passierbarem Raum“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-078",
+   "question": "Welche Quelle verbindet Vergessener Schrein mit Archiv des Ungesagten in Bezug auf „Unterschied zwischen Symbol und passierbarem Raum“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-079",
+   "question": "Welche Grenzen aus der Seite zu Archiv des Ungesagten müsste eine Deutung von Vergessener Schrein unter „Unterschied zwischen Symbol und passierbarem Raum“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-080",
+   "question": "Wie könnte sich das Wissen über Vergessener Schrein vom Wissen über Archiv des Ungesagten unterscheiden, wenn „Unterschied zwischen Symbol und passierbarem Raum“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vergessener Schrein und Archiv des Ungesagten bei „Unterschied zwischen Symbol und passierbarem Raum“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-082",
+   "question": "Falls Vergessener Schrein im Hinblick auf „Unterschied zwischen Symbol und passierbarem Raum“ anders festgelegt wird: Welche Aussagen über Archiv des Ungesagten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vergessener Schrein und Archiv des Ungesagten bei „Unterschied zwischen Symbol und passierbarem Raum“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-084",
+   "question": "Braucht der Roman eine Verbindung von Vergessener Schrein und Archiv des Ungesagten bei „Unterschied zwischen Symbol und passierbarem Raum“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-085",
+   "question": "In welchem denkbaren Fall könnte Vergessener Schrein bestehen, ohne dass Archiv des Ungesagten dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Symbol und passierbarem Raum“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-086",
+   "question": "Welche Kosten könnte eine Verbindung von Vergessener Schrein und Archiv des Ungesagten in Bezug auf „Unterschied zwischen Symbol und passierbarem Raum“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-087",
+   "question": "Welche ältere Lesart von Vergessener Schrein oder Archiv des Ungesagten könnte die Gegenüberstellung unter „Unterschied zwischen Symbol und passierbarem Raum“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vergessener Schrein und Archiv des Ungesagten unter „Unterschied zwischen Symbol und passierbarem Raum“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vergessener-schrein",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-089",
+   "question": "Wo unterscheiden sich Vergessener Schrein und Kael, wenn man sie unter dem Gesichtspunkt „Freiwilligkeit des Zugangs“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-090",
+   "question": "Welche Quelle verbindet Vergessener Schrein mit Kael in Bezug auf „Freiwilligkeit des Zugangs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Vergessener Schrein unter „Freiwilligkeit des Zugangs“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-092",
+   "question": "Wie könnte sich das Wissen über Vergessener Schrein vom Wissen über Kael unterscheiden, wenn „Freiwilligkeit des Zugangs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vergessener Schrein und Kael bei „Freiwilligkeit des Zugangs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-094",
+   "question": "Falls Vergessener Schrein im Hinblick auf „Freiwilligkeit des Zugangs“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vergessener Schrein und Kael bei „Freiwilligkeit des Zugangs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-096",
+   "question": "Braucht der Roman eine Verbindung von Vergessener Schrein und Kael bei „Freiwilligkeit des Zugangs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-097",
+   "question": "In welchem denkbaren Fall könnte Vergessener Schrein bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Freiwilligkeit des Zugangs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-098",
+   "question": "Welche Kosten könnte eine Verbindung von Vergessener Schrein und Kael in Bezug auf „Freiwilligkeit des Zugangs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-099",
+   "question": "Welche ältere Lesart von Vergessener Schrein oder Kael könnte die Gegenüberstellung unter „Freiwilligkeit des Zugangs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-vergessener-schrein-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vergessener Schrein und Kael unter „Freiwilligkeit des Zugangs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vergessener-schrein",
+    "kael"
+   ]
+  }
+ ]
+}

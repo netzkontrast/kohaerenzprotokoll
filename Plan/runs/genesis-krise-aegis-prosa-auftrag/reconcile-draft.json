@@ -1,0 +1,147 @@
+{
+  "document": "genesis-krise-aegis-prosa-auftrag",
+  "drive_id": "17fwIQc7YSUWiPQslqcg1ikrnur2HgsR5rfiM9FMmDzA",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 94,
+    "decisions": 93,
+    "decided_by_lookup": 70,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        48,
+        77,
+        78,
+        80,
+        134,
+        213
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system whose misreading of inner suffering the commission plans to show"
+    },
+    {
+      "page": "did",
+      "lines": [
+        95,
+        212
+      ],
+      "attribution": "",
+      "note": "DID as a clinical analogy for the fragmentation"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        28,
+        112,
+        174,
+        204
+      ],
+      "attribution": "",
+      "note": "emergence and self-organisation as the planned way Kael arises"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        17,
+        100
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as the arc it plans"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        28,
+        100,
+        109,
+        112,
+        174
+      ],
+      "attribution": "",
+      "note": "Kael as a successor emerging from the fragments"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "the Leere as a possible `Nichts Rauschen`"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        78,
+        95,
+        184
+      ],
+      "attribution": "",
+      "note": "TSDP as the model for ANP against EP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 100,
+      "decision": "reading",
+      "why": "the heading Kaels Genesis; read on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 299,
+      "decision": "occurrence",
+      "why": "a real person's given name in a reference entry, not the early name"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "the paradox, read on aegis"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "a line on the Leere, not the novel's simulation"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

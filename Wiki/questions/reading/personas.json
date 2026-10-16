@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "personas",
+ "title": "Personas",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Bewusstseinsinstanz gegenüber Persönlichkeitsteil",
+  "Zuordnung einer Instanz zu einer Welt",
+  "Verhältnis zwischen Instanz und Wächter",
+  "Status des älteren Figurenmodells",
+  "Fortbestand von Identität beim Übergang"
+ ],
+ "basis": {
+  "personas": {
+   "title": "Personas",
+   "path": "Wiki/candidates/personas.md",
+   "hash": "20409819c088b8262ce1049d3e4058e89825fd5e5e3f6d022a52af01c15956b8"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "kohaerenz-programm": {
+   "title": "Kohärenz-Programm",
+   "path": "Wiki/candidates/kohaerenz-programm.md",
+   "hash": "bc70cdfaf96809c45543a4a9e95123218d8d9d8c27755cb7a548e436fe41b92b"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-personas-001",
+   "question": "Ist eine Persona an eine Kernwelt gebunden, oder kann dieselbe Bewusstseinsinstanz die Welt wechseln, ohne ihre Identität zu verlieren?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-002",
+   "question": "Welche Lesarten auf der Seite zu Personas stützen oder begrenzen „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-003",
+   "question": "Welcher Grenzfall würde bei Personas die Annahmen über „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-004",
+   "question": "Wer könnte innerhalb des Romans bei Personas etwas über „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-005",
+   "question": "Welche konkrete Entscheidung könnte „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ bei Personas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ bei Personas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-007",
+   "question": "Wie lässt sich „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ bei Personas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-008",
+   "question": "Welche Alternativen sollte der Autor bei Personas für „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-009",
+   "question": "Was bedeutet bei Personas der Themenpunkt „Zuordnung einer Instanz zu einer Welt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-010",
+   "question": "Welche Lesarten auf der Seite zu Personas stützen oder begrenzen „Zuordnung einer Instanz zu einer Welt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-011",
+   "question": "Welcher Grenzfall würde bei Personas die Annahmen über „Zuordnung einer Instanz zu einer Welt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-012",
+   "question": "Wer könnte innerhalb des Romans bei Personas etwas über „Zuordnung einer Instanz zu einer Welt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-013",
+   "question": "Welche konkrete Entscheidung könnte „Zuordnung einer Instanz zu einer Welt“ bei Personas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zuordnung einer Instanz zu einer Welt“ bei Personas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-015",
+   "question": "Wie lässt sich „Zuordnung einer Instanz zu einer Welt“ bei Personas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-016",
+   "question": "Welche Alternativen sollte der Autor bei Personas für „Zuordnung einer Instanz zu einer Welt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-017",
+   "question": "Was bedeutet bei Personas der Themenpunkt „Verhältnis zwischen Instanz und Wächter“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-018",
+   "question": "Welche Lesarten auf der Seite zu Personas stützen oder begrenzen „Verhältnis zwischen Instanz und Wächter“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-019",
+   "question": "Welcher Grenzfall würde bei Personas die Annahmen über „Verhältnis zwischen Instanz und Wächter“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-020",
+   "question": "Wer könnte innerhalb des Romans bei Personas etwas über „Verhältnis zwischen Instanz und Wächter“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-021",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis zwischen Instanz und Wächter“ bei Personas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis zwischen Instanz und Wächter“ bei Personas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-023",
+   "question": "Wie lässt sich „Verhältnis zwischen Instanz und Wächter“ bei Personas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-024",
+   "question": "Welche Alternativen sollte der Autor bei Personas für „Verhältnis zwischen Instanz und Wächter“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-025",
+   "question": "Was bedeutet bei Personas der Themenpunkt „Status des älteren Figurenmodells“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-026",
+   "question": "Welche Lesarten auf der Seite zu Personas stützen oder begrenzen „Status des älteren Figurenmodells“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-027",
+   "question": "Welcher Grenzfall würde bei Personas die Annahmen über „Status des älteren Figurenmodells“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-028",
+   "question": "Wer könnte innerhalb des Romans bei Personas etwas über „Status des älteren Figurenmodells“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-029",
+   "question": "Welche konkrete Entscheidung könnte „Status des älteren Figurenmodells“ bei Personas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des älteren Figurenmodells“ bei Personas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-031",
+   "question": "Wie lässt sich „Status des älteren Figurenmodells“ bei Personas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-032",
+   "question": "Welche Alternativen sollte der Autor bei Personas für „Status des älteren Figurenmodells“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-033",
+   "question": "Was bedeutet bei Personas der Themenpunkt „Fortbestand von Identität beim Übergang“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-034",
+   "question": "Welche Lesarten auf der Seite zu Personas stützen oder begrenzen „Fortbestand von Identität beim Übergang“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-035",
+   "question": "Welcher Grenzfall würde bei Personas die Annahmen über „Fortbestand von Identität beim Übergang“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-036",
+   "question": "Wer könnte innerhalb des Romans bei Personas etwas über „Fortbestand von Identität beim Übergang“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-037",
+   "question": "Welche konkrete Entscheidung könnte „Fortbestand von Identität beim Übergang“ bei Personas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortbestand von Identität beim Übergang“ bei Personas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-039",
+   "question": "Wie lässt sich „Fortbestand von Identität beim Übergang“ bei Personas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-040",
+   "question": "Welche Alternativen sollte der Autor bei Personas für „Fortbestand von Identität beim Übergang“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-personas-041",
+   "question": "Wo unterscheiden sich Personas und Alters, wenn man sie unter dem Gesichtspunkt „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-042",
+   "question": "Welche Quelle verbindet Personas mit Alters in Bezug auf „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-043",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Personas unter „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-044",
+   "question": "Wie könnte sich das Wissen über Personas vom Wissen über Alters unterscheiden, wenn „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Personas und Alters bei „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-046",
+   "question": "Falls Personas im Hinblick auf „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Personas und Alters bei „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-048",
+   "question": "Braucht der Roman eine Verbindung von Personas und Alters bei „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-049",
+   "question": "In welchem denkbaren Fall könnte Personas bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-050",
+   "question": "Welche Kosten könnte eine Verbindung von Personas und Alters in Bezug auf „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-051",
+   "question": "Welche ältere Lesart von Personas oder Alters könnte die Gegenüberstellung unter „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Personas und Alters unter „Bewusstseinsinstanz gegenüber Persönlichkeitsteil“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "personas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-personas-053",
+   "question": "Wo unterscheiden sich Personas und Guardians, wenn man sie unter dem Gesichtspunkt „Zuordnung einer Instanz zu einer Welt“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-054",
+   "question": "Welche Quelle verbindet Personas mit Guardians in Bezug auf „Zuordnung einer Instanz zu einer Welt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-055",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Personas unter „Zuordnung einer Instanz zu einer Welt“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-056",
+   "question": "Wie könnte sich das Wissen über Personas vom Wissen über Guardians unterscheiden, wenn „Zuordnung einer Instanz zu einer Welt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Personas und Guardians bei „Zuordnung einer Instanz zu einer Welt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-058",
+   "question": "Falls Personas im Hinblick auf „Zuordnung einer Instanz zu einer Welt“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Personas und Guardians bei „Zuordnung einer Instanz zu einer Welt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-060",
+   "question": "Braucht der Roman eine Verbindung von Personas und Guardians bei „Zuordnung einer Instanz zu einer Welt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-061",
+   "question": "In welchem denkbaren Fall könnte Personas bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Zuordnung einer Instanz zu einer Welt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-062",
+   "question": "Welche Kosten könnte eine Verbindung von Personas und Guardians in Bezug auf „Zuordnung einer Instanz zu einer Welt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-063",
+   "question": "Welche ältere Lesart von Personas oder Guardians könnte die Gegenüberstellung unter „Zuordnung einer Instanz zu einer Welt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Personas und Guardians unter „Zuordnung einer Instanz zu einer Welt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "personas",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-personas-065",
+   "question": "Wo unterscheiden sich Personas und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Verhältnis zwischen Instanz und Wächter“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-066",
+   "question": "Welche Quelle verbindet Personas mit Kern-Welten in Bezug auf „Verhältnis zwischen Instanz und Wächter“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-067",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Personas unter „Verhältnis zwischen Instanz und Wächter“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-068",
+   "question": "Wie könnte sich das Wissen über Personas vom Wissen über Kern-Welten unterscheiden, wenn „Verhältnis zwischen Instanz und Wächter“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Personas und Kern-Welten bei „Verhältnis zwischen Instanz und Wächter“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-070",
+   "question": "Falls Personas im Hinblick auf „Verhältnis zwischen Instanz und Wächter“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Personas und Kern-Welten bei „Verhältnis zwischen Instanz und Wächter“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-072",
+   "question": "Braucht der Roman eine Verbindung von Personas und Kern-Welten bei „Verhältnis zwischen Instanz und Wächter“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-073",
+   "question": "In welchem denkbaren Fall könnte Personas bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Verhältnis zwischen Instanz und Wächter“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-074",
+   "question": "Welche Kosten könnte eine Verbindung von Personas und Kern-Welten in Bezug auf „Verhältnis zwischen Instanz und Wächter“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-075",
+   "question": "Welche ältere Lesart von Personas oder Kern-Welten könnte die Gegenüberstellung unter „Verhältnis zwischen Instanz und Wächter“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Personas und Kern-Welten unter „Verhältnis zwischen Instanz und Wächter“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "personas",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-personas-077",
+   "question": "Wo unterscheiden sich Personas und Kael, wenn man sie unter dem Gesichtspunkt „Status des älteren Figurenmodells“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-078",
+   "question": "Welche Quelle verbindet Personas mit Kael in Bezug auf „Status des älteren Figurenmodells“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Personas unter „Status des älteren Figurenmodells“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-080",
+   "question": "Wie könnte sich das Wissen über Personas vom Wissen über Kael unterscheiden, wenn „Status des älteren Figurenmodells“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Personas und Kael bei „Status des älteren Figurenmodells“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-082",
+   "question": "Falls Personas im Hinblick auf „Status des älteren Figurenmodells“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Personas und Kael bei „Status des älteren Figurenmodells“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-084",
+   "question": "Braucht der Roman eine Verbindung von Personas und Kael bei „Status des älteren Figurenmodells“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-085",
+   "question": "In welchem denkbaren Fall könnte Personas bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Status des älteren Figurenmodells“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-086",
+   "question": "Welche Kosten könnte eine Verbindung von Personas und Kael in Bezug auf „Status des älteren Figurenmodells“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-087",
+   "question": "Welche ältere Lesart von Personas oder Kael könnte die Gegenüberstellung unter „Status des älteren Figurenmodells“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Personas und Kael unter „Status des älteren Figurenmodells“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "personas",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-personas-089",
+   "question": "Wo unterscheiden sich Personas und Kohärenz-Programm, wenn man sie unter dem Gesichtspunkt „Fortbestand von Identität beim Übergang“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-090",
+   "question": "Welche Quelle verbindet Personas mit Kohärenz-Programm in Bezug auf „Fortbestand von Identität beim Übergang“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-091",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz-Programm müsste eine Deutung von Personas unter „Fortbestand von Identität beim Übergang“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-092",
+   "question": "Wie könnte sich das Wissen über Personas vom Wissen über Kohärenz-Programm unterscheiden, wenn „Fortbestand von Identität beim Übergang“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Personas und Kohärenz-Programm bei „Fortbestand von Identität beim Übergang“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-094",
+   "question": "Falls Personas im Hinblick auf „Fortbestand von Identität beim Übergang“ anders festgelegt wird: Welche Aussagen über Kohärenz-Programm müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Personas und Kohärenz-Programm bei „Fortbestand von Identität beim Übergang“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-096",
+   "question": "Braucht der Roman eine Verbindung von Personas und Kohärenz-Programm bei „Fortbestand von Identität beim Übergang“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-097",
+   "question": "In welchem denkbaren Fall könnte Personas bestehen, ohne dass Kohärenz-Programm dieselbe Funktion übernimmt, und was würde das für „Fortbestand von Identität beim Übergang“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-098",
+   "question": "Welche Kosten könnte eine Verbindung von Personas und Kohärenz-Programm in Bezug auf „Fortbestand von Identität beim Übergang“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-099",
+   "question": "Welche ältere Lesart von Personas oder Kohärenz-Programm könnte die Gegenüberstellung unter „Fortbestand von Identität beim Übergang“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-personas-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Personas und Kohärenz-Programm unter „Fortbestand von Identität beim Übergang“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "personas",
+    "kohaerenz-programm"
+   ]
+  }
+ ]
+}

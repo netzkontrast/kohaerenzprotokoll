@@ -1,0 +1,14 @@
+# spannungsfelder-und-aegis-meta-framework-analyse-docx
+  lines                521  (frontmatter ends at 9)
+  body words           10205
+  headings             2   bold-only lines 32
+  table rows           21   code fences 0
+  question marks       14
+  backslash escapes    24
+  typographic marks    22   ascii quotes 110
+  invisible characters U+200Bx4, U+FE0Fx1
+  math symbol lines    8
+  glued ref numbers    193
+  repeated labels      Diskussion x13, Modell x13, Operation x13, Prinzip x13, Theoretische Konzepte x13
+  longest line         879 chars
+

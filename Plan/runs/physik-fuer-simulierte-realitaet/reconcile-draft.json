@@ -1,0 +1,149 @@
+{
+  "document": "physik-fuer-simulierte-realitaet",
+  "drive_id": "1rtVq7LDKPrpym9eFBDVe6PVrG-5vFKOUcpkujeaaBqg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 59,
+    "decided_by_lookup": 41,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        27,
+        47,
+        91,
+        348
+      ],
+      "attribution": "",
+      "note": "AEGIS as the steering instance that physical clues might point to"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        332,
+        346,
+        348
+      ],
+      "attribution": "",
+      "note": "emergence as a physics concept, tied to AEGIS and Kael in the worldbuilding lines"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        79,
+        96,
+        131,
+        346,
+        400
+      ],
+      "attribution": "",
+      "note": "Kael as the inhabitant who might read anomalies as clues"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        29,
+        47,
+        91,
+        100,
+        104,
+        127
+      ],
+      "attribution": "",
+      "note": "Kernwelten as stabilised regions, possibly parallel or projected"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        28,
+        83,
+        96,
+        109,
+        348
+      ],
+      "attribution": "",
+      "note": "Potentialmeer written together with Überwelt, as outer world, multiverse or boundary"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        30,
+        47,
+        63,
+        79,
+        400
+      ],
+      "attribution": "",
+      "note": "Risse as instabilities, leaks and local failures"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        11,
+        28
+      ],
+      "attribution": "",
+      "note": "Überwelt in the title and in one glossary entry with Potentialmeer"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 102,
+      "decision": "occurrence",
+      "why": "entropy in a cited source's physics sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 127,
+      "decision": "occurrence",
+      "why": "an underlying level of reality in the general sense"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

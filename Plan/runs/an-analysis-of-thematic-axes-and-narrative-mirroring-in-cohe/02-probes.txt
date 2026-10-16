@@ -1,0 +1,29 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      24
+  typographic marks      22
+  ascii quotes           78
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  aegis    AEGIS, Aegis
+  autop    Autopoiesis, Autopoietic
+  corre    Corrective, Correspondence
+  emerg    Emergence, Emergent
+  entro    Entropic, Entropy
+  initi    Initial, Initially
+  strat    Strategic, Strategy
+  syste    System, Systemic
+  these    These, Theseus
+
+# substring pairs -- never one term, often merged by accident
+  Here < Coherence
+  Path < Pathological
+  AEGIS < Aegis
+  Logic < Pathological
+  Logic < Psychological
+  These < Theseus
+  System < Systemic
+  Coheron < Coherons
+  Initial < Initially

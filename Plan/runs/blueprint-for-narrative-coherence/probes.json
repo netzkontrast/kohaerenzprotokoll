@@ -1,0 +1,36 @@
+{
+  "document": "blueprint-for-narrative-coherence",
+  "drive_id": "1KpldnyuDAmZK5uG7EpMAS3CUl-0TRxAizwqf5BHG9uw",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 6,
+  "backslash_escapes": 0,
+  "typographic_marks": 12,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "roman": [
+      "Roman",
+      "Romanideen"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Roman",
+      "Romanideen"
+    ],
+    [
+      "System",
+      "Systemic"
+    ]
+  ]
+}

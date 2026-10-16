@@ -1,0 +1,60 @@
+# counts for 50 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              3 word     3 in   [17, 21]
+  Alter                             2 word     6 in   [17, 19, 21, 27, 32]  <-- substring
+                                    1      as Alternation
+                                    1      as Alter-Surface-Timeline
+  Juna                              2 word     5 in   [17, 23, 25, 27]  <-- substring
+                                    1      as Juna-nah
+                                    1      as Junas
+                                    1      as Juna-Seeding-Layer
+  AEGIS                             2 word     2 in   [17, 21]
+  Guardians                         1 word     1 in   [17]
+  System-Telemetrie                 1 word     1 in   [17]
+  Storyform A POV                   1 word     1 in   [17]
+  Storyform B POV                   1 word     1 in   [17]
+  Storyforms                        1 word     1 in   [19]
+  POV-Alternation pro Kapitel       1 word     1 in   [17]
+  Dual-POV                          1 word     2 in   [19, 32]
+  Multiplizitäts-Schleier           1 word     1 in   [21]
+  Modi                              1 word     1 in   [21]
+  Echos                             1 word     1 in   [21]
+  Drifts                            1 word     1 in   [21]
+  Lücken                            1 word     1 in   [21]
+  Fragment                          1 word     1 in   [21]
+  ANP                               1 word     1 in   [21]
+  EP                                1 word     1 in   [21]
+  TSDP                              1 word     1 in   [21]
+  CFP                               1 word     1 in   [21]
+  Juna seeding                      1 word     1 in   [23]
+  Bilanz-Anomalie                   1 word     1 in   [23]
+  anomale Temperatur                1 word     1 in   [23]
+  langsam fallender Staub           1 word     1 in   [23]
+  Telefon-Stille                    1 word     1 in   [23]
+  Resonanzbruch                     1 word     1 in   [23]
+  Schrein                           1 word     1 in   [23]
+  Funktionale Multiplizität         1 word     1 in   [25]
+  Mosaik-Ahnung                     1 word     1 in   [25]
+  taktische Polyphonie              1 word     1 in   [25]
+  praktizierter Dialetheismus       1 word     1 in   [25]
+  Garten                            1 word     1 in   [25]
+  Witness-Funktion                  1 word     1 in   [25]
+  Alter-Surface-Timeline            1 word     1 in   [27]
+  Juna-Seeding-Layer                1 word     1 in   [27]
+  Pacing-Profil                     2 word     2 in   [27, 32]
+  Foreshadowing-Architektur         2 word     2 in   [27, 32]
+  Akt I                             1 word     2 in   [21, 25]
+  Akt III                           1 word     1 in   [25]
+  Kap 1                             2 word     4 in   [21, 23, 25]
+  Kap 2                             1 word     3 in   [23, 25]  <-- substring
+  Kap 3                             1 word     3 in   [23, 25]  <-- substring
+  Kap 7                             1 word     1 in   [23]
+  Kap 11                            1 word     1 in   [25]
+  Kap 13                            1 word     1 in   [21]
+  Kap 23                            1 word     1 in   [25]
+  Kap 27                            1 word     1 in   [25]
+  Kap 33                            2 word     2 in   [25]
+  Kapitel 13                        1 word     1 in   [21]

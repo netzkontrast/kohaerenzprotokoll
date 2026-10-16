@@ -1,0 +1,106 @@
+$ read.py --count "Unearned Intervention"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Unearned Intervention` ^[managing-ontological-risk-defining-the-narrative-integration.md:#2]
+$ read.py --count "Earned Revelation"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Earned Revelation` ^[managing-ontological-risk-defining-the-narrative-integration.md:#3]
+$ read.py --count "Gnosis Protocol"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Gnosis Protocol` ^[managing-ontological-risk-defining-the-narrative-integration.md:#4]
+$ read.py --count "DEM"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`DEM` ^[managing-ontological-risk-defining-the-narrative-integration.md:#3]
+$ read.py --count "Fundament"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Fundament` ^[managing-ontological-risk-defining-the-narrative-integration.md:#17]
+$ read.py --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[managing-ontological-risk-defining-the-narrative-integration.md:#2]
+$ read.py --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Juna/V"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/V` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Inner Council"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Inner Council` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Dance of the Parts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dance of the Parts` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Fundament Artefacts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament Artefacts` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Artefact Type"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Artefact Type` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Dialetheismus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dialetheismus` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Kohärenz durch Integration"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz durch Integration` ^[managing-ontological-risk-defining-the-narrative-integration.md:#2]
+$ read.py --count "episteme"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`episteme` ^[managing-ontological-risk-defining-the-narrative-integration.md:#1]
+$ read.py --count "Gnosis"
+whole word, case-sensitive     13
+whole word, case-insensitive   14
+including compounds            13
+
+`Gnosis` ^[managing-ontological-risk-defining-the-narrative-integration.md:#13]
+$ profile: question marks 0, backslash escapes 46 (01-profile.txt)
+  question marks       0
+  backslash escapes    46
+stance_marker_count 5 = Unearned Intervention 2 + Earned Revelation 3

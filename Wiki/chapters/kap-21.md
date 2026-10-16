@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 40
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 46
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "dkt-fundament-kohaerenz-protokoll-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ Alle gelesenen Quellen stellen die Membran in den zyklischen Modus, laut der str
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 21, in Teil 2: Die Eskalation, is titled „Die Erkenntnis der Guardians“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L364]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Zyklische Rückkehr (KW1 Revisited)`
+
+- The detailed plot draft plans for Kap 21, `Zyklische Rückkehr (KW1 Revisited)`: „AEGIS setzt Kael in einem neuen Zyklus zurück nach KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L115] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Spiegelwelten`
+
+- The Moonshine-Brücke blueprint plans for Kap 21, `Spiegelwelten`: „Kael navigiert bewusster zwischen Kernwelten, die Variationen desselben Themas zu sein scheinen.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L83] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Die Sprache der Symmetrie“ ^[monstergruppe-primzahlen-plot-blueprint.md:L231]
@@ -39,6 +47,10 @@ Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-pri
 
 - The enriched plot concept's theme draft has for Kapitel 21, under the concept label `Trauma & NET`: „in der B-Welt und muss sie in die richtige Reihenfolge bringen“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L59] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Spiel im Möglichkeitsraum`
+
+- The concept chapter map plans for Kap 21: „Die Entdeckung kreativen Potentials und der Fähigkeit zur Gestaltung der Realität in einer fluiden Umgebung“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L219]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
 
 Title: „An den Nähten der Welt“ ^[kohaerenz-protokoll.md:L2194]
@@ -48,9 +60,17 @@ Position: „Ontologie (Simulation) / Potentialmeer (Nähe)“ ^[kohaerenz-proto
 - Story: Kael tunes the bridge to probe what lies beyond it, detecting a „nicht-algorithmische Quelle“ ^[kohaerenz-protokoll.md:L2214] behind Epsilon-Null's noise; AEGIS classifies the resulting information as a threat, „WARNUNG: UNIDENTIFIZIERTE HOCHKOMPLEXE INFORMATIONSMUSTER DETEKTIERT IN KWS-CO1-MCL-BETA7.“ ^[kohaerenz-protokoll.md:L2238] and tries to seal the sector; Kael pushes through it and concludes „Er erkannte, dass AEGIS' Kontrolle nicht absolut war.“ ^[kohaerenz-protokoll.md:L2264], „Er hatte das Potentialmeer berührt.“ ^[kohaerenz-protokoll.md:L2266]
 - Voice: third person on Kael; AEGIS in system capitals, the Möglichkeits-Weber warns him in dialogue.
 
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Kreatives Potential (Ly-Welt)`
+
+- The comprehensive concept's overview gives Kap 21 the label „Kreatives Potential (Ly-Welt)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L101] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 21 „Der Preis der Funktionalität“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L52] in its second part, the system's everyday trials and assigns it the primary concept „Energetische Kosten der Anpassung / Masking“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L52]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a specialised Guardian or simulation layer
+
+- The logline analysis proposes for Kap 21: „AEGIS setzt einen spezialisierten Guardian oder eine neue Simulations-Schicht ein“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L243] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Rückkehr zu den inneren Landschaften
 
@@ -184,6 +204,10 @@ Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-kon
 - Plot: „Im Auge des Sturms wird Kael durch den Manipulator-Alter Eos 1 mit gefälschten, idyllischen Kindheitserinnerungen überflutet“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99], to lure him from Kiko.
 - Philosophy: „Philosophisch wird hier das Selbst als bloßes narratives und konstruktivistisches Kontinuum entlarvt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99]
 - Sensorik/tell: „die Blumen sondern keinen Duft ab“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99] and „der Wind fühlt sich an wie die sterile Abluft von Serverkühlern“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L99] betray the illusion as false.
+
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — a hexagonal lattice under the city
+
+The memo proposes for Kap. 20–22 that the alter Der Architekt sees a hexagonal, prime-indexed lattice, named after a person in the memo and left unnamed here: „die hexagonale, primzahlindizierte Struktur unter der Stadt“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L268]. The memo draws the consequence for the city: „Die Stadt ist kein Konstrukt auf einem Substrat“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L268]. The city is itself the substrate. The range is read the same way on each of the three chapters. A proposal of the memo, recorded, not canon.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the entropic-gravity set-piece at the Cerberus-Zitadelle
 

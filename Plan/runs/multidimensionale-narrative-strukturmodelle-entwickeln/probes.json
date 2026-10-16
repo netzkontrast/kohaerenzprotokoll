@@ -1,0 +1,274 @@
+{
+  "document": "multidimensionale-narrative-strukturmodelle-entwickeln",
+  "drive_id": "19pfzfn_UrPKeFTkCypw7hJood9dSAidQKXFJxAndIS0",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 58,
+  "backslash_escapes": 37,
+  "typographic_marks": 179,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "erzäh": [
+      "Erzählebenen",
+      "Erzählnetzwerke",
+      "Erzählstruktur",
+      "Erzählstrukturen",
+      "Erzählstränge",
+      "Erzählsträngen",
+      "Erzähltheorie",
+      "Erzähltheorien",
+      "Erzählung",
+      "Erzählungen"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterbogen",
+      "Charaktere",
+      "Charaktereigenschaft",
+      "Charakteren",
+      "Charakterparallelen",
+      "Charakterprofile",
+      "Charakters"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenanteile",
+      "Schattenbeziehung",
+      "Schattenfigur",
+      "Schattenkonzept",
+      "Schattenprojektion",
+      "Schattens"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturierung",
+      "Strukturmodell",
+      "Strukturmodelle",
+      "Strukturprinzipien"
+    ],
+    "quant": [
+      "Quanta",
+      "Quantenmechanik",
+      "Quantenphysik",
+      "Quantensystems",
+      "Quantenverschr",
+      "Quantenverschränkung"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysiere",
+      "Analyst",
+      "Analytiker",
+      "Analytischen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmechanismus",
+      "Interferenz",
+      "Interferenzmuster"
+    ],
+    "kausa": [
+      "Kausal",
+      "Kausale",
+      "Kausalität",
+      "Kausalkette",
+      "Kausalketten"
+    ],
+    "liter": [
+      "Literatur",
+      "Literature",
+      "Literaturtheoretiker",
+      "Literaturtheorie",
+      "Literaturwissenschaft"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narrativs",
+      "Narratologie"
+    ],
+    "philo": [
+      "Philodive",
+      "Philologie",
+      "Philosophen",
+      "Philosophie",
+      "Philosophy"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungen",
+      "Bedeutungsgeflechte",
+      "Bedeutungszusammenhänge"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ],
+    "grund": [
+      "Grundbegriffe",
+      "Grundlage",
+      "Grundlagen",
+      "Grundstruktur"
+    ],
+    "haupt": [
+      "Haupt",
+      "Hauptfigur",
+      "Hauptkonzepte",
+      "Hauptplot"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozess",
+      "Heilungsprozesses",
+      "Heilungsversuch"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifizierung",
+      "Identität",
+      "Identitätsbildung"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktquelle"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptentwicklung"
+    ],
+    "rhizo": [
+      "Rhizom",
+      "Rhizomatik",
+      "Rhizome",
+      "Rhizoms"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbild",
+      "Selbstentfremdung",
+      "Selbsterhaltung"
+    ],
+    "spieg": [
+      "Spiegelbild",
+      "Spiegelstadium",
+      "Spiegelstadiums",
+      "Spiegelung"
+    ],
+    "welle": [
+      "Welle",
+      "Wellen",
+      "Wellenfunktion",
+      "Welleninterferenz"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Trugbild"
+    ],
+    [
+      "Bild",
+      "Selbstbild"
+    ],
+    [
+      "Bild",
+      "Spiegelbild"
+    ],
+    [
+      "Bild",
+      "Identitätsbildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "AskLiteraryStudies"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ],
+    [
+      "Ende",
+      "Wendet"
+    ],
+    [
+      "Ende",
+      "Auslösende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Fall",
+      "Fallstudie"
+    ],
+    [
+      "Fall",
+      "Raubüberfall"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+## Narratives Cluster
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narratives Cluster` ^[monstergruppe-narrative-cluster-und-metaphern.md:#4]
+## Narrative Cluster
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Narrative Cluster` ^[monstergruppe-narrative-cluster-und-metaphern.md:#1]
+## Kap
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[monstergruppe-narrative-cluster-und-metaphern.md:#0]
+## Kapitel
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[monstergruppe-narrative-cluster-und-metaphern.md:#0]
+## Lore
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lore` ^[monstergruppe-narrative-cluster-und-metaphern.md:#3]
+## Narrativ
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            16
+
+`Narrativ` ^[monstergruppe-narrative-cluster-und-metaphern.md:#6]
+## Roman
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Roman` ^[monstergruppe-narrative-cluster-und-metaphern.md:#0]
+$ read.py monstergruppe-narrative-cluster-und-metaphern --count "Metapher-Cluster"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Metapher-Cluster` ^[monstergruppe-narrative-cluster-und-metaphern.md:#2]
+$ read.py monstergruppe-narrative-cluster-und-metaphern --count "Set Dressing"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Set Dressing` ^[monstergruppe-narrative-cluster-und-metaphern.md:#1]
+$ read.py monstergruppe-narrative-cluster-und-metaphern --count "Die Titanen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Titanen` ^[monstergruppe-narrative-cluster-und-metaphern.md:#1]
+$ read.py monstergruppe-narrative-cluster-und-metaphern --count "Die Architekten der Symmetrie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Architekten der Symmetrie` ^[monstergruppe-narrative-cluster-und-metaphern.md:#1]
+$ read.py monstergruppe-narrative-cluster-und-metaphern --count "Die Code-Meister"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Code-Meister` ^[monstergruppe-narrative-cluster-und-metaphern.md:#1]
+$ read.py monstergruppe-narrative-cluster-und-metaphern --count "Symmetrie-Persönlichkeiten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Symmetrie-Persönlichkeiten` ^[monstergruppe-narrative-cluster-und-metaphern.md:#1]
+$ grep -n "^## " Sources/drive/monstergruppe-narrative-cluster-und-metaphern.md (seven sections: L13 45 91 201 300 363 416)
+13:## **Abschnitt 1: Einführung: Das Enigma des Monsters**
+45:## **Abschnitt 2: Enthüllung des Monsters: Mathematische Grundlagen**
+91:## **Abschnitt 3: Die "Happy Family" und die "Pariahs": Schlüsseluntergruppen des Monsters**
+201:## **Abschnitt 4: Metaphern für das Monströse: Analogien über Wissensdomänen hinweg**
+300:## **Abschnitt 5: Environmental Storytelling für abstrakte Strukturen**
+363:## **Abschnitt 6: Die Essenz der Symmetrie: Ein tieferer Einblick**
+416:## **Abschnitt 7: Faszinierende Facetten und abschließende Gedanken**

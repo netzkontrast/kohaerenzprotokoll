@@ -1,0 +1,14 @@
+# kapitel-13-momente
+  lines                61  (frontmatter ends at 9)
+  body words           959
+  headings             0   bold-only lines 6
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    6   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    15
+  repeated labels      none
+  longest line         529 chars
+

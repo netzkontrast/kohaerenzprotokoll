@@ -1,0 +1,53 @@
+# counts for 44 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Fundament                    29 word    29 in   [11, 15, 17, 19, 21, 23]
+  Juna/V-Verbindung                12 word    12 in   [11, 33, 35, 43, 50, 52]
+  Juna/V                           27 word    39 in   [11, 33, 35, 37, 39, 43]
+                                   12      as Juna/V-Verbindung
+  Moonshine-Link                    2 word     5 in   [39, 41, 89]  <-- substring
+                                    3      as Moonshine-Links
+  Kael-Juna (K-J) Verbindung        1 word     1 in   [91]
+  Paraiyas                          3 word     3 in   [21, 64]
+  Paradoxon X                       3 word     3 in   [25, 70, 78]
+  Potentialmeers                    2 word     2 in   [37, 85]
+  alternatives Kohärenzprotokoll    2 word     2 in   [37, 85]
+  Kohärenz Protokoll                7 word     7 in   [11, 17, 31, 52, 54, 78]
+  Kernprozessor                     2 word     2 in   [43, 95]
+  Kernwelten                        1 word     1 in   [97]
+  Kontaktquelle                     2 word     2 in   [37, 85]
+  Reboots                           1 word     1 in   [104]
+  AEGIS                            46 word    46 in   [21, 25, 35, 37, 39, 41]
+  Kael                             22 word    41 in   [23, 25, 29, 30, 31, 39]
+                                   18      as Kaels
+                                    1      as Kael-Juna
+  Impact Character (IC)             1 word     1 in   [95]
+  Monster Group (M)                 1 word     1 in   [91]
+  Monstrous Moonshine               1 word     1 in   [91]
+  ontologischer Exploit             4 word     4 in   [11, 43, 56, 93]
+  lebendiger Gödel-Satz             2 word     2 in   [43, 93]
+  Gödel-Satz                        3 word     3 in   [43, 93]
+  Gödel-Gambit                      1 word     1 in   [95]
+  architektonische Hintertür        3 word     3 in   [47, 91, 95]
+  seltsamer Attraktor               3 word     3 in   [23, 68]
+  Anziehungsbecken                  2 word     2 in   [23, 68]
+  schwache Emergenz                 2 word     2 in   [23, 68]
+  parakonsistenter Rahmen           2 word     2 in   [21, 64]
+  Gnosis                            2 word     2 in   [25, 72]
+  Ankerpunkte                       1 word     1 in   [104]
+  blindem Fleck                     1 word     1 in   [97]
+  Verdiente Einsicht                2 word     2 in   [29, 76]
+  Frühes Foreshadowing              2 word     2 in   [30, 77]
+  Begrenzte Erklärungskraft         2 word     2 in   [31, 78]
+  Deus ex Machina                   6 word     6 in   [11, 27, 45, 56, 74, 99]
+  Quantenverschränkung              2 word     2 in   [41, 89]
+  Prehension                        2 word     2 in   [41, 89]
+  Prähension                        1 word     1 in   [89]
+  Qualia                            3 word     3 in   [41, 91]
+  Advaita Vedanta                   1 word     1 in   [66]
+  Madhyamaka Buddhismus             1 word     1 in   [66]
+  Pleroma                           1 word     1 in   [66]
+  Yin und Yang                      1 word     1 in   [66]
+  Śūnyatā                           1 word     1 in   [66]

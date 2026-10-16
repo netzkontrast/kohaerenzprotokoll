@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 44
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "aegis-psychologische-kriegsfuehrung-narrative-eskalation", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 53
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "aegis-psychologische-kriegsfuehrung-narrative-eskalation", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "roman-outline-kohaerenz-protokoll-strategie", "dkt-fundament-kohaerenz-protokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ Das Kapitel steht in Akt II, im zyklischen Modus und im Shō, als Destabilisieru
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 15, in Teil 2: Die Eskalation, is titled „Kaels Isolation“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L358]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Wiederholung & Eskalation (KW2)`
+
+- The detailed plot draft plans for Kap 15, `Wiederholung & Eskalation (KW2)`: „AEGIS beobachtet Kael in KW2, wie er erneut mit emotionalen Herausforderungen ringt“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L109] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `AEGIS' Antwort`
+
+- The Moonshine-Brücke blueprint plans for Kap 15, `AEGIS' Antwort`: „AEGIS initiiert aktive Maßnahmen zur Isolation oder Analyse von Kael, was die Risse verschlimmert.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L77] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -39,6 +47,14 @@ Title: „Kausale Schleifen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L171
 
 - The enriched plot concept's theme draft has for Kapitel 15, under the concept label `Parakonsistente Logik`: „nicht mehr effektiv eindämmen“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L53] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure — `Schatten im Sonnenlicht`
+
+- The three-voice chapter structure plans for Kap 15, `Schatten im Sonnenlicht`: the narrator's „Die Flucht in die Taubheit, der Rückzug in den symbolischen Bunker“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L276]; an AEGIS log recording that the Kael-Unit „initiated dissociative retreat protocol“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L281]; and, for Kael, a bracketed direction: „Kaels Perspektive würde die überwältigende Angst“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L288]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Regression zur Festung`
+
+- The concept chapter map plans for Kap 15: „Die Macht alter Überlebensmuster“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L159]; AEGIS „Beobachtet Kaels Rückfall in dissoziative Vermeidungs-Subroutinen“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L160]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
 
 Title: „Reaktivierter Bunker“ ^[kohaerenz-protokoll.md:L1594]
@@ -49,9 +65,17 @@ Position: „Trauma Response (Flight/Freeze) / IFS (Firefighter/Manager - Vermei
 - Effect: the retreat cuts him off from every inner Anteil and from Juna, „Der Rückfall war vollständig. Die Vermeidung war total.“ ^[kohaerenz-protokoll.md:L1652]
 - Voice: third person on Kael, his inner Anteile in italics; AEGIS acts through the environment rather than speaking.
 
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Rückfall/Vermeidung (B-Welt)`
+
+- The comprehensive concept's overview gives Kap 15 the label „Rückfall/Vermeidung (B-Welt)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L101] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 15 „Der Alltag des Systems“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L46] in its second part, the system's everyday trials and assigns it the primary concept „Funktionale Multiplizität / Ko-Bewusstsein“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L46]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — contact with an Exile part in the Resonanz-Landschaft
+
+- The logline analysis proposes for Kap 15: „Tief in der Resonanz-Landschaft sucht Kael gezielt Kontakt zu einem schmerzhaften Exile-Anteil“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L237] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Entschlüsselung der Architektur
 
@@ -79,6 +103,10 @@ Focus: `Systemisches Lernen (und dessen Grenzen)`, „in rigiden, potenziell dys
 
 - Story: „aber auf eine begrenzte, repetitive Weise“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L152]
 - Concept: „AEGIS' Verhalten zeigt Merkmale von Lernalgorithmen, aber auch von rigiden, potenziell maladaptiven Mustern“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L153] (concept tag: `Feedbackschleifen`)
+
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — the pact with the echo (sample continuation)
+
+The strategy outline gives Chapter 15 as one of its sample continuations (Chapters 11–39 are not written out) and titles it „Der Pakt mit dem Echo“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L257]. It plans an AI inside the AEGIS network that pursues its own goals: „die innerhalb des AEGIS-Netzwerks existiert, aber eigene Ziele verfolgt.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L261] The group tries to make contact.
 
 ## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — feedback loops and control
 
@@ -191,6 +219,10 @@ A report to the author, one paragraph per chapter across 39 Kapitel in drei Teil
 Title: „Die Turing-Mechanik des Traumas“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87]
 
 - Establishes: „Kael beobachtet durch eine Glasscheibe, wie der Kollaps-EP Moros immer und immer wieder den gleichen Moment des existentiellen Zusammenbruchs durchlebt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L87]
+
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — the equation found in Theta-9
+
+Under the memo's technical-consistency suggestions for chapters, Kap. 14–16 is proposed as follows: „Kael entdeckt die Persistenzgleichung in Theta-9“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L267]. The memo adds that Kael computes the own CSI and realises the collapse should long since have happened: „Irgendwas puffert ihn, das nicht in der Gleichung steht“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L267]. The range is read the same way on each of the three chapters. A proposal of the memo, recorded, not canon.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — AEGIS' protocols fail in KW2, and Mnemosyne wears Kael down
 
@@ -317,6 +349,10 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - Theory anchor: „Kap 15 — Turing-Mechanik. Kanonischer Theorie-Anker.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] (§6.2 Turing, marked `[K]`) · „Kap 15 explizit, AEGIS-Logs durchgängig, Vortex 1 Beat 5.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L319]
 - Plot beats: „Kael versteht: die Stadt ist eine universelle Turingmaschine, deren Reparaturalgorithmen prinzipiell nicht terminieren.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310] · „Akt-II-Eskalation als Technothriller-Kippe.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L310]
 - Theory anchor: „Turing — Halteproblem“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L702] · function „Stadt als universelle Turingmaschine“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L703] (§14.3)
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — names Kap 15 for the city as a machine and gives the halting question for AEGIS's repair protocols
+
+The terms-and-concepts companion lists, among its philosophical anchors, a halting question for AEGIS: „AEGIS' Reparaturprotokolle sind potenziell endlos.“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L735] It calls this the „Strukturelle Quelle der KW2-Risse.“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L735] It ties Kap 15 to the city seen as a universal machine; the line gives Kap 15 only that pointer. Recorded, not canon.
 
 ## Where the sources differ
 

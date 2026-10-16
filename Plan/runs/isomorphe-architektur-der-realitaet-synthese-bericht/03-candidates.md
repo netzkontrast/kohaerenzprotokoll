@@ -1,0 +1,73 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observation, written while reading: the document is a report in the voice of a fictional archivist that names a Kohärenz-Protokoll as its basis and maps physics, trauma psychology and ontology onto one another as structural identities. The ordinary physics, psychology and graphics vocabulary is listed where the document sets it in bold, defines it or heads a section with it. The reference list at the end is left out by rule (titles of cited works).
+
+- Kohärenz-Protokoll
+- Synthese-Bericht
+- Leitender System-Archivar
+- Isomorphie
+- Isomorphe Matrix
+- Schadensbegrenzung durch Separation
+- Sequestrierung
+- Dimensionale Sequestrierung
+- Brane
+- TeV-Brane
+- Weakbrane
+- Planck-Brane
+- Bulk
+- Warp-Faktor
+- Hierarchie-Problem
+- Leaking
+- Flashbacks
+- Glitches
+- Glitch
+- Monster-Gruppe
+- Monstrous Moonshine
+- Monster-Modul
+- Symmetriebruch
+- Symmetrie-Restauration
+- Selbst
+- Selbst-System
+- ANP
+- EP
+- Apparently Normal Part
+- Emotional Part
+- Primäre Dissoziation
+- Sekundäre Dissoziation
+- Tertiäre Dissoziation
+- Exile
+- Exil
+- Protektoren
+- Manager
+- Feuerlöscher
+- Lasten
+- Burden
+- Unburdening
+- Witnessing
+- Vertex Explosion
+- Somatic IFS
+- Z-Fighting
+- Z-Buffer
+- Hyperrealität
+- Glitch Horror
+- Einstein-Rosen-Brücke
+- Einstein-Rosen-Brücken
+- Wurmloch
+- Kalb-Ramond-Feld
+- Radion-Feld
+
+## lens
+
+- Strukturelle Dissoziation
+- Internal Family Systems
+- ER=EPR
+- Truthmaker Theory
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie
+- Goldberger-Wise-Mechanismus
+- Randall-Sundrum-Modelle
+- Glitch-Phänomenologie
+- Spaghettifizierung
+- Skinning Weight
+- Re-Embodiment
+- Time Distortion

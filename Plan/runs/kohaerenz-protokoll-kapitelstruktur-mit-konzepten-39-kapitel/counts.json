@@ -1,0 +1,1030 @@
+{
+  "document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+  "drive_id": "1CseyKovWOdJsQty5c7dShsNZc7Qnw-BMDifUdx0PSwk",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kapitel": {
+      "n": 43,
+      "n_including_compounds": 44,
+      "lines": [
+        11,
+        13,
+        15,
+        25,
+        35,
+        45,
+        55,
+        65,
+        75,
+        85,
+        95,
+        105,
+        115,
+        125,
+        135,
+        143,
+        145,
+        155,
+        165,
+        175,
+        185,
+        195,
+        205,
+        215,
+        225,
+        235,
+        245,
+        255,
+        263,
+        265,
+        275,
+        285,
+        295,
+        305,
+        315,
+        325,
+        335,
+        345,
+        355,
+        365,
+        375,
+        385,
+        395
+      ]
+    },
+    "Erzähler": {
+      "n": 39,
+      "n_including_compounds": 39,
+      "lines": [
+        19,
+        29,
+        39,
+        49,
+        59,
+        69,
+        79,
+        89,
+        99,
+        109,
+        119,
+        129,
+        139,
+        149,
+        159,
+        169,
+        179,
+        189,
+        199,
+        209,
+        219,
+        229,
+        239,
+        249,
+        259,
+        269,
+        279,
+        289,
+        299,
+        309,
+        319,
+        329,
+        339,
+        349,
+        359,
+        369,
+        379,
+        389,
+        399
+      ]
+    },
+    "AEGIS": {
+      "n": 48,
+      "n_including_compounds": 48,
+      "lines": [
+        20,
+        30,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90,
+        100,
+        110,
+        120,
+        130,
+        140,
+        150,
+        160,
+        170,
+        180,
+        190,
+        200,
+        209,
+        210,
+        220,
+        230,
+        239,
+        240,
+        250,
+        260,
+        269,
+        270,
+        279,
+        280,
+        289,
+        290,
+        299,
+        300,
+        310,
+        320,
+        330,
+        339,
+        340,
+        349,
+        350,
+        360,
+        370,
+        380,
+        390,
+        400
+      ]
+    },
+    "Fundamentales Konzept": {
+      "n": 39,
+      "n_including_compounds": 39,
+      "lines": [
+        21,
+        31,
+        41,
+        51,
+        61,
+        71,
+        81,
+        91,
+        101,
+        111,
+        121,
+        131,
+        141,
+        151,
+        161,
+        171,
+        181,
+        191,
+        201,
+        211,
+        221,
+        231,
+        241,
+        251,
+        261,
+        271,
+        281,
+        291,
+        301,
+        311,
+        321,
+        331,
+        341,
+        351,
+        361,
+        371,
+        381,
+        391,
+        401
+      ]
+    },
+    "Kael": {
+      "n": 14,
+      "n_including_compounds": 37,
+      "lines": [
+        20,
+        30,
+        90,
+        100,
+        110,
+        120,
+        130,
+        140,
+        150,
+        160,
+        170,
+        180,
+        190,
+        200,
+        209,
+        210,
+        220,
+        230,
+        240,
+        250,
+        260,
+        279,
+        280,
+        300,
+        310,
+        320,
+        329,
+        339,
+        340,
+        349,
+        351,
+        359,
+        369,
+        379,
+        399
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        359,
+        399
+      ]
+    },
+    "M": {
+      "n": 15,
+      "n_including_compounds": 58,
+      "lines": [
+        19,
+        30,
+        49,
+        60,
+        81,
+        89,
+        90,
+        91,
+        115,
+        119,
+        120,
+        121,
+        125,
+        130,
+        131,
+        150,
+        159,
+        170,
+        175,
+        179,
+        180,
+        199,
+        200,
+        201,
+        209,
+        215,
+        231,
+        239,
+        241,
+        259,
+        261,
+        281,
+        289,
+        295,
+        319,
+        329,
+        339,
+        340,
+        349,
+        351,
+        359,
+        361,
+        369,
+        371,
+        379,
+        389,
+        399
+      ]
+    },
+    "Kael/M": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        329,
+        339,
+        340,
+        349,
+        351,
+        359,
+        369,
+        379,
+        399
+      ]
+    },
+    "Co₁-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Co₁": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        20,
+        40
+      ]
+    },
+    "McL": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        200
+      ]
+    },
+    "Ly": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        220
+      ]
+    },
+    "Ly-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "B-Welt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        169,
+        170
+      ]
+    },
+    "B-Welt-Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Potentialmeer": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        229,
+        349,
+        359,
+        369,
+        379,
+        389,
+        399
+      ]
+    },
+    "Fragment Alpha": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        60
+      ]
+    },
+    "Alpha": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        50,
+        60,
+        70
+      ]
+    },
+    "Logik-Fragments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Controlled Fragmentation Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "K-J": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        79,
+        80,
+        179,
+        180,
+        269
+      ]
+    },
+    "K-J Vektor-Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "alternatives Kohärenzprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Kael-Self\\_Integrator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        190
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        120
+      ]
+    },
+    "Mosaik-Herzens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Inner Garden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Jetzt-Raum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        130
+      ]
+    },
+    "Stress-Test": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        150
+      ]
+    },
+    "Delta-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Kontrollvektoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Kern-Trauma-Fragments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        250
+      ]
+    },
+    "T-734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        250
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Schatten": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        165,
+        169,
+        170,
+        171
+      ]
+    },
+    "Wächterin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Wächter": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        189,
+        235,
+        275
+      ]
+    },
+    "Ordnungsinstanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Zyklischer Erzählstil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Cache-Konflikte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Simulationsgrenze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        230
+      ]
+    },
+    "Realitätsillusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        230
+      ]
+    },
+    "Instrumente der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Der Riss im Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Die Festung der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Echos im Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Der Glanz der Oberfläche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Der Kollaps der Formeln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Die Resonanz der Tiefe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Der Frieden im Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Die Synthese der Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Die angewandte Harmonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Das Mosaik des Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Die Stille der Mitte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Der Tanz im Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Der Bruch des Gleichgewichts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Regression zur Festung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Begegnung im Schattenreich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Muster im Chaos erkennen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Die Stimme der Weisheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Der Alltag der Fragmente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Sabotage im System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Spiel im Möglichkeitsraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Der Blick in den Abgrund": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Die Entschlüsselung des Wächters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Das Echo der Kernwunde": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        245
+      ]
+    },
+    "Die Wahl der Konfrontation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Infiltration des Labyrinths": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "Die Paradoxien der Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "Die Wahrheit im Kern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "Metamorphose der Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        295
+      ]
+    },
+    "Die Klarheit jenseits der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        305
+      ]
+    },
+    "Das Brechen der Fesseln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        315
+      ]
+    },
+    "Die Geburt des Neuen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        325
+      ]
+    },
+    "Der Fall des Titanen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        335
+      ]
+    },
+    "Exodus ins Potential": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        345
+      ]
+    },
+    "Resonanz der Verbundenen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        355
+      ]
+    },
+    "Die Freiheit des Seins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        365
+      ]
+    },
+    "Wellen der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "Der unendliche Horizont": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        385
+      ]
+    },
+    "Echo der Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        395
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        201
+      ]
+    },
+    "Internal Family Systems (IFS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Monstrous Moonshine Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Dialektik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Verkörperung (Embodiment)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Emergenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        90,
+        221,
+        331
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        340,
+        341
+      ]
+    },
+    "Entropie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        130,
+        381
+      ]
+    },
+    "Negentropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        381
+      ]
+    },
+    "Posttraumatisches Wachstum (PTG)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        391
+      ]
+    },
+    "Holismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        291
+      ]
+    },
+    "Reduktionismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        291
+      ]
+    },
+    "Epistemologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        310,
+        311
+      ]
+    },
+    "Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Simulationstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Systemtheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Narrative Therapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Traumabindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        321
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Achtsamkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        139
+      ]
+    }
+  }
+}

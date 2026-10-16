@@ -1,0 +1,134 @@
+{
+  "document": "kohaerenz-direktive-narratives-protokoll",
+  "drive_id": "1P_n8KfpAJtuAIyakA4Uiy0iDX8aFq1nJp0Ltkcob9nY",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 51,
+    "decided_by_lookup": 38,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        42,
+        90
+      ],
+      "attribution": "",
+      "note": "AEGIS as the physical eraser and the pole of order"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "identity (Alter) as the checklist's question of perspective"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32,
+        56
+      ],
+      "attribution": "",
+      "note": "entropy as the second narrative level and the measurable effect of Juna"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "the Guardians cannot see Juna"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        31,
+        32,
+        70
+      ],
+      "attribution": "",
+      "note": "Juna as erased memory, unreadable to the Guardians and to LogOS, and as the third level"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        37,
+        64,
+        89
+      ],
+      "attribution": "",
+      "note": "Kael in the writing rules: forgetting, trauma, synaesthesia, point of view"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        42,
+        44,
+        45,
+        54
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as level one: order, sterile, without metaphor"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "the rule that LogOS may never understand Juna"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the directive's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the simulation the story is set in, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

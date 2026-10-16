@@ -1,0 +1,118 @@
+{
+  "document": "kohaerenz-protokoll-system-realitaet-leser",
+  "drive_id": "1Z8dB3n_DpFEMqufDIdGCtuyOIidWhREsAY-3XDqzYcM",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-16, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-527/brief.md, 2026-10-16",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 52,
+    "decided_by_lookup": 42,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An outside analysis mapping the novel onto the DKT, an AI architecture, Dramatica and TSDP: what it reads for Aegis, the DKT, entropy, the nichts Rauschen and TSDP went on existing pages; its architecture vocabulary stays unpromoted.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        49,
+        70,
+        82,
+        84,
+        148
+      ],
+      "attribution": "",
+      "note": "Aegis mapped onto an AI agent architecture and a clinical framework"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17,
+        19,
+        21,
+        23
+      ],
+      "attribution": "",
+      "note": "the DKT as the analysis's frame for the universe"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        49
+      ],
+      "attribution": "",
+      "note": "entropy tied to erasure and to a buffering cost"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        43,
+        82,
+        148
+      ],
+      "attribution": "",
+      "note": "`nichts Rauschen` mapped to K₀ and to the emotional part"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        74,
+        82,
+        130
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical framework it attributes to the novel"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Aegis` written mixed-case names AEGIS; the analysis's mappings onto an AI architecture, Dramatica and TSDP are its own; `Kernel` alone generic; title and `Simulation` occurrences; Section 7 and the reference list not read; names of people never written",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "reading",
+      "why": "entropy in the DKT reading; read on the page if the line fits"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "literary simulation, not the page's term"
+    }
+  ],
+  "not_promoted": [
+    "the AI agent architecture and its brain-region modules, the Dramatica and TSDP vocabulary as surfaces, Aegis Cortex, Selbst-Löschung, the witness function as a surface, the app framing, the concepts named after people, Section 7 and the reference list"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

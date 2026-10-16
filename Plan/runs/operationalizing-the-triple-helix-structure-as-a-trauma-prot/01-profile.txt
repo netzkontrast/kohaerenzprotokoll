@@ -1,0 +1,14 @@
+# operationalizing-the-triple-helix-structure-as-a-trauma-prot
+  lines                114  (frontmatter ends at 9)
+  body words           2120
+  headings             18   bold-only lines 0
+  table rows           6   code fences 0
+  question marks       0
+  backslash escapes    28
+  typographic marks    14   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    4
+  repeated labels      none
+  longest line         826 chars
+

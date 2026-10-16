@@ -1,0 +1,60 @@
+# counts for 48 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Showing, not Telling
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Schlüssigkeit                    23 word    23 in   [11, 13, 15, 17, 19, 23]
+  Narrative Kohärenz                5 word     5 in   [21, 45, 47]
+  Konzeptuelle Konsistenz           2 word     2 in   [22, 57]
+  Kredibilität                      7 word     7 in   [17, 19, 23, 35, 168, 261]
+  Kausalitätsbeziehungen (Ursache und Wirkung)    1 word     1 in   [49]
+  temporale Konsistenz              1 word     1 in   [51]
+  inferentielle Arbeit des Lesers    1 word     1 in   [53]
+  internen Logik                    4 word     4 in   [22, 61, 149, 210]
+  Prämissenkonsistenz               1 word     1 in   [63]
+  externer und interner Logik       1 word     1 in   [67]
+  Charakterglaubwürdigkeit          3 word     3 in   [43, 71, 91]
+  Inkonsistentes Charakterverhalten    2 word     2 in   [79, 188]
+  strukturellen Kohärenz            1 word     1 in   [103]
+  Wendepunkte (Turning Points)      1 word     1 in   [99]
+  Plot Points                       1 word     1 in   [99]
+  thematische Resonanz              3 word     3 in   [91, 115, 121]
+  Thematic Square                   2 word     2 in   [121, 256]
+  Deus Ex Machina (DEM)             2 word     2 in   [166, 254]
+  Weltenbibel                       2 word     3 in   [69, 198, 253]
+                                    1      as Weltenbibeln
+  Charakterbibel                    1 word     2 in   [162, 252]
+                                    1      as Charakterbibeln
+  totale Kausalität                 1 word     1 in   [49]
+  Überkohärenz                      1 word     1 in   [49]
+  editorial fatigue                 2 word     2 in   [162, 194]
+  Freytags Pyramide                 1 word     1 in   [95]
+  Sieben-Punkte-Struktur            1 word     1 in   [95]
+  Drei-Akt-Struktur                 3 word     3 in   [95, 97, 105]
+  Inciting Incident                 2 word     2 in   [97, 99]
+  Plotlöcher                        8 word    13 in   [37, 143, 145, 147, 158, 160]
+                                    5      as Plotlöchern
+  Kontinuitätsfehler                2 word     2 in   [151, 192]
+  Leerstellen                       1 word     1 in   [29]
+  Retconning                        2 word     2 in   [160, 273]
+                                    1      as retconning-history-comic-books-and-the-holocaust
+  purple prose                      1 word     1 in   [131]
+  gemischte Metaphern               3 word     3 in   [131, 233, 257]
+  Sekundärwelt                      1 word     1 in   [33]
+  Secondary Belief                  4 word     4 in   [33, 37, 39, 261]
+  Suspension of Disbelief           7 word     7 in   [27, 37, 39, 69, 168, 200]
+  willing suspension of disbelief    3 word     3 in   [31, 39, 261]
+  Charakterbogen                    5 word     5 in   [87, 117, 227, 256]
+  Kernthema                         3 word     4 in   [111, 256]
+                                    1      as Kernthemas
+  Foreshadowing                     4 word     4 in   [180, 251, 254]
+  Agency                            2 word     3 in   [168, 180, 254]
+  Pacing                            8 word     8 in   [93, 101, 105, 237, 261]
+  Midpoint                          2 word     2 in   [97, 99]
+  Rising Action                     2 word     2 in   [97, 105]
+  Leser-Vertrags                    1 word     1 in   [214]
+  Thematische Dissonanz             1 word     1 in   [256]
+  Verletzung von Weltregeln         1 word     1 in   [253]
+  Charakterinkonsistenz             1 word     3 in   [150, 242, 252]  <-- substring
+                                    2      as Charakterinkonsistenzen

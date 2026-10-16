@@ -1,0 +1,94 @@
+# counts for 78 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Story Mind                        5 word     7 in   [21, 23, 35, 48, 242, 388]
+  Storyform                         4 word    12 in   [182, 283, 297, 298, 396, 416]  <-- substring
+                                    4      as Storyforming
+                                    2      as Storyforming-Phase
+                                    1      as Storyforms
+                                    1      as Storyform-Datensatz
+  Storyforming                      4 word     6 in   [182, 297, 396, 438]
+                                    2      as Storyforming-Phase
+  Story Encoding                    1 word     1 in   [298]
+  Story Weaving                     2 word     3 in   [269, 299, 357]
+  Story Reception                   1 word     1 in   [300]
+  Throughlines                      5 word     5 in   [156, 157, 171, 297, 363]
+  Domain                            9 word    11 in   [140, 141, 156, 157, 159, 171]
+                                    2      as Domains
+  Concern                           2 word     5 in   [141, 157, 297]  <-- substring
+                                    3      as Concerns
+  Signposts                         8 word     8 in   [112, 204, 205, 299, 396]
+  Journeys                          5 word     5 in   [112, 204, 299]
+  Story Dynamics                    1 word     1 in   [142]
+  Story Goal                        1 word     2 in   [215, 240]
+  Story Outcome                     1 word     1 in   [182]
+  Story Judgment                    1 word     1 in   [182]
+  Story Limit                       1 word     1 in   [226]
+  Story Growth                      1 word     1 in   [159]
+  Timelock                          3 word     3 in   [142, 226]
+  Optionlock                        3 word     3 in   [142, 226]
+  Author's Argument                 2 word     2 in   [215, 388]
+  Main Character                    2 word     3 in   [156, 182]
+  Influence Character               2 word     2 in   [156]
+  Objective Story                   2 word     2 in   [156, 193]
+  Relationship Story                1 word     1 in   [156]
+  Choice-Space                      3 word     3 in   [131, 133, 149]
+  Appreciations                     1 word     1 in   [297]
+  Coherence-Invarianten             2 word     2 in   [163, 442]
+  Domänen-Singularität              1 word     1 in   [167]
+  Clarifying-Question-Protokoll     3 word     6 in   [15, 185, 236, 245, 422, 448]
+                                    2      as Clarifying-Question-Protokolls
+                                    1      as Clarifying-Question-Protokolle
+  CQ                                1 word     6 in   [245, 267, 358, 360, 368, 424]  <-- substring
+  Phasen-Transitions-Verträge       2 word     2 in   [15, 288]
+  Strukturelle Contradictions       1 word     1 in   [224]
+  Inhaltliche Contradictions        1 word     1 in   [231]
+  Pragmatische Contradictions       1 word     1 in   [238]
+  Consistency Risk Score            2 word     2 in   [234, 251]
+  CRS                               1 word     1 in   [251]
+  Context Rot                       5 word     5 in   [222, 344, 359, 420, 444]
+  Task Drift                        3 word     3 in   [222, 355, 469]
+  Reward Hacking                    3 word     3 in   [357, 438, 469]
+  Alignment Faking                  2 word     2 in   [358, 469]
+  Vocabulary Drift                  2 word     2 in   [133, 362]
+  Parameter Hallucination           1 word     1 in   [356]
+  Degeneration Loops                1 word     1 in   [360]
+  Ordering Error                    1 word     2 in   [361, 444]
+  Asymmetric Architecture           1 word     1 in   [363]
+  State Overwrite                   1 word     1 in   [364]
+  Working-State                     3 word     4 in   [19, 227, 302, 414]
+                                    1      as Working-State-Dokuments
+  working\_state                    5 word     5 in   [273, 274, 313, 368, 416]
+  story\_mind                       4 word     4 in   [37, 52, 286, 317]
+  encoding\_context                 2 word     2 in   [273, 319]
+  weaving\_timeline                 2 word     2 in   [274, 330]
+  execution\_memory                 1 word     1 in   [335]
+  last\_stable\_hash                2 word     2 in   [339, 444]
+  Episodic Memory                   1 word     1 in   [304]
+  Working Memory                    1 word     1 in   [304]
+  Alert Fatigue                     2 word     2 in   [247, 448]
+  Lazy Querying                     1 word     1 in   [247]
+  Chain-of-Justification            1 word     1 in   [236]
+  Forward-Fix                       2 word     2 in   [362, 428]
+  State Rollback                    1 word     1 in   [229]
+  Self-Correction-Loop              1 word     1 in   [218]
+  Regression-Verification Suite     1 word     1 in   [366]
+  Architectural Decision Records    1 word     1 in   [378]
+  Falsifikations-Test               2 word     2 in   [388, 396]
+  Hybrid-Container                  1 word     1 in   [388]
+  Single-Artifact-Mandat            1 word     1 in   [448]
+  Komponente A                      1 word     1 in   [15]
+  Komponente O                      1 word     1 in   [15]
+  INV-01                            3 word     3 in   [167, 297, 372]
+  INV-05                            3 word     3 in   [211, 300, 372]
+  IC-01                             2 word     2 in   [156, 297]
+  FM-01                             1 word     1 in   [355]
+  Dramatica-Theorie                 6 word     6 in   [15, 23, 149, 380, 384, 436]
+  Spec-Driven Design                2 word     2 in   [15, 380]
+  Model Context Protocol            6 word     6 in   [19, 229, 304, 452, 453, 472]
+  Relational Blockworld             1 word     2 in   [442, 473]
+  Janus-Prinzip                     1 word     1 in   [216]
+  Pre-Mortem                        3 word     4 in   [348, 432, 444]
+                                    1      as Pre-Mortem-Analysen

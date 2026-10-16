@@ -26,7 +26,7 @@ today's (106 pages, 187 nodes) in about 90 s with the standard library.
 | `vercel.json` | no framework, no install, build `python3 scripts/web.py`, output `Plan/derived/web`, `/` → `Main.dc.html`, `noindex` | **[built]** |
 | Vercel project | `kohaerenzprotokoll`, Git-connected, Vercel Authentication on all deployments | **[built]** |
 
-Every push to any branch builds a preview; a push to `main` builds production. Tested from a tree holding only the
+Every push to any branch built a preview and a push to `main` builds production; since 2026-10-16 only `main` builds (`git.deploymentEnabled` in `vercel.json`, the author's instruction). Tested from a tree holding only the
 tracked files, no `.git` and no `Plan/derived/`: 94 s, all eight files written, the app renders with current data.
 
 ## 3 · What a person decides

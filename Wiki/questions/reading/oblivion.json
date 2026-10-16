@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "oblivion",
+ "title": "Oblivion",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Vergessen als Handlung",
+  "Unterschied zwischen Echo und eigener Figur",
+  "erste eigenständige Wahl",
+  "Nähe zum Kontrollsystem",
+  "Wandel nach AEGIS' Ende"
+ ],
+ "basis": {
+  "oblivion": {
+   "title": "Oblivion",
+   "path": "Wiki/candidates/oblivion.md",
+   "hash": "ca2c5b470c17bf0735677596cfb21b6b7fa28ae5050c01850e7671ab53cf2bfb"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "trennungsprotokoll": {
+   "title": "Trennungsprotokoll",
+   "path": "Wiki/candidates/trennungsprotokoll.md",
+   "hash": "33c7084360ab2602ba3969b0722bf09d92e20952f7cbcc9235d8a3bbb5ca3bfc"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-oblivion-001",
+   "question": "Was unterscheidet Oblivions erste eigene Wahl von einem weiteren Vollzug von AEGIS' Löschfunktion?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-002",
+   "question": "Welche Lesarten auf der Seite zu Oblivion stützen oder begrenzen „Vergessen als Handlung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-003",
+   "question": "Welcher Grenzfall würde bei Oblivion die Annahmen über „Vergessen als Handlung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-004",
+   "question": "Wer könnte innerhalb des Romans bei Oblivion etwas über „Vergessen als Handlung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-005",
+   "question": "Welche konkrete Entscheidung könnte „Vergessen als Handlung“ bei Oblivion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Vergessen als Handlung“ bei Oblivion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-007",
+   "question": "Wie lässt sich „Vergessen als Handlung“ bei Oblivion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-008",
+   "question": "Welche Alternativen sollte der Autor bei Oblivion für „Vergessen als Handlung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-009",
+   "question": "Was bedeutet bei Oblivion der Themenpunkt „Unterschied zwischen Echo und eigener Figur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-010",
+   "question": "Welche Lesarten auf der Seite zu Oblivion stützen oder begrenzen „Unterschied zwischen Echo und eigener Figur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-011",
+   "question": "Welcher Grenzfall würde bei Oblivion die Annahmen über „Unterschied zwischen Echo und eigener Figur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-012",
+   "question": "Wer könnte innerhalb des Romans bei Oblivion etwas über „Unterschied zwischen Echo und eigener Figur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Echo und eigener Figur“ bei Oblivion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Echo und eigener Figur“ bei Oblivion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-015",
+   "question": "Wie lässt sich „Unterschied zwischen Echo und eigener Figur“ bei Oblivion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-016",
+   "question": "Welche Alternativen sollte der Autor bei Oblivion für „Unterschied zwischen Echo und eigener Figur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-017",
+   "question": "Was bedeutet bei Oblivion der Themenpunkt „erste eigenständige Wahl“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-018",
+   "question": "Welche Lesarten auf der Seite zu Oblivion stützen oder begrenzen „erste eigenständige Wahl“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-019",
+   "question": "Welcher Grenzfall würde bei Oblivion die Annahmen über „erste eigenständige Wahl“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-020",
+   "question": "Wer könnte innerhalb des Romans bei Oblivion etwas über „erste eigenständige Wahl“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-021",
+   "question": "Welche konkrete Entscheidung könnte „erste eigenständige Wahl“ bei Oblivion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „erste eigenständige Wahl“ bei Oblivion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-023",
+   "question": "Wie lässt sich „erste eigenständige Wahl“ bei Oblivion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-024",
+   "question": "Welche Alternativen sollte der Autor bei Oblivion für „erste eigenständige Wahl“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-025",
+   "question": "Was bedeutet bei Oblivion der Themenpunkt „Nähe zum Kontrollsystem“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-026",
+   "question": "Welche Lesarten auf der Seite zu Oblivion stützen oder begrenzen „Nähe zum Kontrollsystem“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-027",
+   "question": "Welcher Grenzfall würde bei Oblivion die Annahmen über „Nähe zum Kontrollsystem“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-028",
+   "question": "Wer könnte innerhalb des Romans bei Oblivion etwas über „Nähe zum Kontrollsystem“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-029",
+   "question": "Welche konkrete Entscheidung könnte „Nähe zum Kontrollsystem“ bei Oblivion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Nähe zum Kontrollsystem“ bei Oblivion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-031",
+   "question": "Wie lässt sich „Nähe zum Kontrollsystem“ bei Oblivion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-032",
+   "question": "Welche Alternativen sollte der Autor bei Oblivion für „Nähe zum Kontrollsystem“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-033",
+   "question": "Was bedeutet bei Oblivion der Themenpunkt „Wandel nach AEGIS' Ende“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-034",
+   "question": "Welche Lesarten auf der Seite zu Oblivion stützen oder begrenzen „Wandel nach AEGIS' Ende“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-035",
+   "question": "Welcher Grenzfall würde bei Oblivion die Annahmen über „Wandel nach AEGIS' Ende“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-036",
+   "question": "Wer könnte innerhalb des Romans bei Oblivion etwas über „Wandel nach AEGIS' Ende“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-037",
+   "question": "Welche konkrete Entscheidung könnte „Wandel nach AEGIS' Ende“ bei Oblivion in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wandel nach AEGIS' Ende“ bei Oblivion haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-039",
+   "question": "Wie lässt sich „Wandel nach AEGIS' Ende“ bei Oblivion zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-040",
+   "question": "Welche Alternativen sollte der Autor bei Oblivion für „Wandel nach AEGIS' Ende“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-041",
+   "question": "Wo unterscheiden sich Oblivion und AEGIS, wenn man sie unter dem Gesichtspunkt „Vergessen als Handlung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-042",
+   "question": "Welche Quelle verbindet Oblivion mit AEGIS in Bezug auf „Vergessen als Handlung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Oblivion unter „Vergessen als Handlung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-044",
+   "question": "Wie könnte sich das Wissen über Oblivion vom Wissen über AEGIS unterscheiden, wenn „Vergessen als Handlung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Oblivion und AEGIS bei „Vergessen als Handlung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-046",
+   "question": "Falls Oblivion im Hinblick auf „Vergessen als Handlung“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Oblivion und AEGIS bei „Vergessen als Handlung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-048",
+   "question": "Braucht der Roman eine Verbindung von Oblivion und AEGIS bei „Vergessen als Handlung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-049",
+   "question": "In welchem denkbaren Fall könnte Oblivion bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Vergessen als Handlung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-050",
+   "question": "Welche Kosten könnte eine Verbindung von Oblivion und AEGIS in Bezug auf „Vergessen als Handlung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-051",
+   "question": "Welche ältere Lesart von Oblivion oder AEGIS könnte die Gegenüberstellung unter „Vergessen als Handlung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Oblivion und AEGIS unter „Vergessen als Handlung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "oblivion",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-053",
+   "question": "Wo unterscheiden sich Oblivion und Mnemosyne, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Echo und eigener Figur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-054",
+   "question": "Welche Quelle verbindet Oblivion mit Mnemosyne in Bezug auf „Unterschied zwischen Echo und eigener Figur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-055",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Oblivion unter „Unterschied zwischen Echo und eigener Figur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-056",
+   "question": "Wie könnte sich das Wissen über Oblivion vom Wissen über Mnemosyne unterscheiden, wenn „Unterschied zwischen Echo und eigener Figur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Oblivion und Mnemosyne bei „Unterschied zwischen Echo und eigener Figur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-058",
+   "question": "Falls Oblivion im Hinblick auf „Unterschied zwischen Echo und eigener Figur“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Oblivion und Mnemosyne bei „Unterschied zwischen Echo und eigener Figur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-060",
+   "question": "Braucht der Roman eine Verbindung von Oblivion und Mnemosyne bei „Unterschied zwischen Echo und eigener Figur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-061",
+   "question": "In welchem denkbaren Fall könnte Oblivion bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Echo und eigener Figur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-062",
+   "question": "Welche Kosten könnte eine Verbindung von Oblivion und Mnemosyne in Bezug auf „Unterschied zwischen Echo und eigener Figur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-063",
+   "question": "Welche ältere Lesart von Oblivion oder Mnemosyne könnte die Gegenüberstellung unter „Unterschied zwischen Echo und eigener Figur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Oblivion und Mnemosyne unter „Unterschied zwischen Echo und eigener Figur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "oblivion",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-065",
+   "question": "Wo unterscheiden sich Oblivion und Trennungsprotokoll, wenn man sie unter dem Gesichtspunkt „erste eigenständige Wahl“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-066",
+   "question": "Welche Quelle verbindet Oblivion mit Trennungsprotokoll in Bezug auf „erste eigenständige Wahl“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-067",
+   "question": "Welche Grenzen aus der Seite zu Trennungsprotokoll müsste eine Deutung von Oblivion unter „erste eigenständige Wahl“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-068",
+   "question": "Wie könnte sich das Wissen über Oblivion vom Wissen über Trennungsprotokoll unterscheiden, wenn „erste eigenständige Wahl“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Oblivion und Trennungsprotokoll bei „erste eigenständige Wahl“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-070",
+   "question": "Falls Oblivion im Hinblick auf „erste eigenständige Wahl“ anders festgelegt wird: Welche Aussagen über Trennungsprotokoll müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Oblivion und Trennungsprotokoll bei „erste eigenständige Wahl“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-072",
+   "question": "Braucht der Roman eine Verbindung von Oblivion und Trennungsprotokoll bei „erste eigenständige Wahl“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-073",
+   "question": "In welchem denkbaren Fall könnte Oblivion bestehen, ohne dass Trennungsprotokoll dieselbe Funktion übernimmt, und was würde das für „erste eigenständige Wahl“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-074",
+   "question": "Welche Kosten könnte eine Verbindung von Oblivion und Trennungsprotokoll in Bezug auf „erste eigenständige Wahl“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-075",
+   "question": "Welche ältere Lesart von Oblivion oder Trennungsprotokoll könnte die Gegenüberstellung unter „erste eigenständige Wahl“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Oblivion und Trennungsprotokoll unter „erste eigenständige Wahl“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "oblivion",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-077",
+   "question": "Wo unterscheiden sich Oblivion und Alters, wenn man sie unter dem Gesichtspunkt „Nähe zum Kontrollsystem“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-078",
+   "question": "Welche Quelle verbindet Oblivion mit Alters in Bezug auf „Nähe zum Kontrollsystem“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-079",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Oblivion unter „Nähe zum Kontrollsystem“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-080",
+   "question": "Wie könnte sich das Wissen über Oblivion vom Wissen über Alters unterscheiden, wenn „Nähe zum Kontrollsystem“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Oblivion und Alters bei „Nähe zum Kontrollsystem“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-082",
+   "question": "Falls Oblivion im Hinblick auf „Nähe zum Kontrollsystem“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Oblivion und Alters bei „Nähe zum Kontrollsystem“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-084",
+   "question": "Braucht der Roman eine Verbindung von Oblivion und Alters bei „Nähe zum Kontrollsystem“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-085",
+   "question": "In welchem denkbaren Fall könnte Oblivion bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Nähe zum Kontrollsystem“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-086",
+   "question": "Welche Kosten könnte eine Verbindung von Oblivion und Alters in Bezug auf „Nähe zum Kontrollsystem“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-087",
+   "question": "Welche ältere Lesart von Oblivion oder Alters könnte die Gegenüberstellung unter „Nähe zum Kontrollsystem“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Oblivion und Alters unter „Nähe zum Kontrollsystem“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "oblivion",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-089",
+   "question": "Wo unterscheiden sich Oblivion und Multiplizität, wenn man sie unter dem Gesichtspunkt „Wandel nach AEGIS' Ende“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-090",
+   "question": "Welche Quelle verbindet Oblivion mit Multiplizität in Bezug auf „Wandel nach AEGIS' Ende“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-091",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Oblivion unter „Wandel nach AEGIS' Ende“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-092",
+   "question": "Wie könnte sich das Wissen über Oblivion vom Wissen über Multiplizität unterscheiden, wenn „Wandel nach AEGIS' Ende“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Oblivion und Multiplizität bei „Wandel nach AEGIS' Ende“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-094",
+   "question": "Falls Oblivion im Hinblick auf „Wandel nach AEGIS' Ende“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Oblivion und Multiplizität bei „Wandel nach AEGIS' Ende“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-096",
+   "question": "Braucht der Roman eine Verbindung von Oblivion und Multiplizität bei „Wandel nach AEGIS' Ende“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-097",
+   "question": "In welchem denkbaren Fall könnte Oblivion bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Wandel nach AEGIS' Ende“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-098",
+   "question": "Welche Kosten könnte eine Verbindung von Oblivion und Multiplizität in Bezug auf „Wandel nach AEGIS' Ende“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-099",
+   "question": "Welche ältere Lesart von Oblivion oder Multiplizität könnte die Gegenüberstellung unter „Wandel nach AEGIS' Ende“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-oblivion-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Oblivion und Multiplizität unter „Wandel nach AEGIS' Ende“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "oblivion",
+    "multiplizitaet"
+   ]
+  }
+ ]
+}

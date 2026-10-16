@@ -1,0 +1,14 @@
+# projekt-ockham-narrative-systemik-reduktion
+  lines                445  (frontmatter ends at 9)
+  body words           4678
+  headings             34   bold-only lines 1
+  table rows           9   code fences 0
+  question marks       15
+  backslash escapes    151
+  typographic marks    227   ascii quotes 92
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    51
+  repeated labels      none
+  longest line         919 chars
+

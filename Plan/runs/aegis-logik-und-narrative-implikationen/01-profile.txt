@@ -1,0 +1,14 @@
+# aegis-logik-und-narrative-implikationen
+  lines                315  (frontmatter ends at 9)
+  body words           4909
+  headings             22   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       13
+  backslash escapes    52
+  typographic marks    146   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    78
+  repeated labels      none
+  longest line         1092 chars
+

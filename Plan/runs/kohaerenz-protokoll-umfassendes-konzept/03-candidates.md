@@ -1,0 +1,86 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a short outline of the novel: premise, three parts, characters, setting, concepts, themes, style, a chapter list. It writes "Kapitel" and numbered lists for chapters and has no „Kap N" form. Person names it cites (the sources of the journey patterns, the world labels in brackets) are left off. The sentence in quotation marks at the head of the AEGIS entry carries a comma and is not listed.
+
+- Kohärenz Protokoll
+- AEGIS
+- Potentialmeer
+- Kernwelten
+- Kernwelt-Guardians
+- Guardian
+- Architekt
+- Netzweber
+- Chaos-Regulator
+- Möglichkeits-Weber
+- Kael
+- Juna
+- M
+- Die Entität
+- Kael/M
+- K-J Verbindung
+- Moonshine-Link
+- Monstrous Moonshine
+- Monstergruppe
+- Subquotienten
+- Co₁
+- McL
+- B
+- Ly
+- Baby Monster
+- B-Welt
+- Ly-Welt
+- Kernkonflikt
+- Kerntrauma
+- Kernwunde
+- Cache Kohärenz Metapher
+- Cache Kohärenz Protokolle
+- Cache-Konflikte
+- Cache
+- Labor
+- AEGIS' System
+- Rissen
+- Wächterin
+- Selbst
+- Dissoziative Identitätsstörung
+- DID
+- Heldinnenreise
+- Heldenreise
+- Zyklischer Erzählstil
+- Kapitelübersicht
+- Jetzt-Raum
+- Bunker
+- Kissen/Gelb
+- Scherben/Mosaik
+- Mosaik
+- Garten
+- Infiltration AEGIS
+- AEGIS-Sabotage
+- AEGIS-Abwehr
+- AEGIS-Kollaps
+- Verrat/Fragmentierung
+- Kollaps der Logik
+- Echo der Kernwunde
+- Tod des alten Selbst
+- Transformation Kael/M
+- Exodus ins Potentialmeer
+- Neue Ordnung im Potentialmeer
+- Finale Resonanz/Kohärenz
+
+## lens
+
+- Autopoiesis
+- Parakonsistenz
+- Parakonsistente Logik
+- Gödel'sche Sätze
+- Quanten-Nichtlokalität
+- Entropie
+- Reduktionismus
+- Holismus
+- Emergenz
+- Internal Family Systems
+- IFS
+- NET-Analogie
+- Jung'scher Schatten
+- Quantenschaum-Analogie
+- Schiff des Theseus
+- Potentialität & Aktualität

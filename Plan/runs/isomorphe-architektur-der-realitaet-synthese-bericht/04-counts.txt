@@ -1,0 +1,96 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                3 word     3 in   [13, 36, 277]
+  Synthese-Bericht                  1 word     1 in   [18]
+  Leitender System-Archivar         1 word     1 in   [24]
+  Isomorphie                        5 word     7 in   [28, 32, 36, 92, 116, 122]
+                                    1      as Isomorphien
+  Isomorphe Matrix                  1 word     1 in   [261]
+  Schadensbegrenzung durch Separation    1 word     1 in   [38]
+  Sequestrierung                    5 word     5 in   [40, 44, 74, 102, 152]
+  Dimensionale Sequestrierung       1 word     1 in   [44]
+  Brane                             4 word    21 in   [28, 38, 56, 58, 66, 74]  <-- substring
+                                    3      as Branes
+                                    1      as Brane-Kosmologie
+                                    1      as Brane-World-Modelle
+                                    1      as Brane-Dynamik
+  TeV-Brane                         6 word     6 in   [58, 66, 74, 112, 116, 152]
+  Weakbrane                         1 word     1 in   [58]
+  Planck-Brane                      3 word     3 in   [74, 118, 122]
+  Bulk                             14 word    15 in   [38, 58, 66, 74, 84, 92]
+                                    1      as Bulk-Feldern
+  Warp-Faktor                       3 word     3 in   [64, 74, 76]
+  Hierarchie-Problem                3 word     3 in   [44, 48, 272]
+  Leaking                           4 word     4 in   [40, 146, 211, 272]
+  Flashbacks                        2 word     2 in   [40, 273]
+  Glitches                          1 word     1 in   [40]
+  Glitch                           12 word    16 in   [38, 40, 171, 175, 203, 211]
+                                    2      as Glitch-Phänomenologie
+                                    1      as Glitches
+                                    1      as GLITCH-ONTOLOGICAL-EXHAUSTIONS-SYSTEM-FAILURES
+  Monster-Gruppe                    7 word     7 in   [40, 221, 229, 231, 233, 243]
+  Monstrous Moonshine               3 word     3 in   [221, 229, 340]
+  Monster-Modul                     1 word     1 in   [237]
+  Symmetriebruch                    2 word     2 in   [243, 248]
+  Symmetrie-Restauration            1 word     1 in   [249]
+  Selbst                            4 word     9 in   [98, 146, 152, 237, 247, 248]  <-- substring
+                                    3      as Selbst-System
+                                    1      as Selbstverletzung
+                                    1      as Selbst-Energie
+  Selbst-System                     3 word     3 in   [98, 152, 249]
+  ANP                              10 word    11 in   [112, 114, 116, 122, 128, 129]
+  EP                                3 word    15 in   [88, 92, 118, 120, 122, 128]  <-- substring
+  Apparently Normal Part            1 word     1 in   [112]
+  Emotional Part                    1 word     1 in   [118]
+  Primäre Dissoziation              1 word     1 in   [128]
+  Sekundäre Dissoziation            1 word     1 in   [129]
+  Tertiäre Dissoziation             2 word     2 in   [124, 130]
+  Exile                             7 word    10 in   [38, 134, 140, 141, 248, 249]
+                                    3      as Exiles
+  Exil                              4 word    15 in   [38, 134, 140, 141, 146, 152]  <-- substring
+                                    7      as Exile
+                                    3      as Exiles
+                                    1      as Exil-Zustand
+  Protektoren                       4 word     4 in   [134, 141, 248, 273]
+  Manager                           2 word     2 in   [141, 145]
+  Feuerlöscher                      2 word     2 in   [141, 146]
+  Lasten                            2 word     2 in   [140]
+  Burden                            2 word     6 in   [140, 148, 273, 310, 315]  <-- substring
+                                    4      as Burdens
+  Unburdening                       5 word     5 in   [152, 273, 312, 313, 314]
+                                    1      as unburdening-exiles-a-detailed-guide
+  Witnessing                        3 word     3 in   [167, 249, 284]
+  Vertex Explosion                  5 word     5 in   [156, 160, 164, 273, 284]
+  Somatic IFS                       2 word     2 in   [162, 317]
+  Z-Fighting                        5 word     5 in   [179, 183, 193, 199, 274]
+  Z-Buffer                          2 word     4 in   [183, 193, 274, 283]
+                                    1      as Z-Buffers
+                                    1      as Z-Buffer-Konflikt
+  Hyperrealität                     4 word     4 in   [203, 207, 209, 274]
+  Glitch Horror                     2 word     2 in   [211, 274]
+  Einstein-Rosen-Brücke             1 word     2 in   [92, 284]
+                                    1      as Einstein-Rosen-Brücken
+  Einstein-Rosen-Brücken            1 word     1 in   [92]
+  Wurmloch                          2 word     2 in   [92, 94]
+  Kalb-Ramond-Feld                  3 word     4 in   [80, 84, 138]
+                                    1      as Kalb-Ramond-Feldes
+  Radion-Feld                       0 word     2 in   [84, 272]
+                                    1      as Radion-Feld-Wert
+                                    1      as Radion-Feldes
+  Strukturelle Dissoziation         3 word     3 in   [38, 106, 273]
+  Internal Family Systems           6 word     6 in   [38, 102, 306, 309, 315, 320]
+  ER=EPR                            2 word     3 in   [88, 92, 303]
+                                    1      as ER=EPR-Konjektur
+  Truthmaker Theory                 1 word     1 in   [187]
+  Kohärenztheorie der Wahrheit      1 word     1 in   [197]
+  Korrespondenztheorie              1 word     1 in   [189]
+  Goldberger-Wise-Mechanismus       1 word     1 in   [84]
+  Randall-Sundrum-Modelle           1 word     1 in   [38]
+  Glitch-Phänomenologie             2 word     2 in   [38, 171]
+  Spaghettifizierung                1 word     1 in   [165]
+  Skinning Weight                   1 word     1 in   [164]
+  Re-Embodiment                     1 word     1 in   [167]
+  Time Distortion                   1 word     1 in   [120]

@@ -1,0 +1,56 @@
+{
+  "document": "managing-ontological-risk-defining-the-narrative-integration",
+  "drive_id": "1WWV58uKB7W-C8HTuhLa2B6zI3vsbeRjAG-x-2kytMss",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 46,
+  "typographic_marks": 54,
+  "ascii_quotes": 50,
+  "inflection_families": {
+    "achie": [
+      "Achievement",
+      "Achieving"
+    ],
+    "artef": [
+      "Artefact",
+      "Artefacts"
+    ],
+    "direc": [
+      "Direct",
+      "Directly"
+    ],
+    "inter": [
+      "Internal",
+      "Intervention"
+    ],
+    "mitig": [
+      "Mitigating",
+      "Mitigation"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategy"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Direct",
+      "Directly"
+    ],
+    [
+      "Earned",
+      "Unearned"
+    ],
+    [
+      "Artefact",
+      "Artefacts"
+    ]
+  ]
+}

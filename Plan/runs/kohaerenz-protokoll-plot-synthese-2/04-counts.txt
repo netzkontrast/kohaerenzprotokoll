@@ -1,0 +1,98 @@
+# counts for 67 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           127 word   127 in   [21, 22, 23, 24, 26, 27]
+  Kael                             84 word   113 in   [25, 26, 27, 33, 34, 35]
+                                   28      as Kaels
+                                    1      as Kael-Anomalie
+  Juna                             25 word    27 in   [25, 26, 27, 34, 36, 67]
+                                    2      as Junas
+  Potentialmeer                    16 word    25 in   [21, 22, 23, 24, 27, 35]
+                                    6      as Potentialmeers
+                                    2      as Potentialmeer-Inkursionen
+                                    1      as Potentialmeer-Inkursion
+  Monstergruppe                    14 word    14 in   [24, 26, 78, 82, 84, 92]
+  Monstergruppe (M)                 1 word     1 in   [24]
+  Kernwelt                         10 word    37 in   [23, 25, 26, 34, 35, 62]  <-- substring
+                                   24      as Kernwelten
+                                    2      as Kernwelt-Karussell
+                                    1      as Kernwelt-Grenzen
+  Kernwelten                       24 word    24 in   [23, 25, 26, 34, 35, 74]
+  Riss                              5 word    38 in   [23, 25, 26, 27, 34, 35]  <-- substring
+                                   19      as Risse
+                                    5      as Risses
+                                    4      as Rissen
+                                    2      as Riss-Navigation
+  Risse                            19 word    28 in   [23, 25, 26, 27, 34, 35]
+                                    5      as Risses
+                                    4      as Rissen
+  Alters                           15 word    15 in   [25, 34, 64, 76, 86, 94]
+  K-J Verbindung                   47 word    47 in   [22, 26, 27, 33, 34, 36]
+  K-J                              65 word    65 in   [22, 25, 26, 27, 33, 34]
+  Baby-Monster-Gruppen              6 word     7 in   [26, 71, 90, 209, 396, 397]
+                                    1      as Baby-Monster-Gruppen-Hierarchie
+  Baby-Monster-Mathematik           1 word     1 in   [46]
+  Baby-Monster-Gruppen-Hierarchie    1 word     1 in   [397]
+  Der Baby-Monster-Schlüssel        1 word     1 in   [26]
+  Der Wächter am Abgrund            1 word     1 in   [22]
+  Der Riss-Wanderer                 1 word     1 in   [25]
+  Kernwelt-Karussell                2 word     2 in   [74, 238]
+  Nexus                             2 word     2 in   [88, 381]
+  Parias                            6 word     6 in   [24, 94, 436, 440, 441]
+  Simplicity                        4 word     4 in   [24, 82, 319, 320]
+  Sporadicity                       5 word     5 in   [24, 92, 418, 419]
+  Complexity/Symmetry               3 word     3 in   [24, 84, 341]
+  Internal Structure                1 word     1 in   [94]
+  Sub-Protokollarische              2 word     2 in   [79, 286]
+                                    2      as sub-protokollarisches
+  sub-protokollarisches             2 word     2 in   [26, 45]
+  Fragile Realität                  1 word     1 in   [63]
+  Potentialmeer-Inkursionen         2 word     2 in   [93, 429]
+  Pufferraum                        1 word     1 in   [23]
+  Analyse-Sandbox                   1 word     1 in   [23]
+  Verteidigungsperimeter            1 word     1 in   [23]
+  Informationsleckagen              1 word     1 in   [23]
+  Riss-Navigation                   2 word     2 in   [232, 331]
+  Simulation                       38 word    47 in   [21, 22, 23, 25, 26, 33]
+                                    2      as Simulationsparameter
+                                    2      as Simulationsregeln
+                                    1      as Simulationsinstanzen
+                                    1      as Simulationsmechanik
+  AEGIS's Gambit                    1 word     1 in   [33]
+  Kael's Integrierende Odyssee      1 word     1 in   [34]
+  Der Unaufhaltsame Riss            1 word     1 in   [35]
+  Die Moonshine-Brücke              5 word     5 in   [36, 40, 99, 491, 535]
+  Moonshine-Brücke                  6 word     6 in   [36, 40, 99, 491, 496, 535]
+  Existenz durch Negation           1 word     1 in   [70]
+  Der Ankerpunkt                    2 word     2 in   [71, 205]
+  Spiegelwelten                     3 word     3 in   [83, 326, 332]
+  Autopoiesis                       8 word     8 in   [22, 23, 66, 91, 154, 155]
+  Parakonsistenter                  1 word     1 in   [22]
+  parakonsistenter Logik            1 word     1 in   [177]
+  Apophatische                      2 word     2 in   [70, 198]
+  apophatische                      1 word     1 in   [22]
+  Gödel'schen                       2 word     2 in   [22, 232]
+  Gödel'sche                        2 word     4 in   [22, 73, 231, 232]
+                                    2      as Gödel'schen
+  Moonshine                         4 word    17 in   [26, 36, 40, 46, 87, 95]  <-- substring
+                                    6      as Moonshine-Brücke
+                                    4      as Moonshine-Phänomen
+                                    2      as Moonshine-Konzepts
+                                    1      as Moonshine-Analogie
+  Moonshine-Phänomen                4 word     4 in   [26, 46, 87, 374]
+  Emergenz                          3 word     3 in   [69, 187, 188]
+  Nicht-Lokalität                   3 word     3 in   [81, 308, 353]
+  Entropie                          2 word     2 in   [21]
+  Potentialität                     6 word     6 in   [21, 24, 65, 143]
+  Cosmic Horror                    23 word    24 in   [15, 35, 47, 72, 80, 96]
+  Hard Sci-Fi                      34 word    35 in   [15, 33, 36, 42, 47, 113]
+  Kosmischen Horrors                1 word     1 in   [27]
+  Kosmische Gleichgültigkeit        3 word     3 in   [96, 458]
+  verbotenes Wissen                 1 word     1 in   [27]
+  Dread                             2 word     2 in   [80, 297]
+  Dissociative Identity Disorder (DID)    1 word     1 in   [64]
+  Internal Family Systems (IFS)     1 word     1 in   [76]
+  DID                               3 word     4 in   [25, 34, 64, 132]
+  IFS                               5 word     8 in   [25, 34, 76, 86, 253, 254]

@@ -1,0 +1,71 @@
+{
+  "document": "monstergruppe-narrative-cluster-und-metaphern",
+  "drive_id": "1XYjHosCu9V2RDfBaNO0SeOG1SphYvEVFF14XlI3V5ew",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a general report that names nothing of the novel; first held back by a privacy screen on the word „Wächter“ and released when the hit proved to be a metaphor for mathematical groups",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 37,
+    "decisions": 35,
+    "decided_by_lookup": 32,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report on the largest sporadic group and its subgroups with proposed narrative metaphors; it names no figure, place or term of the novel and says nothing a page needs, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a general report: every candidate the report's own group name, cluster label or metaphor term",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 265,
+      "decision": "occurrence",
+      "why": "emergence in the report's general sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 39,
+      "decision": "occurrence",
+      "why": "coherence in the general sense"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 227,
+      "decision": "occurrence",
+      "why": "a glitch as a proposed storytelling device in general"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 360,
+      "decision": "occurrence",
+      "why": "simulation in a reference or general sense"
+    }
+  ],
+  "not_promoted": [
+    "everything — the group names, cluster labels, metaphor themes and rules"
+  ],
+  "internal_tension": "none recorded",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

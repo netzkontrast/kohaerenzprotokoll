@@ -1,0 +1,28 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      4
+  backslash escapes      16
+  typographic marks      19
+  ascii quotes           124
+
+# inflection families -- one term, several surfaces
+  proto    Protocol, Protocols, Protokoll
+  chapt    Chapter, Chapters
+  entro    Entropic, Entropy
+  inter    Interconnectedness, Intervention
+  manif    Manifestation, Manifestations
+  metap    Metaphor, Metaphysical
+  natur    Nature, Natures
+  poten    Potential, Potentialmeer
+  trans    Transcendent, Transformation
+
+# substring pairs -- never one term, often merged by accident
+  Juna < Junas
+  Turn < Turning
+  With < Within
+  With < Without
+  Nature < Natures
+  Chapter < Chapters
+  Protocol < Protocols
+  Potential < Potentialmeer
+  Manifestation < Manifestations

@@ -1,0 +1,69 @@
+# counts for 52 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              2 word     8 in   [74, 75, 93, 118, 120, 141]  <-- substring
+                                    6      as Kaels
+  Morgrath                          5 word     6 in   [74, 93, 118, 120, 174, 209]
+                                    1      as Morgraths
+  Valerius                          4 word     4 in   [75, 97, 101, 197]
+  Gorn                              1 word     2 in   [128, 144]
+                                    1      as Gorns
+  Aegis                             3 word     3 in   [66, 70, 140]
+  Fundament                         3 word     3 in   [47, 70, 87]
+                                    1      as fundamentalen
+  Herz von Sol                      1 word     1 in   [142]
+  Bruchpunkt                        8 word     8 in   [47, 105, 109, 128, 136, 140]
+  Risse im Fundament                2 word     2 in   [47, 87]
+  Story-Manager                     1 word     1 in   [101]
+  Pfad des Schicksals               1 word     1 in   [101]
+  Protokoll                         3 word     8 in   [13, 18, 27, 43, 62, 78]  <-- substring
+  Kohärenz-Protokolls               1 word     1 in   [18]
+  Projekt Kohärenz-Protokoll        2 word     2 in   [27, 217]
+  Skript                            4 word     4 in   [105, 141, 145, 198]
+  Autor                             2 word     3 in   [60, 174, 222]
+                                    1      as Autoren
+                                    1      as autoritative
+  Mentor                            3 word     3 in   [75, 97, 174]
+  Tropen                            7 word    11 in   [56, 60, 78, 124, 128, 132]
+                                    1      as Tropen-Subversion
+                                    1      as Tropen-Dekonstruktionsmatrix
+                                    1      as Tropen-Paaren
+  Tropus                            3 word     3 in   [45, 128, 172]
+  Plot Armor                        2 word     2 in   [128, 144]
+  Der Auserwählte                   2 word     2 in   [74, 141]
+  Der Dunkle Lord                   1 word     1 in   [74]
+  Die Trainings-Montage             1 word     1 in   [75]
+  Das starre Magiesystem            1 word     1 in   [76]
+  Verbotenes Wissen                 1 word     1 in   [76]
+  Das MacGuffin                     1 word     1 in   [142]
+  Finale Schlacht                   1 word     1 in   [143]
+  Das Schicksal ist unausweichlich    1 word     1 in   [145]
+  stoischen Krieger                 1 word     1 in   [128]
+  Tropen-Dekonstruktionsmatrix      1 word     1 in   [132]
+  unvermeidlichen Überraschung      2 word     2 in   [183, 221]
+  narrativen Grammatik              1 word     1 in   [60]
+  narrative Bruchlinien             1 word     1 in   [220]
+  Dreh- und Angelpunkts             1 word     1 in   [222]
+  Metafiktion                       5 word     6 in   [43, 45, 93, 219]
+                                    1      as metafiktionalen
+                                    1      as Metafiktionale
+                                    1      as metafiktionale
+  Dekonstruktion                   20 word    21 in   [27, 47, 62, 103, 109, 124]
+  Rekonstruktion                    4 word     4 in   [166, 172, 222]
+  Formalismus                       2 word     2 in   [35, 219]
+  Strukturalismus                   3 word     3 in   [35, 97, 219]
+  Poststrukturalismus               1 word     1 in   [35]
+  semantisches Gleiten              2 word     2 in   [87, 91]
+  Metaphysik der Präsenz            1 word     1 in   [103]
+  binäre Opposition                 4 word     4 in   [74, 75, 76, 140]
+  binären Oppositionen              4 word     4 in   [47, 66, 70]
+  gewaltsamen Hierarchie            1 word     1 in   [120]
+  Derrida'schen Dekonstruktion      1 word     1 in   [27]
+  narrativen Nihilismus             2 word     2 in   [166, 170]
+  Foreshadowing                     1 word     1 in   [189]
+  Vorahnung                         5 word     5 in   [189, 193, 221]
+  vierten Wand                      1 word     1 in   [27]
+  Allegorie                         2 word     2 in   [97, 101]
+  Tropen-Subversion                 1 word     1 in   [128]

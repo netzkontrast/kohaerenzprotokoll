@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="de">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -71,6 +71,55 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 }
 @media (max-width: 719px){.kp-app .m-graph{zoom:0.58}}
 @media (max-width: 539px){.kp-app .m-graph{zoom:0.41}}
+:root{--kp-ink:#1C1B18;--kp-paper:#FBFAF6;--kp-muted:#645F53;--kp-line:#DDD6C6;--kp-blue:#2B4C8C}
+html{scrollbar-color:#9A9384 #F3F0E8;scrollbar-width:thin}
+::selection{background:#DED6AB;color:#1C1B18}
+.kp-app{width:100% !important;height:100dvh !important;max-width:none;accent-color:var(--kp-blue);caret-color:var(--kp-blue)}
+.kp-app button,.kp-app a,.kp-app input,.kp-app select,.kp-app textarea{touch-action:manipulation}
+.kp-app select:focus-visible{outline:2px solid var(--kp-blue);outline-offset:2px}
+.kp-app .m-nav{width:208px !important;background:#E8E3D5 !important}
+.kp-app .m-navbtn[aria-current="page"]{border-color:#BDB397 !important}
+.kp-app .m-left{width:278px !important}
+.kp-app .m-rail{width:232px !important}
+.kp-app .m-article{gap:18px !important}
+.kp-app .m-article p{overflow-wrap:anywhere}
+.kp-app button:focus-visible{position:relative;z-index:1}
+.kp-view-tabs{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 0}
+.kp-view-tabs button,.rq-button{min-height:44px;border:1px solid #C9C0AC;border-radius:5px;background:#FBFAF6;color:#1C1B18;padding:8px 12px;font:inherit;cursor:pointer}
+.kp-view-tabs button[aria-pressed="true"],.rq-primary{background:#1C1B18;color:#FBFAF6;border-color:#1C1B18}
+.kp-view-tabs button:hover,.rq-button:hover{box-shadow:inset 0 0 0 1px #9A9384}
+.rq-workshop{min-width:0}
+.rq-filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.rq-filters label:first-child{grid-column:1/-1}
+.rq-filters label,.rq-label{display:flex;flex-direction:column;gap:5px;font-size:12.5px;color:#4A463E}
+.rq-filters input,.rq-filters select,.rq-label select,.rq-label textarea{box-sizing:border-box;width:100%;min-width:0;min-height:44px;padding:10px 12px;border:1px solid #BDB397;border-radius:5px;background:#FBFAF6;color:#1C1B18;font:inherit;font-size:14px}
+.rq-label textarea{resize:vertical;line-height:1.6;font-size:15px}
+.rq-toolbar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:14px 0}
+.rq-check{display:flex;align-items:center;gap:8px;flex:1 1 250px;font-size:12.5px;color:#4A463E;min-height:44px}
+.rq-check input{width:20px;height:20px;flex-shrink:0}
+.rq-pagination{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:12px 0;border-top:1px solid var(--kp-line);margin-top:14px;font-variant-numeric:tabular-nums;color:#4A463E;font-size:12.5px}
+.rq-pagination>div{display:flex;gap:6px}
+.rq-columns{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;border-top:1px solid var(--kp-line)}
+.rq-list{max-height:630px;overflow:auto;scrollbar-gutter:stable;min-width:0}
+.rq-row{display:flex;flex-direction:column;gap:8px;width:100%;border:0;border-bottom:1px solid var(--kp-line);background:transparent;text-align:left;padding:18px 12px;font:inherit;color:var(--kp-ink);cursor:pointer}
+.rq-row:hover{background:#F3F0E8}
+.rq-row[aria-pressed="true"]{background:#E8E3D5;box-shadow:inset 3px 0 #2B4C8C}
+.rq-text{font-family:'Newsreader',Georgia,serif;font-size:19px;line-height:1.35;overflow-wrap:anywhere}
+.rq-meta{font-size:11.5px;color:#645F53;line-height:1.5;overflow-wrap:anywhere;margin:0}
+.rq-detail{min-width:0;padding:22px 0;display:flex;flex-direction:column;gap:12px}
+.rq-detail p{margin:0;line-height:1.6;font-size:13px}
+.rq-question{font-family:'Newsreader',Georgia,serif;font-size:25px;line-height:1.2;font-weight:500;margin:0;overflow-wrap:anywhere}
+.rq-empty{padding:22px 8px;color:#645F53;line-height:1.6}
+.rq-empty h3{font-family:'Newsreader',Georgia,serif;font-size:25px;font-weight:500;color:#1C1B18;margin:0 0 12px}
+.rq-empty p{margin:0 0 12px}
+.rq-prompt{white-space:pre-wrap;overflow-wrap:anywhere;font-family:'IBM Plex Mono',monospace;font-size:11px;line-height:1.6;background:#F3F0E8;padding:12px}
+.rq-detail summary{cursor:pointer;min-height:44px;display:flex;align-items:center;text-decoration:underline;text-underline-offset:3px;font-size:12px;color:#2B4C8C}
+.rq-detail .rq-storage{font-size:11.5px;color:#645F53}
+.rq-notice{padding:10px;background:#EFE9D4;color:#4A463E;border:1px solid #C9C0AC;border-radius:5px}
+@media(min-width:861px) and (max-width:1200px){.kp-app .m-rail{display:none !important}.kp-app .m-nav{width:180px !important}.kp-app .m-article{padding:30px 24px 70px !important}}
+@media(max-width:860px){.kp-app{height:auto !important}.kp-app .m-nav{width:100% !important;flex-direction:column !important;align-items:stretch;gap:7px}.kp-app .m-brand{display:none}.kp-app .m-navlist{width:100%;gap:3px !important}.kp-app .m-navbtn{min-height:44px}.kp-app .m-left{width:auto !important;max-height:380px}.kp-app .m-rail{width:auto !important}.rq-columns{grid-template-columns:minmax(0,1fr);gap:0}.rq-detail{grid-row:1}.rq-list{max-height:520px}.rq-filters input,.rq-filters select,.rq-label select,.rq-label textarea{font-size:16px}.rq-question{font-size:24px}.kp-view-tabs{gap:4px}.kp-view-tabs button{font-size:13px}.rq-toolbar .rq-button{flex:1 1 auto}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto !important}}
+
 </style>
 </helmet>
 <div class="kp-app" style="width: 1440px; height: 900px; display: flex; overflow: hidden; position: relative; background: #F3F0E8; color: #1C1B18; font-family: 'IBM Plex Sans', 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 1.45;">
@@ -82,7 +131,7 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <div class="m-navlist" style="display: flex; flex-direction: column; gap: 2px;">
 <button type="button" onClick="{{nav.now.go}}" aria-current="{{nav.now.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.now.bd}}; background: {{nav.now.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.now.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.now.ic}};"><rect x="3.5" y="3.5" width="7" height="7" rx="1.2"></rect><rect x="13.5" y="3.5" width="7" height="4.5" rx="1.2"></rect><rect x="13.5" y="11" width="7" height="9.5" rx="1.2"></rect><rect x="3.5" y="13.5" width="7" height="7" rx="1.2"></rect></svg>
-<span style="flex-grow: 1;">Now</span>
+<span style="flex-grow: 1;">Arbeitsstand</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.now.n}}</span>
 </button>
 <button type="button" onClick="{{nav.wiki.go}}" aria-current="{{nav.wiki.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.wiki.bd}}; background: {{nav.wiki.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.wiki.fw}}; text-align: left; cursor: pointer;">
@@ -92,17 +141,17 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </button>
 <button type="button" onClick="{{nav.conflicts.go}}" aria-current="{{nav.conflicts.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.conflicts.bd}}; background: {{nav.conflicts.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.conflicts.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.conflicts.ic}};"><path d="M4 7.5h11"></path><path d="M12 4.5l3 3-3 3"></path><path d="M20 16.5H9"></path><path d="M12 13.5l-3 3 3 3"></path></svg>
-<span style="flex-grow: 1;">Conflicts</span>
+<span style="flex-grow: 1;">Konflikte</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.conflicts.n}}</span>
 </button>
 <button type="button" onClick="{{nav.questions.go}}" aria-current="{{nav.questions.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.questions.bd}}; background: {{nav.questions.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.questions.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.questions.ic}};"><circle cx="12" cy="12" r="8.5"></circle><path d="M9.6 9.5a2.5 2.5 0 0 1 4.8.9c0 1.7-2.4 2.1-2.4 3.6"></path><path d="M12 17.1v.2"></path></svg>
-<span style="flex-grow: 1;">Questions</span>
+<span style="flex-grow: 1;">Fragen</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.questions.n}}</span>
 </button>
 <button type="button" onClick="{{nav.manuscript.go}}" aria-current="{{nav.manuscript.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.manuscript.bd}}; background: {{nav.manuscript.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.manuscript.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.manuscript.ic}};"><path d="M6 3.5h8.5L18 7v13.5H6z"></path><path d="M14.5 3.5V7H18"></path><path d="M8.5 11h7"></path><path d="M8.5 14h7"></path><path d="M8.5 17h4.5"></path></svg>
-<span style="flex-grow: 1;">Manuscript</span>
+<span style="flex-grow: 1;">Manuskript</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.manuscript.n}}</span>
 </button>
 <button type="button" onClick="{{nav.graph.go}}" aria-current="{{nav.graph.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.graph.bd}}; background: {{nav.graph.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.graph.fw}}; text-align: left; cursor: pointer;">
@@ -112,12 +161,12 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </button>
 <button type="button" onClick="{{nav.corpus.go}}" aria-current="{{nav.corpus.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.corpus.bd}}; background: {{nav.corpus.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.corpus.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.corpus.ic}};"><path d="M8 3.5h6.5l4 4v12.5a.5.5 0 0 1-.5.5H8a.5.5 0 0 1-.5-.5V4a.5.5 0 0 1 .5-.5z"></path><path d="M14.5 3.5v4h4"></path><path d="M4.5 7v13a1 1 0 0 0 1 1H14"></path></svg>
-<span style="flex-grow: 1;">Corpus</span>
+<span style="flex-grow: 1;">Korpus</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.corpus.n}}</span>
 </button>
 <button type="button" onClick="{{nav.process.go}}" aria-current="{{nav.process.cur}}" class="kp-hov m-navbtn" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.process.bd}}; background: {{nav.process.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.process.fw}}; text-align: left; cursor: pointer;">
 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.process.ic}};"><path d="M19.5 12a7.5 7.5 0 0 1-12.9 5.2"></path><path d="M4.5 12a7.5 7.5 0 0 1 12.9-5.2"></path><path d="M17.8 3.6v3.6h-3.6"></path><path d="M6.2 20.4v-3.6h3.6"></path></svg>
-<span style="flex-grow: 1;">Process</span>
+<span style="flex-grow: 1;">Werkzeuge</span>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.process.n}}</span>
 </button>
 </div>
@@ -328,6 +377,7 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </sc-for>
 </div>
 </sc-if>
+<sc-if value="{{is.questions}}"><div class="kp-view-tabs m-tabs" role="group" aria-label="Fragenansichten" style="padding:10px 24px;border-bottom:1px solid #DDD6C6"><sc-for list="{{workshop.tabs}}" as="it"><button type="button" aria-pressed="{{it.on}}" onClick="{{it.go}}">{{it.label}}</button></sc-for></div></sc-if>
 <sc-if value="{{is.readerLayout}}" hint-placeholder-val="{{ false }}">
 <div class="m-split" style="flex-grow: 1; min-height: 0; display: flex;">
 <sc-if value="{{is.left}}" hint-placeholder-val="{{ false }}">
@@ -342,12 +392,13 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </sc-for>
 </div>
 <div style="display: flex; flex-direction: column; gap: 6px;">
-<span style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Read in document</span>
+<details><summary style="cursor:pointer;min-height:44px;display:flex;align-items:center">Nach Quelle eingrenzen</summary>
 <div role="group" aria-label="Read in document" style="display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px;">
 <sc-for list="{{w.docs}}" as="d" hint-placeholder-count="13">
 <button type="button" onClick="{{d.go}}" aria-pressed="{{d.on}}" title="{{d.title}}" style="height: 30px; padding: 0; border-radius: 5px; border: 1px solid #2B4C8C; background: {{d.bg}}; color: {{d.fg}}; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; cursor: pointer;">{{d.sig}}</button>
 </sc-for>
 </div>
+</details>
 </div>
 <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{w.count}}</span>
 </div>
@@ -380,10 +431,10 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 </sc-for>
 </div>
 </sc-if>
-<sc-if value="{{is.questions}}" hint-placeholder-val="{{ false }}">
+<sc-if value="{{is.questionRecords}}" hint-placeholder-val="{{ false }}">
 <div style="display: flex; flex-direction: column; gap: 6px; padding: 18px 18px 14px; border-bottom: 1px solid #DDD6C6;">
-<span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">Open questions</span>
-<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">A question page is one that several term pages raise and no source read so far answers. It is where the answer will land.</span>
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">Offene Fragen</span>
+<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">Konkrete offene Fragen aus den Quellen. Die zusätzlichen Lesefragen stehen in der Fragenwerkstatt.</span>
 </div>
 <div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 8px 24px; display: flex; flex-direction: column; gap: 2px;">
 <sc-for list="{{ql.list}}" as="it" hint-placeholder-count="5">
@@ -431,6 +482,50 @@ a{color:#2B4C8C}a:hover{color:#1D3566}
 <sc-for list="{{rd.chips}}" as="c" hint-placeholder-count="3"><span style="display: inline-flex; align-items: center; height: 24px; padding: 0 10px; border-radius: 12px; font-size: 12px; background: {{c.bg}}; color: {{c.fg}}; border: 1px solid {{c.bd}};">{{c.x}}</span></sc-for>
 </div>
 </header>
+<sc-if value="{{is.wiki}}"><div class="kp-view-tabs" role="group" aria-label="Wiki Ebenen"><sc-for list="{{w.views}}" as="it"><button type="button" aria-pressed="{{it.on}}" disabled="{{it.disabled}}" onClick="{{it.go}}">{{it.label}}</button></sc-for><button type="button" onClick="{{w.questions}}">100 Lesefragen</button></div></sc-if>
+<sc-if value="{{is.workshop}}" hint-placeholder-val="{{ false }}">
+<section class="rq-workshop" aria-label="Lesefragen bearbeiten">
+<div class="rq-filters">
+<label>Fragen durchsuchen<input type="search" value="{{workshop.query}}" onChange="{{workshop.onQuery}}" placeholder="Begriff, Motiv, Frage oder ID"></label>
+<label>Begriff<select value="{{workshop.term}}" onChange="{{workshop.onTerm}}">@RQ_OPTIONS_terms@</select></label>
+<label>Blickwinkel<select value="{{workshop.category}}" onChange="{{workshop.onCategory}}">@RQ_OPTIONS_categories@</select></label>
+<label>Verbindung<select value="{{workshop.kind}}" onChange="{{workshop.onKind}}">@RQ_OPTIONS_kinds@</select></label>
+<label>Arbeitsstand<select value="{{workshop.status}}" onChange="{{workshop.onStatus}}">@RQ_OPTIONS_statuses@</select></label>
+</div>
+<div class="rq-toolbar">
+<label class="rq-check"><input type="checkbox" checked="{{workshop.mentions}}" onChange="{{workshop.onMentions}}">Auch Fragen anderer Begriffe anzeigen, die diesen Term vergleichen</label>
+<button type="button" class="rq-button" onClick="{{workshop.reset}}">Filter zurücksetzen</button>
+<button type="button" class="rq-button" onClick="{{workshop.export}}" disabled="{{workshop.exportDisabled}}">Auswahl exportieren</button>
+<button type="button" class="rq-button" onClick="{{workshop.exportNotes}}" disabled="{{workshop.notesDisabled}}">Alle Notizen sichern</button>
+</div>
+<div class="rq-pagination" aria-live="polite"><span>{{workshop.count}} · {{workshop.pageLabel}}</span><div><button type="button" class="rq-button" disabled="{{workshop.prevDisabled}}" onClick="{{workshop.prev}}">Zurück</button><button type="button" class="rq-button" disabled="{{workshop.nextDisabled}}" onClick="{{workshop.next}}">Weiter</button></div></div>
+<div class="rq-columns">
+<div class="rq-list" aria-label="Fragenliste">
+<sc-if value="{{workshop.empty}}"><div class="rq-empty"><h3>Keine passenden Fragen</h3><p>Ändere die Suche oder setze die Filter zurück. Lokale Notizen bleiben erhalten.</p></div></sc-if>
+<sc-for list="{{workshop.list}}" as="it">
+<button type="button" class="rq-row" aria-pressed="{{it.on}}" onClick="{{it.go}}"><span class="rq-meta">{{it.meta}}</span><span class="rq-text">{{it.text}}</span><span class="rq-meta">{{it.id}} · {{it.status}}</span></button>
+</sc-for>
+</div>
+<div class="rq-detail">
+<sc-if value="{{workshop.noSelection}}"><div class="rq-empty"><h3>Eine Frage weiterdenken</h3><p>Wähle eine Frage. Hier findest du die Begriffsseiten, den Prüfauftrag und Platz für deine Antwort.</p><p>„Lokal beantwortet“ hält deinen Arbeitsstand fest. Eine Antwort wird erst durch eine überprüfte Repo-Änderung Teil des Projekts.</p></div></sc-if>
+<sc-if value="{{workshop.hasSelection}}">
+<h3 class="rq-question">{{workshop.title}}</h3>
+<p class="rq-meta">{{workshop.id}} · {{workshop.topic}}</p>
+<div class="rq-toolbar"><sc-for list="{{workshop.links}}" as="it"><button type="button" class="rq-button" onClick="{{it.go}}">{{it.title}} lesen</button></sc-for></div>
+<sc-if value="{{workshop.stale}}"><p class="rq-notice">Die zugrunde liegenden Wikiseiten wurden seit dem Fragenentwurf ergänzt. Prüfe, ob inzwischen eine Antwort vorliegt.</p></sc-if>
+<p>Diese Frage ist ein Vorschlag zur Untersuchung. Ein Vergleich behauptet keine bereits belegte Verbindung.</p>
+<label class="rq-label">Mein Arbeitsstand<select value="{{workshop.noteStatus}}" onChange="{{workshop.onNoteStatus}}">@RQ_OPTIONS_editStatuses@</select></label>
+<label class="rq-label">Meine Antwort oder Notiz<textarea rows="8" value="{{workshop.note}}" onChange="{{workshop.onNote}}" placeholder="Antwort, alternative Lesart, benötigter Beleg oder nächste Entscheidung …"></textarea></label>
+<p class="rq-storage" role="status">{{workshop.storage}}</p>
+<div class="rq-toolbar"><button type="button" class="rq-button rq-primary" onClick="{{workshop.saveSelected}}">Frage mit Notiz exportieren</button><button type="button" class="rq-button" onClick="{{workshop.copyPrompt}}">{{workshop.copyLabel}}</button></div>
+<details><summary>Prüfauftrag ansehen</summary><pre class="rq-prompt">{{workshop.prompt}}</pre></details>
+<p class="rq-meta">{{workshop.path}}</p>
+</sc-if>
+</div>
+</div>
+</section>
+</sc-if>
+
 <sc-if value="{{nv.isOverview}}" hint-placeholder-val="{{ false }}">
 <div class="m-tiles" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(118px, 1fr)); gap: 10px; padding-top: 10px;">
 <sc-for list="{{nv.tiles}}" as="tl" hint-placeholder-count="7">

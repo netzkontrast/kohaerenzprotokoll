@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "resonanz-landschaft",
+ "title": "Resonanz-Landschaft",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "nichtlineare Ordnung von Erinnerung",
+  "Eigenständigkeit der lokalen Physik",
+  "Unterschied zwischen Traumraum und konkreter Welt",
+  "Risiko einer Trauma-Konfrontation",
+  "Navigation ohne eindeutige Zeitfolge"
+ ],
+ "basis": {
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "archiv-des-ungesagten": {
+   "title": "Archiv des Ungesagten",
+   "path": "Wiki/candidates/archiv-des-ungesagten.md",
+   "hash": "d9eda82db399c05be355ebfe9a0984269757ac4da18e262523c897aa123bf9a2"
+  },
+  "vergessener-schrein": {
+   "title": "Vergessener Schrein",
+   "path": "Wiki/candidates/vergessener-schrein.md",
+   "hash": "2a4e4c5a60f09667b677c16d16f6e9369d5f78585bfc1c1b54b30ab6f1f38a41"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-resonanz-landschaft-001",
+   "question": "Wie findet Kael in der Resonanz-Landschaft einen Weg, wenn emotional verwandte Erinnerungen näher liegen als zeitlich benachbarte Ereignisse?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-002",
+   "question": "Welche Lesarten auf der Seite zu Resonanz-Landschaft stützen oder begrenzen „nichtlineare Ordnung von Erinnerung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-003",
+   "question": "Welcher Grenzfall würde bei Resonanz-Landschaft die Annahmen über „nichtlineare Ordnung von Erinnerung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-004",
+   "question": "Wer könnte innerhalb des Romans bei Resonanz-Landschaft etwas über „nichtlineare Ordnung von Erinnerung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-005",
+   "question": "Welche konkrete Entscheidung könnte „nichtlineare Ordnung von Erinnerung“ bei Resonanz-Landschaft in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „nichtlineare Ordnung von Erinnerung“ bei Resonanz-Landschaft haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-007",
+   "question": "Wie lässt sich „nichtlineare Ordnung von Erinnerung“ bei Resonanz-Landschaft zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-008",
+   "question": "Welche Alternativen sollte der Autor bei Resonanz-Landschaft für „nichtlineare Ordnung von Erinnerung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-009",
+   "question": "Was bedeutet bei Resonanz-Landschaft der Themenpunkt „Eigenständigkeit der lokalen Physik“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-010",
+   "question": "Welche Lesarten auf der Seite zu Resonanz-Landschaft stützen oder begrenzen „Eigenständigkeit der lokalen Physik“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-011",
+   "question": "Welcher Grenzfall würde bei Resonanz-Landschaft die Annahmen über „Eigenständigkeit der lokalen Physik“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-012",
+   "question": "Wer könnte innerhalb des Romans bei Resonanz-Landschaft etwas über „Eigenständigkeit der lokalen Physik“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-013",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit der lokalen Physik“ bei Resonanz-Landschaft in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit der lokalen Physik“ bei Resonanz-Landschaft haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-015",
+   "question": "Wie lässt sich „Eigenständigkeit der lokalen Physik“ bei Resonanz-Landschaft zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-016",
+   "question": "Welche Alternativen sollte der Autor bei Resonanz-Landschaft für „Eigenständigkeit der lokalen Physik“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-017",
+   "question": "Was bedeutet bei Resonanz-Landschaft der Themenpunkt „Unterschied zwischen Traumraum und konkreter Welt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-018",
+   "question": "Welche Lesarten auf der Seite zu Resonanz-Landschaft stützen oder begrenzen „Unterschied zwischen Traumraum und konkreter Welt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-019",
+   "question": "Welcher Grenzfall würde bei Resonanz-Landschaft die Annahmen über „Unterschied zwischen Traumraum und konkreter Welt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-020",
+   "question": "Wer könnte innerhalb des Romans bei Resonanz-Landschaft etwas über „Unterschied zwischen Traumraum und konkreter Welt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Traumraum und konkreter Welt“ bei Resonanz-Landschaft in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Traumraum und konkreter Welt“ bei Resonanz-Landschaft haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-023",
+   "question": "Wie lässt sich „Unterschied zwischen Traumraum und konkreter Welt“ bei Resonanz-Landschaft zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-024",
+   "question": "Welche Alternativen sollte der Autor bei Resonanz-Landschaft für „Unterschied zwischen Traumraum und konkreter Welt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-025",
+   "question": "Was bedeutet bei Resonanz-Landschaft der Themenpunkt „Risiko einer Trauma-Konfrontation“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-026",
+   "question": "Welche Lesarten auf der Seite zu Resonanz-Landschaft stützen oder begrenzen „Risiko einer Trauma-Konfrontation“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-027",
+   "question": "Welcher Grenzfall würde bei Resonanz-Landschaft die Annahmen über „Risiko einer Trauma-Konfrontation“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-028",
+   "question": "Wer könnte innerhalb des Romans bei Resonanz-Landschaft etwas über „Risiko einer Trauma-Konfrontation“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-029",
+   "question": "Welche konkrete Entscheidung könnte „Risiko einer Trauma-Konfrontation“ bei Resonanz-Landschaft in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Risiko einer Trauma-Konfrontation“ bei Resonanz-Landschaft haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-031",
+   "question": "Wie lässt sich „Risiko einer Trauma-Konfrontation“ bei Resonanz-Landschaft zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-032",
+   "question": "Welche Alternativen sollte der Autor bei Resonanz-Landschaft für „Risiko einer Trauma-Konfrontation“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-033",
+   "question": "Was bedeutet bei Resonanz-Landschaft der Themenpunkt „Navigation ohne eindeutige Zeitfolge“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-034",
+   "question": "Welche Lesarten auf der Seite zu Resonanz-Landschaft stützen oder begrenzen „Navigation ohne eindeutige Zeitfolge“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-035",
+   "question": "Welcher Grenzfall würde bei Resonanz-Landschaft die Annahmen über „Navigation ohne eindeutige Zeitfolge“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-036",
+   "question": "Wer könnte innerhalb des Romans bei Resonanz-Landschaft etwas über „Navigation ohne eindeutige Zeitfolge“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-037",
+   "question": "Welche konkrete Entscheidung könnte „Navigation ohne eindeutige Zeitfolge“ bei Resonanz-Landschaft in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Navigation ohne eindeutige Zeitfolge“ bei Resonanz-Landschaft haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-039",
+   "question": "Wie lässt sich „Navigation ohne eindeutige Zeitfolge“ bei Resonanz-Landschaft zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-040",
+   "question": "Welche Alternativen sollte der Autor bei Resonanz-Landschaft für „Navigation ohne eindeutige Zeitfolge“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-041",
+   "question": "Wo unterscheiden sich Resonanz-Landschaft und Mnemosyne, wenn man sie unter dem Gesichtspunkt „nichtlineare Ordnung von Erinnerung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-042",
+   "question": "Welche Quelle verbindet Resonanz-Landschaft mit Mnemosyne in Bezug auf „nichtlineare Ordnung von Erinnerung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-043",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Resonanz-Landschaft unter „nichtlineare Ordnung von Erinnerung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-044",
+   "question": "Wie könnte sich das Wissen über Resonanz-Landschaft vom Wissen über Mnemosyne unterscheiden, wenn „nichtlineare Ordnung von Erinnerung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Resonanz-Landschaft und Mnemosyne bei „nichtlineare Ordnung von Erinnerung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-046",
+   "question": "Falls Resonanz-Landschaft im Hinblick auf „nichtlineare Ordnung von Erinnerung“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Resonanz-Landschaft und Mnemosyne bei „nichtlineare Ordnung von Erinnerung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-048",
+   "question": "Braucht der Roman eine Verbindung von Resonanz-Landschaft und Mnemosyne bei „nichtlineare Ordnung von Erinnerung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-049",
+   "question": "In welchem denkbaren Fall könnte Resonanz-Landschaft bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „nichtlineare Ordnung von Erinnerung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-050",
+   "question": "Welche Kosten könnte eine Verbindung von Resonanz-Landschaft und Mnemosyne in Bezug auf „nichtlineare Ordnung von Erinnerung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-051",
+   "question": "Welche ältere Lesart von Resonanz-Landschaft oder Mnemosyne könnte die Gegenüberstellung unter „nichtlineare Ordnung von Erinnerung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Resonanz-Landschaft und Mnemosyne unter „nichtlineare Ordnung von Erinnerung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "resonanz-landschaft",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-053",
+   "question": "Wo unterscheiden sich Resonanz-Landschaft und Archiv des Ungesagten, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit der lokalen Physik“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-054",
+   "question": "Welche Quelle verbindet Resonanz-Landschaft mit Archiv des Ungesagten in Bezug auf „Eigenständigkeit der lokalen Physik“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-055",
+   "question": "Welche Grenzen aus der Seite zu Archiv des Ungesagten müsste eine Deutung von Resonanz-Landschaft unter „Eigenständigkeit der lokalen Physik“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-056",
+   "question": "Wie könnte sich das Wissen über Resonanz-Landschaft vom Wissen über Archiv des Ungesagten unterscheiden, wenn „Eigenständigkeit der lokalen Physik“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Resonanz-Landschaft und Archiv des Ungesagten bei „Eigenständigkeit der lokalen Physik“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-058",
+   "question": "Falls Resonanz-Landschaft im Hinblick auf „Eigenständigkeit der lokalen Physik“ anders festgelegt wird: Welche Aussagen über Archiv des Ungesagten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Resonanz-Landschaft und Archiv des Ungesagten bei „Eigenständigkeit der lokalen Physik“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-060",
+   "question": "Braucht der Roman eine Verbindung von Resonanz-Landschaft und Archiv des Ungesagten bei „Eigenständigkeit der lokalen Physik“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-061",
+   "question": "In welchem denkbaren Fall könnte Resonanz-Landschaft bestehen, ohne dass Archiv des Ungesagten dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit der lokalen Physik“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-062",
+   "question": "Welche Kosten könnte eine Verbindung von Resonanz-Landschaft und Archiv des Ungesagten in Bezug auf „Eigenständigkeit der lokalen Physik“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-063",
+   "question": "Welche ältere Lesart von Resonanz-Landschaft oder Archiv des Ungesagten könnte die Gegenüberstellung unter „Eigenständigkeit der lokalen Physik“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Resonanz-Landschaft und Archiv des Ungesagten unter „Eigenständigkeit der lokalen Physik“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "resonanz-landschaft",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-065",
+   "question": "Wo unterscheiden sich Resonanz-Landschaft und Vergessener Schrein, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Traumraum und konkreter Welt“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-066",
+   "question": "Welche Quelle verbindet Resonanz-Landschaft mit Vergessener Schrein in Bezug auf „Unterschied zwischen Traumraum und konkreter Welt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-067",
+   "question": "Welche Grenzen aus der Seite zu Vergessener Schrein müsste eine Deutung von Resonanz-Landschaft unter „Unterschied zwischen Traumraum und konkreter Welt“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-068",
+   "question": "Wie könnte sich das Wissen über Resonanz-Landschaft vom Wissen über Vergessener Schrein unterscheiden, wenn „Unterschied zwischen Traumraum und konkreter Welt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Resonanz-Landschaft und Vergessener Schrein bei „Unterschied zwischen Traumraum und konkreter Welt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-070",
+   "question": "Falls Resonanz-Landschaft im Hinblick auf „Unterschied zwischen Traumraum und konkreter Welt“ anders festgelegt wird: Welche Aussagen über Vergessener Schrein müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Resonanz-Landschaft und Vergessener Schrein bei „Unterschied zwischen Traumraum und konkreter Welt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-072",
+   "question": "Braucht der Roman eine Verbindung von Resonanz-Landschaft und Vergessener Schrein bei „Unterschied zwischen Traumraum und konkreter Welt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-073",
+   "question": "In welchem denkbaren Fall könnte Resonanz-Landschaft bestehen, ohne dass Vergessener Schrein dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Traumraum und konkreter Welt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-074",
+   "question": "Welche Kosten könnte eine Verbindung von Resonanz-Landschaft und Vergessener Schrein in Bezug auf „Unterschied zwischen Traumraum und konkreter Welt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-075",
+   "question": "Welche ältere Lesart von Resonanz-Landschaft oder Vergessener Schrein könnte die Gegenüberstellung unter „Unterschied zwischen Traumraum und konkreter Welt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Resonanz-Landschaft und Vergessener Schrein unter „Unterschied zwischen Traumraum und konkreter Welt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "resonanz-landschaft",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-077",
+   "question": "Wo unterscheiden sich Resonanz-Landschaft und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Risiko einer Trauma-Konfrontation“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-078",
+   "question": "Welche Quelle verbindet Resonanz-Landschaft mit Kern-Welten in Bezug auf „Risiko einer Trauma-Konfrontation“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-079",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Resonanz-Landschaft unter „Risiko einer Trauma-Konfrontation“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-080",
+   "question": "Wie könnte sich das Wissen über Resonanz-Landschaft vom Wissen über Kern-Welten unterscheiden, wenn „Risiko einer Trauma-Konfrontation“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Resonanz-Landschaft und Kern-Welten bei „Risiko einer Trauma-Konfrontation“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-082",
+   "question": "Falls Resonanz-Landschaft im Hinblick auf „Risiko einer Trauma-Konfrontation“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Resonanz-Landschaft und Kern-Welten bei „Risiko einer Trauma-Konfrontation“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-084",
+   "question": "Braucht der Roman eine Verbindung von Resonanz-Landschaft und Kern-Welten bei „Risiko einer Trauma-Konfrontation“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-085",
+   "question": "In welchem denkbaren Fall könnte Resonanz-Landschaft bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Risiko einer Trauma-Konfrontation“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-086",
+   "question": "Welche Kosten könnte eine Verbindung von Resonanz-Landschaft und Kern-Welten in Bezug auf „Risiko einer Trauma-Konfrontation“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-087",
+   "question": "Welche ältere Lesart von Resonanz-Landschaft oder Kern-Welten könnte die Gegenüberstellung unter „Risiko einer Trauma-Konfrontation“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Resonanz-Landschaft und Kern-Welten unter „Risiko einer Trauma-Konfrontation“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "resonanz-landschaft",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-089",
+   "question": "Wo unterscheiden sich Resonanz-Landschaft und Kiko, wenn man sie unter dem Gesichtspunkt „Navigation ohne eindeutige Zeitfolge“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-090",
+   "question": "Welche Quelle verbindet Resonanz-Landschaft mit Kiko in Bezug auf „Navigation ohne eindeutige Zeitfolge“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-091",
+   "question": "Welche Grenzen aus der Seite zu Kiko müsste eine Deutung von Resonanz-Landschaft unter „Navigation ohne eindeutige Zeitfolge“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-092",
+   "question": "Wie könnte sich das Wissen über Resonanz-Landschaft vom Wissen über Kiko unterscheiden, wenn „Navigation ohne eindeutige Zeitfolge“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Resonanz-Landschaft und Kiko bei „Navigation ohne eindeutige Zeitfolge“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-094",
+   "question": "Falls Resonanz-Landschaft im Hinblick auf „Navigation ohne eindeutige Zeitfolge“ anders festgelegt wird: Welche Aussagen über Kiko müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Resonanz-Landschaft und Kiko bei „Navigation ohne eindeutige Zeitfolge“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-096",
+   "question": "Braucht der Roman eine Verbindung von Resonanz-Landschaft und Kiko bei „Navigation ohne eindeutige Zeitfolge“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-097",
+   "question": "In welchem denkbaren Fall könnte Resonanz-Landschaft bestehen, ohne dass Kiko dieselbe Funktion übernimmt, und was würde das für „Navigation ohne eindeutige Zeitfolge“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-098",
+   "question": "Welche Kosten könnte eine Verbindung von Resonanz-Landschaft und Kiko in Bezug auf „Navigation ohne eindeutige Zeitfolge“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-099",
+   "question": "Welche ältere Lesart von Resonanz-Landschaft oder Kiko könnte die Gegenüberstellung unter „Navigation ohne eindeutige Zeitfolge“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-resonanz-landschaft-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Resonanz-Landschaft und Kiko unter „Navigation ohne eindeutige Zeitfolge“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "resonanz-landschaft",
+    "kiko"
+   ]
+  }
+ ]
+}

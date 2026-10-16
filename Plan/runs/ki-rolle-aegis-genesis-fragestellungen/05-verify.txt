@@ -1,0 +1,78 @@
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Kontext"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kontext` ^[ki-rolle-aegis-genesis-fragestellungen.md:#6]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "System-Frage"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`System-Frage` ^[ki-rolle-aegis-genesis-fragestellungen.md:#5]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[ki-rolle-aegis-genesis-fragestellungen.md:#0]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[ki-rolle-aegis-genesis-fragestellungen.md:#0]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Potentialmeer"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Potentialmeer` ^[ki-rolle-aegis-genesis-fragestellungen.md:#6]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Leere"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Leere` ^[ki-rolle-aegis-genesis-fragestellungen.md:#3]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Genesis-Krise"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Genesis-Krise` ^[ki-rolle-aegis-genesis-fragestellungen.md:#8]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Juna` ^[ki-rolle-aegis-genesis-fragestellungen.md:#4]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Entität M"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entität M` ^[ki-rolle-aegis-genesis-fragestellungen.md:#1]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V` ^[ki-rolle-aegis-genesis-fragestellungen.md:#2]
+
+$ python3 scripts/read.py ki-rolle-aegis-genesis-fragestellungen --count "Systembus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systembus` ^[ki-rolle-aegis-genesis-fragestellungen.md:#1]
+
+stance_marker_count 11 = Kontext 6 + System-Frage 5

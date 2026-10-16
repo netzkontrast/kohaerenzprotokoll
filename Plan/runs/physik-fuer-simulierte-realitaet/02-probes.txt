@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x3
+  glued ref numbers      109
+  backslash escapes      98
+  typographic marks      255
+  ascii quotes           42
+
+# inflection families -- one term, several surfaces
+  simul    Simulation, SimulationTheory, Simulationen, Simulations, Simulationsarchitektur, Simulationsargument, Simulationsartefakte, Simulationsblase, Simulationscode, Simulationsebene, Simulationsgitter, Simulationsgrundlage, Simulationshypothese, Simulationsmechanik, Simulationsnetzwerks, Simulationsphysik, Simulationsrahmen, Simulationssignaturen, Simulationsstabilität, Simulationsstruktur, Simulationstheorie, Simulationszustand, Simulationszweigen, Simulatoren
+  quant    Quanten, Quanteneffekte, Quantenfeldtheorie, Quantenflüstern, Quantengeometrie, Quantengravitation, Quanteninteraktionen, Quantenkohärenz, Quantenkorrelationen, Quantenmechanik, Quantenmessung, Quantenmessungen, Quantennatur, Quantensubstrat, Quantensystem, Quantensystems, Quantenverhaltens, Quantenverschränkung, Quantenzustand, Quantenzustände, Quantisierung, Quantum
+  infor    Information, Informations, Informationsdichte, Informationsdichtegrenzen, Informationsebene, Informationseinheiten, Informationserhaltung, Informationsgehalt, Informationsgewinn, Informationsgewinnung, Informationsgrenzen, Informationslecks, Informationslöschung, Informationsstruktur, Informationssystem, Informationstheorie, Informationsverarbeitung, Informationsverarbeitungsaufgabe, Informationsverletzung, Informationsverlust, Informationsübertragung
+  inter    Interacting, Interaktion, Interaktionen, Interface, Interferenz, Interferenzen, Interferenzterme, Interpretation, Interpretationen, Interpretations, Interpretationsdebatten, Intervention
+  beoba    Beobachtbare, Beobachter, Beobachterabhängigkeit, Beobachtereffekt, Beobachtereffekts, Beobachters, Beobachtete, Beobachtung, Beobachtungen
+  gravi    Gravitation, Gravitational, Gravitationseffekte, Gravitationsgesetz, Gravitationstheorie, Gravitationstheorien, Gravitationswellen, Gravitationswirkung, Gravity
+  gitte    Gitter, Gitterdefekten, Gittereffekte, Gittereffekten, Gittergrenze, Gitterlinien, Gitterstruktur
+  kontr    Kontrafaktische, Kontraktion, Kontrast, Kontrolle, Kontrollkonsole, Kontrollmechanismen, Kontrollverlust
+  reche    Rechenalgorithmus, Rechenfehler, Rechengitter, Rechenkosten, Rechenleistung, Rechenressourcen, Rechensubstrat
+  energ    Energie, Energiebudgets, Energiedichte, Energieflüssen, Energien, Energy
+  reali    Realität, Realitäten, Realitätsbereiche, Realitätsebene, Realitätsfilter, Realitätsinstabilitäten
+  super    Superluminal, Superpartner, Superposition, Superpositionen, Supersymmetrie, Supersymmetry
+  teilc    Teilchen, Teilchenbeschleunigern, Teilchenpositionen, Teilchenreaktionsschwellen, Teilchenstreuung, Teilchenverteilungen
+  theor    Theorem, Theoretische, Theorie, Theorien, Theories, Theory
+  mecha    Mechanics, Mechanik, Mechaniken, Mechanismen, Mechanismus
+  physi    Physics, Physik, Physikalische, Physiker, Physikern
+  poten    Potential, Potentialmeer, Potentialmeers, Potenzial, Potenzielle
+  resso    Ressourcen, Ressourcenknappheit, Ressourcenlimits, Ressourcenmangel, Ressourcenverwaltung
+  roman    Roman, Romanhandlung, Romanmechaniken, Romans, Romanwelt
+  stand    Standard, Standardmodell, Standardmodells, Standardphysik, Standards
+  forsc    Forschung, Forschungsanfrage, Forschungsbericht, Forschungsfragen
+  grenz    Grenze, Grenzen, Grenzfläche, Grenzphysik
+  hinte    Hintergrund, Hintergrundstrahlung, Hintergrundunabhängigkeit, Hinterlassenschaften
+  holog    Hologramm, Holographic, Holographische, Holographisches
+  kosmo    Kosmologen, Kosmologie, Kosmologien, Kosmologische
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantic
+  Anti < Quantisierung
+  Bell < Tabelle
+  Bell < Bellschen
+  Bild < Bildschirms
+  Bild < Strukturbildung
+  Bohm < Bohmian
+  Bohm < Bohmsche
+  Bran < Branen
+  Code < Codes
+  Code < Simulationscode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Educ < PhysRevPhysEducRes
+  Eine < Bausteine
+  Eine < Allgemeine
+  Eine < Allgemeinen
+  Feld < Feldern
+  Feld < Skalarfeld

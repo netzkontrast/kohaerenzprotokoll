@@ -1,0 +1,168 @@
+{
+  "document": "canonical-narrative-architecture-for-kohaerenz-protokoll",
+  "drive_id": "1VGKU2Pq5cjsA_kIcekGOrx9m7iVNisv3ePqj6kmT-RQ",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and three record entries by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-445/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a report on the novel whose Wächter are the Guardians and whose host is the fictional Kael",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 52,
+    "decided_by_lookup": 36,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English report declaring resolutions of four contradictions about the novel: its new surfaces are System Kael, the ANP-EP phobia, algorithmic melancholy, the psycho-ontological confrontation, the Guardian's Dilemma, rebel Guardians, the Juna/V connection, cited stories and borrowed concepts; what it declares for Kael, AEGIS, the Guardians, the alters, the Risse, the theory and Juna went on existing pages, Kael's gender on C17, AEGIS's fate on Q8 and the Guardians on Q1 — each its claim, recorded, not applied.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        50,
+        51,
+        55,
+        79,
+        126,
+        127,
+        137
+      ],
+      "attribution": "",
+      "note": "AEGIS declared not destroyed but forced into algorithmic melancholy"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "named among Kael's key alters"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        99,
+        103,
+        126,
+        127
+      ],
+      "attribution": "",
+      "note": "the Guardians declared not a monolith"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        87,
+        138
+      ],
+      "attribution": "",
+      "note": "the Juna/V connection as catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        33,
+        34,
+        35,
+        85,
+        127
+      ],
+      "attribution": "",
+      "note": "Kael declared the male host of System Kael"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "named among Kael's key alters"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "named among Kael's key alters"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "named among Kael's key alters"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "named among Kael's key alters"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        126
+      ],
+      "attribution": "",
+      "note": "Risse in Act II"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27,
+        34,
+        40
+      ],
+      "attribution": "",
+      "note": "TSDP as the diagnosis of Kael's fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C17"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Juna/V connection` read on juna; `Rebel Guardian` and `Guardian's Dilemma` read on guardians; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 87,
+      "decision": "reading",
+      "why": "the Juna/V connection giving Kael gnosis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "System Kael, ANP-EP Phobia, functional multiplicity (the English form), algorithmic melancholy, living Gödel-Satz, psycho-ontological confrontation, Guardian's Dilemma, Wächter-Zwiespalt, Rebel Guardian, Juna/V connection, The Foundation, Stories 22, 25 and 29, and the borrowed concepts"
+  ],
+  "internal_tension": "it calls its resolutions canonical and definitive (L15, L27, L55, L103) while deciding nothing the author decided — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

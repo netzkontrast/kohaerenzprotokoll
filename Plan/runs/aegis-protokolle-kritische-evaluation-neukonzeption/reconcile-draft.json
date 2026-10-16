@@ -1,0 +1,128 @@
+{
+  "document": "aegis-protokolle-kritische-evaluation-neukonzeption",
+  "drive_id": "1TOpRhs8DAOIlxHab1tNt4y0nm0rTJRWJL5zJ_XSHotk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 37,
+    "decisions": 36,
+    "decided_by_lookup": 32,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        17,
+        33,
+        40,
+        50,
+        60,
+        79,
+        105,
+        137,
+        138
+      ],
+      "attribution": "",
+      "note": "AEGIS's core philosophy as the measure of a hypothetical critique"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "a possibly purely informational entropy"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        31,
+        33
+      ],
+      "attribution": "",
+      "note": "coherence as condition of existence, and its undefined operationalisation"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        128
+      ],
+      "attribution": "",
+      "note": "an assumed external source of order"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "SIS",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "one acronym in an unexplained list of protocol sketches"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 34,
+      "decision": "occurrence",
+      "why": "emergence in a general remark on redundancy"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 56,
+      "decision": "reading",
+      "why": "a purely informational definition of entropy for AEGIS; read on the page"
+    },
+    {
+      "page": "kael",
+      "surface": "Michael",
+      "line": 217,
+      "decision": "occurrence",
+      "why": "a real person's given name in a reference-list entry, not the early name"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 31,
+      "decision": "reading",
+      "why": "inconsistent definitions of coherence in the sketches; read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 209,
+      "decision": "occurrence",
+      "why": "a word in a reference title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

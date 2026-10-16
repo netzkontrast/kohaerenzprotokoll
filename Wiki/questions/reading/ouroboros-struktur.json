@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ouroboros-struktur",
+ "title": "Ouroboros-Struktur",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Wiederkehr von Bild oder Satz",
+  "Bedeutung unveränderten Schmerzes",
+  "Unterschied zwischen Reset und veränderter Lesart",
+  "Position des Endes zwischen Kap 39 und 40",
+  "Fortgang trotz zyklischer Form"
+ ],
+ "basis": {
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "genesis-klammer": {
+   "title": "Genesis-Klammer",
+   "path": "Wiki/candidates/genesis-klammer.md",
+   "hash": "cb0c2af03ef01a3757eb1dfc38211430ec0f4325958224c3a7f38ff120afe1db"
+  },
+  "formel-inversion": {
+   "title": "Formel-Inversion",
+   "path": "Wiki/candidates/formel-inversion.md",
+   "hash": "dc66354ebd196afc9ce831cf9a83f9ad516f3ca65e773f27ca3f8475d00ca000"
+  },
+  "kishotenketsu": {
+   "title": "Kishōtenketsu",
+   "path": "Wiki/candidates/kishotenketsu.md",
+   "hash": "a2afc0d2d6f1f898fbdf8948f0010a0c339113f7de2eb78abb60b8196b2fa1f1"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  },
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ouroboros-struktur-001",
+   "question": "Welches unveränderte Anfangsbild liest sich am Ende anders, obwohl die ursprüngliche Verletzung bestehen bleibt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-002",
+   "question": "Welche Lesarten auf der Seite zu Ouroboros-Struktur stützen oder begrenzen „Wiederkehr von Bild oder Satz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-003",
+   "question": "Welcher Grenzfall würde bei Ouroboros-Struktur die Annahmen über „Wiederkehr von Bild oder Satz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-004",
+   "question": "Wer könnte innerhalb des Romans bei Ouroboros-Struktur etwas über „Wiederkehr von Bild oder Satz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-005",
+   "question": "Welche konkrete Entscheidung könnte „Wiederkehr von Bild oder Satz“ bei Ouroboros-Struktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wiederkehr von Bild oder Satz“ bei Ouroboros-Struktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-007",
+   "question": "Wie lässt sich „Wiederkehr von Bild oder Satz“ bei Ouroboros-Struktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-008",
+   "question": "Welche Alternativen sollte der Autor bei Ouroboros-Struktur für „Wiederkehr von Bild oder Satz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-009",
+   "question": "Was bedeutet bei Ouroboros-Struktur der Themenpunkt „Bedeutung unveränderten Schmerzes“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-010",
+   "question": "Welche Lesarten auf der Seite zu Ouroboros-Struktur stützen oder begrenzen „Bedeutung unveränderten Schmerzes“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-011",
+   "question": "Welcher Grenzfall würde bei Ouroboros-Struktur die Annahmen über „Bedeutung unveränderten Schmerzes“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-012",
+   "question": "Wer könnte innerhalb des Romans bei Ouroboros-Struktur etwas über „Bedeutung unveränderten Schmerzes“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-013",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung unveränderten Schmerzes“ bei Ouroboros-Struktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung unveränderten Schmerzes“ bei Ouroboros-Struktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-015",
+   "question": "Wie lässt sich „Bedeutung unveränderten Schmerzes“ bei Ouroboros-Struktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-016",
+   "question": "Welche Alternativen sollte der Autor bei Ouroboros-Struktur für „Bedeutung unveränderten Schmerzes“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-017",
+   "question": "Was bedeutet bei Ouroboros-Struktur der Themenpunkt „Unterschied zwischen Reset und veränderter Lesart“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-018",
+   "question": "Welche Lesarten auf der Seite zu Ouroboros-Struktur stützen oder begrenzen „Unterschied zwischen Reset und veränderter Lesart“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-019",
+   "question": "Welcher Grenzfall würde bei Ouroboros-Struktur die Annahmen über „Unterschied zwischen Reset und veränderter Lesart“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-020",
+   "question": "Wer könnte innerhalb des Romans bei Ouroboros-Struktur etwas über „Unterschied zwischen Reset und veränderter Lesart“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Reset und veränderter Lesart“ bei Ouroboros-Struktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Reset und veränderter Lesart“ bei Ouroboros-Struktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-023",
+   "question": "Wie lässt sich „Unterschied zwischen Reset und veränderter Lesart“ bei Ouroboros-Struktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-024",
+   "question": "Welche Alternativen sollte der Autor bei Ouroboros-Struktur für „Unterschied zwischen Reset und veränderter Lesart“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-025",
+   "question": "Was bedeutet bei Ouroboros-Struktur der Themenpunkt „Position des Endes zwischen Kap 39 und 40“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-026",
+   "question": "Welche Lesarten auf der Seite zu Ouroboros-Struktur stützen oder begrenzen „Position des Endes zwischen Kap 39 und 40“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-027",
+   "question": "Welcher Grenzfall würde bei Ouroboros-Struktur die Annahmen über „Position des Endes zwischen Kap 39 und 40“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-028",
+   "question": "Wer könnte innerhalb des Romans bei Ouroboros-Struktur etwas über „Position des Endes zwischen Kap 39 und 40“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-029",
+   "question": "Welche konkrete Entscheidung könnte „Position des Endes zwischen Kap 39 und 40“ bei Ouroboros-Struktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Position des Endes zwischen Kap 39 und 40“ bei Ouroboros-Struktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-031",
+   "question": "Wie lässt sich „Position des Endes zwischen Kap 39 und 40“ bei Ouroboros-Struktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-032",
+   "question": "Welche Alternativen sollte der Autor bei Ouroboros-Struktur für „Position des Endes zwischen Kap 39 und 40“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-033",
+   "question": "Was bedeutet bei Ouroboros-Struktur der Themenpunkt „Fortgang trotz zyklischer Form“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-034",
+   "question": "Welche Lesarten auf der Seite zu Ouroboros-Struktur stützen oder begrenzen „Fortgang trotz zyklischer Form“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-035",
+   "question": "Welcher Grenzfall würde bei Ouroboros-Struktur die Annahmen über „Fortgang trotz zyklischer Form“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-036",
+   "question": "Wer könnte innerhalb des Romans bei Ouroboros-Struktur etwas über „Fortgang trotz zyklischer Form“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-037",
+   "question": "Welche konkrete Entscheidung könnte „Fortgang trotz zyklischer Form“ bei Ouroboros-Struktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortgang trotz zyklischer Form“ bei Ouroboros-Struktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-039",
+   "question": "Wie lässt sich „Fortgang trotz zyklischer Form“ bei Ouroboros-Struktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-040",
+   "question": "Welche Alternativen sollte der Autor bei Ouroboros-Struktur für „Fortgang trotz zyklischer Form“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-041",
+   "question": "Wo unterscheiden sich Ouroboros-Struktur und Genesis-Klammer, wenn man sie unter dem Gesichtspunkt „Wiederkehr von Bild oder Satz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-042",
+   "question": "Welche Quelle verbindet Ouroboros-Struktur mit Genesis-Klammer in Bezug auf „Wiederkehr von Bild oder Satz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-043",
+   "question": "Welche Grenzen aus der Seite zu Genesis-Klammer müsste eine Deutung von Ouroboros-Struktur unter „Wiederkehr von Bild oder Satz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-044",
+   "question": "Wie könnte sich das Wissen über Ouroboros-Struktur vom Wissen über Genesis-Klammer unterscheiden, wenn „Wiederkehr von Bild oder Satz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ouroboros-Struktur und Genesis-Klammer bei „Wiederkehr von Bild oder Satz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-046",
+   "question": "Falls Ouroboros-Struktur im Hinblick auf „Wiederkehr von Bild oder Satz“ anders festgelegt wird: Welche Aussagen über Genesis-Klammer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ouroboros-Struktur und Genesis-Klammer bei „Wiederkehr von Bild oder Satz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-048",
+   "question": "Braucht der Roman eine Verbindung von Ouroboros-Struktur und Genesis-Klammer bei „Wiederkehr von Bild oder Satz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-049",
+   "question": "In welchem denkbaren Fall könnte Ouroboros-Struktur bestehen, ohne dass Genesis-Klammer dieselbe Funktion übernimmt, und was würde das für „Wiederkehr von Bild oder Satz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-050",
+   "question": "Welche Kosten könnte eine Verbindung von Ouroboros-Struktur und Genesis-Klammer in Bezug auf „Wiederkehr von Bild oder Satz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-051",
+   "question": "Welche ältere Lesart von Ouroboros-Struktur oder Genesis-Klammer könnte die Gegenüberstellung unter „Wiederkehr von Bild oder Satz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ouroboros-Struktur und Genesis-Klammer unter „Wiederkehr von Bild oder Satz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ouroboros-struktur",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-053",
+   "question": "Wo unterscheiden sich Ouroboros-Struktur und Formel-Inversion, wenn man sie unter dem Gesichtspunkt „Bedeutung unveränderten Schmerzes“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-054",
+   "question": "Welche Quelle verbindet Ouroboros-Struktur mit Formel-Inversion in Bezug auf „Bedeutung unveränderten Schmerzes“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-055",
+   "question": "Welche Grenzen aus der Seite zu Formel-Inversion müsste eine Deutung von Ouroboros-Struktur unter „Bedeutung unveränderten Schmerzes“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-056",
+   "question": "Wie könnte sich das Wissen über Ouroboros-Struktur vom Wissen über Formel-Inversion unterscheiden, wenn „Bedeutung unveränderten Schmerzes“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ouroboros-Struktur und Formel-Inversion bei „Bedeutung unveränderten Schmerzes“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-058",
+   "question": "Falls Ouroboros-Struktur im Hinblick auf „Bedeutung unveränderten Schmerzes“ anders festgelegt wird: Welche Aussagen über Formel-Inversion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ouroboros-Struktur und Formel-Inversion bei „Bedeutung unveränderten Schmerzes“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-060",
+   "question": "Braucht der Roman eine Verbindung von Ouroboros-Struktur und Formel-Inversion bei „Bedeutung unveränderten Schmerzes“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-061",
+   "question": "In welchem denkbaren Fall könnte Ouroboros-Struktur bestehen, ohne dass Formel-Inversion dieselbe Funktion übernimmt, und was würde das für „Bedeutung unveränderten Schmerzes“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-062",
+   "question": "Welche Kosten könnte eine Verbindung von Ouroboros-Struktur und Formel-Inversion in Bezug auf „Bedeutung unveränderten Schmerzes“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-063",
+   "question": "Welche ältere Lesart von Ouroboros-Struktur oder Formel-Inversion könnte die Gegenüberstellung unter „Bedeutung unveränderten Schmerzes“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ouroboros-Struktur und Formel-Inversion unter „Bedeutung unveränderten Schmerzes“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ouroboros-struktur",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-065",
+   "question": "Wo unterscheiden sich Ouroboros-Struktur und Kishōtenketsu, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Reset und veränderter Lesart“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-066",
+   "question": "Welche Quelle verbindet Ouroboros-Struktur mit Kishōtenketsu in Bezug auf „Unterschied zwischen Reset und veränderter Lesart“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-067",
+   "question": "Welche Grenzen aus der Seite zu Kishōtenketsu müsste eine Deutung von Ouroboros-Struktur unter „Unterschied zwischen Reset und veränderter Lesart“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-068",
+   "question": "Wie könnte sich das Wissen über Ouroboros-Struktur vom Wissen über Kishōtenketsu unterscheiden, wenn „Unterschied zwischen Reset und veränderter Lesart“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ouroboros-Struktur und Kishōtenketsu bei „Unterschied zwischen Reset und veränderter Lesart“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-070",
+   "question": "Falls Ouroboros-Struktur im Hinblick auf „Unterschied zwischen Reset und veränderter Lesart“ anders festgelegt wird: Welche Aussagen über Kishōtenketsu müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ouroboros-Struktur und Kishōtenketsu bei „Unterschied zwischen Reset und veränderter Lesart“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-072",
+   "question": "Braucht der Roman eine Verbindung von Ouroboros-Struktur und Kishōtenketsu bei „Unterschied zwischen Reset und veränderter Lesart“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-073",
+   "question": "In welchem denkbaren Fall könnte Ouroboros-Struktur bestehen, ohne dass Kishōtenketsu dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Reset und veränderter Lesart“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-074",
+   "question": "Welche Kosten könnte eine Verbindung von Ouroboros-Struktur und Kishōtenketsu in Bezug auf „Unterschied zwischen Reset und veränderter Lesart“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-075",
+   "question": "Welche ältere Lesart von Ouroboros-Struktur oder Kishōtenketsu könnte die Gegenüberstellung unter „Unterschied zwischen Reset und veränderter Lesart“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ouroboros-Struktur und Kishōtenketsu unter „Unterschied zwischen Reset und veränderter Lesart“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ouroboros-struktur",
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-077",
+   "question": "Wo unterscheiden sich Ouroboros-Struktur und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Position des Endes zwischen Kap 39 und 40“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-078",
+   "question": "Welche Quelle verbindet Ouroboros-Struktur mit Truth-Rotation in Bezug auf „Position des Endes zwischen Kap 39 und 40“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-079",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Ouroboros-Struktur unter „Position des Endes zwischen Kap 39 und 40“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-080",
+   "question": "Wie könnte sich das Wissen über Ouroboros-Struktur vom Wissen über Truth-Rotation unterscheiden, wenn „Position des Endes zwischen Kap 39 und 40“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ouroboros-Struktur und Truth-Rotation bei „Position des Endes zwischen Kap 39 und 40“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-082",
+   "question": "Falls Ouroboros-Struktur im Hinblick auf „Position des Endes zwischen Kap 39 und 40“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ouroboros-Struktur und Truth-Rotation bei „Position des Endes zwischen Kap 39 und 40“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-084",
+   "question": "Braucht der Roman eine Verbindung von Ouroboros-Struktur und Truth-Rotation bei „Position des Endes zwischen Kap 39 und 40“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-085",
+   "question": "In welchem denkbaren Fall könnte Ouroboros-Struktur bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Position des Endes zwischen Kap 39 und 40“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-086",
+   "question": "Welche Kosten könnte eine Verbindung von Ouroboros-Struktur und Truth-Rotation in Bezug auf „Position des Endes zwischen Kap 39 und 40“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-087",
+   "question": "Welche ältere Lesart von Ouroboros-Struktur oder Truth-Rotation könnte die Gegenüberstellung unter „Position des Endes zwischen Kap 39 und 40“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ouroboros-Struktur und Truth-Rotation unter „Position des Endes zwischen Kap 39 und 40“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ouroboros-struktur",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-089",
+   "question": "Wo unterscheiden sich Ouroboros-Struktur und Telefon-Stille, wenn man sie unter dem Gesichtspunkt „Fortgang trotz zyklischer Form“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-090",
+   "question": "Welche Quelle verbindet Ouroboros-Struktur mit Telefon-Stille in Bezug auf „Fortgang trotz zyklischer Form“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-091",
+   "question": "Welche Grenzen aus der Seite zu Telefon-Stille müsste eine Deutung von Ouroboros-Struktur unter „Fortgang trotz zyklischer Form“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-092",
+   "question": "Wie könnte sich das Wissen über Ouroboros-Struktur vom Wissen über Telefon-Stille unterscheiden, wenn „Fortgang trotz zyklischer Form“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ouroboros-Struktur und Telefon-Stille bei „Fortgang trotz zyklischer Form“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-094",
+   "question": "Falls Ouroboros-Struktur im Hinblick auf „Fortgang trotz zyklischer Form“ anders festgelegt wird: Welche Aussagen über Telefon-Stille müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ouroboros-Struktur und Telefon-Stille bei „Fortgang trotz zyklischer Form“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-096",
+   "question": "Braucht der Roman eine Verbindung von Ouroboros-Struktur und Telefon-Stille bei „Fortgang trotz zyklischer Form“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-097",
+   "question": "In welchem denkbaren Fall könnte Ouroboros-Struktur bestehen, ohne dass Telefon-Stille dieselbe Funktion übernimmt, und was würde das für „Fortgang trotz zyklischer Form“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-098",
+   "question": "Welche Kosten könnte eine Verbindung von Ouroboros-Struktur und Telefon-Stille in Bezug auf „Fortgang trotz zyklischer Form“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-099",
+   "question": "Welche ältere Lesart von Ouroboros-Struktur oder Telefon-Stille könnte die Gegenüberstellung unter „Fortgang trotz zyklischer Form“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-ouroboros-struktur-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ouroboros-Struktur und Telefon-Stille unter „Fortgang trotz zyklischer Form“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ouroboros-struktur",
+    "telefon-stille"
+   ]
+  }
+ ]
+}

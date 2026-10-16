@@ -1,0 +1,73 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German analytical report on the novel project, in eight numbered sections with a reference list of 234 numbered entries at the end. Its body cites a query ("Query Pt") and glues reference numbers to words. The list below holds the figures, places and objects it names, the terms it heads or marks as its own, and the borrowed concepts it applies to the world, the last under the lens heading. A heading such as the Co₁ line writes its name in bold and the gloss outside the bold, so the gloss halves are listed separately. Chapter ranges stand in headings and one sentence.
+
+- Kael
+- Juna
+- AEGIS
+- Kael/M
+- Kernwelten
+- Co₁
+- McL
+- Ly
+- Welt B
+- Welt Co₁
+- Welt Ly
+- Ordnung/Order
+- Netzwerk/Network
+- Chaos/Schatten
+- Potential/Potentialität
+- Moonshine-Link
+- K-J-Link
+- K-J Verbindung
+- K-J-Verbindung
+- Kohärenz Protokoll
+- Kohärenzprotokoll
+- Cache Kohärenz
+- Cache-Inkohärenz
+- Cache-Kohärenz-Metapher
+- Cache-Invalidierung
+- Realitäts-Caches
+- Risse
+- Einblicke in AEGIS
+- fundamentales Konzept
+- Fundamentale Konzept
+- Fundamentales Konzept
+- Erzähler
+- Teil 1
+- Teil 2
+- Teil 3
+- Kapitel 1-13
+- Kapitel 14-26
+- Kapitel 27-39
+- Abstieg zur Göttin
+- Heilige Hochzeit
+- Ordal/Feuerprobe
+- Gödel'sche Grenzen
+- Holismus-Problem
+- Feuerwehr-Teil
+- Kohärenz-Metriken
+
+## lens
+
+- Autopoiesis
+- Autopoietische KI
+- Holismus
+- Reduktionismus
+- Dissoziation
+- Derealisation
+- Depersonalisation
+- Dissoziative Identitätsstörung
+- Internal Family Systems
+- IFS
+- Kern-Selbst
+- Exilanten
+- Feuerwehrleute
+- Nicht-lineare Heilung
+- Heldinnenreise
+- Heldenreise
+- Monstergruppe
+- Symmetrie
+- Emergenz
+- Environmental Storytelling
+- Cosmic Horror

@@ -1,0 +1,93 @@
+{
+  "document": "genesis-recherche-anleitung-umsetzung",
+  "drive_id": "1jyV8RqWn7Lz2BFM7jD0juVghOeVauO1cz3lyOt2RHTo",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 100,
+    "decisions": 97,
+    "decided_by_lookup": 79,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        156,
+        194,
+        948,
+        974,
+        977,
+        1109,
+        1393
+      ],
+      "attribution": "",
+      "note": "AEGIS planned as the narrator of the even scenes, a monitoring system voice, and the subject's last inner voice"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        11,
+        19,
+        147,
+        184,
+        450
+      ],
+      "attribution": "",
+      "note": "Genesis as the project the guide implements and as a protocol named in the scene beats"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 1139,
+      "decision": "occurrence",
+      "why": "aesthetics of decay in a reference table"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 267,
+      "decision": "occurrence",
+      "why": "die Kohärenz des Seins in a technique note"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 1201,
+      "decision": "occurrence",
+      "why": "cracks in the dark in a sensory fragment of the sample prose"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

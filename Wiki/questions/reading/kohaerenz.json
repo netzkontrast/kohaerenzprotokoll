@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kohaerenz",
+ "title": "Kohärenz",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unterschied zwischen Stimmigkeit und Zwang",
+  "lokale gegenüber globaler Übereinstimmung",
+  "Sinn ohne Widerspruchsfreiheit",
+  "Verhältnis von Bindung und Konsistenz",
+  "aktive Selbstkorrektur der Umgebung"
+ ],
+ "basis": {
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kohaerenz-kernel": {
+   "title": "Kohärenz-Kernel (K₁)",
+   "path": "Wiki/candidates/kohaerenz-kernel.md",
+   "hash": "624b3d551b314d96a4a674b350ad0361241d99f9a07692e7e15101e2754deac1"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kohaerenz-001",
+   "question": "Welche zwei widersprechenden Perspektiven kann der Roman als gemeinsam stimmig zeigen, ohne den Widerspruch aufzulösen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-002",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz stützen oder begrenzen „Unterschied zwischen Stimmigkeit und Zwang“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-003",
+   "question": "Welcher Grenzfall würde bei Kohärenz die Annahmen über „Unterschied zwischen Stimmigkeit und Zwang“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-004",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz etwas über „Unterschied zwischen Stimmigkeit und Zwang“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-005",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Stimmigkeit und Zwang“ bei Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Stimmigkeit und Zwang“ bei Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-007",
+   "question": "Wie lässt sich „Unterschied zwischen Stimmigkeit und Zwang“ bei Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-008",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz für „Unterschied zwischen Stimmigkeit und Zwang“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-009",
+   "question": "Was bedeutet bei Kohärenz der Themenpunkt „lokale gegenüber globaler Übereinstimmung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-010",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz stützen oder begrenzen „lokale gegenüber globaler Übereinstimmung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-011",
+   "question": "Welcher Grenzfall würde bei Kohärenz die Annahmen über „lokale gegenüber globaler Übereinstimmung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-012",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz etwas über „lokale gegenüber globaler Übereinstimmung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-013",
+   "question": "Welche konkrete Entscheidung könnte „lokale gegenüber globaler Übereinstimmung“ bei Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „lokale gegenüber globaler Übereinstimmung“ bei Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-015",
+   "question": "Wie lässt sich „lokale gegenüber globaler Übereinstimmung“ bei Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-016",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz für „lokale gegenüber globaler Übereinstimmung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-017",
+   "question": "Was bedeutet bei Kohärenz der Themenpunkt „Sinn ohne Widerspruchsfreiheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-018",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz stützen oder begrenzen „Sinn ohne Widerspruchsfreiheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-019",
+   "question": "Welcher Grenzfall würde bei Kohärenz die Annahmen über „Sinn ohne Widerspruchsfreiheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-020",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz etwas über „Sinn ohne Widerspruchsfreiheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-021",
+   "question": "Welche konkrete Entscheidung könnte „Sinn ohne Widerspruchsfreiheit“ bei Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Sinn ohne Widerspruchsfreiheit“ bei Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-023",
+   "question": "Wie lässt sich „Sinn ohne Widerspruchsfreiheit“ bei Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-024",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz für „Sinn ohne Widerspruchsfreiheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-025",
+   "question": "Was bedeutet bei Kohärenz der Themenpunkt „Verhältnis von Bindung und Konsistenz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-026",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz stützen oder begrenzen „Verhältnis von Bindung und Konsistenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-027",
+   "question": "Welcher Grenzfall würde bei Kohärenz die Annahmen über „Verhältnis von Bindung und Konsistenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-028",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz etwas über „Verhältnis von Bindung und Konsistenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-029",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Bindung und Konsistenz“ bei Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Bindung und Konsistenz“ bei Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-031",
+   "question": "Wie lässt sich „Verhältnis von Bindung und Konsistenz“ bei Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-032",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz für „Verhältnis von Bindung und Konsistenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-033",
+   "question": "Was bedeutet bei Kohärenz der Themenpunkt „aktive Selbstkorrektur der Umgebung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-034",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz stützen oder begrenzen „aktive Selbstkorrektur der Umgebung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-035",
+   "question": "Welcher Grenzfall würde bei Kohärenz die Annahmen über „aktive Selbstkorrektur der Umgebung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-036",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz etwas über „aktive Selbstkorrektur der Umgebung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-037",
+   "question": "Welche konkrete Entscheidung könnte „aktive Selbstkorrektur der Umgebung“ bei Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „aktive Selbstkorrektur der Umgebung“ bei Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-039",
+   "question": "Wie lässt sich „aktive Selbstkorrektur der Umgebung“ bei Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-040",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz für „aktive Selbstkorrektur der Umgebung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-041",
+   "question": "Wo unterscheiden sich Kohärenz und AEGIS, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Stimmigkeit und Zwang“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-042",
+   "question": "Welche Quelle verbindet Kohärenz mit AEGIS in Bezug auf „Unterschied zwischen Stimmigkeit und Zwang“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Kohärenz unter „Unterschied zwischen Stimmigkeit und Zwang“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-044",
+   "question": "Wie könnte sich das Wissen über Kohärenz vom Wissen über AEGIS unterscheiden, wenn „Unterschied zwischen Stimmigkeit und Zwang“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz und AEGIS bei „Unterschied zwischen Stimmigkeit und Zwang“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-046",
+   "question": "Falls Kohärenz im Hinblick auf „Unterschied zwischen Stimmigkeit und Zwang“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz und AEGIS bei „Unterschied zwischen Stimmigkeit und Zwang“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-048",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz und AEGIS bei „Unterschied zwischen Stimmigkeit und Zwang“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-049",
+   "question": "In welchem denkbaren Fall könnte Kohärenz bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Stimmigkeit und Zwang“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz und AEGIS in Bezug auf „Unterschied zwischen Stimmigkeit und Zwang“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-051",
+   "question": "Welche ältere Lesart von Kohärenz oder AEGIS könnte die Gegenüberstellung unter „Unterschied zwischen Stimmigkeit und Zwang“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz und AEGIS unter „Unterschied zwischen Stimmigkeit und Zwang“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-053",
+   "question": "Wo unterscheiden sich Kohärenz und Kohärenz-Kernel (K₁), wenn man sie unter dem Gesichtspunkt „lokale gegenüber globaler Übereinstimmung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-054",
+   "question": "Welche Quelle verbindet Kohärenz mit Kohärenz-Kernel (K₁) in Bezug auf „lokale gegenüber globaler Übereinstimmung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-055",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz-Kernel (K₁) müsste eine Deutung von Kohärenz unter „lokale gegenüber globaler Übereinstimmung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-056",
+   "question": "Wie könnte sich das Wissen über Kohärenz vom Wissen über Kohärenz-Kernel (K₁) unterscheiden, wenn „lokale gegenüber globaler Übereinstimmung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz und Kohärenz-Kernel (K₁) bei „lokale gegenüber globaler Übereinstimmung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-058",
+   "question": "Falls Kohärenz im Hinblick auf „lokale gegenüber globaler Übereinstimmung“ anders festgelegt wird: Welche Aussagen über Kohärenz-Kernel (K₁) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz und Kohärenz-Kernel (K₁) bei „lokale gegenüber globaler Übereinstimmung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-060",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz und Kohärenz-Kernel (K₁) bei „lokale gegenüber globaler Übereinstimmung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-061",
+   "question": "In welchem denkbaren Fall könnte Kohärenz bestehen, ohne dass Kohärenz-Kernel (K₁) dieselbe Funktion übernimmt, und was würde das für „lokale gegenüber globaler Übereinstimmung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz und Kohärenz-Kernel (K₁) in Bezug auf „lokale gegenüber globaler Übereinstimmung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-063",
+   "question": "Welche ältere Lesart von Kohärenz oder Kohärenz-Kernel (K₁) könnte die Gegenüberstellung unter „lokale gegenüber globaler Übereinstimmung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz und Kohärenz-Kernel (K₁) unter „lokale gegenüber globaler Übereinstimmung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-065",
+   "question": "Wo unterscheiden sich Kohärenz und Multiplizität, wenn man sie unter dem Gesichtspunkt „Sinn ohne Widerspruchsfreiheit“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-066",
+   "question": "Welche Quelle verbindet Kohärenz mit Multiplizität in Bezug auf „Sinn ohne Widerspruchsfreiheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-067",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Kohärenz unter „Sinn ohne Widerspruchsfreiheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-068",
+   "question": "Wie könnte sich das Wissen über Kohärenz vom Wissen über Multiplizität unterscheiden, wenn „Sinn ohne Widerspruchsfreiheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz und Multiplizität bei „Sinn ohne Widerspruchsfreiheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-070",
+   "question": "Falls Kohärenz im Hinblick auf „Sinn ohne Widerspruchsfreiheit“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz und Multiplizität bei „Sinn ohne Widerspruchsfreiheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-072",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz und Multiplizität bei „Sinn ohne Widerspruchsfreiheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-073",
+   "question": "In welchem denkbaren Fall könnte Kohärenz bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Sinn ohne Widerspruchsfreiheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz und Multiplizität in Bezug auf „Sinn ohne Widerspruchsfreiheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-075",
+   "question": "Welche ältere Lesart von Kohärenz oder Multiplizität könnte die Gegenüberstellung unter „Sinn ohne Widerspruchsfreiheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz und Multiplizität unter „Sinn ohne Widerspruchsfreiheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-077",
+   "question": "Wo unterscheiden sich Kohärenz und Entropie, wenn man sie unter dem Gesichtspunkt „Verhältnis von Bindung und Konsistenz“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-078",
+   "question": "Welche Quelle verbindet Kohärenz mit Entropie in Bezug auf „Verhältnis von Bindung und Konsistenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-079",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Kohärenz unter „Verhältnis von Bindung und Konsistenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-080",
+   "question": "Wie könnte sich das Wissen über Kohärenz vom Wissen über Entropie unterscheiden, wenn „Verhältnis von Bindung und Konsistenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz und Entropie bei „Verhältnis von Bindung und Konsistenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-082",
+   "question": "Falls Kohärenz im Hinblick auf „Verhältnis von Bindung und Konsistenz“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz und Entropie bei „Verhältnis von Bindung und Konsistenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-084",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz und Entropie bei „Verhältnis von Bindung und Konsistenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-085",
+   "question": "In welchem denkbaren Fall könnte Kohärenz bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Bindung und Konsistenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz und Entropie in Bezug auf „Verhältnis von Bindung und Konsistenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-087",
+   "question": "Welche ältere Lesart von Kohärenz oder Entropie könnte die Gegenüberstellung unter „Verhältnis von Bindung und Konsistenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz und Entropie unter „Verhältnis von Bindung und Konsistenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-089",
+   "question": "Wo unterscheiden sich Kohärenz und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „aktive Selbstkorrektur der Umgebung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-090",
+   "question": "Welche Quelle verbindet Kohärenz mit Truth-Rotation in Bezug auf „aktive Selbstkorrektur der Umgebung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-091",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Kohärenz unter „aktive Selbstkorrektur der Umgebung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-092",
+   "question": "Wie könnte sich das Wissen über Kohärenz vom Wissen über Truth-Rotation unterscheiden, wenn „aktive Selbstkorrektur der Umgebung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz und Truth-Rotation bei „aktive Selbstkorrektur der Umgebung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-094",
+   "question": "Falls Kohärenz im Hinblick auf „aktive Selbstkorrektur der Umgebung“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz und Truth-Rotation bei „aktive Selbstkorrektur der Umgebung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-096",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz und Truth-Rotation bei „aktive Selbstkorrektur der Umgebung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-097",
+   "question": "In welchem denkbaren Fall könnte Kohärenz bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „aktive Selbstkorrektur der Umgebung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz und Truth-Rotation in Bezug auf „aktive Selbstkorrektur der Umgebung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-099",
+   "question": "Welche ältere Lesart von Kohärenz oder Truth-Rotation könnte die Gegenüberstellung unter „aktive Selbstkorrektur der Umgebung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz und Truth-Rotation unter „aktive Selbstkorrektur der Umgebung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz",
+    "truth-rotation"
+   ]
+  }
+ ]
+}

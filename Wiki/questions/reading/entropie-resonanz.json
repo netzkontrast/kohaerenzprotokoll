@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "entropie-resonanz",
+ "title": "Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Messbarkeit einer ontologischen Resonanz",
+  "Status des zurückgewiesenen Mechanismus",
+  "Verwechslung physikalischer und metaphorischer Erklärung",
+  "Bedingungen für eine brauchbare Weltregel",
+  "Prüfbarkeit des ERP-Postulats"
+ ],
+ "basis": {
+  "entropie-resonanz": {
+   "title": "Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+   "path": "Wiki/candidates/entropie-resonanz.md",
+   "hash": "10aec1a863eb4d141c19bfcbdf69b1619003d9a9c224872f1319b32e71271132"
+  },
+  "ecr": {
+   "title": "ECR — Entropische Kohärenzregulation",
+   "path": "Wiki/candidates/ecr.md",
+   "hash": "ac865994136b5a15520a842c60b34ec8db6ed078e127d748c1c9839865c2f323"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "entropie-signatur": {
+   "title": "Entropie-Signatur",
+   "path": "Wiki/candidates/entropie-signatur.md",
+   "hash": "69a3a2a30ddd035be51bc1a4feafa9538afa678ceaa7deb77b28e59dd01fcd54"
+  },
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-entropie-resonanz-001",
+   "question": "Was müsste eine Szene zeigen, damit Entropie-Resonanz als brauchbare Weltregel gelten könnte statt als unbelegte Erklärung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-002",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) stützen oder begrenzen „Messbarkeit einer ontologischen Resonanz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-003",
+   "question": "Welcher Grenzfall würde bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) die Annahmen über „Messbarkeit einer ontologischen Resonanz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-004",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) etwas über „Messbarkeit einer ontologischen Resonanz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-005",
+   "question": "Welche konkrete Entscheidung könnte „Messbarkeit einer ontologischen Resonanz“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Messbarkeit einer ontologischen Resonanz“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-007",
+   "question": "Wie lässt sich „Messbarkeit einer ontologischen Resonanz“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-008",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) für „Messbarkeit einer ontologischen Resonanz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-009",
+   "question": "Was bedeutet bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) der Themenpunkt „Status des zurückgewiesenen Mechanismus“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-010",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) stützen oder begrenzen „Status des zurückgewiesenen Mechanismus“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-011",
+   "question": "Welcher Grenzfall würde bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) die Annahmen über „Status des zurückgewiesenen Mechanismus“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-012",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) etwas über „Status des zurückgewiesenen Mechanismus“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-013",
+   "question": "Welche konkrete Entscheidung könnte „Status des zurückgewiesenen Mechanismus“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des zurückgewiesenen Mechanismus“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-015",
+   "question": "Wie lässt sich „Status des zurückgewiesenen Mechanismus“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-016",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) für „Status des zurückgewiesenen Mechanismus“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-017",
+   "question": "Was bedeutet bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) der Themenpunkt „Verwechslung physikalischer und metaphorischer Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-018",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) stützen oder begrenzen „Verwechslung physikalischer und metaphorischer Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-019",
+   "question": "Welcher Grenzfall würde bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) die Annahmen über „Verwechslung physikalischer und metaphorischer Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-020",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) etwas über „Verwechslung physikalischer und metaphorischer Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-021",
+   "question": "Welche konkrete Entscheidung könnte „Verwechslung physikalischer und metaphorischer Erklärung“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwechslung physikalischer und metaphorischer Erklärung“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-023",
+   "question": "Wie lässt sich „Verwechslung physikalischer und metaphorischer Erklärung“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-024",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) für „Verwechslung physikalischer und metaphorischer Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-025",
+   "question": "Was bedeutet bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) der Themenpunkt „Bedingungen für eine brauchbare Weltregel“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-026",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) stützen oder begrenzen „Bedingungen für eine brauchbare Weltregel“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-027",
+   "question": "Welcher Grenzfall würde bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) die Annahmen über „Bedingungen für eine brauchbare Weltregel“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-028",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) etwas über „Bedingungen für eine brauchbare Weltregel“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-029",
+   "question": "Welche konkrete Entscheidung könnte „Bedingungen für eine brauchbare Weltregel“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedingungen für eine brauchbare Weltregel“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-031",
+   "question": "Wie lässt sich „Bedingungen für eine brauchbare Weltregel“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-032",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) für „Bedingungen für eine brauchbare Weltregel“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-033",
+   "question": "Was bedeutet bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) der Themenpunkt „Prüfbarkeit des ERP-Postulats“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-034",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) stützen oder begrenzen „Prüfbarkeit des ERP-Postulats“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-035",
+   "question": "Welcher Grenzfall würde bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) die Annahmen über „Prüfbarkeit des ERP-Postulats“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-036",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) etwas über „Prüfbarkeit des ERP-Postulats“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-037",
+   "question": "Welche konkrete Entscheidung könnte „Prüfbarkeit des ERP-Postulats“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Prüfbarkeit des ERP-Postulats“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-039",
+   "question": "Wie lässt sich „Prüfbarkeit des ERP-Postulats“ bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-040",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) für „Prüfbarkeit des ERP-Postulats“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-041",
+   "question": "Wo unterscheiden sich Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und ECR — Entropische Kohärenzregulation, wenn man sie unter dem Gesichtspunkt „Messbarkeit einer ontologischen Resonanz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-042",
+   "question": "Welche Quelle verbindet Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) mit ECR — Entropische Kohärenzregulation in Bezug auf „Messbarkeit einer ontologischen Resonanz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-043",
+   "question": "Welche Grenzen aus der Seite zu ECR — Entropische Kohärenzregulation müsste eine Deutung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Messbarkeit einer ontologischen Resonanz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-044",
+   "question": "Wie könnte sich das Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) vom Wissen über ECR — Entropische Kohärenzregulation unterscheiden, wenn „Messbarkeit einer ontologischen Resonanz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und ECR — Entropische Kohärenzregulation bei „Messbarkeit einer ontologischen Resonanz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-046",
+   "question": "Falls Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) im Hinblick auf „Messbarkeit einer ontologischen Resonanz“ anders festgelegt wird: Welche Aussagen über ECR — Entropische Kohärenzregulation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und ECR — Entropische Kohärenzregulation bei „Messbarkeit einer ontologischen Resonanz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-048",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und ECR — Entropische Kohärenzregulation bei „Messbarkeit einer ontologischen Resonanz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-049",
+   "question": "In welchem denkbaren Fall könnte Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bestehen, ohne dass ECR — Entropische Kohärenzregulation dieselbe Funktion übernimmt, und was würde das für „Messbarkeit einer ontologischen Resonanz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-050",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und ECR — Entropische Kohärenzregulation in Bezug auf „Messbarkeit einer ontologischen Resonanz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-051",
+   "question": "Welche ältere Lesart von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) oder ECR — Entropische Kohärenzregulation könnte die Gegenüberstellung unter „Messbarkeit einer ontologischen Resonanz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und ECR — Entropische Kohärenzregulation unter „Messbarkeit einer ontologischen Resonanz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-resonanz",
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-053",
+   "question": "Wo unterscheiden sich Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie, wenn man sie unter dem Gesichtspunkt „Status des zurückgewiesenen Mechanismus“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-054",
+   "question": "Welche Quelle verbindet Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) mit Entropie in Bezug auf „Status des zurückgewiesenen Mechanismus“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-055",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Status des zurückgewiesenen Mechanismus“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-056",
+   "question": "Wie könnte sich das Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) vom Wissen über Entropie unterscheiden, wenn „Status des zurückgewiesenen Mechanismus“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie bei „Status des zurückgewiesenen Mechanismus“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-058",
+   "question": "Falls Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) im Hinblick auf „Status des zurückgewiesenen Mechanismus“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie bei „Status des zurückgewiesenen Mechanismus“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-060",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie bei „Status des zurückgewiesenen Mechanismus“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-061",
+   "question": "In welchem denkbaren Fall könnte Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Status des zurückgewiesenen Mechanismus“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-062",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie in Bezug auf „Status des zurückgewiesenen Mechanismus“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-063",
+   "question": "Welche ältere Lesart von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) oder Entropie könnte die Gegenüberstellung unter „Status des zurückgewiesenen Mechanismus“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie unter „Status des zurückgewiesenen Mechanismus“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-resonanz",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-065",
+   "question": "Wo unterscheiden sich Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie-Signatur, wenn man sie unter dem Gesichtspunkt „Verwechslung physikalischer und metaphorischer Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-066",
+   "question": "Welche Quelle verbindet Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) mit Entropie-Signatur in Bezug auf „Verwechslung physikalischer und metaphorischer Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-067",
+   "question": "Welche Grenzen aus der Seite zu Entropie-Signatur müsste eine Deutung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Verwechslung physikalischer und metaphorischer Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-068",
+   "question": "Wie könnte sich das Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) vom Wissen über Entropie-Signatur unterscheiden, wenn „Verwechslung physikalischer und metaphorischer Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie-Signatur bei „Verwechslung physikalischer und metaphorischer Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-070",
+   "question": "Falls Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) im Hinblick auf „Verwechslung physikalischer und metaphorischer Erklärung“ anders festgelegt wird: Welche Aussagen über Entropie-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie-Signatur bei „Verwechslung physikalischer und metaphorischer Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-072",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie-Signatur bei „Verwechslung physikalischer und metaphorischer Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-073",
+   "question": "In welchem denkbaren Fall könnte Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bestehen, ohne dass Entropie-Signatur dieselbe Funktion übernimmt, und was würde das für „Verwechslung physikalischer und metaphorischer Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-074",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie-Signatur in Bezug auf „Verwechslung physikalischer und metaphorischer Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-075",
+   "question": "Welche ältere Lesart von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) oder Entropie-Signatur könnte die Gegenüberstellung unter „Verwechslung physikalischer und metaphorischer Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Entropie-Signatur unter „Verwechslung physikalischer und metaphorischer Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-resonanz",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-077",
+   "question": "Wo unterscheiden sich Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Dual-Kernel-Theorie (DKT), wenn man sie unter dem Gesichtspunkt „Bedingungen für eine brauchbare Weltregel“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-078",
+   "question": "Welche Quelle verbindet Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) mit Dual-Kernel-Theorie (DKT) in Bezug auf „Bedingungen für eine brauchbare Weltregel“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-079",
+   "question": "Welche Grenzen aus der Seite zu Dual-Kernel-Theorie (DKT) müsste eine Deutung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Bedingungen für eine brauchbare Weltregel“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-080",
+   "question": "Wie könnte sich das Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) vom Wissen über Dual-Kernel-Theorie (DKT) unterscheiden, wenn „Bedingungen für eine brauchbare Weltregel“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Dual-Kernel-Theorie (DKT) bei „Bedingungen für eine brauchbare Weltregel“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-082",
+   "question": "Falls Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) im Hinblick auf „Bedingungen für eine brauchbare Weltregel“ anders festgelegt wird: Welche Aussagen über Dual-Kernel-Theorie (DKT) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Dual-Kernel-Theorie (DKT) bei „Bedingungen für eine brauchbare Weltregel“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-084",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Dual-Kernel-Theorie (DKT) bei „Bedingungen für eine brauchbare Weltregel“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-085",
+   "question": "In welchem denkbaren Fall könnte Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bestehen, ohne dass Dual-Kernel-Theorie (DKT) dieselbe Funktion übernimmt, und was würde das für „Bedingungen für eine brauchbare Weltregel“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-086",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Dual-Kernel-Theorie (DKT) in Bezug auf „Bedingungen für eine brauchbare Weltregel“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-087",
+   "question": "Welche ältere Lesart von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) oder Dual-Kernel-Theorie (DKT) könnte die Gegenüberstellung unter „Bedingungen für eine brauchbare Weltregel“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und Dual-Kernel-Theorie (DKT) unter „Bedingungen für eine brauchbare Weltregel“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-resonanz",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-089",
+   "question": "Wo unterscheiden sich Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und AEGIS, wenn man sie unter dem Gesichtspunkt „Prüfbarkeit des ERP-Postulats“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-090",
+   "question": "Welche Quelle verbindet Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) mit AEGIS in Bezug auf „Prüfbarkeit des ERP-Postulats“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Prüfbarkeit des ERP-Postulats“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-092",
+   "question": "Wie könnte sich das Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) vom Wissen über AEGIS unterscheiden, wenn „Prüfbarkeit des ERP-Postulats“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und AEGIS bei „Prüfbarkeit des ERP-Postulats“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-094",
+   "question": "Falls Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) im Hinblick auf „Prüfbarkeit des ERP-Postulats“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und AEGIS bei „Prüfbarkeit des ERP-Postulats“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-096",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und AEGIS bei „Prüfbarkeit des ERP-Postulats“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-097",
+   "question": "In welchem denkbaren Fall könnte Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Prüfbarkeit des ERP-Postulats“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-098",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und AEGIS in Bezug auf „Prüfbarkeit des ERP-Postulats“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-099",
+   "question": "Welche ältere Lesart von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) oder AEGIS könnte die Gegenüberstellung unter „Prüfbarkeit des ERP-Postulats“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-resonanz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) und AEGIS unter „Prüfbarkeit des ERP-Postulats“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-resonanz",
+    "aegis"
+   ]
+  }
+ ]
+}

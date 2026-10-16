@@ -590,3 +590,59 @@ Stands: the document records the Guardians as AEGIS's agents in the Kernwelten a
 As premise: „Die Interventionen verschlimmern die Instabilität“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L80], and „Einige Agenten beginnen möglicherweise, die Systemlogik in Frage zu stellen“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L81]. In Synopsis A it proposes: „Kael, unterstützt von abtrünnigen Guardians, dringt zum logischen Kern von AEGIS vor“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L248].
 
 Stands as one more position on how the Guardians stand to AEGIS; recorded, not applied.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft
+
+**The detailed plot draft makes the Guardians AEGIS's, as the analogue of protector parts, and gives KW1 a logical guardian.**
+
+The text reads „AEGIS' Guardians oder Herausforderungen in den Kernwelten“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27), and Kap 5 plans „Guardian von KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91), „Eine logische Entität, die die Grundregeln von KW1 verkörpert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91).
+
+Where it stands: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `romanplot-kohaerenz-protokoll-entwicklung`, 2025-04-25, the optimised blueprint
+
+**The optimised blueprint plans the Guardians as AEGIS's subsystems, personifying its inner conflict, and step 4's Wächter as an AEGIS subsystem in KW2.**
+
+The line reads „AEGIS Subsysteme/Guardians“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L103] and „Diese können Aspekte von AEGIS' internem Konflikt personifizieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L103] Step 4: „Der Wächter repräsentiert AEGIS' Kontrollmechanismen und seine autopoietische Tendenz, Abweichungen zu korrigieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L193]
+
+Where it stands: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `canonical-narrative-architecture-for-kohaerenz-protokoll`, 2025-11-03, the canonical-architecture report
+
+**The canonical-architecture report declares the Guardian's Dilemma canonical: the Guardians are not a monolith and rebel Guardians are possible.**
+
+It states the contradiction: „A contradiction exists as to whether AEGIS's Guardians are unswerving, monolithic enforcers or if they are subject to a“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L99] `Wächter-Zwiespalt`. It declares: „The canonical resolution is that the Guardians are not a monolith.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L103]
+
+Where it stands in the record's own terms: a declaration, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-monster-plot-entwicklung`, 2025-04-23, the Monster plot blueprint
+
+**The Monster plot blueprint has the Guardians stationed in the Kernwelten, their loyalty crumbling in Akt II.**
+
+It writes: „Guardians, die in den Kernwelten stationiert sind, um die Experimente zu überwachen oder durchzuführen“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L181], and for Akt II: „Die Loyalität einiger Guardians beginnt zu bröckeln“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L210].
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `monstergruppe-kohaerenz-protokoll-fundament`, 2025-04-23, the Monster-group foundation report
+
+**The Monster-group foundation report proposes, conditionally, specialised Analyse-Guardians that AEGIS sets on the Kohärenz-Insel and that fail.**
+
+„Szenen könnten zeigen, wie AEGIS spezialisierte Analyse-Guardians“ ^[monstergruppe-kohaerenz-protokoll-fundament.md:L250] are set on it; their reports go to higher AEGIS instances: „könnten Verwirrung und die Grenzen der AEGIS-Logik widerspiegeln“ ^[monstergruppe-kohaerenz-protokoll-fundament.md:L250].
+
+Stands as a conditional proposal of Guardians as AEGIS's analysis instances; recorded, the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint
+
+**The thematic blueprint proposes that Guardians meet Kael in Phase 1 as agents of control.**
+
+The Phase 1 cell of the plot-event row has the meeting with the Guardians, the word standing in the blueprint's own quotation marks, as agents of control (L287), beside AEGIS's attempt in Phase 2 to close the Risse: „Konflikte entstehen aus AEGIS' Versuch“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L287].
+
+Where it stands in the record's own terms: a hedged table proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-themenanalyse-und-anreicheru`, 2025-04-28, the theme enrichment report
+
+**The theme enrichment report suggests the Guardians could represent facets of the system or ethical stances within it.**
+
+It writes that they „Könnten verschiedene Facetten des Systems repräsentieren – rigide Kontrolleure, Agenten, die die Logik hinterfragen, oder solche, die emergentes Verhalten zeigen.“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L132] (L132) and, in the ethics block, „Könnten verschiedene ethische Haltungen im System repräsentieren“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L234] (L234).
+
+Where it stands in the record's own terms: conditional suggestions, recorded, not applied; the question stays open.

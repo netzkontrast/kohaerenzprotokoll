@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-thematische-tiefenanalyse
+  lines                328  (frontmatter ends at 0)
+  body words           10061
+  headings             18   bold-only lines 19
+  table rows           43   code fences 0
+  question marks       33
+  backslash escapes    333
+  typographic marks    43   ascii quotes 126
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    85
+  repeated labels      Narrative Implikationen & Synthese x4, Theoretische Fundamente x4
+  longest line         15193 chars
+

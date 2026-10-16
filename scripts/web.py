@@ -12,6 +12,11 @@ writes for agents: `llms.txt` at the root and `agents/` (`sessions.json`,
     python3 scripts/web.py               # ui.py --no-checks, then assemble Plan/derived/web/
     python3 scripts/web.py --no-build    # assemble from the Plan/derived/ui/ already there
     python3 scripts/web.py --check       # assemble, then fail if a frame or the runtime is missing
+    python3 scripts/web.py --no-rag      # skip the serving index of the MCP server (decision 029)
+
+It renders every wiki record as a plain HTML page under `static/` (`scripts/static_pages.py`, only the pages
+whose bytes changed). Beside the website it builds the serving index of the MCP server, `Plan/derived/serve/serve.db`
+(`scripts/rag.py build`), which `vercel.json` bundles with the function `api/rag_server.py`.
 
 The runtime is the Design type's `artifact-type/dc-runtime.js` (it loads React
 18.3.1 from jsdelivr with integrity hashes), copied from the canvas
@@ -20,7 +25,7 @@ https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL on 2026-10-02, type release
 reaches the website only when someone copies it over again and says so in the
 commit. `scripts/web/README.md` has the provenance.
 
-It writes nothing outside `Plan/derived/web/`.
+It writes nothing outside `Plan/derived/web/` and `Plan/derived/serve/`.
 """
 
 from __future__ import annotations
@@ -46,9 +51,11 @@ def assemble(out: Path = OUT) -> list[str]:
     frames = sorted(CANVAS.glob("*.dc.html"))
     if not any(f.name == "Main.dc.html" for f in frames):
         raise SystemExit(f"web: no Main.dc.html in {CANVAS.relative_to(ROOT)} — run python3 scripts/ui.py first")
-    if out.exists():
-        shutil.rmtree(out)
-    out.mkdir(parents=True)
+    # everything but static/, which static_pages.py keeps up to date page by page
+    out.mkdir(parents=True, exist_ok=True)
+    for p in out.iterdir():
+        if p.name != "static":
+            shutil.rmtree(p) if p.is_dir() else p.unlink()
     for f in frames:
         shutil.copyfile(f, out / f.name)
     shutil.copyfile(RUNTIME, out / "support.js")
@@ -57,7 +64,7 @@ def assemble(out: Path = OUT) -> list[str]:
         shutil.copyfile(UI / "llms.txt", out / "llms.txt")
     if (UI / "agents").is_dir():
         shutil.copytree(UI / "agents", out / "agents")
-    return sorted(p.relative_to(out).as_posix() for p in out.rglob("*") if p.is_file())
+    return sorted(p.relative_to(out).as_posix() for p in out.rglob("*") if p.is_file() and p.parts[len(out.parts)] != "static")
 
 
 def main(argv: list[str]) -> int:
@@ -67,6 +74,13 @@ def main(argv: list[str]) -> int:
             return proc.returncode
     written = assemble()
     print(f"web: wrote {OUT.relative_to(ROOT)}/ — {', '.join(written)}")
+    proc = subprocess.run([sys.executable, str(ROOT / "scripts" / "static_pages.py")], cwd=ROOT)
+    if proc.returncode:
+        return proc.returncode
+    if "--no-rag" not in argv:
+        proc = subprocess.run([sys.executable, str(ROOT / "scripts" / "rag.py"), "build"], cwd=ROOT)
+        if proc.returncode:
+            return proc.returncode
     if "--check" in argv:
         missing = [n for n in ("Main.dc.html", "support.js", "llms.txt", "agents/sessions.json", "agents/index.json")
                    if n not in written]

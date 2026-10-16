@@ -1,0 +1,491 @@
+{
+  "document": "concept-document-the-nature-of-the-foundation-juna-v-and-the",
+  "drive_id": "1h6SUGB--Oa5ks6_8WNtJ5PeM2Si_-3HfuvC4KVCqc_Y",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 47,
+      "n_including_compounds": 47,
+      "lines": [
+        13,
+        15,
+        25,
+        27,
+        33,
+        35,
+        41,
+        45,
+        49,
+        54,
+        59,
+        61,
+        63,
+        67,
+        69,
+        71,
+        77,
+        79,
+        83,
+        87,
+        96,
+        102,
+        103,
+        104,
+        123,
+        126,
+        130
+      ]
+    },
+    "Kael": {
+      "n": 33,
+      "n_including_compounds": 33,
+      "lines": [
+        15,
+        37,
+        41,
+        49,
+        55,
+        56,
+        63,
+        67,
+        71,
+        75,
+        77,
+        83,
+        91,
+        93,
+        100,
+        102,
+        103,
+        104,
+        106,
+        110,
+        117,
+        121,
+        124,
+        126,
+        134
+      ]
+    },
+    "Juna/V": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        33,
+        81,
+        83,
+        87,
+        91,
+        93,
+        100,
+        106
+      ]
+    },
+    "Das Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Potentialmeer": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        19,
+        27,
+        29,
+        45
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        19
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        67
+      ]
+    },
+    "Perturbation from the Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Genesis Crisis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        41
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        65,
+        67
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        45
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        49
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        49,
+        53
+      ]
+    },
+    "Core Worlds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        103
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        91
+      ]
+    },
+    "The Foundation": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        106,
+        108,
+        110,
+        114,
+        121,
+        126,
+        130
+      ]
+    },
+    "Alters": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        75,
+        103
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        117
+      ]
+    },
+    "dialetheic mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "ontological exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Gnostic Injection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Covert Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "akusmatischer Harmonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "informational void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "auditory pressure without sound": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "induced existential anxiety": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "minimal information fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "zombie system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Trauma-Time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Frame Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "autopoietic system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Quantum Entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "weak emergence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104
+      ]
+    },
+    "gnosis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        126,
+        134
+      ]
+    },
+    "episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        126
+      ]
+    }
+  }
+}

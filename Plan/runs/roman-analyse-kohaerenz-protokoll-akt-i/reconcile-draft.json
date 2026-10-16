@@ -1,0 +1,203 @@
+{
+  "document": "roman-analyse-kohaerenz-protokoll-akt-i",
+  "drive_id": "1fE36c8V2_zjr-5gn8q3EjqDVPbKvVD1vaWIfm1IhIaM",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 75,
+    "decided_by_lookup": 72,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        29,
+        35,
+        41,
+        45,
+        111,
+        131,
+        195,
+        209
+      ],
+      "attribution": "",
+      "note": "AEGIS as an environment and an antagonist in the planned reader effects"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        125,
+        209
+      ],
+      "attribution": "",
+      "note": "Alex as one of two named voices of Kap. 6 and a dominant alter of Kap. 12"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        31,
+        35,
+        45,
+        97,
+        173,
+        209,
+        223,
+        241
+      ],
+      "attribution": "",
+      "note": "the alters as fragments the reader is led to see before Kael does"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        83,
+        89,
+        195,
+        209,
+        271
+      ],
+      "attribution": "",
+      "note": "Juna as the first piece of Kael's history and a presence kept in suspension"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        83,
+        97,
+        181,
+        195,
+        209,
+        243
+      ],
+      "attribution": "",
+      "note": "Kael as the protagonist the reader is bound to, and planned stages of the unravelling"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        25,
+        43
+      ],
+      "attribution": "",
+      "note": "Kernwelt 1 as setting and as a planned threat"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as a planned literary uncanny valley"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        69,
+        111,
+        209,
+        262
+      ],
+      "attribution": "",
+      "note": "Lex as the rationalist alter of Kap. 2, Kap. 5 and Kap. 12"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        125
+      ],
+      "attribution": "",
+      "note": "Nyx as one of two names for the voice of Kap. 6"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        209
+      ],
+      "attribution": "",
+      "note": "Rhys among the dominant alters of the internal conference in Kap. 12"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "a general sense in the theory section"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 111,
+      "decision": "occurrence",
+      "why": "persona in a general sense"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "glitches in the general description of dissociation"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "simulation in the sense of embodied cognition"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

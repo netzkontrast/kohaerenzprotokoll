@@ -1,0 +1,80 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a dossier that sets a physics of reader attention over the novel's world. Terms the document puts in double quotation marks are its own coinages; the sources it cites for the psychological and theoretical framework appear only through concepts, never as persons. Its table of references lists numbered source titles, which are left off the list. Several terms stand in italics or bold in list items; the count reads the marked line.
+
+- Kohärenz Protokoll
+- Narrativen Entropie
+- Narrative Entropie
+- Narrativer Entropie
+- Nichts Rauschen
+- Nichts Rauschens
+- Kael
+- AEGIS
+- Juna/V
+- Genesis-Krise
+- Luhmann-Berkeley-Synthese
+- Esse est percipi
+- dunamis
+- Summe über die Historien
+- Kollaps der Wellenfunktion
+- Blueprints für existenzielle Dringlichkeit
+- triadische Währung
+- Empathie
+- Neugier
+- Spannung
+- negentropischen
+- Negentropie
+- Narrativen Transportation
+- Informationslücke
+- Makro-Fragen
+- Mikro-Fragen
+- Leerstellen
+- Foreshadowing
+- Todsünden
+- Sünde der Vorhersehbarkeit
+- Sünde der Inkohärenz
+- Sünde der Stasis
+- Sünde der Vagheit
+- Grauen Verfall
+- Graue Verfall
+- Graue Leere
+- Realitätswunden
+- Realitätswunde
+- Lexikon des ontologischen Foreshadowing
+- Sensorische Dämpfung
+- Perzeptuelle Instabilität
+- NPC-Degradation
+- Verlust von Details
+- Zeitliche Sprünge
+- Physikalisches Versagen
+- Stufe 1
+- Stufe 2
+- Stufe 3
+- Psychotische Fissur
+- Kausales Geschwür
+- Phantom-Erzählung
+- narrativen Diagnostikern
+- funktionalen Multiplizität
+- Kohärenzprüfung
+- Logos-Prime
+- KW1
+- Lex
+- Nyx
+- Argus
+- Meta-Beobachter-Alter
+- Thorne
+- Gödel-Gambit
+- Fehlausgerichtete Kohärenz
+- Das lebende Paradoxon
+- Gaslighting durch das System
+- Säuberungs
+- Entropiebericht
+- Systeminstabilität
+- entropischem Rauschen
+- narrativer Währung
+- Retcon
+- O'-Postulat
+
+## lens
+- operativ geschlossenes System
+- Superposition

@@ -1,0 +1,33 @@
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Dieser Abschnitt"
+`Dieser Abschnitt` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#5]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Dieser Teil"
+`Dieser Teil` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#1]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Dieser letzte Teil"
+`Dieser letzte Teil` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#1]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Blueprint"
+`Blueprint` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#3]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Narrative Entropie"
+`Narrative Entropie` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#4]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "'O'"
+`'O'` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#8]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "ENE"
+`ENE` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#6]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Gärtner"
+`Gärtner` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#3]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Kapitel"
+`Kapitel` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#0]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Kap"
+`Kap` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#0]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Epilog"
+`Epilog` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#5]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Juna/V"
+`Juna/V` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#3]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Anima/Animus-Archetyps"
+`Anima/Animus-Archetyps` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#1]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "Negentropie-Erzeugung"
+`Negentropie-Erzeugung` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#2]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "funktionale Multiplizität"
+`funktionale Multiplizität` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#1]
+$ python3 scripts/read.py roman-als-transformativer-prozess-alchemie-der-erzaehlung --count "funktionalen Multiplizität"
+`funktionalen Multiplizität` ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:#2]
+# stance_marker_count 7 = 5 + 1 + 1 (Dieser Abschnitt, Dieser Teil, Dieser letzte Teil)

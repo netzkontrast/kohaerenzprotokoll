@@ -1,0 +1,67 @@
+$ read.py --count "Datenpunkt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Datenpunkt` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#8]
+$ read.py --count "Kontext/Analyse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kontext/Analyse` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#8]
+$ read.py --count "Implikation"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Implikation` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#3]
+$ read.py --count "Verstärkung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Verstärkung` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#7]
+$ read.py --count "Rationale"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Rationale` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#5]
+$ read.py --count "Implementierung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Implementierung` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#7]
+$ read.py --count "Vertiefung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vertiefung` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#2]
+$ read.py --count "Nutzeranfrage"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Nutzeranfrage` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#6]
+$ read.py --count "Zugriff am"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Zugriff am` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#29]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kosmischer-horror-in-kohaerenz-protokoll-2.md:#0]
+stance_marker_count 40 = 8+8+3+7+5+7+2

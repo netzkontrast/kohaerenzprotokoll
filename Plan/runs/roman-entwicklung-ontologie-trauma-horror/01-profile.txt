@@ -1,0 +1,14 @@
+# roman-entwicklung-ontologie-trauma-horror
+  lines                183  (frontmatter ends at 9)
+  body words           5038
+  headings             19   bold-only lines 1
+  table rows           6   code fences 0
+  question marks       5
+  backslash escapes    56
+  typographic marks    28   ascii quotes 176
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    39
+  repeated labels      none
+  longest line         1174 chars
+

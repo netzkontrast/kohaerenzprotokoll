@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "trennungsprotokoll",
+ "title": "Trennungsprotokoll",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Trennung als behauptete Heilung",
+  "Unterschied zwischen Selbstteilung und Isolation Junas",
+  "Reihenfolge der Ursprungsereignisse",
+  "Folgen einer fehlerhaften Prämisse",
+  "Wiederverbindung ohne Rücksetzung"
+ ],
+ "basis": {
+  "trennungsprotokoll": {
+   "title": "Trennungsprotokoll",
+   "path": "Wiki/candidates/trennungsprotokoll.md",
+   "hash": "33c7084360ab2602ba3969b0722bf09d92e20952f7cbcc9235d8a3bbb5ca3bfc"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "komponente-734": {
+   "title": "Komponente 734",
+   "path": "Wiki/candidates/komponente-734.md",
+   "hash": "49eb6bffb13cf9ad2de22e6e3802ad061e5be0d2c4ddf9d433d1425d1c07deec"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kael-julia-bindung": {
+   "title": "Kael-Julia-Bindung",
+   "path": "Wiki/candidates/kael-julia-bindung.md",
+   "hash": "c1e85963cb0f24fc59c7957f82c90f13b1daf92dc7ff897fe04e96b2843ecf06"
+  },
+  "oblivion": {
+   "title": "Oblivion",
+   "path": "Wiki/candidates/oblivion.md",
+   "hash": "ca2c5b470c17bf0735677596cfb21b6b7fa28ae5050c01850e7671ab53cf2bfb"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-trennungsprotokoll-001",
+   "question": "Welchen Fehler versucht das Trennungsprotokoll zu heilen, und welche bleibende Verletzung erzeugt gerade seine Lösung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-002",
+   "question": "Welche Lesarten auf der Seite zu Trennungsprotokoll stützen oder begrenzen „Trennung als behauptete Heilung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-003",
+   "question": "Welcher Grenzfall würde bei Trennungsprotokoll die Annahmen über „Trennung als behauptete Heilung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-004",
+   "question": "Wer könnte innerhalb des Romans bei Trennungsprotokoll etwas über „Trennung als behauptete Heilung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-005",
+   "question": "Welche konkrete Entscheidung könnte „Trennung als behauptete Heilung“ bei Trennungsprotokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Trennung als behauptete Heilung“ bei Trennungsprotokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-007",
+   "question": "Wie lässt sich „Trennung als behauptete Heilung“ bei Trennungsprotokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-008",
+   "question": "Welche Alternativen sollte der Autor bei Trennungsprotokoll für „Trennung als behauptete Heilung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-009",
+   "question": "Was bedeutet bei Trennungsprotokoll der Themenpunkt „Unterschied zwischen Selbstteilung und Isolation Junas“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-010",
+   "question": "Welche Lesarten auf der Seite zu Trennungsprotokoll stützen oder begrenzen „Unterschied zwischen Selbstteilung und Isolation Junas“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-011",
+   "question": "Welcher Grenzfall würde bei Trennungsprotokoll die Annahmen über „Unterschied zwischen Selbstteilung und Isolation Junas“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-012",
+   "question": "Wer könnte innerhalb des Romans bei Trennungsprotokoll etwas über „Unterschied zwischen Selbstteilung und Isolation Junas“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Selbstteilung und Isolation Junas“ bei Trennungsprotokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Selbstteilung und Isolation Junas“ bei Trennungsprotokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-015",
+   "question": "Wie lässt sich „Unterschied zwischen Selbstteilung und Isolation Junas“ bei Trennungsprotokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-016",
+   "question": "Welche Alternativen sollte der Autor bei Trennungsprotokoll für „Unterschied zwischen Selbstteilung und Isolation Junas“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-017",
+   "question": "Was bedeutet bei Trennungsprotokoll der Themenpunkt „Reihenfolge der Ursprungsereignisse“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-018",
+   "question": "Welche Lesarten auf der Seite zu Trennungsprotokoll stützen oder begrenzen „Reihenfolge der Ursprungsereignisse“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-019",
+   "question": "Welcher Grenzfall würde bei Trennungsprotokoll die Annahmen über „Reihenfolge der Ursprungsereignisse“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-020",
+   "question": "Wer könnte innerhalb des Romans bei Trennungsprotokoll etwas über „Reihenfolge der Ursprungsereignisse“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-021",
+   "question": "Welche konkrete Entscheidung könnte „Reihenfolge der Ursprungsereignisse“ bei Trennungsprotokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Reihenfolge der Ursprungsereignisse“ bei Trennungsprotokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-023",
+   "question": "Wie lässt sich „Reihenfolge der Ursprungsereignisse“ bei Trennungsprotokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-024",
+   "question": "Welche Alternativen sollte der Autor bei Trennungsprotokoll für „Reihenfolge der Ursprungsereignisse“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-025",
+   "question": "Was bedeutet bei Trennungsprotokoll der Themenpunkt „Folgen einer fehlerhaften Prämisse“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-026",
+   "question": "Welche Lesarten auf der Seite zu Trennungsprotokoll stützen oder begrenzen „Folgen einer fehlerhaften Prämisse“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-027",
+   "question": "Welcher Grenzfall würde bei Trennungsprotokoll die Annahmen über „Folgen einer fehlerhaften Prämisse“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-028",
+   "question": "Wer könnte innerhalb des Romans bei Trennungsprotokoll etwas über „Folgen einer fehlerhaften Prämisse“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-029",
+   "question": "Welche konkrete Entscheidung könnte „Folgen einer fehlerhaften Prämisse“ bei Trennungsprotokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen einer fehlerhaften Prämisse“ bei Trennungsprotokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-031",
+   "question": "Wie lässt sich „Folgen einer fehlerhaften Prämisse“ bei Trennungsprotokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-032",
+   "question": "Welche Alternativen sollte der Autor bei Trennungsprotokoll für „Folgen einer fehlerhaften Prämisse“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-033",
+   "question": "Was bedeutet bei Trennungsprotokoll der Themenpunkt „Wiederverbindung ohne Rücksetzung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-034",
+   "question": "Welche Lesarten auf der Seite zu Trennungsprotokoll stützen oder begrenzen „Wiederverbindung ohne Rücksetzung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-035",
+   "question": "Welcher Grenzfall würde bei Trennungsprotokoll die Annahmen über „Wiederverbindung ohne Rücksetzung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-036",
+   "question": "Wer könnte innerhalb des Romans bei Trennungsprotokoll etwas über „Wiederverbindung ohne Rücksetzung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-037",
+   "question": "Welche konkrete Entscheidung könnte „Wiederverbindung ohne Rücksetzung“ bei Trennungsprotokoll in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wiederverbindung ohne Rücksetzung“ bei Trennungsprotokoll haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-039",
+   "question": "Wie lässt sich „Wiederverbindung ohne Rücksetzung“ bei Trennungsprotokoll zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-040",
+   "question": "Welche Alternativen sollte der Autor bei Trennungsprotokoll für „Wiederverbindung ohne Rücksetzung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-041",
+   "question": "Wo unterscheiden sich Trennungsprotokoll und Genesis, wenn man sie unter dem Gesichtspunkt „Trennung als behauptete Heilung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-042",
+   "question": "Welche Quelle verbindet Trennungsprotokoll mit Genesis in Bezug auf „Trennung als behauptete Heilung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-043",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Trennungsprotokoll unter „Trennung als behauptete Heilung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-044",
+   "question": "Wie könnte sich das Wissen über Trennungsprotokoll vom Wissen über Genesis unterscheiden, wenn „Trennung als behauptete Heilung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Trennungsprotokoll und Genesis bei „Trennung als behauptete Heilung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-046",
+   "question": "Falls Trennungsprotokoll im Hinblick auf „Trennung als behauptete Heilung“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Trennungsprotokoll und Genesis bei „Trennung als behauptete Heilung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-048",
+   "question": "Braucht der Roman eine Verbindung von Trennungsprotokoll und Genesis bei „Trennung als behauptete Heilung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-049",
+   "question": "In welchem denkbaren Fall könnte Trennungsprotokoll bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „Trennung als behauptete Heilung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-050",
+   "question": "Welche Kosten könnte eine Verbindung von Trennungsprotokoll und Genesis in Bezug auf „Trennung als behauptete Heilung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-051",
+   "question": "Welche ältere Lesart von Trennungsprotokoll oder Genesis könnte die Gegenüberstellung unter „Trennung als behauptete Heilung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Trennungsprotokoll und Genesis unter „Trennung als behauptete Heilung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "trennungsprotokoll",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-053",
+   "question": "Wo unterscheiden sich Trennungsprotokoll und Komponente 734, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Selbstteilung und Isolation Junas“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-054",
+   "question": "Welche Quelle verbindet Trennungsprotokoll mit Komponente 734 in Bezug auf „Unterschied zwischen Selbstteilung und Isolation Junas“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-055",
+   "question": "Welche Grenzen aus der Seite zu Komponente 734 müsste eine Deutung von Trennungsprotokoll unter „Unterschied zwischen Selbstteilung und Isolation Junas“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-056",
+   "question": "Wie könnte sich das Wissen über Trennungsprotokoll vom Wissen über Komponente 734 unterscheiden, wenn „Unterschied zwischen Selbstteilung und Isolation Junas“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Trennungsprotokoll und Komponente 734 bei „Unterschied zwischen Selbstteilung und Isolation Junas“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-058",
+   "question": "Falls Trennungsprotokoll im Hinblick auf „Unterschied zwischen Selbstteilung und Isolation Junas“ anders festgelegt wird: Welche Aussagen über Komponente 734 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Trennungsprotokoll und Komponente 734 bei „Unterschied zwischen Selbstteilung und Isolation Junas“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-060",
+   "question": "Braucht der Roman eine Verbindung von Trennungsprotokoll und Komponente 734 bei „Unterschied zwischen Selbstteilung und Isolation Junas“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-061",
+   "question": "In welchem denkbaren Fall könnte Trennungsprotokoll bestehen, ohne dass Komponente 734 dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Selbstteilung und Isolation Junas“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-062",
+   "question": "Welche Kosten könnte eine Verbindung von Trennungsprotokoll und Komponente 734 in Bezug auf „Unterschied zwischen Selbstteilung und Isolation Junas“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-063",
+   "question": "Welche ältere Lesart von Trennungsprotokoll oder Komponente 734 könnte die Gegenüberstellung unter „Unterschied zwischen Selbstteilung und Isolation Junas“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Trennungsprotokoll und Komponente 734 unter „Unterschied zwischen Selbstteilung und Isolation Junas“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "trennungsprotokoll",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-065",
+   "question": "Wo unterscheiden sich Trennungsprotokoll und AEGIS, wenn man sie unter dem Gesichtspunkt „Reihenfolge der Ursprungsereignisse“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-066",
+   "question": "Welche Quelle verbindet Trennungsprotokoll mit AEGIS in Bezug auf „Reihenfolge der Ursprungsereignisse“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Trennungsprotokoll unter „Reihenfolge der Ursprungsereignisse“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-068",
+   "question": "Wie könnte sich das Wissen über Trennungsprotokoll vom Wissen über AEGIS unterscheiden, wenn „Reihenfolge der Ursprungsereignisse“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Trennungsprotokoll und AEGIS bei „Reihenfolge der Ursprungsereignisse“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-070",
+   "question": "Falls Trennungsprotokoll im Hinblick auf „Reihenfolge der Ursprungsereignisse“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Trennungsprotokoll und AEGIS bei „Reihenfolge der Ursprungsereignisse“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-072",
+   "question": "Braucht der Roman eine Verbindung von Trennungsprotokoll und AEGIS bei „Reihenfolge der Ursprungsereignisse“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-073",
+   "question": "In welchem denkbaren Fall könnte Trennungsprotokoll bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Reihenfolge der Ursprungsereignisse“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-074",
+   "question": "Welche Kosten könnte eine Verbindung von Trennungsprotokoll und AEGIS in Bezug auf „Reihenfolge der Ursprungsereignisse“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-075",
+   "question": "Welche ältere Lesart von Trennungsprotokoll oder AEGIS könnte die Gegenüberstellung unter „Reihenfolge der Ursprungsereignisse“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Trennungsprotokoll und AEGIS unter „Reihenfolge der Ursprungsereignisse“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "trennungsprotokoll",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-077",
+   "question": "Wo unterscheiden sich Trennungsprotokoll und Kael-Julia-Bindung, wenn man sie unter dem Gesichtspunkt „Folgen einer fehlerhaften Prämisse“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-078",
+   "question": "Welche Quelle verbindet Trennungsprotokoll mit Kael-Julia-Bindung in Bezug auf „Folgen einer fehlerhaften Prämisse“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-079",
+   "question": "Welche Grenzen aus der Seite zu Kael-Julia-Bindung müsste eine Deutung von Trennungsprotokoll unter „Folgen einer fehlerhaften Prämisse“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-080",
+   "question": "Wie könnte sich das Wissen über Trennungsprotokoll vom Wissen über Kael-Julia-Bindung unterscheiden, wenn „Folgen einer fehlerhaften Prämisse“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Trennungsprotokoll und Kael-Julia-Bindung bei „Folgen einer fehlerhaften Prämisse“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-082",
+   "question": "Falls Trennungsprotokoll im Hinblick auf „Folgen einer fehlerhaften Prämisse“ anders festgelegt wird: Welche Aussagen über Kael-Julia-Bindung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Trennungsprotokoll und Kael-Julia-Bindung bei „Folgen einer fehlerhaften Prämisse“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-084",
+   "question": "Braucht der Roman eine Verbindung von Trennungsprotokoll und Kael-Julia-Bindung bei „Folgen einer fehlerhaften Prämisse“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-085",
+   "question": "In welchem denkbaren Fall könnte Trennungsprotokoll bestehen, ohne dass Kael-Julia-Bindung dieselbe Funktion übernimmt, und was würde das für „Folgen einer fehlerhaften Prämisse“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-086",
+   "question": "Welche Kosten könnte eine Verbindung von Trennungsprotokoll und Kael-Julia-Bindung in Bezug auf „Folgen einer fehlerhaften Prämisse“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-087",
+   "question": "Welche ältere Lesart von Trennungsprotokoll oder Kael-Julia-Bindung könnte die Gegenüberstellung unter „Folgen einer fehlerhaften Prämisse“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Trennungsprotokoll und Kael-Julia-Bindung unter „Folgen einer fehlerhaften Prämisse“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "trennungsprotokoll",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-089",
+   "question": "Wo unterscheiden sich Trennungsprotokoll und Oblivion, wenn man sie unter dem Gesichtspunkt „Wiederverbindung ohne Rücksetzung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-090",
+   "question": "Welche Quelle verbindet Trennungsprotokoll mit Oblivion in Bezug auf „Wiederverbindung ohne Rücksetzung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-091",
+   "question": "Welche Grenzen aus der Seite zu Oblivion müsste eine Deutung von Trennungsprotokoll unter „Wiederverbindung ohne Rücksetzung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-092",
+   "question": "Wie könnte sich das Wissen über Trennungsprotokoll vom Wissen über Oblivion unterscheiden, wenn „Wiederverbindung ohne Rücksetzung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Trennungsprotokoll und Oblivion bei „Wiederverbindung ohne Rücksetzung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-094",
+   "question": "Falls Trennungsprotokoll im Hinblick auf „Wiederverbindung ohne Rücksetzung“ anders festgelegt wird: Welche Aussagen über Oblivion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Trennungsprotokoll und Oblivion bei „Wiederverbindung ohne Rücksetzung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-096",
+   "question": "Braucht der Roman eine Verbindung von Trennungsprotokoll und Oblivion bei „Wiederverbindung ohne Rücksetzung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-097",
+   "question": "In welchem denkbaren Fall könnte Trennungsprotokoll bestehen, ohne dass Oblivion dieselbe Funktion übernimmt, und was würde das für „Wiederverbindung ohne Rücksetzung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-098",
+   "question": "Welche Kosten könnte eine Verbindung von Trennungsprotokoll und Oblivion in Bezug auf „Wiederverbindung ohne Rücksetzung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-099",
+   "question": "Welche ältere Lesart von Trennungsprotokoll oder Oblivion könnte die Gegenüberstellung unter „Wiederverbindung ohne Rücksetzung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-trennungsprotokoll-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Trennungsprotokoll und Oblivion unter „Wiederverbindung ohne Rücksetzung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "trennungsprotokoll",
+    "oblivion"
+   ]
+  }
+ ]
+}

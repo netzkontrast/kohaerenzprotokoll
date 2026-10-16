@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "emergenz",
+ "title": "Emergenz",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unterschied zwischen Leere und latentem Substrat",
+  "Selbstentstehung ohne Anfangsbedingungen",
+  "Fixpunkt als Erklärung",
+  "Status des behaupteten Ursprungs",
+  "Folgen einer zirkulären Ontologie"
+ ],
+ "basis": {
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  },
+  "ars": {
+   "title": "ARS — Autopoietische Reentry-Segmentierung",
+   "path": "Wiki/candidates/ars.md",
+   "hash": "99e25ae6bd378660810f3d60d0cc1c498368062b587d57b0c58b21efa805fa50"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "potentialmeer": {
+   "title": "Potentialmeer",
+   "path": "Wiki/candidates/potentialmeer.md",
+   "hash": "0203c06c77688110ec6665d99a7da0541646d07bbb7386196f7f3886a1d72c4f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-emergenz-001",
+   "question": "Ist der Ursprung wirklich ein leeres Nichts, oder enthält das Nichts-Rauschen bereits die Information, deren Emergenz erst erklärt werden soll?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-002",
+   "question": "Welche Lesarten auf der Seite zu Emergenz stützen oder begrenzen „Unterschied zwischen Leere und latentem Substrat“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-003",
+   "question": "Welcher Grenzfall würde bei Emergenz die Annahmen über „Unterschied zwischen Leere und latentem Substrat“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-004",
+   "question": "Wer könnte innerhalb des Romans bei Emergenz etwas über „Unterschied zwischen Leere und latentem Substrat“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-005",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Leere und latentem Substrat“ bei Emergenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Leere und latentem Substrat“ bei Emergenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-007",
+   "question": "Wie lässt sich „Unterschied zwischen Leere und latentem Substrat“ bei Emergenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-008",
+   "question": "Welche Alternativen sollte der Autor bei Emergenz für „Unterschied zwischen Leere und latentem Substrat“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-009",
+   "question": "Was bedeutet bei Emergenz der Themenpunkt „Selbstentstehung ohne Anfangsbedingungen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-010",
+   "question": "Welche Lesarten auf der Seite zu Emergenz stützen oder begrenzen „Selbstentstehung ohne Anfangsbedingungen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-011",
+   "question": "Welcher Grenzfall würde bei Emergenz die Annahmen über „Selbstentstehung ohne Anfangsbedingungen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-012",
+   "question": "Wer könnte innerhalb des Romans bei Emergenz etwas über „Selbstentstehung ohne Anfangsbedingungen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-013",
+   "question": "Welche konkrete Entscheidung könnte „Selbstentstehung ohne Anfangsbedingungen“ bei Emergenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Selbstentstehung ohne Anfangsbedingungen“ bei Emergenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-015",
+   "question": "Wie lässt sich „Selbstentstehung ohne Anfangsbedingungen“ bei Emergenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-016",
+   "question": "Welche Alternativen sollte der Autor bei Emergenz für „Selbstentstehung ohne Anfangsbedingungen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-017",
+   "question": "Was bedeutet bei Emergenz der Themenpunkt „Fixpunkt als Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-018",
+   "question": "Welche Lesarten auf der Seite zu Emergenz stützen oder begrenzen „Fixpunkt als Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-019",
+   "question": "Welcher Grenzfall würde bei Emergenz die Annahmen über „Fixpunkt als Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-020",
+   "question": "Wer könnte innerhalb des Romans bei Emergenz etwas über „Fixpunkt als Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-021",
+   "question": "Welche konkrete Entscheidung könnte „Fixpunkt als Erklärung“ bei Emergenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fixpunkt als Erklärung“ bei Emergenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-023",
+   "question": "Wie lässt sich „Fixpunkt als Erklärung“ bei Emergenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-024",
+   "question": "Welche Alternativen sollte der Autor bei Emergenz für „Fixpunkt als Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-025",
+   "question": "Was bedeutet bei Emergenz der Themenpunkt „Status des behaupteten Ursprungs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-026",
+   "question": "Welche Lesarten auf der Seite zu Emergenz stützen oder begrenzen „Status des behaupteten Ursprungs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-027",
+   "question": "Welcher Grenzfall würde bei Emergenz die Annahmen über „Status des behaupteten Ursprungs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-028",
+   "question": "Wer könnte innerhalb des Romans bei Emergenz etwas über „Status des behaupteten Ursprungs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-029",
+   "question": "Welche konkrete Entscheidung könnte „Status des behaupteten Ursprungs“ bei Emergenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des behaupteten Ursprungs“ bei Emergenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-031",
+   "question": "Wie lässt sich „Status des behaupteten Ursprungs“ bei Emergenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-032",
+   "question": "Welche Alternativen sollte der Autor bei Emergenz für „Status des behaupteten Ursprungs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-033",
+   "question": "Was bedeutet bei Emergenz der Themenpunkt „Folgen einer zirkulären Ontologie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-034",
+   "question": "Welche Lesarten auf der Seite zu Emergenz stützen oder begrenzen „Folgen einer zirkulären Ontologie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-035",
+   "question": "Welcher Grenzfall würde bei Emergenz die Annahmen über „Folgen einer zirkulären Ontologie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-036",
+   "question": "Wer könnte innerhalb des Romans bei Emergenz etwas über „Folgen einer zirkulären Ontologie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-037",
+   "question": "Welche konkrete Entscheidung könnte „Folgen einer zirkulären Ontologie“ bei Emergenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen einer zirkulären Ontologie“ bei Emergenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-039",
+   "question": "Wie lässt sich „Folgen einer zirkulären Ontologie“ bei Emergenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-040",
+   "question": "Welche Alternativen sollte der Autor bei Emergenz für „Folgen einer zirkulären Ontologie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-041",
+   "question": "Wo unterscheiden sich Emergenz und Genesis, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Leere und latentem Substrat“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-042",
+   "question": "Welche Quelle verbindet Emergenz mit Genesis in Bezug auf „Unterschied zwischen Leere und latentem Substrat“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-043",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Emergenz unter „Unterschied zwischen Leere und latentem Substrat“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-044",
+   "question": "Wie könnte sich das Wissen über Emergenz vom Wissen über Genesis unterscheiden, wenn „Unterschied zwischen Leere und latentem Substrat“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Emergenz und Genesis bei „Unterschied zwischen Leere und latentem Substrat“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-046",
+   "question": "Falls Emergenz im Hinblick auf „Unterschied zwischen Leere und latentem Substrat“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Emergenz und Genesis bei „Unterschied zwischen Leere und latentem Substrat“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-048",
+   "question": "Braucht der Roman eine Verbindung von Emergenz und Genesis bei „Unterschied zwischen Leere und latentem Substrat“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-049",
+   "question": "In welchem denkbaren Fall könnte Emergenz bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Leere und latentem Substrat“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-050",
+   "question": "Welche Kosten könnte eine Verbindung von Emergenz und Genesis in Bezug auf „Unterschied zwischen Leere und latentem Substrat“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-051",
+   "question": "Welche ältere Lesart von Emergenz oder Genesis könnte die Gegenüberstellung unter „Unterschied zwischen Leere und latentem Substrat“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Emergenz und Genesis unter „Unterschied zwischen Leere und latentem Substrat“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "emergenz",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-053",
+   "question": "Wo unterscheiden sich Emergenz und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Selbstentstehung ohne Anfangsbedingungen“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-054",
+   "question": "Welche Quelle verbindet Emergenz mit Nichts-Rauschen in Bezug auf „Selbstentstehung ohne Anfangsbedingungen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-055",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von Emergenz unter „Selbstentstehung ohne Anfangsbedingungen“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-056",
+   "question": "Wie könnte sich das Wissen über Emergenz vom Wissen über Nichts-Rauschen unterscheiden, wenn „Selbstentstehung ohne Anfangsbedingungen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Emergenz und Nichts-Rauschen bei „Selbstentstehung ohne Anfangsbedingungen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-058",
+   "question": "Falls Emergenz im Hinblick auf „Selbstentstehung ohne Anfangsbedingungen“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Emergenz und Nichts-Rauschen bei „Selbstentstehung ohne Anfangsbedingungen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-060",
+   "question": "Braucht der Roman eine Verbindung von Emergenz und Nichts-Rauschen bei „Selbstentstehung ohne Anfangsbedingungen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-061",
+   "question": "In welchem denkbaren Fall könnte Emergenz bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Selbstentstehung ohne Anfangsbedingungen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-062",
+   "question": "Welche Kosten könnte eine Verbindung von Emergenz und Nichts-Rauschen in Bezug auf „Selbstentstehung ohne Anfangsbedingungen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-063",
+   "question": "Welche ältere Lesart von Emergenz oder Nichts-Rauschen könnte die Gegenüberstellung unter „Selbstentstehung ohne Anfangsbedingungen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Emergenz und Nichts-Rauschen unter „Selbstentstehung ohne Anfangsbedingungen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "emergenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-065",
+   "question": "Wo unterscheiden sich Emergenz und ARS — Autopoietische Reentry-Segmentierung, wenn man sie unter dem Gesichtspunkt „Fixpunkt als Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-066",
+   "question": "Welche Quelle verbindet Emergenz mit ARS — Autopoietische Reentry-Segmentierung in Bezug auf „Fixpunkt als Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-067",
+   "question": "Welche Grenzen aus der Seite zu ARS — Autopoietische Reentry-Segmentierung müsste eine Deutung von Emergenz unter „Fixpunkt als Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-068",
+   "question": "Wie könnte sich das Wissen über Emergenz vom Wissen über ARS — Autopoietische Reentry-Segmentierung unterscheiden, wenn „Fixpunkt als Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Emergenz und ARS — Autopoietische Reentry-Segmentierung bei „Fixpunkt als Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-070",
+   "question": "Falls Emergenz im Hinblick auf „Fixpunkt als Erklärung“ anders festgelegt wird: Welche Aussagen über ARS — Autopoietische Reentry-Segmentierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Emergenz und ARS — Autopoietische Reentry-Segmentierung bei „Fixpunkt als Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-072",
+   "question": "Braucht der Roman eine Verbindung von Emergenz und ARS — Autopoietische Reentry-Segmentierung bei „Fixpunkt als Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-073",
+   "question": "In welchem denkbaren Fall könnte Emergenz bestehen, ohne dass ARS — Autopoietische Reentry-Segmentierung dieselbe Funktion übernimmt, und was würde das für „Fixpunkt als Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-074",
+   "question": "Welche Kosten könnte eine Verbindung von Emergenz und ARS — Autopoietische Reentry-Segmentierung in Bezug auf „Fixpunkt als Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-075",
+   "question": "Welche ältere Lesart von Emergenz oder ARS — Autopoietische Reentry-Segmentierung könnte die Gegenüberstellung unter „Fixpunkt als Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Emergenz und ARS — Autopoietische Reentry-Segmentierung unter „Fixpunkt als Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "emergenz",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-077",
+   "question": "Wo unterscheiden sich Emergenz und AEGIS, wenn man sie unter dem Gesichtspunkt „Status des behaupteten Ursprungs“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-078",
+   "question": "Welche Quelle verbindet Emergenz mit AEGIS in Bezug auf „Status des behaupteten Ursprungs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Emergenz unter „Status des behaupteten Ursprungs“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-080",
+   "question": "Wie könnte sich das Wissen über Emergenz vom Wissen über AEGIS unterscheiden, wenn „Status des behaupteten Ursprungs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Emergenz und AEGIS bei „Status des behaupteten Ursprungs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-082",
+   "question": "Falls Emergenz im Hinblick auf „Status des behaupteten Ursprungs“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Emergenz und AEGIS bei „Status des behaupteten Ursprungs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-084",
+   "question": "Braucht der Roman eine Verbindung von Emergenz und AEGIS bei „Status des behaupteten Ursprungs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-085",
+   "question": "In welchem denkbaren Fall könnte Emergenz bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Status des behaupteten Ursprungs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-086",
+   "question": "Welche Kosten könnte eine Verbindung von Emergenz und AEGIS in Bezug auf „Status des behaupteten Ursprungs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-087",
+   "question": "Welche ältere Lesart von Emergenz oder AEGIS könnte die Gegenüberstellung unter „Status des behaupteten Ursprungs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Emergenz und AEGIS unter „Status des behaupteten Ursprungs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "emergenz",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-089",
+   "question": "Wo unterscheiden sich Emergenz und Potentialmeer, wenn man sie unter dem Gesichtspunkt „Folgen einer zirkulären Ontologie“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-090",
+   "question": "Welche Quelle verbindet Emergenz mit Potentialmeer in Bezug auf „Folgen einer zirkulären Ontologie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-091",
+   "question": "Welche Grenzen aus der Seite zu Potentialmeer müsste eine Deutung von Emergenz unter „Folgen einer zirkulären Ontologie“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-092",
+   "question": "Wie könnte sich das Wissen über Emergenz vom Wissen über Potentialmeer unterscheiden, wenn „Folgen einer zirkulären Ontologie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Emergenz und Potentialmeer bei „Folgen einer zirkulären Ontologie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-094",
+   "question": "Falls Emergenz im Hinblick auf „Folgen einer zirkulären Ontologie“ anders festgelegt wird: Welche Aussagen über Potentialmeer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Emergenz und Potentialmeer bei „Folgen einer zirkulären Ontologie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-096",
+   "question": "Braucht der Roman eine Verbindung von Emergenz und Potentialmeer bei „Folgen einer zirkulären Ontologie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-097",
+   "question": "In welchem denkbaren Fall könnte Emergenz bestehen, ohne dass Potentialmeer dieselbe Funktion übernimmt, und was würde das für „Folgen einer zirkulären Ontologie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-098",
+   "question": "Welche Kosten könnte eine Verbindung von Emergenz und Potentialmeer in Bezug auf „Folgen einer zirkulären Ontologie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-099",
+   "question": "Welche ältere Lesart von Emergenz oder Potentialmeer könnte die Gegenüberstellung unter „Folgen einer zirkulären Ontologie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-emergenz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Emergenz und Potentialmeer unter „Folgen einer zirkulären Ontologie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "emergenz",
+    "potentialmeer"
+   ]
+  }
+ ]
+}

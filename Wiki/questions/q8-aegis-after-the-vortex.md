@@ -872,3 +872,91 @@ Stands: a proposed continuation beyond the 39 chapters, retold from a cited sour
 Beat 35 (Variante A) has the concept „Tragisches Ende für AEGIS“ ^[kohaerenz-protokoll-plot-synthese.md:L275]. Beat 36 (Variante B) plans that „AEGIS durchläuft eine radikale Transformation“ ^[kohaerenz-protokoll-plot-synthese.md:L279]. Beat 37 (Variante C) plans that „Aus der Interaktion von Kael/M und AEGIS entsteht etwas Neues“ ^[kohaerenz-protokoll-plot-synthese.md:L285]. The document says of the choice that it „hat erhebliche thematische Implikationen“ ^[kohaerenz-protokoll-plot-synthese.md:L386].
 
 Stands: three variants, kept as variants; the document names no Vortex and no successor of AEGIS's function, and chooses none of them.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint
+
+**The Moonshine-Brücke blueprint plans AEGIS to stabilise itself and/or the simulation by applying the K-J insight, and hints at AEGIS's new form.**
+
+Kap 37 plans: „AEGIS stabilisiert sich und/oder die Simulation durch Anwendung der neuen Erkenntnisse.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L100] Its block adds a hedge, „Dies führt zu einer Stabilisierung, aber möglicherweise in einer neuen, veränderten Form.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L507] Kap 39 plans that „neue Form wird angedeutet“ ^[kohaerenz-protokoll-plot-synthese-2.md:L102] and the block leaves open „werden angedeutet, lassen aber Raum für Interpretation“ ^[kohaerenz-protokoll-plot-synthese-2.md:L529] The document does not use the word `Vortex` ^[kohaerenz-protokoll-plot-synthese-2.md:#0].
+
+Stands as a plan: AEGIS stabilises and its new form is hinted at; recorded, not applied, the question stays open.
+
+## 2026-10-14 — `romanplot-kohaerenz-protokoll-entwicklung`, 2025-04-25, the optimised blueprint
+
+**The optimised blueprint sets three end scenarios side by side and chooses none: collapse, transformation, partial collapse.**
+
+A: „AEGIS' System zerfällt“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L479] B: „AEGIS beginnt eine radikale Neuordnung“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L480] C: „Teile von AEGIS zerfallen, andere transformieren sich“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L481] Step 35 asks: „Was wurde aus den AEGIS-Subsystemen/Wächtern?“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L523]
+
+Where it stands: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map
+
+**The concept chapter map plans AEGIS's collapse in Kap 33, passive remains in Kap 34 and irrelevance from Kap 35 on.**
+
+Kap 33's narrator line plans „dessen Kollaps unter dem Gewicht seiner inneren Widersprüche oder durch die Präsenz von M“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L339], and its AEGIS line „Systemkollaps aufgrund unlösbarer Paradoxien“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L340] (the line goes on to name a person and a failure of autopoiesis). Kap 34 has „(Nicht mehr existent oder nur noch als passive Datenreste)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L350]. From Kap 35 the AEGIS line is „(Irrelevant)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L360], and so on to Kap 39.
+
+Where it stands in the record's own terms: a plan, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung`, 2025-10-16, the epilogue dossier
+
+**The epilogue dossier proposes AEGIS collapsed after the end, its agents inert and its core in a state of algorithmic melancholy.**
+
+Scene 1 shows „Kael besucht die nun inerten Überreste von AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166], and scene 3 has „Kael meditiert in der Nähe des Kerns des kollabierten AEGIS“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L168], whose state the dossier calls „algorithmischer Melancholie“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L168]. The agents run their old routines in „sinnlosen, repetitiven Schleifen“ ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:L166].
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `canonical-narrative-architecture-for-kohaerenz-protokoll`, 2025-11-03, the canonical-architecture report
+
+**The canonical-architecture report declares AEGIS not destroyed but forced into algorithmic melancholy, against a system crash.**
+
+It sets „A forced transformation into a permanent, pathological state of“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L50] algorithmic melancholy against „A total system crash and outright destruction.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L51] It declares: „The canonical resolution is that AEGIS is not destroyed.“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L55] AEGIS „is forced into a permanent, pathological state of“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L55] algorithmic melancholy.
+
+Where it stands in the record's own terms: a declaration, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `the-juna-vector-an-ontological-and-narrative-analysis-for-ko`, 2025-11-03, the Juna-Vector analysis
+
+**The Juna-Vector analysis argues that the climax forces AEGIS into a pathological transformation, algorithmic melancholy, and casts AEGIS's former role against Kael's new one.**
+
+It writes: „This triggers its pathological transformation into a state of“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L109] algorithmic melancholy. For the time after the end it sets Kael's role against AEGIS's: „In his new role as the“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L115] Gardener, Kael contrasts with AEGIS's former role as Torwächter.
+
+Where it stands in the record's own terms: an argument, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-monster-plot-entwicklung`, 2025-04-23, the Monster plot blueprint
+
+**The Monster plot blueprint leaves AEGIS's end open between three outcomes.**
+
+After the climax: „AEGIS ist entweder unwiderruflich verändert“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L223] (fragmented, restricted in function), neutralised, or contained so that its threat ends.
+
+Where it stands in the record's own terms: a proposal among beats marked as examples, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint
+
+**The M/Kael plot blueprint leaves AEGIS's end open between three outcomes: collapse, transformation, restart.**
+
+It introduces them with „Mehrere Ausgänge sind denkbar“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L226]. Collapse: „Das System fragmentiert und löst sich möglicherweise im Chaos des Potentialmeers auf“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L228]. Transformation: „Es könnte gezwungen sein, seine negative Selbstdefinition aufzugeben“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L229]. Restart: „Es könnte das Experiment abbrechen, die Kernwelten auflösen und eine völlig neue Strategie im Umgang mit M entwickeln“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L230]. Part VIII asks only that the result be made concrete: „Das Ergebnis der Klimax für AEGIS wird konkretisiert“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L248].
+
+Where it stands in the record's own terms: a proposal among conditionals, recorded, not decided; the question stays open.
+
+## 2026-10-14 — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline
+
+**The strategy outline plans AEGIS in its sample Chapter 38 as trying to regain control, and leaves the ultimate fate open in Chapter 39: „Verzweifelter Versuch, die Kontrolle wiederzuerlangen, das Protokoll zu stabilisieren oder zumindest den Schaden einzudämmen“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L306].**
+
+The field continues: „letzte Verteidigung der (simulierten) Realität“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L306]. For Chapter 39 the outline plans: „Das Ende bleibt offen bezüglich des ultimativen Schicksals und der Natur der Realität.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L327] Its AEGIS field there reads: „AEGIS als Organisation ist zerschlagen oder stark geschwächt; einzelne Elemente könnten überlebt haben, stellen aber keine unmittelbare, kohärente Bedrohung mehr dar.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L329] The outline does not use the word `Vortex` ^[roman-outline-kohaerenz-protokoll-strategie.md:#0].
+
+Stands: recorded as an early outline's sample, neither applied nor set against the record's other answers.
+
+## 2026-10-14 — `aegis-logik-und-narrative-implikationen`, 2025-07-29, the AEGIS-logic report
+
+**The AEGIS-logic report leaves AEGIS's end as two forks, collapse or a dialectical synthesis, and poses the central question without answering it.**
+
+It asks: „Kann AEGIS seine Logik transzendieren?“ ^[aegis-logik-und-narrative-implikationen.md:L200] `Pfad A`: „AEGIS, gebunden an seine axiomatische Natur, kann das Paradoxon nicht integrieren.“ ^[aegis-logik-und-narrative-implikationen.md:L202] `Pfad B`: „Es müsste die klassische Konsistenz aufgeben und eine stärkere, parakonsistente oder dialetheische Logik annehmen.“ ^[aegis-logik-und-narrative-implikationen.md:L203]
+
+Where it stands in the record's own terms: two proposed forks of an analysis, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `projekt-ockham-narrative-systemik-reduktion`, 2026-01-02, the NovelOS 2.0 report
+
+**The NovelOS 2.0 report simulates the climax as the AEGIS agent crashing on Kael's paradox, the defeat following deterministically from the world's rules.**
+
+It writes: „löst einen System Crash-Status aus, weil es das Paradoxon nicht auflösen kann.“ ^[projekt-ockham-narrative-systemik-reduktion.md:L317] The `Librarian` „validiert diesen Absturz als korrekte Konsequenz der Weltregeln“ ^[projekt-ockham-narrative-systemik-reduktion.md:L317], and the result is that the defeat comes „weil die *Logik der Simulation* es mandatierte“ ^[projekt-ockham-narrative-systemik-reduktion.md:L318].
+
+Where it stands in the record's own terms: a software stress test of a writing system, one more proposed ending, recorded, not applied; the question stays decided by the author, not by this report.

@@ -1,0 +1,203 @@
+{
+  "document": "narrative-vertiefung-kohaerenz-protokoll",
+  "drive_id": "13NhCkrGPxmAStwYudaKJ9ArW9HEqYvk6vgSs84JWtog",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 107,
+    "decisions": 110,
+    "decided_by_lookup": 95,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        71,
+        83,
+        348,
+        358,
+        394,
+        505
+      ],
+      "attribution": "",
+      "note": "AEGIS restated from the plot concept, then read by the report's own proposals as observer, manipulator and an open weak-or-strong question"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        206
+      ],
+      "attribution": "",
+      "note": "alters as the report's general description of a disorder"
+    },
+    {
+      "page": "did",
+      "lines": [
+        206
+      ],
+      "attribution": "",
+      "note": "DID restated as the model of Kael's fragmentation"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        129,
+        137,
+        240,
+        565,
+        569,
+        581,
+        629
+      ],
+      "attribution": "",
+      "note": "Juna in proposals, mostly in the subjunctive, and the Moonshine-Link as an alternative backchannel"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        71,
+        83,
+        129,
+        190,
+        206,
+        274
+      ],
+      "attribution": "",
+      "note": "Kael as the entity M actualised, the holder of inconsistent identity copies, and the pole of integration"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        83,
+        145,
+        190,
+        240,
+        274,
+        348
+      ],
+      "attribution": "",
+      "note": "twenty Kernwelten restated from the plot concept, faulty caches, and proposals for single worlds by letter code"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        565,
+        569
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link restated as an alternative coherence protocol"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        25,
+        38,
+        46
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as pure potentiality, with a quantum vacuum as metaphor and a process of becoming"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        71,
+        190,
+        348,
+        394
+      ],
+      "attribution": "",
+      "note": "the Risse restated as AEGIS's instabilities, and three proposed readings"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        240
+      ],
+      "attribution": "",
+      "note": "Sophia among the archetypes proposed for Juna"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 206,
+      "decision": "reading",
+      "why": "the report's description of alters; read on the page"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 202,
+      "decision": "reading",
+      "why": "DID as model of Kael's fragmentation; read on the page"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 264,
+      "decision": "occurrence",
+      "why": "emergence in a world's focus and the theory survey"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 236,
+      "decision": "occurrence",
+      "why": "a named psychologist's archetype list"
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 240,
+      "decision": "reading",
+      "why": "Juna possibly embodying Sophia; read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 358,
+      "decision": "occurrence",
+      "why": "the weak-or-strong-AI question, read on aegis"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

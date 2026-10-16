@@ -1,0 +1,521 @@
+{
+  "document": "genesis-logik-krise-zerstueckelung",
+  "drive_id": "1wMEdBAuMBsUyoT1jzAC5QpWkMOgrvJ6sI05oFYMUbOU",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Genesis": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        11,
+        13,
+        17,
+        21,
+        25,
+        37,
+        77,
+        85,
+        161,
+        176,
+        187,
+        191,
+        193,
+        195,
+        203
+      ]
+    },
+    "Funken Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Funke Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        17,
+        31,
+        69,
+        73,
+        85,
+        89,
+        121,
+        157,
+        161,
+        175,
+        183,
+        191
+      ]
+    },
+    "AEGIS": {
+      "n": 78,
+      "n_including_compounds": 78,
+      "lines": [
+        17,
+        25,
+        41,
+        43,
+        47,
+        51,
+        53,
+        57,
+        59,
+        65,
+        69,
+        73,
+        77,
+        81,
+        85,
+        91,
+        93,
+        95,
+        99,
+        103,
+        107,
+        111,
+        113,
+        117,
+        121,
+        125,
+        129,
+        135,
+        139,
+        141,
+        143,
+        147,
+        151,
+        157,
+        161,
+        165,
+        169,
+        175,
+        176,
+        177,
+        185,
+        191,
+        195,
+        199
+      ]
+    },
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        25,
+        55,
+        59,
+        69,
+        73,
+        77,
+        85,
+        109,
+        111,
+        169,
+        191,
+        195,
+        199
+      ]
+    },
+    "Komponente 734": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        45,
+        47,
+        51,
+        65,
+        73,
+        77,
+        97,
+        107,
+        135,
+        147,
+        151,
+        161,
+        177
+      ]
+    },
+    "Überwelt": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        53,
+        81,
+        101,
+        103,
+        115,
+        117,
+        125,
+        129,
+        184
+      ]
+    },
+    "Echo": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        39,
+        43,
+        47,
+        77,
+        99,
+        135,
+        139,
+        161
+      ]
+    },
+    "Anomalie": {
+      "n": 20,
+      "n_including_compounds": 21,
+      "lines": [
+        47,
+        49,
+        51,
+        53,
+        69,
+        73,
+        81,
+        91,
+        99,
+        103,
+        105,
+        121,
+        125,
+        129,
+        139,
+        143,
+        177,
+        191
+      ]
+    },
+    "Externe Anomalie/Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Zerstückelung": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        59,
+        85,
+        111,
+        149,
+        151,
+        157,
+        169,
+        176,
+        177,
+        184,
+        191
+      ]
+    },
+    "Fragmentierung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        17,
+        55,
+        151,
+        169,
+        199
+      ]
+    },
+    "Ich bin": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        31,
+        43,
+        65,
+        95,
+        99,
+        157
+      ]
+    },
+    "Ich erwacht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        139
+      ]
+    },
+    "Ich bin die Abwehr des Nicht-Seins": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        95
+      ]
+    },
+    "Resonanz": {
+      "n": 14,
+      "n_including_compounds": 24,
+      "lines": [
+        31,
+        33,
+        35,
+        39,
+        51,
+        53,
+        57,
+        59,
+        65,
+        73,
+        99,
+        107,
+        135,
+        139,
+        143,
+        153,
+        157,
+        183,
+        184,
+        191
+      ]
+    },
+    "Dissonanz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        47,
+        135,
+        147
+      ]
+    },
+    "Klick": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Mosaik aus Schmerz und Verlangen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        111
+      ]
+    },
+    "Mosaiks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Potentialität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        25,
+        59,
+        69
+      ]
+    },
+    "doppelten Verlusts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Amalgam aus Trauma und fragmentierter Sehnsucht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        169
+      ]
+    },
+    "strukturelle Narbe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        85,
+        169
+      ]
+    },
+    "organische Terminologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Herkunfts-Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Logikpakete": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        183
+      ]
+    },
+    "Systemdiagnose": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        165
+      ]
+    },
+    "Unmodellierbare": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        81,
+        103,
+        119,
+        129
+      ]
+    },
+    "Rückkopplungsschleife": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        145,
+        147
+      ]
+    },
+    "notwendige Trennung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "interne Werkzeuge": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        117
+      ]
+    },
+    "Systemresonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Agency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Rebellion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        147,
+        157
+      ]
+    },
+    "Existenzialismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Philosophie des Geistes/Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Systemkritik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "Traumatheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        167,
+        169
+      ]
+    },
+    "Konstruktivismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "posttraumatisches Wachstum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "hard problem of consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Die Landkarte ist nicht das Gebiet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    }
+  }
+}

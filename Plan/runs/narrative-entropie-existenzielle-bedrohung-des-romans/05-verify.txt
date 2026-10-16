@@ -1,0 +1,118 @@
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Dossier"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Dossier` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#2]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Framework"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Framework` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#5]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Szenario"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Szenario` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#4]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Blueprint"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Blueprint` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#3]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#0]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#0]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#1]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Narrativen Entropie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Narrativen Entropie` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#3]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Narrative Entropie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narrative Entropie` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#2]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Narrativer Entropie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Narrativer Entropie` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#3]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Kael"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            19
+
+`Kael` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#11]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Kaels"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kaels` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#8]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Nichts Rauschen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Nichts Rauschen` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#3]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Nichts Rauschens"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschens` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#2]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Realitätswunde"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Realitätswunde` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#1]
+
+$ python3 scripts/read.py narrative-entropie-existenzielle-bedrohung-des-romans --count "Lex"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Lex` ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:#4]
+
+$ sed -n 253,278p Sources/drive/narrative-entropie-existenzielle-bedrohung-des-romans.md | grep -c .
+26
+$ grep -n "end list" Sources/drive/narrative-entropie-existenzielle-bedrohung-des-romans.md | cut -d: -f1
+99 106 137 142 146 152 156 
+stance_marker_count 14 = Dossier 2 + Framework 5 + Szenario 4 + Blueprint 3
+candidates 74, zeros 0: Plan/runs/narrative-entropie-existenzielle-bedrohung-des-romans/04-counts.txt header

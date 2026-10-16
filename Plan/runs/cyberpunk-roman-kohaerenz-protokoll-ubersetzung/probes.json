@@ -1,0 +1,268 @@
+{
+  "document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung",
+  "drive_id": "1Y35DZiDoShdiALFLNWVl5JbvzWeULb7ATbE-AAUmFUg",
+  "step": "probes",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 30,
+  "backslash_escapes": 32,
+  "typographic_marks": 4,
+  "ascii_quotes": 86,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systembedeutung",
+      "Systembruch",
+      "Systemfarben",
+      "Systemfehler",
+      "Systemfragmente",
+      "Systemischen",
+      "Systemischer",
+      "Systemlenkung",
+      "Systemprofil",
+      "Systempsyche",
+      "Systemrisse",
+      "Systems"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfissur",
+      "Datenfluss",
+      "Datenkapazität",
+      "Datenknoten",
+      "Datenmüll",
+      "Datenpaket",
+      "Datenströme",
+      "Datensätze",
+      "Datenverfall",
+      "Datenvolumen",
+      "Datenwelt",
+      "Datenübertragung"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustandsfarbe",
+      "Zustandsfarben",
+      "Zustandsindikatoren",
+      "Zustandsmaschine",
+      "Zustandsmaschinen",
+      "Zustandssyntax"
+    ],
+    "archi": [
+      "Architectures",
+      "Architekt",
+      "Architektonischen",
+      "Architektur",
+      "Archive"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakters"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolliert",
+      "Kontrollmechanismen",
+      "Kontrollverlust"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzepts"
+    ],
+    "agent": [
+      "AGENTS",
+      "Agent",
+      "Agenten",
+      "Agentic"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionen"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerfall",
+      "Fehlerprotokoll",
+      "Fehlerprotokolle"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionsregeln",
+      "Interface",
+      "Interferenzen"
+    ],
+    "kamer": [
+      "Kamera",
+      "Kamerachse",
+      "Kameraparameter",
+      "Kameraperspektiven"
+    ],
+    "kerne": [
+      "Kerne",
+      "Kernel",
+      "Kernels",
+      "Kernen"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modells",
+      "Models"
+    ],
+    "overl": [
+      "Overlay",
+      "Overlays",
+      "Overload",
+      "Overloads"
+    ],
+    "papie": [
+      "Papier",
+      "Papierrisse",
+      "Papiers",
+      "Papiertexturen"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradigmenwechsel",
+      "Paradoxon"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "trans": [
+      "Transfer",
+      "Transformation",
+      "Translation",
+      "Transparenz"
+    ],
+    "vekto": [
+      "Vektor",
+      "Vektoren",
+      "Vektorkanten",
+      "Vektorpfade"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteils"
+    ],
+    "beton": [
+      "Beton",
+      "Betonstrukturen",
+      "Betonwände"
+    ],
+    "datei": [
+      "Datei",
+      "Dateistrukturen",
+      "Dateisystem"
+    ],
+    "diagn": [
+      "Diagnostik",
+      "Diagnostische",
+      "Diagnostischer"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "ALEX",
+      "Alex"
+    ],
+    [
+      "ALEX",
+      "Alexander"
+    ],
+    [
+      "ALEX",
+      "Alexanders"
+    ],
+    [
+      "Alex",
+      "Alexander"
+    ],
+    [
+      "Alex",
+      "Alexanders"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Feines"
+    ],
+    [
+      "Erst",
+      "Erstellung"
+    ],
+    [
+      "Erst",
+      "Zerstörung"
+    ],
+    [
+      "Erst",
+      "Sicherstellung"
+    ],
+    [
+      "Feld",
+      "Bildfeld"
+    ],
+    [
+      "Feld",
+      "Spannungsfelder"
+    ],
+    [
+      "Feld",
+      "Spannungsfeldes"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Blockform"
+    ]
+  ]
+}

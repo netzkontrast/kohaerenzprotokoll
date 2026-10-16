@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "juna",
+ "title": "Juna",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Eigenständigkeit jenseits der Ankerfunktion",
+  "Unterschied zwischen früherem Namen und Figur",
+  "Wünsche außerhalb von Kaels Entwicklung",
+  "Grenze zwischen Abwesenheit und Präsenz",
+  "Entscheidung zur erneuten Verbindung"
+ ],
+ "basis": {
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  },
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  },
+  "silas": {
+   "title": "Silas",
+   "path": "Wiki/candidates/silas.md",
+   "hash": "e85b8b07d58f2a313eb17d5729e8cdda011d636753cee1550bda81f9df47e5be"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-juna-001",
+   "question": "Welche Entscheidung würde Juna auch dann treffen, wenn Kaels Heilungsbogen sie nicht als Anker benötigte?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-002",
+   "question": "Welche Lesarten auf der Seite zu Juna stützen oder begrenzen „Eigenständigkeit jenseits der Ankerfunktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-003",
+   "question": "Welcher Grenzfall würde bei Juna die Annahmen über „Eigenständigkeit jenseits der Ankerfunktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-004",
+   "question": "Wer könnte innerhalb des Romans bei Juna etwas über „Eigenständigkeit jenseits der Ankerfunktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-005",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit jenseits der Ankerfunktion“ bei Juna in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit jenseits der Ankerfunktion“ bei Juna haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-007",
+   "question": "Wie lässt sich „Eigenständigkeit jenseits der Ankerfunktion“ bei Juna zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-008",
+   "question": "Welche Alternativen sollte der Autor bei Juna für „Eigenständigkeit jenseits der Ankerfunktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-009",
+   "question": "Was bedeutet bei Juna der Themenpunkt „Unterschied zwischen früherem Namen und Figur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-010",
+   "question": "Welche Lesarten auf der Seite zu Juna stützen oder begrenzen „Unterschied zwischen früherem Namen und Figur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-011",
+   "question": "Welcher Grenzfall würde bei Juna die Annahmen über „Unterschied zwischen früherem Namen und Figur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-012",
+   "question": "Wer könnte innerhalb des Romans bei Juna etwas über „Unterschied zwischen früherem Namen und Figur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen früherem Namen und Figur“ bei Juna in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen früherem Namen und Figur“ bei Juna haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-015",
+   "question": "Wie lässt sich „Unterschied zwischen früherem Namen und Figur“ bei Juna zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-016",
+   "question": "Welche Alternativen sollte der Autor bei Juna für „Unterschied zwischen früherem Namen und Figur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-017",
+   "question": "Was bedeutet bei Juna der Themenpunkt „Wünsche außerhalb von Kaels Entwicklung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-018",
+   "question": "Welche Lesarten auf der Seite zu Juna stützen oder begrenzen „Wünsche außerhalb von Kaels Entwicklung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-019",
+   "question": "Welcher Grenzfall würde bei Juna die Annahmen über „Wünsche außerhalb von Kaels Entwicklung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-020",
+   "question": "Wer könnte innerhalb des Romans bei Juna etwas über „Wünsche außerhalb von Kaels Entwicklung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-021",
+   "question": "Welche konkrete Entscheidung könnte „Wünsche außerhalb von Kaels Entwicklung“ bei Juna in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wünsche außerhalb von Kaels Entwicklung“ bei Juna haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-023",
+   "question": "Wie lässt sich „Wünsche außerhalb von Kaels Entwicklung“ bei Juna zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-024",
+   "question": "Welche Alternativen sollte der Autor bei Juna für „Wünsche außerhalb von Kaels Entwicklung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-025",
+   "question": "Was bedeutet bei Juna der Themenpunkt „Grenze zwischen Abwesenheit und Präsenz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-026",
+   "question": "Welche Lesarten auf der Seite zu Juna stützen oder begrenzen „Grenze zwischen Abwesenheit und Präsenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-027",
+   "question": "Welcher Grenzfall würde bei Juna die Annahmen über „Grenze zwischen Abwesenheit und Präsenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-028",
+   "question": "Wer könnte innerhalb des Romans bei Juna etwas über „Grenze zwischen Abwesenheit und Präsenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Abwesenheit und Präsenz“ bei Juna in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Abwesenheit und Präsenz“ bei Juna haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-031",
+   "question": "Wie lässt sich „Grenze zwischen Abwesenheit und Präsenz“ bei Juna zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-032",
+   "question": "Welche Alternativen sollte der Autor bei Juna für „Grenze zwischen Abwesenheit und Präsenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-033",
+   "question": "Was bedeutet bei Juna der Themenpunkt „Entscheidung zur erneuten Verbindung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-034",
+   "question": "Welche Lesarten auf der Seite zu Juna stützen oder begrenzen „Entscheidung zur erneuten Verbindung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-035",
+   "question": "Welcher Grenzfall würde bei Juna die Annahmen über „Entscheidung zur erneuten Verbindung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-036",
+   "question": "Wer könnte innerhalb des Romans bei Juna etwas über „Entscheidung zur erneuten Verbindung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-037",
+   "question": "Welche konkrete Entscheidung könnte „Entscheidung zur erneuten Verbindung“ bei Juna in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entscheidung zur erneuten Verbindung“ bei Juna haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-039",
+   "question": "Wie lässt sich „Entscheidung zur erneuten Verbindung“ bei Juna zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-040",
+   "question": "Welche Alternativen sollte der Autor bei Juna für „Entscheidung zur erneuten Verbindung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-juna-041",
+   "question": "Wo unterscheiden sich Juna und Kael, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit jenseits der Ankerfunktion“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-042",
+   "question": "Welche Quelle verbindet Juna mit Kael in Bezug auf „Eigenständigkeit jenseits der Ankerfunktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Juna unter „Eigenständigkeit jenseits der Ankerfunktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-044",
+   "question": "Wie könnte sich das Wissen über Juna vom Wissen über Kael unterscheiden, wenn „Eigenständigkeit jenseits der Ankerfunktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Juna und Kael bei „Eigenständigkeit jenseits der Ankerfunktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-046",
+   "question": "Falls Juna im Hinblick auf „Eigenständigkeit jenseits der Ankerfunktion“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Juna und Kael bei „Eigenständigkeit jenseits der Ankerfunktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-048",
+   "question": "Braucht der Roman eine Verbindung von Juna und Kael bei „Eigenständigkeit jenseits der Ankerfunktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-049",
+   "question": "In welchem denkbaren Fall könnte Juna bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit jenseits der Ankerfunktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-050",
+   "question": "Welche Kosten könnte eine Verbindung von Juna und Kael in Bezug auf „Eigenständigkeit jenseits der Ankerfunktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-051",
+   "question": "Welche ältere Lesart von Juna oder Kael könnte die Gegenüberstellung unter „Eigenständigkeit jenseits der Ankerfunktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Juna und Kael unter „Eigenständigkeit jenseits der Ankerfunktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "juna",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-juna-053",
+   "question": "Wo unterscheiden sich Juna und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen früherem Namen und Figur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-054",
+   "question": "Welche Quelle verbindet Juna mit Moonshine-Link in Bezug auf „Unterschied zwischen früherem Namen und Figur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-055",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Juna unter „Unterschied zwischen früherem Namen und Figur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-056",
+   "question": "Wie könnte sich das Wissen über Juna vom Wissen über Moonshine-Link unterscheiden, wenn „Unterschied zwischen früherem Namen und Figur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Juna und Moonshine-Link bei „Unterschied zwischen früherem Namen und Figur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-058",
+   "question": "Falls Juna im Hinblick auf „Unterschied zwischen früherem Namen und Figur“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Juna und Moonshine-Link bei „Unterschied zwischen früherem Namen und Figur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-060",
+   "question": "Braucht der Roman eine Verbindung von Juna und Moonshine-Link bei „Unterschied zwischen früherem Namen und Figur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-061",
+   "question": "In welchem denkbaren Fall könnte Juna bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen früherem Namen und Figur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-062",
+   "question": "Welche Kosten könnte eine Verbindung von Juna und Moonshine-Link in Bezug auf „Unterschied zwischen früherem Namen und Figur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-063",
+   "question": "Welche ältere Lesart von Juna oder Moonshine-Link könnte die Gegenüberstellung unter „Unterschied zwischen früherem Namen und Figur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Juna und Moonshine-Link unter „Unterschied zwischen früherem Namen und Figur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "juna",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-juna-065",
+   "question": "Wo unterscheiden sich Juna und Externe Ebene, wenn man sie unter dem Gesichtspunkt „Wünsche außerhalb von Kaels Entwicklung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-066",
+   "question": "Welche Quelle verbindet Juna mit Externe Ebene in Bezug auf „Wünsche außerhalb von Kaels Entwicklung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-067",
+   "question": "Welche Grenzen aus der Seite zu Externe Ebene müsste eine Deutung von Juna unter „Wünsche außerhalb von Kaels Entwicklung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-068",
+   "question": "Wie könnte sich das Wissen über Juna vom Wissen über Externe Ebene unterscheiden, wenn „Wünsche außerhalb von Kaels Entwicklung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Juna und Externe Ebene bei „Wünsche außerhalb von Kaels Entwicklung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-070",
+   "question": "Falls Juna im Hinblick auf „Wünsche außerhalb von Kaels Entwicklung“ anders festgelegt wird: Welche Aussagen über Externe Ebene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Juna und Externe Ebene bei „Wünsche außerhalb von Kaels Entwicklung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-072",
+   "question": "Braucht der Roman eine Verbindung von Juna und Externe Ebene bei „Wünsche außerhalb von Kaels Entwicklung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-073",
+   "question": "In welchem denkbaren Fall könnte Juna bestehen, ohne dass Externe Ebene dieselbe Funktion übernimmt, und was würde das für „Wünsche außerhalb von Kaels Entwicklung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-074",
+   "question": "Welche Kosten könnte eine Verbindung von Juna und Externe Ebene in Bezug auf „Wünsche außerhalb von Kaels Entwicklung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-075",
+   "question": "Welche ältere Lesart von Juna oder Externe Ebene könnte die Gegenüberstellung unter „Wünsche außerhalb von Kaels Entwicklung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Juna und Externe Ebene unter „Wünsche außerhalb von Kaels Entwicklung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "juna",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-juna-077",
+   "question": "Wo unterscheiden sich Juna und Telefon-Stille, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Abwesenheit und Präsenz“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-078",
+   "question": "Welche Quelle verbindet Juna mit Telefon-Stille in Bezug auf „Grenze zwischen Abwesenheit und Präsenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-079",
+   "question": "Welche Grenzen aus der Seite zu Telefon-Stille müsste eine Deutung von Juna unter „Grenze zwischen Abwesenheit und Präsenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-080",
+   "question": "Wie könnte sich das Wissen über Juna vom Wissen über Telefon-Stille unterscheiden, wenn „Grenze zwischen Abwesenheit und Präsenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Juna und Telefon-Stille bei „Grenze zwischen Abwesenheit und Präsenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-082",
+   "question": "Falls Juna im Hinblick auf „Grenze zwischen Abwesenheit und Präsenz“ anders festgelegt wird: Welche Aussagen über Telefon-Stille müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Juna und Telefon-Stille bei „Grenze zwischen Abwesenheit und Präsenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-084",
+   "question": "Braucht der Roman eine Verbindung von Juna und Telefon-Stille bei „Grenze zwischen Abwesenheit und Präsenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-085",
+   "question": "In welchem denkbaren Fall könnte Juna bestehen, ohne dass Telefon-Stille dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Abwesenheit und Präsenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-086",
+   "question": "Welche Kosten könnte eine Verbindung von Juna und Telefon-Stille in Bezug auf „Grenze zwischen Abwesenheit und Präsenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-087",
+   "question": "Welche ältere Lesart von Juna oder Telefon-Stille könnte die Gegenüberstellung unter „Grenze zwischen Abwesenheit und Präsenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Juna und Telefon-Stille unter „Grenze zwischen Abwesenheit und Präsenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "juna",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-juna-089",
+   "question": "Wo unterscheiden sich Juna und Silas, wenn man sie unter dem Gesichtspunkt „Entscheidung zur erneuten Verbindung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-090",
+   "question": "Welche Quelle verbindet Juna mit Silas in Bezug auf „Entscheidung zur erneuten Verbindung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-091",
+   "question": "Welche Grenzen aus der Seite zu Silas müsste eine Deutung von Juna unter „Entscheidung zur erneuten Verbindung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-092",
+   "question": "Wie könnte sich das Wissen über Juna vom Wissen über Silas unterscheiden, wenn „Entscheidung zur erneuten Verbindung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Juna und Silas bei „Entscheidung zur erneuten Verbindung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-094",
+   "question": "Falls Juna im Hinblick auf „Entscheidung zur erneuten Verbindung“ anders festgelegt wird: Welche Aussagen über Silas müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Juna und Silas bei „Entscheidung zur erneuten Verbindung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-096",
+   "question": "Braucht der Roman eine Verbindung von Juna und Silas bei „Entscheidung zur erneuten Verbindung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-097",
+   "question": "In welchem denkbaren Fall könnte Juna bestehen, ohne dass Silas dieselbe Funktion übernimmt, und was würde das für „Entscheidung zur erneuten Verbindung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-098",
+   "question": "Welche Kosten könnte eine Verbindung von Juna und Silas in Bezug auf „Entscheidung zur erneuten Verbindung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-099",
+   "question": "Welche ältere Lesart von Juna oder Silas könnte die Gegenüberstellung unter „Entscheidung zur erneuten Verbindung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-juna-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Juna und Silas unter „Entscheidung zur erneuten Verbindung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "juna",
+    "silas"
+   ]
+  }
+ ]
+}

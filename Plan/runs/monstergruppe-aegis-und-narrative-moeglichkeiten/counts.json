@@ -1,0 +1,465 @@
+{
+  "document": "monstergruppe-aegis-und-narrative-moeglichkeiten",
+  "drive_id": "1x-PMjfafuf5PcTnpE88wxHk01LYajJws63o9CbCGlZI",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Aegis": {
+      "n": 66,
+      "n_including_compounds": 66,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        39,
+        41,
+        43,
+        49,
+        51,
+        59,
+        61,
+        65,
+        86,
+        94,
+        120,
+        121,
+        122,
+        140,
+        141,
+        142,
+        143,
+        145,
+        149,
+        198,
+        213,
+        215,
+        217,
+        219,
+        225,
+        226,
+        227,
+        228,
+        245,
+        247
+      ]
+    },
+    "Kael": {
+      "n": 15,
+      "n_including_compounds": 39,
+      "lines": [
+        11,
+        15,
+        19,
+        40,
+        43,
+        60,
+        88,
+        90,
+        92,
+        94,
+        115,
+        117,
+        119,
+        120,
+        121,
+        122,
+        124,
+        142,
+        225,
+        226,
+        227,
+        228,
+        245
+      ]
+    },
+    "Juna": {
+      "n": 11,
+      "n_including_compounds": 14,
+      "lines": [
+        11,
+        15,
+        19,
+        115,
+        117,
+        119,
+        120,
+        121,
+        122,
+        124,
+        226,
+        245
+      ]
+    },
+    "Kernwelten": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        19,
+        86,
+        141,
+        147,
+        149,
+        198,
+        228,
+        245
+      ]
+    },
+    "Welt der Reinen Logik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143,
+        151
+      ]
+    },
+    "Welt der Emotion/Paralogik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        163,
+        202,
+        228
+      ]
+    },
+    "Welt der Angst/Sicherheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        175,
+        202,
+        228
+      ]
+    },
+    "Welt der Potentialität/Möglichkeiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Welt der Logik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        202,
+        228
+      ]
+    },
+    "Welt der Potentialität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        186,
+        202,
+        228
+      ]
+    },
+    "Reine Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Emotion/Paralogik": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        163,
+        202,
+        228
+      ]
+    },
+    "Angst/Sicherheit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        175,
+        202,
+        207,
+        228
+      ]
+    },
+    "Potentialität/Möglichkeiten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        186
+      ]
+    },
+    "Potentialitätsraum": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        59,
+        120,
+        226
+      ]
+    },
+    "dissoziative Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "DIS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        60,
+        142,
+        206
+      ]
+    },
+    "innere Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kael-Juna-Verbindung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        120,
+        226
+      ]
+    },
+    "Kernidentitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Quantenschaum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Symmetriebruch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        208,
+        227
+      ]
+    },
+    "Widerstandsfähigkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        217
+      ]
+    },
+    "Monstergruppe": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        25,
+        47,
+        51,
+        55,
+        73,
+        100,
+        106,
+        110,
+        119,
+        130,
+        132,
+        134,
+        149,
+        198,
+        215,
+        239,
+        243,
+        247,
+        249
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        19,
+        96,
+        100,
+        117,
+        243,
+        267,
+        268,
+        292,
+        293,
+        296,
+        301,
+        303
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        108,
+        113
+      ]
+    },
+    "Griess-Algebra": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        19,
+        51,
+        126,
+        130,
+        132,
+        134,
+        138,
+        140,
+        141,
+        143,
+        145,
+        160,
+        173,
+        194,
+        239,
+        243,
+        245
+      ]
+    },
+    "Happy Family": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        63,
+        92,
+        94,
+        196,
+        225
+      ]
+    },
+    "Pariahs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "sporadischen einfachen Gruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        55
+      ]
+    },
+    "einfache Gruppe": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        47
+      ]
+    },
+    "maximale Untergruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        239
+      ]
+    },
+    "Subquotienten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        92,
+        196
+      ]
+    },
+    "Zentralisator": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        80,
+        81,
+        86,
+        225
+      ]
+    },
+    "Normalisator": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        82,
+        83,
+        86,
+        225
+      ]
+    },
+    "Automorphismengruppe": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        110,
+        130,
+        132,
+        160
+      ]
+    },
+    "Normalteiler": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        47,
+        49,
+        184
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "VOA": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        108,
+        113,
+        120,
+        121,
+        226,
+        280
+      ]
+    },
+    "Hauptmodul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "mögliche Lesart"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`mögliche Lesart` ^[analyse-der-leere-und-existenz.md:#1]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "implizit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`implizit` ^[analyse-der-leere-und-existenz.md:#2]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Kap` ^[analyse-der-leere-und-existenz.md:#0]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Kapitel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapitel` ^[analyse-der-leere-und-existenz.md:#3]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "AEGIS"
+whole word, case-sensitive     58
+whole word, case-insensitive   58
+including compounds            58
+
+`AEGIS` ^[analyse-der-leere-und-existenz.md:#58]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Qualia"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Qualia` ^[analyse-der-leere-und-existenz.md:#8]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Cluster 2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cluster 2` ^[analyse-der-leere-und-existenz.md:#1]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Cluster 5"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cluster 5` ^[analyse-der-leere-und-existenz.md:#1]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Nichts Rauschen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nichts Rauschen` ^[analyse-der-leere-und-existenz.md:#3]
+$ python3 scripts/read.py analyse-der-leere-und-existenz --count "Überwelt"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Überwelt` ^[analyse-der-leere-und-existenz.md:#13]
+$ stance_marker_count: mögliche Lesart 1 + implizit 2 = 3

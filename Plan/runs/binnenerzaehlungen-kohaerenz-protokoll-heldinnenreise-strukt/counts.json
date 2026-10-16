@@ -1,0 +1,495 @@
+{
+  "document": "binnenerzaehlungen-kohaerenz-protokoll-heldinnenreise-strukt",
+  "drive_id": "1Qj8WcQ2qoFFE6vEBjnZjRKJX49CdO8w5FRlfFqEzMWA",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 76,
+      "n_including_compounds": 84,
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    "Juna": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        23,
+        24,
+        38,
+        52,
+        61,
+        65
+      ]
+    },
+    "AEGIS": {
+      "n": 35,
+      "n_including_compounds": 38,
+      "lines": [
+        17,
+        18,
+        19,
+        21,
+        35,
+        41,
+        43,
+        44,
+        46,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        59,
+        60
+      ]
+    },
+    "M": {
+      "n": 22,
+      "n_including_compounds": 54,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27,
+        36,
+        37,
+        38,
+        40,
+        41,
+        42,
+        44,
+        46,
+        54,
+        56,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    "Kael/M": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    "Conway-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Co₁": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        22,
+        25
+      ]
+    },
+    "McLaughlin-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "McL": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        21,
+        22,
+        25,
+        26,
+        40
+      ]
+    },
+    "Baby-Monster-Welt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36
+      ]
+    },
+    "B-Welt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        38
+      ]
+    },
+    "Lyons-Welt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42
+      ]
+    },
+    "Ly": {
+      "n": 5,
+      "n_including_compounds": 10,
+      "lines": [
+        42,
+        43,
+        44,
+        46
+      ]
+    },
+    "Ly-Welt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        44,
+        46
+      ]
+    },
+    "Potentialmeer": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        43,
+        57,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41
+      ]
+    },
+    "Cache-Konflikt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        25,
+        40
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kissen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        54
+      ]
+    },
+    "Kernwunde": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Wächterin": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        39
+      ]
+    },
+    "Wächterin-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Wächterin-Analogon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Trojaner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "ICH": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        57
+      ]
+    },
+    "Scherben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Mosaik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Garten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        29
+      ]
+    },
+    "Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Wohnmodul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "AEGIS-Evaluierungsraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Lernarchiv": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Öffentliches Forum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Kontrollzentrum der McL-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "AEGIS-Kontrollraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "AEGIS' Kernprozessor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Pforten der Verurteilung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Auge des Sturms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Tod des Alten Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Neue Innere Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Innere Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Binnenerzählungen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        33,
+        50
+      ]
+    },
+    "Zyklischer Erzählstil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Wiederkehrendes Thema": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Der Wendepunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Schatten": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        37
+      ]
+    },
+    "Elixier": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        61
+      ]
+    },
+    "Wächter der Schwelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Feuerprobe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    }
+  }
+}

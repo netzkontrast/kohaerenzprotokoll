@@ -1,0 +1,87 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Read in four ranges (L10 to L160, L161 to L300, L301 to L440, L441 to L632). The document is a German report of technique advice for writing the chapters of the novel; it speaks of a chapter blueprint it calls „Blaupause“ and applies borrowed frameworks to figures and worlds. It names no chapter by number (no „Kap N“); it names three parts (Teil 1, 2, 3) and refers to sections of the Blaupause (Abschnitt 5, 2.3, 2.2, 2.5). Core worlds are written Co₁, B, Ly, and McL once inside the guardian list. The final 115 lines are a numbered reference list of web pages, which are not candidates. Names of real persons occur inside the framework descriptions and are left off the list.
+
+- Kael
+- Juna
+- AEGIS
+- M
+- Moonshine
+- Monstergruppe/M
+- Monstergruppe
+- K-J Verbindung
+- Kael-M
+- Kael-Juna-Einheit
+- ICH
+- Anteile
+- Logik-Anteil
+- Kind-Anteil
+- Schatten
+- Wächterin
+- Risse
+- Cache Kohärenz
+- Kernwelt
+- Kernwelten
+- Kernwelt Co₁
+- Kernwelt B
+- Kernwelt Ly
+- Co₁
+- B
+- Ly
+- McL
+- AEGIS-System
+- Innerer Raum Kaels
+- Innerer Raum
+- Log-Format
+- Kernwelt-Guardians
+- Kernwelt-Guardian
+- Guardians
+- Architekt
+- Netzweber
+- Chaos-Regulator
+- Möglichkeits-Weber
+- Blaupause
+- Kapitel-Blaupause
+- Kohärenzprotokolle
+- Cache-Kohärenz-Metapher
+- Sprachwechsel
+
+## lens
+
+- Environmental Storytelling
+- Alignment Faking
+- Apollinisch/Dionysische
+- Apollinische
+- Dionysische
+- Dissoziation
+- Dissoziativen Identitätsstörung
+- Amnesie
+- Depersonalisation
+- Derealisation
+- Holismus
+- Reduktionismus
+- Emergenz
+- Symmetrie
+- Asymmetrie
+- Internal Family Systems
+- IFS
+- Exiles
+- Managers
+- Firefighters
+- Self-Leadership
+- Polarisation
+- MESI
+- Heldenreise
+- Heldinnenreise
+- Zyklische Narrative
+- Schwellenhüter
+- Archetypen
+- Gestaltprinzipien
+- Figur-Grund
+- Prägnanz
+- Geschlossenheit
+- Pacing
+- Dramatische Ironie
+- Cliffhanger
+- Psychische Distanz
+- Telepathie

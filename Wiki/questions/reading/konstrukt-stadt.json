@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "konstrukt-stadt",
+ "title": "Konstrukt-Stadt",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "physische Lesbarkeit systemischer Ordnung",
+  "Alltag trotz überwachten Raums",
+  "Selbstkorrektur als Ereignis",
+  "Grenze zwischen Architektur und Kontrollmechanismus",
+  "erste sichtbare Störung der Routine"
+ ],
+ "basis": {
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  },
+  "logos": {
+   "title": "LogOS",
+   "path": "Wiki/candidates/logos.md",
+   "hash": "d667c8f76ae17d3ab2c925db860c87bf6e0666f1e7400b49b0bdfc8f8fbd9a0e"
+  },
+  "sektor-04": {
+   "title": "Sektor 04",
+   "path": "Wiki/candidates/sektor-04.md",
+   "hash": "c1bad95e53d5861dcef99423b35b975f338a8061dd232f4dc7e232d7c2c1627e"
+  },
+  "kaels-wohneinheit": {
+   "title": "Kaels Wohneinheit 1.0",
+   "path": "Wiki/candidates/kaels-wohneinheit.md",
+   "hash": "3be85478fea78f1782c2e7eb1fb762d5d9c0d1eeeb3ab8b9ce67f372617521cd"
+  },
+  "datenverarbeitungsknoten-7g": {
+   "title": "Datenverarbeitungsknoten 7G",
+   "path": "Wiki/candidates/datenverarbeitungsknoten-7g.md",
+   "hash": "f65b6216f6dad2a038e75178b9e26606f21bed53a5b1532afb88a909deb21cee"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-konstrukt-stadt-001",
+   "question": "Welche alltägliche Selbstkorrektur der Konstrukt-Stadt wird für Kael zum ersten Hinweis, dass ihre Ordnung aktiv hergestellt wird?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-002",
+   "question": "Welche Lesarten auf der Seite zu Konstrukt-Stadt stützen oder begrenzen „physische Lesbarkeit systemischer Ordnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-003",
+   "question": "Welcher Grenzfall würde bei Konstrukt-Stadt die Annahmen über „physische Lesbarkeit systemischer Ordnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-004",
+   "question": "Wer könnte innerhalb des Romans bei Konstrukt-Stadt etwas über „physische Lesbarkeit systemischer Ordnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-005",
+   "question": "Welche konkrete Entscheidung könnte „physische Lesbarkeit systemischer Ordnung“ bei Konstrukt-Stadt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „physische Lesbarkeit systemischer Ordnung“ bei Konstrukt-Stadt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-007",
+   "question": "Wie lässt sich „physische Lesbarkeit systemischer Ordnung“ bei Konstrukt-Stadt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-008",
+   "question": "Welche Alternativen sollte der Autor bei Konstrukt-Stadt für „physische Lesbarkeit systemischer Ordnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-009",
+   "question": "Was bedeutet bei Konstrukt-Stadt der Themenpunkt „Alltag trotz überwachten Raums“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-010",
+   "question": "Welche Lesarten auf der Seite zu Konstrukt-Stadt stützen oder begrenzen „Alltag trotz überwachten Raums“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-011",
+   "question": "Welcher Grenzfall würde bei Konstrukt-Stadt die Annahmen über „Alltag trotz überwachten Raums“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-012",
+   "question": "Wer könnte innerhalb des Romans bei Konstrukt-Stadt etwas über „Alltag trotz überwachten Raums“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-013",
+   "question": "Welche konkrete Entscheidung könnte „Alltag trotz überwachten Raums“ bei Konstrukt-Stadt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Alltag trotz überwachten Raums“ bei Konstrukt-Stadt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-015",
+   "question": "Wie lässt sich „Alltag trotz überwachten Raums“ bei Konstrukt-Stadt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-016",
+   "question": "Welche Alternativen sollte der Autor bei Konstrukt-Stadt für „Alltag trotz überwachten Raums“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-017",
+   "question": "Was bedeutet bei Konstrukt-Stadt der Themenpunkt „Selbstkorrektur als Ereignis“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-018",
+   "question": "Welche Lesarten auf der Seite zu Konstrukt-Stadt stützen oder begrenzen „Selbstkorrektur als Ereignis“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-019",
+   "question": "Welcher Grenzfall würde bei Konstrukt-Stadt die Annahmen über „Selbstkorrektur als Ereignis“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-020",
+   "question": "Wer könnte innerhalb des Romans bei Konstrukt-Stadt etwas über „Selbstkorrektur als Ereignis“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-021",
+   "question": "Welche konkrete Entscheidung könnte „Selbstkorrektur als Ereignis“ bei Konstrukt-Stadt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Selbstkorrektur als Ereignis“ bei Konstrukt-Stadt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-023",
+   "question": "Wie lässt sich „Selbstkorrektur als Ereignis“ bei Konstrukt-Stadt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-024",
+   "question": "Welche Alternativen sollte der Autor bei Konstrukt-Stadt für „Selbstkorrektur als Ereignis“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-025",
+   "question": "Was bedeutet bei Konstrukt-Stadt der Themenpunkt „Grenze zwischen Architektur und Kontrollmechanismus“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-026",
+   "question": "Welche Lesarten auf der Seite zu Konstrukt-Stadt stützen oder begrenzen „Grenze zwischen Architektur und Kontrollmechanismus“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-027",
+   "question": "Welcher Grenzfall würde bei Konstrukt-Stadt die Annahmen über „Grenze zwischen Architektur und Kontrollmechanismus“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-028",
+   "question": "Wer könnte innerhalb des Romans bei Konstrukt-Stadt etwas über „Grenze zwischen Architektur und Kontrollmechanismus“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Architektur und Kontrollmechanismus“ bei Konstrukt-Stadt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Architektur und Kontrollmechanismus“ bei Konstrukt-Stadt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-031",
+   "question": "Wie lässt sich „Grenze zwischen Architektur und Kontrollmechanismus“ bei Konstrukt-Stadt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-032",
+   "question": "Welche Alternativen sollte der Autor bei Konstrukt-Stadt für „Grenze zwischen Architektur und Kontrollmechanismus“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-033",
+   "question": "Was bedeutet bei Konstrukt-Stadt der Themenpunkt „erste sichtbare Störung der Routine“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-034",
+   "question": "Welche Lesarten auf der Seite zu Konstrukt-Stadt stützen oder begrenzen „erste sichtbare Störung der Routine“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-035",
+   "question": "Welcher Grenzfall würde bei Konstrukt-Stadt die Annahmen über „erste sichtbare Störung der Routine“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-036",
+   "question": "Wer könnte innerhalb des Romans bei Konstrukt-Stadt etwas über „erste sichtbare Störung der Routine“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-037",
+   "question": "Welche konkrete Entscheidung könnte „erste sichtbare Störung der Routine“ bei Konstrukt-Stadt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „erste sichtbare Störung der Routine“ bei Konstrukt-Stadt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-039",
+   "question": "Wie lässt sich „erste sichtbare Störung der Routine“ bei Konstrukt-Stadt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-040",
+   "question": "Welche Alternativen sollte der Autor bei Konstrukt-Stadt für „erste sichtbare Störung der Routine“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-041",
+   "question": "Wo unterscheiden sich Konstrukt-Stadt und LogOS, wenn man sie unter dem Gesichtspunkt „physische Lesbarkeit systemischer Ordnung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-042",
+   "question": "Welche Quelle verbindet Konstrukt-Stadt mit LogOS in Bezug auf „physische Lesbarkeit systemischer Ordnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-043",
+   "question": "Welche Grenzen aus der Seite zu LogOS müsste eine Deutung von Konstrukt-Stadt unter „physische Lesbarkeit systemischer Ordnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-044",
+   "question": "Wie könnte sich das Wissen über Konstrukt-Stadt vom Wissen über LogOS unterscheiden, wenn „physische Lesbarkeit systemischer Ordnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Konstrukt-Stadt und LogOS bei „physische Lesbarkeit systemischer Ordnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-046",
+   "question": "Falls Konstrukt-Stadt im Hinblick auf „physische Lesbarkeit systemischer Ordnung“ anders festgelegt wird: Welche Aussagen über LogOS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Konstrukt-Stadt und LogOS bei „physische Lesbarkeit systemischer Ordnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-048",
+   "question": "Braucht der Roman eine Verbindung von Konstrukt-Stadt und LogOS bei „physische Lesbarkeit systemischer Ordnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-049",
+   "question": "In welchem denkbaren Fall könnte Konstrukt-Stadt bestehen, ohne dass LogOS dieselbe Funktion übernimmt, und was würde das für „physische Lesbarkeit systemischer Ordnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-050",
+   "question": "Welche Kosten könnte eine Verbindung von Konstrukt-Stadt und LogOS in Bezug auf „physische Lesbarkeit systemischer Ordnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-051",
+   "question": "Welche ältere Lesart von Konstrukt-Stadt oder LogOS könnte die Gegenüberstellung unter „physische Lesbarkeit systemischer Ordnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Konstrukt-Stadt und LogOS unter „physische Lesbarkeit systemischer Ordnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "konstrukt-stadt",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-053",
+   "question": "Wo unterscheiden sich Konstrukt-Stadt und Sektor 04, wenn man sie unter dem Gesichtspunkt „Alltag trotz überwachten Raums“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-054",
+   "question": "Welche Quelle verbindet Konstrukt-Stadt mit Sektor 04 in Bezug auf „Alltag trotz überwachten Raums“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-055",
+   "question": "Welche Grenzen aus der Seite zu Sektor 04 müsste eine Deutung von Konstrukt-Stadt unter „Alltag trotz überwachten Raums“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-056",
+   "question": "Wie könnte sich das Wissen über Konstrukt-Stadt vom Wissen über Sektor 04 unterscheiden, wenn „Alltag trotz überwachten Raums“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Konstrukt-Stadt und Sektor 04 bei „Alltag trotz überwachten Raums“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-058",
+   "question": "Falls Konstrukt-Stadt im Hinblick auf „Alltag trotz überwachten Raums“ anders festgelegt wird: Welche Aussagen über Sektor 04 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Konstrukt-Stadt und Sektor 04 bei „Alltag trotz überwachten Raums“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-060",
+   "question": "Braucht der Roman eine Verbindung von Konstrukt-Stadt und Sektor 04 bei „Alltag trotz überwachten Raums“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-061",
+   "question": "In welchem denkbaren Fall könnte Konstrukt-Stadt bestehen, ohne dass Sektor 04 dieselbe Funktion übernimmt, und was würde das für „Alltag trotz überwachten Raums“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-062",
+   "question": "Welche Kosten könnte eine Verbindung von Konstrukt-Stadt und Sektor 04 in Bezug auf „Alltag trotz überwachten Raums“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-063",
+   "question": "Welche ältere Lesart von Konstrukt-Stadt oder Sektor 04 könnte die Gegenüberstellung unter „Alltag trotz überwachten Raums“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Konstrukt-Stadt und Sektor 04 unter „Alltag trotz überwachten Raums“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "konstrukt-stadt",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-065",
+   "question": "Wo unterscheiden sich Konstrukt-Stadt und Kaels Wohneinheit 1.0, wenn man sie unter dem Gesichtspunkt „Selbstkorrektur als Ereignis“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-066",
+   "question": "Welche Quelle verbindet Konstrukt-Stadt mit Kaels Wohneinheit 1.0 in Bezug auf „Selbstkorrektur als Ereignis“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-067",
+   "question": "Welche Grenzen aus der Seite zu Kaels Wohneinheit 1.0 müsste eine Deutung von Konstrukt-Stadt unter „Selbstkorrektur als Ereignis“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-068",
+   "question": "Wie könnte sich das Wissen über Konstrukt-Stadt vom Wissen über Kaels Wohneinheit 1.0 unterscheiden, wenn „Selbstkorrektur als Ereignis“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Konstrukt-Stadt und Kaels Wohneinheit 1.0 bei „Selbstkorrektur als Ereignis“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-070",
+   "question": "Falls Konstrukt-Stadt im Hinblick auf „Selbstkorrektur als Ereignis“ anders festgelegt wird: Welche Aussagen über Kaels Wohneinheit 1.0 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Konstrukt-Stadt und Kaels Wohneinheit 1.0 bei „Selbstkorrektur als Ereignis“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-072",
+   "question": "Braucht der Roman eine Verbindung von Konstrukt-Stadt und Kaels Wohneinheit 1.0 bei „Selbstkorrektur als Ereignis“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-073",
+   "question": "In welchem denkbaren Fall könnte Konstrukt-Stadt bestehen, ohne dass Kaels Wohneinheit 1.0 dieselbe Funktion übernimmt, und was würde das für „Selbstkorrektur als Ereignis“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-074",
+   "question": "Welche Kosten könnte eine Verbindung von Konstrukt-Stadt und Kaels Wohneinheit 1.0 in Bezug auf „Selbstkorrektur als Ereignis“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-075",
+   "question": "Welche ältere Lesart von Konstrukt-Stadt oder Kaels Wohneinheit 1.0 könnte die Gegenüberstellung unter „Selbstkorrektur als Ereignis“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Konstrukt-Stadt und Kaels Wohneinheit 1.0 unter „Selbstkorrektur als Ereignis“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "konstrukt-stadt",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-077",
+   "question": "Wo unterscheiden sich Konstrukt-Stadt und Datenverarbeitungsknoten 7G, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Architektur und Kontrollmechanismus“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-078",
+   "question": "Welche Quelle verbindet Konstrukt-Stadt mit Datenverarbeitungsknoten 7G in Bezug auf „Grenze zwischen Architektur und Kontrollmechanismus“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-079",
+   "question": "Welche Grenzen aus der Seite zu Datenverarbeitungsknoten 7G müsste eine Deutung von Konstrukt-Stadt unter „Grenze zwischen Architektur und Kontrollmechanismus“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-080",
+   "question": "Wie könnte sich das Wissen über Konstrukt-Stadt vom Wissen über Datenverarbeitungsknoten 7G unterscheiden, wenn „Grenze zwischen Architektur und Kontrollmechanismus“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Konstrukt-Stadt und Datenverarbeitungsknoten 7G bei „Grenze zwischen Architektur und Kontrollmechanismus“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-082",
+   "question": "Falls Konstrukt-Stadt im Hinblick auf „Grenze zwischen Architektur und Kontrollmechanismus“ anders festgelegt wird: Welche Aussagen über Datenverarbeitungsknoten 7G müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Konstrukt-Stadt und Datenverarbeitungsknoten 7G bei „Grenze zwischen Architektur und Kontrollmechanismus“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-084",
+   "question": "Braucht der Roman eine Verbindung von Konstrukt-Stadt und Datenverarbeitungsknoten 7G bei „Grenze zwischen Architektur und Kontrollmechanismus“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-085",
+   "question": "In welchem denkbaren Fall könnte Konstrukt-Stadt bestehen, ohne dass Datenverarbeitungsknoten 7G dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Architektur und Kontrollmechanismus“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-086",
+   "question": "Welche Kosten könnte eine Verbindung von Konstrukt-Stadt und Datenverarbeitungsknoten 7G in Bezug auf „Grenze zwischen Architektur und Kontrollmechanismus“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-087",
+   "question": "Welche ältere Lesart von Konstrukt-Stadt oder Datenverarbeitungsknoten 7G könnte die Gegenüberstellung unter „Grenze zwischen Architektur und Kontrollmechanismus“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Konstrukt-Stadt und Datenverarbeitungsknoten 7G unter „Grenze zwischen Architektur und Kontrollmechanismus“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "konstrukt-stadt",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-089",
+   "question": "Wo unterscheiden sich Konstrukt-Stadt und Kern-Welten, wenn man sie unter dem Gesichtspunkt „erste sichtbare Störung der Routine“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-090",
+   "question": "Welche Quelle verbindet Konstrukt-Stadt mit Kern-Welten in Bezug auf „erste sichtbare Störung der Routine“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-091",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Konstrukt-Stadt unter „erste sichtbare Störung der Routine“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-092",
+   "question": "Wie könnte sich das Wissen über Konstrukt-Stadt vom Wissen über Kern-Welten unterscheiden, wenn „erste sichtbare Störung der Routine“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Konstrukt-Stadt und Kern-Welten bei „erste sichtbare Störung der Routine“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-094",
+   "question": "Falls Konstrukt-Stadt im Hinblick auf „erste sichtbare Störung der Routine“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Konstrukt-Stadt und Kern-Welten bei „erste sichtbare Störung der Routine“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-096",
+   "question": "Braucht der Roman eine Verbindung von Konstrukt-Stadt und Kern-Welten bei „erste sichtbare Störung der Routine“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-097",
+   "question": "In welchem denkbaren Fall könnte Konstrukt-Stadt bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „erste sichtbare Störung der Routine“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-098",
+   "question": "Welche Kosten könnte eine Verbindung von Konstrukt-Stadt und Kern-Welten in Bezug auf „erste sichtbare Störung der Routine“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-099",
+   "question": "Welche ältere Lesart von Konstrukt-Stadt oder Kern-Welten könnte die Gegenüberstellung unter „erste sichtbare Störung der Routine“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-konstrukt-stadt-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Konstrukt-Stadt und Kern-Welten unter „erste sichtbare Störung der Routine“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "konstrukt-stadt",
+    "kern-welten"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            18 word    22 in   [17, 19, 31, 35, 41, 43]
+                                    2      as AEGIS-Orchestrator
+                                    1      as AEGIS-Kernel
+                                    1      as AEGIS-Doktrin
+                                    1      as aegis-system2-core-0001-uuid
+  Autonomous Entropic Gatekeeper for Integrity Systems    2 word     2 in   [17, 105]
+  Juna                             17 word    22 in   [17, 19, 31, 35, 41, 43]
+                                    1      as Juna-Ausführern
+                                    1      as Juna-Agenten
+                                    1      as Juna-Sub-Agenten
+                                    1      as juna-system1-exec-0002-uuid
+  JANUS                             4 word    18 in   [15, 25, 31, 33, 35, 43]  <-- substring
+                                    6      as JANUS-System
+                                    3      as JANUS-Kernel
+                                    2      as JANUS-Projekts
+                                    2      as JANUS-Architektur
+  JANUS-Projekt                     1 word     3 in   [15, 25, 581]  <-- substring
+                                    2      as JANUS-Projekts
+  JANUS-System                      6 word     6 in   [33, 43, 575, 583, 593, 616]
+  JANUS-Kernel                      3 word     3 in   [31, 561, 608]
+  Kohärenz Protokoll                2 word     4 in   [15, 39, 49, 623]
+  Kohärenz-Kernel                   2 word     2 in   [51, 108]
+  Kollaps-Kernel                    2 word     3 in   [307, 364, 600]
+                                    1      as Kollaps-Kernels
+  Kernel                            8 word    26 in   [15, 17, 19, 25, 31, 39]  <-- substring
+                                    2      as Kernel-AIs
+                                    1      as Kernel-Sandboxing
+  Kernel-AIs                        2 word     2 in   [19, 47]
+  Dual-Kognitions-Architektur       1 word     1 in   [15]
+  Dual-Kognitions-Struktur          1 word     1 in   [29]
+  Dual-Kognitions-Systeme           1 word     1 in   [11]
+  Dual-Kognitions-Philosophie       1 word     1 in   [581]
+  Dual-Kernel-Theorie               1 word     1 in   [581]
+  System 1                          7 word     7 in   [17, 31, 43, 307, 514, 575]
+  System 2                          4 word     4 in   [17, 51, 258, 612]
+  Apparently Normal Part            1 word     1 in   [17]
+  ANP                               2 word     2 in   [17, 45]
+  Emotional Part                    1 word     1 in   [17]
+  EP                                2 word     2 in   [17, 45]
+  Manager                           2 word     2 in   [17, 45]
+  Emotionalen Teile                 1 word     1 in   [45]
+  Ground Truth Algorithm            1 word     1 in   [17]
+  Cognitive Simultaneity            2 word     2 in   [43, 575]
+  AEGIS-Doktrin                     1 word     1 in   [43]
+  funktionalen Multiplizität        1 word     1 in   [35]
+  epistemischen Isolation           2 word     3 in   [39, 45, 582]
+  Amnesie-Barrieren                 1 word     1 in   [45]
+  Context Rot                       3 word     3 in   [13, 45, 568]
+  Context Engineerings              1 word     1 in   [15]
+  Kohärenz Digests                  2 word     2 in   [583, 612]
+  Kohärenz-Digests                  1 word     1 in   [583]
+  Orchestrator of Orchestrators     1 word     1 in   [593]
+  Emergence by Negation             1 word     1 in   [184]
+  Dialetheismus                     1 word     1 in   [440]
+  parakonsistenter Logik            1 word     1 in   [309]
+  kausale Geschlossenheit           2 word     2 in   [568, 600]
+  Chronozeption                     1 word     1 in   [43]
+  Chronoperzeption                  1 word     1 in   [597]
+  Vercel Storage                    1 word     1 in   [35]
+  Google Jules                      1 word     1 in   [593]
+  AIEOS                             9 word    15 in   [11, 19, 21, 23, 29, 39]
+                                    3      as AIEOS-Schemas
+                                    2      as AIEOS-Schema
+                                    1      as AIEOS-Implementierungsbeispiele
+  AI Entity Object Specification    2 word     2 in   [19, 626]
+  Narrative Context Protocol        4 word     4 in   [577, 579, 610, 612]
+  NCP                               8 word     8 in   [577, 579, 581, 582, 610, 612]
+  Storyform                         3 word     3 in   [579, 581, 612]
+  Storytelling                      3 word     3 in   [579, 581, 612]
+  Narrative Entropy                 1 word     1 in   [582]
+  God Mode                          1 word     1 in   [582]
+  Character Card                    2 word     3 in   [563, 565, 633]
+  Lorebooks                         1 word     1 in   [565]
+  Inworld AI                       11 word    11 in   [41, 570, 572, 575, 627, 628]
+  ZeroClaw                          7 word     7 in   [595, 600, 614, 616]
+  NullClaw                          3 word     3 in   [595, 599]
+  OpenClaw                          1 word     1 in   [591]
+  Nanobot                           1 word     1 in   [591]
+  TinyClaw                          2 word     2 in   [593]
+  repomix                           2 word     3 in   [33, 583, 612]
+                                    1      as repomix-Technologie
+  CodeAct                           0 word     3 in   [45, 575, 591]  <-- substring
+                                    1      as CodeAct-Schleifen
+                                    1      as CodeAct-Sicherheit
+                                    1      as CodeAct-Operationen
+  SKILL.md                          0 word     1 in   [33]
+                                    1      as SKILL.md-Protokoll
+  STATE.md                          1 word     1 in   [286]
+  AGENTS.md                         1 word     1 in   [612]
+  Constitutional AI                 1 word     1 in   [612]
+  anthropomorphem Overhead          1 word     1 in   [39]
+  thermodynamischen Ineffizienz     1 word     1 in   [43]
+  Needle-in-a-Haystack              1 word     1 in   [45]
+  Zero-Trust                        0 word     1 in   [35]
+                                    1      as Zero-Trust-Sicherheit
+  Lawful Neutral                    1 word     1 in   [182]
+  Chaotic Neutral                   1 word     1 in   [438]
+  Landauer-Prinzip                  1 word     2 in   [43, 597]
+                                    1      as Landauer-Prinzips
+  Dual-Prozess-Theorie              1 word     1 in   [15]
+  strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [15, 45]
+  TSDP                              2 word     2 in   [15, 45]

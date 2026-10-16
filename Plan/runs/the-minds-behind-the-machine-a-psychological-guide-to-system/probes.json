@@ -1,0 +1,75 @@
+{
+  "document": "the-minds-behind-the-machine-a-psychological-guide-to-system",
+  "drive_id": "1LArbWnlvfJ9hgoVB5gCW4ujXYQ1l80Opnw2OhY5wiwQ",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 2,
+  "typographic_marks": 12,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemic",
+      "Systemische",
+      "Systems"
+    ],
+    "funct": [
+      "Function",
+      "Functional",
+      "Functionality"
+    ],
+    "fight": [
+      "Fight",
+      "Fighter"
+    ],
+    "perso": [
+      "Personality",
+      "Personifies"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Face",
+      "Faced"
+    ],
+    [
+      "Once",
+      "Concept"
+    ],
+    [
+      "Fight",
+      "Fighter"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "System",
+      "Systemische"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Function",
+      "Functionality"
+    ],
+    [
+      "Functional",
+      "Functionality"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      38
+  backslash escapes      124
+  typographic marks      15
+  ascii quotes           140
+
+# inflection families -- one term, several surfaces
+  leser    Leser, Leserbewusstsein, Leserintegration, Lesers, Leserzustand
+  syste    System, Systemfehler, Systeminstabilität, Systems, Systemweites
+  chara    Charakter, Charaktere, Charakteren, Charakterkonflikt
+  emoti    Emotion, Emotional, Emotionale, Emotionen
+  narra    Narration, Narrative, Narrativen, Narrativer
+  physi    Physik, Physikalische, Physikalisches, Physische
+  wider    Widerlegung, Widerspruchs, Widersprüche, Widerstand
+  dialo    Dialog, Dialoge, Dialogfragment
+  diese    Diese, Dieser, Dieses
+  entro    Entropie, Entropiebericht, Entropischer
+  erzäh    Erzähler, Erzählung, Erzählungen
+  gesch    Geschichte, Geschmäcker, Geschwür
+  handl    Handlung, Handlungen, Handlungsfähigkeit
+  katas    Katastrophal, Katastrophaler, Katastrophe
+  kausa    Kausales, Kausalität, Kausalitätsbrüche
+  konfl    Konflikt, Konflikte, Konflikts
+  parad    Paradox, Paradoxien, Paradoxon
+  poten    Potentialität, Potenzial, Potenzials
+  reali    Realität, Realitätswunde, Realitätswunden
+  roman    Roman, Romanprojekts, Romans
+  sympt    Symptomatologie, Symptome, Symptomen
+  szene    Szene, Szenen, Szenenebene
+  währu    Währung, Währungen, Währungserzeugung
+  absch    Abschnitt, Abschnitte
+  alter    Alter, Alternativen
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Kleinere
+  Esse < Interesse
+  Esse < Vergessen
+  Esse < Desinteresse
+  Farb < Farbe
+  Farb < Farben
+  Hand < Handlung
+  Hand < Handlungen
+  Hand < Handlungsfähigkeit
+  Hole < Holes
+  Kael < Kaels
+  Meta < Metapher
+  Meta < Metaphysische
+  Plan < Explanations
+  Plot < Subplots
+  Sein < Seine

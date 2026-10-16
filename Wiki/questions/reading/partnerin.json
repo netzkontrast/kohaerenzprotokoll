@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "partnerin",
+ "title": "Partnerin",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Wirkung ohne eigenen Namen",
+  "Eigenständigkeit jenseits der Abwesenheit",
+  "Spuren in verschiedenen Kernwelten",
+  "Unterschied zwischen Projektperson und Romanfigur",
+  "Möglichkeit eines gleichberechtigten Gegenübers"
+ ],
+ "basis": {
+  "partnerin": {
+   "title": "Partnerin",
+   "path": "Wiki/candidates/partnerin.md",
+   "hash": "62ff85f1edd241c2a1d37c701d9b887e11389ee44a4a14d0b097278f5e2b8564"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "kael-julia-bindung": {
+   "title": "Kael-Julia-Bindung",
+   "path": "Wiki/candidates/kael-julia-bindung.md",
+   "hash": "c1e85963cb0f24fc59c7957f82c90f13b1daf92dc7ff897fe04e96b2843ecf06"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  },
+  "silas": {
+   "title": "Silas",
+   "path": "Wiki/candidates/silas.md",
+   "hash": "e85b8b07d58f2a313eb17d5729e8cdda011d636753cee1550bda81f9df47e5be"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-partnerin-001",
+   "question": "Welche Eigenhandlung lässt sich aus den Partnerin-Echos gerade nicht ableiten und müsste für Juna separat entwickelt werden?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-002",
+   "question": "Welche Lesarten auf der Seite zu Partnerin stützen oder begrenzen „Wirkung ohne eigenen Namen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-003",
+   "question": "Welcher Grenzfall würde bei Partnerin die Annahmen über „Wirkung ohne eigenen Namen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-004",
+   "question": "Wer könnte innerhalb des Romans bei Partnerin etwas über „Wirkung ohne eigenen Namen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-005",
+   "question": "Welche konkrete Entscheidung könnte „Wirkung ohne eigenen Namen“ bei Partnerin in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wirkung ohne eigenen Namen“ bei Partnerin haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-007",
+   "question": "Wie lässt sich „Wirkung ohne eigenen Namen“ bei Partnerin zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-008",
+   "question": "Welche Alternativen sollte der Autor bei Partnerin für „Wirkung ohne eigenen Namen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-009",
+   "question": "Was bedeutet bei Partnerin der Themenpunkt „Eigenständigkeit jenseits der Abwesenheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-010",
+   "question": "Welche Lesarten auf der Seite zu Partnerin stützen oder begrenzen „Eigenständigkeit jenseits der Abwesenheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-011",
+   "question": "Welcher Grenzfall würde bei Partnerin die Annahmen über „Eigenständigkeit jenseits der Abwesenheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-012",
+   "question": "Wer könnte innerhalb des Romans bei Partnerin etwas über „Eigenständigkeit jenseits der Abwesenheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-013",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit jenseits der Abwesenheit“ bei Partnerin in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit jenseits der Abwesenheit“ bei Partnerin haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-015",
+   "question": "Wie lässt sich „Eigenständigkeit jenseits der Abwesenheit“ bei Partnerin zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-016",
+   "question": "Welche Alternativen sollte der Autor bei Partnerin für „Eigenständigkeit jenseits der Abwesenheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-017",
+   "question": "Was bedeutet bei Partnerin der Themenpunkt „Spuren in verschiedenen Kernwelten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-018",
+   "question": "Welche Lesarten auf der Seite zu Partnerin stützen oder begrenzen „Spuren in verschiedenen Kernwelten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-019",
+   "question": "Welcher Grenzfall würde bei Partnerin die Annahmen über „Spuren in verschiedenen Kernwelten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-020",
+   "question": "Wer könnte innerhalb des Romans bei Partnerin etwas über „Spuren in verschiedenen Kernwelten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-021",
+   "question": "Welche konkrete Entscheidung könnte „Spuren in verschiedenen Kernwelten“ bei Partnerin in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Spuren in verschiedenen Kernwelten“ bei Partnerin haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-023",
+   "question": "Wie lässt sich „Spuren in verschiedenen Kernwelten“ bei Partnerin zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-024",
+   "question": "Welche Alternativen sollte der Autor bei Partnerin für „Spuren in verschiedenen Kernwelten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-025",
+   "question": "Was bedeutet bei Partnerin der Themenpunkt „Unterschied zwischen Projektperson und Romanfigur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-026",
+   "question": "Welche Lesarten auf der Seite zu Partnerin stützen oder begrenzen „Unterschied zwischen Projektperson und Romanfigur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-027",
+   "question": "Welcher Grenzfall würde bei Partnerin die Annahmen über „Unterschied zwischen Projektperson und Romanfigur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-028",
+   "question": "Wer könnte innerhalb des Romans bei Partnerin etwas über „Unterschied zwischen Projektperson und Romanfigur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Projektperson und Romanfigur“ bei Partnerin in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Projektperson und Romanfigur“ bei Partnerin haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-031",
+   "question": "Wie lässt sich „Unterschied zwischen Projektperson und Romanfigur“ bei Partnerin zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-032",
+   "question": "Welche Alternativen sollte der Autor bei Partnerin für „Unterschied zwischen Projektperson und Romanfigur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-033",
+   "question": "Was bedeutet bei Partnerin der Themenpunkt „Möglichkeit eines gleichberechtigten Gegenübers“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-034",
+   "question": "Welche Lesarten auf der Seite zu Partnerin stützen oder begrenzen „Möglichkeit eines gleichberechtigten Gegenübers“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-035",
+   "question": "Welcher Grenzfall würde bei Partnerin die Annahmen über „Möglichkeit eines gleichberechtigten Gegenübers“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-036",
+   "question": "Wer könnte innerhalb des Romans bei Partnerin etwas über „Möglichkeit eines gleichberechtigten Gegenübers“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-037",
+   "question": "Welche konkrete Entscheidung könnte „Möglichkeit eines gleichberechtigten Gegenübers“ bei Partnerin in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Möglichkeit eines gleichberechtigten Gegenübers“ bei Partnerin haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-039",
+   "question": "Wie lässt sich „Möglichkeit eines gleichberechtigten Gegenübers“ bei Partnerin zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-040",
+   "question": "Welche Alternativen sollte der Autor bei Partnerin für „Möglichkeit eines gleichberechtigten Gegenübers“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "partnerin"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-041",
+   "question": "Wo unterscheiden sich Partnerin und Juna, wenn man sie unter dem Gesichtspunkt „Wirkung ohne eigenen Namen“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-042",
+   "question": "Welche Quelle verbindet Partnerin mit Juna in Bezug auf „Wirkung ohne eigenen Namen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Partnerin unter „Wirkung ohne eigenen Namen“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-044",
+   "question": "Wie könnte sich das Wissen über Partnerin vom Wissen über Juna unterscheiden, wenn „Wirkung ohne eigenen Namen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Partnerin und Juna bei „Wirkung ohne eigenen Namen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-046",
+   "question": "Falls Partnerin im Hinblick auf „Wirkung ohne eigenen Namen“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Partnerin und Juna bei „Wirkung ohne eigenen Namen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-048",
+   "question": "Braucht der Roman eine Verbindung von Partnerin und Juna bei „Wirkung ohne eigenen Namen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-049",
+   "question": "In welchem denkbaren Fall könnte Partnerin bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Wirkung ohne eigenen Namen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-050",
+   "question": "Welche Kosten könnte eine Verbindung von Partnerin und Juna in Bezug auf „Wirkung ohne eigenen Namen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-051",
+   "question": "Welche ältere Lesart von Partnerin oder Juna könnte die Gegenüberstellung unter „Wirkung ohne eigenen Namen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Partnerin und Juna unter „Wirkung ohne eigenen Namen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "partnerin",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-053",
+   "question": "Wo unterscheiden sich Partnerin und Kael-Julia-Bindung, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit jenseits der Abwesenheit“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-054",
+   "question": "Welche Quelle verbindet Partnerin mit Kael-Julia-Bindung in Bezug auf „Eigenständigkeit jenseits der Abwesenheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-055",
+   "question": "Welche Grenzen aus der Seite zu Kael-Julia-Bindung müsste eine Deutung von Partnerin unter „Eigenständigkeit jenseits der Abwesenheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-056",
+   "question": "Wie könnte sich das Wissen über Partnerin vom Wissen über Kael-Julia-Bindung unterscheiden, wenn „Eigenständigkeit jenseits der Abwesenheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Partnerin und Kael-Julia-Bindung bei „Eigenständigkeit jenseits der Abwesenheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-058",
+   "question": "Falls Partnerin im Hinblick auf „Eigenständigkeit jenseits der Abwesenheit“ anders festgelegt wird: Welche Aussagen über Kael-Julia-Bindung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Partnerin und Kael-Julia-Bindung bei „Eigenständigkeit jenseits der Abwesenheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-060",
+   "question": "Braucht der Roman eine Verbindung von Partnerin und Kael-Julia-Bindung bei „Eigenständigkeit jenseits der Abwesenheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-061",
+   "question": "In welchem denkbaren Fall könnte Partnerin bestehen, ohne dass Kael-Julia-Bindung dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit jenseits der Abwesenheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-062",
+   "question": "Welche Kosten könnte eine Verbindung von Partnerin und Kael-Julia-Bindung in Bezug auf „Eigenständigkeit jenseits der Abwesenheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-063",
+   "question": "Welche ältere Lesart von Partnerin oder Kael-Julia-Bindung könnte die Gegenüberstellung unter „Eigenständigkeit jenseits der Abwesenheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Partnerin und Kael-Julia-Bindung unter „Eigenständigkeit jenseits der Abwesenheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "partnerin",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-065",
+   "question": "Wo unterscheiden sich Partnerin und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Spuren in verschiedenen Kernwelten“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-066",
+   "question": "Welche Quelle verbindet Partnerin mit Kern-Welten in Bezug auf „Spuren in verschiedenen Kernwelten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-067",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Partnerin unter „Spuren in verschiedenen Kernwelten“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-068",
+   "question": "Wie könnte sich das Wissen über Partnerin vom Wissen über Kern-Welten unterscheiden, wenn „Spuren in verschiedenen Kernwelten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Partnerin und Kern-Welten bei „Spuren in verschiedenen Kernwelten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-070",
+   "question": "Falls Partnerin im Hinblick auf „Spuren in verschiedenen Kernwelten“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Partnerin und Kern-Welten bei „Spuren in verschiedenen Kernwelten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-072",
+   "question": "Braucht der Roman eine Verbindung von Partnerin und Kern-Welten bei „Spuren in verschiedenen Kernwelten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-073",
+   "question": "In welchem denkbaren Fall könnte Partnerin bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Spuren in verschiedenen Kernwelten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-074",
+   "question": "Welche Kosten könnte eine Verbindung von Partnerin und Kern-Welten in Bezug auf „Spuren in verschiedenen Kernwelten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-075",
+   "question": "Welche ältere Lesart von Partnerin oder Kern-Welten könnte die Gegenüberstellung unter „Spuren in verschiedenen Kernwelten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Partnerin und Kern-Welten unter „Spuren in verschiedenen Kernwelten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "partnerin",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-077",
+   "question": "Wo unterscheiden sich Partnerin und Telefon-Stille, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Projektperson und Romanfigur“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-078",
+   "question": "Welche Quelle verbindet Partnerin mit Telefon-Stille in Bezug auf „Unterschied zwischen Projektperson und Romanfigur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-079",
+   "question": "Welche Grenzen aus der Seite zu Telefon-Stille müsste eine Deutung von Partnerin unter „Unterschied zwischen Projektperson und Romanfigur“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-080",
+   "question": "Wie könnte sich das Wissen über Partnerin vom Wissen über Telefon-Stille unterscheiden, wenn „Unterschied zwischen Projektperson und Romanfigur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Partnerin und Telefon-Stille bei „Unterschied zwischen Projektperson und Romanfigur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-082",
+   "question": "Falls Partnerin im Hinblick auf „Unterschied zwischen Projektperson und Romanfigur“ anders festgelegt wird: Welche Aussagen über Telefon-Stille müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Partnerin und Telefon-Stille bei „Unterschied zwischen Projektperson und Romanfigur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-084",
+   "question": "Braucht der Roman eine Verbindung von Partnerin und Telefon-Stille bei „Unterschied zwischen Projektperson und Romanfigur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-085",
+   "question": "In welchem denkbaren Fall könnte Partnerin bestehen, ohne dass Telefon-Stille dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Projektperson und Romanfigur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-086",
+   "question": "Welche Kosten könnte eine Verbindung von Partnerin und Telefon-Stille in Bezug auf „Unterschied zwischen Projektperson und Romanfigur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-087",
+   "question": "Welche ältere Lesart von Partnerin oder Telefon-Stille könnte die Gegenüberstellung unter „Unterschied zwischen Projektperson und Romanfigur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Partnerin und Telefon-Stille unter „Unterschied zwischen Projektperson und Romanfigur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "partnerin",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-089",
+   "question": "Wo unterscheiden sich Partnerin und Silas, wenn man sie unter dem Gesichtspunkt „Möglichkeit eines gleichberechtigten Gegenübers“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-090",
+   "question": "Welche Quelle verbindet Partnerin mit Silas in Bezug auf „Möglichkeit eines gleichberechtigten Gegenübers“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-091",
+   "question": "Welche Grenzen aus der Seite zu Silas müsste eine Deutung von Partnerin unter „Möglichkeit eines gleichberechtigten Gegenübers“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-092",
+   "question": "Wie könnte sich das Wissen über Partnerin vom Wissen über Silas unterscheiden, wenn „Möglichkeit eines gleichberechtigten Gegenübers“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Partnerin und Silas bei „Möglichkeit eines gleichberechtigten Gegenübers“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-094",
+   "question": "Falls Partnerin im Hinblick auf „Möglichkeit eines gleichberechtigten Gegenübers“ anders festgelegt wird: Welche Aussagen über Silas müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Partnerin und Silas bei „Möglichkeit eines gleichberechtigten Gegenübers“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-096",
+   "question": "Braucht der Roman eine Verbindung von Partnerin und Silas bei „Möglichkeit eines gleichberechtigten Gegenübers“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-097",
+   "question": "In welchem denkbaren Fall könnte Partnerin bestehen, ohne dass Silas dieselbe Funktion übernimmt, und was würde das für „Möglichkeit eines gleichberechtigten Gegenübers“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-098",
+   "question": "Welche Kosten könnte eine Verbindung von Partnerin und Silas in Bezug auf „Möglichkeit eines gleichberechtigten Gegenübers“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-099",
+   "question": "Welche ältere Lesart von Partnerin oder Silas könnte die Gegenüberstellung unter „Möglichkeit eines gleichberechtigten Gegenübers“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-partnerin-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Partnerin und Silas unter „Möglichkeit eines gleichberechtigten Gegenübers“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "partnerin",
+    "silas"
+   ]
+  }
+ ]
+}

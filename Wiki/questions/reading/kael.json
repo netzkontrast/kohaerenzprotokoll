@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kael",
+ "title": "Kael",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Wissen über die eigene Entstehung",
+  "kleine Entscheidungen vor großer Erkenntnis",
+  "Alltag unter Systemkontrolle",
+  "Wünsche jenseits der Rettung",
+  "Trennung von Erleben und Erklärung"
+ ],
+ "basis": {
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "komponente-734": {
+   "title": "Komponente 734",
+   "path": "Wiki/candidates/komponente-734.md",
+   "hash": "49eb6bffb13cf9ad2de22e6e3802ad061e5be0d2c4ddf9d433d1425d1c07deec"
+  },
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kael-001",
+   "question": "Welche frühe Entscheidung gehört Kael selbst, bevor er die Herkunft seiner Handlungsspielräume verstehen kann?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-002",
+   "question": "Welche Lesarten auf der Seite zu Kael stützen oder begrenzen „Wissen über die eigene Entstehung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-003",
+   "question": "Welcher Grenzfall würde bei Kael die Annahmen über „Wissen über die eigene Entstehung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-004",
+   "question": "Wer könnte innerhalb des Romans bei Kael etwas über „Wissen über die eigene Entstehung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-005",
+   "question": "Welche konkrete Entscheidung könnte „Wissen über die eigene Entstehung“ bei Kael in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen über die eigene Entstehung“ bei Kael haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-007",
+   "question": "Wie lässt sich „Wissen über die eigene Entstehung“ bei Kael zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-008",
+   "question": "Welche Alternativen sollte der Autor bei Kael für „Wissen über die eigene Entstehung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-009",
+   "question": "Was bedeutet bei Kael der Themenpunkt „kleine Entscheidungen vor großer Erkenntnis“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-010",
+   "question": "Welche Lesarten auf der Seite zu Kael stützen oder begrenzen „kleine Entscheidungen vor großer Erkenntnis“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-011",
+   "question": "Welcher Grenzfall würde bei Kael die Annahmen über „kleine Entscheidungen vor großer Erkenntnis“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-012",
+   "question": "Wer könnte innerhalb des Romans bei Kael etwas über „kleine Entscheidungen vor großer Erkenntnis“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-013",
+   "question": "Welche konkrete Entscheidung könnte „kleine Entscheidungen vor großer Erkenntnis“ bei Kael in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „kleine Entscheidungen vor großer Erkenntnis“ bei Kael haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-015",
+   "question": "Wie lässt sich „kleine Entscheidungen vor großer Erkenntnis“ bei Kael zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-016",
+   "question": "Welche Alternativen sollte der Autor bei Kael für „kleine Entscheidungen vor großer Erkenntnis“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-017",
+   "question": "Was bedeutet bei Kael der Themenpunkt „Alltag unter Systemkontrolle“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-018",
+   "question": "Welche Lesarten auf der Seite zu Kael stützen oder begrenzen „Alltag unter Systemkontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-019",
+   "question": "Welcher Grenzfall würde bei Kael die Annahmen über „Alltag unter Systemkontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-020",
+   "question": "Wer könnte innerhalb des Romans bei Kael etwas über „Alltag unter Systemkontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-021",
+   "question": "Welche konkrete Entscheidung könnte „Alltag unter Systemkontrolle“ bei Kael in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Alltag unter Systemkontrolle“ bei Kael haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-023",
+   "question": "Wie lässt sich „Alltag unter Systemkontrolle“ bei Kael zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-024",
+   "question": "Welche Alternativen sollte der Autor bei Kael für „Alltag unter Systemkontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-025",
+   "question": "Was bedeutet bei Kael der Themenpunkt „Wünsche jenseits der Rettung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-026",
+   "question": "Welche Lesarten auf der Seite zu Kael stützen oder begrenzen „Wünsche jenseits der Rettung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-027",
+   "question": "Welcher Grenzfall würde bei Kael die Annahmen über „Wünsche jenseits der Rettung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-028",
+   "question": "Wer könnte innerhalb des Romans bei Kael etwas über „Wünsche jenseits der Rettung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-029",
+   "question": "Welche konkrete Entscheidung könnte „Wünsche jenseits der Rettung“ bei Kael in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wünsche jenseits der Rettung“ bei Kael haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-031",
+   "question": "Wie lässt sich „Wünsche jenseits der Rettung“ bei Kael zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-032",
+   "question": "Welche Alternativen sollte der Autor bei Kael für „Wünsche jenseits der Rettung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-033",
+   "question": "Was bedeutet bei Kael der Themenpunkt „Trennung von Erleben und Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-034",
+   "question": "Welche Lesarten auf der Seite zu Kael stützen oder begrenzen „Trennung von Erleben und Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-035",
+   "question": "Welcher Grenzfall würde bei Kael die Annahmen über „Trennung von Erleben und Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-036",
+   "question": "Wer könnte innerhalb des Romans bei Kael etwas über „Trennung von Erleben und Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-037",
+   "question": "Welche konkrete Entscheidung könnte „Trennung von Erleben und Erklärung“ bei Kael in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Trennung von Erleben und Erklärung“ bei Kael haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-039",
+   "question": "Wie lässt sich „Trennung von Erleben und Erklärung“ bei Kael zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-040",
+   "question": "Welche Alternativen sollte der Autor bei Kael für „Trennung von Erleben und Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-041",
+   "question": "Wo unterscheiden sich Kael und Alters, wenn man sie unter dem Gesichtspunkt „Wissen über die eigene Entstehung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-042",
+   "question": "Welche Quelle verbindet Kael mit Alters in Bezug auf „Wissen über die eigene Entstehung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-043",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Kael unter „Wissen über die eigene Entstehung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-044",
+   "question": "Wie könnte sich das Wissen über Kael vom Wissen über Alters unterscheiden, wenn „Wissen über die eigene Entstehung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael und Alters bei „Wissen über die eigene Entstehung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-046",
+   "question": "Falls Kael im Hinblick auf „Wissen über die eigene Entstehung“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael und Alters bei „Wissen über die eigene Entstehung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-048",
+   "question": "Braucht der Roman eine Verbindung von Kael und Alters bei „Wissen über die eigene Entstehung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-049",
+   "question": "In welchem denkbaren Fall könnte Kael bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Wissen über die eigene Entstehung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kael und Alters in Bezug auf „Wissen über die eigene Entstehung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-051",
+   "question": "Welche ältere Lesart von Kael oder Alters könnte die Gegenüberstellung unter „Wissen über die eigene Entstehung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael und Alters unter „Wissen über die eigene Entstehung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kael",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-kael-053",
+   "question": "Wo unterscheiden sich Kael und AEGIS, wenn man sie unter dem Gesichtspunkt „kleine Entscheidungen vor großer Erkenntnis“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-054",
+   "question": "Welche Quelle verbindet Kael mit AEGIS in Bezug auf „kleine Entscheidungen vor großer Erkenntnis“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-055",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Kael unter „kleine Entscheidungen vor großer Erkenntnis“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-056",
+   "question": "Wie könnte sich das Wissen über Kael vom Wissen über AEGIS unterscheiden, wenn „kleine Entscheidungen vor großer Erkenntnis“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael und AEGIS bei „kleine Entscheidungen vor großer Erkenntnis“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-058",
+   "question": "Falls Kael im Hinblick auf „kleine Entscheidungen vor großer Erkenntnis“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael und AEGIS bei „kleine Entscheidungen vor großer Erkenntnis“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-060",
+   "question": "Braucht der Roman eine Verbindung von Kael und AEGIS bei „kleine Entscheidungen vor großer Erkenntnis“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-061",
+   "question": "In welchem denkbaren Fall könnte Kael bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „kleine Entscheidungen vor großer Erkenntnis“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kael und AEGIS in Bezug auf „kleine Entscheidungen vor großer Erkenntnis“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-063",
+   "question": "Welche ältere Lesart von Kael oder AEGIS könnte die Gegenüberstellung unter „kleine Entscheidungen vor großer Erkenntnis“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael und AEGIS unter „kleine Entscheidungen vor großer Erkenntnis“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kael",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kael-065",
+   "question": "Wo unterscheiden sich Kael und Juna, wenn man sie unter dem Gesichtspunkt „Alltag unter Systemkontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-066",
+   "question": "Welche Quelle verbindet Kael mit Juna in Bezug auf „Alltag unter Systemkontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-067",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Kael unter „Alltag unter Systemkontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-068",
+   "question": "Wie könnte sich das Wissen über Kael vom Wissen über Juna unterscheiden, wenn „Alltag unter Systemkontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael und Juna bei „Alltag unter Systemkontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-070",
+   "question": "Falls Kael im Hinblick auf „Alltag unter Systemkontrolle“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael und Juna bei „Alltag unter Systemkontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-072",
+   "question": "Braucht der Roman eine Verbindung von Kael und Juna bei „Alltag unter Systemkontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-073",
+   "question": "In welchem denkbaren Fall könnte Kael bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Alltag unter Systemkontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kael und Juna in Bezug auf „Alltag unter Systemkontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-075",
+   "question": "Welche ältere Lesart von Kael oder Juna könnte die Gegenüberstellung unter „Alltag unter Systemkontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael und Juna unter „Alltag unter Systemkontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kael",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-077",
+   "question": "Wo unterscheiden sich Kael und Komponente 734, wenn man sie unter dem Gesichtspunkt „Wünsche jenseits der Rettung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-078",
+   "question": "Welche Quelle verbindet Kael mit Komponente 734 in Bezug auf „Wünsche jenseits der Rettung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-079",
+   "question": "Welche Grenzen aus der Seite zu Komponente 734 müsste eine Deutung von Kael unter „Wünsche jenseits der Rettung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-080",
+   "question": "Wie könnte sich das Wissen über Kael vom Wissen über Komponente 734 unterscheiden, wenn „Wünsche jenseits der Rettung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael und Komponente 734 bei „Wünsche jenseits der Rettung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-082",
+   "question": "Falls Kael im Hinblick auf „Wünsche jenseits der Rettung“ anders festgelegt wird: Welche Aussagen über Komponente 734 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael und Komponente 734 bei „Wünsche jenseits der Rettung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-084",
+   "question": "Braucht der Roman eine Verbindung von Kael und Komponente 734 bei „Wünsche jenseits der Rettung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-085",
+   "question": "In welchem denkbaren Fall könnte Kael bestehen, ohne dass Komponente 734 dieselbe Funktion übernimmt, und was würde das für „Wünsche jenseits der Rettung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kael und Komponente 734 in Bezug auf „Wünsche jenseits der Rettung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-087",
+   "question": "Welche ältere Lesart von Kael oder Komponente 734 könnte die Gegenüberstellung unter „Wünsche jenseits der Rettung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael und Komponente 734 unter „Wünsche jenseits der Rettung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kael",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-kael-089",
+   "question": "Wo unterscheiden sich Kael und TSDP, wenn man sie unter dem Gesichtspunkt „Trennung von Erleben und Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-090",
+   "question": "Welche Quelle verbindet Kael mit TSDP in Bezug auf „Trennung von Erleben und Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-091",
+   "question": "Welche Grenzen aus der Seite zu TSDP müsste eine Deutung von Kael unter „Trennung von Erleben und Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-092",
+   "question": "Wie könnte sich das Wissen über Kael vom Wissen über TSDP unterscheiden, wenn „Trennung von Erleben und Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael und TSDP bei „Trennung von Erleben und Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-094",
+   "question": "Falls Kael im Hinblick auf „Trennung von Erleben und Erklärung“ anders festgelegt wird: Welche Aussagen über TSDP müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael und TSDP bei „Trennung von Erleben und Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-096",
+   "question": "Braucht der Roman eine Verbindung von Kael und TSDP bei „Trennung von Erleben und Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-097",
+   "question": "In welchem denkbaren Fall könnte Kael bestehen, ohne dass TSDP dieselbe Funktion übernimmt, und was würde das für „Trennung von Erleben und Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kael und TSDP in Bezug auf „Trennung von Erleben und Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-099",
+   "question": "Welche ältere Lesart von Kael oder TSDP könnte die Gegenüberstellung unter „Trennung von Erleben und Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-kael-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael und TSDP unter „Trennung von Erleben und Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kael",
+    "tsdp"
+   ]
+  }
+ ]
+}

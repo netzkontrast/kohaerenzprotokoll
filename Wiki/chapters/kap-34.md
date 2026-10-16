@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 42
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 49
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanprojekt-kohaerenz-protokoll-analyse", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 records: ["C14", "C7"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ In der äußeren Heldenreise ist das laut der Konzept-Iteration die fortgesetzte
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 34, in Teil 3: Die Transzendenz, is titled „Die Natur der Gleichzeitigkeit offenbart“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L378]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Versöhnung mit dem Vater/der Mutter (AEGIS)`
+
+- The detailed plot draft plans for Kap 34, `Versöhnung mit dem Vater/der Mutter (AEGIS)`: „Kael lehnt die Versuchung ab.“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L136] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `AEGIS' Wende`
+
+- The Moonshine-Brücke blueprint plans for Kap 34, `AEGIS' Wende`: „Systeme identifizieren die Baby-Monster-Struktur in K-J und deren Relevanz für M.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L97] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Not this chapter alone: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L373] names one entry for Kapitel 33, 34 and 35 together — „Diese Kapitel entfalten die Konsequenzen der in 31 und 32 getroffenen Entscheidungen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L376], resolving Kael's chosen ending on the Kernwelt, J and AEGIS, with no beat assigned to Kapitel 34 on its own.
@@ -34,9 +42,21 @@ Not this chapter alone: „Kapitel 33-35: Konsequenzen und Entfaltung“ ^[monst
 
 - The enriched plot concept's theme draft has for Kapitel 34, under the concept label `M's Irreduzibilität (Einfachheit)`: „AEGIS versucht eine letzte Analyse, z.B. eine“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L75] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Exodus ins Potential`
+
+- The concept chapter map plans for Kap 34: „Der Austritt des integrierten Kael/M aus den Trümmern von AEGIS' System in die Weite des Potentialmeers“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L349]; for AEGIS the plan has „(Nicht mehr existent oder nur noch als passive Datenreste)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L350]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Exodus ins Potentialmeer`
+
+- The comprehensive concept's overview gives Kap 34 the label „Exodus ins Potentialmeer“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L102] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 34 „Kern der Wahrheit“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L67] in its third part, the outer journey and assigns it the primary concept „Trauma-Konfrontation / Katharsis“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L67]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — the climax and Paradoxon X
+
+- The logline analysis proposes for Kap 34: „Der Höhepunkt der Konfrontation: Kael nutzt sein Verständnis von Selbst-Führung und Verbindung (V)“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L263] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Apotheose/Transformation
 
@@ -262,6 +282,10 @@ Position: „KW4 dominiert Akt III (Ch29–34, 37–39).“ ^[worldbuilding-konz
 
 - Place: „Das Mosaik-Herz — der Ort, an dem Kael Juna als Teil seiner selbst akzeptiert (Ch34, vor Vortex).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L620], a sub-location of „### VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L584]
 
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 34 as a place of Refragmentierung
+
+The character bible names Kap 34 only as one place of a structural marker: „Begriff Refragmentierung (Kap 12, Kap 14, Kap 34).“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1054] Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Konfrontation: Zwei Arten der Kohärenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1047]
@@ -302,6 +326,10 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 
 - Plot beats: „Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „AEGIS' Makro-Log listet Kael als offenen Posten; das Wir antwortet nicht im Log-Format.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - AEGIS: „Datenlast“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Bilanz, die nicht schließt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — the Mosaik-Herz and two forms heard at once
+
+The sensory drafting manual places the setting of the self-creation in Kap 34: the Mosaik-Herz is „Setting der finalen Selbst-Schöpfung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L274], before the first vortex. In the form motif, Kap 34 is marked canonical and described as „zwei Arten von Form, simultan hörbar“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L539], with the storm set against the sphere. A placement of the manual, recorded, not canon.
 
 ## Where the sources differ
 

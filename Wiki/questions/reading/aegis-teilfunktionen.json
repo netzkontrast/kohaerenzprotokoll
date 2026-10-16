@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "aegis-teilfunktionen",
+ "title": "AEGIS' four sub-functions",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Abgrenzung von Funktion und Protokoll",
+  "ungeklärte Bedeutung von SIS",
+  "Verifikation ohne Vertrauen",
+  "Überwachung der Kernaxiome",
+  "Versionen der Firewall"
+ ],
+ "basis": {
+  "aegis-teilfunktionen": {
+   "title": "AEGIS' four sub-functions",
+   "path": "Wiki/candidates/aegis-teilfunktionen.md",
+   "hash": "496fc252f69f8db127d9cd31a3fe68eda3c577e300ea2c796e2432ad8c222019"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "ztv": {
+   "title": "ZTV — Vertrauenlose Validierung",
+   "path": "Wiki/candidates/ztv.md",
+   "hash": "ebe6b679678889449e0e08574ef904b486bf135ea2882f0746e327816483ecd8"
+  },
+  "cerberus": {
+   "title": "Cerberus",
+   "path": "Wiki/candidates/cerberus.md",
+   "hash": "49c8604dd7260ec941debb7617dfaf07d3e3546b8f44dc6311dc81173e78b753"
+  },
+  "protokoll-v14": {
+   "title": "Protokoll v1.4",
+   "path": "Wiki/candidates/protokoll-v14.md",
+   "hash": "7854f405113308ff8008f39215698b8f1633196189b0931d29fec812b6251603"
+  },
+  "kohaerenz-programm": {
+   "title": "Kohärenz-Programm",
+   "path": "Wiki/candidates/kohaerenz-programm.md",
+   "hash": "bc70cdfaf96809c45543a4a9e95123218d8d9d8c27755cb7a548e436fe41b92b"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-aegis-teilfunktionen-001",
+   "question": "Was unterscheidet Zero-Trust, Cognitive Firewall, Integrity Guardian und SIS, wenn mehrere Quellen sie anders gruppieren?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-002",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' four sub-functions stützen oder begrenzen „Abgrenzung von Funktion und Protokoll“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-003",
+   "question": "Welcher Grenzfall würde bei AEGIS' four sub-functions die Annahmen über „Abgrenzung von Funktion und Protokoll“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-004",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' four sub-functions etwas über „Abgrenzung von Funktion und Protokoll“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-005",
+   "question": "Welche konkrete Entscheidung könnte „Abgrenzung von Funktion und Protokoll“ bei AEGIS' four sub-functions in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abgrenzung von Funktion und Protokoll“ bei AEGIS' four sub-functions haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-007",
+   "question": "Wie lässt sich „Abgrenzung von Funktion und Protokoll“ bei AEGIS' four sub-functions zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-008",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' four sub-functions für „Abgrenzung von Funktion und Protokoll“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-009",
+   "question": "Was bedeutet bei AEGIS' four sub-functions der Themenpunkt „ungeklärte Bedeutung von SIS“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-010",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' four sub-functions stützen oder begrenzen „ungeklärte Bedeutung von SIS“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-011",
+   "question": "Welcher Grenzfall würde bei AEGIS' four sub-functions die Annahmen über „ungeklärte Bedeutung von SIS“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-012",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' four sub-functions etwas über „ungeklärte Bedeutung von SIS“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-013",
+   "question": "Welche konkrete Entscheidung könnte „ungeklärte Bedeutung von SIS“ bei AEGIS' four sub-functions in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „ungeklärte Bedeutung von SIS“ bei AEGIS' four sub-functions haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-015",
+   "question": "Wie lässt sich „ungeklärte Bedeutung von SIS“ bei AEGIS' four sub-functions zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-016",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' four sub-functions für „ungeklärte Bedeutung von SIS“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-017",
+   "question": "Was bedeutet bei AEGIS' four sub-functions der Themenpunkt „Verifikation ohne Vertrauen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-018",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' four sub-functions stützen oder begrenzen „Verifikation ohne Vertrauen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-019",
+   "question": "Welcher Grenzfall würde bei AEGIS' four sub-functions die Annahmen über „Verifikation ohne Vertrauen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-020",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' four sub-functions etwas über „Verifikation ohne Vertrauen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-021",
+   "question": "Welche konkrete Entscheidung könnte „Verifikation ohne Vertrauen“ bei AEGIS' four sub-functions in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verifikation ohne Vertrauen“ bei AEGIS' four sub-functions haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-023",
+   "question": "Wie lässt sich „Verifikation ohne Vertrauen“ bei AEGIS' four sub-functions zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-024",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' four sub-functions für „Verifikation ohne Vertrauen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-025",
+   "question": "Was bedeutet bei AEGIS' four sub-functions der Themenpunkt „Überwachung der Kernaxiome“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-026",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' four sub-functions stützen oder begrenzen „Überwachung der Kernaxiome“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-027",
+   "question": "Welcher Grenzfall würde bei AEGIS' four sub-functions die Annahmen über „Überwachung der Kernaxiome“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-028",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' four sub-functions etwas über „Überwachung der Kernaxiome“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-029",
+   "question": "Welche konkrete Entscheidung könnte „Überwachung der Kernaxiome“ bei AEGIS' four sub-functions in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Überwachung der Kernaxiome“ bei AEGIS' four sub-functions haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-031",
+   "question": "Wie lässt sich „Überwachung der Kernaxiome“ bei AEGIS' four sub-functions zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-032",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' four sub-functions für „Überwachung der Kernaxiome“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-033",
+   "question": "Was bedeutet bei AEGIS' four sub-functions der Themenpunkt „Versionen der Firewall“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-034",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' four sub-functions stützen oder begrenzen „Versionen der Firewall“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-035",
+   "question": "Welcher Grenzfall würde bei AEGIS' four sub-functions die Annahmen über „Versionen der Firewall“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-036",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' four sub-functions etwas über „Versionen der Firewall“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-037",
+   "question": "Welche konkrete Entscheidung könnte „Versionen der Firewall“ bei AEGIS' four sub-functions in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Versionen der Firewall“ bei AEGIS' four sub-functions haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-039",
+   "question": "Wie lässt sich „Versionen der Firewall“ bei AEGIS' four sub-functions zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-040",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' four sub-functions für „Versionen der Firewall“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-041",
+   "question": "Wo unterscheiden sich AEGIS' four sub-functions und AEGIS, wenn man sie unter dem Gesichtspunkt „Abgrenzung von Funktion und Protokoll“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-042",
+   "question": "Welche Quelle verbindet AEGIS' four sub-functions mit AEGIS in Bezug auf „Abgrenzung von Funktion und Protokoll“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von AEGIS' four sub-functions unter „Abgrenzung von Funktion und Protokoll“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-044",
+   "question": "Wie könnte sich das Wissen über AEGIS' four sub-functions vom Wissen über AEGIS unterscheiden, wenn „Abgrenzung von Funktion und Protokoll“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' four sub-functions und AEGIS bei „Abgrenzung von Funktion und Protokoll“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-046",
+   "question": "Falls AEGIS' four sub-functions im Hinblick auf „Abgrenzung von Funktion und Protokoll“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' four sub-functions und AEGIS bei „Abgrenzung von Funktion und Protokoll“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-048",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' four sub-functions und AEGIS bei „Abgrenzung von Funktion und Protokoll“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-049",
+   "question": "In welchem denkbaren Fall könnte AEGIS' four sub-functions bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Abgrenzung von Funktion und Protokoll“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-050",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' four sub-functions und AEGIS in Bezug auf „Abgrenzung von Funktion und Protokoll“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-051",
+   "question": "Welche ältere Lesart von AEGIS' four sub-functions oder AEGIS könnte die Gegenüberstellung unter „Abgrenzung von Funktion und Protokoll“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' four sub-functions und AEGIS unter „Abgrenzung von Funktion und Protokoll“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis-teilfunktionen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-053",
+   "question": "Wo unterscheiden sich AEGIS' four sub-functions und ZTV — Vertrauenlose Validierung, wenn man sie unter dem Gesichtspunkt „ungeklärte Bedeutung von SIS“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-054",
+   "question": "Welche Quelle verbindet AEGIS' four sub-functions mit ZTV — Vertrauenlose Validierung in Bezug auf „ungeklärte Bedeutung von SIS“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-055",
+   "question": "Welche Grenzen aus der Seite zu ZTV — Vertrauenlose Validierung müsste eine Deutung von AEGIS' four sub-functions unter „ungeklärte Bedeutung von SIS“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-056",
+   "question": "Wie könnte sich das Wissen über AEGIS' four sub-functions vom Wissen über ZTV — Vertrauenlose Validierung unterscheiden, wenn „ungeklärte Bedeutung von SIS“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' four sub-functions und ZTV — Vertrauenlose Validierung bei „ungeklärte Bedeutung von SIS“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-058",
+   "question": "Falls AEGIS' four sub-functions im Hinblick auf „ungeklärte Bedeutung von SIS“ anders festgelegt wird: Welche Aussagen über ZTV — Vertrauenlose Validierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' four sub-functions und ZTV — Vertrauenlose Validierung bei „ungeklärte Bedeutung von SIS“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-060",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' four sub-functions und ZTV — Vertrauenlose Validierung bei „ungeklärte Bedeutung von SIS“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-061",
+   "question": "In welchem denkbaren Fall könnte AEGIS' four sub-functions bestehen, ohne dass ZTV — Vertrauenlose Validierung dieselbe Funktion übernimmt, und was würde das für „ungeklärte Bedeutung von SIS“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-062",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' four sub-functions und ZTV — Vertrauenlose Validierung in Bezug auf „ungeklärte Bedeutung von SIS“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-063",
+   "question": "Welche ältere Lesart von AEGIS' four sub-functions oder ZTV — Vertrauenlose Validierung könnte die Gegenüberstellung unter „ungeklärte Bedeutung von SIS“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' four sub-functions und ZTV — Vertrauenlose Validierung unter „ungeklärte Bedeutung von SIS“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis-teilfunktionen",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-065",
+   "question": "Wo unterscheiden sich AEGIS' four sub-functions und Cerberus, wenn man sie unter dem Gesichtspunkt „Verifikation ohne Vertrauen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-066",
+   "question": "Welche Quelle verbindet AEGIS' four sub-functions mit Cerberus in Bezug auf „Verifikation ohne Vertrauen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-067",
+   "question": "Welche Grenzen aus der Seite zu Cerberus müsste eine Deutung von AEGIS' four sub-functions unter „Verifikation ohne Vertrauen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-068",
+   "question": "Wie könnte sich das Wissen über AEGIS' four sub-functions vom Wissen über Cerberus unterscheiden, wenn „Verifikation ohne Vertrauen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' four sub-functions und Cerberus bei „Verifikation ohne Vertrauen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-070",
+   "question": "Falls AEGIS' four sub-functions im Hinblick auf „Verifikation ohne Vertrauen“ anders festgelegt wird: Welche Aussagen über Cerberus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' four sub-functions und Cerberus bei „Verifikation ohne Vertrauen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-072",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' four sub-functions und Cerberus bei „Verifikation ohne Vertrauen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-073",
+   "question": "In welchem denkbaren Fall könnte AEGIS' four sub-functions bestehen, ohne dass Cerberus dieselbe Funktion übernimmt, und was würde das für „Verifikation ohne Vertrauen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-074",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' four sub-functions und Cerberus in Bezug auf „Verifikation ohne Vertrauen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-075",
+   "question": "Welche ältere Lesart von AEGIS' four sub-functions oder Cerberus könnte die Gegenüberstellung unter „Verifikation ohne Vertrauen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' four sub-functions und Cerberus unter „Verifikation ohne Vertrauen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis-teilfunktionen",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-077",
+   "question": "Wo unterscheiden sich AEGIS' four sub-functions und Protokoll v1.4, wenn man sie unter dem Gesichtspunkt „Überwachung der Kernaxiome“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-078",
+   "question": "Welche Quelle verbindet AEGIS' four sub-functions mit Protokoll v1.4 in Bezug auf „Überwachung der Kernaxiome“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-079",
+   "question": "Welche Grenzen aus der Seite zu Protokoll v1.4 müsste eine Deutung von AEGIS' four sub-functions unter „Überwachung der Kernaxiome“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-080",
+   "question": "Wie könnte sich das Wissen über AEGIS' four sub-functions vom Wissen über Protokoll v1.4 unterscheiden, wenn „Überwachung der Kernaxiome“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' four sub-functions und Protokoll v1.4 bei „Überwachung der Kernaxiome“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-082",
+   "question": "Falls AEGIS' four sub-functions im Hinblick auf „Überwachung der Kernaxiome“ anders festgelegt wird: Welche Aussagen über Protokoll v1.4 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' four sub-functions und Protokoll v1.4 bei „Überwachung der Kernaxiome“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-084",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' four sub-functions und Protokoll v1.4 bei „Überwachung der Kernaxiome“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-085",
+   "question": "In welchem denkbaren Fall könnte AEGIS' four sub-functions bestehen, ohne dass Protokoll v1.4 dieselbe Funktion übernimmt, und was würde das für „Überwachung der Kernaxiome“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-086",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' four sub-functions und Protokoll v1.4 in Bezug auf „Überwachung der Kernaxiome“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-087",
+   "question": "Welche ältere Lesart von AEGIS' four sub-functions oder Protokoll v1.4 könnte die Gegenüberstellung unter „Überwachung der Kernaxiome“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' four sub-functions und Protokoll v1.4 unter „Überwachung der Kernaxiome“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis-teilfunktionen",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-089",
+   "question": "Wo unterscheiden sich AEGIS' four sub-functions und Kohärenz-Programm, wenn man sie unter dem Gesichtspunkt „Versionen der Firewall“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-090",
+   "question": "Welche Quelle verbindet AEGIS' four sub-functions mit Kohärenz-Programm in Bezug auf „Versionen der Firewall“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-091",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz-Programm müsste eine Deutung von AEGIS' four sub-functions unter „Versionen der Firewall“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-092",
+   "question": "Wie könnte sich das Wissen über AEGIS' four sub-functions vom Wissen über Kohärenz-Programm unterscheiden, wenn „Versionen der Firewall“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' four sub-functions und Kohärenz-Programm bei „Versionen der Firewall“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-094",
+   "question": "Falls AEGIS' four sub-functions im Hinblick auf „Versionen der Firewall“ anders festgelegt wird: Welche Aussagen über Kohärenz-Programm müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' four sub-functions und Kohärenz-Programm bei „Versionen der Firewall“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-096",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' four sub-functions und Kohärenz-Programm bei „Versionen der Firewall“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-097",
+   "question": "In welchem denkbaren Fall könnte AEGIS' four sub-functions bestehen, ohne dass Kohärenz-Programm dieselbe Funktion übernimmt, und was würde das für „Versionen der Firewall“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-098",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' four sub-functions und Kohärenz-Programm in Bezug auf „Versionen der Firewall“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-099",
+   "question": "Welche ältere Lesart von AEGIS' four sub-functions oder Kohärenz-Programm könnte die Gegenüberstellung unter „Versionen der Firewall“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-aegis-teilfunktionen-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' four sub-functions und Kohärenz-Programm unter „Versionen der Firewall“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis-teilfunktionen",
+    "kohaerenz-programm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+  "document": "plotentwicklung-schluessigkeit-kohaerenz-konsistenz",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 48,
+  "decisions": 47,
+  "same_surface": {},
+  "decided_mechanically": 43,
+  "needs_judgement": 4,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [],
+    "new_term": [
+      {
+        "candidate": "Schlüssigkeit"
+      },
+      {
+        "candidate": "Konzeptuelle Konsistenz"
+      },
+      {
+        "candidate": "Kredibilität"
+      },
+      {
+        "candidate": "Kausalitätsbeziehungen (Ursache und Wirkung)"
+      },
+      {
+        "candidate": "temporale Konsistenz"
+      },
+      {
+        "candidate": "inferentielle Arbeit des Lesers"
+      },
+      {
+        "candidate": "internen Logik"
+      },
+      {
+        "candidate": "Prämissenkonsistenz"
+      },
+      {
+        "candidate": "externer und interner Logik"
+      },
+      {
+        "candidate": "Charakterglaubwürdigkeit"
+      },
+      {
+        "candidate": "Inkonsistentes Charakterverhalten"
+      },
+      {
+        "candidate": "Wendepunkte (Turning Points)"
+      },
+      {
+        "candidate": "Plot Points"
+      },
+      {
+        "candidate": "thematische Resonanz"
+      },
+      {
+        "candidate": "Thematic Square"
+      },
+      {
+        "candidate": "Deus Ex Machina (DEM)"
+      },
+      {
+        "candidate": "Weltenbibel"
+      },
+      {
+        "candidate": "Charakterbibel"
+      },
+      {
+        "candidate": "totale Kausalität"
+      },
+      {
+        "candidate": "editorial fatigue"
+      },
+      {
+        "candidate": "Freytags Pyramide"
+      },
+      {
+        "candidate": "Sieben-Punkte-Struktur"
+      },
+      {
+        "candidate": "Drei-Akt-Struktur"
+      },
+      {
+        "candidate": "Inciting Incident"
+      },
+      {
+        "candidate": "Plotlöcher"
+      },
+      {
+        "candidate": "Kontinuitätsfehler"
+      },
+      {
+        "candidate": "Leerstellen"
+      },
+      {
+        "candidate": "Retconning"
+      },
+      {
+        "candidate": "purple prose"
+      },
+      {
+        "candidate": "gemischte Metaphern"
+      },
+      {
+        "candidate": "Sekundärwelt"
+      },
+      {
+        "candidate": "Secondary Belief"
+      },
+      {
+        "candidate": "Charakterbogen"
+      },
+      {
+        "candidate": "Kernthema"
+      },
+      {
+        "candidate": "Foreshadowing"
+      },
+      {
+        "candidate": "Agency"
+      },
+      {
+        "candidate": "Pacing"
+      },
+      {
+        "candidate": "Midpoint"
+      },
+      {
+        "candidate": "Rising Action"
+      },
+      {
+        "candidate": "Leser-Vertrags"
+      },
+      {
+        "candidate": "Thematische Dissonanz"
+      },
+      {
+        "candidate": "Verletzung von Weltregeln"
+      },
+      {
+        "candidate": "Charakterinkonsistenz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Suspension of Disbelief  /  willing suspension of disbelief",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Narrative Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "strukturellen Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Überkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "lia",
+ "title": "Lia",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "ambivalente Nähe",
+  "Unterschied zur älteren Isabella",
+  "Flucht als Bindungsstrategie",
+  "kindliche Wünsche jenseits der Funktion",
+  "Erkennbarkeit verschiedener Altersstufen"
+ ],
+ "basis": {
+  "lia": {
+   "title": "Lia",
+   "path": "Wiki/candidates/lia.md",
+   "hash": "fe3c6497a56a97dc22976b6049a7b2262a0d6d55f6ba40dad6ce609c6e492614"
+  },
+  "isabelle": {
+   "title": "Isabelle",
+   "path": "Wiki/candidates/isabelle.md",
+   "hash": "9108fdc9f8103430fead050e32571903834f16310b76321dd72a5941384e60f0"
+  },
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  },
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-lia-001",
+   "question": "Wie unterscheidet sich Lias ambivalente Nähe in einer konkreten Begegnung von Isabelles Kontrolle und Kikos Erstarrung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-002",
+   "question": "Welche Lesarten auf der Seite zu Lia stützen oder begrenzen „ambivalente Nähe“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-003",
+   "question": "Welcher Grenzfall würde bei Lia die Annahmen über „ambivalente Nähe“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-004",
+   "question": "Wer könnte innerhalb des Romans bei Lia etwas über „ambivalente Nähe“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-005",
+   "question": "Welche konkrete Entscheidung könnte „ambivalente Nähe“ bei Lia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „ambivalente Nähe“ bei Lia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-007",
+   "question": "Wie lässt sich „ambivalente Nähe“ bei Lia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-008",
+   "question": "Welche Alternativen sollte der Autor bei Lia für „ambivalente Nähe“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-009",
+   "question": "Was bedeutet bei Lia der Themenpunkt „Unterschied zur älteren Isabella“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-010",
+   "question": "Welche Lesarten auf der Seite zu Lia stützen oder begrenzen „Unterschied zur älteren Isabella“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-011",
+   "question": "Welcher Grenzfall würde bei Lia die Annahmen über „Unterschied zur älteren Isabella“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-012",
+   "question": "Wer könnte innerhalb des Romans bei Lia etwas über „Unterschied zur älteren Isabella“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zur älteren Isabella“ bei Lia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zur älteren Isabella“ bei Lia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-015",
+   "question": "Wie lässt sich „Unterschied zur älteren Isabella“ bei Lia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-016",
+   "question": "Welche Alternativen sollte der Autor bei Lia für „Unterschied zur älteren Isabella“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-017",
+   "question": "Was bedeutet bei Lia der Themenpunkt „Flucht als Bindungsstrategie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-018",
+   "question": "Welche Lesarten auf der Seite zu Lia stützen oder begrenzen „Flucht als Bindungsstrategie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-019",
+   "question": "Welcher Grenzfall würde bei Lia die Annahmen über „Flucht als Bindungsstrategie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-020",
+   "question": "Wer könnte innerhalb des Romans bei Lia etwas über „Flucht als Bindungsstrategie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-021",
+   "question": "Welche konkrete Entscheidung könnte „Flucht als Bindungsstrategie“ bei Lia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Flucht als Bindungsstrategie“ bei Lia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-023",
+   "question": "Wie lässt sich „Flucht als Bindungsstrategie“ bei Lia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-024",
+   "question": "Welche Alternativen sollte der Autor bei Lia für „Flucht als Bindungsstrategie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-025",
+   "question": "Was bedeutet bei Lia der Themenpunkt „kindliche Wünsche jenseits der Funktion“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-026",
+   "question": "Welche Lesarten auf der Seite zu Lia stützen oder begrenzen „kindliche Wünsche jenseits der Funktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-027",
+   "question": "Welcher Grenzfall würde bei Lia die Annahmen über „kindliche Wünsche jenseits der Funktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-028",
+   "question": "Wer könnte innerhalb des Romans bei Lia etwas über „kindliche Wünsche jenseits der Funktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-029",
+   "question": "Welche konkrete Entscheidung könnte „kindliche Wünsche jenseits der Funktion“ bei Lia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „kindliche Wünsche jenseits der Funktion“ bei Lia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-031",
+   "question": "Wie lässt sich „kindliche Wünsche jenseits der Funktion“ bei Lia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-032",
+   "question": "Welche Alternativen sollte der Autor bei Lia für „kindliche Wünsche jenseits der Funktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-033",
+   "question": "Was bedeutet bei Lia der Themenpunkt „Erkennbarkeit verschiedener Altersstufen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-034",
+   "question": "Welche Lesarten auf der Seite zu Lia stützen oder begrenzen „Erkennbarkeit verschiedener Altersstufen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-035",
+   "question": "Welcher Grenzfall würde bei Lia die Annahmen über „Erkennbarkeit verschiedener Altersstufen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-036",
+   "question": "Wer könnte innerhalb des Romans bei Lia etwas über „Erkennbarkeit verschiedener Altersstufen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-037",
+   "question": "Welche konkrete Entscheidung könnte „Erkennbarkeit verschiedener Altersstufen“ bei Lia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erkennbarkeit verschiedener Altersstufen“ bei Lia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-039",
+   "question": "Wie lässt sich „Erkennbarkeit verschiedener Altersstufen“ bei Lia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-040",
+   "question": "Welche Alternativen sollte der Autor bei Lia für „Erkennbarkeit verschiedener Altersstufen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-lia-041",
+   "question": "Wo unterscheiden sich Lia und Isabelle, wenn man sie unter dem Gesichtspunkt „ambivalente Nähe“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-042",
+   "question": "Welche Quelle verbindet Lia mit Isabelle in Bezug auf „ambivalente Nähe“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-043",
+   "question": "Welche Grenzen aus der Seite zu Isabelle müsste eine Deutung von Lia unter „ambivalente Nähe“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-044",
+   "question": "Wie könnte sich das Wissen über Lia vom Wissen über Isabelle unterscheiden, wenn „ambivalente Nähe“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lia und Isabelle bei „ambivalente Nähe“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-046",
+   "question": "Falls Lia im Hinblick auf „ambivalente Nähe“ anders festgelegt wird: Welche Aussagen über Isabelle müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lia und Isabelle bei „ambivalente Nähe“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-048",
+   "question": "Braucht der Roman eine Verbindung von Lia und Isabelle bei „ambivalente Nähe“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-049",
+   "question": "In welchem denkbaren Fall könnte Lia bestehen, ohne dass Isabelle dieselbe Funktion übernimmt, und was würde das für „ambivalente Nähe“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-050",
+   "question": "Welche Kosten könnte eine Verbindung von Lia und Isabelle in Bezug auf „ambivalente Nähe“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-051",
+   "question": "Welche ältere Lesart von Lia oder Isabelle könnte die Gegenüberstellung unter „ambivalente Nähe“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lia und Isabelle unter „ambivalente Nähe“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "lia",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-lia-053",
+   "question": "Wo unterscheiden sich Lia und Kiko, wenn man sie unter dem Gesichtspunkt „Unterschied zur älteren Isabella“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-054",
+   "question": "Welche Quelle verbindet Lia mit Kiko in Bezug auf „Unterschied zur älteren Isabella“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-055",
+   "question": "Welche Grenzen aus der Seite zu Kiko müsste eine Deutung von Lia unter „Unterschied zur älteren Isabella“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-056",
+   "question": "Wie könnte sich das Wissen über Lia vom Wissen über Kiko unterscheiden, wenn „Unterschied zur älteren Isabella“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lia und Kiko bei „Unterschied zur älteren Isabella“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-058",
+   "question": "Falls Lia im Hinblick auf „Unterschied zur älteren Isabella“ anders festgelegt wird: Welche Aussagen über Kiko müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lia und Kiko bei „Unterschied zur älteren Isabella“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-060",
+   "question": "Braucht der Roman eine Verbindung von Lia und Kiko bei „Unterschied zur älteren Isabella“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-061",
+   "question": "In welchem denkbaren Fall könnte Lia bestehen, ohne dass Kiko dieselbe Funktion übernimmt, und was würde das für „Unterschied zur älteren Isabella“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-062",
+   "question": "Welche Kosten könnte eine Verbindung von Lia und Kiko in Bezug auf „Unterschied zur älteren Isabella“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-063",
+   "question": "Welche ältere Lesart von Lia oder Kiko könnte die Gegenüberstellung unter „Unterschied zur älteren Isabella“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lia und Kiko unter „Unterschied zur älteren Isabella“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "lia",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-lia-065",
+   "question": "Wo unterscheiden sich Lia und Rhys, wenn man sie unter dem Gesichtspunkt „Flucht als Bindungsstrategie“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-066",
+   "question": "Welche Quelle verbindet Lia mit Rhys in Bezug auf „Flucht als Bindungsstrategie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-067",
+   "question": "Welche Grenzen aus der Seite zu Rhys müsste eine Deutung von Lia unter „Flucht als Bindungsstrategie“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-068",
+   "question": "Wie könnte sich das Wissen über Lia vom Wissen über Rhys unterscheiden, wenn „Flucht als Bindungsstrategie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lia und Rhys bei „Flucht als Bindungsstrategie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-070",
+   "question": "Falls Lia im Hinblick auf „Flucht als Bindungsstrategie“ anders festgelegt wird: Welche Aussagen über Rhys müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lia und Rhys bei „Flucht als Bindungsstrategie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-072",
+   "question": "Braucht der Roman eine Verbindung von Lia und Rhys bei „Flucht als Bindungsstrategie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-073",
+   "question": "In welchem denkbaren Fall könnte Lia bestehen, ohne dass Rhys dieselbe Funktion übernimmt, und was würde das für „Flucht als Bindungsstrategie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-074",
+   "question": "Welche Kosten könnte eine Verbindung von Lia und Rhys in Bezug auf „Flucht als Bindungsstrategie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-075",
+   "question": "Welche ältere Lesart von Lia oder Rhys könnte die Gegenüberstellung unter „Flucht als Bindungsstrategie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lia und Rhys unter „Flucht als Bindungsstrategie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "lia",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-lia-077",
+   "question": "Wo unterscheiden sich Lia und Kael, wenn man sie unter dem Gesichtspunkt „kindliche Wünsche jenseits der Funktion“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-078",
+   "question": "Welche Quelle verbindet Lia mit Kael in Bezug auf „kindliche Wünsche jenseits der Funktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Lia unter „kindliche Wünsche jenseits der Funktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-080",
+   "question": "Wie könnte sich das Wissen über Lia vom Wissen über Kael unterscheiden, wenn „kindliche Wünsche jenseits der Funktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lia und Kael bei „kindliche Wünsche jenseits der Funktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-082",
+   "question": "Falls Lia im Hinblick auf „kindliche Wünsche jenseits der Funktion“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lia und Kael bei „kindliche Wünsche jenseits der Funktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-084",
+   "question": "Braucht der Roman eine Verbindung von Lia und Kael bei „kindliche Wünsche jenseits der Funktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-085",
+   "question": "In welchem denkbaren Fall könnte Lia bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „kindliche Wünsche jenseits der Funktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-086",
+   "question": "Welche Kosten könnte eine Verbindung von Lia und Kael in Bezug auf „kindliche Wünsche jenseits der Funktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-087",
+   "question": "Welche ältere Lesart von Lia oder Kael könnte die Gegenüberstellung unter „kindliche Wünsche jenseits der Funktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lia und Kael unter „kindliche Wünsche jenseits der Funktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "lia",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-lia-089",
+   "question": "Wo unterscheiden sich Lia und Alters, wenn man sie unter dem Gesichtspunkt „Erkennbarkeit verschiedener Altersstufen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-090",
+   "question": "Welche Quelle verbindet Lia mit Alters in Bezug auf „Erkennbarkeit verschiedener Altersstufen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Lia unter „Erkennbarkeit verschiedener Altersstufen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-092",
+   "question": "Wie könnte sich das Wissen über Lia vom Wissen über Alters unterscheiden, wenn „Erkennbarkeit verschiedener Altersstufen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Lia und Alters bei „Erkennbarkeit verschiedener Altersstufen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-094",
+   "question": "Falls Lia im Hinblick auf „Erkennbarkeit verschiedener Altersstufen“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Lia und Alters bei „Erkennbarkeit verschiedener Altersstufen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-096",
+   "question": "Braucht der Roman eine Verbindung von Lia und Alters bei „Erkennbarkeit verschiedener Altersstufen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-097",
+   "question": "In welchem denkbaren Fall könnte Lia bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Erkennbarkeit verschiedener Altersstufen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-098",
+   "question": "Welche Kosten könnte eine Verbindung von Lia und Alters in Bezug auf „Erkennbarkeit verschiedener Altersstufen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-099",
+   "question": "Welche ältere Lesart von Lia oder Alters könnte die Gegenüberstellung unter „Erkennbarkeit verschiedener Altersstufen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-lia-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Lia und Alters unter „Erkennbarkeit verschiedener Altersstufen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "lia",
+    "alters"
+   ]
+  }
+ ]
+}

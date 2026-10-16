@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kaels-wohneinheit",
+ "title": "Kaels Wohneinheit 1.0",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Routine nach dem Reboot",
+  "sensorische Erinnerungseinbrüche",
+  "Sicherheit eines privaten Ortes",
+  "Veränderung des vertrauten Raums",
+  "Unterschied zwischen Rückzug und Isolation"
+ ],
+ "basis": {
+  "kaels-wohneinheit": {
+   "title": "Kaels Wohneinheit 1.0",
+   "path": "Wiki/candidates/kaels-wohneinheit.md",
+   "hash": "3be85478fea78f1782c2e7eb1fb762d5d9c0d1eeeb3ab8b9ce67f372617521cd"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  },
+  "sektor-04": {
+   "title": "Sektor 04",
+   "path": "Wiki/candidates/sektor-04.md",
+   "hash": "c1bad95e53d5861dcef99423b35b975f338a8061dd232f4dc7e232d7c2c1627e"
+  },
+  "silas": {
+   "title": "Silas",
+   "path": "Wiki/candidates/silas.md",
+   "hash": "e85b8b07d58f2a313eb17d5729e8cdda011d636753cee1550bda81f9df47e5be"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kaels-wohneinheit-001",
+   "question": "Welche Veränderung in Kaels Wohneinheit unterscheidet einen Erinnerungseinbruch von einem tatsächlichen Eingriff in den Raum?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-002",
+   "question": "Welche Lesarten auf der Seite zu Kaels Wohneinheit 1.0 stützen oder begrenzen „Routine nach dem Reboot“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-003",
+   "question": "Welcher Grenzfall würde bei Kaels Wohneinheit 1.0 die Annahmen über „Routine nach dem Reboot“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-004",
+   "question": "Wer könnte innerhalb des Romans bei Kaels Wohneinheit 1.0 etwas über „Routine nach dem Reboot“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-005",
+   "question": "Welche konkrete Entscheidung könnte „Routine nach dem Reboot“ bei Kaels Wohneinheit 1.0 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Routine nach dem Reboot“ bei Kaels Wohneinheit 1.0 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-007",
+   "question": "Wie lässt sich „Routine nach dem Reboot“ bei Kaels Wohneinheit 1.0 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-008",
+   "question": "Welche Alternativen sollte der Autor bei Kaels Wohneinheit 1.0 für „Routine nach dem Reboot“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-009",
+   "question": "Was bedeutet bei Kaels Wohneinheit 1.0 der Themenpunkt „sensorische Erinnerungseinbrüche“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-010",
+   "question": "Welche Lesarten auf der Seite zu Kaels Wohneinheit 1.0 stützen oder begrenzen „sensorische Erinnerungseinbrüche“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-011",
+   "question": "Welcher Grenzfall würde bei Kaels Wohneinheit 1.0 die Annahmen über „sensorische Erinnerungseinbrüche“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-012",
+   "question": "Wer könnte innerhalb des Romans bei Kaels Wohneinheit 1.0 etwas über „sensorische Erinnerungseinbrüche“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-013",
+   "question": "Welche konkrete Entscheidung könnte „sensorische Erinnerungseinbrüche“ bei Kaels Wohneinheit 1.0 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „sensorische Erinnerungseinbrüche“ bei Kaels Wohneinheit 1.0 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-015",
+   "question": "Wie lässt sich „sensorische Erinnerungseinbrüche“ bei Kaels Wohneinheit 1.0 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-016",
+   "question": "Welche Alternativen sollte der Autor bei Kaels Wohneinheit 1.0 für „sensorische Erinnerungseinbrüche“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-017",
+   "question": "Was bedeutet bei Kaels Wohneinheit 1.0 der Themenpunkt „Sicherheit eines privaten Ortes“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-018",
+   "question": "Welche Lesarten auf der Seite zu Kaels Wohneinheit 1.0 stützen oder begrenzen „Sicherheit eines privaten Ortes“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-019",
+   "question": "Welcher Grenzfall würde bei Kaels Wohneinheit 1.0 die Annahmen über „Sicherheit eines privaten Ortes“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-020",
+   "question": "Wer könnte innerhalb des Romans bei Kaels Wohneinheit 1.0 etwas über „Sicherheit eines privaten Ortes“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-021",
+   "question": "Welche konkrete Entscheidung könnte „Sicherheit eines privaten Ortes“ bei Kaels Wohneinheit 1.0 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Sicherheit eines privaten Ortes“ bei Kaels Wohneinheit 1.0 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-023",
+   "question": "Wie lässt sich „Sicherheit eines privaten Ortes“ bei Kaels Wohneinheit 1.0 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-024",
+   "question": "Welche Alternativen sollte der Autor bei Kaels Wohneinheit 1.0 für „Sicherheit eines privaten Ortes“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-025",
+   "question": "Was bedeutet bei Kaels Wohneinheit 1.0 der Themenpunkt „Veränderung des vertrauten Raums“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-026",
+   "question": "Welche Lesarten auf der Seite zu Kaels Wohneinheit 1.0 stützen oder begrenzen „Veränderung des vertrauten Raums“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-027",
+   "question": "Welcher Grenzfall würde bei Kaels Wohneinheit 1.0 die Annahmen über „Veränderung des vertrauten Raums“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-028",
+   "question": "Wer könnte innerhalb des Romans bei Kaels Wohneinheit 1.0 etwas über „Veränderung des vertrauten Raums“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-029",
+   "question": "Welche konkrete Entscheidung könnte „Veränderung des vertrauten Raums“ bei Kaels Wohneinheit 1.0 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Veränderung des vertrauten Raums“ bei Kaels Wohneinheit 1.0 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-031",
+   "question": "Wie lässt sich „Veränderung des vertrauten Raums“ bei Kaels Wohneinheit 1.0 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-032",
+   "question": "Welche Alternativen sollte der Autor bei Kaels Wohneinheit 1.0 für „Veränderung des vertrauten Raums“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-033",
+   "question": "Was bedeutet bei Kaels Wohneinheit 1.0 der Themenpunkt „Unterschied zwischen Rückzug und Isolation“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-034",
+   "question": "Welche Lesarten auf der Seite zu Kaels Wohneinheit 1.0 stützen oder begrenzen „Unterschied zwischen Rückzug und Isolation“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-035",
+   "question": "Welcher Grenzfall würde bei Kaels Wohneinheit 1.0 die Annahmen über „Unterschied zwischen Rückzug und Isolation“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-036",
+   "question": "Wer könnte innerhalb des Romans bei Kaels Wohneinheit 1.0 etwas über „Unterschied zwischen Rückzug und Isolation“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-037",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Rückzug und Isolation“ bei Kaels Wohneinheit 1.0 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Rückzug und Isolation“ bei Kaels Wohneinheit 1.0 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-039",
+   "question": "Wie lässt sich „Unterschied zwischen Rückzug und Isolation“ bei Kaels Wohneinheit 1.0 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-040",
+   "question": "Welche Alternativen sollte der Autor bei Kaels Wohneinheit 1.0 für „Unterschied zwischen Rückzug und Isolation“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-041",
+   "question": "Wo unterscheiden sich Kaels Wohneinheit 1.0 und Kael, wenn man sie unter dem Gesichtspunkt „Routine nach dem Reboot“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-042",
+   "question": "Welche Quelle verbindet Kaels Wohneinheit 1.0 mit Kael in Bezug auf „Routine nach dem Reboot“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Kaels Wohneinheit 1.0 unter „Routine nach dem Reboot“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-044",
+   "question": "Wie könnte sich das Wissen über Kaels Wohneinheit 1.0 vom Wissen über Kael unterscheiden, wenn „Routine nach dem Reboot“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kaels Wohneinheit 1.0 und Kael bei „Routine nach dem Reboot“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-046",
+   "question": "Falls Kaels Wohneinheit 1.0 im Hinblick auf „Routine nach dem Reboot“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kaels Wohneinheit 1.0 und Kael bei „Routine nach dem Reboot“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-048",
+   "question": "Braucht der Roman eine Verbindung von Kaels Wohneinheit 1.0 und Kael bei „Routine nach dem Reboot“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-049",
+   "question": "In welchem denkbaren Fall könnte Kaels Wohneinheit 1.0 bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Routine nach dem Reboot“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kaels Wohneinheit 1.0 und Kael in Bezug auf „Routine nach dem Reboot“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-051",
+   "question": "Welche ältere Lesart von Kaels Wohneinheit 1.0 oder Kael könnte die Gegenüberstellung unter „Routine nach dem Reboot“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kaels Wohneinheit 1.0 und Kael unter „Routine nach dem Reboot“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kaels-wohneinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-053",
+   "question": "Wo unterscheiden sich Kaels Wohneinheit 1.0 und Konstrukt-Stadt, wenn man sie unter dem Gesichtspunkt „sensorische Erinnerungseinbrüche“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-054",
+   "question": "Welche Quelle verbindet Kaels Wohneinheit 1.0 mit Konstrukt-Stadt in Bezug auf „sensorische Erinnerungseinbrüche“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-055",
+   "question": "Welche Grenzen aus der Seite zu Konstrukt-Stadt müsste eine Deutung von Kaels Wohneinheit 1.0 unter „sensorische Erinnerungseinbrüche“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-056",
+   "question": "Wie könnte sich das Wissen über Kaels Wohneinheit 1.0 vom Wissen über Konstrukt-Stadt unterscheiden, wenn „sensorische Erinnerungseinbrüche“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kaels Wohneinheit 1.0 und Konstrukt-Stadt bei „sensorische Erinnerungseinbrüche“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-058",
+   "question": "Falls Kaels Wohneinheit 1.0 im Hinblick auf „sensorische Erinnerungseinbrüche“ anders festgelegt wird: Welche Aussagen über Konstrukt-Stadt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kaels Wohneinheit 1.0 und Konstrukt-Stadt bei „sensorische Erinnerungseinbrüche“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-060",
+   "question": "Braucht der Roman eine Verbindung von Kaels Wohneinheit 1.0 und Konstrukt-Stadt bei „sensorische Erinnerungseinbrüche“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-061",
+   "question": "In welchem denkbaren Fall könnte Kaels Wohneinheit 1.0 bestehen, ohne dass Konstrukt-Stadt dieselbe Funktion übernimmt, und was würde das für „sensorische Erinnerungseinbrüche“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kaels Wohneinheit 1.0 und Konstrukt-Stadt in Bezug auf „sensorische Erinnerungseinbrüche“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-063",
+   "question": "Welche ältere Lesart von Kaels Wohneinheit 1.0 oder Konstrukt-Stadt könnte die Gegenüberstellung unter „sensorische Erinnerungseinbrüche“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kaels Wohneinheit 1.0 und Konstrukt-Stadt unter „sensorische Erinnerungseinbrüche“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kaels-wohneinheit",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-065",
+   "question": "Wo unterscheiden sich Kaels Wohneinheit 1.0 und Sektor 04, wenn man sie unter dem Gesichtspunkt „Sicherheit eines privaten Ortes“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-066",
+   "question": "Welche Quelle verbindet Kaels Wohneinheit 1.0 mit Sektor 04 in Bezug auf „Sicherheit eines privaten Ortes“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-067",
+   "question": "Welche Grenzen aus der Seite zu Sektor 04 müsste eine Deutung von Kaels Wohneinheit 1.0 unter „Sicherheit eines privaten Ortes“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-068",
+   "question": "Wie könnte sich das Wissen über Kaels Wohneinheit 1.0 vom Wissen über Sektor 04 unterscheiden, wenn „Sicherheit eines privaten Ortes“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kaels Wohneinheit 1.0 und Sektor 04 bei „Sicherheit eines privaten Ortes“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-070",
+   "question": "Falls Kaels Wohneinheit 1.0 im Hinblick auf „Sicherheit eines privaten Ortes“ anders festgelegt wird: Welche Aussagen über Sektor 04 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kaels Wohneinheit 1.0 und Sektor 04 bei „Sicherheit eines privaten Ortes“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-072",
+   "question": "Braucht der Roman eine Verbindung von Kaels Wohneinheit 1.0 und Sektor 04 bei „Sicherheit eines privaten Ortes“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-073",
+   "question": "In welchem denkbaren Fall könnte Kaels Wohneinheit 1.0 bestehen, ohne dass Sektor 04 dieselbe Funktion übernimmt, und was würde das für „Sicherheit eines privaten Ortes“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kaels Wohneinheit 1.0 und Sektor 04 in Bezug auf „Sicherheit eines privaten Ortes“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-075",
+   "question": "Welche ältere Lesart von Kaels Wohneinheit 1.0 oder Sektor 04 könnte die Gegenüberstellung unter „Sicherheit eines privaten Ortes“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kaels Wohneinheit 1.0 und Sektor 04 unter „Sicherheit eines privaten Ortes“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kaels-wohneinheit",
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-077",
+   "question": "Wo unterscheiden sich Kaels Wohneinheit 1.0 und Silas, wenn man sie unter dem Gesichtspunkt „Veränderung des vertrauten Raums“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-078",
+   "question": "Welche Quelle verbindet Kaels Wohneinheit 1.0 mit Silas in Bezug auf „Veränderung des vertrauten Raums“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-079",
+   "question": "Welche Grenzen aus der Seite zu Silas müsste eine Deutung von Kaels Wohneinheit 1.0 unter „Veränderung des vertrauten Raums“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-080",
+   "question": "Wie könnte sich das Wissen über Kaels Wohneinheit 1.0 vom Wissen über Silas unterscheiden, wenn „Veränderung des vertrauten Raums“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kaels Wohneinheit 1.0 und Silas bei „Veränderung des vertrauten Raums“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-082",
+   "question": "Falls Kaels Wohneinheit 1.0 im Hinblick auf „Veränderung des vertrauten Raums“ anders festgelegt wird: Welche Aussagen über Silas müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kaels Wohneinheit 1.0 und Silas bei „Veränderung des vertrauten Raums“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-084",
+   "question": "Braucht der Roman eine Verbindung von Kaels Wohneinheit 1.0 und Silas bei „Veränderung des vertrauten Raums“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-085",
+   "question": "In welchem denkbaren Fall könnte Kaels Wohneinheit 1.0 bestehen, ohne dass Silas dieselbe Funktion übernimmt, und was würde das für „Veränderung des vertrauten Raums“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kaels Wohneinheit 1.0 und Silas in Bezug auf „Veränderung des vertrauten Raums“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-087",
+   "question": "Welche ältere Lesart von Kaels Wohneinheit 1.0 oder Silas könnte die Gegenüberstellung unter „Veränderung des vertrauten Raums“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kaels Wohneinheit 1.0 und Silas unter „Veränderung des vertrauten Raums“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kaels-wohneinheit",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-089",
+   "question": "Wo unterscheiden sich Kaels Wohneinheit 1.0 und Risse, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Rückzug und Isolation“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-090",
+   "question": "Welche Quelle verbindet Kaels Wohneinheit 1.0 mit Risse in Bezug auf „Unterschied zwischen Rückzug und Isolation“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-091",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Kaels Wohneinheit 1.0 unter „Unterschied zwischen Rückzug und Isolation“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-092",
+   "question": "Wie könnte sich das Wissen über Kaels Wohneinheit 1.0 vom Wissen über Risse unterscheiden, wenn „Unterschied zwischen Rückzug und Isolation“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kaels Wohneinheit 1.0 und Risse bei „Unterschied zwischen Rückzug und Isolation“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-094",
+   "question": "Falls Kaels Wohneinheit 1.0 im Hinblick auf „Unterschied zwischen Rückzug und Isolation“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kaels Wohneinheit 1.0 und Risse bei „Unterschied zwischen Rückzug und Isolation“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-096",
+   "question": "Braucht der Roman eine Verbindung von Kaels Wohneinheit 1.0 und Risse bei „Unterschied zwischen Rückzug und Isolation“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-097",
+   "question": "In welchem denkbaren Fall könnte Kaels Wohneinheit 1.0 bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Rückzug und Isolation“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kaels Wohneinheit 1.0 und Risse in Bezug auf „Unterschied zwischen Rückzug und Isolation“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-099",
+   "question": "Welche ältere Lesart von Kaels Wohneinheit 1.0 oder Risse könnte die Gegenüberstellung unter „Unterschied zwischen Rückzug und Isolation“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-kaels-wohneinheit-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kaels Wohneinheit 1.0 und Risse unter „Unterschied zwischen Rückzug und Isolation“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kaels-wohneinheit",
+    "risse"
+   ]
+  }
+ ]
+}

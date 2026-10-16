@@ -1,0 +1,652 @@
+{
+  "document": "codex-optimierung-fuer-kohaerenz-protokoll",
+  "drive_id": "1ErrA2EisDX9xQV9kbm1sHlEP1dGuv00CQJ1wv4-nqyQ",
+  "step": "counts",
+  "at": "2026-10-15",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        26,
+        38,
+        94,
+        111,
+        133,
+        150,
+        318,
+        324,
+        402,
+        409,
+        415,
+        510,
+        534
+      ]
+    },
+    "AEGIS": {
+      "n": 32,
+      "n_including_compounds": 33,
+      "lines": [
+        15,
+        38,
+        50,
+        62,
+        63,
+        96,
+        103,
+        112,
+        114,
+        135,
+        139,
+        147,
+        150,
+        409,
+        415,
+        417,
+        420,
+        436,
+        440,
+        480,
+        496,
+        505,
+        510,
+        513,
+        515,
+        534
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        112,
+        139
+      ]
+    },
+    "Kael System": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        94,
+        111,
+        534
+      ]
+    },
+    "Der Wächter": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        318,
+        329,
+        337,
+        370
+      ]
+    },
+    "Wächter": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        138,
+        318,
+        324,
+        329,
+        337,
+        370,
+        402,
+        407
+      ]
+    },
+    "Das Kind": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        409,
+        415,
+        420,
+        428,
+        471,
+        510
+      ]
+    },
+    "Anteil": {
+      "n": 41,
+      "n_including_compounds": 60,
+      "lines": [
+        26,
+        30,
+        31,
+        32,
+        34,
+        38,
+        52,
+        59,
+        60,
+        63,
+        64,
+        66,
+        76,
+        78,
+        79,
+        94,
+        101,
+        111,
+        112,
+        116,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        198,
+        199,
+        207,
+        250,
+        284,
+        318,
+        341,
+        342,
+        343,
+        344,
+        409,
+        432,
+        433,
+        434,
+        435,
+        436,
+        533,
+        534,
+        550
+      ]
+    },
+    "Anteile": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        38,
+        60,
+        534,
+        550
+      ]
+    },
+    "ANP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        132,
+        318,
+        341,
+        371
+      ]
+    },
+    "EP": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        30,
+        101,
+        111,
+        132,
+        409,
+        432,
+        472
+      ]
+    },
+    "Anscheinend Normale Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Emotionale Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "TSDP-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "TSDP-Dynamiken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        62
+      ]
+    },
+    "TSDP-basiert": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "TSDP-Rolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        284
+      ]
+    },
+    "Kernwelt": {
+      "n": 16,
+      "n_including_compounds": 18,
+      "lines": [
+        43,
+        44,
+        63,
+        95,
+        101,
+        113,
+        141,
+        318,
+        409,
+        415,
+        420,
+        450,
+        488,
+        510,
+        534,
+        550
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        550
+      ]
+    },
+    "Kernwelt B": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        409,
+        415,
+        420,
+        450,
+        488,
+        510
+      ]
+    },
+    "Welt B": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        513,
+        515
+      ]
+    },
+    "Co₁": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        43,
+        101,
+        113,
+        318,
+        324,
+        329,
+        348,
+        378,
+        402,
+        407
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Ly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Riss": {
+      "n": 12,
+      "n_including_compounds": 20,
+      "lines": [
+        46,
+        59,
+        113,
+        142,
+        147,
+        225,
+        226,
+        297,
+        318,
+        324,
+        329,
+        353,
+        358,
+        380,
+        386,
+        402,
+        405,
+        407
+      ]
+    },
+    "Risse": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        46,
+        113,
+        142,
+        147,
+        297,
+        353,
+        380,
+        407
+      ]
+    },
+    "Paradoxon X": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        50,
+        62,
+        96,
+        103,
+        114,
+        145,
+        222,
+        223,
+        297,
+        420,
+        444,
+        446,
+        460,
+        481,
+        496,
+        497,
+        515,
+        534
+      ]
+    },
+    "Fundaments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Fundament": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        114
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Switching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Co-Präsenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        61
+      ]
+    },
+    "Novelcrafter": {
+      "n": 22,
+      "n_including_compounds": 26,
+      "lines": [
+        15,
+        79,
+        89,
+        90,
+        103,
+        159,
+        163,
+        257,
+        261,
+        269,
+        528,
+        541,
+        553,
+        559,
+        563,
+        564,
+        565,
+        566,
+        570,
+        572,
+        573,
+        574,
+        575,
+        580,
+        582
+      ]
+    },
+    "Codex": {
+      "n": 13,
+      "n_including_compounds": 55,
+      "lines": [
+        11,
+        15,
+        19,
+        68,
+        70,
+        76,
+        83,
+        85,
+        90,
+        101,
+        102,
+        103,
+        105,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        123,
+        131,
+        159,
+        258,
+        265,
+        269,
+        270,
+        274,
+        310,
+        312,
+        329,
+        333,
+        420,
+        424,
+        517,
+        521,
+        526,
+        527,
+        528,
+        531,
+        533,
+        543,
+        548,
+        550,
+        552,
+        555,
+        564,
+        570
+      ]
+    },
+    "Custom Details": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        78,
+        89,
+        103,
+        121,
+        123,
+        125,
+        258,
+        270,
+        333,
+        424,
+        527,
+        533,
+        535,
+        559
+      ]
+    },
+    "Master-Prompt": {
+      "n": 6,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        89,
+        159,
+        163,
+        165,
+        265,
+        270,
+        517,
+        528,
+        541,
+        550,
+        552,
+        555,
+        559
+      ]
+    },
+    "Voice Sheet": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        116,
+        552
+      ]
+    },
+    "Scene Beat Completion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        165
+      ]
+    },
+    "Lore": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        103,
+        114,
+        145,
+        358,
+        440,
+        460,
+        533
+      ]
+    },
+    "Style Guide": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        116,
+        117,
+        153,
+        182,
+        271
+      ]
+    },
+    "Genre Guide": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        181,
+        271
+      ]
+    },
+    "Minimal Sufficiency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        276
+      ]
+    },
+    "Minimalität": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        87,
+        88,
+        270,
+        527
+      ]
+    },
+    "Suffizienz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        76,
+        88,
+        527
+      ]
+    },
+    "KI-Zugänglichkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        78,
+        89,
+        527
+      ]
+    }
+  }
+}

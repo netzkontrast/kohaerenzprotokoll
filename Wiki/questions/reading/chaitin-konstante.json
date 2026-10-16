@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "chaitin-konstante",
+ "title": "Chaitin-Konstante",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Trennung mathematischer Aussage und Fiktion",
+  "Nichtberechenbarkeit der Figur",
+  "frühere Anwendung auf kindliches Weinen",
+  "Status nach der Streichung aus einer Architektur",
+  "Grenzen der Vorhersage durch endliche Programme"
+ ],
+ "basis": {
+  "chaitin-konstante": {
+   "title": "Chaitin-Konstante",
+   "path": "Wiki/candidates/chaitin-konstante.md",
+   "hash": "a25371d3cedc288db9e3e8e9c70f8e482370e0391f208cf1b722b283f6fefe21"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "goedel-gambit": {
+   "title": "Gödel-Gambit",
+   "path": "Wiki/candidates/goedel-gambit.md",
+   "hash": "a84aea6b9acca2e4c1a99d552bc6e9b9488e221dedef98363ab3d2ae26b9cec0"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-chaitin-konstante-001",
+   "question": "Welche konkrete Aussage über Juna soll die Chaitin-Analogie tragen, und welche mathematischen Eigenschaften behauptet der Roman ausdrücklich nicht?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-002",
+   "question": "Welche Lesarten auf der Seite zu Chaitin-Konstante stützen oder begrenzen „Trennung mathematischer Aussage und Fiktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-003",
+   "question": "Welcher Grenzfall würde bei Chaitin-Konstante die Annahmen über „Trennung mathematischer Aussage und Fiktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-004",
+   "question": "Wer könnte innerhalb des Romans bei Chaitin-Konstante etwas über „Trennung mathematischer Aussage und Fiktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-005",
+   "question": "Welche konkrete Entscheidung könnte „Trennung mathematischer Aussage und Fiktion“ bei Chaitin-Konstante in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Trennung mathematischer Aussage und Fiktion“ bei Chaitin-Konstante haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-007",
+   "question": "Wie lässt sich „Trennung mathematischer Aussage und Fiktion“ bei Chaitin-Konstante zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-008",
+   "question": "Welche Alternativen sollte der Autor bei Chaitin-Konstante für „Trennung mathematischer Aussage und Fiktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-009",
+   "question": "Was bedeutet bei Chaitin-Konstante der Themenpunkt „Nichtberechenbarkeit der Figur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-010",
+   "question": "Welche Lesarten auf der Seite zu Chaitin-Konstante stützen oder begrenzen „Nichtberechenbarkeit der Figur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-011",
+   "question": "Welcher Grenzfall würde bei Chaitin-Konstante die Annahmen über „Nichtberechenbarkeit der Figur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-012",
+   "question": "Wer könnte innerhalb des Romans bei Chaitin-Konstante etwas über „Nichtberechenbarkeit der Figur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-013",
+   "question": "Welche konkrete Entscheidung könnte „Nichtberechenbarkeit der Figur“ bei Chaitin-Konstante in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Nichtberechenbarkeit der Figur“ bei Chaitin-Konstante haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-015",
+   "question": "Wie lässt sich „Nichtberechenbarkeit der Figur“ bei Chaitin-Konstante zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-016",
+   "question": "Welche Alternativen sollte der Autor bei Chaitin-Konstante für „Nichtberechenbarkeit der Figur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-017",
+   "question": "Was bedeutet bei Chaitin-Konstante der Themenpunkt „frühere Anwendung auf kindliches Weinen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-018",
+   "question": "Welche Lesarten auf der Seite zu Chaitin-Konstante stützen oder begrenzen „frühere Anwendung auf kindliches Weinen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-019",
+   "question": "Welcher Grenzfall würde bei Chaitin-Konstante die Annahmen über „frühere Anwendung auf kindliches Weinen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-020",
+   "question": "Wer könnte innerhalb des Romans bei Chaitin-Konstante etwas über „frühere Anwendung auf kindliches Weinen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-021",
+   "question": "Welche konkrete Entscheidung könnte „frühere Anwendung auf kindliches Weinen“ bei Chaitin-Konstante in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „frühere Anwendung auf kindliches Weinen“ bei Chaitin-Konstante haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-023",
+   "question": "Wie lässt sich „frühere Anwendung auf kindliches Weinen“ bei Chaitin-Konstante zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-024",
+   "question": "Welche Alternativen sollte der Autor bei Chaitin-Konstante für „frühere Anwendung auf kindliches Weinen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-025",
+   "question": "Was bedeutet bei Chaitin-Konstante der Themenpunkt „Status nach der Streichung aus einer Architektur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-026",
+   "question": "Welche Lesarten auf der Seite zu Chaitin-Konstante stützen oder begrenzen „Status nach der Streichung aus einer Architektur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-027",
+   "question": "Welcher Grenzfall würde bei Chaitin-Konstante die Annahmen über „Status nach der Streichung aus einer Architektur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-028",
+   "question": "Wer könnte innerhalb des Romans bei Chaitin-Konstante etwas über „Status nach der Streichung aus einer Architektur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-029",
+   "question": "Welche konkrete Entscheidung könnte „Status nach der Streichung aus einer Architektur“ bei Chaitin-Konstante in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status nach der Streichung aus einer Architektur“ bei Chaitin-Konstante haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-031",
+   "question": "Wie lässt sich „Status nach der Streichung aus einer Architektur“ bei Chaitin-Konstante zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-032",
+   "question": "Welche Alternativen sollte der Autor bei Chaitin-Konstante für „Status nach der Streichung aus einer Architektur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-033",
+   "question": "Was bedeutet bei Chaitin-Konstante der Themenpunkt „Grenzen der Vorhersage durch endliche Programme“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-034",
+   "question": "Welche Lesarten auf der Seite zu Chaitin-Konstante stützen oder begrenzen „Grenzen der Vorhersage durch endliche Programme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-035",
+   "question": "Welcher Grenzfall würde bei Chaitin-Konstante die Annahmen über „Grenzen der Vorhersage durch endliche Programme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-036",
+   "question": "Wer könnte innerhalb des Romans bei Chaitin-Konstante etwas über „Grenzen der Vorhersage durch endliche Programme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen der Vorhersage durch endliche Programme“ bei Chaitin-Konstante in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen der Vorhersage durch endliche Programme“ bei Chaitin-Konstante haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-039",
+   "question": "Wie lässt sich „Grenzen der Vorhersage durch endliche Programme“ bei Chaitin-Konstante zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-040",
+   "question": "Welche Alternativen sollte der Autor bei Chaitin-Konstante für „Grenzen der Vorhersage durch endliche Programme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-041",
+   "question": "Wo unterscheiden sich Chaitin-Konstante und Juna, wenn man sie unter dem Gesichtspunkt „Trennung mathematischer Aussage und Fiktion“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-042",
+   "question": "Welche Quelle verbindet Chaitin-Konstante mit Juna in Bezug auf „Trennung mathematischer Aussage und Fiktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Chaitin-Konstante unter „Trennung mathematischer Aussage und Fiktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-044",
+   "question": "Wie könnte sich das Wissen über Chaitin-Konstante vom Wissen über Juna unterscheiden, wenn „Trennung mathematischer Aussage und Fiktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Chaitin-Konstante und Juna bei „Trennung mathematischer Aussage und Fiktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-046",
+   "question": "Falls Chaitin-Konstante im Hinblick auf „Trennung mathematischer Aussage und Fiktion“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Chaitin-Konstante und Juna bei „Trennung mathematischer Aussage und Fiktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-048",
+   "question": "Braucht der Roman eine Verbindung von Chaitin-Konstante und Juna bei „Trennung mathematischer Aussage und Fiktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-049",
+   "question": "In welchem denkbaren Fall könnte Chaitin-Konstante bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Trennung mathematischer Aussage und Fiktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-050",
+   "question": "Welche Kosten könnte eine Verbindung von Chaitin-Konstante und Juna in Bezug auf „Trennung mathematischer Aussage und Fiktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-051",
+   "question": "Welche ältere Lesart von Chaitin-Konstante oder Juna könnte die Gegenüberstellung unter „Trennung mathematischer Aussage und Fiktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Chaitin-Konstante und Juna unter „Trennung mathematischer Aussage und Fiktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "chaitin-konstante",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-053",
+   "question": "Wo unterscheiden sich Chaitin-Konstante und Kiko, wenn man sie unter dem Gesichtspunkt „Nichtberechenbarkeit der Figur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-054",
+   "question": "Welche Quelle verbindet Chaitin-Konstante mit Kiko in Bezug auf „Nichtberechenbarkeit der Figur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-055",
+   "question": "Welche Grenzen aus der Seite zu Kiko müsste eine Deutung von Chaitin-Konstante unter „Nichtberechenbarkeit der Figur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-056",
+   "question": "Wie könnte sich das Wissen über Chaitin-Konstante vom Wissen über Kiko unterscheiden, wenn „Nichtberechenbarkeit der Figur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Chaitin-Konstante und Kiko bei „Nichtberechenbarkeit der Figur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-058",
+   "question": "Falls Chaitin-Konstante im Hinblick auf „Nichtberechenbarkeit der Figur“ anders festgelegt wird: Welche Aussagen über Kiko müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Chaitin-Konstante und Kiko bei „Nichtberechenbarkeit der Figur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-060",
+   "question": "Braucht der Roman eine Verbindung von Chaitin-Konstante und Kiko bei „Nichtberechenbarkeit der Figur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-061",
+   "question": "In welchem denkbaren Fall könnte Chaitin-Konstante bestehen, ohne dass Kiko dieselbe Funktion übernimmt, und was würde das für „Nichtberechenbarkeit der Figur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-062",
+   "question": "Welche Kosten könnte eine Verbindung von Chaitin-Konstante und Kiko in Bezug auf „Nichtberechenbarkeit der Figur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-063",
+   "question": "Welche ältere Lesart von Chaitin-Konstante oder Kiko könnte die Gegenüberstellung unter „Nichtberechenbarkeit der Figur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Chaitin-Konstante und Kiko unter „Nichtberechenbarkeit der Figur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "chaitin-konstante",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-065",
+   "question": "Wo unterscheiden sich Chaitin-Konstante und Kael, wenn man sie unter dem Gesichtspunkt „frühere Anwendung auf kindliches Weinen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-066",
+   "question": "Welche Quelle verbindet Chaitin-Konstante mit Kael in Bezug auf „frühere Anwendung auf kindliches Weinen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Chaitin-Konstante unter „frühere Anwendung auf kindliches Weinen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-068",
+   "question": "Wie könnte sich das Wissen über Chaitin-Konstante vom Wissen über Kael unterscheiden, wenn „frühere Anwendung auf kindliches Weinen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Chaitin-Konstante und Kael bei „frühere Anwendung auf kindliches Weinen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-070",
+   "question": "Falls Chaitin-Konstante im Hinblick auf „frühere Anwendung auf kindliches Weinen“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Chaitin-Konstante und Kael bei „frühere Anwendung auf kindliches Weinen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-072",
+   "question": "Braucht der Roman eine Verbindung von Chaitin-Konstante und Kael bei „frühere Anwendung auf kindliches Weinen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-073",
+   "question": "In welchem denkbaren Fall könnte Chaitin-Konstante bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „frühere Anwendung auf kindliches Weinen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-074",
+   "question": "Welche Kosten könnte eine Verbindung von Chaitin-Konstante und Kael in Bezug auf „frühere Anwendung auf kindliches Weinen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-075",
+   "question": "Welche ältere Lesart von Chaitin-Konstante oder Kael könnte die Gegenüberstellung unter „frühere Anwendung auf kindliches Weinen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Chaitin-Konstante und Kael unter „frühere Anwendung auf kindliches Weinen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "chaitin-konstante",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-077",
+   "question": "Wo unterscheiden sich Chaitin-Konstante und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Status nach der Streichung aus einer Architektur“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-078",
+   "question": "Welche Quelle verbindet Chaitin-Konstante mit Ontologischer blinder Fleck in Bezug auf „Status nach der Streichung aus einer Architektur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-079",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von Chaitin-Konstante unter „Status nach der Streichung aus einer Architektur“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-080",
+   "question": "Wie könnte sich das Wissen über Chaitin-Konstante vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Status nach der Streichung aus einer Architektur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Chaitin-Konstante und Ontologischer blinder Fleck bei „Status nach der Streichung aus einer Architektur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-082",
+   "question": "Falls Chaitin-Konstante im Hinblick auf „Status nach der Streichung aus einer Architektur“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Chaitin-Konstante und Ontologischer blinder Fleck bei „Status nach der Streichung aus einer Architektur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-084",
+   "question": "Braucht der Roman eine Verbindung von Chaitin-Konstante und Ontologischer blinder Fleck bei „Status nach der Streichung aus einer Architektur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-085",
+   "question": "In welchem denkbaren Fall könnte Chaitin-Konstante bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Status nach der Streichung aus einer Architektur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-086",
+   "question": "Welche Kosten könnte eine Verbindung von Chaitin-Konstante und Ontologischer blinder Fleck in Bezug auf „Status nach der Streichung aus einer Architektur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-087",
+   "question": "Welche ältere Lesart von Chaitin-Konstante oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Status nach der Streichung aus einer Architektur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Chaitin-Konstante und Ontologischer blinder Fleck unter „Status nach der Streichung aus einer Architektur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "chaitin-konstante",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-089",
+   "question": "Wo unterscheiden sich Chaitin-Konstante und Gödel-Gambit, wenn man sie unter dem Gesichtspunkt „Grenzen der Vorhersage durch endliche Programme“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-090",
+   "question": "Welche Quelle verbindet Chaitin-Konstante mit Gödel-Gambit in Bezug auf „Grenzen der Vorhersage durch endliche Programme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-091",
+   "question": "Welche Grenzen aus der Seite zu Gödel-Gambit müsste eine Deutung von Chaitin-Konstante unter „Grenzen der Vorhersage durch endliche Programme“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-092",
+   "question": "Wie könnte sich das Wissen über Chaitin-Konstante vom Wissen über Gödel-Gambit unterscheiden, wenn „Grenzen der Vorhersage durch endliche Programme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Chaitin-Konstante und Gödel-Gambit bei „Grenzen der Vorhersage durch endliche Programme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-094",
+   "question": "Falls Chaitin-Konstante im Hinblick auf „Grenzen der Vorhersage durch endliche Programme“ anders festgelegt wird: Welche Aussagen über Gödel-Gambit müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Chaitin-Konstante und Gödel-Gambit bei „Grenzen der Vorhersage durch endliche Programme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-096",
+   "question": "Braucht der Roman eine Verbindung von Chaitin-Konstante und Gödel-Gambit bei „Grenzen der Vorhersage durch endliche Programme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-097",
+   "question": "In welchem denkbaren Fall könnte Chaitin-Konstante bestehen, ohne dass Gödel-Gambit dieselbe Funktion übernimmt, und was würde das für „Grenzen der Vorhersage durch endliche Programme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-098",
+   "question": "Welche Kosten könnte eine Verbindung von Chaitin-Konstante und Gödel-Gambit in Bezug auf „Grenzen der Vorhersage durch endliche Programme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-099",
+   "question": "Welche ältere Lesart von Chaitin-Konstante oder Gödel-Gambit könnte die Gegenüberstellung unter „Grenzen der Vorhersage durch endliche Programme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  },
+  {
+   "id": "RQ-chaitin-konstante-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Chaitin-Konstante und Gödel-Gambit unter „Grenzen der Vorhersage durch endliche Programme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "chaitin-konstante",
+    "goedel-gambit"
+   ]
+  }
+ ]
+}

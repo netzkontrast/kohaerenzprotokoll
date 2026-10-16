@@ -1,0 +1,786 @@
+{
+  "document": "existenzforschung-fuer-roman-kohaerenz-protokoll",
+  "drive_id": "1_eylfk7bOQN0_Nr7svYc2Wjd0v36AppyANlzwdwX9fQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        15,
+        73,
+        102,
+        107,
+        174,
+        268,
+        341,
+        349,
+        354,
+        356,
+        368,
+        381
+      ]
+    },
+    "Kohärenz": {
+      "n": 51,
+      "n_including_compounds": 68,
+      "lines": [
+        11,
+        15,
+        71,
+        73,
+        75,
+        79,
+        84,
+        86,
+        88,
+        90,
+        93,
+        94,
+        96,
+        98,
+        100,
+        102,
+        107,
+        109,
+        113,
+        174,
+        176,
+        182,
+        188,
+        192,
+        262,
+        264,
+        266,
+        268,
+        341,
+        345,
+        349,
+        351,
+        352,
+        353,
+        354,
+        356,
+        368,
+        381,
+        385
+      ]
+    },
+    "Protokoll": {
+      "n": 15,
+      "n_including_compounds": 18,
+      "lines": [
+        11,
+        15,
+        73,
+        102,
+        107,
+        174,
+        188,
+        227,
+        268,
+        341,
+        349,
+        352,
+        354,
+        356,
+        368,
+        381
+      ]
+    },
+    "genetischen Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Kohärenz-vernichtenden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Basisrealität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        338,
+        341,
+        368
+      ]
+    },
+    "Glitch": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        336,
+        356
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "Simulation": {
+      "n": 18,
+      "n_including_compounds": 30,
+      "lines": [
+        69,
+        107,
+        318,
+        320,
+        322,
+        324,
+        325,
+        326,
+        328,
+        330,
+        336,
+        337,
+        338,
+        341,
+        351,
+        356,
+        368,
+        379,
+        385
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        320,
+        330
+      ]
+    },
+    "Simulationsargument": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        318,
+        320
+      ]
+    },
+    "Trilemma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        322
+      ]
+    },
+    "Auslöschungs-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        324
+      ]
+    },
+    "Desinteresse-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        325
+      ]
+    },
+    "Simulations-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        326
+      ]
+    },
+    "Kontinuum oder Diskretum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        374
+      ]
+    },
+    "neuronale Kohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        268,
+        353
+      ]
+    },
+    "Quantenkohärenz": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        172,
+        174,
+        352,
+        385
+      ]
+    },
+    "Dekohärenz": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        178,
+        180,
+        182,
+        186,
+        188,
+        268,
+        352,
+        366,
+        385
+      ]
+    },
+    "Dekohärenzzeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        79,
+        341,
+        351
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        75,
+        79,
+        86,
+        90,
+        96,
+        102,
+        109,
+        341,
+        351,
+        385
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Konsistenzprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Kohärenzprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Master Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Einwand der Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Metaphysik": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        19,
+        23,
+        25,
+        31,
+        33,
+        37,
+        39,
+        51,
+        69,
+        345,
+        385
+      ]
+    },
+    "Ontologie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        31,
+        385
+      ]
+    },
+    "Metaphysischer Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Anti-Realismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        49,
+        51,
+        61,
+        63,
+        298
+      ]
+    },
+    "Idealismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Nominalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Konstruktivismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "phänomenalen Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "noumenalen Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Raumzeit": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        115,
+        117,
+        119,
+        129,
+        131,
+        135,
+        298,
+        365
+      ]
+    },
+    "Spezielle Relativitätstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        385
+      ]
+    },
+    "Allgemeine Relativitätstheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        296,
+        385
+      ]
+    },
+    "Urknalltheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Urknall": {
+      "n": 13,
+      "n_including_compounds": 16,
+      "lines": [
+        133,
+        135,
+        139,
+        141,
+        143,
+        146,
+        154,
+        314,
+        385
+      ]
+    },
+    "Inflation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        141,
+        142
+      ]
+    },
+    "Dunklen Energie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        150,
+        153,
+        156
+      ]
+    },
+    "Dunkle Energie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        154,
+        156
+      ]
+    },
+    "Big Freeze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Big Rip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Big Crunch": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        154,
+        385
+      ]
+    },
+    "Big Bounce": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Multiversums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Multiversum": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        146,
+        328,
+        375
+      ]
+    },
+    "Superposition": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        168,
+        169,
+        174,
+        180,
+        184,
+        186,
+        268
+      ]
+    },
+    "Kollaps der Wellenfunktion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        169,
+        316,
+        366
+      ]
+    },
+    "Schrödinger-Gleichung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        174,
+        312,
+        366
+      ]
+    },
+    "Heisenbergsche Unschärferelation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Welle-Teilchen-Dualismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Quantisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        336
+      ]
+    },
+    "Beobachtereffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Abiogenese": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        194,
+        198,
+        200,
+        202,
+        385
+      ]
+    },
+    "RNA-Welt": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        194,
+        206,
+        208,
+        215,
+        385
+      ]
+    },
+    "Ribozyme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        213,
+        215
+      ]
+    },
+    "Panspermie-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Henne-Ei-Problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        215
+      ]
+    },
+    "Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "schwierige Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        233,
+        246,
+        377
+      ]
+    },
+    "schwierigen Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "neuronalen Korrelaten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        248,
+        250
+      ]
+    },
+    "NCC": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        248,
+        250,
+        260
+      ]
+    },
+    "Bindungsproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Default Mode Network": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "It from Bit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        278,
+        280,
+        306,
+        367,
+        385
+      ]
+    },
+    "Qubits": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        174,
+        310,
+        312,
+        314
+      ]
+    },
+    "partizipatorisch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        284
+      ]
+    },
+    "Holographische Prinzip": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        286,
+        288,
+        292,
+        296
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        290
+      ]
+    },
+    "Panpsychismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        377
+      ]
+    },
+    "Klassischer Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        365
+      ]
+    },
+    "Quanten-Indeterminismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        366
+      ]
+    },
+    "Informationaler Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Komputationalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        368
+      ]
+    },
+    "Wärmetod": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        152
+      ]
+    },
+    "Zeitdilatation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Längenkontraktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    }
+  }
+}

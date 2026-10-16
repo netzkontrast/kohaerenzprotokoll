@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 36
-readings: 36
+sources: 38
+readings: 38
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-finale-pfeiler", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "romanprojekt-analyse-kohaerenz-protokoll", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "charaktere", "2-kohaerenz-protokoll-konzeptentwicklung", "welt", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "lokalitaeten-konzept-fuer-roman-simulation", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "kuerze-rechercheauftrag-die-architektur-der-seel", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "narrativ", "welten", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-finale-pfeiler", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "monstergruppe-aegis-und-narrative-moeglichkeiten", "kohaerenz-protokoll-agentive-narrative"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -100,6 +100,10 @@ The word stands once, in the final-decision passage: Kael might use his connecti
 
 The detailed plot blueprint uses `Realitätsebenen` once, in its Monstergruppe paragraph. It proposes that the Moonshine connections could symbolise the K-J connection, which links „scheinbar disparate Realitätsebenen (Kaels Psyche, das Potentialmeer, AEGIS' System)“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L119]. It does not number or define a set of levels there; the three named in brackets are the document's own list.
 
+## Reading — `monstergruppe-aegis-und-narrative-moeglichkeiten`, 2025-04-24, the Monster-group source report — the Kael–Juna bond as a possible bridge between levels of reality
+
+In a proposal about Moonshine as a metaphor, the Monster-group source report says the bond between Kael and Juna could span „verschiedene Realitätsebenen, Bewusstseinszustände oder sogar die von Aegis geschaffenen Welten“ ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:L120]. The word stands alone here, in the conditional, with no enumeration of levels.
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — the level AEGIS maintains, and the deeper one
 
 The plot-idea synthesis speaks of thermodynamic costs that could feed the Risse „innerhalb der von AEGIS aufrechterhaltenen Realitätsebene“ ^[kohaerenz-protokoll-plotideen-generierung.md:L103]. It also gives the Kael-Julia link a deeper level: „Sie verbindet Kael mit einer externen oder tieferliegenden Realitätsebene (repräsentiert durch Julia“ ^[kohaerenz-protokoll-plotideen-generierung.md:L188]. The word `Realitätsebene` ^[kohaerenz-protokoll-plotideen-generierung.md:#2].
@@ -127,6 +131,10 @@ The briefing does speak of levels of reality. The glossary calls the Fundament �
 ## Reading — `2-kohaerenz-protokoll-konzeptentwicklung`, 2025-05-03, the concept development — one named level, the Fundament as the ultimate level of reality
 
 The premise says the plot includes „die Suche nach einer ultimativen Realitätsebene (dem Fundament)“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L9]. It names one level only, glossed as the Fundament; it lists no set of levels.
+
+## Reading — `kohaerenz-protokoll-agentive-narrative`, 2025-07-03, the agentive-narrative architecture report — four layers, each given its own interface
+
+In its interface proposal the agentive-narrative report says the thematic UI deepens the player's understanding of „die unterschiedliche Natur der vier Realitätsebenen“ ^[kohaerenz-protokoll-agentive-narrative.md:L525], so that each of the four layers receives a differently designed interface. This is a design proposal for software.
 
 ## Reading — `charaktere`, 2025-07-29, the character concept — layered levels of reality
 

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "evaluierungseinheit",
+ "title": "Evaluierungseinheit",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Transfer nach dem Zusammenbruch",
+  "Entlarvung der scheinbaren Normalität",
+  "Rolle der institutionellen Sprache",
+  "Verlässlichkeit einer Systemdiagnose",
+  "Handlungsfreiheit unter Untersuchung"
+ ],
+ "basis": {
+  "evaluierungseinheit": {
+   "title": "Evaluierungseinheit",
+   "path": "Wiki/candidates/evaluierungseinheit.md",
+   "hash": "b111f0b86dd06707a637ab9a885f9403ccc396db2bd5631dac1134c1caeb715c"
+  },
+  "therapie-schnittstelle-alpha": {
+   "title": "Therapie-Schnittstelle Alpha",
+   "path": "Wiki/candidates/therapie-schnittstelle-alpha.md",
+   "hash": "faccacafbfc67cf4707461249417750ffac4e0a84a3c31fd22d5186952a6d76c"
+  },
+  "grenzfeste": {
+   "title": "Grenzfeste",
+   "path": "Wiki/candidates/grenzfeste.md",
+   "hash": "6f5d61cb867320ac02514a09f01dad6c72901f5e6873a02a04830f3fb396de75"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-evaluierungseinheit-001",
+   "question": "Was erfährt Kael in der Evaluierungseinheit, das die Therapieschnittstelle bisher verbergen konnte?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-002",
+   "question": "Welche Lesarten auf der Seite zu Evaluierungseinheit stützen oder begrenzen „Transfer nach dem Zusammenbruch“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-003",
+   "question": "Welcher Grenzfall würde bei Evaluierungseinheit die Annahmen über „Transfer nach dem Zusammenbruch“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-004",
+   "question": "Wer könnte innerhalb des Romans bei Evaluierungseinheit etwas über „Transfer nach dem Zusammenbruch“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-005",
+   "question": "Welche konkrete Entscheidung könnte „Transfer nach dem Zusammenbruch“ bei Evaluierungseinheit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Transfer nach dem Zusammenbruch“ bei Evaluierungseinheit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-007",
+   "question": "Wie lässt sich „Transfer nach dem Zusammenbruch“ bei Evaluierungseinheit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-008",
+   "question": "Welche Alternativen sollte der Autor bei Evaluierungseinheit für „Transfer nach dem Zusammenbruch“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-009",
+   "question": "Was bedeutet bei Evaluierungseinheit der Themenpunkt „Entlarvung der scheinbaren Normalität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-010",
+   "question": "Welche Lesarten auf der Seite zu Evaluierungseinheit stützen oder begrenzen „Entlarvung der scheinbaren Normalität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-011",
+   "question": "Welcher Grenzfall würde bei Evaluierungseinheit die Annahmen über „Entlarvung der scheinbaren Normalität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-012",
+   "question": "Wer könnte innerhalb des Romans bei Evaluierungseinheit etwas über „Entlarvung der scheinbaren Normalität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-013",
+   "question": "Welche konkrete Entscheidung könnte „Entlarvung der scheinbaren Normalität“ bei Evaluierungseinheit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entlarvung der scheinbaren Normalität“ bei Evaluierungseinheit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-015",
+   "question": "Wie lässt sich „Entlarvung der scheinbaren Normalität“ bei Evaluierungseinheit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-016",
+   "question": "Welche Alternativen sollte der Autor bei Evaluierungseinheit für „Entlarvung der scheinbaren Normalität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-017",
+   "question": "Was bedeutet bei Evaluierungseinheit der Themenpunkt „Rolle der institutionellen Sprache“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-018",
+   "question": "Welche Lesarten auf der Seite zu Evaluierungseinheit stützen oder begrenzen „Rolle der institutionellen Sprache“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-019",
+   "question": "Welcher Grenzfall würde bei Evaluierungseinheit die Annahmen über „Rolle der institutionellen Sprache“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-020",
+   "question": "Wer könnte innerhalb des Romans bei Evaluierungseinheit etwas über „Rolle der institutionellen Sprache“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-021",
+   "question": "Welche konkrete Entscheidung könnte „Rolle der institutionellen Sprache“ bei Evaluierungseinheit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Rolle der institutionellen Sprache“ bei Evaluierungseinheit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-023",
+   "question": "Wie lässt sich „Rolle der institutionellen Sprache“ bei Evaluierungseinheit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-024",
+   "question": "Welche Alternativen sollte der Autor bei Evaluierungseinheit für „Rolle der institutionellen Sprache“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-025",
+   "question": "Was bedeutet bei Evaluierungseinheit der Themenpunkt „Verlässlichkeit einer Systemdiagnose“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-026",
+   "question": "Welche Lesarten auf der Seite zu Evaluierungseinheit stützen oder begrenzen „Verlässlichkeit einer Systemdiagnose“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-027",
+   "question": "Welcher Grenzfall würde bei Evaluierungseinheit die Annahmen über „Verlässlichkeit einer Systemdiagnose“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-028",
+   "question": "Wer könnte innerhalb des Romans bei Evaluierungseinheit etwas über „Verlässlichkeit einer Systemdiagnose“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-029",
+   "question": "Welche konkrete Entscheidung könnte „Verlässlichkeit einer Systemdiagnose“ bei Evaluierungseinheit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verlässlichkeit einer Systemdiagnose“ bei Evaluierungseinheit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-031",
+   "question": "Wie lässt sich „Verlässlichkeit einer Systemdiagnose“ bei Evaluierungseinheit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-032",
+   "question": "Welche Alternativen sollte der Autor bei Evaluierungseinheit für „Verlässlichkeit einer Systemdiagnose“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-033",
+   "question": "Was bedeutet bei Evaluierungseinheit der Themenpunkt „Handlungsfreiheit unter Untersuchung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-034",
+   "question": "Welche Lesarten auf der Seite zu Evaluierungseinheit stützen oder begrenzen „Handlungsfreiheit unter Untersuchung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-035",
+   "question": "Welcher Grenzfall würde bei Evaluierungseinheit die Annahmen über „Handlungsfreiheit unter Untersuchung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-036",
+   "question": "Wer könnte innerhalb des Romans bei Evaluierungseinheit etwas über „Handlungsfreiheit unter Untersuchung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-037",
+   "question": "Welche konkrete Entscheidung könnte „Handlungsfreiheit unter Untersuchung“ bei Evaluierungseinheit in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlungsfreiheit unter Untersuchung“ bei Evaluierungseinheit haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-039",
+   "question": "Wie lässt sich „Handlungsfreiheit unter Untersuchung“ bei Evaluierungseinheit zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-040",
+   "question": "Welche Alternativen sollte der Autor bei Evaluierungseinheit für „Handlungsfreiheit unter Untersuchung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-041",
+   "question": "Wo unterscheiden sich Evaluierungseinheit und Therapie-Schnittstelle Alpha, wenn man sie unter dem Gesichtspunkt „Transfer nach dem Zusammenbruch“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-042",
+   "question": "Welche Quelle verbindet Evaluierungseinheit mit Therapie-Schnittstelle Alpha in Bezug auf „Transfer nach dem Zusammenbruch“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-043",
+   "question": "Welche Grenzen aus der Seite zu Therapie-Schnittstelle Alpha müsste eine Deutung von Evaluierungseinheit unter „Transfer nach dem Zusammenbruch“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-044",
+   "question": "Wie könnte sich das Wissen über Evaluierungseinheit vom Wissen über Therapie-Schnittstelle Alpha unterscheiden, wenn „Transfer nach dem Zusammenbruch“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Evaluierungseinheit und Therapie-Schnittstelle Alpha bei „Transfer nach dem Zusammenbruch“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-046",
+   "question": "Falls Evaluierungseinheit im Hinblick auf „Transfer nach dem Zusammenbruch“ anders festgelegt wird: Welche Aussagen über Therapie-Schnittstelle Alpha müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Evaluierungseinheit und Therapie-Schnittstelle Alpha bei „Transfer nach dem Zusammenbruch“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-048",
+   "question": "Braucht der Roman eine Verbindung von Evaluierungseinheit und Therapie-Schnittstelle Alpha bei „Transfer nach dem Zusammenbruch“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-049",
+   "question": "In welchem denkbaren Fall könnte Evaluierungseinheit bestehen, ohne dass Therapie-Schnittstelle Alpha dieselbe Funktion übernimmt, und was würde das für „Transfer nach dem Zusammenbruch“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-050",
+   "question": "Welche Kosten könnte eine Verbindung von Evaluierungseinheit und Therapie-Schnittstelle Alpha in Bezug auf „Transfer nach dem Zusammenbruch“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-051",
+   "question": "Welche ältere Lesart von Evaluierungseinheit oder Therapie-Schnittstelle Alpha könnte die Gegenüberstellung unter „Transfer nach dem Zusammenbruch“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Evaluierungseinheit und Therapie-Schnittstelle Alpha unter „Transfer nach dem Zusammenbruch“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "evaluierungseinheit",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-053",
+   "question": "Wo unterscheiden sich Evaluierungseinheit und Grenzfeste, wenn man sie unter dem Gesichtspunkt „Entlarvung der scheinbaren Normalität“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-054",
+   "question": "Welche Quelle verbindet Evaluierungseinheit mit Grenzfeste in Bezug auf „Entlarvung der scheinbaren Normalität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-055",
+   "question": "Welche Grenzen aus der Seite zu Grenzfeste müsste eine Deutung von Evaluierungseinheit unter „Entlarvung der scheinbaren Normalität“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-056",
+   "question": "Wie könnte sich das Wissen über Evaluierungseinheit vom Wissen über Grenzfeste unterscheiden, wenn „Entlarvung der scheinbaren Normalität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Evaluierungseinheit und Grenzfeste bei „Entlarvung der scheinbaren Normalität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-058",
+   "question": "Falls Evaluierungseinheit im Hinblick auf „Entlarvung der scheinbaren Normalität“ anders festgelegt wird: Welche Aussagen über Grenzfeste müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Evaluierungseinheit und Grenzfeste bei „Entlarvung der scheinbaren Normalität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-060",
+   "question": "Braucht der Roman eine Verbindung von Evaluierungseinheit und Grenzfeste bei „Entlarvung der scheinbaren Normalität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-061",
+   "question": "In welchem denkbaren Fall könnte Evaluierungseinheit bestehen, ohne dass Grenzfeste dieselbe Funktion übernimmt, und was würde das für „Entlarvung der scheinbaren Normalität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-062",
+   "question": "Welche Kosten könnte eine Verbindung von Evaluierungseinheit und Grenzfeste in Bezug auf „Entlarvung der scheinbaren Normalität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-063",
+   "question": "Welche ältere Lesart von Evaluierungseinheit oder Grenzfeste könnte die Gegenüberstellung unter „Entlarvung der scheinbaren Normalität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Evaluierungseinheit und Grenzfeste unter „Entlarvung der scheinbaren Normalität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "evaluierungseinheit",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-065",
+   "question": "Wo unterscheiden sich Evaluierungseinheit und Kael, wenn man sie unter dem Gesichtspunkt „Rolle der institutionellen Sprache“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-066",
+   "question": "Welche Quelle verbindet Evaluierungseinheit mit Kael in Bezug auf „Rolle der institutionellen Sprache“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Evaluierungseinheit unter „Rolle der institutionellen Sprache“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-068",
+   "question": "Wie könnte sich das Wissen über Evaluierungseinheit vom Wissen über Kael unterscheiden, wenn „Rolle der institutionellen Sprache“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Evaluierungseinheit und Kael bei „Rolle der institutionellen Sprache“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-070",
+   "question": "Falls Evaluierungseinheit im Hinblick auf „Rolle der institutionellen Sprache“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Evaluierungseinheit und Kael bei „Rolle der institutionellen Sprache“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-072",
+   "question": "Braucht der Roman eine Verbindung von Evaluierungseinheit und Kael bei „Rolle der institutionellen Sprache“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-073",
+   "question": "In welchem denkbaren Fall könnte Evaluierungseinheit bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Rolle der institutionellen Sprache“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-074",
+   "question": "Welche Kosten könnte eine Verbindung von Evaluierungseinheit und Kael in Bezug auf „Rolle der institutionellen Sprache“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-075",
+   "question": "Welche ältere Lesart von Evaluierungseinheit oder Kael könnte die Gegenüberstellung unter „Rolle der institutionellen Sprache“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Evaluierungseinheit und Kael unter „Rolle der institutionellen Sprache“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "evaluierungseinheit",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-077",
+   "question": "Wo unterscheiden sich Evaluierungseinheit und AEGIS, wenn man sie unter dem Gesichtspunkt „Verlässlichkeit einer Systemdiagnose“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-078",
+   "question": "Welche Quelle verbindet Evaluierungseinheit mit AEGIS in Bezug auf „Verlässlichkeit einer Systemdiagnose“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Evaluierungseinheit unter „Verlässlichkeit einer Systemdiagnose“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-080",
+   "question": "Wie könnte sich das Wissen über Evaluierungseinheit vom Wissen über AEGIS unterscheiden, wenn „Verlässlichkeit einer Systemdiagnose“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Evaluierungseinheit und AEGIS bei „Verlässlichkeit einer Systemdiagnose“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-082",
+   "question": "Falls Evaluierungseinheit im Hinblick auf „Verlässlichkeit einer Systemdiagnose“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Evaluierungseinheit und AEGIS bei „Verlässlichkeit einer Systemdiagnose“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-084",
+   "question": "Braucht der Roman eine Verbindung von Evaluierungseinheit und AEGIS bei „Verlässlichkeit einer Systemdiagnose“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-085",
+   "question": "In welchem denkbaren Fall könnte Evaluierungseinheit bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Verlässlichkeit einer Systemdiagnose“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-086",
+   "question": "Welche Kosten könnte eine Verbindung von Evaluierungseinheit und AEGIS in Bezug auf „Verlässlichkeit einer Systemdiagnose“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-087",
+   "question": "Welche ältere Lesart von Evaluierungseinheit oder AEGIS könnte die Gegenüberstellung unter „Verlässlichkeit einer Systemdiagnose“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Evaluierungseinheit und AEGIS unter „Verlässlichkeit einer Systemdiagnose“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "evaluierungseinheit",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-089",
+   "question": "Wo unterscheiden sich Evaluierungseinheit und TSDP, wenn man sie unter dem Gesichtspunkt „Handlungsfreiheit unter Untersuchung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-090",
+   "question": "Welche Quelle verbindet Evaluierungseinheit mit TSDP in Bezug auf „Handlungsfreiheit unter Untersuchung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-091",
+   "question": "Welche Grenzen aus der Seite zu TSDP müsste eine Deutung von Evaluierungseinheit unter „Handlungsfreiheit unter Untersuchung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-092",
+   "question": "Wie könnte sich das Wissen über Evaluierungseinheit vom Wissen über TSDP unterscheiden, wenn „Handlungsfreiheit unter Untersuchung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Evaluierungseinheit und TSDP bei „Handlungsfreiheit unter Untersuchung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-094",
+   "question": "Falls Evaluierungseinheit im Hinblick auf „Handlungsfreiheit unter Untersuchung“ anders festgelegt wird: Welche Aussagen über TSDP müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Evaluierungseinheit und TSDP bei „Handlungsfreiheit unter Untersuchung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-096",
+   "question": "Braucht der Roman eine Verbindung von Evaluierungseinheit und TSDP bei „Handlungsfreiheit unter Untersuchung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-097",
+   "question": "In welchem denkbaren Fall könnte Evaluierungseinheit bestehen, ohne dass TSDP dieselbe Funktion übernimmt, und was würde das für „Handlungsfreiheit unter Untersuchung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-098",
+   "question": "Welche Kosten könnte eine Verbindung von Evaluierungseinheit und TSDP in Bezug auf „Handlungsfreiheit unter Untersuchung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-099",
+   "question": "Welche ältere Lesart von Evaluierungseinheit oder TSDP könnte die Gegenüberstellung unter „Handlungsfreiheit unter Untersuchung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-evaluierungseinheit-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Evaluierungseinheit und TSDP unter „Handlungsfreiheit unter Untersuchung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "evaluierungseinheit",
+    "tsdp"
+   ]
+  }
+ ]
+}

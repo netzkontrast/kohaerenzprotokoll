@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 32
-readings: 32
+sources: 41
+readings: 41
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-coherence-protocol-a-comparative-analysis-across-the-sca", "the-coherence-protocol-the-hidden-rules-that-hold-reality-to"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-coherence-protocol-a-comparative-analysis-across-the-sca", "the-coherence-protocol-the-hidden-rules-that-hold-reality-to", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-roman-ausarbeitung", "kohaerenz-protokoll-umfassendes-konzept", "narrative-techniken-fuer-kohaerenz-protokoll", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "kohaerenz-protokoll-thematische-tiefenanalyse", "roman-kapitel-1-erstellung-analyse"]
 gathered: "2026-09-24"
 ---
 
@@ -22,6 +22,10 @@ The enriched plot concept's premise has the Kernwelten act as caches: „Die Ker
 
 The theme draft keys three chapters to `Cache Kohärenz` (numbers follow from each part's range and the entry's order, since the export restarts the numbering): Kapitel 14 (Teil 2, Kapitel 11–25), a cache conflict between logical and relational thinking: „zwischen logischem und relationalem Denken“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L52]; Kapitel 22 (Teil 2), faulty updates: „Die Integration des Schattens verändert Kaels Erinnerungen an“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L60] Co₁ and McL retroactively; and Kapitel 31 (Teil 3, Kapitel 26–39), active synchronisation: „Kael entwickelt eine mentale Technik, um bewusst auf Fähigkeiten oder Erinnerungen aus anderen Welten“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L72] to access. A plan, not the chapters.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — Cache Kohärenz in the plan's everyday multiplicity chapter
+
+The concept chapter map names the term in Kap 19, whose narrator line plans „Cache-Konflikte, Kommunikationspannen, subtile Switches bei Routineaufgaben“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L199]. Its concept line is „Cache Kohärenz & Funktionale Multiplizität im Alltag“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L201]. A plan, not a definition.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
 
 The earliest read source, and the one that names the metaphor in so many words rather than only using its vocabulary. Kael notices pieces of his own timeline missing and reaches for the image himself: „Die Cache-Kohärenz-Metapher drängte sich auf, auch wenn er sie nicht bewusst formulieren konnte. Seine inneren "Caches" waren inkonsistent." ^[kohaerenz-protokoll.md:L304] The same sentence ties the failure to the partitioning that caused it: „Die Partitionierung hatte nicht nur einen Teil seines Fühlens und seiner Intuition abgetrennt, sondern auch die Verbindung zwischen seinen Erinnerungen gestört." ^[kohaerenz-protokoll.md:L304] (see [[trennungsprotokoll|Trennungsprotokoll]]). It states no ANP or EP by name (`ANP`, `EP` 0; `grep -cw`), so the metaphor here is Kael's own, felt as amnesia and inconsistent inner „Caches", before the later canon-era sources give it the multi-processor architecture and the two-part model.
@@ -33,6 +37,20 @@ The Kernwelten design report frames `Cache Kohärenz` as identity fragmentation:
 ## Reading — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept — Cache Kohärenz as the lived consequence of AEGIS's fragmentation
 
 In its section on central concepts the 13-principle concept equates `Cache Kohärenz` with „Erlebte Folge der gestörten Identität“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L65] and disturbed perception through AEGIS's fragmentation (L65). The equation is the concept's mapping onto its principles.
+
+## Reading — `kohaerenz-protokoll-roman-ausarbeitung`, 2025-04-27, the elaboration report — the cache-coherence metaphor mapped onto Kael, M and AEGIS
+
+The elaboration report proposes the metaphor as central: it „ist zentral für die Darstellung von Kaels Zustand“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L258] (restating the commission, `[Query Pt 4]`). It first explains the computing concept: „bezieht sich Cache Kohärenz auf die Notwendigkeit, die Konsistenz von Daten sicherzustellen“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L262]. Then it maps: „Kernwelten = Caches“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L268], „M = Hauptspeicher“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L269], „AEGIS = Kohärenzprotokoll/Bus“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L270] and „Cache-Inkohärenz = Fragmentierung“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L271].
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — Each Kernwelt as an incoherent cache of Kael's identity
+
+The comprehensive concept plans each Kernwelt as an incoherent cache of Kael's identity, glossed „(Cache Kohärenz Metapher)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L25]. In its concept list it names, under informatics, „Cache Kohärenz Protokolle (Metapher für Kaels fragmentierten Zustand und Integrationsversuche)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L86].
+
+## Reading — `narrative-techniken-fuer-kohaerenz-protokoll`, 2025-04-27, the craft report — how to make `Cache Kohärenz` experienceable
+
+The craft report first reports the outside concept: „Cache Kohärenz ist ein Konzept aus der Computerarchitektur“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L261]. It then proposes how the choice of point of view makes the cache incoherence felt: „Die technische Definition von Cache-Inkohärenz beschreibt inkonsistente Daten über mehrere Speicherorte hinweg“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L44], and combined with a fragmented voice „verkörpert die Erzählung selbst die Inkohärenz“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L44].
+
+On method it advises showing rather than explaining: „Kaels fragmentierter Zustand muss subjektiv erfahrbar gemacht werden“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L79]. It maps the technical terms onto Kael's parts, for example „Inkohärenz = Fragmentierung/Dissoziation“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L269], and offers the metaphor as a systemic explanation beside the trauma origin: „Die Cache-Kohärenz-Metapher bietet eine“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L276] systemic account of the fragmentation. It also proposes weaving the vocabulary into the text: „Die Metapher kann genutzt werden, um spezifische Szenarien oder innere Erlebnisse für Kael zu generieren“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L274].
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — the Cache Kohärenz problem as a source of persona conflict
 
@@ -55,6 +73,24 @@ It calls the problem „das erlebbare Symptom“ ^[kohaerenz-protokoll-spannungs
 ## Reading — `tsdp-analyse-kohaerenz-protokoll-charaktere`, 2025-04-28, the TSDP tension analysis — the cache-coherence problem as a mirror of Kael's struggle
 
 In the passage on Kael's phobia the TSDP tension analysis takes the `Cache Kohärenz` problem from the unshown brief (`User Query`) and hedges its reading: it „spiegelt wahrscheinlich seinen Kampf wider“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L124] to keep a stable identity and memory despite the inner threat and the dissociative barriers. In the advice section it proposes as a device: „Die Metapher der Cache-Kohärenz“ ^[tsdp-analyse-kohaerenz-protokoll-charaktere.md:L371] for AEGIS keeping the parts in sync while complexity and traumatic data lead to inconsistencies.
+
+## Reading — `kael-uberarbeitung-des-konzepts-unter-tsdp`, 2025-04-28, the TSDP revision of Kael — the Cache Kohärenz problem as the symptom of dissociation
+
+The TSDP revision proposes that the problem named `Cache Kohärenz` is, in the profile of Kael, the visible symptom of structural dissociation: it „ist die manifeste Symptomatik dieser Dissoziation“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L22], with amnesia between parts, sudden state changes and inconsistent behaviour named in the parenthesis on the same line. In the conflict dynamics the revision says EP intrusions explain the problem again (L95), alongside the Pressure Point it labels PP-CCH-01, a list the document does not contain.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — the analogy `Cache Kohärenz` as a fictional construct
+
+The logline analysis lists the character section under the heading „Kael (I) &“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L76] followed by the term `Cache Kohärenz` and an IFS analogy. In its sensitivity section it names the concept's theme as „Themen beinhalten Trauma und eine DID/IFS-Analogie“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L140] and advises framing `Cache Kohärenz` as a fictional construct: „IFS/DID, zu rahmen, nicht als buchstäbliche Darstellung“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L143]. This is advice, not a decision.
+
+## Reading — `tsdp-analyse-kaels-innere-welt`, 2025-04-28, the TSDP analysis of Kael's inner world — the cache problem as outward inconsistency and a source of plot complications
+
+In its summary the report ties the conflicts between the ANPs to the cache problem, naming it Kael's outwardly visible state: „Kaels nach außen sichtbarer Inkonsistenz, Gedächtnislücken und funktionalen Fehlanpassungen.“ ^[tsdp-analyse-kaels-innere-welt.md:L398] (the term itself stands in quotation marks on the line, cut here).
+
+In the narrative advice the problem becomes a tool: „Eine Fähigkeit ist nicht verfügbar, weil der falsche Anteil vorne ist“ ^[tsdp-analyse-kaels-innere-welt.md:L421] and „Amnesie führt zu Fehlern oder gebrochenen Versprechen“ ^[tsdp-analyse-kaels-innere-welt.md:L421]; the line goes on to contradictory statements that make Kael seem unreliable.
+
+## Reading — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint — Cache Kohärenz as the psychic manifestation of systemic control
+
+The thematic blueprint names `Cache Kohärenz` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#3] as Kael's problem and, in the section joining system control with trauma, calls it „die psychische Manifestation dieser systemischen Kontrolle“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L35]. In its account of a therapy model it calls the same problem the direct consequence of forced fragmentation: „ist die direkte Folge dieser erzwungenen Fragmentierung“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L117]. The phase list also names it among the trauma symptoms of Phase 1 (L52). Recorded as the blueprint's reading, not applied.
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 
@@ -122,6 +158,10 @@ It adds: „Die Handlung des Romans ist im Kern der Kampf gegen dieses Löschen.
 
 The term appears again as the title of reference 6, „Cache-Kohärenz in hart echtzeitfähigen Mehrkern-Prozessoren“ ^[kohaerenz-analyse-kapitel-2.md:L244], a dissertation of the TU Dortmund the report lists (L244).
 
+## Reading — `roman-kapitel-1-erstellung-analyse`, 2025-12-28, the chapter-1 analysis — the mirror scene as failed Cache-Kohärenz
+
+The chapter-1 analysis drafts the mirror scene with the failure of the `Cache-Kohärenz` of „seiner fragmentierten Psyche versagte unter dem Druck des Systems“ ^[roman-kapitel-1-erstellung-analyse.md:L189]. In the analytic insert it explains the term as borrowed from computer architecture and applied to the psyche: „Indem wir diesen Begriff auf die Psyche anwenden“ ^[roman-kapitel-1-erstellung-analyse.md:L203]. It reads the failure as a symptom, the brittleness of the barriers between Alters, and calls the scene „ein klassisches Tropus der DID-Literatur“ ^[roman-kapitel-1-erstellung-analyse.md:L203]. A draft with commentary, recorded, not canon.
+
 ## Reading — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier — The cache-coherence analogy
 
 The architecture dossier sets the analogy of „cache coherence“ ^[narrative-architecture-dossier-coherence-protocol.md:L67] for Kael's system, and in Act III directs that the system establish its own internal „cache coherence protocol“ ^[narrative-architecture-dossier-coherence-protocol.md:L67]. Recorded, not applied.
@@ -167,3 +207,4 @@ In that paragraph it does not relate the failure to amnesia or to ANP and EP; th
 ## Where the sources differ
 
 - The tension-points analysis reads Cache [[kohaerenz|Kohärenz]] as the felt symptom of psychological fragmentation (IFS, TSDP), with [[aegis|AEGIS]]'s role left ambivalent.
+- The elaboration report proposes cache incoherence as the analogue of Kael's fragmentation and dissociation.

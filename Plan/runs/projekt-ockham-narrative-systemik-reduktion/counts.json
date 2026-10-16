@@ -1,0 +1,999 @@
+{
+  "document": "projekt-ockham-narrative-systemik-reduktion",
+  "drive_id": "1SFuKU0hZCgwwiHgYuCba7J8WFbszyxh6d1RnNEpekjY",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Projekt Ockham": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        19,
+        31,
+        40,
+        53,
+        120,
+        264,
+        303,
+        322
+      ]
+    },
+    "NovelOS": {
+      "n": 24,
+      "n_including_compounds": 28,
+      "lines": [
+        21,
+        35,
+        37,
+        40,
+        44,
+        47,
+        55,
+        57,
+        61,
+        63,
+        67,
+        69,
+        73,
+        129,
+        136,
+        140,
+        195,
+        197,
+        205,
+        224,
+        295,
+        317,
+        326,
+        415,
+        416,
+        417
+      ]
+    },
+    "NovelOS 1.0": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        55,
+        57
+      ]
+    },
+    "NovelOS 2.0": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        61,
+        63,
+        67,
+        326,
+        415
+      ]
+    },
+    "Epistemische Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        322
+      ]
+    },
+    "Epistemischen Isolation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        63
+      ]
+    },
+    "Epistemische Kontamination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Epistemische Konsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        414,
+        444
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        46,
+        301,
+        303
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        33,
+        35
+      ]
+    },
+    "DKT": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        35
+      ]
+    },
+    "Dual-Kernel-Theorie (DKT)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        35
+      ]
+    },
+    "Dual Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        326
+      ]
+    },
+    "K\\_1": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        21,
+        37,
+        40,
+        69,
+        92,
+        104,
+        309,
+        317,
+        326
+      ]
+    },
+    "K\\_0": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        21,
+        38,
+        40,
+        70,
+        104,
+        310,
+        326
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Kernel": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        21,
+        33,
+        35,
+        37,
+        38,
+        40,
+        309,
+        310,
+        326
+      ]
+    },
+    "ARCHON": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        102,
+        104
+      ]
+    },
+    "ARCHON Stack": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Narrative Reliability Engineer": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        21,
+        320,
+        324
+      ]
+    },
+    "Narrative Reliability Engineering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        320
+      ]
+    },
+    "Narrative Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kontext-Fäule": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        29
+      ]
+    },
+    "Context Rot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Context Engineering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Aktives Vergessen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Hard Canon": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        115,
+        309,
+        380,
+        406
+      ]
+    },
+    "Soft Canon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        310
+      ]
+    },
+    "Storyform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Storytelling": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        264,
+        413
+      ]
+    },
+    "Muse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        40
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 13,
+      "lines": [
+        13,
+        21,
+        23,
+        35,
+        37,
+        40,
+        44,
+        63,
+        73,
+        100,
+        295,
+        415
+      ]
+    },
+    "Mediator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Isomorphie-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Isomorphie": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        44,
+        49,
+        307
+      ]
+    },
+    "DIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        47
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        47
+      ]
+    },
+    "Kael": {
+      "n": 20,
+      "n_including_compounds": 22,
+      "lines": [
+        79,
+        84,
+        90,
+        97,
+        98,
+        126,
+        127,
+        167,
+        226,
+        248,
+        258,
+        259,
+        266,
+        290,
+        291,
+        298,
+        305,
+        310,
+        314
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        79,
+        127,
+        155,
+        167,
+        276
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        154,
+        305,
+        309,
+        314,
+        317
+      ]
+    },
+    "Librarian": {
+      "n": 22,
+      "n_including_compounds": 23,
+      "lines": [
+        37,
+        73,
+        115,
+        191,
+        218,
+        220,
+        241,
+        246,
+        248,
+        254,
+        256,
+        268,
+        270,
+        276,
+        279,
+        290,
+        291,
+        299,
+        309,
+        317,
+        362,
+        406
+      ]
+    },
+    "The Librarian": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        115,
+        218,
+        290
+      ]
+    },
+    "Sensory Drafter": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        47,
+        113,
+        191,
+        289,
+        310,
+        404
+      ]
+    },
+    "System Architect": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        324
+      ]
+    },
+    "Narrative Director": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        111,
+        288
+      ]
+    },
+    "Brainstormer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Weaver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Ontologist": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        287,
+        400
+      ]
+    },
+    "Ontologist Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        287
+      ]
+    },
+    "Editor / Critic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Character Bots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Environment Loop": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        88
+      ]
+    },
+    "Gemini CLI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Telepathie-Verbot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Agenten-Telepathie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "God Mode": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        57
+      ]
+    },
+    "Externe Gehirn": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Narrativen Datenbank": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Wissens-Hypergraph": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Atomare Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Atomic Entity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "BDI-Modell": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        134,
+        140,
+        289,
+        317,
+        324
+      ]
+    },
+    "BDI-Modelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        134,
+        289,
+        324
+      ]
+    },
+    "BDI-Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Scene Card": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        111,
+        113,
+        288,
+        289,
+        402,
+        404
+      ]
+    },
+    "Storybeat": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        288,
+        402
+      ]
+    },
+    "Skill Library": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Doppelt verkettete Liste der Kausalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Waisen-Events": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Kausalketten-Verifikation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Semantisches Linting": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        115,
+        218,
+        322
+      ]
+    },
+    "Semantischen Lintings": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Coherence Digest": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        252
+      ]
+    },
+    "Shadow Git": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        262,
+        264
+      ]
+    },
+    "Thematische Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        270
+      ]
+    },
+    "Coherence Loop": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        281,
+        283
+      ]
+    },
+    "Obsidian Canvas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        293,
+        295
+      ]
+    },
+    "Watchdog-Skript": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "NCP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        270,
+        328
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        328
+      ]
+    },
+    "Golden Source": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        330
+      ]
+    },
+    "Sektor 4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        353
+      ]
+    },
+    "Keycard": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        226,
+        248,
+        258,
+        259
+      ]
+    },
+    "OntologyValidator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        378
+      ]
+    },
+    "Hallucination Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Lost in the Middle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Dissoziativer Identitätsstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Anscheinend Normale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Emotionale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Klassischer Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        309
+      ]
+    },
+    "Parakonsistenter Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        310
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        314
+      ]
+    },
+    "Fabula": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        201,
+        205
+      ]
+    },
+    "Syuzhet": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        201,
+        205
+      ]
+    },
+    "Zettelkasten": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        122,
+        124,
+        287,
+        291,
+        418
+      ]
+    },
+    "GraphRAG": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        122,
+        127,
+        433
+      ]
+    },
+    "Model Context Protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        295,
+        431,
+        443
+      ]
+    },
+    "Prompt Injection": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        274,
+        276
+      ]
+    },
+    "Garbage Collection": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        252,
+        254
+      ]
+    },
+    "Voyager": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        193,
+        195,
+        199,
+        434,
+        435
+      ]
+    },
+    "LangGraph": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        65,
+        69,
+        73,
+        421,
+        422
+      ]
+    },
+    "AutoGen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        65,
+        70,
+        73,
+        424,
+        429
+      ]
+    },
+    "CrewAI": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        65,
+        71,
+        73,
+        425,
+        426,
+        427
+      ]
+    }
+  }
+}

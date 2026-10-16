@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet 5.5), 2026-10-16, while reading, before any count
+
+Observations, as paragraphs. The document is a report that inventories a corpus of project documents, extracts what it calls the narrative core, compares it with published works, and proposes a reduced pitch, a cut list and four methodological recommendations. Figures are Kael, Juna and AEGIS. The document also holds advice on a real working method and a table that gives earlier names for figures; neither is harvested. The title of cited works and the reference list are left out. Concepts named after people stand only here as candidates.
+
+- Kael
+- Juna
+- AEGIS
+- Konstrukt-Stadt
+- Kernwelten
+- Kernwelt
+- Logos-Prime
+- Mnemosyne-Archipel
+- Risse
+- Nichts-Rauschen
+- Wir-Geflecht
+- Guardians
+- Coherons
+- ANPs
+- EPs
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Dual Kernel Theorie
+- DKT
+- Sensorischen Regelwerk
+- Sensorische Regelwerk
+- Somatischen Filter
+- Somatische Filter
+- Unmodellierbare Resonanz
+- Moonshine-Link
+- Algorithmische Melancholie
+- Ursprungs-Ich
+- Primale Dualität
+- Parakonsistente Gambit
+- Zielkohärenz
+- Embodiment
+- Korrespondenzwahrheit
+- Wahrheitsdualität
+- Das Mosaik-Herz
+- Kohärenz Protokoll
+- Seelen-Kohärenz-Protokoll
+- Schwarzschild-Protokoll
+- AEGIS-Wiki
+- Exkludierende Ordnung
+- rekursive Validierung
+- Stress-Mapping
+- Transzendenz-Vektor
+- Performativer Systemkollaps
+- Psycho-Architektur
+- fehlerhaften Gott
+- lebendes Paradoxon
+- Datenmüll
+- AIEOS
+- AI Entity Object Specification
+- NCP
+- Narrative Context Protocol
+- TSDP
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- Dissoziative Identitätsstörung
+- Ko-Bewusstsein
+- Host-Bewusstseins
+- Monstergruppe
+- Monstrous Moonshine
+- Monstrous-Moonshine-Konjektur
+- Replica Wormholes
+- ER=EPR
+- ER=EPR-Vermutung
+- Quantendekohärenz
+- Existenz als dynamischer Fehlerkorrekturprozess
+
+## lens
+
+- Landauer-Prinzip
+- Bekenstein-Schranke
+- Gödel-Gambits
+- Lucas-Penrose-Arguments
+- Turing-Halteproblem
+- Griess-Algebra
+- Parakonsistenz
+- Grenzsituationen
+- Eisberg-Prinzips
+- Over-Explanation
+- Telling statt Showing

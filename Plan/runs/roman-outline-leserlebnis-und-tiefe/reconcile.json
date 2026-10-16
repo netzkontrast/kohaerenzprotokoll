@@ -1,0 +1,57 @@
+{
+  "document": "roman-outline-leserlebnis-und-tiefe",
+  "drive_id": "1Ug3tC4fSnB1WzV2v9eaArndM5SS5q_ucjvD7qKgJgTw",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a strategy report that reasons only about the title phrase; first held by the privacy screen on the word shadow and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 106,
+    "decisions": 110,
+    "decided_by_lookup": 98,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A strategy report that knows only the title phrase Kohärenz Protokoll and speculates about it through philosophy, reader psychology, craft and tropes: it names no figure, place or event of the novel, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz`, `Glitch`, `Emergenz`, `Persona`, `Simulation` and `Protokoll` in the general senses of a report that knows only the title phrase; trope names and borrowed concepts not promoted; people's names never written",
+  "sweep": [
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 111,
+      "decision": "occurrence",
+      "why": "a general psychological sense"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 37,
+      "decision": "occurrence",
+      "why": "simulation in a general sense"
+    }
+  ],
+  "not_promoted": [
+    "the trope names, the borrowed concepts, and its readings of the title phrase"
+  ],
+  "internal_tension": "its body stands twice (L11–L229, L229–L385) and the second breaks off mid-sentence (L385) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

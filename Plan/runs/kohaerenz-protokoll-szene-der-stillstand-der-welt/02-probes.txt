@@ -1,0 +1,15 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      0
+  typographic marks      8
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  ebene    Ebene, Ebenen
+  kael     KAEL, Kael
+
+# substring pairs -- never one term, often merged by accident
+  KAEL < Kael
+  Ebene < Ebenen
+  Meldung < SYSTEMMELDUNG

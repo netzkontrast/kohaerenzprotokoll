@@ -1,0 +1,14 @@
+# roman-outline-leserlebnis-und-tiefe
+  lines                687  (frontmatter ends at 9)
+  body words           17065
+  headings             50   bold-only lines 2
+  table rows           12   code fences 0
+  question marks       84
+  backslash escapes    24
+  typographic marks    197   ascii quotes 20
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    170
+  repeated labels      none
+  longest line         1355 chars
+

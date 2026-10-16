@@ -1,10 +1,10 @@
 ---
 term: Protokoll v1.4
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung", "welten"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung", "welten", "kapitel-13-momente"]
 gathered: "2026-09-17"
 ---
 
@@ -48,3 +48,7 @@ Teil 1 begins „nach einem System-Reboot unter AEGIS v1.4“ ^[kohaerenz-protok
 ## Reading — `welten`, 2025-04-20, the world-concept reply — AEGIS evolved up to Protokoll v1.4/v1.5
 
 Under `Evolution` the world-concept reply says of AEGIS only: „Hat sich entwickelt“ ^[welten.md:L45], at least up to `Protokoll v1.4/v1.5`, and that it is „lernfähig, aber fundamental in seiner Logik begrenzt“ ^[welten.md:L45]. It says nothing more of the Protokoll versions.
+
+## Reading — `kapitel-13-momente`, 2025-04-20, the chapter-13 moments — v1.4 declared failed, reset to v1.5
+
+In the group on AEGIS's reaction the chapter-13 moments plan states: „Protokoll v1.4 ist gescheitert.“ ^[kapitel-13-momente.md:L44]. The next moment plans the consequence: „bleibt nur der Reset auf eine (vermeintlich) sicherere Konfiguration (v1.5)“ ^[kapitel-13-momente.md:L45]. A proposal under an old outline's numbering, not canon.

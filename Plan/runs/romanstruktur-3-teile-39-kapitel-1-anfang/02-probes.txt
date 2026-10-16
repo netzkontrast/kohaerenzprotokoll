@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      105
+  backslash escapes      106
+  typographic marks      66
+  ascii quotes           76
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenbank, Datenbanken, Datenraum, Datenstrom, Datenstrukturen, Datenströmen
+  theor    Theorem, Theoretical, Theoretische, Theoretisches, Theorie, Theorien, Theory
+  handl    Handles, Handlung, Handlungen, Handlungsschwerpunkt, Handlungsstränge, Handlungssystemen
+  ident    Identity, Identität, Identitäten, Identitätsarchitektur, Identitätskollaps, Identitätssystem
+  proto    Protocol, Protocols, Protokoll, Protokolle, Protokolls
+  wisse    Wissen, Wissens, Wissenschaft, Wissenschaftler, Wissensgraphen
+  infor    Informatik, Information, Informationen, Informationsarchitekturen
+  mensc    Mensch, Menschheit, Menschliche, Menschlichkeit
+  norma    Normal, Normalerweise, Normalität, Normalzustand
+  proze    Prozess, Prozessen, Prozessor, Prozessoren
+  techn    Technik, Technologie, Technomancer, Technomancern
+  traum    Trauma, Traumas, Traumatisierung, Traumatologie
+  agent    Agent, Agentic, Agents
+  archi    Architektur, Archiven, Archives
+  bewus    Bewusstsein, Bewusstseine, Bewusstseins
+  diese    Diese, Dieser, Dieses
+  emoti    Emotion, Emotional, Emotionen
+  erinn    Erinnerung, Erinnerungen, Erinnerungslücken
+  erzäh    Erzählmodells, Erzählung, Erzählweise
+  gödel    Gödel, Gödels, Gödelschen
+  inter    Interaktion, Interfaces, Interpretation
+  kapit    Kapitel, Kapiteln, Kapitels
+  konfl    Konflikt, Konflikts, Konflikttypologie
+  krieg    Krieg, Kriege, Kriegszustand
+  phase    Phase, Phasen, Phases
+
+# substring pairs -- never one term, often merged by accident
+  Book < Books
+  Book < BriBooks
+  Böse < Bösewicht
+  Care < Career
+  Code < Codex
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Bewusstseine
+  Ende < Endes
+  Ende < Dependence
+  Ende < Wendepunkt
+  Face < Interfaces
+  Form < Informatik
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsarchitekturen
+  Hier < Hierarchical

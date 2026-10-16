@@ -1,0 +1,105 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a generic specification for an agent system that writes novels by Dramatica phases. I found no figure, place, chapter or event of any particular novel in it; every name belongs to the specification, its schema, its failure catalogue or its method appendix. The first list holds the specification's own named parts and mechanisms. The Dramatica vocabulary is applied, not defined for a world, so it stands under lens. Identifier labels (IC, INV, FM) head table rows and list items, so they are listed as written.
+
+- Spec-Metadata
+- Choice-Space
+- Interaction-Constraints
+- Coherence-Invarianten
+- Contradiction-Detection
+- Clarifying-Question Protocol
+- Phase-Definitions
+- Failure-Modes Catalog
+- Regression-Checks
+- Self-Verification Test Suite
+- Reflection History
+- Query Expansion Log
+- Cross-Pollination Logs
+- Pre-Mortem-Analyse
+- Red-Team-Review
+- Contradiction Log
+- Falsifikations-Audit
+- Open Questions
+- Architectural Decision Records
+- Narrative Context Protocol
+- NCP
+- State Freezing
+- Context Rot
+- Progressive Disclosure
+- Line Budgets
+- Branching Rule
+- Hierarchical Routing
+- Narrative Efficiency
+- Consistency Risk Score
+- CRS
+- Latent Space Projection
+- Phase-Transition-Contracts
+- Cross-Output Alignment
+- Chain-of-Justification
+- Decoupled Semantic Encoding
+- Strukturelle Contradictions
+- Inhaltliche Contradictions
+- Pragmatische Contradictions
+- Domänen-Singularität
+- Archetypische Motivationsexklusion
+- Vocabulary Drift
+- Task Drift
+- Reward Hacking
+- Alignment Faking
+- Parameter Hallucination
+- Degeneration Loops
+- Ordering Errors
+- Asymmetric Architecture
+- Distraction Degradation
+- State Contamination
+- Trigger Overlap
+- YAML-RPC
+- Immutable Fields
+- Acceptance Criteria
+- Storyformer Agent
+- Storyencoder Agent
+- Storyweaver Agent
+- Storyreceptor Agent
+- Narrova
+- Author's Argument
+- IC-01
+- IC-02
+- IC-03
+- IC-04
+- INV-01
+- INV-02
+- INV-03
+- INV-04
+- INV-05
+- FM-01
+- FM-02
+- FM-03
+- FM-04
+- FM-05
+- FM-06
+- FM-07
+- FM-08
+- FM-09
+- FM-10
+
+## lens
+
+- Dramatica
+- Storyforming
+- Story Encoding
+- Storyweaving
+- Story Reception
+- Storyform Alignment
+- Narrative Field
+- Mental Sex
+- Story Limit
+- Story Mind
+- Throughline
+- Signposts
+- Journeys
+- Domain
+- Concern
+- Positional Bias
+- Retrieval-Augmented Generation
+- Spec-Driven Development
+- Model Context Protocol

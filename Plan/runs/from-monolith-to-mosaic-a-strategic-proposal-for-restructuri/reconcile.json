@@ -1,0 +1,171 @@
+{
+  "document": "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
+  "drive_id": "1UZEzU0BKDl7iKPXD2-3-s-u67VusbUy58JpQ1k28w5c",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-478/brief.md, 2026-10-14; the document was first held by the privacy screen on the word foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 64,
+    "decided_by_lookup": 49,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English strategic report proposing to restructure the novel as a mosaic of short stories: its new surfaces are its form labels and story sketches; what it proposes for AEGIS, Kael, the three alters, the Kernwelten, LogOS, Juna, the Moonshine-Link, TSDP, Nichts-Rauschen and the Potentialmeer went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic entity in a proposed first-person log"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "Juna/V as the fading external link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        35,
+        45,
+        47,
+        61,
+        76
+      ],
+      "attribution": "",
+      "note": "Kael as the subject of a 39-story mosaic, with a clinical frame and a cyclical decline"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61,
+        69,
+        70
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as environments for stories"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "a proposed story of paralysing fear"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "a proposed story of the rationalist"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "LogOS in the KW1 story concept"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "the link as a cost of failed loops"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen in the proposed Genesis Log"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "a proposed story of a protector's rage"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the setting of the proposed Genesis Log"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical frame"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Guardian` titles and KW names recorded on Q5; `Juna/V` read on juna; `Genesis-Krise` read on aegis; the logician's name never written",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 57,
+      "decision": "occurrence",
+      "why": "the proposal's Genesis-Krise and Genesis Log, read on aegis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 47,
+      "decision": "reading",
+      "why": "read on juna via Juna/V"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "narrative mosaic, psycho-structural resonance, performative narrative, functional multiplicity, dialetheic mind, Genesis Log, the story labels and the sensory rulebook"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

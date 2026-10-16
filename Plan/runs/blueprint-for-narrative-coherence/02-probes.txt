@@ -1,0 +1,15 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      6
+  backslash escapes      0
+  typographic marks      12
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  proto    Protocol, Protokoll
+  roman    Roman, Romanideen
+  syste    System, Systemic
+
+# substring pairs -- never one term, often merged by accident
+  Roman < Romanideen
+  System < Systemic

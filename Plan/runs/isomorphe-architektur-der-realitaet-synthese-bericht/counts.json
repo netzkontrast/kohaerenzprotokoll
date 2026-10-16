@@ -1,0 +1,650 @@
+{
+  "document": "isomorphe-architektur-der-realitaet-synthese-bericht",
+  "drive_id": "1DYgU5k_RCmoIWJ3nGnDaQkPOtzMsitJ0dmqePVpxAmY",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        36,
+        277
+      ]
+    },
+    "Synthese-Bericht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Leitender System-Archivar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Isomorphie": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        28,
+        32,
+        36,
+        92,
+        116,
+        122,
+        245
+      ]
+    },
+    "Isomorphe Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Schadensbegrenzung durch Separation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Sequestrierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        44,
+        74,
+        102,
+        152
+      ]
+    },
+    "Dimensionale Sequestrierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Brane": {
+      "n": 4,
+      "n_including_compounds": 21,
+      "lines": [
+        28,
+        38,
+        56,
+        58,
+        66,
+        74,
+        76,
+        84,
+        106,
+        110,
+        112,
+        116,
+        118,
+        122,
+        126,
+        152,
+        175,
+        272,
+        296
+      ]
+    },
+    "TeV-Brane": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        58,
+        66,
+        74,
+        112,
+        116,
+        152
+      ]
+    },
+    "Weakbrane": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Planck-Brane": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        74,
+        118,
+        122
+      ]
+    },
+    "Bulk": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        38,
+        58,
+        66,
+        74,
+        84,
+        92,
+        94,
+        118,
+        122,
+        141,
+        152,
+        279,
+        283
+      ]
+    },
+    "Warp-Faktor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        74,
+        76
+      ]
+    },
+    "Hierarchie-Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        48,
+        272
+      ]
+    },
+    "Leaking": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        146,
+        211,
+        272
+      ]
+    },
+    "Flashbacks": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        273
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Glitch": {
+      "n": 12,
+      "n_including_compounds": 16,
+      "lines": [
+        38,
+        40,
+        171,
+        175,
+        203,
+        211,
+        213,
+        274,
+        279,
+        332,
+        333,
+        334
+      ]
+    },
+    "Monster-Gruppe": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        40,
+        221,
+        229,
+        231,
+        233,
+        243,
+        275
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        221,
+        229,
+        340
+      ]
+    },
+    "Monster-Modul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Symmetriebruch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        243,
+        248
+      ]
+    },
+    "Symmetrie-Restauration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Selbst": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        98,
+        146,
+        152,
+        237,
+        247,
+        248,
+        249,
+        273,
+        285
+      ]
+    },
+    "Selbst-System": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        98,
+        152,
+        249
+      ]
+    },
+    "ANP": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        112,
+        114,
+        116,
+        122,
+        128,
+        129,
+        130,
+        145,
+        175,
+        197,
+        209
+      ]
+    },
+    "EP": {
+      "n": 3,
+      "n_including_compounds": 15,
+      "lines": [
+        88,
+        92,
+        118,
+        120,
+        122,
+        128,
+        129,
+        130,
+        140,
+        197,
+        302,
+        303
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Emotional Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Primäre Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Sekundäre Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Tertiäre Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        130
+      ]
+    },
+    "Exile": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        38,
+        134,
+        140,
+        141,
+        248,
+        249,
+        309,
+        314,
+        321
+      ]
+    },
+    "Exil": {
+      "n": 4,
+      "n_including_compounds": 15,
+      "lines": [
+        38,
+        134,
+        140,
+        141,
+        146,
+        152,
+        162,
+        248,
+        249,
+        279,
+        309,
+        314,
+        321
+      ]
+    },
+    "Protektoren": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        134,
+        141,
+        248,
+        273
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        145
+      ]
+    },
+    "Feuerlöscher": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        146
+      ]
+    },
+    "Lasten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140
+      ]
+    },
+    "Burden": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        140,
+        148,
+        273,
+        310,
+        315
+      ]
+    },
+    "Unburdening": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        152,
+        273,
+        312,
+        313,
+        314
+      ]
+    },
+    "Witnessing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        167,
+        249,
+        284
+      ]
+    },
+    "Vertex Explosion": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        156,
+        160,
+        164,
+        273,
+        284
+      ]
+    },
+    "Somatic IFS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        317
+      ]
+    },
+    "Z-Fighting": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        179,
+        183,
+        193,
+        199,
+        274
+      ]
+    },
+    "Z-Buffer": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        183,
+        193,
+        274,
+        283
+      ]
+    },
+    "Hyperrealität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        203,
+        207,
+        209,
+        274
+      ]
+    },
+    "Glitch Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        211,
+        274
+      ]
+    },
+    "Einstein-Rosen-Brücke": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        284
+      ]
+    },
+    "Einstein-Rosen-Brücken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Wurmloch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        94
+      ]
+    },
+    "Kalb-Ramond-Feld": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        80,
+        84,
+        138
+      ]
+    },
+    "Radion-Feld": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        272
+      ]
+    },
+    "Strukturelle Dissoziation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        106,
+        273
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        38,
+        102,
+        306,
+        309,
+        315,
+        320
+      ]
+    },
+    "ER=EPR": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        88,
+        92,
+        303
+      ]
+    },
+    "Truthmaker Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Goldberger-Wise-Mechanismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Randall-Sundrum-Modelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Glitch-Phänomenologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        171
+      ]
+    },
+    "Spaghettifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Skinning Weight": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Re-Embodiment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Time Distortion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    }
+  }
+}

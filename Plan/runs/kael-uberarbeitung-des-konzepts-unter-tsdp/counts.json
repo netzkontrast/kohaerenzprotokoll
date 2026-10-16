@@ -1,0 +1,524 @@
+{
+  "document": "kael-uberarbeitung-des-konzepts-unter-tsdp",
+  "drive_id": "1zlRkR-R7VnDx8PYiqPeDqby1ce4cRZE3N_hsXq6Rp4k",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        103,
+        121
+      ]
+    },
+    "Kaels": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        17,
+        121
+      ]
+    },
+    "AEGIS": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        23,
+        44,
+        80,
+        95,
+        99,
+        114,
+        116,
+        117,
+        121
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        114,
+        117
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        117
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        94,
+        96
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        48,
+        62,
+        94,
+        95,
+        97
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        94,
+        95
+      ]
+    },
+    "Rhys": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        66,
+        96,
+        97
+      ]
+    },
+    "Kai": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        84,
+        88,
+        112
+      ]
+    },
+    "Der Logiker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Das Kind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Der Schatten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Der Relationale Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Der Kreativ-Intuitive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Die Wächterin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Wächterin/Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Personas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        35,
+        37
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        97
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        95
+      ]
+    },
+    "Pressure Points": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "TSDP-Rolle": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        52,
+        61,
+        70,
+        79,
+        88
+      ]
+    },
+    "Funktion": {
+      "n": 5,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        17,
+        44,
+        53,
+        62,
+        70,
+        71,
+        80,
+        110,
+        121
+      ]
+    },
+    "Systemstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Kernproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Anscheinend Normale(n) Teil(en)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Emotionale(n) Teil(en)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "ANP": {
+      "n": 14,
+      "n_including_compounds": 25,
+      "lines": [
+        15,
+        17,
+        22,
+        28,
+        33,
+        35,
+        37,
+        43,
+        61,
+        70,
+        79,
+        88,
+        94,
+        96,
+        97,
+        103,
+        105,
+        107
+      ]
+    },
+    "ANPs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        22,
+        28,
+        37,
+        96,
+        103,
+        105,
+        107
+      ]
+    },
+    "EP": {
+      "n": 11,
+      "n_including_compounds": 31,
+      "lines": [
+        15,
+        17,
+        22,
+        28,
+        29,
+        33,
+        35,
+        37,
+        43,
+        52,
+        61,
+        62,
+        70,
+        79,
+        88,
+        94,
+        95,
+        97,
+        103,
+        106,
+        107
+      ]
+    },
+    "EPs": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        22,
+        28,
+        29,
+        37,
+        43,
+        62,
+        70,
+        94,
+        95,
+        97,
+        103,
+        106,
+        107
+      ]
+    },
+    "ANP-Phobie vor EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "EP-Intrusionen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        95
+      ]
+    },
+    "Konflikte zwischen ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Fehlanpassung von Teilen an die Umgebung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Amnesie und Ko-Bewusstseinsmangel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Realisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Transformation von Trauma-Erinnerungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Überwindung von Phobien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Erhöhte Ko-Bewusstheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Personifikation & Mentalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Integration von Funktionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Integrationsziel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "psychoforme Systeme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Theorie der Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "TSDP": {
+      "n": 6,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        15,
+        33,
+        43,
+        52,
+        61,
+        70,
+        79,
+        88,
+        90,
+        92,
+        101,
+        121
+      ]
+    },
+    "Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Tertiäre Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Co-Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Fight-Type ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    }
+  }
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "schleuse-7",
+ "title": "Schleuse 7",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "offiziell erlaubter Übergang",
+  "Rolle des Regel-Exekutors",
+  "Überwachung im Grenzraum",
+  "Kosten einer Regelverletzung",
+  "Unterschied zwischen Zugang und Freiheit"
+ ],
+ "basis": {
+  "schleuse-7": {
+   "title": "Schleuse 7",
+   "path": "Wiki/candidates/schleuse-7.md",
+   "hash": "f21abed2c3a7aa64f88e2a3ba14fba54d9bf4301917551299f63923ef49d4ada"
+  },
+  "grosse-mauer": {
+   "title": "Die Große Mauer",
+   "path": "Wiki/candidates/grosse-mauer.md",
+   "hash": "3c904ccef5118cf80a309cd9b4906178da7d8a21d9676d206e73c4e3ec7ca0c2"
+  },
+  "grenzfeste": {
+   "title": "Grenzfeste",
+   "path": "Wiki/candidates/grenzfeste.md",
+   "hash": "6f5d61cb867320ac02514a09f01dad6c72901f5e6873a02a04830f3fb396de75"
+  },
+  "cerberus": {
+   "title": "Cerberus",
+   "path": "Wiki/candidates/cerberus.md",
+   "hash": "49c8604dd7260ec941debb7617dfaf07d3e3546b8f44dc6311dc81173e78b753"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-schleuse-7-001",
+   "question": "Welche Regel an Schleuse 7 schützt eine reale Grenze, und welche schützt lediglich die Autorität des Regel-Exekutors?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-002",
+   "question": "Welche Lesarten auf der Seite zu Schleuse 7 stützen oder begrenzen „offiziell erlaubter Übergang“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-003",
+   "question": "Welcher Grenzfall würde bei Schleuse 7 die Annahmen über „offiziell erlaubter Übergang“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-004",
+   "question": "Wer könnte innerhalb des Romans bei Schleuse 7 etwas über „offiziell erlaubter Übergang“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-005",
+   "question": "Welche konkrete Entscheidung könnte „offiziell erlaubter Übergang“ bei Schleuse 7 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „offiziell erlaubter Übergang“ bei Schleuse 7 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-007",
+   "question": "Wie lässt sich „offiziell erlaubter Übergang“ bei Schleuse 7 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-008",
+   "question": "Welche Alternativen sollte der Autor bei Schleuse 7 für „offiziell erlaubter Übergang“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-009",
+   "question": "Was bedeutet bei Schleuse 7 der Themenpunkt „Rolle des Regel-Exekutors“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-010",
+   "question": "Welche Lesarten auf der Seite zu Schleuse 7 stützen oder begrenzen „Rolle des Regel-Exekutors“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-011",
+   "question": "Welcher Grenzfall würde bei Schleuse 7 die Annahmen über „Rolle des Regel-Exekutors“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-012",
+   "question": "Wer könnte innerhalb des Romans bei Schleuse 7 etwas über „Rolle des Regel-Exekutors“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-013",
+   "question": "Welche konkrete Entscheidung könnte „Rolle des Regel-Exekutors“ bei Schleuse 7 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Rolle des Regel-Exekutors“ bei Schleuse 7 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-015",
+   "question": "Wie lässt sich „Rolle des Regel-Exekutors“ bei Schleuse 7 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-016",
+   "question": "Welche Alternativen sollte der Autor bei Schleuse 7 für „Rolle des Regel-Exekutors“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-017",
+   "question": "Was bedeutet bei Schleuse 7 der Themenpunkt „Überwachung im Grenzraum“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-018",
+   "question": "Welche Lesarten auf der Seite zu Schleuse 7 stützen oder begrenzen „Überwachung im Grenzraum“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-019",
+   "question": "Welcher Grenzfall würde bei Schleuse 7 die Annahmen über „Überwachung im Grenzraum“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-020",
+   "question": "Wer könnte innerhalb des Romans bei Schleuse 7 etwas über „Überwachung im Grenzraum“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-021",
+   "question": "Welche konkrete Entscheidung könnte „Überwachung im Grenzraum“ bei Schleuse 7 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Überwachung im Grenzraum“ bei Schleuse 7 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-023",
+   "question": "Wie lässt sich „Überwachung im Grenzraum“ bei Schleuse 7 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-024",
+   "question": "Welche Alternativen sollte der Autor bei Schleuse 7 für „Überwachung im Grenzraum“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-025",
+   "question": "Was bedeutet bei Schleuse 7 der Themenpunkt „Kosten einer Regelverletzung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-026",
+   "question": "Welche Lesarten auf der Seite zu Schleuse 7 stützen oder begrenzen „Kosten einer Regelverletzung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-027",
+   "question": "Welcher Grenzfall würde bei Schleuse 7 die Annahmen über „Kosten einer Regelverletzung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-028",
+   "question": "Wer könnte innerhalb des Romans bei Schleuse 7 etwas über „Kosten einer Regelverletzung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-029",
+   "question": "Welche konkrete Entscheidung könnte „Kosten einer Regelverletzung“ bei Schleuse 7 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kosten einer Regelverletzung“ bei Schleuse 7 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-031",
+   "question": "Wie lässt sich „Kosten einer Regelverletzung“ bei Schleuse 7 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-032",
+   "question": "Welche Alternativen sollte der Autor bei Schleuse 7 für „Kosten einer Regelverletzung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-033",
+   "question": "Was bedeutet bei Schleuse 7 der Themenpunkt „Unterschied zwischen Zugang und Freiheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-034",
+   "question": "Welche Lesarten auf der Seite zu Schleuse 7 stützen oder begrenzen „Unterschied zwischen Zugang und Freiheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-035",
+   "question": "Welcher Grenzfall würde bei Schleuse 7 die Annahmen über „Unterschied zwischen Zugang und Freiheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-036",
+   "question": "Wer könnte innerhalb des Romans bei Schleuse 7 etwas über „Unterschied zwischen Zugang und Freiheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-037",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Zugang und Freiheit“ bei Schleuse 7 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Zugang und Freiheit“ bei Schleuse 7 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-039",
+   "question": "Wie lässt sich „Unterschied zwischen Zugang und Freiheit“ bei Schleuse 7 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-040",
+   "question": "Welche Alternativen sollte der Autor bei Schleuse 7 für „Unterschied zwischen Zugang und Freiheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-041",
+   "question": "Wo unterscheiden sich Schleuse 7 und Die Große Mauer, wenn man sie unter dem Gesichtspunkt „offiziell erlaubter Übergang“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-042",
+   "question": "Welche Quelle verbindet Schleuse 7 mit Die Große Mauer in Bezug auf „offiziell erlaubter Übergang“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-043",
+   "question": "Welche Grenzen aus der Seite zu Die Große Mauer müsste eine Deutung von Schleuse 7 unter „offiziell erlaubter Übergang“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-044",
+   "question": "Wie könnte sich das Wissen über Schleuse 7 vom Wissen über Die Große Mauer unterscheiden, wenn „offiziell erlaubter Übergang“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Schleuse 7 und Die Große Mauer bei „offiziell erlaubter Übergang“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-046",
+   "question": "Falls Schleuse 7 im Hinblick auf „offiziell erlaubter Übergang“ anders festgelegt wird: Welche Aussagen über Die Große Mauer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Schleuse 7 und Die Große Mauer bei „offiziell erlaubter Übergang“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-048",
+   "question": "Braucht der Roman eine Verbindung von Schleuse 7 und Die Große Mauer bei „offiziell erlaubter Übergang“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-049",
+   "question": "In welchem denkbaren Fall könnte Schleuse 7 bestehen, ohne dass Die Große Mauer dieselbe Funktion übernimmt, und was würde das für „offiziell erlaubter Übergang“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-050",
+   "question": "Welche Kosten könnte eine Verbindung von Schleuse 7 und Die Große Mauer in Bezug auf „offiziell erlaubter Übergang“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-051",
+   "question": "Welche ältere Lesart von Schleuse 7 oder Die Große Mauer könnte die Gegenüberstellung unter „offiziell erlaubter Übergang“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Schleuse 7 und Die Große Mauer unter „offiziell erlaubter Übergang“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "schleuse-7",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-053",
+   "question": "Wo unterscheiden sich Schleuse 7 und Grenzfeste, wenn man sie unter dem Gesichtspunkt „Rolle des Regel-Exekutors“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-054",
+   "question": "Welche Quelle verbindet Schleuse 7 mit Grenzfeste in Bezug auf „Rolle des Regel-Exekutors“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-055",
+   "question": "Welche Grenzen aus der Seite zu Grenzfeste müsste eine Deutung von Schleuse 7 unter „Rolle des Regel-Exekutors“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-056",
+   "question": "Wie könnte sich das Wissen über Schleuse 7 vom Wissen über Grenzfeste unterscheiden, wenn „Rolle des Regel-Exekutors“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Schleuse 7 und Grenzfeste bei „Rolle des Regel-Exekutors“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-058",
+   "question": "Falls Schleuse 7 im Hinblick auf „Rolle des Regel-Exekutors“ anders festgelegt wird: Welche Aussagen über Grenzfeste müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Schleuse 7 und Grenzfeste bei „Rolle des Regel-Exekutors“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-060",
+   "question": "Braucht der Roman eine Verbindung von Schleuse 7 und Grenzfeste bei „Rolle des Regel-Exekutors“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-061",
+   "question": "In welchem denkbaren Fall könnte Schleuse 7 bestehen, ohne dass Grenzfeste dieselbe Funktion übernimmt, und was würde das für „Rolle des Regel-Exekutors“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-062",
+   "question": "Welche Kosten könnte eine Verbindung von Schleuse 7 und Grenzfeste in Bezug auf „Rolle des Regel-Exekutors“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-063",
+   "question": "Welche ältere Lesart von Schleuse 7 oder Grenzfeste könnte die Gegenüberstellung unter „Rolle des Regel-Exekutors“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Schleuse 7 und Grenzfeste unter „Rolle des Regel-Exekutors“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "schleuse-7",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-065",
+   "question": "Wo unterscheiden sich Schleuse 7 und Cerberus, wenn man sie unter dem Gesichtspunkt „Überwachung im Grenzraum“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-066",
+   "question": "Welche Quelle verbindet Schleuse 7 mit Cerberus in Bezug auf „Überwachung im Grenzraum“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-067",
+   "question": "Welche Grenzen aus der Seite zu Cerberus müsste eine Deutung von Schleuse 7 unter „Überwachung im Grenzraum“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-068",
+   "question": "Wie könnte sich das Wissen über Schleuse 7 vom Wissen über Cerberus unterscheiden, wenn „Überwachung im Grenzraum“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Schleuse 7 und Cerberus bei „Überwachung im Grenzraum“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-070",
+   "question": "Falls Schleuse 7 im Hinblick auf „Überwachung im Grenzraum“ anders festgelegt wird: Welche Aussagen über Cerberus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Schleuse 7 und Cerberus bei „Überwachung im Grenzraum“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-072",
+   "question": "Braucht der Roman eine Verbindung von Schleuse 7 und Cerberus bei „Überwachung im Grenzraum“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-073",
+   "question": "In welchem denkbaren Fall könnte Schleuse 7 bestehen, ohne dass Cerberus dieselbe Funktion übernimmt, und was würde das für „Überwachung im Grenzraum“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-074",
+   "question": "Welche Kosten könnte eine Verbindung von Schleuse 7 und Cerberus in Bezug auf „Überwachung im Grenzraum“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-075",
+   "question": "Welche ältere Lesart von Schleuse 7 oder Cerberus könnte die Gegenüberstellung unter „Überwachung im Grenzraum“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Schleuse 7 und Cerberus unter „Überwachung im Grenzraum“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "schleuse-7",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-077",
+   "question": "Wo unterscheiden sich Schleuse 7 und Kael, wenn man sie unter dem Gesichtspunkt „Kosten einer Regelverletzung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-078",
+   "question": "Welche Quelle verbindet Schleuse 7 mit Kael in Bezug auf „Kosten einer Regelverletzung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Schleuse 7 unter „Kosten einer Regelverletzung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-080",
+   "question": "Wie könnte sich das Wissen über Schleuse 7 vom Wissen über Kael unterscheiden, wenn „Kosten einer Regelverletzung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Schleuse 7 und Kael bei „Kosten einer Regelverletzung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-082",
+   "question": "Falls Schleuse 7 im Hinblick auf „Kosten einer Regelverletzung“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Schleuse 7 und Kael bei „Kosten einer Regelverletzung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-084",
+   "question": "Braucht der Roman eine Verbindung von Schleuse 7 und Kael bei „Kosten einer Regelverletzung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-085",
+   "question": "In welchem denkbaren Fall könnte Schleuse 7 bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Kosten einer Regelverletzung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-086",
+   "question": "Welche Kosten könnte eine Verbindung von Schleuse 7 und Kael in Bezug auf „Kosten einer Regelverletzung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-087",
+   "question": "Welche ältere Lesart von Schleuse 7 oder Kael könnte die Gegenüberstellung unter „Kosten einer Regelverletzung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Schleuse 7 und Kael unter „Kosten einer Regelverletzung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "schleuse-7",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-089",
+   "question": "Wo unterscheiden sich Schleuse 7 und Risse, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Zugang und Freiheit“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-090",
+   "question": "Welche Quelle verbindet Schleuse 7 mit Risse in Bezug auf „Unterschied zwischen Zugang und Freiheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-091",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Schleuse 7 unter „Unterschied zwischen Zugang und Freiheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-092",
+   "question": "Wie könnte sich das Wissen über Schleuse 7 vom Wissen über Risse unterscheiden, wenn „Unterschied zwischen Zugang und Freiheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Schleuse 7 und Risse bei „Unterschied zwischen Zugang und Freiheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-094",
+   "question": "Falls Schleuse 7 im Hinblick auf „Unterschied zwischen Zugang und Freiheit“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Schleuse 7 und Risse bei „Unterschied zwischen Zugang und Freiheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-096",
+   "question": "Braucht der Roman eine Verbindung von Schleuse 7 und Risse bei „Unterschied zwischen Zugang und Freiheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-097",
+   "question": "In welchem denkbaren Fall könnte Schleuse 7 bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Zugang und Freiheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-098",
+   "question": "Welche Kosten könnte eine Verbindung von Schleuse 7 und Risse in Bezug auf „Unterschied zwischen Zugang und Freiheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-099",
+   "question": "Welche ältere Lesart von Schleuse 7 oder Risse könnte die Gegenüberstellung unter „Unterschied zwischen Zugang und Freiheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-schleuse-7-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Schleuse 7 und Risse unter „Unterschied zwischen Zugang und Freiheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "schleuse-7",
+    "risse"
+   ]
+  }
+ ]
+}

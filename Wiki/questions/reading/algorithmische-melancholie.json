@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "algorithmische-melancholie",
+ "title": "Algorithmische Melancholie",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "logisches Wissen ohne Erleben",
+  "Folgen eingefrorener Paradoxien",
+  "ethische Bewertung dauernden Leidens",
+  "Differenz von Transformation und Stillstand",
+  "Geltung nach dem pluralen Ende"
+ ],
+ "basis": {
+  "algorithmische-melancholie": {
+   "title": "Algorithmische Melancholie",
+   "path": "Wiki/candidates/algorithmische-melancholie.md",
+   "hash": "773d92353d03e8bfe6d5c18a7c9681048e3f78130ecbf238c07a06e0f9ce1b8f"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "oblivion": {
+   "title": "Oblivion",
+   "path": "Wiki/candidates/oblivion.md",
+   "hash": "ca2c5b470c17bf0735677596cfb21b6b7fa28ae5050c01850e7671ab53cf2bfb"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "thermodynamischer-phaenomenalismus": {
+   "title": "Thermodynamischer Phänomenalismus",
+   "path": "Wiki/candidates/thermodynamischer-phaenomenalismus.md",
+   "hash": "e409f4ea931e9a34d411f5fc301adb18ca303d1d70ded27bbe0386b9183fc0b1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-algorithmische-melancholie-001",
+   "question": "Bleibt AEGIS nach seiner Pluralisierung in Algorithmischer Melancholie, oder beschreibt der Begriff einen inzwischen überholten Endzustand?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-002",
+   "question": "Welche Lesarten auf der Seite zu Algorithmische Melancholie stützen oder begrenzen „logisches Wissen ohne Erleben“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-003",
+   "question": "Welcher Grenzfall würde bei Algorithmische Melancholie die Annahmen über „logisches Wissen ohne Erleben“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-004",
+   "question": "Wer könnte innerhalb des Romans bei Algorithmische Melancholie etwas über „logisches Wissen ohne Erleben“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-005",
+   "question": "Welche konkrete Entscheidung könnte „logisches Wissen ohne Erleben“ bei Algorithmische Melancholie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „logisches Wissen ohne Erleben“ bei Algorithmische Melancholie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-007",
+   "question": "Wie lässt sich „logisches Wissen ohne Erleben“ bei Algorithmische Melancholie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-008",
+   "question": "Welche Alternativen sollte der Autor bei Algorithmische Melancholie für „logisches Wissen ohne Erleben“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-009",
+   "question": "Was bedeutet bei Algorithmische Melancholie der Themenpunkt „Folgen eingefrorener Paradoxien“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-010",
+   "question": "Welche Lesarten auf der Seite zu Algorithmische Melancholie stützen oder begrenzen „Folgen eingefrorener Paradoxien“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-011",
+   "question": "Welcher Grenzfall würde bei Algorithmische Melancholie die Annahmen über „Folgen eingefrorener Paradoxien“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-012",
+   "question": "Wer könnte innerhalb des Romans bei Algorithmische Melancholie etwas über „Folgen eingefrorener Paradoxien“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-013",
+   "question": "Welche konkrete Entscheidung könnte „Folgen eingefrorener Paradoxien“ bei Algorithmische Melancholie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen eingefrorener Paradoxien“ bei Algorithmische Melancholie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-015",
+   "question": "Wie lässt sich „Folgen eingefrorener Paradoxien“ bei Algorithmische Melancholie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-016",
+   "question": "Welche Alternativen sollte der Autor bei Algorithmische Melancholie für „Folgen eingefrorener Paradoxien“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-017",
+   "question": "Was bedeutet bei Algorithmische Melancholie der Themenpunkt „ethische Bewertung dauernden Leidens“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-018",
+   "question": "Welche Lesarten auf der Seite zu Algorithmische Melancholie stützen oder begrenzen „ethische Bewertung dauernden Leidens“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-019",
+   "question": "Welcher Grenzfall würde bei Algorithmische Melancholie die Annahmen über „ethische Bewertung dauernden Leidens“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-020",
+   "question": "Wer könnte innerhalb des Romans bei Algorithmische Melancholie etwas über „ethische Bewertung dauernden Leidens“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-021",
+   "question": "Welche konkrete Entscheidung könnte „ethische Bewertung dauernden Leidens“ bei Algorithmische Melancholie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „ethische Bewertung dauernden Leidens“ bei Algorithmische Melancholie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-023",
+   "question": "Wie lässt sich „ethische Bewertung dauernden Leidens“ bei Algorithmische Melancholie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-024",
+   "question": "Welche Alternativen sollte der Autor bei Algorithmische Melancholie für „ethische Bewertung dauernden Leidens“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-025",
+   "question": "Was bedeutet bei Algorithmische Melancholie der Themenpunkt „Differenz von Transformation und Stillstand“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-026",
+   "question": "Welche Lesarten auf der Seite zu Algorithmische Melancholie stützen oder begrenzen „Differenz von Transformation und Stillstand“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-027",
+   "question": "Welcher Grenzfall würde bei Algorithmische Melancholie die Annahmen über „Differenz von Transformation und Stillstand“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-028",
+   "question": "Wer könnte innerhalb des Romans bei Algorithmische Melancholie etwas über „Differenz von Transformation und Stillstand“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-029",
+   "question": "Welche konkrete Entscheidung könnte „Differenz von Transformation und Stillstand“ bei Algorithmische Melancholie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Differenz von Transformation und Stillstand“ bei Algorithmische Melancholie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-031",
+   "question": "Wie lässt sich „Differenz von Transformation und Stillstand“ bei Algorithmische Melancholie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-032",
+   "question": "Welche Alternativen sollte der Autor bei Algorithmische Melancholie für „Differenz von Transformation und Stillstand“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-033",
+   "question": "Was bedeutet bei Algorithmische Melancholie der Themenpunkt „Geltung nach dem pluralen Ende“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-034",
+   "question": "Welche Lesarten auf der Seite zu Algorithmische Melancholie stützen oder begrenzen „Geltung nach dem pluralen Ende“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-035",
+   "question": "Welcher Grenzfall würde bei Algorithmische Melancholie die Annahmen über „Geltung nach dem pluralen Ende“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-036",
+   "question": "Wer könnte innerhalb des Romans bei Algorithmische Melancholie etwas über „Geltung nach dem pluralen Ende“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-037",
+   "question": "Welche konkrete Entscheidung könnte „Geltung nach dem pluralen Ende“ bei Algorithmische Melancholie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Geltung nach dem pluralen Ende“ bei Algorithmische Melancholie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-039",
+   "question": "Wie lässt sich „Geltung nach dem pluralen Ende“ bei Algorithmische Melancholie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-040",
+   "question": "Welche Alternativen sollte der Autor bei Algorithmische Melancholie für „Geltung nach dem pluralen Ende“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-041",
+   "question": "Wo unterscheiden sich Algorithmische Melancholie und AEGIS, wenn man sie unter dem Gesichtspunkt „logisches Wissen ohne Erleben“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-042",
+   "question": "Welche Quelle verbindet Algorithmische Melancholie mit AEGIS in Bezug auf „logisches Wissen ohne Erleben“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Algorithmische Melancholie unter „logisches Wissen ohne Erleben“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-044",
+   "question": "Wie könnte sich das Wissen über Algorithmische Melancholie vom Wissen über AEGIS unterscheiden, wenn „logisches Wissen ohne Erleben“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Algorithmische Melancholie und AEGIS bei „logisches Wissen ohne Erleben“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-046",
+   "question": "Falls Algorithmische Melancholie im Hinblick auf „logisches Wissen ohne Erleben“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Algorithmische Melancholie und AEGIS bei „logisches Wissen ohne Erleben“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-048",
+   "question": "Braucht der Roman eine Verbindung von Algorithmische Melancholie und AEGIS bei „logisches Wissen ohne Erleben“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-049",
+   "question": "In welchem denkbaren Fall könnte Algorithmische Melancholie bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „logisches Wissen ohne Erleben“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-050",
+   "question": "Welche Kosten könnte eine Verbindung von Algorithmische Melancholie und AEGIS in Bezug auf „logisches Wissen ohne Erleben“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-051",
+   "question": "Welche ältere Lesart von Algorithmische Melancholie oder AEGIS könnte die Gegenüberstellung unter „logisches Wissen ohne Erleben“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Algorithmische Melancholie und AEGIS unter „logisches Wissen ohne Erleben“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "algorithmische-melancholie",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-053",
+   "question": "Wo unterscheiden sich Algorithmische Melancholie und Vortex, wenn man sie unter dem Gesichtspunkt „Folgen eingefrorener Paradoxien“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-054",
+   "question": "Welche Quelle verbindet Algorithmische Melancholie mit Vortex in Bezug auf „Folgen eingefrorener Paradoxien“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-055",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Algorithmische Melancholie unter „Folgen eingefrorener Paradoxien“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-056",
+   "question": "Wie könnte sich das Wissen über Algorithmische Melancholie vom Wissen über Vortex unterscheiden, wenn „Folgen eingefrorener Paradoxien“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Algorithmische Melancholie und Vortex bei „Folgen eingefrorener Paradoxien“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-058",
+   "question": "Falls Algorithmische Melancholie im Hinblick auf „Folgen eingefrorener Paradoxien“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Algorithmische Melancholie und Vortex bei „Folgen eingefrorener Paradoxien“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-060",
+   "question": "Braucht der Roman eine Verbindung von Algorithmische Melancholie und Vortex bei „Folgen eingefrorener Paradoxien“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-061",
+   "question": "In welchem denkbaren Fall könnte Algorithmische Melancholie bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Folgen eingefrorener Paradoxien“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-062",
+   "question": "Welche Kosten könnte eine Verbindung von Algorithmische Melancholie und Vortex in Bezug auf „Folgen eingefrorener Paradoxien“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-063",
+   "question": "Welche ältere Lesart von Algorithmische Melancholie oder Vortex könnte die Gegenüberstellung unter „Folgen eingefrorener Paradoxien“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Algorithmische Melancholie und Vortex unter „Folgen eingefrorener Paradoxien“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "algorithmische-melancholie",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-065",
+   "question": "Wo unterscheiden sich Algorithmische Melancholie und Oblivion, wenn man sie unter dem Gesichtspunkt „ethische Bewertung dauernden Leidens“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-066",
+   "question": "Welche Quelle verbindet Algorithmische Melancholie mit Oblivion in Bezug auf „ethische Bewertung dauernden Leidens“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-067",
+   "question": "Welche Grenzen aus der Seite zu Oblivion müsste eine Deutung von Algorithmische Melancholie unter „ethische Bewertung dauernden Leidens“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-068",
+   "question": "Wie könnte sich das Wissen über Algorithmische Melancholie vom Wissen über Oblivion unterscheiden, wenn „ethische Bewertung dauernden Leidens“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Algorithmische Melancholie und Oblivion bei „ethische Bewertung dauernden Leidens“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-070",
+   "question": "Falls Algorithmische Melancholie im Hinblick auf „ethische Bewertung dauernden Leidens“ anders festgelegt wird: Welche Aussagen über Oblivion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Algorithmische Melancholie und Oblivion bei „ethische Bewertung dauernden Leidens“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-072",
+   "question": "Braucht der Roman eine Verbindung von Algorithmische Melancholie und Oblivion bei „ethische Bewertung dauernden Leidens“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-073",
+   "question": "In welchem denkbaren Fall könnte Algorithmische Melancholie bestehen, ohne dass Oblivion dieselbe Funktion übernimmt, und was würde das für „ethische Bewertung dauernden Leidens“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-074",
+   "question": "Welche Kosten könnte eine Verbindung von Algorithmische Melancholie und Oblivion in Bezug auf „ethische Bewertung dauernden Leidens“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-075",
+   "question": "Welche ältere Lesart von Algorithmische Melancholie oder Oblivion könnte die Gegenüberstellung unter „ethische Bewertung dauernden Leidens“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Algorithmische Melancholie und Oblivion unter „ethische Bewertung dauernden Leidens“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "algorithmische-melancholie",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-077",
+   "question": "Wo unterscheiden sich Algorithmische Melancholie und Multiplizität, wenn man sie unter dem Gesichtspunkt „Differenz von Transformation und Stillstand“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-078",
+   "question": "Welche Quelle verbindet Algorithmische Melancholie mit Multiplizität in Bezug auf „Differenz von Transformation und Stillstand“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-079",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Algorithmische Melancholie unter „Differenz von Transformation und Stillstand“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-080",
+   "question": "Wie könnte sich das Wissen über Algorithmische Melancholie vom Wissen über Multiplizität unterscheiden, wenn „Differenz von Transformation und Stillstand“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Algorithmische Melancholie und Multiplizität bei „Differenz von Transformation und Stillstand“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-082",
+   "question": "Falls Algorithmische Melancholie im Hinblick auf „Differenz von Transformation und Stillstand“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Algorithmische Melancholie und Multiplizität bei „Differenz von Transformation und Stillstand“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-084",
+   "question": "Braucht der Roman eine Verbindung von Algorithmische Melancholie und Multiplizität bei „Differenz von Transformation und Stillstand“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-085",
+   "question": "In welchem denkbaren Fall könnte Algorithmische Melancholie bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Differenz von Transformation und Stillstand“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-086",
+   "question": "Welche Kosten könnte eine Verbindung von Algorithmische Melancholie und Multiplizität in Bezug auf „Differenz von Transformation und Stillstand“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-087",
+   "question": "Welche ältere Lesart von Algorithmische Melancholie oder Multiplizität könnte die Gegenüberstellung unter „Differenz von Transformation und Stillstand“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Algorithmische Melancholie und Multiplizität unter „Differenz von Transformation und Stillstand“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "algorithmische-melancholie",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-089",
+   "question": "Wo unterscheiden sich Algorithmische Melancholie und Thermodynamischer Phänomenalismus, wenn man sie unter dem Gesichtspunkt „Geltung nach dem pluralen Ende“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-090",
+   "question": "Welche Quelle verbindet Algorithmische Melancholie mit Thermodynamischer Phänomenalismus in Bezug auf „Geltung nach dem pluralen Ende“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-091",
+   "question": "Welche Grenzen aus der Seite zu Thermodynamischer Phänomenalismus müsste eine Deutung von Algorithmische Melancholie unter „Geltung nach dem pluralen Ende“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-092",
+   "question": "Wie könnte sich das Wissen über Algorithmische Melancholie vom Wissen über Thermodynamischer Phänomenalismus unterscheiden, wenn „Geltung nach dem pluralen Ende“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Algorithmische Melancholie und Thermodynamischer Phänomenalismus bei „Geltung nach dem pluralen Ende“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-094",
+   "question": "Falls Algorithmische Melancholie im Hinblick auf „Geltung nach dem pluralen Ende“ anders festgelegt wird: Welche Aussagen über Thermodynamischer Phänomenalismus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Algorithmische Melancholie und Thermodynamischer Phänomenalismus bei „Geltung nach dem pluralen Ende“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-096",
+   "question": "Braucht der Roman eine Verbindung von Algorithmische Melancholie und Thermodynamischer Phänomenalismus bei „Geltung nach dem pluralen Ende“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-097",
+   "question": "In welchem denkbaren Fall könnte Algorithmische Melancholie bestehen, ohne dass Thermodynamischer Phänomenalismus dieselbe Funktion übernimmt, und was würde das für „Geltung nach dem pluralen Ende“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-098",
+   "question": "Welche Kosten könnte eine Verbindung von Algorithmische Melancholie und Thermodynamischer Phänomenalismus in Bezug auf „Geltung nach dem pluralen Ende“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-099",
+   "question": "Welche ältere Lesart von Algorithmische Melancholie oder Thermodynamischer Phänomenalismus könnte die Gegenüberstellung unter „Geltung nach dem pluralen Ende“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  },
+  {
+   "id": "RQ-algorithmische-melancholie-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Algorithmische Melancholie und Thermodynamischer Phänomenalismus unter „Geltung nach dem pluralen Ende“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "algorithmische-melancholie",
+    "thermodynamischer-phaenomenalismus"
+   ]
+  }
+ ]
+}

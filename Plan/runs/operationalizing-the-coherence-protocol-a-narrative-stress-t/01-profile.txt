@@ -1,0 +1,14 @@
+# operationalizing-the-coherence-protocol-a-narrative-stress-t
+  lines                82  (frontmatter ends at 9)
+  body words           1363
+  headings             17   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       13
+  backslash escapes    0
+  typographic marks    4   ascii quotes 46
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Prompt x12
+  longest line         906 chars
+

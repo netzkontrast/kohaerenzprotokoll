@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "guardians",
+ "title": "Guardians",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Arbeitsteilung der fünf Wächter",
+  "Verhältnis von Agent und Gesamtinstanz",
+  "gemeinsame gegenüber eigene Blindheit",
+  "Entkopplung von Wächter und Kernwelt",
+  "Konsequenzen eines abweichenden Urteils"
+ ],
+ "basis": {
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "logos": {
+   "title": "LogOS",
+   "path": "Wiki/candidates/logos.md",
+   "hash": "d667c8f76ae17d3ab2c925db860c87bf6e0666f1e7400b49b0bdfc8f8fbd9a0e"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "cerberus": {
+   "title": "Cerberus",
+   "path": "Wiki/candidates/cerberus.md",
+   "hash": "49c8604dd7260ec941debb7617dfaf07d3e3546b8f44dc6311dc81173e78b753"
+  },
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-guardians-001",
+   "question": "Welche Entscheidung kann ein Guardian gegen AEGIS treffen, ohne dadurch sofort aufzuhören, dessen spezialisierter Agent zu sein?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-002",
+   "question": "Welche Lesarten auf der Seite zu Guardians stützen oder begrenzen „Arbeitsteilung der fünf Wächter“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-003",
+   "question": "Welcher Grenzfall würde bei Guardians die Annahmen über „Arbeitsteilung der fünf Wächter“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-004",
+   "question": "Wer könnte innerhalb des Romans bei Guardians etwas über „Arbeitsteilung der fünf Wächter“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-005",
+   "question": "Welche konkrete Entscheidung könnte „Arbeitsteilung der fünf Wächter“ bei Guardians in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Arbeitsteilung der fünf Wächter“ bei Guardians haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-007",
+   "question": "Wie lässt sich „Arbeitsteilung der fünf Wächter“ bei Guardians zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-008",
+   "question": "Welche Alternativen sollte der Autor bei Guardians für „Arbeitsteilung der fünf Wächter“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-009",
+   "question": "Was bedeutet bei Guardians der Themenpunkt „Verhältnis von Agent und Gesamtinstanz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-010",
+   "question": "Welche Lesarten auf der Seite zu Guardians stützen oder begrenzen „Verhältnis von Agent und Gesamtinstanz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-011",
+   "question": "Welcher Grenzfall würde bei Guardians die Annahmen über „Verhältnis von Agent und Gesamtinstanz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-012",
+   "question": "Wer könnte innerhalb des Romans bei Guardians etwas über „Verhältnis von Agent und Gesamtinstanz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-013",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Agent und Gesamtinstanz“ bei Guardians in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Agent und Gesamtinstanz“ bei Guardians haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-015",
+   "question": "Wie lässt sich „Verhältnis von Agent und Gesamtinstanz“ bei Guardians zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-016",
+   "question": "Welche Alternativen sollte der Autor bei Guardians für „Verhältnis von Agent und Gesamtinstanz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-017",
+   "question": "Was bedeutet bei Guardians der Themenpunkt „gemeinsame gegenüber eigene Blindheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-018",
+   "question": "Welche Lesarten auf der Seite zu Guardians stützen oder begrenzen „gemeinsame gegenüber eigene Blindheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-019",
+   "question": "Welcher Grenzfall würde bei Guardians die Annahmen über „gemeinsame gegenüber eigene Blindheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-020",
+   "question": "Wer könnte innerhalb des Romans bei Guardians etwas über „gemeinsame gegenüber eigene Blindheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-021",
+   "question": "Welche konkrete Entscheidung könnte „gemeinsame gegenüber eigene Blindheit“ bei Guardians in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „gemeinsame gegenüber eigene Blindheit“ bei Guardians haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-023",
+   "question": "Wie lässt sich „gemeinsame gegenüber eigene Blindheit“ bei Guardians zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-024",
+   "question": "Welche Alternativen sollte der Autor bei Guardians für „gemeinsame gegenüber eigene Blindheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-025",
+   "question": "Was bedeutet bei Guardians der Themenpunkt „Entkopplung von Wächter und Kernwelt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-026",
+   "question": "Welche Lesarten auf der Seite zu Guardians stützen oder begrenzen „Entkopplung von Wächter und Kernwelt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-027",
+   "question": "Welcher Grenzfall würde bei Guardians die Annahmen über „Entkopplung von Wächter und Kernwelt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-028",
+   "question": "Wer könnte innerhalb des Romans bei Guardians etwas über „Entkopplung von Wächter und Kernwelt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-029",
+   "question": "Welche konkrete Entscheidung könnte „Entkopplung von Wächter und Kernwelt“ bei Guardians in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entkopplung von Wächter und Kernwelt“ bei Guardians haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-031",
+   "question": "Wie lässt sich „Entkopplung von Wächter und Kernwelt“ bei Guardians zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-032",
+   "question": "Welche Alternativen sollte der Autor bei Guardians für „Entkopplung von Wächter und Kernwelt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-033",
+   "question": "Was bedeutet bei Guardians der Themenpunkt „Konsequenzen eines abweichenden Urteils“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-034",
+   "question": "Welche Lesarten auf der Seite zu Guardians stützen oder begrenzen „Konsequenzen eines abweichenden Urteils“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-035",
+   "question": "Welcher Grenzfall würde bei Guardians die Annahmen über „Konsequenzen eines abweichenden Urteils“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-036",
+   "question": "Wer könnte innerhalb des Romans bei Guardians etwas über „Konsequenzen eines abweichenden Urteils“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-037",
+   "question": "Welche konkrete Entscheidung könnte „Konsequenzen eines abweichenden Urteils“ bei Guardians in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Konsequenzen eines abweichenden Urteils“ bei Guardians haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-039",
+   "question": "Wie lässt sich „Konsequenzen eines abweichenden Urteils“ bei Guardians zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-040",
+   "question": "Welche Alternativen sollte der Autor bei Guardians für „Konsequenzen eines abweichenden Urteils“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-guardians-041",
+   "question": "Wo unterscheiden sich Guardians und AEGIS, wenn man sie unter dem Gesichtspunkt „Arbeitsteilung der fünf Wächter“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-042",
+   "question": "Welche Quelle verbindet Guardians mit AEGIS in Bezug auf „Arbeitsteilung der fünf Wächter“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Guardians unter „Arbeitsteilung der fünf Wächter“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-044",
+   "question": "Wie könnte sich das Wissen über Guardians vom Wissen über AEGIS unterscheiden, wenn „Arbeitsteilung der fünf Wächter“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Guardians und AEGIS bei „Arbeitsteilung der fünf Wächter“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-046",
+   "question": "Falls Guardians im Hinblick auf „Arbeitsteilung der fünf Wächter“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Guardians und AEGIS bei „Arbeitsteilung der fünf Wächter“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-048",
+   "question": "Braucht der Roman eine Verbindung von Guardians und AEGIS bei „Arbeitsteilung der fünf Wächter“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-049",
+   "question": "In welchem denkbaren Fall könnte Guardians bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Arbeitsteilung der fünf Wächter“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-050",
+   "question": "Welche Kosten könnte eine Verbindung von Guardians und AEGIS in Bezug auf „Arbeitsteilung der fünf Wächter“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-051",
+   "question": "Welche ältere Lesart von Guardians oder AEGIS könnte die Gegenüberstellung unter „Arbeitsteilung der fünf Wächter“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Guardians und AEGIS unter „Arbeitsteilung der fünf Wächter“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "guardians",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-guardians-053",
+   "question": "Wo unterscheiden sich Guardians und LogOS, wenn man sie unter dem Gesichtspunkt „Verhältnis von Agent und Gesamtinstanz“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-054",
+   "question": "Welche Quelle verbindet Guardians mit LogOS in Bezug auf „Verhältnis von Agent und Gesamtinstanz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-055",
+   "question": "Welche Grenzen aus der Seite zu LogOS müsste eine Deutung von Guardians unter „Verhältnis von Agent und Gesamtinstanz“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-056",
+   "question": "Wie könnte sich das Wissen über Guardians vom Wissen über LogOS unterscheiden, wenn „Verhältnis von Agent und Gesamtinstanz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Guardians und LogOS bei „Verhältnis von Agent und Gesamtinstanz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-058",
+   "question": "Falls Guardians im Hinblick auf „Verhältnis von Agent und Gesamtinstanz“ anders festgelegt wird: Welche Aussagen über LogOS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Guardians und LogOS bei „Verhältnis von Agent und Gesamtinstanz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-060",
+   "question": "Braucht der Roman eine Verbindung von Guardians und LogOS bei „Verhältnis von Agent und Gesamtinstanz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-061",
+   "question": "In welchem denkbaren Fall könnte Guardians bestehen, ohne dass LogOS dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Agent und Gesamtinstanz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-062",
+   "question": "Welche Kosten könnte eine Verbindung von Guardians und LogOS in Bezug auf „Verhältnis von Agent und Gesamtinstanz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-063",
+   "question": "Welche ältere Lesart von Guardians oder LogOS könnte die Gegenüberstellung unter „Verhältnis von Agent und Gesamtinstanz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Guardians und LogOS unter „Verhältnis von Agent und Gesamtinstanz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "guardians",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-065",
+   "question": "Wo unterscheiden sich Guardians und Mnemosyne, wenn man sie unter dem Gesichtspunkt „gemeinsame gegenüber eigene Blindheit“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-066",
+   "question": "Welche Quelle verbindet Guardians mit Mnemosyne in Bezug auf „gemeinsame gegenüber eigene Blindheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-067",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Guardians unter „gemeinsame gegenüber eigene Blindheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-068",
+   "question": "Wie könnte sich das Wissen über Guardians vom Wissen über Mnemosyne unterscheiden, wenn „gemeinsame gegenüber eigene Blindheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Guardians und Mnemosyne bei „gemeinsame gegenüber eigene Blindheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-070",
+   "question": "Falls Guardians im Hinblick auf „gemeinsame gegenüber eigene Blindheit“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Guardians und Mnemosyne bei „gemeinsame gegenüber eigene Blindheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-072",
+   "question": "Braucht der Roman eine Verbindung von Guardians und Mnemosyne bei „gemeinsame gegenüber eigene Blindheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-073",
+   "question": "In welchem denkbaren Fall könnte Guardians bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „gemeinsame gegenüber eigene Blindheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-074",
+   "question": "Welche Kosten könnte eine Verbindung von Guardians und Mnemosyne in Bezug auf „gemeinsame gegenüber eigene Blindheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-075",
+   "question": "Welche ältere Lesart von Guardians oder Mnemosyne könnte die Gegenüberstellung unter „gemeinsame gegenüber eigene Blindheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Guardians und Mnemosyne unter „gemeinsame gegenüber eigene Blindheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "guardians",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-guardians-077",
+   "question": "Wo unterscheiden sich Guardians und Cerberus, wenn man sie unter dem Gesichtspunkt „Entkopplung von Wächter und Kernwelt“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-078",
+   "question": "Welche Quelle verbindet Guardians mit Cerberus in Bezug auf „Entkopplung von Wächter und Kernwelt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-079",
+   "question": "Welche Grenzen aus der Seite zu Cerberus müsste eine Deutung von Guardians unter „Entkopplung von Wächter und Kernwelt“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-080",
+   "question": "Wie könnte sich das Wissen über Guardians vom Wissen über Cerberus unterscheiden, wenn „Entkopplung von Wächter und Kernwelt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Guardians und Cerberus bei „Entkopplung von Wächter und Kernwelt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-082",
+   "question": "Falls Guardians im Hinblick auf „Entkopplung von Wächter und Kernwelt“ anders festgelegt wird: Welche Aussagen über Cerberus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Guardians und Cerberus bei „Entkopplung von Wächter und Kernwelt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-084",
+   "question": "Braucht der Roman eine Verbindung von Guardians und Cerberus bei „Entkopplung von Wächter und Kernwelt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-085",
+   "question": "In welchem denkbaren Fall könnte Guardians bestehen, ohne dass Cerberus dieselbe Funktion übernimmt, und was würde das für „Entkopplung von Wächter und Kernwelt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-086",
+   "question": "Welche Kosten könnte eine Verbindung von Guardians und Cerberus in Bezug auf „Entkopplung von Wächter und Kernwelt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-087",
+   "question": "Welche ältere Lesart von Guardians oder Cerberus könnte die Gegenüberstellung unter „Entkopplung von Wächter und Kernwelt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Guardians und Cerberus unter „Entkopplung von Wächter und Kernwelt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "guardians",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-guardians-089",
+   "question": "Wo unterscheiden sich Guardians und Kairos, wenn man sie unter dem Gesichtspunkt „Konsequenzen eines abweichenden Urteils“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-090",
+   "question": "Welche Quelle verbindet Guardians mit Kairos in Bezug auf „Konsequenzen eines abweichenden Urteils“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-091",
+   "question": "Welche Grenzen aus der Seite zu Kairos müsste eine Deutung von Guardians unter „Konsequenzen eines abweichenden Urteils“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-092",
+   "question": "Wie könnte sich das Wissen über Guardians vom Wissen über Kairos unterscheiden, wenn „Konsequenzen eines abweichenden Urteils“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Guardians und Kairos bei „Konsequenzen eines abweichenden Urteils“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-094",
+   "question": "Falls Guardians im Hinblick auf „Konsequenzen eines abweichenden Urteils“ anders festgelegt wird: Welche Aussagen über Kairos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Guardians und Kairos bei „Konsequenzen eines abweichenden Urteils“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-096",
+   "question": "Braucht der Roman eine Verbindung von Guardians und Kairos bei „Konsequenzen eines abweichenden Urteils“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-097",
+   "question": "In welchem denkbaren Fall könnte Guardians bestehen, ohne dass Kairos dieselbe Funktion übernimmt, und was würde das für „Konsequenzen eines abweichenden Urteils“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-098",
+   "question": "Welche Kosten könnte eine Verbindung von Guardians und Kairos in Bezug auf „Konsequenzen eines abweichenden Urteils“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-099",
+   "question": "Welche ältere Lesart von Guardians oder Kairos könnte die Gegenüberstellung unter „Konsequenzen eines abweichenden Urteils“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-guardians-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Guardians und Kairos unter „Konsequenzen eines abweichenden Urteils“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "guardians",
+    "kairos"
+   ]
+  }
+ ]
+}
