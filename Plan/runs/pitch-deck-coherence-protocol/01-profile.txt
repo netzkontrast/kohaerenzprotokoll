@@ -1,0 +1,14 @@
+# pitch-deck-coherence-protocol
+  lines                92  (frontmatter ends at 9)
+  body words           1677
+  headings             8   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    36
+  typographic marks    20   ascii quotes 40
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         586 chars
+

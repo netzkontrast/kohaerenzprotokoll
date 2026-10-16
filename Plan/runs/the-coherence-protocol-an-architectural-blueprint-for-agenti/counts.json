@@ -1,0 +1,499 @@
+{
+  "document": "the-coherence-protocol-an-architectural-blueprint-for-agenti",
+  "drive_id": "1FKhws6B-OlVc4xdAoHx_1uKu87Q2DCdA8NkpddRmHi0",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        18,
+        22,
+        40,
+        97
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        48,
+        83,
+        85
+      ]
+    },
+    "AEGIS": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        26,
+        48,
+        69,
+        89,
+        93
+      ]
+    },
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        26,
+        32,
+        48,
+        69,
+        89,
+        93
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        89
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "The Foundation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "K\\_1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "K\\_0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        93
+      ]
+    },
+    "narrative entropy": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        40,
+        97
+      ]
+    },
+    "systemic authorship": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Operational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Emergent Order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Coherence via Exclusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Coherence via Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "System-Dirigent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "NovelOS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        52,
+        54,
+        58,
+        74,
+        85,
+        89,
+        93
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        60
+      ]
+    },
+    "NCP": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        58,
+        60,
+        68,
+        70,
+        74,
+        77,
+        89
+      ]
+    },
+    "ARCHON": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        66,
+        68,
+        70
+      ]
+    },
+    "AgentOrchestra": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "The Director": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "The Ontologist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "The Authors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "The Critic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Five Commandments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Makro-KG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "METATRON-Planer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Doubly-Linked List of Causality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Orphan Events": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Dead Ends": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Self-Reflection Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Critique Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Four-Stage Prompt Cascade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Hybrid Data Backend": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "worldState": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        80
+      ]
+    },
+    "isomorphic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Coherence theory of truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Correspondence theory of truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Classical Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Dialetheism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        35
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "IFS": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        93
+      ]
+    },
+    "Dramatica": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        38,
+        40,
+        44,
+        48,
+        60,
+        68
+      ]
+    },
+    "BDI": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        69
+      ]
+    },
+    "OCC": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        69
+      ]
+    },
+    "ReAct": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70
+      ]
+    },
+    "Syuzhet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Fabula": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "GraphRAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "DSPy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81
+      ]
+    },
+    "TextGrad": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81
+      ]
+    }
+  }
+}

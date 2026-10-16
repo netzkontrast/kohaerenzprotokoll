@@ -1,0 +1,50 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a general essay on narrative coherence and algorithmic systems for it (story bibles, ontologies, the SCORE framework, planners, validators, recombination). It names nothing of the novel's world: no figure, place or object. The candidates are therefore the document's own set-in-italic terms and the frameworks and methods it applies or reports. Where the line wraps a compound (Kohärenz-Protokoll at the end of a line) the whole form cannot be counted and is listed in the form that stands on one line.
+
+- Kohärenz-Protokoll
+- Kohärenz-Protokolls
+- Story Bibles
+- Style Sheets
+- Ontologie des Romans
+- Wissensgraphen
+- Narrative Context Protocol
+- NCP
+- Storyform
+- Dramatica
+- Story-Grammatik
+- SCORE
+- dynamisches Zustandstracking
+- Wissensgraph-Tracking
+- Knowledge-Graph-Struktur
+- kontextbewusste Zusammenfassung
+- Episoden-Zusammenfassungen
+- hybride Informationswiedergewinnung
+- Hybrid Retrieval
+- semantic memory
+- TALE-SPIN
+- Kontrollinstanz
+- Validator
+- Narrative Incoherence Detection
+- Rekombination und Variantenbildung
+- Constraints
+- Lean Knowledge Base
+- Clustering
+- OntoMedia
+- Weltkonsistenz
+- Handlungslogik
+- temporale Kohärenz
+- übergeordnete Struktur
+- Makro-Struktur
+- Einklinkpunkte
+- autorähnliches Weltwissen
+- logische Inferenz
+- strukturierende Pläne
+- semantischen Netzwerken
+- Wissensmodelle
+- kausale Ketten
+- Video-Recombination-Techniken
+- Kohärenz-Detektor
+- Story-Maps
+- Zeitstrahl
+- Setups und Payoffs

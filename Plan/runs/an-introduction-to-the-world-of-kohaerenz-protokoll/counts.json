@@ -1,0 +1,307 @@
+{
+  "document": "an-introduction-to-the-world-of-kohaerenz-protokoll",
+  "drive_id": "1_LuDSyDJfgRC19qM1fL5OAKBkPOdI8mZdOAX8DLettk",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        13,
+        17,
+        31,
+        79
+      ]
+    },
+    "Kael": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        13,
+        19,
+        21,
+        25,
+        29,
+        31,
+        33,
+        35,
+        40,
+        45,
+        47,
+        59,
+        65,
+        73,
+        79,
+        91
+      ]
+    },
+    "AEGIS": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        13,
+        23,
+        25,
+        45,
+        49,
+        51,
+        55,
+        59,
+        61,
+        65,
+        69,
+        73,
+        79,
+        85
+      ]
+    },
+    "Coherence": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        57,
+        59,
+        77,
+        88
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        40,
+        45
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        41,
+        45
+      ]
+    },
+    "Emotional Parts (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "ontological exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Nothingness Roaring": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Existence Through Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        55
+      ]
+    },
+    "Paradox of Misaligned Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Perverse Instantiation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Das Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "The Foundation": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        63,
+        65,
+        69,
+        73,
+        79,
+        85
+      ]
+    },
+    "resonate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Source of Order": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86
+      ]
+    },
+    "View of Contradiction": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87
+      ]
+    },
+    "Path to Coherence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        88
+      ]
+    },
+    "Guiding Principle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89
+      ]
+    },
+    "Tertiary Theory of Structural Dissociation (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Tertiary Theory of Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Gödel sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "chaos theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Gnosis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        89
+      ]
+    },
+    "Episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        89
+      ]
+    },
+    "complex adaptive system": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        31
+      ]
+    }
+  }
+}

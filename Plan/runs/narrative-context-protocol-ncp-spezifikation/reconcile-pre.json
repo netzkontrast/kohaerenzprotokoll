@@ -1,0 +1,442 @@
+{
+  "document": "narrative-context-protocol-ncp-spezifikation",
+  "step": "reconcile-pre",
+  "at": "2026-10-13",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-13",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 83,
+  "decisions": 78,
+  "same_surface": {
+    "junav": [
+      "Juna/V",
+      "JunaV"
+    ]
+  },
+  "decided_mechanically": 66,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 320
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 330
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Theorie der Narrativen Systemik"
+      },
+      {
+        "candidate": "Story-Subsysteme"
+      },
+      {
+        "candidate": "System-Dirigent"
+      },
+      {
+        "candidate": "LLM-Dirigenten"
+      },
+      {
+        "candidate": "Narrative Context Protocol"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "Single Source of Truth"
+      },
+      {
+        "candidate": "Story Mind"
+      },
+      {
+        "candidate": "Prompt-Kaskade"
+      },
+      {
+        "candidate": "State Analysis Prompt"
+      },
+      {
+        "candidate": "Context Compression Prompt"
+      },
+      {
+        "candidate": "Narrative Generation Prompt"
+      },
+      {
+        "candidate": "State Update Prompt"
+      },
+      {
+        "candidate": "dynamische Kontext-Kompression"
+      },
+      {
+        "candidate": "narrativ bewussten Zustandsabstraktion"
+      },
+      {
+        "candidate": "narrativen Vektor"
+      },
+      {
+        "candidate": "activeFocalSystem"
+      },
+      {
+        "candidate": "worldState"
+      },
+      {
+        "candidate": "interferenceRules"
+      },
+      {
+        "candidate": "userModel"
+      },
+      {
+        "candidate": "narrativeLog"
+      },
+      {
+        "candidate": "systemStates"
+      },
+      {
+        "candidate": "plotProgress"
+      },
+      {
+        "candidate": "entropyLevel"
+      },
+      {
+        "candidate": "compressedContext"
+      },
+      {
+        "candidate": "expressedContext"
+      },
+      {
+        "candidate": "decisionHistory"
+      },
+      {
+        "candidate": "resonanceSignalStrength"
+      },
+      {
+        "candidate": "Dramaturgische Aufseher"
+      },
+      {
+        "candidate": "Dramaturgischer Aufseher"
+      },
+      {
+        "candidate": "Meta-Agent"
+      },
+      {
+        "candidate": "Strukturelle Integritätsprüfung"
+      },
+      {
+        "candidate": "Konvergenzprüfung"
+      },
+      {
+        "candidate": "Kontradiktionsprüfung"
+      },
+      {
+        "candidate": "Dynamische Paar-Interferenz"
+      },
+      {
+        "candidate": "Begleiter-Paar-Interferenz"
+      },
+      {
+        "candidate": "Abhängige Paar-Interferenz"
+      },
+      {
+        "candidate": "genetische Signatur"
+      },
+      {
+        "candidate": "hybrides Modell"
+      },
+      {
+        "candidate": "Primäre Rolle"
+      },
+      {
+        "candidate": "Domäne"
+      },
+      {
+        "candidate": "Anliegen"
+      },
+      {
+        "candidate": "Problem"
+      },
+      {
+        "candidate": "Lösung"
+      },
+      {
+        "candidate": "Symptom"
+      },
+      {
+        "candidate": "Response"
+      },
+      {
+        "candidate": "Ziel"
+      },
+      {
+        "candidate": "Konsequenz"
+      },
+      {
+        "candidate": "Faith"
+      },
+      {
+        "candidate": "Disbelief"
+      },
+      {
+        "candidate": "Doubt"
+      },
+      {
+        "candidate": "Control"
+      },
+      {
+        "candidate": "Throughlines"
+      },
+      {
+        "candidate": "Table of Story Elements"
+      },
+      {
+        "candidate": "Objective Story"
+      },
+      {
+        "candidate": "Main Character"
+      },
+      {
+        "candidate": "Obstacle Character"
+      },
+      {
+        "candidate": "Subjective Story"
+      },
+      {
+        "candidate": "OODA-Loop"
+      },
+      {
+        "candidate": "ReAct"
+      },
+      {
+        "candidate": "Standard-RAG"
+      },
+      {
+        "candidate": "Agentic RAG"
+      },
+      {
+        "candidate": "LangGraph"
+      },
+      {
+        "candidate": "Few-Shot"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Das Fundament  /  DasFundament",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nicht-Fokal-Systeme  /  Fokal-System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "thematicTension  /  Thema",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "narrativePotential  /  narrativePotentials",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "thematicAffinity  /  Thema",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Storyforms  /  Storyform",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica-Storyform  /  Dramatica",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica-Storyform  /  Storyform",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica-Quads  /  Dramatica",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramatica-Quads  /  Quad",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 75,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 30,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 45,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

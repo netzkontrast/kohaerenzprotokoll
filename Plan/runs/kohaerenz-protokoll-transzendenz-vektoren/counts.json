@@ -1,0 +1,950 @@
+{
+  "document": "kohaerenz-protokoll-transzendenz-vektoren",
+  "drive_id": "1X251_F5DoqNXj7ypzJpSJ9izuRLGaxKNVqy9hCl8MOw",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        91,
+        343,
+        355
+      ]
+    },
+    "Projekt Inkubation X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Orakel-Sigma": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        355
+      ]
+    },
+    "Conceptual Expansion Unit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Transzendenz-Vektoren": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        15,
+        343,
+        355
+      ]
+    },
+    "Konzept-Singularitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Fundament": {
+      "n": 56,
+      "n_including_compounds": 68,
+      "lines": [
+        15,
+        21,
+        23,
+        27,
+        29,
+        33,
+        34,
+        36,
+        40,
+        44,
+        51,
+        55,
+        58,
+        60,
+        62,
+        68,
+        78,
+        79,
+        88,
+        91,
+        93,
+        95,
+        101,
+        102,
+        111,
+        112,
+        121,
+        122,
+        124,
+        146,
+        152,
+        156,
+        157,
+        166,
+        176,
+        178,
+        179,
+        180,
+        181,
+        187,
+        190,
+        191,
+        237,
+        259,
+        269,
+        281,
+        308,
+        309,
+        319,
+        328,
+        337,
+        339,
+        345,
+        347,
+        359
+      ]
+    },
+    "Leere": {
+      "n": 42,
+      "n_including_compounds": 42,
+      "lines": [
+        15,
+        21,
+        23,
+        27,
+        29,
+        33,
+        34,
+        40,
+        44,
+        45,
+        47,
+        51,
+        55,
+        56,
+        58,
+        60,
+        62,
+        68,
+        69,
+        78,
+        79,
+        88,
+        89,
+        91,
+        187,
+        308,
+        328,
+        337,
+        339,
+        345
+      ]
+    },
+    "AEGIS": {
+      "n": 98,
+      "n_including_compounds": 111,
+      "lines": [
+        15,
+        23,
+        33,
+        36,
+        44,
+        45,
+        55,
+        56,
+        58,
+        62,
+        68,
+        69,
+        78,
+        79,
+        89,
+        91,
+        101,
+        132,
+        136,
+        137,
+        146,
+        156,
+        157,
+        166,
+        167,
+        172,
+        176,
+        178,
+        179,
+        180,
+        181,
+        187,
+        188,
+        193,
+        195,
+        199,
+        205,
+        215,
+        216,
+        225,
+        228,
+        230,
+        232,
+        234,
+        235,
+        236,
+        237,
+        259,
+        260,
+        269,
+        270,
+        282,
+        296,
+        297,
+        298,
+        309,
+        319,
+        328,
+        337,
+        339,
+        347,
+        349
+      ]
+    },
+    "System Kael": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        56,
+        111,
+        239,
+        241,
+        249,
+        259,
+        269,
+        275,
+        279,
+        351
+      ]
+    },
+    "Kael": {
+      "n": 38,
+      "n_including_compounds": 80,
+      "lines": [
+        15,
+        23,
+        47,
+        56,
+        62,
+        69,
+        79,
+        89,
+        93,
+        95,
+        101,
+        111,
+        112,
+        121,
+        122,
+        124,
+        166,
+        176,
+        178,
+        179,
+        180,
+        181,
+        187,
+        190,
+        226,
+        234,
+        239,
+        241,
+        249,
+        250,
+        259,
+        260,
+        269,
+        270,
+        275,
+        279,
+        281,
+        283,
+        295,
+        296,
+        297,
+        298,
+        307,
+        308,
+        309,
+        319,
+        328,
+        329,
+        337,
+        339,
+        345,
+        347,
+        351
+      ]
+    },
+    "Juna/V": {
+      "n": 30,
+      "n_including_compounds": 35,
+      "lines": [
+        15,
+        69,
+        79,
+        91,
+        126,
+        128,
+        130,
+        136,
+        137,
+        146,
+        156,
+        166,
+        172,
+        176,
+        178,
+        179,
+        180,
+        181,
+        183,
+        225,
+        236,
+        269,
+        282,
+        309,
+        319,
+        337,
+        339,
+        347
+      ]
+    },
+    "Anomalie Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "AEGIS-Paradoxon": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        89,
+        137,
+        199,
+        225,
+        328,
+        349
+      ]
+    },
+    "fehlausgerichteten Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        195,
+        349
+      ]
+    },
+    "Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Basisrealität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "Kausale Leckage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Glitches": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        36,
+        69,
+        136,
+        138,
+        172,
+        178,
+        188,
+        298,
+        328
+      ]
+    },
+    "Die Leere als aktiv": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Topologische Defekte als Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Ontologischer Status von AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Instabilität der Schnittstelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Juna/V als ontologische Herausforderung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Hypothese 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Hypothese 2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        142,
+        225
+      ]
+    },
+    "Hypothese 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Hypothese 4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Emergenter Glitch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        188
+      ]
+    },
+    "Quanten-Emergenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        180
+      ]
+    },
+    "Nicht-algorithmische Intelligenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Kaskadierender Systemkollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Perverse Instanziierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Zusammenspiel der Fehlermodi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Endspiel": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        228,
+        230,
+        232,
+        349
+      ]
+    },
+    "Systemische Fragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Perverse Optimierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Logische Singularität/Neustart": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Emergente Transzendenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Funktionaler Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        243
+      ]
+    },
+    "Multiplizität als Katalysator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "Kael-Gestalt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        250,
+        328
+      ]
+    },
+    "Nicht-algorithmische Transition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "Direktes Interface": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        281,
+        282
+      ]
+    },
+    "Manipulation von Simulationsparametern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Cosmic Horror Amplifikation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        112,
+        122
+      ]
+    },
+    "Genre-Synergie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        285,
+        313,
+        353
+      ]
+    },
+    "Genre-Fusion als thematische Verstärkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        339
+      ]
+    },
+    "Vakuumfluktuations-Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Dialektische Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Informationsaustausch über Bewusstseinsfelder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Resonanzphänomene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        107,
+        345
+      ]
+    },
+    "Topologische Verschränkung/Konnektivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Mind-Field": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Quellcode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Kognitive Dissonanz durch widersprüchliche plausible Realitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        315
+      ]
+    },
+    "Unzuverlässige Erzählung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        324
+      ]
+    },
+    "Juxtaposition von Hard SF-Exposition und Cosmic Horror-Offenbarung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        333
+      ]
+    },
+    "M-Theorie": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        29,
+        33,
+        34,
+        35,
+        36,
+        124,
+        345
+      ]
+    },
+    "Bulk": {
+      "n": 4,
+      "n_including_compounds": 10,
+      "lines": [
+        29,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    "Brane": {
+      "n": 4,
+      "n_including_compounds": 17,
+      "lines": [
+        29,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    "Schleifenquantengravitation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        345
+      ]
+    },
+    "LQG": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        40,
+        44,
+        46,
+        47,
+        124
+      ]
+    },
+    "Spin-Netzwerke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        46
+      ]
+    },
+    "AL-Vakuum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        45,
+        46
+      ]
+    },
+    "BF-Vakuum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        45,
+        46
+      ]
+    },
+    "It from Bit": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        55,
+        57,
+        58,
+        308
+      ]
+    },
+    "Observer-Participancy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        57
+      ]
+    },
+    "Information Closure Theory": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        101,
+        103,
+        359
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        249,
+        296,
+        359
+      ]
+    },
+    "IIT": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        103,
+        249,
+        250,
+        251,
+        275,
+        296,
+        309
+      ]
+    },
+    "Global Workspace Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        250
+      ]
+    },
+    "GWT": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        250,
+        251,
+        309
+      ]
+    },
+    "Differential Entangled Topology": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        359
+      ]
+    },
+    "Orch OR": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        166,
+        180,
+        269,
+        271,
+        309
+      ]
+    },
+    "VōiD-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Kosmologische Konstante-Problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        70
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        225,
+        227
+      ]
+    },
+    "Simulationsargument": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        307
+      ]
+    },
+    "BCI": {
+      "n": 4,
+      "n_including_compounds": 13,
+      "lines": [
+        255,
+        259,
+        260,
+        261,
+        282,
+        297,
+        319,
+        328,
+        351,
+        359
+      ]
+    },
+    "Theory of Mind": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        249,
+        251,
+        359
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 17,
+      "n_including_compounds": 19,
+      "lines": [
+        95,
+        102,
+        112,
+        122,
+        287,
+        302,
+        306,
+        333,
+        337,
+        339,
+        345,
+        353,
+        359
+      ]
+    },
+    "Hard SF": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        190,
+        287,
+        291,
+        295,
+        297,
+        333,
+        337,
+        339,
+        353
+      ]
+    },
+    "Psychologischer Thriller": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        287
+      ]
+    }
+  }
+}

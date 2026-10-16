@@ -1,0 +1,222 @@
+{
+  "document": "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere",
+  "drive_id": "1wpinE3w2X9-wfqiW6wybvrtIaEm72zPDk0_ZUw7mmB0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings, one record entry (Q3) and 39 chapter readings (kap-01 to kap-39) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-310/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 86,
+    "decisions": 83,
+    "decided_by_lookup": 60,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plot outline with a 39-chapter theme draft: its new surfaces are the entity M, the four named worlds, its coherence labels and the borrowed concepts each chapter is keyed to; what it says of AEGIS, Kael, Juna, the Kernwelten, the Potentialmeer, the caches, the link, DID, emergence, entropy and the Risse went on existing pages, its world count on Q3, and each chapter entry on its chapter page.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        22,
+        24,
+        54,
+        73,
+        78
+      ],
+      "attribution": "",
+      "note": "AEGIS as the autopoietic AI, a faulty controller, and the system that cracks"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        22,
+        52,
+        60,
+        72
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as faulty caches, and three chapters keyed to the metaphor"
+    },
+    {
+      "page": "did",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "DID as the process of Kael's fragmentation in Kapitel 4"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        24,
+        65,
+        69
+      ],
+      "attribution": "",
+      "note": "Kael seeds simple rules in the Ly-Welt, and Teil 3 is titled for Emergenz"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "the resolution's possibly low-entropy form of existence in Kapitel 39"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        22,
+        24,
+        55,
+        71,
+        79
+      ],
+      "attribution": "",
+      "note": "Juna as support, shared perception and mediator of an intuitive insight"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        22,
+        39,
+        40,
+        58,
+        74,
+        79
+      ],
+      "attribution": "",
+      "note": "Kael as M's avatar, fragmented, confronting his shadow, fused and integrated"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        15,
+        17,
+        18,
+        19,
+        20,
+        70,
+        74
+      ],
+      "attribution": "",
+      "note": "20 Kernwelten, four in focus, the other 16 and the leaks between worlds"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        22,
+        76
+      ],
+      "attribution": "",
+      "note": "the K-J link as Moonshine-Link and its culmination as a stable channel"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        15,
+        36,
+        79
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as unstable meta-space, shown in Kapitel 1 and changed at the end"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        26,
+        47,
+        54
+      ],
+      "attribution": "",
+      "note": "AEGIS' system with visible Risse, the cascading corruption, and Teil 2's title"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael` and `Kael/M` on kael; the four worlds with and without their group letters (`Conway-Welt (Co₁)`, `McLaughlin-Welt (McL)`, `Baby-Monster-Welt (B)`, `Lyons-Welt (Ly)`) one world each, not promoted; `Moonshine-Link` on moonshine-link, `Moonshine` and `Monstrous Moonshine` the borrowed mathematics; `Fehlerkorrekturcode`/`-codes`, `Gödel` and the theorems, `Theseus` and the ship, `Verschränkung`, `Transpersonale Psychologie` lens; the plan's coherence labels read with cache-kohaerenz and aegis, not promoted; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 30,
+      "decision": "occurrence",
+      "why": "a theme word in the Kernthemen line"
+    }
+  ],
+  "not_promoted": [
+    "the entity M and the four named worlds with their rules",
+    "the Kohärenz-Controller and the ontological friction",
+    "the chapter concept labels",
+    "the borrowed lens (Gödel, Theseus, Moonshine, IFS, NET, cellular automata, quantum foam, transpersonal psychology)"
+  ],
+  "internal_tension": "its export restarts the chapter numbering in each part, so Kapitel N follows only from the part ranges and the order (L34, L47, L65); its resolution asks whether coherence is reached and whether the new state is low-entropic (L80)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,14 @@
+# kapitelanreicherung-mit-fundamentalen-konzepten
+  lines                80  (frontmatter ends at 9)
+  body words           2684
+  headings             1   bold-only lines 4
+  table rows           48   code fences 0
+  question marks       6
+  backslash escapes    190
+  typographic marks    43   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    41
+  repeated labels      none
+  longest line         1008 chars
+

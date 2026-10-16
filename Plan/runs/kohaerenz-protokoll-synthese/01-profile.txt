@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-synthese
+  lines                356  (frontmatter ends at 9)
+  body words           5968
+  headings             33   bold-only lines 7
+  table rows           54   code fences 0
+  question marks       27
+  backslash escapes    234
+  typographic marks    85   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    34
+  repeated labels      none
+  longest line         1018 chars
+

@@ -1,0 +1,32 @@
+$ read.py --count "The Foundation IS NOT:"
+`The Foundation IS NOT:` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "The Foundation IS:"
+`The Foundation IS:` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "Subjectivity"
+`Subjectivity` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "Emergence"
+`Emergence` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#2]
+$ read.py --count "Authentic Connection"
+`Authentic Connection` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "Paradox"
+`Paradox` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "Potentiality"
+`Potentiality` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "Correspondence"
+`Correspondence` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#5]
+$ read.py --count "gnosis"
+`gnosis` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#5]
+$ read.py --count "Episteme"
+`Episteme` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#3]
+$ read.py --count "Beneficence"
+`Beneficence` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#2]
+$ read.py --count "Autonomy"
+`Autonomy` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#2]
+$ read.py --count "ANPs"
+`ANPs` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]
+$ read.py --count "EPs"
+`EPs` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#2]
+$ read.py --count "Kap"
+`Kap` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#0]
+$ read.py --count "Paraiyas"
+`Paraiyas` ^[the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found.md:#1]

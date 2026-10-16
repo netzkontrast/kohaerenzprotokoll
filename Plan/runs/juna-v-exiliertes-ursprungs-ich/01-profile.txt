@@ -1,0 +1,14 @@
+# juna-v-exiliertes-ursprungs-ich
+  lines                262  (frontmatter ends at 9)
+  body words           4053
+  headings             17   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       17
+  backslash escapes    32
+  typographic marks    14   ascii quotes 190
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    64
+  repeated labels      none
+  longest line         1224 chars
+

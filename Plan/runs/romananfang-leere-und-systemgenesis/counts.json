@@ -1,0 +1,453 @@
+{
+  "document": "romananfang-leere-und-systemgenesis",
+  "drive_id": "1odO2ExehtkNkZmjtX5mxiaGlGpun7oiloyYt9YH4_CU",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 61,
+      "n_including_compounds": 67,
+      "lines": [
+        25,
+        31,
+        39,
+        51,
+        55,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        88,
+        89,
+        91,
+        93,
+        96,
+        97,
+        99,
+        103,
+        104,
+        111,
+        113,
+        114,
+        115,
+        117,
+        119,
+        123,
+        128,
+        132,
+        133,
+        145,
+        147,
+        148,
+        150,
+        154,
+        170,
+        194,
+        202,
+        204,
+        208,
+        210,
+        216,
+        220
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Entropic Gatekeeper": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        104
+      ]
+    },
+    "Überwelt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        87,
+        96,
+        202,
+        210
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        202
+      ]
+    },
+    "digitale Entropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        88
+      ]
+    },
+    "nicht-lokale Nicht-Existenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        85
+      ]
+    },
+    "Nicht-Existenz": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        19,
+        23,
+        31,
+        39,
+        51,
+        79,
+        85,
+        88,
+        106,
+        110,
+        127,
+        141,
+        147,
+        150,
+        166,
+        220
+      ]
+    },
+    "Nicht-lokal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Ultimative Entropische Bedrohung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Absolute Entropy Event": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "universal reboot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        93
+      ]
+    },
+    "Universal Reboot": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        91,
+        97
+      ]
+    },
+    "UNIVERSAL REBOOT PROTOCOL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        105,
+        174
+      ]
+    },
+    "ZTEM": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        73,
+        75,
+        105,
+        174
+      ]
+    },
+    "Zero-Trust-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Real-time self-verification": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        106,
+        172
+      ]
+    },
+    "RTSV": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        75,
+        97,
+        106,
+        172
+      ]
+    },
+    "Behavioral Proof-of-Function": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "BPoF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Encrypted Intent Channels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "EIC": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Integrity Guardian": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        95,
+        109,
+        176
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        95,
+        110,
+        178
+      ]
+    },
+    "Consensus Enforcer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        97,
+        111,
+        188
+      ]
+    },
+    "Self-Verification Interface": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        182
+      ]
+    },
+    "SVI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        112,
+        182
+      ]
+    },
+    "Logical Consistency Analysis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "LCA": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        182
+      ]
+    },
+    "Redundanzfreie Informationskapselung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "RIK": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        184
+      ]
+    },
+    "Dynamic Role Instancing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        186
+      ]
+    },
+    "DRI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        186
+      ]
+    },
+    "Secure Isolation State": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        97,
+        114,
+        196,
+        218
+      ]
+    },
+    "SIS": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        97,
+        108,
+        114,
+        182,
+        196,
+        204,
+        218
+      ]
+    },
+    "Rekursive Selbstdefinition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Recursive Self-Definition Validation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "AEGIS Functional Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Kontrollkern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        220
+      ]
+    },
+    "Meta-Erzähler": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        37
+      ]
+    },
+    "Meta-Dialog": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        123,
+        133,
+        145
+      ]
+    },
+    "Gedankenreise": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        43,
+        123,
+        146,
+        147
+      ]
+    },
+    "Genesis im Echo der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Śūnyatā": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        25,
+        160
+      ]
+    },
+    "Quantenschaum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Quantenfluktuationen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    }
+  }
+}

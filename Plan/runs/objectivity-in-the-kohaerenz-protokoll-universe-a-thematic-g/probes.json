@@ -1,0 +1,69 @@
+{
+  "document": "objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g",
+  "drive_id": "1EQNMOU3TxIKiFnBUn24o_IlAw6qD-G9_ZBtasj6vcZI",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 16,
+  "typographic_marks": 15,
+  "ascii_quotes": 42,
+  "inflection_families": {
+    "theor": [
+      "Theorems",
+      "Theories",
+      "Theory"
+    ],
+    "chall": [
+      "Challenge",
+      "Challenges"
+    ],
+    "metho": [
+      "Method",
+      "Methods"
+    ],
+    "objec": [
+      "Objection",
+      "Objectivity"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "struc": [
+      "Structural",
+      "Structured"
+    ],
+    "syste": [
+      "System",
+      "Systematic"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bias",
+      "Biases"
+    ],
+    [
+      "Idea",
+      "Ideal"
+    ],
+    [
+      "View",
+      "Review"
+    ],
+    [
+      "Method",
+      "Methods"
+    ],
+    [
+      "System",
+      "Systematic"
+    ],
+    [
+      "Challenge",
+      "Challenges"
+    ]
+  ]
+}

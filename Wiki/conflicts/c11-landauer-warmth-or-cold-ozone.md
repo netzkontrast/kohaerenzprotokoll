@@ -544,3 +544,19 @@ Stands on the cold side as a description of the Überwelt's air and light, from 
 Its foreshadowing table has a row `Landauer`: introduction „Beiläufige Temperaturanomalie“ ^[kohaerenz-protokoll-master-integration-md.md:L312] in Kap. 2–3, detonation „Stadt fiebert messbar“ ^[kohaerenz-protokoll-master-integration-md.md:L312] in Kap. 15–18. The same row says: „Jede Löschung erzeugt Wärme.“ ^[kohaerenz-protokoll-master-integration-md.md:L312] The paradox section has „Jede Löschung heizt die Stadt auf (Landauer).“ ^[kohaerenz-protokoll-master-integration-md.md:L129] The log reads „Landauer-Budget: 94.7% verbraucht“ ^[kohaerenz-protokoll-master-integration-md.md:L351]. The document names no cold ozone and gives other chapters than Kap 6 and Kap 36.
 
 Stands as a further source on the heat side of the record, with chapters 2–3 and 15–18; the record stays open.
+
+## 2026-10-11 — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief
+
+**The epic enrichment brief puts heat and ozone together in the Landauer-Wüste and in Act I.**
+
+It proposes that „Kael und seine Alter schleppen sich durch eine glühende, nach Ozon stinkende Wüste“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L172] in the mid of its Act II. For Act I it writes of a deleted NPC: „gepaart mit beißendem Ozon-Geruch“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L57]. It names acts of its own frame, not Kap 6 or Kap 36.
+
+Stands as one more position: heat and ozone together, by Landauer; recorded, not applied.
+
+## 2026-10-12 — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis
+
+**The master synthesis's sample has erasure make the corridor hot and smell of ozone; it knows no cold in that scene.**
+
+It states the principle: „generiert dieser algorithmische Akt massive physikalische Hitze in der Konstrukt-Stadt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L46]. In the marked sample (`Narrativer Entwurf (Beispiel)`): „Die Umgebungstemperatur im Korridor schießt innerhalb von Millisekunden in die Höhe“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L85], „Kael erleidet Verbrennungen ersten Grades an den Händen, während er sich den Kopf hält“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L85], and „Der Geruch von Ozon und verbrannter Materie füllt die Lungen“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L85]. Cold appears elsewhere only in Part III, far from the zero point: „Der Raum ist extrem kalt, nahe dem thermodynamischen Nullpunkt“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L112], where „Die Hitze des Landauer-Limits verpufft, da keine Information mehr gelöscht wird“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L114].
+
+Stands on the warmth-and-ozone side in its sample, a proposal and not canon; recorded, not applied, and the record's rows are not changed.

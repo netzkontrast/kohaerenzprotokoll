@@ -1,0 +1,245 @@
+{
+  "document": "protokoll-ontologie-roman-konzeptentwicklung",
+  "drive_id": "1NnHjCF0iZmperRY1-K3fZgctL1EfrsVKqo800w499bM",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 28,
+  "backslash_escapes": 94,
+  "typographic_marks": 135,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokollausführung",
+      "Protokolle",
+      "Protokollen",
+      "Protokollkollaps",
+      "Protokolls",
+      "Protokollstruktur",
+      "Protokollversagen",
+      "Protokollversagens"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterarchitektur",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterfehler",
+      "Charakters"
+    ],
+    "energ": [
+      "Energetik",
+      "Energie",
+      "Energieaufwand",
+      "Energiekosten",
+      "Energieressourcen"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfluss",
+      "Informationsmuster",
+      "Informationsverlustes"
+    ],
+    "quant": [
+      "Quantendekohärenz",
+      "Quantenkohärenz",
+      "Quantenmessung",
+      "Quantenphysik",
+      "Quantensystems"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "forsc": [
+      "Forschungsauftrag",
+      "Forschungsauftrags",
+      "Forschungsdokumente",
+      "Forschungsdokumenten"
+    ],
+    "ident": [
+      "Identität",
+      "Identitätsforschung",
+      "Identitätskrise",
+      "Identitätsverwirrung"
+    ],
+    "kohär": [
+      "Kohärente",
+      "Kohärenz",
+      "Kohärenzgrad",
+      "Kohärenztheorie"
+    ],
+    "kolla": [
+      "Kollabiert",
+      "Kollaps",
+      "Kollapsereignis",
+      "Kollapses"
+    ],
+    "korre": [
+      "Korrektur",
+      "Korrespondenz",
+      "Korrespondenzfehler",
+      "Korrespondenztheorien"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltungsfunktionen",
+      "Selbstkorrektur",
+      "Selbstreparatur"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungsfähige",
+      "Anpassungsfähigkeit"
+    ],
+    "antag": [
+      "Antagonismus",
+      "Antagonist",
+      "Antagonisten"
+    ],
+    "dekoh": [
+      "Dekohärente",
+      "Dekohärenz",
+      "Dekohärenzereignis"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerbehebung",
+      "Fehlerkorrektur"
+    ],
+    "geset": [
+      "Gesetze",
+      "Gesetzen",
+      "Gesetzmäßigkeit"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interdisziplinäre",
+      "Intervention"
+    ],
+    "kerne": [
+      "Kerne",
+      "Kernel",
+      "Kernentwicklung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeption"
+    ],
+    "quell": [
+      "Quellcode",
+      "Quelle",
+      "Quellkonzept"
+    ],
+    "rahme": [
+      "Rahmen",
+      "Rahmens",
+      "Rahmenwerk"
+    ],
+    "signa": [
+      "Signal",
+      "Signalverarbeitung",
+      "Signatur"
+    ],
+    "unive": [
+      "Universe",
+      "Universum",
+      "Universums"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ding",
+      "Dinge"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Erik",
+      "Eriksons"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Desinformation"
+    ],
+    [
+      "Form",
+      "Informationsfluss"
+    ],
+    [
+      "Form",
+      "Informationsmuster"
+    ],
+    [
+      "Form",
+      "Informationsverlustes"
+    ],
+    [
+      "Held",
+      "Helden"
+    ],
+    [
+      "Held",
+      "Heldentum"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Jede",
+      "Jedes"
+    ],
+    [
+      "Kern",
+      "Kerne"
+    ]
+  ]
+}

@@ -1,0 +1,105 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a concept paper for the second album of a three-album series; it names album titles, parts of a "system" (ANPs and EPs, each with a first name), a partner, a crisis state, symbols, song titles and a set of borrowed theories. I list the album titles, the named figures, the crisis state, the song titles, the symbols, the document's own priority labels, and the borrowed concepts under the lens heading. Observations: "Anteil / Person" heads a table column and is the template, not a term. "Panikraum" is written inside a sentence about the Bunker. The phrase „...Protocol ongoing... System state: Unresolved...“ is the document's quotation of the first album's ending. The Referenzen list (L217 on) is left out; its entries are titles of cited works. No subscripted forms occur. The song numbers (Song 1 to Song 20) are not listed as terms; the titles are.
+
+## world
+
+- Kohärenz Prozess
+- Kohärenz Protokoll
+- The Agency System
+- Systematic Agency
+- Album 1
+- Album 2
+- Album 3
+- Alarm Rot
+- Rock Bottom
+- Rauschen
+- Bunker
+- Panikraum
+- Weben
+- Garten
+- Firewalls/Barrieren
+- Firewalls
+- Barrieren
+- Kael
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Die Partnerin
+- ANPs
+- EPs
+- ANP
+- EP
+- Emotionalen Anteile
+- Protocol ongoing
+- System state: Unresolved
+- Fragile Ruhe
+- Vertrauensbruch
+- Ultimatum
+- Alte Protokolle
+- Kollisionen
+- Der Abgrund
+- Die Notwendigkeit
+- Der Ruf nach Außen
+- Fremde Spiegel
+- Runder Tisch
+- Innere Konferenz
+- Echos der Kinder
+- Das Weben Neuer Fäden
+- Die Akzeptanz der Teile
+- Manifest der Agentur
+- Systemzustand: Reorganisierend
+- Blick nach Außen
+- Kohärenz Prozess Läuft
+- Hohe Priorität
+- Mittlere Priorität
+- Niedrigere Priorität
+- Ko-Bewusstsein
+- funktionaler Multiplizität
+- Existenzkrise
+- Offenes Ende
+- Narrativer Höhepunkt
+- System 2
+- System 3
+- System 4
+- System 5
+
+## lens
+
+- TSDP
+- Theorie der Strukturellen Dissoziation
+- Strukturellen Dissoziation
+- Dissoziative Identitätsstruktur
+- DIS
+- kPTBS
+- komplexe Posttraumatische Belastungsstörung
+- Bindungstheorie
+- VSM
+- PCT
+- Viable System Model
+- Perceptual Control Theory
+- Kybernetik
+- Netzwerktheorie
+- Polyvagal-Theorie
+- Somatic Experiencing
+- Embodied Cognition
+- Posthumanismus
+- Chaos- und Komplexitätstheorie
+- Bifurkation
+- Attraktoren
+- Entropie
+- Titration
+- Pendulation
+- felt sense
+- Crisis of Belief
+- Psychoedukation
+- Grounding-Techniken
+- phasenorientierten Traumabehandlung
+- Kriseninterventionsmodelle

@@ -322,3 +322,83 @@ Stands as a physical reality of the reader, reached by overwriting and export, i
 It writes that Juna/V functions as a journalistic correspondent „reporting from a reality that lies beyond AEGIS's comprehension“ ^[creative-expose-the-correspondence-principle-as-narrative-ar.md:L66], and that she acts as a correspondent from the `Externe Ebene` (External Level). The exposé does not say whether that level lies inside or outside the simulation; its world list names the Überwelt and the Kernwelten only.
 
 Where it stands in the record's own terms: beyond AEGIS's comprehension, not stated as beyond the simulation; recorded, not applied, and the record's rows are not changed.
+
+## 2026-10-11 — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept
+
+**The places concept proposes the Externe Ebene as connected with Juna and apparently outside AEGIS's direct influence, and hedges every place on it.**
+
+It writes the level as „die mit Juna verbunden ist und außerhalb des direkten AEGIS-Einflusses zu liegen scheint“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L93]. EX-02 (`Exploratory`) is „Ort des Friedens und der Klarheit außerhalb des AEGIS-Systems; natürlich, ruhig.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L334]; EX-04 is „Ort, an dem Fragmente der 'echten' Welt (vor der Simulation?) wahrnehmbar sind.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L336]; EX-03 is „Ursprungsort (?) der Risse oder der Kraft, die AEGIS entgegenwirkt; instabil, fremd.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L335] The Überwelt row UW-08 is a „Vermutete (oder versteckte) Schnittstelle, über die AEGIS externe Signale empfängt/sendet.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L331] Profile 16 gives its level as „Externe Ebene (oder Schnittstelle zur Simulation)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L555].
+
+Stands on the side of a level apparently outside AEGIS's influence, as a hedged proposal with question marks (`Exploratory` places), not as a statement of fact; recorded, nothing decided.
+
+## 2026-10-11 — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint
+
+**The master blueprint plans Kael's waking in the Externe Ebene (Köln, Februar 2026) and grounds it in the carnival, and takes no side on whether it is outside the simulation.**
+
+Part III: „bricht durch die Rendering-Grenzen“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67], and he wakes „Externen Ebene (Köln, Februar 2026)“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67]. The plan then grounds it: „durch das reale Setting“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L72] of the carnival.
+
+Standing in the record: one more position on where the level is, a plan that places Kael's waking there and says nothing on beyond or not outside; it decides nothing.
+
+## 2026-10-11 — `kohaerenz-protokoll-kapitel-39-die-letzte-instanz`, 2026-02-25, the chapter-39 draft
+
+**In the chapter-39 draft the PMAS report names the reader's level as the external one, after the simulation „Roman“ ends.**
+
+The PMAS report, a boxed system report in the draft: „Die externe Ebene – deine Ebene – ist nun das aktive Testfeld für das Kohärenz Protokoll“ ^[kohaerenz-protokoll-kapitel-39-die-letzte-instanz.md:L45]. Here the „du“ is the reader inside the fiction.
+
+One more position in the record, a draft's; it decides nothing.
+
+## 2026-10-12 — `briefing-the-archon-framework-and-kohaerenz-protokoll-narrat`, 2025-10-15, the ARCHON briefing
+
+**The ARCHON briefing places Juna/V as a transcendent entity from an External Level.**
+
+It says „Juna/V is a transcendent entity“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L142] from an `External Level` embodying principles AEGIS cannot process, with the `Moonshine-Link` to Kael „non-local phenomenon“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L142] (L142). The simulated realities it describes are constructed by AEGIS (L124), and Juna/V stands beyond AEGIS's control; the closing list calls her relation to The Foundation „never fully clarified“ ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:L172] (L172), a question it leaves open.
+
+Stands on the side of an entity beyond the simulation, as the briefing's description; its open question concerns The Foundation, and nothing is decided here.
+
+## 2026-10-12 — `the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua`, 2025-11-03, the lexicon of core dualities
+
+**The lexicon of core dualities calls Juna/V both a transcendent entity from an external level and an exiled part of Kael's Original Self.**
+
+It says Juna/V is a catalyst: „she is simultaneously a transcendent entity from an external level beyond AEGIS's comprehension“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L144] (L144), and an exiled part of Kael's own Original Self (L144). It states both together and does not weigh them against each other.
+
+Stands as a position that holds the external level and the exiled part together; recorded, not decided.
+
+## 2026-10-12 — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo
+
+**The strategy memo plans the Externe Ebene with Juna and V as an external truth beyond AEGIS's control.**
+
+It names „the characters of Juna and V and their“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L109] Moonshine-Link and says the link represents „the existence of an external truth beyond AEGIS's control“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L111] and „something real to fight for outside the simulation“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L111]. It makes no claim here about Juna/V as an exiled part of Kael.
+
+Stands as a position that holds the external level as a counterweight to AEGIS's closure, in a plan; recorded, not decided.
+
+## 2026-10-12 — `blueprint`, 2025-07-29, the blueprint
+
+**The blueprint names the Externe Ebene as a contrast to AEGIS's domain and Juna/V as outside AEGIS's control, and does not say where the level lies.**
+
+The blueprint lists „Die mysteriöse Externe Ebene“ ^[blueprint.md:L46] as one of six levels; it embodies „das Unbekannte und die Verbindung verkörpert“ ^[blueprint.md:L46] and serves „als Kontrast zu“ ^[blueprint.md:L46] AEGIS's domain of control. Juna/V is „Diese externe Entität oder Anomalie“ ^[blueprint.md:L40] outside AEGIS's direct control. The Fundament is postulated as the deepest level „Postuliert als die tiefste Realitätsebene“ ^[blueprint.md:L41] behind AEGIS's simulation. Nowhere does it say that the Externe Ebene lies beyond or inside the simulation; its nature is an open next step: „die Konkretisierung der Natur von“ ^[blueprint.md:L94] Juna/V and the Externe Ebene.
+
+Stands as a contrast to AEGIS's domain with the placement unstated; neither side of the record's question is taken, recorded and not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-kapitel-39-das-mosaik-herz`, 2026-02-25, the Kapitel-39 draft
+
+**In the Kapitel-39 draft the external level lies beyond the simulation's border, yet obeys the Konstrukt's laws; it stands on neither side as a claim.**
+
+Juna stands at the border: „dort, wo die Simulation endete und das absolute Nichts begann“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L25]. Seen through glass: „in einem Raum mit weißen Wänden, dem Geruch von Desinfektionsmittel und dem rhythmischen Piepen eines Herzmonitors“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L27]. The draft's own report is headed „Externe Ebene: Statusbericht PMAS“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L39], and Kael wakes in a room of this world: „denselben Gesetzen gehorchte wie das Konstrukt“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L65].
+
+One more position in the record, a draft's; recorded, not applied and not decided.
+
+## 2026-10-12 — `kohaerenz-protokoll-master-outline`, 2026-02-25, the Master-Outline
+
+**The Master-Outline plans the external level as the real world of the reader, which Kael visits briefly in Part III, and wants the visit glitched so that the reader doubts the own world.**
+
+The plan names the level among the borders that flicker: „der realen Welt des Autors/Lesers“ ^[kohaerenz-protokoll-master-outline.md:L73]. Kael's visit: „Er sieht die Welt des Lesers“ ^[kohaerenz-protokoll-master-outline.md:L74], where „dieselbe Entropie und dieselbe Unvollständigkeit herrschen“ ^[kohaerenz-protokoll-master-outline.md:L74]. The annotation: „Der Besuch der externen Ebene muss so subtil“ ^[kohaerenz-protokoll-master-outline.md:L81] glitched, so that the reader doubts „ob seine eigene Welt nicht auch nur eine Ebene des Konstrukts ist“ ^[kohaerenz-protokoll-master-outline.md:L81].
+
+One more position in the record, a plan's; recorded, not applied and not decided.
+
+## 2026-10-13 — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report
+
+**The dual-storyform mapping report's phase model ends Kapitel 36–39 with a crossing of the border to an external level, and has Kael look into the screen in Kapitel 36; it gives no account of what that level is.**
+
+The phase model names the crossing in one line: „Dekonstruktion der Geschichte; Grenzüberschreitung zum externen Level (Köln 2026)“ ^[dramatica-dual-storyform-mapping-protokoll.md:L185]. In its added section the report places Kael's look into the screen in Kapitel 36: „in den Bildschirm blickt, erkennt er die“ ^[dramatica-dual-storyform-mapping-protokoll.md:L215] algebraic nature of Kael's own existence, per the report.
+
+One more position in the record, a report's; recorded, not applied and not decided.

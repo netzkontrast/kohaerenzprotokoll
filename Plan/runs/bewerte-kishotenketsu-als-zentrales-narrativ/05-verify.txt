@@ -1,0 +1,74 @@
+# every number stated in the note and census, with the command that produced it
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Kishōtenketsu"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kishōtenketsu` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#6]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Kael"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`Kael` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#5]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "AEGIS"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`AEGIS` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#11]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Juna/V` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#2]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "TL;DR"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TL;DR` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Dies passt perfekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dies passt perfekt` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Dies passt ebenfalls perfekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dies passt ebenfalls perfekt` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Meine definitive Empfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Meine definitive Empfehlung` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+$ python3 scripts/read.py bewerte-kishotenketsu-als-zentrales-narrativ --count "Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kiko` ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:#1]
+stance_marker_count: 4 = 1+1+1+1 (TL;DR, Dies passt perfekt, Dies passt ebenfalls perfekt, Meine definitive Empfehlung)

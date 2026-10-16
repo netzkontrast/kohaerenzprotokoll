@@ -1,0 +1,746 @@
+{
+  "document": "narrative-context-protocol-ncp-spezifikation",
+  "drive_id": "1vCVfo6_vxaw0kHHUteedKI6oLmz1KnomYTSiQOs6DoM",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "fraktalen, verschachtelten psychologischen Architektur"
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        15,
+        19,
+        30,
+        47,
+        67,
+        79,
+        87,
+        171,
+        195,
+        219
+      ]
+    },
+    "Theorie der Narrativen Systemik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kael": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        30,
+        51,
+        71,
+        115,
+        117,
+        166,
+        190,
+        213
+      ]
+    },
+    "AEGIS": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        30,
+        51,
+        71,
+        126,
+        165,
+        166,
+        190
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        51,
+        190
+      ]
+    },
+    "Das Fundament": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        51
+      ]
+    },
+    "JunaV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "DasFundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Story-Subsysteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "System-Dirigent": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        79,
+        162
+      ]
+    },
+    "LLM-Dirigenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        103,
+        107
+      ]
+    },
+    "NCP": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        45,
+        75,
+        103,
+        105,
+        107,
+        175,
+        191,
+        201,
+        211
+      ]
+    },
+    "Single Source of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        223
+      ]
+    },
+    "Prompt-Kaskade": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        89,
+        91,
+        160,
+        162,
+        203
+      ]
+    },
+    "State Analysis Prompt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        96,
+        164,
+        189,
+        191
+      ]
+    },
+    "Context Compression Prompt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        165
+      ]
+    },
+    "Narrative Generation Prompt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        98,
+        166,
+        189
+      ]
+    },
+    "State Update Prompt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        167,
+        175
+      ]
+    },
+    "dynamische Kontext-Kompression": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "narrativ bewussten Zustandsabstraktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "narrativen Vektor": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        101,
+        165
+      ]
+    },
+    "Nicht-Fokal-Systeme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Fokal-System": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        165
+      ]
+    },
+    "activeFocalSystem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        190
+      ]
+    },
+    "worldState": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        87,
+        96,
+        99,
+        101,
+        113,
+        164,
+        167,
+        175,
+        179
+      ]
+    },
+    "interferenceRules": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        67,
+        75,
+        112,
+        164,
+        167,
+        201,
+        214,
+        219
+      ]
+    },
+    "userModel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        144,
+        191
+      ]
+    },
+    "narrativeLog": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        181
+      ]
+    },
+    "systemStates": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        116,
+        167
+      ]
+    },
+    "thematicTension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        180
+      ]
+    },
+    "plotProgress": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        118,
+        127,
+        133,
+        138,
+        180
+      ]
+    },
+    "entropyLevel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        166
+      ]
+    },
+    "compressedContext": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166
+      ]
+    },
+    "expressedContext": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "narrativePotential": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        189,
+        191
+      ]
+    },
+    "narrativePotentials": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        189,
+        191
+      ]
+    },
+    "thematicAffinity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        191
+      ]
+    },
+    "decisionHistory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "resonanceSignalStrength": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Dramaturgische Aufseher": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        173,
+        183
+      ]
+    },
+    "Dramaturgischer Aufseher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Meta-Agent": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        175,
+        177
+      ]
+    },
+    "Strukturelle Integritätsprüfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Konvergenzprüfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Kontradiktionsprüfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Dynamische Paar-Interferenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Begleiter-Paar-Interferenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Abhängige Paar-Interferenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Kern-Storyforms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Dramatica-Storyform": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        179,
+        201
+      ]
+    },
+    "Dramatica-Quads": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "genetische Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "hybrides Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Primäre Rolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Domäne": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        38,
+        39,
+        53,
+        63
+      ]
+    },
+    "Anliegen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        54
+      ]
+    },
+    "Thema": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        41,
+        55,
+        191
+      ]
+    },
+    "Problem": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        19,
+        26,
+        41,
+        56,
+        63,
+        71,
+        101,
+        223
+      ]
+    },
+    "Lösung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        101
+      ]
+    },
+    "Symptom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Response": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Ziel": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        60,
+        63,
+        101,
+        165
+      ]
+    },
+    "Konsequenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        63
+      ]
+    },
+    "Faith": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        71,
+        150,
+        191
+      ]
+    },
+    "Disbelief": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        71
+      ]
+    },
+    "Doubt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Control": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        151
+      ]
+    },
+    "Dramatica": {
+      "n": 22,
+      "n_including_compounds": 34,
+      "lines": [
+        17,
+        19,
+        23,
+        30,
+        36,
+        45,
+        47,
+        67,
+        69,
+        179,
+        201,
+        219,
+        223
+      ]
+    },
+    "Throughlines": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        30
+      ]
+    },
+    "Table of Story Elements": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Storyform": {
+      "n": 2,
+      "n_including_compounds": 9,
+      "lines": [
+        30,
+        43,
+        47,
+        71,
+        75,
+        179,
+        201,
+        211
+      ]
+    },
+    "Quad": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        69,
+        71,
+        164
+      ]
+    },
+    "Objective Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        52
+      ]
+    },
+    "Main Character": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        27,
+        52
+      ]
+    },
+    "Obstacle Character": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        28,
+        52
+      ]
+    },
+    "Subjective Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        52
+      ]
+    },
+    "OODA-Loop": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "ReAct": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Standard-RAG": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Agentic RAG": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        86,
+        223
+      ]
+    },
+    "LangGraph": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        223
+      ]
+    },
+    "Few-Shot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    }
+  }
+}

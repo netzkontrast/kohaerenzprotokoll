@@ -1,0 +1,34 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      16
+  ascii quotes           100
+
+# inflection families -- one term, several surfaces
+  inter    Internal, Interrogating, Interrogatories
+  aegis    AEGIS, Aegis
+  alter    Alter, Alters
+  auton    Autonomie, Autonomy
+  contr    Contrast, Control
+  corre    Corrective, Correspondence
+  emoti    Emotion, Emotional
+  ident    Identify, Identity
+  kernw    Kernwelt, Kernwelten
+  metap    Metapher, Metaphysics
+  poten    Potentiality, Potentialmeer
+  proto    Protocol, Protokoll
+  wavel    Wavelet, Wavelets
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Riss < Risse
+  AEGIS < Aegis
+  Alter < Alters
+  Logic < Psychological
+  World < Worlds
+  Emotion < Emotional
+  Wavelet < Wavelets
+  Kernwelt < Kernwelten
+  Protokoll < Trennungsprotokoll

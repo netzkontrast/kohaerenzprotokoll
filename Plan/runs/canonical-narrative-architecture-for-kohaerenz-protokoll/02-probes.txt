@@ -1,0 +1,38 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      50
+  typographic marks      10
+  ascii quotes           124
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemic, Systems
+  canon    Canon, Canonical
+  chara    Character, Charaktere
+  estab    Establishes, Establishing
+  found    Foundation, Foundational
+  frame    Framework, Frameworks
+  guard    Guardian, Guardians
+  phobi    Phobia, Phobias
+  proto    Protocol, Protokoll
+  psych    Psycho, Psychological
+  resol    Resolution, Resolutions
+  struc    Structural, Structure
+
+# substring pairs -- never one term, often merged by accident
+  Flaw < Flawed
+  Role < Roles
+  Canon < Canonical
+  Phobia < Phobias
+  Psycho < Psychological
+  System < Systems
+  System < Systemic
+  Konzept < Kernkonzepte
+  Logical < Ontological
+  Logical < Psychological
+  Guardian < Guardians
+  Solution < Resolution
+  Solution < Resolutions
+  Framework < Frameworks
+  Foundation < Foundational
+  Resolution < Resolutions

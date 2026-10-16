@@ -1,0 +1,40 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      2
+  typographic marks      24
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, SYSTEMBERICHT, SYSTEMFEHLER, System
+  archi    ARCHITEKT, Architekt, Architektur
+  augen    Augen, Augensternen
+  betre    BETREFF, BETRETEN
+  ende     ENDE, Ende
+  insta    INSTANZ, Instanz
+  leser    LESERS, Leser
+  licht    Licht, Lichtpixel
+  nicht    NICHT, Nichts
+  trümm    Trümmer, Trümmern
+
+# substring pairs -- never one term, often merged by accident
+  Buch < Buches
+  Buch < Buchstaben
+  ENDE < Ende
+  Eine < Seine
+  Herz < Herzschlag
+  Mann < Mannes
+  NAME < Namen
+  Achte < BEOBACHTER
+  Augen < Augensternen
+  Leser < LESERS
+  Licht < Lichtpixel
+  NICHT < Nichts
+  ÄRENZ < Kohärenz
+  Fehler < SYSTEMFEHLER
+  SYSTEM < System
+  SYSTEM < SYSTEMFEHLER
+  SYSTEM < SYSTEMBERICHT
+  System < SYSTEMFEHLER
+  System < SYSTEMBERICHT
+  INSTANZ < Instanz

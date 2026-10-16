@@ -1,0 +1,832 @@
+{
+  "document": "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
+  "drive_id": "1-O6wVH-IKxjj6mXYaAnKRewTwn9nwUiJiv7N65RD3Vo",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Show, Don't Tell"
+  ],
+  "counts": {
+    "Kael": {
+      "n": 23,
+      "n_including_compounds": 76,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        23,
+        27,
+        29,
+        30,
+        31,
+        34,
+        38,
+        40,
+        41,
+        42,
+        43,
+        45,
+        47,
+        51,
+        55,
+        61,
+        65,
+        67,
+        68,
+        70,
+        73,
+        75,
+        97,
+        99,
+        110,
+        112,
+        114,
+        116,
+        120,
+        128,
+        132,
+        142,
+        157,
+        159,
+        163,
+        181,
+        183,
+        187,
+        189,
+        196,
+        202,
+        204,
+        206,
+        222,
+        224,
+        242,
+        261,
+        281,
+        285,
+        287,
+        289,
+        291,
+        297,
+        298,
+        299,
+        300
+      ]
+    },
+    "KW1": {
+      "n": 17,
+      "n_including_compounds": 19,
+      "lines": [
+        15,
+        23,
+        27,
+        31,
+        59,
+        68,
+        73,
+        97,
+        99,
+        110,
+        119,
+        122,
+        163,
+        223,
+        229,
+        237,
+        242
+      ]
+    },
+    "KW2": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        122,
+        163,
+        225,
+        266,
+        268,
+        273,
+        276,
+        280
+      ]
+    },
+    "Kern-Welt 1 (KW1)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kern-Welten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        183
+      ]
+    },
+    "Übergangsraum": {
+      "n": 11,
+      "n_including_compounds": 23,
+      "lines": [
+        15,
+        38,
+        41,
+        75,
+        77,
+        81,
+        85,
+        97,
+        110,
+        116,
+        121,
+        159,
+        183,
+        202,
+        204,
+        223,
+        224,
+        225,
+        268,
+        280,
+        285,
+        289
+      ]
+    },
+    "AEGIS": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        75,
+        183,
+        185,
+        187,
+        191,
+        206,
+        291,
+        297
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Limina": {
+      "n": 5,
+      "n_including_compounds": 48,
+      "lines": [
+        11,
+        17,
+        51,
+        59,
+        61,
+        77,
+        79,
+        81,
+        83,
+        85,
+        87,
+        92,
+        97,
+        99,
+        101,
+        105,
+        106,
+        112,
+        114,
+        116,
+        222,
+        223,
+        224,
+        225,
+        231,
+        248,
+        249,
+        267,
+        268,
+        289,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332
+      ]
+    },
+    "Nox": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        51,
+        59,
+        61,
+        73,
+        223,
+        224,
+        248
+      ]
+    },
+    "Praetor": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        51,
+        54,
+        59,
+        61,
+        223,
+        224,
+        225,
+        248,
+        267
+      ]
+    },
+    "Echo": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        51,
+        59,
+        61,
+        107,
+        224,
+        225,
+        237,
+        255,
+        267,
+        268
+      ]
+    },
+    "Silas": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        59,
+        225,
+        267
+      ]
+    },
+    "Echo/Silas": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        59,
+        225,
+        267
+      ]
+    },
+    "Alters": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        17,
+        23,
+        45,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61,
+        68,
+        69,
+        73,
+        223,
+        224,
+        225,
+        230,
+        248,
+        267,
+        287
+      ]
+    },
+    "Alter-Dynamik": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        49,
+        299
+      ]
+    },
+    "Alter-Einfluss": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        189,
+        222,
+        262
+      ]
+    },
+    "Host-Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Beat 1.X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        227
+      ]
+    },
+    "Beat 1.Y": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        245,
+        269
+      ]
+    },
+    "Beat 1.Z": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Kollaps": {
+      "n": 7,
+      "n_including_compounds": 12,
+      "lines": [
+        23,
+        31,
+        42,
+        59,
+        73,
+        99,
+        223,
+        227,
+        229,
+        231
+      ]
+    },
+    "Datensturm": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        107,
+        121,
+        250,
+        255
+      ]
+    },
+    "Arbeitshilfe": {
+      "n": 45,
+      "n_including_compounds": 45,
+      "lines": [
+        15,
+        17,
+        23,
+        27,
+        30,
+        31,
+        32,
+        34,
+        38,
+        40,
+        41,
+        42,
+        45,
+        51,
+        54,
+        57,
+        65,
+        68,
+        69,
+        70,
+        71,
+        73,
+        81,
+        97,
+        99,
+        103,
+        108,
+        110,
+        128,
+        132,
+        163,
+        178,
+        183,
+        187,
+        212,
+        230,
+        248,
+        261,
+        267,
+        285,
+        303
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        285
+      ]
+    },
+    "Plot-Blueprint Step": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Sensorische Palette": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        222,
+        227,
+        232,
+        245,
+        250,
+        264,
+        269
+      ]
+    },
+    "Kerninformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Psychologischer Zustand": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        222,
+        230,
+        248,
+        267
+      ]
+    },
+    "EST Fokus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        222,
+        242,
+        261,
+        280
+      ]
+    },
+    "Narrative Technik Fokus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        243,
+        262,
+        281
+      ]
+    },
+    "Liminale Charakteristika": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        222,
+        231,
+        249,
+        268
+      ]
+    },
+    "Psychologischer Spiegel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        178
+      ]
+    },
+    "Narrative Brücke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        179
+      ]
+    },
+    "Set Dressing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        170,
+        181,
+        291
+      ]
+    },
+    "Räumliches Design": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Landmarken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        173,
+        224,
+        261
+      ]
+    },
+    "Implizierte Narrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        126,
+        128,
+        161,
+        163,
+        291,
+        338,
+        341
+      ]
+    },
+    "EST": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        163,
+        165,
+        181,
+        183,
+        197,
+        222,
+        224,
+        242,
+        261,
+        280,
+        291,
+        300
+      ]
+    },
+    "Resist the Urge to Explain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Security Blankets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Dissoziativer Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "DID": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        45,
+        51,
+        53,
+        56,
+        61,
+        285,
+        299,
+        317,
+        320
+      ]
+    },
+    "Depersonalisation": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        34,
+        36,
+        38,
+        40,
+        45,
+        47,
+        190,
+        224,
+        225,
+        248,
+        262,
+        287
+      ]
+    },
+    "Derealisation": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        34,
+        36,
+        38,
+        41,
+        45,
+        47,
+        190,
+        223,
+        224,
+        225,
+        230,
+        248,
+        254,
+        262,
+        268,
+        287
+      ]
+    },
+    "Dissoziative Amnesie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Numbness": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        30,
+        223,
+        224
+      ]
+    },
+    "Intrusionen": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        65,
+        68,
+        73,
+        190
+      ]
+    },
+    "Fragmentierung": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        63,
+        65,
+        67,
+        73,
+        97,
+        112,
+        178,
+        190,
+        224,
+        248,
+        261,
+        287
+      ]
+    },
+    "passiven Einfluss": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        55,
+        69
+      ]
+    },
+    "Passiver Einfluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Switching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Ko-Bewusstheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        61
+      ]
+    },
+    "Co-Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "phobische Vermeidung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        61
+      ]
+    },
+    "ANP": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Liminalität": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        11,
+        17,
+        77,
+        79,
+        81,
+        83,
+        85,
+        87,
+        97,
+        99,
+        106,
+        112,
+        114,
+        116,
+        223,
+        224,
+        225,
+        289
+      ]
+    },
+    "Betwixt and Between": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        224,
+        249
+      ]
+    },
+    "Victor Turner": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        106,
+        328,
+        329
+      ]
+    },
+    "Neophyten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Zeitwahrnehmungsstörungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        248
+      ]
+    },
+    "unzuverlässigen Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    }
+  }
+}

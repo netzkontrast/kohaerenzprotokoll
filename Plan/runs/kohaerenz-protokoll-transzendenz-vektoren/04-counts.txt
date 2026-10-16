@@ -1,0 +1,111 @@
+# counts for 84 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                6 word     6 in   [11, 15, 91, 343, 355]
+  Projekt Inkubation X              1 word     1 in   [11]
+  Orakel-Sigma                      3 word     3 in   [11, 15, 355]
+  Conceptual Expansion Unit         1 word     1 in   [15]
+  Transzendenz-Vektoren             4 word     4 in   [11, 15, 343, 355]
+  Konzept-Singularitäten            1 word     1 in   [11]
+  Fundament                        56 word    68 in   [15, 21, 23, 27, 29, 33]
+                                   12      as fundamental
+                                    9      as Fundaments
+                                    8      as fundamentalen
+                                    6      as fundamentaler
+  Leere                            42 word    42 in   [15, 21, 23, 27, 29, 33]
+  AEGIS                            98 word   111 in   [15, 23, 33, 36, 44, 45]
+                                    4      as AEGIS-Paradoxon
+                                    2      as AEGIS-Simulation
+                                    2      as AEGIS-Paradoxons
+                                    1      as AEGIS-System
+  System Kael                      11 word    11 in   [15, 56, 111, 239, 241, 249]
+  Kael                             38 word    80 in   [15, 23, 47, 56, 62, 69]  <-- substring
+                                   40      as Kaels
+                                    2      as Kael-Gestalt
+  Juna/V                           30 word    35 in   [15, 69, 79, 91, 126, 128]
+                                    4      as Juna/Vs
+                                    1      as Juna/V-Hypothesen
+  Anomalie Juna/V                   1 word     1 in   [15]
+  AEGIS-Paradoxon                   4 word     6 in   [89, 137, 199, 225, 328, 349]
+                                    2      as AEGIS-Paradoxons
+  fehlausgerichteten Kohärenz       2 word     2 in   [195, 349]
+  Fehlausgerichteten Kohärenz       1 word     1 in   [197]
+  Basisrealität                     2 word     2 in   [23, 25]
+  Kausale Leckage                   1 word     1 in   [36]
+  Glitches                          9 word    11 in   [36, 69, 136, 138, 172, 178]
+  Die Leere als aktiv               1 word     1 in   [91]
+  Topologische Defekte als Leere    1 word     1 in   [47]
+  Ontologischer Status von AEGIS    1 word     1 in   [58]
+  Instabilität der Schnittstelle    1 word     1 in   [124]
+  Juna/V als ontologische Herausforderung    1 word     1 in   [172]
+  Hypothese 1                       1 word     1 in   [132]
+  Hypothese 2                       2 word     2 in   [142, 225]
+  Hypothese 3                       1 word     1 in   [152]
+  Hypothese 4                       1 word     1 in   [162]
+  Emergenter Glitch                 2 word     2 in   [132, 188]
+  Quanten-Emergenz                  2 word     2 in   [172, 180]
+  Nicht-algorithmische Intelligenz    1 word     1 in   [172]
+  Kaskadierender Systemkollaps      1 word     1 in   [201]
+  Perverse Instanziierung           1 word     1 in   [211]
+  Zusammenspiel der Fehlermodi      1 word     1 in   [228]
+  Endspiel                          2 word     4 in   [228, 230, 232, 349]
+                                    2      as Endspiel-Szenarien
+  Systemische Fragmentierung        1 word     1 in   [234]
+  Perverse Optimierung              1 word     1 in   [235]
+  Logische Singularität/Neustart    1 word     1 in   [236]
+  Emergente Transzendenz            1 word     1 in   [237]
+  Funktionaler Multiplizität        1 word     1 in   [243]
+  Multiplizität als Katalysator     1 word     1 in   [275]
+  Kael-Gestalt                      2 word     2 in   [250, 328]
+  Nicht-algorithmische Transition    1 word     1 in   [265]
+  Direktes Interface                2 word     2 in   [281, 282]
+  Manipulation von Simulationsparametern    1 word     1 in   [283]
+  Cosmic Horror Amplifikation       3 word     3 in   [102, 112, 122]
+  Genre-Synergie                    3 word     3 in   [285, 313, 353]
+  Genre-Fusion als thematische Verstärkung    1 word     1 in   [339]
+  Vakuumfluktuations-Analogie       1 word     1 in   [64]
+  Dialektische Ontologie            1 word     1 in   [84]
+  Informationsaustausch über Bewusstseinsfelder    1 word     1 in   [97]
+  Resonanzphänomene                 2 word     2 in   [107, 345]
+  Topologische Verschränkung/Konnektivität    1 word     1 in   [117]
+  Mind-Field                        1 word     1 in   [101]
+  Quellcode                         1 word     1 in   [260]
+  Kognitive Dissonanz durch widersprüchliche plausible Realitäten    1 word     1 in   [315]
+  Unzuverlässige Erzählung          1 word     1 in   [324]
+  Juxtaposition von Hard SF-Exposition und Cosmic Horror-Offenbarung    1 word     1 in   [333]
+  M-Theorie                         7 word     9 in   [29, 33, 34, 35, 36, 124]
+                                    1      as M-Theorie-Bulk
+                                    1      as M-Theorie-Dynamik
+  Bulk                              4 word    10 in   [29, 33, 34, 35, 36]  <-- substring
+                                    2      as Bulks
+                                    1      as Bulk-Raumzeitgefüge
+                                    1      as Bulk-Raumzeit
+                                    1      as Bulk-Realität
+  Brane                             4 word    17 in   [29, 33, 34, 35, 36]  <-- substring
+                                    4      as Branen
+                                    1      as Branen-Interaktion
+  Schleifenquantengravitation       2 word     2 in   [44, 345]
+  LQG                               3 word     6 in   [40, 44, 46, 47, 124]
+  Spin-Netzwerke                    2 word     2 in   [44, 46]
+  AL-Vakuum                         3 word     3 in   [44, 45, 46]
+  BF-Vakuum                         3 word     3 in   [44, 45, 46]
+  It from Bit                       7 word     7 in   [55, 57, 58, 308]
+  Observer-Participancy             2 word     2 in   [55, 57]
+  Information Closure Theory        4 word     4 in   [101, 103, 359]
+  Integrated Information Theory     5 word     5 in   [249, 296, 359]
+  IIT                               8 word     9 in   [103, 249, 250, 251, 275, 296]
+  Global Workspace Theory           1 word     1 in   [250]
+  GWT                               3 word     3 in   [250, 251, 309]
+  Differential Entangled Topology    2 word     2 in   [121, 359]
+  Orch OR                           3 word     5 in   [166, 180, 269, 271, 309]
+  VōiD-Theorie                      1 word     1 in   [166]
+  Kosmologische Konstante-Problem    2 word     2 in   [69, 70]
+  Prinzip der Explosion             3 word     3 in   [148, 225, 227]
+  Simulationsargument               2 word     2 in   [307]
+  BCI                               4 word    13 in   [255, 259, 260, 261, 282, 297]  <-- substring
+  Theory of Mind                    9 word     9 in   [249, 251, 359]
+  Cosmic Horror                    17 word    19 in   [95, 102, 112, 122, 287, 302]
+  Hard SF                           7 word    11 in   [190, 287, 291, 295, 297, 333]
+  Psychologischer Thriller          1 word     1 in   [287]

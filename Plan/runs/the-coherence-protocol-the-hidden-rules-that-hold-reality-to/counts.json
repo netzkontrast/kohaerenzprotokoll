@@ -1,0 +1,231 @@
+{
+  "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+  "drive_id": "1KywL7P4Aqdax4EmhdTnpLPX6lCuMZQv3Up7aJRxalh4",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        17,
+        53,
+        54,
+        65,
+        71
+      ]
+    },
+    "Cache Coherence Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "cache coherence protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "MESI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        54
+      ]
+    },
+    "overhead": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "quantum coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        33,
+        35
+      ]
+    },
+    "Decoherence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        55
+      ]
+    },
+    "Quantum Resource Theories": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "QRT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "self-organization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "downward causation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "emergent property": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        45
+      ]
+    },
+    "Coherence Through Constraint Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "K₁": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        63,
+        65,
+        71
+      ]
+    },
+    "K₀": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        63,
+        65,
+        71
+      ]
+    },
+    "reversible computation": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        61
+      ]
+    },
+    "irreversible computation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Coherons": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        71
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        71
+      ]
+    },
+    "felt side of re-coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "erosive pressure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "atoms of persistence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "correspondence check": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        55
+      ]
+    },
+    "superposition": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        33,
+        55
+      ]
+    }
+  }
+}

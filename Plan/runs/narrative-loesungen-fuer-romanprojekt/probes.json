@@ -1,0 +1,346 @@
+{
+  "document": "narrative-loesungen-fuer-romanprojekt",
+  "drive_id": "1xNOcpvapp13Tn9iL0l2ywEDG-hkD0Xg10a1pe72EqrQ",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 224,
+  "backslash_escapes": 118,
+  "typographic_marks": 28,
+  "ascii_quotes": 62,
+  "inflection_families": {
+    "inter": [
+      "Interactive",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsdynamik",
+      "Interaktionsdynamiken",
+      "Interaktionsmuster",
+      "Interaktionstechnik",
+      "Interaktionstechniken",
+      "Interaktive",
+      "Interaktivität",
+      "Interesse",
+      "Internal",
+      "Internalisierte",
+      "International",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Interpretationsspielräumen",
+      "Intersubjectivity",
+      "Intervention",
+      "Interventionen"
+    ],
+    "erzäh": [
+      "Erzählakt",
+      "Erzählen",
+      "Erzählens",
+      "Erzähler",
+      "Erzählerhandlungen",
+      "Erzählerin",
+      "Erzählerkontrolle",
+      "Erzählermodi",
+      "Erzählermodus",
+      "Erzählers",
+      "Erzählperspektive",
+      "Erzählstimme",
+      "Erzählstruktur",
+      "Erzählstränge",
+      "Erzähltechniken",
+      "Erzähltempos",
+      "Erzähltheorie",
+      "Erzählung",
+      "Erzählungen"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterbögen",
+      "Charakterdynamiken",
+      "Charaktere",
+      "Charakteren",
+      "Charakterenthüllungen",
+      "Charakterentscheidungen",
+      "Charakterentwicklung",
+      "Charakters",
+      "Charakterziele",
+      "Charakterzielen"
+    ],
+    "narra": [
+      "NARRATIVE",
+      "NARRATIVES",
+      "Narration",
+      "Narrative",
+      "Narrativebenen",
+      "Narrativen",
+      "Narrativer",
+      "Narratives",
+      "Narratology",
+      "Narrator",
+      "Narrators"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbögen",
+      "Handlungsfäden",
+      "Handlungsfähigkeit",
+      "Handlungsmacht",
+      "Handlungsräume",
+      "Handlungssträngen",
+      "Handlungstempo"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsenthüllung",
+      "Informationsfluss",
+      "Informationsflüsse",
+      "Informationshalden",
+      "Informationslücken",
+      "Informationsmanagement",
+      "Informationsstruktur"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolen",
+      "Symbolic",
+      "Symbolik",
+      "Symbolische",
+      "Symbolism",
+      "Symbolismus",
+      "Symbols"
+    ],
+    "philo": [
+      "PHILOSOPHY",
+      "Philosoph",
+      "Philosophen",
+      "Philosophical",
+      "Philosophie",
+      "Philosophien",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "dialo": [
+      "DIALOGICALITY",
+      "Dialog",
+      "Dialoge",
+      "Dialogical",
+      "Dialogischen",
+      "Dialogisches",
+      "Dialogs"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphor",
+      "Metaphorische",
+      "Metaphors",
+      "Metaphysics",
+      "Metaphysik"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsebenen",
+      "Realitätsverständnisses",
+      "Realitätsüberlappung",
+      "Realization"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterkenntnis",
+      "Selbstgeschichten",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbstreflexive",
+      "Selbstreflexivität"
+    ],
+    "integ": [
+      "Integral",
+      "Integrated",
+      "Integrating",
+      "Integration",
+      "Integrationsberichte",
+      "Integrationsprozesses"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzepts",
+      "Konzeptuell"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "theor": [
+      "THEORIES",
+      "Theoretiker",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumageschichte",
+      "Traumlogik",
+      "Traumsequenz",
+      "Traumsequenzen"
+    ],
+    "arche": [
+      "Archetypal",
+      "Archetype",
+      "Archetypen",
+      "Archetypes",
+      "Archetypische"
+    ],
+    "autho": [
+      "AUTHOR",
+      "Author",
+      "Authorial",
+      "Authoring",
+      "Authors"
+    ],
+    "desig": [
+      "Design",
+      "Designelement",
+      "Designentscheidung",
+      "Designentscheidungen",
+      "Designing"
+    ],
+    "forsc": [
+      "Forscher",
+      "Forschers",
+      "Forschung",
+      "Forschungsergebnisse",
+      "Forschungsfeld"
+    ],
+    "funkt": [
+      "Funkt",
+      "Funktion",
+      "Funktionaler",
+      "Funktionalität",
+      "Funktionieren"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktlösung",
+      "Konflikts"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollpult",
+      "Kontrollverlust"
+    ],
+    "leitm": [
+      "Leitmotif",
+      "Leitmotifs",
+      "Leitmotiv",
+      "Leitmotive",
+      "Leitmotiven"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Best",
+      "Bestandteil"
+    ],
+    [
+      "Best",
+      "Bestätigungen"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildsprache"
+    ],
+    [
+      "Bild",
+      "Koalitionsbildung"
+    ],
+    [
+      "Book",
+      "Bookish"
+    ],
+    [
+      "Book",
+      "BookBrowse"
+    ],
+    [
+      "Book",
+      "Pressbooks"
+    ],
+    [
+      "CORE",
+      "Core"
+    ],
+    [
+      "Dept",
+      "Depth"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Dies",
+      "AskLiteraryStudies"
+    ],
+    [
+      "Doku",
+      "Dokument"
+    ],
+    [
+      "Doku",
+      "Dokumentarfilme"
+    ],
+    [
+      "Eine",
+      "Verfeinerungen"
+    ],
+    [
+      "Ende",
+      "Enden"
+    ],
+    [
+      "Ende",
+      "Verwendet"
+    ],
+    [
+      "Ende",
+      "Wissender"
+    ]
+  ]
+}

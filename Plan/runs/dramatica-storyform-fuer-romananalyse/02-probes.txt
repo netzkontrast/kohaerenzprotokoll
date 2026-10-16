@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      27
+  backslash escapes      293
+  typographic marks      150
+  ascii quotes           46
+
+# inflection families -- one term, several surfaces
+  quell    Quellcode, Quellcodes, Quelldokumente, Quellen, Quelltexte, Quelltexten
+  chara    CHARACTER, Character, Charaktere, Charakteren, Charaktermotivation
+  syste    System, Systemarchitektur, Systemerhalt, Systemfehler, Systems
+  archi    Architect, Architecture, Architektonische, Architektur
+  proto    Protocol, Protokoll, Protokolle, Protokollen
+  story    Story, Storyform, Storyforms, Storymind
+  unter    Unterbewusstsein, Unterbewusstseins, Unterdrückung, Unterscheidet
+  conce    Concepts, Concern, Concerns
+  daten    Daten, Datenlücken, Datenpaket
+  diese    Diese, Dieser, Dieses
+  dynam    DYNAMICS, Dynamic, Dynamik
+  eleme    Element, Elementare, Elemente
+  geist    Geist, Geistes, Geisteshaltung
+  ident    Identifikation, Identifying, Identität
+  inter    Interaktionen, Interest, Intern
+  kohär    Kohärent, Kohärenz, Kohärenztheorie
+  konfl    Konflikt, Konfliktquelle, Konflikts
+  model    Model, Modell, Modells
+  psych    Psyche, Psychologie, Psychology
+  thema    Thema, Thematic, Thematische
+  theor    Theoretische, Theorie, Theory
+  throu    THROUGHLINES, Throughline, Throughlines
+  aktiv    Aktivität, Aktivitäten
+  analy    Analyse, Analysis
+  anoma    Anomalie, Anomalien
+
+# substring pairs -- never one term, often merged by accident
+  Anne < Manner
+  Anne < Tyrannei
+  Code < Quellcode
+  Code < Quellcodes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Bausteinen
+  Eine < Feineinstellung
+  Ende < Dependent
+  Ende < Folgenden
+  Ende < Verwendete
+  Ende < Grundlegende
+  Hier < Hierarchie
+  Kael < Kaels
+  Kern < Kerne
+  Kern < Kernel
+  Main < Domain
+  Main < Domains

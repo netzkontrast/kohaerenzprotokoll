@@ -1,0 +1,52 @@
+{
+  "document": "reader-s-report-a-critical-assessment-of-kohaerenz-protokoll",
+  "drive_id": "1FdJMaWnCQTILJZE8-7Xvm2RXyZALZG85IBxHIk8NumU",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 15,
+  "ascii_quotes": 64,
+  "inflection_families": {
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Tell",
+      "Intellectual"
+    ],
+    [
+      "Tell",
+      "Storytelling"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ]
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "document": "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
+  "drive_id": "1OtKdpBz5hb-pbW1_axumyMI9q_hwaTwG9mH9vBb4pk0",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 4,
+  "typographic_marks": 14,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "alter": [
+      "Alter",
+      "Alternative",
+      "Alters"
+    ],
+    "trans": [
+      "Transfer",
+      "Transition",
+      "Transitkorridor"
+    ],
+    "canon": [
+      "CANON",
+      "Canon"
+    ],
+    "coher": [
+      "COHERENCE",
+      "Coherence"
+    ],
+    "contr": [
+      "CONTRADICTIONS",
+      "Contradictions"
+    ],
+    "curre": [
+      "Current",
+      "Currently"
+    ],
+    "defin": [
+      "Define",
+      "Defines"
+    ],
+    "estab": [
+      "Established",
+      "Establishes"
+    ],
+    "exist": [
+      "Existenzforschung",
+      "Existing"
+    ],
+    "frame": [
+      "Frame",
+      "Framework"
+    ],
+    "gaps": [
+      "GAPS",
+      "Gaps"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ],
+    "hard": [
+      "HARD",
+      "Hard"
+    ],
+    "ident": [
+      "Identifying",
+      "Identitätsstörung"
+    ],
+    "inter": [
+      "Interface",
+      "Internal"
+    ],
+    "narra": [
+      "NARRATIVE",
+      "Narrative"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "reali": [
+      "Reality",
+      "Realized"
+    ],
+    "stand": [
+      "Standardisierter",
+      "Standardize"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "GAPS",
+      "Gaps"
+    ],
+    [
+      "HARD",
+      "Hard"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "List",
+      "Minimalist"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Alter",
+      "Alternative"
+    ],
+    [
+      "CANON",
+      "Canon"
+    ],
+    [
+      "Frame",
+      "Framework"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "Define",
+      "Defines"
+    ],
+    [
+      "Current",
+      "Currently"
+    ],
+    [
+      "COHERENCE",
+      "Coherence"
+    ],
+    [
+      "COHERENCE",
+      "Decoherence"
+    ],
+    [
+      "Coherence",
+      "Decoherence"
+    ],
+    [
+      "NARRATIVE",
+      "Narrative"
+    ],
+    [
+      "CONTRADICTIONS",
+      "Contradictions"
+    ]
+  ]
+}

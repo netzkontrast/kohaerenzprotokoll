@@ -1,0 +1,218 @@
+{
+  "document": "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
+  "drive_id": "1ErKgr5r2h2H-vCwJ1M_mvOxnHHqltfhM_m52WFBbtKs",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and chapter readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-285/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 81,
+    "decisions": 84,
+    "decided_by_lookup": 70,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An essay applying outside models to AEGIS: its new surfaces are the borrowed models, the Assets and their roles, the Lex-Box and Nyx-Box, the Krise der Authentizität and the poisoned gold; what it says of the novel's world went on existing pages, chapter pages and one record.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        53,
+        157,
+        173,
+        189,
+        391
+      ],
+      "attribution": "",
+      "note": "AEGIS as designer of the fragmentation, a modelled argument"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        264
+      ],
+      "attribution": "",
+      "note": "Alex among the Assets"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        383
+      ],
+      "attribution": "",
+      "note": "Juna/V as possible proof in a proposed fourth stage"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        53,
+        380,
+        381
+      ],
+      "attribution": "",
+      "note": "System Kael as the target; Kael in the proposed reveal stages"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61,
+        63,
+        72,
+        100,
+        101,
+        130
+      ],
+      "attribution": "",
+      "note": "each Kernwelt a conditioning environment for one part"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        101,
+        231
+      ],
+      "attribution": "",
+      "note": "an assumed world, and Kiko's fear"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        63,
+        121,
+        131,
+        231,
+        261,
+        304
+      ],
+      "attribution": "",
+      "note": "Lex as the part conditioned in KW1"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        231
+      ],
+      "attribution": "",
+      "note": "Moros's despair behind Lex's logicism"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        72,
+        262,
+        304,
+        324
+      ],
+      "attribution": "",
+      "note": "Nyx as the part conditioned in KW3"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        100,
+        263,
+        382
+      ],
+      "attribution": "",
+      "note": "an assumed world, an Asset, and doubt in a proposed stage"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        189,
+        316,
+        356
+      ],
+      "attribution": "",
+      "note": "the solution AEGIS cannot see; a possible authentic core"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        98,
+        99,
+        149,
+        420,
+        421
+      ],
+      "attribution": "",
+      "note": "TSDP tied to the parts and cited as source"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      14,
+      15,
+      19
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` on kael; `Kernwelten` and `Kernwelt` on kern-welten (J26); `KW1 (Logos-Prime)` and `Logos-Prime`, `KW3 (Cerberus-Labyrinth)` and `Cerberus-Labyrinth` Kernwelt names, read on kern-welten (J49); `Skinner-Boxen` and `Skinner` the borrowed model; `Juna/V` on juna (J34); `Paradoxons der Fehlausgerichteten Kohärenz` read on aegis, `Kohärenz Protokoll` the title; `Funktionen` a general word",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 383,
+      "decision": "reading",
+      "why": "Juna/V in the proposed fourth stage"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 131,
+      "decision": "occurrence",
+      "why": "not the Risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 149,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "operant conditioning",
+    "the Lifton and Hassan models",
+    "iatrogenesis",
+    "radicalisation funnels",
+    "SERE training",
+    "the Assets and their roles",
+    "the Krise der Authentizität",
+    "the poisoned gold",
+    "the Lex-Box and Nyx-Box as labels"
+  ],
+  "internal_tension": "it treats AEGIS as a deliberate designer (L22) and as possibly well-meaning (L173), saying its motive is not malice (L53), without reconciling them; Table 1's worlds for Rhys and Kiko are its own assumption (L100–L101)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

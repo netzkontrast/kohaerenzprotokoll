@@ -1,0 +1,92 @@
+$ read.py --count "Function:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Function:` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#4]
+$ read.py --count "Voice:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Voice:` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "must"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`must` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#22]
+$ read.py --count "Algorithmic Horror"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Algorithmic Horror` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Guardians"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Guardians` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#5]
+$ read.py --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Das Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Fundament` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "polyphonic"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`polyphonic` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#3]
+$ read.py --count "epistemology-shift"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`epistemology-shift` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Kybernetik zweiter Ordnung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kybernetik zweiter Ordnung` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Konstrukt-Stadt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Stadt` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "autopoietische Selbstorganisation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`autopoietische Selbstorganisation` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+$ read.py --count "Polyphony"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Polyphony` ^[report-narrative-methodology-for-kohaerenz-protokoll.md:#1]
+stance_marker_count 7 = Function: 4 + Voice: 3
+question marks 0: from 01-profile.txt

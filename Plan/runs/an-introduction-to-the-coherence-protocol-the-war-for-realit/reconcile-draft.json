@@ -1,0 +1,138 @@
+{
+  "document": "an-introduction-to-the-coherence-protocol-the-war-for-realit",
+  "drive_id": "1Vmw1wTJyGi6Bc3CqtOmO5HusedV1TOjOmHditd38ov8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 40,
+    "decided_by_lookup": 36,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        44,
+        45,
+        75,
+        79
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Coherence Kernel's bearer and a system of internal consistency"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "Algorithmic Melancholy as AEGIS's forced end state"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        63,
+        74
+      ],
+      "attribution": "",
+      "note": "alters as parts of one mind, simultaneously contradictory"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        37,
+        41,
+        49,
+        52
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as the friction of two primordial forces"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        79
+      ],
+      "attribution": "",
+      "note": "Kael as a Living Gödel Sentence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        31,
+        63,
+        74,
+        79
+      ],
+      "attribution": "",
+      "note": "System Kael as a thriving garden, a collection of consciousnesses and a living contradiction"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        23,
+        51
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the Collapse Kernel's associated sea of potential"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "Risse as K0 breaking into AEGIS's world"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        61,
+        65,
+        66
+      ],
+      "attribution": "",
+      "note": "the TSDP as the blueprint for Kael's mind"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

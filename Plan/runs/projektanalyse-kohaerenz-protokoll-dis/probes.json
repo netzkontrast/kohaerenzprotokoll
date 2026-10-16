@@ -1,0 +1,267 @@
+{
+  "document": "projektanalyse-kohaerenz-protokoll-dis",
+  "drive_id": "1itglKQ6mdrxq9AxOkApmbkgFE2q43F9pQ1XNG65tLw8",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 44,
+  "backslash_escapes": 297,
+  "typographic_marks": 12,
+  "ascii_quotes": 176,
+  "inflection_families": {
+    "proje": [
+      "Project",
+      "Projekt",
+      "Projektarchitektur",
+      "Projektdateien",
+      "Projektphase",
+      "Projektplanung",
+      "Projekts",
+      "Projektsystem",
+      "Projektunterlagen"
+    ],
+    "syste": [
+      "System",
+      "Systemarchitektonische",
+      "Systembildung",
+      "Systeme",
+      "Systemen",
+      "Systeminstabilität",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumafixierung",
+      "Traumapsychologie",
+      "Traumas",
+      "Traumasymptom",
+      "Traumatherapie",
+      "Traumaüberlebende"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeiten",
+      "Arbeitsauftrag",
+      "Arbeitsfähigkeit",
+      "Arbeitsweise",
+      "Arbeitsworkflow"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychologie",
+      "Psychologisch",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "schre": [
+      "Schreibblockade",
+      "Schreibblockaden",
+      "Schreiben",
+      "Schreibens",
+      "Schreibprozess",
+      "Schreibstil"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturierung",
+      "Strukturwandels",
+      "Strukturwechsels"
+    ],
+    "archi": [
+      "Architecting",
+      "Architecture",
+      "Architektonik",
+      "Architektonisches",
+      "Architektur"
+    ],
+    "daten": [
+      "Datenanalyse",
+      "Datenbank",
+      "Datenbankstruktur",
+      "Datenbanktechnologie",
+      "Datenmodellierung"
+    ],
+    "gesch": [
+      "Geschichte",
+      "Geschichten",
+      "Geschlossene",
+      "Geschlossenheit",
+      "Geschwindigkeit"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäts",
+      "Identitätsstörung"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphor",
+      "Metaphysics",
+      "Metaphysik"
+    ],
+    "emoti": [
+      "Emotional",
+      "Emotionen",
+      "Emotions",
+      "Emotionsunterdrückung"
+    ],
+    "integ": [
+      "Integrate",
+      "Integration",
+      "Integrationsversuch",
+      "Integrität"
+    ],
+    "mecha": [
+      "Mechanism",
+      "Mechanismen",
+      "Mechanisms",
+      "Mechanismus"
+    ],
+    "roman": [
+      "Roman",
+      "Romanarchitektur",
+      "Romanplot",
+      "Romans"
+    ],
+    "siche": [
+      "Sicherheitsmechanismen",
+      "Sicherheitsmechanismus",
+      "Sicherheitsverhalten",
+      "Sichert"
+    ],
+    "techn": [
+      "Technik",
+      "Techniken",
+      "Technische",
+      "Technisches"
+    ],
+    "theor": [
+      "Theoretische",
+      "Theoretischer",
+      "Theorie",
+      "Theory"
+    ],
+    "unter": [
+      "Unterbau",
+      "Unterstützung",
+      "Untersuchung",
+      "Unterteilung"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsdualität",
+      "Wahrheitstheorien"
+    ],
+    "abweh": [
+      "Abwehrmechanismen",
+      "Abwehrmechanismus",
+      "Abwehrreaktionen"
+    ],
+    "affek": [
+      "Affekt",
+      "Affekte",
+      "Affektzustände"
+    ],
+    "autor": [
+      "Autor",
+      "Autoren",
+      "Autors"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakteranalyse",
+      "Charaktere"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Traumaüberlebende"
+    ],
+    [
+      "Flow",
+      "Workflow"
+    ],
+    [
+      "Flow",
+      "Workflows"
+    ],
+    [
+      "Flow",
+      "Arbeitsworkflow"
+    ],
+    [
+      "Form",
+      "Longform"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationserhaltung"
+    ],
+    [
+      "Here",
+      "Sphere"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Hier",
+      "Hierarchische"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernbeziehung"
+    ],
+    [
+      "Kern",
+      "Kernentwicklung"
+    ]
+  ]
+}

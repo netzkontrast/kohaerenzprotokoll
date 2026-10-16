@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x1
+  glued ref numbers      111
+  backslash escapes      2
+  typographic marks      35
+  ascii quotes           108
+
+# inflection families -- one term, several surfaces
+  kontr    Kontrollaktes, Kontrollalgorithmen, Kontrollbemühungen, Kontrolle, Kontrolleur, Kontrollfehlern, Kontrollfähigkeit, Kontrollierbarkeit, Kontrollierten, Kontrollmaßnahme, Kontrollmechanismen, Kontrollmethoden, Kontrollstrategien, Kontrolltheorie, Kontrollverlust, Kontrollversuch, Kontrollversuche, Kontrollversuchen, Kontrollzyklen
+  inter    Interaktion, Interaktionen, Interaktions, Interaktionsfähigkeit, Interne, Internet, Interpretation, Interpretationen, Intervenieren, Intervention, Interventionen, Interventionsmöglichkeiten
+  syste    System, Systemabsturz, Systeme, Systemen, Systemintegrität, Systemische, Systemkonflikte, Systems, Systemtheorie, Systemzusammenbrüche, Systemzustände
+  selbs    Selbst, Selbstbeeinflussung, Selbstbezogenheit, Selbsterhalt, Selbsterhaltung, Selbsterhaltungsfähigkeit, Selbstreferenz, Selbstreferenzielle, Selbstregulation, Selbstzerstörerische
+  infor    Information, Informationen, Informationsentropie, Informationskontrolle, Informationsmenge, Informationstheorie, Informationsverarbeitung, Informationsüberflutung
+  fehle    Fehleinschätzungen, Fehlen, Fehlentscheidungen, Fehler, Fehlerfreiheit, Fehlerhaftigkeit, Fehlern
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktpotenzial, Konfliktquellen, Konflikts, Konfliktsituationen
+  analy    Analyse, Analyseprotokolle, Analyseprozesses, Analysestufen, Analysis, Analytics
+  model    Modell, Modellbildung, Modelle, Modellen, Modellfehler, Modells
+  arist    ARISTOTLE, Aristoteles, Aristotelisch, Aristotelische, Aristotle
+  chara    Charakter, Charakterentwicklung, Charakterisierung, Charakterkomplexität, Charaktertiefe
+  handl    Handlung, Handlungen, Handlungskontext, Handlungsmöglichkeiten, Handlungsunfähigkeit
+  parad    Paradox, Paradoxes, Paradoxien, Paradoxon, Paradoxons
+  resso    Ressource, Ressourcen, Ressourcenakkumulation, Ressourcenkontrolle, Ressourcensicherung
+  erken    Erkennen, Erkenntnis, Erkenntnisse, Erkennung
+  exist    Existentialism, Existentialismus, Existentielle, Existenz
+  gödel    Gödel, Gödels, Gödelsche, Gödelschen
+  haupt    Hauptcluster, Hauptsatz, Hauptziel, Hauptziels
+  rückk    Rückkopplung, Rückkopplungen, Rückkopplungsschleifen, Rückkopplungsversuche
+  siche    Sicherheit, Sicherheits, Sicherheitsgarantie, Sicherung
+  tiefe    Tiefe, Tiefenanalyse, Tiefenrecherche, Tiefer
+  verst    Verstehen, Verstehens, Verständnis, Verstärkung
+  agent    Agent, Agenten, Agentendichten
+  ander    Andere, Anderen, Andersartigkeit
+  aufga    Aufgabe, Aufgaben, Aufgabenerfüllung
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Econ < Second
+  Eine < Seine
+  Form < Formal
+  Form < Information
+  Form < Formulierung
+  Form < Informationen
+  Form < Formulierungen
+  Form < Regelkonformität
+  Form < Informationsmenge
+  Form < Informationstheorie
+  Form < Informationsentropie
+  Form < Informationskontrolle
+  Form < Informationsüberflutung
+  Form < Informationsverarbeitung
+  Held < Helden
+  Jede < Jeder
+  Kael < Kaels

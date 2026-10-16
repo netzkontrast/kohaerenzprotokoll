@@ -1,0 +1,54 @@
+# counts for 38 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           115 word   116 in   [27, 28, 40, 41, 42, 43]
+                                    1      as AEGIS-Agenten
+  Potentialmeer                     3 word     3 in   [27, 28, 57]
+  Monstergruppe                     1 word     1 in   [28]
+  Kael                             49 word    65 in   [40, 41, 42, 43, 51, 69]
+                                   15      as Kaels
+                                    1      as Kael-Alters-Kernwelten
+  Juna                              7 word     7 in   [41, 87, 237, 239, 291, 303]
+  K-J Verbindung                   19 word    19 in   [41, 88, 89, 117, 129, 135]
+  Kernwelten                       17 word    18 in   [42, 51, 75, 76, 77, 111]
+  Kernkonflikt                      4 word     6 in   [43, 47, 179, 251, 303, 364]
+                                    2      as Kernkonflikts
+  Alters                            7 word     9 in   [42, 75, 77, 129, 130, 183]
+  Alter                             3 word    13 in   [42, 75, 77, 81, 99, 129]  <-- substring
+                                    7      as Alters
+  Parias                           10 word    10 in   [36, 130, 135, 154, 213, 225]
+  Paria                             2 word    13 in   [36, 130, 135, 153, 154, 183]  <-- substring
+                                   10      as Parias
+                                    1      as Paria-Alters
+  Guardians                         3 word     3 in   [306, 311, 381]
+  Simplicity                       22 word    22 in   [32, 88, 106, 141, 142, 190]
+  Complexity/Symmetry              23 word    23 in   [33, 82, 100, 112, 148, 172]
+  Sporadicity                      16 word    16 in   [34, 58, 64, 124, 178, 202]
+  Moonshine                        35 word    36 in   [35, 41, 88, 94, 118, 130]
+                                    1      as Moonshine-beyond-Monster-Connecting-Mathematical
+  Internal Structure               16 word    16 in   [36, 70, 76, 100, 130, 154]
+  Outside Context Problem           3 word     3 in   [34, 59, 320]
+  Dissoziative Identitätsstörung    1 word     1 in   [40]
+  DID                               9 word    15 in   [40, 51, 69, 71, 131, 155]
+  Negationsprinzip                  1 word     1 in   [63]
+  Resonanz-Akten                    3 word     3 in   [45, 47, 364]
+  Reduktionismus                   11 word    11 in   [43, 71, 125, 179, 191, 251]
+  Holismus                         12 word    12 in   [28, 43, 179, 215, 227, 245]
+  Gödel-Punkt                       2 word     3 in   [141, 333, 373]
+                                    1      as Gödel-Punkten
+  Sub-Protokollarität               2 word     2 in   [167, 337]
+  NZT-48                            2 word     2 in   [15, 21]
+  Beat                             42 word    49 in   [47, 49, 55, 61, 67, 73]
+                                    7      as Beats
+  Auflösungsvariante                4 word     5 in   [271, 277, 283, 297, 386]
+                                    1      as Auflösungsvarianten
+  Charakter-Vektoren                1 word     1 in   [301]
+  Konzept-Integration Matrix        1 word     1 in   [313]
+  parakonsistente Logik             3 word     3 in   [81, 135, 141]
+  Parakonsistenz                    8 word     8 in   [143, 201, 304, 327, 333, 364]
+  Dialetheismus                     1 word     1 in   [281]
+  Emergenz                         13 word    13 in   [149, 173, 209, 257, 283, 286]
+  Nicht-lokalität                   5 word     5 in   [119, 239, 364, 368, 381]
+  Quantenverschränkung              1 word     1 in   [382]

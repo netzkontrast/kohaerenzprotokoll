@@ -1,0 +1,312 @@
+{
+  "document": "kernwelten-und-fragmentierte-wahrnehmung",
+  "drive_id": "1Kruokptmx-M0bwVI-Sgv45DoqrzPyWF_J2QkZa6BYd8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 109,
+    "decisions": 107,
+    "decided_by_lookup": 73,
+    "needs_judgement": 34
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        48,
+        115,
+        151,
+        193,
+        195,
+        235,
+        237,
+        278,
+        279
+      ],
+      "attribution": "",
+      "note": "AEGIS by world, as proposals"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        93,
+        106,
+        132,
+        294,
+        329
+      ],
+      "attribution": "",
+      "note": "a part sorted with the ANPs, possibly crisis manager in KW2"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        152,
+        269,
+        292,
+        324
+      ],
+      "attribution": "",
+      "note": "possible reflecting in KW4, interior monologue; not placed by the sorting"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        31,
+        152
+      ],
+      "attribution": "",
+      "note": "the problem explained by amnesia, and a possible mirror in KW1"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        197,
+        199,
+        204,
+        207,
+        384
+      ],
+      "attribution": "",
+      "note": "KW3 as the world of threat and border"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        49,
+        82,
+        94,
+        330
+      ],
+      "attribution": "",
+      "note": "an EP, a possible colour-scheme trigger, an unreliability row"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        29,
+        31,
+        48,
+        49,
+        93,
+        96,
+        105
+      ],
+      "attribution": "",
+      "note": "System Kael, an ANP shaped by depersonalisation and control"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        48,
+        49,
+        104,
+        113,
+        115,
+        155,
+        197,
+        239,
+        337
+      ],
+      "attribution": "",
+      "note": "the four worlds as active triggers, each part with its own map"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        41,
+        48,
+        49,
+        94,
+        347,
+        364,
+        366,
+        392
+      ],
+      "attribution": "",
+      "note": "an EP of fear and flight"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        113,
+        115,
+        120
+      ],
+      "attribution": "",
+      "note": "KW1 titled with Co₁, the order AEGIS may favour"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        48,
+        93,
+        105,
+        123,
+        344,
+        345,
+        355,
+        388
+      ],
+      "attribution": "",
+      "note": "an ANP, the rationalist whose map AEGIS might impose"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        94,
+        105,
+        269
+      ],
+      "attribution": "",
+      "note": "an EP, invalidated in KW1, play in KW4"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        239,
+        241,
+        279
+      ],
+      "attribution": "",
+      "note": "KW4 titled with Ly, what AEGIS fears most"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        32,
+        43,
+        48,
+        94,
+        269
+      ],
+      "attribution": "",
+      "note": "an EP of freezing and emptiness"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        42,
+        94,
+        106,
+        107
+      ],
+      "attribution": "",
+      "note": "an EP of anger and the fight system"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        155,
+        157,
+        195
+      ],
+      "attribution": "",
+      "note": "KW2 titled with McL, a threat to AEGIS's control"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        93,
+        105,
+        106,
+        348,
+        349,
+        373,
+        396
+      ],
+      "attribution": "",
+      "note": "an ANP of bonding, invalidated in KW1"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "cracks in KW1's structure, listed as a symbolic phenomenon"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        269,
+        326,
+        329
+      ],
+      "attribution": "",
+      "note": "placed only with a question mark"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        86,
+        92,
+        93,
+        94,
+        95,
+        96,
+        104,
+        107
+      ],
+      "attribution": "",
+      "note": "the frame for the parts' perception, ANP/EP filters, tertiary dissociation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C5",
+    "C9"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 142,
+      "decision": "reading",
+      "why": "cracks or anomalies in KW1's perfect structure"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 76,
+      "decision": "occurrence",
+      "why": "a media example (Inception), not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

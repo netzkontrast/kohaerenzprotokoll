@@ -1,0 +1,78 @@
+# counts for 57 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               32 word    32 in   [11, 13, 17, 19, 45, 47]
+  AEGIS                            18 word    20 in   [51, 53, 87, 90, 91, 108]
+                                    1      as AEGIS-Codex-Kontext
+                                    1      as AEGIS-Interferenz
+  Kael                             13 word    23 in   [51, 52, 53, 88, 90, 91]
+                                   10      as Kaels
+  Juna                              4 word     4 in   [90, 139]
+  Verbindung V                      5 word     5 in   [51, 90, 138, 148]
+  Moonshine-Link                    2 word     2 in   [90]
+  Juna/V                            2 word     2 in   [90, 139]
+  Paradoxon X                       7 word     7 in   [51, 87, 91, 123, 159]
+  Cache Kohärenz                    5 word     5 in   [51, 52, 88, 144]
+  Kernwelten                        5 word     6 in   [51, 52, 89, 131, 173, 209]
+                                    1      as Kernwelten-Regeln
+  Kernwelt                         11 word    17 in   [51, 52, 89, 108, 131, 133]
+                                    5      as Kernwelten
+                                    1      as Kernwelten-Regeln
+  Kernwelt McL                      2 word     2 in   [143]
+  Kernwelt B                        2 word     2 in   [134, 200]
+  Kernwelt Ly                       2 word     2 in   [144]
+  McL                               6 word     6 in   [51, 60, 89, 94, 143]
+  Ly                                5 word     5 in   [51, 60, 89, 144]
+  Conway-Gruppe                     2 word     2 in   [89, 133]
+  Baby-Monster                      1 word     2 in   [89, 134]
+                                    1      as Baby-Monster-Gruppe
+  Baby-Monster-Gruppe               1 word     1 in   [134]
+  sporadische Gruppen               2 word     2 in   [51, 60]
+  IFS-Anteile                       1 word     1 in   [88]
+  IFS-Analogie                      1 word     1 in   [51]
+  Logiker-Manager-Anteil            1 word     1 in   [138]
+  Manager                           2 word     3 in   [88, 94, 138]
+  Logiker                           1 word     2 in   [88, 138]
+                                    1      as Logiker-Manager-Anteil
+  Fragmentierung                    3 word     3 in   [51, 88, 144]
+  Kernaxiome                        1 word     2 in   [87, 139]
+                                    1      as Kernaxiomen
+  Autopoiesis                       1 word     1 in   [87]
+  Kernkonflikt                      1 word     1 in   [91]
+  Systemkohärenz                    1 word     1 in   [139]
+  Dreiteilige Narrative Struktur    1 word     1 in   [92]
+  Heldinnenreise                    1 word     1 in   [52]
+  Heldenreise                       2 word     2 in   [26, 52]
+  Zyklisch                          2 word     2 in   [52, 92]
+  Holismus                          1 word     1 in   [148]
+  Reduktionismus                    1 word     1 in   [148]
+  Quantenfluktuation                1 word     1 in   [143]
+  Codex                            44 word    79 in   [19, 35, 39, 43, 51, 54]
+                                   12      as Codex-Einträge
+                                    5      as Codex-Einträgen
+                                    4      as Codex-Eintrag
+                                    2      as Codex-Kontext
+  Series Codex                      1 word     1 in   [43]
+  Global Entry                      2 word     2 in   [87]
+  Nested References                 6 word     6 in   [88, 94, 98, 108]
+  Relationships                     6 word     6 in   [90, 91, 94, 98]
+  Matrix View                       5 word     5 in   [25, 88, 91]
+  Scene Labels                      3 word     3 in   [92, 100]
+  Tags                             11 word    11 in   [19, 43, 88, 89, 93, 100]
+  Snippets                          3 word     3 in   [43, 94]
+  Chat AI                          24 word    24 in   [87, 88, 89, 90, 93, 94]
+  Tinker Chat Assistants            1 word     1 in   [116]
+  Scene Beat Completion             4 word     4 in   [38, 116, 143, 182]
+  Prompt Chaining                   1 word     1 in   [200]
+  Fine-Tuning                       4 word     4 in   [195, 213, 217, 247]
+                                    1      as fine-tuning-ai-for-authors
+  Bring Your Own Key                2 word     2 in   [31, 59]
+  Mapping                           6 word     9 in   [72, 74, 76, 86, 102, 104]
+                                    2      as Mapping-Prozess
+                                    1      as Mappings
+  Feedback-Schleife                 3 word     3 in   [222, 224, 236]
+  Codex-KI-Symbiose                 1 word     1 in   [64]
+  dialektischen Exploration         1 word     1 in   [157]
+  Single Source of Truth            1 word     1 in   [201]

@@ -1,0 +1,41 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      82
+  typographic marks      13
+  ascii quotes           112
+
+# inflection families -- one term, several surfaces
+  aegis    AEGIS, Aegis
+  archi    Architecture, Architectures
+  coher    Coherence, Coherons
+  corre    Corrective, Correspondence
+  explo    Exploitation, Exploiting
+  fragm    Fragmentation, Fragmenten
+  kernw    Kernwelt, Kernwelten
+  manif    Manifestation, Manifests
+  mecha    Mechanics, Mechanism
+  metap    Metaphor, Metaphysical
+  motiv    Motivated, Motivation
+  narra    Narrative, Narrator
+  phobi    Phobia, Phobias
+  physi    Physical, Physics
+  predi    Predicted, Predictive
+  psych    Psycho, Psychological
+  syste    System, Systemic
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Host < Hostile
+  Part < Parts
+  Riss < Risse
+  AEGIS < Aegis
+  World < Worlds
+  Action < Reaction
+  Phobia < Phobias
+  Psycho < Psychological
+  System < Systemic
+  Kernwelt < Kernwelten
+  Physical < Metaphysical
+  Coherence < Incoherence
+  Architecture < Architectures

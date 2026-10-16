@@ -1,0 +1,104 @@
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Phase"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Phase` ^[kohaerenz-protokoll-synthese-integration.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Nächster Schritt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nächster Schritt` ^[kohaerenz-protokoll-synthese-integration.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Kapitel"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kapitel` ^[kohaerenz-protokoll-synthese-integration.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Slots"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Slots` ^[kohaerenz-protokoll-synthese-integration.md:#7]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Golden Source Documents"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Golden Source Documents` ^[kohaerenz-protokoll-synthese-integration.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[kohaerenz-protokoll-synthese-integration.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "KW2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW2` ^[kohaerenz-protokoll-synthese-integration.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "funktionale Multiplizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`funktionale Multiplizität` ^[kohaerenz-protokoll-synthese-integration.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Funktionaler Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funktionaler Multiplizität` ^[kohaerenz-protokoll-synthese-integration.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fundament` ^[kohaerenz-protokoll-synthese-integration.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "EPs"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`EPs` ^[kohaerenz-protokoll-synthese-integration.md:#9]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "EP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            15
+
+`EP` ^[kohaerenz-protokoll-synthese-integration.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Rhizomatische"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rhizomatische` ^[kohaerenz-protokoll-synthese-integration.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Rhizome"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Rhizome` ^[kohaerenz-protokoll-synthese-integration.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Lex"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Lex` ^[kohaerenz-protokoll-synthese-integration.md:#6]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Kaels"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kaels` ^[kohaerenz-protokoll-synthese-integration.md:#10]
+$ python3 scripts/read.py kohaerenz-protokoll-synthese-integration --count "Juna"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Juna` ^[kohaerenz-protokoll-synthese-integration.md:#6]
+stance_marker_count 4 = Phase 3 + Nächster Schritt 1
+95 candidates, Zeros 0: from 04-counts.txt header and census.py draft

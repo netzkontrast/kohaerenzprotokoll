@@ -1,0 +1,55 @@
+stance_marker_count 8 = Prinzip 3 + Beschreibung 3 + Symbolisch 1 + Motto 1
+$ read.py --count Prinzip
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            10
+
+`Prinzip` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#3]
+$ read.py --count Beschreibung
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Beschreibung` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#3]
+$ read.py --count Symbolisch
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Symbolisch` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]
+$ read.py --count Motto
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Motto` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]
+$ read.py --count Kapitel
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kapitel` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]
+$ read.py --count Subquotienten
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Subquotienten` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]
+$ read.py --count Multiplizität
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Multiplizität` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]
+$ read.py --count möglicherweise
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`möglicherweise` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]
+$ read.py --count vielleicht
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`vielleicht` ^[kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest.md:#1]

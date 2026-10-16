@@ -1,0 +1,14 @@
+# arbeitshilfe-kohaerenz-protokoll-kapitel-2
+  lines                342  (frontmatter ends at 9)
+  body words           7026
+  headings             2   bold-only lines 21
+  table rows           6   code fences 0
+  question marks       49
+  backslash escapes    164
+  typographic marks    152   ascii quotes 18
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    84
+  repeated labels      Definition x3, EST Fokus x3, Fokus x3, Liminale Charakteristika x3, Narrative Technik Fokus x3, Psychologischer Zustand x3, Sensorische Palette x3
+  longest line         1651 chars
+

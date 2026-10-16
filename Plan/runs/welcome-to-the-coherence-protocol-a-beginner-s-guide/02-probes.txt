@@ -1,0 +1,24 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      2
+  backslash escapes      48
+  typographic marks      14
+  ascii quotes           44
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architect, Architectures
+  poten    Potentialis, Potentiality, Potentialmeer
+  fragm    Fragmented, Fragmenten
+  proto    Protocol, Protokoll
+  psych    Psyche, Psycho
+  truth    Truth, Truths
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Flaw < Flawed
+  Here < Coherence
+  Here < Atmosphere
+  Part < Parts
+  Truth < Truths
+  World < Worlds
+  Architect < Architectures

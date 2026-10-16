@@ -1,0 +1,14 @@
+# in-teil-2-werden-die-persona-von-ihren-spezifis
+  lines                280  (frontmatter ends at 9)
+  body words           2430
+  headings             0   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       10
+  backslash escapes    4
+  typographic marks    3   ascii quotes 62
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    43
+  repeated labels      none
+  longest line         661 chars
+

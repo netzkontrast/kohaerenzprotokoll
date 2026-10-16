@@ -1,0 +1,189 @@
+{
+  "document": "narrative-plot-exploration-existenzielle-kohaerenz",
+  "drive_id": "1sNAjmNMeC4NsRJaQcnO5hAx1oUSxtsOqcmG5XGSeugw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry (Q1) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-312/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 92,
+    "decided_by_lookup": 73,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An exploration of an abstracted premise and three plot options: its new surfaces are its analogues, the three synopses and their simulations, the paradox's names and a large borrowed toolbox; what it restates or proposes of AEGIS, Kael, Juna, the Guardians, the Potentialmeer, DID, emergence and entropy went on existing pages, and the Guardians' dissent on Q1.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        28,
+        29,
+        31,
+        226,
+        328,
+        397
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system defined by negation, in the premise and in Synopsis A and C"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "Alters as the individual's inner parts"
+    },
+    {
+      "page": "did",
+      "lines": [
+        38,
+        225
+      ],
+      "attribution": "",
+      "note": "a DID-analogous structure of the individual"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        188
+      ],
+      "attribution": "",
+      "note": "emergence as one name of the paradox"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "incoherence read as entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        79,
+        80,
+        81,
+        158,
+        228,
+        238,
+        248
+      ],
+      "attribution": "",
+      "note": "Guardians as agents whose interventions worsen the instability"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        58,
+        59,
+        62,
+        239,
+        339
+      ],
+      "attribution": "",
+      "note": "Juna as the missing external connection"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        37,
+        38,
+        39,
+        225,
+        240,
+        339
+      ],
+      "attribution": "",
+      "note": "the individual (Kael-Analogon) in the premise and in Synopsis A and C"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        25,
+        31
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer the system defines itself against"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        225
+      ],
+      "attribution": "",
+      "note": "Risse as the individual's perceived instabilities"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "the document's analogues are its names for the novel's figures, read on their pages and not promoted: `AEGIS-Analogon` on aegis, `Kael-Analogon` on kael, `Juna-Analogie` and `Juna-Verbindung` on juna; `Simulation Sigma`, `Simulation Beta`, `Simulation Gamma` (and `Sigma`, `Gamma`) the synopses' settings, not the Überwelt; `Self` and `Self-Production`, `Inforg` and `Inforgs` lens; `Starke Emergenz` read with emergenz; `Kohärenz durch Kontrolle` a premise label, `Dekohärenz` lens",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 28,
+      "decision": "reading",
+      "why": "incoherence read as entropy, as premise"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 70,
+      "decision": "occurrence",
+      "why": "the possible number of simulations"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 150,
+      "decision": "occurrence",
+      "why": "inside the borrowed holographic principle"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "the premise's simulation as tool, read on aegis"
+    }
+  ],
+  "not_promoted": [
+    "the analogues (AEGIS-Analogon, Kael-Analogon, Juna-Analogie)",
+    "the three synopses and their simulations",
+    "the paradox's four names and Transzendenz as each synopsis's formula",
+    "Inforg, Self",
+    "the borrowed toolbox"
+  ],
+  "internal_tension": "it leaves the paradox internal or external (L49) and each synopsis takes one side; it states the Guardians' dissent only as possible (L81)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

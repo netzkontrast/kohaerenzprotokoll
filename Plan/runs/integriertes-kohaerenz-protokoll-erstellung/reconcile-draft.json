@@ -1,0 +1,235 @@
+{
+  "document": "integriertes-kohaerenz-protokoll-erstellung",
+  "drive_id": "1CQeSFpjbO6cSwTW8wbHGnK-hp5A5u08FJE5TJtua6tw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 114,
+    "decisions": 119,
+    "decided_by_lookup": 97,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        49,
+        51,
+        130,
+        208,
+        212,
+        250,
+        252,
+        302
+      ],
+      "attribution": "",
+      "note": "AEGIS reported of one file and described in the report's own applications"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        132,
+        252
+      ],
+      "attribution": "",
+      "note": "Algorithmische Melancholie as AEGIS's transformation, and as endless repetition"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        290,
+        339
+      ],
+      "attribution": "",
+      "note": "the Alters as internalised polyphony"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        39,
+        88
+      ],
+      "attribution": "",
+      "note": "the DKT as reported of two files"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        51,
+        252
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's origin trauma"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        345,
+        346
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit in Phase III"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        122,
+        138,
+        338
+      ],
+      "attribution": "",
+      "note": "Juna/V as subsystem, link and oscillator"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        146,
+        148,
+        263,
+        330,
+        345
+      ],
+      "attribution": "",
+      "note": "Kael's journey reported of a file, and Kael in the report's own applications"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        290
+      ],
+      "attribution": "",
+      "note": "Kiko among the Alters"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        234
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as the Bulk"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        290,
+        331
+      ],
+      "attribution": "",
+      "note": "Lex among the Alters, and the ANP barriers in Phase I"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        138,
+        338
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as reported of a file and as part of Phase II"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        148,
+        290
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität as goal, as polyphony"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        290
+      ],
+      "attribution": "",
+      "note": "Nyx among the Alters"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        252
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer closed off after the Genesis-Krise"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        78,
+        212,
+        236
+      ],
+      "attribution": "",
+      "note": "the Risse as pixelation errors and as heat of repression"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        98,
+        104,
+        146
+      ],
+      "attribution": "",
+      "note": "the TSDP reported of two files and as the basis of the phases"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 39,
+      "decision": "occurrence",
+      "why": "read on dkt"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 78,
+      "decision": "occurrence",
+      "why": "the system's boundary in general"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 198,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

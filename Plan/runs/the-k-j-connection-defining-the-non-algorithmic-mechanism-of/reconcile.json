@@ -1,0 +1,118 @@
+{
+  "document": "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+  "drive_id": "1WdEsnyIWq4hJtOwArxeg_yngxkZJhM7-PFS0fmPZVNY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one Q9 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-374/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 42,
+    "decisions": 44,
+    "decided_by_lookup": 38,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English analytic report on the Moonshine-Link: its new surfaces are its own labels and borrowed logic and physics; what it defines of the Moonshine-Link, AEGIS's vulnerabilities, Kael, Juna/V, the Kernwelten, the Gödel-Gambit and algorithmic melancholy went on existing pages, and the link's boundary on Q9.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        27,
+        28,
+        29,
+        65,
+        68
+      ],
+      "attribution": "",
+      "note": "the system whose design leaves a blind spot"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "the second outcome of the Gödel-Gambit"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        61,
+        63,
+        65
+      ],
+      "attribution": "",
+      "note": "the endgame as a living Gödel-Satz"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        15,
+        51,
+        55,
+        76
+      ],
+      "attribution": "",
+      "note": "the external presence recast as a catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        39,
+        63
+      ],
+      "attribution": "",
+      "note": "the managed asset and one half of an inseparable system"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the boundaries the alters coordinate across"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        17,
+        35,
+        39,
+        40,
+        41
+      ],
+      "attribution": "",
+      "note": "a non-local, sub-protocol backdoor"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Juna/V` read on juna; `Autonomous Entropic Gatekeeper for Integrity Systems` read on aegis; `ontological exploit` an occurrence of a substring, not alex",
+  "sweep": [],
+  "not_promoted": [
+    "K-J connection, sub-protocol, architectural backdoor, ontological blindness, Relational Resonance, Gnostic Injection, Coordinated Emergence, Maximize Coherence, Adaptive Layer",
+    "the borrowed concepts (LFI, Discursive Logic, specification gaming, entanglement, prehension, gnosis and episteme, explosion, autopoiesis)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

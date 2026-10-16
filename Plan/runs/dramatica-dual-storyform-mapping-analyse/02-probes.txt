@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x14
+  glued ref numbers      52
+  backslash escapes      228
+  typographic marks      97
+  ascii quotes           31
+
+# inflection families -- one term, several surfaces
+  syste    System, Systeme, Systemik, Systemkollaps, Systems, Systemversagens, Systemzustands
+  inter    Interferenz, Interferenzmuster, Intern, Interpretation, Intersektion
+  metho    Method, Methode, Methoden, Methodik, Methodology
+  story    Story, Storyform, Storyforms, Storymind, Storyminds
+  alter    Alter, Alternative, Alternativen, Alters
+  durch    Durch, Durchdringung, Durchführung, Durchsetzung
+  gegen    GEGEN, Gegen, Gegenpole, Gegensatz
+  infor    Information, Informations, Informationstheorie, Informationsverarbeitung
+  konst    Konstante, Konstrukt, Konstruktion, Konstrukts
+  lösun    Lösung, Lösungen, Lösungs, Lösungsraum
+  spieg    Spiegelt, Spiegelung, Spiegelungen, Spiegelungs
+  struk    Struktur, Strukturanalyse, Strukturelle, Strukturierung
+  symme    Symmetrie, Symmetriebruch, Symmetriegruppe, Symmetrien
+  argum    Argument, Argumentations, Argumentationslinien
+  axiom    Axiom, Axiomatische, Axiome
+  befun    Befund, Befunde, Befunden
+  bestä    Bestätigung, Bestätigungstheater, Bestätigungsverzerrung
+  chara    Character, Characters, Charakter
+  const    CONSTRAINT, Constraint, Constraints
+  daten    Daten, Datenlöschung, Datenverlust
+  eleme    Element, Elemente, Elements
+  falsi    Falsification, Falsifikation, Falsifikations
+  forsc    Forschung, Forschungs, Forschungsziel
+  heuri    Heuristics, Heuristik, Heuristiken
+  hypot    Hypothese, Hypothesen, Hypothesis
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dual < Duale
+  Dual < Dualität
+  Eine < Keine
+  Eine < Seine
+  Enge < Menge
+  Erst < Verstehen
+  Erst < Leerstelle
+  Erst < Understanding
+  Feld < Felder
+  Juna < Junas
+  Kael < Kaels
+  Kein < Keine
+  Kern < Kernel
+  Kern < Kernkonzepte
+  Link < Links
+  Lock < BLOCK
+  Lock < Locks
+  Lock < Timelock

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      67
+  backslash escapes      23
+  typographic marks      16
+  ascii quotes           120
+
+# inflection families -- one term, several surfaces
+  struc    STRUCTURAL, Structural, Structurally, Structure, Structured, Structuring
+  autho    Author, Authorial, Authors
+  compl    Complete, Complex, Complexity
+  compu    Computable, Computational, Computationally
+  disso    DISSOCIATION, Dissociation, Dissociative
+  gener    Generating, Generation, Generative
+  hyper    HyperGraph, Hypergraph, Hypergraphs
+  model    Model, Modelling, Models
+  power    Power, Powered, Powers
+  story    Story, Storymind, Storytelling
+  theor    Theorem, Theorems, Theory
+  under    UNDERSTANDING, Understand, Understanding
+  write    Write, Writer, Writers
+  agent    Agent, Agentic
+  alter    Alter, Alters
+  archi    Architectural, Architecture
+  chara    Character, Characters
+  coher    Coherence, Coherent
+  creat    Create, Creative
+  criti    Critique, Critiques
+  featu    Feature, Features
+  forma    Formal, Formalized
+  from     FROM, From
+  graph    Graph, Graphs
+  ident    Identifying, Identity
+
+# substring pairs -- never one term, often merged by accident
+  Book < Notebook
+  Book < Bookshelf
+  Cons < Consequence
+  Cons < Deconstructing
+  Core < SCORE
+  Data < Database
+  Data < DataNorth
+  FROM < From
+  Fact < Facts
+  Fact < Factual
+  Form < Formal
+  Form < Formalized
+  Form < Information
+  Main < Domains
+  Mind < Storymind
+  Part < PARTS
+  Part < Parts
+  Rise < Enterprise
+  Term < Terminology
+  Text < Context

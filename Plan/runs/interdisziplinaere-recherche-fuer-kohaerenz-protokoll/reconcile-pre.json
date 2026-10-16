@@ -1,0 +1,542 @@
+{
+  "document": "interdisziplinaere-recherche-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 88,
+  "decisions": 88,
+  "same_surface": {
+    "kaskadierendefehler": [
+      "kaskadierende Fehler",
+      "Kaskadierende Fehler"
+    ]
+  },
+  "decided_mechanically": 72,
+  "needs_judgement": 16,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 197
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 69
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 71
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "abstrahierte Kernkonzept"
+      },
+      {
+        "candidate": "Protagonist"
+      },
+      {
+        "candidate": "Kernspannung"
+      },
+      {
+        "candidate": "Verbindung"
+      },
+      {
+        "candidate": "NZT-Protokoll"
+      },
+      {
+        "candidate": "Forschungsmandat"
+      },
+      {
+        "candidate": "Resonanzstärke"
+      },
+      {
+        "candidate": "Neuheitspotenzial"
+      },
+      {
+        "candidate": "Generative Kraft"
+      },
+      {
+        "candidate": "Erhellungskapazität"
+      },
+      {
+        "candidate": "Konzept-Mapping"
+      },
+      {
+        "candidate": "Schlüsselkonzept/Cluster"
+      },
+      {
+        "candidate": "Selbstorganisation"
+      },
+      {
+        "candidate": "Pfadabhängigkeit"
+      },
+      {
+        "candidate": "Rand des Chaos"
+      },
+      {
+        "candidate": "Downward Causation"
+      },
+      {
+        "candidate": "kaskadierende Fehler"
+      },
+      {
+        "candidate": "strukturelle Kopplung"
+      },
+      {
+        "candidate": "Emergent Engineering"
+      },
+      {
+        "candidate": "Emergentes Engineering"
+      },
+      {
+        "candidate": "Intentionalität"
+      },
+      {
+        "candidate": "Epoché"
+      },
+      {
+        "candidate": "Lebenswelt"
+      },
+      {
+        "candidate": "Verkörperung"
+      },
+      {
+        "candidate": "Noesis"
+      },
+      {
+        "candidate": "Noema"
+      },
+      {
+        "candidate": "Abstraktionsebenen"
+      },
+      {
+        "candidate": "Haecceitas"
+      },
+      {
+        "candidate": "kontextuelle Individualität"
+      },
+      {
+        "candidate": "Radikaler OSR"
+      },
+      {
+        "candidate": "Moderater OSR"
+      },
+      {
+        "candidate": "Forschungszyklus"
+      },
+      {
+        "candidate": "Ontischer Struktureller Realismus"
+      },
+      {
+        "candidate": "OSR"
+      },
+      {
+        "candidate": "ESR"
+      },
+      {
+        "candidate": "Komplexe Adaptive Systeme"
+      },
+      {
+        "candidate": "CAS"
+      },
+      {
+        "candidate": "Quantenverschränkung"
+      },
+      {
+        "candidate": "Nichtlokalität"
+      },
+      {
+        "candidate": "Phänomenologie"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "QVF"
+      },
+      {
+        "candidate": "Nullpunktenergie"
+      },
+      {
+        "candidate": "ZPE"
+      },
+      {
+        "candidate": "Casimir-Effekt"
+      },
+      {
+        "candidate": "Monstrous Moonshine"
+      },
+      {
+        "candidate": "Monstergruppe"
+      },
+      {
+        "candidate": "Gruppentheorie"
+      },
+      {
+        "candidate": "Topologische Defekte"
+      },
+      {
+        "candidate": "Kategorientheorie"
+      },
+      {
+        "candidate": "Relationale Biologie"
+      },
+      {
+        "candidate": "Relationaler Realismus"
+      },
+      {
+        "candidate": "Kausaler Strukturalismus"
+      },
+      {
+        "candidate": "Informationsontologie"
+      },
+      {
+        "candidate": "LoA"
+      },
+      {
+        "candidate": "Integrierte Informationstheorie"
+      },
+      {
+        "candidate": "IIT"
+      },
+      {
+        "candidate": "Apophatische Theologie"
+      },
+      {
+        "candidate": "Kybernetik"
+      },
+      {
+        "candidate": "Chaostheorie"
+      },
+      {
+        "candidate": "Seltsame Attraktoren"
+      },
+      {
+        "candidate": "Dunkle Energie"
+      },
+      {
+        "candidate": "Systemdenken"
+      },
+      {
+        "candidate": "Phasenübergang"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "Vertexoperatoralgebra"
+      },
+      {
+        "candidate": "Ex contradictione quodlibet"
+      },
+      {
+        "candidate": "Panpsychismus"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Entität  /  Identitätsfragmentierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entität  /  Dissoziative Identitätsstörung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Raum  /  Emergente Raumzeit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Organisatorische Schließung  /  Autopoiesis & Organisatorische Schließung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autopoiesis & Organisatorische Schließung  /  Autopoiesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "schwache Emergenz  /  Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "starke Emergenz  /  Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Quantenvakuumfeld  /  Quantenvakuum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Entität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "diddissoziativeidentitatsstruktur",
+            "page": "did"
+          },
+          {
+            "surface": "dissoziativeidentitatsstruktur",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Äußere",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aniauerenichtidentifikation",
+            "page": "ani"
+          }
+        ]
+      },
+      {
+        "candidate": "Grenze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "archivdergrenzen",
+            "page": "archiv-der-grenzen"
+          },
+          {
+            "surface": "groemauersystemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "systemgrenze",
+            "page": "grosse-mauer"
+          }
+        ]
+      },
+      {
+        "candidate": "Raum",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "uberraum",
+            "page": "ueberraum"
+          },
+          {
+            "surface": "ueberraum",
+            "page": "ueberraum"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "schwache Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "starke Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationstheorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 251,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 64,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 64,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 89,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

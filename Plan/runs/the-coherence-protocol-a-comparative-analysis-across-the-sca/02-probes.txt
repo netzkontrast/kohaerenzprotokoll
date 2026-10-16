@@ -1,0 +1,45 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      92
+  typographic marks      8
+  ascii quotes           84
+
+# inflection families -- one term, several surfaces
+  mecha    Mechanics, Mechanism, Mechanisms
+  compu    Computational, Computer
+  const    Constant, Constants
+  corre    Correction, Correspondence
+  cosmo    Cosmological, Cosmology
+  domai    Domain, Domains
+  emerg    Emergence, Emergent
+  force    Force, Forced
+  norma    Normal, Normalcy
+  phobi    Phobia, Phobias
+  point    Point, Points
+  proto    Protocol, Protocols
+  psych    Psychological, Psychology
+  scale    Scale, Scales
+  syste    System, Systemic
+
+# substring pairs -- never one term, often merged by accident
+  Each < Breach
+  Here < Coherence
+  Here < Decoherence
+  Riss < Risse
+  Force < Forced
+  Force < Enforcement
+  Point < Points
+  Ratio < Cooperation
+  Ratio < Integration
+  Ratio < Reconfiguration
+  Scale < Scales
+  Action < Interaction
+  Domain < Domains
+  Normal < Normalcy
+  Phobia < Phobias
+  System < Systemic
+  Constant < Constants
+  Protocol < Protocols
+  Coherence < Decoherence
+  Mechanism < Mechanisms

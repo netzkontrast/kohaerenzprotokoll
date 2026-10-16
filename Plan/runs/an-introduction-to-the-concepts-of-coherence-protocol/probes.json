@@ -1,0 +1,57 @@
+{
+  "document": "an-introduction-to-the-concepts-of-coherence-protocol",
+  "drive_id": "1_Jv1aNdVGh8_JwFzuyHsjVM39_5F-YMWcOqMA19QA_w",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 18,
+  "typographic_marks": 11,
+  "ascii_quotes": 24,
+  "inflection_families": {
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Potential",
+      "Potentiality"
+    ]
+  ]
+}

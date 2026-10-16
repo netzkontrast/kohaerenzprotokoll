@@ -1,0 +1,113 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is English prose with German world names; it is a brief of 39 story assignments, each with a Core Concept, an Assigned POV and a Dramatize the Concept paragraph. The Core Concept lines name borrowed theories and are listed under lens. Quotation marks in the document mark invented terms and the voice of in-world logs. The Dramatize paragraphs are instructions to a writer, not narrative.
+
+## world
+
+- Kohärenz Protokoll
+- Coherence Protocol
+- Kael
+- System Kael
+- AEGIS
+- AEGIS Core Logic
+- Component 734
+- Ursprungs-Ich
+- AEGIS System-Wide Log
+- Subject: Kael
+- Überwelt
+- Kernwelt
+- Kernwelten
+- Kernwelt 1
+- Kernwelt 2
+- Kernwelt 3
+- Kernwelt 4
+- KW1
+- KW2
+- KW3
+- KW4
+- Co₁
+- Moonshine-Link
+- Potentialmeer
+- Sea of Potentiality
+- Nichts Rauschen
+- Riss
+- Risse
+- Paraiyas
+- Wächter-Zwiespalt
+- Guardian's Dilemma
+- Guardian
+- Monolithic Guardian
+- Rebel Guardian
+- Enforcer
+- Post-Schism
+- Post-Reboot-State
+- Memory Crystal
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Juna/V
+- The Host
+- The Internal Parts
+- Alters
+- The Architect
+- The Network-Weaver
+- The Chaos-Regulator
+- The Possibility-Weaver
+- The Authorial Narrator
+- The Exile
+- Narrative Vectors
+- narrative mosaic
+- ANP
+- Apparently Normal Part
+- EP
+- EPs
+- Emotional Parts
+- Manager
+- Managers/Firefighters
+- Exiles
+- Self
+- positive intent
+- Overhead
+- phobia between parts
+- Flight/Freeze
+- Qualia-space
+- functional multiplicity
+- Gödel-Satz
+- Gödel-class anomaly
+- algorithmic melancholy
+- descent to the Goddess
+- healing the wounded masculine
+- prime directive
+- Aegis is what Aegis prevents itself from not being
+- Heroine's Journey
+- Hero's Journey
+
+## lens
+
+- TSDP
+- IFS
+- Simulation Theory
+- Brain in a Vat
+- Hard Problem of Consciousness
+- Gibbs Paradox
+- Statistical Mechanics
+- Gödel's Paradox
+- Negentropy
+- Second-Order Cybernetics
+- Dialetheism
+- Paraconsistent Logic
+- Antifragility
+- Existentialism
+- Cosmic Horror
+- Logotherapy
+- Phenomenology
+- Self-leadership
+- Determinism vs
+- Free Will

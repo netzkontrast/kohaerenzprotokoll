@@ -1,0 +1,139 @@
+# every number the census and note state
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Analyse"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Analyse` ^[dramatica-storyform-fuer-romananalyse.md:#19]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Entscheidung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Entscheidung` ^[dramatica-storyform-fuer-romananalyse.md:#7]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Begründung"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Begründung` ^[dramatica-storyform-fuer-romananalyse.md:#8]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Evidenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Evidenz` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Passung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Passung` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Wahl"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Wahl` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Kontext"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kontext` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Hypothese"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Hypothese` ^[dramatica-storyform-fuer-romananalyse.md:#3]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Frage"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`Frage` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Inhibitor"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Inhibitor` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fundament` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "V.10"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`V.10` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Genesis Crisis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Genesis Crisis` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Täter-Introjekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Täter-Introjekt` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Stereotype"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Stereotype` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Moonshine-Link"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Moonshine-Link` ^[dramatica-storyform-fuer-romananalyse.md:#3]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Trauma Loop"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Trauma Loop` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "K\_0"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`K\_0` ^[dramatica-storyform-fuer-romananalyse.md:#6]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "K\_1"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`K\_1` ^[dramatica-storyform-fuer-romananalyse.md:#6]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Kaels"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kaels` ^[dramatica-storyform-fuer-romananalyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Protokolle"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Protokolle` ^[dramatica-storyform-fuer-romananalyse.md:#3]
+$ python3 scripts/read.py dramatica-storyform-fuer-romananalyse --count "Protokollen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protokollen` ^[dramatica-storyform-fuer-romananalyse.md:#1]
+$ stance_marker_count 57 = 19+7+8+4+4+4+4+3+4 (Analyse, Entscheidung, Begründung, Evidenz, Passung, Wahl, Kontext, Hypothese, Frage; sum of the whole-word counts above)
+$ 4053 body words and 112 candidates: from 01-profile.txt and 04-counts.txt
+$ grep -n 'K\\\\\\_' Sources/drive/dramatica-storyform-fuer-romananalyse.md (table cells with K\\\_)
+52:| \*\*Element (Problem)\*\*
+277:| \*\*OS Domain\*\* | \*\*
+290:| \*\*IC Problem\*\* | \*\

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      93
+  backslash escapes      12
+  typographic marks      24
+  ascii quotes           34
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanomalie, Systeme, Systemebene, Systemen, Systemfehler, Systeminstabilität, Systemordnung, Systemreaktionen, Systems, Systemstress, Systemverhalten, Systemzustand, Systemzustände
+  parad    Paradigma, Paradigmenwechsel, Paradigmenwechsels, Paradox, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  analy    Analyse, Analyseergebnisse, Analysen, Analyseobjekt, Analyseprotokolle, Analyseversuch, Analysewerkzeug
+  seins    Seinsmodus, Seinsprinzip, Seinsprinzipien, Seinsprinzips, Seinsweise, Seinsweisen
+  integ    Integration, Integrationsprozess, Integrationsprozesses, Integrierte, Integrität
+  kontr    Kontrast, Kontrolle, Kontrollmöglichkeiten, Kontrollverlust, Kontrollversuchen
+  emoti    Emotion, Emotionale, Emotionen, Emotions
+  ident    Identity, Identität, Identitätsfragmenten, Identitätsstörung
+  inter    Interaktion, Internal, Interventionsmöglichkeiten, Interventionsversuchen
+  konze    Konzept, Konzepte, Konzepten, Konzeptuell
+  negat    Negation, Negations, Negationsprinzip, Negationsversuche
+  simul    Simulation, Simulationen, Simulationsparameter, Simulationsumgebungen
+  trans    Transactions, Transformation, Transzendenz, Transzendiert
+  auflö    Auflösung, Auflösungsvariante, Auflösungsvarianten
+  direk    Direkte, Direktive, Direktiven
+  disso    Dissociation, Dissociative, Dissoziative
+  emerg    Emergence, Emergente, Emergenz
+  exist    Existentielle, Existenz, Existenzprinzip
+  infor    Informations, Informationsfluss, Informationsquelle
+  isola    Isolation, Isolationsprotokolle, Isolationsprotokollen
+  katha    Katharsis, Kathartische, Kathartischer
+  monst    Monster, Monstergruppe, Monstrous
+  philo    Philosophical, Philosophie, Philosophy
+  physi    Physical, Physics, Physik
+  poten    Potential, Potentialmeer, Potenzial
+
+# substring pairs -- never one term, often merged by accident
+  Beat < Beats
+  Dies < Diese
+  Dies < Dieses
+  Dies < Studies
+  Eine < Seine
+  Ende < Wendepunkt
+  Ende < Transzendenz
+  Ende < Verbleibende
+  Ende < Eskalierendes
+  Form < Forms
+  Form < Formalismus
+  Form < Informations
+  Form < Transformation
+  Form < Informationsfluss
+  Form < Informationsquelle
+  Ives < Perspectives
+  Jede < Jeder
+  Kael < Kaels
+  Kern < Kernwelt
+  Kern < Kernlogik

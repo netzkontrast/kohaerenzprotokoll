@@ -101,3 +101,11 @@ how lines are cited. Read it first. For this skill:
 - **Output:** the card, with the interview's questions and answers, in
   `Plan/runs/writing/book/character-card-builder_<figure>_<date>.md` until the book has
   a folder of its own.
+
+## Translate a card into an agent profile
+
+For the AEGIS pilot, hand approved identity/role facts and their provenance to the
+coordinator separately from proposed wants, voice and chapter-specific knowledge.
+A card is not an all-chapters memory or permission to create a runtime agent.
+Follow `Plan/briefings/aegis-agent-pilot.md`; knowledge earned in a scene belongs
+to the scenario state, not a new biography fact inferred from a model response.

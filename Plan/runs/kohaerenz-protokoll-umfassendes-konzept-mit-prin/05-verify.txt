@@ -1,0 +1,73 @@
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Prinzip"
+whole word, case-sensitive     71
+whole word, case-insensitive   71
+including compounds            95
+
+`Prinzip` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#71]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Teil"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Teil` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#3]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Kapitel"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Kapitel` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#8]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "möglicherweise"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`möglicherweise` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#3]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Bleiben bestehen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Bleiben bestehen` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#2]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Die Struktur bleibt bestehen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Struktur bleibt bestehen` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Die Zuordnung bleibt strukturell gleich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Zuordnung bleibt strukturell gleich` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "M"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            32
+
+`M` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#9]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Kael"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Kael` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#6]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "Prinzipienmodelle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Prinzipienmodelle` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#1]
+$ read.py kohaerenz-protokoll-umfassendes-konzept-mit-prin --count "K-J"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`K-J` ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:#4]
+$ census: 81 glued, 32 M in, seven chapters L76-L82 (read by eye), 7 stance markers = 3+2+1+1

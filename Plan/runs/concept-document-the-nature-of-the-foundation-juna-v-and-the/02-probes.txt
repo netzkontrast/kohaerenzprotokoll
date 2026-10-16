@@ -1,0 +1,45 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      16
+  typographic marks      19
+  ascii quotes           98
+
+# inflection families -- one term, several surfaces
+  poten    Potential, Potentialis, Potentiality, Potentialmeer
+  exter    External, Externalized, Externe
+  archi    Archipel, Architecture
+  conce    Concept, Conceptual
+  disso    Dissociation, Dissociative
+  epist    Episteme, Epistemological
+  funct    Function, Functional
+  integ    Integrated, Integration
+  kernw    Kernwelt, Kernwelten
+  logic    Logic, Logical
+  perpe    Perpetration, Perpetrator
+  psych    Psychological, Psychologically
+  trans    Transcendence, Transcendent
+  visua    Visual, Visually
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Each < Reaching
+  Logic < Logical
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Epistemological
+  Logic < Psychologically
+  World < Worlds
+  World < Overworld
+  Visual < Visually
+  Concept < Conceptual
+  Logical < Ontological
+  Logical < Psychological
+  Logical < Epistemological
+  Logical < Psychologically
+  External < Externalized
+  Function < Functional
+  Kernwelt < Kernwelten
+  Potential < Potentialis
+  Potential < Potentiality
+  Potential < Potentialmeer

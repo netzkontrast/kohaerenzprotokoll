@@ -1,0 +1,95 @@
+{
+  "document": "the-coherence-protocol-an-architectural-blueprint-for-agenti",
+  "drive_id": "1FKhws6B-OlVc4xdAoHx_1uKu87Q2DCdA8NkpddRmHi0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass: readings on three pages by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-394/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 63,
+    "decisions": 64,
+    "decided_by_lookup": 59,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English white paper on a narrative-generation architecture with the novel as its case study: its new surfaces are its own architecture's names and borrowed frameworks; only its case-study account of AEGIS, Kael and the living Gödel-Satz went on pages (light pass).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        89,
+        93
+      ],
+      "attribution": "",
+      "note": "AEGIS as the case study's agent of coherence by exclusion"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "Kael as a living Gödel-Satz in the case study"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        48,
+        89,
+        93
+      ],
+      "attribution": "",
+      "note": "System Kael as coherence by integration"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Juna/V` a table column head; `Kohärenz Protokoll` the title; `Kernel` the architecture's own word",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 48,
+      "decision": "occurrence",
+      "why": "a table column head"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 26,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 68,
+      "decision": "occurrence",
+      "why": "an agent persona of the architecture"
+    }
+  ],
+  "not_promoted": [
+    "NovelOS, ARCHON, the Narrative Context Protocol, BDI-OCC and the architecture's components",
+    "the borrowed frameworks (Dramatica, IFS, TSDP, theories of truth)"
+  ],
+  "internal_tension": "it says the novel was the stress test that forged the architecture (L85) and also that the architecture is a direct blueprint taken from clinical models (L32); recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

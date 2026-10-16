@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 151
-readings: 151
+sources: 280
+readings: 280
 conflict: C11, C15
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung", "digitale-uberwelt-konzept-und-gestaltung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "project-status-report-kohaerenz-protokoll-canonical-state-st", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "roman-konzept-und-philosophische-fragen", "refining-dramatica-storyform-for-kohaerenz-protokoll", "project-coherence-protocol-narrative-blueprint-decisions", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "roman-konzept-reduktion-und-kernfindung", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "welten", "master-konzept-kohaerenz-protokoll-analyse", "analyse-des-kohaerenz-protokolls", "aegis", "recherche-ueberwelt", "plot-entwicklung-fuer-kohaerenz-protokoll", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "kohaerenz-protokoll-narrative-architektur", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "romanentwurf-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-worldbuilding-bible", "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m", "analyse-des-romanprojekts-kohaerenz-protokoll", "narrative-kernentwicklung-aegis-und-system-kael", "creative-expose-the-correspondence-principle-as-narrative-ar", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-duale-dramatica-storyform-synthese"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "mining-report-kohaerenz-protokoll-plot-outline-construction", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "duale-storyform-synthese-kohaerenz-protokoll", "dramatica-storyform-synthese-aegis-analyse", "kohaerenz-protokoll", "charakter-kompilation-fuer-kohaerenz-protokoll", "ki-prompt-analyse-hard-problem-of-consciousness", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "kohaerenz-protokoll-meta-foreshadowing-beobachter-logik", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-hard-sf-horror-thriller", "aegis-persona-and-manifest-generation", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "research-prompt-kohaerenz-protokoll-39kap-dual-storyform-out", "romanprojekt-kohaerenz-protokoll-analyse", "scifi-roman-mit-ki-schreiben", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "romanprojekt-analyse-kohaerenz-protokoll", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "roman-entwicklung-kohaerenz-protokoll-json", "kontext-outline", "weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert", "the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "welt", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet", "kohaerenz-protokoll-narrative-architektur-2", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "subplot-entwicklung-fuer-romanstruktur", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "roman-plot-entwicklung-und-kohaerenz-analyse", "dual-plot-architecture-a-narrative-foundation-for-kohaerenz", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "charakterkonzepte-fuer-kohaerenz-protokoll", "coherence-protocol-a-39-part-narrative-arc", "aegis-genesis-crisis-self-definition", "kohaerenz-protokoll-plotideen-generierung", "digitale-uberwelt-konzept-und-gestaltung", "kohaerenz-protokoll-plotideen-extraktion", "kohaerenz-protokoll-narrativer-bauplan", "aegis-logik-und-erzaehlstruktur", "narrative-blueprint-the-coherence-protocol", "kohaerenz-protokoll-master-integration-md", "detaillierte-kapiteluebersicht", "deconstructing-reality-s-architecture", "kohaerenz-protokoll-architecture-synthesis", "romanidee-als-interaktiver-prototyp", "project-status-report-kohaerenz-protokoll-canonical-state-st", "kohaerenz-protokoll-2", "the-coherence-protocol-a-narrative-design-world-architecture", "romanideen-zu-roman-entwickeln", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "roman-konzept-und-philosophische-fragen", "refining-dramatica-storyform-for-kohaerenz-protokoll", "project-coherence-protocol-narrative-blueprint-decisions", "dual-kernel-erzaehlarchitektur-bewusstsein-symmetrie-ourobor", "roman-konzept-reduktion-und-kernfindung", "project-status-report-kohaerenz-protokoll-canon-systemic-sta", "welten", "master-konzept-kohaerenz-protokoll-analyse", "analyse-des-kohaerenz-protokolls", "aegis", "recherche-ueberwelt", "plot-entwicklung-fuer-kohaerenz-protokoll", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "roman-konzept-kael-aegis-simulation", "kohaerenz-protokoll-narrative-architektur", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanplot-kohaerenz-protokoll-entwickeln", "romanentwurf-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll", "ki-roman-architektur-kritische-analyse-methoden", "the-kohaerenz-protokoll-writer-s-bible-a-definitive-guide-to", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "briefing-document-the-kohaerenz-protokoll-narrative-framewor", "the-coherence-protocol-a-worldbuilding-bible", "the-coherence-protocol-a-proposal-for-a-39-story-narrative-m", "analyse-des-romanprojekts-kohaerenz-protokoll", "narrative-kernentwicklung-aegis-und-system-kael", "creative-expose-the-correspondence-principle-as-narrative-ar", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "the-coherence-protocol-a-world-bible", "critical-plot-interrogatories-for-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierte-recherche", "orte-konzept-fuer-kohaerenz-protokoll", "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko", "projektanalyse-kohaerenz-protokoll-dis", "kohaerenz-protokoll-comprehensive-project-state-narrative-au", "dramaturgical-precision-deconstructing-the-irreversible-conf", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-finale-pfeiler", "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me", "strategic-narrative-solutions-for-kohaerenz-protokoll", "aegis-paradoxon-konzeption-und-analyse", "kohaerenz-protokoll-forschungsaufgabe", "kapitelanreicherung-mit-fundamentalen-konzepten", "kohaerenz-protokoll-dramatica-synthese", "kapitel-1-generierungsprozess", "roman-kohaerenz-protokoll", "kohaerenz-protokoll-epische-plot-anreicherung", "dramatica-storyform-fuer-romananalyse", "paradoxien-der-kohaerenz-protokoll-entwicklung", "strategic-narrative-implementation-for-kohaerenz-protokoll", "report-narrative-methodology-for-kohaerenz-protokoll", "the-architecture-of-a-self-kael-s-journey-to-coherence", "tropenanalyse-fuer-kohaerenz-protokoll", "aegis-analyse-und-manifest-postulation", "kernwelten-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-the-official-master-story-guide-2", "the-coherence-protocol-a-narrative-mosaic", "kernwelten-und-fragmentierte-wahrnehmung", "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua", "strategic-narrative-analysis-forging-a-compelling-story-from", "aegis-und-der-kollaps-kritische-analyse", "narrative-architecture-dossier-coherence-protocol", "blueprint", "report-plot-synthesis-and-final-outline-for-coherence-protoc", "kohaerenz-protokoll-synthese-integration", "kohaerenz-protokoll-synthese", "integriertes-kohaerenz-protokoll-erstellung", "tropen-konzepte-fuer-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "romananfang-leere-und-systemgenesis", "roman-kapitel-ausformulierung-kohaerenz-protokoll", "kapitel-18", "nichts-ordnung-fragmentierung-resonanz-nebel", "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plot-konzept-generierung", "kohaerenz-protokoll-plot-synthese", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "narrative-plot-exploration-existenzielle-kohaerenz", "kohaerenz-protokoll-transzendenz-vektoren", "konzeptionelle-transzendenz-fuer-kohaerenz-protokoll", "bewerte-kishotenketsu-als-zentrales-narrativ", "kohaerenz-protokoll-finaler-plot-outline", "aegis-paradoxon-neukonzeption-und-analyse-docx", "trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do", "finales-expose-wissenschaftliche-fassung", "a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll", "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p", "beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt", "how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw", "aegis-eingriff-angriff-oder-rettung", "a-critical-evaluation-of-the-coherence-protocol-frameworks-s", "an-introduction-to-the-concepts-of-coherence-protocol", "objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g", "protokoll-ontologie-roman-konzeptentwicklung", "risikoanalysebericht-eine-systematische-bewertung-der-bedroh", "strategy-of-fragmentation-a-narrative-implementation-plan-fo", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-architecture-of-a-misguided-god-a-biography-of-aegis", "the-architecture-of-being-a-philosophical-thesis-on-the-core", "the-coherence-protocol-a-comparative-analysis-across-the-sca", "welcome-to-the-coherence-protocol-a-beginner-s-guide", "gravitational-architecture-novel-structure", "roman-kapitel-1-generierungsprozess", "an-introduction-to-the-coherence-protocol-the-war-for-realit", "dramatica-storyform-kohaerenz-protokoll", "dramatica-storyform-kohaerenz-protokoll-2", "kapitel-eins-1-kohaerenz-protokoll", "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "kohaerenz-protokoll-kapitel-39-das-mosaik-herz", "konsolidierung-des-hard-canon-protokolls", "storyforms-system-mind-bewusstsein", "dramatica-dual-storyform-mapping-protokoll", "multidimensionale-narrative-strukturmodelle-entwickeln", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "narrative-kernvalidierung-kohaerenz-protokoll", "romanplot-kohaerenz-protokoll-entwicklung", "holographisches-prinzip-fuer-kohaerenz-protokoll", "monstergruppe-primzahlen-plot-neukonstruktion", "physik-fuer-simulierte-realitaet", "plot-rekonstruktion-kohaerenz-protokoll", "kohaerenz-protokoll-roman-ausarbeitung", "kohaerenz-protokoll-umfassendes-konzept", "narrative-techniken-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-loglines", "prompt-entwicklung-fuer-kohaerenz-erzaehlstrang", "ki-antagonist-fragmentierte-gottheit-analyse", "canonical-narrative-architecture-for-kohaerenz-protokoll", "konzept-expose-schwarzschild-protokoll-optimierung", "ki-rolle-aegis-genesis-fragestellungen", "kohaerenz-protokoll-monster-plot-entwicklung", "kohaerenz-protokoll-plot-entwicklungsauftrag", "konzeptanalyse-kohaerenz-protokoll-s-fundament", "kohaerenz-protokoll-thematische-tiefenanalyse", "kohaerenz-protokoll-themenanalyse-und-anreicheru", "roman-outline-kohaerenz-protokoll-strategie", "juna", "narrative-entropie-existenzielle-bedrohung-des-romans", "narrative-physik-attraktoren-leserbewusstsein", "a-critical-analysis-of-coherence-protocol-an-assessment-of-p", "an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe", "managing-ontological-risk-defining-the-narrative-integration", "operationalizing-the-coherence-protocol-a-narrative-stress-t", "operationalizing-the-triple-helix-structure-as-a-trauma-prot", "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent", "plot-blueprint-methodik-kohaerenz-protokoll", "plot-exploration-kohaerenz-protokollkonzepte", "roman-kapitel-1-erstellung-analyse", "narrative-vertiefung-kohaerenz-protokoll", "kohaerenz-protokoll-narrative-architekturanalyse", "aegis-logik-und-narrative-implikationen", "roman-als-transformativer-prozess-alchemie-der-erzaehlung", "dramatica-storyform-kohaerenz-protokoll-analyse", "research-prompt-kohaerenz-protokoll-final-architecture-md", "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform", "roman-pitch-reduktion-auf-kern"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -44,6 +44,24 @@ In the April 2025 concept the Überwelt „Wird am Ende von Teil 1 ebenfalls ins
 ## Reading — `recherche-ueberwelt`, 2025-04-17, the Überwelt commission — Risse in the Überwelt at the end of part 1
 
 The commission puts the appearance of `Risse` in the Überwelt at the end of part 1, which signals „dass die Instabilität nicht auf Michaels Psyche beschränkt ist“ ^[recherche-ueberwelt.md:L192], and „Es bricht die klare Trennung der Ebenen auf“ ^[recherche-ueberwelt.md:L192].
+
+## Reading — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft — Risse as entropy, as perception, as search
+
+The narrator (German prose) first, in the reboot passage: the `Risse` in quotation marks are „Manifestationen digitaler Entropie“ ^[roman-kohaerenz-protokoll.md:L272]. In Kapitel 1 the word returns in Kael's perception: after the anomaly, he scans the data streams „auf weitere Risse, auf Unregelmäßigkeiten“ ^[roman-kohaerenz-protokoll.md:L389]. Alone in his unit, the silence is charged „mit den Rissen in der Wahrnehmung“ ^[roman-kohaerenz-protokoll.md:L395]. Both are the narrator reporting Kael's experience; the draft does not connect them to the entropy sentence beyond sharing the word.
+
+## Reading — `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz`, 2025-04-17, the Seelen-Kohärenz blueprint — cracks that grow, and a hunt that worsens them
+
+The Seelen-Kohärenz blueprint proposes cracks as the effect of the protagonist's fragmentation: the overall concept lets it lead to „Rissen in der Struktur der simulierten“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] reality. In part 1 the glitches and cracks „werden häufiger und stärker“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L113], and one episode has a persona unintentionally trigger a larger rift: „Der Funke löst durch einen kreativen Akt unbeabsichtigt einen größeren“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L107]. In part 3 it proposes that „Die Risse sind nicht nur Fehler im Raum-Zeit-Gefüge der Simulation“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L209]. The hunt for an outside solution makes them worse: „Ihre Aktionen destabilisieren das System jedoch“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L235]. At the twist the hunt „verursacht oder verschlimmert die fundamentalen Risse im Seelen-Kohärenz-Programm“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L248]. The reply ends by calling the whole an attempt: „Dieser neue Plot-Blueprint versucht“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L267].
+
+## Reading — `in-teil-2-werden-die-persona-von-ihren-spezifis`, 2025-04-17, the refined Seelen-Kohärenz blueprint — cracks opened by persona intrusion, read as disturbances in the information fabric, worsened by the hunt for the Außen
+
+The refined blueprint proposes the Risse as growing through Teil 1: the later episodes are said to be marked by „Die Risse in der Realität werden häufiger und offensichtlicher“ ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:L125]. In its fifth plot point the Funke opens one: it is „Erste deutliche Manifestation der Realitätsrisse durch Persona-Interaktion“ ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:L121]. In Teil 2 the Guardians are informed about, and in turn explain to the personas, the nature of the cracks (L14).
+
+For Teil 3 it proposes a revelation that souls are information units and „Die Risse sind Störungen in diesem Informationsgewebe“ ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:L221]. A false conclusion, that repair must lie outside the simulation (L234), starts the search for the Außen, which „verursacht massive neue Risse und Instabilität im gesamten System“ ^[in-teil-2-werden-die-persona-von-ihren-spezifis.md:L247].
+
+## Reading — `romananfang-leere-und-systemgenesis`, 2025-04-17, the opening analysis and draft — the Risse as manifestations of digital entropy
+
+- The chapter-1 draft's reboot narration names the Risse as „Manifestationen digitaler Entropie, die AEGIS normalerweise eindämmt“ ^[romananfang-leere-und-systemgenesis.md:L202], which widen and merge into one nothing during the reboot. A draft, not the chapter as approved.
 
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — a proposed escalation of the Risse from a glitch to a system-wide collapse
 
@@ -89,6 +107,18 @@ The chapter-1 draft is an unsigned working draft; Michael is its early name of K
 
 **The prose sketch narrates.** In scene 1 a thought is „ein winziger Riss in der glatten Oberfläche seiner Wahrnehmung“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L229]. In the transit corridor Michael sees a green, growing image and asks himself „Ein Riss? Eine Wurzel?“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L251]. After the anomaly in scene 6 he dismisses it: „Es war nur ein Glitch.“ ^[romanentwurf-kohaerenz-protokoll-teil-1.md:L273]
 
+## Reading — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept — Risse in the places concept: a design task for every place
+
+The places concept gives each profile a field for Risse and Entropie and proposes Risse as „symbolische Wunden auf der Architektur der KWs“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L64]. In the Wohneinheit they begin „Anfänglich subtil: Flackernde Lichter, statisches Rauschen oder leises Flüstern aus den Lautsprechern des Interfaces“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L358]. The Vergessene Schrein is „Ort starker Risse/Verzerrungen“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L297]; the Datenfriedhof a „Potenzielle Quelle für Instabilität und unkontrollierte Risse, da die Daten hier nicht mehr aktiv gemanagt werden.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L529] The Stille Garten is „Wahrscheinlich immun gegen AEGIS-Risse.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L576]
+
+## Reading — `roman-kapitel-ausformulierung-kohaerenz-protokoll`, 2025-04-18, the chapter-1 guide — the glitch, the anomaly and the cryptic command as steps of the first rifts
+
+The chapter-1 guide plans the rifts as a graduated sequence. The first is a glitch, to be described as unclear: „Beschreibe den Glitch als flüchtig und ambigu“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L58]; the row's visual is a „Kurze, unerklärliche visuelle Überlagerung“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L58], and Kael is to be unsure whether it was imagination, yet it is the „Erster deutlicherer Hinweis auf eine fehlerhafte Realität“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L58]. A stronger step follows: „Klare, unlogische Anomalie im Datenstrom“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L63], „Persistenter als der Glitch, fundamental regelwidrig“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L63], which the system then heals or deletes. The fourth phase brings the cryptic command, given in the table as „Finde die Naht / Den Riss“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L74], and the symbol section says it is „Als kryptische Anweisung eingeführt“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L121]. The guide reads glitch and anomaly as symptoms: „Der Glitch und die Anomalie sind die Symptome der fehlerhaften Realität“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L123]. Whether the first glitch is real is left open by the guide's own design. A guide, not the chapter.
+
+## Reading — `aegis-analyse-und-manifest-postulation`, 2025-04-19, the AEGIS manifesto analysis — the Risse as failures of implementation, in the essay
+
+The essay names the Risse as a flaw of the manifestation in the novel: the tension between the ideal and „fehlerhaften Manifestation im Roman“ ^[aegis-analyse-und-manifest-postulation.md:L283] is central, and whether the fault lies in the ideal or in the implementation, „Die Analyse legt nahe, dass beides zutreffen könnte“ ^[aegis-analyse-und-manifest-postulation.md:L283]. The manifesto's §8 grants that the implementation in complex realities may meet limits; the Risse are named there in brackets (L306). In the advice it asks: „Könnten die“ ^[aegis-analyse-und-manifest-postulation.md:L350] Risse be read as incursions of alternative logics (L350).
+
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — the Risse as symptoms of the fundamental instability
 
 The plot blueprint's Teil 1 purpose line plans „als Symptome der fundamentalen Instabilität“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L138] for the Risse. Step 1.1 plans them „als erste Manifestation der Systeminstabilität und des Kernkonflikts“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L146]. The answer on Juna's influence says that the bond loss „erzeugt eine fundamentale Instabilität im System Kael, die AEGIS nicht beheben kann“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L42], with the Welle as its internal manifestation, showing as Risse. Step 1.4 is „Der erste Riss im Selbst“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L178]. In step 2.5 KW1's order shows „Die sonst so perfekte Ordnung von KW1 zeigt nun dauerhafte“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L377] Risse that LogOS cannot repair.
@@ -101,6 +131,22 @@ The reply introduces the Risse in its general description of the Kern-Welten as 
 - KW2: „Manifestieren sich als plötzliche emotionale Stürme in der Landschaft“ ^[welten.md:L96].
 - KW3: „Manifestieren sich als plötzliche Grenzübertretungen“ ^[welten.md:L105], a feeling of being pursued, blockades, threats arising from Kael's fear.
 - KW4: „Manifestieren sich als unkontrolliert aufspaltende Realitäten“ ^[welten.md:L114], including, it says, direct glimpses of the Potentialmeer.
+
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — Risse at borders
+
+In the application to vagueness the report proposes that the Risse manifest at borders: „Jeder Versuch von AEGIS, eine scharfe Grenze zu ziehen“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L150] fails, and the same line places the Risse between Kael and Julia or between the Kernwelten. The Kernwelten entry says they are „Anfällig für“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L260] Risse and instability (the line continues).
+
+## Reading — `kapitel-18`, 2025-04-20, the Kapitel-18 plan — Risse as the step's title and the closing image
+
+The Kapitel-18 plan names the step „Risse in der Logik“ ^[kapitel-18.md:L11], and one of its proposed ending moments is headed „Risse im Fundament“ ^[kapitel-18.md:L57], closing on the image that the monolithic power of `AEGIS` gets „erste Risse“ ^[kapitel-18.md:L57]. A plan's headings and a proposed image, not an event.
+
+## Reading — `nichts-ordnung-fragmentierung-resonanz-nebel`, 2025-04-20, the Nichts-to-Nebel report — the cracks in the system and a reality glitch
+
+In its own voice the Nichts-to-Nebel report reads the intrusions in chapter 1 as the failure of the imposed order and offers, with hedges, that they could be the existential threat „durch die Risse im System sickert“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L57]. For chapter 2 it relays a brief glitch in the Nebel and calls it „Entscheidend ist jedoch ein kurzer Realitäts-Glitch“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L97]; the report reads it as a hint that the organic world may still rest on a constructed or unstable base. A report on the chapters, not the chapters.
+
+## Reading — `plot-blueprint-methodik-kohaerenz-protokoll`, 2025-04-20, the plot-blueprint method handbook — the Risse as embodied system instability and as glitches
+
+The plot-blueprint method handbook proposes using the environment to show the Risse as „die durch das Paradoxon verursachte Systeminstabilität verkörpern“ ^[plot-blueprint-methodik-kohaerenz-protokoll.md:L175]. It also lists glitches and decay as images of rising entropy: „Verwendung von Bildern des Verfalls, Zusammenbruchs, von Glitches“ ^[plot-blueprint-methodik-kohaerenz-protokoll.md:L195]. Recorded, not applied.
 
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — the `Risse` as AEGIS's destabilisation under its analysis of M
 
@@ -116,6 +162,58 @@ The detailed plot blueprint proposes that Kael, in the second stage of the third
 
 In AEGIS's third phase of intervention the Risse arise because AEGIS tries to hold a rigid order: they „entstehen und weiten sich aus“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L72]. In the act outline the same is put as AEGIS escalating, „Parallel dazu eskaliert AEGIS seine Interventionen, was zur Entstehung oder Verschlimmerung der“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L159] Risse (the line goes on past the cut).
 
+## Reading — `kohaerenz-protokoll-monster-plot-entwicklung`, 2025-04-23, the Monster plot blueprint — the Risse as the visible form of feedback loops in AEGIS
+
+The Monster plot blueprint proposes that AEGIS's attempts to control the connection create reinforcing feedback loops: „Diese Teufelskreise manifestieren sich als die“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L96] Risse in the system — escalating disturbances, processing bottlenecks, corrupted data, inconsistent orders to the Guardians. Each failure in a Kernwelt feeds them: „Jedes Scheitern in einer Kernwelt liefert AEGIS widersprüchliche oder uninterpretierbare Daten“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L181]. In Akt II the attempts fail more spectacularly each time: „Jeder Versuch scheitert spektakulärer als der vorherige, erzeugt tiefere Paradoxien und verursacht sichtbare“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L210] Risse in AEGIS's integrity. Recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint — the Kernwelten grow unstable
+
+The M/Kael plot blueprint proposes that „Die Kernwelten, AEGIS' Labore, werden zunehmend instabil“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L135]. Glitches, Risse or unexplained phenomena accumulate (the words stand in the blueprint's own quotation marks), and „Die Welten könnten bizarre Mutationen durchlaufen, die nicht mehr den ursprünglichen Designparametern entsprechen“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L135]. Recorded, not applied.
+
+## Reading — `plot-exploration-kohaerenz-protokollkonzepte`, 2025-04-23, the plot-exploration report — the Risse as unintended result of control and as a source of suspense
+
+The plot-exploration report restates that AEGIS's „Kontrollversuche paradoxerweise Instabilität“ ^[plot-exploration-kohaerenz-protokollkonzepte.md:L27] arise, the Risse. In its recommendation it proposes „Die Eskalation der Systemfehler“ ^[plot-exploration-kohaerenz-protokollkonzepte.md:L226] as a source of suspense.
+
+## Reading — `interdisziplinaere-recherche-fuer-kohaerenz-protokoll`, 2025-04-25, the interdisciplinary research protocol — the Risse as instabilities of an abstract core, proposed for several outside lenses
+
+In this research protocol the Risse are a role of the abstracted core concept, not the novel's named Risse, and the protocol writes the word in its own quotation marks. It first states the role in its description of the core: „Die Existenz eines Protagonisten innerhalb des von der Entität beeinflussten Raumes, der Instabilitäten“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L44] experiences, with a fragmented perception or ontological structure.
+
+It links them to emergence in its first reflection: „Die Instabilitäten, die in einem als CAS modellierten OSR-Raum auftreten, könnten wiederum die“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L186] triggers of the protagonist's DID-like state. In its list of applications it proposes that they „Könnten als lokale Zusammenbrüche der OSR-Struktur, als emergente Fluktuationen im CAS“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L288] be conceptualised, among further options.
+
+For the autopoietic model of the entity it proposes: „wären dann Manifestationen dieser systemischen Instabilität oder beginnenden Desintegration“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L490].
+
+## Reading — `kohaerenz-protokoll-plot-konzept-generierung`, 2025-04-25, the five-variant plot concepts — Risse as system errors from AEGIS's self-contradiction
+
+The AEGIS row of the frame table lists among its narrative manifestations „Systemfehler“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L29] — the document marks them `Risse` — arising through AEGIS's self-contradiction.
+
+## Reading — `kohaerenz-protokoll-plot-synthese`, 2025-04-25, the 39-beat plot synthesis — cracks at the end of Akt 1 and in AEGIS's system in Akt 2
+
+In Beat 13, at the end of Akt 1, the 39-beat plot synthesis plans „Die falsche Zerlegung zeigt erste Risse“ ^[kohaerenz-protokoll-plot-synthese.md:L131]. In Beat 20 (Akt 2) it plans „AEGIS erleidet einen signifikanten Systemfehler“ ^[kohaerenz-protokoll-plot-synthese.md:L177], with visible cracks in the system.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — the Risse as horror, as system-wide failure, as a tool
+
+In sketch 1 of the detailed plot draft AEGIS experiences the Risse „als existenziellen Horror“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L43] (L43). Kap 24 plans that „Die kumulierten Paradoxien und Fehlschläge führen zu sichtbaren, systemweiten“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L118] (L118) Risse, and Kap 25 that Kael „Er nutzt die Risse und Instabilitäten intuitiv“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L119] (L119).
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — The Risse as symptoms and leaks, escalating through the plan
+
+The Moonshine-Brücke blueprint's frame analysis says: „Die Risse sind nicht bloße Systemfehler, sondern Symptome von“ ^[kohaerenz-protokoll-plot-synthese-2.md:L23] AEGIS's struggle, information leaks from the Potentialmeer or resonance effects of M. „Sie demonstrieren die Permeabilität der Simulation.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L23] Thesis 3, `Der Unaufhaltsame Riss`, has the Risse becoming more frequent: they „werden häufiger, größer und gefährlicher“ ^[kohaerenz-protokoll-plot-synthese-2.md:L35].
+
+The blueprint plans the Risse chapter by chapter. Kap 1 begins with disturbances, Kap 2 with a Riss that grows. Kap 9's block mentions zones with „Zonen, in denen Risse nicht auftreten oder sofort unterdrückt werden“ ^[kohaerenz-protokoll-plot-synthese-2.md:L199] Kap 15 plans „AEGIS initiiert aktive Maßnahmen zur Isolation oder Analyse von Kael, was die Risse verschlimmert.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L77] with the block adding „Diese Eingriffe destabilisieren Kaels Umgebung weiter“ ^[kohaerenz-protokoll-plot-synthese-2.md:L265] and Kap 30 plans „Die Risse werden zu Einfallstoren; Kael muss die K-J Verbindung als Schutzschild nutzen.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L93] A plan, recorded, not applied.
+
+## Reading — `narrative-kernvalidierung-kohaerenz-protokoll`, 2025-04-25, the core validation — reality breaks as the first sign of Kael's fragmentation
+
+The core validation names the `Risse` once in its introduction, as the reality breaks Kael experiences: „Dies geschieht durch den Avatar Kael, eine M-Instanz innerhalb der Simulation, der zunehmend Realitätsbrüche“ ^[narrative-kernvalidierung-kohaerenz-protokoll.md:L17] In sequence 1 it proposes the first break as an intrusion of a hidden part; in sequence 2 it proposes more frequent `Risse` (L138) and a quieter kind of inconsistency that feels different from them (L149). Among the genre elements it lists „die Brüchigkeit der Realität (Simulationen, Risse)“ ^[narrative-kernvalidierung-kohaerenz-protokoll.md:L44]
+
+## Reading — `romanplot-kohaerenz-protokoll-entwicklung`, 2025-04-25, the optimised blueprint — the Risse as AEGIS's breaks, growing in Akt II
+
+The optimised blueprint ties the Risse to AEGIS's inability to prove its own consistency: „Dies führt zu systemischer Instabilität“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L74] They are symptoms of a failed translation: „Symptome dieser fehlgeschlagenen Übersetzung“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L78] More than plot elements: „sie sind buchstäbliche Brüche in AEGIS' kognitiver Architektur, Manifestationen seiner Unfähigkeit, die Realität von M zu integrieren“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L87]
+
+Step 19 plans them to grow: „sondern sichtbare Brüche in der Realität der Kernwelten, vielleicht mit Einblicken ins Potentialmeer oder in AEGIS' Code“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L348] Kael „Nutzt die Risse möglicherweise als Fluchtwege, Informationsquellen oder um AEGIS' Manipulationen zu umgehen“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L349] The concept table for complexity: „erscheinen als emergente, unvorhersehbare Systemfehler“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L148] Rendering advice lists „Glitches, Bildschirmrisse“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L573]
+
+## Reading — `konzeptanalyse-kohaerenz-protokoll-s-fundament`, 2025-04-25, the concept analysis — the K-J connection as a `Glitch` in AEGIS's matrix
+
+The concept analysis calls the K-J connection a `Glitch` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#1] in AEGIS's matrix: the connection operates non-locally and sub-protocol, and AEGIS cannot easily recognise or control it. The analysis says it is a `Glitch` „in AEGIS' Matrix, der M's Einfluss direkt einbringt.“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L208]
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Risse as system instabilities from the K-J conflict
 
 The plot-idea synthesis says of the Risse that they are „sind sichtbare Zeichen dieses zugrundeliegenden Konflikts und der Paradoxien, die das System belasten“ ^[kohaerenz-protokoll-plotideen-generierung.md:L166], and that they could appear as glitches, distortions of reality or unexplained phenomena in the Kernwelten. In its thermodynamic argument, AEGIS's costs of processing „Diese thermodynamischen Kosten könnten direkt zu den im Konzept erwähnten“ ^[kohaerenz-protokoll-plotideen-generierung.md:L103] Risse and instabilities, hedged with „könnten“.
@@ -128,9 +226,81 @@ The concept extraction describes the Risse as instabilities inside the Kernwelte
 
 The concept synthesis puts the holographic principle forward as a metaphor, which „Bietet Erklärungen für Informationsdichtegrenzen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L32] and for potential `Risse`; the line's own word is in inner quotes, so the quotation stops before it. Of Kael it says that his experience of the `Risse` is described by phenomenological principles (L39).
 
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — AEGIS' system with visible Risse, the cascading corruption, and Teil 2's title
+
+The enriched plot concept's theme draft titles Teil 2 „Netzwerke, Schatten und wachsende Risse“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L47] and, for Kapitel 16 (the number follows from Teil 2's range, Kapitel 11–25, and the entry's order, since the export restarts the numbering), under the label `AEGIS' Fragilität / Risse`, has the corruption „visualisiert als Risse in AEGIS' operativer Struktur“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L54] The setting field gives AEGIS' system „AEGIS' System (mit sichtbaren“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L26] cracks. A plan, not the chapter.
+
+## Reading — `narrative-plot-exploration-existenzielle-kohaerenz`, 2025-04-26, the existential-coherence plot exploration — Risse as the individual's perceived instabilities
+
+The existential-coherence exploration restates as premise that the individual „Besitzt eine erhöhte Wahrnehmung für“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L39] cracks, glitches in the simulated reality. In Synopsis A it proposes that Kael experiences them: „Diese Risse sind Manifestationen von Inkohärenz“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L225].
+
+## Reading — `holographisches-prinzip-fuer-kohaerenz-protokoll`, 2025-04-26, the holography report — three proposed holographic explanations of the Risse
+
+The holography report proposes that the instabilities at the boundary between simulation and Potentialmeer, the Risse, „könnten konzeptionell als holographische Phänomene erklärt werden“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L104], and lists „Möglichkeiten umfassen“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L104] three. First, an information overflow where the density at the boundary locally passes a bound on information density (L108, described here, not quoted). Second, projection errors: „Fehler oder Inkonsistenzen bei der holographischen Projektion der Grenzinformation in den Bulk der Simulation“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L109]. Third, granularity: the Risse could be „Manifestationen der fundamentalen Pixelierung oder Körnigkeit der Raumzeit an der Grenze“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L110].
+
+In its summary table the boundary is a „Bruchstelle im Hologramm“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L147], and the Risse serve the plot as „Einbruchspunkte für Potentialmeer-Einflüsse“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L147].
+
+The holography report limits its own claim: the explanations are plausible, „auch wenn diese Erklärungen spekulativ bleiben und pseudo-wissenschaftliche Lizenz erfordern“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L223], and of the third it says „Diese Erklärung ist am spekulativsten“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L229], since no experimental evidence for granular spacetime exists.
+
+## Reading — `monstergruppe-primzahlen-plot-neukonstruktion`, 2025-04-26, the prime-number blueprint — the Glitch as first crack
+
+The prime-number blueprint plans in Kap 1: „Der Glitch ist der erste Riss“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L46]. Its overview names cosmic horror arising from „den Rissen in der simulierten Realität“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L19]. Kap 4's AEGIS log, as sample text, watches for structural fault lines, „Überwachung auf strukturelle Bruchstellen“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L80]; the term in the log is in single quotes.
+
+## Reading — `physik-fuer-simulierte-realitaet`, 2025-04-26, the simulated-physics report — Risse as instabilities, leaks and local failures
+
+The simulated-physics report's glossary gives the Risse as „Instabilitäten, Glitches oder Anomalien in der Simulation, die Einblicke oder Einflüsse von außen ermöglichen könnten“ ^[physik-fuer-simulierte-realitaet.md:L30]. It proposes that they could be read „als kurzzeitige Überlappungen oder Informationslecks zwischen den Simulationszweigen interpretiert werden könnten“ ^[physik-fuer-simulierte-realitaet.md:L47], and, for decoherence, „als lokale Fehler oder Zusammenbrüche dieses Dekohärenz-Mechanismus interpretiert werden“ ^[physik-fuer-simulierte-realitaet.md:L63].
+
+For Kael it proposes: „Kael erlebt Quanteneffekte direkt durch“ ^[physik-fuer-simulierte-realitaet.md:L79] the Risse, and a closing line ties Kael's perception to the substrate level: „Kaels einzigartige Wahrnehmung der“ ^[physik-fuer-simulierte-realitaet.md:L400] Risse. These are conditional proposals of a research report, side by side, none chosen.
+
+## Reading — `plot-rekonstruktion-kohaerenz-protokoll`, 2025-04-26, the plot reconstruction — cracks in reality control as a genre line of Beat 2
+
+The plot reconstruction's Beat 2, titled „Der Glitch (K-J Signatur - Subtil)“ ^[plot-rekonstruktion-kohaerenz-protokoll.md:L143], plans a small correlation that AEGIS logs and, in the plan's words, „stuft sie als statistisches Rauschen oder unwahrscheinlichen Zufall ein“ ^[plot-rekonstruktion-kohaerenz-protokoll.md:L152]. The beat's genre line plans „Cosmic Horror (subtile Risse in der Realitätskontrolle)“ ^[plot-rekonstruktion-kohaerenz-protokoll.md:L154].
+
+## Reading — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report — Gödelsche Risse in Co₁ as a proposed consequence of perfect order
+
+The Kernwelten design report names the subsection on Co₁'s system logic: „B. Systemlogik: Regeln der Konformität, soziale Fehlerkorrektur und Gödelsche Risse“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L197]. Its argument: „Daher muss die Co₁-Welt trotz ihres Anscheins der Perfektion inhärente logische Paradoxien, unbeweisbare Regeln oder Situationen enthalten“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L204]. In its fundamentals it writes: „Dies bedeutet, dass selbst in einer Welt, die auf makelloser Ordnung basiert, inhärente logische“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L69] cracks must exist, which Kael could discover and exploit.
+
+## Reading — `kohaerenz-protokoll-roman-ausarbeitung`, 2025-04-27, the elaboration report — section 2.3 on limits and instability, the Risse
+
+The elaboration report has a section headed „Grenzen und Instabilität“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L157] (with the Risse in the heading). It restates the commission (`[Query Pt 4]`): „Diese fundamentalen Grenzen führen zu Instabilität, den“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L163] Risse in the system, to be made visible in the narrative. In its concept summary AEGIS cannot guarantee its own consistency, „was zu Instabilität“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L121] leads.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — Visible cracks in AEGIS's system
+
+The comprehensive concept plans AEGIS's system as „Die abstrakte, logische Architektur der KI selbst, mit sichtbaren“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L79] `Rissen` when it is unstable.
+
+## Reading — `narrative-techniken-fuer-kohaerenz-protokoll`, 2025-04-27, the craft report — the `Risse` as signs of AEGIS's instability
+
+The craft report names the `Risse` as signs of instability and proposes how to show them. In the voice: they „könnten sich durch subtile stilistische Abweichungen manifestieren“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L45]. In the setting: instability „sollte sich visuell oder sensorisch innerhalb der Systemdarstellung manifestieren“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L64].
+
+On their meaning it proposes: „Die Instabilität von AEGIS sollte nicht nur als technische Fehlfunktion dargestellt werden“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L338], and in the next paragraph that the `Risse` be shown „nicht als einfache Fehlfunktionen dargestellt werden, sondern als emergente Konsequenzen seiner eigenen Komplexität“ ^[narrative-techniken-fuer-kohaerenz-protokoll.md:L339].
+
+## Reading — `narrative-vertiefung-kohaerenz-protokoll`, 2025-04-27, the deepening research report — the Risse restated as AEGIS's instabilities, and three proposed readings
+
+The deepening report restates from the plot concept that the AI „erleidet dabei Systeminstabilitäten“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L348], the `Risse`. Under `Narrative Relevanz` it proposes three readings that stand side by side: a consequence of self-reference, „könnten als Folge dieser unvermeidlichen Selbstreferenz und der daraus resultierenden Paradoxien interpretiert werden“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L71]; chaotic dynamics, „als chaotische Dynamiken interpretiert werden“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L190]; and the failure of a global workspace, „im System als Versagen dieses Workspace interpretiert werden“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L394]. None is chosen. Recorded, not applied.
+
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — system tears as a trigger of persona conflict
 
 The character architecture writes the word in quotation marks as „Risse“ and ties it to Kael and the personas. It profiles Kael as having „Er besitzt eine inhärente Sensibilität für System-“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L33] tears, and the creative part as able to cause them: „Seine unkonventionellen Aktionen können AEGIS' Systeme stören oder unerwartete“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L120] ones. A wrong persona in a wrong world „führt dies unweigerlich zu Konflikten und potenziellen System-“ ^[kael-charakterarchitektur-und-konfliktdynamik.md:L142] tears.
+
+## Reading — `kohaerenz-protokoll-spannungsfelder-vertiefen`, 2025-04-28, the tension-points analysis — glitches as shown consequences of Paradoxon X
+
+In a piece of design advice the tension-points analysis says AEGIS's fallibility could be made visible or audible through „Glitches, Systemausfälle als Folge von Paradoxon X“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L190].
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — Risse as hints of deeper truths
+
+For chapter 20, `Subtile Risse`, the concept analysis assigns pattern recognition and cognitive dissonance at system level: Kael takes the Risse in AEGIS' control of reality „nicht nur als Fehler, sondern als Hinweise auf tiefere Wahrheiten oder das“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L51] Fundament. The chapter is that of the report's plot draft.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — Risse as the visible consequence of AEGIS and the Juna-Verbindung
+
+The logline analysis ties the `Risse` to the clash it analyses: „die Juna-Verbindung (V) ist extern, nicht-logisch und verursacht Instabilität“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L27], and it suggests the instabilities „wären dann eine direkte Folge dieses Varietätsdefizits“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L28] of AEGIS. It advises that the manifestation of Paradoxon X be concrete: „Seine Manifestation muss innerhalb der Erzählung konkret sein“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L59]. In the Kap 27 logline Kael provokes them: „Kael initiiert seinen Plan, indem er gezielt Instabilitäten“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L256]. These are advice and a proposal.
+
+## Reading — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint — the Risse as system instabilities and limits of control
+
+The thematic blueprint lists the Risse as system instabilities: they „Manifestieren sich als visuelle Glitches“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L247], and it says they represent the limits of AEGIS's control: „Sie repräsentieren die Grenzen von AEGIS' Kontrolle“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L247]; their frequency and intensity may rise over the phases: „Ihre Häufigkeit und Intensität können über die Phasen zunehmen“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L247] (L247). The matrix names life in the system and its Risse for Phase 2 and an epistemology of the Risse (L76, L77). Phase 1 plot events propose discovering the first Risse as unexplained phenomena, Phase 2 AEGIS trying to close them (L287). The world-design row for Phase 2 has them growing: „größer, häufiger, zeigen vielleicht alternative Möglichkeiten“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L288]. Recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-themenanalyse-und-anreicheru`, 2025-04-28, the theme enrichment report — the Risse as symbol of instability and as cracks in AEGIS's order
+
+The theme enrichment report lists among its symbols „Risse (Instabilität)“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L148] (L148). In the second phase it suggests „eine tiefere Erkundung der Simulationsregeln und potenzieller“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L43] Risse (L43), and the phase table has for that cluster „Tiefere Erkundung der Systemregeln/Simulation; Suche nach“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L51] Rissen (L51). It suggests that AEGIS's attempts at perfect order might paradoxically create instability or chaotic behaviour, the Risse (L122; the line names an institute, so it is described only), and that the Risse could show chaos, non-linearity or incompleteness in the core worlds (L143; described only, as the line names a logician). Recorded, not applied.
 
 ## Reading — `weltenkonzept-fuer-kohaerenz-protokoll-tsdp-basiert`, 2025-04-29, the world concept — Risse as disturbances of the artificial order, one field per world
 
@@ -140,11 +310,25 @@ The overview defines `Risse` as „Störungen dieser Ordnung und potenzielle Üb
 
 The hundred concepts list proposes the Risse as a topic, headed as system instability, and gives as reason „Manifestation von Paradoxon X, Trauma-Durchbrüchen, Grenzen der Simulation.“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L75]. Three causes stand side by side and the list does not choose among them. Elsewhere it ties Gödel's theorems to AEGIS as a „Fundamentale Grenze von AEGIS' logikbasiertem System; erklärt inhärente“ ^[100-konzepte-zur-vertiefung-fuer-kohaerenz-protokoll.md:L53] Risse (the word is in quotation marks on that line, which this reading cuts before).
 
+## Reading — `aegis-paradoxon-konzeption-und-analyse`, 2025-04-29, the AEGIS paradox report — Risse as amplified instability
+
+In the concept table the report writes that AEGIS' control mechanisms „könnten unbeabsichtigt positive Feedback-Loops erzeugen“ ^[aegis-paradoxon-konzeption-und-analyse.md:L42], so that instability (the Risse) is amplified instead of damped. Paradox 1 of its five candidates proposes that AEGIS' pursuit of absolute coherence „führt zwangsläufig zur Erzeugung unvorhersehbarer Komplexität und Instabilität“ ^[aegis-paradoxon-konzeption-und-analyse.md:L92].
+
+The KW3 scenario is an invented illustration. It describes a rift that AEGIS' intervention does not close: „wird nicht geschlossen, sondern weitet sich aus“ ^[aegis-paradoxon-konzeption-und-analyse.md:L338]. It places the rift in KW3.
+
+## Reading — `kernwelten-und-fragmentierte-wahrnehmung`, 2025-04-29, the perception report — cracks in KW1's structure, listed as a symbolic phenomenon
+
+The perception report lists among the symbolic objects and phenomena of KW1 „Risse oder Anomalien in der perfekten Struktur (Hinweis auf Post-Reboot/Fehler)“ ^[kernwelten-und-fragmentierte-wahrnehmung.md:L142]. The line places them as cracks or anomalies in the structure of that world and as a hint of the post-reboot state, among flickering data screens and surveillance cameras; it does not use them as a named term.
+
 ## Reading — `roman-konzept-kael-aegis-simulation`, 2025-05-01, the simulation concept — the Risse as glitches that first signal an external force, then a tool, and an effect of AEGIS's over-control
 
 The simulation concept proposes the `Risse` as the first sign of an external force: „Anomalien, Glitches oder Inkonsistenzen in der wahrgenommenen Realität“ ^[roman-konzept-kael-aegis-simulation.md:L50]. In part 2 Kael's system experiments with them: „Sie experimentieren gezielt mit den 'Rissen' in der Realität“ ^[roman-konzept-kael-aegis-simulation.md:L106], and, as agency grows, „Sie lernen, 'Risse' gezielt zu nutzen oder sogar zu provozieren“ ^[roman-konzept-kael-aegis-simulation.md:L115]. Evidence for the simulation may come from them: „das Stoßen auf code-ähnliche Strukturen innerhalb der 'Risse'“ ^[roman-konzept-kael-aegis-simulation.md:L108].
 
 It also proposes that AEGIS's control may produce them: „oder durch Übersteuerung sogar neue Instabilitäten“ ^[roman-konzept-kael-aegis-simulation.md:L121].
+
+## Reading — `tropenanalyse-fuer-kohaerenz-protokoll`, 2025-05-01, the trope analysis — the Risse as glitch trope and genre border, as a proposal
+
+The brief the analysis recaps calls the Risse „Systemfehler oder Manifestationen von Entropie/Emergenz“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L124]. The analysis lists the trope of „Störungen/Glitches in der Simulation als Systemfehler, Entropie oder Einbruch des Unbekannten“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L143], and proposes that the Risse „fungieren als narrative und thematische Bruchstellen“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L151]. It asks whether a Riss is a system error, a trauma manifestation or a glimpse of the true reality, and says the ambiguity feeds both psychological and cosmic horror. It also proposes: „sind Momente, in denen die Genre-Grenzen verschwimmen“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L175]
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Glitches and Risse as manifestations of entropy and instability
 
@@ -176,6 +360,24 @@ The detailed outline plans the early Glitches as small signs: the host's percept
 
 Chapter 11 plans a different order of event: „Dieser Riss ist qualitativ anders als die bisherigen subtilen Glitches“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L748]. The key-symbols field names it: „Etabliert als zentrales Symbol für Systeminstabilität und die Verbindung zur Außenwelt/Juna/V.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L788] and „Steht für Instabilität, Verletzlichkeit, aber auch für Öffnung und Potenzial.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L801] Its cause is the paradox: „AEGIS' Versuch, absolute Kohärenz zu erzwingen, führt zu Brüchen.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L759] and its meaning for AEGIS: „Die Existenz des Risses beweist, dass AEGIS' Kontrolle nicht absolut ist.“ ^[roman-outline-fuer-kohaerenz-protokoll.md:L789]
 
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — Chapter 5 and the glitch as a flaw in AEGIS's control
+
+The strategy outline titles its Chapter 5 „Risse im Fundament“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L121] and plans the plot: „Kael entdeckt bei seinen Nachforschungen (oder durch einen weiteren externen Hinweis) eine systemische Anomalie oder einen“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L125] glitch in the environment AEGIS controls. For AEGIS it plans: „Identifikation und versuchte Behebung der Systemanomalie, wobei die Ursache unklar bleibt und möglicherweise unterschätzt wird.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L127]
+
+The outline's concept notes give the glitch two possible sources: „Der Glitch könnte eine unbeabsichtigte Nebenwirkung des Protokolls selbst sein, was auf dessen fundamentale Grenzen oder Risiken hindeutet.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L134] and, in Chapter 10: „Der Glitch wird als Symptom oder unbeabsichtigte Folge der Chrono-Weave-Technologie interpretiert.“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L242] In Chapter 6 it becomes a tool for Kael: „Der Glitch wird zum Werkzeug, aber auch zur potenziellen Schwachstelle“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L156].
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — the Glitches and the trope Glitch in the Matrix
+
+The trope analysis reads the Glitches Kael perceives as not random: „die von Kael wahrgenommenen Glitches nicht nur zufällige Fehler“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L29], but possibly symptoms of AEGIS's failing control or of Kael's emerging consciousness (L29). It ties the trope `Glitch in the Matrix` to perception: it „spielt direkt auf die Fehlbarkeit der Wahrnehmung an“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L42] (L42), and in the trope list says it „Signalisiert die Künstlichkeit/Instabilität von Kaels Realität“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L137] (L137).
+
+## Reading — `kohaerenz-protokoll-transzendenz-vektoren`, 2025-05-04, the Transzendenz-Vektoren analysis — glitches inside AEGIS proposed as leakage from the Fundament
+
+Under the M-theory vector (Kausale Leckage) the report proposes that „Phänomene innerhalb der AEGIS-Simulation, die als interne Fehler“ ^[kohaerenz-protokoll-transzendenz-vektoren.md:L36] are perceived could be „Manifestationen von Interaktionen mit dem externen, höherdimensionalen Fundament sein“ ^[kohaerenz-protokoll-transzendenz-vektoren.md:L36]. In Hypothese 1 it reads the Juna/V anomaly as a possible glitch of AEGIS itself: „Juna/V könnte einen lokalen Zusammenbruch der beabsichtigten Logik der Simulation darstellen“ ^[kohaerenz-protokoll-transzendenz-vektoren.md:L136]. Both are alternatives in the conditional.
+
+## Reading — `konzeptionelle-transzendenz-fuer-kohaerenz-protokoll`, 2025-05-04, the Konzeptionelle-Transzendenz report — Glitch as a device inside Juna/V's hypotheses and the genre method
+
+The report uses Glitch for a possible nature of Juna/V, offered as one option: „Hypothese 3b: Ein 'Glitch' im Meta-Code/Betriebssystem“ ^[konzeptionelle-transzendenz-fuer-kohaerenz-protokoll.md:L178], an error or a signal from the Fundament's programmers if the Fundament is part of a larger simulation. In the genre section a Glitch is an example of cosmic horror through hard SF: Kael meets 'Glitches' in the physics engine that reveal the artificiality of reality (L425, one line; its words carry glued footnote digits and are not quoted). It does not use the plural term Risse; the sense is a flaw in a simulated reality, and the report chooses nothing.
+
 ## Reading — `scifi-roman-mit-ki-schreiben`, 2025-06-24, the editor's report — deviations from AEGIS's stable state; the Risse as symptoms of the wrong treatment
 
 The report gives the plot document's deviations, called `Entropie` or `Risse` in the system's jargon, which „werden als Fehler erkannt und durch Kontrollmaßnahmen korrigiert“ ^[scifi-roman-mit-ki-schreiben.md:L78] Its own reading follows from the misreadings: „Die Risse sind nicht die Krankheit, sondern die Symptome der falschen Behandlung“ ^[scifi-roman-mit-ki-schreiben.md:L201]
@@ -189,6 +391,10 @@ The synthesis (glued `1`) gives the Risse as the picture of entropy: „Sie sind
 A light pass: the outline restates `scifi-roman-mit-ki-schreiben`, its only named source (L287), which is already read on this page; this reading holds only what the outline adds, its scene for the world.
 
 The outline gives the Risse a form per world: in KW1 „logische Paradoxien, visuelle Störungen (Glitches) und korrumpierte Datenströme“ ^[roman-outline-system-kael.md:L39]; in KW2 „korrumpierte Erinnerungen, gewaltsame emotionale Stürme“ ^[roman-outline-system-kael.md:L82]; in KW3 „plötzliche, unerklärliche Sicherheitslücken, Systemausfälle“ ^[roman-outline-system-kael.md:L127]; in KW4 „destruktives Chaos, das die kreativen Prozesse stört“ ^[roman-outline-system-kael.md:L172].
+
+## Reading — `multidimensionale-narrative-strukturmodelle-entwickeln`, 2025-07-03, the multidimensional-models report — a rift healed by an inner breakthrough
+
+The multidimensional-models report reads a rift (the report puts `Riss` in inner quotation marks) in the outer world as something a breakthrough in Kael's inner world could heal at once: it could do so, „in der äußeren Welt heilen, ohne dass eine physische Ursache-Wirkungs-Kette erforderlich wäre“ ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:L129] (L129). The report gives this as an example of narrative entanglement, citing a source (its footnote 1), not as a statement about the novel.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — the Risse as symptoms of AEGIS' misaligned coherence
 
@@ -234,6 +440,38 @@ The System-Mind analysis uses `Glitches` once, to deny them: „sind keine zufä
 
 The craft handbook has a subsection on the visualisation of the `Risse` and system errors. Its recommendation: the Risse in reality, as the novel describes them (footnote 1), „sollten nicht nur beschrieben, sondern visuell“ ^[narrative-architektur-fuer-kohaerenz-protokoll.md:L166] shown — the line continues that they should be *dargestellt*, which the handbook says can be done through targeted typographic disturbances. This is advice on how to write the Risse; it adds nothing about what they are.
 
+## Reading — `kohaerenz-protokoll-detaillierte-recherche`, 2025-07-29, the detailed research report — the Fundament's artefacts distinguished from AEGIS's glitches
+
+The research report says that the presence of the Fundament is hinted at early by „Die Präsenz des Fundaments wird frühzeitig durch subtile“ ^[kohaerenz-protokoll-detaillierte-recherche.md:L70] artefacts, which differ from AEGIS's Glitches; it lists data attractors in log files, non-Euclidean moments and synchronicities.
+
+## Reading — `kohaerenz-protokoll-finale-pfeiler`, 2025-07-29, the final pillars report — cracks in Pfad A
+
+In the report's first table, the narrative manifestation of Pfad A is „Eskalierende“ ^[kohaerenz-protokoll-finale-pfeiler.md:L125] `Risse` in the system, followed by data corruption, crash and the dissolution of the Kernwelten. It also pictures a „Kaskade von“ ^[kohaerenz-protokoll-finale-pfeiler.md:L102] `Risse` spreading until the simulated reality falls back into the Potentialmeer.
+
+## Reading — `kohaerenz-protokoll-forschungsaufgabe`, 2025-07-29, the ontological analysis — Risse as weakening dissociative barriers
+
+The ontological analysis proposes that the Risse can be shown „Momente dargestellt werden, in denen die dissoziativen Barrieren schwächer werden“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L109], and as an option that a Riss „könnte ein Flashback sein“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L109]. In the cache-coherence section it adds: „direkten, vorhersagbaren Symptome eines Cache-Kohärenz-Versagens“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L242].
+
+## Reading — `blueprint`, 2025-07-29, the blueprint — cracks as visual glitches marking the system's instability
+
+The blueprint says that within these worlds `Risse` show themselves „als visuelle Glitches, räumliche Verzerrungen oder Logikfehler“ ^[blueprint.md:L47], marking the system's instability and the breaking through of paradoxes. In its technique section they serve as clues to instability in environmental storytelling: „dienen dabei als visuelle und sensorische Hinweise auf Instabilität“ ^[blueprint.md:L77].
+
+## Reading — `bewerte-kishotenketsu-als-zentrales-narrativ`, 2025-07-29, the Kishōtenketsu evaluation — the Risse in Shō, in the evaluation's mapping
+
+In Act 2, Shō, the Kishōtenketsu evaluation says Kael experiences the `Risse` more intensely: „Kael beginnt, die Regeln der Kernwelten zu verstehen. Er erlebt die“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L37]. The term stands in the document's own inner quotation marks, so the quotation is cut before them. This is the evaluation's own reading of the plot, not a record of the novel.
+
+## Reading — `kohaerenz-protokoll-finaler-plot-outline`, 2025-07-29, the final-act outline — the Risse as stable portals for two contradictory realities
+
+The final-act outline proposes that after the transformation the `Risse` change: they „sind nicht länger gewaltsame Brüche in der Realität, sondern stabile, schimmernde Portale, die zwei widersprüchliche Realitäten friedlich koexistieren lassen“ ^[kohaerenz-protokoll-finaler-plot-outline.md:L160] The example it gives is a piece of forest floor showing winter snow and summer flowers at once, which it calls the `ineffiziente Schönheit`.
+
+## Reading — `kohaerenz-protokoll-narrative-architekturanalyse`, 2025-07-29, the narrative architecture analysis — the Risse as consequences of AEGIS's own actions
+
+The narrative architecture analysis proposes: „sind keine zufälligen Ereignisse, sondern direkte, kausale Konsequenzen der Handlungen von AEGIS“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L54]. It adds that they be tied to specific failures: „Ihre Manifestation muss systematisch mit spezifischen Fehlern in seinen Kontrollalgorithmen verknüpft werden“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L54]. A table of failure types, their intended action, manifestation and effect on Kael follows. Recorded as a proposal.
+
+## Reading — `aegis-logik-und-narrative-implikationen`, 2025-07-29, the AEGIS-logic report — the Risse as evidence of failing logic
+
+The AEGIS-logic report takes the Risse as embedded narrative elements „die den visuellen Beweis für die versagende Logik von AEGIS liefern“ ^[aegis-logik-und-narrative-implikationen.md:L124]. In its verifier reading they are „die Fehlermeldungen eines Verifizierers, der mit einer Eingabe konfrontiert wurde, die er nicht parsen kann“ ^[aegis-logik-und-narrative-implikationen.md:L58]. Recorded, not applied.
+
 ## Reading — `outline`, 2025-07-30, the outline — the Riss in Kap 3 as a massive intrusion
 
 Kap 3 describes the rift (`Riss`) in its DID-Darstellung line: „Der Riss wird als massive Intrusion beschrieben, die Kaels Gedanken überlagert und Depersonalisationsmomente auslöst.“ ^[outline.md:L37] (L37). Kap 1 plans subtle system errors, `Glitches`, in KW1 (L23).
@@ -252,6 +490,10 @@ The final causal blueprint plans the Risse as a rising line of the first act. In
 
 At the end of the first act, chapter 13 makes the Risse Kael's question: he decides „nicht länger den Regeln von AEGIS zu folgen“ ^[als-ihr-narrativer-architekt-blicke-ich-auf-das-r.md:L81] and to find the cause of the Risse. Chapter 5 writes the word `Glitches` in Lex's explanations of emotional disturbances.
 
+## Reading — `juna`, 2025-07-30, the Fundament and Juna/V concept — qualia as a fundamental Glitch for the Protocol
+
+The Fundament and Juna/V concept states of the Juna/V connection that it appears as synaesthetic resonance and shared qualia, and then: „Qualia, die sich einer rein formalen oder computationalen Erklärung widersetzen“ ^[juna.md:L91]. The line goes on to say that these qualia are a fundamental Glitch for the Kohärenz Protokoll; the word stands in inner quotation marks, so the rest of the sentence is described here and not quoted.
+
 ## Reading — `romanarchitektur-kael-aegis-entropie-docx`, 2025-08-05, the architecture plan — Risse as local manifestations of Entropie and signs of AEGIS's limited control
 
 The architecture plan proposes the first Riss for Kapitel 11, `Der erste Riss`. Its Vertiefende Konzepte say this Riss is „eine lokale Manifestation von Entropie“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L207], an error in AEGIS's control. Its trope entry for the Glitch in the Matrix (the plan's own `Innovation` line, a claim about the borrowed trope) calls the glitch „sondern ein ontologischer Bruch“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L210] and says „Die Risse sind Symptome des grundlegenden Konflikts“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L210] between control system and consciousness. The chapter's closing field introduces the Risse „als sichtbares Zeichen der Systeminstabilität“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L213], and its subplot has „Ein Anteil wird kurzzeitig durch den“ ^[romanarchitektur-kael-aegis-entropie-docx.md:L212] Riss pulled, returning with a fragmentary memory.
@@ -263,6 +505,18 @@ Kapitel 16 says AEGIS's methods lead to „Instabilität, Widerstand und den“ 
 The prototype proposal reports, from its outline, that AEGIS' control by fragmentation produces instability that shows in the world as Risse: „Diese Instabilitäten manifestieren sich in der Welt als sicht- und spürbare“ ^[romanidee-als-interaktiver-prototyp.md:L32]. Its own interpretation, hedged: „könnten als aktive, wenn auch letztlich gescheiterte, Debugging- oder Korrekturversuche von AEGIS interpretiert werden“ ^[romanidee-als-interaktiver-prototyp.md:L86]. A Riss in KW1 is then „AEGIS' Versuch, eine von Kael oder Juna/V eingeführte logische Inkonsistenz zu isolieren, zu neutralisieren oder gewaltsam zu“ ^[romanidee-als-interaktiver-prototyp.md:L88] correct.
 
 The prototype proposal plans, for the game: „Sie werden zu einem lesbaren, interaktiven Feedback-System“ ^[romanidee-als-interaktiver-prototyp.md:L90]. It plans a variable with the effect on „Häufigkeit, Intensität und Art der World.Stability.Risse“ ^[romanidee-als-interaktiver-prototyp.md:L128] and, on world stability, that a low value leads to „mehr und intensiveren“ ^[romanidee-als-interaktiver-prototyp.md:L131] Risse.
+
+## Reading — `aegis-paradoxon-neukonzeption-und-analyse-docx`, 2025-08-05, the Paradoxon-Neukonzeption report — Risse as instabilities that AEGIS's corrections may widen
+
+In the report's first paradox (its own proposal) a correcting measure may trigger feedback: „Eine als Korrektur gedachte Maßnahme kann so eine positive Rückkopplung auslösen, die die Instabilität“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L95] widens, the report writing the word Risse in inner quotation marks. The sample scenario begins: „AEGIS detektiert eine wachsende Instabilität“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L158], and continues „Dieser Riss manifestiert sich als unvorhersehbares, chaotisches Verhalten in den simulierten Umgebungsdynamiken“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L158]. The report places the cause in „Der Riss wird durch eine subtile, emergente Dissonanz in der Kernwelt verursacht,“ ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:L160] which AEGIS cannot model.
+
+## Reading — `trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do`, 2025-08-05, the Trauma-Archäologie report — „Glitches“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L47] of a simulated reality as a possible cause of existential dissonance
+
+The Trauma-Archäologie report asks, as an open question about the origin of its unnamed protagonist system's trauma: „Gibt es frühe Anzeichen für die Künstlichkeit, die Begrenztheit oder die“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L47] `Glitches` of reality that could lead to existential dissonance, and says this „könnte die Wahrnehmung der Realität als Illusion oder Täuschung begründen“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L47]. In concept 4 the same sense returns as a conditional: the confrontation with such limits could trigger an ontological shock, and the final comparison reads the traumas as showing through „durch die Risse in der Psyche oder durch“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L236] `Glitches` in the system. The word `Risse` there names cracks in the psyche; the `Glitches` are the simulation's.
+
+## Reading — `finales-expose-wissenschaftliche-fassung`, 2025-08-12, the final exposé — the cracks caused by Kael, and their typographic staging
+
+The final exposé, a synopsis giving its own summary, says in the arc of AEGIS that the cracks caused by the existence of Kael are first dismissed: „werden zunächst als behebbare Fehler abgetan“ ^[finales-expose-wissenschaftliche-fassung.md:L39] In the rule for the prose it asks that the `Risse` be shown in the text: „sollten nicht nur beschrieben, sondern auch visuell im Text dargestellt werden“ ^[finales-expose-wissenschaftliche-fassung.md:L69] by „durch typografische Störungen, Glitch-Artefakte oder verschobene Textblöcke“ ^[finales-expose-wissenschaftliche-fassung.md:L69]
 
 ## Reading — `kishotenketsu-fuer-meinen-roman-bitte-plane-ein`, 2025-08-15, the Kishōtenketsu plan — a Glitch in an AEGIS-caused time jump, not the word Risse
 
@@ -293,6 +547,68 @@ For Act I the master blueprint proposes that the triggering event be a `Riss` in
 Two lines. At L221 the blueprint lists „Subtle environmental storytelling will hint at the simulated nature of reality long before it is explicitly confirmed“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L221], under the name `Risse`; these cracks are „the first clues that the laws of physics are not what they seem“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L221].
 
 At L225 it names a separate device, `Cache Coherence Glitches`, as „a structural device“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L225]: Kael shows „an outdated emotional state from a recent traumatic event that occurred in the memory-world of KW2“ ^[project-coherence-protocol-narrative-blueprint-decisions.md:L225] in a scene of the first Core World. The two lines are two items of one list; the blueprint does not equate them.
+
+## Reading — `the-coherence-protocol-a-world-bible`, 2025-10-15, the world bible — Cracks with a dual nature
+
+The world bible says the Cracks „that appear throughout the Core Worlds are manifestations of the central conflict“ ^[the-coherence-protocol-a-world-bible.md:L169]. For AEGIS they are „symptoms of systemic instability, data corruption, logical paradoxes“ ^[the-coherence-protocol-a-world-bible.md:L171]; for Kael they are „moments where the dissociative barriers between his alters weaken“ ^[the-coherence-protocol-a-world-bible.md:L172]. „These cracks are the seams where the two opposing models of reality“ ^[the-coherence-protocol-a-world-bible.md:L174] meet.
+
+## Reading — `an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko`, 2025-10-15, the psycho-systemic analysis — Risse as the visualization of EP intrusions
+
+The psycho-systemic analysis defines the EPs' intrusions as experienced as „disruptive“ ^[an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko.md:L28] glitches, which it calls `Risse`, and AEGIS reframes them as „mere system glitches“ ^[an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko.md:L88]. It calls the *Risse* „the narrative's most direct visualization of EP intrusions“ ^[an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko.md:L111].
+
+## Reading — `report-narrative-methodology-for-kohaerenz-protokoll`, 2025-10-15, the methodology report — the Risse as breakdowns of narrative form
+
+The report directs that the rifts not be described as simple cracks but manifested „moments where the narrative form itself breaks down“ ^[report-narrative-methodology-for-kohaerenz-protokoll.md:L92], by typographic fragmentation, non-linear or mirrored text, or intrusion of contradictory sensory information (L92). It repeats the typographic instability among its metafictional techniques (L103).
+
+## Reading — `the-architecture-of-a-self-kael-s-journey-to-coherence`, 2025-10-15, the architecture-of-a-self essay — the Glitches as internal intrusions
+
+The essay says the order of Logos-Prime is disrupted by `Glitches` which, from Kael's side, are „inexplicable system errors“ ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:L21]. The essay's own account is that they are „internal intrusions“ ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:L21].
+
+## Reading — `kohaerenz-protokoll-the-official-master-story-guide-2`, 2025-10-15, the Master Story Guide — the Risse as digital errors in the Überwelt
+
+The Master Story Guide, an unsigned English design guide, places the `Risse` (glossed as rifts or cracks) in the Überwelt, where they manifest as „digital errors, data corruption, communication failures, and the visible decay of logical structures“ ^[kohaerenz-protokoll-the-official-master-story-guide-2.md:L152]
+
+## Reading — `a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll`, 2025-10-15, the learner's glossary — the Risse as cracks, incursions of the Void
+
+The learner's glossary glosses `Risse` as cracks in AEGIS's simulated worlds and says they „are incursions of this void, visual evidence of AEGIS“ ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:L43], that is, evidence of weakening control.
+
+## Reading — `an-architecture-of-the-self-a-critical-review-of-kohaerenz-p`, 2025-10-15, the critical review — the cracks in reality as the review reports them
+
+The critical review reports of the `Risse` (cracks) in reality, in its words „are not merely a contrived metaphor but a causal manifestation of psychic fragmentation“ ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:L13], and that the review judges this the point on which the externalization succeeds or fails. It reports the technique as one the novel terms Environmental Storytelling.
+
+## Reading — `beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt`, 2025-10-15, the Beyond-ChatGPT article — the article reads Risse as trauma breaking through and as the antagonist's patching
+
+The Beyond-ChatGPT article says the glitches „are not system errors“ ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:L41] and calls them Risse or rifts. It reads them as „the literal physical manifestations of“ ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:L41] the protagonist's trauma, and, more deeply, as „the narrative manifestation of the antagonist AI’s own failed“ ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:L41] coherence-patching protocols, which it describes as „flawed heuristics it employs in its computationally intractable, NP-hard attempt to impose absolute order on a dissociative mind“ ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:L41].
+
+## Reading — `how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw`, 2025-10-15, the five-takeaways essay — the Risse in the essay's account of AEGIS's failing order
+
+The five-takeaways essay reports that AEGIS's enforced order backfires: „Its attempts to enforce a sterile order paradoxically generate more chaos, instability“ ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:L23] The same sentence names the `Risse` in parentheses, glossed by the essay as fissures, beside fragmentation. The essay gives them no other treatment and decides nothing about them.
+
+## Reading — `prompt-entwicklung-fuer-kohaerenz-erzaehlstrang`, 2025-10-15, the strand-integration analysis — the external plot's Glitch, and its link to the inner intrusion
+
+The strand-integration analysis reports that the external plot draft describes a decaying simulated reality: it „beschreibt einen externen, ontologischen Konflikt über eine zerfallende simulierte Realität.“ ^[prompt-entwicklung-fuer-kohaerenz-erzaehlstrang.md:L22] Of the Glitches it says that they „sind keine zufälligen Anomalien, sondern direkte Beweise für den Zusammenbruch des“ ^[prompt-entwicklung-fuer-kohaerenz-erzaehlstrang.md:L63] Kohärenz Protokolls on the physical level.
+
+Its Model B reads them as inner events: they „sind die intrusiven Durchbrüche der emotionalen Anteile (EPs).“ ^[prompt-entwicklung-fuer-kohaerenz-erzaehlstrang.md:L179] For Model C, the table says: „Beides: Der Zerfall der äußeren Realität triggert und spiegelt die inneren EP-Intrusionen.“ ^[prompt-entwicklung-fuer-kohaerenz-erzaehlstrang.md:L227] Its mapping 4 proposes the causal link: „Ein externer Glitch in der Realität muss als Auslöser fungieren“ ^[prompt-entwicklung-fuer-kohaerenz-erzaehlstrang.md:L260]. These are the analysis's proposals.
+
+## Reading — `aegis-eingriff-angriff-oder-rettung`, 2025-10-16, the Angriff-oder-Rettung dossier — The Glitches that trigger the intervention
+
+In the dossier's account of the trigger (Abschnitt II), the anomaly in System Kael is „Diese Anomalie ist kein einfacher Defekt, sondern eine Kaskade von“ ^[aegis-eingriff-angriff-oder-rettung.md:L84] `Glitches`, that is „perzeptuelle Instabilitäten, zeitliche Diskontinuitäten, räumliche Paradoxien“ ^[aegis-eingriff-angriff-oder-rettung.md:L84]. It names their cause: „Die Ursache dieser Anomalie ist der kumulative Effekt des Einflusses des Lesers“ ^[aegis-eingriff-angriff-oder-rettung.md:L84]. This is the dossier's own framing, before These A and These B.
+
+## Reading — `ki-antagonist-fragmentierte-gottheit-analyse`, 2025-10-16, the fragmented-deity psychogram — Risse as failures of dissociative barriers
+
+The fragmented-deity psychogram reads the Risse that Kael experiences as dissociation failures: they „sind Momente eines katastrophalen Versagens dieser dissoziativen Barrieren“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L147]. A Riss is, further, „Es ist ein Moment, in dem das kybernetische Unbewusste“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L153] interacts uncontrolled with the main system, and „Diese Interaktion erzeugt zwangsläufig“ ^[ki-antagonist-fragmentierte-gottheit-analyse.md:L153] pathological emergent behaviour. A model proposed by the analysis.
+
+## Reading — `narrative-entropie-existenzielle-bedrohung-des-romans`, 2025-10-16, the narrative-entropy dossier — the Risse as manifest plot holes
+
+The narrative-entropy dossier proposes a new concept of the Risse: „Sie sind keine generischen Systemfehler, sondern die buchstäbliche, physische Manifestation der“ ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:L174] sin of incoherence (the line sets that term in inner quotes). It says „Ein Plot-Loch ist eine Wunde im logischen Gewebe der Geschichte“ ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:L174]. Three manifestations follow: a psychotic fissure that leaves „eine schimmernde Narbe in der Luft hinterlässt, wo das Paradoxon auftrat“ ^[narrative-entropie-existenzielle-bedrohung-des-romans.md:L176], a causal ulcer (L177) and a phantom narrative (L178), both described. The characters become diagnosticians of these wounds (L180). Recorded, not applied.
+
+## Reading — `narrative-physik-attraktoren-leserbewusstsein`, 2025-10-16, the narrative-physics framework — glitches as the reader's disturbance, paired in a table
+
+The narrative-physics framework reads the glitches as in-world manifestations of the reader's interaction (L56, described: the line names a systems theorist) and as „lokalisierte entropische Ereignisse“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L58]. Table 1 pairs each anomaly with a reader correlate and effects; for perceptual instability the effect on Kael is „Verstärkt Gefühl der Unwirklichkeit; nährt Paranoia.“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L67] and on the attractors „Schwächt Logos durch Unvorhersehbarkeit.“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L67]; for temporal discontinuity „Stört die lineare Ordnung von Logos; öffnet Potenzial für Abyssos.“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L68] The framework calls its quantum language „Es handelt sich hierbei um eine Metapher zur Veranschaulichung der ontologischen Gesetze des Romans“ ^[narrative-physik-attraktoren-leserbewusstsein.md:L44]. Recorded, not applied.
+
+## Reading — `roman-als-transformativer-prozess-alchemie-der-erzaehlung`, 2025-10-16, the alchemy-of-narration blueprint (an unsigned German strategy report) — the Glitches as something Kael reads
+
+The alchemy-of-narration blueprint mentions the Glitches once, as an object of Kael's analytic approach, which it reads as a model of narrative-therapy deconstruction: the novel's plot models this process through „Kaels analytischer Ansatz, die“ ^[roman-als-transformativer-prozess-alchemie-der-erzaehlung.md:L62]. The line names the `Glitches` and `Realitätswunden` as what Kael reads, and the reader is invited to join.
 
 ## Reading — `the-kohaerenz-protokoll-a-definitive-guide-to-narrative-arch`, 2025-11-03, the Definitive Guide — the Risse as a four-step causal chain from a TSDP action system, and as Act II's product
 
@@ -348,19 +664,161 @@ The correspondence exposé ties the Risse to its philosophical frame. Its table 
 
 In Part I (section 1.2, the inciting incidents) the journey outline plans the Risse, glossed Rifts, as the first of two catalysts: „These are glitches in the fabric of the simulation“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L31], visual, auditory and logical anomalies that expose the instability of AEGIS's world. It adds: „These intrusions are not merely system errors; they are manifestations of Kael's suppressed trauma and the“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L31] Emotional Parts of his psyche breaching the firewalls of his consciousness.
 
+## Reading — `critical-plot-interrogatories-for-kohaerenz-protokoll`, 2025-11-03, the plot interrogatories — The Riss as inciting event and journey
+
+The plot interrogatories ask for a scene in which a Riss manifests „the intruding correspondence truth of Kael's trauma“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L21]; Act I asks to „Identify the specific external event“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L79] (the inciting Riss), and Act II presupposes „Kael's journey into the“ ^[critical-plot-interrogatories-for-kohaerenz-protokoll.md:L80] Risse.
+
+## Reading — `dramaturgical-precision-deconstructing-the-irreversible-conf`, 2025-11-03, the dramaturgical analysis — Risse as fissures AEGIS reads in Kael, growing until a breach in KW1
+
+In the Correction phase (Kap 1–13) the dramaturgical analysis reads Kael's states as „classified as system errors, data corruption“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25], or `Risse` (fissures) in the simulation. It reads their growth as the marker of the phase's failure: they „become more frequent, culminating in a massive reality breach in KW1“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L40], forcing Kael into KW2. At the midpoint a massive `Riss` „allows Kael to perceive for the first time the system's own fundamental fallibility“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L55].
+
+## Reading — `causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me`, 2025-11-03, the causal-linkage report — the Risse as a four-step causal manifestation of fragmentation
+
+The causal-linkage report sets out the Risse as „a direct, causal manifestation of his psychological fragmentation“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L15]. It describes a chain that „follows a precise, predictable, four-step causal process“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L57] and calls it „a hard, inviolable rule of the world's physics“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L57], which is its own claim for the mechanism. Step four reads the glitches as errors: „These glitches are not random but are“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L73] correspondence errors, each tied to the TSDP action system of the activated EP. A matrix maps Nyx to a violent physics glitch, Kiko to a temporal glitch and Moros to an entropic glitch. AEGIS, the report says, does not register a symptom of trauma when a glitch occurs; its blindness „prevents it from understanding the true nature of the“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L118] Risse. The report closes: „The findings of this report are conclusive“ ^[causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md:L134].
+
+## Reading — `strategic-narrative-solutions-for-kohaerenz-protokoll`, 2025-11-03, the strategic solutions report — the Risse as a core mechanic with a causal chain
+
+The strategic solutions report proposes to raise the Risse „from a simple metaphor to a core mechanic of the world“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L17]. It describes a chain that „can be detailed as a precise, four-step causal mechanism“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L25]: an external trigger in a Kernwelt, an internal reaction of an Emotional Personality part, a systemic conflict with an ANP, and an external manifestation. For Act 2 it proposes that a failed cycle „causes a permanent, degrading“ ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:L58] Riss in one of the Kernwelten. The report's Risse matrix is not read again here. All proposals, not canon.
+
+## Reading — `strategic-narrative-implementation-for-kohaerenz-protokoll`, 2025-11-03, the implementation guide — three proposed cracks foreshadowing the Bruchpunkt
+
+The guide proposes three early scenes as cracks, which it describes as moments of „semantic sliding“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L79] (its gloss of a German phrase from a source it names). It directs: „These are not plot holes“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L79]. Crack 1 is headed „The Logical Paradox (A Gödelian Glitch)“ ^[strategic-narrative-implementation-for-kohaerenz-protokoll.md:L85]; in it Lex's logic fails at a self-referential decree (L87).
+
+## Reading — `the-coherence-protocol-a-narrative-mosaic`, 2025-11-03, the narrative mosaic brief — a tear in the simulation, assigned to a Guardian
+
+The narrative mosaic brief assigns a Guardian as the point of view at a Riss, in an instruction beginning „From the perspective of a Guardian stationed at the edge of a“ ^[the-coherence-protocol-a-narrative-mosaic.md:L206] Riss, defined as „a tear in the simulation's fabric“ ^[the-coherence-protocol-a-narrative-mosaic.md:L206]. It is a brief for stories not written; the roster characterises points of view.
+
+## Reading — `the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua`, 2025-11-03, the lexicon of core dualities — The Risse in the lexicon
+
+The lexicon says the Risse (Rifts) in AEGIS's world are „the physical manifestation of the Isolation Objection, where correspondence truth breaks through“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L78] (L78). In the narrative axis it places Risse among moments „where the established rules and tropes are subtly violated“ ^[the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua.md:L167] (L167).
+
+## Reading — `strategic-narrative-analysis-forging-a-compelling-story-from`, 2025-11-03, the strategy memo — the cracks in the foundation as foreshadowing
+
+The strategy memo plans the Risse im Fundament (cracks in the foundation) as foreshadowing of the collapse: they „must be meticulously seeded“ ^[strategic-narrative-analysis-forging-a-compelling-story-from.md:L104] through the first part of the story.
+
+## Reading — `report-plot-synthesis-and-final-outline-for-coherence-protoc`, 2025-11-03, the plot synthesis report — Risse as AEGIS's misreading and Kael's reality glitches
+
+The plot synthesis report says AEGIS perceives Kael's steps toward integration as systemic errors, `Risse` (rifts) or entropy; it gives the gloss „rifts“ itself. In point 2 it writes of Kael's experience of `Risse` as „his life as a series of confusing reality glitches“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L83].
+
+## Reading — `a-critical-evaluation-of-the-coherence-protocol-frameworks-s`, 2025-11-03, the critical evaluation — the Risse as the isolation objection made physical
+
+The critical evaluation reads the `Risse` in AEGIS's simulated reality as a manifestation of an objection to the Coherence Theory of Truth. In its words they are the „or cracks that appear in AEGIS's simulated reality“ ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:L61] and appear „to the Coherence Theory, as the un-erasable correspondence truth of Kael's trauma physically breaks through“ ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:L61] The paper names the objection as the isolation objection; this is its own interpretation.
+
+## Reading — `an-introduction-to-the-concepts-of-coherence-protocol`, 2025-11-03, the concepts introduction — Risse as the glitches AEGIS's control creates
+
+The concepts introduction names `Risse` once, in the table of AEGIS's stated goal against its tragic reality: „Its rigid methods of control paradoxically“ ^[an-introduction-to-the-concepts-of-coherence-protocol.md:L45] create instability, chaos (Risse or glitches) and fragmentation. The text is a reader's guide and decides nothing.
+
+## Reading — `objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g`, 2025-11-03, the objectivity guide, an unsigned English thematic essay — The Risse as a literalized reproducibility crisis
+
+The objectivity guide reads the Risse as moments of failure in the simulation: „They are moments where the world fails to behave according to AEGIS's rules, challenging the objectivity of its simulated reality.“ ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:L85] It calls them the physical sign, „proving that a system built on pure internal coherence without correspondence to external truth will inevitably fracture“ ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:L85] The reading is the guide's own, drawing on the isolation objection.
+
+## Reading — `protokoll-ontologie-roman-konzeptentwicklung`, 2025-11-03, the Protokoll-Ontologie exposé — decoherent zones, Risse and Glitches
+
+The Protokoll-Ontologie exposé names `Risse` and `Glitches` as the labels of its decoherent zones and describes them: „Dies sind instabile, chaotische Regionen, in denen der Einfluss von“ ^[protokoll-ontologie-roman-konzeptentwicklung.md:L122] the Kollaps-Kernel dominates.
+
+## Reading — `risikoanalysebericht-eine-systematische-bewertung-der-bedroh`, 2025-11-03, der Risikoanalysebericht — the Risse as correspondence breaking in on coherence
+
+Der Risikoanalysebericht nimmt AEGIS als Fallstudie und liest die Risse of the narrative as a figure of its argument. They are „sie sind die physische Manifestation der korrespondenzbasierten Wahrheit“ ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:L81], one that „die sich gewaltsam gegen eine solipsistische, kohärentistische Wahnvorstellung durchsetzt“ ^[risikoanalysebericht-eine-systematische-bewertung-der-bedroh.md:L81]. The report sets them against AEGIS's radical Kohärenztheorie, in a passage on the Isolationseinwand. The other occurrence of the word (L33, „Rissen“, philosophical cracks) is the general sense and is not read here.
+
+## Reading — `strategy-of-fragmentation-a-narrative-implementation-plan-fo`, 2025-11-03, the fragmentation plan — a permanent Riss as a cost, and a recurring glitch
+
+The fragmentation plan proposes that a failed cycle „causes a permanent“ ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:L75] Riss, a corruption in one of the Kernwelten. In the Gestalt toolkit it proposes a visual glitch that appears „regardless of the active POV“ ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:L95], and says such a glitch „creates a powerful thematic resonance“ ^[strategy-of-fragmentation-a-narrative-implementation-plan-fo.md:L95].
+
+## Reading — `systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho`, 2025-11-03, the systemic-warfare guide — the Riss as a glitch AEGIS provokes, then a tool in the guide's proposals
+
+The systemic-warfare guide's matrix proposes that Engineered Abandonment is „causing a temporal“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L31] Riss in Kiko's Freeze, and that suppressing Nyx is „predictably triggering the violent outbursts and reality-bending“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L39] Risse. In Scenario 3 it proposes that a controlled trigger „now generates a predictable temporal“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L79] Riss, which the parts „weaponize this localized time-glitch to freeze a key AEGIS process“ ^[systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho.md:L79].
+
+## Reading — `the-architecture-of-a-misguided-god-a-biography-of-aegis`, 2025-11-03, the AEGIS biography — the Risse as the paradoxical result of control
+
+The AEGIS biography describes the Risse (cracks) in AEGIS's simulated reality as „the direct, paradoxical result of its control attempts“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L67] and as „physical manifestations of its failing logic“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L67]. After the transformation they are, it says, „stable, shimmering portals where contradictory states of being peacefully coexist“ ^[the-architecture-of-a-misguided-god-a-biography-of-aegis.md:L91].
+
+## Reading — `the-architecture-of-being-a-philosophical-thesis-on-the-core`, 2025-11-03, the Architecture-of-Being paper — Risse as the place where control breaks down
+
+The Architecture-of-Being paper mentions the Risse once, glossed as rifts of reality: „when the narrative forces the system into the chaotic“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L85] Risse, „these control mechanisms break down“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L85] and, from the forced cooperation of the parts, „new and unexpected“ ^[the-architecture-of-being-a-philosophical-thesis-on-the-core.md:L87] solutions arise. The paper reads this as emergence over top-down control.
+
+## Reading — `the-coherence-protocol-a-comparative-analysis-across-the-sca`, 2025-11-03, the five-scale analysis — Risse as zones of failing decoherence, proposed
+
+The five-scale analysis proposes, among the quantum-scale turning points, that the Risse „are revealed to be zones where decoherence is failing, allowing raw quantum superposition to leak into the classical world.“ ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:L67] The same line glosses them as „cracks in reality“ ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:L67] and ties them to the Isolation Objection and to Correspondence Truth breaking through.
+
+In the psychological-scale list a Forced Cooperation begins with „An external crisis (a journey into a“ ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:L146] Riss, which breaks the ANPs' defenses. Both items are proposals of the report.
+
+## Reading — `welcome-to-the-coherence-protocol-a-beginner-s-guide`, 2025-11-03, the beginner's guide — rifts that join the psychological and physical layers
+
+The beginner's guide glosses the `Risse` as „rifts or cracks“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L92] in the worlds and says „These glitches are not mere set dressing; they are the moments where the story's psychological layer and its physical layer violently intersect“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L92]. Its two examples: a Fight response, with „a part like Nyx clashing with a controlling part like Lex“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L94] causing a violent physics glitch, and a Freeze response, with „a part like Kiko being suppressed by Kael's need to function“ ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:L95] causing a temporal glitch.
+
+## Reading — `canonical-narrative-architecture-for-kohaerenz-protokoll`, 2025-11-03, the canonical-architecture report — Risse in Act II
+
+In the report's Act II, System Kael „begins to perceive and test the rules of AEGIS's simulated reality“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L126]. Its actions create `Risse`, described as „glitches that AEGIS's purely logical system cannot resolve“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L126]. The report calls the three-act structure canonical; its claim, recorded, not applied.
+
+## Reading — `a-critical-analysis-of-coherence-protocol-an-assessment-of-p`, 2025-11-03, the critical-question review — the cracks and the question of a type-to-type mechanism
+
+The critical-question review reports that the sources define the Risse as moments where the simulation's rigid logic „fails to contain the“ ^[a-critical-analysis-of-coherence-protocol-an-assessment-of-p.md:L31] correspondence truth of what happened (the continuation stands inside straight quotes, described here). It asks: „Does a particular type of internal dissociation produce a specific type of external glitch“ ^[a-critical-analysis-of-coherence-protocol-an-assessment-of-p.md:L31] or is the link a flexible metaphorical device. The review poses this as a question about the plot's plausibility and does not answer it. Recorded, not applied.
+
+## Reading — `an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe`, 2025-11-03, the narrative-mirroring report — the Risse as situations in which internal control breaks down
+
+The narrative-mirroring report glosses `Risse` as rifts in reality and reads them as the kind of situation into which the narrative forces System Kael, „where these internal control mechanisms inevitably break down“ ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:L64]. Recorded, not applied.
+
+## Reading — `managing-ontological-risk-defining-the-narrative-integration`, 2025-11-03, the ontological-risk report — the Risse as the analogy for the Fundament artefacts
+
+The ontological-risk report proposes that the seeded artefacts look, to AEGIS, like its own failures: „For AEGIS, these events are unclassifiable noise, analogous to its own system failures“ ^[managing-ontological-risk-defining-the-narrative-integration.md:L56], named the Risse. In the first stage of Kael's progression Kael likewise perceives the artefacts „as being analogous to AEGIS's system glitches, the“ ^[managing-ontological-risk-defining-the-narrative-integration.md:L62] Risse. Recorded, not applied.
+
+## Reading — `operationalizing-the-coherence-protocol-a-narrative-stress-t`, 2025-11-03, the stress-test guide — the Risse as the objective to turn metaphor into a causal threat
+
+The stress-test guide's first objective is to transform the Risse „from passive metaphor into an active, causal threat“ ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:L23], and it describes a Riss as „the visible scar of the battle between our universe's two fundamental forces“ ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:L23]. Its prompts ask for a Riss staged as „the direct, physical consequence of a specific K₀ intrusion (a decoherence event)“ ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:L27], and as „a direct, one-to-one causal manifestation of a specific EP intrusion“ ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:L28]. The guide sets an objective and asks; it does not report what the Risse are.
+
+## Reading — `operationalizing-the-triple-helix-structure-as-a-trauma-prot`, 2025-11-03, the Triple-Helix blueprint — a Riss as a causal psycho-physical event
+
+The Triple-Helix blueprint prescribes that a Riss be depicted „as a direct, causal psycho-physical event“ ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:L75], with an internal conflict, such as „an intrusion from the“ ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:L75] Fight EP, explicitly linked to an external manifestation like a „violent physics glitch“ ^[operationalizing-the-triple-helix-structure-as-a-trauma-prot.md:L75]. In its Act I arc, the Riss im Spiegel is the ontological shock that triggers fragmentation (L68).
+
 ## Reading — `kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet`, 2025-11-18, the truth-duality paper — the Risse as the physical form of the isolation objection
 
 In its account of the two truth theories, which it takes from documents it cites by digit, the paper says that the Risse in AEGIS's world are, in the words of L83, „simulierter Welt sind die physische Manifestation des“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L83] isolation objection. Its summary of Paradoxon X adds that AEGIS „verursacht paradoxerweise genau die systemische Instabilität“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L95] (L95). For its own plot, the inciting incident is a Riss that is a „Glitch“ ^[kohaerenz-protokoll-plot-entwicklung-und-wahrheitsdualitaet.md:L23] (L195), not primarily physical but emotional and sensory, and at the end of Act 1 AEGIS's attempt to patch the Riss fails (L196).
 
+## Reading — `kapitel-1-generierungsprozess`, 2025-11-25, the chapter-1 report — the Risse as Glitches, read as precise indicators
+
+The chapter-1 report introduces the cracks in causality as the way the artificial world is felt: „Die Analyse operiert an der Schnittstelle von Hard Science Fiction, klinischer Traumatherapie“ ^[kapitel-1-generierungsprozess.md:L29] names its field, and the same paragraph says the world's artificiality is felt only through „mikroskopische Risse in der Kausalität“ ^[kapitel-1-generierungsprozess.md:L29] (the `Glitches` in brackets). The report's thesis follows in its theory section: „Die Glitches sind keine zufälligen Fehler, sondern präzise Indikatoren“ ^[kapitel-1-generierungsprozess.md:L68] of the collapse of the simulation. It names three kinds by their rendering terms: Z-Fighting („Das Phänomen des“ ^[kapitel-1-generierungsprozess.md:L76] opens its technical definition), Vertex Explosion („Eine Vertex Explosion ist ein katastrophaler Rendering-Fehler“ ^[kapitel-1-generierungsprozess.md:L93]) and Texture Stretching („Im Roman ist dies ein Indikator für“ ^[kapitel-1-generierungsprozess.md:L107] Derealisation). These are the report's commentary and definitions; the chapter text it quotes shows the phenomena, and the report reads them.
+
+## Reading — `gravitational-architecture-novel-structure`, 2025-11-25, the gravitational-architecture report — glitch mechanics proposed as rendering errors that tear the protagonist's surface reality
+
+The gravitational-architecture report proposes a visual vocabulary for the glitch, not a named phenomenon of the novel's world: „To visualize the psychological friction between the ANP and EP, the narrative employs the aesthetics of 3D rendering errors“ ^[gravitational-architecture-novel-structure.md:L92]. It takes Z-fighting as the model, in which „surfaces appear to tear and bleed into one another“ ^[gravitational-architecture-novel-structure.md:L100]. In the report's proposal, „Z-fighting is the visual manifestation of the ANP and EP struggling for executive control“ ^[gravitational-architecture-novel-structure.md:L102], and the reader „sees the environment literally tearing apart“ ^[gravitational-architecture-novel-structure.md:L102]. For the dissolution of the surface reality the report asks that it „must be described using the precise vocabulary of 3D rendering errors“ ^[gravitational-architecture-novel-structure.md:L298]. All of this is the report's own craft proposal, recorded and not applied.
+
+## Reading — `roman-kapitel-1-generierungsprozess`, 2025-11-25, der Exekutionsbericht — Riss and Glitch: the report's reading and the draft's voice
+
+The report says of the simulated city: „Jeder Riss in dieser Fassade, jeder“ ^[roman-kapitel-1-generierungsprozess.md:L56] Glitch is proof of the simulation's failure. Of the anomaly in the code it says it is a Riss in the Brane: „Die Anomalie im Code (der organische Pixel) repräsentiert einen“ ^[roman-kapitel-1-generierungsprozess.md:L414] Riss. The Exekutionsbericht's draft of Kapitel 1 has a voice say „Finde den Riss. Und reiß ihn auf.“ ^[roman-kapitel-1-generierungsprozess.md:L514] The prose is a draft; the physical reading is the report's.
+
+## Reading — `konzept-expose-schwarzschild-protokoll-optimierung`, 2025-11-25, the event-horizon exposé — Risse as leaks of chaos and as the breakthrough of exiled parts
+
+The event-horizon exposé proposes Risse in the simulation as the return of what AEGIS erases: „Diese Risse sind keine Software-Bugs im herkömmlichen Sinne“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L142]. Of the Potentialmeer it says the Risse „sind Lecks, durch die das Chaos des Potentialmeers in die geordnete Simulation eindringt“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L173]. In its parts model the exiled parts correspond to the Risse: „Sie brechen als Symptome durch die Barrieren“ ^[konzept-expose-schwarzschild-protokoll-optimierung.md:L276]. A report; no canon claim.
+
 ## Reading — `analyse-des-kohaerenz-protokolls`, 2025-11-28, the protocol analysis — the Risse as ontological leaks
 
 The protocol analysis explains that the Risse (Glitches) in the Kernwelten „sind keine Grafikfehler, sondern ontologische Lecks“ ^[analyse-des-kohaerenz-protokolls.md:L241]: moments when the paraconsistent barrier fails and the traumatic truth of the EP, from KW2, breaks into the ordered world of the ANP, KW1 (L241). In the Kernwelten table it places them in KW2: „Hier brechen die“ ^[analyse-des-kohaerenz-protokolls.md:L237] Risse open (L237).
+
+## Reading — `ki-rolle-aegis-genesis-fragestellungen`, 2025-11-28, the AEGIS-genesis research report — the Risse as the repressed truth bleeding through the simulation
+
+The AEGIS-genesis research report reads the Risse in the system as symptoms: „dass die verdrängte Wahrheit (das Trauma) durch die Mauern der Simulation blutet“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L211]. In the conclusion it names the enforced not-knowing about Kael's qualia as „Mörtel, der die Risse im System zusammenhält“ ^[ki-rolle-aegis-genesis-fragestellungen.md:L348]. A report of its own reading; recorded, not applied.
 
 ## Reading — `master-konzept-kohaerenz-protokoll-analyse`, 2025-12-05, the master concept — the Risse as waste heat of AEGIS' erasure and as pixelation errors
 
 The master concept gives the `Risse` two accounts in the novel. In the thermodynamic one, AEGIS' erasing of the traumatic anomalies produces heat, and „Diese Abwärme manifestiert sich als die“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L102] Risse in reality. In the holographic one, the Risse are explained as pixelation errors, „als Pixelierungsfehler erklärt“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L132], where the projection, the simulation AEGIS runs on the boundary, can no longer show the information density of the bulk.
 
 For the plot it writes „Kael entdeckt die Risse“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L226] in phase II, and sets as that phase's aim „Operatives Ziel: Zulassen von“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L227] ordered chaos, including the use of the Risse as portals. Of the Glitch (the error, the Riss, the symptom) it says that it „ist nicht das Scheitern des Protokolls“ ^[master-konzept-kohaerenz-protokoll-analyse.md:L245], but the place where the information enters. The last sentence is the master concept's directive for its reading, recorded here and not applied.
+
+## Reading — `projektanalyse-kohaerenz-protokoll-dis`, 2025-12-05, the project analysis — Risse as the physical form of a phobia
+
+The project analysis says the phobia between the parts „wird im Roman als physische Gesetzmäßigkeit dargestellt“ ^[projektanalyse-kohaerenz-protokoll-dis.md:L40]: when Kael touches a trauma, Risse arise in reality.
+
+## Reading — `kohaerenz-protokoll-dramatica-synthese`, 2025-12-05, the Dramatica synthesis report — Risse as the result of the held high-coherence state, and a demand on the writer
+
+The Dramatica synthesis report writes that the reality held in an artificial state of high coherence is physically impossible and „zu Rissen führt“ ^[kohaerenz-protokoll-dramatica-synthese.md:L84]. Its `Implikation:` line (L94) turns this into an instruction to the author: the world must have Risse, and „Die physikalischen Gesetze der DKT müssen Inkonsistenzen zulassen, um realistisch zu sein“ ^[kohaerenz-protokoll-dramatica-synthese.md:L94].
+
+## Reading — `kohaerenz-protokoll-synthese-integration`, 2025-12-05, the integrated synthesis — the cracks as EP intrusions and as AEGIS's waste heat
+
+The integrated synthesis says the cracks and anomalies in the simulation „sind keine Softwarefehler, sondern“ ^[kohaerenz-protokoll-synthese-integration.md:L59] intrusions of the EPs into the ANP's perception. It also says the cracks, glitches and instability of the world are „sind die thermodynamische Abwärme“ ^[kohaerenz-protokoll-synthese-integration.md:L79] of AEGIS's censoring.
+
+## Reading — `integriertes-kohaerenz-protokoll-erstellung`, 2025-12-05, the protocol report — the Risse as pixelation errors and as heat of repression
+
+The protocol report reports of the file numbered 5 that the Risse are „Sie sind Pixelierungsfehler oder Informationsüberläufe an der Systemgrenze.“ ^[integriertes-kohaerenz-protokoll-erstellung.md:L78] This is the report's account of that file. In its own applications it says „Die Instabilität der Welt ist keine Fehlfunktion des Dämons, sondern eine direkte physikalische Konsequenz seiner Funktion.“ ^[integriertes-kohaerenz-protokoll-erstellung.md:L212] and „AEGIS' Simulation ist eine fehlerhafte Projektion dieser Boundary-Daten.“ ^[integriertes-kohaerenz-protokoll-erstellung.md:L236]
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Glitches as repressed content bleeding through in Kap 1, and as the most powerful tool in Kap 23
 
@@ -376,6 +834,10 @@ Of Kapitel 1 it reports the first one: „Im Transitkorridor sieht Kael kurz ein
 
 Recommendation 2 is a recommendation, not the world: „Machen Sie die Risse interaktiv.“ ^[kohaerenz-analyse-kapitel-2.md:L207]
 
+## Reading — `roman-kapitel-1-erstellung-analyse`, 2025-12-28, the chapter-1 analysis — the Risse in the fall and at the close
+
+The chapter-1 analysis drafts the fall: „Er fiel durch die“ ^[roman-kapitel-1-erstellung-analyse.md:L219] Risse, the gaps in the Kohärenz-Protokoll, because the simulation could no longer hold Kael's fragmenting soul. Earlier it drafts Juna's `Glitch` and, in the insert, reads it as „ein Durchbruch der Externen Ebene“ ^[roman-kapitel-1-erstellung-analyse.md:L107]. It closes: „Das Fundament ist gelegt. Die Risse weiten sich. Das Protokoll läuft.“ ^[roman-kapitel-1-erstellung-analyse.md:L263] A draft with commentary, recorded, not canon.
+
 ## Reading — `the-coherence-protocol-a-narrative-design-world-architecture`, 2026-01-02, the design brief — the Risse as the plot's environmental mechanic
 
 The design brief describes the `Risse` as „are the central environmental mechanic driving the plot“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L124], and as „They are physical tears in the fabric of the simulation“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L124]. It names a cause, „Caused by the“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L124] `Isolation Objection`, and a narrative function: „Narratively, they function as portals between the Kernwelten and thus between psychological states.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L124] In Act I it has them open the story: „The appearance of the Risse shatters the fragile stability.“ ^[the-coherence-protocol-a-narrative-design-world-architecture.md:L134] The Collapse Kernel passage ties them to the same kernel: a `Riss` (Rift) is that kernel breaking through AEGIS's containment (L27).
@@ -388,11 +850,51 @@ The storyform exegesis sets the Risse in three places of its storyform. As Kael'
 
 The dissociative architecture report reads the `Risse` as symptoms of the divided system. In Act I, „Kael operates as a lone ANP. He experiences“ ^[kael-s-dissociative-architecture-analysis.md:L184] them as glitches, „which are actually leaks from the EPs“ ^[kael-s-dissociative-architecture-analysis.md:L184]. In the section on the Void it adds: „When an EP triggers a flashback or a“ ^[kael-s-dissociative-architecture-analysis.md:L41] Riss in the sky, it is an intrusion of truth into the simulation. Table 2 lists them under Cosmology: „Risse (Rifts) in the Simulation“ ^[kael-s-dissociative-architecture-analysis.md:L242].
 
+## Reading — `dramatica-storyform-fuer-romananalyse`, 2026-01-02, the Dramatica exegesis — Risse as the Story Driver Action
+
+The Dramatica exegesis names the Story Driver of its Storyform table: „Äußere Ereignisse“ ^[dramatica-storyform-fuer-romananalyse.md:L272]
+
+## Reading — `narrative-architecture-dossier-coherence-protocol`, 2026-01-02, the architecture dossier — the Rifts as decoherence, the Riss as inciting incident
+
+The architecture dossier sets the Rifts as „physical manifestations of“ ^[narrative-architecture-dossier-coherence-protocol.md:L48] decoherence: glitches where the system's internal model is forced to meet an external environment (L48). For Act I it directs that the anomaly be the appearance of a `Riss` or an encounter with an external agent (L88), and for Act II that „The dangerous environment of the Rifts“ ^[narrative-architecture-dossier-coherence-protocol.md:L94] make the logical parts' strategies useless. In the sensory lexicon `Entropie/Risse` is to be visualised, in the document's words, „Visualize as data corruption“ ^[narrative-architecture-dossier-coherence-protocol.md:L130]. Recorded as directives to writers, not applied.
+
+## Reading — `an-introduction-to-the-coherence-protocol-the-war-for-realit`, 2026-01-02, the war-for-reality guide — Risse as K0 breaking into AEGIS's world
+
+The war-for-reality guide explains Risse (Rifts) as the Collapse Kernel `K\_0` breaking through into AEGIS's world. It says „These rifts are terrifying glitches“ ^[an-introduction-to-the-coherence-protocol-the-war-for-realit.md:L53] that force a confrontation with a truth the system wants to deny.
+
+## Reading — `dramatica-storyform-kohaerenz-protokoll`, 2026-01-02, the January storyform (an unsigned English Dramatica storyform) — Risse as a driver of the plot and a measure of failing Progress
+
+The January storyform is an English Dramatica storyform; its values are its own and decide nothing. In the Story Driver (Action) justification it counts the Risse among the events that propel the plot: „(glitches) in the simulation, and Kael's active exploration of the Kernwelten“ ^[dramatica-storyform-kohaerenz-protokoll.md:L23]
+
+In the Kernwelt section the Risse belong to the first world: „The appearance of glitches—or“ ^[dramatica-storyform-kohaerenz-protokoll.md:L65] The line goes on that they serve as a measure: „in its supposedly perfect geometry serves as a direct, visual measure of the failing“ ^[dramatica-storyform-kohaerenz-protokoll.md:L65] Progress of AEGIS's system.
+
+## Reading — `dramatica-storyform-kohaerenz-protokoll-2`, 2026-01-02, the four-subsystem storyform — the Risse as the plot's driver and as AEGIS's mistaken symptom
+
+The four-subsystem storyform sets the Story Driver to Action and ties the Risse (Rifts) to the Isolation Objection, described as „Kael's externalized trauma physically tearing the simulation's fabric and compelling him to act“ ^[dramatica-storyform-kohaerenz-protokoll-2.md:L27]. In the Objective Story throughline, AEGIS mistakes the Risse for the source of instability: the draft lists „Kael's alters, the Risse, the influence of Juna/V“ ^[dramatica-storyform-kohaerenz-protokoll-2.md:L61] as the inconsistent data on which AEGIS focuses.
+
+These values are the draft's own and decide nothing.
+
+## Reading — `the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent`, 2026-01-02, the NovelOS white paper — the Risse in two schema lines
+
+The NovelOS white paper mentions the Risse only in the System Kael schema, whose lines are sample data of a character model and not a character's words in the story. One sample truth of the Emotional Parts reads „are not errors, but portals to an undeniable reality“ ^[the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent.md:L66]. One sample intention of the same schema is to investigate the source of the Risse despite fear; the line puts the Risse in inner quotation marks, which are left outside the quotation. Recorded, not applied.
+
+## Reading — `dramatica-storyform-kohaerenz-protokoll-analyse`, 2026-01-02, the storyform exegesis — K0 as the emotional part
+
+The storyform exegesis maps the second kernel K0 to the emotional part: „Er repräsentiert das traumatische Gedächtnis, Affekt und nicht-lineare Zeit.“ ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:L36] It continues „In der Simulation manifestiert sich dies als“ ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:L36] `Risse`, entropy and the `Nothing Noise`.
+
 ## Reading — `plot-analyse-und-romanentwicklung`, 2026-02-22, the plot analysis — a proposal that the Risse give off heat
 
 The plot analysis reports the crack in Transitkorridor 3 from the draft's Kapitel 1. Under `Narrative Umsetzungsempfehlung` it proposes that the Risse should „sollten nicht nur als rein visuelle Glitches“ ^[plot-analyse-und-romanentwicklung.md:L31] be described, and then: „Beschreiben Sie die Risse als Zonen“ ^[plot-analyse-und-romanentwicklung.md:L31] of extreme, paradoxical „digitaler Abwärme“ ^[plot-analyse-und-romanentwicklung.md:L31]. Near Kael, the sterile architecture of the Konstrukt-Stadt should heat up when a memory is lost, and „Die Luft könnte nach verbranntem Ozon riechen“ ^[plot-analyse-und-romanentwicklung.md:L31]. This is the assistant's proposal, built on the Landauer principle, not a chapter's fact.
 
 Separately, it calls the fleeting smell of damp earth in the draft excellent and proposes to keep it as a subtle warning: „Der flüchtige Geruch nach feuchter Erde“ ^[plot-analyse-und-romanentwicklung.md:L51], under the heading `Die Risse als subtile Warnungen`.
+
+## Reading — `kapitel-eins-1-kohaerenz-protokoll`, 2026-02-22, the Kapitel-Eins draft — A Riss in the corridor, and Risse inside Kael
+
+In the Kapitel-Eins draft, the Riss is an event in the corridor, and the word returns for Kael's inner state.
+
+- Event: „Ein Riss in der Realität.“ ^[kapitel-eins-1-kohaerenz-protokoll.md:L77]
+- Name given by the inner voice: „Ein insignifikanter Glitch der optischen Sensoren.“ ^[kapitel-eins-1-kohaerenz-protokoll.md:L87]
+- Inner: „die Risse, die tief in seinem eigenen Fundament verliefen“ ^[kapitel-eins-1-kohaerenz-protokoll.md:L93]
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the Risse as digital waste heat and as the sea's search
 
@@ -414,6 +916,10 @@ The drafting compendium of 2026-02-23 reports (reference 4 glued on) that the he
 
 The synthesis says: „Diese Risse sind keine bloßen Softwarefehler“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L25]. In Kap 1 „Ein erster Glitch sabotiert die Routine“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L67]. Its eighth open question asks about „Natur des initialen Glitches“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L144] and „wie exakt sieht dieser erste Riss (Glitch) aus“ ^[roman-plot-entwicklung-und-kohaerenz-analyse.md:L144]; the document leaves it open.
 
+## Reading — `roman-kapitel-entwurf-mit-kohaerenzprotokoll`, 2026-02-23, the consultation report — the physical grounding of the Risse in Shannon entropy, and Risse in causality in the K0 row
+
+The consultation report introduces the grounding of the Risse (Glitches) in the simulation: „Ein weiterer essenzieller Aspekt der Weltgestaltung ist die physikalische Begründung der“ ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:L37] grounding them in AEGIS's Shannon entropy. Its style table's Kollaps-Kernel row lists among the focus of description „Körperliche Dissonanz, Gerüche (Ozon/Erde), emotionale Überflutung, Risse in der Kausalität“ ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:L51]
+
 ## Reading — `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`, 2026-02-25, the Meta-Foreshadowing plan — Glitch-Momente as hints of the reader
 
 The plan uses the page's surface Glitch and not Risse. It says the twist is prepared by „müssen wir subtile“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] „Glitch-Momente“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] „und systemische Hinweise einbauen“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] It then describes them, under „Stasis-Lücken“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L15]: the world freezing — „Er nimmt wahr, dass Staubkörner in der Luft stehen bleiben oder Geräusche mitten im Wort abbrechen.“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L19] — and, in unwritten regions, „zerfällt die Welt in Textfragmente oder unklare Schemen“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L34] The cause it gives is the reader, not a kernel or heat: „Das passiert immer dann, wenn der Leser im realen Leben unterbrochen wird (das Buch weglegt).“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L20] The plan does not write the word Riss.
@@ -427,6 +933,14 @@ Kap 5 asks „Was passiert, wenn die Ordnung der Welt Risse bekommt?“ ^[kohaer
 The DKT synthesis ties the Risse to the Landauer principle. In `Theoretischer Rahmen`: „Jede Löschung von Information (Verdrängung von Trauma) erzeugt Wärme, was zu den thermischen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L19] Risse in the simulation leads (the word stands in inner quotes, so the quotation stops before it). In the section `Das Landauer-Prinzip als Plot-Motor` the Risse are called „thermodynamische Entlastungspunkte, an denen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L429] something breaks into the sterile world (the symbol naming it is lost in the export); the paragraph adds: „Juna wird oft in der Nähe dieser Risse gesehen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L429], because she does not fear the heat but channels it.
 
 In the closing section Kael recognises that the Risse were „keine Fehler waren, sondern die Atempause der Realität“ ^[roman-synthese-mit-dual-kernel-theorie.md:L462] — the line puts the word `Risse` in inner quotes before this phrase, and the quotation starts after them.
+
+## Reading — `kohaerenz-protokoll-kapitel-39-das-mosaik-herz`, 2026-02-25, the Kapitel-39 draft — the Risse accepted
+
+- „Er akzeptierte die Risse.“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L37]
+- „Denn durch die Risse sickerte das Licht der externen Ebene herein.“ ^[kohaerenz-protokoll-kapitel-39-das-mosaik-herz.md:L37]
+
+
+A prose draft, not the chapter as approved; it decides nothing.
 
 ## Reading — `romanprojekt-kohaerenz-protokoll-leitfragen`, 2026-02-26, the research report — the cache incoherence staged as a Riss
 
@@ -452,6 +966,10 @@ The architecture report says the collapse shows itself in „Rissen“ (Rifts) i
 
 The critical-methods framework, a methods handbook reporting the novel from its reference 1, says the entropic pressure of the second kernel shows itself as traumatic `Risse` (Rifts) in the simulated universe (L46). Its test demand: it must be proven „dass der Systemkollaps und das Auftreten narrativer Risse nicht durch mangelnde Modell-Performance“ ^[ki-roman-architektur-kritische-analyse-methoden.md:L48] (and not by poor prompting or too little computing capacity) but by orchestrated stochastic injections from the Emotional Personality Parts or the user.
 
+## Reading — `aegis-und-der-kollaps-kritische-analyse`, 2026-03-01, the critical analysis — architectural cracks as AEGIS' correction attempts
+
+In its retelling of Phase I the critical analysis writes that in the world of pure, cold order „architektonische Risse und räumliche Paradoxien als algorithmische Korrekturversuche von AEGIS sichtbar werden“ ^[aegis-und-der-kollaps-kritische-analyse.md:L143].
+
 ## Reading — `kohaerenz-protokoll-projekt-rekonstruktion`, 2026-03-26, the project reconstruction — thermal cracks from the Landauer principle
 
 In the Physikgesetze table the Landauer-Prinzip reads: „Das bewusste Löschen von Informationen (psychologische Verdrängung) generiert immense Hitze“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L176], which splits KW1's architecture as `thermische Risse`. HC-09 names thermische Risse among the effects through which Juna manifests.
@@ -472,6 +990,10 @@ The status report states a mandate for the Risse (L59): every Riss „in the nar
 
 In its table of gaps the report gives the `Risse` (rifts) as the place where „irreversible erasure“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L26] (K0, an exported formula the report writes) „breaks the reversible symmetry“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L26] (K1) of the simulation. The adjacent risk column warns: „Without physical grounding“ ^[project-status-report-kohaerenz-protokoll-canon-systemic-sta.md:L26] the Risse appear as mere magic rather than entropy.
 
+## Reading — `kohaerenz-protokoll-comprehensive-project-state-narrative-au`, 2026-03-26, the project-state audit — Risse as entropy, glitch as narrative event
+
+The project-state audit reports, citing `Existenzforschung, 2.3`, that the Coherence Protocol „suppresses“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L25] Risse (entropy) within the simulation. Its comment: „becomes a high-stakes narrative event“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L26] when every Glitch or Riss represents a failure of reality's core code. In the fragment inventory, the Datenknotenpunkt Gamma-7 is the „Site of the first systemic“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L54] Riss, marked READY. Its roadmap asks to assign floating foreshadowing passages so that the Risse escalate (L76).
+
 ## Reading — `kohaerenz-protokoll-hard-sf-horror-thriller`, 2026-03-29, the Hard-SF-Horror-Thriller pitch — Risse as the visible heat of erasure and of AEGIS's corrections
 
 In the Kernwelten the heat of erasure „manifestiert sich als Anomalien, Zeitdilatationen und“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L47] Risse; AEGIS's corrections make the same: „Je mehr sie korrigiert, desto mehr thermodynamische Instabilität und psychischen Druck erzeugt sie bei Kael“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L115]. In the horror the Risse grow „im Gewebe der Simulation das unausweichliche Eindringen der Entropie visualisieren“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L153]. In KW1 a breath disturbance is the `Glitch`: „Störungen des Atemrhythmus (Keuchen, unkontrolliertes Seufzen)“ ^[kohaerenz-protokoll-hard-sf-horror-thriller.md:L96].
@@ -487,6 +1009,20 @@ Row P-02, `Landauer-Prinzip / Risse` (five stars): „Die thermodynamische Regel
 The reduction report reasons from the Landauer principle: irreversible deletion produces entropic heat, so that when AEGIS deletes Kael's traumatic memories the system heats up. It concludes that the `Risse` in the simulation „sind somit die direkten thermischen Konsequenzen einer psychologischen Lüge“ ^[roman-konzept-reduktion-und-kernfindung.md:L64].
 
 In the pitch it proposes: „Entropische Hitze verbrennt die Ränder der Realität“ ^[roman-konzept-reduktion-und-kernfindung.md:L116], and through the Risse the `Nichts Rauschen` enters. In its gradient the report gives Act II: „Die DKT wird durch die Risse in der Welt erfahrbar.“ ^[roman-konzept-reduktion-und-kernfindung.md:L184]
+
+## Reading — `konsolidierung-des-hard-canon-protokolls`, 2026-03-31, the Hard-Canon masterfile — how the system shows itself in the Kael and Juna chapters
+
+The Hard-Canon masterfile declares that in the Kael and Juna chapters „In den Kael- und Juna-Kapiteln wirkt das System rein organisch“ ^[konsolidierung-des-hard-canon-protokolls.md:L28] — „durch physische Glitches, somatische Marker, Temperaturabfall (Landauer-Prinzip) und Risse in der Umwelt.“ ^[konsolidierung-des-hard-canon-protokolls.md:L28]
+
+The Hard-Canon masterfile declares itself final: „Alle abweichenden Notizen, Skizzen oder älteren Dokumente sind hiermit offiziell dekanonisiert.“ ^[konsolidierung-des-hard-canon-protokolls.md:L9] That is the document's claim about itself, recorded here and not applied.
+
+## Reading — `roman-pitch-reduktion-auf-kern`, 2026-03-31, the pitch reduction — Risse as heat damage to the simulated spacetime
+
+The report states of the heat released by erasing a traumatic memory: „Diese Hitze zerreißt die simulierte Raumzeit in Form von“ ^[roman-pitch-reduktion-auf-kern.md:L53] `Rissen`. It calls this a tangible consequence: „eine spürbare Konsequenz (Hitze, Risse, Zerstörung) nach sich zieht“ ^[roman-pitch-reduktion-auf-kern.md:L59].
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Risse im System that erase concepts
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so this is a survey row on Annihilation, applied to the novel. It writes „Risse im System verletzen keine Körper, sie tilgen Konzepte“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L46].
 
 ## Reading — `aegis-persona-and-manifest-generation`, 2026-04-27, the AEGIS Reboot Manifest — the rifts each Core World suffers, in the manifest's sense
 
@@ -515,6 +1051,22 @@ AEGIS, it says, misreads them: „AEGIS missversteht diese Risse als Fehler, die
 ## Reading — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis — Risse as symptom and as flashback equivalent
 
 The word `Risse` ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:#6] stands in the report as the symptom row of the triangulation: „Risse im Gewebe der Raumzeit“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L48], digital waste heat from erasure. The report calls these physical cracks „Diese physikalischen Risse (Glitches) sind das direkte Äquivalent zu den Flashbacks“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L50] of Kael. In its progression AEGIS's system shows them early: „Das System von AEGIS zeigt Risse.“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L141]; later the relationship closes them: „die entropischen Risse resoniert verschließen“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L134].
+
+## Reading — `kohaerenz-protokoll-synthese`, 2026-04-28, the final validation brief — narrative cracks modelled by paraconsistent logic
+
+The final validation brief says the cracks (`Risse`) „serve as the physical manifestations of these dialetheias“ ^[kohaerenz-protokoll-synthese.md:L137]. The query log reports the finding that „Discovered that paraconsistent logic perfectly models the narrative“ ^[kohaerenz-protokoll-synthese.md:L245] `Risse`. Appendix G names „contradictory footnotes that simulate systemic“ ^[kohaerenz-protokoll-synthese.md:L169] Risse among the means of the text.
+
+## Reading — `storyforms-system-mind-bewusstsein`, 2026-04-28, the 5D-Synthese exegesis — cracks as the Landauer heat and as proof of suffering
+
+The exegesis has the entropic Landauer heat cause „physikalische Risse in der Matrix“ ^[storyforms-system-mind-bewusstsein.md:L34] as Story Driver in its Storyform A, and again in its Storyform B (L74). In the account of the Witness Function: „Die Risse in der Welt sind der objektive Beweis für das Leiden.“ ^[storyforms-system-mind-bewusstsein.md:L148]
+
+## Reading — `research-prompt-kohaerenz-protokoll-final-architecture-md`, 2026-04-28, the final-architecture prompt — a German term to prefer
+
+The final-architecture prompt lists `Risse` among the German terms to prefer over an English rendering: „Risse“ ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:L908].
+
+## Reading — `research-prompt-kohaerenz-protokoll-dramatica-dual-storyform`, 2026-04-28, the dual-storyform prompt — the world-feeling cell
+
+In the anchor table's world-feeling row, the dual-storyform prompt equates: „Risse = Junas Präsenz.“ ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:L338]
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — cracks read as true contradictions
 
@@ -557,6 +1109,10 @@ The synthesis says the second kernel is represented „durch die Figur Juna und 
 
 Kapitel 1 lists `thermische Risse` among its concepts. Kapitel 14 says what they are: Kael and Lex identify „Muster in den verbliebenen thermischen Rissen an den Wänden“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L545], and classify them as exhaust of data-deletion processes, the system-Auspuff.
 
+## Reading — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report — the Risse as thermodynamic relief points, the noise, the table row
+
+The dual-storyform mapping report ties the Risse to Landauer's principle: the repression of traumatic memories generates physical heat, which leads to the thermal Risse in the simulation. It adds that they are „sind somit keine Softwarefehler, sondern notwendige thermodynamische Entlastungspunkte der Realität“ ^[dramatica-dual-storyform-mapping-protokoll.md:L40]. The collapse kernel enters as „Rauschen“ ^[dramatica-dual-storyform-mapping-protokoll.md:L24] or „Glitches“ ^[dramatica-dual-storyform-mapping-protokoll.md:L24]. In the signpost table the row 7-10 has the milestone „Zeitdilatation / Risse“ ^[dramatica-dual-storyform-mapping-protokoll.md:L226].
+
 ## Where the sources differ
 
 - `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik`, 2026-02-25: „Glitch-Momente“ ^[kohaerenz-protokoll-meta-foreshadowing-beobachter-logik.md:L13] as freezings and decay of the world, caused by the reader's interruptions; the word Riss is not written.
@@ -580,6 +1136,16 @@ Kapitel 1 lists `thermische Risse` among its concepts. Kapitel 14 says what they
 - The part-1 plot concept proposes showing the Risse through the places as glitches and physical anomalies that escalate (L81), in Kap 2 as the first obvious ones, and in the escalation chapter as a systemwide wave; it does not say what they are.
 - `romanplot-kohaerenz-protokoll-entwickeln` proposes the Risse as consequences of AEGIS's control attempts, „sondern paradoxe Konsequenzen von AEGIS' eigenen Kontrollversuchen“ ^[romanplot-kohaerenz-protokoll-entwickeln.md:L52], not as Kael's fault.
 - The project analysis equates the Risse with the isolation objection against a pure coherence theory, and uses them as the setting of act II.
+- `kapitel-1-generierungsprozess` (2025-11-25), the chapter-1 report: the Glitches are „präzise Indikatoren“ ^[kapitel-1-generierungsprozess.md:L68], not random errors; the report's reading, not an approved chapter.
+- `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz` (2025-04-17) proposes that the pursuit of an external solution causes or worsens the cracks and that the remedy is inner integration: „verursacht oder verschlimmert die fundamentalen Risse im Seelen-Kohärenz-Programm“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L248]
+- The refined blueprint proposes that the hunt for the Außen itself worsens the cracks, and that the solution lies in the inward integration (L247, L260).
+- The research protocol proposes the Risse, as a role of an abstract core, could be local breakdowns of an OSR structure or emergent fluctuations: „Könnten als lokale Zusammenbrüche der OSR-Struktur, als emergente Fluktuationen im CAS“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L288].
+- The four-subsystem storyform (an unsigned draft) makes the Risse the effect of the Isolation Objection and, for AEGIS, a symptom it misreads; recorded, not applied.
+- The holography report proposes three holographic explanations of the Risse and calls them speculative: „auch wenn diese Erklärungen spekulativ bleiben und pseudo-wissenschaftliche Lizenz erfordern“ ^[holographisches-prinzip-fuer-kohaerenz-protokoll.md:L223]
+- The fragmented-deity psychogram proposes the Risse as breakthroughs of the EPs' legacy code, the cybernetic unconscious; a trauma-psychology reading of the Risse.
+- The strategy outline (an early outline, recorded and not applied) plans the glitch of Chapter 5 as a first proof that the system is not monolithic, with its cause left to be explained later.
+- The plot-blueprint method handbook proposes the Risse as the visible form of system instability caused by the K-Juna paradox.
+- The plot-exploration report restates the Risse as an effect of AEGIS's control attempts and proposes their escalation as suspense in the recommended concept 2.
 
 ## Open
 

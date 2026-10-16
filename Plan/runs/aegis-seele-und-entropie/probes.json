@@ -1,0 +1,276 @@
+{
+  "document": "aegis-seele-und-entropie",
+  "drive_id": "15Vynp53rf5tt3D6pKMecHHzuOdu1BjyKyF9cjEiqKCQ",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 49,
+  "backslash_escapes": 32,
+  "typographic_marks": 155,
+  "ascii_quotes": 14,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemevolutionen",
+      "Systemfehler",
+      "Systemintegrität",
+      "Systemisches",
+      "Systemkrise",
+      "Systemmeldungen",
+      "Systems",
+      "Systemversagens"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstsein",
+      "Selbstdefinitionsvalidierung",
+      "Selbsterhaltung",
+      "Selbsterhaltungstrieb",
+      "Selbsterzeugung",
+      "Selbstgefühl",
+      "Selbstproduktion",
+      "Selbstverifikation",
+      "Selbstverständnisses"
+    ],
+    "exist": [
+      "EXISTENTIAL",
+      "Existenz",
+      "Existenzbewahrung",
+      "Existenzgrundlage",
+      "Existenzialismus",
+      "Existenzielle",
+      "Existenzieller"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentieren",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "seele": [
+      "Seele",
+      "Seelen",
+      "Seelenfragment",
+      "Seelenpaar",
+      "Seelenpaares",
+      "Seelenpartner"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmöglichkeiten",
+      "Internet",
+      "Interpretation"
+    ],
+    "mögli": [
+      "Mögliche",
+      "Möglicher",
+      "Möglicherweise",
+      "Möglichkeit",
+      "Möglichkeiten"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontologie",
+      "Ontologien",
+      "Ontologische",
+      "Ontologischer"
+    ],
+    "proto": [
+      "PROTOCOL",
+      "Protokoll",
+      "Protokolle",
+      "Protokolleinträge",
+      "Protokollsequenz"
+    ],
+    "unter": [
+      "Unterbau",
+      "Unterscheidung",
+      "Unterscheidungen",
+      "Unterschied",
+      "Untersuchung"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenfassend",
+      "Zusammenprall",
+      "Zusammenspiel",
+      "Zusammentreffen"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic",
+      "Autopoietisch",
+      "Autopoietische"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungskomplexität",
+      "Bedrohungsreaktion"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziationsmodelle"
+    ],
+    "eindä": [
+      "Eindämmen",
+      "Eindämmung",
+      "Eindämmungsstrategie",
+      "Eindämmungsstrategien"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergentes",
+      "Emergenz"
+    ],
+    "holis": [
+      "Holism",
+      "Holismus",
+      "Holistisch",
+      "Holistische"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationstheoretische",
+      "Informationsverlust"
+    ],
+    "integ": [
+      "INTEGRITY",
+      "Integration",
+      "Integrieren",
+      "Integrität"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzerhaltung",
+      "Kohärenzgrenzen",
+      "Kohärenzmetriken"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollieren"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisationale",
+      "Organisationen",
+      "Organizational"
+    ],
+    "parad": [
+      "Paradigmen",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomenologie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Verfeinerte"
+    ],
+    [
+      "Erst",
+      "Verstehen"
+    ],
+    [
+      "Erst",
+      "Verstehens"
+    ],
+    [
+      "Erst",
+      "Zerstörung"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Erst",
+      "Wasserstoff"
+    ],
+    [
+      "Erst",
+      "Understanding"
+    ],
+    [
+      "Erst",
+      "Übersteuerung"
+    ],
+    [
+      "Erst",
+      "Sauerstoffatome"
+    ],
+    [
+      "Erst",
+      "Wiederherstellung"
+    ],
+    [
+      "Erst",
+      "Selbstverständnisses"
+    ],
+    [
+      "Erst",
+      "Erinnerungswiederherstellung"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kapitel-39-das-mosaik-herz
+  lines                78  (frontmatter ends at 9)
+  body words           673
+  headings             2   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    27   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         407 chars
+

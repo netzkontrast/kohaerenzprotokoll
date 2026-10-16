@@ -1,0 +1,14 @@
+# entwicklungsstrategie-fuer-kohaerenz-protokoll
+  lines                286  (frontmatter ends at 9)
+  body words           5960
+  headings             24   bold-only lines 7
+  table rows           11   code fences 0
+  question marks       16
+  backslash escapes    118
+  typographic marks    84   ascii quotes 64
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    58
+  repeated labels      none
+  longest line         995 chars
+

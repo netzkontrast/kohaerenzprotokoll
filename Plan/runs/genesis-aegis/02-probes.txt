@@ -1,0 +1,17 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      24
+  ascii quotes           26
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coherent
+  reali    Realignment, Reality
+
+# substring pairs -- never one term, often merged by accident
+  Form < Former
+  Here < There
+  Here < Coherent
+  Here < Coherence
+  With < Within

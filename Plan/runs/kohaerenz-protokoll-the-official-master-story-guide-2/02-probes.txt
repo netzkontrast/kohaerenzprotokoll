@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      214
+  typographic marks      17
+  ascii quotes           110
+
+# inflection families -- one term, several surfaces
+  contr    Contradiction, Contradictory, Control
+  found    Found, Foundation, Foundational
+  funct    Function, Functional, Functions
+  integ    Integrated, Integration, Integrator
+  logic    Logic, Logical, Logics
+  under    Under, Understand, Understanding
+  alter    Alter, Alters
+  archi    Archipel, Architecture
+  avoid    Avoidant, Avoided
+  class    Classical, Classification
+  defin    Defines, Definition
+  diale    Dialectic, Dialetheical
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emerging
+  incon    Inconsistency, Inconsistent
+  kernw    Kernwelt, Kernwelten
+  multi    Multiplicity, Multisensory
+  opera    Operates, Operational
+  poten    Potential, Potentialis
+  proto    Protocol, Protokoll
+  respo    Response, Responsible
+  speci    Specialized, Specification
+  subje    Subjective, Subjectivity
+  trans    Transcendence, Transformation
+  ultim    Ultimate, Ultimately
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Each < Breach
+  Hold < Holds
+  Seek < Seeks
+  Alter < Alters
+  Found < Foundation
+  Found < Foundational
+  Logic < Logics
+  Logic < Logical
+  Logic < Ontological
+  Logic < Psychological
+  Order < Disorder
+  Under < Understand
+  Under < Understanding
+  Nature < Signature
+  Diction < Contradiction
+  Logical < Ontological
+  Logical < Psychological
+  Sensory < Multisensory
+  Function < Functions

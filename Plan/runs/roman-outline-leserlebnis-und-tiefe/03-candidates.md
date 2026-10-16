@@ -1,0 +1,116 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a strategy report about the title of a novel: it names almost nothing of a story world (no figure, place or event) and treats the title phrase as the novel's one world-term, reasoning about what a "Protokoll" could be. Everything else is borrowed concepts (philosophy, reader psychology, narrative craft) and a list of named tropes. The body is written twice (L11 to L229 and again from L229 onward) and breaks off mid-sentence at L385; L387 on is a numbered reference list. Real persons appear throughout as theorists; they are left off this list except where a concept carries the name. Chapter-level content: none seen (no Kap numbers, no named chapters).
+
+- Kohärenz Protokoll
+- Kohärenz
+- Protokoll
+- Inkohärenz
+- Leseerlebnis
+- Kernkonflikt
+- World-Building
+- Hard SF
+- Glitch
+- Heldenreise
+
+## lens
+
+- Systemtheorie
+- Kybernetik
+- Second-Order Cybernetics
+- Autopoiesis
+- Operational Closure
+- Second-Order Observation
+- Feedback Loops
+- Ontologie
+- ontologische Verpflichtung
+- Qualia
+- Emergenz
+- Komplexität
+- Selbstorganisation
+- Nicht-Aggregativität
+- Reduktionismus
+- Chaostheorie
+- Persönliche Identität
+- Relation R
+- Bündeltheorie
+- Noumena
+- Paradigmenwechsel
+- Induktionsproblem
+- Deontologie
+- Konsequentialismus
+- Tugendethik
+- Fürsorgeethik
+- Problem des Bösen
+- Prinzip des kleineren Übels
+- Bad Faith
+- Cosmic Horror
+- Cosmic Awe
+- kognitive Dissonanz
+- Free-Choice Paradigm
+- Effort-Justification Paradigm
+- Experience-Taking
+- Immersion
+- Pacing
+- Ticking Clock
+- Cliffhanger
+- Foreshadowing
+- Hypervigilanz
+- Dissoziation
+- Flashbacks
+- unzuverlässige Erzähler
+- Verantwortungslücke
+
+## tropes named
+
+- Tropes
+- Glitch in the Matrix
+- The Glitch Becomes a Feature
+- Cyberspace
+- Inside the Machine
+- Logic Bomb
+- Defeating the Logical Guardian
+- Thinking Outside the Box
+- Unreliable Narrator
+- Amnesia
+- Paranoia
+- Gaslighting
+- False Memory
+- Internal Conference Room
+- Multiple Personalities
+- Facing Your Demons
+- Healing Old Wounds
+- The Body Keeps the Score
+- Protector/Caregiver
+- Reluctant Hero
+- Tragic Villain
+- Rules Lawyer
+- Threshold Guardian
+- Origin Story
+- Getting the Team Together
+- The Plan in Motion
+- Storming the Castle
+- Final Battle
+- Hope Spot
+- Deus ex Machina
+- Hoist by His Own Petard
+- The Reveal
+- Aftermath/The World After
+- The Quiet After the Storm
+- A New Beginning
+- Sequel Hook
+- Bittersweet Ending
+- Open Ending
+- What Measure Is a Non-Human
+- Moralisches Dilemma
+- Schwere Wahl
+- Moral Dilemma
+- Hard Choice
+- Lesser Evil
+- Deal with the Devil
+- Time Loop
+- Redemption Arc
+- Productive Navel-Gazing
+- Crossing Threshold
+- Positiver Bogen
+- Negativer Bogen

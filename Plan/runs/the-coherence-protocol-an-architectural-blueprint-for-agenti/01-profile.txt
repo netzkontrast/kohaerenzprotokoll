@@ -1,0 +1,14 @@
+# the-coherence-protocol-an-architectural-blueprint-for-agenti
+  lines                98  (frontmatter ends at 9)
+  body words           3217
+  headings             16   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    4
+  typographic marks    8   ascii quotes 68
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    3
+  repeated labels      none
+  longest line         1878 chars
+

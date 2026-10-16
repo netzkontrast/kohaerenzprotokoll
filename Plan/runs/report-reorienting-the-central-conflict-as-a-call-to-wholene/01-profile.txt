@@ -1,0 +1,14 @@
+# report-reorienting-the-central-conflict-as-a-call-to-wholene
+  lines                64  (frontmatter ends at 0)
+  body words           1666
+  headings             8   bold-only lines 0
+  table rows           4   code fences 0
+  question marks       0
+  backslash escapes    12
+  typographic marks    8   ascii quotes 76
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         848 chars
+

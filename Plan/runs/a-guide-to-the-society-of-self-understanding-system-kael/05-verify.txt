@@ -1,0 +1,55 @@
+$ read.py --count "Core Motivation"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Core Motivation` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#11]
+$ read.py --count "Core Fear"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Core Fear` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#11]
+$ read.py --count "In Action"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`In Action` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#6]
+$ read.py --count "System Kael"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`System Kael` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#4]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`AEGIS` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#4]
+$ read.py --count "Dr. Thorne"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dr. Thorne` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#1]
+$ read.py --count "Rhizomatic Self"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rhizomatic Self` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#1]
+$ read.py --count "Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#1]
+$ read.py --count "Chapter 24"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Chapter 24` ^[a-guide-to-the-society-of-self-understanding-system-kael.md:#1]
+stance_marker_count = 11 + 11 + 6 = 28

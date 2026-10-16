@@ -1,0 +1,14 @@
+# narrative-kernvalidierung-kohaerenz-protokoll
+  lines                568  (frontmatter ends at 9)
+  body words           9526
+  headings             14   bold-only lines 7
+  table rows           10   code fences 0
+  question marks       45
+  backslash escapes    28
+  typographic marks    64   ascii quotes 38
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    16
+  repeated labels      Hard Sci-Fi x7, Konzeptuelle Vertiefung x7, Name x7, Systemisch (AEGIS) x7, Dramatische Frage (AEGIS) x6, Cosmic Horror x5, Dramatische Frage (Kael) x5, Persönlich (Kael) x5
+  longest line         5783 chars
+

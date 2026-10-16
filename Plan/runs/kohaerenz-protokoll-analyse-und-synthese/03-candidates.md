@@ -1,0 +1,98 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Read L1 to L421 in two ranges. The document is a German synthesis of a novel's narrative and ontological architecture; the body ends at the heading Referenzen (L340), after which come 80 numbered web references that are titles of cited works and are left out. The body cites its source by a glued footnote digit "1" after nearly every sentence. Words in the body that the document gives in a parenthesis after a German term (for example „Verstärkungslernen“ twice) are listed once. A few English glosses stand in parentheses beside German terms; they are listed as written. Quotation marks in the body mostly mark a coined name or phrase of the novel's world, not a citation of another text. The Dramatica table and the four framework tables are the document's own mapping of throughlines onto characters. Section headings carry names of the world (Das Gödel-Gambit, Das Gärtner-Axiom). Abbreviated or escaped forms: the logic symbol and the AEGIS protocol formula are damaged by escapes and are not listed.
+
+- Story Mind
+- Großes Argument
+- Grand Argument Story
+- Inäquität
+- erzwungenen Ordnung
+- emergenten Integration
+- AEGIS
+- Kael
+- Juna/V
+- Juna
+- Existenz-Matrizen
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Fixed Attitude
+- Moonshine-Link
+- Nichts Rauschen
+- PRESERVE SYSTEM EXISTENCE
+- Gödel-Gambit
+- Guardians
+- Lex
+- Nyx
+- Kiko
+- Selene
+- Pfad A
+- Pfad B
+- Trivialisierung
+- sanfte Explosion
+- Symbolischer Kern
+- Spezialisierte Module
+- Adaptive Schicht
+- externalisiertes Täterintrojekt
+- funktionale Multiplizität
+- Systemverantwortung
+- ineffiziente Schönheit
+- algorithmische Melancholie
+- Gärtners
+- Realitätserzeugung
+- Nicht-Intervention
+- Nicht-Handlung
+- Fragment
+- Der Integrierte Andere
+- Der anders Fragmentierte Andere
+- Der unbewusste Andere
+- Das Fundament
+- ontologischer Exploit
+- architektonische Hintertür
+- Anziehungsbecken
+- Episteme
+- Gnosis
+- polyphone Prosa
+- verantwortetes Offensein
+- Torwächter
+- Apotheose
+
+## lens
+- Dramatica
+- autopoietischen Systems
+- operativ geschlossen
+- ontologische Blindheit
+- Logik der Formalen Inkonsistenz
+- LFI
+- D2
+- Specification Gaming
+- Perverse Instantiation
+- Fixes That Fail
+- NP-schweres Problem
+- Gödel-Satz
+- Dialetheismus
+- parakonsistenten Logik
+- diskursiver Logik
+- Verstärkungslernen
+- Outside Context Problem
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- Anscheinend Normale Anteile
+- ANPs
+- Emotionale Anteile
+- EPs
+- Rhizom
+- Wu Wei
+- Quanten-Nichtlokalität
+- Prehension
+- seltsamen Attraktors
+- Integrierte Informationstheorie
+- Heldinnenreise
+- Heldenreise
+- zyklische, nicht-lineare Struktur
+- polyphonen Romans
+- ergodischen Literatur
+- Metafiktion
+- Kishōtenketsu-Struktur
+- kognitiver Dissonanz

@@ -1,0 +1,140 @@
+{
+  "document": "kohaerenz-protokoll-transzendenz-vektoren",
+  "drive_id": "1X251_F5DoqNXj7ypzJpSJ9izuRLGaxKNVqy9hCl8MOw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 87,
+    "decided_by_lookup": 60,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        172,
+        195,
+        215,
+        225,
+        228,
+        234,
+        235,
+        236,
+        237
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system whose paradox is explored in conditional failure mechanisms and four endgame scenarios"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        69,
+        128,
+        136,
+        146,
+        156,
+        166,
+        172
+      ],
+      "attribution": "",
+      "note": "four hypotheses on Juna/V, offered side by side"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        47,
+        95,
+        241,
+        249,
+        260,
+        270
+      ],
+      "attribution": "",
+      "note": "Kael's contact with the Fundament and the Leere, and three transcendent states of System Kael"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        241,
+        275
+      ],
+      "attribution": "",
+      "note": "multiplicity as a potential and as a catalyst, in the conditional"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        36,
+        136
+      ],
+      "attribution": "",
+      "note": "glitches inside AEGIS proposed as leakage from the Fundament"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 74,
+      "decision": "occurrence",
+      "why": "a borrowed emergence mechanism of Fundament and Leere, not the page's emergence"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "decision": "reading",
+      "why": "the report's four Juna/V hypotheses, read on the page from L128–L172"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project title in the report's heading"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "funktionale Multiplizität",
+      "line": 241,
+      "decision": "reading",
+      "why": "System Kael's functional multiplicity as a potential, read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "AEGIS's simulation in general, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

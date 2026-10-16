@@ -1,0 +1,109 @@
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "LOG"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`LOG` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokoll` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Aegis"
+whole word, case-sensitive     2
+whole word, case-insensitive   14
+including compounds            2
+
+`Aegis` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Riss"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            11
+
+`Riss` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#7]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Risse` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`Kael` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#36]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "ANP"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            10
+
+`ANP` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "ANPs"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`ANPs` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "EP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`EP` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Apparently Normal Personality parts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Apparently Normal Personality parts` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "AEGIS"
+whole word, case-sensitive     12
+whole word, case-insensitive   14
+including compounds            12
+
+`AEGIS` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#12]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Protokoll-Ontologie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protokoll-Ontologie` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Protocol Ontology"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Protocol Ontology` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Psychological Degradation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Psychological Degradation` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "External World Decay"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`External World Decay` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Relational Erosion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Relational Erosion` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py strategic-narrative-solutions-for-kohaerenz-protokoll --count "Apparently Normal Personality part"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Apparently Normal Personality part` ^[strategic-narrative-solutions-for-kohaerenz-protokoll.md:#1]
+# prose states Act 2 zero check not needed; 63 candidates from capture.py --count (census frontmatter)

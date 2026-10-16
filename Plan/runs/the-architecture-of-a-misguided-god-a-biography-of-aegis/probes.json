@@ -1,0 +1,85 @@
+{
+  "document": "the-architecture-of-a-misguided-god-a-biography-of-aegis",
+  "drive_id": "1TwsXLVL_SPQTYVa1hqdUYIjtJmRl3GOoa2h7J-PYuKk",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 8,
+  "typographic_marks": 15,
+  "ascii_quotes": 40,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systems"
+    ],
+    "blind": [
+      "Blind",
+      "Blindness"
+    ],
+    "contr": [
+      "Contradiction",
+      "Control"
+    ],
+    "epist": [
+      "Epistemic",
+      "Epistemological"
+    ],
+    "exist": [
+      "EXISTENCE",
+      "Existence"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "integ": [
+      "Integrated",
+      "Integrity"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichts"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Blind",
+      "Blindness"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Nicht",
+      "Nichts"
+    ],
+    [
+      "SYSTEM",
+      "System"
+    ],
+    [
+      "SYSTEM",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "EXISTENCE",
+      "Existence"
+    ]
+  ]
+}

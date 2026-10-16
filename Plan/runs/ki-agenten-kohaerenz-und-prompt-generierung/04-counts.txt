@@ -1,0 +1,83 @@
+# counts for 60 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                8 word    13 in   [13, 24, 83, 87, 197, 201]
+                                    5      as Kohärenz-Protokolls
+  Kohärenz-Protokolls               5 word     5 in   [201, 209, 275, 293, 337]
+  Kohärenz-Lücke                    2 word     2 in   [22, 77]
+  Meta-Prompt                       8 word    22 in   [24, 91, 95, 163, 175, 191]  <-- substring
+                                    7      as Meta-Prompting
+                                    6      as Meta-Prompts
+                                    1      as Meta-Promptings
+                                    1      as meta-prompting-llm-self-optimization
+  Meta-Prompts                      6 word     6 in   [197, 201, 225, 237, 267, 275]
+  kognitive Verfassung              1 word     1 in   [24]
+  kognitiven Verfassung             2 word     2 in   [233, 303]
+  Mandat zur Selbst-Evaluation      1 word     1 in   [245]
+  Mandat zur Prompt-Generierung     2 word     2 in   [246, 303]
+  Kognitive Direktive               1 word     1 in   [244]
+  Orientierung am Anker-Dokument    1 word     1 in   [217]
+  Anker-Dokument                    1 word     1 in   [217]
+  Navigation über MOCs              2 word     2 in   [218, 219]
+  Fokussierung auf atomare Notizen    1 word     1 in   [219]
+  Kontext-Kapselung                 1 word     1 in   [220]
+  Selbst-Aktualisierung             1 word     1 in   [221]
+  Selbst-Evaluation                 6 word     7 in   [24, 197, 237, 245, 246, 267]
+                                    1      as Selbst-Evaluations-
+  Maps of Content                   4 word     4 in   [137, 149, 334, 357]
+  MOC der MOCs                      2 word     2 in   [159, 217]
+  MOC\_Tender                       1 word     3 in   [197, 221, 285]  <-- substring
+                                    1      as MOC\_Tender-Agent
+                                    1      as MOC\_Tender-Agenten
+  MOC\_Tender-Agent                 1 word     2 in   [197, 285]
+                                    1      as MOC\_Tender-Agenten
+  \_INDEX.md                        2 word     3 in   [159, 217, 218]
+                                    1      as \_INDEX.md-Datei
+  Navigations-Kortex                1 word     1 in   [137]
+  Hierarchische Abstraktion         1 word     1 in   [153]
+  Atomizität                        1 word     1 in   [131]
+  Emergente Struktur                1 word     1 in   [133]
+  Kontextfenster                    6 word    17 in   [22, 34, 38, 42, 44, 54]  <-- substring
+                                    8      as Kontextfensters
+                                    1      as Kontextfenstern
+                                    1      as Kontextfensterproblem
+  Kontextamnesie                    2 word     2 in   [48, 111]
+  Lost-in-the-Middle                1 word     1 in   [56]
+  Working Memory                    3 word     3 in   [22, 38, 42]
+  Knowledge Graph                   5 word    10 in   [115, 121, 129, 141, 197, 321]
+  KG-RAG                            1 word     1 in   [121]
+  Tool-Server                       1 word     1 in   [213]
+  Exekutivsystem                    1 word     1 in   [87]
+  Wissens-Kultivator                1 word     1 in   [279]
+  digitaler Gärtner                 1 word     1 in   [283]
+  Gärtner                           3 word     3 in   [197, 221, 283]
+  Autonomie der Methode             1 word     1 in   [301]
+  Agent-on-the-Loop                 1 word     1 in   [303]
+  Human-in-the-Loop                 1 word     1 in   [303]
+  Agenten-Psychologie               2 word     2 in   [336]
+  Multi-Agenten-Architektur         2 word     2 in   [248, 252]
+  create\_note                      0 word     1 in   [221]
+                                    1      as create\_note-Tool
+  update\_note\_links               0 word     1 in   [221]
+                                    1      as update\_note\_links-Tool
+  update\_note\_status              1 word     1 in   [221]
+  Prioritizer\\\_Agent              1 word     1 in   [263]
+  Analyzer\\\_Agent                 1 word     1 in   [264]
+  Synthesizer\\\_Agent              1 word     1 in   [265]
+  Generator\\\_Integrator\\\_Agent    1 word     1 in   [266]
+  Orchestrator / Main\\\_Agent      1 word     1 in   [267]
+  Framework für Kritisches Denken    2 word     2 in   [244, 264]
+  Wert-Aufwand-Matrix               1 word     1 in   [263]
+  Konstitutionellen KI              2 word     2 in   [24, 175]
+  Konstitutionelle KI               1 word     1 in   [163]
+  Meta-Prompting                    7 word     8 in   [24, 95, 163, 191, 195, 246]
+                                    1      as Meta-Promptings
+                                    1      as meta-prompting-llm-self-optimization
+                                    1      as meta-prompting-a-practical-guide-to-optimising-prompts-automatically-c0a071f4b664
+  Zettelkasten-Methode              2 word     2 in   [125, 129]
+  Retrieval-Augmented Generation    3 word     3 in   [65, 119, 352]
+  Context Engineering               2 word     2 in   [220, 363]
+  Prompt Engineering                1 word     1 in   [303]
+  RLAIF                             2 word     4 in   [245, 365]

@@ -1,0 +1,14 @@
+# aegis-philosophische-analyse-und-manifest-docx
+  lines                144  (frontmatter ends at 9)
+  body words           4619
+  headings             1   bold-only lines 7
+  table rows           9   code fences 0
+  question marks       19
+  backslash escapes    0
+  typographic marks    7   ascii quotes 160
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    22
+  repeated labels      Ausschlüsse x7, Interne Konsistenz/Probleme x7, Logische Konsequenzen x7, Ontologischer/Epistemologischer Anspruch x7, Tiefere Bedeutung x7, Ziel x4, Vorgehen x3
+  longest line         1484 chars
+

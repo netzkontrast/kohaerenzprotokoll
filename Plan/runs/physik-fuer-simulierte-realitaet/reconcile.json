@@ -1,0 +1,149 @@
+{
+  "document": "physik-fuer-simulierte-realitaet",
+  "drive_id": "1rtVq7LDKPrpym9eFBDVe6PVrG-5vFKOUcpkujeaaBqg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-434/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a physics research report naming AEGIS a Wächter-KI; physics terms carrying a person's name were left off the list",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 59,
+    "decided_by_lookup": 41,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A physics research report weighing concepts for the novel's simulation: its new surfaces are the M-Struktur, its joined labels, the Narrative Verbindung and the borrowed physics concepts; what it proposes for AEGIS, Kael, the Kernwelten, the Potentialmeer, the Risse, the Überwelt and emergence went on existing pages, and its joined „Potentialmeer/Überwelt“ on Q6.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        27,
+        47,
+        91,
+        348
+      ],
+      "attribution": "",
+      "note": "AEGIS as the steering instance that physical clues might point to"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        332,
+        346,
+        348
+      ],
+      "attribution": "",
+      "note": "emergence as a physics concept, tied to AEGIS and Kael in the worldbuilding lines"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        19,
+        79,
+        96,
+        131,
+        346,
+        400
+      ],
+      "attribution": "",
+      "note": "Kael as the inhabitant who might read anomalies as clues"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        29,
+        47,
+        91,
+        100,
+        104,
+        127
+      ],
+      "attribution": "",
+      "note": "Kernwelten as stabilised regions, possibly parallel or projected"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        28,
+        83,
+        96,
+        109,
+        348
+      ],
+      "attribution": "",
+      "note": "Potentialmeer written together with Überwelt, as outer world, multiverse or boundary"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        30,
+        47,
+        63,
+        79,
+        400
+      ],
+      "attribution": "",
+      "note": "Risse as instabilities, leaks and local failures"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        11,
+        28
+      ],
+      "attribution": "",
+      "note": "Überwelt in the title and in one glossary entry with Potentialmeer"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q6"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS/Überwelt`, `AEGIS/Potentialmeer` and `Potentialmeer/Überwelt` the report's joined labels, read on aegis, potentialmeer and ueberwelt; `Potentialmeer-Multiversum` read on potentialmeer; `Entropie-Management`, `Dekohärenz`, `Verschränkung`, `Simulationshypothese` and `Simulationsargument` borrowed concepts; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 102,
+      "decision": "occurrence",
+      "why": "entropy in a cited source's physics sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 127,
+      "decision": "occurrence",
+      "why": "an underlying level of reality in the general sense"
+    }
+  ],
+  "not_promoted": [
+    "M-Struktur, K-J Verbindung, AEGIS/Überwelt, AEGIS/Potentialmeer, Potentialmeer-Multiversum, Narrative Verbindung, and the borrowed physics concepts"
+  ],
+  "internal_tension": "it writes the Potentialmeer and the Überwelt as one outer world (L28) and asks whether the Potentialmeer is a multiverse (L96); its section 6.3 answers questions of a commission not in the file (L352) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

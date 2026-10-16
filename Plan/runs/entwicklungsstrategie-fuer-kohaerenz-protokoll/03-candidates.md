@@ -1,0 +1,62 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+A guide to using a writing software for the novel; the novel's own world appears in a mapping table (L84-L94) and in sample prompts (L131-L153). Software features are listed as the document's own terms where it heads a table column or bolds them. The subscripted name of the first core world is written with a subscript digit that the line search does not find, so it is left off the list; the other three core-world letters are listed as written.
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Juna
+- Verbindung V
+- Moonshine-Link
+- Juna/V
+- Paradoxon X
+- Cache Kohärenz
+- Kernwelten
+- Kernwelt
+- Kernwelt McL
+- Kernwelt B
+- Kernwelt Ly
+- McL
+- Ly
+- Conway-Gruppe
+- Baby-Monster
+- Baby-Monster-Gruppe
+- sporadische Gruppen
+- IFS-Anteile
+- IFS-Analogie
+- Logiker-Manager-Anteil
+- Manager
+- Logiker
+- Fragmentierung
+- Kernaxiome
+- Autopoiesis
+- Kernkonflikt
+- Systemkohärenz
+- Dreiteilige Narrative Struktur
+- Heldinnenreise
+- Heldenreise
+- Zyklisch
+- Holismus
+- Reduktionismus
+- Quantenfluktuation
+- Codex
+- Series Codex
+- Global Entry
+- Nested References
+- Relationships
+- Matrix View
+- Scene Labels
+- Tags
+- Snippets
+- Chat AI
+- Tinker Chat Assistants
+- Scene Beat Completion
+- Prompt Chaining
+- Fine-Tuning
+- Bring Your Own Key
+- Mapping
+- Feedback-Schleife
+- Codex-KI-Symbiose
+- dialektischen Exploration
+- Single Source of Truth
+

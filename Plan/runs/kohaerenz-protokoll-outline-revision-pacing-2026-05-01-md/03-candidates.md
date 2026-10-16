@@ -1,0 +1,54 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The memo is 32 lines of outline revision with escaped markdown (bold written as backslash-asterisk pairs). Chapters are named as `Kap N`, once as `Kapitel 13`. L19 is a correction note dated 2026-05-01; L31 to L32 is a status line. Terms are listed as the lines write them; the digit-stripped view of `--find` hid the chapter numbers, so the chapter candidates come from the raw lines.
+
+- Kael
+- Alter
+- Juna
+- AEGIS
+- Guardians
+- System-Telemetrie
+- Storyform A POV
+- Storyform B POV
+- Storyforms
+- POV-Alternation pro Kapitel
+- Dual-POV
+- Multiplizitäts-Schleier
+- Modi
+- Echos
+- Drifts
+- Lücken
+- Fragment
+- ANP
+- EP
+- TSDP
+- CFP
+- Juna seeding
+- Bilanz-Anomalie
+- anomale Temperatur
+- langsam fallender Staub
+- Telefon-Stille
+- Resonanzbruch
+- Schrein
+- Funktionale Multiplizität
+- Mosaik-Ahnung
+- taktische Polyphonie
+- praktizierter Dialetheismus
+- Garten
+- Witness-Funktion
+- Alter-Surface-Timeline
+- Juna-Seeding-Layer
+- Pacing-Profil
+- Foreshadowing-Architektur
+- Akt I
+- Akt III
+- Kap 1
+- Kap 2
+- Kap 3
+- Kap 7
+- Kap 11
+- Kap 13
+- Kap 23
+- Kap 27
+- Kap 33
+- Kapitel 13

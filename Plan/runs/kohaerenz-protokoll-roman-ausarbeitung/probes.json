@@ -1,0 +1,341 @@
+{
+  "document": "kohaerenz-protokoll-roman-ausarbeitung",
+  "drive_id": "1hkWLLasA1gmB59SEFtYoQFTyUMA4g8Pk4rbfTfwJ7IY",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 308,
+  "backslash_escapes": 107,
+  "typographic_marks": 100,
+  "ascii_quotes": 134,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstaspekte",
+      "Selbstbewusstsein",
+      "Selbstbezügliche",
+      "Selbstbezüglichkeit",
+      "Selbsterhaltung",
+      "Selbsterhaltungsprozesse",
+      "Selbsterhaltungstrieb",
+      "Selbsterkenntnis",
+      "Selbstproduktion",
+      "Selbstverletzung",
+      "Selbstvertrauen",
+      "Selbstwahrnehmung",
+      "Selbstähnlichkeit",
+      "Selbstüberwachung"
+    ],
+    "syste": [
+      "System",
+      "Systematic",
+      "Systeme",
+      "Systemen",
+      "Systemic",
+      "Systemics",
+      "Systemintegrität",
+      "Systemisch",
+      "Systemische",
+      "Systemproblem",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemverhalten",
+      "Systemzustände"
+    ],
+    "erzäh": [
+      "Erzählen",
+      "Erzähler",
+      "Erzählerperspektive",
+      "Erzählerreflexionen",
+      "Erzählers",
+      "Erzählerstimme",
+      "Erzählperspektive",
+      "Erzählstil",
+      "Erzähltempos",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "infor": [
+      "Informatics",
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informations",
+      "Informationsfluss",
+      "Informationsgewinnung",
+      "Informationsknoten",
+      "Informationsverlust",
+      "Informationszurückhaltung",
+      "Informationsüberflutung"
+    ],
+    "inter": [
+      "INTERNAL",
+      "Interaktion",
+      "Interkonnektivität",
+      "Internal",
+      "InternalFamilySystems",
+      "International",
+      "Internet",
+      "Interplay",
+      "Interpretation",
+      "Interpretationsrichtung",
+      "Interventionen"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatry",
+      "Psycho",
+      "Psycholog",
+      "Psychological",
+      "Psychologisch",
+      "Psychologische",
+      "Psychology",
+      "Psychotherapy",
+      "Psychothriller"
+    ],
+    "chara": [
+      "Character",
+      "Characteristics",
+      "Characters",
+      "Charakter",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakterinteraktion",
+      "Charakterisierung",
+      "Charakterreise"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontraste",
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollstrategien",
+      "Kontrollthemen",
+      "Kontrollverlust",
+      "Kontrollverlusten",
+      "Kontrollverlusts"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitätsbildung",
+      "Identitätsgefühl",
+      "Identitätsmetapher",
+      "Identitätsstörung",
+      "Identitätsverlust"
+    ],
+    "integ": [
+      "Integrating",
+      "Integration",
+      "Integrationsprozess",
+      "Integrationstechniken",
+      "Integrationsversuche",
+      "Integrierter",
+      "Integrity",
+      "Integrität"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumafolgen",
+      "Traumafragmente",
+      "Traumaheilung",
+      "Traumas",
+      "Traumatic",
+      "Traumaverarbeitung"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmente",
+      "Fragmented",
+      "Fragmenten",
+      "Fragmentierte",
+      "Fragmentierter",
+      "Fragmentierung"
+    ],
+    "symme": [
+      "Symmetrical",
+      "Symmetrie",
+      "Symmetrieaspekt",
+      "Symmetrien",
+      "Symmetrieprinzipien",
+      "Symmetries",
+      "Symmetry"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenblocks",
+      "Datenpunkt",
+      "Datenpunkte",
+      "Datensammlung"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehleranalyse",
+      "Fehlerhafte",
+      "Fehlern",
+      "Fehlerprotokolle",
+      "Fehlerraten"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian",
+      "Gödels",
+      "Gödelsche",
+      "Gödelschen",
+      "Gödelsätze"
+    ],
+    "konze": [
+      "Konzentrations",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle",
+      "Konzepts"
+    ],
+    "narra": [
+      "Narration",
+      "Narrative",
+      "Narrativen",
+      "Narratives",
+      "Narratology",
+      "Narrators"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozesses",
+      "Prozesshaftigkeit",
+      "Prozessor",
+      "Prozessschleifen"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysemethode",
+      "Analysen",
+      "Analysis",
+      "Analytischer"
+    ],
+    "archi": [
+      "Architect",
+      "Architects",
+      "Architecture",
+      "Architektur",
+      "Archives"
+    ],
+    "atmos": [
+      "Atmosphere",
+      "Atmosphäre",
+      "Atmosphären",
+      "Atmosphärische",
+      "Atmosphärisches"
+    ],
+    "emoti": [
+      "Emotional",
+      "Emotionale",
+      "Emotionaler",
+      "Emotionen",
+      "Emotions"
+    ],
+    "exper": [
+      "Experience",
+      "Experiment",
+      "Experimental",
+      "Experimentation",
+      "Expert"
+    ],
+    "persp": [
+      "Perspective",
+      "Perspectives",
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Arch",
+      "Archetyp"
+    ],
+    [
+      "Arch",
+      "Archives"
+    ],
+    [
+      "Arch",
+      "Research"
+    ],
+    [
+      "Arch",
+      "Architect"
+    ],
+    [
+      "Arch",
+      "Archetypes"
+    ],
+    [
+      "Arch",
+      "Architects"
+    ],
+    [
+      "Arch",
+      "Architektur"
+    ],
+    [
+      "Arch",
+      "PhilArchive"
+    ],
+    [
+      "Arch",
+      "Architecture"
+    ],
+    [
+      "Arch",
+      "ResearchGate"
+    ],
+    [
+      "Arch",
+      "Computerarchitektur"
+    ],
+    [
+      "Arts",
+      "Parts"
+    ],
+    [
+      "Arts",
+      "LitCharts"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Bildschirm"
+    ],
+    [
+      "Bild",
+      "Identitätsbildung"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Bookey"
+    ],
+    [
+      "Book",
+      "Bookish"
+    ]
+  ]
+}

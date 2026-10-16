@@ -1,0 +1,168 @@
+{
+  "document": "dramatica-storyform-validierung-und-synthese",
+  "drive_id": "1WAP1wL6iqfNMmGyUoRC4vw3-V2Ep3jmPNRZu47o3nCQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 74,
+    "decided_by_lookup": 59,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        58,
+        169,
+        185,
+        304
+      ],
+      "attribution": "",
+      "note": "AEGIS as the report's synthesis defines it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        112,
+        185
+      ],
+      "attribution": "",
+      "note": "Alters in the report's two descriptions"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        136,
+        201
+      ],
+      "attribution": "",
+      "note": "Kael as living Gödel sentence, judged a metaphor"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        65,
+        249,
+        374
+      ],
+      "attribution": "",
+      "note": "Juna/V as Impact Character, and as outsider in the synthesis"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        58,
+        136,
+        201,
+        209
+      ],
+      "attribution": "",
+      "note": "Kael in the report's two storyform descriptions and its synthesis"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        309,
+        310,
+        311,
+        312
+      ],
+      "attribution": "",
+      "note": "Kernwelten tied to domains in the synthesis"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        66,
+        273,
+        377
+      ],
+      "attribution": "",
+      "note": "The relationship story as Moonshine-Link, Physics"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        225
+      ],
+      "attribution": "",
+      "note": "The truth of Multiplizität against the lie of singularity"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        209
+      ],
+      "attribution": "",
+      "note": "TSDP tied to Kael's trauma reaction"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        65,
+        169
+      ],
+      "attribution": "",
+      "note": "Juna outside the Simulation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 201,
+      "decision": "occurrence",
+      "why": "unpredictable humanity, the general sense"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 225,
+      "decision": "reading",
+      "why": "the truth of multiplicity, read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 65,
+      "decision": "reading",
+      "why": "Juna outside the simulation, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

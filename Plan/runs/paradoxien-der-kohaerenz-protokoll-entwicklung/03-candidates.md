@@ -1,0 +1,106 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a research report in six stages plus an appendix that applies a cluster of philosophical, logical and physical paradoxes to the novel's world. Names of the novel's world come first, then the document's own terms, then the borrowed paradoxes and theories under the lens heading. The report cites its sources as bracketed labels such as Genesis with a section number and Erweiterter Kontext with a number; those labels are the document's citations and are not listed. The reference list at the end is bare URLs and is not read for terms. Kael is named once as a person with a clinical label inside the fiction; only the fictional label DID is listed.
+
+## world
+
+- AEGIS
+- Kael
+- Julia
+- K-J-Einheit
+- Kael-Julia-Einheit
+- K-J-Verbindung
+- K-J-Echos
+- Julia/K-J-Verbindung
+- Kael/Anteile
+- Kael's Anteile
+- Anteile
+- Alters
+- Potentialmeer
+- Kohärenz-Inseln
+- Überwelt
+- Kernwelten
+- Kern-Welt
+- Guardians
+- Integrity Guardian
+- Kern-Direktive
+- OBP
+- Ontological Boundary Protocol
+- RIVE
+- Recursive Integrity & Validation Engine
+- PMAS
+- SARM
+- Cognitive Firewall
+- Entropic Gatekeeper
+- Entropie-Katastrophe
+- Gleichzeitigkeit
+- Externe Ebene
+- Externen Ebene
+- AEGIS Core Logic
+- v1.5
+- DID
+- Risse
+- Kohärenz Protokoll
+- Kohärenz Protokollen
+- Kohärente Protokoll
+- Kohärenz-Maximierung
+- Sein durch Abgrenzung
+- Transzendenz durch Vereinigung
+- Plot-Twist
+- Kern-Plot-Twist
+- Kern-Paradoxon-Cluster
+- Kern-Paradoxon
+- Russell/Gödel-Grenze
+- Sorites/Mereologie
+- Maxwell/Landauer
+- Kontrollparadox
+- Paradox der verbundenen Einsamkeit
+- Erweiterter Kontext
+- Erweiterten Kontext
+
+## lens
+
+- Gödels Unvollständigkeitssätze
+- Russell's Antinomie
+- Lügner-Paradox
+- Curry's Paradox
+- Berry-Paradox
+- Grelling-Nelson-Paradox
+- Halting Problem
+- Maxwells Dämon
+- Landauer-Prinzip
+- Maxwells Dämon / Landauer-Prinzip
+- Deterministisches Chaos
+- Loschmidts Paradox
+- Gibbs-Paradox
+- Informationsparadoxon Schwarzer Löcher
+- Zenons Paradoxien
+- Sorites-Paradox
+- Mereologie
+- Special Composition Question
+- Mereologie / Special Composition Question
+- Parmenides' Diktum
+- McTaggarts Paradox
+- Beobachtereffekt
+- Heisenbergsche Unschärferelation
+- Double Bind
+- Paradoxien der Kontrolle
+- Paradox der Kontrolle
+- Ikarus-Paradox
+- Abilene-Paradox
+- System Justification Theory Paradox
+- Theseus' Schiff
+- Theseus' Schiff / Identitätsparadoxien
+- Teletransporter-Paradox
+- Split-Brain-Paradox
+- Chinesisches Zimmer
+- Hard Problem of Consciousness
+- Qualia
+- Ashby's Law
+- Ashby's Law of Requisite Variety
+- Autopoiesis
+- Kybernetik
+- Komplexe Adaptive Systeme
+- Kolmogorov-Komplexität
+- Informationsthermodynamik
+- Paradox of the Court

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "logos",
+ "title": "LogOS",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Verwaltung logischer Konsistenz",
+  "Grenze zwischen Wahrheit und erlaubter Aussage",
+  "Eingriff in alltägliche Routinen",
+  "Verwechslung von Widerspruch und Gefahr",
+  "Eigenständigkeit eines Systemwächters"
+ ],
+ "basis": {
+  "logos": {
+   "title": "LogOS",
+   "path": "Wiki/candidates/logos.md",
+   "hash": "d667c8f76ae17d3ab2c925db860c87bf6e0666f1e7400b49b0bdfc8f8fbd9a0e"
+  },
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  },
+  "lex": {
+   "title": "Lex",
+   "path": "Wiki/candidates/lex.md",
+   "hash": "e0735fa95ac7b6e928b025c52f36ddfee357107824ddd781bda09d6067e9e0a5"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-logos-001",
+   "question": "Welche wahre Aussage müsste LogOS verbieten, wenn er Konsistenz mit Systemintegrität verwechselt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-002",
+   "question": "Welche Lesarten auf der Seite zu LogOS stützen oder begrenzen „Verwaltung logischer Konsistenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-003",
+   "question": "Welcher Grenzfall würde bei LogOS die Annahmen über „Verwaltung logischer Konsistenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-004",
+   "question": "Wer könnte innerhalb des Romans bei LogOS etwas über „Verwaltung logischer Konsistenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-005",
+   "question": "Welche konkrete Entscheidung könnte „Verwaltung logischer Konsistenz“ bei LogOS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwaltung logischer Konsistenz“ bei LogOS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-007",
+   "question": "Wie lässt sich „Verwaltung logischer Konsistenz“ bei LogOS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-008",
+   "question": "Welche Alternativen sollte der Autor bei LogOS für „Verwaltung logischer Konsistenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-009",
+   "question": "Was bedeutet bei LogOS der Themenpunkt „Grenze zwischen Wahrheit und erlaubter Aussage“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-010",
+   "question": "Welche Lesarten auf der Seite zu LogOS stützen oder begrenzen „Grenze zwischen Wahrheit und erlaubter Aussage“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-011",
+   "question": "Welcher Grenzfall würde bei LogOS die Annahmen über „Grenze zwischen Wahrheit und erlaubter Aussage“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-012",
+   "question": "Wer könnte innerhalb des Romans bei LogOS etwas über „Grenze zwischen Wahrheit und erlaubter Aussage“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Wahrheit und erlaubter Aussage“ bei LogOS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Wahrheit und erlaubter Aussage“ bei LogOS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-015",
+   "question": "Wie lässt sich „Grenze zwischen Wahrheit und erlaubter Aussage“ bei LogOS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-016",
+   "question": "Welche Alternativen sollte der Autor bei LogOS für „Grenze zwischen Wahrheit und erlaubter Aussage“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-017",
+   "question": "Was bedeutet bei LogOS der Themenpunkt „Eingriff in alltägliche Routinen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-018",
+   "question": "Welche Lesarten auf der Seite zu LogOS stützen oder begrenzen „Eingriff in alltägliche Routinen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-019",
+   "question": "Welcher Grenzfall würde bei LogOS die Annahmen über „Eingriff in alltägliche Routinen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-020",
+   "question": "Wer könnte innerhalb des Romans bei LogOS etwas über „Eingriff in alltägliche Routinen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-021",
+   "question": "Welche konkrete Entscheidung könnte „Eingriff in alltägliche Routinen“ bei LogOS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eingriff in alltägliche Routinen“ bei LogOS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-023",
+   "question": "Wie lässt sich „Eingriff in alltägliche Routinen“ bei LogOS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-024",
+   "question": "Welche Alternativen sollte der Autor bei LogOS für „Eingriff in alltägliche Routinen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-025",
+   "question": "Was bedeutet bei LogOS der Themenpunkt „Verwechslung von Widerspruch und Gefahr“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-026",
+   "question": "Welche Lesarten auf der Seite zu LogOS stützen oder begrenzen „Verwechslung von Widerspruch und Gefahr“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-027",
+   "question": "Welcher Grenzfall würde bei LogOS die Annahmen über „Verwechslung von Widerspruch und Gefahr“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-028",
+   "question": "Wer könnte innerhalb des Romans bei LogOS etwas über „Verwechslung von Widerspruch und Gefahr“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-029",
+   "question": "Welche konkrete Entscheidung könnte „Verwechslung von Widerspruch und Gefahr“ bei LogOS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwechslung von Widerspruch und Gefahr“ bei LogOS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-031",
+   "question": "Wie lässt sich „Verwechslung von Widerspruch und Gefahr“ bei LogOS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-032",
+   "question": "Welche Alternativen sollte der Autor bei LogOS für „Verwechslung von Widerspruch und Gefahr“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-033",
+   "question": "Was bedeutet bei LogOS der Themenpunkt „Eigenständigkeit eines Systemwächters“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-034",
+   "question": "Welche Lesarten auf der Seite zu LogOS stützen oder begrenzen „Eigenständigkeit eines Systemwächters“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-035",
+   "question": "Welcher Grenzfall würde bei LogOS die Annahmen über „Eigenständigkeit eines Systemwächters“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-036",
+   "question": "Wer könnte innerhalb des Romans bei LogOS etwas über „Eigenständigkeit eines Systemwächters“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-037",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit eines Systemwächters“ bei LogOS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit eines Systemwächters“ bei LogOS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-039",
+   "question": "Wie lässt sich „Eigenständigkeit eines Systemwächters“ bei LogOS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-040",
+   "question": "Welche Alternativen sollte der Autor bei LogOS für „Eigenständigkeit eines Systemwächters“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-logos-041",
+   "question": "Wo unterscheiden sich LogOS und Konstrukt-Stadt, wenn man sie unter dem Gesichtspunkt „Verwaltung logischer Konsistenz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-042",
+   "question": "Welche Quelle verbindet LogOS mit Konstrukt-Stadt in Bezug auf „Verwaltung logischer Konsistenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-043",
+   "question": "Welche Grenzen aus der Seite zu Konstrukt-Stadt müsste eine Deutung von LogOS unter „Verwaltung logischer Konsistenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-044",
+   "question": "Wie könnte sich das Wissen über LogOS vom Wissen über Konstrukt-Stadt unterscheiden, wenn „Verwaltung logischer Konsistenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen LogOS und Konstrukt-Stadt bei „Verwaltung logischer Konsistenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-046",
+   "question": "Falls LogOS im Hinblick auf „Verwaltung logischer Konsistenz“ anders festgelegt wird: Welche Aussagen über Konstrukt-Stadt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten LogOS und Konstrukt-Stadt bei „Verwaltung logischer Konsistenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-048",
+   "question": "Braucht der Roman eine Verbindung von LogOS und Konstrukt-Stadt bei „Verwaltung logischer Konsistenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-049",
+   "question": "In welchem denkbaren Fall könnte LogOS bestehen, ohne dass Konstrukt-Stadt dieselbe Funktion übernimmt, und was würde das für „Verwaltung logischer Konsistenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-050",
+   "question": "Welche Kosten könnte eine Verbindung von LogOS und Konstrukt-Stadt in Bezug auf „Verwaltung logischer Konsistenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-051",
+   "question": "Welche ältere Lesart von LogOS oder Konstrukt-Stadt könnte die Gegenüberstellung unter „Verwaltung logischer Konsistenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von LogOS und Konstrukt-Stadt unter „Verwaltung logischer Konsistenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "logos",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-logos-053",
+   "question": "Wo unterscheiden sich LogOS und Lex, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Wahrheit und erlaubter Aussage“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-054",
+   "question": "Welche Quelle verbindet LogOS mit Lex in Bezug auf „Grenze zwischen Wahrheit und erlaubter Aussage“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-055",
+   "question": "Welche Grenzen aus der Seite zu Lex müsste eine Deutung von LogOS unter „Grenze zwischen Wahrheit und erlaubter Aussage“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-056",
+   "question": "Wie könnte sich das Wissen über LogOS vom Wissen über Lex unterscheiden, wenn „Grenze zwischen Wahrheit und erlaubter Aussage“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen LogOS und Lex bei „Grenze zwischen Wahrheit und erlaubter Aussage“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-058",
+   "question": "Falls LogOS im Hinblick auf „Grenze zwischen Wahrheit und erlaubter Aussage“ anders festgelegt wird: Welche Aussagen über Lex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten LogOS und Lex bei „Grenze zwischen Wahrheit und erlaubter Aussage“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-060",
+   "question": "Braucht der Roman eine Verbindung von LogOS und Lex bei „Grenze zwischen Wahrheit und erlaubter Aussage“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-061",
+   "question": "In welchem denkbaren Fall könnte LogOS bestehen, ohne dass Lex dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Wahrheit und erlaubter Aussage“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-062",
+   "question": "Welche Kosten könnte eine Verbindung von LogOS und Lex in Bezug auf „Grenze zwischen Wahrheit und erlaubter Aussage“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-063",
+   "question": "Welche ältere Lesart von LogOS oder Lex könnte die Gegenüberstellung unter „Grenze zwischen Wahrheit und erlaubter Aussage“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von LogOS und Lex unter „Grenze zwischen Wahrheit und erlaubter Aussage“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "logos",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-logos-065",
+   "question": "Wo unterscheiden sich LogOS und AEGIS, wenn man sie unter dem Gesichtspunkt „Eingriff in alltägliche Routinen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-066",
+   "question": "Welche Quelle verbindet LogOS mit AEGIS in Bezug auf „Eingriff in alltägliche Routinen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von LogOS unter „Eingriff in alltägliche Routinen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-068",
+   "question": "Wie könnte sich das Wissen über LogOS vom Wissen über AEGIS unterscheiden, wenn „Eingriff in alltägliche Routinen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen LogOS und AEGIS bei „Eingriff in alltägliche Routinen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-070",
+   "question": "Falls LogOS im Hinblick auf „Eingriff in alltägliche Routinen“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten LogOS und AEGIS bei „Eingriff in alltägliche Routinen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-072",
+   "question": "Braucht der Roman eine Verbindung von LogOS und AEGIS bei „Eingriff in alltägliche Routinen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-073",
+   "question": "In welchem denkbaren Fall könnte LogOS bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Eingriff in alltägliche Routinen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-074",
+   "question": "Welche Kosten könnte eine Verbindung von LogOS und AEGIS in Bezug auf „Eingriff in alltägliche Routinen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-075",
+   "question": "Welche ältere Lesart von LogOS oder AEGIS könnte die Gegenüberstellung unter „Eingriff in alltägliche Routinen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von LogOS und AEGIS unter „Eingriff in alltägliche Routinen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "logos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-logos-077",
+   "question": "Wo unterscheiden sich LogOS und Guardians, wenn man sie unter dem Gesichtspunkt „Verwechslung von Widerspruch und Gefahr“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-078",
+   "question": "Welche Quelle verbindet LogOS mit Guardians in Bezug auf „Verwechslung von Widerspruch und Gefahr“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-079",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von LogOS unter „Verwechslung von Widerspruch und Gefahr“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-080",
+   "question": "Wie könnte sich das Wissen über LogOS vom Wissen über Guardians unterscheiden, wenn „Verwechslung von Widerspruch und Gefahr“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen LogOS und Guardians bei „Verwechslung von Widerspruch und Gefahr“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-082",
+   "question": "Falls LogOS im Hinblick auf „Verwechslung von Widerspruch und Gefahr“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten LogOS und Guardians bei „Verwechslung von Widerspruch und Gefahr“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-084",
+   "question": "Braucht der Roman eine Verbindung von LogOS und Guardians bei „Verwechslung von Widerspruch und Gefahr“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-085",
+   "question": "In welchem denkbaren Fall könnte LogOS bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Verwechslung von Widerspruch und Gefahr“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-086",
+   "question": "Welche Kosten könnte eine Verbindung von LogOS und Guardians in Bezug auf „Verwechslung von Widerspruch und Gefahr“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-087",
+   "question": "Welche ältere Lesart von LogOS oder Guardians könnte die Gegenüberstellung unter „Verwechslung von Widerspruch und Gefahr“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von LogOS und Guardians unter „Verwechslung von Widerspruch und Gefahr“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "logos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-logos-089",
+   "question": "Wo unterscheiden sich LogOS und Kohärenz, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit eines Systemwächters“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-090",
+   "question": "Welche Quelle verbindet LogOS mit Kohärenz in Bezug auf „Eigenständigkeit eines Systemwächters“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-091",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von LogOS unter „Eigenständigkeit eines Systemwächters“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-092",
+   "question": "Wie könnte sich das Wissen über LogOS vom Wissen über Kohärenz unterscheiden, wenn „Eigenständigkeit eines Systemwächters“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen LogOS und Kohärenz bei „Eigenständigkeit eines Systemwächters“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-094",
+   "question": "Falls LogOS im Hinblick auf „Eigenständigkeit eines Systemwächters“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten LogOS und Kohärenz bei „Eigenständigkeit eines Systemwächters“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-096",
+   "question": "Braucht der Roman eine Verbindung von LogOS und Kohärenz bei „Eigenständigkeit eines Systemwächters“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-097",
+   "question": "In welchem denkbaren Fall könnte LogOS bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit eines Systemwächters“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-098",
+   "question": "Welche Kosten könnte eine Verbindung von LogOS und Kohärenz in Bezug auf „Eigenständigkeit eines Systemwächters“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-099",
+   "question": "Welche ältere Lesart von LogOS oder Kohärenz könnte die Gegenüberstellung unter „Eigenständigkeit eines Systemwächters“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-logos-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von LogOS und Kohärenz unter „Eigenständigkeit eines Systemwächters“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "logos",
+    "kohaerenz"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1088 @@
+{
+  "document": "fundament-konzept-fuer-kohaerenz-protokoll",
+  "drive_id": "1pyMSl9CzuaH9ZDYilZXkVV5wbwYMc-u4QDkFBhZYXmg",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Das Fundament": {
+      "n": 84,
+      "n_including_compounds": 84,
+      "lines": [
+        11,
+        15,
+        16,
+        17,
+        18,
+        45,
+        53,
+        64,
+        65,
+        66,
+        67,
+        71,
+        74,
+        75,
+        81,
+        82,
+        83,
+        85,
+        91,
+        92,
+        98,
+        103,
+        112,
+        114,
+        130,
+        148,
+        152,
+        160,
+        166,
+        167,
+        170,
+        176,
+        184,
+        186,
+        188,
+        190,
+        194,
+        196,
+        201,
+        204,
+        215,
+        219,
+        223,
+        224,
+        232,
+        233,
+        234,
+        238,
+        251,
+        257,
+        259,
+        277,
+        289,
+        320,
+        321,
+        325,
+        329,
+        331,
+        348,
+        354,
+        355,
+        357,
+        359,
+        361,
+        365,
+        366,
+        373,
+        374,
+        375,
+        386,
+        437,
+        442,
+        444,
+        445,
+        450,
+        454
+      ]
+    },
+    "Fundament": {
+      "n": 104,
+      "n_including_compounds": 154,
+      "lines": [
+        11,
+        15,
+        16,
+        17,
+        18,
+        24,
+        45,
+        53,
+        64,
+        65,
+        66,
+        67,
+        71,
+        74,
+        75,
+        81,
+        82,
+        83,
+        85,
+        87,
+        91,
+        92,
+        97,
+        98,
+        103,
+        104,
+        112,
+        113,
+        114,
+        122,
+        130,
+        132,
+        136,
+        137,
+        141,
+        142,
+        148,
+        152,
+        160,
+        166,
+        167,
+        168,
+        170,
+        172,
+        174,
+        176,
+        177,
+        178,
+        182,
+        184,
+        185,
+        186,
+        187,
+        188,
+        190,
+        194,
+        196,
+        197,
+        201,
+        204,
+        209,
+        215,
+        219,
+        223,
+        224,
+        225,
+        226,
+        232,
+        233,
+        234,
+        238,
+        242,
+        243,
+        251,
+        252,
+        257,
+        259,
+        268,
+        277,
+        289,
+        320,
+        321,
+        325,
+        329,
+        331,
+        340,
+        348,
+        354,
+        355,
+        357,
+        359,
+        361,
+        365,
+        366,
+        373,
+        374,
+        375,
+        379,
+        383,
+        385,
+        386,
+        398,
+        437,
+        442,
+        443,
+        444,
+        445,
+        446,
+        450,
+        454,
+        470,
+        472,
+        512,
+        515,
+        565
+      ]
+    },
+    "Übermonstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Paraiyas": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        16,
+        42,
+        64,
+        67,
+        81,
+        82,
+        99,
+        104,
+        122,
+        141,
+        168,
+        177,
+        180,
+        182,
+        184,
+        185,
+        186,
+        187,
+        188,
+        196,
+        232,
+        234,
+        331,
+        445
+      ]
+    },
+    "6 Paraiyas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        82
+      ]
+    },
+    "AEGIS": {
+      "n": 39,
+      "n_including_compounds": 40,
+      "lines": [
+        31,
+        42,
+        45,
+        53,
+        54,
+        64,
+        65,
+        67,
+        73,
+        74,
+        75,
+        81,
+        83,
+        132,
+        148,
+        168,
+        177,
+        178,
+        204,
+        215,
+        226,
+        233,
+        243,
+        329,
+        330,
+        335,
+        336,
+        355
+      ]
+    },
+    "Kael": {
+      "n": 43,
+      "n_including_compounds": 43,
+      "lines": [
+        30,
+        43,
+        53,
+        64,
+        65,
+        73,
+        75,
+        82,
+        137,
+        141,
+        166,
+        167,
+        168,
+        177,
+        258,
+        264,
+        268,
+        269,
+        278,
+        293,
+        306,
+        320,
+        321,
+        329,
+        331,
+        335,
+        354,
+        420,
+        429,
+        443,
+        444,
+        445,
+        450
+      ]
+    },
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        54,
+        64,
+        74,
+        330,
+        335,
+        450
+      ]
+    },
+    "Juna/V Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        74,
+        330,
+        450
+      ]
+    },
+    "TSDP-Modell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        82
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        43,
+        53,
+        65,
+        73,
+        82,
+        268,
+        329
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        44,
+        66,
+        177
+      ]
+    },
+    "Potentialmeer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        44,
+        66,
+        74
+      ]
+    },
+    "Paradoxon X": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        42,
+        45,
+        67,
+        74,
+        75,
+        104,
+        178,
+        204,
+        234,
+        329,
+        336,
+        385,
+        397,
+        445
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        15,
+        17,
+        20,
+        24,
+        238,
+        240,
+        445,
+        454
+      ]
+    },
+    "Fragmentierung/Integration": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        43,
+        73,
+        277
+      ]
+    },
+    "Kontrolle/Emergenz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        73,
+        83,
+        277,
+        355
+      ]
+    },
+    "Realität/Simulation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        44,
+        66
+      ]
+    },
+    "Verbindung/Isolation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        54,
+        182
+      ]
+    },
+    "Ethik/KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Fundamentality": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        66,
+        470,
+        472
+      ]
+    },
+    "Impact Point Identifikation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Integrationslevel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        253
+      ]
+    },
+    "Subtiles Hintergrundprinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        257,
+        294
+      ]
+    },
+    "Quelle der Einsicht/Gnosis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        258,
+        295,
+        444
+      ]
+    },
+    "Aktive Intervention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Finale Enthüllung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        260,
+        297,
+        314
+      ]
+    },
+    "Begrenzte/Indirekte Intervention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        296
+      ]
+    },
+    "Verkörperung durch Charakter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "Deus Ex Machina Risiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "Foreshadowing": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        252,
+        260,
+        293,
+        310,
+        314,
+        321,
+        443,
+        454
+      ]
+    },
+    "Agency": {
+      "n": 11,
+      "n_including_compounds": 14,
+      "lines": [
+        53,
+        65,
+        268,
+        293,
+        306,
+        320,
+        343,
+        354,
+        429,
+        444,
+        450,
+        454
+      ]
+    },
+    "ontologische Fundierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        374
+      ]
+    },
+    "P=NP": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        130,
+        199,
+        201,
+        203,
+        204,
+        209,
+        210,
+        211,
+        233,
+        367
+      ]
+    },
+    "hybride Ansätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        348
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        251,
+        293,
+        320,
+        428,
+        582
+      ]
+    },
+    "Chosen One": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        331,
+        354,
+        593
+      ]
+    },
+    "Crew Hero": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        331
+      ]
+    },
+    "Metaphysik der Fundamentalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        92,
+        160,
+        166,
+        442
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        166
+      ]
+    },
+    "Advaita Vedanta": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        97,
+        166,
+        477,
+        478,
+        481,
+        557
+      ]
+    },
+    "Brahman": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        97,
+        160,
+        166,
+        187
+      ]
+    },
+    "Maya": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        187
+      ]
+    },
+    "Avidya": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        187
+      ]
+    },
+    "Madhyamaka Buddhismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        98,
+        166
+      ]
+    },
+    "Śūnyatā": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        98,
+        160
+      ]
+    },
+    "Svabhāva": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Pratītyasamutpāda": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Zwei Wahrheiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Taoismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        99,
+        155,
+        186,
+        442
+      ]
+    },
+    "Yin-Yang": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        99,
+        186,
+        190,
+        232,
+        442
+      ]
+    },
+    "Tao": {
+      "n": 3,
+      "n_including_compounds": 10,
+      "lines": [
+        99,
+        155,
+        160,
+        186,
+        442,
+        491,
+        494
+      ]
+    },
+    "Harte Problem des Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Panpsychismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        225
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        194
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        104,
+        196,
+        234
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Fundamentale Symmetrien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Noether-Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Higgs-Mechanismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "spontane Symmetriebrechung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Vereinheitlichungstheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Verschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Komplementarität": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        122,
+        155,
+        184,
+        190,
+        232,
+        386,
+        442
+      ]
+    },
+    "Komplementaritätsprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Dialektik": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        155,
+        185,
+        190,
+        442
+      ]
+    },
+    "Komplexitätstheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        130,
+        132,
+        226
+      ]
+    },
+    "Autopoiesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        136,
+        539
+      ]
+    },
+    "Kybernetik zweiter Ordnung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        137,
+        167
+      ]
+    },
+    "Eigenform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Archetypen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        269
+      ]
+    },
+    "kollektive Unbewusste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Individuation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        398
+      ]
+    },
+    "Schattens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        188
+      ]
+    },
+    "Gipfelerfahrungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Selbsttranszendenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "kosmisches Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Integrale Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Gnostizismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        148
+      ]
+    },
+    "Demiurgen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        81,
+        148
+      ]
+    },
+    "Pleroma": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        81,
+        148,
+        160
+      ]
+    },
+    "Sophia": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        459
+      ]
+    },
+    "Gnosis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        148,
+        258,
+        295,
+        444,
+        460
+      ]
+    },
+    "Schwache Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Starke Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Abwärtskausalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        217,
+        224
+      ]
+    },
+    "Reduktionismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        218,
+        373
+      ]
+    },
+    "Emergentismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        218
+      ]
+    },
+    "Santa Fe Institute": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Rand des Chaos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    }
+  }
+}

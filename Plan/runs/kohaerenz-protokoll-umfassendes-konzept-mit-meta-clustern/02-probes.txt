@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      16
+  backslash escapes      0
+  typographic marks      4
+  ascii quotes           10
+
+# inflection families -- one term, several surfaces
+  entro    Entropie, Entropieraum, Entropieräume, Entropieräumen
+  clust    Cluster, Clustern, Clusters
+  grund    Grundlage, Grundspannung, Grundspannungen
+  integ    Integration, Integriert, Integrierte
+  prinz    Prinzip, Prinzipien, Prinzips
+  reali    Realität, Realitätsebenen, Realitätsschichten
+  balan    Balance, Balancen
+  chara    Charaktere, Charakterreise
+  diese    Diese, Dieses
+  diffe    Differenz, Differenzierung
+  dynam    Dynamik, Dynamiken
+  einfl    Einfluss, Einflüssen
+  infor    Information, Informiert
+  inter    Interpretation, Intervention
+  kampf    Kampf, Kampfes
+  kapit    Kapitel, Kapitelübersicht
+  kohär    Kohärenz, Kohärenzbildung
+  konfl    Konflikt, Konflikte
+  konze    Konzept, Konzepte
+  manip    Manipulationen, Manipulierte
+  mecha    Mechanismen, Mechanismus
+  roman    Roman, Romans
+  selbs    Selbstkohärenz, Selbstorganisation
+  spann    Spannung, Spannungsfelder
+  stabi    Stabilisierung, Stabilität
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Seine
+  Form < Informiert
+  Form < Information
+  Kael < Kaels
+  Meta < Metaphern
+  Raum < Trauma
+  Raum < Entropieraum
+  Sein < Seine
+  Sein < Seins
+  Sein < Bewusstsein
+  Sein < Auseinandersetzung
+  Stil < Stillstand
+  Teil < Teile
+  Diese < Dieses
+  Kampf < Kampfes
+  Reise < Heldenreise
+  Reise < Charakterreise
+  Reise < Heldinnenreise
+  Roman < Romans
+  Balance < Balancen

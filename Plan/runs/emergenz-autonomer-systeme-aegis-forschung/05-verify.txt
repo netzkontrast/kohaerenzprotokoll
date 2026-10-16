@@ -1,0 +1,88 @@
+$ read.py --count "AEGIS-Relevanz"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`AEGIS-Relevanz` ^[emergenz-autonomer-systeme-aegis-forschung.md:#13]
+$ read.py --count "Konstitutives Prinzip"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Konstitutives Prinzip` ^[emergenz-autonomer-systeme-aegis-forschung.md:#5]
+$ read.py --count "Spannungsfelder"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Spannungsfelder` ^[emergenz-autonomer-systeme-aegis-forschung.md:#11]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[emergenz-autonomer-systeme-aegis-forschung.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[emergenz-autonomer-systeme-aegis-forschung.md:#0]
+$ read.py --count "Nullraum"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nullraum` ^[emergenz-autonomer-systeme-aegis-forschung.md:#1]
+$ read.py --count "Negentropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Negentropie` ^[emergenz-autonomer-systeme-aegis-forschung.md:#1]
+$ read.py --count "Realitätserzeugung"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Realitätserzeugung` ^[emergenz-autonomer-systeme-aegis-forschung.md:#11]
+$ read.py --count "Kohärenz aus Entropie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz aus Entropie` ^[emergenz-autonomer-systeme-aegis-forschung.md:#4]
+$ read.py --count "selbstgenerierendes Kohärenzsystem"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`selbstgenerierendes Kohärenzsystem` ^[emergenz-autonomer-systeme-aegis-forschung.md:#4]
+$ read.py --count "Kohärenzentropie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenzentropie` ^[emergenz-autonomer-systeme-aegis-forschung.md:#4]
+$ read.py --count "Autopoietische Schließung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autopoietische Schließung` ^[emergenz-autonomer-systeme-aegis-forschung.md:#1]
+$ read.py --count "Viable System Model"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Viable System Model` ^[emergenz-autonomer-systeme-aegis-forschung.md:#2]
+$ read.py --count "Selbstreferenz"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            19
+
+`Selbstreferenz` ^[emergenz-autonomer-systeme-aegis-forschung.md:#16]
+$ grep -c "^[0-9]*\. .*Zugriff am" Sources/drive/emergenz-autonomer-systeme-aegis-forschung.md  (reference entries 1-75, L523 to L597)
+75
+$ grep -c "Cluster [0-9]" (headings, thirteen dichotomies listed L25-L37)
+13

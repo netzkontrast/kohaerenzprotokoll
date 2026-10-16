@@ -1,0 +1,42 @@
+{
+  "document": "abstraktes-konzept-das-resonanz-gefuege",
+  "drive_id": "1SBZ6k--UcuIfC_wjQzwYjGaSz23nSXQK0UkHVvDAcQk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a sketch for a companion work that names the novel's subjects without stating anything about them (Plan/runs/ingest-320/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 22,
+    "decisions": 25,
+    "decided_by_lookup": 13,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A thirty-line sketch for a companion work to the novel, setting the novel's coherence against resonance and naming the subjects the companion would treat; it states nothing about them, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a sketch for a companion work: `Das Resonanz-Gefüge`, `Resonanz`, `Gefüge`, `Protokoll` and `Kohärenz Protokoll` its title metaphor and the novel's title, not the Entropie-Resonanz; `Juna/V` and `Juna`, `TSDP/IFS` and `TSDP`, `Anteile`/`Anteilen` named as subjects the companion would treat; nothing is read",
+  "sweep": [],
+  "not_promoted": [
+    "everything — Das Resonanz-Gefüge, Resonanz and Gefüge as the title metaphor, Juna/V, the Fundament, the Anteile"
+  ],
+  "internal_tension": "none: a sketch of intent",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

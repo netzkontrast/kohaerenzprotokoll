@@ -1,0 +1,138 @@
+{
+  "document": "optimierter-prompt-fuer-kohaerenz-protokoll",
+  "drive_id": "1vrU9r9AXZlcJx6XIFBkJsXyJfz6ORzjs3-qgqsgH1uE",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; two lines on the writing process skipped (L251, L265); rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-336/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 77,
+    "decisions": 75,
+    "decided_by_lookup": 67,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analytic report applying borrowed systems theory: its new surfaces are its sections, protocols and binary codes, the IFS roles, the archetypes and the borrowed concepts; what it reads of AEGIS, Kael, the Juna/V-Anomalie and the Kohärenz Protokoll 1.0 went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        36,
+        40,
+        42,
+        66,
+        87,
+        152,
+        220,
+        223
+      ],
+      "attribution": "",
+      "note": "AEGIS as a self-producing, logical system caught in its own paradigm"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        66,
+        74,
+        120
+      ],
+      "attribution": "",
+      "note": "the Juna/V-Anomalie as an attack on purpose and as an NP-hard-like problem"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        110,
+        170,
+        218,
+        219,
+        223,
+        231
+      ],
+      "attribution": "",
+      "note": "Kael as the exiled part and the original self in the IFS mapping"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        170,
+        221,
+        237
+      ],
+      "attribution": "",
+      "note": "the Kohärenz Protokoll 1.0 as repair, firefighter action and feedback loop"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V-Anomalie` read on juna; `Kohärenz Protokoll 1.0` AEGIS's protocol in the story, read on kohaerenz; `Kohärenz Protokoll` in the heading the novel's title",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 237,
+      "decision": "occurrence",
+      "why": "generic emergence in the feedback-loop analysis"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 132,
+      "decision": "occurrence",
+      "why": "informational entropy in the optimisation reading of the axiom, not the page's sense"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 136,
+      "decision": "occurrence",
+      "why": "a section heading, Genesis systemischer Paranoia, in another sense"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 42,
+      "decision": "reading",
+      "why": "the Juna/V-Anomalie, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the novel's title in the report's heading"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "AEGIS's consciousness said not to be a simulation, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the report's sections and tables",
+    "the binary codes and protocols (CCPP, OBP, RIVE, PMAS, SARM)",
+    "the IFS roles and the systems archetypes",
+    "the borrowed concepts (Luhmann, autopoiesis, nicht-triviale Maschinen, NP-hardness, specification gaming, Senge, Schwartz)"
+  ],
+  "internal_tension": "it places the Kohärenz Protokoll in four roles (L170, L179, L221, L237) and Kael both as the original self (L218) and as the exiled part (L110); it reconciles them only as readings through different lenses",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

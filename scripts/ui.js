@@ -10,6 +10,9 @@ class Component extends DCLogic {
     D.pageOrder = D.pages.map((p, i) => i).sort((a, b) => D.pages[a].t.localeCompare(D.pages[b].t, 'de', { sensitivity: 'base' }));
     D.defaultPage = Math.max(0, D.pages.findIndex((p) => p.s === 'aegis'));
     D.conflicts.forEach((c) => { c.fx = f([c.id, c.title, c.subj, c.kind].join(' | ')); });
+    D.readingById = {}; D.bankByOwner = {};
+    D.readingBanks.forEach((b) => { D.bankByOwner[b.owner] = b; });
+    D.readingQuestions.forEach((x) => { x.fx = f([x.id, x.q, x.c, x.topic].concat(x.terms.map((i) => D.pages[i].t)).join(' | ')); D.readingById[x.id] = x; });
     D.questions.forEach((q) => { q.fx = f([q.id, q.title, q.q].join(' | ')); });
     D.decisions.forEach((d) => { d.fx = f(d.id + ' ' + d.title); });
     D.principles.forEach((p) => { p.fx = f(p.id + ' ' + p.t + ' ' + p.grp); });
@@ -90,8 +93,9 @@ class Component extends DCLogic {
     const e = encodeURIComponent;
     let tail = '';
     if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
-    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s);
+    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s) + (s.wview ? '/' + s.wview : '');
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
+    else if (screen === 'questions' && s.qt === 'reading') tail = 'reading' + (s.rqi ? '/' + e(s.rqi) : s.rt ? '/' + e(s.rt) : '');
     else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
     else if (screen === 'corpus' && s.crow != null && s.crow >= 0) tail = e(D.rows[s.crow].slug);
     else if (screen === 'graph' && s.gsel != null && s.gsel >= 0) {
@@ -118,11 +122,13 @@ class Component extends DCLogic {
     const parts = hash.slice(2).split('/').map((x) => { try { return decodeURIComponent(x); } catch (err) { return x; } });
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
-    const st = { screen: screen, q: '' };
+    const st = { screen: screen, q: '', page: null, wview: null, qt: null, ques: null, rqi: null, rt: '' };
     if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
-    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) st.page = i; }
+    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) { st.page = i; if (['term', 'readings', 'promotion'].includes(parts[2])) st.wview = parts[2]; } }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
+      if (parts[1] === 'reading') { st.qt = 'reading'; st.rqi = null; st.rt = ''; if (D.readingById[parts[2]]) { st.rqi = parts[2]; st.rt = D.pages[D.readingById[parts[2]].owner].s; st.rqpage = Math.floor((+parts[2].slice(-3) - 1) / 25); st.rq = ''; st.rc = ''; st.rkind = ''; st.rstatus = ''; st.rmentions = false; } else if (at(D.pages, 's', parts[2]) >= 0) st.rt = parts[2]; return st; }
+      st.qt = 'records';
       const i = parts[1] === 'agenda' ? -1 : at(D.questions, 'id', parts[1]);
       if (i >= -1 && !(i === -1 && parts[1] !== 'agenda')) st.ques = i;
     } else if (screen === 'corpus' && parts[1]) { const i = D.rowBySlug[parts[1]]; if (i != null) st.crow = i; }
@@ -154,6 +160,7 @@ class Component extends DCLogic {
       const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
       if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {}, psed: saved.psed || {} });
     } catch (err) { /* no storage: start empty */ }
+    try { const notes = JSON.parse(window.localStorage.getItem('kp-reading-notes-v1') || '{}'); if (notes && typeof notes === 'object' && !Array.isArray(notes)) this.setState({ rnotes: notes }); } catch (err) { /* notes are optional */ }
     this._onHash = () => {
       const st = this.unroute(window.location.hash);
       if (st && window.location.hash !== this.route()) { this._fromUrl = true; this.setState(st); }
@@ -520,7 +527,82 @@ class Component extends DCLogic {
 
   pageChip(i) {
     const p = this.kp().pages[i];
-    return { t: p.t, go: () => this.go('wiki', { page: i }) };
+    return { t: p.t, go: () => this.go('wiki', { page: i, wview: null }) };
+  }
+
+  questionTabs() {
+    const s = this.st(); const reading = (s.qt || (s.ques != null ? 'records' : 'reading')) === 'reading';
+    return [['reading', 'Lesefragen', reading], ['records', 'Offene Fragen', !reading && s.ques !== -1], ['agenda', 'Autoragenda', !reading && s.ques === -1]].map(([key, label, on]) => ({ label: label, on: on, go: () => this.setState(key === 'reading' ? { qt: 'reading', rqi: null } : { qt: 'records', ques: key === 'agenda' ? -1 : 0 }) }));
+  }
+
+  saveReading(id, patch) {
+    const next = Object.assign({}, this.st().rnotes || {});
+    const entry = Object.assign({}, next[id] || {}, patch);
+    if (!entry.note && (!entry.status || entry.status === 'unseen')) delete next[id]; else next[id] = entry;
+    this.setState({ rnotes: next, noteStorage: 'Nur für diesen Besuch gespeichert' });
+    if (!this.routable()) return;
+    try { window.localStorage.setItem('kp-reading-notes-v1', JSON.stringify(next)); this.setState({ noteStorage: 'Im Browser gespeichert' }); }
+    catch (err) { this.setState({ noteStorage: 'Speichern im Browser fehlgeschlagen. Bitte exportieren.' }); }
+  }
+
+  readingExport(rows, notes) {
+    const D = this.kp();
+    return '# Kohärenz Protokoll — Lesefragen\n\nStand: ' + D.meta.commit + '\n\nFragenentwürfe; lokale Antworten sind keine Kanonentscheidungen.\n\n' + rows.map((x) => {
+      const entry = notes[x.id] || {}; const bank = D.bankByOwner[x.owner];
+      return '## ' + x.id + '\n\n' + x.q + '\n\n- Terms: ' + x.terms.map((i) => D.pages[i].t).join(', ') + '\n- Kategorie: ' + x.c + '\n- Datei: ' + bank.path + '\n- Adresse: #/questions/reading/' + x.id + '\n- Lokaler Status: ' + (entry.status || 'unseen') + '\n\n' + (entry.note ? '### Notiz\n\n' + entry.note + '\n\n' : '');
+    }).join('');
+  }
+
+  questionWorkshop() {
+    const D = this.kp(); const s = this.st(); const notes = s.rnotes || {};
+    const term = s.rt || ''; const category = s.rc || ''; const kind = s.rkind || ''; const status = s.rstatus || '';
+    const query = D.fold((s.rq || '').trim());
+    const ti = D.pages.findIndex((p) => p.s === term);
+    const rows = D.readingQuestions.filter((x) => (ti < 0 || (s.rmentions ? x.terms.includes(ti) : x.owner === ti))
+      && (!category || x.c === category) && (!query || x.fx.includes(query))
+      && (!kind || (kind === 'cross' ? x.terms.length > 1 : x.terms.length === 1))
+      && (!status || (notes[x.id] || {}).status === status));
+    const count = rows.length; const pages = Math.max(1, Math.ceil(count / 25));
+    const page = Math.min(Math.max(0, s.rqpage || 0), pages - 1);
+    const current = D.readingById[s.rqi];
+    const selected = current && rows.some((x) => x.id === current.id) ? current : null;
+    const opt = (value, label) => ({ value: value, label: label });
+    const bank = selected ? D.bankByOwner[selected.owner] : ti >= 0 ? D.bankByOwner[ti] : null;
+    const note = selected ? notes[selected.id] || {} : {};
+    const prompt = selected ? 'Repo: netzkontrast/kohaerenzprotokoll\nRead NOW.md, CLAUDE.md and PRINCIPLES.md.\nInvestigate ' + selected.id + ' in ' + bank.path + '.\nRead the question and its term pages locally. Distinguish existing answers, proposals, source disagreements and missing evidence. Cite only the lines needed. Do not promote a page or change canon. Keep the conclusion in a reviewable proposal.' : '';
+    const reset = (patch) => this.setState(Object.assign({ rqpage: 0, rqi: null }, patch));
+    return {
+      active: true, tabs: this.questionTabs(), query: s.rq || '', term: term, category: category, kind: kind, status: status,
+      terms: [opt('', 'Alle Begriffe')].concat(D.pageOrder.map((i) => opt(D.pages[i].s, D.pages[i].t + ' · 100'))),
+      categories: [opt('', 'Alle Blickwinkel')].concat(D.questionCategories.map((x) => opt(x, x))),
+      kinds: [opt('', 'Alle Fragen'), opt('direct', 'Zum Begriff'), opt('cross', 'Termübergreifend')],
+      statuses: [opt('', 'Alle lokalen Zustände'), opt('saved', 'Vorgemerkt'), opt('working', 'In Arbeit'), opt('answered', 'Lokal beantwortet')],
+      editStatuses: [opt('unseen', 'Noch nicht bearbeitet'), opt('saved', 'Vorgemerkt'), opt('working', 'In Arbeit'), opt('answered', 'Lokal beantwortet')],
+      onQuery: (e) => reset({ rq: e.target.value }), onTerm: (e) => reset({ rt: e.target.value }), onCategory: (e) => reset({ rc: e.target.value }),
+      onKind: (e) => reset({ rkind: e.target.value }), onStatus: (e) => reset({ rstatus: e.target.value }),
+      mentions: !!s.rmentions, onMentions: (e) => reset({ rmentions: e.target.checked }),
+      reset: () => reset({ rt: '', rq: '', rc: '', rkind: '', rstatus: '', rmentions: false }),
+      count: count.toLocaleString('de-DE') + ' Fragen', pageLabel: 'Seite ' + (page + 1) + ' von ' + pages,
+      prevDisabled: page === 0, nextDisabled: page + 1 >= pages,
+      prev: () => this.setState({ rqpage: page - 1, rqi: null }), next: () => this.setState({ rqpage: page + 1, rqi: null }),
+      empty: count === 0, hasSelection: !!selected, noSelection: !selected,
+      list: rows.slice(page * 25, (page + 1) * 25).map((x) => ({ id: x.id, text: x.q, meta: D.pages[x.owner].t + ' · ' + x.c + (x.terms.length > 1 ? ' · Vergleich' : ''),
+        on: !!selected && selected.id === x.id, status: ({ saved: 'Vorgemerkt', working: 'In Arbeit', answered: 'Lokal beantwortet' })[(notes[x.id] || {}).status] || '',
+        go: () => this.setState({ rqi: x.id }) })),
+      title: selected ? selected.q : '', id: selected ? selected.id : '', topic: selected ? selected.topic : '', path: bank ? bank.path : '',
+      links: selected ? selected.terms.map((i) => ({ title: D.pages[i].t, go: () => this.go('wiki', { page: i, wview: null }) })) : [],
+      stale: !!bank && bank.stale.length > 0,
+      note: note.note || '', noteStatus: note.status || 'unseen', storage: s.noteStorage || 'Notizen bleiben lokal in diesem Browser; Export sichert sie als Datei.',
+      onNote: (e) => { if (selected) this.saveReading(selected.id, { note: e.target.value }); },
+      onNoteStatus: (e) => { if (selected) this.saveReading(selected.id, { status: e.target.value }); },
+      saveSelected: () => { if (selected) this.download(selected.id + '.md', this.readingExport([selected], notes), 'text/markdown'); },
+      export: () => this.download('kohaerenz-lesefragen.md', this.readingExport(rows, notes), 'text/markdown'),
+      exportDisabled: !rows.length, notesDisabled: !Object.keys(notes).length,
+      exportNotes: () => this.download('kohaerenz-lesefragen-notizen.md', this.readingExport(D.readingQuestions.filter((x) => notes[x.id]), notes), 'text/markdown'),
+      copyPrompt: () => { if (selected) this.copy('reading-prompt', prompt); },
+      copyLabel: s.copied === 'reading-prompt' ? 'Auftrag kopiert' : s.copied === 'fail:reading-prompt' ? 'Kopieren fehlgeschlagen' : 'Prüfauftrag kopieren',
+      prompt: prompt,
+    };
   }
 
   renderVals() {
@@ -540,9 +622,11 @@ class Component extends DCLogic {
     };
     is.procList = (is.process && (ptab === 'compare' || ptab === 'decisions' || ptab === 'principles' || ptab === 'now' || ptab === 'goal'))
       || (is.manuscript && mtab !== 'overview');
+    is.workshop = is.questions && (s.qt || (s.ques != null ? 'records' : 'reading')) === 'reading';
+    is.questionRecords = is.questions && !is.workshop;
     is.readerLayout = is.wiki || is.conflicts || is.questions || is.process || is.manuscript;
-    is.left = is.wiki || is.conflicts || is.questions || is.procList;
-    is.rail = is.wiki || is.conflicts || is.questions;
+    is.left = is.wiki || is.conflicts || is.questionRecords || is.procList;
+    is.rail = is.wiki || is.conflicts || is.questionRecords;
     is.loop = is.process && ptab === 'loop';
     is.checks = is.process && ptab === 'checks';
 
@@ -558,7 +642,7 @@ class Component extends DCLogic {
       now: navItem('now', ''),
       wiki: navItem('wiki', String(D.pages.length)),
       conflicts: navItem('conflicts', openC + ' open'),
-      questions: navItem('questions', String(D.questions.length)),
+      questions: navItem('questions', fmt(D.readingQuestions.length)),
       manuscript: navItem('manuscript', String(D.novel.kanon.length) + ' canon'),
       graph: navItem('graph', String(D.graph.nodes.length)),
       corpus: navItem('corpus', String(D.rows.length)),
@@ -567,6 +651,7 @@ class Component extends DCLogic {
 
     const held = D.selftests.filter((x) => x[0] === 'held').length;
     const failed = D.selftests.filter((x) => x[0] === 'FAILED').length;
+    const unrun = D.selftests.filter((x) => x[0] === 'not run').length;
     const chk = (label, val, ok) => ({ label: label, val: val, dot: ok === true ? '#2B4C8C' : ok === false ? '#B0341E' : '#9A9384', fg: ok === false ? '#B0341E' : '#4A463E' });
     const prose = D.checkBy['scripts/state.py --prose'];
     const proseN = prose ? parseInt(prose[2], 10) : NaN;
@@ -575,15 +660,15 @@ class Component extends DCLogic {
       chk('Prose numbers', isNaN(proseN) ? '—' : proseN + ' stale', isNaN(proseN) ? null : proseN === 0),
       chk('Judgements', V('judgements.disagree') + ' disagree', V('judgements.disagree') === 0),
       chk('Quotations', V('quotes.unresolved') + ' unresolved', V('quotes.unresolved') === 0),
-      chk('Self-tests', held + '/' + D.selftests.length + ' held', failed === 0),
+      chk('Self-tests', held + '/' + D.selftests.length + ' held' + (unrun ? ' · ' + unrun + ' not run' : ''), failed ? false : unrun ? null : true),
     ];
     const goChecks = () => this.go('process', { ptab: 'checks' });
 
     const tops = {
       now: ['Now', 'What is open, what waits on the author, and what the repository measures today'],
-      wiki: ['Wiki', D.pages.length + ' candidate pages · every reading attributed and unmerged · where sources disagree, a page says so and stops'],
+      wiki: ['Wiki', D.pages.length + ' Begriffe · Kandidaten, geprüfte Lesarten und ausgearbeitete Begriffsseiten'],
       conflicts: ['Conflicts', D.conflicts.length + ' append-only records of two sources that cannot both hold · a record decides nothing; the author does'],
-      questions: ['Questions', 'What several pages ask and no source read so far answers · and everything noted for the author'],
+      questions: ['Fragenwerkstatt', fmt(D.readingQuestions.length) + ' Lesefragen · ' + D.questions.length + ' offene Fragen · Autoragenda'],
       manuscript: ['Manuscript', 'The novel’s workspace · only canon and working drafts · canon is what Manuscript/kanon.md lists; research lives in the Wiki'],
       graph: ['Knowledge graph', D.graph.nodes.length + ' nodes · ' + fmt(D.graph.edges.length) + ' typed edges · each carries the file line that states it; none is inferred'],
       corpus: ['Corpus', D.rows.length + ' Drive documents in the manifest · ' + V('sources.landed') + ' landed as Markdown · ' + D.docs.length + ' read'],
@@ -603,8 +688,10 @@ class Component extends DCLogic {
       if (pg.length) groups.push({ label: 'Wiki pages', n: pg.length, items: pg.slice(0, 7).map((o) => ({ k: 'page', kc: '#4A463E', t: o.x.t, s: o.x.s + ' · ' + o.x.rd + ' readings', go: () => this.go('wiki', { page: o.i }) })) });
       const cf = pick(D.conflicts, (c) => c.fx, (c) => c.id);
       if (cf.length) groups.push({ label: 'Conflicts', n: cf.length, items: cf.slice(0, 5).map((o) => ({ k: o.x.id, kc: '#B0341E', t: o.x.title.replace(/^C\d+\s*—\s*/, ''), s: o.x.subj + ' · ' + (o.x.decided ? 'decided' : 'open'), go: () => this.go('conflicts', { conf: o.i }) })) });
+      const rqs = pick(D.readingQuestions, (x) => x.fx, (x) => x.id);
+      if (rqs.length) groups.push({ label: 'Lesefragen', n: rqs.length, items: rqs.slice(0, 5).map((o) => ({ k: o.x.id, kc: '#2B4C8C', t: o.x.q, s: D.pages[o.x.owner].t + ' · ' + o.x.c, go: () => this.go('questions', { qt: 'reading', rqi: o.x.id, rt: D.pages[o.x.owner].s }) })) });
       const qs = pick(D.questions, (x) => x.fx, (x) => x.id);
-      if (qs.length) groups.push({ label: 'Questions', n: qs.length, items: qs.slice(0, 5).map((o) => ({ k: o.x.id, kc: '#B0341E', t: o.x.q, s: o.x.title, go: () => this.go('questions', { ques: o.i }) })) });
+      if (qs.length) groups.push({ label: 'Questions', n: qs.length, items: qs.slice(0, 5).map((o) => ({ k: o.x.id, kc: '#B0341E', t: o.x.q, s: o.x.title, go: () => this.go('questions', { qt: 'records', ques: o.i }) })) });
       const rs = pick(D.rows, (r) => r.fx, (r) => r.title);
       if (rs.length) groups.push({ label: 'Sources', n: rs.length, items: rs.slice(0, 6).map((o) => ({ k: o.x.read >= 0 ? D.docs[o.x.read].sig : (o.x.landed ? 'landed' : 'drive'), kc: '#2B4C8C', t: o.x.title, s: o.x.cat + ' · ' + o.x.date, go: () => this.go('corpus', { crow: o.i }) })) });
       const ds = pick(D.decisions, (d) => d.fx, (d) => d.title);
@@ -769,8 +856,10 @@ class Component extends DCLogic {
     const cl = { list: [], head: '', sub: '' };
     const cr = { hasNp: false, q: [], pos: [], decided: false, status: '', pages: [], pagesN: 0, qs: [], hasQs: false, path: '', first: '', src: '' };
     const nv = { tabs: [], isOverview: false, tiles: [] };
+    const workshop = is.workshop ? this.questionWorkshop() : { tabs: this.questionTabs(), active: false };
     const ql = { list: [], agenda: { bg: 'transparent', bd: 'transparent', go: null, cur: undefined } };
     const qr = { isQ: false, isAgenda: false, raised: [], raisedN: 0, docs: [], docsN: 0, conf: [], hasConf: false, path: '', decided: [], counts: '', intro: [] };
+    if (is.workshop) rd = { kicker: '', title: 'Fragen aus der Lektüre', tsz: 40, hasSub: true, sub: '100 zusätzliche Fragen pro Begriff: 40 zum Term selbst und 60 zu fünf ausgewählten Vergleichsterms. Vorschläge zur Untersuchung; Antworten und Kanonstatus sind ungeprüft.', chips: [], secs: [], maxW: 1060, key: 'reading-workshop' };
     const pl = { head: '', sub: '', items: [] };
     const proc = { tabs: [] };
     const loop = { steps: [], phases: [] };
@@ -784,6 +873,11 @@ class Component extends DCLogic {
       const sel = s.page == null ? D.defaultPage : s.page;
       const idx = D.pageOrder.filter((i) => {
         const p = D.pages[i];
+        if (wf === 'terms' && !p.tp) return false;
+        if (wf === 'reviewed' && p.st !== 'reviewed') return false;
+        if (wf === 'candidates' && p.st === 'reviewed') return false;
+        if (wf === 'approved' && p.tp !== 'approved') return false;
+        if (wf === 'waiting' && !p.waiting && !p.termBehind) return false;
         if (wf === 'contested' && !p.cx.length) return false;
         if (wf === 'orphans' && p.in.length) return false;
         if (wf === 'questions' && !p.qx.length) return false;
@@ -795,10 +889,10 @@ class Component extends DCLogic {
         const p = D.pages[i];
         const on = i === sel;
         return {
-          t: p.t, meta: p.s + ' · ' + p.rd + (p.rd === 1 ? ' reading' : ' readings') + (p.in.length ? '' : ' · orphan'),
+          t: p.t, meta: (p.tp ? 'Begriffsseite · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.st === 'reviewed' ? 'Promoviert · Lesarten geprüft' : 'Kandidat') + ' · ' + p.rd + ' Lesarten' + (p.waiting ? ' · neue Lesarten' : ''),
           hasC: p.cx.length > 0, cids: p.cx.map((c) => D.conflicts[c].id).join(' '),
           bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent', cur: on ? 'true' : undefined,
-          go: () => this.setState({ page: i }),
+          go: () => this.setState({ page: i, wview: null }),
         };
       });
       w.empty = w.list.length === 0;
@@ -809,7 +903,12 @@ class Component extends DCLogic {
         bg: wf === key ? '#1C1B18' : '#FBFAF6', fg: wf === key ? '#FBFAF6' : '#1C1B18', bd: wf === key ? '#1C1B18' : '#C9C0AC',
       });
       w.filters = [
-        fl('all', 'All', D.pages.length),
+        fl('all', 'Alle', D.pages.length),
+        fl('terms', 'Begriffsseiten', cnt((p) => !!p.tp)),
+        fl('reviewed', 'Promoviert', cnt((p) => p.st === 'reviewed')),
+        fl('candidates', 'Kandidaten', cnt((p) => p.st !== 'reviewed')),
+        fl('approved', 'Bestätigt', cnt((p) => p.tp === 'approved')),
+        fl('waiting', 'Neue Lesarten', cnt((p) => p.waiting > 0 || p.termBehind)),
         fl('contested', 'Contested', cnt((p) => p.cx.length > 0)),
         fl('orphans', 'Orphans', cnt((p) => p.in.length === 0)),
         fl('questions', 'In a question', cnt((p) => p.qx.length > 0)),
@@ -823,15 +922,36 @@ class Component extends DCLogic {
       w.onQ = (e) => this.setState({ wq: e.target.value });
 
       const p = D.pages[sel];
+      const view = s.wview || (p.tp ? 'term' : 'readings');
+      w.view = view;
+      w.views = [['term', 'Begriffsseite'], ['readings', 'Quellenlesarten'], ['promotion', 'Promotion & Stand']].map(([key, label]) => ({ label: label, on: view === key, go: () => this.setState({ wview: key }), disabled: key === 'term' && !p.tp }));
+      w.questions = () => this.go('questions', { qt: 'reading', rt: p.s, rqi: null, rqpage: 0 });
       const chips = [this.chip(p.st || 'candidate', 'ink'), this.chip(p.src + ' sources'), this.chip(p.rd + (p.rd === 1 ? ' reading' : ' readings'))];
       if (p.tp) chips.unshift(this.chip('Begriffsseite · ' + p.tp, 'blue'));
       if (p.cx.length) chips.push(this.chip('contested · ' + p.cx.map((c) => D.conflicts[c].id).join(', '), 'rubric'));
       if (p.g) chips.push(this.chip('gathered ' + p.g));
       rd = {
-        kicker: p.tp ? 'Term page (' + p.tp + ') · Wiki/terms/' + p.s + '.md, then its reviewed candidate'
+        kicker: view === 'term' && p.tp ? 'Begriffsseite · Wiki/terms/' + p.s + '.md'
           : (p.st === 'reviewed' ? 'Reviewed page' : 'Candidate page') + ' · Wiki/candidates/' + p.s + '.md', title: p.t, tsz: p.t.length > 30 ? 34 : 46,
-        hasSub: false, sub: '', chips: chips, secs: this.secs(p.lede, p.sec, uid + '-p' + sel), maxW: 700, key: 'wiki:' + sel,
+        hasSub: false, sub: '', chips: chips, secs: this.secs(view === 'term' ? p.termLede : p.lede, view === 'term' ? p.termSec : p.sec, uid + '-p' + sel), maxW: 700, key: 'wiki:' + sel,
       };
+      if (view === 'promotion') {
+        const text = [
+          'Kandidatenseite: ' + (p.st === 'reviewed' ? 'vom Autor geprüft und promoviert' : 'noch nicht promoviert') + (p.reviewed ? ' · ' + p.reviewed : '') + '.',
+          'Begriffsseite: ' + (p.tp === 'approved' ? 'vom Autor bestätigt' : p.tp ? 'deutscher Entwurf, Bestätigung steht aus' : 'noch nicht ausgearbeitet') + '.',
+          p.waiting + ' neue Lesarten warten seit der Prüfung. ' + (p.termBehind ? 'Die Begriffsseite bezieht sich auf einen älteren Kandidatenstand.' : 'Kein Rückstand der Begriffsseite festgestellt.'),
+          'Promotion bestätigt die Prüfung der Quellenlesarten. Sie macht keine Lesart zum Romankanon.',
+          'Kanonentscheidungen stehen in Manuscript/kanon.md, den Entscheidungen und beantworteten Weichen.',
+        ];
+        rd.secs = this.secs(null, [[['Prüfung und Bestätigung'], -1, '', [['ul', text.map((x) => [x])]]], [['Nächster Arbeitsschritt'], -1, '', [['p', [p.st === 'reviewed' ? (p.tp ? 'Die Begriffsseite lesen, neue Lesarten vergleichen und eine Empfehlung zur Bestätigung vorbereiten.' : 'Aus den geprüften Lesarten eine deutsche Begriffsseite ausarbeiten.') : 'Quellen und offene Konflikte prüfen; anschließend die Promotion dem Autor vorlegen.']], ['p', ['Prüfbogen: python3 scripts/promote.py sheet ' + p.s]], ['p', ['Begriffsseite: python3 scripts/terms.py finds ' + p.s]]]]], uid + '-promotion-' + sel);
+        rd.key += ':promotion';
+      } else if (view === 'term' && !p.tp) {
+        rd.secs = this.secs(null, [[['Noch keine Begriffsseite'], -1, '', [['p', ['Für diesen Begriff ist noch keine ausgearbeitete Begriffsseite vorhanden. Unter Quellenlesarten stehen die bisherigen Befunde; unter Promotion & Stand der nächste Schritt.']]]]], uid + '-empty-' + sel);
+      }
+      rd.key += ':' + view;
+      if (view === 'promotion') rd.kicker = 'Promotionsstand · ' + p.t;
+      rd.hasSub = true;
+      rd.sub = view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? 'Zwei Schritte: Quellenlesarten prüfen, anschließend die Begriffsseite bestätigen.' : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
       wr.toc = rd.secs.filter((x) => x.hasHead).map((x) => {
         let label = x.label;
         if (x.hasSig) {
@@ -849,7 +969,7 @@ class Component extends DCLogic {
       wr.inNone = wr.inN === 0;
       wr.cx = p.cx.map((ci) => ({ id: D.conflicts[ci].id, t: D.conflicts[ci].title.replace(/^C\d+\s*—\s*/, ''), go: () => this.go('conflicts', { conf: ci }) }));
       wr.hasCx = wr.cx.length > 0;
-      wr.qx = p.qx.map((qi) => ({ id: D.questions[qi].id, t: D.questions[qi].q, go: () => this.go('questions', { ques: qi }) }));
+      wr.qx = p.qx.map((qi) => ({ id: D.questions[qi].id, t: D.questions[qi].q, go: () => this.go('questions', { qt: 'records', ques: qi }) }));
       wr.hasQx = wr.qx.length > 0;
       wr.reads = p.ing.map((di) => {
         const d = D.docs[di];
@@ -897,7 +1017,7 @@ class Component extends DCLogic {
       cr.status = c.status;
       cr.pages = c.pages.map((i) => this.pageChip(i));
       cr.pagesN = cr.pages.length;
-      cr.qs = D.questions.map((x, i) => ({ x: x, i: i })).filter((o) => o.x.conf.indexOf(sel) >= 0).map((o) => ({ id: o.x.id, t: o.x.q, go: () => this.go('questions', { ques: o.i }) }));
+      cr.qs = D.questions.map((x, i) => ({ x: x, i: i })).filter((o) => o.x.conf.indexOf(sel) >= 0).map((o) => ({ id: o.x.id, t: o.x.q, go: () => this.go('questions', { qt: 'records', ques: o.i }) }));
       cr.hasQs = cr.qs.length > 0;
       cr.path = 'Wiki/conflicts/' + c.f + '.md';
       cr.first = c.first;
@@ -1032,7 +1152,7 @@ class Component extends DCLogic {
       }
     }
 
-    if (is.questions) {
+    if (is.questionRecords) {
       const sel = s.ques == null ? 0 : s.ques;
       ql.list = D.questions.map((x, i) => {
         const on = i === sel;
@@ -1304,7 +1424,7 @@ class Component extends DCLogic {
         } else {
           const x = D.questions[n.ref];
           rail.kind = 'Question · ' + x.status; rail.title = x.title; rail.sub = x.q;
-          rail.open = () => this.go('questions', { ques: n.ref }); rail.openLabel = 'Open the question';
+          rail.open = () => this.go('questions', { qt: 'records', ques: n.ref }); rail.openLabel = 'Open the question';
         }
         rail.groups = order.map((l) => ({ label: l, n: buckets[l].items.length, items: buckets[l].items }));
         g.rail = rail;
@@ -1417,7 +1537,7 @@ class Component extends DCLogic {
       ids: { search: uid + '-search', wq: uid + '-wq', cq: uid + '-cq' },
       q: q, onQ: onQ, onQKey: onQKey, sr: sr,
       now: now, rd: rd, readerRef: this._refCb,
-      w: w, wr: wr, cl: cl, cr: cr, nv: nv, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
+      workshop: workshop, w: w, wr: wr, cl: cl, cr: cr, nv: nv, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
       g: g, cp: cp,
     };
   }

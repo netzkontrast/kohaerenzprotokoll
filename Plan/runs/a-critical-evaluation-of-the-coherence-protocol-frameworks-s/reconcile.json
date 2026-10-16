@@ -1,0 +1,116 @@
+{
+  "document": "a-critical-evaluation-of-the-coherence-protocol-frameworks-s",
+  "drive_id": "17pOUfYZjY7EIQr4xInMa6tcWF4UEafpSXTXkHfDU9w4",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-357/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 43,
+    "decisions": 44,
+    "decided_by_lookup": 39,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English critical paper on two in-world frameworks: its new surfaces are the Λ-Canon Synthesis and its terms, the Corrective Wavelets and borrowed philosophy of truth; what it reports and judges of AEGIS, the Coherons, the Dual Kernel Theory, emergence, Kael, the Risse and TSDP went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Dual Kernel Theory's antagonist, a pathological adherent of coherence truth"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        20,
+        40
+      ],
+      "attribution": "",
+      "note": "Coherons as the Dual Kernel Theory's units of persistence"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        19,
+        52,
+        105
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory judged a thematic heuristic, not a scientific theory"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "Emergenz as the third step of the framework's cycle"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        52,
+        54,
+        55,
+        57
+      ],
+      "attribution": "",
+      "note": "the kernels mirrored onto System Kael's parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "the Risse as the isolation objection made physical"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "TSDP as the dissociation structure the kernels are set against"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Coherons` read on coheron; `Analogical Extrapolation` a heading, not alex; `Genesis-Krise` read on aegis as its founding trauma",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 20,
+      "decision": "reading",
+      "why": "Coherons as atoms of persistence, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "the Λ-Canon Synthesis and its terms (coherence floor, Λ-Imperative, Codex Framework, Bridge Protocol, φ-envelope)",
+    "Corrective Wavelets and the Corrective Wavelet Hypothesis, K₁ and K₀ as labels, private cosmology",
+    "the borrowed concepts (coherence and correspondence theories of truth, falsifiability, pseudoscience hallmarks)"
+  ],
+  "internal_tension": "none found; the Dual Kernel Theory travels under two names (L5, L11)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

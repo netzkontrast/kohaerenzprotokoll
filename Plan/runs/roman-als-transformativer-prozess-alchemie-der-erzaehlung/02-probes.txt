@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      48
+  backslash escapes      94
+  typographic marks      151
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  psych    Psyche, Psychodrama, Psychodynamik, Psychologische, Psychologisches, Psychology, Psychotherapeutische
+  inter    Interesse, Internal, Internalisierung, Interplay, Interventionen, Interventions
+  gegen    Gegensatz, Gegenstand, Gegenstandstheorie, Gegensätzliche, Gegenteil
+  indiv    Individuation, Individuations, Individuationsprozess, Individuationsprozesses, Individuen
+  leser    Leser, Leserbewusstsein, Leserintegration, Lesers, Lesertransformation
+  bewus    Bewusstem, Bewusstsein, Bewusstseins, Bewusstwerdung
+  handl    Handlung, Handlungen, Handlungselement, Handlungskonflikt
+  infor    Information, Informationsmuster, Informationsstruktur, Informationstheorie
+  narra    Narrative, Narrativen, Narrativer, Narratives
+  objek    Objekt, Objektbeziehungstheorie, Objekte, Objekts
+  ontol    Ontologie, Ontologische, Ontologischer, Ontology
+  probl    Problem, Probleme, Problemen, Problemlösung
+  selbs    Selbst, Selbstdarstellung, Selbsterhaltung, Selbstzweifeln
+  alche    Alchemie, Alchemist, Alchemistische
+  arche    Archetyp, Archetypen, Archetyps
+  chara    Characters, Charaktere, Charakters
+  diese    Diese, Dieser, Dieses
+  erwac    Erwachen, Erwachens, Erwachte
+  fragm    Fragment, Fragmentierte, Fragmentierung
+  gesch    Geschenk, Geschichte, Geschöpf
+  gärtn    Gärtner, Gärtnerns, Gärtners
+  ideen    Ideen, Ideenlehre, Ideenwelt
+  integ    Integration, Integrationsreise, Integratives
+  inten    Intensität, Intentionalitat, Intentionalität
+  intro    Introduced, Introjektion, Introjektionsmechanismus
+
+# substring pairs -- never one term, often merged by accident
+  Berg < Übergang
+  Best < Bestätigung
+  Bild < Urbilder
+  Bild < Spiegelbild
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Steine
+  Eine < Steinen
+  Ende < Tendenz
+  Ende < Entsprechender
+  Esse < Essenz
+  Esse < Interesse
+  Esse < Prozesses
+  Esse < Besessenheit
+  Esse < Individuationsprozesses
+  Form < Formen
+  Form < Information
+  Form < Transformation

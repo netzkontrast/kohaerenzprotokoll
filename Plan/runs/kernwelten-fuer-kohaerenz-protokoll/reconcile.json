@@ -1,0 +1,191 @@
+{
+  "document": "kernwelten-fuer-kohaerenz-protokoll",
+  "drive_id": "11Hb5iQCqeD1q7RWDSSU11JpJjrW456p8FXCff-7M1GI",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-260/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 82,
+    "decided_by_lookup": 65,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A design report for the four Kernwelten: its new surfaces are the world names Co₁, McL, B and Ly, the guardian names, Kaels Schmelztiegel, Dominanter Cache, the sporadic groups and the borrowed concepts; what it says of the novel's world went on existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        387,
+        408,
+        410
+      ],
+      "attribution": "",
+      "note": "AEGIS as the author of laboratories whose control may be imperfect"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        149,
+        153,
+        182
+      ],
+      "attribution": "",
+      "note": "Cache Kohärenz as the character dynamic the worlds must enable"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        61,
+        348,
+        379
+      ],
+      "attribution": "",
+      "note": "Emergence as the core mechanic proposed for the Ly world"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        440,
+        441,
+        442,
+        482
+      ],
+      "attribution": "",
+      "note": "one guardian per world, from rule-enforcer to catalyst"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        182,
+        418,
+        419,
+        421,
+        483
+      ],
+      "attribution": "",
+      "note": "the K-J connection as a proposed channel across the caches"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        149,
+        301,
+        408
+      ],
+      "attribution": "",
+      "note": "Kael as the one whose identity the four worlds isolate and test"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        204,
+        408,
+        478,
+        493
+      ],
+      "attribution": "",
+      "note": "four worlds Co₁, McL, B and Ly worked out as a proposal"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        231,
+        280,
+        440
+      ],
+      "attribution": "",
+      "note": "`LogOS-Supervisor` as the proposed guardian of Co₁"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        352
+      ],
+      "attribution": "",
+      "note": "the Ly world's environment as a „Potentialmeer“ ^[kernwelten-fuer-kohaerenz-protokoll.md:L352]"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        69,
+        197,
+        204
+      ],
+      "attribution": "",
+      "note": "Gödelsche Risse in Co₁ as a proposed consequence of perfect order"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J26 (`Kernwelt Co₁`, `Kernwelt McL`, `Kernwelt B`, `Kernwelt Ly` on kern-welten); `Baby-Monster-Welt` and `Baby-Monster` one term, not promoted; `Kaels Schmelztiegel` on kael; `Cache Kohärenz` and `Cache Kohärenz Manifestation` on cache-kohaerenz; `Emergenz als Kernmechanik` on emergenz; `Wächter` the document's word for the guardians (Q4), not AEGIS; `LogOS-Supervisor` on logos; `Gödelsche Risse` on risse; `Quanten-Nichtlokalitäts-Analogie` and `Nichtlokalität`, `Potentialität manifestiert` and `Potentialität` a borrowed lens; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "logos",
+      "surface": "LogOS",
+      "line": 280,
+      "decision": "reading",
+      "why": "the Netzweber compared with LogOS"
+    },
+    {
+      "page": "potentialmeer",
+      "surface": "Potentialmeer",
+      "line": 352,
+      "decision": "reading",
+      "why": "the creative world's environment as a Potentialmeer"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 69,
+      "decision": "reading",
+      "why": "inherent logical cracks in Co₁"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 478,
+      "decision": "occurrence",
+      "why": "each world a self-contained simulation, read on kern-welten"
+    }
+  ],
+  "not_promoted": [
+    "Co₁, McL, B, Ly as pages",
+    "Netzweber, Chaos-Regulator, Möglichkeits-Weber",
+    "Kaels Schmelztiegel, Dominanter Cache",
+    "the sporadic groups",
+    "the borrowed concepts (Gödel, IFS, Jung's shadow, chaos theory)"
+  ],
+  "internal_tension": "it leaves open whether Ly's cache is the IFS Self (a question mark in the table) and how the guardians' antagonist and catalyst roles relate (L439); it reports a brief it does not reproduce",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

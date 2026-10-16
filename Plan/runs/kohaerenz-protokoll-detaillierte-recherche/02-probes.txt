@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      72
+  backslash escapes      3
+  typographic marks      250
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalytiker, Systemen, Systemfehler, Systemkollaps, Systemleistung, Systems, Systemstabilität, Systemverantwortung, Systemzustand
+  selbs    Selbst, Selbstauslöschung, Selbstbestimmung, Selbstentdeckung, Selbsterhaltung, Selbstmodell, Selbstproduktion, Selbstverstümmelung
+  handl    Handlung, Handlungen, Handlungsentwicklung, Handlungsinstrumente, Handlungsumkehr, Handlungswendungen
+  integ    Integration, Integrations, Integrationsreise, Integriert, Integrierte, Integrität
+  inter    Internal, InternalFamilySystems, Interner, Internet, Interpretationen, Intervention
+  poten    Potential, Potentialis, Potentialität, Potentialmeer, Potenzial, Potenzials
+  archi    Archipel, Architekten, Architektur, Architekturen, Archive
+  attra    Attractor, Attractors, Attraktor, Attraktoren, Attraktors
+  erzäh    Erzähllinie, Erzähllinien, Erzählmodellen, Erzählstimme, Erzählung
+  fragm    Fragment, Fragmenten, Fragmentiert, Fragmentierte, Fragmentierung
+  antei    Anteil, Anteile, Anteilen, Anteils
+  bewus    Bewusstsein, Bewusstseine, Bewusstseins, Bewusstseinsstrom
+  explo    Exploit, Explored, Exploring, Explosion
+  heilu    Heilung, Heilungsmodell, Heilungsprozess, Heilungsziel
+  kontr    Kontrast, Kontrolle, Kontrollmodell, Kontrollprotokolle
+  mecha    Mechanics, Mechanik, Mechanism, Mechanismus
+  model    Model, Modell, Modelle, Modells
+  parad    Paradigmen, Paradox, Paradoxon, Paradoxons
+  polyp    Polyphone, Polyphonic, Polyphonie, Polyphony
+  probl    Problem, Probleme, Problemlösung, Problems
+  psych    Psyche, Psycho, Psychological, Psychologisches
+  quant    Quantenmodell, Quantensystems, Quantenverschränkung, Quantum
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen
+  theor    Theorems, Theorie, Theorien, Theory
+  traum    Trauma, Traumas, Traumatisiert, Traumaverarbeitung
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Alles
+  Alle < Valley
+  Arts < Parts
+  Arts < LitCharts
+  Data < Datamosh
+  Data < Datamoshing
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Eine < Seine
+  Eine < Anscheinend
+  Eine < Bewusstseine
+  Ende < Tendenz
+  Ende < Wissenden
+  Ende < Wendepunkt
+  Ende < Transzendenz
+  Ende < Vergleichende
+  Ende < Übergreifende
+  FALL < Fall

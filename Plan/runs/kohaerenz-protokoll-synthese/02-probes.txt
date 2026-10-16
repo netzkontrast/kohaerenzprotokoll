@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      34
+  backslash escapes      234
+  typographic marks      85
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  story    Story, Storyform, Storyforms, Storymind, Storypoint
+  algeb    Algebra, Algebras, Algebren
+  archi    Archipel, Architecture, Architektur
+  conce    Concept, Conception, Concern
+  diale    Dialetheic, Dialetheism, Dialetheismus
+  husse    Husserl, Husserlian, Husserlsche
+  inver    Inversion, Inversionstests, Inverted
+  monst    Monster, Monstergruppe, Monstrous
+  ontol    Ontological, Ontologies, Ontology
+  struc    Structural, Structurally, Structured
+  activ    Active, Activity
+  algor    Algorithmic, Algorithmische
+  appen    Appendices, Appendix
+  canon    Canon, Canonical
+  consc    Conscious, Consciousness
+  conve    Convergence, Conversely
+  deter    Determinism, Deterministic
+  disso    Dissociation, Dissoziation
+  drive    Drive, Driver
+  funkt    Funktion, Funktionale
+  heuri    Heuristics, Heuristik
+  infor    Information, Informationslöschung
+  integ    Integration, Integrity
+  mathe    Mathematical, Mathematics
+  opera    Operationally, Operator
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duale
+  Fail < Failure
+  Gate < Gates
+  Iser < Isers
+  Juna < Junas
+  Kern < Kernel
+  Main < Domain
+  Math < Mathematics
+  Math < Mathematical
+  Mind < Storymind
+  Mode < Modell
+  Note < NotebookLM
+  PASS < Pass
+  Part < Parts
+  Part < Participatory
+  Real < Reality
+  Real < Realität
+  Zeit < Raumzeit
+  Canon < Canonical
+  Drive < Driver

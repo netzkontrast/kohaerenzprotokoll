@@ -1,10 +1,10 @@
 ---
 term: Chaitin-Konstante
 status: candidate
-sources: 20
-readings: 19
+sources: 24
+readings: 23
 conflict: none yet
-ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie"]
+ingested: ["roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-konzept-master-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "dramatica-storyform-synthese-aegis-analyse-2", "dramatica-storyform-synthese-aegis-analyse", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "technical-audit-research-mandate-the-kohaerenz-protokoll-fra", "kohaerenz-protokoll-audit-und-verifizierung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "romanprojekt-kohaerenz-protokoll-analyse", "kohaerenz-protokoll-kapitel-outline-generierung-2", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-architecture-synthesis", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "ui-konzept-fuer-roman-entwicklungssystem", "kohaerenz-protokoll-synthese", "roman-konzeptentwicklung-kohaerenz-protokoll", "dramatica-dual-storyform-mapping-protokoll"]
 gathered: "2026-09-25"
 ---
 
@@ -29,6 +29,14 @@ for Juna. Its chapter 19 is titled „Chaitins Rauschen und das innere Kind" ^[r
 „Dies ist die Metapher für Chaitins Konstante" ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95] — „irreduzible mathematische Fakten, die einfach wahr sind, ohne dass eine erklärende Theorie dahintersteht." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 „Mancher Schmerz hat im Nachhinein keinen logischen Grund mehr; er ist ein axiomatisch unkomprimierbarer Fakt." ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L95]
 
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — the Chaitin constant against AEGIS's axioms
+
+In Part III the master synthesis plans that the simulation's structure collapses: „Die strengen Axiome von AEGIS halten dem Druck der Chaitin-Konstante (der unkomprimierbaren Wahrheit von Junas Existenz) nicht länger stand“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L110]. It gives the constant no further treatment. A plan, not the novel as written.
+
+## Reading — `ui-konzept-fuer-roman-entwicklungssystem`, 2026-02-27, the UI concept — Juna as the personified constant
+
+The UI concept describes Juna as „die personifizierte Chaitin-Konstante“ ^[ui-konzept-fuer-roman-entwicklungssystem.md:L121], and glosses it „logisch unberechenbar, informationstechnisch nicht komprimierbar, aber metaphysisch absolut notwendig“ ^[ui-konzept-fuer-roman-entwicklungssystem.md:L121]. Recorded, not applied.
+
 ## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — the constant personified by Juna
 
 The AIEOS evaluation says that the logic of the part Lex meets the halting problem and „und die algorithmische Unberechenbarkeit der Chaitin-Konstante, welche durch die Anomalie“ ^[charaktermodellierung-mit-aieos-schema.md:L35] Juna personified (Juna is set in bold in the line); the line ends that she is thus „personifiziert wird“ ^[charaktermodellierung-mit-aieos-schema.md:L35]. The report cites reference 2 for it.
@@ -36,6 +44,10 @@ The AIEOS evaluation says that the logic of the part Lex meets the halting probl
 ## Reading — `kohaerenz-protokoll-architecture-synthesis`, 2026-04-28, the architecture synthesis — Juna as Chaitin constant for AEGIS
 
 The architecture synthesis proposes Juna as, among other things, the Chaitin constant: the German block says she is the embodiment of „Gödel-Satzes und der Chaitin-Konstante (Ω)“ ^[kohaerenz-protokoll-architecture-synthesis.md:L81], and the English writes Chaitin’s constant on L79. The abstract of Appendix H gives the appendix's aim in German: „Dieser Anhang begründet, warum die Kombination aus Chaitin-Konstante und extradiagetischem Anker“ ^[kohaerenz-protokoll-architecture-synthesis.md:L202] the only workable solution (the sentence continues past the quotation). The appendix's own verdict says she is „the Chaitin-constant for AEGIS“ ^[kohaerenz-protokoll-architecture-synthesis.md:L212], rendering the AI unable to process her.
+
+## Reading — `kohaerenz-protokoll-synthese`, 2026-04-28, the final validation brief — Juna as an amalgam including the Chaitin-Konstante
+
+The German summary of Appendix H gives Juna's status as „komplexes Amalgam aus Gödel-Satz, Chaitin-Konstante und externer Beobachterinstanz“ ^[kohaerenz-protokoll-synthese.md:L173]. The English text of the appendix places her as „a living Gödel-sentence combined with the uncomputable properties of Chaitin’s constant“ ^[kohaerenz-protokoll-synthese.md:L177]. The sixth axis ties the constant to randomness as a creative advance, as the sixth axis „synthesizes Whitehead’s process philosophy“ ^[kohaerenz-protokoll-synthese.md:L35] with Chaitin's halting probability. The brief marks these as verdicts of its own validation.
 
 ## Reading — `technical-audit-research-mandate-the-kohaerenz-protokoll-fra`, 2026-04-29, the Technical Audit — the halting probability as the source of novelty
 
@@ -71,6 +83,10 @@ Kap 15 is titled `Die Chaitin-Konstante`; it plans „Entdeckung der irreduzible
 ## Reading — `romanprojekt-analyse-synthese`, 2026-04-30, the reset synthesis — the constant found in the city's source code in Kapitel 19
 
 In its account of Phase II the synthesis says: „Kael entdeckt in Kapitel“ ^[romanprojekt-analyse-synthese.md:L56] 19 the Chaitin-Konstante, and calls it „eine irreduzible Zufälligkeit im Quellcode der Stadt“ ^[romanprojekt-analyse-synthese.md:L56]. The symbol after the name was lost in the export and is not supplied.
+
+## Reading — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report — Juna as the Chaitin constant in its Alternative 2
+
+In its Alternative 2 the dual-storyform mapping report writes: „Juna fungiert als die Chaitin-Konstante“ ^[dramatica-dual-storyform-mapping-protokoll.md:L155]; the symbol after the name is missing in the export. The constant forms, per the report, the fixed point as incompressible information in both of its storyforms. In its phase model the discovery of the constant stands in Kapitel 19–22: „Entdeckung der Chaitin-Konstante und des Landauer-Limits.“ ^[dramatica-dual-storyform-mapping-protokoll.md:L176]
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

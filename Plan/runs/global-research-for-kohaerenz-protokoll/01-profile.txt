@@ -1,0 +1,14 @@
+# global-research-for-kohaerenz-protokoll
+  lines                229  (frontmatter ends at 9)
+  body words           4857
+  headings             21   bold-only lines 0
+  table rows           20   code fences 0
+  question marks       2
+  backslash escapes    96
+  typographic marks    37   ascii quotes 70
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      Experimental Pipeline x3, Objective x3, Target Collaborations x3
+  longest line         972 chars
+

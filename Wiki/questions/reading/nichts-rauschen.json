@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "nichts-rauschen",
+ "title": "Nichts-Rauschen",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Leere gegenüber latenter Information",
+  "Ungetrenntheit vor der Systembildung",
+  "Fehldeutung als Chaos",
+  "Erleben ohne begrenztes Subjekt",
+  "Gefahr einer Rückkehr zum Ursprung"
+ ],
+ "basis": {
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "potentialmeer": {
+   "title": "Potentialmeer",
+   "path": "Wiki/candidates/potentialmeer.md",
+   "hash": "0203c06c77688110ec6665d99a7da0541646d07bbb7386196f7f3886a1d72c4f"
+  },
+  "kohaerenz-kernel": {
+   "title": "Kohärenz-Kernel (K₁)",
+   "path": "Wiki/candidates/kohaerenz-kernel.md",
+   "hash": "624b3d551b314d96a4a674b350ad0361241d99f9a07692e7e15101e2754deac1"
+  },
+  "k0-existenz": {
+   "title": "K0-Existenz",
+   "path": "Wiki/candidates/k0-existenz.md",
+   "hash": "c3a340bb3d310fc40c5f29c873588d250c4b8a4ce73918ddf6c5698ff157f0da"
+  },
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-nichts-rauschen-001",
+   "question": "Was fehlt dem Nichts-Rauschen gegenüber strukturierter Existenz, wenn es bereits latente Information und mögliche Bindung enthält?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-002",
+   "question": "Welche Lesarten auf der Seite zu Nichts-Rauschen stützen oder begrenzen „Leere gegenüber latenter Information“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-003",
+   "question": "Welcher Grenzfall würde bei Nichts-Rauschen die Annahmen über „Leere gegenüber latenter Information“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-004",
+   "question": "Wer könnte innerhalb des Romans bei Nichts-Rauschen etwas über „Leere gegenüber latenter Information“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-005",
+   "question": "Welche konkrete Entscheidung könnte „Leere gegenüber latenter Information“ bei Nichts-Rauschen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Leere gegenüber latenter Information“ bei Nichts-Rauschen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-007",
+   "question": "Wie lässt sich „Leere gegenüber latenter Information“ bei Nichts-Rauschen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-008",
+   "question": "Welche Alternativen sollte der Autor bei Nichts-Rauschen für „Leere gegenüber latenter Information“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-009",
+   "question": "Was bedeutet bei Nichts-Rauschen der Themenpunkt „Ungetrenntheit vor der Systembildung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-010",
+   "question": "Welche Lesarten auf der Seite zu Nichts-Rauschen stützen oder begrenzen „Ungetrenntheit vor der Systembildung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-011",
+   "question": "Welcher Grenzfall würde bei Nichts-Rauschen die Annahmen über „Ungetrenntheit vor der Systembildung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-012",
+   "question": "Wer könnte innerhalb des Romans bei Nichts-Rauschen etwas über „Ungetrenntheit vor der Systembildung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-013",
+   "question": "Welche konkrete Entscheidung könnte „Ungetrenntheit vor der Systembildung“ bei Nichts-Rauschen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Ungetrenntheit vor der Systembildung“ bei Nichts-Rauschen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-015",
+   "question": "Wie lässt sich „Ungetrenntheit vor der Systembildung“ bei Nichts-Rauschen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-016",
+   "question": "Welche Alternativen sollte der Autor bei Nichts-Rauschen für „Ungetrenntheit vor der Systembildung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-017",
+   "question": "Was bedeutet bei Nichts-Rauschen der Themenpunkt „Fehldeutung als Chaos“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-018",
+   "question": "Welche Lesarten auf der Seite zu Nichts-Rauschen stützen oder begrenzen „Fehldeutung als Chaos“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-019",
+   "question": "Welcher Grenzfall würde bei Nichts-Rauschen die Annahmen über „Fehldeutung als Chaos“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-020",
+   "question": "Wer könnte innerhalb des Romans bei Nichts-Rauschen etwas über „Fehldeutung als Chaos“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-021",
+   "question": "Welche konkrete Entscheidung könnte „Fehldeutung als Chaos“ bei Nichts-Rauschen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fehldeutung als Chaos“ bei Nichts-Rauschen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-023",
+   "question": "Wie lässt sich „Fehldeutung als Chaos“ bei Nichts-Rauschen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-024",
+   "question": "Welche Alternativen sollte der Autor bei Nichts-Rauschen für „Fehldeutung als Chaos“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-025",
+   "question": "Was bedeutet bei Nichts-Rauschen der Themenpunkt „Erleben ohne begrenztes Subjekt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-026",
+   "question": "Welche Lesarten auf der Seite zu Nichts-Rauschen stützen oder begrenzen „Erleben ohne begrenztes Subjekt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-027",
+   "question": "Welcher Grenzfall würde bei Nichts-Rauschen die Annahmen über „Erleben ohne begrenztes Subjekt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-028",
+   "question": "Wer könnte innerhalb des Romans bei Nichts-Rauschen etwas über „Erleben ohne begrenztes Subjekt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-029",
+   "question": "Welche konkrete Entscheidung könnte „Erleben ohne begrenztes Subjekt“ bei Nichts-Rauschen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erleben ohne begrenztes Subjekt“ bei Nichts-Rauschen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-031",
+   "question": "Wie lässt sich „Erleben ohne begrenztes Subjekt“ bei Nichts-Rauschen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-032",
+   "question": "Welche Alternativen sollte der Autor bei Nichts-Rauschen für „Erleben ohne begrenztes Subjekt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-033",
+   "question": "Was bedeutet bei Nichts-Rauschen der Themenpunkt „Gefahr einer Rückkehr zum Ursprung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-034",
+   "question": "Welche Lesarten auf der Seite zu Nichts-Rauschen stützen oder begrenzen „Gefahr einer Rückkehr zum Ursprung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-035",
+   "question": "Welcher Grenzfall würde bei Nichts-Rauschen die Annahmen über „Gefahr einer Rückkehr zum Ursprung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-036",
+   "question": "Wer könnte innerhalb des Romans bei Nichts-Rauschen etwas über „Gefahr einer Rückkehr zum Ursprung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-037",
+   "question": "Welche konkrete Entscheidung könnte „Gefahr einer Rückkehr zum Ursprung“ bei Nichts-Rauschen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gefahr einer Rückkehr zum Ursprung“ bei Nichts-Rauschen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-039",
+   "question": "Wie lässt sich „Gefahr einer Rückkehr zum Ursprung“ bei Nichts-Rauschen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-040",
+   "question": "Welche Alternativen sollte der Autor bei Nichts-Rauschen für „Gefahr einer Rückkehr zum Ursprung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-041",
+   "question": "Wo unterscheiden sich Nichts-Rauschen und Genesis, wenn man sie unter dem Gesichtspunkt „Leere gegenüber latenter Information“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-042",
+   "question": "Welche Quelle verbindet Nichts-Rauschen mit Genesis in Bezug auf „Leere gegenüber latenter Information“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-043",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Nichts-Rauschen unter „Leere gegenüber latenter Information“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-044",
+   "question": "Wie könnte sich das Wissen über Nichts-Rauschen vom Wissen über Genesis unterscheiden, wenn „Leere gegenüber latenter Information“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nichts-Rauschen und Genesis bei „Leere gegenüber latenter Information“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-046",
+   "question": "Falls Nichts-Rauschen im Hinblick auf „Leere gegenüber latenter Information“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nichts-Rauschen und Genesis bei „Leere gegenüber latenter Information“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-048",
+   "question": "Braucht der Roman eine Verbindung von Nichts-Rauschen und Genesis bei „Leere gegenüber latenter Information“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-049",
+   "question": "In welchem denkbaren Fall könnte Nichts-Rauschen bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „Leere gegenüber latenter Information“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-050",
+   "question": "Welche Kosten könnte eine Verbindung von Nichts-Rauschen und Genesis in Bezug auf „Leere gegenüber latenter Information“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-051",
+   "question": "Welche ältere Lesart von Nichts-Rauschen oder Genesis könnte die Gegenüberstellung unter „Leere gegenüber latenter Information“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nichts-Rauschen und Genesis unter „Leere gegenüber latenter Information“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nichts-rauschen",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-053",
+   "question": "Wo unterscheiden sich Nichts-Rauschen und Potentialmeer, wenn man sie unter dem Gesichtspunkt „Ungetrenntheit vor der Systembildung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-054",
+   "question": "Welche Quelle verbindet Nichts-Rauschen mit Potentialmeer in Bezug auf „Ungetrenntheit vor der Systembildung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-055",
+   "question": "Welche Grenzen aus der Seite zu Potentialmeer müsste eine Deutung von Nichts-Rauschen unter „Ungetrenntheit vor der Systembildung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-056",
+   "question": "Wie könnte sich das Wissen über Nichts-Rauschen vom Wissen über Potentialmeer unterscheiden, wenn „Ungetrenntheit vor der Systembildung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nichts-Rauschen und Potentialmeer bei „Ungetrenntheit vor der Systembildung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-058",
+   "question": "Falls Nichts-Rauschen im Hinblick auf „Ungetrenntheit vor der Systembildung“ anders festgelegt wird: Welche Aussagen über Potentialmeer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nichts-Rauschen und Potentialmeer bei „Ungetrenntheit vor der Systembildung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-060",
+   "question": "Braucht der Roman eine Verbindung von Nichts-Rauschen und Potentialmeer bei „Ungetrenntheit vor der Systembildung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-061",
+   "question": "In welchem denkbaren Fall könnte Nichts-Rauschen bestehen, ohne dass Potentialmeer dieselbe Funktion übernimmt, und was würde das für „Ungetrenntheit vor der Systembildung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-062",
+   "question": "Welche Kosten könnte eine Verbindung von Nichts-Rauschen und Potentialmeer in Bezug auf „Ungetrenntheit vor der Systembildung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-063",
+   "question": "Welche ältere Lesart von Nichts-Rauschen oder Potentialmeer könnte die Gegenüberstellung unter „Ungetrenntheit vor der Systembildung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nichts-Rauschen und Potentialmeer unter „Ungetrenntheit vor der Systembildung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nichts-rauschen",
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-065",
+   "question": "Wo unterscheiden sich Nichts-Rauschen und Kohärenz-Kernel (K₁), wenn man sie unter dem Gesichtspunkt „Fehldeutung als Chaos“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-066",
+   "question": "Welche Quelle verbindet Nichts-Rauschen mit Kohärenz-Kernel (K₁) in Bezug auf „Fehldeutung als Chaos“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-067",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz-Kernel (K₁) müsste eine Deutung von Nichts-Rauschen unter „Fehldeutung als Chaos“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-068",
+   "question": "Wie könnte sich das Wissen über Nichts-Rauschen vom Wissen über Kohärenz-Kernel (K₁) unterscheiden, wenn „Fehldeutung als Chaos“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nichts-Rauschen und Kohärenz-Kernel (K₁) bei „Fehldeutung als Chaos“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-070",
+   "question": "Falls Nichts-Rauschen im Hinblick auf „Fehldeutung als Chaos“ anders festgelegt wird: Welche Aussagen über Kohärenz-Kernel (K₁) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nichts-Rauschen und Kohärenz-Kernel (K₁) bei „Fehldeutung als Chaos“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-072",
+   "question": "Braucht der Roman eine Verbindung von Nichts-Rauschen und Kohärenz-Kernel (K₁) bei „Fehldeutung als Chaos“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-073",
+   "question": "In welchem denkbaren Fall könnte Nichts-Rauschen bestehen, ohne dass Kohärenz-Kernel (K₁) dieselbe Funktion übernimmt, und was würde das für „Fehldeutung als Chaos“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-074",
+   "question": "Welche Kosten könnte eine Verbindung von Nichts-Rauschen und Kohärenz-Kernel (K₁) in Bezug auf „Fehldeutung als Chaos“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-075",
+   "question": "Welche ältere Lesart von Nichts-Rauschen oder Kohärenz-Kernel (K₁) könnte die Gegenüberstellung unter „Fehldeutung als Chaos“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nichts-Rauschen und Kohärenz-Kernel (K₁) unter „Fehldeutung als Chaos“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nichts-rauschen",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-077",
+   "question": "Wo unterscheiden sich Nichts-Rauschen und K0-Existenz, wenn man sie unter dem Gesichtspunkt „Erleben ohne begrenztes Subjekt“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-078",
+   "question": "Welche Quelle verbindet Nichts-Rauschen mit K0-Existenz in Bezug auf „Erleben ohne begrenztes Subjekt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-079",
+   "question": "Welche Grenzen aus der Seite zu K0-Existenz müsste eine Deutung von Nichts-Rauschen unter „Erleben ohne begrenztes Subjekt“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-080",
+   "question": "Wie könnte sich das Wissen über Nichts-Rauschen vom Wissen über K0-Existenz unterscheiden, wenn „Erleben ohne begrenztes Subjekt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nichts-Rauschen und K0-Existenz bei „Erleben ohne begrenztes Subjekt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-082",
+   "question": "Falls Nichts-Rauschen im Hinblick auf „Erleben ohne begrenztes Subjekt“ anders festgelegt wird: Welche Aussagen über K0-Existenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nichts-Rauschen und K0-Existenz bei „Erleben ohne begrenztes Subjekt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-084",
+   "question": "Braucht der Roman eine Verbindung von Nichts-Rauschen und K0-Existenz bei „Erleben ohne begrenztes Subjekt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-085",
+   "question": "In welchem denkbaren Fall könnte Nichts-Rauschen bestehen, ohne dass K0-Existenz dieselbe Funktion übernimmt, und was würde das für „Erleben ohne begrenztes Subjekt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-086",
+   "question": "Welche Kosten könnte eine Verbindung von Nichts-Rauschen und K0-Existenz in Bezug auf „Erleben ohne begrenztes Subjekt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-087",
+   "question": "Welche ältere Lesart von Nichts-Rauschen oder K0-Existenz könnte die Gegenüberstellung unter „Erleben ohne begrenztes Subjekt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nichts-Rauschen und K0-Existenz unter „Erleben ohne begrenztes Subjekt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nichts-rauschen",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-089",
+   "question": "Wo unterscheiden sich Nichts-Rauschen und Emergenz, wenn man sie unter dem Gesichtspunkt „Gefahr einer Rückkehr zum Ursprung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-090",
+   "question": "Welche Quelle verbindet Nichts-Rauschen mit Emergenz in Bezug auf „Gefahr einer Rückkehr zum Ursprung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-091",
+   "question": "Welche Grenzen aus der Seite zu Emergenz müsste eine Deutung von Nichts-Rauschen unter „Gefahr einer Rückkehr zum Ursprung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-092",
+   "question": "Wie könnte sich das Wissen über Nichts-Rauschen vom Wissen über Emergenz unterscheiden, wenn „Gefahr einer Rückkehr zum Ursprung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nichts-Rauschen und Emergenz bei „Gefahr einer Rückkehr zum Ursprung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-094",
+   "question": "Falls Nichts-Rauschen im Hinblick auf „Gefahr einer Rückkehr zum Ursprung“ anders festgelegt wird: Welche Aussagen über Emergenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nichts-Rauschen und Emergenz bei „Gefahr einer Rückkehr zum Ursprung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-096",
+   "question": "Braucht der Roman eine Verbindung von Nichts-Rauschen und Emergenz bei „Gefahr einer Rückkehr zum Ursprung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-097",
+   "question": "In welchem denkbaren Fall könnte Nichts-Rauschen bestehen, ohne dass Emergenz dieselbe Funktion übernimmt, und was würde das für „Gefahr einer Rückkehr zum Ursprung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-098",
+   "question": "Welche Kosten könnte eine Verbindung von Nichts-Rauschen und Emergenz in Bezug auf „Gefahr einer Rückkehr zum Ursprung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-099",
+   "question": "Welche ältere Lesart von Nichts-Rauschen oder Emergenz könnte die Gegenüberstellung unter „Gefahr einer Rückkehr zum Ursprung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-nichts-rauschen-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nichts-Rauschen und Emergenz unter „Gefahr einer Rückkehr zum Ursprung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nichts-rauschen",
+    "emergenz"
+   ]
+  }
+ ]
+}

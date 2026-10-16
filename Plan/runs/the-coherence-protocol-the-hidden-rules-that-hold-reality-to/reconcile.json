@@ -1,0 +1,82 @@
+{
+  "document": "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
+  "drive_id": "1KywL7P4Aqdax4EmhdTnpLPX6lCuMZQv3Up7aJRxalh4",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass: readings on three pages by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-373/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 28,
+    "decisions": 26,
+    "decided_by_lookup": 23,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English explanatory essay on coherence as an active process, naming no figure of the novel: its new surfaces are borrowed physics and computing concepts; what its speculative framework says of the Dual Kernel Theory, the Coherons and cache coherence went on existing pages (light pass).",
+  "new_readings": [
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        25,
+        27,
+        54
+      ],
+      "attribution": "",
+      "note": "cache coherence as the engineered case of a costly protocol"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        63,
+        71
+      ],
+      "attribution": "",
+      "note": "Coherons as self-correcting units, repaired by Corrective Wavelets"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        58,
+        60,
+        61,
+        65
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as a closing, self-labelled speculative framework"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Coherons` read on coheron; `cache coherence protocol` and `irreversible computation` the essay's own wordings",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 63,
+      "decision": "reading",
+      "why": "Coherons as units of persistence, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Protocol Ontology, Corrective Wavelets, felt side of re-coherence, erosive pressure",
+    "the borrowed concepts (quantum coherence and decoherence, QRT, self-organisation, downward causation, MESI, reversible computation)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

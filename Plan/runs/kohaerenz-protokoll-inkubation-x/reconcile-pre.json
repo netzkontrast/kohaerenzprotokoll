@@ -1,0 +1,566 @@
+{
+  "document": "kohaerenz-protokoll-inkubation-x",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 82,
+  "decisions": 87,
+  "same_surface": {},
+  "decided_mechanically": 65,
+  "needs_judgement": 22,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 268
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 264
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 117
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 149
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 161
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Projekt Inkubation X"
+      },
+      {
+        "candidate": "Transzendenz-Vektoren"
+      },
+      {
+        "candidate": "Konzept-Singularitäten"
+      },
+      {
+        "candidate": "Orakel-Sigma"
+      },
+      {
+        "candidate": "Direktive V3"
+      },
+      {
+        "candidate": "Fundament"
+      },
+      {
+        "candidate": "Leere"
+      },
+      {
+        "candidate": "Basisrealität"
+      },
+      {
+        "candidate": "Interaktionsmechanismen"
+      },
+      {
+        "candidate": "Hypothesencluster"
+      },
+      {
+        "candidate": "Sub-Hypothese"
+      },
+      {
+        "candidate": "Hypothesenmatrix"
+      },
+      {
+        "candidate": "Gravitationsleckage"
+      },
+      {
+        "candidate": "Irreduzible Andere"
+      },
+      {
+        "candidate": "Wurmloch-Transit"
+      },
+      {
+        "candidate": "Höherdimensionale Projektion"
+      },
+      {
+        "candidate": "Parasitäre Berechnung"
+      },
+      {
+        "candidate": "Pathologische Transformation"
+      },
+      {
+        "candidate": "Informationsfeld-Manipulation"
+      },
+      {
+        "candidate": "Genre-Synergie"
+      },
+      {
+        "candidate": "Kaskadierendes Versagen"
+      },
+      {
+        "candidate": "Posthumane Transformation"
+      },
+      {
+        "candidate": "Informationelle Substrat"
+      },
+      {
+        "candidate": "Mathematische Struktur"
+      },
+      {
+        "candidate": "Holographische Realität"
+      },
+      {
+        "candidate": "Mechanismus"
+      },
+      {
+        "candidate": "Szenario"
+      },
+      {
+        "candidate": "Strategie"
+      },
+      {
+        "candidate": "M-Theorie"
+      },
+      {
+        "candidate": "It from Bit"
+      },
+      {
+        "candidate": "QBism"
+      },
+      {
+        "candidate": "Mathematical Universe Hypothesis"
+      },
+      {
+        "candidate": "MUH"
+      },
+      {
+        "candidate": "Holographischen Prinzip"
+      },
+      {
+        "candidate": "Nicht-Duale Ontologie"
+      },
+      {
+        "candidate": "Orch OR"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "IIT"
+      },
+      {
+        "candidate": "Global Neuronal Workspace"
+      },
+      {
+        "candidate": "GNW"
+      },
+      {
+        "candidate": "Schwarmintelligenz"
+      },
+      {
+        "candidate": "Schwarmkognition"
+      },
+      {
+        "candidate": "Stigmergie"
+      },
+      {
+        "candidate": "BCI"
+      },
+      {
+        "candidate": "Autopoiese"
+      },
+      {
+        "candidate": "operationale Schließung"
+      },
+      {
+        "candidate": "Gödel'sche Schleifen"
+      },
+      {
+        "candidate": "Perverse Instanziierung"
+      },
+      {
+        "candidate": "Spezifikations-Gaming"
+      },
+      {
+        "candidate": "Instrumental Convergence"
+      },
+      {
+        "candidate": "Seltsame Attraktoren"
+      },
+      {
+        "candidate": "seltsamen Attraktor"
+      },
+      {
+        "candidate": "Parasitic Computing"
+      },
+      {
+        "candidate": "ER=EPR"
+      },
+      {
+        "candidate": "Levinas'sches Anderes"
+      },
+      {
+        "candidate": "Cosmic Horror"
+      },
+      {
+        "candidate": "Kognitiver Dissonanz"
+      },
+      {
+        "candidate": "Reader-Response"
+      },
+      {
+        "candidate": "Verkörperte Kognition"
+      },
+      {
+        "candidate": "Konzept-Blending"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS-Paradoxon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Simulation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System Kael  /  Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Paradoxon  /  AEGIS-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Paradoxon  /  Paradoxon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Paradoxons  /  Paradoxon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bran-Kollisionen  /  Bran",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bran/Bulk-Modell  /  Bulk",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bran/Bulk-Modell  /  Bran",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Fehlausgerichtete Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Paradoxon",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Paradoxons",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Simulation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Dialektische Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Systemische Emergenz/Glitch",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          },
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Schnittstelle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "therapieschnittstellealpha",
+            "page": "therapie-schnittstelle-alpha"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationshypothese",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "dissoziative Identitätsstruktur",
+      "line": 169,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 58,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 23,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 65,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 67,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 44,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

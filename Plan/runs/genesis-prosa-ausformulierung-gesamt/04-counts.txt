@@ -1,0 +1,66 @@
+# counts for 44 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            42 word    44 in   [75, 77, 79, 89, 97, 99]
+                                    1      as AEGIS-Architektur
+                                    1      as AEGIS-Logik
+  Rauschen                         11 word    13 in   [23, 35, 43, 53, 63, 69]
+                                    2      as Rauschens
+  Komponente 734                   34 word    34 in   [105, 107, 111, 113, 123, 127]
+  Kael                              4 word     4 in   [290, 292, 296, 302]
+  Überwelt                          2 word     5 in   [147, 153, 163, 217, 225]  <-- substring
+                                    2      as Überwelt-Subsystem
+                                    1      as Überwelt-Simulation
+  Überwelt-Subsystem                2 word     2 in   [153, 217]
+  Direktive 0                       6 word     6 in   [99, 123, 163, 225, 244, 248]
+  Omega-Event                       1 word     1 in   [91]
+  Notfallprotokoll Omega-Rho        1 word     1 in   [93]
+  Anomaly-Alpha                     7 word     7 in   [197, 209, 215, 217, 223, 237]
+  Protokoll Gamma-Exekution         3 word     3 in   [248, 256, 288]
+  Protokoll Sigma-Stasis            1 word     1 in   [246]
+  Cluster Gamma-Kern                1 word     1 in   [111]
+  Echo                             12 word    16 in   [29, 33, 103, 117, 119, 137]
+                                    1      as Echos
+  Scherben                          5 word     5 in   [276, 290, 294, 306, 314]
+  Narbe                             2 word     2 in   [55, 61]
+  Resonanz                          8 word    14 in   [35, 39, 95, 171, 191, 199]
+                                    1      as Resonanzen
+                                    1      as Resonanzphänomene
+                                    1      as Resonanzspitze
+                                    1      as Resonanzverbindung
+  Signatur                          5 word    11 in   [43, 95, 111, 123, 141, 171]  <-- substring
+                                    3      as Signaturvarianz
+                                    2      as Signaturen
+                                    1      as Signaturdaten
+  Kernwelten                        1 word     1 in   [304]
+  Kernprotokoll                     1 word     1 in   [99]
+  Systemkohärenz                    3 word     3 in   [95, 215, 244]
+  Systemintegrität                  3 word     3 in   [99, 131, 248]
+  Strukturelle Anomalien            2 word     2 in   [123, 141]
+  Tolerierter Strukturfehler        1 word     1 in   [123]
+  734-Sigma-Echo                    2 word     2 in   [141, 199]
+  Simulation Epsilon-7              1 word     1 in   [153]
+  Simulation Epsilon-Prime          3 word     3 in   [171, 181, 183]
+  Simulation Omega-Prime            1 word     1 in   [219]
+  Gamma-Phi                         2 word     2 in   [181, 183]
+  Sektor Delta-9                    1 word     1 in   [197]
+  Diagnosezyklus Delta-Gamma        1 word     1 in   [131]
+  Netzwerk-Segment Gamma            1 word     1 in   [256]
+  Quanten-Interferenz-Disruptoren    1 word     1 in   [264]
+  Alarmstufe Rot                    1 word     1 in   [215]
+  Subjektive Residuen               1 word     1 in   [103]
+  Latente Datenpunkte               1 word     1 in   [103]
+  Mahlstrom                         1 word     1 in   [31]
+  entropische Flut                  1 word     1 in   [25]
+  Abwehr des Nicht-Seins            1 word     1 in   [99]
+  Geist in der Maschine             1 word     1 in   [304]
+  Wir                               6 word     7 in   [21, 67, 69, 71, 73, 87]
+  Kern                              5 word    12 in   [49, 67, 69, 99, 111, 125]  <-- substring
+                                    1      as Kernprotokoll
+                                    1      as Kernkomponenten
+                                    1      as Kernfrequenz
+                                    1      as Kernalgorithmen
+  Inseln                            1 word     1 in   [73]
+  Welle                             5 word     6 in   [43, 55, 81, 91, 197, 203]

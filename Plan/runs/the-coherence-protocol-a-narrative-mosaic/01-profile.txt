@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-narrative-mosaic
+  lines                307  (frontmatter ends at 9)
+  body words           6053
+  headings             46   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    0
+  typographic marks    27   ascii quotes 184
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    52
+  repeated labels      Assigned POV x39, Core Concept x39, Dramatize the Concept x39
+  longest line         843 chars
+

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x2
+  glued ref numbers      53
+  backslash escapes      58
+  typographic marks      32
+  ascii quotes           136
+
+# inflection families -- one term, several surfaces
+  infor    Information, Informationen, Informationslöschung, Informationstheoretische, Informationsverarbeitung, Informationszustände, Informationszuständen, Informed
+  syste    System, Systemanalyse, Systemen, Systemic, Systemkollaps, Systems, Systemspezifikationen, Systemtheorie
+  parad    Paradigma, Paradigmenwechsel, Paradox, Paradoxien, Paradoxon, Paradoxons
+  algor    Algorithmen, Algorithmic, Algorithmisch, Algorithmische, Algorithmus
+  entro    Entropic, Entropie, Entropieproduktion, Entropische, Entropy
+  narra    Narration, Narrationen, Narrativ, Narrative, Narratologie
+  agent    Agent, Agenten, Agents, Agentur
+  berec    Berechnung, Berechnungen, Berechnungsart, Berechnungspfade
+  daten    Daten, Datenpakete, Datenpunkte, Datenstrom
+  handl    Handlungsbögen, Handlungsfähigkeit, Handlungspfade, Handlungsweise
+  kontr    Kontrast, Kontrolle, Kontrolllogik, Kontrollsystem
+  korre    Korrektheit, Korrekturversuche, Korrespondenz, Korrespondenztheorie
+  poten    Potenzial, Potenziale, Potenzialraum, Potenzials
+  proto    Proto, Protocol, Protokoll, Protokolls
+  quant    Quanten, Quantenmechanik, Quantensystems, Quantum
+  theor    Theoretisches, Theorie, Theories, Theory
+  therm    Thermodynamic, Thermodynamics, Thermodynamik, Thermodynamisch
+  traum    Traum, Trauma, Traumas, Traumata
+  unive    Universal, Universe, Universum, Universums
+  zusam    Zusammenbruch, Zusammenbruchs, Zusammenfassungen, Zusammenführen
+  antei    Anteil, Anteile, Anteils
+  colla    Collaborative, Collapse, Collapsed
+  diese    Diese, Dieser, Dieses
+  emoti    Emotion, Emotionalen, Emotionen
+  epist    Epistemologien, Epistemologisch, Epistemologische
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Antinomie
+  Anti < Semantische
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Anscheinend
+  Eins < Einsichten
+  Eins < Bewusstseins
+  Erst < Erster
+  Erst < Zerstörung
+  Fact < Factitious
+  Feld < Spannungsfeld
+  Form < Formal
+  Form < Informed
+  Form < Storyforms
+  Form < Information
+  Form < Informationen
+  Form < Transformationen
+  Form < Informationslöschung
+  Form < Informationszustände

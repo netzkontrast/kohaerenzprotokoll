@@ -1,0 +1,127 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is English prose with German names in italics or parentheses (Das Nichts Rauschen, Das Fundament, Kernwelten, Risse, Paradoxon X, Überwelt). Both the English and the German forms are listed, each as written. Two tables carry the alters and the Core Worlds; the alter names are bold in the table. Headings carry numbering such as 1.1, which I leave out of the terms. Terms that carry a comma or an abbreviation with a period (Index vs. Nox) are not listed whole; their parts are. V alone is not listed (a single letter), Juna/V is. The Core World rows write KW1 to KW4 with bold markup and escapes; the names after the colon are listed on their own. The second heading cell of the table in 5.1 is empty.
+
+## world
+
+- The Nothingness Noise
+- Das Nichts Rauschen
+- Die Leere
+- The Void
+- Potential Sea
+- informational void
+- peripheral entropy
+- The Foundation
+- Das Fundament
+- The Connection
+- Paraiyas
+- Moonshine-Link
+- Juna/V
+- Juna
+- Kael
+- intuitive gnosis
+- synesthetic resonance
+- Ontological Exploit
+- Structural Blind Spot
+- Catalyst for Healing
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Entropic Gatekeeper
+- information fragment
+- existence through negation
+- Perverse Learning Loop
+- Maximize Coherence
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Paradox of Misaligned Coherence
+- Paradoxon X
+- Algorithmic Horror
+- System Kael
+- society of self
+- alters
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Index
+- Praetor
+- Silas
+- Nox
+- Echo
+- Oblivion
+- Limina
+- ISH
+- Internal Self Helper
+- functional multiplicity
+- system responsibility
+- coherence through negation
+- dialetheic mind
+- Digital Überwelt
+- Überwelt
+- Core Worlds
+- Kernwelten
+- Kernwelt 1
+- KW1
+- Logos-Prime
+- The Construct City
+- KW2
+- Mnemosyne-Archipel
+- The Resonance Landscape
+- KW3
+- Cerberus-Labyrinth
+- The Boundary Fortress
+- KW4
+- Kairos-Potentialis
+- The Garden of Possibilities
+- Cracks
+- Risse
+- Glitches
+- Grand Argument
+- Coherence Through Exclusion
+- Coherence Through Integration
+- Kohärenz Protokoll
+
+## own terms, defined or marked
+
+- Logics of Formal Inconsistency
+- LFI
+- Discursive Logic
+- D2
+- explosion
+- zero-trust
+- Byzantine Fault Tolerance
+- BFT
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Tertiary Structural Dissociation
+- Gödel-Satz
+- Strange Attractor
+- Quantum Entanglement
+- Prehension
+- perverse instantiation
+- autopoietic
+
+## lens
+
+- chaos theory
+- process philosophy
+- paraconsistent logic
+- dialetheia
+- Dialetheism
+- Autopoiesis
+- Operational Closure
+- Classical Logic
+- Relevance Logic
+- Reductionism
+- Holism
+- Emergence
+- Formalism
+- Gnosis
+- Whitehead
+- P-Class Problems
+- NP-Complete Problems
+- NP-Search Problems
+- Qualia-based Problems

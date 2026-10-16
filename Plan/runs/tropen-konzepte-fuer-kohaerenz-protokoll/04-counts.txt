@@ -1,0 +1,118 @@
+# counts for 96 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             26 word    73 in   [16, 29, 31, 32, 41, 42]  <-- substring
+                                   47      as Kaels
+  AEGIS                            79 word    80 in   [16, 29, 30, 31, 33, 42]
+                                    1      as AEGIS-Kern
+  Juna/V                           12 word    13 in   [16, 30, 31, 78, 90, 126]
+                                    1      as Juna/Vs
+  Fundament                        21 word    29 in   [16, 30, 32, 33, 59, 67]
+                                    7      as Fundaments
+                                    4      as fundamental
+                                    3      as fundamentaler
+                                    2      as fundamentalen
+  Leere                            13 word    14 in   [16, 30, 33, 104, 128, 189]
+                                    1      as Leere-Beziehung
+  KW1                               2 word     2 in   [43, 142]
+  KW2                               2 word     2 in   [44, 66]
+  KWs                               4 word     4 in   [16, 42, 66, 67]
+  Konstrukt-Welten                  2 word     2 in   [42, 126]
+  Mnemosyne                         0 word     2 in   [44, 53]
+                                    2      as Mnemosynes
+  Lex                               3 word     3 in   [43, 52, 142]
+  Alex                              1 word     1 in   [52]
+  Rhys                              1 word     1 in   [52]
+  Argus                             1 word     1 in   [52]
+  Nyx                               1 word     1 in   [52]
+  Selene                            3 word     3 in   [52, 67]
+  Host                              1 word     1 in   [52]
+  EPs                               1 word     1 in   [52]
+  Fehlausgerichtete Kohärenz        2 word     2 in   [29, 88]
+  Kernparadoxon                     2 word     3 in   [29, 111, 202]
+                                    1      as Kernparadoxons
+  Nichts Rauschen                   1 word     1 in   [30]
+  Prolog                           12 word    12 in   [30, 31, 65, 104, 105, 110]
+  Akt 1                             4 word     4 in   [139, 173, 186, 191]
+  Akt 3                             3 word     3 in   [143, 173, 194]
+  Philo Hint                        1 word     1 in   [129]
+  Transzendenz-Vektoren             3 word     3 in   [17, 203]
+  Hauptprojektdirektive             1 word     1 in   [17]
+  Glossar                           5 word     5 in   [29, 52, 65, 88]
+  Outline V3                        1 word     1 in   [11]
+  Kohärenz Protokoll                9 word     9 in   [11, 15, 19, 21, 88, 96]
+  Simulationshypothese              3 word     3 in   [29, 103, 128]
+  Ontologie                         2 word     3 in   [30, 104]
+                                    1      as Ontologien
+  dialektische Ontologien           1 word     1 in   [30]
+  Vakuumfluktuationen               2 word     2 in   [30]
+  M-Theorie                         5 word     5 in   [30, 33, 126, 189]
+  Schleifenquantengravitation       2 word     2 in   [30, 33]
+  LQG                               5 word     5 in   [30, 33, 126, 189]
+  Quantenschaum                     1 word     1 in   [169]
+  Emergenz                          6 word     6 in   [31, 89, 105, 201, 202]
+  Komplexitätstheorie               3 word     3 in   [31, 58, 105]
+  kaskadierende Fehler              1 word     1 in   [31]
+  It from Bit                       3 word     3 in   [32, 234]
+  Observer-Participancy             1 word     1 in   [32]
+  Philosophie der Information       2 word     2 in   [32, 90]
+  Epistemologie                     6 word     6 in   [41, 108, 138, 173, 185]
+  epistemologisch                   1 word     4 in   [29, 41, 42, 159]  <-- substring
+                                    2      as epistemologischer
+                                    1      as epistemologische
+                                    1      as Epistemologische
+  Gaslighting                       9 word     9 in   [42, 43, 108, 127, 138, 158]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [52]
+  TSDP                              2 word     5 in   [52, 127, 139, 140]  <-- substring
+                                    3      as TSDP-Modell
+  Bündeltheorie                     1 word     1 in   [53]
+  Orch OR                           3 word     3 in   [59, 109]
+  topologische Verschränkung        1 word     1 in   [59]
+  Resonanz                          1 word     2 in   [59]
+                                    1      as Resonanztheorie
+  Integrierte Informationstheorie    1 word     1 in   [60]
+  IIT                               7 word     8 in   [60, 65, 66, 109, 161, 278]
+  Informationsaustausch             1 word     1 in   [61]
+  KI-Ethik                          3 word     3 in   [65, 76, 110]
+  Perverse Instantiation            4 word     4 in   [65, 126, 143, 267]
+  Instrumentelle Konvergenz         3 word     3 in   [65, 126, 143]
+  Qualia                            4 word     4 in   [66, 245]
+  Veränderten Bewusstseinszuständen    1 word     1 in   [67]
+  Transpersonale Psychologie        1 word     1 in   [67]
+  Existentialismus                  3 word     3 in   [75, 107]
+  Paradox der Toleranz              2 word     2 in   [79]
+  Konsequentialismus                2 word     2 in   [80]
+  Deontologie                       2 word     2 in   [80]
+  logischen Paradoxien              1 word     1 in   [88]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [88]
+  Systemtheorie                     3 word     3 in   [89, 112]
+  Kybernetik                        4 word     4 in   [89, 112]
+  Kybernetik zweiter Ordnung        1 word     1 in   [89]
+  Selbstbezug                       4 word     4 in   [91, 113]
+  Rückkopplungsschleifen            6 word     6 in   [89, 91, 113]
+  Kontrolltheorie                   3 word     3 in   [92, 114]
+  Imperativ der Verantwortung       1 word     1 in   [77]
+  Hard Science Fiction              2 word     2 in   [126, 201]
+  Psychologischer Thriller          3 word     3 in   [118, 127, 191]
+  Kosmischer Horror                 3 word     3 in   [118, 128, 187]
+  Philosophische Fiktion            3 word     3 in   [118, 129, 192]
+  PhilFic                           2 word     3 in   [129, 161, 172]
+                                    1      as PhilFic-Elemente
+  Glitch in the Matrix              5 word     5 in   [42, 137, 184, 201, 213]
+  Glitch Art                        1 word     1 in   [137]
+  Unzuverlässiger Erzähler          2 word     2 in   [139, 186]
+  Amnesie                           8 word     8 in   [41, 53, 106, 127, 139, 141]
+  Internal Conference Room          1 word     1 in   [140]
+  Civil War Within                  1 word     1 in   [140]
+  Logic Puzzle                      1 word     1 in   [142]
+  Rules Lawyer                      1 word     1 in   [142]
+  Hacking the Mainframe             1 word     1 in   [144]
+  Logic Bomb                        3 word     3 in   [144, 195]
+  Hoist by His Own Petard           2 word     2 in   [143, 196]
+  Existenzielle Angst               2 word     2 in   [145, 187]
+  What Measure Is a Non-Human       3 word     3 in   [65, 146, 197]
+  Kognitive Dissonanz               1 word     1 in   [169]
+  Suspension of Disbelief           3 word     3 in   [170, 346]
+  Exposition                        7 word     7 in   [172, 348, 349, 350, 351, 352]

@@ -1,0 +1,76 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a table of the concept frame plus five plot synopses, each with the same labelled fields, and a numbered list of references. Terms standing only inside the reference list (titles of cited works) are left out. Wording in "..." inside the synopses (Parts, Selbstführung) is the document's own set-off style for borrowed therapy vocabulary.
+
+- Potentialmeer
+- AEGIS
+- Monstergruppe (M)
+- Monstergruppe
+- Baby-Monster-Gruppen (Kael/Juna)
+- Baby-Monster-Gruppen
+- Baby-Monster-Gruppe
+- Kael
+- Juna
+- K-J Verbindung (Emergenter Moonshine)
+- K-J Verbindung
+- Emergenter Moonshine
+- Kernwelten Substrat
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- Moonshine-Echo
+- Moonshine
+- Weltenbluten
+- Blutungsereignis
+- Existenz durch Negation
+- Existenz-durch-Negation
+- sub-protokollarisch
+- Parakonsistente Logik
+- parakonsistente Logik
+- Fragmentierungsprotokoll
+- Kern-Kohärenzprotokollen
+- Alters
+- Selbstführung
+- Unburdening
+- Logischer Beschützer
+- Gegenagenten
+- Hard Resets
+- Nexuspunkt
+- Pocket-Realität
+- Realitätstasche
+- Simplicity
+- Complexity
+- Sporadicity
+- Sporadizität
+- Internal Structure
+- Parias
+- Hauptmoduln
+- Das Integrationsgambit
+- Das Paradox der Kontrolle
+- Das Moonshine-Echo
+- Das Weltenbluten
+- Transzendenz des Protokolls
+- Systemfehler
+- Risse
+
+## lens
+
+- IFS
+- DID
+- Internal Family Systems
+- Dissoziative Identitätsstörung
+- Parts
+- Manager
+- Firefighter
+- Exiles
+- Self-Leadership
+- VOA
+- CFT
+- Vertex Operator Algebren
+- Conformal Field Theory
+- Monstrous Moonshine-Phänomens
+- Emergenz
+- Reduktionismus
+- Holismus
+- Gruppentheorie

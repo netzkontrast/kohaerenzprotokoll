@@ -1,0 +1,14 @@
+# narrative-plot-exploration-existenzielle-kohaerenz
+  lines                460  (frontmatter ends at 9)
+  body words           7322
+  headings             17   bold-only lines 2
+  table rows           10   code fences 0
+  question marks       9
+  backslash escapes    90
+  typographic marks    12   ascii quotes 188
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    117
+  repeated labels      Akt I (Exposition) x3, Akt II (Konfrontation) x3, Akt III (Auflösung) x3, Fokus x3, Paradoxon-Typ x3, Schlüsselkonzepte x3
+  longest line         1122 chars
+

@@ -1,0 +1,120 @@
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Metapher"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Metapher` ^[narrative-physik-attraktoren-leserbewusstsein.md:#4]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Tabelle"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Tabelle` ^[narrative-physik-attraktoren-leserbewusstsein.md:#3]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Empfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Empfehlung` ^[narrative-physik-attraktoren-leserbewusstsein.md:#1]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Mitschöpfer"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mitschöpfer` ^[narrative-physik-attraktoren-leserbewusstsein.md:#2]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Kollaps der Wellenfunktion"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kollaps der Wellenfunktion` ^[narrative-physik-attraktoren-leserbewusstsein.md:#4]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Glitches"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Glitches` ^[narrative-physik-attraktoren-leserbewusstsein.md:#3]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Echo-Intrusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echo-Intrusion` ^[narrative-physik-attraktoren-leserbewusstsein.md:#1]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Logos"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            23
+
+`Logos` ^[narrative-physik-attraktoren-leserbewusstsein.md:#20]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Abyssos"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            21
+
+`Abyssos` ^[narrative-physik-attraktoren-leserbewusstsein.md:#17]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Eros"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            24
+
+`Eros` ^[narrative-physik-attraktoren-leserbewusstsein.md:#20]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Kontrollparameter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kontrollparameter` ^[narrative-physik-attraktoren-leserbewusstsein.md:#2]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Leerstellen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Leerstellen` ^[narrative-physik-attraktoren-leserbewusstsein.md:#3]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[narrative-physik-attraktoren-leserbewusstsein.md:#0]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[narrative-physik-attraktoren-leserbewusstsein.md:#0]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Ich"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Ich` ^[narrative-physik-attraktoren-leserbewusstsein.md:#0]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "O"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            92
+
+`O` ^[narrative-physik-attraktoren-leserbewusstsein.md:#23]
+$ read.py narrative-physik-attraktoren-leserbewusstsein --count "Teil I"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Teil I` ^[narrative-physik-attraktoren-leserbewusstsein.md:#1]
+$ grep -n "^## " Sources/drive/narrative-physik-attraktoren-leserbewusstsein.md (four parts)
+18:## **Teil I: Die ontologische Grundlage – Der Leser als transzendenter Beobachter ('O')**
+75:## **Teil II: Die fundamentalen Kräfte – Modellierung der narrativen Attraktoren**
+136:## **Teil III: Das dynamische System – Ein chaostheoretisches Modell des narrativen Ausgangs**
+195:## **Teil IV: Die Architektur der Interaktion – Narrative Implementierung**
+$ grep -nE "Kollaps der Wellenfunktion" (lines 48,207,247,248)
+48:Der Leser, 'O', fungiert als der „Beobachter“, und de
+207:Die Erzählung muss bewusst mit „Leerstellen“ (Lück
+247:7.  Kollaps der Wellenfunktion - Chemie.de, Zugriff am O
+248:8.  Kollaps der Wellenfunktion - Wikipedia, Zugriff am O
+$ grep -n Thanatos
+103:Psychoanalytisch ist Abyssos direkt analog zu 
+117:Psychoanalytisch ist Eros direkt analog zu Fre
+131:| \*\*Abyssos\*\* | Auflösung, Chaos, Entropi
+273:33. Freud's Eros and Thanatos Theory: Life and
+274:34. Eros and Thanatos: Freud's two fundamental
+280:40. Eros & Thanatos | Definition, Freud's Conc
+stance_marker_count 8 = Metapher 4 + Tabelle 3 + Empfehlung 1

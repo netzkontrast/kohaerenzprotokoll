@@ -1,0 +1,14 @@
+# the-architecture-of-being-a-philosophical-thesis-on-the-core
+  lines                126  (frontmatter ends at 9)
+  body words           2326
+  headings             17   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    28
+  typographic marks    21   ascii quotes 94
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    0
+  repeated labels      none
+  longest line         935 chars
+

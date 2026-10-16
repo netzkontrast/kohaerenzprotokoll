@@ -1,0 +1,155 @@
+{
+  "document": "plot-exploration-kohaerenz-protokollkonzepte",
+  "drive_id": "1y4JPy8jaPFMvb-ud_b_YD5Jfqkp4dhAkVN7PTDAt0FA",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; the note was reworded before commit to drop a person-named title; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-497/brief.md, 2026-10-14; first held by the privacy screen on the abbreviation DIS, released on re-screening: DIS names Kael's condition in the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 71,
+    "decisions": 74,
+    "decided_by_lookup": 66,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German plot-exploration report of five concepts with a scored comparison: its new surfaces are the concept titles, the KW labels, the Query tags and the borrowed concepts; what it restates or proposes of AEGIS, Kael, Juna, the Kernwelten, the Potentialmeer, the Guardians, the Risse, DID, the alters and Emergenz went on existing pages; the person-named page goedel-gambit received nothing under the privacy rule.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        24,
+        27,
+        39,
+        70
+      ],
+      "attribution": "",
+      "note": "AEGIS as a logic-and-control system whose control attempts produce instability, and as the centre of concept 2"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "alter identities as a research topic"
+    },
+    {
+      "page": "did",
+      "lines": [
+        49,
+        61
+      ],
+      "attribution": "",
+      "note": "DID as a research field for portraying alter identities"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        153,
+        169,
+        193
+      ],
+      "attribution": "",
+      "note": "emergence as a research field for concept 5"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        121,
+        122
+      ],
+      "attribution": "",
+      "note": "the Guardians as agents of AEGIS and as possible doubters in concept 4"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        24,
+        44,
+        117,
+        230
+      ],
+      "attribution": "",
+      "note": "Juna in the restated premise and in concepts 1 and 3"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        26,
+        44,
+        61,
+        230
+      ],
+      "attribution": "",
+      "note": "Kael in the restated premise and in concept 1's question"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as the places where Kael's psyche manifests"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        25,
+        169
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer against the Kohärenz-Insel, and the Insel as attractor"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        27,
+        226
+      ],
+      "attribution": "",
+      "note": "the Risse as unintended result of control and as a source of suspense"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael-Juna-Verbindung` read on kael and juna; `Kohärenz-Insel` read on potentialmeer; `Guardian` a Guardian, not the subfunction; `Verschränkung` the general physics sense; `Persona` a borrowed archetype, an occurrence; the person-named concept title and its page goedel-gambit not read under the privacy rule; `Kohärenz` the title",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 49,
+      "decision": "reading",
+      "why": "research on alter identities; read on alters"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "the five concept titles, Kael-Juna-Verbindung as a surface, Kohärenz-Insel, the KW labels, the Query tags, Quantenschaum, and the borrowed concepts"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

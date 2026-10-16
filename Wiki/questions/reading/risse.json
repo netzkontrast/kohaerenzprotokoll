@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "risse",
+ "title": "Risse",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Ursache gegenüber bloßem Symptom",
+  "gleichzeitiges Auftreten in mehreren Ebenen",
+  "Möglichkeit eines Übergangs",
+  "Kosten einer reparierten Grenze",
+  "Orientierung bei instabiler Wirklichkeit"
+ ],
+ "basis": {
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "protokoll-v14": {
+   "title": "Protokoll v1.4",
+   "path": "Wiki/candidates/protokoll-v14.md",
+   "hash": "7854f405113308ff8008f39215698b8f1633196189b0931d29fec812b6251603"
+  },
+  "junas-ankerpunkt": {
+   "title": "Junas Ankerpunkt",
+   "path": "Wiki/candidates/junas-ankerpunkt.md",
+   "hash": "842d31958c8d5bac8d49b14e7af32fbd9e6ece42e6b55c31061ab0abfd4cdbf5"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  },
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-risse-001",
+   "question": "Wie unterscheidet Kael einen Riss als Systemschaden von einem Riss, der einen bisher unmöglichen Kontakt erlaubt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-002",
+   "question": "Welche Lesarten auf der Seite zu Risse stützen oder begrenzen „Ursache gegenüber bloßem Symptom“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-003",
+   "question": "Welcher Grenzfall würde bei Risse die Annahmen über „Ursache gegenüber bloßem Symptom“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-004",
+   "question": "Wer könnte innerhalb des Romans bei Risse etwas über „Ursache gegenüber bloßem Symptom“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-005",
+   "question": "Welche konkrete Entscheidung könnte „Ursache gegenüber bloßem Symptom“ bei Risse in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Ursache gegenüber bloßem Symptom“ bei Risse haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-007",
+   "question": "Wie lässt sich „Ursache gegenüber bloßem Symptom“ bei Risse zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-008",
+   "question": "Welche Alternativen sollte der Autor bei Risse für „Ursache gegenüber bloßem Symptom“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-009",
+   "question": "Was bedeutet bei Risse der Themenpunkt „gleichzeitiges Auftreten in mehreren Ebenen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-010",
+   "question": "Welche Lesarten auf der Seite zu Risse stützen oder begrenzen „gleichzeitiges Auftreten in mehreren Ebenen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-011",
+   "question": "Welcher Grenzfall würde bei Risse die Annahmen über „gleichzeitiges Auftreten in mehreren Ebenen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-012",
+   "question": "Wer könnte innerhalb des Romans bei Risse etwas über „gleichzeitiges Auftreten in mehreren Ebenen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-013",
+   "question": "Welche konkrete Entscheidung könnte „gleichzeitiges Auftreten in mehreren Ebenen“ bei Risse in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „gleichzeitiges Auftreten in mehreren Ebenen“ bei Risse haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-015",
+   "question": "Wie lässt sich „gleichzeitiges Auftreten in mehreren Ebenen“ bei Risse zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-016",
+   "question": "Welche Alternativen sollte der Autor bei Risse für „gleichzeitiges Auftreten in mehreren Ebenen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-017",
+   "question": "Was bedeutet bei Risse der Themenpunkt „Möglichkeit eines Übergangs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-018",
+   "question": "Welche Lesarten auf der Seite zu Risse stützen oder begrenzen „Möglichkeit eines Übergangs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-019",
+   "question": "Welcher Grenzfall würde bei Risse die Annahmen über „Möglichkeit eines Übergangs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-020",
+   "question": "Wer könnte innerhalb des Romans bei Risse etwas über „Möglichkeit eines Übergangs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-021",
+   "question": "Welche konkrete Entscheidung könnte „Möglichkeit eines Übergangs“ bei Risse in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Möglichkeit eines Übergangs“ bei Risse haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-023",
+   "question": "Wie lässt sich „Möglichkeit eines Übergangs“ bei Risse zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-024",
+   "question": "Welche Alternativen sollte der Autor bei Risse für „Möglichkeit eines Übergangs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-025",
+   "question": "Was bedeutet bei Risse der Themenpunkt „Kosten einer reparierten Grenze“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-026",
+   "question": "Welche Lesarten auf der Seite zu Risse stützen oder begrenzen „Kosten einer reparierten Grenze“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-027",
+   "question": "Welcher Grenzfall würde bei Risse die Annahmen über „Kosten einer reparierten Grenze“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-028",
+   "question": "Wer könnte innerhalb des Romans bei Risse etwas über „Kosten einer reparierten Grenze“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-029",
+   "question": "Welche konkrete Entscheidung könnte „Kosten einer reparierten Grenze“ bei Risse in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kosten einer reparierten Grenze“ bei Risse haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-031",
+   "question": "Wie lässt sich „Kosten einer reparierten Grenze“ bei Risse zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-032",
+   "question": "Welche Alternativen sollte der Autor bei Risse für „Kosten einer reparierten Grenze“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-033",
+   "question": "Was bedeutet bei Risse der Themenpunkt „Orientierung bei instabiler Wirklichkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-034",
+   "question": "Welche Lesarten auf der Seite zu Risse stützen oder begrenzen „Orientierung bei instabiler Wirklichkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-035",
+   "question": "Welcher Grenzfall würde bei Risse die Annahmen über „Orientierung bei instabiler Wirklichkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-036",
+   "question": "Wer könnte innerhalb des Romans bei Risse etwas über „Orientierung bei instabiler Wirklichkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-037",
+   "question": "Welche konkrete Entscheidung könnte „Orientierung bei instabiler Wirklichkeit“ bei Risse in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Orientierung bei instabiler Wirklichkeit“ bei Risse haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-039",
+   "question": "Wie lässt sich „Orientierung bei instabiler Wirklichkeit“ bei Risse zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-040",
+   "question": "Welche Alternativen sollte der Autor bei Risse für „Orientierung bei instabiler Wirklichkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-risse-041",
+   "question": "Wo unterscheiden sich Risse und Entropie, wenn man sie unter dem Gesichtspunkt „Ursache gegenüber bloßem Symptom“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-042",
+   "question": "Welche Quelle verbindet Risse mit Entropie in Bezug auf „Ursache gegenüber bloßem Symptom“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-043",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Risse unter „Ursache gegenüber bloßem Symptom“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-044",
+   "question": "Wie könnte sich das Wissen über Risse vom Wissen über Entropie unterscheiden, wenn „Ursache gegenüber bloßem Symptom“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Risse und Entropie bei „Ursache gegenüber bloßem Symptom“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-046",
+   "question": "Falls Risse im Hinblick auf „Ursache gegenüber bloßem Symptom“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Risse und Entropie bei „Ursache gegenüber bloßem Symptom“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-048",
+   "question": "Braucht der Roman eine Verbindung von Risse und Entropie bei „Ursache gegenüber bloßem Symptom“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-049",
+   "question": "In welchem denkbaren Fall könnte Risse bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Ursache gegenüber bloßem Symptom“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-050",
+   "question": "Welche Kosten könnte eine Verbindung von Risse und Entropie in Bezug auf „Ursache gegenüber bloßem Symptom“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-051",
+   "question": "Welche ältere Lesart von Risse oder Entropie könnte die Gegenüberstellung unter „Ursache gegenüber bloßem Symptom“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Risse und Entropie unter „Ursache gegenüber bloßem Symptom“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "risse",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-risse-053",
+   "question": "Wo unterscheiden sich Risse und Protokoll v1.4, wenn man sie unter dem Gesichtspunkt „gleichzeitiges Auftreten in mehreren Ebenen“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-054",
+   "question": "Welche Quelle verbindet Risse mit Protokoll v1.4 in Bezug auf „gleichzeitiges Auftreten in mehreren Ebenen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-055",
+   "question": "Welche Grenzen aus der Seite zu Protokoll v1.4 müsste eine Deutung von Risse unter „gleichzeitiges Auftreten in mehreren Ebenen“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-056",
+   "question": "Wie könnte sich das Wissen über Risse vom Wissen über Protokoll v1.4 unterscheiden, wenn „gleichzeitiges Auftreten in mehreren Ebenen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Risse und Protokoll v1.4 bei „gleichzeitiges Auftreten in mehreren Ebenen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-058",
+   "question": "Falls Risse im Hinblick auf „gleichzeitiges Auftreten in mehreren Ebenen“ anders festgelegt wird: Welche Aussagen über Protokoll v1.4 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Risse und Protokoll v1.4 bei „gleichzeitiges Auftreten in mehreren Ebenen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-060",
+   "question": "Braucht der Roman eine Verbindung von Risse und Protokoll v1.4 bei „gleichzeitiges Auftreten in mehreren Ebenen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-061",
+   "question": "In welchem denkbaren Fall könnte Risse bestehen, ohne dass Protokoll v1.4 dieselbe Funktion übernimmt, und was würde das für „gleichzeitiges Auftreten in mehreren Ebenen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-062",
+   "question": "Welche Kosten könnte eine Verbindung von Risse und Protokoll v1.4 in Bezug auf „gleichzeitiges Auftreten in mehreren Ebenen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-063",
+   "question": "Welche ältere Lesart von Risse oder Protokoll v1.4 könnte die Gegenüberstellung unter „gleichzeitiges Auftreten in mehreren Ebenen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Risse und Protokoll v1.4 unter „gleichzeitiges Auftreten in mehreren Ebenen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "risse",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-risse-065",
+   "question": "Wo unterscheiden sich Risse und Junas Ankerpunkt, wenn man sie unter dem Gesichtspunkt „Möglichkeit eines Übergangs“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-066",
+   "question": "Welche Quelle verbindet Risse mit Junas Ankerpunkt in Bezug auf „Möglichkeit eines Übergangs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-067",
+   "question": "Welche Grenzen aus der Seite zu Junas Ankerpunkt müsste eine Deutung von Risse unter „Möglichkeit eines Übergangs“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-068",
+   "question": "Wie könnte sich das Wissen über Risse vom Wissen über Junas Ankerpunkt unterscheiden, wenn „Möglichkeit eines Übergangs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Risse und Junas Ankerpunkt bei „Möglichkeit eines Übergangs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-070",
+   "question": "Falls Risse im Hinblick auf „Möglichkeit eines Übergangs“ anders festgelegt wird: Welche Aussagen über Junas Ankerpunkt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Risse und Junas Ankerpunkt bei „Möglichkeit eines Übergangs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-072",
+   "question": "Braucht der Roman eine Verbindung von Risse und Junas Ankerpunkt bei „Möglichkeit eines Übergangs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-073",
+   "question": "In welchem denkbaren Fall könnte Risse bestehen, ohne dass Junas Ankerpunkt dieselbe Funktion übernimmt, und was würde das für „Möglichkeit eines Übergangs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-074",
+   "question": "Welche Kosten könnte eine Verbindung von Risse und Junas Ankerpunkt in Bezug auf „Möglichkeit eines Übergangs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-075",
+   "question": "Welche ältere Lesart von Risse oder Junas Ankerpunkt könnte die Gegenüberstellung unter „Möglichkeit eines Übergangs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Risse und Junas Ankerpunkt unter „Möglichkeit eines Übergangs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "risse",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-risse-077",
+   "question": "Wo unterscheiden sich Risse und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Kosten einer reparierten Grenze“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-078",
+   "question": "Welche Quelle verbindet Risse mit Realitätsebenen in Bezug auf „Kosten einer reparierten Grenze“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-079",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Risse unter „Kosten einer reparierten Grenze“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-080",
+   "question": "Wie könnte sich das Wissen über Risse vom Wissen über Realitätsebenen unterscheiden, wenn „Kosten einer reparierten Grenze“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Risse und Realitätsebenen bei „Kosten einer reparierten Grenze“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-082",
+   "question": "Falls Risse im Hinblick auf „Kosten einer reparierten Grenze“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Risse und Realitätsebenen bei „Kosten einer reparierten Grenze“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-084",
+   "question": "Braucht der Roman eine Verbindung von Risse und Realitätsebenen bei „Kosten einer reparierten Grenze“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-085",
+   "question": "In welchem denkbaren Fall könnte Risse bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Kosten einer reparierten Grenze“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-086",
+   "question": "Welche Kosten könnte eine Verbindung von Risse und Realitätsebenen in Bezug auf „Kosten einer reparierten Grenze“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-087",
+   "question": "Welche ältere Lesart von Risse oder Realitätsebenen könnte die Gegenüberstellung unter „Kosten einer reparierten Grenze“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Risse und Realitätsebenen unter „Kosten einer reparierten Grenze“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "risse",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-risse-089",
+   "question": "Wo unterscheiden sich Risse und Konstrukt-Stadt, wenn man sie unter dem Gesichtspunkt „Orientierung bei instabiler Wirklichkeit“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-090",
+   "question": "Welche Quelle verbindet Risse mit Konstrukt-Stadt in Bezug auf „Orientierung bei instabiler Wirklichkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-091",
+   "question": "Welche Grenzen aus der Seite zu Konstrukt-Stadt müsste eine Deutung von Risse unter „Orientierung bei instabiler Wirklichkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-092",
+   "question": "Wie könnte sich das Wissen über Risse vom Wissen über Konstrukt-Stadt unterscheiden, wenn „Orientierung bei instabiler Wirklichkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Risse und Konstrukt-Stadt bei „Orientierung bei instabiler Wirklichkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-094",
+   "question": "Falls Risse im Hinblick auf „Orientierung bei instabiler Wirklichkeit“ anders festgelegt wird: Welche Aussagen über Konstrukt-Stadt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Risse und Konstrukt-Stadt bei „Orientierung bei instabiler Wirklichkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-096",
+   "question": "Braucht der Roman eine Verbindung von Risse und Konstrukt-Stadt bei „Orientierung bei instabiler Wirklichkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-097",
+   "question": "In welchem denkbaren Fall könnte Risse bestehen, ohne dass Konstrukt-Stadt dieselbe Funktion übernimmt, und was würde das für „Orientierung bei instabiler Wirklichkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-098",
+   "question": "Welche Kosten könnte eine Verbindung von Risse und Konstrukt-Stadt in Bezug auf „Orientierung bei instabiler Wirklichkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-099",
+   "question": "Welche ältere Lesart von Risse oder Konstrukt-Stadt könnte die Gegenüberstellung unter „Orientierung bei instabiler Wirklichkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-risse-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Risse und Konstrukt-Stadt unter „Orientierung bei instabiler Wirklichkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "risse",
+    "konstrukt-stadt"
+   ]
+  }
+ ]
+}

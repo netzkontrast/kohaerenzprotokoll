@@ -1,0 +1,137 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-aegis-manifest",
+  "drive_id": "10MvanrGLpaBo6RWJxMq2tw4Cjc-BcVZwXCs022ZOwEY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 35,
+    "decisions": 36,
+    "decided_by_lookup": 24,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        52,
+        54,
+        59,
+        63,
+        76
+      ],
+      "attribution": "",
+      "note": "AEGIS as the manifest's operative embodiment and its rigid interpretation"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        30,
+        34,
+        35,
+        53,
+        59,
+        70
+      ],
+      "attribution": "",
+      "note": "Entropie as pillar II, danced with rather than resisted"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        62,
+        77
+      ],
+      "attribution": "",
+      "note": "the K-J connection as a mechanism against AEGIS's control"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        69,
+        71,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael's journey through the three pillars"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61,
+        83
+      ],
+      "attribution": "",
+      "note": "Kernwelten as AEGIS's tools of its rigid pillar-III reading"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "Multiplizität placed in Teil 3"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        63,
+        82
+      ],
+      "attribution": "",
+      "note": "the space in which the manifest holds"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "AEGIS's Überwelt matching its interpretation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 61,
+      "decision": "occurrence",
+      "why": "inside the Kernwelten line"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

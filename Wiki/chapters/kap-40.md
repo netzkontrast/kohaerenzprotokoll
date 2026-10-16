@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 17
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r"]
+sources: 21
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanstruktur-und-philosophische-einleitung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "roman-entwicklung-kohaerenz-und-leitfragen", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "fragen-zu-existenz-agency-und-realitaet", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -33,6 +33,10 @@ Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreis
 ## Reading — `romanstruktur-duale-erzaehlung-und-kishotenketsu`, 2025-08-15, the dual structure — Epilog - Kohärenz
 
 - The dual structure plans Kapitel 40 as „Epilog - Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L279], in „Akt IV: Ketsu (Schluss) - Eine Neue Kohärenz“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L245]. Perspective: `Eine duale Perspektive, die zwischen Kael und AEGIS wechselt` (L283). Its Ki: „Kael wird in einem einfachen, alltäglichen Moment gezeigt – vielleicht bei einem ruhigen Morgen mit Juna“ ^[romanstruktur-duale-erzaehlung-und-kishotenketsu.md:L290]. A plan, not the chapter as written.
+
+## Reading — `fragen-zu-existenz-agency-und-realitaet`, 2025-11-13, the 39-questions synthesis — `Die Qualia der Freiheit`
+
+- The 39-questions synthesis retells (from its source 6) a chapter 40 titled „Die Qualia der Freiheit“ ^[fragen-zu-existenz-agency-und-realitaet.md:L150] as the first chapter of a proposed fourth act: „Die neue Stabilisierung (Kapitel 40-43)“ ^[fragen-zu-existenz-agency-und-realitaet.md:L138] is the recursive arc it belongs to. Its core concept is „Das Kernkonzept ist die gelebte, sensorische Erfahrung der“ ^[fragen-zu-existenz-agency-und-realitaet.md:L150] new coherence; Kael's multiplicity, once a bug, is now a feature. A proposed fourth act beyond the 39 chapters, retold from a cited source; chapters 41–52 have no pages.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — Kapitel 40/0 as epilogue and prologue (Kap 40 and Kap 0 are one chapter)
 
@@ -105,6 +109,10 @@ Title: „Kapitel 40 — Geheilte Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-
 - Juna: „Juna war nicht in der Welt. Sie war die Bewegung, die Welt erst möglich machte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
 - Formula: „*Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
 - Last image: „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123] · „Liebe bleibt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L135] „Wie der Schmerz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L139] · „Das Universum hält. Wir sind die, die es halten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13, the speech-DNA manual of 2026-05-13 — Kap 40 as the witnessing coda of the narrator voice
+
+the speech-DNA manual of 2026-05-13 sets for the narrator voice: „Im Kap 40 bezeugend, nicht auflösend.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29] Its coda entry places the return: „Erzähler-Stimme von Kap 0 kehrt wieder, jetzt bezeugend.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L205] and sets the mood „Bittersüß, ruhig, geheilt — aber ohne Erklärung.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L205] The narrator entry's heading also lists the chapter: „Erzähler-Stimme (Kap 0, Kap 40, vereinzelte Übergänge)“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L27]. Recorded, not canon.
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the concept's Kap 40, questioned
 
@@ -179,6 +187,14 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - The two closing sentences, one layer each: „„Die Trennung war nie real" (Wahrheit, konstatierend, ontologisch)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L78] · „„Aber das ändert nichts am Schmerz" (Richtigkeit, regulativ, ethisch-erfahrungsbezogen)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L79] (§1.4)
 - Frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „Kap 0↔40 (Genesis-Klammer).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] (§9.4 Ouroboros, marked `[K]`)
 - Theory anchor: „Habermas (Wahrheit vs. Richtigkeit) + Ouroboros“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738] · function „Doppellesbarkeit ohne Adjudikation“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739] (§14.3)
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — the Genesis clasp with Kap 0 and the double-readable finale
+
+The sensory drafting manual makes Kap 40 an echo of Kap 0: „dieselben Ereignisse, aus der Position der vollzogenen pluralen Heilung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618], shorter than Kap 0 and „Echo, nicht Wiederholung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618]. The mirror table sets the narrator's mode as „Modus: Frage → Zeugnis“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L625], the genesis as „Pure Sequenz → erkannte Sequenz“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L626], the separation as „Trennung als Tragödie → Trennung als Bedingung der Werdung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627], and the last image as „Auftakt → Resolution-ohne-Erklärung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629]. In the stage table the chapter is „doppellesbar (Reset / Transfiguration)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L595] with the narrating voice „Wir-AEGIS-plural als Erzähl-Stimme“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L595]; the finale rule says „Text adjudiziert nie“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1203], and the genre table calls it „Coda / geheilte Genesis“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1142]. In the motif list the noise is recognised as a substrate of connection: „Kap 40: das Rauschen,“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535]. A placement of the manual, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — sets Kap 40 as the echo coda of the Genesis bracket with a double reading
+
+The terms-and-concepts companion sets Kap 40 as the second half of the bracket: „Kap 40 ist Echo, nicht Wiederholung“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L622] It lists „Geheilte Genesis (Kap 40) als Klammer-Bewegungen.“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L551] The finale is double-readable: „Kap 40 lässt beide Lesarten zu:“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L628] The closing stage is „Synthese, nicht Showdown“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L572] and a note on the structure reads „Kap 0 + Kap 40 (plurale Apotheose statt Reset).“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L812] The source hierarchy names the chapter only inside a source title: „Kap-40-Lesart-Dualität“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L817] Recorded, not canon.
 
 ## Where the sources differ
 

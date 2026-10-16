@@ -1,0 +1,14 @@
+# research-prompt-dramatica-dual-storyform-synthese-aegis-thro
+  lines                1857  (frontmatter ends at 9)
+  body words           9647
+  headings             44   bold-only lines 31
+  table rows           15   code fences 0
+  question marks       67
+  backslash escapes    519
+  typographic marks    329   ascii quotes 197
+  invisible characters none
+  math symbol lines    13
+  glued ref numbers    135
+  repeated labels      Example trigger in this research context x6, How to apply it — step by step x6, Sub-Steps x6, What it is x6, When to stop / escape criterion x6, Why it is in this prompt x6, Ziel x6
+  longest line         608 chars
+

@@ -1,0 +1,14 @@
+# tsdp-analyse-kohaerenz-protokoll-charaktere
+  lines                423  (frontmatter ends at 9)
+  body words           9969
+  headings             53   bold-only lines 0
+  table rows           25   code fences 0
+  question marks       37
+  backslash escapes    132
+  typographic marks    97   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    55
+  repeated labels      Erweitertes TSDP-Profil x11, Integrationsbedürfnisse/-hindernisse x11, Potenzieller Entwicklungsbogen x11, Amnesie x3
+  longest line         1178 chars
+

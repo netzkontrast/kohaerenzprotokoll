@@ -1,0 +1,122 @@
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Frage"
+whole word, case-sensitive     50
+whole word, case-insensitive   50
+including compounds            57
+
+`Frage` ^[fragen-zu-existenz-agency-und-realitaet.md:#50]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Fragen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Fragen` ^[fragen-zu-existenz-agency-und-realitaet.md:#7]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Kapitel"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            18
+
+`Kapitel` ^[fragen-zu-existenz-agency-und-realitaet.md:#15]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Kap"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            22
+
+`Kap` ^[fragen-zu-existenz-agency-und-realitaet.md:#4]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Komponente 734"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Komponente 734` ^[fragen-zu-existenz-agency-und-realitaet.md:#5]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Component 734"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Component 734` ^[fragen-zu-existenz-agency-und-realitaet.md:#1]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Überwelt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Überwelt` ^[fragen-zu-existenz-agency-und-realitaet.md:#4]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[fragen-zu-existenz-agency-und-realitaet.md:#3]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Quantenschaum"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quantenschaum` ^[fragen-zu-existenz-agency-und-realitaet.md:#1]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "fraktale Konsistenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`fraktale Konsistenz` ^[fragen-zu-existenz-agency-und-realitaet.md:#3]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Schisma"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Schisma` ^[fragen-zu-existenz-agency-und-realitaet.md:#0]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "EP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`EP` ^[fragen-zu-existenz-agency-und-realitaet.md:#2]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`ANP` ^[fragen-zu-existenz-agency-und-realitaet.md:#2]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Argus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Argus` ^[fragen-zu-existenz-agency-und-realitaet.md:#1]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Selene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selene` ^[fragen-zu-existenz-agency-und-realitaet.md:#1]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna/V` ^[fragen-zu-existenz-agency-und-realitaet.md:#3]
+
+$ python3 /home/user/kohaerenzprotokoll/scripts/read.py fragen-zu-existenz-agency-und-realitaet --count "AEGIS"
+whole word, case-sensitive     38
+whole word, case-insensitive   40
+including compounds            39
+
+`AEGIS` ^[fragen-zu-existenz-agency-und-realitaet.md:#38]
+
+census/note: 13 chapter rows in table L184-L199 (rows 40..52) - counted by eye from read.py --from 184 --to 199
+22:Dieser Bericht stellt eine umfassende analytische Synthes
+283:Die Analyse der 39 Fragen enthüllt eine tiefgreifende, 

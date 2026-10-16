@@ -1,0 +1,100 @@
+# counts for 77 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             60 word   124 in   [25, 29, 51, 55, 57, 59]  <-- substring
+                                   63      as Kaels
+                                    1      as Kael-Juna-
+  Juna                             25 word    26 in   [25, 57, 59, 64, 65, 67]
+  AEGIS                           179 word   184 in   [25, 29, 39, 41, 42, 46]
+                                    1      as AEGIS-interne
+                                    1      as AEGIS-Subroutine
+                                    1      as AEGIS-Instanzen
+                                    1      as AEGIS-Analysten
+  Alters                           15 word    15 in   [131, 163, 166, 217, 225, 249]
+  Guardians                         2 word     2 in   [369, 419]
+  Guardian-Avatar                   2 word     5 in   [163, 171, 187, 203, 297]  <-- substring
+                                    2      as Guardian-Avatare
+                                    1      as Guardian-Avataren
+  Potentialmeer                     4 word     4 in   [41, 333, 337]
+  Wächter-KI                        1 word     1 in   [41]
+  Kontrollinstanz                   2 word     2 in   [132, 137]
+  Nexus                             1 word     1 in   [281]
+  Simulationsblase                  1 word     1 in   [131]
+  Simulationssubstrat               4 word    11 in   [71, 76, 77, 90, 195, 209]  <-- substring
+                                    7      as Simulationssubstrats
+  Stabilitätsdirektive              1 word     1 in   [294]
+  Eindämmungsprotokolle             1 word     1 in   [195]
+  K-J Signatur                     49 word    49 in   [29, 77, 78, 90, 99, 104]
+  K-J Verbindung                   11 word    11 in   [25, 69, 71, 76, 78, 94]
+  Moonshine-Signatur                8 word     8 in   [67, 69, 94, 111, 209, 261]
+  M-Paradoxon                      22 word    23 in   [29, 111, 133, 149, 165, 181]
+                                    1      as M-Paradoxons
+  M-Paradox                         7 word    30 in   [29, 111, 119, 121, 133, 149]  <-- substring
+                                   22      as M-Paradoxon
+                                    1      as M-Paradoxons
+  M-Kohärenz                        8 word     9 in   [312, 356, 357, 381, 383, 407]
+                                    1      as M-Kohärenzprinzipien
+  Monstergruppe                     8 word     9 in   [17, 25, 44, 46, 52, 76]
+                                    1      as Monstergruppen-Metapher
+  Baby-Monster                      2 word     3 in   [17, 59, 474]
+                                    1      as Baby-Monster-Gruppen
+  Baby Monster Gruppe               1 word     1 in   [64]
+  NZT-Ideal                         1 word     1 in   [33]
+  Drei-Akt-Struktur                 2 word     2 in   [27, 478]
+  VOA-Substrat Analogie             1 word     1 in   [434]
+  Parakonsistenz-Grenzen            1 word     1 in   [452]
+  IFS für Kaels Reaktion            1 word     1 in   [461]
+  Parakonsistenz als Falle          1 word     1 in   [105]
+  Selbst-Partitionierung            1 word     1 in   [358]
+  Systemischer Kollaps              1 word     1 in   [356]
+  Erzwungene Transformation         1 word     1 in   [357]
+  Beat 1                            1 word     4 in   [127, 191, 213, 229]  <-- substring
+  Beat 2                            1 word     5 in   [143, 245, 261, 277, 307]  <-- substring
+  Beat 5                            1 word     1 in   [159]
+  Beat 8                            1 word     1 in   [175]
+  Beat 12                           1 word     1 in   [191]
+  Beat 15                           1 word     1 in   [213]
+  Beat 18                           1 word     1 in   [229]
+  Beat 21                           1 word     1 in   [245]
+  Beat 24                           1 word     1 in   [261]
+  Beat 26                           1 word     1 in   [277]
+  Beat 28                           1 word     1 in   [307]
+  Beat 31                           1 word     1 in   [323]
+  Beat 34                           3 word     3 in   [348, 391, 457]
+  Beat 37                           1 word     1 in   [373]
+  Beat 39                           1 word     1 in   [398]
+  Die kontrollierte Umgebung        1 word     1 in   [127]
+  Der Glitch                        1 word     1 in   [143]
+  AEGIS Analyseprotokoll            1 word     1 in   [159]
+  Die irreduzible Anomalie          1 word     1 in   [175]
+  Eindämmungsversagen & Eskalation    1 word     1 in   [191]
+  Die VOA/CFT-Analogie wird explizit    1 word     1 in   [213]
+  Konfrontation mit dem M-Paradoxon    1 word     1 in   [229]
+  Kaels IFS-Reise beginnt           1 word     1 in   [245]
+  Moonshine-Signatur enthüllt Struktur    1 word     1 in   [261]
+  Punkt ohne Wiederkehr             1 word     1 in   [277]
+  Kael umarmt die Integration       1 word     1 in   [307]
+  Höhepunkt - Konzeptuelle Konfrontation    1 word     1 in   [373]
+  Moonshine-Modul                   4 word     5 in   [71, 76, 217, 265, 327]
+                                    1      as Moonshine-Moduls
+  Self-Leadership                   1 word     1 in   [311]
+  Self-Energy                       1 word     1 in   [252]
+  Internal Family Systems           2 word     2 in   [249, 465]
+  Dissoziative Identitätsstörung    1 word     1 in   [59]
+  parakonsistente Logik             7 word     7 in   [152, 168, 184, 238, 356, 456]
+  Vertex Operator Algebren          2 word     2 in   [77, 217]
+  Konformen Feldtheorien            1 word     1 in   [77]
+  Monstrous Moonshine               6 word     6 in   [71, 76, 447, 515, 518]
+  Subquotienten                     3 word     3 in   [65]
+  Zentralisator                     1 word     3 in   [64, 233]  <-- substring
+                                    1      as Zentralisator-Struktur
+                                    1      as Zentralisatoren
+  Holomorphie                       2 word     2 in   [331, 337]
+  Symmetriebrechungsmuster          1 word     1 in   [332]
+  Operatorproduktentwicklung        2 word     2 in   [77, 217]
+  Reduktionismus                    8 word     8 in   [26, 104, 164, 362, 408, 430]
+  Holismus                          6 word     6 in   [26, 104, 362, 408, 430, 477]
+  Cosmic Horror                    14 word    14 in   [27, 138, 154, 170, 186, 202]
+  Hard Sci-Fi                       9 word     9 in   [138, 170, 186, 224, 240, 272]

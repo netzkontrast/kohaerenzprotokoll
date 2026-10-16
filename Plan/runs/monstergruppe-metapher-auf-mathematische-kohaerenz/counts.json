@@ -1,0 +1,416 @@
+{
+  "document": "monstergruppe-metapher-auf-mathematische-kohaerenz",
+  "drive_id": "1VlkHHyFC-wH9jOkaEMM691qXjFXoQfZqsTZE6wq1KM8",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Monstergruppe": {
+      "n": 17,
+      "n_including_compounds": 19,
+      "lines": [
+        11,
+        15,
+        16,
+        20,
+        22,
+        26,
+        31,
+        53,
+        61,
+        63,
+        65,
+        77,
+        84,
+        88,
+        121,
+        143,
+        155,
+        156,
+        157
+      ]
+    },
+    "Monstergruppen-Metapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Baby-Monster-Gruppe": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        47,
+        51,
+        52,
+        53,
+        96,
+        100,
+        121,
+        143,
+        155
+      ]
+    },
+    "Baby-Monster-Gruppen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        96,
+        121,
+        155
+      ]
+    },
+    "Baby Monster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        57,
+        61,
+        80,
+        167,
+        191,
+        192
+      ]
+    },
+    "Moonshine": {
+      "n": 39,
+      "n_including_compounds": 52,
+      "lines": [
+        15,
+        17,
+        57,
+        61,
+        63,
+        64,
+        65,
+        80,
+        89,
+        107,
+        111,
+        112,
+        113,
+        114,
+        115,
+        121,
+        133,
+        143,
+        151,
+        155,
+        156,
+        167,
+        168,
+        189,
+        190,
+        191,
+        192,
+        193
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Moonshine-Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Emergenter Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Verallgemeinerter Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Idealbild integrierter Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        84
+      ]
+    },
+    "Simplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        88,
+        131
+      ]
+    },
+    "Einfachheit": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        28,
+        29,
+        31,
+        76,
+        77,
+        88,
+        89,
+        121,
+        131,
+        143,
+        151,
+        155
+      ]
+    },
+    "Sporadizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        90
+      ]
+    },
+    "Happy Family": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        43,
+        91
+      ]
+    },
+    "Pariahs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        91
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        107,
+        114,
+        133,
+        143
+      ]
+    },
+    "Strategie B1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        151,
+        156
+      ]
+    },
+    "Validierungsurteil": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        18,
+        117,
+        125,
+        155
+      ]
+    },
+    "AEGIS": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        90,
+        92,
+        103,
+        114,
+        143,
+        151
+      ]
+    },
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        96,
+        100,
+        103,
+        111,
+        132,
+        134,
+        143
+      ]
+    },
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        96,
+        100,
+        111,
+        132,
+        134,
+        143
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        82,
+        121,
+        155
+      ]
+    },
+    "Subquotient": {
+      "n": 14,
+      "n_including_compounds": 27,
+      "lines": [
+        17,
+        30,
+        31,
+        35,
+        42,
+        43,
+        52,
+        77,
+        78,
+        79,
+        91,
+        101,
+        102,
+        132,
+        143,
+        151,
+        184
+      ]
+    },
+    "Subquotienten": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        30,
+        31,
+        35,
+        43,
+        52,
+        77,
+        91,
+        132,
+        143
+      ]
+    },
+    "Sektion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        43,
+        78
+      ]
+    },
+    "Normalteiler": {
+      "n": 17,
+      "n_including_compounds": 18,
+      "lines": [
+        28,
+        31,
+        35,
+        40,
+        41,
+        42,
+        43,
+        76,
+        88,
+        131
+      ]
+    },
+    "Faktorgruppe": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        28,
+        40,
+        41,
+        42,
+        52,
+        53
+      ]
+    },
+    "Untergruppe": {
+      "n": 16,
+      "n_including_compounds": 21,
+      "lines": [
+        28,
+        35,
+        39,
+        40,
+        42,
+        43,
+        52,
+        64,
+        78,
+        92,
+        101,
+        132
+      ]
+    },
+    "Vertex-Operator-Algebra": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        65
+      ]
+    },
+    "VOAs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        65,
+        115
+      ]
+    },
+    "Modulfunktionen": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        57,
+        61,
+        62,
+        63,
+        65,
+        80,
+        133
+      ]
+    }
+  }
+}

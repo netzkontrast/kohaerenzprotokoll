@@ -113,3 +113,13 @@ The readers also named three places where the vocabulary does not fit:
 - „nicht X, sondern Y“ („is Y rather than X“), recorded as `denies` or `contrasts_with`;
 - table rows as definitions;
 - symbols that the export lost.
+
+## Retired: reboot-2's list (2026-10-16)
+
+The list for `aegis-manifest-genesis-krise-reboot-2` counted `Überwelt (Overworld)` 0, where
+the joined form stands once in capitals. `quotes.py` refuses that 0 as „zero only by case“.
+The author chose to retire the list and read the document afresh, rather than let the checker
+accept a case-only zero on a gold list (decision 028). The list and its counts are kept under
+`Plan/runs/aegis-manifest-genesis-krise-reboot-2/retired-gold-2026-09-30/`. `gold.py` no longer
+reads them, and the new reading in that run directory is judged by the same five criteria.
+The scores above were measured with the retired list.

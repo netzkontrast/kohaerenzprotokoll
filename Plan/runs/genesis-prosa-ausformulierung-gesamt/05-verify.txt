@@ -1,0 +1,85 @@
+$ read.py --count "Perspektive"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Perspektive` ^[genesis-prosa-ausformulierung-gesamt.md:#14]
+$ read.py --count "Stimmung"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Stimmung` ^[genesis-prosa-ausformulierung-gesamt.md:#14]
+$ read.py --count "Szene"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Szene` ^[genesis-prosa-ausformulierung-gesamt.md:#13]
+$ read.py --count "NEUE"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`NEUE` ^[genesis-prosa-ausformulierung-gesamt.md:#3]
+$ read.py --count "Rauschen"
+whole word, case-sensitive     11
+whole word, case-insensitive   12
+including compounds            13
+
+`Rauschen` ^[genesis-prosa-ausformulierung-gesamt.md:#11]
+$ read.py --count "Narbe"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narbe` ^[genesis-prosa-ausformulierung-gesamt.md:#2]
+$ read.py --count "Direktive 0"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Direktive 0` ^[genesis-prosa-ausformulierung-gesamt.md:#6]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            44
+
+`AEGIS` ^[genesis-prosa-ausformulierung-gesamt.md:#42]
+$ read.py --count "Komponente 734"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            34
+
+`Komponente 734` ^[genesis-prosa-ausformulierung-gesamt.md:#34]
+$ read.py --count "Echo"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            16
+
+`Echo` ^[genesis-prosa-ausformulierung-gesamt.md:#12]
+$ read.py --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Überwelt` ^[genesis-prosa-ausformulierung-gesamt.md:#2]
+$ read.py --count "Anomaly-Alpha"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Anomaly-Alpha` ^[genesis-prosa-ausformulierung-gesamt.md:#7]
+$ read.py --count "Protokoll Gamma-Exekution"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Protokoll Gamma-Exekution` ^[genesis-prosa-ausformulierung-gesamt.md:#3]
+$ read.py --count "Kael"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kael` ^[genesis-prosa-ausformulierung-gesamt.md:#4]
+stance_marker_count = Perspektive 14 + Stimmung 14 = 28

@@ -1,0 +1,84 @@
+{
+  "document": "kohaerenz-protokoll-szene-der-stillstand-der-welt",
+  "drive_id": "1vDpr8Fdg-2iN9H5OFWg_x9x7mT3IyAvQSxV2vivH03Q",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-489/brief.md, 2026-10-14; the document was first held by the privacy screen on the word foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 18,
+    "decisions": 18,
+    "decided_by_lookup": 14,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A short German draft scene: its new surfaces are the scene's devices (Stasis-Lücke, Beobachter, Beobachter-Resonanz, Lese-Frequenz); what it shows of Kael, AEGIS, the Konstrukt-Stadt and Sektor 04 went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        33,
+        35,
+        37,
+        39
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system message tied to an observer's reading frequency"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        19,
+        25,
+        27,
+        43,
+        45
+      ],
+      "attribution": "",
+      "note": "Kael as a pattern that exists while someone reads"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        13,
+        23
+      ],
+      "attribution": "",
+      "note": "the city as precise, then silent"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "Sektor 04 as the place the world stops"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS v.4.2` read on aegis; `Muster` is Kael as a pattern, an occurrence, not AEGIS's pattern recognition; the scene's gendering of Kael (L43) not adopted, C17 not extended",
+  "sweep": [],
+  "not_promoted": [
+    "Stasis-Lücke, Beobachter, Beobachter-Resonanz, Lese-Frequenz, narrative Dichte, the system-message labels"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

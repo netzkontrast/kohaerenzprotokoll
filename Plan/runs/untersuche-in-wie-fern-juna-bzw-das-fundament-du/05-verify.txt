@@ -1,0 +1,32 @@
+$ python3 scripts/read.py untersuche-in-wie-fern-juna-bzw-das-fundament-du --count "Lösung"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            17
+
+`Lösung` ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:#10]
+$ python3 scripts/read.py untersuche-in-wie-fern-juna-bzw-das-fundament-du --count "Implementierung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Implementierung` ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:#6]
+$ python3 scripts/read.py untersuche-in-wie-fern-juna-bzw-das-fundament-du --count "Kontradiktion"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Kontradiktion` ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:#8]
+$ python3 scripts/read.py untersuche-in-wie-fern-juna-bzw-das-fundament-du --count "Narratives Ergebnis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narratives Ergebnis` ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:#2]
+$ python3 scripts/read.py untersuche-in-wie-fern-juna-bzw-das-fundament-du --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[untersuche-in-wie-fern-juna-bzw-das-fundament-du.md:#0]
+stance_marker_count 26 = 10 + 6 + 8 + 2 (whole word, case-sensitive; Lösung, Implementierung, Kontradiktion, Narratives Ergebnis)
+Statements: 8 glued ref numbers, 10 backslash escapes, 5 headings: from 01-profile.txt

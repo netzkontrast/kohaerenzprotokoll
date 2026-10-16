@@ -1,0 +1,92 @@
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Verriegelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verriegelt` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "dekanonisiert"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`dekanonisiert` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Hard-Canon-Dokument"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hard-Canon-Dokument` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "DEPRECATED"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DEPRECATED` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Funktionale Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funktionale Multiplizität` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Qualia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Qualia` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Landauer-Prinzip"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Prinzip` ^[konsolidierung-des-hard-canon-protokolls.md:#1]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[konsolidierung-des-hard-canon-protokolls.md:#2]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            7
+
+`Kap` ^[konsolidierung-des-hard-canon-protokolls.md:#0]
+$ stance_marker_count = Verriegelt 1 + dekanonisiert 1 + DEPRECATED 1 + Hard-Canon-Dokument 1 = 4
+$ profile: question marks 0 (01-profile.txt)
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Kael"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            10
+
+`Kael` ^[konsolidierung-des-hard-canon-protokolls.md:#6]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Alters"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Alters` ^[konsolidierung-des-hard-canon-protokolls.md:#3]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Juna` ^[konsolidierung-des-hard-canon-protokolls.md:#4]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "AEGIS"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`AEGIS` ^[konsolidierung-des-hard-canon-protokolls.md:#8]
+$ read.py konsolidierung-des-hard-canon-protokolls --count "Ouroboros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Ouroboros` ^[konsolidierung-des-hard-canon-protokolls.md:#1]

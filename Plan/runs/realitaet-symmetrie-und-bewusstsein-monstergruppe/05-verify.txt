@@ -1,0 +1,13 @@
+# numbers stated in census/note, each from read.py --count
+Es wird die Hypothese aufgestellt: 2
+Es wird ein Modell vorgeschlagen: 1
+wird postuliert: 1
+wird spekuliert: 1
+sum of stance markers = 5 (stance_marker_count)
+Zugriff am: 58
+Kohärenz: 1
+Teilchenzoos: 1
+AEGIS: 0
+Kael: 0
+Systemversagen: 3 ; Primfaktor-Korruption: 1 ; Invasion einer Realität: 1 (04-counts.txt)
+profile: ascii quotes 144, glued ref numbers 70 (01-profile.txt)

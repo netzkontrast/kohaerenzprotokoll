@@ -1,0 +1,17 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      16
+  ascii quotes           70
+
+# inflection families -- one term, several surfaces
+  proto    Protocol, Protokoll
+  story    Story, Storytelling
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Here < Herein
+  Here < Coherence
+  Story < Storytelling
+  World < Worlds

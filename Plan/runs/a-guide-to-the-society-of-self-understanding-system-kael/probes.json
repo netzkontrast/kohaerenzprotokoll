@@ -1,0 +1,36 @@
+{
+  "document": "a-guide-to-the-society-of-self-understanding-system-kael",
+  "drive_id": "1IJguVJnr7N06nJickV4I3cHZdLxYZZ-a-K5vBUxIjPw",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 9,
+  "backslash_escapes": 8,
+  "typographic_marks": 9,
+  "ascii_quotes": 36,
+  "inflection_families": {
+    "guide": [
+      "Guide",
+      "Guides"
+    ],
+    "manag": [
+      "Managers",
+      "Managing"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Less",
+      "Helplessness"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Guide",
+      "Guides"
+    ]
+  ]
+}

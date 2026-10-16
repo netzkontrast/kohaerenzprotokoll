@@ -1,0 +1,37 @@
+# counts for 28 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Mosaik-Herz                       1 word     1 in   [11]
+  Kael                              8 word     9 in   [15, 17, 23, 27, 31, 33]
+                                    1      as Kaels
+                                    1      as KAEL-RESONANZ
+  Juna                              2 word     2 in   [25, 49]
+  AEGIS                             3 word     4 in   [15, 19, 35, 49]
+                                    1      as AEGIS-Modus
+  Guardians                         2 word     2 in   [23, 49]
+  Nexus                             2 word     2 in   [17]
+  LogOS                             1 word     1 in   [17]
+  Mnemosyne                         1 word     1 in   [17]
+  Konstrukt-Stadt                   1 word     1 in   [17]
+  Nichts-Rauschen                   1 word     1 in   [15]
+  Rauschen                          4 word     5 in   [13, 15, 33, 63, 65]
+  externen Ebene                    2 word     2 in   [29, 37]
+  Externe Ebene                     1 word     1 in   [39]
+  Entropie                          2 word     2 in   [25, 33]
+  Glitch                            1 word     1 in   [25]
+  Anomalie                          1 word     1 in   [49]
+  Dualität                          1 word     1 in   [31]
+  Reboots                           1 word     1 in   [37]
+  PMAS                              1 word     2 in   [39, 59]
+                                    1      as PMAS-ENDE
+  KOHÄRENZ-ARCHITEKT K-1123         1 word     1 in   [41]
+  KDSI-GAMMA-7                      1 word     1 in   [43]
+  KAEL-RESONANZ                     1 word     1 in   [43]
+  Kohärenz Protokolls               1 word     1 in   [49]
+  INTEGRATIONS-PROTOKOLL            1 word     1 in   [35]
+  Zielkohärenz                      1 word     1 in   [73]
+  Gelenkten Selbstorganisation      1 word     1 in   [53]
+  Mosaik-Modus                      1 word     1 in   [49]
+  AEGIS-Modus                       1 word     1 in   [49]

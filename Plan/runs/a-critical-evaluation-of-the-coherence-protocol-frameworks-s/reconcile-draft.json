@@ -1,0 +1,114 @@
+{
+  "document": "a-critical-evaluation-of-the-coherence-protocol-frameworks-s",
+  "drive_id": "17pOUfYZjY7EIQr4xInMa6tcWF4UEafpSXTXkHfDU9w4",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 43,
+    "decisions": 44,
+    "decided_by_lookup": 39,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Dual Kernel Theory's antagonist, a pathological adherent of coherence truth"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        20,
+        40
+      ],
+      "attribution": "",
+      "note": "Coherons as the Dual Kernel Theory's units of persistence"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        19,
+        52,
+        105
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory judged a thematic heuristic, not a scientific theory"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "Emergenz as the third step of the framework's cycle"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        52,
+        54,
+        55,
+        57
+      ],
+      "attribution": "",
+      "note": "the kernels mirrored onto System Kael's parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "the Risse as the isolation objection made physical"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "TSDP as the dissociation structure the kernels are set against"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 20,
+      "decision": "reading",
+      "why": "Coherons as atoms of persistence, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

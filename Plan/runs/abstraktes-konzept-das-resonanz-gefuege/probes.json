@@ -1,0 +1,77 @@
+{
+  "document": "abstraktes-konzept-das-resonanz-gefuege",
+  "drive_id": "1SBZ6k--UcuIfC_wjQzwYjGaSz23nSXQK0UkHVvDAcQk",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 30,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "roman": [
+      "Roman",
+      "Romans",
+      "Romantitel"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ],
+    "inhal": [
+      "Inhalt",
+      "Inhaltsangabe"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Roman",
+      "Romans"
+    ],
+    [
+      "Roman",
+      "Romantitel"
+    ],
+    [
+      "Titel",
+      "Romantitel"
+    ],
+    [
+      "Inhalt",
+      "Inhaltsangabe"
+    ],
+    [
+      "Anteile",
+      "Anteilen"
+    ],
+    [
+      "Konzept",
+      "Konzepte"
+    ],
+    [
+      "Metapher",
+      "Leitmetapher"
+    ],
+    [
+      "Struktur",
+      "Strukturen"
+    ],
+    [
+      "Struktur",
+      "Plotstruktur"
+    ],
+    [
+      "Kontrolle",
+      "Systemkontrolle"
+    ]
+  ]
+}

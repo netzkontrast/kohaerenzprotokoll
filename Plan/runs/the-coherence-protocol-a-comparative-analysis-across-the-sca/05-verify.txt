@@ -1,0 +1,70 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Narrative Implications"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Narrative Implications` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#5]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Manifestations of the Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Manifestations of the Protocol` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#5]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Mode of Coherence"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Mode of Coherence` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#6]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Mechanism of Collapse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Mechanism of Collapse` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#6]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "The Protocol in Action"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`The Protocol in Action` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#5]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "K₀"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`K₀` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#3]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "K₁"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`K₁` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#3]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#0]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Riss` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#2]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risse` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#1]
+$ python3 scripts/read.py the-coherence-protocol-a-comparative-analysis-across-the-sca --count "Intrusion → Correction → Reconfiguration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Intrusion → Correction → Reconfiguration` ^[the-coherence-protocol-a-comparative-analysis-across-the-sca.md:#1]
+# stance_marker_count 10 = 5 (Narrative Implications) + 5 (Manifestations of the Protocol)
+# census numbers 55 candidates, 7/8, 2/3, 1/2: Plan/runs/the-coherence-protocol-a-comparative-analysis-across-the-sca/04-counts.txt
+# 84 ascii quotes, 8 typographic marks, 92 backslash escapes: 01-profile.txt

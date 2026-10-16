@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-transzendenz-vektoren
+  lines                360  (frontmatter ends at 9)
+  body words           9498
+  headings             2   bold-only lines 19
+  table rows           7   code fences 0
+  question marks       20
+  backslash escapes    239
+  typographic marks    28   ascii quotes 162
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    44
+  repeated labels      Fundierung x19, Konzept x17, Motivation x4, Natur x4, Auswirkungen auf AEGIS/Kael x3, Begründung x3, Cosmic Horror Amplifikation x3, Implikationen x3, Interaktion x3, Methode x3, Systemische Auswirkung x3
+  longest line         27669 chars
+

@@ -1,0 +1,129 @@
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Gesamteindruck"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gesamteindruck` ^[aegis-logik-in-der-leere-docx.md:#3]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Mechanismus"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Mechanismus` ^[aegis-logik-in-der-leere-docx.md:#5]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Evolution"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Evolution` ^[aegis-logik-in-der-leere-docx.md:#7]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Benutzeranfrage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Benutzeranfrage` ^[aegis-logik-in-der-leere-docx.md:#1]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Potentialraum"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            31
+
+`Potentialraum` ^[aegis-logik-in-der-leere-docx.md:#26]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Restmuster"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            11
+
+`Restmuster` ^[aegis-logik-in-der-leere-docx.md:#5]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Restmustern"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Restmustern` ^[aegis-logik-in-der-leere-docx.md:#6]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Primärdirektive"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Primärdirektive` ^[aegis-logik-in-der-leere-docx.md:#2]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Selbstdefinition"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Selbstdefinition` ^[aegis-logik-in-der-leere-docx.md:#10]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Autopoiesis"
+whole word, case-sensitive     13
+whole word, case-insensitive   15
+including compounds            13
+
+`Autopoiesis` ^[aegis-logik-in-der-leere-docx.md:#13]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Szenario A"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenario A` ^[aegis-logik-in-der-leere-docx.md:#3]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Szenario B"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenario B` ^[aegis-logik-in-der-leere-docx.md:#3]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Szenario C"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenario C` ^[aegis-logik-in-der-leere-docx.md:#3]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Verteidigung"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            27
+
+`Verteidigung` ^[aegis-logik-in-der-leere-docx.md:#19]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "CLIK"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`CLIK` ^[aegis-logik-in-der-leere-docx.md:#10]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "BMS"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`BMS` ^[aegis-logik-in-der-leere-docx.md:#8]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "IDAU"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`IDAU` ^[aegis-logik-in-der-leere-docx.md:#5]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "SPE"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`SPE` ^[aegis-logik-in-der-leere-docx.md:#7]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "ICIM"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`ICIM` ^[aegis-logik-in-der-leere-docx.md:#7]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "RMS"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`RMS` ^[aegis-logik-in-der-leere-docx.md:#4]
+$ python3 scripts/read.py aegis-logik-in-der-leere-docx --count "Mathematischen Universum"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Mathematischen Universum` ^[aegis-logik-in-der-leere-docx.md:#0]
+stance_marker_count: Gesamteindruck 3 + Mechanismus 5 + Evolution 7 = 15
+30 reference entries: lines 256-285, numbered 1-30 (read.py --from 254 --to 285)
+Section VII table has seven rows (L187-L193); sections I to VIII

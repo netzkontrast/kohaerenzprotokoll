@@ -1,0 +1,14 @@
+# aegis-genesis-krise-prosa-auftrag
+  lines                168  (frontmatter ends at 9)
+  body words           4453
+  headings             2   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       19
+  backslash escapes    20
+  typographic marks    38   ascii quotes 28
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    100
+  repeated labels      none
+  longest line         1503 chars
+

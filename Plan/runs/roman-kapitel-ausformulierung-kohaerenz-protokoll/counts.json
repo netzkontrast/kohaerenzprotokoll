@@ -1,0 +1,506 @@
+{
+  "document": "roman-kapitel-ausformulierung-kohaerenz-protokoll",
+  "drive_id": "1ieQYy4d2jgl8idl6SDi8sk21YvRnWCgcXyNUuLbQ008",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Show, Don't Tell"
+  ],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        19,
+        21,
+        76,
+        81
+      ]
+    },
+    "KW1": {
+      "n": 26,
+      "n_including_compounds": 27,
+      "lines": [
+        15,
+        19,
+        21,
+        23,
+        27,
+        43,
+        44,
+        52,
+        76,
+        81,
+        90,
+        94,
+        96,
+        97,
+        100,
+        108,
+        109,
+        119,
+        129,
+        135,
+        139
+      ]
+    },
+    "KW4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        119
+      ]
+    },
+    "UNIVERSAL REBOOT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "AEGIS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        62,
+        81
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        62,
+        81
+      ]
+    },
+    "Kael": {
+      "n": 21,
+      "n_including_compounds": 69,
+      "lines": [
+        15,
+        21,
+        24,
+        27,
+        29,
+        31,
+        33,
+        43,
+        44,
+        48,
+        52,
+        54,
+        55,
+        56,
+        57,
+        58,
+        60,
+        61,
+        64,
+        65,
+        66,
+        67,
+        68,
+        71,
+        74,
+        77,
+        81,
+        87,
+        88,
+        90,
+        94,
+        96,
+        97,
+        98,
+        100,
+        109,
+        113,
+        117,
+        119,
+        120,
+        121,
+        123,
+        129,
+        133,
+        135,
+        136,
+        137,
+        139
+      ]
+    },
+    "Juna": {
+      "n": 6,
+      "n_including_compounds": 14,
+      "lines": [
+        55,
+        56,
+        68,
+        70,
+        79,
+        81,
+        85,
+        88,
+        90
+      ]
+    },
+    "Praetor": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        60,
+        64,
+        72
+      ]
+    },
+    "Nox": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        68,
+        72
+      ]
+    },
+    "Echo": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        37,
+        56,
+        60,
+        68,
+        71,
+        76
+      ]
+    },
+    "Silas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        56,
+        70
+      ]
+    },
+    "Limina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        66
+      ]
+    },
+    "Jansen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        65
+      ]
+    },
+    "Funke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        119
+      ]
+    },
+    "Host": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        39,
+        56,
+        58,
+        64,
+        70,
+        72
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        39,
+        61,
+        72,
+        133
+      ]
+    },
+    "Host/Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "DID": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        31,
+        135
+      ]
+    },
+    "Datenknotenpunkt Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Normalem Nachbarn": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Gewohnte Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Perfect World": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Der klare Hinweis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Juna-Enigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Naht": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        117,
+        121,
+        123
+      ]
+    },
+    "Riss": {
+      "n": 8,
+      "n_including_compounds": 23,
+      "lines": [
+        27,
+        44,
+        54,
+        58,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        71,
+        74,
+        94,
+        104,
+        110,
+        117,
+        119,
+        121,
+        123,
+        129
+      ]
+    },
+    "Glitch": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        38,
+        58,
+        63,
+        88,
+        108,
+        110,
+        117,
+        119,
+        123
+      ]
+    },
+    "Anomalie": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        63,
+        64,
+        66,
+        67,
+        68,
+        110,
+        117,
+        119,
+        123
+      ]
+    },
+    "Spiegel": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        19,
+        21,
+        65,
+        69,
+        77,
+        117,
+        120,
+        123
+      ]
+    },
+    "Intrusion": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        33,
+        52,
+        56,
+        58,
+        70,
+        97,
+        108
+      ]
+    },
+    "Intrusionen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        33,
+        97
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Depersonalisation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        38,
+        53,
+        69,
+        120
+      ]
+    },
+    "Derealisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Beat": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        46,
+        48,
+        52,
+        81,
+        134
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        54,
+        55,
+        86
+      ]
+    },
+    "Stream of Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Cliffhanger": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        77,
+        129,
+        137
+      ]
+    },
+    "Synästhesie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    }
+  }
+}

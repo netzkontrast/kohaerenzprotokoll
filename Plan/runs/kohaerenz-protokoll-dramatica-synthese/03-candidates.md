@@ -1,0 +1,107 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Observations. The document is a German synthesis report that maps a project onto Dramatica's four throughlines and four dimensions. It also speaks about matters outside the novel's world; none of that is listed here, only the novel's world, the document's own coined terms, and the borrowed lenses. The export escapes the subscript symbols as `K\_1` and `K\_0` inside dollar signs; in the appendix table a triple escape stands. Table cells are bold-wrapped with `\*\*`. The cited-works list at the end holds titles of other documents, left out. Opaque reference numbers are glued to words.
+
+## world
+
+- Kael
+- Juna
+- V
+- Juna/V
+- AEGIS
+- Guardians
+- Logos-Prime
+- Cerberus-Labyrinth
+- Moonshine-Link
+- Lex
+- Nyx
+- Kiko
+- System Kael
+- Dual Kernel Theory
+- DKT
+- K\_1
+- K\_0
+- Kohärenz Protokoll
+- Integrierten Kohärenz-Protokolls
+- Gravitationsarchitektur
+- Ergosphäre
+- Ereignishorizont
+- Singularität
+- Mosaik-Strategie
+- Mosaik-Struktur
+- Slot
+- Slots
+- Resonanz-Kodex
+- AEGIS-Falle
+- Analysis Paralysis
+- Algorithmische Melancholie
+- lebenden Gödel-Satz
+- Buffering Capacity
+- Agentive Narrative
+- funktionale Multiplizität
+- Golden Sources
+- Trauma-Time
+- Ontological Exploit
+- Maxwell’scher Dämon
+- Landauer-Prinzip
+- Anscheinend Normale Persönlichkeitsanteile
+- Emotionale Persönlichkeitsanteile
+- ANP
+- EP
+- Intrusive Thoughts
+- Bindungstrauma
+- Gedankenpalast
+- Maximal-Plotter
+- Writer's Bibles
+- Diagnostische Starre
+- Strategische Öffnung
+- Integrative Synthese
+- Physikalische Synthese
+- Logische Synthese
+- Operative Synthese
+- Kalibrierung
+- Immersion
+- Interaktion
+- Exekution
+- Titration
+- Thermodynamik der Beziehung
+
+## lens
+
+- Dramatica Theory of Story
+- Grand Argument Story
+- Throughlines
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- OS
+- MC
+- IC
+- SS
+- Universe
+- Mind
+- Psychology
+- Physics
+- Knowledge
+- Thought
+- Ability
+- Desire
+- Fixed Attitude
+- Manner of Thinking
+- Activity
+- Character Arc
+- Damsel in Distress
+- Dialetheismus
+- Parakonsistenz
+- Kohärenztheorie der Wahrheit
+- dissipatives System
+- Rhizom
+- Metamoderne
+- Parataxe
+- Hypotaxe
+- Qualia
+- Quantenverschränkung
+- Monstrous Moonshine Conjecture
+- Intellectualization
+- Rumination

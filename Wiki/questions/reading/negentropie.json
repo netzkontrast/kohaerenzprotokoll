@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "negentropie",
+ "title": "Negentropie",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status als Frage oder behauptete Wirkung",
+  "Unterschied zwischen Ordnung und Energiezufuhr",
+  "Stabilisierung durch Bindung",
+  "Grenze der Entropiekompensation",
+  "Abhängigkeit von einem äußeren Gegenüber"
+ ],
+ "basis": {
+  "negentropie": {
+   "title": "Negentropie",
+   "path": "Wiki/candidates/negentropie.md",
+   "hash": "d8946392e840d2a9fbb4349001cf9cf7adf9d112058bfc231a5a5370c173e472"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "kael-julia-bindung": {
+   "title": "Kael-Julia-Bindung",
+   "path": "Wiki/candidates/kael-julia-bindung.md",
+   "hash": "c1e85963cb0f24fc59c7957f82c90f13b1daf92dc7ff897fe04e96b2843ecf06"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "persistenzgleichung": {
+   "title": "Persistenzgleichung",
+   "path": "Wiki/candidates/persistenzgleichung.md",
+   "hash": "36633bdf956587b0c45d44f68aed672cecbce56d5f854b7f6c5b96a36a840a0f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-negentropie-001",
+   "question": "Welche endliche Stabilisierung liefert die Bindung tatsächlich, damit Negentropie nicht jedes andere Systemproblem kostenfrei löst?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-002",
+   "question": "Welche Lesarten auf der Seite zu Negentropie stützen oder begrenzen „Status als Frage oder behauptete Wirkung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-003",
+   "question": "Welcher Grenzfall würde bei Negentropie die Annahmen über „Status als Frage oder behauptete Wirkung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-004",
+   "question": "Wer könnte innerhalb des Romans bei Negentropie etwas über „Status als Frage oder behauptete Wirkung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-005",
+   "question": "Welche konkrete Entscheidung könnte „Status als Frage oder behauptete Wirkung“ bei Negentropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als Frage oder behauptete Wirkung“ bei Negentropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-007",
+   "question": "Wie lässt sich „Status als Frage oder behauptete Wirkung“ bei Negentropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-008",
+   "question": "Welche Alternativen sollte der Autor bei Negentropie für „Status als Frage oder behauptete Wirkung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-009",
+   "question": "Was bedeutet bei Negentropie der Themenpunkt „Unterschied zwischen Ordnung und Energiezufuhr“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-010",
+   "question": "Welche Lesarten auf der Seite zu Negentropie stützen oder begrenzen „Unterschied zwischen Ordnung und Energiezufuhr“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-011",
+   "question": "Welcher Grenzfall würde bei Negentropie die Annahmen über „Unterschied zwischen Ordnung und Energiezufuhr“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-012",
+   "question": "Wer könnte innerhalb des Romans bei Negentropie etwas über „Unterschied zwischen Ordnung und Energiezufuhr“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Ordnung und Energiezufuhr“ bei Negentropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Ordnung und Energiezufuhr“ bei Negentropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-015",
+   "question": "Wie lässt sich „Unterschied zwischen Ordnung und Energiezufuhr“ bei Negentropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-016",
+   "question": "Welche Alternativen sollte der Autor bei Negentropie für „Unterschied zwischen Ordnung und Energiezufuhr“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-017",
+   "question": "Was bedeutet bei Negentropie der Themenpunkt „Stabilisierung durch Bindung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-018",
+   "question": "Welche Lesarten auf der Seite zu Negentropie stützen oder begrenzen „Stabilisierung durch Bindung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-019",
+   "question": "Welcher Grenzfall würde bei Negentropie die Annahmen über „Stabilisierung durch Bindung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-020",
+   "question": "Wer könnte innerhalb des Romans bei Negentropie etwas über „Stabilisierung durch Bindung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-021",
+   "question": "Welche konkrete Entscheidung könnte „Stabilisierung durch Bindung“ bei Negentropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Stabilisierung durch Bindung“ bei Negentropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-023",
+   "question": "Wie lässt sich „Stabilisierung durch Bindung“ bei Negentropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-024",
+   "question": "Welche Alternativen sollte der Autor bei Negentropie für „Stabilisierung durch Bindung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-025",
+   "question": "Was bedeutet bei Negentropie der Themenpunkt „Grenze der Entropiekompensation“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-026",
+   "question": "Welche Lesarten auf der Seite zu Negentropie stützen oder begrenzen „Grenze der Entropiekompensation“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-027",
+   "question": "Welcher Grenzfall würde bei Negentropie die Annahmen über „Grenze der Entropiekompensation“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-028",
+   "question": "Wer könnte innerhalb des Romans bei Negentropie etwas über „Grenze der Entropiekompensation“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze der Entropiekompensation“ bei Negentropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze der Entropiekompensation“ bei Negentropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-031",
+   "question": "Wie lässt sich „Grenze der Entropiekompensation“ bei Negentropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-032",
+   "question": "Welche Alternativen sollte der Autor bei Negentropie für „Grenze der Entropiekompensation“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-033",
+   "question": "Was bedeutet bei Negentropie der Themenpunkt „Abhängigkeit von einem äußeren Gegenüber“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-034",
+   "question": "Welche Lesarten auf der Seite zu Negentropie stützen oder begrenzen „Abhängigkeit von einem äußeren Gegenüber“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-035",
+   "question": "Welcher Grenzfall würde bei Negentropie die Annahmen über „Abhängigkeit von einem äußeren Gegenüber“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-036",
+   "question": "Wer könnte innerhalb des Romans bei Negentropie etwas über „Abhängigkeit von einem äußeren Gegenüber“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-037",
+   "question": "Welche konkrete Entscheidung könnte „Abhängigkeit von einem äußeren Gegenüber“ bei Negentropie in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abhängigkeit von einem äußeren Gegenüber“ bei Negentropie haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-039",
+   "question": "Wie lässt sich „Abhängigkeit von einem äußeren Gegenüber“ bei Negentropie zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-040",
+   "question": "Welche Alternativen sollte der Autor bei Negentropie für „Abhängigkeit von einem äußeren Gegenüber“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-041",
+   "question": "Wo unterscheiden sich Negentropie und Entropie, wenn man sie unter dem Gesichtspunkt „Status als Frage oder behauptete Wirkung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-042",
+   "question": "Welche Quelle verbindet Negentropie mit Entropie in Bezug auf „Status als Frage oder behauptete Wirkung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-043",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Negentropie unter „Status als Frage oder behauptete Wirkung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-044",
+   "question": "Wie könnte sich das Wissen über Negentropie vom Wissen über Entropie unterscheiden, wenn „Status als Frage oder behauptete Wirkung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Negentropie und Entropie bei „Status als Frage oder behauptete Wirkung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-046",
+   "question": "Falls Negentropie im Hinblick auf „Status als Frage oder behauptete Wirkung“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Negentropie und Entropie bei „Status als Frage oder behauptete Wirkung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-048",
+   "question": "Braucht der Roman eine Verbindung von Negentropie und Entropie bei „Status als Frage oder behauptete Wirkung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-049",
+   "question": "In welchem denkbaren Fall könnte Negentropie bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Status als Frage oder behauptete Wirkung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-050",
+   "question": "Welche Kosten könnte eine Verbindung von Negentropie und Entropie in Bezug auf „Status als Frage oder behauptete Wirkung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-051",
+   "question": "Welche ältere Lesart von Negentropie oder Entropie könnte die Gegenüberstellung unter „Status als Frage oder behauptete Wirkung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Negentropie und Entropie unter „Status als Frage oder behauptete Wirkung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "negentropie",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-053",
+   "question": "Wo unterscheiden sich Negentropie und Kael-Julia-Bindung, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Ordnung und Energiezufuhr“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-054",
+   "question": "Welche Quelle verbindet Negentropie mit Kael-Julia-Bindung in Bezug auf „Unterschied zwischen Ordnung und Energiezufuhr“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-055",
+   "question": "Welche Grenzen aus der Seite zu Kael-Julia-Bindung müsste eine Deutung von Negentropie unter „Unterschied zwischen Ordnung und Energiezufuhr“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-056",
+   "question": "Wie könnte sich das Wissen über Negentropie vom Wissen über Kael-Julia-Bindung unterscheiden, wenn „Unterschied zwischen Ordnung und Energiezufuhr“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Negentropie und Kael-Julia-Bindung bei „Unterschied zwischen Ordnung und Energiezufuhr“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-058",
+   "question": "Falls Negentropie im Hinblick auf „Unterschied zwischen Ordnung und Energiezufuhr“ anders festgelegt wird: Welche Aussagen über Kael-Julia-Bindung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Negentropie und Kael-Julia-Bindung bei „Unterschied zwischen Ordnung und Energiezufuhr“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-060",
+   "question": "Braucht der Roman eine Verbindung von Negentropie und Kael-Julia-Bindung bei „Unterschied zwischen Ordnung und Energiezufuhr“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-061",
+   "question": "In welchem denkbaren Fall könnte Negentropie bestehen, ohne dass Kael-Julia-Bindung dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Ordnung und Energiezufuhr“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-062",
+   "question": "Welche Kosten könnte eine Verbindung von Negentropie und Kael-Julia-Bindung in Bezug auf „Unterschied zwischen Ordnung und Energiezufuhr“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-063",
+   "question": "Welche ältere Lesart von Negentropie oder Kael-Julia-Bindung könnte die Gegenüberstellung unter „Unterschied zwischen Ordnung und Energiezufuhr“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Negentropie und Kael-Julia-Bindung unter „Unterschied zwischen Ordnung und Energiezufuhr“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "negentropie",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-065",
+   "question": "Wo unterscheiden sich Negentropie und Coheron, wenn man sie unter dem Gesichtspunkt „Stabilisierung durch Bindung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-066",
+   "question": "Welche Quelle verbindet Negentropie mit Coheron in Bezug auf „Stabilisierung durch Bindung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-067",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Negentropie unter „Stabilisierung durch Bindung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-068",
+   "question": "Wie könnte sich das Wissen über Negentropie vom Wissen über Coheron unterscheiden, wenn „Stabilisierung durch Bindung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Negentropie und Coheron bei „Stabilisierung durch Bindung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-070",
+   "question": "Falls Negentropie im Hinblick auf „Stabilisierung durch Bindung“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Negentropie und Coheron bei „Stabilisierung durch Bindung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-072",
+   "question": "Braucht der Roman eine Verbindung von Negentropie und Coheron bei „Stabilisierung durch Bindung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-073",
+   "question": "In welchem denkbaren Fall könnte Negentropie bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „Stabilisierung durch Bindung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-074",
+   "question": "Welche Kosten könnte eine Verbindung von Negentropie und Coheron in Bezug auf „Stabilisierung durch Bindung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-075",
+   "question": "Welche ältere Lesart von Negentropie oder Coheron könnte die Gegenüberstellung unter „Stabilisierung durch Bindung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Negentropie und Coheron unter „Stabilisierung durch Bindung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "negentropie",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-077",
+   "question": "Wo unterscheiden sich Negentropie und Juna, wenn man sie unter dem Gesichtspunkt „Grenze der Entropiekompensation“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-078",
+   "question": "Welche Quelle verbindet Negentropie mit Juna in Bezug auf „Grenze der Entropiekompensation“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-079",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Negentropie unter „Grenze der Entropiekompensation“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-080",
+   "question": "Wie könnte sich das Wissen über Negentropie vom Wissen über Juna unterscheiden, wenn „Grenze der Entropiekompensation“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Negentropie und Juna bei „Grenze der Entropiekompensation“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-082",
+   "question": "Falls Negentropie im Hinblick auf „Grenze der Entropiekompensation“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Negentropie und Juna bei „Grenze der Entropiekompensation“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-084",
+   "question": "Braucht der Roman eine Verbindung von Negentropie und Juna bei „Grenze der Entropiekompensation“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-085",
+   "question": "In welchem denkbaren Fall könnte Negentropie bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Grenze der Entropiekompensation“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-086",
+   "question": "Welche Kosten könnte eine Verbindung von Negentropie und Juna in Bezug auf „Grenze der Entropiekompensation“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-087",
+   "question": "Welche ältere Lesart von Negentropie oder Juna könnte die Gegenüberstellung unter „Grenze der Entropiekompensation“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Negentropie und Juna unter „Grenze der Entropiekompensation“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "negentropie",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-089",
+   "question": "Wo unterscheiden sich Negentropie und Persistenzgleichung, wenn man sie unter dem Gesichtspunkt „Abhängigkeit von einem äußeren Gegenüber“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-090",
+   "question": "Welche Quelle verbindet Negentropie mit Persistenzgleichung in Bezug auf „Abhängigkeit von einem äußeren Gegenüber“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-091",
+   "question": "Welche Grenzen aus der Seite zu Persistenzgleichung müsste eine Deutung von Negentropie unter „Abhängigkeit von einem äußeren Gegenüber“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-092",
+   "question": "Wie könnte sich das Wissen über Negentropie vom Wissen über Persistenzgleichung unterscheiden, wenn „Abhängigkeit von einem äußeren Gegenüber“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Negentropie und Persistenzgleichung bei „Abhängigkeit von einem äußeren Gegenüber“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-094",
+   "question": "Falls Negentropie im Hinblick auf „Abhängigkeit von einem äußeren Gegenüber“ anders festgelegt wird: Welche Aussagen über Persistenzgleichung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Negentropie und Persistenzgleichung bei „Abhängigkeit von einem äußeren Gegenüber“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-096",
+   "question": "Braucht der Roman eine Verbindung von Negentropie und Persistenzgleichung bei „Abhängigkeit von einem äußeren Gegenüber“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-097",
+   "question": "In welchem denkbaren Fall könnte Negentropie bestehen, ohne dass Persistenzgleichung dieselbe Funktion übernimmt, und was würde das für „Abhängigkeit von einem äußeren Gegenüber“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-098",
+   "question": "Welche Kosten könnte eine Verbindung von Negentropie und Persistenzgleichung in Bezug auf „Abhängigkeit von einem äußeren Gegenüber“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-099",
+   "question": "Welche ältere Lesart von Negentropie oder Persistenzgleichung könnte die Gegenüberstellung unter „Abhängigkeit von einem äußeren Gegenüber“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-negentropie-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Negentropie und Persistenzgleichung unter „Abhängigkeit von einem äußeren Gegenüber“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "negentropie",
+    "persistenzgleichung"
+   ]
+  }
+ ]
+}

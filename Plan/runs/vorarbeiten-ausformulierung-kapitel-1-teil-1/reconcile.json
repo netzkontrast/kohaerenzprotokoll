@@ -1,0 +1,58 @@
+{
+  "document": "vorarbeiten-ausformulierung-kapitel-1-teil-1",
+  "drive_id": "1DRwLnvbQFiQkcShKwr9rhoK17Ktvn9iuVwK-C6Z9B1Y",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a reworded version of document 291 (Plan/runs/ingest-293/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 44,
+    "decisions": 45,
+    "decided_by_lookup": 35,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A reworded version of the chapter-1 guide read as document 291: the same pillars, beats, Juna section and hedged figures, with beat numbers added to the pillars, an arc in four groups and a reference list; nothing a page does not already hold.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a near-duplicate version of the chapter-1 guide (document 291), light pass: every near match (`Juna`/`Juna-Enigma`, `Host`/`Architekt`/`Host/Architekt`, `Echo`, `Wohneinheit`, `Anomalie`, `Riss`, `Depersonalisation`) is decided as for document 291, and no page is read",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "Kael's unawareness of the simulation; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything new to the index, as for document 291",
+    "the `HJ Stufe` and `Thema A1` labels"
+  ],
+  "internal_tension": "the export dropped a mark after the figure names in the pillars (L37); figures tied to intrusions only with a question mark, as in document 291",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

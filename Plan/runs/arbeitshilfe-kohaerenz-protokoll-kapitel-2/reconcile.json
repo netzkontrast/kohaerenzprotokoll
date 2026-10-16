@@ -1,0 +1,157 @@
+{
+  "document": "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
+  "drive_id": "1-O6wVH-IKxjj6mXYaAnKRewTwn9nwUiJiv7N65RD3Vo",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-259/brief.md; chapter reading Kap 2 by the session (Plan/runs/ingest-259-kap/)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 63,
+    "decisions": 64,
+    "decided_by_lookup": 53,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An expert analysis of a working aid for chapter 2: its new surfaces are the working aid itself, the transition space, liminality, Environmental Storytelling, the beats 1.X–1.Z and the alter names Limina, Nox and Praetor; what it says of the novel's world went on existing pages, Kap 2 and one record.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        183,
+        187,
+        204,
+        206
+      ],
+      "attribution": "",
+      "note": "the system's presence only as environmental anomaly, and possibly hostile"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        51,
+        53,
+        55,
+        56,
+        59,
+        61,
+        267
+      ],
+      "attribution": "",
+      "note": "four alters in the transition, defined from cited research"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        45,
+        51,
+        55,
+        56,
+        61
+      ],
+      "attribution": "",
+      "note": "DID terms borrowed from research to describe Kael"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "Guardians among the system actions shown as environment"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        30,
+        45,
+        112,
+        181,
+        189,
+        204
+      ],
+      "attribution": "",
+      "note": "Kael's state in the transition out of KW1, as proposals"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        15,
+        47,
+        183,
+        225,
+        280
+      ],
+      "attribution": "",
+      "note": "the Kern-Welten in transition, with VR research as a parallel"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        51,
+        59,
+        225,
+        267
+      ],
+      "attribution": "",
+      "note": "Echo/Silas as a pain-carrying alter and a beat focus"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Echo/Silas`, `Echo` and `Silas` the alter, read on silas, not the Residual-Echos; `Limina`, `Liminalität` and `Liminale Charakteristika` two terms, the alter's name and the borrowed concept; J26 (`Kern-Welt 1 (KW1)` on kern-welten); `Kollaps` the collapse of KW1, not the kernel; `Kohärenz Protokoll` the title; `Depersonalisation` a symptom; `Fragmentierung` in the analysis, not the DID page's term",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "the simulated Kern-Welten paralleled with VR research"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 107,
+      "decision": "occurrence",
+      "why": "an auditory motif for the transition space"
+    }
+  ],
+  "not_promoted": [
+    "the Arbeitshilfe",
+    "Übergangsraum, Liminalität",
+    "Environmental Storytelling, Show, Don't Tell",
+    "the beats 1.X–1.Z",
+    "Limina, Nox, Praetor (no pages)",
+    "Datensturm"
+  ],
+  "internal_tension": "it calls the chapter „Kapitel 2, Teil 1“ (L15) while numbering the beats 1.X–1.Z; its „Abschnitt 2.1“ points both to the working aid and to its own subsection",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

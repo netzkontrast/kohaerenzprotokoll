@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md
+  lines                33  (frontmatter ends at 9)
+  body words           272
+  headings             0   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    42
+  typographic marks    3   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         317 chars
+

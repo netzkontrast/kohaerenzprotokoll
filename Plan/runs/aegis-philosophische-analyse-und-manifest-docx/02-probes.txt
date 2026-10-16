@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      22
+  backslash escapes      0
+  typographic marks      7
+  ascii quotes           160
+
+# inflection families -- one term, several surfaces
+  selbs    Selbstbezug, Selbstbezüglichkeit, Selbstdefinition, Selbsterhaltung, Selbsterzeugung, Selbstevidenz, Selbstprüfung, Selbstvalidierung, Selbstverifikation, Selbstverständnis
+  syste    System, Systeme, Systemebene, Systemen, Systeminstabilität, Systemintegrität, Systemlogik, Systems, Systemzuständen
+  inter    Interaktion, Interaktionen, Internalismus, Interne, Interpretation, Interrogation, Intervention, Interventionen
+  exist    Existenz, Existenzbedingungen, Existenzberechtigung, Existenzebene, Existenzlogik, Existenzziel
+  ordnu    Ordnung, Ordnungsbewahrer, Ordnungsformen, Ordnungsprinzip, Ordnungsprinzipien, Ordnungszustände
+  absch    Abschließende, Abschnitt, Abschnitte, Abschnitten, Abschnitts
+  exter    Externalisierung, Externalisierungen, Externe, Externem, Externen
+  grund    Grundannahme, Grundannahmen, Grundhaltung, Grundlage, Grundprinzipien
+  inkoh    Inkohärente, Inkohärenten, Inkohärentes, Inkohärenz, Inkohärenzen
+  opera    Operation, Operationen, Operationslogik, Operationsraum, Operative
+  verif    Verifikation, Verifikationsmechanismen, Verifizierbare, Verifizierbarkeit, Verifizierte
+  aussc    Ausschluss, Ausschlusses, Ausschlussmechanismus, Ausschlüsse
+  axiom    Axiom, Axiomatischer, Axiomatisierung, Axiome
+  fehle    Fehlen, Fehler, Fehlern, Fehlers
+  inkom    Inkomp, Inkompatibilität, Inkompatible, Inkompatibles
+  kohär    Kohärenz, Kohärenzerhaltung, Kohärenzkriterien, Kohärenzsignaturen
+  kontr    Kontrolle, Kontrollinstanzen, Kontrollmechanismen, Kontrollsysteme
+  refer    Referenz, Referenzen, Referenzpunkt, Referenzpunkte
+  schöp    Schöpfer, Schöpfers, Schöpfung, Schöpfungsaktes
+  valid    Validation, Validierung, Validierungslogik, Validierungsmechanismen
+  abweh    Abwehr, Abwehrmechanismen, Abwehrstrategie
+  auton    Autonomie, Autonomous, Autonomy
+  beoba    Beobachter, Beobachters, Beobachtung
+  defin    Definiert, Definition, Definitionsmacht
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Alles
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Reine
+  Eine < Seine
+  Eine < Bausteine
+  Ende < Bestehendes
+  Ende < Negierenden
+  Ende < Tiefgehende
+  Ende < Abschließende
+  Form < Formen
+  Form < Kurzform
+  Form < Information
+  Form < Formulierung
+  Form < Informationen
+  Form < Ordnungsformen
+  Kael < Kaels
+  Kern < Kernlogik
+  Kern < Kernaussagen

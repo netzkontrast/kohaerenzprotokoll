@@ -1,0 +1,92 @@
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Maximal-Plotter"
+`Maximal-Plotter` ^[projektanalyse-kohaerenz-protokoll-dis.md:#8]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Kohärenz"
+`Kohärenz` ^[projektanalyse-kohaerenz-protokoll-dis.md:#35]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Kollaps"
+`Kollaps` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "K\_1"
+`K\_1` ^[projektanalyse-kohaerenz-protokoll-dis.md:#7]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "K\_0"
+`K\_0` ^[projektanalyse-kohaerenz-protokoll-dis.md:#6]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Dual Kernel Theory"
+`Dual Kernel Theory` ^[projektanalyse-kohaerenz-protokoll-dis.md:#3]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Dual-Kernel-Theorie"
+`Dual-Kernel-Theorie` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Dual-Kernel-Prinzip"
+`Dual-Kernel-Prinzip` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Protokoll-Ontologie"
+`Protokoll-Ontologie` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "AEGIS"
+`AEGIS` ^[projektanalyse-kohaerenz-protokoll-dis.md:#12]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Kael"
+`Kael` ^[projektanalyse-kohaerenz-protokoll-dis.md:#17]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "AEGIS-Falle"
+`AEGIS-Falle` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Logos-Prime"
+`Logos-Prime` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Mnemosyne"
+`Mnemosyne` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Moros"
+`Moros` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Lia"
+`Lia` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Juna/V"
+`Juna/V` ^[projektanalyse-kohaerenz-protokoll-dis.md:#3]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Algorithmische Melancholie"
+`Algorithmische Melancholie` ^[projektanalyse-kohaerenz-protokoll-dis.md:#3]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Funktionale Multiplizität"
+`Funktionale Multiplizität` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "funktionale Multiplizität"
+`funktionale Multiplizität` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Parakonsistenz"
+`Parakonsistenz` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Genesis-Krise"
+`Genesis-Krise` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Gravitationsarchitektur"
+`Gravitationsarchitektur` ^[projektanalyse-kohaerenz-protokoll-dis.md:#5]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Ergosphäre"
+`Ergosphäre` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Photon Sphere"
+`Photon Sphere` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Ereignishorizont"
+`Ereignishorizont` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Parataxis"
+`Parataxis` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Hypotaxe"
+`Hypotaxe` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Risse"
+`Risse` ^[projektanalyse-kohaerenz-protokoll-dis.md:#3]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Mosaik-Struktur"
+`Mosaik-Struktur` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Mosaik-Ansatz"
+`Mosaik-Ansatz` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Golden Sources"
+`Golden Sources` ^[projektanalyse-kohaerenz-protokoll-dis.md:#3]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Conflict Analyst"
+`Conflict Analyst` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Romanarchitektur"
+`Romanarchitektur` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "entscheidende Erkenntnis"
+`entscheidende Erkenntnis` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Empfehlungen für die weitere Projektphase"
+`Empfehlungen für die weitere Projektphase` ^[projektanalyse-kohaerenz-protokoll-dis.md:#1]
+$ python3 scripts/read.py projektanalyse-kohaerenz-protokoll-dis --count "Kernwelten"
+`Kernwelten` ^[projektanalyse-kohaerenz-protokoll-dis.md:#2]
+$ inventory items L137-L184: sed -n 137,184p | grep -c numbered items
+20
+$ numbered references: grep -c on lines 232-269
+38
+$ capture.py --count header
+# counts for 85 candidates
+$ grep profile numbers (01-profile.txt)
+  backslash escapes    297
+  glued ref numbers    44
+  longest line         733 chars
+$ grep -ow checks of the raw file
+Lex 4
+Nyx 2
+Lia 1
+Kollaps 2
+$ grep -ow Kael-... :
+204: | \*\*Juna-Kael-System A
+225: aushält* (Kael-Logik/Di

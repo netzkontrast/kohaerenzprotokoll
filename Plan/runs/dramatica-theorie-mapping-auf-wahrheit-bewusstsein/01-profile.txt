@@ -1,0 +1,14 @@
+# dramatica-theorie-mapping-auf-wahrheit-bewusstsein
+  lines                500  (frontmatter ends at 9)
+  body words           8057
+  headings             27   bold-only lines 15
+  table rows           32   code fences 0
+  question marks       15
+  backslash escapes    279
+  typographic marks    44   ascii quotes 154
+  invisible characters none
+  math symbol lines    2
+  glued ref numbers    81
+  repeated labels      none
+  longest line         1442 chars
+

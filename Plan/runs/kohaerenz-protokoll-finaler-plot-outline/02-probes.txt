@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      30
+  backslash escapes      0
+  typographic marks      11
+  ascii quotes           118
+
+# inflection families -- one term, several surfaces
+  fragm    Fragment, Fragmente, Fragmentierte, Fragmentierung, Fragments
+  poten    Potentialis, Potentialmeer, Potentialmeers, Potenzial, Potenzials
+  ander    Andere, Anderen, Anderer, Andersartigkeit
+  roman    Roman, Romanendes, Romans, Romantic
+  syste    Systeme, Systemen, Systems, Systemstabilität
+  traum    Trauma, Traumas, Traumatisiert, Traumlandschaft
+  absch    Abschluss, Abschlussprüfung, Abschnitt
+  emerg    Emergence, Emergent, Emergenz
+  epilo    Epilog, Epiloge, Epilogen
+  exist    Exist, Existenz, Existenzformen
+  frage    Frage, Fragen, Fragezeichen
+  gegen    Gegensatz, Gegensätzen, Gegenteil
+  handl    Handlung, Handlungen, Handlungsbogen
+  haupt    Hauptdirektive, Hauptereignissen, Haupttext
+  integ    Integration, Integrationsmodells, Integrierte
+  other    Other, Othering, Otherness
+  prinz    Prinzip, Prinzipien, Prinzips
+  struk    Struktur, Strukturelle, Strukturen
+  versu    Versuch, Versuche, Versuchs
+  antei    Anteile, Anteilen
+  archi    Architect, Architektur
+  autor    Autor, Autorität
+  beisp    Beispiel, Beispielen
+  daten    Daten, Datenpunkt
+  dialo    Dialog, Dialogs
+
+# substring pairs -- never one term, often merged by accident
+  Book < BookViral
+  Buch < Logbucheintrag
+  Dies < Diese
+  Dies < Dieser
+  Eine < Einer
+  Eine < Seine
+  Ende < Romanendes
+  Form < Formats
+  Form < Existenzformen
+  Form < Transformation
+  Gott < Gottes
+  Kael < Kaels
+  Kern < Kernwelt
+  Kern < Kernnatur
+  Kern < Kernthemas
+  Kern < Kernwelten
+  Kern < Kernphilosophie
+  Kern < Kernunterschied
+  Leid < Leidens
+  Meta < Metafictional

@@ -1,0 +1,384 @@
+# every number the census and note state, with the command that produced it
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "\[Kontext"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`\[Kontext` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#11]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Exploratory"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            25
+
+`Exploratory` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#25]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Plot Pt. 1"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Plot Pt. 1` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#13]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Concept Doc"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Concept Doc` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#7]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Plot Teil 1"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Plot Teil 1` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#13]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "wahrscheinlich"
+whole word, case-sensitive     9
+whole word, case-insensitive   10
+including compounds            9
+
+`wahrscheinlich` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#9]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Wahrscheinlich"
+whole word, case-sensitive     1
+whole word, case-insensitive   10
+including compounds            1
+
+`Wahrscheinlich` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "vielleicht"
+whole word, case-sensitive     36
+whole word, case-insensitive   39
+including compounds            36
+
+`vielleicht` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#36]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Lokalitätenname"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Lokalitätenname` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#18]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Zugriff am April 18, 2025"
+whole word, case-sensitive     74
+whole word, case-insensitive   74
+including compounds            74
+
+`Zugriff am April 18, 2025` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#74]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Kern-Welten"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kern-Welten` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#11]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Kernwelten"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelten` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Nexus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            6
+
+`Nexus` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Nexus-Interface zur Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nexus-Interface zur Überwelt` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     64
+whole word, case-insensitive   64
+including compounds            75
+
+`Risse` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#64]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Entropie"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            40
+
+`Entropie` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#19]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Alters"
+whole word, case-sensitive     34
+whole word, case-insensitive   34
+including compounds            38
+
+`Alters` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#34]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Guardians` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#15]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Kairos/Sophia"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`Kairos/Sophia` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#15]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Orakel/Muse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Orakel/Muse` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Externe Ebene"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Externe Ebene` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#18]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "universal reboot"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`universal reboot` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Reboot"
+whole word, case-sensitive     7
+whole word, case-insensitive   9
+including compounds            7
+
+`Reboot` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#7]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Liminal"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            8
+
+`Liminal` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Liminale"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Liminale` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "liminalen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`liminalen` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "liminaler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`liminaler` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Echos"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Echos` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#7]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Location ID"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Location ID` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Dissoziativer Identitätsstörung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziativer Identitätsstörung` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "DID"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`DID` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#6]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Systemkontrollmechanismus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systemkontrollmechanismus` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Kael's Wohneinheit 734"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael's Wohneinheit 734` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Therapie-Schnittstelle Gamma"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Therapie-Schnittstelle Gamma` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Der Vergessene Schrein"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Der Vergessene Schrein` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "AEGIS-Kern-Nexus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`AEGIS-Kern-Nexus` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Junas Versteckter Zugangspunkt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Junas Versteckter Zugangspunkt` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Narrative Funktion"
+whole word, case-sensitive     18
+whole word, case-insensitive   20
+including compounds            18
+
+`Narrative Funktion` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#18]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Symbolische Bedeutung"
+whole word, case-sensitive     18
+whole word, case-insensitive   21
+including compounds            18
+
+`Symbolische Bedeutung` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#18]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Risse/Entropie-Manifestationen"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Risse/Entropie-Manifestationen` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#18]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Oldest House"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Oldest House` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "The Hiss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Hiss` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Pyramid Head"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Pyramid Head` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Nox"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Nox` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#15]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "Muse"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Muse` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#9]
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "EST"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`EST` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#11]
+
+# table rows (45 = 13 + 7 + 25)
+$ grep -cE '^\| (KW[1-4]|UW|EX)-[0-9]+ \|' Sources/drive/orte-konzept-fuer-kohaerenz-protokoll.md
+45
+
+# profiles = Lokalitätenname lines minus the template field line L176
+$ grep -c 'Lokalitätenname:' Sources/drive/orte-konzept-fuer-kohaerenz-protokoll.md
+18
+$ grep -c '^\*\*.*[0-9]*\. Lokalitätenname:' Sources/drive/orte-konzept-fuer-kohaerenz-protokoll.md  (profile heads)
+17
+
+# lines carrying 'Echos'
+$ grep -n 'Echos' Sources/drive/orte-konzept-fuer-kohaerenz-protokoll.md | cut -c1-6
+109:  
+239:  
+302:| 
+384:  
+394:  
+448:  
+530:  
+
+# lines carrying Liminal
+$ grep -n 'Liminal' Sources/drive/orte-konzept-fuer-kohaerenz-protokoll.md | cut -c1-6
+62:  -
+255:  
+261:  
+634:18
+635:19
+636:20
+637:21
+
+# profile figures (from 01-profile.txt)
+$ grep -E 'backslash|glued|table rows' Plan/runs/orte-konzept-fuer-kohaerenz-protokoll/01-profile.txt
+  table rows           54   code fences 0
+  backslash escapes    80
+  glued ref numbers    110
+
+# stance_marker_count 56 = 11 + 25 + 13 + 7
+$ python3 -c 'print(11+25+13+7)'
+56
+
+# candidate count
+$ head -1 Plan/runs/orte-konzept-fuer-kohaerenz-protokoll/04-counts.txt
+# counts for 138 candidates
+# zeros
+$ grep -cE ' 0 word' Plan/runs/orte-konzept-fuer-kohaerenz-protokoll/04-counts.txt
+0
+
+$ python3 scripts/read.py orte-konzept-fuer-kohaerenz-protokoll --count "ca. 20"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ca. 20` ^[orte-konzept-fuer-kohaerenz-protokoll.md:#1]

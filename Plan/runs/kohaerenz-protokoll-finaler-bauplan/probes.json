@@ -1,0 +1,232 @@
+{
+  "document": "kohaerenz-protokoll-finaler-bauplan",
+  "drive_id": "15CLI8Y7BaVoZLnqFML9tAd-Vr6YBVh12hnzVbD-A2Z4",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 26,
+  "backslash_escapes": 7,
+  "typographic_marks": 171,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemfehler",
+      "Systemkollaps",
+      "Systemleistung",
+      "Systems",
+      "Systemtheorie",
+      "Systemverantwortung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbsterhaltungstrieb",
+      "Selbstproduktion"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätze",
+      "Gegensätzen",
+      "Gegenwart"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theorie",
+      "Theory"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchte",
+      "Versuchung"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "analy": [
+      "Analytics",
+      "Analytiker",
+      "Analytischer"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsstrom"
+    ],
+    "defin": [
+      "Definition",
+      "Definitionen",
+      "Definitives"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disku": [
+      "Diskurs",
+      "Diskursive",
+      "Diskursprozessor"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entschlossenheit"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählstimme",
+      "Erzählung"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploring",
+      "Explosion"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionsweise"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozess",
+      "Heilungsreise"
+    ],
+    "integ": [
+      "Integration",
+      "Integrierte",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internet",
+      "Interpretation"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmethoden",
+      "Kontrollprotokolle"
+    ],
+    "logik": [
+      "Logik",
+      "Logiken",
+      "Logikers"
+    ],
+    "multi": [
+      "Multi",
+      "Multiplizität",
+      "Multiplizitäten"
+    ],
+    "norma": [
+      "Normalen",
+      "Normaler",
+      "Normalität"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Übergreifende"
+    ],
+    [
+      "Form",
+      "Formalen"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Herz",
+      "Herzen"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernlogik"
+    ],
+    [
+      "Kern",
+      "Kernziels"
+    ],
+    [
+      "Kern",
+      "Kernaxiome"
+    ],
+    [
+      "Kern",
+      "Kernprinzip"
+    ],
+    [
+      "Kern",
+      "Verarbeitungskern"
+    ]
+  ]
+}

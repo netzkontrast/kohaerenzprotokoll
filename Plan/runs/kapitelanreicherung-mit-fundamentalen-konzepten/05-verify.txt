@@ -1,0 +1,79 @@
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Zielsetzung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zielsetzung` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#1]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Methodik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodik` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#1]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Vorbemerkung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vorbemerkung` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#1]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Einführende Anmerkung zu Teil"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Einführende Anmerkung zu Teil` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#3]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Liste"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Liste` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#1]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Listen"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Listen` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#0]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Paradoxon X"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon X` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#2]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "PP-SYS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`PP-SYS` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#0]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Fundament"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Fundament` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#2]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "HJn"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`HJn` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#13]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "HJ"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            26
+
+`HJ` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#13]
+$ read.py kapitelanreicherung-mit-fundamentalen-konzepten --count "Thema:"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Thema:` ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:#13]
+stance_marker_count 6 = 1+1+1+3 (Zielsetzung, Methodik, Vorbemerkung, Einführende Anmerkung zu Teil)
+$ grep -n 'EP' (census zero)
+31:EPs
+32:EPs
+48:EP-Reaktion
+$ grep -c '?' lines
+5

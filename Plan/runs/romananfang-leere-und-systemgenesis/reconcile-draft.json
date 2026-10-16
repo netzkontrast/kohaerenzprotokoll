@@ -1,0 +1,130 @@
+{
+  "document": "romananfang-leere-und-systemgenesis",
+  "drive_id": "1odO2ExehtkNkZmjtX5mxiaGlGpun7oiloyYt9YH4_CU",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 46,
+    "decided_by_lookup": 35,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        99,
+        104,
+        105,
+        110,
+        114,
+        176
+      ],
+      "attribution": "",
+      "note": "a hedged table mapping AEGIS's functions to narrative actions"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        73,
+        75,
+        83,
+        93,
+        117,
+        178,
+        220
+      ],
+      "attribution": "",
+      "note": "AEGIS as a purely functional core, told as a system log and a Universal Reboot"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        73,
+        79,
+        89
+      ],
+      "attribution": "",
+      "note": "the threat as an uncontrolled rise of entropy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        156,
+        208
+      ],
+      "attribution": "",
+      "note": "the draft's chapter title and a Genesis dictated by algorithms"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        202
+      ],
+      "attribution": "",
+      "note": "the Risse as manifestations of digital entropy"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        202,
+        210
+      ],
+      "attribution": "",
+      "note": "the Überwelt dissolved and re-formed in the reboot"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 73,
+      "decision": "reading",
+      "why": "the threat as entropy rise"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 156,
+      "decision": "reading",
+      "why": "the chapter title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 106,
+      "decision": "occurrence",
+      "why": "a table cell"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

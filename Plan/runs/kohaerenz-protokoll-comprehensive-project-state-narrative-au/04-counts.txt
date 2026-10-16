@@ -1,0 +1,82 @@
+# counts for 68 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              8 word    10 in   [17, 18, 21, 36, 42, 44]
+                                    1      as Kael-Juna
+                                    1      as Kaels
+  Kaels Initiale Wohneinheit        1 word     1 in   [52]
+  AEGIS                             8 word     8 in   [18, 19, 21, 23, 30, 36]
+  Juna                              4 word     6 in   [21, 30, 34, 44, 61]
+                                    1      as Juna-Erinnerung
+  Silas                             3 word     3 in   [30, 73]
+  Rhys                              1 word     1 in   [30]
+  Oblivion                          2 word     2 in   [30, 73]
+  Hard Canon                        1 word     1 in   [15]
+  Inertial Frame                    1 word     1 in   [15]
+  Gödel Gambit                      4 word     4 in   [15, 21, 30]
+  Coherence Island                  3 word     3 in   [17, 23, 55]
+  Potential Sea                     2 word     2 in   [23, 44]
+  Monster Group                     3 word     3 in   [23, 24, 67]
+  Coherence Protocol                2 word     2 in   [25]
+  Kernwelten                        4 word     4 in   [25, 30, 43, 75]
+  Riss                              2 word     6 in   [25, 26, 28, 54, 76]  <-- substring
+                                    4      as Risse
+  Risse                             4 word     4 in   [25, 26, 28, 76]
+  Dissoziative Identitätsstörung    1 word     1 in   [17]
+  DIS                               1 word     1 in   [17]
+  Alter                             3 word     7 in   [30, 35, 73]  <-- substring
+                                    2      as Alters
+                                    1      as Alternative
+                                    1      as Alter-List
+  Alters                            2 word     2 in   [30]
+  Relational Essence                2 word     2 in   [30, 34]
+  Big Bounce                        2 word     2 in   [30, 36]
+  Implosion                         1 word     1 in   [30]
+  Narrative Decoherence             1 word     1 in   [30]
+  Betrayal                          4 word     4 in   [42, 44, 60, 74]
+  Origin Trauma                     2 word     2 in   [42, 74]
+  Zero-Bit                          1 word     1 in   [42]
+  Transfer Protocol                 1 word     1 in   [43]
+  Trigger Objects                   2 word     2 in   [43, 75]
+  sensory anchors                   2 word     2 in   [43, 75]
+  Resonance-Bridge                  1 word     1 in   [44]
+  Realized Bits                     1 word     1 in   [48]
+  Information Voids                 1 word     1 in   [38]
+  Foreshadowing Allocation          1 word     1 in   [44]
+  Ozon                              1 word     1 in   [43]
+                                    1      as ozone
+  feuchte Erde                      1 word     1 in   [43]
+  Lokalitäten-Konzept               1 word     1 in   [75]
+  KW1                               2 word     7 in   [43, 50, 52, 53, 54, 55]  <-- substring
+  KW2                               2 word     6 in   [43, 57, 59, 60, 61, 75]  <-- substring
+  KW3                               0 word     2 in   [63, 65]
+  KW4                               1 word     4 in   [63, 66, 67]  <-- substring
+  KW1-LogOS                         5 word     5 in   [50, 52, 53, 54, 55]
+  KW2-Mnemosyne                     4 word     4 in   [57, 59, 60, 61]
+  KW3-Cerberus                      2 word     2 in   [63, 65]
+  KW4-Kairos                        3 word     3 in   [63, 66, 67]
+  Cerberus                          1 word     3 in   [63, 65]  <-- substring
+  Standardisierter Transitkorridor    1 word     1 in   [53]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [54]
+  Interface/Spiegelnde Wand         1 word     1 in   [55]
+  Ankunftszone                      2 word     2 in   [59, 66]
+  Ankunftszone (The Fog)            1 word     1 in   [59]
+  Ankunftszone (Generative Chaos)    1 word     1 in   [66]
+  The Fog                           1 word     1 in   [59]
+  Generative Chaos                  1 word     1 in   [66]
+  Vergessener Schrein               1 word     1 in   [60]
+  Kern-Trauma-Lokus                 1 word     1 in   [60]
+  Ort spezifischer Juna-Erinnerung    1 word     1 in   [61]
+  Übergangsschleuse                 1 word     1 in   [65]
+  Grenzfeste                        1 word     1 in   [65]
+  Übergangsschleuse (Grenzfeste)    1 word     1 in   [65]
+  Ort der Mosaik-Metapher           1 word     1 in   [67]
+  READY                             7 word     7 in   [52, 53, 54, 59, 61, 65]
+  NEEDS REVISION                    3 word     3 in   [55, 60, 67]
+  Glitch                            1 word     1 in   [26]
+                                    1      as glitches
+  autopoietic                       1 word     1 in   [19]
+  unprovable truth                  1 word     1 in   [21]
+  Gödelian logic                    1 word     1 in   [34]

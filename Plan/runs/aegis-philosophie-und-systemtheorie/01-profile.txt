@@ -1,0 +1,14 @@
+# aegis-philosophie-und-systemtheorie
+  lines                247  (frontmatter ends at 9)
+  body words           6543
+  headings             5   bold-only lines 12
+  table rows           8   code fences 0
+  question marks       27
+  backslash escapes    36
+  typographic marks    13   ascii quotes 256
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    88
+  repeated labels      none
+  longest line         2073 chars
+

@@ -1,0 +1,617 @@
+{
+  "document": "narrative-vertiefung-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 107,
+  "decisions": 110,
+  "same_surface": {},
+  "decided_mechanically": 95,
+  "needs_judgement": 15,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 120
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 398
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 385
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 337
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 262
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 262
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 189
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 272
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "M"
+      },
+      {
+        "candidate": "K-J-Link"
+      },
+      {
+        "candidate": "Caches"
+      },
+      {
+        "candidate": "Identitätsparadoxie"
+      },
+      {
+        "candidate": "Schiff des Theseus"
+      },
+      {
+        "candidate": "B-Welt"
+      },
+      {
+        "candidate": "Baby-Monster-Welt"
+      },
+      {
+        "candidate": "McL-Welt"
+      },
+      {
+        "candidate": "Co1-Welt"
+      },
+      {
+        "candidate": "Ly-Welt"
+      },
+      {
+        "candidate": "Monstergruppe"
+      },
+      {
+        "candidate": "Subquotienten"
+      },
+      {
+        "candidate": "Happy Family"
+      },
+      {
+        "candidate": "Pariahs"
+      },
+      {
+        "candidate": "Kernkonzept"
+      },
+      {
+        "candidate": "Narrative Relevanz"
+      },
+      {
+        "candidate": "Narrative Eignung"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Potentialität & Aktualität"
+      },
+      {
+        "candidate": "Whiteheadsche Prozessphilosophie"
+      },
+      {
+        "candidate": "Aktuale Entitäten"
+      },
+      {
+        "candidate": "Konkreszenz"
+      },
+      {
+        "candidate": "Quantenvakuum"
+      },
+      {
+        "candidate": "Second-Order Cybernetics"
+      },
+      {
+        "candidate": "Enaktivismus"
+      },
+      {
+        "candidate": "Distributed Cognition"
+      },
+      {
+        "candidate": "Consensus Protocols"
+      },
+      {
+        "candidate": "Split-Brain-Forschung"
+      },
+      {
+        "candidate": "Halting Problem"
+      },
+      {
+        "candidate": "Gödel'schen Unvollständigkeitssätzen"
+      },
+      {
+        "candidate": "Kolmogorov-Komplexität"
+      },
+      {
+        "candidate": "Hypercomputation"
+      },
+      {
+        "candidate": "P versus NP Problem"
+      },
+      {
+        "candidate": "Monstrous Moonshine"
+      },
+      {
+        "candidate": "Moonshine-Modul"
+      },
+      {
+        "candidate": "Leech-Gitter"
+      },
+      {
+        "candidate": "Monster-Lie-Algebra"
+      },
+      {
+        "candidate": "Stringtheorie"
+      },
+      {
+        "candidate": "Konforme Feldtheorie"
+      },
+      {
+        "candidate": "Symmetriebrechung"
+      },
+      {
+        "candidate": "Chaostheorie"
+      },
+      {
+        "candidate": "Quasikristalle"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "Jung'scher Schatten"
+      },
+      {
+        "candidate": "Narrative Expositionstherapie"
+      },
+      {
+        "candidate": "Objektbeziehungstheorie"
+      },
+      {
+        "candidate": "Spaltung (Splitting)"
+      },
+      {
+        "candidate": "Bindungstheorie"
+      },
+      {
+        "candidate": "Archetypenlehre"
+      },
+      {
+        "candidate": "Somatic Experiencing"
+      },
+      {
+        "candidate": "Integrale Theorie"
+      },
+      {
+        "candidate": "Perinatale Matrizen"
+      },
+      {
+        "candidate": "Holismus"
+      },
+      {
+        "candidate": "Reduktionismus"
+      },
+      {
+        "candidate": "Implizite Ordnung"
+      },
+      {
+        "candidate": "Impliziten Ordnung"
+      },
+      {
+        "candidate": "Holomovement"
+      },
+      {
+        "candidate": "Tacit Knowing"
+      },
+      {
+        "candidate": "Phänomenologie"
+      },
+      {
+        "candidate": "Wu Wei"
+      },
+      {
+        "candidate": "Chinese Room Argument"
+      },
+      {
+        "candidate": "Computational Theory of Mind"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "Global Workspace Theory"
+      },
+      {
+        "candidate": "Orthogonalitätsthese"
+      },
+      {
+        "candidate": "Instrumentelle Konvergenz"
+      },
+      {
+        "candidate": "Value Alignment"
+      },
+      {
+        "candidate": "Gehirn im Tank"
+      },
+      {
+        "candidate": "Mary's Room"
+      },
+      {
+        "candidate": "Philosophische Zombies"
+      },
+      {
+        "candidate": "Kognitive Verfremdung"
+      },
+      {
+        "candidate": "Novum"
+      },
+      {
+        "candidate": "Unzuverlässiger Erzähler"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Paranoia"
+      },
+      {
+        "candidate": "Doppelgänger"
+      },
+      {
+        "candidate": "Kosmische Gleichgültigkeit"
+      },
+      {
+        "candidate": "Verbotenes Wissen"
+      },
+      {
+        "candidate": "Körperhorror"
+      },
+      {
+        "candidate": "Transaktionale Interpretation"
+      },
+      {
+        "candidate": "Relationale Quantenmechanik"
+      },
+      {
+        "candidate": "De Broglie-Bohm-Theorie"
+      },
+      {
+        "candidate": "Pilotwelle"
+      },
+      {
+        "candidate": "Synchronizität"
+      },
+      {
+        "candidate": "Kollektives Unbewusstes"
+      },
+      {
+        "candidate": "Morphische Resonanz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz Protokolls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna-Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelten  /  Kernwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernkonflikt  /  Kernkonflikts",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokolls",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna-Verbindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Cache-Kohärenz-Metapher",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cachekoharenz",
+            "page": "cache-kohaerenz"
+          },
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Controller",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Identitäts-Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Transpersonale Psychologie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Emergenztheorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Schwache Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Starke Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 206,
+      "already_read": false
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 202,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 264,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 236,
+      "already_read": false
+    },
+    {
+      "page": "sophia",
+      "surface": "Sophia",
+      "line": 240,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 358,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

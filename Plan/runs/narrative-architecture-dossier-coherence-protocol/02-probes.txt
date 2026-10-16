@@ -1,0 +1,49 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      10
+  ascii quotes           78
+
+# inflection families -- one term, several surfaces
+  entro    Entropic, Entropie, Entropy
+  psych    Psychological, Psychologischer, Psychology
+  aegis    AEGIS, Aegis
+  barri    Barrieren, Barriers
+  disso    Dissociation, Dissoziative
+  drive    Driven, Drivers
+  duali    Dualism, Duality
+  fragm    Fragmentation, Fragmentierte
+  integ    Integration, Integrationsprotokoll
+  manif    Manifestation, Manifests
+  persp    Perspectives, Perspektive
+  phobi    Phobia, Phobias
+  profi    Profile, Profiles
+  proto    Protocol, Protokoll
+  ratio    Rationalism, Rationalist
+  struc    Structural, Structure
+  syste    System, Systems
+  unive    Universal, Universe
+  visua    Visualisierung, Visualize
+  world    World, Worldview
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Dualism
+  Dual < Duality
+  Here < Coherence
+  Here < Decoherence
+  Rage < Tragedy
+  Rift < Rifts
+  Riss < Risse
+  AEGIS < Aegis
+  Logic < Psychological
+  These < Synthese
+  World < Overworld
+  World < Worldview
+  Phobia < Phobias
+  System < Systems
+  Control < Uncontrolled
+  Profile < Profiles
+  Coherence < Decoherence
+  Protokoll < Integrationsprotokoll
+  Integration < Integrationsprotokoll

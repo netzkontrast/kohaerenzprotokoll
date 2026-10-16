@@ -1,0 +1,38 @@
+# counts for 29 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            26 word    27 in   [11, 15, 19, 47, 49, 64]
+                                    1      as AEGIS-Genesis
+  Überwelt                          8 word     8 in   [15, 77, 79, 84, 90, 100]
+  Potentialmeer                    12 word    16 in   [15, 17, 19, 30, 45, 60]
+                                    4      as Potentialmeers
+  Kernwelten                        3 word     6 in   [15, 77, 79, 94, 100, 104]
+                                    3      as Kernwelten-Methodik
+  Kohärenz Protokoll                1 word     1 in   [15]
+  Reste                             5 word     8 in   [15, 47, 54, 64, 68, 71]
+                                    3      as Resten
+  Entität M                         1 word     1 in   [98]
+  Kernwelten-Methodik               3 word     3 in   [77, 94, 104]
+  Kern-Direktive                    1 word     1 in   [75]
+  negative Selbstdefinition         1 word     1 in   [70]
+  operationale Geschlossenheit      1 word     1 in   [70]
+  Ontologische Reibung              1 word     1 in   [41]
+  Vorläufer-Entitäten               1 word     1 in   [49]
+  Gescheiterte Autopoiesis          1 word     1 in   [59]
+  Schwellenwert                     1 word     1 in   [71]
+  Informationsabdrücke              1 word     1 in   [60]
+  Saat                              1 word     1 in   [60]
+  Genesis der Überwelt              1 word     1 in   [84]
+  Entwicklung der Kernwelten-Methodik    1 word     1 in   [94]
+  Autopoiesis                       3 word     3 in   [59, 70, 108]
+  Selbstorganisation                1 word     1 in   [39]
+  Autokatalyse                      2 word     2 in   [39, 68]
+  dissipative Strukturen            1 word     1 in   [39]
+  Dynamis                           1 word     1 in   [29]
+  Energeia                          1 word     1 in   [29]
+  Chora                             1 word     1 in   [29]
+  Kolmogorov-Komplexität            1 word     1 in   [30]
+  Chaoskampf-Motive                 1 word     1 in   [31]
+  Methodologischer Reduktionismus    1 word     1 in   [99]

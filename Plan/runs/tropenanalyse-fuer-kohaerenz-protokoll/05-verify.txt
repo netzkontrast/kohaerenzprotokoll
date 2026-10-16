@@ -1,0 +1,85 @@
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Relevanz"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`Relevanz` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#26]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Diskussion"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Diskussion` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#6]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Definition"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Definition` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#4]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "User Query"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`User Query` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#9]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Identifizierte Tropes & Erläuterungen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Identifizierte Tropes & Erläuterungen` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#3]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#0]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Sensitivity Reader"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Sensitivity Reader` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#0]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Sensitivity Readern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sensitivity Readern` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#1]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "KW1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`KW1` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#2]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Potentialmeer"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Potentialmeer` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#6]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Emotional Parts"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Emotional Parts` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#2]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "Apparently Normal Parts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Apparently Normal Parts` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#1]
+$ read.py tropenanalyse-fuer-kohaerenz-protokoll --count "EP"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            14
+
+`EP` ^[tropenanalyse-fuer-kohaerenz-protokoll.md:#6]
+# stance_marker_count 45 = Relevanz 26 + Diskussion 6 + Definition 4 + User Query 9
+# 82 references: last numbered line L305 reads '82.'
+9
+$ profile: backslash escapes 74, glued ref numbers 24 (from 01-profile.txt)
+$ grep -c "^[0-9]*\. " Sources/drive/tropenanalyse-fuer-kohaerenz-protokoll.md
+82
+# census says "L222 to L305"; list starts L224 (grep -n)

@@ -1,6 +1,6 @@
 ---
 name: ingest
-description: Take one research document from Sources/drive/ all the way to a reconciled state a person can review — profile, candidate list written while reading, counts, census, note, reconciliation, judgements. Use this whenever a document is being read, extracted, censused, noted, reconciled or "ingested", when a new source has just landed from Drive, when an open question or conflict has named the next document to read, or when asked to add a document to the wiki. Also use it when only part of that arc is wanted — the gates and refusals it carries are what make the part safe.
+description: Take one research document from Sources/drive/ all the way to a reconciled state a person can review — profile, candidate list written while reading, counts, census, note, reconciliation, judgements. Use when asked to ingest a document, produce its census/note, reconcile its readings or add it to the wiki. For bounded research lookup without these artifacts, use reader-tools instead; discovery or design reading alone does not require a new ingest.
 allowed-tools: Bash(python3 scripts/*), Bash(scripts/*), Bash(git:*), Bash(qmd:*)
 ---
 

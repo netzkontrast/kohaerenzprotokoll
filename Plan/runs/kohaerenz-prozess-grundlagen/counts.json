@@ -1,0 +1,1045 @@
+{
+  "document": "kohaerenz-prozess-grundlagen",
+  "drive_id": "1514B_spBuULyfm6LApvhBNsXrXu9y4Rsn2R-L915JDw",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Prozess": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        124,
+        156,
+        158,
+        192,
+        211,
+        213
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "The Agency System": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        15,
+        17,
+        19,
+        77,
+        84,
+        121,
+        136,
+        188,
+        211
+      ]
+    },
+    "Systematic Agency": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        82,
+        83,
+        142
+      ]
+    },
+    "Album 1": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        35,
+        36,
+        38,
+        93,
+        130,
+        148,
+        149,
+        152
+      ]
+    },
+    "Album 2": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        19,
+        29,
+        81,
+        84,
+        85,
+        142,
+        146,
+        148,
+        149,
+        151,
+        152,
+        156,
+        158,
+        209
+      ]
+    },
+    "Album 3": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        19,
+        84,
+        124,
+        188
+      ]
+    },
+    "Alarm Rot": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        33,
+        36,
+        38,
+        75,
+        96,
+        131,
+        184,
+        195
+      ]
+    },
+    "Rock Bottom": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        49,
+        50,
+        102,
+        185,
+        195
+      ]
+    },
+    "Rauschen": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        71,
+        101,
+        130,
+        149,
+        187,
+        195
+      ]
+    },
+    "Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Panikraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Weben": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        116,
+        150
+      ]
+    },
+    "Garten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151
+      ]
+    },
+    "Firewalls/Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Firewalls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Barrieren": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        19,
+        36,
+        96,
+        152
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        46,
+        48,
+        57,
+        103,
+        165
+      ]
+    },
+    "Lex": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        46,
+        48,
+        50,
+        68,
+        100,
+        109,
+        166,
+        175,
+        185
+      ]
+    },
+    "Alex": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        36,
+        46,
+        48,
+        50,
+        57,
+        70,
+        75,
+        100,
+        103,
+        148,
+        167,
+        170,
+        173
+      ]
+    },
+    "Rhys": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        46,
+        73,
+        75,
+        100,
+        110,
+        150,
+        151,
+        167,
+        168,
+        170,
+        171,
+        173,
+        185
+      ]
+    },
+    "Nyx": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        36,
+        46,
+        68,
+        75,
+        100,
+        109,
+        148,
+        169,
+        185
+      ]
+    },
+    "Kiko": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        46,
+        73,
+        75,
+        115,
+        170
+      ]
+    },
+    "Lia": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        73,
+        115,
+        171
+      ]
+    },
+    "Isabelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        109,
+        172
+      ]
+    },
+    "Moros": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        36,
+        38,
+        46,
+        75,
+        96,
+        102,
+        173
+      ]
+    },
+    "Selene": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        57,
+        73,
+        75,
+        103,
+        110,
+        136,
+        137,
+        150,
+        151,
+        165,
+        167,
+        168,
+        170,
+        171,
+        173,
+        174,
+        175
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Die Partnerin": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        176
+      ]
+    },
+    "ANPs": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        19,
+        35,
+        36,
+        46,
+        50,
+        68,
+        73,
+        114,
+        211
+      ]
+    },
+    "EPs": {
+      "n": 18,
+      "n_including_compounds": 19,
+      "lines": [
+        17,
+        19,
+        33,
+        35,
+        36,
+        40,
+        46,
+        68,
+        70,
+        73,
+        75,
+        114,
+        169,
+        173,
+        211
+      ]
+    },
+    "ANP": {
+      "n": 11,
+      "n_including_compounds": 24,
+      "lines": [
+        17,
+        19,
+        35,
+        36,
+        46,
+        50,
+        68,
+        73,
+        93,
+        100,
+        114,
+        116,
+        136,
+        165,
+        166,
+        167,
+        168,
+        174,
+        175,
+        195,
+        211
+      ]
+    },
+    "EP": {
+      "n": 7,
+      "n_including_compounds": 41,
+      "lines": [
+        17,
+        19,
+        33,
+        35,
+        36,
+        40,
+        46,
+        63,
+        68,
+        70,
+        72,
+        73,
+        75,
+        96,
+        100,
+        102,
+        114,
+        115,
+        116,
+        136,
+        166,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        195,
+        211
+      ]
+    },
+    "Emotionalen Anteile": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        33,
+        73
+      ]
+    },
+    "Protocol ongoing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "System state: Unresolved": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Fragile Ruhe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Vertrauensbruch": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        19,
+        33,
+        40,
+        94,
+        176
+      ]
+    },
+    "Ultimatum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Alte Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Kollisionen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        138
+      ]
+    },
+    "Der Abgrund": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Die Notwendigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        203
+      ]
+    },
+    "Der Ruf nach Außen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Fremde Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Runder Tisch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Innere Konferenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Echos der Kinder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Das Weben Neuer Fäden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Die Akzeptanz der Teile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Manifest der Agentur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Systemzustand: Reorganisierend": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Blick nach Außen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Kohärenz Prozess Läuft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Hohe Priorität": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        31,
+        34,
+        39,
+        49,
+        56,
+        58,
+        67,
+        69,
+        72
+      ]
+    },
+    "Mittlere Priorität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        47,
+        71,
+        74
+      ]
+    },
+    "Niedrigere Priorität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        70,
+        114,
+        138,
+        195
+      ]
+    },
+    "funktionaler Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        196
+      ]
+    },
+    "Existenzkrise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        50,
+        102
+      ]
+    },
+    "Offenes Ende": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        85,
+        119,
+        188,
+        207
+      ]
+    },
+    "Narrativer Höhepunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "System 2": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        130,
+        136
+      ]
+    },
+    "System 3": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        130,
+        136,
+        175
+      ]
+    },
+    "System 4": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        130,
+        136,
+        174
+      ]
+    },
+    "System 5": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        61,
+        82,
+        130,
+        136,
+        150
+      ]
+    },
+    "TSDP": {
+      "n": 37,
+      "n_including_compounds": 40,
+      "lines": [
+        17,
+        21,
+        34,
+        46,
+        59,
+        69,
+        72,
+        73,
+        81,
+        93,
+        96,
+        100,
+        101,
+        102,
+        108,
+        109,
+        114,
+        115,
+        116,
+        117,
+        121,
+        150,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        195,
+        197,
+        213
+      ]
+    },
+    "Theorie der Strukturellen Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        21
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        21
+      ]
+    },
+    "Dissoziative Identitätsstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "DIS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        21,
+        58,
+        94,
+        195
+      ]
+    },
+    "kPTBS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        21,
+        33,
+        58,
+        195
+      ]
+    },
+    "komplexe Posttraumatische Belastungsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Bindungstheorie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        195,
+        213,
+        219
+      ]
+    },
+    "VSM": {
+      "n": 14,
+      "n_including_compounds": 19,
+      "lines": [
+        21,
+        60,
+        61,
+        82,
+        103,
+        116,
+        121,
+        130,
+        131,
+        136,
+        142,
+        150,
+        174,
+        175,
+        195,
+        197
+      ]
+    },
+    "PCT": {
+      "n": 20,
+      "n_including_compounds": 24,
+      "lines": [
+        21,
+        47,
+        48,
+        60,
+        61,
+        82,
+        100,
+        101,
+        103,
+        108,
+        110,
+        121,
+        130,
+        131,
+        137,
+        142,
+        165,
+        166,
+        195,
+        197
+      ]
+    },
+    "Viable System Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Perceptual Control Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Kybernetik": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        82,
+        195,
+        213
+      ]
+    },
+    "Netzwerktheorie": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        71,
+        101,
+        114,
+        116,
+        138,
+        150,
+        187,
+        195
+      ]
+    },
+    "Polyvagal-Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        74,
+        184
+      ]
+    },
+    "Somatic Experiencing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        74
+      ]
+    },
+    "Embodied Cognition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        83
+      ]
+    },
+    "Posthumanismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Chaos- und Komplexitätstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        195
+      ]
+    },
+    "Bifurkation": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        195
+      ]
+    },
+    "Attraktoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Entropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        130,
+        142
+      ]
+    },
+    "Titration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Pendulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "felt sense": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Crisis of Belief": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Psychoedukation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        108,
+        195
+      ]
+    },
+    "Grounding-Techniken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "phasenorientierten Traumabehandlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Kriseninterventionsmodelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    }
+  }
+}

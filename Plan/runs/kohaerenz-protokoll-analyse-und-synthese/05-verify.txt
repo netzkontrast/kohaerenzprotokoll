@@ -1,0 +1,58 @@
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-analyse-und-synthese.md:#5]
+$ read.py --count "Throughline"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Throughline` ^[kohaerenz-protokoll-analyse-und-synthese.md:#3]
+$ read.py --count "Juna/V"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Juna/V` ^[kohaerenz-protokoll-analyse-und-synthese.md:#8]
+$ read.py --count "Juna"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Juna` ^[kohaerenz-protokoll-analyse-und-synthese.md:#10]
+$ read.py --count "Dramatica"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Dramatica` ^[kohaerenz-protokoll-analyse-und-synthese.md:#1]
+$ read.py --count "Gärtner"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Gärtner` ^[kohaerenz-protokoll-analyse-und-synthese.md:#1]
+$ read.py --count "Gärtners"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gärtners` ^[kohaerenz-protokoll-analyse-und-synthese.md:#1]
+$ grep -c "[K\|[V\|[DEPRECATED" raw
+0
+$ question marks: grep -n ? raw | cut -d: -f1
+236 345 357 373 374 375 379 408 420 
+$ sed -n 342,421p raw | wc -l  (80 reference entries)
+80
+$ zyklische, nicht-lineare Struktur (by hand, comma term)
+1
+$ stated sections I-V
+5
+$ census: candidates 91, zeros 0 (04-counts.txt)
+# counts for 91 candidates
+$ profile: 9 question marks, 92 glued refs, 54 escapes
+  question marks       9
+  backslash escapes    54
+  glued ref numbers    92

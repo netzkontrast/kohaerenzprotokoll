@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kohaerenz-programm",
+ "title": "Kohärenz-Programm",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Abgrenzung des Gesamtsystems",
+  "Verhältnis von Programm und Bewusstseinsinstanz",
+  "Status des älteren Vokabulars",
+  "Funktionsfähigkeit trotz innerer Unterschiede",
+  "Unterscheidung von Architektur und Auftrag"
+ ],
+ "basis": {
+  "kohaerenz-programm": {
+   "title": "Kohärenz-Programm",
+   "path": "Wiki/candidates/kohaerenz-programm.md",
+   "hash": "bc70cdfaf96809c45543a4a9e95123218d8d9d8c27755cb7a548e436fe41b92b"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "personas": {
+   "title": "Personas",
+   "path": "Wiki/candidates/personas.md",
+   "hash": "20409819c088b8262ce1049d3e4058e89825fd5e5e3f6d022a52af01c15956b8"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "cache-kohaerenz": {
+   "title": "Cache-Kohärenz",
+   "path": "Wiki/candidates/cache-kohaerenz.md",
+   "hash": "38b366ecb71be124ee23458f7a92d3ed0c0d4e96765a3da59e44d8d2b70c25f8"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kohaerenz-programm-001",
+   "question": "Ist das Kohärenz-Programm ein früher Name des Gesamtsystems oder eine Architektur mit eigener Funktion gegenüber AEGIS?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-002",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Programm stützen oder begrenzen „Abgrenzung des Gesamtsystems“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-003",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Programm die Annahmen über „Abgrenzung des Gesamtsystems“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-004",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Programm etwas über „Abgrenzung des Gesamtsystems“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-005",
+   "question": "Welche konkrete Entscheidung könnte „Abgrenzung des Gesamtsystems“ bei Kohärenz-Programm in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abgrenzung des Gesamtsystems“ bei Kohärenz-Programm haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-007",
+   "question": "Wie lässt sich „Abgrenzung des Gesamtsystems“ bei Kohärenz-Programm zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-008",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Programm für „Abgrenzung des Gesamtsystems“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-009",
+   "question": "Was bedeutet bei Kohärenz-Programm der Themenpunkt „Verhältnis von Programm und Bewusstseinsinstanz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-010",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Programm stützen oder begrenzen „Verhältnis von Programm und Bewusstseinsinstanz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-011",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Programm die Annahmen über „Verhältnis von Programm und Bewusstseinsinstanz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-012",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Programm etwas über „Verhältnis von Programm und Bewusstseinsinstanz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-013",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Programm und Bewusstseinsinstanz“ bei Kohärenz-Programm in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Programm und Bewusstseinsinstanz“ bei Kohärenz-Programm haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-015",
+   "question": "Wie lässt sich „Verhältnis von Programm und Bewusstseinsinstanz“ bei Kohärenz-Programm zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-016",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Programm für „Verhältnis von Programm und Bewusstseinsinstanz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-017",
+   "question": "Was bedeutet bei Kohärenz-Programm der Themenpunkt „Status des älteren Vokabulars“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-018",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Programm stützen oder begrenzen „Status des älteren Vokabulars“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-019",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Programm die Annahmen über „Status des älteren Vokabulars“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-020",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Programm etwas über „Status des älteren Vokabulars“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-021",
+   "question": "Welche konkrete Entscheidung könnte „Status des älteren Vokabulars“ bei Kohärenz-Programm in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des älteren Vokabulars“ bei Kohärenz-Programm haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-023",
+   "question": "Wie lässt sich „Status des älteren Vokabulars“ bei Kohärenz-Programm zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-024",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Programm für „Status des älteren Vokabulars“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-025",
+   "question": "Was bedeutet bei Kohärenz-Programm der Themenpunkt „Funktionsfähigkeit trotz innerer Unterschiede“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-026",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Programm stützen oder begrenzen „Funktionsfähigkeit trotz innerer Unterschiede“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-027",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Programm die Annahmen über „Funktionsfähigkeit trotz innerer Unterschiede“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-028",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Programm etwas über „Funktionsfähigkeit trotz innerer Unterschiede“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-029",
+   "question": "Welche konkrete Entscheidung könnte „Funktionsfähigkeit trotz innerer Unterschiede“ bei Kohärenz-Programm in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Funktionsfähigkeit trotz innerer Unterschiede“ bei Kohärenz-Programm haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-031",
+   "question": "Wie lässt sich „Funktionsfähigkeit trotz innerer Unterschiede“ bei Kohärenz-Programm zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-032",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Programm für „Funktionsfähigkeit trotz innerer Unterschiede“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-033",
+   "question": "Was bedeutet bei Kohärenz-Programm der Themenpunkt „Unterscheidung von Architektur und Auftrag“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-034",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Programm stützen oder begrenzen „Unterscheidung von Architektur und Auftrag“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-035",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Programm die Annahmen über „Unterscheidung von Architektur und Auftrag“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-036",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Programm etwas über „Unterscheidung von Architektur und Auftrag“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-037",
+   "question": "Welche konkrete Entscheidung könnte „Unterscheidung von Architektur und Auftrag“ bei Kohärenz-Programm in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterscheidung von Architektur und Auftrag“ bei Kohärenz-Programm haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-039",
+   "question": "Wie lässt sich „Unterscheidung von Architektur und Auftrag“ bei Kohärenz-Programm zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-040",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Programm für „Unterscheidung von Architektur und Auftrag“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-041",
+   "question": "Wo unterscheiden sich Kohärenz-Programm und AEGIS, wenn man sie unter dem Gesichtspunkt „Abgrenzung des Gesamtsystems“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-042",
+   "question": "Welche Quelle verbindet Kohärenz-Programm mit AEGIS in Bezug auf „Abgrenzung des Gesamtsystems“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Kohärenz-Programm unter „Abgrenzung des Gesamtsystems“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-044",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Programm vom Wissen über AEGIS unterscheiden, wenn „Abgrenzung des Gesamtsystems“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Programm und AEGIS bei „Abgrenzung des Gesamtsystems“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-046",
+   "question": "Falls Kohärenz-Programm im Hinblick auf „Abgrenzung des Gesamtsystems“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Programm und AEGIS bei „Abgrenzung des Gesamtsystems“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-048",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Programm und AEGIS bei „Abgrenzung des Gesamtsystems“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-049",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Programm bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Abgrenzung des Gesamtsystems“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Programm und AEGIS in Bezug auf „Abgrenzung des Gesamtsystems“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-051",
+   "question": "Welche ältere Lesart von Kohärenz-Programm oder AEGIS könnte die Gegenüberstellung unter „Abgrenzung des Gesamtsystems“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Programm und AEGIS unter „Abgrenzung des Gesamtsystems“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-programm",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-053",
+   "question": "Wo unterscheiden sich Kohärenz-Programm und Guardians, wenn man sie unter dem Gesichtspunkt „Verhältnis von Programm und Bewusstseinsinstanz“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-054",
+   "question": "Welche Quelle verbindet Kohärenz-Programm mit Guardians in Bezug auf „Verhältnis von Programm und Bewusstseinsinstanz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-055",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Kohärenz-Programm unter „Verhältnis von Programm und Bewusstseinsinstanz“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-056",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Programm vom Wissen über Guardians unterscheiden, wenn „Verhältnis von Programm und Bewusstseinsinstanz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Programm und Guardians bei „Verhältnis von Programm und Bewusstseinsinstanz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-058",
+   "question": "Falls Kohärenz-Programm im Hinblick auf „Verhältnis von Programm und Bewusstseinsinstanz“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Programm und Guardians bei „Verhältnis von Programm und Bewusstseinsinstanz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-060",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Programm und Guardians bei „Verhältnis von Programm und Bewusstseinsinstanz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-061",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Programm bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Programm und Bewusstseinsinstanz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Programm und Guardians in Bezug auf „Verhältnis von Programm und Bewusstseinsinstanz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-063",
+   "question": "Welche ältere Lesart von Kohärenz-Programm oder Guardians könnte die Gegenüberstellung unter „Verhältnis von Programm und Bewusstseinsinstanz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Programm und Guardians unter „Verhältnis von Programm und Bewusstseinsinstanz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-programm",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-065",
+   "question": "Wo unterscheiden sich Kohärenz-Programm und Personas, wenn man sie unter dem Gesichtspunkt „Status des älteren Vokabulars“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-066",
+   "question": "Welche Quelle verbindet Kohärenz-Programm mit Personas in Bezug auf „Status des älteren Vokabulars“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-067",
+   "question": "Welche Grenzen aus der Seite zu Personas müsste eine Deutung von Kohärenz-Programm unter „Status des älteren Vokabulars“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-068",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Programm vom Wissen über Personas unterscheiden, wenn „Status des älteren Vokabulars“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Programm und Personas bei „Status des älteren Vokabulars“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-070",
+   "question": "Falls Kohärenz-Programm im Hinblick auf „Status des älteren Vokabulars“ anders festgelegt wird: Welche Aussagen über Personas müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Programm und Personas bei „Status des älteren Vokabulars“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-072",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Programm und Personas bei „Status des älteren Vokabulars“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-073",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Programm bestehen, ohne dass Personas dieselbe Funktion übernimmt, und was würde das für „Status des älteren Vokabulars“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Programm und Personas in Bezug auf „Status des älteren Vokabulars“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-075",
+   "question": "Welche ältere Lesart von Kohärenz-Programm oder Personas könnte die Gegenüberstellung unter „Status des älteren Vokabulars“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Programm und Personas unter „Status des älteren Vokabulars“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-programm",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-077",
+   "question": "Wo unterscheiden sich Kohärenz-Programm und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Funktionsfähigkeit trotz innerer Unterschiede“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-078",
+   "question": "Welche Quelle verbindet Kohärenz-Programm mit Kern-Welten in Bezug auf „Funktionsfähigkeit trotz innerer Unterschiede“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-079",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Kohärenz-Programm unter „Funktionsfähigkeit trotz innerer Unterschiede“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-080",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Programm vom Wissen über Kern-Welten unterscheiden, wenn „Funktionsfähigkeit trotz innerer Unterschiede“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Programm und Kern-Welten bei „Funktionsfähigkeit trotz innerer Unterschiede“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-082",
+   "question": "Falls Kohärenz-Programm im Hinblick auf „Funktionsfähigkeit trotz innerer Unterschiede“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Programm und Kern-Welten bei „Funktionsfähigkeit trotz innerer Unterschiede“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-084",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Programm und Kern-Welten bei „Funktionsfähigkeit trotz innerer Unterschiede“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-085",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Programm bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Funktionsfähigkeit trotz innerer Unterschiede“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Programm und Kern-Welten in Bezug auf „Funktionsfähigkeit trotz innerer Unterschiede“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-087",
+   "question": "Welche ältere Lesart von Kohärenz-Programm oder Kern-Welten könnte die Gegenüberstellung unter „Funktionsfähigkeit trotz innerer Unterschiede“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Programm und Kern-Welten unter „Funktionsfähigkeit trotz innerer Unterschiede“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-programm",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-089",
+   "question": "Wo unterscheiden sich Kohärenz-Programm und Cache-Kohärenz, wenn man sie unter dem Gesichtspunkt „Unterscheidung von Architektur und Auftrag“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-090",
+   "question": "Welche Quelle verbindet Kohärenz-Programm mit Cache-Kohärenz in Bezug auf „Unterscheidung von Architektur und Auftrag“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-091",
+   "question": "Welche Grenzen aus der Seite zu Cache-Kohärenz müsste eine Deutung von Kohärenz-Programm unter „Unterscheidung von Architektur und Auftrag“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-092",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Programm vom Wissen über Cache-Kohärenz unterscheiden, wenn „Unterscheidung von Architektur und Auftrag“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Programm und Cache-Kohärenz bei „Unterscheidung von Architektur und Auftrag“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-094",
+   "question": "Falls Kohärenz-Programm im Hinblick auf „Unterscheidung von Architektur und Auftrag“ anders festgelegt wird: Welche Aussagen über Cache-Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Programm und Cache-Kohärenz bei „Unterscheidung von Architektur und Auftrag“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-096",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Programm und Cache-Kohärenz bei „Unterscheidung von Architektur und Auftrag“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-097",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Programm bestehen, ohne dass Cache-Kohärenz dieselbe Funktion übernimmt, und was würde das für „Unterscheidung von Architektur und Auftrag“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Programm und Cache-Kohärenz in Bezug auf „Unterscheidung von Architektur und Auftrag“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-099",
+   "question": "Welche ältere Lesart von Kohärenz-Programm oder Cache-Kohärenz könnte die Gegenüberstellung unter „Unterscheidung von Architektur und Auftrag“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-programm-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Programm und Cache-Kohärenz unter „Unterscheidung von Architektur und Auftrag“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-programm",
+    "cache-kohaerenz"
+   ]
+  }
+ ]
+}

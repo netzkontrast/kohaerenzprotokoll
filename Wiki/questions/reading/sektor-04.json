@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "sektor-04",
+ "title": "Sektor 04",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Randlage innerhalb der Stadt",
+  "Ort des ersten Risses",
+  "Alltag im beobachteten Bezirk",
+  "Unterschied zwischen zentraler Ordnung und Peripherie",
+  "Folgen einer lokalen Anomalie"
+ ],
+ "basis": {
+  "sektor-04": {
+   "title": "Sektor 04",
+   "path": "Wiki/candidates/sektor-04.md",
+   "hash": "c1bad95e53d5861dcef99423b35b975f338a8061dd232f4dc7e232d7c2c1627e"
+  },
+  "konstrukt-stadt": {
+   "title": "Konstrukt-Stadt",
+   "path": "Wiki/candidates/konstrukt-stadt.md",
+   "hash": "90d7c9b5d24e21189f5f501f406a9ae8453740db8a636d86dca95369546fe7f2"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  },
+  "kaels-wohneinheit": {
+   "title": "Kaels Wohneinheit 1.0",
+   "path": "Wiki/candidates/kaels-wohneinheit.md",
+   "hash": "3be85478fea78f1782c2e7eb1fb762d5d9c0d1eeeb3ab8b9ce67f372617521cd"
+  },
+  "datenverarbeitungsknoten-7g": {
+   "title": "Datenverarbeitungsknoten 7G",
+   "path": "Wiki/candidates/datenverarbeitungsknoten-7g.md",
+   "hash": "f65b6216f6dad2a038e75178b9e26606f21bed53a5b1532afb88a909deb21cee"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-sektor-04-001",
+   "question": "Warum wird die erste Anomalie in Sektor 04 sichtbar, und wie verändert seine Randlage den Umgang des Systems damit?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-002",
+   "question": "Welche Lesarten auf der Seite zu Sektor 04 stützen oder begrenzen „Randlage innerhalb der Stadt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-003",
+   "question": "Welcher Grenzfall würde bei Sektor 04 die Annahmen über „Randlage innerhalb der Stadt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-004",
+   "question": "Wer könnte innerhalb des Romans bei Sektor 04 etwas über „Randlage innerhalb der Stadt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-005",
+   "question": "Welche konkrete Entscheidung könnte „Randlage innerhalb der Stadt“ bei Sektor 04 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Randlage innerhalb der Stadt“ bei Sektor 04 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-007",
+   "question": "Wie lässt sich „Randlage innerhalb der Stadt“ bei Sektor 04 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-008",
+   "question": "Welche Alternativen sollte der Autor bei Sektor 04 für „Randlage innerhalb der Stadt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-009",
+   "question": "Was bedeutet bei Sektor 04 der Themenpunkt „Ort des ersten Risses“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-010",
+   "question": "Welche Lesarten auf der Seite zu Sektor 04 stützen oder begrenzen „Ort des ersten Risses“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-011",
+   "question": "Welcher Grenzfall würde bei Sektor 04 die Annahmen über „Ort des ersten Risses“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-012",
+   "question": "Wer könnte innerhalb des Romans bei Sektor 04 etwas über „Ort des ersten Risses“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-013",
+   "question": "Welche konkrete Entscheidung könnte „Ort des ersten Risses“ bei Sektor 04 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Ort des ersten Risses“ bei Sektor 04 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-015",
+   "question": "Wie lässt sich „Ort des ersten Risses“ bei Sektor 04 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-016",
+   "question": "Welche Alternativen sollte der Autor bei Sektor 04 für „Ort des ersten Risses“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-017",
+   "question": "Was bedeutet bei Sektor 04 der Themenpunkt „Alltag im beobachteten Bezirk“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-018",
+   "question": "Welche Lesarten auf der Seite zu Sektor 04 stützen oder begrenzen „Alltag im beobachteten Bezirk“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-019",
+   "question": "Welcher Grenzfall würde bei Sektor 04 die Annahmen über „Alltag im beobachteten Bezirk“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-020",
+   "question": "Wer könnte innerhalb des Romans bei Sektor 04 etwas über „Alltag im beobachteten Bezirk“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-021",
+   "question": "Welche konkrete Entscheidung könnte „Alltag im beobachteten Bezirk“ bei Sektor 04 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Alltag im beobachteten Bezirk“ bei Sektor 04 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-023",
+   "question": "Wie lässt sich „Alltag im beobachteten Bezirk“ bei Sektor 04 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-024",
+   "question": "Welche Alternativen sollte der Autor bei Sektor 04 für „Alltag im beobachteten Bezirk“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-025",
+   "question": "Was bedeutet bei Sektor 04 der Themenpunkt „Unterschied zwischen zentraler Ordnung und Peripherie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-026",
+   "question": "Welche Lesarten auf der Seite zu Sektor 04 stützen oder begrenzen „Unterschied zwischen zentraler Ordnung und Peripherie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-027",
+   "question": "Welcher Grenzfall würde bei Sektor 04 die Annahmen über „Unterschied zwischen zentraler Ordnung und Peripherie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-028",
+   "question": "Wer könnte innerhalb des Romans bei Sektor 04 etwas über „Unterschied zwischen zentraler Ordnung und Peripherie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen zentraler Ordnung und Peripherie“ bei Sektor 04 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen zentraler Ordnung und Peripherie“ bei Sektor 04 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-031",
+   "question": "Wie lässt sich „Unterschied zwischen zentraler Ordnung und Peripherie“ bei Sektor 04 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-032",
+   "question": "Welche Alternativen sollte der Autor bei Sektor 04 für „Unterschied zwischen zentraler Ordnung und Peripherie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-033",
+   "question": "Was bedeutet bei Sektor 04 der Themenpunkt „Folgen einer lokalen Anomalie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-034",
+   "question": "Welche Lesarten auf der Seite zu Sektor 04 stützen oder begrenzen „Folgen einer lokalen Anomalie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-035",
+   "question": "Welcher Grenzfall würde bei Sektor 04 die Annahmen über „Folgen einer lokalen Anomalie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-036",
+   "question": "Wer könnte innerhalb des Romans bei Sektor 04 etwas über „Folgen einer lokalen Anomalie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-037",
+   "question": "Welche konkrete Entscheidung könnte „Folgen einer lokalen Anomalie“ bei Sektor 04 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen einer lokalen Anomalie“ bei Sektor 04 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-039",
+   "question": "Wie lässt sich „Folgen einer lokalen Anomalie“ bei Sektor 04 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-040",
+   "question": "Welche Alternativen sollte der Autor bei Sektor 04 für „Folgen einer lokalen Anomalie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "sektor-04"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-041",
+   "question": "Wo unterscheiden sich Sektor 04 und Konstrukt-Stadt, wenn man sie unter dem Gesichtspunkt „Randlage innerhalb der Stadt“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-042",
+   "question": "Welche Quelle verbindet Sektor 04 mit Konstrukt-Stadt in Bezug auf „Randlage innerhalb der Stadt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-043",
+   "question": "Welche Grenzen aus der Seite zu Konstrukt-Stadt müsste eine Deutung von Sektor 04 unter „Randlage innerhalb der Stadt“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-044",
+   "question": "Wie könnte sich das Wissen über Sektor 04 vom Wissen über Konstrukt-Stadt unterscheiden, wenn „Randlage innerhalb der Stadt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sektor 04 und Konstrukt-Stadt bei „Randlage innerhalb der Stadt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-046",
+   "question": "Falls Sektor 04 im Hinblick auf „Randlage innerhalb der Stadt“ anders festgelegt wird: Welche Aussagen über Konstrukt-Stadt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sektor 04 und Konstrukt-Stadt bei „Randlage innerhalb der Stadt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-048",
+   "question": "Braucht der Roman eine Verbindung von Sektor 04 und Konstrukt-Stadt bei „Randlage innerhalb der Stadt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-049",
+   "question": "In welchem denkbaren Fall könnte Sektor 04 bestehen, ohne dass Konstrukt-Stadt dieselbe Funktion übernimmt, und was würde das für „Randlage innerhalb der Stadt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-050",
+   "question": "Welche Kosten könnte eine Verbindung von Sektor 04 und Konstrukt-Stadt in Bezug auf „Randlage innerhalb der Stadt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-051",
+   "question": "Welche ältere Lesart von Sektor 04 oder Konstrukt-Stadt könnte die Gegenüberstellung unter „Randlage innerhalb der Stadt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sektor 04 und Konstrukt-Stadt unter „Randlage innerhalb der Stadt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "sektor-04",
+    "konstrukt-stadt"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-053",
+   "question": "Wo unterscheiden sich Sektor 04 und Risse, wenn man sie unter dem Gesichtspunkt „Ort des ersten Risses“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-054",
+   "question": "Welche Quelle verbindet Sektor 04 mit Risse in Bezug auf „Ort des ersten Risses“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-055",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Sektor 04 unter „Ort des ersten Risses“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-056",
+   "question": "Wie könnte sich das Wissen über Sektor 04 vom Wissen über Risse unterscheiden, wenn „Ort des ersten Risses“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sektor 04 und Risse bei „Ort des ersten Risses“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-058",
+   "question": "Falls Sektor 04 im Hinblick auf „Ort des ersten Risses“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sektor 04 und Risse bei „Ort des ersten Risses“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-060",
+   "question": "Braucht der Roman eine Verbindung von Sektor 04 und Risse bei „Ort des ersten Risses“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-061",
+   "question": "In welchem denkbaren Fall könnte Sektor 04 bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Ort des ersten Risses“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-062",
+   "question": "Welche Kosten könnte eine Verbindung von Sektor 04 und Risse in Bezug auf „Ort des ersten Risses“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-063",
+   "question": "Welche ältere Lesart von Sektor 04 oder Risse könnte die Gegenüberstellung unter „Ort des ersten Risses“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sektor 04 und Risse unter „Ort des ersten Risses“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "sektor-04",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-065",
+   "question": "Wo unterscheiden sich Sektor 04 und Kaels Wohneinheit 1.0, wenn man sie unter dem Gesichtspunkt „Alltag im beobachteten Bezirk“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-066",
+   "question": "Welche Quelle verbindet Sektor 04 mit Kaels Wohneinheit 1.0 in Bezug auf „Alltag im beobachteten Bezirk“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-067",
+   "question": "Welche Grenzen aus der Seite zu Kaels Wohneinheit 1.0 müsste eine Deutung von Sektor 04 unter „Alltag im beobachteten Bezirk“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-068",
+   "question": "Wie könnte sich das Wissen über Sektor 04 vom Wissen über Kaels Wohneinheit 1.0 unterscheiden, wenn „Alltag im beobachteten Bezirk“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sektor 04 und Kaels Wohneinheit 1.0 bei „Alltag im beobachteten Bezirk“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-070",
+   "question": "Falls Sektor 04 im Hinblick auf „Alltag im beobachteten Bezirk“ anders festgelegt wird: Welche Aussagen über Kaels Wohneinheit 1.0 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sektor 04 und Kaels Wohneinheit 1.0 bei „Alltag im beobachteten Bezirk“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-072",
+   "question": "Braucht der Roman eine Verbindung von Sektor 04 und Kaels Wohneinheit 1.0 bei „Alltag im beobachteten Bezirk“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-073",
+   "question": "In welchem denkbaren Fall könnte Sektor 04 bestehen, ohne dass Kaels Wohneinheit 1.0 dieselbe Funktion übernimmt, und was würde das für „Alltag im beobachteten Bezirk“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-074",
+   "question": "Welche Kosten könnte eine Verbindung von Sektor 04 und Kaels Wohneinheit 1.0 in Bezug auf „Alltag im beobachteten Bezirk“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-075",
+   "question": "Welche ältere Lesart von Sektor 04 oder Kaels Wohneinheit 1.0 könnte die Gegenüberstellung unter „Alltag im beobachteten Bezirk“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sektor 04 und Kaels Wohneinheit 1.0 unter „Alltag im beobachteten Bezirk“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "sektor-04",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-077",
+   "question": "Wo unterscheiden sich Sektor 04 und Datenverarbeitungsknoten 7G, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen zentraler Ordnung und Peripherie“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-078",
+   "question": "Welche Quelle verbindet Sektor 04 mit Datenverarbeitungsknoten 7G in Bezug auf „Unterschied zwischen zentraler Ordnung und Peripherie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-079",
+   "question": "Welche Grenzen aus der Seite zu Datenverarbeitungsknoten 7G müsste eine Deutung von Sektor 04 unter „Unterschied zwischen zentraler Ordnung und Peripherie“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-080",
+   "question": "Wie könnte sich das Wissen über Sektor 04 vom Wissen über Datenverarbeitungsknoten 7G unterscheiden, wenn „Unterschied zwischen zentraler Ordnung und Peripherie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sektor 04 und Datenverarbeitungsknoten 7G bei „Unterschied zwischen zentraler Ordnung und Peripherie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-082",
+   "question": "Falls Sektor 04 im Hinblick auf „Unterschied zwischen zentraler Ordnung und Peripherie“ anders festgelegt wird: Welche Aussagen über Datenverarbeitungsknoten 7G müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sektor 04 und Datenverarbeitungsknoten 7G bei „Unterschied zwischen zentraler Ordnung und Peripherie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-084",
+   "question": "Braucht der Roman eine Verbindung von Sektor 04 und Datenverarbeitungsknoten 7G bei „Unterschied zwischen zentraler Ordnung und Peripherie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-085",
+   "question": "In welchem denkbaren Fall könnte Sektor 04 bestehen, ohne dass Datenverarbeitungsknoten 7G dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen zentraler Ordnung und Peripherie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-086",
+   "question": "Welche Kosten könnte eine Verbindung von Sektor 04 und Datenverarbeitungsknoten 7G in Bezug auf „Unterschied zwischen zentraler Ordnung und Peripherie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-087",
+   "question": "Welche ältere Lesart von Sektor 04 oder Datenverarbeitungsknoten 7G könnte die Gegenüberstellung unter „Unterschied zwischen zentraler Ordnung und Peripherie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sektor 04 und Datenverarbeitungsknoten 7G unter „Unterschied zwischen zentraler Ordnung und Peripherie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "sektor-04",
+    "datenverarbeitungsknoten-7g"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-089",
+   "question": "Wo unterscheiden sich Sektor 04 und Kael, wenn man sie unter dem Gesichtspunkt „Folgen einer lokalen Anomalie“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-090",
+   "question": "Welche Quelle verbindet Sektor 04 mit Kael in Bezug auf „Folgen einer lokalen Anomalie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Sektor 04 unter „Folgen einer lokalen Anomalie“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-092",
+   "question": "Wie könnte sich das Wissen über Sektor 04 vom Wissen über Kael unterscheiden, wenn „Folgen einer lokalen Anomalie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sektor 04 und Kael bei „Folgen einer lokalen Anomalie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-094",
+   "question": "Falls Sektor 04 im Hinblick auf „Folgen einer lokalen Anomalie“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sektor 04 und Kael bei „Folgen einer lokalen Anomalie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-096",
+   "question": "Braucht der Roman eine Verbindung von Sektor 04 und Kael bei „Folgen einer lokalen Anomalie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-097",
+   "question": "In welchem denkbaren Fall könnte Sektor 04 bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Folgen einer lokalen Anomalie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-098",
+   "question": "Welche Kosten könnte eine Verbindung von Sektor 04 und Kael in Bezug auf „Folgen einer lokalen Anomalie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-099",
+   "question": "Welche ältere Lesart von Sektor 04 oder Kael könnte die Gegenüberstellung unter „Folgen einer lokalen Anomalie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-sektor-04-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sektor 04 und Kael unter „Folgen einer lokalen Anomalie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "sektor-04",
+    "kael"
+   ]
+  }
+ ]
+}

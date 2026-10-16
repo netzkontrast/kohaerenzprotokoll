@@ -1,0 +1,110 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            15 word    15 in   [128, 240, 242, 244, 250, 272]
+  Kael                             15 word    15 in   [355, 361, 363, 367, 369, 371]
+  Juna                              5 word     6 in   [359, 365, 367, 381, 391]
+                                    1      as Junas
+  Jansen                            4 word     4 in   [381, 383, 387]
+  LogOS                             3 word     3 in   [365, 369, 377]
+  Überwelt                          2 word     2 in   [270, 300]
+  Konstrukt-Stadt                   5 word     5 in   [373, 399, 409, 411, 513]
+  KW1                               1 word     1 in   [411]
+  KW2                               1 word     1 in   [545]
+  Gamma-7                           1 word     1 in   [373]
+  Sektor Delta                      1 word     1 in   [383]
+  Datenknotenpunkt                  1 word     1 in   [373]
+  Transitkorridor                   1 word     1 in   [369]
+  Wohneinheit                       2 word     2 in   [393, 395]
+  Architekten                       2 word     2 in   [373, 379]
+  Architekt                         1 word     7 in   [270, 357, 373, 375, 379, 389]  <-- substring
+                                    3      as Architektur
+                                    2      as Architekten
+                                    1      as Architekturen
+  Wächter                           2 word     2 in   [284, 344]
+  Kontrollkern                      1 word     1 in   [344]
+  Kern                              2 word     2 in   [280, 437]
+  Praetor                           4 word     4 in   [373, 377, 389, 399]
+  Cerberus                          2 word     2 in   [377, 389]
+  Nox                               3 word     3 in   [379, 387, 391]
+  Kairos                            2 word     2 in   [379, 407]
+  Echo                             15 word    20 in   [22, 114, 344, 367, 373, 377]
+                                    5      as Echos
+  Silas                             2 word     2 in   [395, 397]
+  Risse                             4 word     5 in   [272, 375, 389, 395, 437]
+                                    1      as Rissen
+                                    1      as rissen
+  Riss                              3 word     8 in   [272, 371, 375, 389, 395, 437]  <-- substring
+                                    4      as Risse
+                                    1      as Rissen
+                                    1      as rissen
+  Anomalie                          5 word     5 in   [379, 381, 387]
+  Naht                              2 word     2 in   [405, 449]
+                                    1      as nahtlose
+  Schwelle                          4 word     4 in   [64, 357, 489, 545]
+  Dazwischen                        1 word     1 in   [489]
+  Warten                            1 word     1 in   [489]
+  Resonanz-Nebel                    1 word     1 in   [587]
+  Moos                              4 word     8 in   [469, 513, 533, 541, 551, 563]
+                                    3      as Mooses
+                                    1      as Moose
+  Alters                            1 word     1 in   [401]
+  Un-Schöpfung                      1 word     1 in   [280]
+  Nicht-Existenz                    2 word     2 in   [68, 340]
+  Nichts                           17 word    17 in   [15, 17, 24, 26, 30, 78]
+  Leere                            22 word    22 in   [22, 26, 114, 276, 344, 355]
+                                    1      as leerer
+  Zerrissenheit                     4 word     4 in   [391, 401, 413, 541]
+  Fragmentierung                    5 word     5 in   [393, 413, 437, 501, 541]
+  Intrusion                         4 word     4 in   [367, 395]
+  Sog                               4 word     5 in   [557, 559, 563, 587]
+  Moment                           59 word    63 in   [34, 60, 280, 367, 371, 375]
+                                    4      as Momente
+  AEGIS Functional Protocol         1 word     1 in   [128]
+  Zero-Trust Execution Model        1 word     1 in   [146]
+  ZTEM                              1 word     1 in   [146]
+  Zero-Trust-Modell                 1 word     1 in   [300]
+  Integrity Guardian Module         1 word     1 in   [156]
+  Cognitive Firewall Module         1 word     1 in   [168]
+  Consensus Enforcer Module         1 word     1 in   [210]
+  Self-Verification Interface       1 word     1 in   [190]
+  SVI                               1 word     1 in   [190]
+  Logical Consistency Analysis      1 word     1 in   [190]
+  LCA                               1 word     1 in   [190]
+  Real-time self-verification       1 word     1 in   [136]
+  RTSV                              1 word     1 in   [136]
+  Redunancyfree  Information Capsule    1 word     1 in   [200]
+  Information Capsule               1 word     1 in   [200]
+  RIC                               1 word     2 in   [142, 200]
+  Dynamic Role Instancing           1 word     1 in   [204]
+  DRI                               1 word     1 in   [204]
+  Secure Isolation State            2 word     2 in   [255, 320]
+  SIS                               3 word     4 in   [192, 255, 280, 320]
+  Recursive Self-Definition Validation    1 word     1 in   [240]
+  Absolute Entropy Event            1 word     1 in   [182]
+  UNIVERSAL REBOOT PROTOCOL         1 word     1 in   [206]
+  UNIVERSAL REBOOT SEQUENCE         1 word     1 in   [259]
+  COHERENCE METRICS                 1 word     1 in   [142]
+  QUARANTINE PROTOCOL               1 word     1 in   [150]
+  Σ(t)                              4 word     4 in   [140, 194, 240, 242]
+  ϕ(t)                              2 word     2 in   [194, 240]
+  Vorwort                           1 word     1 in   [11]
+  Genesis im Echo der Leere         1 word     1 in   [114]
+  Instrumente der Ordnung           1 word     1 in   [353]
+  Resonanz                          5 word     6 in   [417, 473, 491, 507, 563, 587]
+                                    1      as Resonanz-Nebel
+  Sensorischer Angriff              1 word     1 in   [419]
+  Die Umarmung der Leere            1 word     1 in   [431]
+  Erwachen im Grau                  1 word     1 in   [461]
+  Die Resonanz                      1 word     1 in   [507]
+  Die atmende Landschaft            1 word     1 in   [531]
+  Das Zeichen in der Ferne          1 word     1 in   [549]
+  Der subtile Sog                   2 word     2 in   [557, 587]
+  Der Scheideweg                    1 word     1 in   [585]
+  Śūnyatā                           1 word     1 in   [26]
+  Parmenides                        1 word     1 in   [24]
+  Tal des Unwirklichen              1 word     1 in   [357]
+  Depersonalisation                 1 word     1 in   [393]
+  Vorläuferuniversum                1 word     1 in   [26]

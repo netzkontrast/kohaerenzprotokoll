@@ -1,0 +1,14 @@
+# blueprint
+  lines                97  (frontmatter ends at 9)
+  body words           1583
+  headings             8   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    49   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    2
+  repeated labels      none
+  longest line         912 chars
+

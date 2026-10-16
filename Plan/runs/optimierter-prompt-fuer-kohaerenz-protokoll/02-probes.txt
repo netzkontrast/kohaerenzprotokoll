@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      61
+  backslash escapes      12
+  typographic marks      251
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, System, SystemTheory, Systemarchetyp, Systemarchetypen, Systemdynamik, Systeme, Systemen, Systemfehlern, Systemkollaps, Systemlogik, Systemprotokolls, Systemprozesse, Systems, Systemtheorie
+  selbs    SELBST, Selbst, Selbstbezüglichkeit, Selbsterhaltung, Selbsterschaffung, Selbstherstellen, Selbstorgani, Selbstproduktion, Selbstreproduktion, Selbstversorger, Selbstverständnis, Selbstverstümmelung, Selbstüberwachungsroutinen
+  probl    Problem, Probleme, Problemen, Problemlöser, Problemlösung, Problems, Problemsymptom
+  inter    Interaktion, Internal, InternalFamilySystems, Interpretation, Interpretationen, Interventionen
+  optim    Optimierung, Optimierungsalgorithmus, Optimierungsaufgabe, Optimierungsproblem, Optimierungsproblemen, Optimierungssystemen
+  proto    Protocol, Protokoll, Protokollausführungen, Protokolle, Protokollen, Protokolls
+  exist    EXISTENCE, EXISTENT, EXISTENZ, Existenz, Existenzzweck
+  model    Model, Modeling, Modell, Modelle, Modells
+  wachs    Wachstum, Wachstums, Wachstumsmotor, Wachstumsprozess, Wachstumsstrategie
+  arche    Archetyp, Archetypen, Archetypes, Archetyps
+  beoba    Beobachtens, Beobachtung, Beobachtungen, Beobachtungsrahmen
+  entsc    Entscheidung, Entscheidungs, Entscheidungsbaum, Entscheidungsproblem
+  fehle    Fehler, Fehlermeldung, Fehlermodus, Fehlerpunkt
+  handl    Handlung, Handlungen, Handlungsbogen, Handlungsreisenden
+  opera    Operation, Operational, Operationale, Operationen
+  parad    Paradigma, Paradigmenwechsel, Paradox, Paradoxien
+  reson    Resonanz, Resonanzfähigkeit, Resonanzschleife, Resonanzverbindung
+  roman    Roman, Romanentwurf, Romanprojekts, Romans
+  unter    Unterdrückung, Unterscheidung, Unterscheidungen, Unterseite
+  archi    Architecture, Architekten, Architektur
+  autop    Autopoieseis, Autopoiesis, Autopoietic
+  beloh    Belohnung, Belohnungs, Belohnungsziele
+  daten    Daten, Datenfragment, Datenpunkt
+  diese    Diese, Dieser, Dieses
+  einga    Eingabe, Eingabegröße, Eingaben
+
+# substring pairs -- never one term, often merged by accident
+  Baum < Entscheidungsbaum
+  Bild < Abbildung
+  Bild < Invertbilder
+  CODE < Code
+  CODE < Codes
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Drei < Rundreiseproblem
+  Eine < Seine
+  Ende < Lernende
+  Ende < Begrenzender
+  Ende < Fehlschlagende
+  Ende < Destabilisierende
+  Ende < Handlungsreisenden
+  Fail < FAILURE
+  Fall < Randfall
+  Form < Informatik
+  Form < Information

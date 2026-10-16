@@ -1,0 +1,113 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Hypothese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothese` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#1]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Query Abschnitt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Query Abschnitt` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#3]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "vermutlich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`vermutlich` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#2]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "wahrscheinlich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`wahrscheinlich` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#1]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Kohärenz durch Integration"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz durch Integration` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#3]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Kohärenz durch Abgrenzung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz durch Abgrenzung` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#1]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Sein durch Abgrenzung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Sein durch Abgrenzung` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#2]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Potentialmeer"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            10
+
+`Potentialmeer` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#6]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Leere"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Leere` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#3]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "LogOS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`LogOS` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#1]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "KJ/KI"
+whole word, case-sensitive     50
+whole word, case-insensitive   50
+including compounds            50
+
+`KJ/KI` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#50]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Happy Family"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Happy Family` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#3]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Monstrous Moonshine"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Monstrous Moonshine` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#9]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Kael-Juna-Verbindung / Kohärenz-Insel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kael-Juna-Verbindung / Kohärenz-Insel` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#3]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Kael"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            14
+
+`Kael` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#7]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Juna"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            14
+
+`Juna` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#7]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "Kael-Juna-Bindung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael-Juna-Bindung` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#2]
+$ python3 scripts/read.py monstergruppe-kohaerenz-protokoll-fundament --count "AEGIS"
+whole word, case-sensitive     69
+whole word, case-insensitive   69
+including compounds            72
+
+`AEGIS` ^[monstergruppe-kohaerenz-protokoll-fundament.md:#69]
+# stance_marker_count 7 = Hypothese 1 + Query Abschnitt 3 + vermutlich 2 + wahrscheinlich 1
+# 49 candidates, 0 zeros: head of Plan/runs/monstergruppe-kohaerenz-protokoll-fundament/04-counts.txt ("# counts for 49 candidates")
+# Table 2 rows L205-L210 = 6 (read.py --from 200 --to 211)
+# profile figures (25 U+200B, 30 backslash escapes, 41 glued ref numbers, 8 ascii quotes): Plan/runs/.../01-profile.txt

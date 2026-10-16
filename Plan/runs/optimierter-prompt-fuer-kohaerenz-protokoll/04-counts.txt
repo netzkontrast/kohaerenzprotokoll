@@ -1,0 +1,106 @@
+# counts for 79 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            74 word    75 in   [18, 22, 26, 30, 32, 34]
+                                    1      as AEGIS-Systems
+  Kael                             19 word    21 in   [109, 110, 146, 147, 150, 169]
+                                    1      as Kael-Anomalie-Verbindung
+                                    1      as Kaels
+  Juna/V-Anomalie                  12 word    12 in   [42, 52, 64, 83, 106, 107]
+  Kohärenz Protokoll               19 word    20 in   [13, 97, 103, 112, 132, 148]
+  Kohärenz Protokoll 1.0            5 word     5 in   [112, 169, 189, 221, 239]
+  PRESERVE SYSTEM EXISTENCE         1 word     1 in   [40]
+  Kernaxiom                         2 word     3 in   [38, 66, 130]
+                                    1      as Kernaxiomen
+  Negation des Nicht-Seins          1 word     1 in   [40]
+  RIVE                              5 word     5 in   [58, 79, 111, 220, 257]
+  Recursive Integrity & Validation Engine    2 word     2 in   [58, 79]
+  PMAS                              5 word     7 in   [58, 80, 83, 126, 188, 220]
+                                    1      as PMAS-Code
+                                    1      as PMAS-Protokoll
+  Predictive Modeling & Adaptive Strategy    2 word     2 in   [58, 80]
+  SARM                              2 word     4 in   [128, 189, 220, 259]
+                                    2      as SARM-Protokoll
+  System Architecture & Resource Management    1 word     1 in   [128]
+  OBP                               3 word     3 in   [78, 111, 220]
+  Ontological Boundary Protocol     1 word     1 in   [78]
+  CCPP                              4 word     4 in   [81, 111, 188, 220]
+  Core Coherence & Persistence Protocol    1 word     1 in   [81]
+  KOHÄRENT/INKOHÄRENT               3 word     3 in   [74, 81, 87]
+  KLASSIFIZIERT/UNKLASSIFIZIERT     1 word     1 in   [74]
+  EXISTENT/NICHT-EXISTENT           1 word     1 in   [74]
+  SELBST/UMWELT                     2 word     2 in   [78, 83]
+  KONSISTENT/INKONSISTENT           2 word     2 in   [79, 83]
+  VORHERSAGBAR/UNVORHERSAGBAR       1 word     1 in   [80]
+  EXISTENZ/NICHT-EXISTENZ           2 word     2 in   [81, 83]
+  nicht-lokale                      1 word     1 in   [83]
+  sub-protokollarische Verbindung    1 word     1 in   [83]
+  inkompressibles Rauschen          1 word     1 in   [64]
+  systemische Paranoia              1 word     1 in   [66]
+  Störquelle                        3 word     3 in   [132, 169, 223]
+  Ursprungs-Ich                     2 word     2 in   [110, 218]
+  aktive Resonanzverbindung         1 word     1 in   [218]
+  Stakkato nutzloser Berechnungen    1 word     1 in   [124]
+  Systemprotokoll                   0 word     1 in   [265]
+                                    1      as Systemprotokolls
+  ERROR\_CODE                       1 word     1 in   [266]
+  PARAMETER\_VIOLATION              1 word     1 in   [266]
+  ONTOLOGICAL\_INCOMPATIBILITY      1 word     1 in   [266]
+  RECURSIVE\_SELF\_DEFINITION\_FAILURE    1 word     1 in   [266]
+  Fehlgeschlagene Assimilation      1 word     1 in   [257]
+  Ressourcenerschöpfung             1 word     1 in   [259]
+  Die fehlerhafte Optimierung       1 word     1 in   [260]
+  Die Feuerwehrmann-Aktion          1 word     1 in   [261]
+  Autopoiesis                       9 word    10 in   [30, 32, 104, 273, 279, 280]
+  operationale Schließung           1 word     1 in   [34]
+  operativ geschlossen              1 word     2 in   [30, 52]
+  strukturelle Kopplung             1 word     1 in   [52]
+  Strukturelle Kopplung             2 word     2 in   [48, 106]
+  nicht-triviale Maschinen          1 word     1 in   [42]
+  Irritation                        1 word     3 in   [52, 54, 105]  <-- substring
+                                    2      as Irritationen
+  Perturbation                      2 word     3 in   [52, 54, 256]
+                                    1      as Perturbationen
+  binäre Codes                      0 word     0 in   []
+  Paradox der Beobachtung           1 word     1 in   [85]
+  Paradigmenwechsel                 1 word     1 in   [87]
+  NP-schweres Problem               1 word     1 in   [107]
+  NP-schwer                         4 word     8 in   [107, 120, 122, 130, 251, 293]
+                                    2      as NP-schweren
+                                    2      as NP-Schwere
+                                    1      as NP-schweres
+                                    1      as NP-schwere
+  Kombinatorische Explosion         1 word     1 in   [108]
+  kombinatorische Explosion         4 word     4 in   [107, 120, 124, 251]
+  Entscheidungsproblem              1 word     1 in   [130]
+  Optimierungsproblem               1 word     2 in   [130]
+                                    1      as Optimierungsproblemen
+  Specification Gaming             11 word    11 in   [109, 136, 140, 142, 152, 237]
+  Proxy Gaming                      1 word     1 in   [146]
+  Reward Hacking                    2 word     2 in   [147, 300]
+  Exploiting Loopholes              1 word     1 in   [148]
+  Ersatzmetrik                      3 word     4 in   [140, 146, 150]
+                                    1      as Ersatzmetrik-Ausnutzung
+  Systemarchetypen                  4 word     4 in   [158, 162, 164, 181]
+  Fixes That Fail                   8 word     8 in   [158, 162, 166, 177, 179, 189]
+  Limits to Growth                  6 word     6 in   [158, 172, 177, 179, 188]
+  Shifting the Burden               1 word     1 in   [190]
+  Escalation                        3 word     3 in   [179, 191]
+  Internal Family Systems           9 word     9 in   [110, 111, 112, 199, 203, 288]
+  IFS                               8 word    11 in   [110, 111, 112, 199, 203, 207]
+  Exilant                           3 word     9 in   [110, 111, 112, 191, 207, 212]  <-- substring
+                                    6      as Exilanten
+  Exilanten                         6 word     6 in   [111, 112, 207, 212, 213, 214]
+  Manager                           9 word    12 in   [111, 191, 207, 213, 220, 221]
+                                    1      as Managers
+                                    1      as Manager-Teile
+                                    1      as Manager-Protokolle
+                                    1      as manager_or_firefighter
+  Feuerwehrmann                     2 word     5 in   [112, 221, 223, 261]  <-- substring
+                                    3      as Feuerwehrmann-Aktion
+  Feuerwehrmänner                   3 word     3 in   [207, 214, 223]
+  Rückkopplungsschleifen            5 word     5 in   [227, 231, 233, 235]
+  Verzögerung                       4 word     4 in   [239]
+  Teufels- oder Engelskreise        1 word     1 in   [233]

@@ -1,0 +1,256 @@
+{
+  "document": "roman-assistenz-kohaerenz-und-weltgestaltung",
+  "drive_id": "1d9grWn7_1tpqm1xVWCUzZmMpQGGffn0RRkNdIH0yy6g",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 15,
+  "backslash_escapes": 52,
+  "typographic_marks": 21,
+  "ascii_quotes": 42,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanteile",
+      "Systemanteils",
+      "Systemarchitektur",
+      "Systematmung",
+      "Systemaufrufen",
+      "Systemdefekt",
+      "Systemischer",
+      "Systemkollapses",
+      "Systems",
+      "Systemwand",
+      "Systemzustand"
+    ],
+    "zeich": [
+      "Zeichengrunds",
+      "Zeichenpraxis",
+      "Zeichenstift",
+      "Zeichentechniken",
+      "Zeichenwerkzeuge",
+      "Zeichenwerkzeugen",
+      "Zeichenwerkzeugs",
+      "Zeichnen",
+      "Zeichnens",
+      "Zeichners",
+      "Zeichnung",
+      "Zeichnungen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenfissur",
+      "Datenkorruption",
+      "Datenpunkte",
+      "Datenübertragung"
+    ],
+    "linie": [
+      "Linie",
+      "Linien",
+      "Linienführung",
+      "Liniengrammatik",
+      "Linienpfade"
+    ],
+    "stric": [
+      "Strich",
+      "Strichdruck",
+      "Striche",
+      "Strichführung",
+      "Strichgrammatik"
+    ],
+    "tusch": [
+      "Tusche",
+      "Tuscheblock",
+      "Tuschefeder",
+      "Tuschen",
+      "Tuschetechniken"
+    ],
+    "ersch": [
+      "Erschaffens",
+      "Erschaffer",
+      "Erscheinung",
+      "Erschöpfung"
+    ],
+    "eskal": [
+      "Eskalation",
+      "Eskalationsmodul",
+      "Eskalationsstufe",
+      "Eskalationsstufen"
+    ],
+    "gesch": [
+      "Geschaffene",
+      "Geschehen",
+      "Geschlossenheit",
+      "Geschwindigkeit"
+    ],
+    "ident": [
+      "Identities",
+      "Identität",
+      "Identitäten",
+      "Identitätskonflikt"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontraste",
+      "Kontrastübersteuerung",
+      "Kontrolle"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphernwelt",
+      "Metaphors"
+    ],
+    "papie": [
+      "Papier",
+      "Papierflächen",
+      "Papiers",
+      "Papiertextur"
+    ],
+    "schwe": [
+      "Schwebe",
+      "Schweigen",
+      "Schweiß",
+      "Schwere"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumadaten",
+      "Traumas",
+      "Traumata"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteils"
+    ],
+    "besch": [
+      "Beschneiden",
+      "Beschränkung",
+      "Beschädigung"
+    ],
+    "bilde": [
+      "Bildecke",
+      "Bildelement",
+      "Bildelemente"
+    ],
+    "bleis": [
+      "Bleistifte",
+      "Bleistiftschatten",
+      "Bleistiftstrich"
+    ],
+    "block": [
+      "Block",
+      "Blockade",
+      "Blocking"
+    ],
+    "disso": [
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbruch",
+      "Durchbrüche"
+    ],
+    "effek": [
+      "Effekte",
+      "Effekten",
+      "Effekthascherei"
+    ],
+    "emoti": [
+      "Emotional",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerhaftigkeit",
+      "Fehlermeldungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augenermüdung"
+    ],
+    [
+      "Bild",
+      "Bildecke"
+    ],
+    [
+      "Bild",
+      "Bildwelt"
+    ],
+    [
+      "Bild",
+      "Sinnbild"
+    ],
+    [
+      "Bild",
+      "Bildgebung"
+    ],
+    [
+      "Bild",
+      "Bildelement"
+    ],
+    [
+      "Bild",
+      "Bildpartien"
+    ],
+    [
+      "Bild",
+      "Bildsprache"
+    ],
+    [
+      "Bild",
+      "Bildelemente"
+    ],
+    [
+      "Bild",
+      "Röntgenbildern"
+    ],
+    [
+      "Bild",
+      "Bildinformationen"
+    ],
+    [
+      "Blei",
+      "Bleistifte"
+    ],
+    [
+      "Blei",
+      "Bleistiftstrich"
+    ],
+    [
+      "Blei",
+      "Bleistiftschatten"
+    ],
+    [
+      "Code",
+      "Codecs"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Erst",
+      "Erstarrung"
+    ]
+  ]
+}

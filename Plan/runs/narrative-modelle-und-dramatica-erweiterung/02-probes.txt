@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      61
+  backslash escapes      24
+  typographic marks      228
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  erzäh    Erzählen, Erzählens, Erzählerlebnisse, Erzählformen, Erzählgenerierungssystemen, Erzählmodelle, Erzählmodells, Erzählprozesses, Erzählregeln, Erzählstrukturen, Erzählsysteme, Erzählsystemen, Erzähltexten, Erzähltheorie, Erzähltheorien, Erzählung, Erzählungen, Erzählwelt
+  story    Story, Storybeat, Storybeats, Storyform, Storyforms, Storymind, Storypoint, Storypoints, Storytelling
+  haupt    Hauptcharakter, Hauptcharakters, Hauptebenen, Haupthandlung, Hauptkomponente, Hauptkomponenten, Hauptobjekte, Hauptplot
+  spiel    Spiel, Spieleentwicklung, Spielen, Spieler, Spieleraktionen, Spielern, Spielers, Spielsysteme
+  konfl    Konflikt, Konfliktdefinition, Konfliktdomäne, Konflikte, Konflikten, Konfliktquellen, Konflikts
+  model    Model, Modell, Modelle, Modellen, Modellierung, Modells, Models
+  chara    Character, Charakter, Charaktere, Charakteren, Charaktermotivationen, Charakters
+  probl    Problem, Problematik, Probleme, Problemen, Problemlösungsprozesses, Problems
+  autor    Autor, Autoren, Autorenintention, Autorentools, Autors
+  daten    Datenbanken, Datenmodell, Datenobjekt, Datensprache, Datenstruktur
+  dynam    Dynamics, Dynamik, Dynamiken, Dynamische, Dynamischer
+  handl    Handlung, Handlungen, Handlungselemente, Handlungsfreiheit, Handlungsstränge
+  inter    Interaktion, Interaktionsprotokoll, Internal, Interoperabilität, Interpretation
+  konte    Kontemplation, Kontext, Kontexte, Kontexten, Kontextpersistenz
+  unter    Unterfangen, Unterscheidung, Unterscheidungsmerkmal, Unterschied, Untersuchung
+  verst    Verstand, Verstandes, Verstehen, Verstehens, Verständnis
+  zusam    Zusammenarbeit, Zusammenfassung, Zusammenhänge, Zusammenspiel, Zusammenspiels
+  analy    Analyse, Analysegegenstand, Analyseprozessen, Analysis
+  anwen    Anwendbarkeit, Anwender, Anwendung, Anwendungen
+  argum    Argument, Argumente, Argumenten, Arguments
+  eleme    Element, Elemente, Elementen, Elements
+  entwi    Entwickelt, Entwickler, Entwicklung, Entwicklungen
+  erwei    Erweiterbare, Erweiterbarkeit, Erweiterter, Erweiterung
+  gesch    Geschichte, Geschichten, Geschichtenerzählen, Geschichtenerzähler
+  konze    Konzept, Konzepte, Konzepten, Konzepts
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Challenges
+  Bild < Bilder
+  Buch < Drehbuch
+  Dies < Diese
+  Dies < Dieses
+  Eine < Einer
+  Eine < Bausteine
+  Eine < Einengung
+  Eine < Verfeinerungen
+  Ende < Tendenz
+  Ende < Anwender
+  Ende < Kalendern
+  Ende < Wendepunkte
+  Fail < Failure
+  Fall < Raubüberfall
+  Feld < Felder
+  Form < Format
+  Form < Formen
+  Form < Formeln
+  Form < Plattform

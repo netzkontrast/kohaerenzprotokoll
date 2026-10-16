@@ -1,0 +1,497 @@
+{
+  "document": "gravitational-architecture-novel-structure",
+  "drive_id": "1h7PD4-1Rhq6kqoMJvk_wTgVcA-kFdmF1L0dNQlwe1s8",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        13,
+        22,
+        34,
+        102,
+        256,
+        281,
+        383
+      ]
+    },
+    "Dual Kernel Principle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        22
+      ]
+    },
+    "Surface Narrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Subtextual Mechanics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "K\\_1": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        22,
+        135,
+        172,
+        180,
+        256,
+        298
+      ]
+    },
+    "K\\_0": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        135,
+        180
+      ]
+    },
+    "Ergosphere": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        30,
+        34,
+        72,
+        74,
+        122,
+        354
+      ]
+    },
+    "Photon Sphere": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        131,
+        135,
+        147,
+        168,
+        355
+      ]
+    },
+    "Event Horizon": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        176,
+        180,
+        356
+      ]
+    },
+    "Singularity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        242,
+        246,
+        357
+      ]
+    },
+    "Monster Group": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        24,
+        242,
+        246,
+        357,
+        374
+      ]
+    },
+    "Moonshine Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "Dimensional Strikes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        266
+      ]
+    },
+    "Density of Determinism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        269
+      ]
+    },
+    "Redundancy Plateau": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Self-Reflexive Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Time and Memory Lensing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Total Transparency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        223
+      ]
+    },
+    "Vertex Explosion": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        227,
+        233,
+        306,
+        385,
+        445
+      ]
+    },
+    "Z-Fighting": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        305,
+        402
+      ]
+    },
+    "Texture Stretching": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        106,
+        307
+      ]
+    },
+    "Mesh Tearing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        308
+      ]
+    },
+    "Glitch Art": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "Spaghettification": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        238,
+        306
+      ]
+    },
+    "Firewall": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        227,
+        231
+      ]
+    },
+    "Witness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        209,
+        217
+      ]
+    },
+    "Environment": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        209,
+        217,
+        375,
+        387,
+        436
+      ]
+    },
+    "Leech Lattice": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        269,
+        372
+      ]
+    },
+    "Kissing Number": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        373
+      ]
+    },
+    "Critical Instabilities": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        157,
+        421
+      ]
+    },
+    "Critical Fluctuations": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        151,
+        155,
+        355,
+        418
+      ]
+    },
+    "Paratactic Velocity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "gravitational script": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Gravitational Gradient": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        343
+      ]
+    },
+    "Symmetry Breaking": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        361,
+        365
+      ]
+    },
+    "Phobia of Traumatic Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Structural Dissociation": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        22,
+        60,
+        64,
+        231,
+        398,
+        400
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        399
+      ]
+    },
+    "Synergetics": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        135,
+        139,
+        143,
+        355,
+        414,
+        415,
+        420
+      ]
+    },
+    "Order Parameter": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        143,
+        147
+      ]
+    },
+    "Slaving Principle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        139,
+        145
+      ]
+    },
+    "Quantum Darwinism": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        22,
+        176,
+        209,
+        213,
+        215,
+        221,
+        387,
+        436,
+        437,
+        439,
+        440,
+        441,
+        442,
+        463
+      ]
+    },
+    "ER = EPR": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        273,
+        277,
+        385,
+        444
+      ]
+    },
+    "Parataxis": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        122,
+        124,
+        192,
+        333,
+        354,
+        410,
+        411,
+        431,
+        432
+      ]
+    },
+    "Hypotaxis": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        192,
+        196,
+        200,
+        334,
+        356,
+        431,
+        432
+      ]
+    },
+    "Gravitational Lensing": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        164,
+        168,
+        423,
+        425
+      ]
+    },
+    "Einstein Rings": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Doppler Beaming": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        354
+      ]
+    },
+    "Accretion Disk": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        354
+      ]
+    },
+    "Schwarzschild radius": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        188,
+        427
+      ]
+    },
+    "Gravitational Time Dilation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        256,
+        452
+      ]
+    },
+    "McKay-Thompson": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    }
+  }
+}

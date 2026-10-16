@@ -1,0 +1,102 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an English-language conceptual lexicon with German terms inside it. The first group is what it names in the novel's world, the second the words it sets in bold or as headings as its own terms, the third (under the lens heading) the borrowed frameworks it applies.
+
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Kael ↔ Juna/V relationship
+- Das Fundament
+- Die Leere / Das Nichts Rauschen
+- Die Leere
+- Das Nichts Rauschen
+- Nichts Rauschen
+- The Void
+- Potentialmeer
+- Kernwelten
+- KW2
+- KW4
+- Ursprungs-Ich
+- System-Stress
+- Lex
+- Alex
+- Rhys
+- Argus
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Verfolger
+- Gärtner
+- Moonshine-Link
+- sub-protocollar
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Gödel-Satz
+- dialetheic geist
+- functional multiplicity
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Phobia of Integration
+- externalized introject
+- positive intent
+- autopoietic system
+- operationally closed
+- ontological blindness
+- information-theoretic trauma
+- Entropic Management
+- Hybrid Cognitive Architecture
+- Symbolic Core
+- Specialized Modules
+- Adaptive Layer
+- Logics of Formal Inconsistency
+- LFI
+- Discursive Logic
+- D2
+- split-brain
+- System Mind
+- Story Mind
+- Polyphonic Prose
+- Algorithmic Horror
+- algorithmic melancholy
+- Metafiction & Ergodic Literature
+- Episteme
+- Gnosis
+- Qualia
+- Tertiäre Strukturelle Dissoziation
+
+## lens
+
+- Dialetheism
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Internal Family Systems
+- IFS
+- Dramatica
+- Objective Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Throughline Mapping
+- Fixed Attitude
+- Autopoiesis
+- paraconsistency
+- Paraconsistent Logic
+- Cache coherence
+- The Value Alignment Problem
+- Specification Gaming & Perverse Instantiation
+- Quantum Entanglement
+- Prehension
+- Whitehead
+- Bakhtin
+- Monster Group
+- The Moonshine Phenomenon
+- Hard Science Fiction
+- Cosmic Horror
+- Psychological Thriller
+- Gödel's Incompleteness Theorems
+
+Observation: Specification Gaming and Perverse Instantiation are joined by an ampersand in the heading, so the joined form is listed. "gatekeeper" stands in lower case in a quotation on one line; it is left out as the document's rhetoric. The Void and the Nothing Noise are rendered in English beside the German names in the table, with the English halves separated by markup.

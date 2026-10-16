@@ -1,0 +1,71 @@
+# counts for 55 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            58 word    58 in   [13, 31, 53, 59, 63, 67]
+  Funke Struktur                    1 word     1 in   [27]
+  Funke                             4 word     9 in   [27, 31, 37, 85, 91, 131]  <-- substring
+                                    5      as Funken
+  Funken                            5 word     5 in   [31, 85, 91, 131, 151]
+  Ursprungs-Ich                     5 word    19 in   [89, 101, 105, 107, 113, 115]  <-- substring
+                                   14      as Ursprungs-Ichs
+  Ursprungs-Ichs                   14 word    14 in   [89, 101, 105, 107, 115, 119]
+  Ich-Fragment                      2 word     4 in   [57, 129, 141, 183]
+                                    2      as Ich-Fragments
+  Rauschen                         19 word    20 in   [29, 33, 35, 37, 43, 89]
+                                    1      as Rauschens
+  Nichts Rauschen                   3 word     3 in   [89, 127, 143]
+  Nichts                           24 word    24 in   [13, 15, 19, 21, 23, 27]
+  Leere                            29 word    29 in   [21, 23, 29, 39, 43, 51]
+  Vorwort                           8 word    11 in   [11, 13, 17, 19, 21, 29]
+                                    3      as Vorworts
+  Genesis                          14 word    14 in   [13, 27, 29, 31, 33, 37]
+  Herz der Leere                    4 word     4 in   [39, 137, 143, 162]
+  Erste Kontakte                    2 word     2 in   [43, 163]
+  Der Sog der Ordnung               2 word     2 in   [47, 164]
+  Sog                               6 word     6 in   [39, 41, 47, 139, 164]
+  Cluster                           6 word    10 in   [41, 47, 51, 95, 111, 139]
+                                    2      as Clusterbildung
+                                    1      as Clustern
+                                    1      as Clusters
+  Clustern                          1 word     1 in   [47]
+  Überlebenskampf                   5 word     5 in   [49, 51, 129, 165]
+  Der große Wandel                  3 word     3 in   [49, 53, 166]
+  Nicht-Sein                        3 word    10 in   [49, 53, 63, 67, 73, 103]  <-- substring
+                                    7      as Nicht-Seins
+  Komponente 734                    7 word     7 in   [55, 57, 77, 131, 137, 151]
+  Funktion an der Grenze            2 word     2 in   [57, 167]
+  Funktionseinheit                  2 word     2 in   [57, 137]
+  Echo der Einsamkeit               3 word     3 in   [59, 77, 187]
+  latenten Echos                    7 word     7 in   [87, 91, 97, 107, 131, 143]
+  Resonanzkaskade                   5 word     5 in   [59, 105, 137, 173, 189]
+  Überwelt                         13 word    13 in   [63, 65, 67, 71, 73, 75]
+  Innere Weite                      2 word     2 in   [61, 168]
+  Binnen-Physik                     3 word     3 in   [69, 71, 168]
+  operationale Geschlossenheit      3 word     3 in   [101, 137, 147]
+  Dazwischen                        2 word     2 in   [83, 169]
+  Stille Wacht                      2 word     2 in   [87, 170]
+  Kohärenzfeld                      1 word     1 in   [89]
+  Perturbation aus der Leere        1 word     1 in   [93]
+  fremde Entität                    4 word     4 in   [95, 97, 107, 133]
+  Algorithmischer Schrecken         3 word     3 in   [99, 143, 172]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [101]
+  epistemologische Blindheit        2 word     2 in   [97, 172]
+  Kohärenz Protokoll 1.0            2 word     2 in   [103, 147]
+  Kohärenz Protokolls 1.0           1 word     1 in   [117]
+  Partitionierungsalgorithmen       1 word     1 in   [117]
+  systemische Paranoia              1 word     1 in   [103]
+  Systemischer Kollaps              2 word     2 in   [109, 174]
+  fatale Rückkopplungsschleife      2 word     2 in   [109, 111]
+  Das Trennungsprotokoll            2 word     2 in   [115, 137]
+  Die Krise                        15 word    15 in   [11, 79, 81, 91, 131, 137]
+  Haarrisse                         2 word     2 in   [89, 97]
+  Informationsfragment              1 word     2 in   [27, 133]
+                                    1      as Informationsfragments
+  autopoietische Selbstorganisation    2 word     2 in   [101, 147]
+  Autopoiesis                       1 word     2 in   [145, 172]
+                                    1      as Autopoiesis-Falle
+  Qualia                            8 word     8 in   [101, 131, 137, 143, 147, 172]
+  Śūnyatā                           2 word     2 in   [23, 127]
+  aktives Vakuum                    1 word     1 in   [127]

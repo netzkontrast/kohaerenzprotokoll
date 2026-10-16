@@ -1,0 +1,214 @@
+{
+  "document": "roman-kapitel-entwurf-mit-kohaerenzprotokoll",
+  "drive_id": "1ZwglpOQnLfRtBWKQ1vdTN25Say8_UqrPpnx4fWyFO_E",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 52,
+    "decisions": 55,
+    "decided_by_lookup": 45,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        37,
+        145
+      ],
+      "attribution": "",
+      "note": "names AEGIS, with its expansion and its entropy basis, in the advice, and its Zero-Trust intervention in the draft"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        31,
+        51
+      ],
+      "attribution": "",
+      "note": "the sabotage by a leaking part (Alters) and the K0 row of the style table"
+    },
+    {
+      "page": "did",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "the sabotage is to show Kael's complexity without resolving the DID too early"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the method named Dual Kernel Theory"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        37,
+        51,
+        157,
+        163
+      ],
+      "attribution": "",
+      "note": "Shannon entropy as AEGIS's basis, the K0 row, and Entropie denied in the draft"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        51,
+        115,
+        143
+      ],
+      "attribution": "",
+      "note": "Juna as interface and anchor in the draft, the K0 row in the advice"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27,
+        33,
+        89,
+        127,
+        139,
+        163
+      ],
+      "attribution": "",
+      "note": "Kael as unknowing host in the advice; the dispenser, the splintering K1 kernel, the Landauer toll and the closing crack in the draft"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        50,
+        127
+      ],
+      "attribution": "",
+      "note": "the K1 row of the style table and the splintering K1 kernel in the draft"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        51,
+        53
+      ],
+      "attribution": "",
+      "note": "the K0 row of the style table and the switch to K0 at the hologram"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        53,
+        163
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as the K1 domain in the advice and as the last image of the draft"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        31,
+        33,
+        89
+      ],
+      "attribution": "",
+      "note": "Lex as the analytical manager part whose factorising compulsion paralyses the host"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        53,
+        157
+      ],
+      "attribution": "",
+      "note": "LogOS as the domain of the Konstrukt-Stadt in the advice and as law in the draft"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        169
+      ],
+      "attribution": "",
+      "note": "a closing question on how the Resonanz-Landschaft is to be introduced"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37,
+        51
+      ],
+      "attribution": "",
+      "note": "the physical grounding of the Risse in Shannon entropy, and Risse in causality in the K0 row"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "a heading on the thermodynamics of the simulation"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 180,
+      "decision": "occurrence",
+      "why": "a reference author, not the figure"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 33,
+      "decision": "reading",
+      "why": "the DID secret not revealed early, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 35,
+      "decision": "reading",
+      "why": "the simulation's thermodynamics, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

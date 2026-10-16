@@ -1,0 +1,14 @@
+# monstergruppe-narrative-cluster-und-metaphern
+  lines                513  (frontmatter ends at 9)
+  body words           8525
+  headings             32   bold-only lines 7
+  table rows           43   code fences 0
+  question marks       9
+  backslash escapes    52
+  typographic marks    13   ascii quotes 198
+  invisible characters U+200Bx61
+  math symbol lines    1
+  glued ref numbers    151
+  repeated labels      none
+  longest line         979 chars
+

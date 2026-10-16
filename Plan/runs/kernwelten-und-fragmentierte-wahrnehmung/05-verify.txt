@@ -1,0 +1,49 @@
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "wahrscheinlich"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "könnte"
+whole word, case-sensitive     29
+whole word, case-insensitive   38
+including compounds            38
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Könnte"
+whole word, case-sensitive     9
+whole word, case-insensitive   38
+including compounds            9
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "User Query Context"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Selene"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Argus"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "AEGIS"
+whole word, case-sensitive     42
+whole word, case-insensitive   42
+including compounds            46
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Cache Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Insight"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+$ python3 scripts/read.py kernwelten-und-fragmentierte-wahrnehmung --count "Co₁"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+# stance_marker_count 48 = wahrscheinlich 10 + könnte 29 + Könnte 9 (case-sensitive whole word, above)

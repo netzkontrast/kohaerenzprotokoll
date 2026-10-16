@@ -1,0 +1,74 @@
+{
+  "document": "welcome-to-the-coherence-protocol-a-beginner-s-guide",
+  "drive_id": "1U6zV9Okflf5PDdGKbUfx49V75nnsjsURMhYZLt41Ouw",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 48,
+  "typographic_marks": 14,
+  "ascii_quotes": 44,
+  "inflection_families": {
+    "archi": [
+      "Archipel",
+      "Architect",
+      "Architectures"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "fragm": [
+      "Fragmented",
+      "Fragmenten"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho"
+    ],
+    "truth": [
+      "Truth",
+      "Truths"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Flaw",
+      "Flawed"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Here",
+      "Atmosphere"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Truth",
+      "Truths"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Architect",
+      "Architectures"
+    ]
+  ]
+}

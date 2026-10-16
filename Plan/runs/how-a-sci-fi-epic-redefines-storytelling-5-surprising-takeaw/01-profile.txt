@@ -1,0 +1,14 @@
+# how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw
+  lines                71  (frontmatter ends at 9)
+  body words           1265
+  headings             7   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    0
+  typographic marks    16   ascii quotes 70
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         598 chars
+

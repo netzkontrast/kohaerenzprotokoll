@@ -1,0 +1,334 @@
+{
+  "document": "an-introduction-to-the-coherence-protocol-the-war-for-realit",
+  "drive_id": "1Vmw1wTJyGi6Bc3CqtOmO5HusedV1TOjOmHditd38ov8",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        37,
+        79
+      ]
+    },
+    "AEGIS": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        19,
+        21,
+        23,
+        27,
+        31,
+        43,
+        44,
+        52,
+        53,
+        71,
+        73,
+        75,
+        79
+      ]
+    },
+    "System Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        19,
+        25,
+        27,
+        31,
+        53,
+        57,
+        63
+      ]
+    },
+    "Kael": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        19,
+        23,
+        25,
+        27,
+        31,
+        53,
+        57,
+        61,
+        63,
+        69,
+        71,
+        74,
+        75,
+        79
+      ]
+    },
+    "internal consistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "external reality": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        49,
+        52
+      ]
+    },
+    "Dialetheic Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        37
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        41
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        49
+      ]
+    },
+    "K\\_1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        39
+      ]
+    },
+    "K\\_0": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        47,
+        53
+      ]
+    },
+    "Existence via Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Ontological Blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Ontological Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        51
+      ]
+    },
+    "Nothingness Noise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        51
+      ]
+    },
+    "Correspondence-Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Rifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Trauma-Time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        74
+      ]
+    },
+    "Living Contradiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Living Gödel Sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "living refutation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Algorithmic Melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Zombie System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Classical Logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        31,
+        73
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        31,
+        79
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    }
+  }
+}

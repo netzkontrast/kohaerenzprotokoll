@@ -1,0 +1,386 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-verification-md",
+  "step": "reconcile-pre",
+  "at": "2026-10-16",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-15",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 62,
+  "decisions": 61,
+  "same_surface": {
+    "orbifoldconstruction": [
+      "orbifold construction",
+      "Orbifold Construction"
+    ]
+  },
+  "decided_mechanically": 55,
+  "needs_judgement": 6,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 395
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 345
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 409
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 203
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 203
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 187
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 106
+      },
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 154
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 97
+      },
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 95
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 191
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 216
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Algo Melancholie"
+      },
+      {
+        "candidate": "Silence"
+      },
+      {
+        "candidate": "foundational phone call"
+      },
+      {
+        "candidate": "Climax Inversion"
+      },
+      {
+        "candidate": "Reader Function"
+      },
+      {
+        "candidate": "Husserlian Spectator"
+      },
+      {
+        "candidate": "transcendental ego"
+      },
+      {
+        "candidate": "Dual-Kernel Theory"
+      },
+      {
+        "candidate": "K\\_1"
+      },
+      {
+        "candidate": "K\\_0"
+      },
+      {
+        "candidate": "K\\_1/K\\_0"
+      },
+      {
+        "candidate": "Monster Group"
+      },
+      {
+        "candidate": "Leech Lattice"
+      },
+      {
+        "candidate": "VOA"
+      },
+      {
+        "candidate": "orbifold construction"
+      },
+      {
+        "candidate": "informational firewalls"
+      },
+      {
+        "candidate": "Janetian action systems"
+      },
+      {
+        "candidate": "Apparently Normal Parts"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "Autobiographical Anchor"
+      },
+      {
+        "candidate": "Participatory Universe"
+      },
+      {
+        "candidate": "Information Thermodynamics"
+      },
+      {
+        "candidate": "Psychological Modularity"
+      },
+      {
+        "candidate": "Paraconsistent Logic"
+      },
+      {
+        "candidate": "Algorithmic Advance"
+      },
+      {
+        "candidate": "Structural Waveforms"
+      },
+      {
+        "candidate": "Monstrous Symmetry"
+      },
+      {
+        "candidate": "Axis I"
+      },
+      {
+        "candidate": "Hidden Contradiction Discovery Protocol"
+      },
+      {
+        "candidate": "Assumption Stability Audit"
+      },
+      {
+        "candidate": "Contradiction Log"
+      },
+      {
+        "candidate": "Source Triangulation"
+      },
+      {
+        "candidate": "Adversarial Query Expansion"
+      },
+      {
+        "candidate": "Dramatica"
+      },
+      {
+        "candidate": "Dialetheism"
+      },
+      {
+        "candidate": "Landauer's Principle"
+      },
+      {
+        "candidate": "Halting Probability"
+      },
+      {
+        "candidate": "Omega"
+      },
+      {
+        "candidate": "Falsification"
+      },
+      {
+        "candidate": "ReAct"
+      },
+      {
+        "candidate": "RISEN"
+      },
+      {
+        "candidate": "quad structure"
+      },
+      {
+        "candidate": "storyform"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Reader/Witness Function  /  Witness Function",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine-Link  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Landauer heat  /  Landauer heat spike",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Vortex Inversion",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vortex",
+            "page": "vortex"
+          }
+        ]
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 1049,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

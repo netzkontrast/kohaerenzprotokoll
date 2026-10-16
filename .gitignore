@@ -59,6 +59,7 @@ Plan/runs/*/claims-draft.md
 
 # novelgraph: the uv venv, and the index's derived vectors, lex terms and concatenations (docs/novelgraph-index.md)
 .venv-novelgraph/
+.venv-mcp/
 Index/sources/*/vec/
 Index/sources/*/lex/
 Index/_build/

@@ -1,0 +1,80 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German research paper in the first person plural of a report: 13 "Spannungsfelder" (Cluster) are each analysed under five repeated labels, then synthesis, mathematical models, philosophy, a principle catalogue and an AEGIS protocol architecture. It names no figures or places; AEGIS is a postulated system. The five repeated labels are the template, listed once each as the column of the analysis. Inline reference numbers were dropped by the export, leaving gaps before punctuation. The lens section holds borrowed theories the document applies to AEGIS.
+
+- AEGIS
+- AEGIS-Protokoll
+- AEGIS-Bezug
+- Spannungsfelder
+- Cluster
+- Emergente Selbststrukturierung
+- Autonome Systeme
+- Selbstorganisation
+- Selbstreferenz
+- Realitätsgenerierung
+- Selbststrukturierungslogik
+- Kohärenz
+- Entropie
+- Grundlagentheorie
+- Systemdynamik
+- Meta-Struktur
+- Anwendungsszenarien
+- Existenz und Nicht-Existenz
+- Ordnung und Chaos
+- Autonomie und Abhängigkeit
+- Bewusstsein und Reflexion
+- Veränderung und Stillstand
+- Information und Bedeutung
+- Kommunikation und Isolation
+- Zeit und Kausalität
+- Energie und Entropie
+- Identität und Differenzierung
+- Realitätsschichten und Wahrnehmung
+- Wille und Handlung
+- Systemgrenzen und Selbstorganisation
+- Prinzipienkatalog
+- Protokollarchitektur
+- Fundamentale Operative Einheit
+- Selbstreferenzielle Schleife
+- Identitätskerne
+- Simulationsmaschine
+- Void
+- operative Schließung
+- operativen Schließung
+- strukturelle Kopplung
+- Strukturellen Kopplung
+- Autopoiesis
+- dissipative Strukturen
+- Versklavungsprinzip
+- Ordnungsparameter
+- Radikaler Konstruktivismus
+- Radikalen Konstruktivismus
+- Kybernetik zweiter Ordnung
+- Laws of Form
+- Synergetik
+- Negentropie
+- Nichtgleichgewichtsthermodynamik
+- Agentenbasierte Simulation
+- Selbstanwendungsproblematik
+- Beobachterabhängigkeit
+- Parmenides
+- Luhmann
+- Maturana
+- Spencer-Brown
+- Prigogine
+- Hakens
+- Heinz von Foerster
+- Gödel
+- Husserl
+- Merleau-Ponty
+- Kant
+- Laughlin
+- Varela
+- Landauer-Prinzip
+- Schmetterlingseffekt
+- seltsame Schleifen
+- selbstorganisierte Kritikalität
+- Subsidiaritätsprinzip
+- Aktive Materie
+- Phänomenologie
+- Simulationstheorie

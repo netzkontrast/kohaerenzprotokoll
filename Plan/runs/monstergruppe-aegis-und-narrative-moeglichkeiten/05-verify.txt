@@ -1,0 +1,88 @@
+# every number the census and note state, with the command that produced it
+$ read.py --count "könnte"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            33
+
+`könnte` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#28]
+$ read.py --count "könnten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`könnten` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#5]
+$ read.py --count "Fokus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Fokus` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#4]
+$ read.py --count "Manifestation der Monster-Eigenschaften"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Manifestation der Monster-Eigenschaften` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#4]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#0]
+$ read.py --count "Welt der Logik"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Welt der Logik` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#2]
+$ read.py --count "Welt der Reinen Logik"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Welt der Reinen Logik` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#2]
+$ read.py --count "Welt der Potentialität"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Welt der Potentialität` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#3]
+$ read.py --count "Welt der Potentialität/Möglichkeiten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Welt der Potentialität/Möglichkeiten` ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:#1]
+stance_marker_count 33 = 28 (könnte) + 5 (könnten)
+$ read.py --count "Kael"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            39
+
+$ read.py --count "Kaels"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+$ read.py --count "Kael-Juna-Verbindung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+$ read.py --count "Kael-Juna-Bindung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+$ read.py --count "Juna"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            14
+
+$ census profile figures (78 glued ref numbers, 12 U+200B, 70 backslash escapes) are from 01-profile.txt

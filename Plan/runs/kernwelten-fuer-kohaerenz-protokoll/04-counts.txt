@@ -1,0 +1,119 @@
+# counts for 83 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 478]
+  Kernwelten                        7 word     7 in   [11, 15, 408, 458, 478, 493]
+  Kernwelt Co₁                      2 word     2 in   [184, 464]
+  Kernwelt McL                      2 word     2 in   [233, 464]
+  Kernwelt B                        2 word     2 in   [283, 464]
+  Kernwelt Ly                       2 word     2 in   [332, 464]
+  Co₁                              30 word    34 in   [15, 29, 33, 37, 69, 105]
+  Co₀                               1 word     1 in   [201]
+  McL                              20 word    42 in   [15, 41, 45, 105, 117, 182]  <-- substring
+  Ly                               18 word    36 in   [15, 29, 57, 81, 89, 97]
+  Conway-Welt                       3 word     3 in   [184, 464, 465]
+  McLaughlin-Welt                   3 word     3 in   [233, 464, 465]
+  Baby-Monster-Welt                 3 word     3 in   [283, 464, 465]
+  Lyons-Welt                        3 word     3 in   [332, 464, 465]
+  Kael                             39 word    80 in   [15, 29, 45, 69, 89, 97]  <-- substring
+                                   41      as Kaels
+  Cache Kohärenz                   15 word    15 in   [15, 16, 149, 182, 213, 263]
+  Caches                            6 word     7 in   [149, 213, 312, 379, 387, 408]
+  Dominanter Cache                  4 word     4 in   [212, 262, 311, 360]
+  Cache Kohärenz Manifestation      4 word     4 in   [213, 263, 312, 361]
+  AEGIS                            27 word    31 in   [15, 16, 29, 53, 69, 230]
+                                    2      as AEGIS-Framework
+                                    1      as AEGIS-Orchestrierung
+                                    1      as AEGIS-Kontrolle
+  Wächter                           7 word    15 in   [16, 161, 225, 275, 324, 373]  <-- substring
+                                    4      as Wächterprofil
+                                    1      as Wächteraktionen
+                                    1      as Wächterrollen
+                                    1      as Wächters
+  Guardians                         1 word     1 in   [16]
+  LogOS-Supervisor                  3 word     3 in   [225, 440, 473]
+  Netzweber                         3 word     3 in   [275, 441, 473]
+  Chaos-Regulator                   3 word     3 in   [324, 442, 473]
+  Möglichkeits-Weber                3 word     3 in   [373, 443, 473]
+  K-J Verbindung                    2 word     2 in   [16, 182]
+  K-J-Verbindung                    4 word     4 in   [414, 418, 452, 483]
+  K-J-Kanal                         1 word     1 in   [402]
+  Kaels Schmelztiegel               4 word     4 in   [208, 258, 307, 356]
+  Gödelsche Risse                   1 word     1 in   [197]
+  Laboratorien                      1 word     1 in   [408]
+  User Prompt                      17 word    17 in   [191, 193, 202, 239, 241, 250]
+  Auftragsdokument                  1 word     1 in   [15]
+  Sozialstruktur als Code           1 word     1 in   [201]
+  Netzwerkposition als Status       1 word     1 in   [249]
+  Quanten-Nichtlokalitäts-Analogie    1 word     1 in   [253]
+  Monstrous Moonshine-Andeutungen    1 word     1 in   [351]
+  Potentialität manifestiert        1 word     1 in   [352]
+  Emergenz als Kernmechanik         1 word     1 in   [348]
+  Chaos als Regel                   1 word     1 in   [299]
+  Schattenmanifestation             1 word     1 in   [301]
+  Konfrontationsmechaniken          1 word     1 in   [302]
+  Emotionales Schleudertrauma       1 word     1 in   [398]
+  Fähigkeits-/Gedächtnis-Mismatch    1 word     1 in   [399]
+  Relevanz                         18 word    18 in   [29, 37, 45, 53, 61, 69]
+  Zweck                            10 word    10 in   [20, 225, 231, 275, 281, 324]
+  Visuelles                         4 word     4 in   [190, 239, 289, 338]
+  Klanglandschaft                   4 word     4 in   [192, 240, 290, 339]
+  Andere Sinne                      4 word     4 in   [193, 241, 291, 340]
+  Verkörperung                      8 word     8 in   [225, 229, 275, 279, 324, 328]
+  Interaktion                      14 word    22 in   [53, 93, 97, 225, 230, 249]
+                                    3      as Interaktionen
+                                    1      as Interaktionstypen
+                                    1      as Interaktionsregeln
+                                    1      as Interaktionsprotokolle
+  Herausforderungen                15 word    15 in   [16, 208, 214, 258, 264, 307]
+  A₁₁                               3 word     5 in   [57, 61, 350, 467]
+  Paria                             3 word     5 in   [57, 61, 350, 467]
+                                    2      as Paria-Status
+  Baby-Monster                      1 word     4 in   [49, 283, 464, 465]  <-- substring
+                                    3      as Baby-Monster-Welt
+  Monstergruppe                     3 word     3 in   [49, 289, 351]
+  Sporadische Gruppen               1 word     1 in   [25]
+  Leech-Gitter                      6 word    11 in   [33, 190, 201, 229, 467]
+                                    5      as Leech-Gitters
+  McLaughlin-Graph                  2 word     4 in   [41, 249, 467]
+                                    2      as McLaughlin-Graphen
+  Golay-Code                        1 word     2 in   [201, 467]
+                                    1      as Golay-Codes
+  Gödels Unvollständigkeitssätze    1 word     1 in   [65]
+  Chaostheorie                      3 word     3 in   [77, 137, 468]
+  Phasenübergänge                   4 word     5 in   [85, 300, 329, 468]
+                                    1      as Phasenübergängen
+  Emergenz                         19 word    20 in   [61, 93, 105, 332, 338, 344]
+                                    1      as Emergenzprinzipien
+  Zelluläre Automaten               2 word     2 in   [101, 468]
+  Spiel des Lebens                  1 word     1 in   [101]
+  Abwärtskausalation                1 word     1 in   [97]
+  Nichtlokalität                    1 word     4 in   [113, 253, 468]  <-- substring
+  Potentialität                    11 word    11 in   [121, 125, 332, 352, 361, 377]
+  Quantenschaum                     2 word     2 in   [129, 338]
+  Skaleninvarianz                   4 word     4 in   [137, 338, 468]
+  Fraktale                          2 word     2 in   [137]
+  Jungscher Schatten                2 word     2 in   [157, 301]
+  Internal Family Systems           5 word     5 in   [173, 577, 579, 580, 581]
+  IFS                               8 word    17 in   [173, 212, 245, 252, 262, 360]  <-- substring
+  Exilanten                         6 word     8 in   [177, 178, 179, 182, 252, 269]
+                                    1      as Exilanten-Exposition
+                                    1      as Exilanten-
+  Manager                           6 word    13 in   [178, 182, 212, 213, 218, 252]  <-- substring
+                                    3      as Manager-Teil
+                                    1      as Manager-dominant
+                                    1      as Manager-Logik
+                                    1      as Manager-Kontrolle
+  Feuerbekämpfer                    5 word     7 in   [179, 182, 252, 311, 400, 469]
+                                    1      as Feuerbekämpfer-dominant
+                                    1      as Feuerbekämpfer-Teile
+  Selbst                           12 word    22 in   [37, 65, 93, 137, 145, 173]
+                                    2      as Selbsterhaltung
+                                    1      as Selbstreflexion
+                                    1      as Selbstbezug
+                                    1      as Selbstorganisation
+  Schmetterlingseffekt              3 word     3 in   [77, 81, 348]
+  Rang-3-Wirkung                    4 word     4 in   [41, 249, 467]
+  Social Proof                      1 word     1 in   [280]

@@ -1,0 +1,44 @@
+{
+  "document": "genesis-aegis",
+  "drive_id": "15MxSrt1P9QTju_SCkSnJ_BJ7zD8qkN7eG2Gocxdg_j0",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 24,
+  "ascii_quotes": 26,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coherent"
+    ],
+    "reali": [
+      "Realignment",
+      "Reality"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Form",
+      "Former"
+    ],
+    [
+      "Here",
+      "There"
+    ],
+    [
+      "Here",
+      "Coherent"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "With",
+      "Within"
+    ]
+  ]
+}

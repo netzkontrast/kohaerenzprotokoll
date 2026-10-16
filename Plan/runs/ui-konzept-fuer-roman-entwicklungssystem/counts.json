@@ -1,0 +1,736 @@
+{
+  "document": "ui-konzept-fuer-roman-entwicklungssystem",
+  "drive_id": "1J3__f0jyd53tId1mAXEt0AgqiWnK5myx4wRdE9T8yAc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        17,
+        41,
+        169
+      ]
+    },
+    "Kohärenz-Konstrukt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        21,
+        147,
+        157
+      ]
+    },
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        29,
+        53,
+        88,
+        97,
+        117,
+        127,
+        129,
+        136,
+        143,
+        149,
+        165,
+        169
+      ]
+    },
+    "AEGIS": {
+      "n": 19,
+      "n_including_compounds": 21,
+      "lines": [
+        17,
+        87,
+        93,
+        111,
+        113,
+        115,
+        116,
+        117,
+        124,
+        125,
+        137,
+        138,
+        149,
+        159,
+        163,
+        165,
+        169
+      ]
+    },
+    "Juna": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        89,
+        119,
+        121,
+        123,
+        124,
+        125,
+        165,
+        169
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        97,
+        105,
+        137
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        87,
+        97,
+        138,
+        159
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        138,
+        208
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        139,
+        159
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        140
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        141,
+        143,
+        165
+      ]
+    },
+    "Host": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        136
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        113
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        121
+      ]
+    },
+    "Dual-Kernel-Theorie (DKT)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        109
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        109
+      ]
+    },
+    "DKT": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        107,
+        109
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        29,
+        81,
+        109,
+        127,
+        129,
+        135,
+        169
+      ]
+    },
+    "EPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        87,
+        117,
+        136,
+        139,
+        149,
+        159
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        159
+      ]
+    },
+    "Grenzfeste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Leckstrom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Missing Time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Amnesiebarriere": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        143
+      ]
+    },
+    "Genogramm der Seele": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Schiffbruchs des Denkens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Ontologische Simulationsumgebung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Synapsen-Kanal": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        63,
+        71
+      ]
+    },
+    "Ontologische Codex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        71
+      ]
+    },
+    "Ontologischen Codex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        97
+      ]
+    },
+    "Entropie-Kartografie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Tribunal der Anteile": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        149
+      ]
+    },
+    "Forschungs-Sphäre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Thermale Entropie-Maps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Appearance Heatmaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Kaskadierende Kontexte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Marker-Timeline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Semantische Verifikation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Research Deputies": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Management-Dashboard": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Matrix-Terminal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Taktischer Bedrohungsmonitor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Abgeschirmte Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Spektrallücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Holistische Brücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Replica Wormholes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Safe Spaces": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Prime Mover": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "WKB-Zeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Entropie-Toleranz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Wir-Geflecht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "MediationSessions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Drama Engine": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        45,
+        49,
+        51,
+        65,
+        67,
+        194,
+        195
+      ]
+    },
+    "Companions": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        105
+      ]
+    },
+    "Shells": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        77,
+        101
+      ]
+    },
+    "Deputies": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        67,
+        101
+      ]
+    },
+    "Moods": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Progressions": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        37,
+        76
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        190,
+        192,
+        228
+      ]
+    },
+    "Society of Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Orchestrator-Worker-Muster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Blackboard-Muster": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        71
+      ]
+    },
+    "Iterative Debate-Consensus-Muster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Fabula Entropy Indexing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        214
+      ]
+    },
+    "OVADARE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Argumentation Frameworks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        163
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "methodologischen Kohärentismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "logischen Atomismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Diskurstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Platonia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        159
+      ]
+    },
+    "Zeitkapseln": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        159
+      ]
+    },
+    "Ledger-Time-Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Chaitin-Konstante": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Bekenstein-Schranke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        140
+      ]
+    },
+    "Umgreifende": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Schiff auf offener See": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Planck-Skala": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Internal Tug-of-War": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    }
+  }
+}

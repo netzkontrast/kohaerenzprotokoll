@@ -1,0 +1,54 @@
+# counts for 33 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Monstergruppe                    17 word    19 in   [11, 15, 16, 20, 22, 26]
+                                    1      as Monstergruppen-Metapher
+                                    1      as Monstergruppen-Ökosystem
+  Monstergruppen-Metapher           1 word     1 in   [11]
+  Baby-Monster-Gruppe               7 word    11 in   [15, 47, 51, 52, 53, 96]
+                                    4      as Baby-Monster-Gruppen
+  Baby-Monster-Gruppen              4 word     4 in   [15, 96, 121, 155]
+  Baby Monster                      1 word     1 in   [79]
+  Monstrous Moonshine               6 word     7 in   [15, 57, 61, 80, 167, 191]
+  Moonshine                        39 word    52 in   [15, 17, 57, 61, 63, 64]
+                                    5      as Moonshine-Phänomens
+                                    2      as Moonshine-Phänomen
+                                    2      as Moonshine-VOA
+                                    1      as Moonshine-Modul
+  Moonshine-Modul                   1 word     1 in   [63]
+  Moonshine-Signatur                1 word     1 in   [143]
+  Emergenter Moonshine              1 word     1 in   [107]
+  Verallgemeinerter Moonshine       1 word     1 in   [64]
+  Idealbild integrierter Kohärenz    2 word     2 in   [31, 84]
+  Simplicity                        3 word     3 in   [31, 88, 131]
+  Einfachheit                      20 word    20 in   [17, 28, 29, 31, 76, 77]
+  Sporadizität                      2 word     2 in   [27, 90]
+  Happy Family                      3 word     3 in   [30, 43, 91]
+  Pariahs                           3 word     3 in   [30, 91]
+  K-J Verbindung                    4 word     4 in   [107, 114, 133, 143]
+  Strategie B1                      3 word     3 in   [139, 151, 156]
+  Validierungsurteil                4 word     5 in   [17, 18, 117, 125, 155]
+                                    1      as Validierungsurteils
+  AEGIS                            17 word    17 in   [90, 92, 103, 114, 143, 151]
+  Kael                              7 word    11 in   [96, 100, 103, 111, 132, 134]
+                                    4      as Kaels
+  Juna                              7 word     7 in   [96, 100, 111, 132, 134, 143]
+  Kohärenz Protokoll                5 word     5 in   [11, 15, 82, 121, 155]
+  Subquotient                      14 word    27 in   [17, 30, 31, 35, 42, 43]
+                                   12      as Subquotienten
+                                    1      as Subquotienten-Beziehung
+  Subquotienten                    12 word    13 in   [17, 30, 31, 35, 43, 52]
+                                    1      as Subquotienten-Beziehung
+  Sektion                           4 word     4 in   [42, 43, 78]
+  Normalteiler                     17 word    18 in   [28, 31, 35, 40, 41, 42]
+                                    1      as Normalteilers
+  Faktorgruppe                      7 word     8 in   [28, 40, 41, 42, 52, 53]
+                                    1      as Faktorgruppen
+  Untergruppe                      16 word    21 in   [28, 35, 39, 40, 42, 43]
+                                    4      as Untergruppen
+                                    1      as Untergruppenbeziehung
+  Vertex-Operator-Algebra           2 word     2 in   [63, 65]
+  VOAs                              4 word     4 in   [63, 65, 115]
+  Modulfunktionen                   7 word     8 in   [57, 61, 62, 63, 65, 80]

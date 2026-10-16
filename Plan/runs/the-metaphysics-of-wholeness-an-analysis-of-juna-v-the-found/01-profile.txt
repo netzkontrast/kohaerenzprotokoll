@@ -1,0 +1,14 @@
+# the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found
+  lines                127  (frontmatter ends at 9)
+  body words           2005
+  headings             17   bold-only lines 0
+  table rows           14   code fences 0
+  question marks       0
+  backslash escapes    20
+  typographic marks    10   ascii quotes 50
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1043 chars
+

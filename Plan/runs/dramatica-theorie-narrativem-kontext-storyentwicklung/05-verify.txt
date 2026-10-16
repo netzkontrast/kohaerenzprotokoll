@@ -1,0 +1,60 @@
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#0]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#0]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#0]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#0]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Kohärenz"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#3]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Zugriff am"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            43
+
+`Zugriff am` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#43]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Konklusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konklusion` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#1]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#1]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Faith"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Faith` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#2]
+$ python3 scripts/read.py dramatica-theorie-narrativem-kontext-storyentwicklung --count "Disbelief"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Disbelief` ^[dramatica-theorie-narrativem-kontext-storyentwicklung.md:#2]

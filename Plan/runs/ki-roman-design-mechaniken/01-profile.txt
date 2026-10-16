@@ -1,0 +1,14 @@
+# ki-roman-design-mechaniken
+  lines                266  (frontmatter ends at 9)
+  body words           5945
+  headings             23   bold-only lines 3
+  table rows           15   code fences 0
+  question marks       8
+  backslash escapes    70
+  typographic marks    71   ascii quotes 52
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    69
+  repeated labels      Die Mechanik x4, Spielerinteraktion x4
+  longest line         1105 chars
+

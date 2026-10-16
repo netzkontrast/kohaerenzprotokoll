@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      17
+  backslash escapes      116
+  typographic marks      10
+  ascii quotes           44
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanomalie, Systemanomalien, Systemausfällen, Systeme, Systemelemente, Systemen, Systemfehler, Systemkalibrierung, Systemkollaps, Systems, Systemzusammenbruch
+  infor    Informationen, Informationsaustausch, Informationsbeschaffung, Informationsgewinnung, Informationskontrolle, Informationsquelle, Informationsquellen
+  inter    Interaktion, Interaktionen, Interface, Interfaces, Interne, Interner, Interpretation
+  daten    Daten, Datenarchiv, Datenbanken, Datenkorruption, Datenströme, Datenstürme
+  kontr    Kontrast, Kontrolle, Kontrollinstanz, Kontrollraum, Kontrollzentrum, Kontroversen
+  vertr    Vertrauen, Vertrauensdilemma, Vertrauensfragen, Vertrauenskonflikten, Vertreterin, Vertretern
+  wider    Widerlegung, Widerspruch, Widersprüchlichkeit, Widerstand, Widerstandsgruppe, Widerstandszelle
+  erinn    Erinnerung, Erinnerungen, Erinnerungsflashback, Erinnerungstrigger, Erinnerungsverlusts
+  kommu    Kommunikation, Kommunikationsgeräte, Kommunikationskanäle, Kommunikationsmittel, Kommunikationsstörung
+  konfl    Konflikt, Konflikte, Konflikten, Konflikts, Konflikttreiber
+  motiv    Motiv, Motivation, Motivationen, Motive, Motiven
+  reali    Realität, Realitätsbrüche, Realitätsmanipulation, Realitätsverzerrungen, Realitätswahrnehmung
+  grund    Grund, Grundfesten, Grundprämissen, Grundstimmung
+  grupp    Gruppe, Gruppen, Gruppenbildung, Gruppendynamik
+  leser    Leser, Leserperspektive, Leserpsychologie, Lesers
+  macht    Macht, Machtasymmetrie, Machtlosigkeit, Machtverhältnisse
+  myste    Mysterien, Mysterium, Mysteriums, Mysteriöse
+  mögli    Mögliche, Möglicherweise, Möglichkeit, Möglichkeiten
+  unter    Unterdrückten, Unterdrückung, Untersuchung, Untersuchungsraum
+  wisse    Wissen, Wissens, Wissenschaft, Wissenschaftlern
+  archi    Architekt, Architekten, Archive
+  beoba    Beobachter, Beobachtung, Beobachtungsraum
+  durch    Durch, Durchbruchs, Durchgehend
+  forts    Fortschritt, Fortschritts, Fortsetzung
+  fragm    Fragmente, Fragmentiert, Fragmentierte
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Akteur
+  Akte < Akteurin
+  Akte < Kontakte
+  Akte < Abstrakte
+  Akte < Artefakte
+  Akte < Charakter
+  Akte < Charaktere
+  Akte < Hauptcharakters
+  Bild < Bilder
+  Bild < Bildet
+  Bild < Bildung
+  Bild < Weltbild
+  Bild < Gesamtbild
+  Bild < Gruppenbildung
+  Büro < Bürokratie
+  Dies < Diese
+  Dies < Dieser
+  Echo < Echos
+  Eine < Seine
+  Eine < Bewusstseine

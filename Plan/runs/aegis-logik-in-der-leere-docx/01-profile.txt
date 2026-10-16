@@ -1,0 +1,14 @@
+# aegis-logik-in-der-leere-docx
+  lines                286  (frontmatter ends at 9)
+  body words           5485
+  headings             32   bold-only lines 1
+  table rows           9   code fences 0
+  question marks       4
+  backslash escapes    15
+  typographic marks    127   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    74
+  repeated labels      Analyse x5, Beschreibung x3, Evolution x3, Gesamteindruck x3, Mechanismus x3, Simulation x3, Verteidigung x3
+  longest line         1190 chars
+

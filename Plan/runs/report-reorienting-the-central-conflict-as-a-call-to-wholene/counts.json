@@ -1,0 +1,370 @@
+{
+  "document": "report-reorienting-the-central-conflict-as-a-call-to-wholene",
+  "drive_id": "1Xj9oOUNPss2JQyRxXgfxJDGQ5dhxcRBmd96I-dGZIWk",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        5,
+        61,
+        63
+      ]
+    },
+    "Kael": {
+      "n": 25,
+      "n_including_compounds": 25,
+      "lines": [
+        5,
+        9,
+        11,
+        18,
+        22,
+        24,
+        25,
+        26,
+        28,
+        34,
+        42,
+        44,
+        48,
+        52,
+        53,
+        54,
+        55,
+        57,
+        61
+      ]
+    },
+    "Juna/V": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        7,
+        9,
+        11,
+        18,
+        24,
+        26,
+        34,
+        42,
+        53,
+        57,
+        61
+      ]
+    },
+    "AEGIS": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        34,
+        41,
+        48,
+        54,
+        55,
+        57
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        40
+      ]
+    },
+    "Exilant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Call to Wholeness": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        1,
+        5,
+        22,
+        61
+      ]
+    },
+    "Herold": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24
+      ]
+    },
+    "leakage of Juna/V's pain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        25
+      ]
+    },
+    "Gedächtnislücken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        32,
+        34,
+        41
+      ]
+    },
+    "uncorrelated system noise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "maximally entangled quantum information systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Einstein-Rosen Bridge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "The Foundation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        52
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Paraiyas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Victory Through Wholeness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        46
+      ]
+    },
+    "Paradoxical Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Correspondence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Emergence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        57
+      ]
+    },
+    "Control": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Connection": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        57
+      ]
+    },
+    "Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Dynamic Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Static Unity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        18
+      ]
+    },
+    "IFS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        18,
+        61
+      ]
+    },
+    "positive intent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "ER=EPR conjecture": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34
+      ]
+    },
+    "Prehension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34
+      ]
+    },
+    "gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "high-Φ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    }
+  }
+}

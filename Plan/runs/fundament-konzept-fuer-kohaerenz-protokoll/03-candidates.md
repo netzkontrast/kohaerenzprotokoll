@@ -1,0 +1,102 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a German analysis report on the proposed entity „Das Fundament“ for the novel „Kohärenz Protokoll“. L456 on is a numbered reference list of web sources (titles and URLs), which is left off the list. The report names the novel's own elements (AEGIS, Kael, Kernwelten, Paradoxon X), borrows concepts from philosophy, physics, psychology and mythology as analogies, and weighs five integration strategies in a table. Italic and bold markers sit around many term names, and a table at L291 to L298 carries its headings with escaped asterisks.
+
+## world and the document's own terms
+
+- Das Fundament
+- Fundament
+- Übermonstergruppe
+- Paraiyas
+- 6 Paraiyas
+- AEGIS
+- Kael
+- Juna
+- Juna/V Verbindung
+- Juna/V-Verbindung
+- TSDP-Modell
+- TSDP
+- Kernwelten
+- Potentialmeer
+- Paradoxon X
+- Kohärenz Protokoll
+- Fragmentierung/Integration
+- Kontrolle/Emergenz
+- Realität/Simulation
+- Verbindung/Isolation
+- Ethik/KI
+- Fundamentality
+- Impact Point Identifikation
+- Integrationslevel
+- Subtiles Hintergrundprinzip
+- Quelle der Einsicht/Gnosis
+- Aktive Intervention
+- Finale Enthüllung
+- Begrenzte/Indirekte Intervention
+- Verkörperung durch Charakter
+- Deus Ex Machina Risiko
+- Foreshadowing
+- Agency
+- ontologische Fundierung
+- P=NP
+- hybride Ansätze
+
+## lens
+
+- Deus ex Machina
+- Chosen One
+- Crew Hero
+- Metaphysik der Fundamentalität
+- Prozessphilosophie
+- Prehension
+- Advaita Vedanta
+- Brahman
+- Maya
+- Avidya
+- Madhyamaka Buddhismus
+- Śūnyatā
+- Svabhāva
+- Pratītyasamutpāda
+- Zwei Wahrheiten
+- Taoismus
+- Yin-Yang
+- Tao
+- Harte Problem des Bewusstseins
+- Panpsychismus
+- Gödels Unvollständigkeitssätze
+- Parakonsistente Logik
+- Dialetheismus
+- Ex contradictione quodlibet
+- Fundamentale Symmetrien
+- Noether-Theorem
+- Higgs-Mechanismus
+- spontane Symmetriebrechung
+- Vereinheitlichungstheorien
+- Verschränkung
+- Komplementarität
+- Komplementaritätsprinzip
+- Dialektik
+- Komplexitätstheorie
+- Autopoiesis
+- Kybernetik zweiter Ordnung
+- Eigenform
+- Archetypen
+- kollektive Unbewusste
+- Individuation
+- Schattens
+- Gipfelerfahrungen
+- Selbsttranszendenz
+- kosmisches Bewusstsein
+- Integrale Theorie
+- Gnostizismus
+- Demiurgen
+- Pleroma
+- Sophia
+- Gnosis
+- Schwache Emergenz
+- Starke Emergenz
+- Abwärtskausalität
+- Reduktionismus
+- Emergentismus
+- Santa Fe Institute
+- Rand des Chaos

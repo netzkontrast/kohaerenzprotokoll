@@ -1,0 +1,72 @@
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "NZT-Modus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`NZT-Modus` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#2]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Kapitel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapitel` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#3]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Kap` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#0]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#0]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Seelen-Kohärenz-Programm"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Seelen-Kohärenz-Programm` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#4]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Seelen-Kohärenz-Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Seelen-Kohärenz-Protokoll` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#1]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Der Architekt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Der Architekt` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#3]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Das Echo"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Das Echo` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#2]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Der Wächter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Der Wächter` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#2]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Der Sucher"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Der Sucher` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#2]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Der Funke"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Der Funke` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#2]
+$ python3 scripts/read.py entwickle-einen-neuen-plot-der-sich-ueber-13-kurz --count "Meta-Narrator"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Meta-Narrator` ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:#2]

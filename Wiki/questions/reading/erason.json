@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "erason",
+ "title": "Erason",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Irreversibilität der Löschung",
+  "Entstehung des Zeitpfeils",
+  "Verhältnis von Einzelevent und kumulativer Wirkung",
+  "Spürbarkeit einer verlorenen Information",
+  "Grenzen der Rückgewinnung"
+ ],
+ "basis": {
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  },
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  },
+  "atemporalitaet": {
+   "title": "Atemporalität",
+   "path": "Wiki/candidates/atemporalitaet.md",
+   "hash": "14b4b5f52007a37646a202ac97f2543e4ad19fca8a3d5d317831e1102305b681"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-erason-001",
+   "question": "Welche Spur bleibt nach einem Erason-Ereignis, wenn die betreffende Information irreversibel gelöscht wurde?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-002",
+   "question": "Welche Lesarten auf der Seite zu Erason stützen oder begrenzen „Irreversibilität der Löschung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-003",
+   "question": "Welcher Grenzfall würde bei Erason die Annahmen über „Irreversibilität der Löschung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-004",
+   "question": "Wer könnte innerhalb des Romans bei Erason etwas über „Irreversibilität der Löschung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-005",
+   "question": "Welche konkrete Entscheidung könnte „Irreversibilität der Löschung“ bei Erason in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Irreversibilität der Löschung“ bei Erason haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-007",
+   "question": "Wie lässt sich „Irreversibilität der Löschung“ bei Erason zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-008",
+   "question": "Welche Alternativen sollte der Autor bei Erason für „Irreversibilität der Löschung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-009",
+   "question": "Was bedeutet bei Erason der Themenpunkt „Entstehung des Zeitpfeils“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-010",
+   "question": "Welche Lesarten auf der Seite zu Erason stützen oder begrenzen „Entstehung des Zeitpfeils“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-011",
+   "question": "Welcher Grenzfall würde bei Erason die Annahmen über „Entstehung des Zeitpfeils“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-012",
+   "question": "Wer könnte innerhalb des Romans bei Erason etwas über „Entstehung des Zeitpfeils“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-013",
+   "question": "Welche konkrete Entscheidung könnte „Entstehung des Zeitpfeils“ bei Erason in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entstehung des Zeitpfeils“ bei Erason haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-015",
+   "question": "Wie lässt sich „Entstehung des Zeitpfeils“ bei Erason zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-016",
+   "question": "Welche Alternativen sollte der Autor bei Erason für „Entstehung des Zeitpfeils“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-017",
+   "question": "Was bedeutet bei Erason der Themenpunkt „Verhältnis von Einzelevent und kumulativer Wirkung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-018",
+   "question": "Welche Lesarten auf der Seite zu Erason stützen oder begrenzen „Verhältnis von Einzelevent und kumulativer Wirkung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-019",
+   "question": "Welcher Grenzfall würde bei Erason die Annahmen über „Verhältnis von Einzelevent und kumulativer Wirkung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-020",
+   "question": "Wer könnte innerhalb des Romans bei Erason etwas über „Verhältnis von Einzelevent und kumulativer Wirkung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-021",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Einzelevent und kumulativer Wirkung“ bei Erason in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Einzelevent und kumulativer Wirkung“ bei Erason haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-023",
+   "question": "Wie lässt sich „Verhältnis von Einzelevent und kumulativer Wirkung“ bei Erason zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-024",
+   "question": "Welche Alternativen sollte der Autor bei Erason für „Verhältnis von Einzelevent und kumulativer Wirkung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-025",
+   "question": "Was bedeutet bei Erason der Themenpunkt „Spürbarkeit einer verlorenen Information“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-026",
+   "question": "Welche Lesarten auf der Seite zu Erason stützen oder begrenzen „Spürbarkeit einer verlorenen Information“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-027",
+   "question": "Welcher Grenzfall würde bei Erason die Annahmen über „Spürbarkeit einer verlorenen Information“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-028",
+   "question": "Wer könnte innerhalb des Romans bei Erason etwas über „Spürbarkeit einer verlorenen Information“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-029",
+   "question": "Welche konkrete Entscheidung könnte „Spürbarkeit einer verlorenen Information“ bei Erason in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Spürbarkeit einer verlorenen Information“ bei Erason haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-031",
+   "question": "Wie lässt sich „Spürbarkeit einer verlorenen Information“ bei Erason zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-032",
+   "question": "Welche Alternativen sollte der Autor bei Erason für „Spürbarkeit einer verlorenen Information“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-033",
+   "question": "Was bedeutet bei Erason der Themenpunkt „Grenzen der Rückgewinnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-034",
+   "question": "Welche Lesarten auf der Seite zu Erason stützen oder begrenzen „Grenzen der Rückgewinnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-035",
+   "question": "Welcher Grenzfall würde bei Erason die Annahmen über „Grenzen der Rückgewinnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-036",
+   "question": "Wer könnte innerhalb des Romans bei Erason etwas über „Grenzen der Rückgewinnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen der Rückgewinnung“ bei Erason in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen der Rückgewinnung“ bei Erason haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-039",
+   "question": "Wie lässt sich „Grenzen der Rückgewinnung“ bei Erason zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-040",
+   "question": "Welche Alternativen sollte der Autor bei Erason für „Grenzen der Rückgewinnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-erason-041",
+   "question": "Wo unterscheiden sich Erason und Coheron, wenn man sie unter dem Gesichtspunkt „Irreversibilität der Löschung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-042",
+   "question": "Welche Quelle verbindet Erason mit Coheron in Bezug auf „Irreversibilität der Löschung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-043",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Erason unter „Irreversibilität der Löschung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-044",
+   "question": "Wie könnte sich das Wissen über Erason vom Wissen über Coheron unterscheiden, wenn „Irreversibilität der Löschung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Erason und Coheron bei „Irreversibilität der Löschung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-046",
+   "question": "Falls Erason im Hinblick auf „Irreversibilität der Löschung“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Erason und Coheron bei „Irreversibilität der Löschung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-048",
+   "question": "Braucht der Roman eine Verbindung von Erason und Coheron bei „Irreversibilität der Löschung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-049",
+   "question": "In welchem denkbaren Fall könnte Erason bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „Irreversibilität der Löschung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-050",
+   "question": "Welche Kosten könnte eine Verbindung von Erason und Coheron in Bezug auf „Irreversibilität der Löschung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-051",
+   "question": "Welche ältere Lesart von Erason oder Coheron könnte die Gegenüberstellung unter „Irreversibilität der Löschung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Erason und Coheron unter „Irreversibilität der Löschung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "erason",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-erason-053",
+   "question": "Wo unterscheiden sich Erason und Kollaps-Kernel (K₀), wenn man sie unter dem Gesichtspunkt „Entstehung des Zeitpfeils“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-054",
+   "question": "Welche Quelle verbindet Erason mit Kollaps-Kernel (K₀) in Bezug auf „Entstehung des Zeitpfeils“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-055",
+   "question": "Welche Grenzen aus der Seite zu Kollaps-Kernel (K₀) müsste eine Deutung von Erason unter „Entstehung des Zeitpfeils“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-056",
+   "question": "Wie könnte sich das Wissen über Erason vom Wissen über Kollaps-Kernel (K₀) unterscheiden, wenn „Entstehung des Zeitpfeils“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Erason und Kollaps-Kernel (K₀) bei „Entstehung des Zeitpfeils“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-058",
+   "question": "Falls Erason im Hinblick auf „Entstehung des Zeitpfeils“ anders festgelegt wird: Welche Aussagen über Kollaps-Kernel (K₀) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Erason und Kollaps-Kernel (K₀) bei „Entstehung des Zeitpfeils“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-060",
+   "question": "Braucht der Roman eine Verbindung von Erason und Kollaps-Kernel (K₀) bei „Entstehung des Zeitpfeils“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-061",
+   "question": "In welchem denkbaren Fall könnte Erason bestehen, ohne dass Kollaps-Kernel (K₀) dieselbe Funktion übernimmt, und was würde das für „Entstehung des Zeitpfeils“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-062",
+   "question": "Welche Kosten könnte eine Verbindung von Erason und Kollaps-Kernel (K₀) in Bezug auf „Entstehung des Zeitpfeils“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-063",
+   "question": "Welche ältere Lesart von Erason oder Kollaps-Kernel (K₀) könnte die Gegenüberstellung unter „Entstehung des Zeitpfeils“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Erason und Kollaps-Kernel (K₀) unter „Entstehung des Zeitpfeils“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "erason",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-erason-065",
+   "question": "Wo unterscheiden sich Erason und Kairos, wenn man sie unter dem Gesichtspunkt „Verhältnis von Einzelevent und kumulativer Wirkung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-066",
+   "question": "Welche Quelle verbindet Erason mit Kairos in Bezug auf „Verhältnis von Einzelevent und kumulativer Wirkung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-067",
+   "question": "Welche Grenzen aus der Seite zu Kairos müsste eine Deutung von Erason unter „Verhältnis von Einzelevent und kumulativer Wirkung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-068",
+   "question": "Wie könnte sich das Wissen über Erason vom Wissen über Kairos unterscheiden, wenn „Verhältnis von Einzelevent und kumulativer Wirkung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Erason und Kairos bei „Verhältnis von Einzelevent und kumulativer Wirkung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-070",
+   "question": "Falls Erason im Hinblick auf „Verhältnis von Einzelevent und kumulativer Wirkung“ anders festgelegt wird: Welche Aussagen über Kairos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Erason und Kairos bei „Verhältnis von Einzelevent und kumulativer Wirkung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-072",
+   "question": "Braucht der Roman eine Verbindung von Erason und Kairos bei „Verhältnis von Einzelevent und kumulativer Wirkung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-073",
+   "question": "In welchem denkbaren Fall könnte Erason bestehen, ohne dass Kairos dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Einzelevent und kumulativer Wirkung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-074",
+   "question": "Welche Kosten könnte eine Verbindung von Erason und Kairos in Bezug auf „Verhältnis von Einzelevent und kumulativer Wirkung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-075",
+   "question": "Welche ältere Lesart von Erason oder Kairos könnte die Gegenüberstellung unter „Verhältnis von Einzelevent und kumulativer Wirkung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Erason und Kairos unter „Verhältnis von Einzelevent und kumulativer Wirkung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "erason",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-erason-077",
+   "question": "Wo unterscheiden sich Erason und Landauer-Signatur, wenn man sie unter dem Gesichtspunkt „Spürbarkeit einer verlorenen Information“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-078",
+   "question": "Welche Quelle verbindet Erason mit Landauer-Signatur in Bezug auf „Spürbarkeit einer verlorenen Information“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-079",
+   "question": "Welche Grenzen aus der Seite zu Landauer-Signatur müsste eine Deutung von Erason unter „Spürbarkeit einer verlorenen Information“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-080",
+   "question": "Wie könnte sich das Wissen über Erason vom Wissen über Landauer-Signatur unterscheiden, wenn „Spürbarkeit einer verlorenen Information“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Erason und Landauer-Signatur bei „Spürbarkeit einer verlorenen Information“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-082",
+   "question": "Falls Erason im Hinblick auf „Spürbarkeit einer verlorenen Information“ anders festgelegt wird: Welche Aussagen über Landauer-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Erason und Landauer-Signatur bei „Spürbarkeit einer verlorenen Information“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-084",
+   "question": "Braucht der Roman eine Verbindung von Erason und Landauer-Signatur bei „Spürbarkeit einer verlorenen Information“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-085",
+   "question": "In welchem denkbaren Fall könnte Erason bestehen, ohne dass Landauer-Signatur dieselbe Funktion übernimmt, und was würde das für „Spürbarkeit einer verlorenen Information“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-086",
+   "question": "Welche Kosten könnte eine Verbindung von Erason und Landauer-Signatur in Bezug auf „Spürbarkeit einer verlorenen Information“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-087",
+   "question": "Welche ältere Lesart von Erason oder Landauer-Signatur könnte die Gegenüberstellung unter „Spürbarkeit einer verlorenen Information“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Erason und Landauer-Signatur unter „Spürbarkeit einer verlorenen Information“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "erason",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-erason-089",
+   "question": "Wo unterscheiden sich Erason und Atemporalität, wenn man sie unter dem Gesichtspunkt „Grenzen der Rückgewinnung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-090",
+   "question": "Welche Quelle verbindet Erason mit Atemporalität in Bezug auf „Grenzen der Rückgewinnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-091",
+   "question": "Welche Grenzen aus der Seite zu Atemporalität müsste eine Deutung von Erason unter „Grenzen der Rückgewinnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-092",
+   "question": "Wie könnte sich das Wissen über Erason vom Wissen über Atemporalität unterscheiden, wenn „Grenzen der Rückgewinnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Erason und Atemporalität bei „Grenzen der Rückgewinnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-094",
+   "question": "Falls Erason im Hinblick auf „Grenzen der Rückgewinnung“ anders festgelegt wird: Welche Aussagen über Atemporalität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Erason und Atemporalität bei „Grenzen der Rückgewinnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-096",
+   "question": "Braucht der Roman eine Verbindung von Erason und Atemporalität bei „Grenzen der Rückgewinnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-097",
+   "question": "In welchem denkbaren Fall könnte Erason bestehen, ohne dass Atemporalität dieselbe Funktion übernimmt, und was würde das für „Grenzen der Rückgewinnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-098",
+   "question": "Welche Kosten könnte eine Verbindung von Erason und Atemporalität in Bezug auf „Grenzen der Rückgewinnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-099",
+   "question": "Welche ältere Lesart von Erason oder Atemporalität könnte die Gegenüberstellung unter „Grenzen der Rückgewinnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-erason-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Erason und Atemporalität unter „Grenzen der Rückgewinnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "erason",
+    "atemporalitaet"
+   ]
+  }
+ ]
+}

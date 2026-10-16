@@ -1,0 +1,40 @@
+$ python3 scripts/read.py dramatica-storyform-synthese-aegis-verortung --count "Falsifikation"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Falsifikation` ^[dramatica-storyform-synthese-aegis-verortung.md:#4]
+$ python3 scripts/read.py dramatica-storyform-synthese-aegis-verortung --count "Steelmanning"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Steelmanning` ^[dramatica-storyform-synthese-aegis-verortung.md:#3]
+$ python3 scripts/read.py dramatica-storyform-synthese-aegis-verortung --count "postuliert"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`postuliert` ^[dramatica-storyform-synthese-aegis-verortung.md:#5]
+$ python3 scripts/read.py dramatica-storyform-synthese-aegis-verortung --count "Global Work Packages"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Global Work Packages` ^[dramatica-storyform-synthese-aegis-verortung.md:#1]
+$ python3 scripts/read.py dramatica-storyform-synthese-aegis-verortung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kapitel` ^[dramatica-storyform-synthese-aegis-verortung.md:#0]
+$ python3 scripts/read.py dramatica-storyform-synthese-aegis-verortung --count "Kapiteln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapiteln` ^[dramatica-storyform-synthese-aegis-verortung.md:#1]
+$ stance_marker_count 12 = Falsifikation 4 + Steelmanning 3 + postuliert 5 (whole word, case-insensitive)
+$ census: 109 candidates, Zeros 0, standing-alone-less 21 (census-draft.md lines 170, 172)
+$ profile: 20 glued reference numbers, 76 backslash escapes, 56 ascii quotes (01-profile.txt)
+Skipped: L185-L190

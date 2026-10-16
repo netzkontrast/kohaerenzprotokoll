@@ -1,0 +1,252 @@
+{
+  "document": "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
+  "drive_id": "1OB1lLanHP3sJybB2bLA7UFLjUPgxr3xACVEOKpG5P24",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 70,
+    "decided_by_lookup": 61,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        57,
+        59,
+        134,
+        135,
+        136,
+        138,
+        180
+      ],
+      "attribution": "",
+      "note": "AEGIS as the lexicon's antagonist: committed to coherence, closed, its fate left open"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Alex in the lexicon's alter table"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        138
+      ],
+      "attribution": "",
+      "note": "Algorithmic melancholy as Hypothesis A in the lexicon"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        114
+      ],
+      "attribution": "",
+      "note": "Argus in the lexicon's alter table"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "Coherons in the lexicon's metaphysical axis"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "The Dual-Kernel Theory in the lexicon"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        134
+      ],
+      "attribution": "",
+      "note": "The Genesis-Krise in the lexicon"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "Isabelle in the lexicon's alter table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        120,
+        144
+      ],
+      "attribution": "",
+      "note": "Juna/V in the lexicon: a question of healing or paternalism, and a dual nature"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        63,
+        104,
+        118,
+        168,
+        180
+      ],
+      "attribution": "",
+      "note": "System Kael as the lexicon's protagonist on the Correspondence side, and host of the alter table"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        78
+      ],
+      "attribution": "",
+      "note": "Kernwelten in the lexicon"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        109
+      ],
+      "attribution": "",
+      "note": "Kiko in the lexicon's alter table"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "Lex in the lexicon's alter table"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Lia in the lexicon's alter table"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        145
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link in the lexicon"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        112
+      ],
+      "attribution": "",
+      "note": "Moros in the lexicon's alter table"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "Functional Multiplicity in the lexicon"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "Nyx in the lexicon's alter table"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        107
+      ],
+      "attribution": "",
+      "note": "Rhys in the lexicon's alter table"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        78,
+        167
+      ],
+      "attribution": "",
+      "note": "The Risse in the lexicon"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        113
+      ],
+      "attribution": "",
+      "note": "Selene in the lexicon's alter table, with its own question mark"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        90,
+        103
+      ],
+      "attribution": "",
+      "note": "TSDP in the lexicon"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 120,
+      "decision": "reading",
+      "why": "forcing the integration of an exiled part like Juna/V, a question"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

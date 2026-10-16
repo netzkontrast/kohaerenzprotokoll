@@ -1,0 +1,1323 @@
+{
+  "document": "kernwelten-und-fragmentierte-wahrnehmung",
+  "drive_id": "1Kruokptmx-M0bwVI-Sgv45DoqrzPyWF_J2QkZa6BYd8",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "System Kael": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        23,
+        28,
+        30,
+        48,
+        49,
+        75,
+        77,
+        81,
+        82,
+        86,
+        96,
+        111,
+        279,
+        322,
+        419
+      ]
+    },
+    "Kael": {
+      "n": 35,
+      "n_including_compounds": 39,
+      "lines": [
+        23,
+        28,
+        29,
+        30,
+        31,
+        43,
+        48,
+        49,
+        62,
+        75,
+        77,
+        81,
+        82,
+        86,
+        93,
+        96,
+        105,
+        106,
+        111,
+        123,
+        131,
+        152,
+        215,
+        257,
+        269,
+        279,
+        292,
+        302,
+        322,
+        324,
+        329,
+        405,
+        414,
+        419
+      ]
+    },
+    "Lex": {
+      "n": 35,
+      "n_including_compounds": 35,
+      "lines": [
+        48,
+        62,
+        82,
+        93,
+        105,
+        106,
+        107,
+        115,
+        123,
+        131,
+        151,
+        152,
+        173,
+        185,
+        215,
+        227,
+        257,
+        269,
+        292,
+        302,
+        303,
+        316,
+        324,
+        329,
+        344,
+        345,
+        346,
+        355,
+        386,
+        404,
+        405,
+        417
+      ]
+    },
+    "Rhys": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        62,
+        82,
+        93,
+        105,
+        106,
+        107,
+        132,
+        143,
+        173,
+        174,
+        185,
+        257,
+        258,
+        269,
+        292,
+        294,
+        303,
+        316,
+        324,
+        326,
+        346,
+        347,
+        348,
+        349,
+        373,
+        392,
+        394,
+        405
+      ]
+    },
+    "Alex": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        64,
+        93,
+        106,
+        132,
+        215,
+        227,
+        235,
+        294,
+        324,
+        326,
+        329,
+        346,
+        347,
+        392,
+        458
+      ]
+    },
+    "Argus": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        152,
+        185,
+        227,
+        257,
+        269,
+        292,
+        324
+      ]
+    },
+    "Selene": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        185,
+        257,
+        269,
+        326,
+        329
+      ]
+    },
+    "Kiko": {
+      "n": 26,
+      "n_including_compounds": 33,
+      "lines": [
+        41,
+        48,
+        49,
+        63,
+        82,
+        94,
+        105,
+        106,
+        107,
+        143,
+        173,
+        174,
+        185,
+        215,
+        227,
+        258,
+        293,
+        294,
+        303,
+        325,
+        330,
+        346,
+        347,
+        364,
+        390,
+        396,
+        405,
+        417
+      ]
+    },
+    "Nyx": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        42,
+        63,
+        94,
+        106,
+        107,
+        131,
+        143,
+        173,
+        185,
+        215,
+        227,
+        235,
+        269,
+        293,
+        302,
+        316,
+        325,
+        330,
+        347
+      ]
+    },
+    "Lia": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        94,
+        105,
+        173,
+        174,
+        185,
+        215,
+        227,
+        257,
+        258,
+        269,
+        325,
+        330,
+        405
+      ]
+    },
+    "Isabelle": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        49,
+        82,
+        94,
+        173,
+        257,
+        325,
+        330
+      ]
+    },
+    "Moros": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        32,
+        43,
+        48,
+        94,
+        131,
+        143,
+        185,
+        215,
+        227,
+        257,
+        269,
+        325,
+        330,
+        405
+      ]
+    },
+    "AEGIS": {
+      "n": 42,
+      "n_including_compounds": 46,
+      "lines": [
+        48,
+        49,
+        76,
+        115,
+        141,
+        147,
+        151,
+        153,
+        189,
+        193,
+        195,
+        231,
+        235,
+        237,
+        273,
+        277,
+        278,
+        279,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        404,
+        417
+      ]
+    },
+    "Kernwelten": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        28,
+        31,
+        49,
+        75,
+        86,
+        109,
+        111,
+        285,
+        402,
+        404,
+        417
+      ]
+    },
+    "Kernwelt": {
+      "n": 5,
+      "n_including_compounds": 16,
+      "lines": [
+        28,
+        31,
+        48,
+        49,
+        75,
+        86,
+        104,
+        107,
+        109,
+        111,
+        285,
+        335,
+        343,
+        402,
+        404,
+        417
+      ]
+    },
+    "KW1": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        49,
+        104,
+        105,
+        107,
+        113,
+        292,
+        344,
+        346,
+        348,
+        404,
+        405,
+        417
+      ]
+    },
+    "KW2": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        49,
+        74,
+        104,
+        106,
+        107,
+        155,
+        294,
+        345,
+        347,
+        349,
+        404,
+        405
+      ]
+    },
+    "KW3": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        49,
+        104,
+        107,
+        197,
+        293,
+        303,
+        384,
+        404,
+        405,
+        417
+      ]
+    },
+    "KW4": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        74,
+        104,
+        239,
+        302,
+        404,
+        405
+      ]
+    },
+    "Konstrukt-Stadt/Co₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Co₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Resonanz-Landschaft/McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Grenzfeste/B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Grenzfeste": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        384
+      ]
+    },
+    "Möglichkeits-Garten/Ly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Ly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        152
+      ]
+    },
+    "Post-Reboot": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        142,
+        147,
+        152,
+        189,
+        194,
+        231,
+        236,
+        273,
+        278
+      ]
+    },
+    "Baum des Lebens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "ANPs": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        29,
+        64,
+        82,
+        92,
+        93,
+        96,
+        105,
+        106,
+        107,
+        115,
+        131,
+        153,
+        173,
+        193,
+        215,
+        292,
+        294,
+        324,
+        326,
+        404
+      ]
+    },
+    "EPs": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        82,
+        92,
+        94,
+        95,
+        96,
+        105,
+        106,
+        107,
+        131,
+        133,
+        153,
+        157,
+        173,
+        193,
+        293,
+        325,
+        414
+      ]
+    },
+    "Anteile": {
+      "n": 27,
+      "n_including_compounds": 37,
+      "lines": [
+        23,
+        28,
+        30,
+        31,
+        33,
+        48,
+        62,
+        81,
+        82,
+        86,
+        95,
+        104,
+        123,
+        151,
+        152,
+        235,
+        257,
+        285,
+        298,
+        303,
+        327,
+        328,
+        331,
+        337,
+        353,
+        404,
+        405,
+        412,
+        417
+      ]
+    },
+    "Alter-Welt Wahrnehmungsmatrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        333,
+        411
+      ]
+    },
+    "Stilistische Fingerprints": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        351
+      ]
+    },
+    "Narratives Toolkit für Alter-Perspektiven": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        318
+      ]
+    },
+    "User Query Context": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        81,
+        92,
+        93,
+        94,
+        95,
+        96,
+        105,
+        106,
+        107,
+        316
+      ]
+    },
+    "Core Principle Revisited": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        115,
+        157,
+        199,
+        241
+      ]
+    },
+    "Atmosphärische Dichte (Sensory Details)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        116,
+        158,
+        200,
+        242
+      ]
+    },
+    "Atmosphärische Dichte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        116,
+        158,
+        200,
+        242
+      ]
+    },
+    "Psychologische Resonanz (TSDP Dynamics)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        127,
+        169,
+        211,
+        253
+      ]
+    },
+    "Psychologische Resonanz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        127,
+        169,
+        211,
+        253
+      ]
+    },
+    "Interaktionspotenzial (Triggers/Foci)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        137,
+        179,
+        221,
+        263
+      ]
+    },
+    "Interaktionspotenzial": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        137,
+        179,
+        221,
+        263,
+        405
+      ]
+    },
+    "Mirroring/Triggering": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        131,
+        173,
+        215,
+        257
+      ]
+    },
+    "Action System Affinity": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        132,
+        174,
+        216,
+        258
+      ]
+    },
+    "Environmental Psychology Links": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        175,
+        217,
+        259
+      ]
+    },
+    "Control Mechanisms": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        151,
+        193,
+        235,
+        277
+      ]
+    },
+    "Post-Reboot State": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        152,
+        194,
+        236,
+        278
+      ]
+    },
+    "Specific Locations": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        141,
+        183,
+        225,
+        267
+      ]
+    },
+    "Symbolic Objects/Phenomena": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        142,
+        184,
+        226,
+        268
+      ]
+    },
+    "Potential for Action": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        143,
+        185,
+        227,
+        269
+      ]
+    },
+    "Core Identity/TSDP Role & State": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        357,
+        366,
+        375
+      ]
+    },
+    "Vocabulary/Diction": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        358,
+        367,
+        376
+      ]
+    },
+    "Syntax/Sentence Structure": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        359,
+        368,
+        377
+      ]
+    },
+    "Figurative Language": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        360,
+        369,
+        378
+      ]
+    },
+    "Sensory Focus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        361,
+        370,
+        379
+      ]
+    },
+    "Tone": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        362,
+        371,
+        380
+      ]
+    },
+    "Insight 1": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        175,
+        217,
+        259
+      ]
+    },
+    "Insight 2": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        175,
+        217,
+        259
+      ]
+    },
+    "Insight 3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        404,
+        413
+      ]
+    },
+    "Insight 4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        414
+      ]
+    },
+    "Polyphonie (Intrusion)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Polyphonie (Impulse)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        328
+      ]
+    },
+    "Unzuverlässigkeit (ANP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        329
+      ]
+    },
+    "Unzuverlässigkeit (EP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        330
+      ]
+    },
+    "Sensorische Filterung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        316,
+        331
+      ]
+    },
+    "Intrusive Gedanken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        302,
+        413
+      ]
+    },
+    "Beschreibung widersprüchlicher Impulse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        303,
+        413
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        412
+      ]
+    },
+    "TSDP": {
+      "n": 10,
+      "n_including_compounds": 16,
+      "lines": [
+        84,
+        86,
+        88,
+        104,
+        107,
+        111,
+        127,
+        169,
+        211,
+        253,
+        331,
+        335,
+        357,
+        366,
+        375,
+        411
+      ]
+    },
+    "Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Anscheinend Normale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Emotionale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Aktionssysteme": {
+      "n": 2,
+      "n_including_compounds": 13,
+      "lines": [
+        94,
+        107,
+        132,
+        174,
+        215,
+        216,
+        258,
+        316
+      ]
+    },
+    "Verteidigungs-Aktionssysteme": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        94,
+        107,
+        132,
+        174,
+        215,
+        216
+      ]
+    },
+    "Alltags-Aktionssysteme": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        107,
+        132,
+        174,
+        216,
+        258
+      ]
+    },
+    "Bindungsruf": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        94,
+        174,
+        258,
+        347,
+        364,
+        366
+      ]
+    },
+    "Phobien": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        95,
+        105,
+        153
+      ]
+    },
+    "Dissoziation": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        17,
+        23,
+        24,
+        41,
+        48,
+        86,
+        96,
+        325,
+        423,
+        424,
+        425
+      ]
+    },
+    "Derealisation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        49,
+        93,
+        173
+      ]
+    },
+    "Depersonalisation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        93,
+        173
+      ]
+    },
+    "Fragmentierung": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        23,
+        30,
+        63,
+        81,
+        325,
+        327,
+        368,
+        404,
+        413
+      ]
+    },
+    "kognitive Karte": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        47,
+        48,
+        133,
+        175,
+        217,
+        259
+      ]
+    },
+    "Fokalisierung": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        57,
+        287,
+        323,
+        436
+      ]
+    },
+    "Interne Fokalisierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        287,
+        323
+      ]
+    },
+    "Nullfokalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Externe Fokalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Genettes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Schmids": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "ideologische Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Innerer Monolog": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        292,
+        324,
+        441
+      ]
+    },
+    "Bewusstseinsstrom (Stream of Consciousness)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        293
+      ]
+    },
+    "Bewusstseinsstrom": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        63,
+        293,
+        312,
+        325,
+        414,
+        415
+      ]
+    },
+    "Erlebte Rede (Free Indirect Discourse)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        294
+      ]
+    },
+    "Erlebte Rede": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        294,
+        326
+      ]
+    },
+    "Unzuverlässiges Erzählen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        443,
+        444,
+        445
+      ]
+    },
+    "Polyphonie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        77,
+        81,
+        327,
+        328,
+        413
+      ]
+    },
+    "Mikhail Bakhtins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Solaris": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        74,
+        449,
+        450,
+        451
+      ]
+    },
+    "Silent Hill": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        75,
+        183,
+        184,
+        226,
+        412,
+        452,
+        453
+      ]
+    },
+    "Inception": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        455
+      ]
+    },
+    "Disco Elysium": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        77,
+        81,
+        298,
+        458
+      ]
+    },
+    "Otherworld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Umweltpsychologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        49
+      ]
+    }
+  }
+}

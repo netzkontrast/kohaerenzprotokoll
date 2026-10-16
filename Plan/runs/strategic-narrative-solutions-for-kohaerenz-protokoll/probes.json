@@ -1,0 +1,89 @@
+{
+  "document": "strategic-narrative-solutions-for-kohaerenz-protokoll",
+  "drive_id": "1896LH5qnWg6X0tsRE7xS7NwmMvpF5c1COnLdyY6bk0I",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 12,
+  "typographic_marks": 12,
+  "ascii_quotes": 110,
+  "inflection_families": {
+    "ontol": [
+      "Ontological",
+      "Ontologie",
+      "Ontology"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "causa": [
+      "Causal",
+      "Causality"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism"
+    ],
+    "predi": [
+      "Predicted",
+      "Predictive"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Action",
+      "Reaction"
+    ],
+    [
+      "Causal",
+      "Causality"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ]
+  ]
+}

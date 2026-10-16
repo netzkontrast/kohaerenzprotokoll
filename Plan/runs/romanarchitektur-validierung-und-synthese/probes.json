@@ -1,0 +1,239 @@
+{
+  "document": "romanarchitektur-validierung-und-synthese",
+  "drive_id": "17LUVm2XAD1K9CTOSOPXApni4hOG0DJnPzBCbFrDLs_w",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 85,
+  "backslash_escapes": 138,
+  "typographic_marks": 43,
+  "ascii_quotes": 138,
+  "inflection_families": {
+    "ontol": [
+      "Ontological",
+      "Ontologically",
+      "Ontologie",
+      "Ontologies",
+      "Ontologisch",
+      "Ontology"
+    ],
+    "anoma": [
+      "ANOMALIE",
+      "Anomalie",
+      "Anomalien",
+      "Anomalies",
+      "Anomaly"
+    ],
+    "opera": [
+      "Operation",
+      "Operational",
+      "Operationalization",
+      "Operationelle",
+      "Operator"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrity",
+      "Integrität"
+    ],
+    "inver": [
+      "Inversion",
+      "Inversions",
+      "Inverted",
+      "Invertiert"
+    ],
+    "leser": [
+      "Leser",
+      "Leserintegration",
+      "Leserpsychologie",
+      "Lesers"
+    ],
+    "mosai": [
+      "Mosaic",
+      "Mosaik",
+      "Mosaikformat",
+      "Mosaikstruktur"
+    ],
+    "synth": [
+      "Synthese",
+      "Synthesis",
+      "Synthesized",
+      "Synthetisierte"
+    ],
+    "syste": [
+      "SYSTEMFEHLER",
+      "System",
+      "Systemlogik",
+      "Systems"
+    ],
+    "theor": [
+      "Theorems",
+      "Theorie",
+      "Theories",
+      "Theory"
+    ],
+    "conce": [
+      "Concept",
+      "Conceptualizing",
+      "Concern"
+    ],
+    "const": [
+      "Constant",
+      "Constraint",
+      "Construct"
+    ],
+    "defin": [
+      "Definition",
+      "Definitionen",
+      "Definitive"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkennung"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmente",
+      "Fragmentierung"
+    ],
+    "gener": [
+      "Generalization",
+      "Generalized",
+      "Generative"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzziehungen"
+    ],
+    "husse": [
+      "Husserl",
+      "Husserlian",
+      "Husserlscher"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsübertragung"
+    ],
+    "inter": [
+      "Interferenzmuster",
+      "Interferenzmusters",
+      "Internal"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle"
+    ],
+    "narra": [
+      "Narratively",
+      "Narratological",
+      "Narratologische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "City",
+      "Multiplicity"
+    ],
+    [
+      "Dame",
+      "Fundament"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Fact",
+      "Facts"
+    ],
+    [
+      "Fail",
+      "Failure"
+    ],
+    [
+      "Gate",
+      "Gates"
+    ],
+    [
+      "Gate",
+      "ResearchGate"
+    ],
+    [
+      "Hand",
+      "Chandra"
+    ],
+    [
+      "Hand",
+      "Handoff"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ],
+    [
+      "Hard",
+      "Richard"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

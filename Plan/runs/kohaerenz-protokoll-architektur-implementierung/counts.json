@@ -1,0 +1,582 @@
+{
+  "document": "kohaerenz-protokoll-architektur-implementierung",
+  "drive_id": "1XyatSzjFAYqgO25ak5BKyE6-BCDCMJirK1WFfcjUa08",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        13,
+        27,
+        57,
+        141,
+        173
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        27,
+        57,
+        141
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        13,
+        45,
+        49,
+        51,
+        116,
+        119,
+        143
+      ]
+    },
+    "AEGIS": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        13,
+        36,
+        41,
+        71,
+        108,
+        143
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        93
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        49,
+        51,
+        69,
+        71,
+        119
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        51,
+        119
+      ]
+    },
+    "Kiko": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        59
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        38,
+        93
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        47,
+        49,
+        104,
+        143
+      ]
+    },
+    "Anscheinend Normale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Emotionale Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        121
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        121
+      ]
+    },
+    "Konstrukts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Kapitel 12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Akt III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Dual Kernel Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Novel Writing Assistants": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        41
+      ]
+    },
+    "Drama Engine": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        43,
+        45,
+        51,
+        53,
+        57,
+        63,
+        69,
+        75,
+        92,
+        97,
+        100,
+        114,
+        118,
+        121,
+        128,
+        136,
+        141,
+        143,
+        162,
+        164
+      ]
+    },
+    "ZeroClaw": {
+      "n": 19,
+      "n_including_compounds": 23,
+      "lines": [
+        17,
+        25,
+        27,
+        29,
+        35,
+        41,
+        45,
+        63,
+        86,
+        92,
+        100,
+        123,
+        125,
+        128,
+        136,
+        141,
+        143,
+        156,
+        158,
+        159
+      ]
+    },
+    "ChatCompanion": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        59,
+        120
+      ]
+    },
+    "CompanionConfig": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        119
+      ]
+    },
+    "InstructionDeputy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        59
+      ]
+    },
+    "InstructionDeputies": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        143
+      ]
+    },
+    "Companions": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        69
+      ]
+    },
+    "Shells": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Deputies": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        121,
+        143
+      ]
+    },
+    "Situations": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        51
+      ]
+    },
+    "Moods": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        83
+      ]
+    },
+    "Moderator": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        120
+      ]
+    },
+    "Story Bible": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        112
+      ]
+    },
+    "Die Architektonische Grenzziehung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Instanziierung der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Die Deterministische Härte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Die Fusion der Ebenen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Phasen der Systemgenese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Vercel Authentication": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        99,
+        111,
+        145,
+        184
+      ]
+    },
+    "Edge Middleware": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        100,
+        145,
+        185,
+        186
+      ]
+    },
+    "Fluid Compute": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        104,
+        123,
+        127
+      ]
+    },
+    "ToolLoopAgent": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        69,
+        136
+      ]
+    },
+    "Vercel Postgres": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        92,
+        112
+      ]
+    },
+    "Vercel KV": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        112,
+        120
+      ]
+    },
+    "Vercel Blob": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Ledger-Time-Modell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        86
+      ]
+    },
+    "Das Blockuniversum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Phänomenale Jetzt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Die Physische Materialität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        27
+      ]
+    },
+    "Phänomenale Selbstmodell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        116
+      ]
+    },
+    "Phänomenalen Selbstmodells": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "PSM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        114,
+        116
+      ]
+    },
+    "Meinigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Phaenomena": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Noumena": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Grenzsituation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Schiffbruch des Denkens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        92,
+        145
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        93,
+        145
+      ]
+    },
+    "Chronozeption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Eternalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Präsentismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    }
+  }
+}

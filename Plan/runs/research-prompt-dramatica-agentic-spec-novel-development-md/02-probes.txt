@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      40
+  backslash escapes      443
+  typographic marks      158
+  ascii quotes           204
+
+# inflection families -- one term, several surfaces
+  archi    Architect, Architectural, Architecture, Architectures, Architektonische, Architektur, Architekturen
+  check    CHECK, CHECKLIST, Check, Checkpoint, Checkpoints, Checks
+  opera    Operationalisierung, Operationalisierungen, Operationalisierungs, Operationalize, Operationserfordernis, Operative
+  agent    Agent, Agentensystem, Agentic, Agentischer, Agents
+  block    BLOCK, BLOCKER, BLOCKS, Block, Blocks
+  entsc    Entscheidung, Entscheidungen, Entscheidungs, Entscheidungsbaum, Entscheidungstyp
+  falsi    Falsification, Falsifications, Falsifikation, Falsifikations, Falsifizierbare
+  haupt    Haupt, Hauptabschnitt, Hauptabschnitte, Hauptartefakt, Hauptschritt
+  metho    METHODS, Method, Methode, Methoden, Methodology
+  quell    Quell, Quelle, Quellen, Quellenliste, Quellenstützung
+  struk    Struktur, Strukturelemente, Strukturelle, Strukturierte, Strukturmodell
+  valid    Valid, Validation, Validierung, Validierungs, Validierungszeitpunkt
+  angri    Angriff, Angriffe, Angriffen, Angriffswinkel
+  contr    Contra, Contracts, Contradiction, Contradictions
+  entwi    Entwickle, Entwicklerin, Entwicklung, Entwicklungs
+  forsc    Forschungsagenten, Forschungsbericht, Forschungskategorie, Forschungsobjektiv
+  integ    INTEGRITY, Integration, Integrations, Integrity
+  inter    Interaction, Interaktions, Interface, Interfaces
+  schre    Schreib, Schreiben, Schreibprojekte, Schreibsystem
+  sekti    Sektion, Sektionen, Sektionshierarchie, Sektionsstruktur
+  alter    Alternative, Alternativen, Alternatives
+  confi    Confidence, Confirmation, Confirmations
+  const    CONSTRAINT, Constraint, Constraints
+  criti    CRITICAL, Critic, Critical
+  defin    Definiere, Definition, Definitions
+
+# substring pairs -- never one term, often merged by accident
+  Code < Pseudocode
+  Dies < Diese
+  Dies < Dieser
+  Eine < Deine
+  Eine < Keine
+  Eine < Bausteine
+  Eine < Bausteinen
+  Erst < Erste
+  Erst < Verstand
+  Erst < Verständnis
+  FAIL < Failure
+  Feld < Felder
+  Feld < Feldnamen
+  Form < Format
+  Form < Plattform
+  Form < Formuliere
+  Form < Information
+  HIGH < High
+  Item < Items
+  Jede < Jeder

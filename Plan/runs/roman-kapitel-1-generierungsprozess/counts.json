@@ -1,0 +1,740 @@
+{
+  "document": "roman-kapitel-1-generierungsprozess",
+  "drive_id": "1CVh5g2S72cXUA9odKHxofsDUX9NdoihWGlFCSIMzl9A",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        22,
+        24,
+        598
+      ]
+    },
+    "Protokoll-Ontologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        24
+      ]
+    },
+    "Gravitationsarchitektur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        548
+      ]
+    },
+    "Gravitationsgradienten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Dual Kernel Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Duale Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        30
+      ]
+    },
+    "Parataktische Geschwindigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        572
+      ]
+    },
+    "Parataxe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        34,
+        80,
+        438
+      ]
+    },
+    "Hypotaxe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        440
+      ]
+    },
+    "Kael": {
+      "n": 54,
+      "n_including_compounds": 58,
+      "lines": [
+        22,
+        34,
+        54,
+        58,
+        66,
+        92,
+        104,
+        114,
+        122,
+        138,
+        152,
+        164,
+        172,
+        176,
+        180,
+        208,
+        212,
+        216,
+        240,
+        258,
+        270,
+        288,
+        294,
+        306,
+        316,
+        324,
+        330,
+        338,
+        340,
+        342,
+        350,
+        352,
+        356,
+        360,
+        370,
+        376,
+        384,
+        388,
+        392,
+        394,
+        418,
+        422,
+        426,
+        450,
+        470,
+        492,
+        510,
+        516,
+        530,
+        556,
+        560,
+        564,
+        572,
+        591
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        394
+      ]
+    },
+    "Juna": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        134,
+        142,
+        150,
+        160,
+        168,
+        180,
+        216,
+        452,
+        589
+      ]
+    },
+    "Jansen": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        336,
+        338,
+        340,
+        344,
+        348,
+        354,
+        358,
+        368,
+        418,
+        422,
+        590
+      ]
+    },
+    "Nyx": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        372,
+        374,
+        420,
+        422
+      ]
+    },
+    "Silas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        466,
+        552
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        550,
+        552
+      ]
+    },
+    "AEGIS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        66,
+        208,
+        354,
+        356,
+        414,
+        552,
+        576
+      ]
+    },
+    "ANP": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        34,
+        36,
+        58,
+        76,
+        210,
+        212,
+        216,
+        418,
+        422,
+        426,
+        564
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        212,
+        422
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "KW1": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        56,
+        68,
+        78,
+        106,
+        208,
+        448
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        78
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Sektor Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Gamma-7": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        226,
+        230,
+        252
+      ]
+    },
+    "Datenknotenpunkt Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Transit-Station": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Transit-Pod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        238
+      ]
+    },
+    "Architekt Klasse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "Ergosphäre": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        13,
+        26,
+        34,
+        36,
+        548,
+        560
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        26,
+        36,
+        58,
+        440,
+        444,
+        548,
+        556
+      ]
+    },
+    "Photonensphäre": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        548,
+        574,
+        576
+      ]
+    },
+    "Leckage-Hypothese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        204
+      ]
+    },
+    "Technischen Natürlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Großen Faktums": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Bulk": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        54,
+        58,
+        208,
+        414
+      ]
+    },
+    "Brane": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        54,
+        58,
+        212,
+        414
+      ]
+    },
+    "Oberflächenspannung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        572
+      ]
+    },
+    "Gewohnten Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Z-Fighting": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        156,
+        216,
+        228,
+        572,
+        589
+      ]
+    },
+    "Texture Stretching": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        346,
+        416,
+        418,
+        572,
+        590
+      ]
+    },
+    "Vertex Explosion": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        438,
+        440,
+        500,
+        554,
+        556,
+        572,
+        591
+      ]
+    },
+    "Mesh Tearing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        592
+      ]
+    },
+    "Glitch-Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        228,
+        406
+      ]
+    },
+    "Glitch-Metaphern": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        230,
+        440,
+        572
+      ]
+    },
+    "Glitch-Mechaniken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        410,
+        584
+      ]
+    },
+    "Asynchronen Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        426
+      ]
+    },
+    "Uncanny Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        424
+      ]
+    },
+    "Leichte Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Propriozeptiver Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        248
+      ]
+    },
+    "Feedback-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "Aletheia-Schwarzschild": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        426
+      ]
+    },
+    "Oculus-G": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        564
+      ]
+    },
+    "Monster-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        576
+      ]
+    },
+    "Critical Fluctuations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        576
+      ]
+    },
+    "Finde die Naht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        510,
+        560
+      ]
+    },
+    "Zerbrochene Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        562
+      ]
+    },
+    "EP-Intrusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        422
+      ]
+    },
+    "Ich-dyston": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        422
+      ]
+    },
+    "gravitative Bindungsenergie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        552
+      ]
+    },
+    "Die Geometrie der Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Das Gewicht der Daten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Der Ereignishorizont": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        444
+      ]
+    },
+    "Analyse-Schnittstelle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        200,
+        406,
+        544
+      ]
+    },
+    "Narrative Sequenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        220,
+        430
+      ]
+    },
+    "Reibungshitze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Hierarchie-Problem": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        54,
+        66
+      ]
+    },
+    "Entropischen Gravitation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Brane-Kosmologie": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        212
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        58,
+        410
+      ]
+    },
+    "Negentropie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        66,
+        206,
+        208,
+        414
+      ]
+    },
+    "Akkretionsscheibe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        43
+      ]
+    },
+    "Doppler-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Doppler-Beaming": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        45
+      ]
+    },
+    "Spaghettifizierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        554,
+        556,
+        591
+      ]
+    },
+    "Lensing-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        576
+      ]
+    },
+    "Operational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        72,
+        80,
+        214,
+        216,
+        572
+      ]
+    },
+    "Zweiten Hauptsatz der Thermodynamik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        208
+      ]
+    }
+  }
+}

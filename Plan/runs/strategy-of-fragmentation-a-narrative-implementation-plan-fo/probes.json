@@ -1,0 +1,81 @@
+{
+  "document": "strategy-of-fragmentation-a-narrative-implementation-plan-fo",
+  "drive_id": "1WKRceIjtIAM76QsfCrCNZSI40sZyusjl_5yloMA9vjM",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 38,
+  "typographic_marks": 9,
+  "ascii_quotes": 82,
+  "inflection_families": {
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "decon": [
+      "Deconstruction",
+      "Deconstructive"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator"
+    ],
+    "perfo": [
+      "Performative",
+      "Performing"
+    ],
+    "princ": [
+      "Principle",
+      "Principles"
+    ],
+    "sente": [
+      "Sentence",
+      "Sentences"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategy"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Anteil",
+      "Persönlichkeitsanteilen"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Sentence",
+      "Sentences"
+    ],
+    [
+      "Principle",
+      "Principles"
+    ],
+    [
+      "Structure",
+      "Macrostructure"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      98
+  backslash escapes      59
+  typographic marks      29
+  ascii quotes           254
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systemdesign, Systeme, Systemen, Systemfehler, Systemkollaps, Systems, Systemstabilität, Systemzusammenbruch
+  konse    Konsens, Konsensprotokoll, Konsensprotokolle, Konsensversagen, Konsequenz, Konsequenzen
+  proze    Prozess, Prozessen, Prozesses, Prozessor, Prozessoren, Prozessphilosophie
+  emoti    Emotion, Emotional, Emotionalen, Emotionen, Emotionswelten
+  ident    Identities, Identity, Identität, Identitäten, Identitätsstörung
+  inter    Interaktion, Interaktionen, Internal, Internalization, Interventionen
+  intro    Intro, Introduction, Introjection, Introjekt, Introjekte
+  parad    Paradigma, Paradox, Paradoxien, Paradoxon, Paradoxons
+  poten    Potential, Potentialität, Potentialmeer, Potentialmeers, Potenzial
+  unter    Unter, Unterdrückung, Unterscheidung, Unterschiede, Unterschieden
+  attra    Attractor, Attractors, Attraktor, Attraktors
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziativen
+  fragm    Fragment, Fragmente, Fragmentierung, Fragments
+  funkt    Funktion, Funktionale, Funktionen, Funktionsweise
+  handl    Handlungen, Handlungselemente, Handlungsfortschritt, Handlungsfähigkeit
+  heuri    Heuristic, Heuristics, Heuristik, Heuristiken
+  infor    Information, Informationen, Informationsströme, Informationstheorie
+  kontr    Kontrolle, Kontrollkapazität, Kontrollmechanismen, Kontrollversuch
+  logik    Logik, Logikmaschine, Logikwelt, Logikwelten
+  philo    PHILOSOPHY, Philosophie, Philosophien, Philosophy
+  psych    Psyche, Psychologist, Psychology, Psychotherapy
+  theor    Theorems, Theoretical, Theorie, Theory
+  täter    Täter, Täterintrojekt, Täters, Tätertaktik
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widerstandsnetzwerk
+  algor    Algorithm, Algorithmen, Algorithms
+
+# substring pairs -- never one term, often merged by accident
+  Code < Quellcode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Anscheinend
+  Enge < Menge
+  Enge < Challenge
+  Form < Formen
+  Form < Formation
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsströme
+  Form < Informationstheorie
+  Hart < Hartshorne
+  Kael < Kaels
+  Kann < Unbekannt
+  Kern < Kernaxiome
+  Kern < Kerntrauma

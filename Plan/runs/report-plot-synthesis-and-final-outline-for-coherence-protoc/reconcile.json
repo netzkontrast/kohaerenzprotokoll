@@ -1,0 +1,224 @@
+{
+  "document": "report-plot-synthesis-and-final-outline-for-coherence-protoc",
+  "drive_id": "1DnLGExgrN14DCS178HXYGQkatR9sUgbuQQ4GCrlvfIs",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-276/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 62,
+    "decided_by_lookup": 57,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plot synthesis: its new surfaces are its theses and outline labels, LFI and Discursive Logic, the perpetrator introject, Prehension and inefficient beauty; what it says of the novel's world went on existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        29,
+        31,
+        43,
+        51,
+        67,
+        95
+      ],
+      "attribution": "",
+      "note": "AEGIS as exclusionary logic, tragic antagonist and, at the end, a zombie system"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "Algorithmic Melancholy as AEGIS's end state"
+    },
+    {
+      "page": "did",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "Kael's unknown Dissociative Identity Disorder"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        65,
+        66,
+        91
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as epistemological checkmate"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "Grenzfeste as KW3"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        53,
+        54,
+        65,
+        87
+      ],
+      "attribution": "",
+      "note": "Juna/V as exiled entity and active strategist"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        30,
+        54,
+        83,
+        91
+      ],
+      "attribution": "",
+      "note": "Kael as amnesiac host and dialetheic mind"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "Kiko among the Emotional Parts"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "Komponente 734 as AEGIS's Ursprungs-Ich"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "Konstrukt-Stadt as KW1"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "Lex among the ANPs"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as non-local connection"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as co-consciousness, not fusion"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        29,
+        79
+      ],
+      "attribution": "",
+      "note": "Nichts Rauschen as the opposite and the origin"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        42,
+        44
+      ],
+      "attribution": "",
+      "note": "Nyx among the Emotional Parts"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "Resonanz-Landschaft as KW2"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "Risse as AEGIS's misreading and Kael's reality glitches"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        42,
+        43
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame of Kael's system"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` on juna (J34); `Kohärenz Protokoll 1.0` the protocol AEGIS triggered, read on aegis; `ontological exploit` not Alex; `Theory of Structural Dissociation of the Personality` read on tsdp",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 53,
+      "decision": "occurrence",
+      "why": "Kohärenz Protokoll 1.0, read on aegis"
+    }
+  ],
+  "not_promoted": [
+    "LFI and Discursive Logic",
+    "the perpetrator introject",
+    "the four core theses",
+    "the five-point outline's labels",
+    "Prehension",
+    "inefficient beauty",
+    "Kohärenz Protokoll 1.0"
+  ],
+  "internal_tension": "it says four Core Worlds and names three (L44); it calls AEGIS a tragic antagonist (L51) and the primary antagonist (L83); it gives the protocol's name as German `Kohärenz Protokoll 1.0` and English `Coherence Protocol` without relating them",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

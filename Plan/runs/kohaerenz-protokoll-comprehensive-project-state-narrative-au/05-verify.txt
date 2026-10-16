@@ -1,0 +1,121 @@
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "So What?"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`So What?` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Source: Plot-Exploration"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Source: Plot-Exploration` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Source: Existenzforschung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Source: Existenzforschung` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "READY"
+whole word, case-sensitive     7
+whole word, case-insensitive   8
+including compounds            7
+
+`READY` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#7]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "NEEDS REVISION"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`NEEDS REVISION` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "KW3"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`KW3` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "KW3-Cerberus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KW3-Cerberus` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Rhys"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rhys` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Alters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alters` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "13"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`13` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`Kernwelt` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "HARD CANON"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`HARD CANON` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "CRITICAL CONTRADICTIONS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`CRITICAL CONTRADICTIONS` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "NARRATIVE GAPS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`NARRATIVE GAPS` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "TEXT REPOSITORY"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TEXT REPOSITORY` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "THE COHERENCE ROADMAP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`THE COHERENCE ROADMAP` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Version A"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Version A` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Version B"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Version B` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-comprehensive-project-state-narrative-au --count "Betrayal"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Betrayal` ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:#4]
+$ stance_marker_count = 1+1+1+1+1 (five section labels) + 5 (So What?) + 1 (Version A) + 3 (Version B) + 7 (READY) + 3 (NEEDS REVISION) = 24
+$ grep -c "Loc-" (lines)
+10
+$ grep -n "Rhys" raw file
+30:In high-concept architecture, "Narrative Decoherence" is a fatal flaw. Contra
+$ grep -c backslash lines
+6

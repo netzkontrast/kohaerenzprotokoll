@@ -1,0 +1,412 @@
+{
+  "document": "konsolidierung-des-hard-canon-protokolls",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 50,
+  "decisions": 54,
+  "same_surface": {},
+  "decided_mechanically": 42,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 316
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 159
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 69
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 125
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 60
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 116
+      },
+      {
+        "candidate": "Funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 158
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 279
+      },
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 135
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 156
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 326
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 157
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 217
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 192
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "HARD CANON MASTERFILE"
+      },
+      {
+        "candidate": "Hard-Canon-Dokument"
+      },
+      {
+        "candidate": "Post-Interview Consolidation"
+      },
+      {
+        "candidate": "Die 13 Fragmente"
+      },
+      {
+        "candidate": "39-Kapitel-Matrix"
+      },
+      {
+        "candidate": "prä-existente ontologische Bindung"
+      },
+      {
+        "candidate": "Algorithmischer Melancholie"
+      },
+      {
+        "candidate": "Hybride Erzählperspektive"
+      },
+      {
+        "candidate": "Ich-Perspektive"
+      },
+      {
+        "candidate": "Kamera-Perspektive"
+      },
+      {
+        "candidate": "Dynamische DKT-Statuszeilen"
+      },
+      {
+        "candidate": "KHZ"
+      },
+      {
+        "candidate": "Fraktale Zeitstruktur"
+      },
+      {
+        "candidate": "Basisrealität"
+      },
+      {
+        "candidate": "Das Psychologische Kammerspiel"
+      },
+      {
+        "candidate": "Köln 2026"
+      },
+      {
+        "candidate": "Zyklische Auflösung"
+      },
+      {
+        "candidate": "vertauschten Rollen"
+      },
+      {
+        "candidate": "Repository-Bereinigung"
+      },
+      {
+        "candidate": "Character Bible Update"
+      },
+      {
+        "candidate": "Styleguide Update"
+      },
+      {
+        "candidate": "Chapter Outline Sync"
+      },
+      {
+        "candidate": "State Management Lock"
+      },
+      {
+        "candidate": "CANON\\_SYNC"
+      },
+      {
+        "candidate": "DECISION\\_LOG.md"
+      },
+      {
+        "candidate": "DEPRECATED"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Qualia"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Das Kael-AEGIS-Spiegelkabinett",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Die Juna-Anomalie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Das Kael-AEGIS-Spiegelkabinett",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Ouroboros-Ende  /  Ouroboros",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Juna-Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "System-Genesis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Kael-AEGIS-Spiegelkabinett",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Ouroboros",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "ouroborosstruktur",
+            "page": "ouroboros-struktur"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 28,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 28,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

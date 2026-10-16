@@ -1,0 +1,122 @@
+{
+  "document": "projektanalyse-kohaerenz-protokoll-dis",
+  "drive_id": "1itglKQ6mdrxq9AxOkApmbkgFE2q43F9pQ1XNG65tLw8",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 84,
+    "decisions": 87,
+    "decided_by_lookup": 72,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "dkt",
+      "lines": [
+        29,
+        31,
+        32
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory's two domains"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Entropie as the principle of Kollaps"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "four Kernwelten"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "Kohärenz as one of two principles"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "Risse as the physical form of a phobia"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "the model of System Kael"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 241,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 32,
+      "decision": "reading",
+      "why": "Kollaps as the principle of entropy"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 166,
+      "decision": "occurrence",
+      "why": "a listed file's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 199,
+      "decision": "occurrence",
+      "why": "a ranked file's gloss"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

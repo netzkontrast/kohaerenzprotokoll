@@ -1,0 +1,14 @@
+# ontologie-des-gelesenen-traumas
+  lines                244  (frontmatter ends at 9)
+  body words           4588
+  headings             19   bold-only lines 1
+  table rows           11   code fences 0
+  question marks       7
+  backslash escapes    48
+  typographic marks    170   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    29
+  repeated labels      none
+  longest line         1363 chars
+

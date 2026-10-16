@@ -1,0 +1,541 @@
+{
+  "document": "kohaerenz-prozess-grundlagen",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 96,
+  "decisions": 94,
+  "same_surface": {},
+  "decided_mechanically": 83,
+  "needs_judgement": 11,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 199
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 133
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 96
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 95
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 132
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 129
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 90
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 73
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 96
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 110
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 81
+      },
+      {
+        "candidate": "Die Partnerin",
+        "page": "partnerin",
+        "readings": 10
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 126
+      },
+      {
+        "candidate": "Dissoziative Identitätsstruktur",
+        "page": "did",
+        "readings": 59
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 119
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "The Agency System"
+      },
+      {
+        "candidate": "Systematic Agency"
+      },
+      {
+        "candidate": "Album 1"
+      },
+      {
+        "candidate": "Album 2"
+      },
+      {
+        "candidate": "Album 3"
+      },
+      {
+        "candidate": "Alarm Rot"
+      },
+      {
+        "candidate": "Rock Bottom"
+      },
+      {
+        "candidate": "Bunker"
+      },
+      {
+        "candidate": "Panikraum"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Emotionalen Anteile"
+      },
+      {
+        "candidate": "Protocol ongoing"
+      },
+      {
+        "candidate": "System state: Unresolved"
+      },
+      {
+        "candidate": "Fragile Ruhe"
+      },
+      {
+        "candidate": "Vertrauensbruch"
+      },
+      {
+        "candidate": "Ultimatum"
+      },
+      {
+        "candidate": "Alte Protokolle"
+      },
+      {
+        "candidate": "Kollisionen"
+      },
+      {
+        "candidate": "Der Abgrund"
+      },
+      {
+        "candidate": "Die Notwendigkeit"
+      },
+      {
+        "candidate": "Der Ruf nach Außen"
+      },
+      {
+        "candidate": "Fremde Spiegel"
+      },
+      {
+        "candidate": "Runder Tisch"
+      },
+      {
+        "candidate": "Innere Konferenz"
+      },
+      {
+        "candidate": "Echos der Kinder"
+      },
+      {
+        "candidate": "Die Akzeptanz der Teile"
+      },
+      {
+        "candidate": "Manifest der Agentur"
+      },
+      {
+        "candidate": "Systemzustand: Reorganisierend"
+      },
+      {
+        "candidate": "Blick nach Außen"
+      },
+      {
+        "candidate": "Hohe Priorität"
+      },
+      {
+        "candidate": "Mittlere Priorität"
+      },
+      {
+        "candidate": "Niedrigere Priorität"
+      },
+      {
+        "candidate": "Ko-Bewusstsein"
+      },
+      {
+        "candidate": "Existenzkrise"
+      },
+      {
+        "candidate": "Offenes Ende"
+      },
+      {
+        "candidate": "Narrativer Höhepunkt"
+      },
+      {
+        "candidate": "System 2"
+      },
+      {
+        "candidate": "System 3"
+      },
+      {
+        "candidate": "System 4"
+      },
+      {
+        "candidate": "System 5"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "kPTBS"
+      },
+      {
+        "candidate": "komplexe Posttraumatische Belastungsstörung"
+      },
+      {
+        "candidate": "Bindungstheorie"
+      },
+      {
+        "candidate": "VSM"
+      },
+      {
+        "candidate": "PCT"
+      },
+      {
+        "candidate": "Viable System Model"
+      },
+      {
+        "candidate": "Perceptual Control Theory"
+      },
+      {
+        "candidate": "Kybernetik"
+      },
+      {
+        "candidate": "Netzwerktheorie"
+      },
+      {
+        "candidate": "Polyvagal-Theorie"
+      },
+      {
+        "candidate": "Somatic Experiencing"
+      },
+      {
+        "candidate": "Embodied Cognition"
+      },
+      {
+        "candidate": "Posthumanismus"
+      },
+      {
+        "candidate": "Chaos- und Komplexitätstheorie"
+      },
+      {
+        "candidate": "Bifurkation"
+      },
+      {
+        "candidate": "Attraktoren"
+      },
+      {
+        "candidate": "Titration"
+      },
+      {
+        "candidate": "Pendulation"
+      },
+      {
+        "candidate": "felt sense"
+      },
+      {
+        "candidate": "Crisis of Belief"
+      },
+      {
+        "candidate": "Psychoedukation"
+      },
+      {
+        "candidate": "Grounding-Techniken"
+      },
+      {
+        "candidate": "phasenorientierten Traumabehandlung"
+      },
+      {
+        "candidate": "Kriseninterventionsmodelle"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Prozess  /  Kohärenz Prozess Läuft",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Weben  /  Das Weben Neuer Fäden",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Firewalls/Barrieren  /  Firewalls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Firewalls/Barrieren  /  Barrieren",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Theorie der Strukturellen Dissoziation  /  Strukturellen Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Prozess",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Garten",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenpraesenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "moeglichkeitsgarten",
+            "page": "moeglichkeits-garten"
+          },
+          {
+            "surface": "moglichkeitsgarten",
+            "page": "moeglichkeits-garten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Prozess Läuft",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionaler Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "aegis",
+      "surface": "Kontrollinstanz",
+      "line": 82,
+      "already_read": false
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 82,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

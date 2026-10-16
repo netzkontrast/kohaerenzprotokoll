@@ -1,0 +1,562 @@
+{
+  "document": "tropen-konzepte-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 96,
+  "decisions": 93,
+  "same_surface": {},
+  "decided_mechanically": 81,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 247
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 243
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 124
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 158
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 108
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 110
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 89
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 159
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 127
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 115
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 64
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 156
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Fundament"
+      },
+      {
+        "candidate": "Leere"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KWs"
+      },
+      {
+        "candidate": "Konstrukt-Welten"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Kernparadoxon"
+      },
+      {
+        "candidate": "Prolog"
+      },
+      {
+        "candidate": "Akt 1"
+      },
+      {
+        "candidate": "Akt 3"
+      },
+      {
+        "candidate": "Philo Hint"
+      },
+      {
+        "candidate": "Transzendenz-Vektoren"
+      },
+      {
+        "candidate": "Hauptprojektdirektive"
+      },
+      {
+        "candidate": "Glossar"
+      },
+      {
+        "candidate": "Outline V3"
+      },
+      {
+        "candidate": "Vakuumfluktuationen"
+      },
+      {
+        "candidate": "Schleifenquantengravitation"
+      },
+      {
+        "candidate": "LQG"
+      },
+      {
+        "candidate": "Quantenschaum"
+      },
+      {
+        "candidate": "Komplexitätstheorie"
+      },
+      {
+        "candidate": "kaskadierende Fehler"
+      },
+      {
+        "candidate": "It from Bit"
+      },
+      {
+        "candidate": "Observer-Participancy"
+      },
+      {
+        "candidate": "Philosophie der Information"
+      },
+      {
+        "candidate": "Epistemologie"
+      },
+      {
+        "candidate": "epistemologisch"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Theorie der Strukturellen Dissoziation der Persönlichkeit"
+      },
+      {
+        "candidate": "Bündeltheorie"
+      },
+      {
+        "candidate": "Orch OR"
+      },
+      {
+        "candidate": "topologische Verschränkung"
+      },
+      {
+        "candidate": "Integrierte Informationstheorie"
+      },
+      {
+        "candidate": "IIT"
+      },
+      {
+        "candidate": "Informationsaustausch"
+      },
+      {
+        "candidate": "KI-Ethik"
+      },
+      {
+        "candidate": "Perverse Instantiation"
+      },
+      {
+        "candidate": "Instrumentelle Konvergenz"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Veränderten Bewusstseinszuständen"
+      },
+      {
+        "candidate": "Existentialismus"
+      },
+      {
+        "candidate": "Paradox der Toleranz"
+      },
+      {
+        "candidate": "Konsequentialismus"
+      },
+      {
+        "candidate": "logischen Paradoxien"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssätze"
+      },
+      {
+        "candidate": "Selbstbezug"
+      },
+      {
+        "candidate": "Rückkopplungsschleifen"
+      },
+      {
+        "candidate": "Kontrolltheorie"
+      },
+      {
+        "candidate": "Imperativ der Verantwortung"
+      },
+      {
+        "candidate": "Hard Science Fiction"
+      },
+      {
+        "candidate": "Psychologischer Thriller"
+      },
+      {
+        "candidate": "Kosmischer Horror"
+      },
+      {
+        "candidate": "Philosophische Fiktion"
+      },
+      {
+        "candidate": "PhilFic"
+      },
+      {
+        "candidate": "Unzuverlässiger Erzähler"
+      },
+      {
+        "candidate": "Amnesie"
+      },
+      {
+        "candidate": "Internal Conference Room"
+      },
+      {
+        "candidate": "Civil War Within"
+      },
+      {
+        "candidate": "Logic Puzzle"
+      },
+      {
+        "candidate": "Rules Lawyer"
+      },
+      {
+        "candidate": "Hacking the Mainframe"
+      },
+      {
+        "candidate": "Logic Bomb"
+      },
+      {
+        "candidate": "Hoist by His Own Petard"
+      },
+      {
+        "candidate": "Existenzielle Angst"
+      },
+      {
+        "candidate": "What Measure Is a Non-Human"
+      },
+      {
+        "candidate": "Kognitive Dissonanz"
+      },
+      {
+        "candidate": "Suspension of Disbelief"
+      },
+      {
+        "candidate": "Exposition"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Ontologie  /  dialektische Ontologien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologie  /  Deontologie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "M-Theorie  /  Systemtheorie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kybernetik  /  Kybernetik zweiter Ordnung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Fehlausgerichtete Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulationshypothese",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "Transpersonale Psychologie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch in the Matrix",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch Art",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 90,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 16,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 52,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 29,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 29,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 29,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

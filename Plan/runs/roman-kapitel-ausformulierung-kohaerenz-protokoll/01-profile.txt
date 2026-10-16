@@ -1,0 +1,14 @@
+# roman-kapitel-ausformulierung-kohaerenz-protokoll
+  lines                140  (frontmatter ends at 9)
+  body words           4496
+  headings             13   bold-only lines 0
+  table rows           28   code fences 0
+  question marks       39
+  backslash escapes    50
+  typographic marks    21   ascii quotes 60
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    4
+  repeated labels      none
+  longest line         975 chars
+

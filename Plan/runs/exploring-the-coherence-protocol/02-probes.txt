@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      69
+  backslash escapes      62
+  typographic marks      23
+  ascii quotes           110
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coherency, Coheron, Coherons
+  organ    ORGANIZATION, Organization, Organizations, Organizing
+  compl    COMPLEXITY, Complex, Complexity
+  compu    Computation, Computer, Computing
+  const    Constant, Constants, Constraint
+  mecha    Mechanics, Mechanism, Mechanisms
+  multi    Multi, Multiprocessor, Multiverse
+  physi    Physical, Physics, Physiological
+  proto    Proto, Protocol, Protocols
+  syste    System, Systemic, Systems
+  theor    Theoretic, Theories, Theory
+  attra    Attractor, Attractors
+  chaos    CHAOS, Chaos
+  chatg    ChatGPT, ChatGPTCoding
+  corre    Correction, Corrective
+  cosmo    Cosmological, Cosmology
+  criti    Critical, Critiques
+  domai    Domain, Domains
+  emerg    Emergence, Emergent
+  engin    Engineered, Engineering
+  exist    Existence, Existential
+  expla    Explanations, Explanatory
+  frame    Framework, Frameworks
+  gener    Generation, Generative
+  infor    Information, Informational
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Form < Uniform
+  Form < Information
+  Form < Informational
+  Just < Justification
+  Know < KNOWLEDGE
+  LIFE < Life
+  Lett < PhysRevLett
+  Mode < Models
+  Phys < Physics
+  Phys < Physical
+  Phys < PhysRevLett
+  Phys < Metaphysical
+  Phys < Physiological
+  SELF < Self
+  View < Overview
+  CHAOS < Chaos
+  Cross < Across
+  Force < Enforcement
+  Multi < Multiverse

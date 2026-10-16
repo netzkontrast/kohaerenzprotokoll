@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      18
+  typographic marks      11
+  ascii quotes           24
+
+# inflection families -- one term, several surfaces
+  poten    Potential, Potentialis, Potentiality
+  integ    Integration, Integrator
+  logic    Logic, Logics
+  proto    Protocol, Protokoll
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Logic < Logics
+  Logic < Psychological
+  World < Worlds
+  Potential < Potentialis
+  Potential < Potentiality

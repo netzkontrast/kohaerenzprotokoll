@@ -1,0 +1,14 @@
+# konzept-expose-schwarzschild-protokoll-optimierung
+  lines                448  (frontmatter ends at 9)
+  body words           4722
+  headings             39   bold-only lines 0
+  table rows           13   code fences 0
+  question marks       21
+  backslash escapes    55
+  typographic marks    222   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      Psychoanalytisch x3
+  longest line         862 chars
+

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      96
+  typographic marks      37
+  ascii quotes           70
+
+# inflection families -- one term, several surfaces
+  inter    Interface, Internet, Interpretation, Interpretations
+  proof    PROOFS, Proof, Proofs, ProofsArgsAndZK
+  colla    Collaborations, Collaborative, Collapse
+  mecha    Mechanics, Mechanism, Mechanisms
+  proto    Proto, Protocol, Protokoll
+  relat    Relational, Relativistic, Relativity
+  resea    Research, ResearchGate, Researchers
+  archi    Architecture, Archive
+  chara    Character, Characteristics
+  conce    Concepts, Conceptual
+  consc    Conscious, Consciousness
+  coord    Coordinates, Coordination
+  corre    Correlate, Correlates
+  crypt    Cryptocurrency, Cryptographic
+  diale    Dialetheic, Dialetheism
+  dilem    DILEMMAS, Dilemma
+  discu    Discuss, Discussion
+  effic    Efficiency, Efficient
+  emerg    Emergence, Emergent
+  entro    Entropic, Entropy
+  exper    Experience, Experimental
+  funct    Function, Functions
+  illus    Illusion, Illusionism
+  integ    Integral, Integrated
+  intel    Intellectual, Intelligence
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantic
+  Anti < Semantics
+  Anti < Quantifying
+  Bohm < Bohmian
+  Just < Justice
+  Mind < Storymind
+  Post < Posterior
+  Real < Reality
+  Time < Mortimer
+  Wiki < Wikipedia
+  Work < Networks
+  Work < Workspace
+  ZERO < Zero
+  Learn < Learning
+  Light < LetThereBeLight
+  Multi < Multiple
+  Neuro < Neuroimaging
+  Proof < PROOFS
+  Proof < Proofs
+  Proof < ProofsArgsAndZK

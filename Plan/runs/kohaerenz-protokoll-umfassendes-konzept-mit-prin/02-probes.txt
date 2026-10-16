@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      81
+  backslash escapes      0
+  typographic marks      7
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  selbs    Selbstbalancierung, Selbstdifferenzierung, Selbsterhalt, Selbstgestaltung, Selbstorganisation, Selbstähnlichkeit
+  grenz    Grenzbildung, Grenze, Grenzen, Grenzziehung
+  prinz    Prinzip, Prinzipien, Prinzipienmodelle, Prinzipienmodellen
+  reali    Realität, Realitätsebenen, Realitätsmodulation, Realitätsschichten
+  spann    Spannung, Spannungsfeld, Spannungsfelder, Spannungsfeldern
+  syste    System, Systeme, Systemgrenzen, Systems
+  emerg    Emergente, Emergenz, Emergenzzeit
+  energ    Energie, Energiefluss, Energiezufuhr
+  integ    Integration, Integriert, Integrität
+  stabi    Stabile, Stabilisierung, Stabilität
+  struk    Struktur, Strukturen, Strukturerhalt
+  verkö    Verkörpern, Verkörpert, Verkörperung
+  auton    Autonome, Autonomie
+  bedeu    Bedeutung, Bedeutungserzeugung
+  chara    Charaktere, Charakterreise
+  diffe    Differenzierung, Differenzierungsdruck
+  dynam    Dynamik, Dynamische
+  entit    Entität, Entitäten
+  entro    Entropie, Entropiezunahme
+  exist    Existence, Existenz
+  flukt    Fluktuation, Fluktuationen
+  funda    Fundament, Fundamentale
+  handl    Handlung, Handlungsmacht
+  ident    Identität, Identitätserhalt
+  infor    Information, Informiert
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Dieses
+  Eine < Seine
+  Form < Informiert
+  Form < Information
+  Kael < Kaels
+  Raum < Trauma
+  Raum < Nullraum
+  Stil < Stillstand
+  Teil < Teile
+  Welt < Kernwelt
+  Welt < Überwelt
+  Welt < Kernwelten
+  Zeit < Emergenzzeit
+  Ziel < Ziele
+  Ebene < Realitätsebenen
+  Innen < Heldinnenreise
+  Reise < Heldenreise
+  Reise < Charakterreise
+  Reise < Heldinnenreise
+  Roman < Romans

@@ -1,0 +1,68 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll",
+  "drive_id": "1ww7cD5AOXKf0pe_DMxzQ-YnZBRJV4Jug02VhVeuZL8w",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 9,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "dynam": [
+      "Dynamic",
+      "Dynamics"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "persp": [
+      "Perspective",
+      "Perspectives"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potentialmeer"
+    ],
+    "story": [
+      "Story",
+      "Storyform"
+    ],
+    "throu": [
+      "Throughline",
+      "Throughlines"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Story",
+      "Storyform"
+    ],
+    [
+      "Control",
+      "Uncontrolled"
+    ],
+    [
+      "Dynamic",
+      "Dynamics"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Perspective",
+      "Perspectives"
+    ],
+    [
+      "Throughline",
+      "Throughlines"
+    ]
+  ]
+}

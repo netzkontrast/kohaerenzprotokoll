@@ -1,0 +1,14 @@
+# aegis-genesis-krise-konzeptioneller-rahmen
+  lines                934  (frontmatter ends at 9)
+  body words           14623
+  headings             30   bold-only lines 0
+  table rows           42   code fences 0
+  question marks       80
+  backslash escapes    0
+  typographic marks    266   ascii quotes 26
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    228
+  repeated labels      Begründung x7, Enthaltene Themen x7, Relevanz x7
+  longest line         1220 chars
+

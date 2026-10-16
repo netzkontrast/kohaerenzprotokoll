@@ -1,0 +1,134 @@
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Verworfen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Verworfen` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Synthese-Elemente"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Synthese-Elemente` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Finaler Ansatz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Finaler Ansatz` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Monstergruppe"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Monstergruppe` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "M"
+whole word, case-sensitive     46
+whole word, case-insensitive   46
+including compounds            156
+
+`M` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#46]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Kernwelt 1"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelt 1` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Kernwelten"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Kernwelten` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Juna"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            15
+
+`Juna` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#9]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Risse"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            9
+
+`Risse` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#7]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Kapitel 1-13"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 1-13` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Kapitel 14-26"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 14-26` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Kapitel 27-39"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 27-39` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "39-Kapitel-Struktur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`39-Kapitel-Struktur` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "KW4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW4` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "Kernwelt 4"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt 4` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "KW1"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            22
+
+`KW1` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#21]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "KW2"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`KW2` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#14]
+
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plotentwurf --count "KW3"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`KW3` ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:#4]
+
+stance_marker_count = Verworfen (2) + Synthese-Elemente (3) + Finaler Ansatz (1) = 6

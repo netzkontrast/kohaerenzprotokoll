@@ -1,0 +1,110 @@
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Datenpunkt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Datenpunkt` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#8]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Kontext/Analyse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kontext/Analyse` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#8]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Implikation"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Implikation` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#3]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Verstärkung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Verstärkung` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#7]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Rationale"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Rationale` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#5]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Implementierung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Implementierung` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#7]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Nutzeranfrage"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Nutzeranfrage` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#6]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Potentialmeer"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            15
+
+`Potentialmeer` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#11]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Kernkonflikt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernkonflikt` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#3]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Wissensgrenzen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wissensgrenzen` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#2]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Kael/Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael/Juna` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#2]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Juna` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#2]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#0]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#0]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "NZT-Direktive"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`NZT-Direktive` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#2]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "Lovecraftian"
+whole word, case-sensitive     11
+whole word, case-insensitive   13
+including compounds            11
+
+`Lovecraftian` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#11]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "KPs"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`KPs` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#5]
+$ read.py kosmischer-horror-in-kohaerenz-protokoll --count "KP's"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KP's` ^[kosmischer-horror-in-kohaerenz-protokoll.md:#3]
+stance_marker_count: 8+8+3+7+5+7 = 38
+candidates: 59 (capture.py --count; zeros 0)

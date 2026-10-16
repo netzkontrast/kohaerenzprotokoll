@@ -1,0 +1,310 @@
+{
+  "document": "monstergruppe-als-denkmodell-der-komplexitaet",
+  "drive_id": "1nQlfYyDUp2zKX_E5uOWDWOqn_9g7fEWNEa_1mCr7yyk",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 39
+  },
+  "glued_ref_numbers": 175,
+  "backslash_escapes": 78,
+  "typographic_marks": 202,
+  "ascii_quotes": 14,
+  "inflection_families": {
+    "mathe": [
+      "MATHEMATICAL",
+      "Mathematical",
+      "Mathematicians",
+      "Mathematics",
+      "Mathematik",
+      "Mathematiker",
+      "Mathematikern",
+      "Mathematikers",
+      "Mathematisch",
+      "Mathematische",
+      "Mathematischer",
+      "Mathematisches"
+    ],
+    "theor": [
+      "THEORY",
+      "Theorem",
+      "Theorema",
+      "Theorems",
+      "Theoretical",
+      "Theoretische",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theorizing",
+      "Theory"
+    ],
+    "modul": [
+      "Modul",
+      "Modular",
+      "Modularität",
+      "Module",
+      "Modulformen",
+      "Modulfunktion",
+      "Modulfunktionen",
+      "Modulgruppe",
+      "Moduls"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebrechungsmustern",
+      "Symmetriegruppe",
+      "Symmetrien",
+      "SymmetrienGruppen",
+      "Symmetries",
+      "Symmetriestrukturen",
+      "Symmetrische",
+      "Symmetry"
+    ],
+    "monst": [
+      "Monster",
+      "Monstergruppe",
+      "Monstern",
+      "Monsters",
+      "MonstersAndMoonshineByLeBruyn",
+      "MonstersMoonshine",
+      "Monstrous",
+      "MonstrousMoonshine"
+    ],
+    "forsc": [
+      "Forscher",
+      "Forschung",
+      "Forschungsberichts",
+      "Forschungsfragen",
+      "Forschungsgebiet",
+      "Forschungsinstitut",
+      "Forschungsrichtungen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktions",
+      "Interdisciplinary",
+      "Interkonnektivität",
+      "Interne",
+      "Internet"
+    ],
+    "unive": [
+      "Universalität",
+      "Universe",
+      "Universiteit",
+      "University",
+      "Universität",
+      "Universum",
+      "Universums"
+    ],
+    "unter": [
+      "Unter",
+      "Untergruppe",
+      "Untergruppen",
+      "Untergruppenstruktur",
+      "Unternehmungen",
+      "Untersuchung",
+      "Untersuchungen"
+    ],
+    "wisse": [
+      "WISSENSCHAFTLICHES",
+      "Wissen",
+      "Wissens",
+      "Wissensbasen",
+      "Wissenschaft",
+      "Wissensformen",
+      "Wissensgebieten"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenaxiome",
+      "Gruppendarstellungen",
+      "Gruppenfamilien",
+      "Gruppentheorie"
+    ],
+    "infor": [
+      "INFORMATION",
+      "Information",
+      "Informationen",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsverlust"
+    ],
+    "klass": [
+      "Klasse",
+      "Klassifikation",
+      "Klassifikationen",
+      "Klassifikationsliste",
+      "Klassifikationssatz",
+      "Klassifizierung"
+    ],
+    "konze": [
+      "Konzentrieren",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzeptionelle"
+    ],
+    "quant": [
+      "Quanta",
+      "Quantengravitation",
+      "Quantengravitationstheorie",
+      "Quantennatur",
+      "Quantenreich",
+      "Quantisierungen"
+    ],
+    "spora": [
+      "Sporadic",
+      "Sporadics",
+      "Sporadische",
+      "Sporadischen",
+      "Sporadizität",
+      "Sporadizitäten"
+    ],
+    "eleme": [
+      "Element",
+      "Elementarteilchen",
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ],
+    "inspi": [
+      "Inspiration",
+      "Inspirationen",
+      "Inspirationsfelder",
+      "Inspirationsquelle",
+      "Inspirationsquellen"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisationen",
+      "Organisationsformen",
+      "Organisationslogik",
+      "Organisationsprinzipien"
+    ],
+    "reali": [
+      "REALITY",
+      "Realisierung",
+      "Realismus",
+      "Realität",
+      "Realitätssicht"
+    ],
+    "scien": [
+      "Science",
+      "ScienceCommons",
+      "ScienceDaily",
+      "Sciences",
+      "Scientific"
+    ],
+    "syste": [
+      "System",
+      "Systembiologie",
+      "Systeme",
+      "Systemen",
+      "Systems"
+    ],
+    "abstr": [
+      "Abstract",
+      "Abstrakte",
+      "Abstraktheit",
+      "Abstraktionen"
+    ],
+    "algeb": [
+      "ALGEBRA",
+      "Algebra",
+      "Algebras",
+      "Algebren"
+    ],
+    "ausna": [
+      "Ausnahme",
+      "Ausnahmen",
+      "Ausnahmeobjekte",
+      "Ausnahmeobjekten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Quantisierungen"
+    ],
+    [
+      "Arne",
+      "Carnegie"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Textbooks"
+    ],
+    [
+      "Book",
+      "Wikibooks"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Steine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Verfeinerungen"
+    ],
+    [
+      "Eine",
+      "Verallgemeinerung"
+    ],
+    [
+      "Eine",
+      "Verallgemeinerungen"
+    ],
+    [
+      "Ende",
+      "Enden"
+    ],
+    [
+      "Ende",
+      "Verwenden"
+    ],
+    [
+      "Ende",
+      "Alternierende"
+    ],
+    [
+      "Ende",
+      "Faszinierendem"
+    ],
+    [
+      "Ende",
+      "Transzendenten"
+    ],
+    [
+      "Ende",
+      "Überwältigendem"
+    ]
+  ]
+}

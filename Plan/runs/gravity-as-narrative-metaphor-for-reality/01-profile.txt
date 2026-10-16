@@ -1,0 +1,14 @@
+# gravity-as-narrative-metaphor-for-reality
+  lines                594  (frontmatter ends at 9)
+  body words           6664
+  headings             53   bold-only lines 0
+  table rows           30   code fences 0
+  question marks       15
+  backslash escapes    177
+  typographic marks    39   ascii quotes 238
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    69
+  repeated labels      Narrative Insight x9
+  longest line         791 chars
+

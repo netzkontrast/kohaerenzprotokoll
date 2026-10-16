@@ -1,0 +1,133 @@
+{
+  "document": "kapitel-eins-1-kohaerenz-protokoll",
+  "drive_id": "12d4x94Vu7XU0HO6UqS2x3mFGLG696QV9AbVX5HrZQa8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one chapter reading (Kap 1) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-395/brief.md, 2026-10-12; no record entries",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 26,
+    "decisions": 26,
+    "decided_by_lookup": 25,
+    "needs_judgement": 1
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German prose draft of Kapitel Eins: its new surfaces are the draft's own places and phrases; what it narrates of Kael, Juna, LogOS, AEGIS, the Konstrukt-Stadt, entropy and the Riss went on existing pages, and the draft on Kap 1.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        65,
+        71,
+        91
+      ],
+      "attribution": "",
+      "note": "AEGIS present, erasing and sensing"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        71,
+        81,
+        83
+      ],
+      "attribution": "",
+      "note": "Entropie as the forbidden organic form, and entropic anomalies erased"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        33,
+        35,
+        37,
+        43,
+        49,
+        51
+      ],
+      "attribution": "",
+      "note": "Juna as an image on the wall"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        27,
+        29,
+        39,
+        47,
+        85,
+        95,
+        97
+      ],
+      "attribution": "",
+      "note": "Kael waking, suppressing and translating the anomaly"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        61,
+        67,
+        69
+      ],
+      "attribution": "",
+      "note": "The Konstrukt-Stadt as corridor and outer world"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        43,
+        47,
+        65,
+        89
+      ],
+      "attribution": "",
+      "note": "LogOS as the word that strikes and as infallible"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        77,
+        87,
+        93
+      ],
+      "attribution": "",
+      "note": "A Riss in the corridor, and Risse inside Kael"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Komponente` names no number, not Komponente 734",
+  "sweep": [
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 87,
+      "decision": "reading",
+      "why": "the inner voice naming the Riss a glitch, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Logische Korrektur, Systeminterferenz, Transitkorridor, Zuteilungs-Hub and the draft's other places",
+    "Uncanny Valley"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

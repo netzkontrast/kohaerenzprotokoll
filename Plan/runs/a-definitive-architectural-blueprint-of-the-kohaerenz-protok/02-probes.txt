@@ -1,0 +1,45 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      80
+  typographic marks      10
+  ascii quotes           96
+
+# inflection families -- one term, several surfaces
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation
+  archi    Archipel, Architectural, Architecture
+  logic    Logic, Logical, Logics
+  alter    Alter, Alters
+  defin    Definition, Definitive
+  emerg    Emergence, Emergent
+  funct    Function, Functional
+  groun    Ground, Grounded
+  kernw    Kernwelt, Kernwelten
+  parad    Paradox, Paradoxon
+  perso    Personality, Personifies
+  poten    Potential, Potentialis
+  proto    Protocol, Protokoll
+  syste    System, Systemic
+  trans    Transcendence, Transformation
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Here < Coherence
+  Uses < Focuses
+  Alter < Alters
+  Logic < Logics
+  Logic < Logical
+  Logic < Ontological
+  Logic < Psychological
+  World < Worlds
+  Ground < Grounded
+  System < Systemic
+  Thesis < Synthesis
+  Thesis < Antithesis
+  Logical < Ontological
+  Logical < Psychological
+  Paradox < Paradoxon
+  Function < Functional
+  Kernwelt < Kernwelten
+  Kohärenz < Inkohärenz
+  Potential < Potentialis

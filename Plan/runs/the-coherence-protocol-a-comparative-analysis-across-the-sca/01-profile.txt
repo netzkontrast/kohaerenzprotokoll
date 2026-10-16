@@ -1,0 +1,14 @@
+# the-coherence-protocol-a-comparative-analysis-across-the-sca
+  lines                178  (frontmatter ends at 9)
+  body words           2672
+  headings             26   bold-only lines 6
+  table rows           28   code fences 0
+  question marks       0
+  backslash escapes    92
+  typographic marks    8   ascii quotes 84
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1180 chars
+

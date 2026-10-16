@@ -1,0 +1,181 @@
+{
+  "document": "the-true-coherence-protocol-architecting-kaels-journey-from",
+  "drive_id": "1Wa1Y0wba_VZOYWXzXsjBxqQS48UAdkATMfJY-x8326o",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 64,
+    "decided_by_lookup": 53,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        62,
+        66,
+        68,
+        80
+      ],
+      "attribution": "",
+      "note": "AEGIS as an externalized perpetrator introject that the protocol maps Kael's journey against"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        38,
+        97
+      ],
+      "attribution": "",
+      "note": "Alex as the aggressive protector who fails in the Cerberus-Labyrinth"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        15,
+        116,
+        117,
+        118
+      ],
+      "attribution": "",
+      "note": "the Alters as adaptive functions mapped to the Heroine's Journey"
+    },
+    {
+      "page": "did",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Kael's psyche modelled as a case of Dissociative Identity Disorder"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        128,
+        134
+      ],
+      "attribution": "",
+      "note": "Juna/V as a catalyst, not a saviour"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        36,
+        76,
+        112,
+        122,
+        150
+      ],
+      "attribution": "",
+      "note": "Kael's healing as the engine of the plot, mapped from TSDP fragmentation to functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        76,
+        80,
+        87,
+        94,
+        101
+      ],
+      "attribution": "",
+      "note": "four Core Worlds as allegorical landscapes of four stages"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        40,
+        90
+      ],
+      "attribution": "",
+      "note": "Kiko as the Freeze response and holder of the original terror"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        37,
+        83,
+        104
+      ],
+      "attribution": "",
+      "note": "Lex as the system's analyst, dominant in Logos-Prime"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "Lia as the Flight response"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        132
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a sub-protocollar channel outside AEGIS's framework"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        39,
+        104
+      ],
+      "attribution": "",
+      "note": "Nyx as the Fight response and holder of the system's rage"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27,
+        29,
+        148
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical frame aligned with the Heroine's Journey"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 27,
+      "decision": "reading",
+      "why": "Tertiary Dissoziation as DID, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

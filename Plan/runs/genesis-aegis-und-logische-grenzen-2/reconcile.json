@@ -1,0 +1,57 @@
+{
+  "document": "genesis-aegis-und-logische-grenzen-2",
+  "drive_id": "1T33e4gNXDlKegrIGQPLYWSoN68rCdz1UCKTxebGMP7c",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a version of document 323 (Plan/runs/ingest-326/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 58,
+    "decisions": 62,
+    "decided_by_lookup": 48,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A longer version of the Genesis prose draft read as document 323, the same scenes, beats and logs; nothing a page does not already hold from document 323.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a longer version of the Genesis prose draft (document 323), light pass: every near match — the noise and its inflections, the perspective labels, Komponente 734 and its English and German spellings, the anomaly, the log lines, the echo — is decided as for document 323, and no page is read",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "a longer version of document 323; light pass"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "a longer version of document 323; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything new to the index, as for document 323"
+  ],
+  "internal_tension": "as in document 323: the commentary names Kael before the scene that names him (L129, L363); its bracketed Insight and Outline tags are unexplained",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

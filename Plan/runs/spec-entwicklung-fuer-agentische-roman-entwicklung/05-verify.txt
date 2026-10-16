@@ -1,0 +1,135 @@
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Akzeptiert"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Akzeptiert` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#8]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Falsifikations-Test"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Falsifikations-Test` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#2]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Verworfene Alternativen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Verworfene Alternativen` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#2]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Evaluierungsblock"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Evaluierungsblock` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#6]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Coherence-Invarianten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Coherence-Invarianten` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#2]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Storyforming"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Storyforming` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#4]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Story Encoding"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Story Encoding` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#1]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Story Weaving"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Story Weaving` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#2]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Story Reception"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Story Reception` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#1]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Q2"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Q2` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#0]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#0]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kapitel` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#0]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#0]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kohärenz` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#2]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Status"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Status` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#8]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Entscheidung"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`Entscheidung` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#8]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "Erwogene Optionen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Erwogene Optionen` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#3]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "BLOCKER"
+whole word, case-sensitive     11
+whole word, case-insensitive   12
+including compounds            11
+
+`BLOCKER` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#11]
+
+$ python3 scripts/read.py spec-entwicklung-fuer-agentische-roman-entwicklung --count "WARNING"
+whole word, case-sensitive     7
+whole word, case-insensitive   8
+including compounds            7
+
+`WARNING` ^[spec-entwicklung-fuer-agentische-roman-entwicklung.md:#7]
+
+stance_marker_count 12 = Akzeptiert 8 + Falsifikations-Test 2 + Verworfene Alternativen 2 (counts above, whole word)
+$ grep -c "ADR-0[1-8]:" Sources/drive/spec-entwicklung-fuer-agentische-roman-entwicklung.md -> 8

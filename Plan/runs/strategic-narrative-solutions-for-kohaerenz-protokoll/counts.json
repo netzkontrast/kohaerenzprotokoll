@@ -1,0 +1,554 @@
+{
+  "document": "strategic-narrative-solutions-for-kohaerenz-protokoll",
+  "drive_id": "1896LH5qnWg6X0tsRE7xS7NwmMvpF5c1COnLdyY6bk0I",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Risse": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        17,
+        21,
+        43
+      ]
+    },
+    "Riss": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        30,
+        38,
+        43,
+        51,
+        58
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        58
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        63
+      ]
+    },
+    "Kael": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        17,
+        21,
+        27,
+        29,
+        34,
+        39,
+        40,
+        41,
+        43,
+        47,
+        51,
+        57,
+        58,
+        59,
+        63,
+        65,
+        95,
+        99,
+        101,
+        103,
+        107,
+        111,
+        115,
+        118,
+        120
+      ]
+    },
+    "AEGIS": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        21,
+        51,
+        59,
+        67,
+        71,
+        75,
+        95,
+        103,
+        111,
+        117
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        29,
+        39
+      ]
+    },
+    "Kiko": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        40
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        39,
+        41,
+        57
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        57
+      ]
+    },
+    "Moros": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        59,
+        75,
+        113,
+        115
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        117
+      ]
+    },
+    "Gardener": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        71,
+        95
+      ]
+    },
+    "Genesis Log": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        83
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        83
+      ]
+    },
+    "Component 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        87
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "The Foundation": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        105,
+        107,
+        109,
+        110,
+        111
+      ]
+    },
+    "Protokoll-Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        103,
+        124
+      ]
+    },
+    "self-protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        29,
+        39,
+        40
+      ]
+    },
+    "coherence failure": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        29,
+        30
+      ]
+    },
+    "ANP-EP Phobia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Emotional Personality part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Apparently Normal Personality part": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        51
+      ]
+    },
+    "EP": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        28,
+        29,
+        30,
+        38,
+        65,
+        103
+      ]
+    },
+    "ANP": {
+      "n": 4,
+      "n_including_compounds": 10,
+      "lines": [
+        29,
+        40,
+        41,
+        51,
+        57,
+        63,
+        65,
+        103
+      ]
+    },
+    "ANPs": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        51,
+        63,
+        65,
+        103
+      ]
+    },
+    "Fight": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        39
+      ]
+    },
+    "Freeze": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        40
+      ]
+    },
+    "Kampf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Erstarrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Total Shutdown System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "bindungsruf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "dialetheic mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        118
+      ]
+    },
+    "high-Φ": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111
+      ]
+    },
+    "zombie system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Psychological Degradation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "External World Decay": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Relational Erosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "cyclical structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "epistemological blindness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        71
+      ]
+    },
+    "Psycho-Ontological Resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "reboot": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        57,
+        58,
+        59
+      ]
+    },
+    "weeds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        30,
+        38
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "gnosis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118
+      ]
+    },
+    "episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        89
+      ]
+    },
+    "sehnsucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    }
+  }
+}

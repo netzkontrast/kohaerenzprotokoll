@@ -1,0 +1,711 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept",
+  "drive_id": "12IT3YD9eFb6k9ik_M4ujLgCVGhy7TZqoKA3UrYSk2AM",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        86,
+        104
+      ]
+    },
+    "AEGIS": {
+      "n": 21,
+      "n_including_compounds": 26,
+      "lines": [
+        23,
+        24,
+        36,
+        37,
+        38,
+        47,
+        56,
+        65,
+        69,
+        70,
+        72,
+        79,
+        84,
+        96,
+        101,
+        102
+      ]
+    },
+    "Potentialmeer": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        23,
+        37,
+        65,
+        77,
+        83,
+        87,
+        101,
+        102
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        25,
+        78
+      ]
+    },
+    "Kernwelt-Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Guardian": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        30,
+        31,
+        32,
+        73
+      ]
+    },
+    "Architekt": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        73,
+        79
+      ]
+    },
+    "Netzweber": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        73
+      ]
+    },
+    "Chaos-Regulator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        73
+      ]
+    },
+    "Möglichkeits-Weber": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        73
+      ]
+    },
+    "Kael": {
+      "n": 16,
+      "n_including_compounds": 23,
+      "lines": [
+        24,
+        25,
+        36,
+        38,
+        46,
+        65,
+        69,
+        70,
+        71,
+        72,
+        73,
+        78,
+        85,
+        86,
+        96,
+        102
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        71,
+        102
+      ]
+    },
+    "M": {
+      "n": 18,
+      "n_including_compounds": 61,
+      "lines": [
+        15,
+        24,
+        25,
+        30,
+        31,
+        32,
+        36,
+        37,
+        38,
+        42,
+        47,
+        56,
+        65,
+        69,
+        70,
+        71,
+        72,
+        73,
+        77,
+        78,
+        81,
+        83,
+        84,
+        85,
+        86,
+        88,
+        96,
+        100,
+        101,
+        102
+      ]
+    },
+    "Die Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Kael/M": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        65,
+        69,
+        102
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        36,
+        38,
+        47,
+        56,
+        70,
+        83,
+        100
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        83
+      ]
+    },
+    "Monstergruppe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        72,
+        83
+      ]
+    },
+    "Subquotienten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Co₁": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        29,
+        47,
+        78,
+        100
+      ]
+    },
+    "McL": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        30,
+        78,
+        100,
+        101
+      ]
+    },
+    "B": {
+      "n": 2,
+      "n_including_compounds": 19,
+      "lines": [
+        30,
+        31,
+        47,
+        56,
+        69,
+        78,
+        84,
+        85,
+        88,
+        92,
+        96,
+        100,
+        101
+      ]
+    },
+    "Ly": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        78,
+        84,
+        101
+      ]
+    },
+    "Baby Monster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "B-Welt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        101
+      ]
+    },
+    "Ly-Welt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        101
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        84
+      ]
+    },
+    "Kerntrauma": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        88
+      ]
+    },
+    "Kernwunde": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Cache Kohärenz Metapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Cache Kohärenz Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Cache-Konflikte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Cache": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        56,
+        86,
+        100,
+        101
+      ]
+    },
+    "Labor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "AEGIS' System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        79
+      ]
+    },
+    "Rissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Wächterin": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        100,
+        101
+      ]
+    },
+    "Selbst": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        56,
+        70,
+        84,
+        101,
+        102
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        85
+      ]
+    },
+    "DID": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        69,
+        85
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        100
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        102
+      ]
+    },
+    "Zyklischer Erzählstil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Kapitelübersicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Jetzt-Raum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Bunker": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        88,
+        100
+      ]
+    },
+    "Kissen/Gelb": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Scherben/Mosaik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        88,
+        100
+      ]
+    },
+    "Garten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        88,
+        100
+      ]
+    },
+    "Infiltration AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "AEGIS-Sabotage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "AEGIS-Abwehr": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "AEGIS-Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Verrat/Fragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Kollaps der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Echo der Kernwunde": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Tod des alten Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Transformation Kael/M": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Exodus ins Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        102
+      ]
+    },
+    "Neue Ordnung im Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Finale Resonanz/Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Gödel'sche Sätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Quanten-Nichtlokalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Entropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        83
+      ]
+    },
+    "Reduktionismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Holismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        70,
+        72,
+        84
+      ]
+    },
+    "Emergenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        38,
+        84
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "IFS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        85,
+        100
+      ]
+    },
+    "NET-Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Jung'scher Schatten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Quantenschaum-Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Schiff des Theseus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Potentialität & Aktualität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    }
+  }
+}

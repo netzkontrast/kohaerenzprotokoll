@@ -1,0 +1,1292 @@
+{
+  "document": "paradoxien-der-kohaerenz-protokoll-entwicklung",
+  "drive_id": "1iQn5RvKgUNcyGfDJqH4C7Ao7yFhnJOqSnCG8SI-PbXA",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 222,
+      "n_including_compounds": 227,
+      "lines": [
+        19,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        40,
+        41,
+        43,
+        44,
+        45,
+        46,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        58,
+        59,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        74,
+        76,
+        82,
+        83,
+        85,
+        86,
+        101,
+        102,
+        104,
+        105,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        128,
+        135,
+        140,
+        145,
+        150,
+        155,
+        160,
+        165,
+        170,
+        175,
+        180,
+        190,
+        191,
+        192,
+        193,
+        197,
+        208,
+        222,
+        223,
+        225,
+        230,
+        234,
+        246,
+        247,
+        248,
+        249,
+        258,
+        259,
+        260,
+        261,
+        270,
+        271,
+        282,
+        284,
+        285,
+        294,
+        295,
+        296,
+        297,
+        308,
+        309,
+        311,
+        317,
+        320,
+        324,
+        326,
+        328,
+        331,
+        332,
+        333,
+        343,
+        344,
+        347,
+        349,
+        351,
+        352,
+        354,
+        355,
+        357,
+        359,
+        361,
+        362,
+        365,
+        366,
+        368,
+        369,
+        371,
+        372,
+        374,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        387,
+        389,
+        391,
+        393
+      ]
+    },
+    "Kael": {
+      "n": 71,
+      "n_including_compounds": 91,
+      "lines": [
+        19,
+        38,
+        43,
+        44,
+        50,
+        54,
+        55,
+        56,
+        57,
+        58,
+        70,
+        97,
+        117,
+        118,
+        122,
+        128,
+        135,
+        150,
+        155,
+        160,
+        165,
+        170,
+        175,
+        180,
+        222,
+        223,
+        225,
+        235,
+        237,
+        249,
+        258,
+        259,
+        261,
+        271,
+        272,
+        273,
+        278,
+        295,
+        296,
+        297,
+        311,
+        326,
+        332,
+        333,
+        343,
+        346,
+        349,
+        351,
+        352,
+        358,
+        362,
+        366,
+        367,
+        371,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        381,
+        382,
+        387,
+        391,
+        393
+      ]
+    },
+    "Julia": {
+      "n": 18,
+      "n_including_compounds": 24,
+      "lines": [
+        19,
+        43,
+        50,
+        55,
+        56,
+        58,
+        128,
+        150,
+        160,
+        165,
+        170,
+        180,
+        272,
+        284,
+        290,
+        311,
+        346,
+        362,
+        367,
+        373,
+        382,
+        387,
+        391
+      ]
+    },
+    "K-J-Einheit": {
+      "n": 75,
+      "n_including_compounds": 75,
+      "lines": [
+        33,
+        34,
+        37,
+        38,
+        40,
+        41,
+        44,
+        45,
+        48,
+        49,
+        51,
+        52,
+        57,
+        59,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        84,
+        85,
+        86,
+        96,
+        102,
+        103,
+        105,
+        116,
+        117,
+        118,
+        121,
+        135,
+        140,
+        145,
+        150,
+        155,
+        160,
+        165,
+        170,
+        175,
+        180,
+        190,
+        191,
+        192,
+        193,
+        197,
+        208,
+        235,
+        237,
+        308,
+        309,
+        318,
+        328,
+        330,
+        333,
+        365,
+        380
+      ]
+    },
+    "Kael-Julia-Einheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        387,
+        391
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        145,
+        223,
+        261,
+        285,
+        290,
+        311,
+        329,
+        353,
+        362,
+        369
+      ]
+    },
+    "K-J-Echos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        135,
+        350
+      ]
+    },
+    "Julia/K-J-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        290
+      ]
+    },
+    "Kael/Anteile": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        273,
+        278
+      ]
+    },
+    "Kael's Anteile": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        97,
+        261,
+        271,
+        346,
+        358
+      ]
+    },
+    "Anteile": {
+      "n": 15,
+      "n_including_compounds": 20,
+      "lines": [
+        44,
+        54,
+        55,
+        57,
+        97,
+        155,
+        180,
+        258,
+        259,
+        261,
+        271,
+        273,
+        278,
+        282,
+        285,
+        346,
+        358,
+        366
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        282
+      ]
+    },
+    "Potentialmeer": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        39,
+        41,
+        47,
+        48,
+        74,
+        83,
+        96,
+        135,
+        218,
+        282,
+        284,
+        312,
+        378,
+        382
+      ]
+    },
+    "Kohärenz-Inseln": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        218,
+        222,
+        294
+      ]
+    },
+    "Überwelt": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        47,
+        237,
+        242,
+        273,
+        324,
+        344,
+        350,
+        354,
+        359,
+        363,
+        376,
+        379
+      ]
+    },
+    "Kernwelten": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        42,
+        57,
+        150,
+        165,
+        237,
+        248,
+        249,
+        254,
+        270,
+        271,
+        282,
+        312,
+        324,
+        357,
+        371,
+        374
+      ]
+    },
+    "Kern-Welt": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        343,
+        345,
+        347,
+        348,
+        349,
+        351,
+        353,
+        357,
+        361
+      ]
+    },
+    "Guardians": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        53,
+        97,
+        135,
+        155,
+        160,
+        165,
+        237,
+        261,
+        266,
+        285,
+        325,
+        352,
+        364,
+        375
+      ]
+    },
+    "Integrity Guardian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Kern-Direktive": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        32,
+        66,
+        76,
+        82,
+        114,
+        140,
+        160,
+        180,
+        230,
+        234,
+        308,
+        333,
+        344,
+        389
+      ]
+    },
+    "OBP": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        135,
+        140,
+        145,
+        150,
+        165,
+        234,
+        236,
+        258,
+        294,
+        329,
+        344,
+        348,
+        357
+      ]
+    },
+    "Ontological Boundary Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        329
+      ]
+    },
+    "RIVE": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        135,
+        234,
+        236,
+        270,
+        330,
+        348,
+        360,
+        363
+      ]
+    },
+    "Recursive Integrity & Validation Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        330
+      ]
+    },
+    "PMAS": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        135,
+        165,
+        234,
+        236,
+        270,
+        350,
+        368
+      ]
+    },
+    "SARM": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        155,
+        234,
+        236,
+        258,
+        355,
+        359,
+        368
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        294
+      ]
+    },
+    "Entropic Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Entropie-Katastrophe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        145,
+        160,
+        369
+      ]
+    },
+    "Gleichzeitigkeit": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        19,
+        42,
+        47,
+        170,
+        175,
+        208,
+        223,
+        225,
+        332,
+        378,
+        382,
+        393
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        290
+      ]
+    },
+    "Externen Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        294
+      ]
+    },
+    "AEGIS Core Logic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        355,
+        365,
+        377
+      ]
+    },
+    "v1.5": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        55,
+        180,
+        230,
+        234,
+        368
+      ]
+    },
+    "DID": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        57,
+        258,
+        262,
+        282,
+        286,
+        343,
+        347,
+        358
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        150,
+        165,
+        260
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        13,
+        17,
+        184,
+        208,
+        210,
+        212,
+        234,
+        337,
+        387
+      ]
+    },
+    "Kohärenz Protokollen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Kohärente Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        385
+      ]
+    },
+    "Kohärenz-Maximierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Sein durch Abgrenzung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        84
+      ]
+    },
+    "Transzendenz durch Vereinigung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        63
+      ]
+    },
+    "Plot-Twist": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        19,
+        63
+      ]
+    },
+    "Kern-Plot-Twist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Kern-Paradoxon-Cluster": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        186,
+        188,
+        208,
+        302,
+        304,
+        337,
+        380
+      ]
+    },
+    "Kern-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 8,
+      "lines": [
+        186,
+        188,
+        195,
+        208,
+        302,
+        304,
+        337,
+        380
+      ]
+    },
+    "Russell/Gödel-Grenze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        190,
+        197
+      ]
+    },
+    "Sorites/Mereologie": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        191,
+        197,
+        304,
+        387
+      ]
+    },
+    "Maxwell/Landauer": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        102,
+        192,
+        197,
+        304,
+        369,
+        387
+      ]
+    },
+    "Kontrollparadox": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        197,
+        308,
+        355,
+        363,
+        391
+      ]
+    },
+    "Paradox der verbundenen Einsamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Erweiterter Kontext": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        258,
+        270,
+        272,
+        282,
+        294,
+        345
+      ]
+    },
+    "Erweiterten Kontext": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        113,
+        132
+      ]
+    },
+    "Russell's Antinomie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        66,
+        114,
+        137
+      ]
+    },
+    "Lügner-Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        66
+      ]
+    },
+    "Curry's Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31
+      ]
+    },
+    "Berry-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Grelling-Nelson-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Halting Problem": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        36,
+        65,
+        101,
+        204,
+        238,
+        327
+      ]
+    },
+    "Maxwells Dämon": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        37,
+        67,
+        115,
+        142,
+        145,
+        354
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        115,
+        142,
+        234,
+        359
+      ]
+    },
+    "Maxwells Dämon / Landauer-Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        142
+      ]
+    },
+    "Deterministisches Chaos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Loschmidts Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        94
+      ]
+    },
+    "Gibbs-Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        67
+      ]
+    },
+    "Informationsparadoxon Schwarzer Löcher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Zenons Paradoxien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        94
+      ]
+    },
+    "Sorites-Paradox": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        43,
+        68,
+        116,
+        147,
+        353
+      ]
+    },
+    "Mereologie": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        44,
+        68,
+        84,
+        103,
+        117,
+        152,
+        191,
+        197,
+        304,
+        308,
+        357,
+        366,
+        387
+      ]
+    },
+    "Special Composition Question": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        117,
+        152
+      ]
+    },
+    "Mereologie / Special Composition Question": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Parmenides' Diktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "McTaggarts Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        94
+      ]
+    },
+    "Beobachtereffekt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        96
+      ]
+    },
+    "Heisenbergsche Unschärferelation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Double Bind": {
+      "n": 24,
+      "n_including_compounds": 25,
+      "lines": [
+        50,
+        69,
+        85,
+        104,
+        118,
+        157,
+        160,
+        193,
+        197,
+        304,
+        308,
+        311,
+        327,
+        352,
+        358,
+        365,
+        387,
+        391,
+        399
+      ]
+    },
+    "Paradoxien der Kontrolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        69
+      ]
+    },
+    "Paradox der Kontrolle": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        69,
+        119,
+        162,
+        193,
+        352,
+        361
+      ]
+    },
+    "Ikarus-Paradox": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        317,
+        368
+      ]
+    },
+    "Abilene-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "System Justification Theory Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Theseus' Schiff": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        70,
+        122,
+        177,
+        367
+      ]
+    },
+    "Theseus' Schiff / Identitätsparadoxien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        177
+      ]
+    },
+    "Teletransporter-Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        70
+      ]
+    },
+    "Split-Brain-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Chinesisches Zimmer": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        58,
+        86,
+        105,
+        120,
+        167,
+        170,
+        192,
+        197,
+        238,
+        308,
+        324,
+        364
+      ]
+    },
+    "Hard Problem of Consciousness": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        59,
+        70,
+        121,
+        172,
+        298,
+        399
+      ]
+    },
+    "Qualia": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        59,
+        70,
+        174,
+        175,
+        192,
+        197,
+        346,
+        362
+      ]
+    },
+    "Ashby's Law": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        165,
+        272,
+        274,
+        345,
+        364
+      ]
+    },
+    "Ashby's Law of Requisite Variety": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Autopoiesis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        234,
+        238,
+        344,
+        379,
+        389
+      ]
+    },
+    "Kybernetik": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        238,
+        274,
+        343,
+        372
+      ]
+    },
+    "Komplexe Adaptive Systeme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        238
+      ]
+    },
+    "Kolmogorov-Komplexität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Informationsthermodynamik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        234,
+        354
+      ]
+    },
+    "Paradox of the Court": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    }
+  }
+}

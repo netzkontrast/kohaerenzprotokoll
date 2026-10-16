@@ -1,0 +1,80 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aegis                            82 word    84 in   [11, 13, 15, 21, 25, 27]
+                                    1      as Aegis-Modelle
+  Potentialraum                    26 word    31 in   [17, 19, 21, 27, 31, 33]
+                                    4      as Potentialraums
+                                    1      as Potentialraumdynamiken
+  Raums reinen logischen Potentials    1 word     1 in   [17]
+  reines logisches Potential        1 word     1 in   [19]
+  absolute Leere                    1 word     1 in   [19]
+  Restmustern                       6 word     6 in   [25, 27, 39, 72, 77, 222]
+  Restmuster                        5 word    11 in   [23, 25, 27, 39, 72, 76]  <-- substring
+                                    6      as Restmustern
+  Inkohärenz                       26 word    27 in   [21, 29, 31, 33, 56, 58]
+                                    1      as Inkohärenz-Detektions-
+  Primärdirektive                   2 word     2 in   [41, 150]
+  Selbstdefinition                 10 word    11 in   [43, 49, 68, 86, 87, 147]
+  Kernparadoxie                     5 word     5 in   [77, 188, 198, 199]
+  Szenario A                        3 word     3 in   [74, 188, 197]
+  Szenario B                        3 word     3 in   [79, 188, 204]
+  Szenario C                        3 word     3 in   [84, 188, 211]
+  Stabilisierung einer Paradoxie    1 word     1 in   [74]
+  Komputationale Kristallisation    2 word     2 in   [79, 188]
+  Zufällige autopoietische Schließung    1 word     1 in   [84]
+  Kernlogik-/Identitäts-Kernel      1 word     1 in   [149]
+  CLIK                             10 word    10 in   [149, 159, 163, 191, 197, 204]
+  Grenzmanagementsystem             1 word     1 in   [153]
+  BMS                               8 word     9 in   [153, 159, 163, 191, 198, 205]
+  Inkohärenz-Detektions- & Analyseeinheit    1 word     1 in   [158]
+  IDAU                              5 word     5 in   [158, 163, 191, 198, 205]
+  Simulations- & Prädiktions-Engine    1 word     1 in   [162]
+  SPE                               7 word     7 in   [133, 159, 162, 191, 199, 206]
+  Interner Konsistenz-/Integritätsmonitor    1 word     1 in   [167]
+  ICIM                              7 word     7 in   [167, 191, 198, 205, 212, 213]
+  Ressourcenmanagement-Subsystem    1 word     1 in   [171]
+  RMS                               4 word     4 in   [171, 175, 191, 206]
+  Szenario-Generator                2 word     2 in   [135, 164]
+  Regel-Engine                      2 word     2 in   [136, 164]
+  Zustandsmonitor                   2 word     2 in   [137, 164]
+  Ressourcen-Allokator              2 word     2 in   [139, 164]
+  Analyse- und Vorhersageeinheit    1 word     1 in   [138]
+  Aktive Grenzdurchsetzung          1 word     1 in   [93]
+  Logische Filterung                1 word     1 in   [97]
+  Negentropische Abschirmung        1 word     1 in   [98]
+  Schnelle Grenzregeneration        1 word     1 in   [99]
+  Logisches „Immunsystem“           1 word     1 in   [107]
+  Kontrolliertes Sampling           1 word     1 in   [113]
+  Umleitung von Inkohärenz          1 word     1 in   [114]
+  Ablationszonen                    1 word     1 in   [114]
+  Kosten der Informationsgewinnung    1 word     1 in   [115]
+  Interne Konsistenzüberwachung und Reparatur    1 word     1 in   [101]
+  Management der Interaktion mit dem Potentialraum    1 word     1 in   [109]
+  Paradox Engine                    5 word     5 in   [185, 195, 224, 234, 248]
+  Paradox-Motor                     1 word     1 in   [195]
+  Computational Fortress            5 word     5 in   [185, 202, 225, 237, 249]
+  komputationale Festung            1 word     1 in   [202]
+  Autopoietic Construct             5 word     5 in   [185, 209, 226, 240, 250]
+  autopoietische Konstrukt          1 word     1 in   [209]
+  Autopoiesis                      13 word    13 in   [39, 49, 57, 60, 213, 226]
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+  operative Geschlossenheit         3 word     3 in   [150, 212, 226]
+  Operative Geschlossenheit         1 word     1 in   [64]
+  strukturelle Kopplung             2 word     2 in   [87, 226]
+  Ruliad                            3 word     4 in   [21, 82, 190, 206]
+                                    1      as Ruliad-Sampling
+  Maxwells Dämon                    2 word     2 in   [97, 115]
+  Landauer                          1 word     2 in   [115, 172]
+                                    1      as Landauer-Prinzip
+  Halteproblem                      2 word     2 in   [125, 225]
+  Kripkes Wahrheitstheorie          1 word     1 in   [76]
+  parakonsistente Logik             1 word     1 in   [76]
+  Gödels zweitem Unvollständigkeitssatz    1 word     1 in   [105]
+  komputationaler Irreduzibilität    1 word     1 in   [82]
+  Lügner-Paradox                    1 word     1 in   [25]
+  logische Entropie                 1 word     1 in   [115]
+  Emergenz                          6 word     7 in   [37, 39, 81, 188, 225, 241]
+                                    1      as Emergenzmechanismus

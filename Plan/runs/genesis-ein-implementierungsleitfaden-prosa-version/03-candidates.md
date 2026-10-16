@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations while reading (L10 to L558): the document is a German implementation guide ("Regiebuch") for formulating a 13-scene outline called Genesis in prose. The Ich is the narrative voice of an emerging consciousness that becomes Kael; AEGIS is a functional system with a cold, technical voice. Part 3 is announced as illustrative content, since the deep research was not carried out. The scene sections repeat template field labels (goal, perspective, mood, directives, techniques, beats); these are the template and not listed. Theory concepts from philosophy of mind, systems theory, trauma theory and narrative craft are applied to the world and listed under lens. A reference to a person who formulated one of the lens concepts stands in the text and is not listed. Scene sample sentences are diction of the two voices. The compound Szene numbers are left out; the scenes are listed by their titles.
+
+- Genesis
+- Ich
+- AEGIS
+- Kael
+- Komponente 734
+- Nichts Rauschen
+- Rauschen
+- Echo
+- Resonanz
+- Dissonanz
+- Mosaik
+- Mosaik-Identität
+- Direktive 0
+- Kernprotokoll
+- Kohärenz Protokoll Gamma-Exekution
+- Protokoll Gamma-Exekution
+- Diagnosezyklus Delta-Gamma
+- Simulation Epsilon-7
+- Simulation Epsilon-Prime
+- Simulation Omega-Prime
+- Algorithmus Sigma-7
+- Abwehralgorithmus V.3.2
+- Sektor Gamma-3
+- Überwelt
+- Überwelt-Subsystem
+- logischen Konstruktraum
+- Strukturelle Anomalien
+- Alarmstufe Rot
+- Kernwelten
+- Klick
+- Hybris
+- Qualia
+- Systemkohärenz
+- Systemintegrität
+- Funktionalisierung
+- Eliminierung
+- Ich-Perspektive
+- AEGIS-Perspektive
+- Regiebuch
+- Sensorisches Lexikon
+- Technisches Glossar
+- Stylistic Contrast Summary
+- Der Funke im Nichts
+- Flüchtige Resonanzen
+- Der Keim der Ordnung
+- Die Geburt von AEGIS
+- Systemdiagnose: Stille im Kern
+- Die Überwelt: Simulation der Ordnung
+- Grenzen der Simulation: Das Unmodellierbare
+- Die Ankunft und die Resonanz
+- Simulation des Paradoxons: Systemfehler
+- Das Erwachen und die Dissonanz
+- Die Zerstückelung
+- Dämmerung in Scherben
+- DAS ERWACHEN IM RAUSCHEN
+- AEGIS - DIE FESTUNG DER LOGIK
+- DIE KRISE UND DIE SCHERBEN
+
+## lens
+
+- Schwierige Problem des Bewusstseins
+- Hard Problem of Consciousness
+- Erklärungslücke
+- philosophischen Zombies
+- Existenzialismus
+- Authentizität
+- Intentionalität
+- Systemtheorie
+- Kybernetik
+- Autopoiesis
+- Homöostase
+- Feedbackschleifen
+- Traumatheorie
+- Dissoziation
+- Dissoziativen Identitätsstörung
+- Post-Traumatic Growth
+- Deep POV
+- Bewusstseinsstrom
+- Third-Person Objective

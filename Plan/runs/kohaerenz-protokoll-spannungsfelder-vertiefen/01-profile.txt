@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-spannungsfelder-vertiefen
+  lines                387  (frontmatter ends at 9)
+  body words           7792
+  headings             2   bold-only lines 13
+  table rows           13   code fences 0
+  question marks       29
+  backslash escapes    40
+  typographic marks    50   ascii quotes 74
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    118
+  repeated labels      none
+  longest line         1308 chars
+

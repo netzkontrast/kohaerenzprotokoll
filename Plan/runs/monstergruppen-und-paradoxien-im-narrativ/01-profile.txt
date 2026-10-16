@@ -1,0 +1,14 @@
+# monstergruppen-und-paradoxien-im-narrativ
+  lines                287  (frontmatter ends at 9)
+  body words           7808
+  headings             28   bold-only lines 2
+  table rows           17   code fences 0
+  question marks       32
+  backslash escapes    110
+  typographic marks    35   ascii quotes 114
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    17
+  repeated labels      Zusammenspiel x3
+  longest line         11142 chars
+

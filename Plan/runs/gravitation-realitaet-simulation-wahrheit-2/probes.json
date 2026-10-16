@@ -1,0 +1,256 @@
+{
+  "document": "gravitation-realitaet-simulation-wahrheit-2",
+  "drive_id": "1ZG_nT3tq2sufx5nohQVP8ZfOjRoQrvGQe3gSrPzP4mc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 33,
+  "backslash_escapes": 46,
+  "typographic_marks": 180,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemintegrität",
+      "Systemische",
+      "Systemischer",
+      "Systemkollaps",
+      "Systems",
+      "Systemsprenger",
+      "Systemtheorie",
+      "Systemversagens"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitational",
+      "Gravitations",
+      "Gravitationsfeld",
+      "Gravitationskraft",
+      "Gravitationstrichter",
+      "Gravitatives"
+    ],
+    "infor": [
+      "Information",
+      "Informationscode",
+      "Informationsdichte",
+      "Informationslast",
+      "Informationsmasse",
+      "Informationsstruktur",
+      "Informationsverarbeitung"
+    ],
+    "physi": [
+      "Physicists",
+      "Physik",
+      "Physikalisch",
+      "Physikalisches",
+      "Physiologie",
+      "Physiologische",
+      "Physiology"
+    ],
+    "schwe": [
+      "SCHWER",
+      "Schwebende",
+      "Schweigen",
+      "Schwer",
+      "Schwere",
+      "Schwerelosigkeit"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls",
+      "Protokollsätzen"
+    ],
+    "theor": [
+      "Theoretische",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "wider": [
+      "WIDERSPRUCH",
+      "Widerspruch",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widerstand"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachterin",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "fehle": [
+      "FEHLER",
+      "Fehlerkorrekturprotokolle",
+      "Fehlermeldungen",
+      "Fehlermodus"
+    ],
+    "metri": [
+      "Metric",
+      "Metrik",
+      "Metrische",
+      "Metrischen"
+    ],
+    "refer": [
+      "Reference",
+      "Referenz",
+      "Referenzen",
+      "Referenzpunkt"
+    ],
+    "relat": [
+      "Relation",
+      "Relations",
+      "Relativity",
+      "Relativitätstheorie"
+    ],
+    "schwa": [
+      "Schwarze",
+      "Schwarzen",
+      "Schwarzes",
+      "Schwarzschild"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationsblasen",
+      "Simulationshypothese",
+      "Simulationstheorie"
+    ],
+    "archi": [
+      "Archiv",
+      "Archivarin",
+      "Archivs"
+    ],
+    "gesch": [
+      "Geschichte",
+      "Geschlossenheit",
+      "Geschmack"
+    ],
+    "gezei": [
+      "Gezeitenkraft",
+      "Gezeitenkräfte",
+      "Gezeitenkräften"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interner",
+      "Internet"
+    ],
+    "kohär": [
+      "Kohärente",
+      "Kohärenz",
+      "Kohärenztheorie"
+    ],
+    "konst": [
+      "Konstatierung",
+      "Konstatierungen",
+      "Konstruktion"
+    ],
+    "kurat": [
+      "Kurator",
+      "Kuratorin",
+      "Kurators"
+    ],
+    "luhma": [
+      "Luhmann",
+      "Luhmanns",
+      "Luhmannscher"
+    ],
+    "ontol": [
+      "Ontologie",
+      "Ontologisch",
+      "Ontologische"
+    ],
+    "opera": [
+      "Operational",
+      "Operationen",
+      "Operative"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Bildschirm"
+    ],
+    [
+      "Bild",
+      "Bildwiederholrate"
+    ],
+    [
+      "Blau",
+      "Blaupause"
+    ],
+    [
+      "Blut",
+      "Einblutungen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Beine"
+    ],
+    [
+      "Eine",
+      "Beinen"
+    ],
+    [
+      "Eine",
+      "Allgemeine"
+    ],
+    [
+      "Eine",
+      "Allgemeiner"
+    ],
+    [
+      "Eine",
+      "Schienbeinen"
+    ],
+    [
+      "Ende",
+      "Rendering"
+    ],
+    [
+      "Ende",
+      "Schwebende"
+    ],
+    [
+      "Ende",
+      "Eingehender"
+    ],
+    [
+      "Ende",
+      "Nervenenden"
+    ],
+    [
+      "Ende",
+      "Hochauflösende"
+    ],
+    [
+      "Ende",
+      "Zusammenfassende"
+    ],
+    [
+      "Feld",
+      "Sichtfeld"
+    ]
+  ]
+}

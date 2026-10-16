@@ -1,0 +1,101 @@
+Counts stated in census and note, each from read.py --count (output pasted):
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Beschreibung:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Beschreibung:` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#5]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Analyse:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Analyse:` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#5]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Fokus:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fokus:` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Narrativ:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Narrativ:` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Problemstellung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Problemstellung` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Insight"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Insight` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#1]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Kerndefinition"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kerndefinition` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#10]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Szenario A"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenario A` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Szenario B"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenario B` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Szenario C"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenario C` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Modell Gamma"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Modell Gamma` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#4]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "Aegis ist, was aegis verhindert"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Aegis ist, was aegis verhindert` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#3]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "KIN"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`KIN` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#18]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "GIF"
+whole word, case-sensitive     30
+whole word, case-insensitive   30
+including compounds            30
+
+`GIF` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#30]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "PSE"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`PSE` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#26]
+$ read.py logiksystem-aegis-entwicklungsszenarien-docx --count "KRM"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            26
+
+`KRM` ^[logiksystem-aegis-entwicklungsszenarien-docx.md:#24]
+$ grep -c "^[0-9]*\. " references (L303-L336, observed by reading: numbered 1 to 34)
+34
+stance_marker_count 16 = 5 + 5 + 3 + 3 (Beschreibung: Analyse: Fokus: Narrativ:)
+profile (01-profile.txt): invisible characters U+200Bx25, glued ref numbers 50, question marks 21

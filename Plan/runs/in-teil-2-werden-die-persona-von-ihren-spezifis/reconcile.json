@@ -1,0 +1,130 @@
+{
+  "document": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+  "drive_id": "1BMgpjhmzOckElJ-v4LkOWdmpKUgZEDXTm8jxM_lBcoo",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-288/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 82,
+    "decided_by_lookup": 45,
+    "needs_judgement": 37
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A refinement of document 286's early blueprint: its new surfaces are the guardian kinds per persona, the narrating instance and its modes, the Kognitive Stadt and the plot-point fields; what it adds went on existing pages.",
+  "new_readings": [
+    {
+      "page": "guardians",
+      "lines": [
+        14,
+        33,
+        54,
+        118,
+        135,
+        150,
+        176
+      ],
+      "attribution": "",
+      "note": "a Guardian assigned to each persona episode, and the Guardians informing the personas in Teil 2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        273
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the end state of Teil 3"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "Nexus named beside Überraum and Schaltzentrale"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        13,
+        15,
+        17,
+        21,
+        33,
+        50,
+        114,
+        136,
+        176
+      ],
+      "attribution": "",
+      "note": "personas as the protagonists of the Teil 1 episodes and the only hope in Teil 2"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        121,
+        125,
+        221,
+        247
+      ],
+      "attribution": "",
+      "note": "cracks opened by persona intrusion, read as disturbances in the information fabric, worsened by the hunt for the Außen"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        142,
+        175,
+        233
+      ],
+      "attribution": "",
+      "note": "the Überraum as the setting of Teil 2"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Personas`, `Persona` and their compounds one term, read on personas; `Guardians`, `Guardian` and the named guardian kinds the blueprint's guardians, read on guardians, not the Integrity Guardian; `Echo`, `Magier`, `Architekt`, `Wächter` personas and modes, not the Residual-Echos, the Mnemosyne-Server-Architektur or AEGIS; `Überraum/Nexus/Schaltzentrale` read on ueberraum and nexus; `Seelen-Kohärenz-Protokoll` and `Seelen-Kohärenz-Programm` the blueprint's names, nothing added over document 286; `Außen` not ZTV",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 176,
+      "decision": "occurrence",
+      "why": "a general phrase"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    }
+  ],
+  "not_promoted": [
+    "the personas",
+    "the guardian kinds",
+    "the Hüter",
+    "the narrating instance and its modes",
+    "the Kognitive Stadt",
+    "the plot-point fields"
+  ],
+  "internal_tension": "it writes the narrator's modes as „Magier (M), Forscher (F), Philosoph (P)“ (L35) and abbreviates them `M/R/P`; it names the central construct both Protokoll and Programm; it writes out five guardian kinds and asks for 5–7 Hüter (L150)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,14 @@
+# roman-konzeptentwicklung-kohaerenz-protokoll
+  lines                188  (frontmatter ends at 9)
+  body words           3313
+  headings             14   bold-only lines 1
+  table rows           13   code fences 0
+  question marks       7
+  backslash escapes    60
+  typographic marks    48   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      Dramaturgische Phase x3, Ontologische Ebene x3, Szenen-Logik x3, Zentrale Prämisse x3
+  longest line         907 chars
+

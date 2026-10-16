@@ -1,0 +1,14 @@
+# ki-architektur-fuer-kohaerenz-und-skalierbarkeit
+  lines                349  (frontmatter ends at 9)
+  body words           3940
+  headings             39   bold-only lines 1
+  table rows           32   code fences 0
+  question marks       17
+  backslash escapes    168
+  typographic marks    7   ascii quotes 162
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    60
+  repeated labels      none
+  longest line         796 chars
+

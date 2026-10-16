@@ -1,0 +1,311 @@
+$ read.py --count "Klein'schen Vierergruppe"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Klein'schen Vierergruppe` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Vierergruppen-Mapping"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vierergruppen-Mapping` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Klein'sche Vierergruppe"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Klein'sche Vierergruppe` ^[dramatica-dual-storyform-mapping-protokoll.md:#0]
+$ read.py --count "Konsens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Konsens` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Widersprüche"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Widersprüche` ^[dramatica-dual-storyform-mapping-protokoll.md:#3]
+$ read.py --count "Lücken"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lücken` ^[dramatica-dual-storyform-mapping-protokoll.md:#3]
+$ read.py --count "Auflösung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Auflösung` ^[dramatica-dual-storyform-mapping-protokoll.md:#4]
+$ read.py --count "Synthese"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            10
+
+`Synthese` ^[dramatica-dual-storyform-mapping-protokoll.md:#4]
+$ read.py --count "Finaler Befund"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Finaler Befund` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Operationaler Imperativ"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Operationaler Imperativ` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Konflikt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Konflikt` ^[dramatica-dual-storyform-mapping-protokoll.md:#4]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            29
+
+`Kapitel` ^[dramatica-dual-storyform-mapping-protokoll.md:#28]
+$ read.py --count "Kapiteln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapiteln` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            29
+
+`Kap` ^[dramatica-dual-storyform-mapping-protokoll.md:#0]
+$ read.py --count "DKT"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            9
+
+`DKT` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "DKT-Zuordnung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DKT-Zuordnung` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "DKT-Zustand"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DKT-Zustand` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "DID"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`DID` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "DID-Thematik"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DID-Thematik` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "VOA"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            7
+
+`VOA` ^[dramatica-dual-storyform-mapping-protokoll.md:#4]
+$ read.py --count "VOA-Konstruktion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`VOA-Konstruktion` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "VOA-Simulation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`VOA-Simulation` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "VOA-Symmetrie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`VOA-Symmetrie` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Kaels"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kaels` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Junas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Junas` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Influence Characters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Influence Characters` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Landauer-Limits"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Limits` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Kernel-Failure"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernel-Failure` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Storyform"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            21
+
+`Storyform` ^[dramatica-dual-storyform-mapping-protokoll.md:#14]
+$ read.py --count "Storyforms"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            4
+
+`Storyforms` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "Dialetheia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Dialetheia` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Zielkohärenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Zielkohärenz` ^[dramatica-dual-storyform-mapping-protokoll.md:#4]
+$ read.py --count "Bekenstein"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bekenstein` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Landauer"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            13
+
+`Landauer` ^[dramatica-dual-storyform-mapping-protokoll.md:#8]
+$ read.py --count "Gödel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Gödel` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Schwarze Löcher der Information"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schwarze Löcher der Information` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Witness"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            10
+
+`Witness` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Chaitin-Konstante"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Chaitin-Konstante` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "Throughline"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Throughline` ^[dramatica-dual-storyform-mapping-protokoll.md:#0]
+$ read.py --count "Concern"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Concern` ^[dramatica-dual-storyform-mapping-protokoll.md:#0]
+$ read.py --count "Issue"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Issue` ^[dramatica-dual-storyform-mapping-protokoll.md:#0]
+$ read.py --count "Problem"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Problem` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "Symptom"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Symptom` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Response"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Response` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Solution"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Solution` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Driver"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Driver` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Signpost"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Signpost` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+$ read.py --count "Sektor"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Sektor` ^[dramatica-dual-storyform-mapping-protokoll.md:#2]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            9
+
+`Kohärenz Protokoll` ^[dramatica-dual-storyform-mapping-protokoll.md:#7]
+$ read.py --count "Kohärenz-Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz-Protokoll` ^[dramatica-dual-storyform-mapping-protokoll.md:#1]
+
+# stance_marker_count: Konsens 1 + Widersprüche 3 + Lücken 3 + Auflösung 4 + Synthese 4 + Finaler Befund 1 + Operationaler Imperativ 1 (whole word, case-sensitive, from the counts above)
+$ python3 -c "print(1+3+3+4+4+1+1)"
+17
+# Concern 0, Issue 0, Kap 0 (whole word): counts above. Kapitel 28 whole word, 29 with compounds.

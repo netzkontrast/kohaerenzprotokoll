@@ -1,0 +1,85 @@
+$ read.py genesis-logik-krise-zerstueckelung --count "Szene"
+whole word, case-sensitive     91
+whole word, case-insensitive   91
+including compounds            91
+
+`Szene` ^[genesis-logik-krise-zerstueckelung.md:#91]
+$ read.py genesis-logik-krise-zerstueckelung --count "kann als"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`kann als` ^[genesis-logik-krise-zerstueckelung.md:#5]
+$ read.py genesis-logik-krise-zerstueckelung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[genesis-logik-krise-zerstueckelung.md:#0]
+$ read.py genesis-logik-krise-zerstueckelung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[genesis-logik-krise-zerstueckelung.md:#0]
+$ read.py genesis-logik-krise-zerstueckelung --count "Komponente 734"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Komponente 734` ^[genesis-logik-krise-zerstueckelung.md:#14]
+$ read.py genesis-logik-krise-zerstueckelung --count "Nichts Rauschen"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Nichts Rauschen` ^[genesis-logik-krise-zerstueckelung.md:#11]
+$ read.py genesis-logik-krise-zerstueckelung --count "Nichts Rauschens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschens` ^[genesis-logik-krise-zerstueckelung.md:#1]
+$ read.py genesis-logik-krise-zerstueckelung --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[genesis-logik-krise-zerstueckelung.md:#1]
+$ read.py genesis-logik-krise-zerstueckelung --count "Zerstückelung"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Zerstückelung` ^[genesis-logik-krise-zerstueckelung.md:#12]
+$ read.py genesis-logik-krise-zerstueckelung --count "Echos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Echos` ^[genesis-logik-krise-zerstueckelung.md:#1]
+$ read.py genesis-logik-krise-zerstueckelung --count "Anomalien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anomalien` ^[genesis-logik-krise-zerstueckelung.md:#1]
+$ read.py genesis-logik-krise-zerstueckelung --count "Logikpaketen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logikpaketen` ^[genesis-logik-krise-zerstueckelung.md:#1]
+$ read.py genesis-logik-krise-zerstueckelung --count "Unmodellierbaren"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unmodellierbaren` ^[genesis-logik-krise-zerstueckelung.md:#1]
+$ read.py genesis-logik-krise-zerstueckelung --count "hard problem of consciousness"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`hard problem of consciousness` ^[genesis-logik-krise-zerstueckelung.md:#1]
+Not counted by command: 92 glued reference numbers, 6 pairs in III, 4 lens subsections, 9 sections: read from 01-profile.txt and headings L13-L187.

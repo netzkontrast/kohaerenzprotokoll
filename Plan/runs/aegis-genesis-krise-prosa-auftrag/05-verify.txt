@@ -1,0 +1,87 @@
+# 05-verify
+$ grep -n "User Query Context" (line numbers only)
+17 21 31 37 41 51 69 79 87 
+$ grep -n "Stufe" (line numbers only)
+13 23 33 41 43 57 71 83 
+$ grep -n "Insight" lines
+93
+$ read.py --count "Stufe"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Stufe` ^[aegis-genesis-krise-prosa-auftrag.md:#8]
+$ read.py --count "User Query Context"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`User Query Context` ^[aegis-genesis-krise-prosa-auftrag.md:#9]
+$ read.py --count "Insight 12"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Insight 12` ^[aegis-genesis-krise-prosa-auftrag.md:#1]
+$ read.py --count "Zugriff am"
+whole word, case-sensitive     69
+whole word, case-insensitive   69
+including compounds            69
+
+`Zugriff am` ^[aegis-genesis-krise-prosa-auftrag.md:#69]
+$ read.py --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[aegis-genesis-krise-prosa-auftrag.md:#2]
+$ read.py --count "Ursprungs-Ich"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            9
+
+`Ursprungs-Ich` ^[aegis-genesis-krise-prosa-auftrag.md:#4]
+$ read.py --count "Kaskadenversagen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kaskadenversagen` ^[aegis-genesis-krise-prosa-auftrag.md:#1]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[aegis-genesis-krise-prosa-auftrag.md:#1]
+$ read.py --count "Kohärenz Protokolls"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokolls` ^[aegis-genesis-krise-prosa-auftrag.md:#3]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Kohärenz Protokoll` ^[aegis-genesis-krise-prosa-auftrag.md:#1]
+$ read.py --count "Vielleicht"
+whole word, case-sensitive     3
+whole word, case-insensitive   12
+including compounds            3
+
+`Vielleicht` ^[aegis-genesis-krise-prosa-auftrag.md:#3]
+$ read.py --count "vielleicht"
+whole word, case-sensitive     9
+whole word, case-insensitive   12
+including compounds            9
+
+`vielleicht` ^[aegis-genesis-krise-prosa-auftrag.md:#9]
+$ read.py --count "Qualia"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Qualia` ^[aegis-genesis-krise-prosa-auftrag.md:#5]
+stance_marker_count 18 = Stufe 8 + User Query Context 9 + Insight 12 1
+Zeros 0, from 04-counts.txt / census.py check

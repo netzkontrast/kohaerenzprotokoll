@@ -1,0 +1,56 @@
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "TEIL"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`TEIL` ^[genesis-finale-prosa-angepasste-ich-natur.md:#3]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Szene"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Szene` ^[genesis-finale-prosa-angepasste-ich-natur.md:#13]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "NEUE"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`NEUE` ^[genesis-finale-prosa-angepasste-ich-natur.md:#3]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Kael"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kael` ^[genesis-finale-prosa-angepasste-ich-natur.md:#3]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[genesis-finale-prosa-angepasste-ich-natur.md:#2]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kernwelt` ^[genesis-finale-prosa-angepasste-ich-natur.md:#0]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Cluster"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Cluster` ^[genesis-finale-prosa-angepasste-ich-natur.md:#3]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Überwelt"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Überwelt` ^[genesis-finale-prosa-angepasste-ich-natur.md:#7]
+$ read.py genesis-finale-prosa-angepasste-ich-natur --count "Direktive 0"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Direktive 0` ^[genesis-finale-prosa-angepasste-ich-natur.md:#4]
+stance_marker_count 19 = 3 (TEIL) + 13 (Szene) + 3 (NEUE)
+census: Rauschens x4, 24 glued ref numbers, 1 heading/16 bold-only lines: from 01-profile.txt and 04-counts.txt

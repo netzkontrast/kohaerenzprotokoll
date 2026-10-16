@@ -1,0 +1,61 @@
+{
+  "document": "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p",
+  "drive_id": "17QM0GYTlId3U_iosLCEWCDLXCbGi_4WH2E8Sbd46RjE",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 4,
+  "backslash_escapes": 32,
+  "typographic_marks": 24,
+  "ascii_quotes": 57,
+  "inflection_families": {
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychology"
+    ],
+    "ambit": [
+      "Ambition",
+      "Ambitiously"
+    ],
+    "conce": [
+      "Concept",
+      "Conceptual"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophy"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Concept",
+      "Conceptual"
+    ]
+  ]
+}

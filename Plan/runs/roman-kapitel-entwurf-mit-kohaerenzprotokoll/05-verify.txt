@@ -1,0 +1,200 @@
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kaels"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kaels` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#3]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Junas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Junas` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "K1-Stil"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K1-Stil` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "K1-Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K1-Kernel` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "K1-Umgebung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K1-Umgebung` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "K0-Modus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K0-Modus` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Shannon-Entropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Shannon-Entropie` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kohärenz Protokolls"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kohärenz Protokolls` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#4]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`Kohärenz Protokoll` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#2]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kohärenzprotokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenzprotokoll` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            8
+
+`Kap` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#0]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kapitel Eins"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapitel Eins` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#3]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Lex"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Lex` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#4]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Index"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Index` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Landauer-Prinzip"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Landauer-Prinzip` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#4]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Juna"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Juna` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#6]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Konstrukt-Stadt"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Konstrukt-Stadt` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#7]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Zero-Trust-Architektur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zero-Trust-Architektur` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Kernwelt 2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt 2` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "ANP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANP` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Dual Kernel Theory"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dual Kernel Theory` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#2]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Initialisierung und Systemdiagnostik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Initialisierung und Systemdiagnostik` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Zusammenfassende System-Evaluation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zusammenfassende System-Evaluation` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "Systemwarnung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systemwarnung` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "AEGIS"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`AEGIS` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#9]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "K1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`K1` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ python3 scripts/read.py roman-kapitel-entwurf-mit-kohaerenzprotokoll --count "K0"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`K0` ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:#1]
+
+$ profile (glued ref numbers 24; table rows 5; typographic)
+11:  glued ref numbers    24
+$ census.py check
+census roman-kapitel-entwurf-mit-kohaerenzprotokoll: holds

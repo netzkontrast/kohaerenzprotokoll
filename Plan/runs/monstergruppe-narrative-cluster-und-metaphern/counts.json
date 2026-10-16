@@ -1,0 +1,501 @@
+{
+  "document": "monstergruppe-narrative-cluster-und-metaphern",
+  "drive_id": "1XYjHosCu9V2RDfBaNO0SeOG1SphYvEVFF14XlI3V5ew",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Monstergruppe": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        25,
+        37,
+        43,
+        49,
+        51,
+        55,
+        63,
+        71,
+        75,
+        85,
+        89,
+        95,
+        105,
+        205,
+        263,
+        270,
+        274,
+        320,
+        323,
+        336,
+        340,
+        371,
+        420,
+        431,
+        443,
+        445,
+        468
+      ]
+    },
+    "Monster": {
+      "n": 41,
+      "n_including_compounds": 105,
+      "lines": [
+        11,
+        13,
+        23,
+        25,
+        37,
+        39,
+        43,
+        45,
+        49,
+        51,
+        53,
+        55,
+        59,
+        63,
+        71,
+        75,
+        85,
+        87,
+        89,
+        91,
+        95,
+        101,
+        103,
+        105,
+        113,
+        120,
+        132,
+        146,
+        164,
+        174,
+        179,
+        180,
+        205,
+        263,
+        270,
+        274,
+        280,
+        281,
+        286,
+        291,
+        298,
+        320,
+        323,
+        336,
+        340,
+        345,
+        346,
+        350,
+        354,
+        369,
+        371,
+        375,
+        379,
+        384,
+        390,
+        398,
+        410,
+        411,
+        420,
+        422,
+        423,
+        425,
+        426,
+        427,
+        429,
+        431,
+        435,
+        437,
+        443,
+        445,
+        449,
+        456,
+        457,
+        461,
+        463,
+        467,
+        468,
+        472,
+        476,
+        477,
+        482,
+        484,
+        486,
+        506
+      ]
+    },
+    "Baby Monster": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        101,
+        113,
+        180,
+        379,
+        384,
+        425,
+        486
+      ]
+    },
+    "Happy Family": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        39,
+        91,
+        95,
+        97,
+        103,
+        162,
+        164,
+        231,
+        267,
+        274,
+        294,
+        423,
+        431
+      ]
+    },
+    "Pariahs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        91,
+        95,
+        103,
+        267,
+        346,
+        423,
+        438
+      ]
+    },
+    "Pariah-Gruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        298,
+        423
+      ]
+    },
+    "freundlicher Riese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        39
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        39,
+        65,
+        73,
+        75,
+        478,
+        479,
+        480
+      ]
+    },
+    "Verallgemeinerter Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        422
+      ]
+    },
+    "Griess-Algebra": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        53,
+        55,
+        57,
+        59,
+        71,
+        85,
+        371
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        59,
+        85,
+        371
+      ]
+    },
+    "Leech-Gitter": {
+      "n": 8,
+      "n_including_compounds": 15,
+      "lines": [
+        100,
+        103,
+        140,
+        141,
+        142,
+        146,
+        155,
+        160,
+        170,
+        281,
+        330,
+        401,
+        425,
+        437
+      ]
+    },
+    "Golay-Code": {
+      "n": 7,
+      "n_including_compounds": 13,
+      "lines": [
+        141,
+        154,
+        155,
+        156,
+        158,
+        160,
+        282,
+        330,
+        402,
+        437
+      ]
+    },
+    "Conway-Gruppen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        103,
+        136,
+        146,
+        401,
+        404
+      ]
+    },
+    "Mathieu-Gruppen": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        99,
+        103,
+        150,
+        158,
+        280,
+        402,
+        404,
+        425
+      ]
+    },
+    "Fischer-Gruppe": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        103,
+        124,
+        131,
+        166,
+        386,
+        400,
+        404
+      ]
+    },
+    "Fischer-Gruppen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        103,
+        166,
+        400,
+        404
+      ]
+    },
+    "Thompson-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Harada-Norton-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Held-Gruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "sporadische Gruppen": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        164,
+        174,
+        231,
+        390,
+        411
+      ]
+    },
+    "Subquotienten": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        39,
+        93,
+        95,
+        105,
+        164,
+        231,
+        423
+      ]
+    },
+    "Konjugationsklassen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        105,
+        119,
+        342,
+        379
+      ]
+    },
+    "Zentralisatoren": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        334,
+        343,
+        380,
+        390,
+        411
+      ]
+    },
+    "3-Transpositionsgruppe": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        129,
+        181,
+        345
+      ]
+    },
+    "Die Titanen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Die Architekten der Symmetrie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Die Code-Meister": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Narratives Cluster": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        120,
+        132,
+        146,
+        158
+      ]
+    },
+    "Narrative Cluster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Metapher-Cluster": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        284,
+        286,
+        290
+      ]
+    },
+    "Clusterung von Metaphern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Atome der Symmetrie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        367
+      ]
+    },
+    "Symmetrie-Persönlichkeiten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        404
+      ]
+    },
+    "Klassifikationssatz der endlichen einfachen Gruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        443
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        43,
+        300,
+        302,
+        304,
+        306,
+        336,
+        350,
+        433,
+        509,
+        510,
+        511,
+        512
+      ]
+    },
+    "Set Dressing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        316
+      ]
+    }
+  }
+}

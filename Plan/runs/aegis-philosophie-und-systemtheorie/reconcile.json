@@ -1,0 +1,135 @@
+{
+  "document": "aegis-philosophie-und-systemtheorie",
+  "drive_id": "15mblPb85LBVPDUSkmMCV0Kn47Dsu5Jj8K_eMa_Qo780",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry (C1) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-296/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 58,
+    "decided_by_lookup": 46,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A systems-theory analysis of AEGIS as a hypothetical system: its new surfaces are its principles and slogans, RCV, EIC, BPoF, the definition formula and twenty borrowed frames; what it says of AEGIS, emergence, coherence and the Guardians went on existing pages, and its expansion of AEGIS on conflict C1.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        22,
+        59,
+        94,
+        95,
+        96,
+        110,
+        117,
+        141,
+        143
+      ],
+      "attribution": "",
+      "note": "AEGIS as a hypothetical, self-verifying system read through borrowed frames"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        41,
+        93
+      ],
+      "attribution": "",
+      "note": "weak or strong emergence held open for AEGIS"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        40,
+        83
+      ],
+      "attribution": "",
+      "note": "entropy management read through information theory and self-organising physics"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        80,
+        147,
+        153,
+        155
+      ],
+      "attribution": "",
+      "note": "the Guardians as agents under RCV"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        118,
+        159
+      ],
+      "attribution": "",
+      "note": "coherence as the measure of validity"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS` and `Das AEGIS-Wagnis` on aegis, the latter not promoted; `Emergenz` and `Emergenz durch Negation` (Axiom 4) on emergenz; `Rekursion` and `Rekursion statt Regeln`, `Wirkung`, `Selbstbezug` and `Existenz = Wirkung + Selbstbezug` — the document's principles, read on aegis, not promoted; `Informationismus / Digitale Physik` one borrowed frame; `Kohärenz statt Wahrheit` and `Inkohärenz` on kohaerenz; `Entropie-Management` with the entropy reading; `Simulationshypothese` a borrowed frame, an occurrence",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 40,
+      "decision": "reading",
+      "why": "AEGIS's entropy management, read if it adds"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "reading",
+      "why": "Kohärenz statt Wahrheit"
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 51,
+      "decision": "occurrence",
+      "why": "an analogy inside a borrowed frame"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 65,
+      "decision": "occurrence",
+      "why": "Bostrom's simulation argument, a borrowed frame"
+    }
+  ],
+  "not_promoted": [
+    "RCV and its expansions",
+    "the slogans, Axiom 1 and 4, the Ursprungsmuster",
+    "Existenz = Wirkung + Selbstbezug",
+    "EIC, BPoF",
+    "Ontologische Autarkie, Epistemische Autonomie, Reaktive Transparenz",
+    "Das AEGIS-Wagnis, Solipsismusgefahr, Inkorrigierbarkeit",
+    "the twenty borrowed frames"
+  ],
+  "internal_tension": "its formula requires Wirkung while the system is closed, and it asks whether AEGIS needs an interface after all (L111, L49, L182); it names Axiom 1 and 4 and no other; it cites an Insight 10 (L49) it does not state",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

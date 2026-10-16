@@ -1,0 +1,110 @@
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Kapitel` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#9]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Tabelle"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tabelle` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Schlussfolgerung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Schlussfolgerung` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Kohärenz Protokoll 1.0"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kohärenz Protokoll 1.0` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Kohärenz Protokoll"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+
+`Kohärenz Protokoll` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#19]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Systemprotokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Systemprotokoll` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Systemprotokolls"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systemprotokolls` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "binäre Codes"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`binäre Codes` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "binärer Codes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`binärer Codes` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "binären Codes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`binären Codes` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "vom Autor"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`vom Autor` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Exilant"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            9
+
+`Exilant` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Exilanten"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Exilanten` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#6]
+$ python3 scripts/read.py optimierter-prompt-fuer-kohaerenz-protokoll --count "Feuerwehrmann"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`Feuerwehrmann` ^[optimierter-prompt-fuer-kohaerenz-protokoll.md:#2]
+$ grep -n Kapitel (8 headings + L237)
+26:### **Kapitel 1: Die Logik der Selbst
+48:### **Kapitel 2: Strukturelle Kopplun
+70:### **Kapitel 3: Die binären Codes e
+116:### **Kapitel 4: Die Anomalie als ei
+136:### **Kapitel 5: Specification Gamin
+158:### **Kapitel 6: Systemarchetypen de
+203:### **Kapitel 7: Eine Internal Famil
+227:### **Kapitel 8: Destabilisierende R
+237:Das „Kohärenz Protokoll“ ist de
+$ grep -c "^[0-9]*\. " references 272-315 => 44
+44
+stance_marker_count 14 = 9+2+2+1
+$ profile (01-profile.txt)
+  backslash escapes    12
+  glued ref numbers    61
+whole word, case-sensitive     44
+whole word, case-insensitive   44
+including compounds            44
+

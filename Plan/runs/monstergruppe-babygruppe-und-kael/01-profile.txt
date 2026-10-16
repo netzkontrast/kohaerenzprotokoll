@@ -1,0 +1,14 @@
+# monstergruppe-babygruppe-und-kael
+  lines                267  (frontmatter ends at 9)
+  body words           4774
+  headings             12   bold-only lines 2
+  table rows           11   code fences 0
+  question marks       16
+  backslash escapes    18
+  typographic marks    130   ascii quotes 6
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    55
+  repeated labels      Analogie x15, Narrative Verbindung x4
+  longest line         711 chars
+

@@ -1,0 +1,88 @@
+{
+  "document": "report-narrative-methodology-for-kohaerenz-protokoll",
+  "drive_id": "1bQid5yPEgLMnB8HWZd4nIXfTEkvKO5IGHXq9t8bXd4U",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 40,
+  "typographic_marks": 14,
+  "ascii_quotes": 58,
+  "inflection_families": {
+    "contr": [
+      "Contradictory",
+      "Control"
+    ],
+    "exper": [
+      "Experience",
+      "Experiential"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration"
+    ],
+    "inter": [
+      "Interaction",
+      "Internal"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrator"
+    ],
+    "perfo": [
+      "Perform",
+      "Performing"
+    ],
+    "persp": [
+      "Perspective",
+      "Perspectives"
+    ],
+    "shift": [
+      "Shift",
+      "Shifting"
+    ],
+    "techn": [
+      "Technical",
+      "Techniques"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Meta",
+      "Metafictional"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Shift",
+      "Shifting"
+    ],
+    [
+      "Person",
+      "Impersonal"
+    ],
+    [
+      "Perform",
+      "Performing"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Perspective",
+      "Perspectives"
+    ]
+  ]
+}

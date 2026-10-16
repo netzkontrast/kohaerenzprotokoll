@@ -1,0 +1,468 @@
+{
+  "document": "archon-ai-narrative-coherence-framework",
+  "drive_id": "138vJM7LlK1MCFq6lPQBk1ovy7RShyy5LZqgQH4s8wVk",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Project Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        184,
+        212
+      ]
+    },
+    "AEGIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        202,
+        204
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Gödel statement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "ARCHON": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        13,
+        24,
+        30,
+        58,
+        68,
+        70,
+        78,
+        86,
+        123,
+        127,
+        131,
+        139,
+        154,
+        162,
+        170,
+        184,
+        204,
+        216,
+        220,
+        224,
+        239,
+        243,
+        247,
+        253,
+        268,
+        270
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        105,
+        109,
+        243,
+        255
+      ]
+    },
+    "NCP": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        26,
+        105,
+        109,
+        111,
+        121,
+        123,
+        158,
+        162,
+        172,
+        176,
+        204,
+        243,
+        257,
+        268
+      ]
+    },
+    "Knowledge Hypergraph": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        27,
+        154,
+        159,
+        172,
+        256,
+        268
+      ]
+    },
+    "Narrative Hypergraph": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        194,
+        214
+      ]
+    },
+    "hyperedges": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "The Source Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "The Factual Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "The Thematic Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "The Global Summary Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Narrative Director": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        150,
+        154,
+        172,
+        194,
+        214,
+        243
+      ]
+    },
+    "Self-Reflection Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "thematic resonance": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170,
+        266
+      ]
+    },
+    "theme-scoped retrieval": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "context compression": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "active forgetting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "short-term amnesia": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        22,
+        46,
+        70,
+        139,
+        176
+      ]
+    },
+    "coherence crisis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        266
+      ]
+    },
+    "Story Mind": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        82,
+        86,
+        94
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        119
+      ]
+    },
+    "Overall Story (OS) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Main Character (MC) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Influence Character (IC) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Relationship Story (RS) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "thematic guardrails": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Sudowrite": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        234,
+        253,
+        330,
+        331,
+        332,
+        333
+      ]
+    },
+    "Novelcrafter": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        235,
+        253,
+        334,
+        335,
+        336
+      ]
+    },
+    "Story Bible": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        234,
+        255
+      ]
+    },
+    "Codex": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        235,
+        255,
+        256,
+        257
+      ]
+    },
+    "TSDP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        188,
+        192,
+        194,
+        216
+      ]
+    },
+    "DID": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        192,
+        323
+      ]
+    },
+    "Dramatica": {
+      "n": 27,
+      "n_including_compounds": 28,
+      "lines": [
+        26,
+        74,
+        78,
+        86,
+        94,
+        109,
+        111,
+        115,
+        119,
+        121,
+        123,
+        268,
+        289,
+        290,
+        291,
+        292,
+        294,
+        295,
+        296,
+        298,
+        299,
+        300,
+        303,
+        304,
+        305,
+        306
+      ]
+    },
+    "Theory of Structural Dissociation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        188,
+        192
+      ]
+    },
+    "Dissociative Identity Disorder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "tertiary structural dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        198,
+        202
+      ]
+    },
+    "Class P": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        212
+      ]
+    },
+    "Class NP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        212
+      ]
+    },
+    "NP-complete": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "ReAct": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        154,
+        315,
+        316
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    }
+  }
+}

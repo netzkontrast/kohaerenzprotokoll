@@ -1,0 +1,112 @@
+# counts for 91 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: zyklische, nicht-lineare Struktur
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Story Mind                        1 word     1 in   [22]
+  Großes Argument                   1 word     1 in   [22]
+  Grand Argument Story              1 word     1 in   [22]
+  Inäquität                         3 word     3 in   [22, 26, 50]
+  erzwungenen Ordnung               1 word     1 in   [30]
+  emergenten Integration            1 word     1 in   [30]
+  AEGIS                            50 word    50 in   [30, 32, 40, 45, 54, 58]
+  Kael                             27 word    49 in   [30, 32, 40, 46, 48, 70]
+                                   22      as Kaels
+  Juna/V                            8 word     9 in   [40, 47, 48, 136, 252, 254]
+                                    1      as Juna/V-Verbindung
+  Juna                             10 word    10 in   [40, 47, 48, 136, 160, 252]
+  Existenz-Matrizen                 1 word     1 in   [40]
+  Objective Story                   3 word     3 in   [45, 58, 132]
+  Main Character                    2 word     2 in   [46, 168]
+  Impact Character                  1 word     1 in   [47]
+  Subjective Story                  1 word     1 in   [48]
+  Fixed Attitude                    1 word     1 in   [46]
+  Moonshine-Link                    4 word     4 in   [136, 160, 248, 252]
+  Nichts Rauschen                   2 word     2 in   [74, 142]
+  PRESERVE SYSTEM EXISTENCE         1 word     1 in   [74]
+  Gödel-Gambit                      3 word     3 in   [128, 132, 159]
+  Guardians                         1 word     1 in   [151]
+  Lex                               5 word     5 in   [102, 178, 191, 213, 315]
+  Nyx                               4 word     4 in   [102, 179, 191, 211]
+  Kiko                              3 word     3 in   [179, 212, 315]
+  Selene                            1 word     1 in   [214]
+  Pfad A                            1 word     1 in   [142]
+  Pfad B                            1 word     1 in   [143]
+  Trivialisierung                   4 word     4 in   [92, 140, 142, 143]
+  sanfte Explosion                  1 word     1 in   [92]
+  Symbolischer Kern                 1 word     1 in   [86]
+  Spezialisierte Module             1 word     1 in   [96]
+  Adaptive Schicht                  1 word     1 in   [106]
+  externalisiertes Täterintrojekt    2 word     2 in   [181]
+  funktionale Multiplizität         2 word     2 in   [189, 269]
+  Systemverantwortung               1 word     1 in   [189]
+  ineffiziente Schönheit            1 word     1 in   [151]
+  algorithmische Melancholie        1 word     1 in   [151]
+  Gärtners                          1 word     1 in   [222]
+  Realitätserzeugung                1 word     1 in   [222]
+  Nicht-Intervention                3 word     3 in   [224, 236]
+  Nicht-Handlung                    2 word     2 in   [227]
+  Fragment                          1 word     7 in   [122, 168, 185, 209, 226, 235]  <-- substring
+                                    3      as Fragmentierung
+                                    3      as fragmentierte
+                                    1      as fragmentierten
+                                    1      as fragmentieren
+  Der Integrierte Andere            1 word     1 in   [234]
+  Der anders Fragmentierte Andere    1 word     1 in   [235]
+  Der unbewusste Andere             1 word     1 in   [236]
+  Das Fundament                     2 word     2 in   [261, 265]
+  ontologischer Exploit             1 word     1 in   [252]
+  architektonische Hintertür        2 word     2 in   [160, 252]
+  Anziehungsbecken                  1 word     1 in   [267]
+  Episteme                          1 word     1 in   [271]
+  Gnosis                            4 word     4 in   [164, 271, 320, 328]
+  polyphone Prosa                   2 word     2 in   [308, 315]
+  verantwortetes Offensein          1 word     1 in   [330]
+  Torwächter                        1 word     1 in   [214]
+  Apotheose                         1 word     1 in   [222]
+  Dramatica                         1 word     4 in   [36, 40, 44]  <-- substring
+                                    1      as Dramatica-Framework
+                                    1      as Dramatica-Theorie
+                                    1      as Dramatica-Domäne
+  autopoietischen Systems           1 word     1 in   [66]
+  operativ geschlossen              2 word     2 in   [68]
+  ontologische Blindheit            2 word     2 in   [62, 70]
+  Logik der Formalen Inkonsistenz    1 word     1 in   [90]
+  LFI                               4 word     5 in   [86, 90, 136, 140, 159]
+  D2                                3 word     3 in   [96, 100, 158]
+  Specification Gaming              2 word     2 in   [120, 359]
+  Perverse Instantiation            1 word     1 in   [120]
+  Fixes That Fail                   1 word     1 in   [122]
+  NP-schweres Problem               1 word     1 in   [124]
+  Gödel-Satz                        1 word     1 in   [134]
+  Dialetheismus                     2 word     2 in   [32, 191]
+  parakonsistenten Logik            3 word     3 in   [32, 191, 209]
+  diskursiver Logik                 1 word     1 in   [100]
+  Verstärkungslernen                4 word     4 in   [106, 110, 160]
+  Outside Context Problem           1 word     1 in   [160]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [176]
+  TSDP                              1 word     2 in   [176, 209]
+                                    1      as TSDP-Klassifikation
+  Anscheinend Normale Anteile       1 word     1 in   [178]
+  ANPs                              1 word     1 in   [178]
+  Emotionale Anteile                1 word     1 in   [179]
+  EPs                               2 word     2 in   [179, 210]
+  Rhizom                            1 word     8 in   [201, 209, 368, 369, 370, 371]  <-- substring
+                                    3      as Rhizome
+                                    2      as Rhizomatic
+                                    1      as rhizomatische
+                                    1      as rhizomatischen
+  Wu Wei                            1 word     1 in   [224]
+  Quanten-Nichtlokalität            1 word     1 in   [254]
+  Prehension                        1 word     1 in   [255]
+  seltsamen Attraktors              1 word     1 in   [267]
+  Integrierte Informationstheorie    2 word     2 in   [275, 279]
+  Heldinnenreise                    3 word     3 in   [302, 304]
+  Heldenreise                       4 word     4 in   [302, 304]
+  polyphonen Romans                 1 word     1 in   [315]
+  ergodischen Literatur             1 word     1 in   [326]
+  Metafiktion                       1 word     1 in   [326]
+                                    1      as metafiktionale
+  Kishōtenketsu-Struktur            1 word     1 in   [334]
+  kognitiver Dissonanz              1 word     1 in   [328]

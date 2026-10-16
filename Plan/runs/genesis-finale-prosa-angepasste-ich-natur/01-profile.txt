@@ -1,0 +1,14 @@
+# genesis-finale-prosa-angepasste-ich-natur
+  lines                208  (frontmatter ends at 9)
+  body words           2714
+  headings             1   bold-only lines 16
+  table rows           0   code fences 0
+  question marks       10
+  backslash escapes    4
+  typographic marks    15   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    24
+  repeated labels      none
+  longest line         743 chars
+

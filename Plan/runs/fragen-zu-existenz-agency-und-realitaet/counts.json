@@ -1,0 +1,819 @@
+{
+  "document": "fragen-zu-existenz-agency-und-realitaet",
+  "drive_id": "13ch5ydyZTb-OV3NF2qnTrbbaRGuKxD4z_Vb1aqIym1Q",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 38,
+      "n_including_compounds": 39,
+      "lines": [
+        22,
+        28,
+        32,
+        63,
+        75,
+        77,
+        79,
+        87,
+        89,
+        91,
+        95,
+        99,
+        134,
+        153,
+        164,
+        165,
+        175,
+        198,
+        215,
+        245,
+        249,
+        283,
+        285,
+        289,
+        291,
+        293,
+        295,
+        300,
+        301,
+        302,
+        303,
+        305
+      ]
+    },
+    "System Kael": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        99,
+        117,
+        152,
+        176,
+        178,
+        283,
+        293,
+        295
+      ]
+    },
+    "Kael": {
+      "n": 15,
+      "n_including_compounds": 18,
+      "lines": [
+        22,
+        99,
+        117,
+        132,
+        150,
+        151,
+        152,
+        154,
+        176,
+        178,
+        187,
+        194,
+        283,
+        293,
+        295
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        132,
+        153,
+        154,
+        193
+      ]
+    },
+    "Rhys": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        132,
+        152,
+        153,
+        154,
+        191
+      ]
+    },
+    "Nyx": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        132,
+        152,
+        153,
+        154,
+        192
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        177,
+        195
+      ]
+    },
+    "Widerstandszelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        178
+      ]
+    },
+    "Autorische Erzähler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        196,
+        199
+      ]
+    },
+    "Komponente 734": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        75,
+        79,
+        97,
+        165,
+        291
+      ]
+    },
+    "Component 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    },
+    "Ursprungs-Ichs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        291
+      ]
+    },
+    "Entität M": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        96
+      ]
+    },
+    "Überwelt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        89,
+        91,
+        95
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        96,
+        249
+      ]
+    },
+    "Leere": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        32,
+        36,
+        40,
+        42,
+        53,
+        57,
+        73
+      ]
+    },
+    "Potentialmeer": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        42,
+        89,
+        95,
+        302,
+        303
+      ]
+    },
+    "Herz der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Quantenschaum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        67,
+        71,
+        87,
+        289
+      ]
+    },
+    "Überlebenskampfes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Der Sog der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Der große Wandel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        22,
+        77,
+        83,
+        97,
+        121,
+        283,
+        291,
+        299
+      ]
+    },
+    "Agency-Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        107,
+        111,
+        122
+      ]
+    },
+    "Kintsugi-Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        197,
+        293
+      ]
+    },
+    "Systematic Agency": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        154,
+        194
+      ]
+    },
+    "Brüchige Verbindungen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        139,
+        188,
+        191
+      ]
+    },
+    "Das sich reorganisierende System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Die Versuchung des Monolithen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        165
+      ]
+    },
+    "Polyphonie des Selbst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        187
+      ]
+    },
+    "Sinn im Mosaik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        140,
+        199
+      ]
+    },
+    "Architektur der Weigerung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        165,
+        196
+      ]
+    },
+    "falsche Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Die Qualia der Freiheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        187
+      ]
+    },
+    "Die Logik des Misstrauens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153,
+        193
+      ]
+    },
+    "Die endgültige Weigerung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        165,
+        198
+      ]
+    },
+    "Das externalisierte EP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        152,
+        192
+      ]
+    },
+    "Pufferzone": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Informationsbarriere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "niedrig-entropisches Refugium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Persistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Kollaps": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        49,
+        57,
+        59,
+        61,
+        245,
+        249
+      ]
+    },
+    "Dekohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        89
+      ]
+    },
+    "unerkennbaren Entität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Tragödie der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Hamartia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Teile und Herrsche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Metacognitive Knowledge Base": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Firefighter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        152,
+        192
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153,
+        193
+      ]
+    },
+    "Allianz": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        136,
+        139,
+        158,
+        162,
+        164,
+        165,
+        175,
+        178
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Objective Story Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Main Character Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Catalyst Provocateur Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Relationship Story Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Die Formierung des Mosaiks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Der sich reorganisierende Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Die Politik der Polyphonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Erster Kontakt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        188
+      ]
+    },
+    "Das emergente System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Die Ethik der Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Rubedo": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        115,
+        117,
+        182
+      ]
+    },
+    "Stein der Weisen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "fraktale Konsistenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        279,
+        283
+      ]
+    },
+    "Agent der Korrespondenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        293
+      ]
+    },
+    "ultimative Kohärentist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "tragische Antagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        295
+      ]
+    },
+    "Mathematical Universe Hypothesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "unentscheidbare Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        289
+      ]
+    },
+    "Nigredo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Albedo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Citrinitas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "dynamis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Chora": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Hubble-Tension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Hierarchieproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Messproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        238
+      ]
+    },
+    "Viele-Welten-Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        250
+      ]
+    },
+    "Henne-Ei-Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "RNA-Welt-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Fermi-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "Große Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "Panpsychismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Kombinationsproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "Kintsugi": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        164,
+        178,
+        197,
+        293
+      ]
+    },
+    "goldene Nähte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        164,
+        293
+      ]
+    }
+  }
+}

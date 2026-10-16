@@ -1,0 +1,50 @@
+{
+  "document": "monstergruppe-als-narrative-inspiration",
+  "drive_id": "1H-Cz_yGTdrc5lgsTi25vGzGl2jrvMP3zKIvFf8eveMI",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document an analysis of mathematics as metaphor for narrative projects in general, naming nothing of the novel (Plan/runs/ingest-303/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 35,
+    "decisions": 34,
+    "decided_by_lookup": 33,
+    "needs_judgement": 1
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis of the Monster group, Monstrous Moonshine and a void outside being as metaphors for narrative projects in general: it names no figure, place or event of the novel, and its Mondschein is the mathematics, not the link; nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Monstergruppe` and `Baby-Monstergruppe` two groups of the mathematics, neither promoted; the document's Mondschein is the mathematical phenomenon, not the Kael–Juna link, so nothing is read on moonshine-link",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document title"
+    }
+  ],
+  "not_promoted": [
+    "everything — the Monster group, the Happy Family and the Pariahs, Monstrous Moonshine and the Mondschein-Moment, the j-invariant and the VOA, the void outside being, the guiding questions"
+  ],
+  "internal_tension": "it leaves the group's relation to being open, platonic or inside being (L143), and asks whether the VOA explains the connection or is it (L120)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

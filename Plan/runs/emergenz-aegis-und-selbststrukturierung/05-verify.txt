@@ -1,0 +1,87 @@
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Grundlagentheorie"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Grundlagentheorie` ^[emergenz-aegis-und-selbststrukturierung.md:#14]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Systemdynamik"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+`Systemdynamik` ^[emergenz-aegis-und-selbststrukturierung.md:#14]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Meta-Struktur"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Meta-Struktur` ^[emergenz-aegis-und-selbststrukturierung.md:#14]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "AEGIS-Bezug"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`AEGIS-Bezug` ^[emergenz-aegis-und-selbststrukturierung.md:#14]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Anwendungsszenarien"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Anwendungsszenarien` ^[emergenz-aegis-und-selbststrukturierung.md:#14]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "postuliertes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`postuliertes` ^[emergenz-aegis-und-selbststrukturierung.md:#2]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "postulierten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`postulierten` ^[emergenz-aegis-und-selbststrukturierung.md:#1]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "hypothetisch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`hypothetisch` ^[emergenz-aegis-und-selbststrukturierung.md:#2]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "hypothetischen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`hypothetischen` ^[emergenz-aegis-und-selbststrukturierung.md:#2]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Void"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Void` ^[emergenz-aegis-und-selbststrukturierung.md:#1]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[emergenz-aegis-und-selbststrukturierung.md:#0]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Quellenangaben"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quellenangaben` ^[emergenz-aegis-und-selbststrukturierung.md:#1]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Luhmann"
+whole word, case-sensitive     5
+whole word, case-insensitive   7
+including compounds            6
+
+`Luhmann` ^[emergenz-aegis-und-selbststrukturierung.md:#5]
+$ python3 scripts/read.py emergenz-aegis-und-selbststrukturierung --count "Maturana"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Maturana` ^[emergenz-aegis-und-selbststrukturierung.md:#2]
+$ stance_marker_count 2+1+2+2 = 7 (postuliertes, postulierten, hypothetisch, hypothetischen)
+$ profile: 13 question marks, 0 table rows (01-profile.txt)
+$ grep -c Kapitel/Kap/Teil: Kapitel above 0

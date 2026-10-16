@@ -1,0 +1,123 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Light pass over a research prompt (instructions to an AI agent, not narrative). The world terms come from the Compact Primer and the constraint blocks; the Dramatica vocabulary is listed under lens; the prompt's own method and framework names are listed as the words it uses as its own terms. Abbreviation-bearing and comma-bearing forms are left out and listed by part.
+
+- Kohärenz Protokoll
+- Kael
+- Juna
+- AEGIS
+- Moonshine-Link
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Alter-System
+- ANP
+- EP
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Silas
+- Oblivion
+- Silas-Juna-Echo
+- Oblivion-AEGIS-Echo
+- Dual-Kernel-Theorie
+- DKT
+- K0
+- K1
+- Kollaps-Kern
+- Kohärenzkern
+- Erasure
+- Erasonen
+- Coheronen
+- Erasure-Sweeps
+- Landauer-Hitze
+- PAL-Operator
+- Zeitpfeil
+- Wächter-Zwiespalt
+- Truth Rotation
+- Vortex
+- Ouroboros
+- Algorithmische Melancholie
+- Dialetheia-Logik
+- Witness Function
+- Mnemosyne-Archipel
+- Leech-Lattice
+- Vertex Operator Algebras
+- Monstergruppe
+- Storyform A
+- Storyform B
+- Heuristics of Integration
+- Phoenix Collapse
+- Suno Album
+- The Weight of Why
+- Memory-Slot-Architektur
+- Dual-Mapping
+- Dual-Storyform-Spiegelung
+- Spiegelregel
+- Mirror-Operator
+- Maximum-2-Ebenen-Überlagerung
+- Maximum 2 Ebenen pro Throughline
+- Fixpunkte
+- Guardian-Kollektiv
+- MAPIT
+- ReAct
+- NotebookLM
+- Contradiction Log
+- Query Expansion Log
+- Falsification
+- Contrast Classes
+- Adversarial Query Expansion
+- First-Principles Decomposition
+- Reflection Baseline
+- Pre-Synthesis Integrity Check
+- Mandate
+- Architecture
+- Permutation Mathematics
+- Interrogation
+- Tensioning
+- Compact Primer
+- Surviving-Branch Triangulation
+- Hypothesis Half-Life Audit
+
+## lens
+
+- Throughline
+- Domains
+- Universe
+- Physics
+- Mind
+- Psychology
+- Perspektiven
+- Overall Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Quad
+- Driver
+- Limit
+- Outcome
+- Judgment
+- Optionlock
+- Timelock
+- Concerns
+- Issues
+- Problems
+- Solutions
+- Storypoints
+- Dynamics
+- Dialetheia
+- Deus ex Machina

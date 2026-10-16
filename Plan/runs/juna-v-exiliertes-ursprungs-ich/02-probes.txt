@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x1
+  glued ref numbers      64
+  backslash escapes      32
+  typographic marks      14
+  ascii quotes           190
+
+# inflection families -- one term, several surfaces
+  chara    Character, Charakter, Charakterbögen, Charakterdynamik, Charaktere, Charaktereigenschaft, Charakterisierung
+  bifur    Bifurcation, Bifurcations, Bifurkation, Bifurkationsereignis, Bifurkationsparameter, Bifurkationstheorie
+  model    Model, Modell, Modelle, Modellen, Modelling, Models
+  seele    Seele, Seelenanteil, Seelenanteils, Seelenraub, Seelenrückholung, Seelenverlust
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsmodellen, Bewusstseinsraum, Bewusstseinszustände
+  handl    Handlung, Handlungsentwicklung, Handlungsfähigkeit, Handlungsimpulsen, Handlungsinstrument
+  psych    Psyche, Psychiatry, Psychologische, Psychology, Psychotraumatology
+  quant    Quanteninformationssysteme, Quanteninformationstheorie, Quantenverschränkung, Quantenzustände, Quantum
+  trans    Transcendence, Transformation, Transitions, Transzendentes, Transzendenz
+  feuer    Feuer, Feuerwehrmann, Feuerwehrmanns, Feuerwehrmänner
+  traum    Traum, Trauma, Traumas, Traumastudien
+  arche    Archetyp, Archetype, Archetypes
+  daten    Datenanalyse, Datenpunkten, Datensatz
+  diese    Diese, Dieser, Dieses
+  dimen    Dimension, Dimensional, Dimensions
+  energ    Energetische, Energie, Energiefeld
+  exila    Exilant, Exilanten, Exilantin
+  gegen    Gegensatz, Gegenseite, Gegenüberstellung
+  herol    Herold, Herolde, Herolds
+  ident    Identity, Identität, Identitätsstörungen
+  imman    Immanence, Immanentes, Immanenz
+  inter    Interconnectedness, Interdependenz, Internal
+  konze    Konzept, Konzepte, Konzepten
+  mecha    Mechanics, Mechanismen, Mechanismus
+  multi    Multi, Multiplicity, Multiplizität
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Eine < Einem
+  Eine < Einen
+  Eine < Seine
+  Eine < Bausteine
+  Exil < Exile
+  Exil < Exils
+  Exil < Exiles
+  Exil < Exilant
+  Exil < Exilanten
+  Exil < Exilantin
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Quanteninformationssysteme
+  Form < Quanteninformationstheorie
+  Hero < Herold

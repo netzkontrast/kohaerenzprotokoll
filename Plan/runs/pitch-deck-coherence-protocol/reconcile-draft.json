@@ -1,0 +1,146 @@
+{
+  "document": "pitch-deck-coherence-protocol",
+  "drive_id": "1kQ6ZG64cslTL7NpfujtdOcThMPTAUutzOA6zRbl1BsY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 61,
+    "decisions": 64,
+    "decided_by_lookup": 40,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        32,
+        33,
+        34,
+        35,
+        54,
+        58,
+        66
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic systemic antagonist and the Negation column of the table"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "the story's conceptual hook, a Gödel sentence as the healed state"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the logline's mysterious presence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        33,
+        34,
+        41,
+        47,
+        52,
+        54,
+        72
+      ],
+      "attribution": "",
+      "note": "the protagonist as the engine of the plot, TSDP system and Integration column"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "the hyper-logical Construct-City among the Core Worlds"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        50
+      ],
+      "attribution": "",
+      "note": "Lex as the rational analyst among the Apparently Normal Parts"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        86
+      ],
+      "attribution": "",
+      "note": "the Nothing Noise in the cosmic-horror genre pitch"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Nyx as the protector among the Emotional Parts"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        72
+      ],
+      "attribution": "",
+      "note": "the dream-like Resonance-Landscape among the Core Worlds"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        47,
+        50,
+        51
+      ],
+      "attribution": "",
+      "note": "TSDP as the clinical grounding of the protagonist's mind"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

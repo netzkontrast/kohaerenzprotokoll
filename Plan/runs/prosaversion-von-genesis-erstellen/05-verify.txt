@@ -1,0 +1,140 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Phase"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Phase` ^[prosaversion-von-genesis-erstellen.md:#12]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Relevanz für"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Relevanz für` ^[prosaversion-von-genesis-erstellen.md:#5]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Regiebuch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Regiebuch` ^[prosaversion-von-genesis-erstellen.md:#1]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Direktive 0"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Direktive 0` ^[prosaversion-von-genesis-erstellen.md:#5]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Komponente 734"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Komponente 734` ^[prosaversion-von-genesis-erstellen.md:#3]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "AEGIS"
+whole word, case-sensitive     82
+whole word, case-insensitive   82
+including compounds            91
+
+`AEGIS` ^[prosaversion-von-genesis-erstellen.md:#82]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Nichts Rauschen"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Nichts Rauschen` ^[prosaversion-von-genesis-erstellen.md:#6]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Rauschen"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Rauschen` ^[prosaversion-von-genesis-erstellen.md:#12]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Szene 11"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szene 11` ^[prosaversion-von-genesis-erstellen.md:#3]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Kael"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Kael` ^[prosaversion-von-genesis-erstellen.md:#12]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Große Angriff"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Große Angriff` ^[prosaversion-von-genesis-erstellen.md:#1]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Echo"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            16
+
+`Echo` ^[prosaversion-von-genesis-erstellen.md:#11]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Outline V4"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Outline V4` ^[prosaversion-von-genesis-erstellen.md:#4]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Beat"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Beat` ^[prosaversion-von-genesis-erstellen.md:#10]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Tabelle 3.1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tabelle 3.1` ^[prosaversion-von-genesis-erstellen.md:#1]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Qualia"
+whole word, case-sensitive     22
+whole word, case-insensitive   23
+including compounds            23
+
+`Qualia` ^[prosaversion-von-genesis-erstellen.md:#22]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Autopoiesis"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Autopoiesis` ^[prosaversion-von-genesis-erstellen.md:#11]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Hard Problem"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`Hard Problem` ^[prosaversion-von-genesis-erstellen.md:#4]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Fragmentierung"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            23
+
+`Fragmentierung` ^[prosaversion-von-genesis-erstellen.md:#21]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kapitel` ^[prosaversion-von-genesis-erstellen.md:#0]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[prosaversion-von-genesis-erstellen.md:#0]
+$ python3 scripts/read.py prosaversion-von-genesis-erstellen --count "Szene"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            34
+
+`Szene` ^[prosaversion-von-genesis-erstellen.md:#21]
+$ grep -n "Relevanz für" Sources/drive/prosaversion-von-genesis-erstellen.md | cut -c1-12   # lines 15 148 157 166 175 (4 headed passages + L15)
+15:Diese Pha
+148:*Relevan
+157:*Relevan
+166:*Relevan
+175:*Relevan
+stance_marker_count 17 = Phase 12 + Relevanz für 5; research questions 6 = numbered items at L234 243 252 261 270 279; scenes in table 13 = rows L326-L338

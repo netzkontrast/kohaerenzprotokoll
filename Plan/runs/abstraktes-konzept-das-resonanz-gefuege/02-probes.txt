@@ -1,0 +1,25 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      30
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  roman    Roman, Romans, Romantitel
+  antei    Anteile, Anteilen
+  inhal    Inhalt, Inhaltsangabe
+  konze    Konzept, Konzepte
+  struk    Struktur, Strukturen
+
+# substring pairs -- never one term, often merged by accident
+  Roman < Romans
+  Roman < Romantitel
+  Titel < Romantitel
+  Inhalt < Inhaltsangabe
+  Anteile < Anteilen
+  Konzept < Konzepte
+  Metapher < Leitmetapher
+  Struktur < Strukturen
+  Struktur < Plotstruktur
+  Kontrolle < Systemkontrolle

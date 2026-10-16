@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-detaillierter-plot-blueprint
+  lines                83  (frontmatter ends at 9)
+  body words           736
+  headings             12   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       3
+  backslash escapes    6
+  typographic marks    75   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    7
+  repeated labels      Dokument-Integration x3, Handlungsbogen x3, Konzept x3
+  longest line         374 chars
+

@@ -1,0 +1,14 @@
+# prosaversion-von-genesis-erstellen
+  lines                355  (frontmatter ends at 9)
+  body words           7461
+  headings             20   bold-only lines 19
+  table rows           16   code fences 0
+  question marks       15
+  backslash escapes    134
+  typographic marks    29   ascii quotes 240
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    69
+  repeated labels      none
+  longest line         12499 chars
+

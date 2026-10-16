@@ -1,0 +1,128 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll-2",
+  "drive_id": "10ibpIv580PQJw3s-igcnVzW8cBSryWxWOf7VxoI7kuc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 58,
+    "decisions": 60,
+    "decided_by_lookup": 54,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        45,
+        61
+      ],
+      "attribution": "",
+      "note": "AEGIS as Logical-Systemic Subsystem"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        49,
+        69
+      ],
+      "attribution": "",
+      "note": "Juna/V as Ontological Subsystem and Impact Character"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        41,
+        65
+      ],
+      "attribution": "",
+      "note": "Kael as Psychological Subsystem and Main Character throughline"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as the ground of the Do-er approach"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "Kiko named among the Exiles"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        73
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the Subjective Story throughline"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "Nyx named among the Protectors"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        27,
+        61
+      ],
+      "attribution": "",
+      "note": "the Risse as the plot's driver and as AEGIS's mistaken symptom"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "TSDP as the starting state of Kael's arc"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

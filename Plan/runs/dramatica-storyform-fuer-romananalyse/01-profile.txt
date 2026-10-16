@@ -1,0 +1,14 @@
+# dramatica-storyform-fuer-romananalyse
+  lines                403  (frontmatter ends at 9)
+  body words           4053
+  headings             29   bold-only lines 0
+  table rows           41   code fences 0
+  question marks       17
+  backslash escapes    293
+  typographic marks    150   ascii quotes 46
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    27
+  repeated labels      Analyse x4, Entscheidung x4
+  longest line         691 chars
+

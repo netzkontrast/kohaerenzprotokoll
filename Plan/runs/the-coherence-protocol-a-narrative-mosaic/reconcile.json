@@ -1,0 +1,288 @@
+{
+  "document": "the-coherence-protocol-a-narrative-mosaic",
+  "drive_id": "1LV6cKons4Kd6o5HhMp3V4mYpWZ2JMROUIc5byPgSpuI",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-263/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 115,
+    "decided_by_lookup": 83,
+    "needs_judgement": 32
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A brief for 39 stories: its new surfaces are the stories' concepts and points of view, the AEGIS System-Wide Log, the four guardian names, the Wächter-Zwiespalt and the Authorial Narrator; what it says of the novel's world went on existing pages and five records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        36,
+        38,
+        39,
+        40,
+        41,
+        146,
+        266
+      ],
+      "attribution": "",
+      "note": "the antagonist as a roster of points of view, with a core logic called Component 734"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        24,
+        26,
+        30
+      ],
+      "attribution": "",
+      "note": "the internal parts as a roster, to be written in close third person"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        40,
+        41,
+        42,
+        46
+      ],
+      "attribution": "",
+      "note": "a monolithic and a rebel Guardian, and one Guardian per Kernwelt"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        49,
+        272
+      ],
+      "attribution": "",
+      "note": "the exiled part of Kael's Ursprungs-Ich as a roster point of view"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        23,
+        49,
+        62,
+        306
+      ],
+      "attribution": "",
+      "note": "the primary host as the first-person point of view, and the collection's model"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        43,
+        44,
+        45,
+        68,
+        146
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, each with a Guardian, in the roster"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        38,
+        146
+      ],
+      "attribution": "",
+      "note": "AEGIS Core Logic named Component 734, the traumatised Ursprungs-Ich after its fragmentation"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        26,
+        68
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        46,
+        92,
+        110,
+        200
+      ],
+      "attribution": "",
+      "note": "an anomaly monitored by a Guardian, in three entries"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        206,
+        266
+      ],
+      "attribution": "",
+      "note": "the static of unformed possibility, seen by two Guardians"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        204,
+        206,
+        266
+      ],
+      "attribution": "",
+      "note": "the unformed chaos beyond the simulation, in two entries"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        206
+      ],
+      "attribution": "",
+      "note": "a tear in the simulation, assigned to a Guardian"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        34
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27,
+        30,
+        60,
+        62
+      ],
+      "attribution": "",
+      "note": "the brief's alter classes and its first story"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        146,
+        278
+      ],
+      "attribution": "",
+      "note": "the simulation maintained by Component 734, and the Simulation Core as a point of view"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` and `Subject: Kael` on kael; `AEGIS Core Logic`, `AEGIS System-Wide Log` and the prime directive on aegis; `Kernwelt`, `Kernwelten` and `Kernwelt 1`–`Kernwelt 4` on kern-welten (J26); `Riss` and `Risse` one term (on risse); `Guardian`, `Guardian's Dilemma`, `Monolithic Guardian` and `Rebel Guardian` read on guardians, not the Integrity Guardian; `Manager` and `Managers/Firefighters`, `Self` and `Self-leadership` IFS lens; `Juna/V` on juna (J34); `Simulation Theory` a lens, not the Überwelt; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 49,
+      "decision": "reading",
+      "why": "Juna/V the exiled part of Kael's Ursprungs-Ich"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "the 39 stories and their concepts",
+    "the points of view as such",
+    "the Authorial Narrator",
+    "the Architect, Network-Weaver, Chaos-Regulator, Possibility-Weaver",
+    "the Wächter-Zwiespalt",
+    "the AEGIS System-Wide Log"
+  ],
+  "internal_tension": "it places the Ursprungs-Ich twice — the AEGIS core is the Ursprungs-Ich after fragmentation (L38), and Juna/V the exiled part of Kael's Ursprungs-Ich (L49); whether the rebel Guardian and Story 39's former AEGIS agent are one figure is left open",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

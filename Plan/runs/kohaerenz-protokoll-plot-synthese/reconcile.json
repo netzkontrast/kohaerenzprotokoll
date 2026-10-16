@@ -1,0 +1,188 @@
+{
+  "document": "kohaerenz-protokoll-plot-synthese",
+  "drive_id": "1nO4dbh6mZZTm___-i2h6BCmzIO2hQ5V-ReW_05s-3tQ",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and three record entries (Q1, Q3, Q8) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-308/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 38,
+    "decisions": 38,
+    "decided_by_lookup": 34,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A 39-beat plot blueprint: its new surfaces are M and its properties, the Parias, the Kernkonflikt, the Gödel-Punkt, its beats and variants and borrowed logic; what it says of AEGIS, Kael, Juna, the alters, DID, the Kernwelten, the Guardians, the Potentialmeer, emergence, the Risse and the link went on existing pages, and its variants and counts on Q1, Q3 and Q8.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        63,
+        177,
+        275,
+        279,
+        285,
+        304,
+        386
+      ],
+      "attribution": "",
+      "note": "AEGIS as an entity of negation, its arc, and three open resolutions"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        42,
+        310
+      ],
+      "attribution": "",
+      "note": "the Alters as facets of M's internal structure"
+    },
+    {
+      "page": "did",
+      "lines": [
+        40,
+        69,
+        131,
+        155
+      ],
+      "attribution": "",
+      "note": "DID as AEGIS's analytic tool and its integration"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        149,
+        173,
+        257,
+        286
+      ],
+      "attribution": "",
+      "note": "emergence applied to beats of Akt 2 and Akt 3"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        306,
+        311
+      ],
+      "attribution": "",
+      "note": "Guardians as minor, functional figures of AEGIS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        41,
+        239,
+        305
+      ],
+      "attribution": "",
+      "note": "Juna and the K-J Verbindung as the embodiment of Moonshine"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        40,
+        213,
+        268,
+        291
+      ],
+      "attribution": "",
+      "note": "Kael as M's avatar, his integration and his fate"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        75,
+        77,
+        255
+      ],
+      "attribution": "",
+      "note": "four isolated laboratories, activated in Beat 4 and merged in Beat 32"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        41,
+        89,
+        305
+      ],
+      "attribution": "",
+      "note": "the K-J Verbindung as the embodiment of Moonshine"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        27,
+        28,
+        57
+      ],
+      "attribution": "",
+      "note": "the sea in which AEGIS exists and M is detected"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        131,
+        177
+      ],
+      "attribution": "",
+      "note": "cracks at the end of Akt 1 and in AEGIS's system in Akt 2"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Alters` and `Alter` on alters; `Parias` and `Paria` M's outsiders, not promoted; `Moonshine` read on moonshine-link where the line is about the K-J connection, else M's property",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 131,
+      "decision": "reading",
+      "why": "first Risse at the end of Akt 1"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the NZT-48 Simulation authorisation label"
+    }
+  ],
+  "not_promoted": [
+    "M and its five properties",
+    "the Parias, the Kernkonflikt, the Gödel-Punkt",
+    "NZT-48, the beats and acts, the Auflösungsvarianten, the concept matrix",
+    "the borrowed lens (parakonsistente Logik, Dialetheismus, Nicht-lokalität, Quantenverschränkung)"
+  ],
+  "internal_tension": "it leaves the ending open in three variants (Beats 35–37, L386) and says its stress points are no fundamental weaknesses (L388); it calls itself final and ready for execution (L13, L390)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

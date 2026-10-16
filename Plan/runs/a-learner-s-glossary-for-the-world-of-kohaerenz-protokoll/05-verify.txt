@@ -1,0 +1,50 @@
+# every number the census and note state; output pasted from read.py --count (case-insensitive lines trimmed)
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "real-world"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`real-world` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "in-world"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`in-world` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#1]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "Phi"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Phi` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#3]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "Das Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Fundament` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#1]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "The Foundation"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`The Foundation` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#5]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "Sea of Potential"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Sea of Potential` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#2]
+$ read.py a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risse` ^[a-learner-s-glossary-for-the-world-of-kohaerenz-protokoll.md:#1]
+$ grep -n "?" Sources/drive/<slug>.md  -> L21 L22 L23 L29 L30 L31 (six lines); stance_marker_count 3 = real-world 2 + in-world 1

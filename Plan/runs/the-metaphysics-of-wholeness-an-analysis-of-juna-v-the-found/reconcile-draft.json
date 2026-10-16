@@ -1,0 +1,133 @@
+{
+  "document": "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
+  "drive_id": "1VWQxIeQmFCubxVMucu6nJjAmqcctQv5xjXGKb9qFUOk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 45,
+    "decisions": 43,
+    "decided_by_lookup": 40,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        31,
+        37,
+        60,
+        72
+      ],
+      "attribution": "",
+      "note": "AEGIS as a closed Coherentist system that exiles, and cannot see the link"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "algorithmic melancholy as the end state forced on AEGIS"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        21,
+        30
+      ],
+      "attribution": "",
+      "note": "Juna/V as origin from the External Level"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "Kael as a living Gödel-Satz"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        30,
+        31
+      ],
+      "attribution": "",
+      "note": "Juna/V as exiled Ursprungs-Ich and transcendent entity"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        52,
+        101,
+        107,
+        116,
+        120
+      ],
+      "attribution": "",
+      "note": "Kael's integration arc: gnosis, embodiment, and the ethics of multiplicity"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        52,
+        56,
+        60,
+        64
+      ],
+      "attribution": "",
+      "note": "a non-local, AEGIS-blind channel for gnosis"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        30,
+        31
+      ],
+      "attribution": "",
+      "note": "the exile named as the Separation Protocol"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 11,
+      "decision": "reading",
+      "why": "the report's subject Juna/V, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

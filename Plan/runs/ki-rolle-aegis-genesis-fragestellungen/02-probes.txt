@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      86
+  typographic marks      121
+  ascii quotes           50
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemanalyse, Systemarchitektur, Systembedrohung, Systembus, Systemdynamik, Systemdynamiken, Systeme, Systemfeind, Systemintegrität, Systemisch, Systemrettung, Systems, Systemstabilität, Systemstruktur, Systemteil, Systemtheoretisch
+  daten    Daten, Datenanomalie, Datenfehler, Datenflut, Datenkonsistenz, Datensatz, Datenverwaltung
+  infor    Information, Informationelles, Informationen, Informationsstruktur, Informationstheorie
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsinhalts, Bewusstseinszustandes
+  exist    Existence, Existential, Existenz, Existenzphilosophie
+  fragm    Fragment, Fragmentation, Fragmente, Fragmentierung
+  ident    IDENTITY, Identity, Identität, Identitätsdefinition
+  parad    Paradiese, Paradox, Paradoxien, Paradoxon
+  poten    Potential, Potentialität, Potentialmeer, Potentialmeers
+  proto    Protocol, Protokoll, Protokolle, Protokolls
+  roman    Roman, Romanprojekts, Romans, Romanwelt
+  selbs    Selbst, Selbstassemblierung, Selbsterhaltung, Selbstwahrnehmung
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widersprüchliche
+  ander    Andere, Anderen, Anders
+  archi    Architektur, Archivar, Archive
+  bedro    Bedrohung, Bedrohungsanalyse, Bedrohungslage
+  diese    Diese, Dieser, Dieses
+  disso    Dissonance, Dissonanz, Dissoziation
+  entit    Entity, Entität, Entitäten
+  fehle    Fehler, Fehlerberichte, Fehlerkorrektur
+  frage    Frage, Fragen, Fragestellungen
+  genes    GENESIS, Genese, Genesis
+  inval    Invalid, Invalidation, Invalidierung
+  kontr    Kontroll, Kontrolle, Kontrollvariablen
+
+# substring pairs -- never one term, often merged by accident
+  Bran < Branes
+  Bran < Membranen
+  CORE < Core
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Paradiese
+  Ende < Entscheidende
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationelles
+  Form < Informationstheorie
+  Form < Informationsstruktur
+  INST < Instabilität
+  IOWA < Iowa
+  Kael < Kaels
+  Kern < Kernlogik
+  Kern < Kernsystem
+  Kern < Kernwelten

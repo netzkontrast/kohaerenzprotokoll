@@ -1,0 +1,69 @@
+{
+  "document": "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
+  "drive_id": "1VWQxIeQmFCubxVMucu6nJjAmqcctQv5xjXGKb9qFUOk",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 20,
+  "typographic_marks": 10,
+  "ascii_quotes": 50,
+  "inflection_families": {
+    "defin": [
+      "Defined",
+      "Defining",
+      "Definition"
+    ],
+    "catal": [
+      "Catalyst",
+      "Catalytic"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherentist"
+    ],
+    "epist": [
+      "Episteme",
+      "Epistemological"
+    ],
+    "ethic": [
+      "Ethical",
+      "Ethics"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "metap": [
+      "Metaphysical",
+      "Metaphysics"
+    ],
+    "separ": [
+      "Separate",
+      "Separation"
+    ],
+    "truth": [
+      "Truth",
+      "Truths"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Truth",
+      "Truths"
+    ],
+    [
+      "Physics",
+      "Metaphysics"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Integration",
+      "Reintegration"
+    ]
+  ]
+}

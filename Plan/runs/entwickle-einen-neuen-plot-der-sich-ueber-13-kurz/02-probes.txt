@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      45
+  backslash escapes      0
+  typographic marks      5
+  ascii quotes           90
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemanalytiker, Systembruch, Systemdiagnose, Systemfehlers, Systems
+  reali    Realität, Realitäten, Realitäts, Realitätsebene, Realitätsriss
+  fragm    Fragment, Fragmentiertes, Fragmentierung, Fragments
+  inter    Interface, Interfaces, Interne, Intervention
+  persp    Perspektive, Perspektiven, Perspektivenvielfalt, Perspektivwechsel
+  repar    Reparatur, Reparaturversuch, Reparaturversuche, Reparaturversuchen
+  schwe    Schwelle, Schwellenüberschreitung, Schwerpunkte, Schwertes
+  selbs    Selbst, Selbsterkenntnis, Selbstorganisation, Selbstzerstörung
+  archi    Archipel, Architekt, Architekten
+  chara    Charaktere, Charakterisierung, Charakterprofile
+  erzäh    Erzähler, Erzählers, Erzählweise
+  gesch    Geschehen, Geschichte, Geschichten
+  grund    Grundfesten, Grundlage, Grundstruktur
+  handl    Handlungsebene, Handlungsfähigkeit, Handlungsphase
+  kontr    Kontrollraum, Kontrollverlust, Kontrollversuch
+  konze    Konzept, Konzepten, Konzeptionelle
+  simul    Simulation, Simulationen, Simulationsebene
+  werkz    Werkzeug, Werkzeuge, Werkzeugen
+  anoma    Anomalie, Anomalien
+  arbei    Arbeit, Arbeitstitel
+  aufga    Aufgabe, Aufgaben
+  außen    Außen, Außenstehende
+  bluep    Blueprint, Blueprints
+  diese    Diese, Dieser
+  durch    Durchbruch, Durchlässigkeit
+
+# substring pairs -- never one term, often merged by accident
+  Echo < Echos
+  Eine < Deine
+  Eine < Keine
+  Ende < Folgenden
+  Ende < Wendepunkt
+  Ende < Außenstehende
+  Form < Information
+  Form < Informationen
+  Held < Heldenreise
+  Info < Information
+  Info < Informationen
+  Kern < Kernthemen
+  Kern < Kernkonzepte
+  Kern < Kernschmelze
+  Kern < Kernkonflikts
+  Meta < Metaphorik
+  Neue < Neuer
+  Plot < Plots
+  Plot < Plotpunkt
+  Plot < Plotpunkte

@@ -2,7 +2,7 @@
   "document": "konsolidierung-des-hard-canon-protokolls",
   "drive_id": "1jpBHMqoiAb7POikgNV7bGs__y9PhNQz3-GkAw7T41Cs",
   "step": "counts",
-  "at": "2026-09-30",
+  "at": "2026-10-12",
   "by": "scripts/capture.py",
   "candidate_source": "written-while-reading",
   "usable_as_baseline": true,
@@ -36,11 +36,6 @@
       "lines": [
         7
       ]
-    },
-    "Version: 2.0": {
-      "n": 0,
-      "n_including_compounds": 0,
-      "lines": []
     },
     "Kael": {
       "n": 6,
@@ -111,6 +106,21 @@
         47
       ]
     },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "39-Kapitel-Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        49
+      ]
+    },
     "Juna": {
       "n": 4,
       "n_including_compounds": 6,
@@ -136,6 +146,21 @@
         14
       ]
     },
+    "System-Genesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        14
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        14,
+        29
+      ]
+    },
     "Moonshine-Link": {
       "n": 1,
       "n_including_compounds": 1,
@@ -155,14 +180,6 @@
         48
       ]
     },
-    "Guardians": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        24,
-        28
-      ]
-    },
     "Das Kael-AEGIS-Spiegelkabinett": {
       "n": 1,
       "n_including_compounds": 1,
@@ -177,112 +194,12 @@
         15
       ]
     },
-    "Funktionale Multiplizität": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        13
-      ]
-    },
-    "Amnesie-Barrieren": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        13
-      ]
-    },
-    "39-Kapitel-Matrix": {
+    "Guardians": {
       "n": 2,
       "n_including_compounds": 2,
       "lines": [
-        13,
-        49
-      ]
-    },
-    "3 Akte × 13 Anteile": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        13
-      ]
-    },
-    "System-Genesis": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        14
-      ]
-    },
-    "Nichts-Rauschen": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        14,
-        29
-      ]
-    },
-    "Basisrealität": {
-      "n": 2,
-      "n_including_compounds": 2,
-      "lines": [
-        29,
-        33
-      ]
-    },
-    "Kernwelten": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        29
-      ]
-    },
-    "Köln 2026": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        33
-      ]
-    },
-    "Erinnerungs-Risse": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        29
-      ]
-    },
-    "Fraktale Zeitstruktur": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        29
-      ]
-    },
-    "Das Psychologische Kammerspiel": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        33
-      ]
-    },
-    "Das Ouroboros-Ende": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        34
-      ]
-    },
-    "Zyklische Auflösung": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        34
-      ]
-    },
-    "vertauschten Rollen": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        34
+        24,
+        28
       ]
     },
     "Hybride Erzählperspektive": {
@@ -320,103 +237,68 @@
         28
       ]
     },
-    "DKT": {
-      "n": 0,
+    "KHZ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Fraktale Zeitstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Basisrealität": {
+      "n": 2,
       "n_including_compounds": 2,
       "lines": [
-        28,
-        48
+        29,
+        33
       ]
     },
-    "Hard-SF-Interface-Elemente": {
+    "Das Psychologische Kammerspiel": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        28
+        33
       ]
     },
-    "Status-Header": {
+    "Köln 2026": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        28
+        33
       ]
     },
-    "\\[KHZ: 0.74\\]": {
+    "Das Ouroboros-Ende": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        28
+        34
       ]
     },
-    "physische Glitches": {
+    "Zyklische Auflösung": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        28
+        34
       ]
     },
-    "somatische Marker": {
+    "vertauschten Rollen": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        28
-      ]
-    },
-    "Temperaturabfall": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        28
-      ]
-    },
-    "SYSTEM-UPDATE REQUEST": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        36
-      ]
-    },
-    "AGENT DIRECTIVE": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        36
-      ]
-    },
-    "CANON\\_SYNC": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        40
-      ]
-    },
-    "DECISION\\_LOG.md": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        44
-      ]
-    },
-    "Character\\_Bible.md": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        47
-      ]
-    },
-    "STYLEGUIDE.md": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        48
-      ]
-    },
-    "CLAUDE.md": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        48
+        34
       ]
     },
     "Repository-Bereinigung": {
@@ -454,11 +336,18 @@
         50
       ]
     },
-    "Memory-Server": {
+    "CANON\\_SYNC": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
-        50
+        40
+      ]
+    },
+    "DECISION\\_LOG.md": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
       ]
     },
     "DEPRECATED": {
@@ -468,13 +357,6 @@
         46
       ]
     },
-    "Landauer-Prinzip": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        28
-      ]
-    },
     "TSDP": {
       "n": 1,
       "n_including_compounds": 1,
@@ -482,25 +364,26 @@
         23
       ]
     },
+    "Ouroboros": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        49
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
     "Qualia": {
       "n": 1,
       "n_including_compounds": 1,
       "lines": [
         15
-      ]
-    },
-    "autopoietische": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        15
-      ]
-    },
-    "Dissoziation": {
-      "n": 1,
-      "n_including_compounds": 1,
-      "lines": [
-        23
       ]
     }
   }

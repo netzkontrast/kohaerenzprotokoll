@@ -1,0 +1,32 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      28
+  typographic marks      21
+  ascii quotes           94
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coheron, Coherons
+  aegis    AEGIS, Aegis
+  confl    Conflict, Conflicts
+  corre    Corrective, Correspondence
+  entro    Entropic, Entropy
+  found    Foundation, Foundational
+  integ    Integration, Integrative
+  reali    Realignment, Reality
+  strat    Strategic, Strategy
+  syste    System, Systemic
+  these    These, Theseus
+  unive    Universal, Universe
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  AEGIS < Aegis
+  Logic < Psychological
+  Logic < Epistemological
+  These < Theseus
+  System < Systemic
+  Thesis < Synthesis
+  Coheron < Coherons
+  Conflict < Conflicts
+  Foundation < Foundational

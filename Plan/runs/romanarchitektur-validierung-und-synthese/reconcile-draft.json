@@ -1,0 +1,292 @@
+{
+  "document": "romanarchitektur-validierung-und-synthese",
+  "drive_id": "17LUVm2XAD1K9CTOSOPXApni4hOG0DJnPzBCbFrDLs_w",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 62,
+    "decided_by_lookup": 58,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        93,
+        114,
+        179,
+        181,
+        195
+      ],
+      "attribution": "",
+      "note": "AEGIS placed as the Collapse Kernel"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        114,
+        123
+      ],
+      "attribution": "",
+      "note": "what follows the touch at the Nexus"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "Kael anchored in TSDP with isolated Alters"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        181
+      ],
+      "attribution": "",
+      "note": "Kael's dissociative loops as a Coheron"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        29,
+        31
+      ],
+      "attribution": "",
+      "note": "Axis 1, Dual-Kernel Theory, inverted"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        91,
+        101,
+        181
+      ],
+      "attribution": "",
+      "note": "the world threatened by entropy in Storyform B"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        41,
+        57,
+        75,
+        127,
+        205,
+        245,
+        246,
+        248
+      ],
+      "attribution": "",
+      "note": "Influence Character and Gödel-sentence"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        29,
+        83,
+        111,
+        112,
+        114,
+        181,
+        227
+      ],
+      "attribution": "",
+      "note": "Kael across the two storyforms and the Nexus"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "LogOS at the Nexus"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "Mnemosyne at the Nexus"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        41,
+        167,
+        205
+      ],
+      "attribution": "",
+      "note": "Axis 4 and the open thermodynamic question"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        114,
+        227
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz after the touch"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        25,
+        114
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        49,
+        111,
+        221,
+        399
+      ],
+      "attribution": "",
+      "note": "the Nexus as the place of the climax"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        29,
+        181
+      ],
+      "attribution": "",
+      "note": "the Nichts-Rauschen as AEGIS's heat"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "the Sea of Potentiality"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        61,
+        63
+      ],
+      "attribution": "",
+      "note": "the Truth-Rotation Verdict"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        83,
+        187,
+        235
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's anchor and the story's frame"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        33,
+        49,
+        221
+      ],
+      "attribution": "",
+      "note": "the Vortex Inversion as Axis 2 and Axis 6"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 83,
+      "decision": "reading",
+      "why": "Kael struggling with isolated Alters"
+    },
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 31,
+      "decision": "reading",
+      "why": "Axis 1, the inverted kernels"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 101,
+      "decision": "reading",
+      "why": "the decaying construct ruled by entropy, if characterised"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 147,
+      "decision": "occurrence",
+      "why": "a reader device"
+    },
+    {
+      "page": "truth-rotation",
+      "surface": "Truth-Rotation",
+      "line": 61,
+      "decision": "reading",
+      "why": "the Truth-Rotation Verdict"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "the simulation in general"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 33,
+      "decision": "reading",
+      "why": "the Dual-Storyform with Vortex Inversion"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

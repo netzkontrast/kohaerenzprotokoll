@@ -1,0 +1,105 @@
+# every number stated in census/note, with the command that produced it
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Vor- und Nachteile"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Vor- und Nachteile` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Mechanismus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Mechanismus` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Kohärenz Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Echtzeitsystemen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Echtzeitsystemen` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Zugriff am April"
+whole word, case-sensitive     54
+whole word, case-insensitive   54
+including compounds            54
+
+`Zugriff am April` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#54]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Kohärenzprotokolle"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            25
+
+`Kohärenzprotokolle` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Cache-Kohärenz"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            36
+
+`Cache-Kohärenz` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#21]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Interconnect"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            11
+
+`Interconnect` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Roman"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Roman` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Figur"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Figur` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-analyse-und-verstaendnis --count "Token Coherence"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Token Coherence` ^[kohaerenz-protokoll-analyse-und-verstaendnis.md:#3]
+
+stance_marker_count 6 = 2 + 3 + 1 (Vor- und Nachteile, Mechanismus, Referenzen)
+
+$ grep -c U+200B
+10
+profile (01-profile.txt): glued ref numbers 76, invisible characters U+200Bx10

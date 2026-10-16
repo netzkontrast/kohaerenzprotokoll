@@ -1,0 +1,176 @@
+{
+  "document": "roman-outline-kohaerenz-protokoll",
+  "drive_id": "1UBVbKlmaAY9o-yUQfWt_Pek4GAIqZbC4tr8z1JbOWHU",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 0,
+  "typographic_marks": 14,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systembericht",
+      "Systemik",
+      "Systems",
+      "Systemstabilität",
+      "Systemvariablen"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstrukts"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzsituationen"
+    ],
+    "stadt": [
+      "Stadt",
+      "Stadtstruktur",
+      "Stadtviertel"
+    ],
+    "archi": [
+      "Architektur",
+      "Archiv"
+    ],
+    "barri": [
+      "Barriere",
+      "Barrieren"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropische"
+    ],
+    "horro": [
+      "Horror",
+      "Horrors"
+    ],
+    "infor": [
+      "Information",
+      "Informationsparadox"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapiteln"
+    ],
+    "konti": [
+      "Kontingenz",
+      "Kontinuum"
+    ],
+    "nicht": [
+      "Nichts",
+      "Nichtsein"
+    ],
+    "objek": [
+      "Objekt",
+      "Objekten"
+    ],
+    "physi": [
+      "Physik",
+      "Physische"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolls"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstmodell"
+    ],
+    "techn": [
+      "Technischen",
+      "Technothriller"
+    ],
+    "turin": [
+      "Turing",
+      "Turingmaschine"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ding",
+      "Bedingung"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsparadox"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Sein",
+      "Dasein"
+    ],
+    [
+      "Sein",
+      "Nichtsein"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Teil",
+      "Teilen"
+    ],
+    [
+      "Bruch",
+      "Schiffbruch"
+    ],
+    [
+      "Bruch",
+      "Zusammenbruch"
+    ],
+    [
+      "Bruch",
+      "Symmetriebruch"
+    ],
+    [
+      "Stadt",
+      "Stadtviertel"
+    ],
+    [
+      "Stadt",
+      "Stadtstruktur"
+    ],
+    [
+      "Thema",
+      "Mathematik"
+    ],
+    [
+      "Grenze",
+      "Grenzen"
+    ],
+    [
+      "Horror",
+      "Horrors"
+    ],
+    [
+      "Modell",
+      "Selbstmodell"
+    ],
+    [
+      "Nichts",
+      "Nichtsein"
+    ]
+  ]
+}

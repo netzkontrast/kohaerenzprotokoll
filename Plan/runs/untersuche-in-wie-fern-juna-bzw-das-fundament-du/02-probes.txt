@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      8
+  backslash escapes      10
+  typographic marks      5
+  ascii quotes           184
+
+# inflection families -- one term, several surfaces
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragments
+  erlös    Erlöser, Erlöserfigur, Erlöserin, Erlösung
+  syste    System, Systeme, Systemkollaps, Systemrauschen
+  geset    Gesetz, Gesetzes, Gesetzmäßigkeit
+  imple    Implementieren, Implementierung, Implementierungsanweisungen
+  kontr    Kontradiktion, Kontradiktionen, Kontrolle
+  narra    Narrativ, Narrativer, Narratives
+  quant    Quanteninformationssysteme, Quantenverbindung, Quantenverschränkung
+  aegis    AEGIS, Aegis
+  bewus    Bewusstsein, Bewusstseinsintegration
+  daten    Daten, Datenübertragung
+  diese    Diese, Dieses
+  exter    Externe, Externen
+  funda    Fundament, Fundaments
+  globa    Globale, Globalen
+  kateg    Kategorie, Kategorienfehler
+  kernk    Kernkontradiktionen, Kernkonzepte
+  kernw    Kernwelten, Kernwidersprüche
+  konze    Konzept, Konzepte
+  lösun    Lösung, Lösungen
+  parad    Paradoxien, Paradoxon
+  perso    Person, Personen
+  plaus    Plausibilisierung, Plausible
+  regel    Regel, Regeln
+  rolle    Rolle, Rollendefinition
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieses
+  Exil < Exile
+  Exil < Exilant
+  Exil < Exiliertes
+  Kael < Kaels
+  Kern < Kernsystem
+  Kern < Kernwelten
+  Kern < Kernkonzepte
+  Kern < Kernwidersprüche
+  Kern < Kernkontradiktionen
+  Loch < Wurmloch
+  Sein < Seine
+  Sein < Bewusstsein
+  Sein < Bewusstseinsintegration
+  Teil < Teile
+  Teil < Teils
+  AEGIS < Aegis
+  Daten < Datenübertragung
+  Diese < Dieses

@@ -1,0 +1,155 @@
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kapitel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kapitel` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#6]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Nutzeranfrage"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Nutzeranfrage` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#7]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Narrative Phase"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Narrative Phase` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kernemotion"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kernemotion` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Zentrale Metaphern/Motive"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Zentrale Metaphern/Motive` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Konsistente AEGIS Perspektive"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Konsistente AEGIS Perspektive` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Musikalische/Stilistische Anregungen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Musikalische/Stilistische Anregungen` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Lyrische Kernideen/Fragestellungen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Lyrische Kernideen/Fragestellungen` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kern-Welten"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Kern-Welten` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#19]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Überwelt"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Überwelt` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#7]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Systematic Agency"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Systematic Agency` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#11]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Informationssingularität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Informationssingularität` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#1]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Option A"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Option A` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#9]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Option B"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Option B` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#9]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kael-Juna-Phänomen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kael-Juna-Phänomen` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#13]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kael-Juna-System"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kael-Juna-System` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#7]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kael-Juna-Entität"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael-Juna-Entität` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#2]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Lex"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Lex` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#5]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Argus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Argus` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#3]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#1]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#0]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#0]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lock` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#0]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "Sync"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Sync` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#0]
+$ python3 scripts/read.py aegis-singularitaet-jenseits-entropiegleichung-2 --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`canon` ^[aegis-singularitaet-jenseits-entropiegleichung-2.md:#0]
+# stance_marker_count 85 = 6 song-concept labels x 13 (78) + Nutzeranfrage 7
+# profile: backslash escapes 451, glued ref numbers 53, headings 27 (python3 scripts/capture.py output 01-profile.txt)
+# Option A/B etc: Zero Kern-Welt: grep -no 'Kern-Welt[a-z]*' Sources/drive/aegis-singularitaet-jenseits-entropiegleichung-2.md => Kern-Welt x1 (L235 in Kael-Kern-Welt), Kern-Welten x19
+# Lex 5 word, 7 in: Lexikon at L62 and L190 (grep -no)
+# DIS: grep -no '\bDIS\b' => L247 only; DISSOZIATION L547 is the other substring hit

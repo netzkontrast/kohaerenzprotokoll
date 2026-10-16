@@ -1,0 +1,14 @@
+# kernwelten-und-fragmentierte-wahrnehmung
+  lines                461  (frontmatter ends at 9)
+  body words           8111
+  headings             2   bold-only lines 20
+  table rows           21   code fences 0
+  question marks       30
+  backslash escapes    316
+  typographic marks    27   ascii quotes 96
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    89
+  repeated labels      Atmosphärische Dichte (Sensory Details) x4, Core Principle Revisited x4, Interaktionspotenzial (Triggers/Foci) x4, Psychologische Resonanz (TSDP Dynamics) x4, Core Identity/TSDP Role & State x3, Figurative Language x3, Sensory Focus x3, Syntax/Sentence Structure x3, Tone x3, Vocabulary/Diction x3
+  longest line         1160 chars
+

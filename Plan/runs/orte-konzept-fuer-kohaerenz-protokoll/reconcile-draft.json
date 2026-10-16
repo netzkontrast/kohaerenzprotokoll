@@ -1,0 +1,294 @@
+{
+  "document": "orte-konzept-fuer-kohaerenz-protokoll",
+  "drive_id": "1oxFXFdb1lM6Eoij-M5tL2scPFysBf7zfN1OVzJFYZ8o",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 138,
+    "decisions": 156,
+    "decided_by_lookup": 86,
+    "needs_judgement": 70
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        33,
+        64,
+        71,
+        90,
+        324,
+        523
+      ],
+      "attribution": "",
+      "note": "AEGIS in the places concept: the Überwelt as its domain, symbols it might use, the Kern-Nexus"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        33,
+        42,
+        131,
+        302,
+        308,
+        321,
+        359
+      ],
+      "attribution": "",
+      "note": "where the places concept lets the alters shape or inhabit places"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        48,
+        306,
+        309,
+        311
+      ],
+      "attribution": "",
+      "note": "Cerberus in the places concept: KW3 as the world of defence"
+    },
+    {
+      "page": "did",
+      "lines": [
+        42,
+        56,
+        378
+      ],
+      "attribution": "",
+      "note": "the places concept's minimal use of DID"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        26,
+        53,
+        77,
+        320
+      ],
+      "attribution": "",
+      "note": "Entropie in the places concept: dissonance, glitch art and a Glitch-Garten"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        93,
+        334,
+        335,
+        336,
+        337,
+        555,
+        560
+      ],
+      "attribution": "",
+      "note": "the places concept's five hedged places for the Externe Ebene"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        44,
+        324,
+        328,
+        359,
+        521,
+        523
+      ],
+      "attribution": "",
+      "note": "Guardians in the places concept: domains, interface and hubs"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        93,
+        299,
+        320,
+        327,
+        333,
+        557,
+        577
+      ],
+      "attribution": "",
+      "note": "the places concept's hedged placings of Juna on the Externe Ebene and elsewhere"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        30,
+        42,
+        288,
+        299,
+        312,
+        321,
+        359,
+        610
+      ],
+      "attribution": "",
+      "note": "how the places concept ties its places to Kael's psyche and perception"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        288,
+        354,
+        355,
+        359
+      ],
+      "attribution": "",
+      "note": "the concept's table row and profile 1 for Kael's dwelling in KW1"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        315,
+        318,
+        319,
+        504
+      ],
+      "attribution": "",
+      "note": "Kairos in the places concept: KW4, always as Kairos/Sophia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        29,
+        42,
+        48
+      ],
+      "attribution": "",
+      "note": "what the places concept proposes the Kern-Welten are and look like"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        48,
+        288,
+        292,
+        326,
+        385
+      ],
+      "attribution": "",
+      "note": "LogOS in the places concept: KW1 and the watching"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        48,
+        300,
+        301,
+        400
+      ],
+      "attribution": "",
+      "note": "Mnemosyne in the places concept: KW2 and its sources"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        17,
+        24,
+        25,
+        177,
+        343
+      ],
+      "attribution": "",
+      "note": "six levels and a nested consistency in the places concept"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        64,
+        297,
+        358,
+        529,
+        576
+      ],
+      "attribution": "",
+      "note": "Risse in the places concept: a design task for every place"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        318,
+        320,
+        508
+      ],
+      "attribution": "",
+      "note": "Sophia in the places concept: only with Kairos, and alone at one place"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        71,
+        86,
+        87,
+        90,
+        331
+      ],
+      "attribution": "",
+      "note": "the places concept's Überwelt: aesthetics of AEGIS and eight places"
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        297,
+        393,
+        394,
+        396
+      ],
+      "attribution": "",
+      "note": "the places concept's Vergessener Schrein, KW2-01 and profile 4"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kaels-wohneinheit",
+      "surface": "Kaels Wohneinheit",
+      "line": 205,
+      "decision": "reading",
+      "why": "the Wohneinheit as an example place, read on kaels-wohneinheit"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,96 @@
+# numbers stated in census and note, each from read.py --count
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "blueprint"
+whole word, case-sensitive     6
+whole word, case-insensitive   7
+including compounds            6
+
+`blueprint` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#6]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "source documents"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`source documents` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "AEGIS"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`AEGIS` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#10]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "Kael"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Kael` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#14]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "functional multiplicity"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`functional multiplicity` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#2]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "Gödel-Gambit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gödel-Gambit` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#3]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "ANPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANPs` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "KW2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW2` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "KW3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW3` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "KW4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW4` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "DID"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`DID` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+$ read.py how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw --count "EPs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EPs` ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:#1]
+stance_marker_count 7 = blueprint (case-sensitive 6) + source documents (1)
+$ grep -c '^### ' Sources/drive/how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md: 6  (5 numbered + closing = 6 ### headings; the title is #)
+
+## Coordinator, 2026-10-12: removed four duplicate candidates
+`autopoietic system`, `uncanny valley`, `rhizomatic self` and `Gödel sentence` stood both in the main list and under `## lens` (census.py check: two rows each). Their main-list lines were removed, the lens entries kept, capture.py --count re-run and the census table redrafted; the reader's prose sections are unchanged.

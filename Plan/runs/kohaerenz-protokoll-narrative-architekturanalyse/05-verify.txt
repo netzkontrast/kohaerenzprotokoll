@@ -1,0 +1,109 @@
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "könnte"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`könnte` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "sollte"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`sollte` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "muss"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`muss` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#10]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Narrative Manifestation"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Narrative Manifestation` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#6]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Zugriff am Juli 29, 2025"
+whole word, case-sensitive     82
+whole word, case-insensitive   82
+including compounds            82
+
+`Zugriff am Juli 29, 2025` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#82]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Juna"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Juna` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#16]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Juna/V"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            16
+
+`Juna/V` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#10]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Beat"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Beat` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Julia"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Julia` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Cache Coherence"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Cache Coherence` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Perverse Instantiation"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Perverse Instantiation` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "MAD"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`MAD` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            10
+
+`Riss` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Risse"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Risse` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#8]
+$ python3 scripts/read.py kohaerenz-protokoll-narrative-architekturanalyse --count "Kael"
+whole word, case-sensitive     28
+whole word, case-insensitive   29
+including compounds            56
+
+`Kael` ^[kohaerenz-protokoll-narrative-architekturanalyse.md:#28]
+$ stance_marker_count 18+3+10 = 31

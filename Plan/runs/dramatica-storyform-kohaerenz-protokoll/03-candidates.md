@@ -1,0 +1,71 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations: the document is English prose with German names in quotation marks; it maps the novel onto Dramatica's four throughlines. Issue labels of the form A vs. B are listed as their halves, because a period and a space make a sentence of the joined form. The Dramatica vocabulary (domains, concerns, issues, problems) is the framework's and goes under lens.
+
+- Kohärenz Protokoll
+- Existenz-Matrizen
+- AEGIS
+- Kael
+- Juna/V
+- Juna
+- Moonshine-Link
+- Zero-Trust
+- Potentialmeer
+- Nichts Rauschen
+- Risse
+- Kernwelten
+- Kernwelt
+- Core Worlds
+- KW1
+- Logos-Prime
+- KW2
+- Mnemosyne-Archipel
+- KW3
+- Cerberus-Labyrinth
+- KW4
+- Kairos-Potentialis
+- Algorithmic Horror
+- functional multiplicity
+- living Gödel sentence
+- alters
+
+## lens
+
+- Dramatica
+- Story Mind
+- Grand Argument Story
+- Story Dynamics
+- Main Character Resolve
+- Story Outcome
+- Story Judgment
+- Story Driver
+- throughlines
+- Overall Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Perspective
+- Domain
+- Concern
+- Issue
+- Problem
+- Universe
+- Mind
+- Psychology
+- Physics
+- Progress
+- The Conscious
+- Becoming
+- Obtaining
+- Control
+- Uncontrolled
+- Truth
+- Falsehood
+- Disbelief
+- Commitment
+- Responsibility
+- Morality
+- Self-Interest
+- Trust
+- Theory of Structural Dissociation of the Personality
+- TSDP

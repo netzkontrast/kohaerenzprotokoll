@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-narrative-architekturanalyse
+  lines                340  (frontmatter ends at 9)
+  body words           5671
+  headings             22   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       7
+  backslash escapes    16
+  typographic marks    221   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    86
+  repeated labels      none
+  longest line         1525 chars
+

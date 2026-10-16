@@ -1,0 +1,14 @@
+# analyse-der-leere-und-existenz
+  lines                192  (frontmatter ends at 9)
+  body words           5307
+  headings             0   bold-only lines 8
+  table rows           19   code fences 0
+  question marks       14
+  backslash escapes    100
+  typographic marks    608   ascii quotes 34
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    6
+  repeated labels      none
+  longest line         1647 chars
+

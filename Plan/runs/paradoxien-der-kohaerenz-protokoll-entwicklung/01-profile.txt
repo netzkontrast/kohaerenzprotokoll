@@ -1,0 +1,14 @@
+# paradoxien-der-kohaerenz-protokoll-entwicklung
+  lines                400  (frontmatter ends at 9)
+  body words           9411
+  headings             15   bold-only lines 21
+  table rows           45   code fences 0
+  question marks       33
+  backslash escapes    139
+  typographic marks    19   ascii quotes 302
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    35
+  repeated labels      Anwendung x10, Struktur x10, Definition x7, Interaktion x7, Regeln/Eigenschaften x7, Theoretische Verankerung x7, Funktion x6
+  longest line         11051 chars
+

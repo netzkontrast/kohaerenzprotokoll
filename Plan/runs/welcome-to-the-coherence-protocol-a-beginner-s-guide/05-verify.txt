@@ -1,0 +1,53 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Principle"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`Principle` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#4]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Atmosphere"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Atmosphere` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#4]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Somatic Truth"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Somatic Truth` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#4]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#0]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#0]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kernwelt` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#0]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#2]
+$ python3 scripts/read.py welcome-to-the-coherence-protocol-a-beginner-s-guide --count "entropy"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`entropy` ^[welcome-to-the-coherence-protocol-a-beginner-s-guide.md:#2]
+stance_marker_count 12 = Principle 4 + Atmosphere 4 + Somatic Truth 4 (outputs above)
+$ grep -c "?" Sources/drive/welcome-to-the-coherence-protocol-a-beginner-s-guide.md (one question mark, L105)
+105:#### **3.1. Who, or What, is Juna/V?**
+profile figures (48 backslash escapes, 2 glued reference numbers, 1 question mark): Plan/runs/welcome-to-the-coherence-protocol-a-beginner-s-guide/01-profile.txt

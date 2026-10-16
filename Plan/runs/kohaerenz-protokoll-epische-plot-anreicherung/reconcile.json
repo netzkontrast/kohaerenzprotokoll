@@ -1,0 +1,332 @@
+{
+  "document": "kohaerenz-protokoll-epische-plot-anreicherung",
+  "drive_id": "1wJLx0BOjxgdwIMPqgFH2Rxji3bJtezl0wZfkIpyWroU",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-246/brief.md; the cerberus lead's count raised to one hundred, measured from its ingested list; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 80,
+    "decided_by_lookup": 67,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research brief proposing an epic plot: its new surfaces are KW1–KW4, Unraum, the DKT's symbols, the five signature sequences, the Bekenstein variants, the option matrices and the three large plots, the Validierungskrieg, and the survey's borrowed works and concepts; what it says of the novel's world went on existing pages and five records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        30,
+        57,
+        63,
+        106,
+        123,
+        178
+      ],
+      "attribution": "",
+      "note": "AEGIS as an outgrowth of Kael, and its roles in the proposed acts"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        123
+      ],
+      "attribution": "",
+      "note": "AEGIS and Algorithmische Melancholie"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        63,
+        69,
+        122,
+        173
+      ],
+      "attribution": "",
+      "note": "The alters in the proposed acts: Validierungskrieg, polyphony, the Chor der Dreizehn"
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        124,
+        176
+      ],
+      "attribution": "",
+      "note": "Atemporality as the epic moment of the Nichts-Rauschen"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        63,
+        173
+      ],
+      "attribution": "",
+      "note": "Cerberus in the Chor der Dreizehn and as a Zitadelle"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        125,
+        176
+      ],
+      "attribution": "",
+      "note": "Coherons outside time"
+    },
+    {
+      "page": "did",
+      "lines": [
+        160,
+        163
+      ],
+      "attribution": "",
+      "note": "The DID matrix: option C against fusion"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        13,
+        27,
+        31,
+        124,
+        125
+      ],
+      "attribution": "",
+      "note": "The Dual Kernel Theory as the brief's frame for the plot"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        13,
+        124,
+        163
+      ],
+      "attribution": "",
+      "note": "Entropie (K₀) as irreversible collapse, and its arrow stopped locally"
+    },
+    {
+      "page": "erason",
+      "lines": [
+        46,
+        81
+      ],
+      "attribution": "",
+      "note": "Erasonen erasing concepts and narrowing the world"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        69,
+        81,
+        178
+      ],
+      "attribution": "",
+      "note": "The Gödel-Gambit as the proposed climax"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        57,
+        69,
+        104,
+        176
+      ],
+      "attribution": "",
+      "note": "Juna in the proposed climax and the Moonshine-Paradoxon"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        44,
+        57,
+        69,
+        81,
+        171,
+        172,
+        173
+      ],
+      "attribution": "",
+      "note": "Kael across the proposed acts: dissociation, the fall and the living theorem"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        29,
+        42,
+        63,
+        186
+      ],
+      "attribution": "",
+      "note": "Kernwelten as the brief names them: KW1, KW2, KW3, KW4"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        13,
+        106,
+        124,
+        163,
+        198
+      ],
+      "attribution": "",
+      "note": "Kohärenz (K₁) as preserving force, love and the 13 alters' coherence"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        63,
+        122,
+        172,
+        186
+      ],
+      "attribution": "",
+      "note": "Mnemosyne-Archiv and Mnemosyne-Bibliothek in the proposed plot"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        69,
+        106,
+        124,
+        174
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link as Juna's and Kael's non-spatial channel"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        67,
+        121,
+        160
+      ],
+      "attribution": "",
+      "note": "Funktionale Multiplizität as the goal, against fusion"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        104,
+        106
+      ],
+      "attribution": "",
+      "note": "Negentropy in Variante B"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        124
+      ],
+      "attribution": "",
+      "note": "Nichts-Rauschen as love stopping the entropic arrow locally"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "Risse im System that erase concepts"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        176
+      ],
+      "attribution": "",
+      "note": "Silas touched by Juna in the Moonshine-Paradoxon"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C11",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` on kael; `Alter` on alters; `Neguentropie` on negentropie, not Entropie; `Mnemosyne-Archivs` and `Mnemosyne-Bibliothek` on mnemosyne; `Cerberus-Zitadelle` (KW3) on cerberus; `Coherons` on coheron; `Erasonen` on erason; `Logos-Prime` the city, not LogOS; `Genesis-Krise` and `Der Genesis-Fall` Kael's, read on kael; `Algorithmischer Melancholie`, an inflection, on algorithmische-melancholie",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 63,
+      "decision": "reading",
+      "why": "misguided Alter punished by AEGIS"
+    },
+    {
+      "page": "atemporalitaet",
+      "surface": "Atemporalität",
+      "line": 124,
+      "decision": "reading",
+      "why": "the sudden atemporality of the Nichts-Rauschen"
+    },
+    {
+      "page": "cerberus",
+      "surface": "Cerberus",
+      "line": 173,
+      "decision": "reading",
+      "why": "Kael close to deletion by Cerberus"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 44,
+      "decision": "occurrence",
+      "why": "the film title Neon Genesis Evangelion"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 186,
+      "decision": "reading",
+      "why": "Mnemosyne as KW2"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 46,
+      "decision": "reading",
+      "why": "Risse erasing concepts"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 26,
+      "decision": "occurrence",
+      "why": "a survey row on Greg Egan's works"
+    }
+  ],
+  "not_promoted": [
+    "the survey of other SF works",
+    "the five signature sequences",
+    "Variante A/B of the Bekenstein bound",
+    "the three option matrices and three large plots",
+    "Validierungskrieg",
+    "Landauer-Wüste, Chor der Dreizehn, Moonshine-Paradoxon",
+    "Optionlock, Timelock",
+    "Plot-Baukasten, Ouroboros-Konstrukt",
+    "Unraum",
+    "Basis-Realität, Zion"
+  ],
+  "internal_tension": "it recommends Variante A and Plot C as its own verdicts (L115, L198) and claims Plot C fits a 39-chapter structure „fehlerfrei“ (L203), its claim; AEGIS arises from Kael (L123), the reverse of the direction most C16 positions take — recorded on C16, not weighed",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

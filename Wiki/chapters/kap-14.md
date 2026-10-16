@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 40
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
+sources: 61
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "system-kael-konzeptentwicklung-und-analyse", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "aegis-psychologische-kriegsfuehrung-narrative-eskalation", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "dkt-fundament-kohaerenz-protokoll-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,18 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel eröffnet Akt II und den zyklischen Modus im Shō, am Modus-Wechsel, als Bruch und Rahmen vor dem ersten Zyklus, laut Kernwelten vollständig in der Mitte von Akt II, laut der Plot-Konkretisierung im Block Der Innentäter; laut der strukturierten Outline beginnt hier A parallel zu B, laut der Drei-Modi-Spec mit dem MC-Issue Falsehood vs. Truth in Storyform A und der OS-Physics in Storyform B. Kaels neu gefundene Balance zerbricht, alte Wunden reißen auf, und AEGIS' erste Erasure-Welle trifft seine Stabilität, laut der Konzept-Iteration genau das Verfahren des Trennungsprotokolls aus der Genesis. Laut der strukturierten Outline, die das Kapitel Bruch des Gleichgewichts nennt, testet AEGIS ihn mit dem Stress-Test Delta-7, und Mnemosyne tritt erstmals deutlich und manipulativ auf; laut Kapitel-Kompendium und Storyform-Outline, die es Das Archiv der Grenzen nennen, erhält Kael Zugang zu AEGIS' technischen Dossiers im Lernarchiv Theta-9 und betritt KW2. Die Plot-Konkretisierung macht den Zugang zu einem fehlgeleiteten Ticket, das Kael nicht meldet, die erste aktive Unterlassung des Romans, und lässt nach dem ersten Wartungsfenster eine Abkürzung im Korridor fehlen, deren Platten nur Kael neu zählt. Die AEGIS-Subplots lassen Kael hier AEGIS als intelligente, steuernde Instanz erkennen und benennen, und die strukturierte Outline und die Drei-Modi-Spec halten einen kurzen AEGIS-POV für möglich, zwischen zerbrochener Fassade und Sprüngen im Raum.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 14
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 14, in Teil 2: Die Eskalation, is titled „Verstärkte Mauern“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L357]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Zyklusbeginn: AEGIS' Perspektive`
+
+- The detailed plot draft plans for Kap 14, `Zyklusbeginn: AEGIS' Perspektive`: „Darstellung seiner Kernprogrammierung: Selbsterhalt durch Abgrenzung und Stabilität“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L108] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Die Anderen in Mir`
+
+- The Moonshine-Brücke blueprint plans for Kap 14, `Die Anderen in Mir`: „eigene Anteile (Alters) sind; erster Versuch der Kommunikation.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L76] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -30,6 +42,18 @@ Title: „Unstabiles Gleichgewicht“ ^[monstergruppe-primzahlen-plot-blueprint.
 Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
 
 - Establishes: „lösen aufgrund seiner M-Resonanz unerwartete und unverhältnismäßig große Effekte in der Kernwelt aus“ ^[monstergruppe-primzahlen-plot-blueprint.md:L164]
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Cache Kohärenz (Konflikt)`
+
+- The enriched plot concept's theme draft has for Kapitel 14, under the concept label `Cache Kohärenz (Konflikt)`: „zwischen logischem und relationalem Denken“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L52] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure — `Der Spiegel der Welt`
+
+- The three-voice chapter structure plans for Kap 14, `Der Spiegel der Welt`: the narrator's „Die Ruhe des inneren Gartens ist eine notwendige Basis“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L258]; an AEGIS log whose objective is „Stress test integrated state stability and identify potential control vectors“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L262]; and, for Kael, only a bracketed direction: „Hier würde Kaels Perspektive den Schock des Bruchs“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L271]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Der Bruch des Gleichgewichts`
+
+- The concept chapter map plans for Kap 14: „Die Konfrontation der inneren Balance mit der äußeren Realität oder gezielter Störung“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L149]; AEGIS „registriert erste Konfliktsignale“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L150]. A plan, not the chapter.
 
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative
 
@@ -40,6 +64,22 @@ Position: „AEGIS' Fragilität / Risse / Cache Kohärenz (Konflikt)“ ^[kohaer
 - Story: AEGIS orders him to destroy the Juna connection it blames for the world's entropy cascade, „BEFEHL: K-1123. PRIORISIERE IDENTIFIKATION UND NEUTRALISIERUNG DER SUB-PROTOKOLLARISCHEN SIGNATUR.“ ^[kohaerenz-protokoll.md:L1544], and he refuses it, „Nein, dachte Kael, und diesmal war es keine Stimme eines Teils, sondern seine eigene, integrierte Stimme.“ ^[kohaerenz-protokoll.md:L1578]
 - Voice: third person on Kael; AEGIS' commands stand in capitals, and his inner Anteile speak in italics.
 - Close: „Der Bruch war geschehen. Die Realität seiner Situation war klar. Der Zyklus hatte begonnen.“ ^[kohaerenz-protokoll.md:L1588]
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept — the chapter's focus on `Dynamische Selbstbalancierung`, `Relationale Emergenz`, `Minimale Kopplung` and `Fraktale Selbstähnlichkeit`
+
+- The 13-principle concept's chapter overview gives Kapitel 14 a „Test der Balance von“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L80] these four principles (L80). The overview keeps the chapter assignment and only colours its interpretation „durch die Linse“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L74] of the principles. A concept's focus, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Realitätscheck/Bruch`
+
+- The comprehensive concept's overview gives Kap 14 the label „Realitätscheck/Bruch“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L101] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 14 „Der Realitätscheck“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L45] in its second part, the system's everyday trials and assigns it the primary concept „Trigger-Reaktivität / Wiederauftreten von Traumasymptomen“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L45]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — an attempt to bypass the rules of the Konstrukt-Stadt
+
+- The logline analysis proposes for Kap 14: „Kael versucht, das Wissen aus Teil 1 anzuwenden, um die Regeln der Konstrukt-Stadt zu umgehen“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L236] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Das Echo im Code
 
@@ -67,6 +107,10 @@ Focus: `Systemanalyse`, „Der Beginn der systematischen Untersuchung von AEGIS'
 
 - Story: „dringt in die abstrakte, datenbasierte Überwelt von AEGIS ein“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L145]
 - Concept: „Kybernetik erster Ordnung“ ^[2-kohaerenz-protokoll-konzeptentwicklung.md:L146] (concept tag: first-order cybernetics)
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — hacking and cybernetics
+
+- The trope analysis ties chapter 14 to hacking and system analysis under hard science fiction (L126), to the tropes: „Kaels Handlungen in Akt 2 und 3 nutzen diese SF-Tropen“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L144] (L144), and to the table row „Kybernetik (2. Ordnung), Systemtheorie“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L112] (L112). An analysis of an outline it does not reproduce.
 
 ## Reading — `system-kael-konzeptentwicklung-und-analyse`, 2025-06-24, the concept synthesis — `Phase 1: Der Bruch`, the start of a cycle
 
@@ -120,6 +164,10 @@ Position: the scene outline plans the scene at „2.1 - Mnemosyne-Archipel (KW2)
 
 - The scene outline plans Chapter 14 as „In the Flow of Memories“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L168], in Act II: The Labyrinth and the Patterns — a plan in English, not the chapter as written.
 
+## Reading — `aegis-psychologische-kriegsfuehrung-narrative-eskalation`, 2025-10-16, the psychological-warfare essay — stage 2, finding the training protocols
+
+- The psychological-warfare essay proposes stage 2 of a four-stage reveal for this chapter of the subplot document it cites: „Stufe 2: Das Finden der“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L381] „entdeckt Kael (vielleicht mit Lex' Hilfe)“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L381] A proposal of the essay, not the chapter.
+
 ## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Constructed Self
 
 - The plot framework titles Chapter 14 „The Constructed Self“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255]. It opens „Act II: The Deconstruction“ ^[plot-generation-framework-for-the-coherence-protocol.md:L251]. It commissions: „Shift the POV to AEGIS's core logic (Component 734) as it observes Kael's new integration, revealing its tragically flawed worldview and establishing it as“ ^[plot-generation-framework-for-the-coherence-protocol.md:L255] — a plan, not the chapter as written.
@@ -157,6 +205,14 @@ Position: Teil II; POV from `Perspektive & Stimme`: „AEGIS (kaltes Log, das ei
 
 - The DKT synthesis's chapter 14: „Das Archiv der Grenzen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L154]. Its narrative level: „Suche nach Antworten in den Fundamenten der Simulation; Vernachlässigung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L158]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil II
+
+- The master blueprint places chapter 14 in Teil II, „Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L36]: Kael leaves the simulation level and „betritt den“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L42] Nexus, where he meets the Guardians. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Das Archiv der Grenzen`
+
+- The Roman-Outline plans for Kap 14, `Das Archiv der Grenzen`: „dem internen Handbuch AEGIS“ ^[roman-outline-kohaerenz-protokoll.md:L59] Numbered 14 in the whole novel; the export restarts the list in each part, so this is item 1 of Part II. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -175,6 +231,14 @@ Position: „Teil II: Die Anatomie der Spaltung (Kapitel 14–26)“ ^[roman-kon
 ## Reading — `ki-roman-architektur-kohaerenz-und-kollaps`, 2026-02-28, the architecture report — Phase II opens, the passage into the psychological sectors
 
 - The architecture report opens Phase II, „Die Anatomie des Rauschens“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L184], for Kapitel 14–26: Kael passes beyond the surface simulation into sectors such as the Mnemosyne-Archipel and the Cerberus-Labyrinth and meets the Guardians LogOS and Mnemosyne — a plan, not the chapter as written.
+
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — the equation found in Theta-9
+
+Under the memo's technical-consistency suggestions for chapters, Kap. 14–16 is proposed as follows: „Kael entdeckt die Persistenzgleichung in Theta-9“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L267]. The memo adds that Kael computes the own CSI and realises the collapse should long since have happened: „Irgendwas puffert ihn, das nicht in der Gleichung steht“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L267]. The range is read the same way on each of the three chapters. A proposal of the memo, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — mathematical fragments in Theta-9
+
+The the master integration lists, in a table of mathematical and physical strands against chapters, a row of the identity-strand in which Kap 6 and Kap 14 stand together: „Kap. 6, 14: Mathematische Fragmente in Theta-9“ ^[kohaerenz-protokoll-master-integration-md.md:L316]. The same row ends on „Perfekte Balance = null Erleben“ ^[kohaerenz-protokoll-master-integration-md.md:L316] and „AEGIS strebt nach dem Unerreichbaren“ ^[kohaerenz-protokoll-master-integration-md.md:L316]. The master integration, a synthesis of thirteen source documents dated 26 March 2026, gives no scene for either chapter. Recorded, not canon.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — Kael lands in the Mnemosyne-Archiv, KW2, the first chapter of Akt II
 
@@ -222,6 +286,10 @@ Title: „Erwachen im Nexus“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 
 - The 39-chapter outline titles Kapitel 14 „Dekonstruktion der Maschine“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L539]. It opens „Akt II — Kapitel 14–26“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L535]. It plans: „Akt-Übergang. Kael erwacht aus dem Zusammenbruch und beginnt, die Regeln seines kybernetischen Gefängnisses systematisch und kaltblütig zu dekonstruieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L541]; POV Lex / Alex (L547) — a plan, not the chapter as written.
 
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07, the dual-storyform status of 2026-05-07 — Kap 14 as one option for the pilot encoding chapter
+
+the dual-storyform status of 2026-05-07 names Kap 14 only inside the open pilot question: „Frage zur Pilot-Wahl“ ^[dramatica-dual-storyform-status-2026-05-07-md.md:L449] asks „Welches Kapitel als Pilot-Encoding-Kapitel?“ ^[dramatica-dual-storyform-status-2026-05-07-md.md:L449], and offers Kap 14 as the opening of Akt II with the first possible bridge, left for the next session. Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 Title: „Der Bruch des Gleichgewichts“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L558]
@@ -261,6 +329,10 @@ The document ranks itself: „Diese Datei dient als operative Referenz, nicht al
 Position: „KW2 dominiert mittlere Akt II (Ch14–22).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L539]
 
 - Place: „Das Archiv der Grenzen — eine zerfallende Bibliothek mit unendlichen Regalen.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] · „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532], a sub-location of „### VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L498]
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 14 as a place of the term Refragmentierung
+
+The character bible names Kap 14 only as one place of a structural marker: „Begriff Refragmentierung (Kap 12, Kap 14, Kap 34).“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1054] Recorded, not canon.
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -316,11 +388,25 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - World: „Ab Kap 14 sinkt sie nicht mehr auf null.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
 - Idea 11: „und 14 (Mnemosyne-Dossiers)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
 
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — Kap 14 as the wave of erasure and the archive
+
+The sensory drafting manual sets Kap 14 as a turn in the reveal timeline: „Erasure-Welle“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L586] for the reader, with Kael „bekommt Zugang zu AEGIS-Dossiers (Lernarchiv Theta-9)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L586] while AEGIS „initiiert Erasure-Phase 2“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L586]. In the location table the archive of limits, a „zerfallende Bibliothek mit unendlichen Regalen“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159], is tied to „Kap 14 (Mnemosyne-Archipel betreten)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159]. Recorded as the source's settings, not canon.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10, the parts-profiles and speech-DNA manual — Kap 14 as the start of bleeding, polyphone voices
+
+The parts-profiles and speech-DNA manual sets for `Kap 14+` in its act table: „Stimmen bluten ineinander, polyphone Bridges.“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L931] It names Kap 14 as the start of an open-ended range, with no prohibition. Recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy in detail — Kap 14 ff. as the place of KW2 logic
+
+The philosophy in detail, a workbench list of the philosophical themes of the novel, places the contradiction-tolerant logic in Kap 14 and after: „Wo im Roman. KW2-Logik, Kap 14 ff., Vortex 1 Beat 3, KW4-Generativität.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L349] The entry's drafting rule is „Dialetheia werden nie erklärt, sondern gezeigt.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L346] Recorded, not canon.
+
 ## Where the sources differ
 
 - **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig). The worldbuilding concept gives the Archiv der Grenzen as the chapter's place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet (Ch14).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L532] (the worldbuilding concept).
 - **The Hard-SF-Outline.** „Die Ruinen der Erinnerung“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136] (the Hard-SF-Outline, 2026-04-08) — a new title; Kap 14 opens KW2 as an archive, „Kael schlägt hart auf dem Boden des Mnemosyne-Archivs (KW2) auf.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L136]
 - **The Kohärenz-Protokoll narrative.** Its title, „Der Bruch“ ^[kohaerenz-protokoll.md:L1462] (the Kohärenz-Protokoll narrative, 2025-04-27), and its world: the chapter plays in Beta-Rho-5, the Baby-Monster-Welt, not KW2's Archiv der Grenzen — AEGIS orders the Juna-connection destroyed and Kael refuses, with no Mnemosyne, no ticket and no dossier.
+- The sensory drafting manual sets Kap 14 as the entry to the Mnemosyne archipelago and access to the dossiers.
+- The parts-profiles and speech-DNA manual starts polyphone bridges at Kap 14.
 
 ## Questions for this chapter
 

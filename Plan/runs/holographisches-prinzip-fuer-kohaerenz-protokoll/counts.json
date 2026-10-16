@@ -1,0 +1,835 @@
+{
+  "document": "holographisches-prinzip-fuer-kohaerenz-protokoll",
+  "drive_id": "18HXJnW2uT-0PphCcIenvRyY0XckBzH5rZB1Nyx50VJA",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        16,
+        38,
+        93,
+        103,
+        122,
+        132,
+        134,
+        144,
+        169,
+        192,
+        201,
+        206,
+        207,
+        212,
+        217,
+        218,
+        260,
+        262,
+        273,
+        274,
+        299
+      ]
+    },
+    "Potentialmeer": {
+      "n": 22,
+      "n_including_compounds": 29,
+      "lines": [
+        16,
+        59,
+        93,
+        94,
+        103,
+        104,
+        132,
+        146,
+        147,
+        169,
+        193,
+        201,
+        202,
+        206,
+        207,
+        208,
+        227,
+        273,
+        287,
+        299
+      ]
+    },
+    "Simulation": {
+      "n": 54,
+      "n_including_compounds": 59,
+      "lines": [
+        16,
+        26,
+        59,
+        71,
+        93,
+        94,
+        95,
+        103,
+        104,
+        109,
+        114,
+        122,
+        123,
+        132,
+        133,
+        135,
+        145,
+        148,
+        150,
+        154,
+        160,
+        169,
+        170,
+        179,
+        189,
+        192,
+        195,
+        201,
+        202,
+        206,
+        207,
+        208,
+        217,
+        218,
+        222,
+        228,
+        229,
+        238,
+        261,
+        273,
+        276,
+        278,
+        298
+      ]
+    },
+    "Kernwelten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        150
+      ]
+    },
+    "Monstergruppe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        161
+      ]
+    },
+    "M": {
+      "n": 63,
+      "n_including_compounds": 169,
+      "lines": [
+        15,
+        16,
+        17,
+        26,
+        35,
+        42,
+        47,
+        51,
+        58,
+        59,
+        67,
+        70,
+        71,
+        82,
+        89,
+        93,
+        94,
+        95,
+        103,
+        104,
+        110,
+        114,
+        118,
+        122,
+        123,
+        135,
+        143,
+        145,
+        147,
+        148,
+        149,
+        150,
+        152,
+        154,
+        160,
+        161,
+        169,
+        170,
+        171,
+        179,
+        180,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        195,
+        202,
+        206,
+        208,
+        212,
+        217,
+        218,
+        222,
+        223,
+        229,
+        233,
+        234,
+        238,
+        239,
+        240,
+        241,
+        246,
+        250,
+        251,
+        256,
+        260,
+        262,
+        265,
+        267,
+        274,
+        275,
+        277,
+        278,
+        287,
+        288,
+        298,
+        299,
+        300,
+        322,
+        324,
+        327,
+        353,
+        354,
+        355,
+        365,
+        378
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 17,
+      "n_including_compounds": 18,
+      "lines": [
+        16,
+        95,
+        123,
+        149,
+        161,
+        171,
+        180,
+        191,
+        245,
+        246,
+        250,
+        251,
+        275,
+        299
+      ]
+    },
+    "Moonshine-Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Risse": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        16,
+        104,
+        110,
+        146,
+        147,
+        193,
+        222,
+        223,
+        228,
+        229,
+        300
+      ]
+    },
+    "NZT-Ideal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Wächter-KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        13,
+        15,
+        73,
+        75,
+        85,
+        87,
+        267,
+        301
+      ]
+    },
+    "KP": {
+      "n": 23,
+      "n_including_compounds": 30,
+      "lines": [
+        15,
+        16,
+        17,
+        26,
+        59,
+        70,
+        71,
+        124,
+        132,
+        139,
+        143,
+        154,
+        170,
+        179,
+        188,
+        202,
+        207,
+        241,
+        255,
+        256,
+        260,
+        276,
+        287,
+        297,
+        298,
+        300
+      ]
+    },
+    "VOA": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        94,
+        148,
+        152,
+        154,
+        160,
+        161,
+        188,
+        233,
+        238,
+        239,
+        298
+      ]
+    },
+    "Schutzbarriere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Boundary-Beschreiber": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Holographisches Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        188,
+        338
+      ]
+    },
+    "HP": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        15,
+        17,
+        26,
+        35,
+        38,
+        67,
+        68,
+        69,
+        70,
+        81,
+        123,
+        132,
+        143,
+        144,
+        160,
+        179,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        206,
+        213,
+        239,
+        246,
+        256,
+        263,
+        273,
+        276,
+        278,
+        286,
+        298
+      ]
+    },
+    "Bulk": {
+      "n": 35,
+      "n_including_compounds": 47,
+      "lines": [
+        51,
+        56,
+        71,
+        78,
+        79,
+        83,
+        93,
+        95,
+        103,
+        109,
+        123,
+        124,
+        145,
+        146,
+        148,
+        149,
+        160,
+        161,
+        170,
+        179,
+        189,
+        190,
+        191,
+        195,
+        206,
+        207,
+        233,
+        238,
+        239,
+        245,
+        250,
+        273,
+        278,
+        298
+      ]
+    },
+    "Boundary": {
+      "n": 23,
+      "n_including_compounds": 66,
+      "lines": [
+        25,
+        52,
+        78,
+        79,
+        83,
+        93,
+        95,
+        103,
+        114,
+        123,
+        124,
+        144,
+        145,
+        147,
+        148,
+        149,
+        150,
+        160,
+        161,
+        169,
+        170,
+        171,
+        179,
+        180,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        195,
+        206,
+        234,
+        238,
+        239,
+        241,
+        245,
+        250,
+        251,
+        273,
+        275,
+        278,
+        288,
+        298,
+        299,
+        320
+      ]
+    },
+    "Grenze": {
+      "n": 46,
+      "n_including_compounds": 90,
+      "lines": [
+        16,
+        21,
+        25,
+        26,
+        27,
+        36,
+        38,
+        59,
+        67,
+        68,
+        69,
+        71,
+        77,
+        81,
+        93,
+        94,
+        95,
+        103,
+        104,
+        108,
+        110,
+        114,
+        122,
+        132,
+        134,
+        144,
+        146,
+        147,
+        148,
+        160,
+        192,
+        193,
+        206,
+        207,
+        212,
+        217,
+        218,
+        222,
+        227,
+        233,
+        234,
+        238,
+        239,
+        262,
+        274,
+        276,
+        286,
+        299,
+        301
+      ]
+    },
+    "Facetten": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        17,
+        87,
+        93,
+        94,
+        95,
+        103,
+        104,
+        114,
+        123,
+        124,
+        132,
+        135,
+        143
+      ]
+    },
+    "Informationsüberlauf": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        108,
+        147,
+        193,
+        227
+      ]
+    },
+    "Projektionsfehler": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        109,
+        147,
+        193,
+        222,
+        228
+      ]
+    },
+    "Granularitätseffekte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        110,
+        124,
+        147,
+        193
+      ]
+    },
+    "Raumzeit-Granularität/Pixelierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        82
+      ]
+    },
+    "Raumzeit-Granularität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        69,
+        70,
+        82,
+        229
+      ]
+    },
+    "Pixelierung": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        69,
+        82,
+        110,
+        222,
+        229,
+        263,
+        277,
+        300
+      ]
+    },
+    "Holographisches Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Quantenschaum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "M als Boundary-Theorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        160,
+        192,
+        238,
+        241
+      ]
+    },
+    "Redundanzprüfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Bulk/Boundary Dualität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "AdS/CFT": {
+      "n": 22,
+      "n_including_compounds": 37,
+      "lines": [
+        42,
+        47,
+        56,
+        57,
+        59,
+        70,
+        71,
+        79,
+        103,
+        160,
+        195,
+        201,
+        202,
+        207,
+        208,
+        238,
+        250,
+        286,
+        287,
+        300,
+        332,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        358
+      ]
+    },
+    "AdS/CFT-Korrespondenz": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        42,
+        56,
+        57,
+        59,
+        201,
+        202,
+        300,
+        352
+      ]
+    },
+    "Bekenstein-Grenze": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        36,
+        38,
+        67,
+        69,
+        77,
+        103,
+        108,
+        122,
+        134,
+        144,
+        192,
+        193,
+        212,
+        217,
+        227,
+        262,
+        274,
+        286,
+        299
+      ]
+    },
+    "Informationsparadoxon": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        38,
+        81
+      ]
+    },
+    "ER=EPR": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        71,
+        123,
+        149,
+        191,
+        250
+      ]
+    },
+    "Verschränkungsentropie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        83
+      ]
+    },
+    "Stark-Schwach-Dualität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        206
+      ]
+    },
+    "Konforme Feldtheorie": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        52
+      ]
+    },
+    "Vertex-Operator-Algebren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Quantengravitation": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        27,
+        46,
+        51,
+        59,
+        69,
+        347
+      ]
+    },
+    "Informationserhaltung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Unitarität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35
+      ]
+    },
+    "Holometer-Experiment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    }
+  }
+}

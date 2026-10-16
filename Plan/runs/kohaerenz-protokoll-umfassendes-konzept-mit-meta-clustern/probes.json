@@ -1,0 +1,203 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-meta-clustern",
+  "drive_id": "1G1QyD93lTBE_2AcPVSp61_Vc6bXp-G__7TvKldrHAPM",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 16,
+  "backslash_escapes": 0,
+  "typographic_marks": 4,
+  "ascii_quotes": 10,
+  "inflection_families": {
+    "entro": [
+      "Entropie",
+      "Entropieraum",
+      "Entropieräume",
+      "Entropieräumen"
+    ],
+    "clust": [
+      "Cluster",
+      "Clustern",
+      "Clusters"
+    ],
+    "grund": [
+      "Grundlage",
+      "Grundspannung",
+      "Grundspannungen"
+    ],
+    "integ": [
+      "Integration",
+      "Integriert",
+      "Integrierte"
+    ],
+    "prinz": [
+      "Prinzip",
+      "Prinzipien",
+      "Prinzips"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsebenen",
+      "Realitätsschichten"
+    ],
+    "balan": [
+      "Balance",
+      "Balancen"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakterreise"
+    ],
+    "diese": [
+      "Diese",
+      "Dieses"
+    ],
+    "diffe": [
+      "Differenz",
+      "Differenzierung"
+    ],
+    "dynam": [
+      "Dynamik",
+      "Dynamiken"
+    ],
+    "einfl": [
+      "Einfluss",
+      "Einflüssen"
+    ],
+    "infor": [
+      "Information",
+      "Informiert"
+    ],
+    "inter": [
+      "Interpretation",
+      "Intervention"
+    ],
+    "kampf": [
+      "Kampf",
+      "Kampfes"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelübersicht"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzbildung"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte"
+    ],
+    "manip": [
+      "Manipulationen",
+      "Manipulierte"
+    ],
+    "mecha": [
+      "Mechanismen",
+      "Mechanismus"
+    ],
+    "roman": [
+      "Roman",
+      "Romans"
+    ],
+    "selbs": [
+      "Selbstkohärenz",
+      "Selbstorganisation"
+    ],
+    "spann": [
+      "Spannung",
+      "Spannungsfelder"
+    ],
+    "stabi": [
+      "Stabilisierung",
+      "Stabilität"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Informiert"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Meta",
+      "Metaphern"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Entropieraum"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Seins"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzung"
+    ],
+    [
+      "Stil",
+      "Stillstand"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Diese",
+      "Dieses"
+    ],
+    [
+      "Kampf",
+      "Kampfes"
+    ],
+    [
+      "Reise",
+      "Heldenreise"
+    ],
+    [
+      "Reise",
+      "Charakterreise"
+    ],
+    [
+      "Reise",
+      "Heldinnenreise"
+    ],
+    [
+      "Roman",
+      "Romans"
+    ],
+    [
+      "Balance",
+      "Balancen"
+    ]
+  ]
+}

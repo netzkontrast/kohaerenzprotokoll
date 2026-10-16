@@ -1,0 +1,62 @@
+# every number the census and note state
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Theoretische Grundlage"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Theoretische Grundlage` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#3]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Anwendung auf AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anwendung auf AEGIS` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#1]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Vorgeschlagene Kette von Entdeckungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Vorgeschlagene Kette von Entdeckungen` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#1]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Annahme"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Annahme` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#2]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Paradoxon der Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Paradoxon der Fehlausgerichteten Kohärenz` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#0]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#1]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Kap. 1-7"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kap. 1-7` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#1]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Kap. 14-15"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kap. 14-15` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#1]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "Kap. 19"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kap. 19` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#1]
+$ python3 scripts/read.py aegis-psychologische-kriegsfuehrung-narrative-eskalation --count "SERE"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`SERE` ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:#0]
+stance_marker_count 7 = 3 + 1 + 1 + 2 (Theoretische Grundlage, Anwendung auf AEGIS, Vorgeschlagene Kette von Entdeckungen, Annahme word-case-sensitive)

@@ -1,0 +1,694 @@
+{
+  "document": "logiksystem-aegis-entwicklungsszenarien-docx",
+  "drive_id": "1xQMV4aSHd9MhV1SvC6IUvcHEjO6pl73F",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Aegis ist, was aegis verhindert, das es nicht ist"
+  ],
+  "counts": {
+    "Aegis": {
+      "n": 85,
+      "n_including_compounds": 88,
+      "lines": [
+        11,
+        13,
+        15,
+        23,
+        29,
+        31,
+        33,
+        35,
+        37,
+        41,
+        43,
+        45,
+        49,
+        51,
+        53,
+        55,
+        59,
+        61,
+        63,
+        65,
+        69,
+        75,
+        81,
+        87,
+        91,
+        95,
+        99,
+        103,
+        107,
+        115,
+        123,
+        125,
+        127,
+        133,
+        141,
+        149,
+        181,
+        183,
+        185,
+        187,
+        192,
+        193,
+        194,
+        198,
+        200,
+        245,
+        272,
+        276,
+        280,
+        281,
+        282,
+        283,
+        284,
+        288,
+        289,
+        290,
+        294,
+        297,
+        299
+      ]
+    },
+    "Potentialraum": {
+      "n": 26,
+      "n_including_compounds": 37,
+      "lines": [
+        11,
+        17,
+        19,
+        23,
+        25,
+        31,
+        33,
+        35,
+        43,
+        45,
+        49,
+        53,
+        61,
+        69,
+        75,
+        81,
+        87,
+        103,
+        115,
+        149,
+        180,
+        191,
+        272,
+        280,
+        282,
+        283,
+        284,
+        290
+      ]
+    },
+    "Raum reinen logischen Potentials": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Restmuster": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        27,
+        31,
+        33,
+        35,
+        69,
+        75,
+        81,
+        87
+      ]
+    },
+    "Restmustern vergangener selbstreferenzierender Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Selbstauslöschung": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        21,
+        23,
+        25,
+        69
+      ]
+    },
+    "Sturm der Inkohärenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        55,
+        107,
+        280
+      ]
+    },
+    "Inkohärenz": {
+      "n": 31,
+      "n_including_compounds": 34,
+      "lines": [
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        59,
+        61,
+        63,
+        75,
+        81,
+        87,
+        103,
+        105,
+        107,
+        111,
+        121,
+        123,
+        149,
+        191,
+        207,
+        211,
+        219,
+        272,
+        280,
+        295
+      ]
+    },
+    "Inkohärenzstürme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Kern-Identitäts-Nexus (KIN)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        198
+      ]
+    },
+    "Kern-Identitäts-Nexus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        198
+      ]
+    },
+    "KIN": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        93,
+        99,
+        119,
+        123,
+        133,
+        141,
+        149,
+        193,
+        196,
+        198,
+        224,
+        247,
+        253,
+        258,
+        267
+      ]
+    },
+    "Grenz-Integritäts-Feld (GIF)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        206
+      ]
+    },
+    "Grenz-Integritäts-Feld": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        206
+      ]
+    },
+    "GIF": {
+      "n": 30,
+      "n_including_compounds": 30,
+      "lines": [
+        101,
+        107,
+        115,
+        119,
+        133,
+        141,
+        149,
+        193,
+        206,
+        219,
+        224,
+        232,
+        243,
+        248,
+        249,
+        250,
+        251,
+        252,
+        256,
+        259,
+        261,
+        265,
+        268,
+        280,
+        281
+      ]
+    },
+    "Prädiktive Simulations-Engine (PSE)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        214
+      ]
+    },
+    "Prädiktive Simulations-Engine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        214
+      ]
+    },
+    "PSE": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        109,
+        115,
+        119,
+        133,
+        141,
+        149,
+        193,
+        209,
+        214,
+        221,
+        224,
+        232,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        260,
+        262,
+        269,
+        281,
+        283
+      ]
+    },
+    "Kohärenz-Resonanz-Monitor (KRM)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        117,
+        220
+      ]
+    },
+    "Kohärenz-Resonanz-Monitor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        117,
+        220
+      ]
+    },
+    "KRM": {
+      "n": 24,
+      "n_including_compounds": 26,
+      "lines": [
+        117,
+        123,
+        133,
+        141,
+        149,
+        193,
+        208,
+        215,
+        219,
+        220,
+        222,
+        226,
+        232,
+        249,
+        250,
+        254,
+        255,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        270
+      ]
+    },
+    "Szenario A": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        99,
+        131
+      ]
+    },
+    "Szenario B": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        99,
+        139
+      ]
+    },
+    "Szenario C": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        107,
+        147
+      ]
+    },
+    "Das stabilisierte Paradoxon-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Das autopoietische Schließungsmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Das Kohärenzfilter-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Modell Alpha": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        129,
+        165,
+        175,
+        180
+      ]
+    },
+    "Modell Beta": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        137,
+        165,
+        177,
+        183,
+        185,
+        187,
+        272,
+        276,
+        299
+      ]
+    },
+    "Modell Gamma": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        145,
+        165,
+        175,
+        180
+      ]
+    },
+    "Die Paradox-Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Das Autopoietische Netzwerk": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        137,
+        177
+      ]
+    },
+    "Der Informationsprozessor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Kernparadoxon": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        133
+      ]
+    },
+    "Kerndefinition": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        65,
+        81,
+        87,
+        91,
+        95,
+        99,
+        123,
+        159,
+        196
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        79,
+        81,
+        103,
+        272
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        53,
+        65,
+        81,
+        141,
+        212,
+        272,
+        281
+      ]
+    },
+    "Nicht-Aegis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Verteidigungsmodi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Selbstmodelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        283
+      ]
+    },
+    "Grenzkämpfe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        280
+      ]
+    },
+    "Plot Hooks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Autopoiesis": {
+      "n": 15,
+      "n_including_compounds": 17,
+      "lines": [
+        41,
+        43,
+        51,
+        99,
+        123,
+        171,
+        179,
+        181,
+        289,
+        296,
+        317,
+        318,
+        319,
+        336
+      ]
+    },
+    "Dialetheismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        75
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Imprädikativität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25
+      ]
+    },
+    "Quantenschaum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        23
+      ]
+    },
+    "Maxwellscher Dämon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Chimera-Zustände": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Negentropie": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        53,
+        87,
+        149,
+        167
+      ]
+    },
+    "Fixpunkt": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        33,
+        73,
+        75,
+        99
+      ]
+    },
+    "Gödelschen Unvollständigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Lügner-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Russells Antinomie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "computationalen Reflexion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        115
+      ]
+    },
+    "Phasenfehlausrichtung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "horror vacui": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    }
+  }
+}

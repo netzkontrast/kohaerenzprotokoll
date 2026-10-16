@@ -1,0 +1,14 @@
+# research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2
+  lines                1574  (frontmatter ends at 9)
+  body words           7287
+  headings             47   bold-only lines 31
+  table rows           44   code fences 0
+  question marks       67
+  backslash escapes    328
+  typographic marks    299   ascii quotes 218
+  invisible characters none
+  math symbol lines    18
+  glued ref numbers    91
+  repeated labels      Anwendungs-Schritte x7, Stop-Kriterium x7, Warum sie hier ist x7, Was sie ist x7
+  longest line         411 chars
+

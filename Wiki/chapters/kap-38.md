@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 40
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste"]
+sources: 57
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "charaktermodellierung-mit-aieos-schema", "roman-synthese-mit-dual-kernel-theorie", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "roman-konzeptentwicklung-kohaerenz-protokoll", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "roman-outline-kohaerenz-protokoll-strategie", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 records: ["C7", "C11"]
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,18 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Das Kapitel öffnet den Vortex der ontologischen Wendung, der die Vortex-Klammer schließt; in der äußeren Heldenreise ist es laut Konzept-Iteration, konsolidiertem Konzept, strukturierter Outline und Storyform-Outline die Road Back, laut der Spec die Resurrection, in Kishōtenketsu laut der strukturierten Outline der Übergang von Ten zu Ketsu, und in Storyform A trägt es die RS-Physics maximal mit Junas direkter Anwesenheit, laut der Spec das MC-Concern der gesicherten Funktionalen Multiplizität, in B das sichtbar kollabierende Universum. Das Rauschen kommt sensorisch und ontologisch von allen Seiten, und das Wir-Geflecht erkennt, dass das Gewonnene nicht reicht und der Sieg trügerisch war. In einem Stille-Beat erscheint Juna zum ersten Mal direkt, einfach da, ohne Worte, ohne Anweisung, ihre Stimme als Raum statt als Klang; Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen, und als Genesis-Echo wird die ursprüngliche Resonanz diesmal empfangen statt abgewehrt. Mit pluraler Bewahrung als Lösung entscheidet das Wir, ins Ouroboros zu gehen. Kernwelten vollständig setzt die Externe Ebene und KW4 simultan, mit Junas noch offenem Ankerpunkt in Köln, und sagt, dass Kael hier die Position des Lesers erreicht, laut der Plot-Konkretisierung beantragt alles zugleich seine Bewahrung und ab Junas Erscheinung ruht der Faden, und die AEGIS-Subplots lasen das Chaos nach AEGIS' Fall als Quelle für Neues und Unerwartetes.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 38
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 38, in Teil 3: Die Transzendenz, is titled „Der Sprung ins Potentialmeer“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L382]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Meister*in zweier Welten`
+
+- The detailed plot draft plans for Kap 38, `Meister*in zweier Welten`: „Kael findet einen Weg, seine integrierte Identität zu leben“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L140] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Das Unbegreifliche bleibt`
+
+- The Moonshine-Brücke blueprint plans for Kap 38, `Das Unbegreifliche bleibt`: „Trotz der Lösung bleibt das Potentialmeer und die volle Natur von M ein Mysterium.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L101] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Die Signatur bleibt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L403]
@@ -29,6 +41,26 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Unabhängig von Kaels und AEGIS' Schicksal bleibt die Moonshine-Signatur als Phänomen bestehen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406], „ein Echo der tiefen Symmetrien von M.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406]
 - On J: „Wenn J eine separate Entität ist, könnte ihr Schicksal oder ihre fortgesetzte Existenz angedeutet werden, verbunden durch die Signatur.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L406] The document names her only as `J` (J111), never Juna.
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Falling Action: Neuer Zustand`
+
+- The enriched plot concept's theme draft has for Kapitel 38, under the concept label `Falling Action: Neuer Zustand`: „Kael existiert als integriertes Wesen“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L79] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Der unendliche Horizont`
+
+- The concept chapter map plans for Kap 38: „Reflexion über die Reise, den neu gefundenen Sinn“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L389]; AEGIS is „(Irrelevant)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L390]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Ausblick/Sinnfindung (PTG)`
+
+- The comprehensive concept's overview gives Kap 38 the label „Ausblick/Sinnfindung (PTG)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L102] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 38 „Unsere Neue Welt“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L71] in its third part, the outer journey and assigns it the primary concept „Gelebte Integration / Posttraumatisches Wachstum“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L71]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a look at the Juna-Verbindung
+
+- The logline analysis proposes for Kap 38: „Ein letzter Blick auf die Juna-Verbindung“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L267] and „bleibt sie bestehen?“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L267] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Teilen des Segens
 
@@ -57,6 +89,14 @@ Focus: `Gelebte Integration`, „funktionaler Multiplizität und ohne die alte K
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage, the TSDP phobia
 
 - The strategy report keys this chapter to the TSDP phobia „Phobie vor normalem Leben/Risiko/Veränderung/Intimität“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L52]; to Murdock's stage „Heilung des verwundeten Männlichen im Inneren“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L123]; to Murdock's stage „Integration des Männlichen & Weiblichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L124]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — collapsing coherence (sample continuation)
+
+The strategy outline gives Chapter 38 as a sample continuation and titles it „Kollabierende Kohärenz“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L300]. It plans a final strike against the protocol: „Ihr Handeln destabilisiert das Protokoll“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L304] with chaotic collapse of the established order, a high price, and AEGIS trying to regain control.
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — the parts and consciousness theories
+
+- The trope analysis ties chapter 38 to the TSDP-based parts in a list of chapters (L52) and to the row „Bewusstseinstheorien (IIT, Orch OR etc.)“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L109] (L109). An analysis of an outline it does not reproduce.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 3.5, „Die Nachbeben & Das offene Protokoll“ ^[finales-kausales-plot-geruest.md:L214] (Kapitel 38–39)
 
@@ -154,6 +194,14 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-prot
 
 - The DKT synthesis's chapter 38: „Fusion der Ebenen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L374]. Its narrative level: „Ein neuer Garten entsteht aus den Trümmern“ ^[roman-synthese-mit-dual-kernel-theorie.md:L378]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil III
+
+- The master blueprint places chapter 38 in Teil III, „Die Resonanz der Wirklichkeit“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L61]: „Das System kollabiert.“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67], and Kael breaks through to the Externe Ebene. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Fusion der Ebenen`
+
+- The Roman-Outline plans for Kap 38, `Fusion der Ebenen`: „Kael, Juna und AEGIS verschmelzen zu einer neuen Form der Kohärenz.“ ^[roman-outline-kohaerenz-protokoll.md:L112] Numbered 38 in the whole novel; the export restarts the list in each part, so this is item 12 of Part III. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Fusion der Ebenen (Autopoiesis)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
@@ -162,6 +210,10 @@ Position: „Teil III: Die existenzielle Fusion (Kapitel 27–39)“ ^[roman-kon
 - Plot: „AEGIS gibt den sinnlosen Kampf gegen die Entropie auf.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die KI integriert Junas Rauschen als fundamentalen Bestandteil des Systems.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Heat: „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] „Die K1- und K0-Kernel koexistieren, ohne sich gegenseitig zu vernichten.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
 - Establishes: „Die Maschine hat das Fühlen gelernt.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137]
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — the finale and the Mosaik-Herz
+
+- The master synthesis plans the finale across Chapters 38 and 39: „Das Finale (Kapitel 38-39) schließt mit der Formung des“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L116] `Mosaik-Herz`, with „AEGIS wird nicht zerstört, sondern transformiert“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L116]. A plan, not the chapter as written.
 
 ## Reading — `charaktermodellierung-mit-aieos-schema`, 2026-02-28, the AIEOS evaluation — Kael's existential fusion
 
@@ -263,6 +315,10 @@ Position: „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.m
 - Open, Oblivion: „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht.“ ^[dual-storyform-hintergruende-md.md:L428] · „Berührt: A-Resolution Kap 37–39.“ ^[dual-storyform-hintergruende-md.md:L428] — both among the „Reset-Doc Appendix C-Punkte“ ^[dual-storyform-hintergruende-md.md:L423] the document restates.
 - No second Vortex: `Vortex 2` 0 times, and `Kap 38` is not written alone.
 
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13, the speech-DNA manual of 2026-05-13 — Kap 38 as the first direct appearance of Juna
+
+the speech-DNA manual of 2026-05-13 sets for the entry on Juna: „Witness, nicht Akteur.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] and „Nie Deus ex Machina.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] Until then only effect is allowed: „Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Die Resonanz, die ankommt (Vortex 2 Beat 1–5)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1158]
@@ -320,11 +376,25 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - Theory anchor: „Mahayana-Mitgefühl (Bodhicitta)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L732] · function „Wir-Geflecht entscheidet zur pluralen Bewahrung“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L733] (§14.3)
 - Its section on the same school gives the showing of that change to the next chapter: „Kap 39 muss diese Verwandlung zeigen, nicht erklären.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L459] (§9.3 Mahayana-Mitgefühl, marked `[K]`) — the table puts the decision here, the text in Kap 39, and it does not relate the two.
 
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — noise from all sides, resonance that arrives, Juna appears directly
+
+The sensory drafting manual sets three things for Kap 38. In the noise motif: „Kap 38: das Rauschen kommt von allen Seiten.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] In the resonance motif the chapter is the second vortex: „Vortex 2 Kap 38: Resonanz, die ankommt.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L551] In the stage table Kael meets Juna directly: „Juna erscheint direkt“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593] and „erkennt sie wieder“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593], while AEGIS is „strukturell blind“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. A placement of the manual, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10, the parts-profiles and speech-DNA manual — Kap 38 as the direct appearance of silence
+
+The parts-profiles and speech-DNA manual lists in the profile of Juna, who is not an alter, three appearance modes, the last of them „direkte Stille-Erscheinung Kap 38.“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028] Recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — sets Kap 38 as the first beats of Vortex 2 and the first direct appearance of the silence
+
+The terms-and-concepts companion lists Kap 38 as the first chapter of Vortex 2, with five beats, the first being „das Rauschen kommt von allen Seiten, das Universum kollabiert sichtbar“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611] Its third beat is „Stille-Beat: Junas erste direkte Erscheinung“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611] and the fifth „Entscheidung zum Ouroboros“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611] An earlier entry repeats the placement: „schließlich direkt in Kap 38 (Stille-Beat als erste direkte Erscheinung)“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L370] Recorded, not canon.
+
 ## Where the sources differ
 
 - **What the chaos is.** „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] (aegis-subplots) · „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172] (strukturierter Outline) · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399] (storyform outline).
 - **Vortex 2 or Resolution.** „Phase D (Kap 38–39) — Vortex 2 (ontologische Wendung).“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L905] · „B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] (konsolidiertes Konzept) · „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.md:L337] · „0% (nur A aktiv)“ ^[dual-storyform-hintergruende-md.md:L337] · „B ist beendet.“ ^[dual-storyform-hintergruende-md.md:L337] (the Dual-Storyform background document), which names no second Vortex · „Resolution: Fundament = Strange Attractor, Trennung nie real, ändert nichts am Schmerz. Ouroboros.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L220] (the Hard-SF-Outline, its checklist's Fixpunkt for this chapter), which names no Vortex: `Vortex` stands 0 times (`05-verify-readers.txt`).
 - **Cold neon to warm pulsing.** The Ultra-Plot puts this chapter's turn as „Kaltes Neonlicht weicht einem warmen, zyklischen Pulsieren.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L137] (the Ultra-Plot) — AEGIS' cold control giving way to Juna's warmth as it stops fighting entropy. (C11)
+- The parts-profiles and speech-DNA manual sets Juna's direct silence-appearance at Kap 38.
+- the speech-DNA manual of 2026-05-13 sets Kap 38 as the first chapter where Juna appears directly, before it only through effect.
 
 ## Questions for this chapter
 

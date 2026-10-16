@@ -1,0 +1,117 @@
+{
+  "document": "emergenz-aegis-und-selbststrukturierung",
+  "drive_id": "1DHWeUMeL5YNA_9-Sw26boUR8oBi_j4kofq1TVA2UokM",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two record entries (C2, C3) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-313/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 79,
+    "decided_by_lookup": 65,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report on a postulated AEGIS model: its new surfaces are its clusters, principles, architecture and borrowed theories; what it postulates of AEGIS, coherence from entropy, emergence and negentropy went on existing pages and on conflicts C2 and C3.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        122,
+        290,
+        338,
+        375,
+        409,
+        417
+      ],
+      "attribution": "",
+      "note": "AEGIS as a postulated theoretical model, asked about more than asserted"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        21,
+        38,
+        50
+      ],
+      "attribution": "",
+      "note": "emergent self-structuring defined, and emergence from nothing as a constitutive principle"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        74,
+        158,
+        242
+      ],
+      "attribution": "",
+      "note": "entropy as what AEGIS generates coherence from, read through non-equilibrium thermodynamics"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        122,
+        242,
+        266,
+        338
+      ],
+      "attribution": "",
+      "note": "coherence generation as AEGIS's core concept, and how identity is defined"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        162
+      ],
+      "attribution": "",
+      "note": "negentropy only as a lens term"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS`, `AEGIS-Protokoll` and `AEGIS-Bezug` on aegis, the labels not promoted; `Entropie`, `Negentropie` and `Energie und Entropie` on entropie and negentropie, the heading not promoted; `Selbstorganisation` with `Systemgrenzen und Selbstorganisation` and `Selbstreferenz` with `Selbstreferenzielle Schleife` the report's concepts, not promoted and not the Große Mauer; `Simulationsmaschine`, `Agentenbasierte Simulation` and `Simulationstheorie` a model and lens, not the Überwelt; `Gödel` lens",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 21,
+      "decision": "reading",
+      "why": "emergent self-structuring defined"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 120,
+      "decision": "occurrence",
+      "why": "internal simulation of scenarios, a capacity"
+    }
+  ],
+  "not_promoted": [
+    "the thirteen clusters and their five labels",
+    "the eight principles and the seven-aspect architecture",
+    "Emergente Selbststrukturierung, Realitätsgenerierung, operative Schließung",
+    "the borrowed theories"
+  ],
+  "internal_tension": "it calls the generation of coherence from entropy its core promise and says the claim sounds paradoxical (L242); it leaves consciousness and a new form of being as questions (L122, L375)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

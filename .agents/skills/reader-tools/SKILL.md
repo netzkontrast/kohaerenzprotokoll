@@ -85,3 +85,14 @@ a wiki link or a production graph edge.
 Return: inputs and freshness checked, commands used, files written, quotations
 placed/refused, distinct sources read, gaps and omitted candidates. Keep each
 source's position separate. Record model usage separately from code execution.
+
+## Bounded design research
+
+For a request to find prompting/author-tool ideas, use the corpus-researcher scope
+without starting a full ingest. State which sources/windows were read, exact
+claims, disagreements and missing coverage. Creating census/note/reconciliation
+artifacts instead triggers ingest's independent-reading procedure.
+
+Research findings handed to the AEGIS pilot remain research. The coordinator
+selects decided inputs; fictional agents cannot use these corpus tools. Follow
+`Plan/briefings/aegis-agent-pilot.md` for implementation, not this reader workflow.

@@ -1,0 +1,259 @@
+{
+  "document": "romananfang-leere-und-systemgenesis",
+  "drive_id": "1odO2ExehtkNkZmjtX5mxiaGlGpun7oiloyYt9YH4_CU",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 16,
+  "backslash_escapes": 11,
+  "typographic_marks": 80,
+  "ascii_quotes": 26,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "SYSTEMINTEGRIT",
+      "System",
+      "Systeme",
+      "Systemerhaltung",
+      "Systemgenesis",
+      "Systemintegrität",
+      "Systemkohärenz",
+      "Systemkonsistenz",
+      "Systems",
+      "Systemzustand",
+      "Systemzustandsdaten",
+      "Systemzustände"
+    ],
+    "exist": [
+      "EXISTENCE",
+      "EXISTENTIAL",
+      "EXISTENZIELL",
+      "Existentes",
+      "Existential",
+      "Existenz",
+      "Existenzbedingungen",
+      "Existenzdefinition",
+      "Existenzialistische",
+      "Existenzzweck"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenfehler",
+      "Datenstrom",
+      "Datenverarbeitung",
+      "Datenverlust"
+    ],
+    "proto": [
+      "PROTOCOL",
+      "Protocol",
+      "Protokoll",
+      "Protokollabfragen",
+      "Protokolle",
+      "Protokollsprache"
+    ],
+    "entro": [
+      "ENTROPY",
+      "Entropic",
+      "Entropie",
+      "Entropische",
+      "Entropy"
+    ],
+    "gedan": [
+      "Gedanke",
+      "Gedanken",
+      "Gedankenexperiment",
+      "Gedankenreise",
+      "Gedankens"
+    ],
+    "absch": [
+      "Abschnitt",
+      "Abschnitte",
+      "Abschnitten",
+      "Abschnitts"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analysierte",
+      "Analysis"
+    ],
+    "infor": [
+      "Information",
+      "Informationskapselung",
+      "Informationsprinzipien",
+      "Informationsverarbeitung"
+    ],
+    "insta": [
+      "INSTABILITY",
+      "Instancing",
+      "Instantiating",
+      "Instanz"
+    ],
+    "integ": [
+      "INTEGRITY",
+      "Integrity",
+      "Integrität",
+      "Integritätsprüfungen"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelentwurf",
+      "Kapitels",
+      "Kapitelstruktur"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollierter",
+      "Kontrollkern"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellen"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozesses"
+    ],
+    "valid": [
+      "Validation",
+      "Validierungs",
+      "Validierungsprozesse",
+      "Validität"
+    ],
+    "wiede": [
+      "Wiederaufbau",
+      "Wiederherstellen",
+      "Wiederherstellung",
+      "Wiederholungen"
+    ],
+    "aktiv": [
+      "Aktivierung",
+      "Aktivität",
+      "Aktivitäten"
+    ],
+    "alarm": [
+      "Alarmkaskade",
+      "Alarmsignale",
+      "Alarmzustand"
+    ],
+    "beisp": [
+      "Beispiel",
+      "Beispiele",
+      "Beispielen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählers",
+      "Erzählung"
+    ],
+    "fokus": [
+      "Fokus",
+      "Fokussieren",
+      "Fokussierung"
+    ],
+    "funct": [
+      "FUNCTIONALITY",
+      "Function",
+      "Functional"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühls",
+      "Geführte"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Diesmal"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Verfeinerungen"
+    ],
+    [
+      "Feld",
+      "Quantenfeldtheorie"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationskapselung"
+    ],
+    [
+      "Form",
+      "Informationsprinzipien"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Grau",
+      "Grauen"
+    ],
+    [
+      "Ihre",
+      "Ihrer"
+    ],
+    [
+      "Ihre",
+      "Ihres"
+    ],
+    [
+      "Kein",
+      "Keine"
+    ],
+    [
+      "Kern",
+      "Kernstück"
+    ]
+  ]
+}

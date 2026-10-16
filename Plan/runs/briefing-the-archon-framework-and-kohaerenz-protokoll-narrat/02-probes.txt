@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      180
+  typographic marks      8
+  ascii quotes           118
+
+# inflection families -- one term, several surfaces
+  diale    Dialectic, Dialetheic, Dialetheical
+  funct    Function, Functionally, Functions
+  integ    Integrated, Integration, Integrator
+  state    State, Statelessness, States
+  agent    Agent, Agentic
+  analy    Analysis, Analyst
+  archi    Archipel, Architecture
+  class    Classical, Classification
+  coher    Coherence, Coherent
+  conce    Concepts, Conceptual
+  contr    Contradictory, Control
+  emerg    Emergency, Emergent
+  emoti    Emotion, Emotional
+  explo    Explorative, Explosion
+  exter    External, Externalized
+  forma    Formal, Formalism
+  found    Found, Foundation
+  gener    Generation, Generative
+  logic    Logic, Logics
+  model    Model, Models
+  narra    Narrative, Narratives
+  poten    Potential, Potentialis
+  proto    Protocol, Protokoll
+  reaso    Reason, Reasoning
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Part < Parts
+  Seek < Seeks
+  Text < Context
+  Used < Focused
+  Agent < Agentic
+  Found < Foundation
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Model < Models
+  State < States
+  State < Statelessness
+  World < Worlds
+  Formal < Formalism
+  Reason < Reasoning
+  Emotion < Emotional
+  External < Externalized
+  Function < Functions
+  Function < Functionally
+  Solution < Resolution

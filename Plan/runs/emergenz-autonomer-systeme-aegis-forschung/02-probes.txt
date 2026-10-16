@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      252
+  backslash escapes      136
+  typographic marks      8
+  ascii quotes           126
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, SelbstOrg, Selbstbestimmung, Selbstbewusstsein, Selbstbezugs, Selbstdiagnose, Selbstdiagnosefähigkeiten, Selbstgenerierung, Selbstgesetzgebung, Selbstheit, Selbstlernen, Selbstmodelle, Selbstmodellierung, Selbstmodells, Selbstorg, Selbstorganisation, Selbstorganisationsmechanismen, Selbstorganisierte, Selbstproduktion, Selbstreferenz, Selbstreferenzielle, Selbstrepräsentation, Selbststeuerung, Selbststrukturierung, Selbststrukturierungsprinzipien, Selbstverursachung, Selbstverwaltung, Selbstüberwachung
+  syste    SYSTEM, SYSTEMS, System, Systemarchitektur, Systemdynamik, Systeme, Systemeigenschaften, Systemen, Systemgrenze, Systemgrenzen, Systemgrenzendefinition, Systemidentität, Systemorganisation, Systempersistenz, Systems, Systemschließung, Systemtechnik, Systemtheorie, Systemumfangs, Systemverhaltens, Systemversagen, Systemzusammenbrüche, Systemzustand
+  infor    Informatik, Informatikern, Information, Informationen, Informations, Informationsaustausch, Informationserzeugung, Informationsfluss, Informationsflüsse, Informationsintegration, Informationsmaßen, Informationsphilosophie, Informationsproduktion, Informationssendung, Informationstheorie, Informationsverarbeitung
+  energ    Energie, Energiefluss, Energieflüsse, Energiegradienten, Energiekohärenz, Energienutzung, Energieparadigmen, Energiequellen, Energieschwellen, Energiesysteme, Energiezufuhr, Energy
+  beoba    Beobachter, Beobachterabhängigkeit, Beobachtereffekt, Beobachtermodelle, Beobachtermodellen, Beobachters, Beobachterzustände, Beobachterzuständen, Beobachtung, Beobachtungen, Beobachtungs
+  inter    Interaktion, Interaktionen, Interaktionsregeln, Interaktionstopologien, Interdisziplinäre, Interne, Internet, Internetarchitektur, Interplay, Interpretation, Intervention
+  reali    Realisierbarkeit, Realisierung, Realities, Reality, Realität, Realitäten, Realitätserzeugung, Realitätsmodelle, Realitätsmodellierung, Realitätsschichten, Realitätswahrnehmung
+  kohär    Kohärente, Kohärenz, Kohärenzentropie, Kohärenzerhaltung, Kohärenzerzeugung, Kohärenzkern, Kohärenzkonzepte, Kohärenzmaximierung, Kohärenzsystem, Kohärenzüberwachung
+  nicht    Nicht, Nichtgleichgewichtsphänomene, Nichtgleichgewichtsprozesse, Nichtgleichgewichtssysteme, Nichtgleichgewichtssystemen, Nichtgleichgewichtsthermodynamik, Nichtgleichgewichtszuständen, Nichtlineare, Nichtlinearität, Nichts
+  quant    Quanten, Quantenfeldtheorie, Quantenfluktuationen, Quantengravitation, Quantenkognition, Quantenmechanik, Quantenpotentialität, Quantenvakuum, Quantenwahrscheinlichkeit, Quantifizierung
+  simul    Simulation, Simulationale, Simulationen, Simulations, Simulationsansätze, Simulationsbemühungen, Simulationsplattformen, Simulationstheorie, Simulationswerkzeuge, Simuliert
+  entro    Entropie, Entropieabfuhr, Entropieexport, Entropiemanagement, Entropiemaximierung, Entropiemaßen, Entropieminimierung, Entropieproduktion, Entropietheorie
+  kommu    Kommunikation, Kommunikationen, Kommunikations, Kommunikationskanälen, Kommunikationsnetzwerk, Kommunikationsprotokollen, Kommunikationssysteme, Kommunikationswege
+  kompl    Komplexe, KomplexiChaos, Komplexität, Komplexitätsebenen, Komplexitätsforschung, Komplexitätsreduktion, Komplexitätstheorie, Komplexitätswissenschaft
+  model    Model, Modeling, Modelle, Modellen, Modellierung, Modellierungs, Modellierungsmethodik, Modelltheoretische
+  netzw    Netzwerk, Netzwerkbildung, Netzwerkdynamik, Netzwerke, Netzwerkstruktur, Netzwerkstrukturen, Netzwerktheorie, Netzwerktopologie
+  analy    ANALYSES, Analyse, Analysen, Analysiert, Analysis, Analytics, Analytische
+  forsc    Forschung, Forschungsauftrag, Forschungsfragen, Forschungslücke, Forschungsrichtungen, Forschungstrajektorien, Forschungswerkzeug
+  grund    Grundlage, Grundlagen, Grundlagenforschung, Grundlagentheorie, Grundlegende, Grundprinzipien, Grundwahrheit
+  ident    Identifizierung, Identity, Identität, Identitäts, Identitätsbildung, Identitätserhaltung, Identitätskerne
+  organ    Organic, Organisation, Organisationen, Organisationsebenen, Organisationstheorie, Organization, Organize
+  phase    Phase, Phasen, Phasenkohärenz, Phasenraum, Phasenübergang, Phasenübergänge, Phasenübergängen
+  agent    Agent, Agenten, Agentenbasierte, Agentenregeln, Agents, Agentschaft
+  auton    Autonome, Autonomie, Autonomieebenen, Autonomiekonzepte, Autonomous, Autonomy
+  grenz    Grenzbildung, Grenze, Grenzen, Grenzerhaltung, Grenzyklen, Grenzziehung
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Form < Formt
+  Form < Formen
+  Form < Formale
+  Form < Informatik
+  Form < Formalismen
+  Form < Information
+  Form < Formulierung
+  Form < Informations
+  Form < Informatikern
+  Form < Informationen
+  Form < Formalisierung
+  Form < Transformation
+  Form < Transinformation
+  Form < Informationsfluss
+  Form < Informationsmaßen
+  Form < Informationsflüsse

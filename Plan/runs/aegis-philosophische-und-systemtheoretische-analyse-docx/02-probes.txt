@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      93
+  backslash escapes      6
+  typographic marks      16
+  ascii quotes           164
+
+# inflection families -- one term, several surfaces
+  selbs    Selbstbeschreibung, Selbstbeschreibungen, Selbstbezug, Selbstbezüglichkeit, Selbstbezüglichkeiten, Selbsterhaltung, Selbstgenügsamkeit, Selbstkonsistenz, Selbstorganisation, Selbstprüfung, Selbstreferenz, Selbstreferenzielle, Selbstverifikation
+  verif    Verifiable, Verifikation, Verifikationen, Verifikationsmechanismen, Verifikationsmechanismus, Verifikationsprozessen, Verifikationsregeln, Verifikationsstruktur, Verifizierbare, Verifizierbares, Verifizierbarkeit, Verifiziertes, Verify
+  syste    System, Systeme, Systemebene, Systemen, Systemgrenze, Systemgrenzen, Systems, Systemstruktur, Systemtheoretische, Systemtheorie
+  beoba    Beobachter, Beobachtereffekt, Beobachterproblem, Beobachters, Beobachterstandpunkts, Beobachterunabhängigkeit, Beobachtung, Beobachtungen, Beobachtungsbasis
+  exist    Existence, Existentialism, Existentialismus, Existenz, Existenzen, Existenzgrund, Existenzquantor
+  inter    Interaktion, Interaktionen, Interdependenz, Interesse, Interne, Internet, Interpretationen
+  simul    Simulation, Simulationen, Simulationsargument, Simulationshypothese, Simulationstheorien, Simulatoren, Simulierte
+  funkt    Funktion, Funktionalismus, Funktionieren, Funktionierens, Funktionsfähigkeit, Funktionsweise
+  infor    Informatik, Informationismus, Informationsbasierte, Informationsbasiertheit, Informationsgehalt, Informationstheorie
+  netzw    Netzwerk, Netzwerke, Netzwerkprozesse, Netzwerks, Netzwerkstandorts, Netzwerktheorie
+  ontol    Ontologen, Ontologie, Ontologische, Ontologischen, Ontologischer, Ontology
+  reali    Realisierung, Realismus, Realität, Realitäten, Realitätsprinzip, Realitätssystem
+  subst    Substanz, Substanzen, Substanzmetaphysik, Substrat, Substrats, Substratunabhängigkeit
+  epist    Epistemic, Epistemische, Epistemologen, Epistemologie, Epistemology
+  grenz    Grenze, Grenzen, Grenzprinzip, Grenzsicherung, Grenzziehung
+  menge    Menge, Mengen, Mengenbildung, Mengenlehre, Mengentheorien
+  parad    Paradebeispiel, Paradigmen, Paradigmenwechsel, Paradox, Paradoxien
+  philo    Philosophen, Philosophie, Philosophien, Philosophische, Philosophy
+  physi    Physicalism, Physik, Physikalismus, Physiker, Physischen
+  theor    Theoretische, Theorie, Theoriegeladenheit, Theorien, Theory
+  wider    Widerspruchsfreiheit, Widersprüche, Widersprüchen, Widerstands, Widerstandsfähigkeit
+  argum    Argument, Argumentation, Argumente, Argumenten
+  bewus    Bewusstsein, Bewusstseine, Bewusstseins, Bewusstseinsmodellen
+  compu    Computation, Compute, Computersimulation, Computerstrukturen
+  defin    Definieren, Definiert, Definition, Definitionen
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Abstrakte
+  Akte < Charakter
+  Anti < Antike
+  Anti < Quantifikation
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Ding < Dinge
+  Ding < Hiding
+  Ding < Bedingung
+  Ding < Bedingungen
+  Ding < Anfangsbedingungen
+  Eine < Keine
+  Eine < Seine
+  Eine < Bewusstseine
+  FALL < Fall
+  FALL < Zerfall
+  FALL < Fallstricke
+  Fall < Zerfall
+  Fall < Fallstricke

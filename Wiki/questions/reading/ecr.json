@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ecr",
+ "title": "ECR — Entropische Kohärenzregulation",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Regulation ohne Messgrundlage",
+  "Unterschied von Entropie und Kohärenz",
+  "Status des kritisierten Postulats",
+  "Zielgrößen einer Regulierung",
+  "Grenze zwischen Beschreibung und Eingriff"
+ ],
+ "basis": {
+  "ecr": {
+   "title": "ECR — Entropische Kohärenzregulation",
+   "path": "Wiki/candidates/ecr.md",
+   "hash": "ac865994136b5a15520a842c60b34ec8db6ed078e127d748c1c9839865c2f323"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "entropie-resonanz": {
+   "title": "Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+   "path": "Wiki/candidates/entropie-resonanz.md",
+   "hash": "10aec1a863eb4d141c19bfcbdf69b1619003d9a9c224872f1319b32e71271132"
+  },
+  "aegis-metriken": {
+   "title": "AEGIS' operative Metriken",
+   "path": "Wiki/candidates/aegis-metriken.md",
+   "hash": "56a264a67a1de1336bd00e87a9f0c434343e29db471168db59a58dcbabcf7999"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ecr-001",
+   "question": "Welche messbare Größe soll ECR regulieren, wenn das kritisierte Postulat Entropie und Kohärenz nicht hinreichend voneinander trennt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-002",
+   "question": "Welche Lesarten auf der Seite zu ECR — Entropische Kohärenzregulation stützen oder begrenzen „Regulation ohne Messgrundlage“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-003",
+   "question": "Welcher Grenzfall würde bei ECR — Entropische Kohärenzregulation die Annahmen über „Regulation ohne Messgrundlage“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-004",
+   "question": "Wer könnte innerhalb des Romans bei ECR — Entropische Kohärenzregulation etwas über „Regulation ohne Messgrundlage“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-005",
+   "question": "Welche konkrete Entscheidung könnte „Regulation ohne Messgrundlage“ bei ECR — Entropische Kohärenzregulation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Regulation ohne Messgrundlage“ bei ECR — Entropische Kohärenzregulation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-007",
+   "question": "Wie lässt sich „Regulation ohne Messgrundlage“ bei ECR — Entropische Kohärenzregulation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-008",
+   "question": "Welche Alternativen sollte der Autor bei ECR — Entropische Kohärenzregulation für „Regulation ohne Messgrundlage“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-009",
+   "question": "Was bedeutet bei ECR — Entropische Kohärenzregulation der Themenpunkt „Unterschied von Entropie und Kohärenz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-010",
+   "question": "Welche Lesarten auf der Seite zu ECR — Entropische Kohärenzregulation stützen oder begrenzen „Unterschied von Entropie und Kohärenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-011",
+   "question": "Welcher Grenzfall würde bei ECR — Entropische Kohärenzregulation die Annahmen über „Unterschied von Entropie und Kohärenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-012",
+   "question": "Wer könnte innerhalb des Romans bei ECR — Entropische Kohärenzregulation etwas über „Unterschied von Entropie und Kohärenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied von Entropie und Kohärenz“ bei ECR — Entropische Kohärenzregulation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied von Entropie und Kohärenz“ bei ECR — Entropische Kohärenzregulation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-015",
+   "question": "Wie lässt sich „Unterschied von Entropie und Kohärenz“ bei ECR — Entropische Kohärenzregulation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-016",
+   "question": "Welche Alternativen sollte der Autor bei ECR — Entropische Kohärenzregulation für „Unterschied von Entropie und Kohärenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-017",
+   "question": "Was bedeutet bei ECR — Entropische Kohärenzregulation der Themenpunkt „Status des kritisierten Postulats“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-018",
+   "question": "Welche Lesarten auf der Seite zu ECR — Entropische Kohärenzregulation stützen oder begrenzen „Status des kritisierten Postulats“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-019",
+   "question": "Welcher Grenzfall würde bei ECR — Entropische Kohärenzregulation die Annahmen über „Status des kritisierten Postulats“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-020",
+   "question": "Wer könnte innerhalb des Romans bei ECR — Entropische Kohärenzregulation etwas über „Status des kritisierten Postulats“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-021",
+   "question": "Welche konkrete Entscheidung könnte „Status des kritisierten Postulats“ bei ECR — Entropische Kohärenzregulation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status des kritisierten Postulats“ bei ECR — Entropische Kohärenzregulation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-023",
+   "question": "Wie lässt sich „Status des kritisierten Postulats“ bei ECR — Entropische Kohärenzregulation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-024",
+   "question": "Welche Alternativen sollte der Autor bei ECR — Entropische Kohärenzregulation für „Status des kritisierten Postulats“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-025",
+   "question": "Was bedeutet bei ECR — Entropische Kohärenzregulation der Themenpunkt „Zielgrößen einer Regulierung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-026",
+   "question": "Welche Lesarten auf der Seite zu ECR — Entropische Kohärenzregulation stützen oder begrenzen „Zielgrößen einer Regulierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-027",
+   "question": "Welcher Grenzfall würde bei ECR — Entropische Kohärenzregulation die Annahmen über „Zielgrößen einer Regulierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-028",
+   "question": "Wer könnte innerhalb des Romans bei ECR — Entropische Kohärenzregulation etwas über „Zielgrößen einer Regulierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-029",
+   "question": "Welche konkrete Entscheidung könnte „Zielgrößen einer Regulierung“ bei ECR — Entropische Kohärenzregulation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zielgrößen einer Regulierung“ bei ECR — Entropische Kohärenzregulation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-031",
+   "question": "Wie lässt sich „Zielgrößen einer Regulierung“ bei ECR — Entropische Kohärenzregulation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-032",
+   "question": "Welche Alternativen sollte der Autor bei ECR — Entropische Kohärenzregulation für „Zielgrößen einer Regulierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-033",
+   "question": "Was bedeutet bei ECR — Entropische Kohärenzregulation der Themenpunkt „Grenze zwischen Beschreibung und Eingriff“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-034",
+   "question": "Welche Lesarten auf der Seite zu ECR — Entropische Kohärenzregulation stützen oder begrenzen „Grenze zwischen Beschreibung und Eingriff“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-035",
+   "question": "Welcher Grenzfall würde bei ECR — Entropische Kohärenzregulation die Annahmen über „Grenze zwischen Beschreibung und Eingriff“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-036",
+   "question": "Wer könnte innerhalb des Romans bei ECR — Entropische Kohärenzregulation etwas über „Grenze zwischen Beschreibung und Eingriff“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Beschreibung und Eingriff“ bei ECR — Entropische Kohärenzregulation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Beschreibung und Eingriff“ bei ECR — Entropische Kohärenzregulation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-039",
+   "question": "Wie lässt sich „Grenze zwischen Beschreibung und Eingriff“ bei ECR — Entropische Kohärenzregulation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-040",
+   "question": "Welche Alternativen sollte der Autor bei ECR — Entropische Kohärenzregulation für „Grenze zwischen Beschreibung und Eingriff“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ecr"
+   ]
+  },
+  {
+   "id": "RQ-ecr-041",
+   "question": "Wo unterscheiden sich ECR — Entropische Kohärenzregulation und AEGIS, wenn man sie unter dem Gesichtspunkt „Regulation ohne Messgrundlage“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-042",
+   "question": "Welche Quelle verbindet ECR — Entropische Kohärenzregulation mit AEGIS in Bezug auf „Regulation ohne Messgrundlage“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von ECR — Entropische Kohärenzregulation unter „Regulation ohne Messgrundlage“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-044",
+   "question": "Wie könnte sich das Wissen über ECR — Entropische Kohärenzregulation vom Wissen über AEGIS unterscheiden, wenn „Regulation ohne Messgrundlage“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ECR — Entropische Kohärenzregulation und AEGIS bei „Regulation ohne Messgrundlage“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-046",
+   "question": "Falls ECR — Entropische Kohärenzregulation im Hinblick auf „Regulation ohne Messgrundlage“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ECR — Entropische Kohärenzregulation und AEGIS bei „Regulation ohne Messgrundlage“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-048",
+   "question": "Braucht der Roman eine Verbindung von ECR — Entropische Kohärenzregulation und AEGIS bei „Regulation ohne Messgrundlage“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-049",
+   "question": "In welchem denkbaren Fall könnte ECR — Entropische Kohärenzregulation bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Regulation ohne Messgrundlage“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-050",
+   "question": "Welche Kosten könnte eine Verbindung von ECR — Entropische Kohärenzregulation und AEGIS in Bezug auf „Regulation ohne Messgrundlage“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-051",
+   "question": "Welche ältere Lesart von ECR — Entropische Kohärenzregulation oder AEGIS könnte die Gegenüberstellung unter „Regulation ohne Messgrundlage“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ECR — Entropische Kohärenzregulation und AEGIS unter „Regulation ohne Messgrundlage“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ecr",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ecr-053",
+   "question": "Wo unterscheiden sich ECR — Entropische Kohärenzregulation und Entropie, wenn man sie unter dem Gesichtspunkt „Unterschied von Entropie und Kohärenz“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-054",
+   "question": "Welche Quelle verbindet ECR — Entropische Kohärenzregulation mit Entropie in Bezug auf „Unterschied von Entropie und Kohärenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-055",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von ECR — Entropische Kohärenzregulation unter „Unterschied von Entropie und Kohärenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-056",
+   "question": "Wie könnte sich das Wissen über ECR — Entropische Kohärenzregulation vom Wissen über Entropie unterscheiden, wenn „Unterschied von Entropie und Kohärenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ECR — Entropische Kohärenzregulation und Entropie bei „Unterschied von Entropie und Kohärenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-058",
+   "question": "Falls ECR — Entropische Kohärenzregulation im Hinblick auf „Unterschied von Entropie und Kohärenz“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ECR — Entropische Kohärenzregulation und Entropie bei „Unterschied von Entropie und Kohärenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-060",
+   "question": "Braucht der Roman eine Verbindung von ECR — Entropische Kohärenzregulation und Entropie bei „Unterschied von Entropie und Kohärenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-061",
+   "question": "In welchem denkbaren Fall könnte ECR — Entropische Kohärenzregulation bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Unterschied von Entropie und Kohärenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-062",
+   "question": "Welche Kosten könnte eine Verbindung von ECR — Entropische Kohärenzregulation und Entropie in Bezug auf „Unterschied von Entropie und Kohärenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-063",
+   "question": "Welche ältere Lesart von ECR — Entropische Kohärenzregulation oder Entropie könnte die Gegenüberstellung unter „Unterschied von Entropie und Kohärenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ECR — Entropische Kohärenzregulation und Entropie unter „Unterschied von Entropie und Kohärenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ecr",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-ecr-065",
+   "question": "Wo unterscheiden sich ECR — Entropische Kohärenzregulation und Kohärenz, wenn man sie unter dem Gesichtspunkt „Status des kritisierten Postulats“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-066",
+   "question": "Welche Quelle verbindet ECR — Entropische Kohärenzregulation mit Kohärenz in Bezug auf „Status des kritisierten Postulats“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-067",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von ECR — Entropische Kohärenzregulation unter „Status des kritisierten Postulats“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-068",
+   "question": "Wie könnte sich das Wissen über ECR — Entropische Kohärenzregulation vom Wissen über Kohärenz unterscheiden, wenn „Status des kritisierten Postulats“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ECR — Entropische Kohärenzregulation und Kohärenz bei „Status des kritisierten Postulats“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-070",
+   "question": "Falls ECR — Entropische Kohärenzregulation im Hinblick auf „Status des kritisierten Postulats“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ECR — Entropische Kohärenzregulation und Kohärenz bei „Status des kritisierten Postulats“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-072",
+   "question": "Braucht der Roman eine Verbindung von ECR — Entropische Kohärenzregulation und Kohärenz bei „Status des kritisierten Postulats“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-073",
+   "question": "In welchem denkbaren Fall könnte ECR — Entropische Kohärenzregulation bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Status des kritisierten Postulats“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-074",
+   "question": "Welche Kosten könnte eine Verbindung von ECR — Entropische Kohärenzregulation und Kohärenz in Bezug auf „Status des kritisierten Postulats“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-075",
+   "question": "Welche ältere Lesart von ECR — Entropische Kohärenzregulation oder Kohärenz könnte die Gegenüberstellung unter „Status des kritisierten Postulats“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ECR — Entropische Kohärenzregulation und Kohärenz unter „Status des kritisierten Postulats“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ecr",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-077",
+   "question": "Wo unterscheiden sich ECR — Entropische Kohärenzregulation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP), wenn man sie unter dem Gesichtspunkt „Zielgrößen einer Regulierung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-078",
+   "question": "Welche Quelle verbindet ECR — Entropische Kohärenzregulation mit Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in Bezug auf „Zielgrößen einer Regulierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-079",
+   "question": "Welche Grenzen aus der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) müsste eine Deutung von ECR — Entropische Kohärenzregulation unter „Zielgrößen einer Regulierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-080",
+   "question": "Wie könnte sich das Wissen über ECR — Entropische Kohärenzregulation vom Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unterscheiden, wenn „Zielgrößen einer Regulierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ECR — Entropische Kohärenzregulation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bei „Zielgrößen einer Regulierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-082",
+   "question": "Falls ECR — Entropische Kohärenzregulation im Hinblick auf „Zielgrößen einer Regulierung“ anders festgelegt wird: Welche Aussagen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ECR — Entropische Kohärenzregulation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bei „Zielgrößen einer Regulierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-084",
+   "question": "Braucht der Roman eine Verbindung von ECR — Entropische Kohärenzregulation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bei „Zielgrößen einer Regulierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-085",
+   "question": "In welchem denkbaren Fall könnte ECR — Entropische Kohärenzregulation bestehen, ohne dass Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) dieselbe Funktion übernimmt, und was würde das für „Zielgrößen einer Regulierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-086",
+   "question": "Welche Kosten könnte eine Verbindung von ECR — Entropische Kohärenzregulation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in Bezug auf „Zielgrößen einer Regulierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-087",
+   "question": "Welche ältere Lesart von ECR — Entropische Kohärenzregulation oder Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) könnte die Gegenüberstellung unter „Zielgrößen einer Regulierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ECR — Entropische Kohärenzregulation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Zielgrößen einer Regulierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ecr",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ecr-089",
+   "question": "Wo unterscheiden sich ECR — Entropische Kohärenzregulation und AEGIS' operative Metriken, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Beschreibung und Eingriff“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-090",
+   "question": "Welche Quelle verbindet ECR — Entropische Kohärenzregulation mit AEGIS' operative Metriken in Bezug auf „Grenze zwischen Beschreibung und Eingriff“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS' operative Metriken müsste eine Deutung von ECR — Entropische Kohärenzregulation unter „Grenze zwischen Beschreibung und Eingriff“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-092",
+   "question": "Wie könnte sich das Wissen über ECR — Entropische Kohärenzregulation vom Wissen über AEGIS' operative Metriken unterscheiden, wenn „Grenze zwischen Beschreibung und Eingriff“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ECR — Entropische Kohärenzregulation und AEGIS' operative Metriken bei „Grenze zwischen Beschreibung und Eingriff“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-094",
+   "question": "Falls ECR — Entropische Kohärenzregulation im Hinblick auf „Grenze zwischen Beschreibung und Eingriff“ anders festgelegt wird: Welche Aussagen über AEGIS' operative Metriken müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ECR — Entropische Kohärenzregulation und AEGIS' operative Metriken bei „Grenze zwischen Beschreibung und Eingriff“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-096",
+   "question": "Braucht der Roman eine Verbindung von ECR — Entropische Kohärenzregulation und AEGIS' operative Metriken bei „Grenze zwischen Beschreibung und Eingriff“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-097",
+   "question": "In welchem denkbaren Fall könnte ECR — Entropische Kohärenzregulation bestehen, ohne dass AEGIS' operative Metriken dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Beschreibung und Eingriff“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-098",
+   "question": "Welche Kosten könnte eine Verbindung von ECR — Entropische Kohärenzregulation und AEGIS' operative Metriken in Bezug auf „Grenze zwischen Beschreibung und Eingriff“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-099",
+   "question": "Welche ältere Lesart von ECR — Entropische Kohärenzregulation oder AEGIS' operative Metriken könnte die Gegenüberstellung unter „Grenze zwischen Beschreibung und Eingriff“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-ecr-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ECR — Entropische Kohärenzregulation und AEGIS' operative Metriken unter „Grenze zwischen Beschreibung und Eingriff“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ecr",
+    "aegis-metriken"
+   ]
+  }
+ ]
+}

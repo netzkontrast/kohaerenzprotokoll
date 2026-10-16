@@ -1,0 +1,14 @@
+# konzeptanalyse-kohaerenz-protokoll-s-fundament
+  lines                397  (frontmatter ends at 9)
+  body words           5521
+  headings             2   bold-only lines 9
+  table rows           18   code fences 0
+  question marks       15
+  backslash escapes    38
+  typographic marks    94   ascii quotes 0
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    58
+  repeated labels      Forschungsintegration x6, Implikationen x6, Kernidee x6, Zielsetzung x6, Implikation x4
+  longest line         1646 chars
+

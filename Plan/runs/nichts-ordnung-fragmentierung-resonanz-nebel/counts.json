@@ -1,0 +1,470 @@
+{
+  "document": "nichts-ordnung-fragmentierung-resonanz-nebel",
+  "drive_id": "1WeJCAt5bPp0enG31UN4UlYAA6hJ5dBivX3E_qApJbQg",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 43,
+      "n_including_compounds": 78,
+      "lines": [
+        15,
+        17,
+        25,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61,
+        65,
+        67,
+        69,
+        71,
+        82,
+        83,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        99,
+        103,
+        105,
+        109,
+        111,
+        115,
+        117,
+        119,
+        121,
+        123,
+        125,
+        127,
+        129,
+        131,
+        133,
+        137,
+        139,
+        141,
+        145
+      ]
+    },
+    "AEGIS": {
+      "n": 45,
+      "n_including_compounds": 50,
+      "lines": [
+        15,
+        17,
+        25,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        49,
+        51,
+        53,
+        57,
+        67,
+        97,
+        103,
+        105,
+        107,
+        109,
+        111,
+        115,
+        117,
+        121,
+        125,
+        127,
+        137,
+        139
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        53,
+        55
+      ]
+    },
+    "Nox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        82
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        15,
+        47,
+        51,
+        59,
+        61,
+        65,
+        69,
+        77,
+        87,
+        93,
+        105,
+        109,
+        111,
+        117,
+        119,
+        123,
+        125,
+        139
+      ]
+    },
+    "Resonanz-Nebel": {
+      "n": 14,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        69,
+        77,
+        87,
+        91,
+        93,
+        95,
+        103,
+        105,
+        107,
+        109,
+        111,
+        117,
+        119,
+        123,
+        139,
+        141
+      ]
+    },
+    "Wächter": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        11,
+        15,
+        29,
+        31,
+        43,
+        137
+      ]
+    },
+    "Wächter-KI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        137
+      ]
+    },
+    "Universal Reboot": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        49,
+        103,
+        105
+      ]
+    },
+    "UNIVERSAL REBOOT PROTOCOL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Zero-Trust Execution Model (ZTEM)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Consensus Enforcer Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Secure Isolation State (SIS)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Logical Consistency Analysis (LCA)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "QUARANTINE PROTOCOL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Absolute Entropy Event": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Ontological paradox propagation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        103
+      ]
+    },
+    "Existential Integrity Violation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "AEGIS Functional Protocol v1.4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Last known stable configuration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Un-Schöpfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "aktive Unmöglichkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        103,
+        139
+      ]
+    },
+    "Vorerst": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        57,
+        111
+      ]
+    },
+    "Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Transitkorridor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Datenknotenpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Anomalie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        129
+      ]
+    },
+    "Naht": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        55,
+        59,
+        61,
+        67,
+        129
+      ]
+    },
+    "Finde die Naht": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        59,
+        61,
+        67
+      ]
+    },
+    "Spiegel": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        55,
+        59,
+        61,
+        121,
+        129
+      ]
+    },
+    "Silhouette": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        129
+      ]
+    },
+    "Käfig der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Momente": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        65,
+        69,
+        91,
+        93,
+        131
+      ]
+    },
+    "Scheideweg": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        133,
+        145
+      ]
+    },
+    "Psycholandschaft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        141
+      ]
+    },
+    "Realitäts-Glitch": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        97,
+        105,
+        119,
+        141
+      ]
+    },
+    "Nichts": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        11,
+        15,
+        17,
+        21,
+        23,
+        25,
+        27,
+        37,
+        41,
+        45,
+        49,
+        51,
+        65,
+        69,
+        103,
+        119,
+        137,
+        139,
+        145
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Parmenides": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25
+      ]
+    },
+    "Uncanny Valley": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Tal des Unwirklichen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    }
+  }
+}

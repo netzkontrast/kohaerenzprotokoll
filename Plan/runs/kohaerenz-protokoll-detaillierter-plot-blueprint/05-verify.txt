@@ -1,0 +1,103 @@
+# every number the census and note state
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Konzept"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Konzept` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Handlungsbogen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Handlungsbogen` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Dokument-Integration"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Dokument-Integration` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Annotation \[Pacing\]"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Annotation \[Pacing\]` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Annotation \[Meta-Twist\]"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Annotation \[Meta-Twist\]` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Nexus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nexus` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Cerberus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cerberus` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "DIS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`DIS` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "ADHS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ADHS` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "KPTBS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`KPTBS` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Guardians"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Guardians` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Kael"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+`Kael` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#14]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Juna"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Juna` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#8]
+$ python3 scripts/read.py kohaerenz-protokoll-detaillierter-plot-blueprint --count "Karneval"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Karneval` ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:#1]
+stance_marker_count: 3+3+3+2+1 = 12 (Konzept, Handlungsbogen, Dokument-Integration, Annotation Pacing, Annotation Meta-Twist, counts above)
+# chapter ranges 1–13, 14–26, 27–39 are read from L15-L17 (no count)
+$ grep -c "question" -- question marks:
+80:1.  **Wer ist Kael?** Die Sonde des L
+81:2.  **Was ist AEGIS?** Die internalis
+82:3.  **Was ist Juna?** Die Brücke zur

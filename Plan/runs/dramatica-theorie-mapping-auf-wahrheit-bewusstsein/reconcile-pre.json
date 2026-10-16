@@ -1,0 +1,459 @@
+{
+  "document": "dramatica-theorie-mapping-auf-wahrheit-bewusstsein",
+  "step": "reconcile-pre",
+  "at": "2026-10-13",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 97,
+  "decisions": 89,
+  "same_surface": {},
+  "decided_mechanically": 79,
+  "needs_judgement": 10,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 89
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Dramatica-Theorie"
+      },
+      {
+        "candidate": "Stability Kernel"
+      },
+      {
+        "candidate": "Drift Kernel"
+      },
+      {
+        "candidate": "Erasure Kernel"
+      },
+      {
+        "candidate": "Witness Function"
+      },
+      {
+        "candidate": "Boundary Events"
+      },
+      {
+        "candidate": "Entangled Path"
+      },
+      {
+        "candidate": "Four Domains"
+      },
+      {
+        "candidate": "Element-Hierarchie"
+      },
+      {
+        "candidate": "64 Elements"
+      },
+      {
+        "candidate": "Story Dynamics"
+      },
+      {
+        "candidate": "Story Driver"
+      },
+      {
+        "candidate": "Story Limit"
+      },
+      {
+        "candidate": "Story Outcome"
+      },
+      {
+        "candidate": "Story Judgment"
+      },
+      {
+        "candidate": "Inequity"
+      },
+      {
+        "candidate": "Justification"
+      },
+      {
+        "candidate": "Universe"
+      },
+      {
+        "candidate": "Physics"
+      },
+      {
+        "candidate": "Psychology"
+      },
+      {
+        "candidate": "Concerns"
+      },
+      {
+        "candidate": "Issues"
+      },
+      {
+        "candidate": "Optionlock"
+      },
+      {
+        "candidate": "Timelock"
+      },
+      {
+        "candidate": "Steadfast"
+      },
+      {
+        "candidate": "Executive Summary"
+      },
+      {
+        "candidate": "Vokabular-Klärung"
+      },
+      {
+        "candidate": "Schritt D — Decomposition"
+      },
+      {
+        "candidate": "Schritt R — Role-Statement"
+      },
+      {
+        "candidate": "Schritt A — Atlas"
+      },
+      {
+        "candidate": "Schritt M — Metaphern"
+      },
+      {
+        "candidate": "Thesis-Statement"
+      },
+      {
+        "candidate": "Argumentationskette"
+      },
+      {
+        "candidate": "Falsifikationsbedingungen"
+      },
+      {
+        "candidate": "Hypothesenbaum"
+      },
+      {
+        "candidate": "Surviving-Branch Triangulation"
+      },
+      {
+        "candidate": "Hypothesis Half-Life Audit"
+      },
+      {
+        "candidate": "Contradiction Log"
+      },
+      {
+        "candidate": "Query Expansion Log"
+      },
+      {
+        "candidate": "Reflection History"
+      },
+      {
+        "candidate": "Open Questions"
+      },
+      {
+        "candidate": "Methodology Note"
+      },
+      {
+        "candidate": "Mini-Schema"
+      },
+      {
+        "candidate": "Synthetischer Mapping-Vorschlag"
+      },
+      {
+        "candidate": "Konfidenz"
+      },
+      {
+        "candidate": "Gegen-Evidenz"
+      },
+      {
+        "candidate": "Kintsugi-Knoten"
+      },
+      {
+        "candidate": "Zero-Knowledge-Orakel"
+      },
+      {
+        "candidate": "Mykorrhiza-Netzwerk"
+      },
+      {
+        "candidate": "Makro-Registrierkasse"
+      },
+      {
+        "candidate": "Bruchstelle der Metapher"
+      },
+      {
+        "candidate": "Gewand Argument"
+      },
+      {
+        "candidate": "K1"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "MC"
+      },
+      {
+        "candidate": "IC"
+      },
+      {
+        "candidate": "OS"
+      },
+      {
+        "candidate": "SS"
+      },
+      {
+        "candidate": "Coherence-Theorie der Wahrheit"
+      },
+      {
+        "candidate": "Correspondence-Theorie der Wahrheit"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "IIT"
+      },
+      {
+        "candidate": "Global Workspace Theory"
+      },
+      {
+        "candidate": "GWT"
+      },
+      {
+        "candidate": "Predictive Processing"
+      },
+      {
+        "candidate": "Prediction Errors"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "Hard Problem"
+      },
+      {
+        "candidate": "Eliminativismus"
+      },
+      {
+        "candidate": "Actual Occasions"
+      },
+      {
+        "candidate": "Concrescence"
+      },
+      {
+        "candidate": "Prover"
+      },
+      {
+        "candidate": "Entanglement Witness"
+      },
+      {
+        "candidate": "Dual-Aspect-Monismus"
+      },
+      {
+        "candidate": "Panpsychismus"
+      },
+      {
+        "candidate": "Broadcasting"
+      },
+      {
+        "candidate": "Ignition"
+      },
+      {
+        "candidate": "T-Schema"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Grand Argument  /  Grand Argument Story",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Grand Argument  /  Schritt S — Grand Argument der Story",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Throughlines  /  Four Throughlines",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Main Character Throughline  /  Main Character",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Influence Character Throughline  /  Influence Character",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Subjective Story Throughline  /  Subjective Story",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Objective Story Throughline  /  Objective Story",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Story Mind  /  Mind",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Zero-Knowledge-Verifier  /  Verifier",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 157,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 118,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

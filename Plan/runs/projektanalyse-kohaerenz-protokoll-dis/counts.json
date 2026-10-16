@@ -1,0 +1,805 @@
+{
+  "document": "projektanalyse-kohaerenz-protokoll-dis",
+  "drive_id": "1itglKQ6mdrxq9AxOkApmbkgFE2q43F9pQ1XNG65tLw8",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 29,
+      "n_including_compounds": 29,
+      "lines": [
+        11,
+        15,
+        137,
+        140,
+        146,
+        148,
+        160,
+        162,
+        164,
+        174,
+        195,
+        196,
+        198,
+        199,
+        201,
+        202,
+        203,
+        211,
+        218,
+        228,
+        232,
+        234,
+        235,
+        236,
+        237,
+        238,
+        263,
+        264,
+        266
+      ]
+    },
+    "Kohärenz": {
+      "n": 35,
+      "n_including_compounds": 35,
+      "lines": [
+        11,
+        15,
+        17,
+        31,
+        108,
+        137,
+        140,
+        146,
+        148,
+        160,
+        162,
+        164,
+        174,
+        188,
+        195,
+        196,
+        198,
+        199,
+        201,
+        202,
+        203,
+        206,
+        211,
+        218,
+        228,
+        232,
+        234,
+        235,
+        236,
+        237,
+        238,
+        263,
+        264,
+        266
+      ]
+    },
+    "Kollaps": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        32
+      ]
+    },
+    "K\\_1": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        31,
+        32,
+        34,
+        68,
+        69,
+        220
+      ]
+    },
+    "K\\_0": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        32,
+        68,
+        69,
+        224
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        29,
+        195
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Dual-Kernel-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Protokoll-Ontologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        27
+      ]
+    },
+    "Kael": {
+      "n": 17,
+      "n_including_compounds": 20,
+      "lines": [
+        15,
+        23,
+        34,
+        38,
+        40,
+        92,
+        108,
+        150,
+        152,
+        176,
+        178,
+        184,
+        197,
+        200,
+        204,
+        205,
+        212,
+        214,
+        225
+      ]
+    },
+    "System Kael": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        23,
+        38,
+        184,
+        205
+      ]
+    },
+    "AEGIS": {
+      "n": 12,
+      "n_including_compounds": 15,
+      "lines": [
+        34,
+        93,
+        100,
+        107,
+        108,
+        150,
+        184,
+        197,
+        205,
+        207,
+        214,
+        224,
+        225
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        84,
+        88,
+        93
+      ]
+    },
+    "Nyx": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        107
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        85
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        166,
+        207,
+        225
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80
+      ]
+    },
+    "Logos-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        84
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        85
+      ]
+    },
+    "Entropische Desintegration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        92
+      ]
+    },
+    "Protokoll-Verletzung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        99,
+        225
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        100,
+        197,
+        224
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "AEGIS-Falle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "AEGIS-Fehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Gravitationsarchitektur": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        54,
+        56,
+        62,
+        162,
+        198
+      ]
+    },
+    "Ergosphäre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Photon Sphere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Irreversible Kosten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Schwarzes Loch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        202,
+        225
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Korrespondenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        108,
+        203
+      ]
+    },
+    "Wahrheitsdualität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        203,
+        237
+      ]
+    },
+    "ANP-EP-Phobie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Maximal-Plotter": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        42,
+        44,
+        66,
+        97,
+        137,
+        196,
+        220
+      ]
+    },
+    "Mosaik-Struktur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        48
+      ]
+    },
+    "Mosaik-Ansatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Struktur-Fragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "System-Dirigenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Golden Sources": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        186,
+        188,
+        226
+      ]
+    },
+    "Critical Plot Interrogatories": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        97,
+        140,
+        202,
+        263
+      ]
+    },
+    "Conflict Analyst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Meta-Prompting": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        93,
+        124,
+        126,
+        180,
+        210
+      ]
+    },
+    "Resonanz-Partner": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        126
+      ]
+    },
+    "Zeitgeber": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Externe Zeitgebung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Ontologisches Tagging": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Kognitives Containment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Low Stakes Writing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Agentive Narrative": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        105,
+        160,
+        199,
+        235
+      ]
+    },
+    "Exoskelett": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        79,
+        220
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        107
+      ]
+    },
+    "Safe Processing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Writer's Bible": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        146,
+        195,
+        234
+      ]
+    },
+    "Master Story Guide": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        201,
+        264
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        36,
+        38,
+        200
+      ]
+    },
+    "ANP": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        38,
+        40,
+        58,
+        84,
+        212
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        38,
+        40
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "DIS": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        71,
+        101,
+        122,
+        126,
+        168,
+        208,
+        218
+      ]
+    },
+    "Structural Dissociation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        241,
+        245
+      ]
+    },
+    "Containment": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        46,
+        121,
+        244
+      ]
+    },
+    "Titration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        198
+      ]
+    },
+    "Kompartmentalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Intellektualisierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        88,
+        90,
+        93,
+        218
+      ]
+    },
+    "Externalisierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        34,
+        75
+      ]
+    },
+    "Grounding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Safety Behavior": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        19,
+        95,
+        97,
+        249,
+        250
+      ]
+    },
+    "Rigid Behaviors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "IFS": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        105,
+        107,
+        253,
+        254
+      ]
+    },
+    "Unblending": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Polyphonie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        108
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Hypotaxe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        60,
+        211
+      ]
+    },
+    "Parataxis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    }
+  }
+}

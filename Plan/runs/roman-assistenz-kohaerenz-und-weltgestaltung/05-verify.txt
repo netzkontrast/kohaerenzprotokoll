@@ -1,0 +1,64 @@
+# every number the note and census state, with the command
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Masterkonzept"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Masterkonzept` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#3]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Agency System"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            13
+
+`Agency System` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#8]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Agency Systems"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Agency Systems` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#5]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "dreizehn"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`dreizehn` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#1]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Narrative Reliability Engineer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Narrative Reliability Engineer` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#1]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "The Lost One"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Lost One` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#1]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Tier"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Tier` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#3]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Bunker"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            7
+
+`Bunker` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#0]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Bunkers"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Bunkers` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#6]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --count "Lias"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lias` ^[roman-assistenz-kohaerenz-und-weltgestaltung.md:#3]
+$ python3 scripts/read.py roman-assistenz-kohaerenz-und-weltgestaltung --find "dreizehn distinkte Entitäten"  (thirteen names Kael..Oblivion: paragraphs L61 to L85, one per name; counted by eye: 61,63,65,67,69,71,73,75,77,79,81,83,85 = 13 lines)
+$ grep -c "" Sources/drive/roman-assistenz-kohaerenz-und-weltgestaltung.md
+139

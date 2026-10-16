@@ -1,0 +1,75 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is English prose with German names for places and the Kernwelten; it is an audit that sorts the project into Hard Canon, contradictions, gaps and a fragment inventory. Quotation marks (ascii) mark the audit's own coined labels. The table at L30 is flattened onto one line with `||` separators. Sources in the form `Source: Plot-Exploration, II` are citations of other documents and are not listed. The Gödel Gambit and the Monster Group are applied concepts; autopoietic and Inertial Frame are borrowed lenses.
+
+- Kael
+- Kaels Initiale Wohneinheit
+- AEGIS
+- Juna
+- Silas
+- Rhys
+- Oblivion
+- Hard Canon
+- Inertial Frame
+- Gödel Gambit
+- Coherence Island
+- Potential Sea
+- Monster Group
+- Coherence Protocol
+- Kernwelten
+- Riss
+- Risse
+- Dissoziative Identitätsstörung
+- DIS
+- Alter
+- Alters
+- Relational Essence
+- Big Bounce
+- Implosion
+- Narrative Decoherence
+- Betrayal
+- Origin Trauma
+- Zero-Bit
+- Transfer Protocol
+- Trigger Objects
+- sensory anchors
+- Resonance-Bridge
+- Realized Bits
+- Information Voids
+- Foreshadowing Allocation
+- Ozon
+- feuchte Erde
+- Lokalitäten-Konzept
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1-LogOS
+- KW2-Mnemosyne
+- KW3-Cerberus
+- KW4-Kairos
+- Cerberus
+- Standardisierter Transitkorridor
+- Datenknotenpunkt Gamma-7
+- Interface/Spiegelnde Wand
+- Ankunftszone
+- Ankunftszone (The Fog)
+- Ankunftszone (Generative Chaos)
+- The Fog
+- Generative Chaos
+- Vergessener Schrein
+- Kern-Trauma-Lokus
+- Ort spezifischer Juna-Erinnerung
+- Übergangsschleuse
+- Grenzfeste
+- Übergangsschleuse (Grenzfeste)
+- Ort der Mosaik-Metapher
+- READY
+- NEEDS REVISION
+- Glitch
+
+## lens
+
+- autopoietic
+- unprovable truth
+- Gödelian logic

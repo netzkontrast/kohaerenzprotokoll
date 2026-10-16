@@ -1,0 +1,71 @@
+{
+  "document": "roman-assistenz-kohaerenz-und-weltgestaltung",
+  "drive_id": "1d9grWn7_1tpqm1xVWCUzZmMpQGGffn0RRkNdIH0yy6g",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 86,
+    "decided_by_lookup": 81,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 115,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 102,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

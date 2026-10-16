@@ -1,0 +1,554 @@
+{
+  "document": "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
+  "drive_id": "1W5a49AUOZ9eBVTEFBXS7yLv_np4n_a6FakXSLKrANLQ",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Risse": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        57,
+        79,
+        118,
+        134
+      ]
+    },
+    "Riss": {
+      "n": 2,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        15,
+        57,
+        73,
+        77,
+        79,
+        85,
+        118,
+        134
+      ]
+    },
+    "Kael": {
+      "n": 31,
+      "n_including_compounds": 31,
+      "lines": [
+        15,
+        17,
+        34,
+        46,
+        57,
+        69,
+        73,
+        86,
+        87,
+        88,
+        90,
+        94,
+        98,
+        102,
+        106,
+        108,
+        114,
+        124,
+        128,
+        130,
+        134,
+        136
+      ]
+    },
+    "AEGIS": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        110,
+        112,
+        114,
+        118,
+        124,
+        126,
+        127,
+        128,
+        130,
+        134,
+        136
+      ]
+    },
+    "Protocol Ontology": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Coherons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        134
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Emotional Parts": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        61,
+        79,
+        106
+      ]
+    },
+    "ANP-EP Phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "ANP-EP Phobia": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        69
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Lex": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        47,
+        69,
+        86,
+        88,
+        126
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        88
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        49,
+        65,
+        69,
+        86,
+        127
+      ]
+    },
+    "Kiko": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        50,
+        65,
+        87,
+        128
+      ]
+    },
+    "Moros": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        88
+      ]
+    },
+    "Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "bindungsruf": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        87
+      ]
+    },
+    "Kampf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Erstarrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Cache Incoherence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        67
+      ]
+    },
+    "Correspondence Error": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "correspondence errors": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        134
+      ]
+    },
+    "correspondence check": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        102
+      ]
+    },
+    "coherentist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        114
+      ]
+    },
+    "Riss-Symptom Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "self-protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        86,
+        87
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Ich-Fragmenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Separation Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Genesis Log": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "LOG 734.19": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Einsamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Sehnsucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "stress tests": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "epistemological blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Intrusion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        104
+      ]
+    },
+    "Korrektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Rekonfiguration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Psychological Architectures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Tertiary Structural Dissociation of the Personality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        34
+      ]
+    },
+    "TSDP": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        32,
+        34,
+        45,
+        65,
+        73,
+        85,
+        110,
+        124,
+        134
+      ]
+    },
+    "ANPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        36,
+        39,
+        41,
+        53,
+        88
+      ]
+    },
+    "EPs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        37,
+        39,
+        41,
+        46,
+        48,
+        53,
+        126
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        27
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "unreliable narrator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "depersonalization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Derealization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    }
+  }
+}

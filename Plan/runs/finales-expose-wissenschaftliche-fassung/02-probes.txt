@@ -1,0 +1,51 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      14
+  backslash escapes      0
+  typographic marks      7
+  ascii quotes           66
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemfehler, Systems, Systemtheorie
+  algor    Algorithmische, Algorithmischen, Algorithmus
+  erzäh    Erzählperspektiven, Erzählstimme, Erzählung
+  kontr    Kontrolle, Kontrollmethoden, Kontrollprogramm
+  manip    Manipulation, Manipulationen, Manipulationsversuche
+  parad    Paradox, Paradoxien, Paradoxon
+  defin    Definition, Definitionen
+  gegen    Gegenargument, Gegensatz
+  gärtn    Gärtner, Gärtners
+  infor    Informatik, Informationen
+  initi    Initianden, Initiation
+  konfr    Konfrontation, Konfrontiert
+  prota    Protagonist, Protagonisten
+  proto    Protokoll, Protokolle
+  roman    Roman, Romans
+  schri    Schriftart, Schritte
+  seins    Seins, Seinsform
+  stimm    Stimme, Stimmen
+  trans    Transformation, Transformationen
+  wider    Widerspruch, Widersprüche
+  wisse    Wissen, Wissens
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Seine
+  Form < Seinsform
+  Form < Informatik
+  Form < Informationen
+  Form < Transformation
+  Form < Performativität
+  Form < Transformationen
+  Kael < Kaels
+  Kern < Kernthese
+  Sein < Seine
+  Sein < Seins
+  Sein < Seinsform
+  Sein < Bewusstsein
+  Sein < Auseinandersetzung
+  Teil < Teile
+  Teil < Anteile
+  Teil < Bestandteil
+  Teil < Puzzleteile
+  Text < Textblöcke
+  Welt < Überwelt

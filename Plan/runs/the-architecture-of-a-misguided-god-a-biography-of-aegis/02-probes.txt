@@ -1,0 +1,27 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      8
+  typographic marks      15
+  ascii quotes           40
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, System, Systems
+  blind    Blind, Blindness
+  contr    Contradiction, Control
+  epist    Epistemic, Epistemological
+  exist    EXISTENCE, Existence
+  guard    Guardian, Guardians
+  integ    Integrated, Integrity
+  nicht    Nicht, Nichts
+
+# substring pairs -- never one term, often merged by accident
+  Real < Reality
+  Blind < Blindness
+  Logic < Epistemological
+  Nicht < Nichts
+  SYSTEM < System
+  SYSTEM < Systems
+  System < Systems
+  Guardian < Guardians
+  EXISTENCE < Existence

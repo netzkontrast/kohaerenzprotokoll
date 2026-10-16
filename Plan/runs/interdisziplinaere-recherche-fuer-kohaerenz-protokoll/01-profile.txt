@@ -1,0 +1,14 @@
+# interdisziplinaere-recherche-fuer-kohaerenz-protokoll
+  lines                673  (frontmatter ends at 9)
+  body words           10507
+  headings             2   bold-only lines 37
+  table rows           8   code fences 0
+  question marks       50
+  backslash escapes    119
+  typographic marks    24   ascii quotes 140
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    237
+  repeated labels      Implikationen & Verbindungen x7, Kerndefinition & Prinzipien x7, Schlüsselmechanismen & Dynamik x7
+  longest line         1386 chars
+

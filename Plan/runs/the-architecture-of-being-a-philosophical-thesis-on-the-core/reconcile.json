@@ -1,0 +1,186 @@
+{
+  "document": "the-architecture-of-being-a-philosophical-thesis-on-the-core",
+  "drive_id": "16A88XrcqhUlqLfzkLgJdm03XZ46sDHwHkGLw4vNM4Aw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two Q7 entries — this document's and the one missed in ingest-370 for the-architecture-of-a-misguided-god-a-biography-of-aegis — by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-371/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 52,
+    "decided_by_lookup": 44,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English philosophical thesis on the narrative: its new surfaces are its own formulas and borrowed concepts; what it argues of AEGIS, Kael and the alters, the Dual-Kernel Theory and the Coherons, the Kernwelten, the Risse, TSDP, the Rauschen and Component 734 went on existing pages, and Component 734 on Q7.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        36,
+        38,
+        52,
+        54,
+        58,
+        64,
+        66
+      ],
+      "attribution": "",
+      "note": "AEGIS read as a philosophical doctrine of exclusionary order"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        27,
+        30
+      ],
+      "attribution": "",
+      "note": "Coherons as the K₁ kernel's building blocks, and the repair cycle"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        25,
+        27,
+        28,
+        36
+      ],
+      "attribution": "",
+      "note": "The Dual-Kernel Theory as the narrative's metaphysical engine"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "Juna/V as an external connection AEGIS classifies as entropy"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        74,
+        80,
+        85,
+        87,
+        91,
+        93,
+        113
+      ],
+      "attribution": "",
+      "note": "System Kael as the counter-argument to AEGIS's order"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "Kernwelten as engineered environments in the paper's argument"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "Kiko among the Emotional Parts"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        64
+      ],
+      "attribution": "",
+      "note": "Component 734 as the sacrificed subjective I"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "Lex among the Apparently Normal Parts"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        58
+      ],
+      "attribution": "",
+      "note": "Das Rauschen as the void of AEGIS's origin"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "Nyx among the Emotional Parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        85,
+        87
+      ],
+      "attribution": "",
+      "note": "Risse as the place where control breaks down"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        78,
+        80,
+        81
+      ],
+      "attribution": "",
+      "note": "TSDP as a mirror of the conflict of truth theories"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Coherons` read on coheron; `Genesis-Krise` and `Autonomous Entropic Gatekeeper` read on aegis; `Juna/V` read on juna; `Das Rauschen` read on nichts-rauschen; `Theory of Structural Dissociation of the Personality` read on tsdp",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 30,
+      "decision": "reading",
+      "why": "the Coherons of the K₁ kernel, read on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 58,
+      "decision": "reading",
+      "why": "the Juna/V connection AEGIS classifies as entropy, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Intrusion/Korrektur/Rekonfiguration, Corrective Wavelets, the Great Realignment, Systemic Self, functional multiplicity, narrative mirroring, the Thematic Duality Matrix and the paper's two formulas",
+    "the borrowed concepts (theories of truth, autopoiesis, Hamartia, the Ship of Theseus, quantum decoherence, operant conditioning)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

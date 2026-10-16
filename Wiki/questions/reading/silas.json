@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "silas",
+ "title": "Silas",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Echo einer Beziehung",
+  "Unsicherheit der Zuschreibung",
+  "Unterschied zwischen Erinnerungsimpuls und eigener Stimme",
+  "Eigenständigkeit eines Spiegel-Anteils",
+  "Geltung der Verbindung im Alltag"
+ ],
+ "basis": {
+  "silas": {
+   "title": "Silas",
+   "path": "Wiki/candidates/silas.md",
+   "hash": "e85b8b07d58f2a313eb17d5729e8cdda011d636753cee1550bda81f9df47e5be"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "residual-echos": {
+   "title": "Residual-Echos",
+   "path": "Wiki/candidates/residual-echos.md",
+   "hash": "14ca98c946db7871ebc5d5f88340e8142cfec215a321d8053abe7c15c44d6abe"
+  },
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  },
+  "kaels-wohneinheit": {
+   "title": "Kaels Wohneinheit 1.0",
+   "path": "Wiki/candidates/kaels-wohneinheit.md",
+   "hash": "3be85478fea78f1782c2e7eb1fb762d5d9c0d1eeeb3ab8b9ce67f372617521cd"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-silas-001",
+   "question": "Welche Handlung oder Wahrnehmung würde Silas als eigene Stimme kenntlich machen statt als unsicher zugeschriebenes Juna-Echo?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-002",
+   "question": "Welche Lesarten auf der Seite zu Silas stützen oder begrenzen „Echo einer Beziehung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-003",
+   "question": "Welcher Grenzfall würde bei Silas die Annahmen über „Echo einer Beziehung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-004",
+   "question": "Wer könnte innerhalb des Romans bei Silas etwas über „Echo einer Beziehung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-005",
+   "question": "Welche konkrete Entscheidung könnte „Echo einer Beziehung“ bei Silas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Echo einer Beziehung“ bei Silas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-007",
+   "question": "Wie lässt sich „Echo einer Beziehung“ bei Silas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-008",
+   "question": "Welche Alternativen sollte der Autor bei Silas für „Echo einer Beziehung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-009",
+   "question": "Was bedeutet bei Silas der Themenpunkt „Unsicherheit der Zuschreibung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-010",
+   "question": "Welche Lesarten auf der Seite zu Silas stützen oder begrenzen „Unsicherheit der Zuschreibung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-011",
+   "question": "Welcher Grenzfall würde bei Silas die Annahmen über „Unsicherheit der Zuschreibung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-012",
+   "question": "Wer könnte innerhalb des Romans bei Silas etwas über „Unsicherheit der Zuschreibung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-013",
+   "question": "Welche konkrete Entscheidung könnte „Unsicherheit der Zuschreibung“ bei Silas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unsicherheit der Zuschreibung“ bei Silas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-015",
+   "question": "Wie lässt sich „Unsicherheit der Zuschreibung“ bei Silas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-016",
+   "question": "Welche Alternativen sollte der Autor bei Silas für „Unsicherheit der Zuschreibung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-017",
+   "question": "Was bedeutet bei Silas der Themenpunkt „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-018",
+   "question": "Welche Lesarten auf der Seite zu Silas stützen oder begrenzen „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-019",
+   "question": "Welcher Grenzfall würde bei Silas die Annahmen über „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-020",
+   "question": "Wer könnte innerhalb des Romans bei Silas etwas über „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ bei Silas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ bei Silas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-023",
+   "question": "Wie lässt sich „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ bei Silas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-024",
+   "question": "Welche Alternativen sollte der Autor bei Silas für „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-025",
+   "question": "Was bedeutet bei Silas der Themenpunkt „Eigenständigkeit eines Spiegel-Anteils“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-026",
+   "question": "Welche Lesarten auf der Seite zu Silas stützen oder begrenzen „Eigenständigkeit eines Spiegel-Anteils“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-027",
+   "question": "Welcher Grenzfall würde bei Silas die Annahmen über „Eigenständigkeit eines Spiegel-Anteils“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-028",
+   "question": "Wer könnte innerhalb des Romans bei Silas etwas über „Eigenständigkeit eines Spiegel-Anteils“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-029",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit eines Spiegel-Anteils“ bei Silas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit eines Spiegel-Anteils“ bei Silas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-031",
+   "question": "Wie lässt sich „Eigenständigkeit eines Spiegel-Anteils“ bei Silas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-032",
+   "question": "Welche Alternativen sollte der Autor bei Silas für „Eigenständigkeit eines Spiegel-Anteils“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-033",
+   "question": "Was bedeutet bei Silas der Themenpunkt „Geltung der Verbindung im Alltag“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-034",
+   "question": "Welche Lesarten auf der Seite zu Silas stützen oder begrenzen „Geltung der Verbindung im Alltag“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-035",
+   "question": "Welcher Grenzfall würde bei Silas die Annahmen über „Geltung der Verbindung im Alltag“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-036",
+   "question": "Wer könnte innerhalb des Romans bei Silas etwas über „Geltung der Verbindung im Alltag“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-037",
+   "question": "Welche konkrete Entscheidung könnte „Geltung der Verbindung im Alltag“ bei Silas in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Geltung der Verbindung im Alltag“ bei Silas haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-039",
+   "question": "Wie lässt sich „Geltung der Verbindung im Alltag“ bei Silas zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-040",
+   "question": "Welche Alternativen sollte der Autor bei Silas für „Geltung der Verbindung im Alltag“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-silas-041",
+   "question": "Wo unterscheiden sich Silas und Juna, wenn man sie unter dem Gesichtspunkt „Echo einer Beziehung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-042",
+   "question": "Welche Quelle verbindet Silas mit Juna in Bezug auf „Echo einer Beziehung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Silas unter „Echo einer Beziehung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-044",
+   "question": "Wie könnte sich das Wissen über Silas vom Wissen über Juna unterscheiden, wenn „Echo einer Beziehung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Silas und Juna bei „Echo einer Beziehung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-046",
+   "question": "Falls Silas im Hinblick auf „Echo einer Beziehung“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Silas und Juna bei „Echo einer Beziehung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-048",
+   "question": "Braucht der Roman eine Verbindung von Silas und Juna bei „Echo einer Beziehung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-049",
+   "question": "In welchem denkbaren Fall könnte Silas bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Echo einer Beziehung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-050",
+   "question": "Welche Kosten könnte eine Verbindung von Silas und Juna in Bezug auf „Echo einer Beziehung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-051",
+   "question": "Welche ältere Lesart von Silas oder Juna könnte die Gegenüberstellung unter „Echo einer Beziehung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Silas und Juna unter „Echo einer Beziehung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "silas",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-silas-053",
+   "question": "Wo unterscheiden sich Silas und Residual-Echos, wenn man sie unter dem Gesichtspunkt „Unsicherheit der Zuschreibung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-054",
+   "question": "Welche Quelle verbindet Silas mit Residual-Echos in Bezug auf „Unsicherheit der Zuschreibung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-055",
+   "question": "Welche Grenzen aus der Seite zu Residual-Echos müsste eine Deutung von Silas unter „Unsicherheit der Zuschreibung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-056",
+   "question": "Wie könnte sich das Wissen über Silas vom Wissen über Residual-Echos unterscheiden, wenn „Unsicherheit der Zuschreibung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Silas und Residual-Echos bei „Unsicherheit der Zuschreibung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-058",
+   "question": "Falls Silas im Hinblick auf „Unsicherheit der Zuschreibung“ anders festgelegt wird: Welche Aussagen über Residual-Echos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Silas und Residual-Echos bei „Unsicherheit der Zuschreibung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-060",
+   "question": "Braucht der Roman eine Verbindung von Silas und Residual-Echos bei „Unsicherheit der Zuschreibung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-061",
+   "question": "In welchem denkbaren Fall könnte Silas bestehen, ohne dass Residual-Echos dieselbe Funktion übernimmt, und was würde das für „Unsicherheit der Zuschreibung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-062",
+   "question": "Welche Kosten könnte eine Verbindung von Silas und Residual-Echos in Bezug auf „Unsicherheit der Zuschreibung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-063",
+   "question": "Welche ältere Lesart von Silas oder Residual-Echos könnte die Gegenüberstellung unter „Unsicherheit der Zuschreibung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Silas und Residual-Echos unter „Unsicherheit der Zuschreibung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "silas",
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-silas-065",
+   "question": "Wo unterscheiden sich Silas und Telefon-Stille, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-066",
+   "question": "Welche Quelle verbindet Silas mit Telefon-Stille in Bezug auf „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-067",
+   "question": "Welche Grenzen aus der Seite zu Telefon-Stille müsste eine Deutung von Silas unter „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-068",
+   "question": "Wie könnte sich das Wissen über Silas vom Wissen über Telefon-Stille unterscheiden, wenn „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Silas und Telefon-Stille bei „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-070",
+   "question": "Falls Silas im Hinblick auf „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ anders festgelegt wird: Welche Aussagen über Telefon-Stille müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Silas und Telefon-Stille bei „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-072",
+   "question": "Braucht der Roman eine Verbindung von Silas und Telefon-Stille bei „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-073",
+   "question": "In welchem denkbaren Fall könnte Silas bestehen, ohne dass Telefon-Stille dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-074",
+   "question": "Welche Kosten könnte eine Verbindung von Silas und Telefon-Stille in Bezug auf „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-075",
+   "question": "Welche ältere Lesart von Silas oder Telefon-Stille könnte die Gegenüberstellung unter „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Silas und Telefon-Stille unter „Unterschied zwischen Erinnerungsimpuls und eigener Stimme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "silas",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-silas-077",
+   "question": "Wo unterscheiden sich Silas und Kaels Wohneinheit 1.0, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit eines Spiegel-Anteils“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-078",
+   "question": "Welche Quelle verbindet Silas mit Kaels Wohneinheit 1.0 in Bezug auf „Eigenständigkeit eines Spiegel-Anteils“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-079",
+   "question": "Welche Grenzen aus der Seite zu Kaels Wohneinheit 1.0 müsste eine Deutung von Silas unter „Eigenständigkeit eines Spiegel-Anteils“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-080",
+   "question": "Wie könnte sich das Wissen über Silas vom Wissen über Kaels Wohneinheit 1.0 unterscheiden, wenn „Eigenständigkeit eines Spiegel-Anteils“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Silas und Kaels Wohneinheit 1.0 bei „Eigenständigkeit eines Spiegel-Anteils“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-082",
+   "question": "Falls Silas im Hinblick auf „Eigenständigkeit eines Spiegel-Anteils“ anders festgelegt wird: Welche Aussagen über Kaels Wohneinheit 1.0 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Silas und Kaels Wohneinheit 1.0 bei „Eigenständigkeit eines Spiegel-Anteils“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-084",
+   "question": "Braucht der Roman eine Verbindung von Silas und Kaels Wohneinheit 1.0 bei „Eigenständigkeit eines Spiegel-Anteils“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-085",
+   "question": "In welchem denkbaren Fall könnte Silas bestehen, ohne dass Kaels Wohneinheit 1.0 dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit eines Spiegel-Anteils“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-086",
+   "question": "Welche Kosten könnte eine Verbindung von Silas und Kaels Wohneinheit 1.0 in Bezug auf „Eigenständigkeit eines Spiegel-Anteils“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-087",
+   "question": "Welche ältere Lesart von Silas oder Kaels Wohneinheit 1.0 könnte die Gegenüberstellung unter „Eigenständigkeit eines Spiegel-Anteils“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Silas und Kaels Wohneinheit 1.0 unter „Eigenständigkeit eines Spiegel-Anteils“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "silas",
+    "kaels-wohneinheit"
+   ]
+  },
+  {
+   "id": "RQ-silas-089",
+   "question": "Wo unterscheiden sich Silas und Alters, wenn man sie unter dem Gesichtspunkt „Geltung der Verbindung im Alltag“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-090",
+   "question": "Welche Quelle verbindet Silas mit Alters in Bezug auf „Geltung der Verbindung im Alltag“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Silas unter „Geltung der Verbindung im Alltag“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-092",
+   "question": "Wie könnte sich das Wissen über Silas vom Wissen über Alters unterscheiden, wenn „Geltung der Verbindung im Alltag“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Silas und Alters bei „Geltung der Verbindung im Alltag“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-094",
+   "question": "Falls Silas im Hinblick auf „Geltung der Verbindung im Alltag“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Silas und Alters bei „Geltung der Verbindung im Alltag“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-096",
+   "question": "Braucht der Roman eine Verbindung von Silas und Alters bei „Geltung der Verbindung im Alltag“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-097",
+   "question": "In welchem denkbaren Fall könnte Silas bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Geltung der Verbindung im Alltag“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-098",
+   "question": "Welche Kosten könnte eine Verbindung von Silas und Alters in Bezug auf „Geltung der Verbindung im Alltag“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-099",
+   "question": "Welche ältere Lesart von Silas oder Alters könnte die Gegenüberstellung unter „Geltung der Verbindung im Alltag“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-silas-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Silas und Alters unter „Geltung der Verbindung im Alltag“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "silas",
+    "alters"
+   ]
+  }
+ ]
+}

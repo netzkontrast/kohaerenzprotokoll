@@ -471,3 +471,11 @@ Stands as a further placement in the record's terms, dated 2025-07-30: a first s
 For Kap 1 the field reads „Möglicherweise ein fehlgeschlagener Kommunikationsversuch Junas, der sich als statisches Rauschen oder Bildstörung äußert.“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L118] The revision principles say that „Junas Interventionen und Kommunikationsversuche werden strategischer an kritischen Plotpunkten platziert“ ^[romanplot-uberarbeitung-kohaerenz-protokoll-teil-1.md:L90]. The plan places no direct encounter with her in the lines read here; the Kap 1 trace is a possibility, marked by `Möglicherweise`.
 
 Where it stands: a hedged proposal of an early indirect trace, recorded, not applied, and not a direct appearance in the record's terms.
+
+## 2026-10-12 — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis
+
+**The master synthesis plans Juna first at the edge of the field of view in Chapter 3, and her unmasking in Chapter 26.**
+
+„In Kapitel 3 erscheint Juna erstmals am Rand des Sichtfeldes“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L83]; the unmasking: „Gegen Ende des zweiten Aktes (Kapitel 26) demaskiert sich Juna“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L102]. The first crack in coherence precedes her: „Der erste Riss in der Kohärenz entsteht durch die Desynchronisation der Identitäts-Caches“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L83]. The synthesis's own closing question offers, for Chapter 1, a temperature shock from suppressing a thought of Juna: „erleidet er den ersten physischen Landauer-Temperaturschock durch das unbewusste Unterdrücken eines Gedankens an Juna“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L151], so Juna is thought of before Chapter 3 in that option.
+
+Stands on the Chapter 3 side as a plan, with the Chapter 1 option left open; recorded, not applied, and the record's rows are not changed.

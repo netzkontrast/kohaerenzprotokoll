@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      18
+  backslash escapes      75
+  typographic marks      370
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, System, Systemabsturz, Systemabsturzes, Systemalarme, Systemausfall, Systeme, Systemen, Systemfehler, Systemfehlern, Systeminstabilität, Systemintegrität, Systemkern, Systemmeldungen, Systemneustart, Systems, Systemzustände, Systemzuständen
+  selbs    Selbstabschaltung, Selbstauflösung, Selbstdefinition, Selbsterhaltung, Selbsterzeugung, Selbstmodells, Selbstorganisation, Selbstrepräsentation, Selbstwahrnehmung, Selbstwartung
+  daten    Daten, Datenfluss, Datenflut, Datenpunkte, Datenset, Datenstrom, Datenstromgeräusche, Datenströmen, Datenverarbeitung
+  infor    Information, Informationen, Informationstheorie, Informationsverarbeitung, Informationsverarbeitungsparadigmen, Informationszustände, Informationsüberflutung
+  entro    ENTROPY, Entropie, Entropiegleichung, Entropiekalkül, Entropieminimierung, Entropy
+  final    FINAL, Final, Finale, Finaler, Finalized, Finally
+  inter    Interesse, Interferenz, Interne, Interpretation, Interpretationen, Intersection
+  konze    Konzept, Konzeptalbums, Konzepte, Konzeptentwicklerin, Konzeptentwicklung, Konzepts
+  parad    PARADOX, Paradigms, Paradox, Paradoxien, Paradoxon, Paradoxons
+  singu    SINGULARITY, Singularity, Singularität, Singularitäten, Singularitätsprotokoll, Singularitätsreflexion
+  stimm    Stimme, Stimmen, Stimmfragmentierung, Stimmqualität, Stimmung, Stimmungsdeskriptoren
+  exist    Existential, Existentialism, Existenz, Existenzform, Existenzmodus
+  gesan    Gesangsanweisungen, Gesangseffekte, Gesangslinien, Gesangsstil, Gesangsstils
+  model    MODEL, Modeling, Modell, Modellierung, Modellierungsversuche
+  musik    Musik, Musikalisch, Musikalische, Musikstil, Musikstilbeschreibung
+  proto    PROTOCOL, Protokoll, Protokolleinhaltung, Protokolls, Protokollsprache
+  synth    Synth, Synthese, Syntheseleistung, Synthesephasen, Syntheseprozesses
+  gener    General, Generated, Generation, Generierung
+  integ    INTEGRITY, Integration, Integrität, Integritätsschwelle
+  kontr    Kontrast, Kontrolle, Kontrollsysteme, Kontrollverlust
+  reali    Realisierbarkeit, Realisierung, Realität, Realitätsgrenze
+  verar    Verarbeitung, Verarbeitungsengpass, Verarbeitungssequenzen, Verarbeitungsüberlastung
+  verst    Verstand, Verstehensrahmen, Verständnis, Verständnisses
+  werta    Wertanpassung, Wertausrichtung, Wertausrichtungsproblem, Wertausrichtungsproblematik
+  align    ALIGNMENT, Aligned, Alignment
+
+# substring pairs -- never one term, often merged by accident
+  Code < Quellcode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Verfeinerung
+  Eine < Verfeinerungen
+  Ende < Kaskadierende
+  Ende < Überwältigende
+  Essi < Regression
+  Essi < Progression
+  Flut < Datenflut
+  Flut < Überflutung
+  Flut < Informationsüberflutung
+  Form < Formen
+  Form < Information
+  Form < Lösungsform
+  Form < Existenzform
+  Form < Formlosigkeit
+  Form < Informationen

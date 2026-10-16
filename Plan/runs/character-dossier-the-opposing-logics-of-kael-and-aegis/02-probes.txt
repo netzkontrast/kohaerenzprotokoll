@@ -1,0 +1,24 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      48
+  typographic marks      6
+  ascii quotes           52
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coherences, Coherent
+  integ    Integrated, Integration, Integrity
+  achie    Achieve, Achieving
+  logic    Logic, Logics
+  respo    Responders, Responsibility
+  syste    System, Systems
+  theor    Theorems, Theory
+
+# substring pairs -- never one term, often merged by accident
+  Flaw < Flawed
+  Part < Parts
+  Logic < Logics
+  Logic < Ontological
+  System < Systems
+  Coherent < Incoherent
+  Coherence < Coherences

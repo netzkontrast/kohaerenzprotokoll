@@ -1,0 +1,100 @@
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Relevanz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Relevanz` ^[logik-trifft-transzendente-entitaet-2.md:#5]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Verlauf"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Verlauf` ^[logik-trifft-transzendente-entitaet-2.md:#6]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Themen"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Themen` ^[logik-trifft-transzendente-entitaet-2.md:#7]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Aegis"
+whole word, case-sensitive     174
+whole word, case-insensitive   174
+including compounds            175
+
+`Aegis` ^[logik-trifft-transzendente-entitaet-2.md:#174]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Kohärenzprotokoll"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            12
+
+`Kohärenzprotokoll` ^[logik-trifft-transzendente-entitaet-2.md:#10]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "transzendenten Entität"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`transzendenten Entität` ^[logik-trifft-transzendente-entitaet-2.md:#9]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "transzendente Entität"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`transzendente Entität` ^[logik-trifft-transzendente-entitaet-2.md:#9]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Aegis-Morphismus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Aegis-Morphismus` ^[logik-trifft-transzendente-entitaet-2.md:#1]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "wahrscheinlich"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`wahrscheinlich` ^[logik-trifft-transzendente-entitaet-2.md:#16]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Benutzeranfrage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Benutzeranfrage` ^[logik-trifft-transzendente-entitaet-2.md:#1]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Anfrage"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Anfrage` ^[logik-trifft-transzendente-entitaet-2.md:#2]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[logik-trifft-transzendente-entitaet-2.md:#0]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Teil"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            11
+
+`Teil` ^[logik-trifft-transzendente-entitaet-2.md:#2]
+$ python3 scripts/read.py logik-trifft-transzendente-entitaet-2 --count "Snippet-Beispiele"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Snippet-Beispiele` ^[logik-trifft-transzendente-entitaet-2.md:#1]
+$ stance_marker_count 5+6+7 = 18 (Relevanz + Verlauf + Themen whole-word counts above)
+$ python3 scripts/profile.py (01-profile.txt)
+# logik-trifft-transzendente-entitaet-2
+  lines                325  (frontmatter ends at 9)
+  body words           7594
+  headings             27   bold-only lines 1
+  table rows           9   code fences 0
+  question marks       23
+  backslash escapes    98
+  typographic marks    160   ascii quotes 20
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    21
+  repeated labels      Relevanz x5, Themen x5, Verlauf x5
+  longest line         9632 chars
+

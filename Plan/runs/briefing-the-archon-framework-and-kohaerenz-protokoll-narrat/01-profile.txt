@@ -1,0 +1,14 @@
+# briefing-the-archon-framework-and-kohaerenz-protokoll-narrat
+  lines                174  (frontmatter ends at 9)
+  body words           2842
+  headings             17   bold-only lines 0
+  table rows           33   code fences 0
+  question marks       1
+  backslash escapes    180
+  typographic marks    8   ascii quotes 118
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         913 chars
+

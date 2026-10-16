@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 37
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
+sources: 52
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "2026-09-14-kap25-vertiefung-md", "kp-kap25-2026-09-14-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "roman-outline-kohaerenz-protokoll-strategie", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 records: ["C9", "C11", "C14", "C6"]
 gathered: "2026-09-25"
 ---
@@ -22,12 +22,44 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 An der Wegkreuzung erkennt Kael, dass Freiheit nur außerhalb von AEGIS' System möglich ist, und AEGIS bemerkt seine neue Klarheit; das Kapitel-Kompendium und die Storyform-Outline setzen es als Stehen an der Schwelle, ausdrücklich nicht als Beginn der Konfrontation, die Plot-Konkretisierung als Niederlegung, in der Kael nichts mehr bestätigt und die Schlange einfach wächst. Im zyklischen Modus ist es die Vorbereitung des Wendepunkts zur Befreiung, den das Kapitel-Kompendium mit dem folgenden Kapitel teilt, laut der strukturierten Outline im Shō, laut Kapitel-Kompendium und Storyform-Outline im zweiten Akt, laut Kernwelten vollständig an dessen Ende. In Storyform A trägt es laut mehreren Quellen MC-Concern Memory, die Klarheit über die Notwendigkeit, in B OS-Physics; laut der strukturierten Outline wird der Optionlock von A spürbar, und das Forewarning von B erreicht sein Maximum. Laut der strukturierten Outline kehrt die Zahl 734 wieder, die Kael nun für eine Adresse oder einen Namen hält, Kernwelten vollständig legt das Kapitel in KW3 in die Wartungsschächte und zur Wohneinheit 734, und laut der Storyform-Outline wird an dieser Wende der Schleier offen benannt. Die AEGIS-Subplot-Sammlung kennt hier eine umgeschriebene Geschichte, in der AEGIS veränderte Aufzeichnungen für korrekt und Kaels Gedächtnis für fehlerhaft erklärt.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 25
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 25, in Teil 2: Die Eskalation, is titled „AEGIS lernt“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L368]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Kael's Reaktion auf den Zerfall`
+
+- The detailed plot draft plans for Kap 25, `Kael's Reaktion auf den Zerfall`: „Er nutzt die Risse und Instabilitäten intuitiv, findet neue Wege oder Fähigkeiten“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L119] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Die Brücke formt sich`
+
+- The Moonshine-Brücke blueprint plans for Kap 25, `Die Brücke formt sich`: „Kael beginnt die mathematische Natur der K-J Verbindung als Brücke zu M und AEGIS zu ahnen.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L87] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Die Ruhe vor dem Sturm“ ^[monstergruppe-primzahlen-plot-blueprint.md:L271]
 Position: „Akt II: Paradoxon / Emergenz (Kapitel 14-26)“ ^[monstergruppe-primzahlen-plot-blueprint.md:L157]
 
 - Plot: „Ein Moment relativer Ruhe, bevor AEGIS seine letzte Option wählt.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274] „Kael reflektiert über seine Reise, seine Integration, die Verbindung zu J.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L274]
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Identitätsparadoxien (Schiff des Theseus)`
+
+- The enriched plot concept's theme draft has for Kapitel 25, under the concept label `Identitätsparadoxien (Schiff des Theseus)`: „Kael beobachtet eine andere Entität, die sich ständig wandelt“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L63] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Die Wahl der Konfrontation`
+
+- The concept chapter map plans for Kap 25: „Die bewusste Entscheidung, den Kreislauf der Reaktion und Manipulation zu durchbrechen“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L259]; AEGIS „bereitet Verteidigungsmaßnahmen vor“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L260]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Entscheidung zur Konfrontation`
+
+- The comprehensive concept's overview gives Kap 25 the label „Entscheidung zur Konfrontation“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L101] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 25 „Die Sprache der Paraiyas“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L56] in its second part, the system's everyday trials and assigns it the primary concept „Werteklärung / Umdeutung abgelehnter Prinzipien“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L56]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — AEGIS prepares a drastic measure
+
+- The logline analysis proposes for Kap 25: „bereitet eine drastische, systemweite Maßnahme vor“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L247] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Flüstern von jenseits
 
@@ -56,6 +88,14 @@ Focus: `Externe Intervention/Wahl`, „Die Intensivierung des Kontakts zu Juna�
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the alignment concept
 
 - The strategy report keys this chapter to the alignment concept „Instrumentelle Konvergenz (Machtstreben/Selbsterhaltung)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L197]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — the truth of the simulation (sample continuation)
+
+The strategy outline gives Chapter 25 as a sample continuation and titles it „Die Wahrheit der Simulation“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L278]. It plans: „Durch eine Kombination aus den Informationen des Sentient Echo“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L282] and other findings Kael or the group reaches the realisation or strong suspicion that the perceived reality is a simulation kept up by the protocol.
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — the encounter with Juna/V and cosmic horror
+
+- The trope analysis ties chapter 25 to the Other: Kael's meeting with Juna/V is „Kaels Begegnung mit Juna/V“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L78] (L78), and cosmic horror is tied to the possibly alien nature of Juna/V (L128). An analysis of an outline it does not reproduce.
 
 ## Reading — `finales-kausales-plot-geruest`, 2025-07-29, the causal beat sheet — Beat 2.4, „Destruktive Suche & Twist“ ^[finales-kausales-plot-geruest.md:L145] (Kapitel 25–26)
 
@@ -140,6 +180,14 @@ Position: Teil II; POV from `Perspektive & Stimme`: „Kael“ ^[kohaerenz-proto
 
 - The DKT synthesis's chapter 25: „Das Protokoll der Kohärenz“ ^[roman-synthese-mit-dual-kernel-theorie.md:L253]. Its narrative level: „Vision einer Welt ohne Zeit und ohne Ich; der ultimative Frieden“ ^[roman-synthese-mit-dual-kernel-theorie.md:L257]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil II
+
+- The master blueprint places chapter 25 in Teil II, „Die Anatomie der Spaltung“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L36]: Kael leaves the simulation level and „betritt den“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L42] Nexus, where he meets the Guardians. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Das Protokoll der Kohärenz`
+
+- The Roman-Outline plans for Kap 25, `Das Protokoll der Kohärenz`: „Die Enthüllung des eigentlichen Ziels von AEGIS: Totale Systemstabilität.“ ^[roman-outline-kohaerenz-protokoll.md:L82] Numbered 25 in the whole novel; the export restarts the list in each part, so this is item 12 of Part II. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Das absolute Protokoll des Cerberus“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107]
@@ -223,6 +271,10 @@ Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
 - Storyform B: „OS-Physics: AEGIS bemerkt Kaels neue Klarheit" ^[three-mode-architecture-39-chapters-md.md:L269]
 - Leitmotif: „Wegkreuzung, Schwellen-Bilder" ^[three-mode-architecture-39-chapters-md.md:L269]
 
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 25 as a place of the number 734
+
+The character bible lists Kap 25 among the places of the number: „Die Zahl 734 (Kap 2, Kap 10, Kap 25).“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1054] and „sie taucht in mehreren foreshadowing-Stellen wieder auf (Kap 2, 10, 25), ohne dass Kael ihre Bedeutung kennt.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L311] Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827]
@@ -269,6 +321,14 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 
 - Plot beats: „Die Niederlegung — Kael bestätigt nichts mehr. Kein Wort, keine Geste; die Schlange wächst einfach.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Plot beats: „Schwelle, nicht Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — a recurrence of the number 734
+
+The sensory drafting manual sets Kap 25 among the chapters in which the number 734 returns. The place table of Kael's dwelling gives „Wiederkehr Kap 10, Kap 25 (Foreshadowing-Anker)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L101]; the foreshadowing list calls the number a „strukturelle Markierung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L389]; and the anchor list says: „Wiederkehr der Zahl (Foreshadowing-Anker, strukturelle Ebene)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L488]. Another table puts the structural markings under the level that is readable „nur retrospektiv“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L458]. All four lines name Kap 25 together with Kap 10 (and Kap 2), and none describes what happens in Kap 25. A placement of the manual, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10, the parts-profiles and speech-DNA manual — Kap 25 as a foreshadowing place of the number 734
+
+The parts-profiles and speech-DNA manual names Kap 25 as one of the places where a number returns: „Die Zahl 734 ist somatisch verankert und taucht in foreshadowing-Stellen wieder auf (Kap 2, 10, 25), ohne dass Kael ihre Bedeutung kennt.“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105] The structural-markers list repeats it: „Die Zahl 734 (Kap 2, 10, 25).“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1063], visible only in retrospect. Recorded, not canon.
 
 ## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap-25 session log — what a drafting run says the revised chapter does, and what it says its canon requires
 
@@ -332,6 +392,7 @@ Position: „Akt II — Schwelle" ^[kp-kap25-2026-09-14-md.md:L31]
 - **The number 734.** „Die Zahl 734 erscheint zum dritten Mal — Kael ahnt jetzt, dass das eine Adresse oder ein Name ist.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L837] (strukturierter Outline) · the Kap-25 chapter file claims of its canon „Anker 734 dritte Wiederkehr" ^[kp-kap25-2026-09-14-md.md:L48], and its prose renders no such thought: 734 stands on four prose lines, the system's capital-letter lines (L56, L211, L217) and one record line in italics (L79), never in a sentence of the first person's; `Adresse` and `Name` stand 0 times (`05-verify-readers.txt`) (Kap-25 chapter file).
 - **Cerberus, a Guardian of KW3.** The Ultra-Plot gives Cerberus this chapter as the Guardian who offers „Kael den "Frieden" der absoluten Löschung an“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] (the Ultra-Plot), matching its own table's „Grenzfeste (KW3) | Cerberus (Abwehr/Angst)“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L42] pairing — one more source on the Guardian-world assignments. (C6)
 - **Cold, not warmth.** The Ultra-Plot's Cerberus argues „mit eiskalter Präzision“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L107] (the Ultra-Plot) for the peace of erasure — cold as the temptation this chapter offers, beside this page's other readings on heat and cold. (C11)
+- The parts-profiles and speech-DNA manual lists Kap 25 among three foreshadowing places of the number 734.
 
 ## Questions for this chapter
 

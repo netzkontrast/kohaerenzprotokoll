@@ -1,0 +1,191 @@
+{
+  "document": "kohaerenz-protokoll-finaler-plot-outline",
+  "drive_id": "1g9StvzkprSHuN7YC4MqQdg5wk1xRzooJogWLkddkkfk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-335/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 59,
+    "decided_by_lookup": 45,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plot outline for the final act: its new surfaces are the Fragment 'O' and its scenarios, the Gärtner-Axiom and its acts, the reader's protocol and borrowed concepts, all from one document; what it proposes about Kael, AEGIS, Juna, the Guardians, the Kernwelten, the Potentialmeer, the Risse and Selene went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        50,
+        95,
+        137,
+        139,
+        162,
+        178,
+        208
+      ],
+      "attribution": "",
+      "note": "the transformed AEGIS as a cognitively damaged, isolated mirror of Kael"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        133,
+        137,
+        208
+      ],
+      "attribution": "",
+      "note": "the term for AEGIS's state after the forced evolution, reported"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        153,
+        208
+      ],
+      "attribution": "",
+      "note": "the Guardians' useless behaviour after the transformation, reported"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        52,
+        54,
+        64,
+        208
+      ],
+      "attribution": "",
+      "note": "Juna/V as catalyst of the discovery of 'O' and mediator between Kael and 'O'"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        22,
+        38,
+        50,
+        91,
+        93,
+        119,
+        121,
+        208
+      ],
+      "attribution": "",
+      "note": "Kael's last ethical test and the Gärtner whose power is non-intervention"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        54,
+        151,
+        208
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as static monuments of AEGIS's state"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        52,
+        54,
+        208
+      ],
+      "attribution": "",
+      "note": "the `Moonshine-Link` in the discovery of 'O', reported"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "`funktionale Multiplizität` as the internal achievement that 'O' tests externally"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        50,
+        93,
+        108
+      ],
+      "attribution": "",
+      "note": "the `Potentialmeer` Kael tends, where 'O' emerges"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        160
+      ],
+      "attribution": "",
+      "note": "the Risse as stable portals for two contradictory realities"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        190
+      ],
+      "attribution": "",
+      "note": "Selene named in brackets as Kael's integrating self"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Guardian` in a compound or example, not the AEGIS sub-function; `schwachen Emergenz` borrowed, not emergenz; `offenen Kohärenz` the heading's phrase, not kohaerenz; `Kairos-Potentialis` and `Logos-Prime` named once without definition, not read on kairos or logos",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 83,
+      "decision": "occurrence",
+      "why": "borrowed weak emergence, not the page's emergence"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 108,
+      "decision": "occurrence",
+      "why": "generic entropy in a proposed act of the gardener"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the novel's title in the heading"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 178,
+      "decision": "occurrence",
+      "why": "an epilogue's simulation of a transformed AEGIS, read on aegis, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "the Fragment 'O' and its three scenarios",
+    "the Gärtner-Axiom and its acts, Paraiyas",
+    "the reader's protocol, Found Footage, the glossary",
+    "Mit-Schöpfer, Meta-Physiker",
+    "the borrowed concepts (paraconsistent logic, weak emergence, Deus ex Machina, Alterität, Apotheose, Gnosis, Episteme, Qualia, Perverse Instantiation)"
+  ],
+  "internal_tension": "its epilogue proposals contradict each other on purpose (L178); it calls itself definitive (L13, L22) while writing its material in the conditional",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

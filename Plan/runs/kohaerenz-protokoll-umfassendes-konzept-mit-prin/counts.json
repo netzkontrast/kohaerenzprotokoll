@@ -1,0 +1,341 @@
+{
+  "document": "kohaerenz-protokoll-umfassendes-konzept-mit-prin",
+  "drive_id": "1WVC6koMkyE_vUeG4vFpzrUTlcHyoWETRMtFUyiw2jxY",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        13,
+        15
+      ]
+    },
+    "Potentialmeer": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        33,
+        34,
+        56
+      ]
+    },
+    "Nullraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "AEGIS": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        42,
+        43,
+        44,
+        48,
+        49,
+        50,
+        58,
+        64,
+        65,
+        66
+      ]
+    },
+    "M": {
+      "n": 9,
+      "n_including_compounds": 32,
+      "lines": [
+        20,
+        22,
+        23,
+        24,
+        26,
+        28,
+        29,
+        34,
+        35,
+        36,
+        38,
+        42,
+        48,
+        51,
+        60,
+        63,
+        64,
+        68
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        35,
+        38,
+        40,
+        42,
+        43,
+        44,
+        48
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        50
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        38,
+        42
+      ]
+    },
+    "K-J": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        38,
+        42,
+        64
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        57
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Co₁": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        76
+      ]
+    },
+    "Ly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Monstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Prinzipienmodelle": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "Kernprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Emergenz aus der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Dynamische Selbstbalancierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Relationale Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Rekursive Selbstdifferenzierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Phasenstabilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Emergente Semantik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Minimale Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Multikausale Emergenzzeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Kreative Spannung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Fraktale Selbstähnlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Verschachtelte Realitätsebenen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Aktive Selbstgestaltung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Autonome Grenzbildung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        34
+      ]
+    },
+    "Autopoiesis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        34,
+        62
+      ]
+    },
+    "Gödel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        66
+      ]
+    },
+    "Holismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Reduktionismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "IFS/DID": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    }
+  }
+}

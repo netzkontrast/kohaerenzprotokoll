@@ -1,0 +1,153 @@
+{
+  "document": "kohaerenz-protokoll-master-outline",
+  "drive_id": "1BFWkidKFiv73gz85T19jt4sQys2GZXiMi2IzPO5nrIc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 4,
+  "backslash_escapes": 19,
+  "typographic_marks": 52,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systembericht",
+      "Systemik"
+    ],
+    "archi": [
+      "Architectural",
+      "Architektur"
+    ],
+    "autor": [
+      "Autor",
+      "Autors"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokumente"
+    ],
+    "ebene": [
+      "Ebene",
+      "Ebenen"
+    ],
+    "erklä": [
+      "Erklärt",
+      "Erklärungen"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzialismus"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen"
+    ],
+    "horro": [
+      "Horror",
+      "Horrors"
+    ],
+    "inhal": [
+      "Inhalt",
+      "Inhaltliche"
+    ],
+    "konst": [
+      "Konstrukt",
+      "Konstrukts"
+    ],
+    "leser": [
+      "Leser",
+      "Lesers"
+    ],
+    "rausc": [
+      "Rauschen",
+      "Rauschens"
+    ],
+    "stadt": [
+      "Stadt",
+      "Stadtviertel"
+    ],
+    "ursac": [
+      "Ursache",
+      "Ursachenforschung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ende",
+      "Transzendentaler"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Autor",
+      "Autors"
+    ],
+    [
+      "Ebene",
+      "Ebenen"
+    ],
+    [
+      "Leser",
+      "Lesers"
+    ],
+    [
+      "Stadt",
+      "Stadtviertel"
+    ],
+    [
+      "Thema",
+      "Mathematik"
+    ],
+    [
+      "Grenze",
+      "Grenzen"
+    ],
+    [
+      "Horror",
+      "Horrors"
+    ],
+    [
+      "Inhalt",
+      "Inhaltliche"
+    ],
+    [
+      "System",
+      "Systemik"
+    ],
+    [
+      "System",
+      "Systembericht"
+    ],
+    [
+      "Ursache",
+      "Ursachenforschung"
+    ],
+    [
+      "Anomalie",
+      "Gravitationsanomalien"
+    ],
+    [
+      "Dokument",
+      "Dokumente"
+    ],
+    [
+      "Existenz",
+      "Existenzialismus"
+    ],
+    [
+      "Kohärenz",
+      "Zielkohärenz"
+    ],
+    [
+      "Rauschen",
+      "Rauschens"
+    ],
+    [
+      "Konstrukt",
+      "Konstrukts"
+    ]
+  ]
+}

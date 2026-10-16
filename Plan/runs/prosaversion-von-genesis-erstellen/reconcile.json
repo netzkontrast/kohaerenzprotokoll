@@ -1,0 +1,57 @@
+{
+  "document": "prosaversion-von-genesis-erstellen",
+  "drive_id": "1B3WqmyNuhtRvwKk_0cVnnuirD_0WfcufH-QfsNU5L0A",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a craft plan for prose already read as documents 323–326 (Plan/runs/ingest-329/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 65,
+    "decided_by_lookup": 58,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A five-phase craft plan for writing the Genesis prose, applying borrowed concepts to the Ich/Kael and AEGIS perspectives and tabling the 13 scenes; it states nothing of the story that the prose itself does not tell, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a craft plan for the Genesis prose, light pass: every page and near match it names stands as a subject of the plan; nothing is read",
+  "sweep": [
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 81,
+      "decision": "occurrence",
+      "why": "a subject of a craft plan; light pass"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 207,
+      "decision": "occurrence",
+      "why": "a subject of a craft plan; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything — the five phases, the borrowed concepts, the scene table, the Echo-Qualia, the SOAP-Notiz"
+  ],
+  "internal_tension": "it announces its prose and critique phases without writing them; it cites an Outline V4 whose content it does not contain",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

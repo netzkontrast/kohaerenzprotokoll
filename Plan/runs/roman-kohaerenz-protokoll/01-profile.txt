@@ -1,0 +1,14 @@
+# roman-kohaerenz-protokoll
+  lines                588  (frontmatter ends at 9)
+  body words           8332
+  headings             4   bold-only lines 95
+  table rows           0   code fences 0
+  question marks       89
+  backslash escapes    8
+  typographic marks    62   ascii quotes 6
+  invisible characters none
+  math symbol lines    6
+  glued ref numbers    6
+  repeated labels      none
+  longest line         1174 chars
+

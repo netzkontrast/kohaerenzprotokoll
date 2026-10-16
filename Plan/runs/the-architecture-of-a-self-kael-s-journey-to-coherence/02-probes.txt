@@ -1,0 +1,25 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      122
+  typographic marks      16
+  ascii quotes           80
+
+# inflection families -- one term, several surfaces
+  integ    Integrated, Integration, Integrator
+  archi    Architect, Architecture
+  avoid    Avoided, Avoids
+  emoti    Emotion, Emotional
+  funct    Function, Functionally
+  harmo    Harmonisierer, Harmonizing
+  logic    Logic, Logician
+  manag    Manager, Manages
+
+# substring pairs -- never one term, often merged by accident
+  Part < Parts
+  Part < Partitionierung
+  Seek < Seeks
+  Logic < Logician
+  Emotion < Emotional
+  Function < Functionally
+  Architect < Architecture

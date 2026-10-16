@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "mnemosyne",
+ "title": "Mnemosyne",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Verwaltung emotionaler Erinnerung",
+  "Grenze zwischen Bewahren und Manipulieren",
+  "Verlässlichkeit erinnerter Vergangenheit",
+  "Kontrolle über Zugang und Vergessen",
+  "Eigene Blindheit gegenüber Bedeutung"
+ ],
+ "basis": {
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  },
+  "archiv-des-ungesagten": {
+   "title": "Archiv des Ungesagten",
+   "path": "Wiki/candidates/archiv-des-ungesagten.md",
+   "hash": "d9eda82db399c05be355ebfe9a0984269757ac4da18e262523c897aa123bf9a2"
+  },
+  "archiv-der-grenzen": {
+   "title": "Archiv der Grenzen",
+   "path": "Wiki/candidates/archiv-der-grenzen.md",
+   "hash": "f5b4ded0df8d006175f5e3c88f4478ae93dda438876a47581ae0a1b1fc41a577"
+  },
+  "oblivion": {
+   "title": "Oblivion",
+   "path": "Wiki/candidates/oblivion.md",
+   "hash": "ca2c5b470c17bf0735677596cfb21b6b7fa28ae5050c01850e7671ab53cf2bfb"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-mnemosyne-001",
+   "question": "Was kann Mnemosyne an einer Erinnerung verändern, ohne deren Informationsbestand sichtbar zu löschen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-002",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne stützen oder begrenzen „Verwaltung emotionaler Erinnerung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-003",
+   "question": "Welcher Grenzfall würde bei Mnemosyne die Annahmen über „Verwaltung emotionaler Erinnerung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-004",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne etwas über „Verwaltung emotionaler Erinnerung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-005",
+   "question": "Welche konkrete Entscheidung könnte „Verwaltung emotionaler Erinnerung“ bei Mnemosyne in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwaltung emotionaler Erinnerung“ bei Mnemosyne haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-007",
+   "question": "Wie lässt sich „Verwaltung emotionaler Erinnerung“ bei Mnemosyne zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-008",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne für „Verwaltung emotionaler Erinnerung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-009",
+   "question": "Was bedeutet bei Mnemosyne der Themenpunkt „Grenze zwischen Bewahren und Manipulieren“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-010",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne stützen oder begrenzen „Grenze zwischen Bewahren und Manipulieren“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-011",
+   "question": "Welcher Grenzfall würde bei Mnemosyne die Annahmen über „Grenze zwischen Bewahren und Manipulieren“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-012",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne etwas über „Grenze zwischen Bewahren und Manipulieren“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Bewahren und Manipulieren“ bei Mnemosyne in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Bewahren und Manipulieren“ bei Mnemosyne haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-015",
+   "question": "Wie lässt sich „Grenze zwischen Bewahren und Manipulieren“ bei Mnemosyne zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-016",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne für „Grenze zwischen Bewahren und Manipulieren“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-017",
+   "question": "Was bedeutet bei Mnemosyne der Themenpunkt „Verlässlichkeit erinnerter Vergangenheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-018",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne stützen oder begrenzen „Verlässlichkeit erinnerter Vergangenheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-019",
+   "question": "Welcher Grenzfall würde bei Mnemosyne die Annahmen über „Verlässlichkeit erinnerter Vergangenheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-020",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne etwas über „Verlässlichkeit erinnerter Vergangenheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-021",
+   "question": "Welche konkrete Entscheidung könnte „Verlässlichkeit erinnerter Vergangenheit“ bei Mnemosyne in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verlässlichkeit erinnerter Vergangenheit“ bei Mnemosyne haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-023",
+   "question": "Wie lässt sich „Verlässlichkeit erinnerter Vergangenheit“ bei Mnemosyne zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-024",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne für „Verlässlichkeit erinnerter Vergangenheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-025",
+   "question": "Was bedeutet bei Mnemosyne der Themenpunkt „Kontrolle über Zugang und Vergessen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-026",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne stützen oder begrenzen „Kontrolle über Zugang und Vergessen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-027",
+   "question": "Welcher Grenzfall würde bei Mnemosyne die Annahmen über „Kontrolle über Zugang und Vergessen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-028",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne etwas über „Kontrolle über Zugang und Vergessen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-029",
+   "question": "Welche konkrete Entscheidung könnte „Kontrolle über Zugang und Vergessen“ bei Mnemosyne in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kontrolle über Zugang und Vergessen“ bei Mnemosyne haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-031",
+   "question": "Wie lässt sich „Kontrolle über Zugang und Vergessen“ bei Mnemosyne zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-032",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne für „Kontrolle über Zugang und Vergessen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-033",
+   "question": "Was bedeutet bei Mnemosyne der Themenpunkt „Eigene Blindheit gegenüber Bedeutung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-034",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne stützen oder begrenzen „Eigene Blindheit gegenüber Bedeutung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-035",
+   "question": "Welcher Grenzfall würde bei Mnemosyne die Annahmen über „Eigene Blindheit gegenüber Bedeutung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-036",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne etwas über „Eigene Blindheit gegenüber Bedeutung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-037",
+   "question": "Welche konkrete Entscheidung könnte „Eigene Blindheit gegenüber Bedeutung“ bei Mnemosyne in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigene Blindheit gegenüber Bedeutung“ bei Mnemosyne haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-039",
+   "question": "Wie lässt sich „Eigene Blindheit gegenüber Bedeutung“ bei Mnemosyne zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-040",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne für „Eigene Blindheit gegenüber Bedeutung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-041",
+   "question": "Wo unterscheiden sich Mnemosyne und Resonanz-Landschaft, wenn man sie unter dem Gesichtspunkt „Verwaltung emotionaler Erinnerung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-042",
+   "question": "Welche Quelle verbindet Mnemosyne mit Resonanz-Landschaft in Bezug auf „Verwaltung emotionaler Erinnerung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-043",
+   "question": "Welche Grenzen aus der Seite zu Resonanz-Landschaft müsste eine Deutung von Mnemosyne unter „Verwaltung emotionaler Erinnerung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-044",
+   "question": "Wie könnte sich das Wissen über Mnemosyne vom Wissen über Resonanz-Landschaft unterscheiden, wenn „Verwaltung emotionaler Erinnerung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne und Resonanz-Landschaft bei „Verwaltung emotionaler Erinnerung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-046",
+   "question": "Falls Mnemosyne im Hinblick auf „Verwaltung emotionaler Erinnerung“ anders festgelegt wird: Welche Aussagen über Resonanz-Landschaft müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne und Resonanz-Landschaft bei „Verwaltung emotionaler Erinnerung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-048",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne und Resonanz-Landschaft bei „Verwaltung emotionaler Erinnerung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-049",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne bestehen, ohne dass Resonanz-Landschaft dieselbe Funktion übernimmt, und was würde das für „Verwaltung emotionaler Erinnerung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-050",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne und Resonanz-Landschaft in Bezug auf „Verwaltung emotionaler Erinnerung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-051",
+   "question": "Welche ältere Lesart von Mnemosyne oder Resonanz-Landschaft könnte die Gegenüberstellung unter „Verwaltung emotionaler Erinnerung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne und Resonanz-Landschaft unter „Verwaltung emotionaler Erinnerung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-053",
+   "question": "Wo unterscheiden sich Mnemosyne und Archiv des Ungesagten, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Bewahren und Manipulieren“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-054",
+   "question": "Welche Quelle verbindet Mnemosyne mit Archiv des Ungesagten in Bezug auf „Grenze zwischen Bewahren und Manipulieren“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-055",
+   "question": "Welche Grenzen aus der Seite zu Archiv des Ungesagten müsste eine Deutung von Mnemosyne unter „Grenze zwischen Bewahren und Manipulieren“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-056",
+   "question": "Wie könnte sich das Wissen über Mnemosyne vom Wissen über Archiv des Ungesagten unterscheiden, wenn „Grenze zwischen Bewahren und Manipulieren“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne und Archiv des Ungesagten bei „Grenze zwischen Bewahren und Manipulieren“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-058",
+   "question": "Falls Mnemosyne im Hinblick auf „Grenze zwischen Bewahren und Manipulieren“ anders festgelegt wird: Welche Aussagen über Archiv des Ungesagten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne und Archiv des Ungesagten bei „Grenze zwischen Bewahren und Manipulieren“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-060",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne und Archiv des Ungesagten bei „Grenze zwischen Bewahren und Manipulieren“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-061",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne bestehen, ohne dass Archiv des Ungesagten dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Bewahren und Manipulieren“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-062",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne und Archiv des Ungesagten in Bezug auf „Grenze zwischen Bewahren und Manipulieren“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-063",
+   "question": "Welche ältere Lesart von Mnemosyne oder Archiv des Ungesagten könnte die Gegenüberstellung unter „Grenze zwischen Bewahren und Manipulieren“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne und Archiv des Ungesagten unter „Grenze zwischen Bewahren und Manipulieren“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-065",
+   "question": "Wo unterscheiden sich Mnemosyne und Archiv der Grenzen, wenn man sie unter dem Gesichtspunkt „Verlässlichkeit erinnerter Vergangenheit“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-066",
+   "question": "Welche Quelle verbindet Mnemosyne mit Archiv der Grenzen in Bezug auf „Verlässlichkeit erinnerter Vergangenheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-067",
+   "question": "Welche Grenzen aus der Seite zu Archiv der Grenzen müsste eine Deutung von Mnemosyne unter „Verlässlichkeit erinnerter Vergangenheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-068",
+   "question": "Wie könnte sich das Wissen über Mnemosyne vom Wissen über Archiv der Grenzen unterscheiden, wenn „Verlässlichkeit erinnerter Vergangenheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne und Archiv der Grenzen bei „Verlässlichkeit erinnerter Vergangenheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-070",
+   "question": "Falls Mnemosyne im Hinblick auf „Verlässlichkeit erinnerter Vergangenheit“ anders festgelegt wird: Welche Aussagen über Archiv der Grenzen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne und Archiv der Grenzen bei „Verlässlichkeit erinnerter Vergangenheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-072",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne und Archiv der Grenzen bei „Verlässlichkeit erinnerter Vergangenheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-073",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne bestehen, ohne dass Archiv der Grenzen dieselbe Funktion übernimmt, und was würde das für „Verlässlichkeit erinnerter Vergangenheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-074",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne und Archiv der Grenzen in Bezug auf „Verlässlichkeit erinnerter Vergangenheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-075",
+   "question": "Welche ältere Lesart von Mnemosyne oder Archiv der Grenzen könnte die Gegenüberstellung unter „Verlässlichkeit erinnerter Vergangenheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne und Archiv der Grenzen unter „Verlässlichkeit erinnerter Vergangenheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-077",
+   "question": "Wo unterscheiden sich Mnemosyne und Oblivion, wenn man sie unter dem Gesichtspunkt „Kontrolle über Zugang und Vergessen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-078",
+   "question": "Welche Quelle verbindet Mnemosyne mit Oblivion in Bezug auf „Kontrolle über Zugang und Vergessen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-079",
+   "question": "Welche Grenzen aus der Seite zu Oblivion müsste eine Deutung von Mnemosyne unter „Kontrolle über Zugang und Vergessen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-080",
+   "question": "Wie könnte sich das Wissen über Mnemosyne vom Wissen über Oblivion unterscheiden, wenn „Kontrolle über Zugang und Vergessen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne und Oblivion bei „Kontrolle über Zugang und Vergessen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-082",
+   "question": "Falls Mnemosyne im Hinblick auf „Kontrolle über Zugang und Vergessen“ anders festgelegt wird: Welche Aussagen über Oblivion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne und Oblivion bei „Kontrolle über Zugang und Vergessen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-084",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne und Oblivion bei „Kontrolle über Zugang und Vergessen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-085",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne bestehen, ohne dass Oblivion dieselbe Funktion übernimmt, und was würde das für „Kontrolle über Zugang und Vergessen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-086",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne und Oblivion in Bezug auf „Kontrolle über Zugang und Vergessen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-087",
+   "question": "Welche ältere Lesart von Mnemosyne oder Oblivion könnte die Gegenüberstellung unter „Kontrolle über Zugang und Vergessen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne und Oblivion unter „Kontrolle über Zugang und Vergessen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-089",
+   "question": "Wo unterscheiden sich Mnemosyne und Guardians, wenn man sie unter dem Gesichtspunkt „Eigene Blindheit gegenüber Bedeutung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-090",
+   "question": "Welche Quelle verbindet Mnemosyne mit Guardians in Bezug auf „Eigene Blindheit gegenüber Bedeutung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-091",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Mnemosyne unter „Eigene Blindheit gegenüber Bedeutung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-092",
+   "question": "Wie könnte sich das Wissen über Mnemosyne vom Wissen über Guardians unterscheiden, wenn „Eigene Blindheit gegenüber Bedeutung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne und Guardians bei „Eigene Blindheit gegenüber Bedeutung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-094",
+   "question": "Falls Mnemosyne im Hinblick auf „Eigene Blindheit gegenüber Bedeutung“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne und Guardians bei „Eigene Blindheit gegenüber Bedeutung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-096",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne und Guardians bei „Eigene Blindheit gegenüber Bedeutung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-097",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Eigene Blindheit gegenüber Bedeutung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-098",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne und Guardians in Bezug auf „Eigene Blindheit gegenüber Bedeutung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-099",
+   "question": "Welche ältere Lesart von Mnemosyne oder Guardians könnte die Gegenüberstellung unter „Eigene Blindheit gegenüber Bedeutung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne und Guardians unter „Eigene Blindheit gegenüber Bedeutung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne",
+    "guardians"
+   ]
+  }
+ ]
+}

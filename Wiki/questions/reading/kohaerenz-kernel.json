@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kohaerenz-kernel",
+ "title": "Kohärenz-Kernel (K₁)",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "reversible Informationserhaltung",
+  "Unterschied zwischen Bewahrung und Erstarrung",
+  "Status als Prinzip oder Akteur",
+  "Bildung stabiler Korrelationen",
+  "Grenze perfekter Selbstkorrektur"
+ ],
+ "basis": {
+  "kohaerenz-kernel": {
+   "title": "Kohärenz-Kernel (K₁)",
+   "path": "Wiki/candidates/kohaerenz-kernel.md",
+   "hash": "624b3d551b314d96a4a674b350ad0361241d99f9a07692e7e15101e2754deac1"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kohaerenz-kernel-001",
+   "question": "Wann wird reine Informationserhaltung zur Erstarrung, obwohl K₁ im Projekt als bewahrendes Prinzip erscheint?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-002",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Kernel (K₁) stützen oder begrenzen „reversible Informationserhaltung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-003",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Kernel (K₁) die Annahmen über „reversible Informationserhaltung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-004",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Kernel (K₁) etwas über „reversible Informationserhaltung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-005",
+   "question": "Welche konkrete Entscheidung könnte „reversible Informationserhaltung“ bei Kohärenz-Kernel (K₁) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „reversible Informationserhaltung“ bei Kohärenz-Kernel (K₁) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-007",
+   "question": "Wie lässt sich „reversible Informationserhaltung“ bei Kohärenz-Kernel (K₁) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-008",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Kernel (K₁) für „reversible Informationserhaltung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-009",
+   "question": "Was bedeutet bei Kohärenz-Kernel (K₁) der Themenpunkt „Unterschied zwischen Bewahrung und Erstarrung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-010",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Kernel (K₁) stützen oder begrenzen „Unterschied zwischen Bewahrung und Erstarrung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-011",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Kernel (K₁) die Annahmen über „Unterschied zwischen Bewahrung und Erstarrung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-012",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Kernel (K₁) etwas über „Unterschied zwischen Bewahrung und Erstarrung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Bewahrung und Erstarrung“ bei Kohärenz-Kernel (K₁) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Bewahrung und Erstarrung“ bei Kohärenz-Kernel (K₁) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-015",
+   "question": "Wie lässt sich „Unterschied zwischen Bewahrung und Erstarrung“ bei Kohärenz-Kernel (K₁) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-016",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Kernel (K₁) für „Unterschied zwischen Bewahrung und Erstarrung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-017",
+   "question": "Was bedeutet bei Kohärenz-Kernel (K₁) der Themenpunkt „Status als Prinzip oder Akteur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-018",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Kernel (K₁) stützen oder begrenzen „Status als Prinzip oder Akteur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-019",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Kernel (K₁) die Annahmen über „Status als Prinzip oder Akteur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-020",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Kernel (K₁) etwas über „Status als Prinzip oder Akteur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-021",
+   "question": "Welche konkrete Entscheidung könnte „Status als Prinzip oder Akteur“ bei Kohärenz-Kernel (K₁) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als Prinzip oder Akteur“ bei Kohärenz-Kernel (K₁) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-023",
+   "question": "Wie lässt sich „Status als Prinzip oder Akteur“ bei Kohärenz-Kernel (K₁) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-024",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Kernel (K₁) für „Status als Prinzip oder Akteur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-025",
+   "question": "Was bedeutet bei Kohärenz-Kernel (K₁) der Themenpunkt „Bildung stabiler Korrelationen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-026",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Kernel (K₁) stützen oder begrenzen „Bildung stabiler Korrelationen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-027",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Kernel (K₁) die Annahmen über „Bildung stabiler Korrelationen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-028",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Kernel (K₁) etwas über „Bildung stabiler Korrelationen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-029",
+   "question": "Welche konkrete Entscheidung könnte „Bildung stabiler Korrelationen“ bei Kohärenz-Kernel (K₁) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bildung stabiler Korrelationen“ bei Kohärenz-Kernel (K₁) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-031",
+   "question": "Wie lässt sich „Bildung stabiler Korrelationen“ bei Kohärenz-Kernel (K₁) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-032",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Kernel (K₁) für „Bildung stabiler Korrelationen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-033",
+   "question": "Was bedeutet bei Kohärenz-Kernel (K₁) der Themenpunkt „Grenze perfekter Selbstkorrektur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-034",
+   "question": "Welche Lesarten auf der Seite zu Kohärenz-Kernel (K₁) stützen oder begrenzen „Grenze perfekter Selbstkorrektur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-035",
+   "question": "Welcher Grenzfall würde bei Kohärenz-Kernel (K₁) die Annahmen über „Grenze perfekter Selbstkorrektur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-036",
+   "question": "Wer könnte innerhalb des Romans bei Kohärenz-Kernel (K₁) etwas über „Grenze perfekter Selbstkorrektur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze perfekter Selbstkorrektur“ bei Kohärenz-Kernel (K₁) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze perfekter Selbstkorrektur“ bei Kohärenz-Kernel (K₁) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-039",
+   "question": "Wie lässt sich „Grenze perfekter Selbstkorrektur“ bei Kohärenz-Kernel (K₁) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-040",
+   "question": "Welche Alternativen sollte der Autor bei Kohärenz-Kernel (K₁) für „Grenze perfekter Selbstkorrektur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-041",
+   "question": "Wo unterscheiden sich Kohärenz-Kernel (K₁) und Coheron, wenn man sie unter dem Gesichtspunkt „reversible Informationserhaltung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-042",
+   "question": "Welche Quelle verbindet Kohärenz-Kernel (K₁) mit Coheron in Bezug auf „reversible Informationserhaltung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-043",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Kohärenz-Kernel (K₁) unter „reversible Informationserhaltung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-044",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Kernel (K₁) vom Wissen über Coheron unterscheiden, wenn „reversible Informationserhaltung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Kernel (K₁) und Coheron bei „reversible Informationserhaltung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-046",
+   "question": "Falls Kohärenz-Kernel (K₁) im Hinblick auf „reversible Informationserhaltung“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Kernel (K₁) und Coheron bei „reversible Informationserhaltung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-048",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Kernel (K₁) und Coheron bei „reversible Informationserhaltung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-049",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Kernel (K₁) bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „reversible Informationserhaltung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Kernel (K₁) und Coheron in Bezug auf „reversible Informationserhaltung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-051",
+   "question": "Welche ältere Lesart von Kohärenz-Kernel (K₁) oder Coheron könnte die Gegenüberstellung unter „reversible Informationserhaltung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Kernel (K₁) und Coheron unter „reversible Informationserhaltung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kohaerenz-kernel",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-053",
+   "question": "Wo unterscheiden sich Kohärenz-Kernel (K₁) und Kollaps-Kernel (K₀), wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Bewahrung und Erstarrung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-054",
+   "question": "Welche Quelle verbindet Kohärenz-Kernel (K₁) mit Kollaps-Kernel (K₀) in Bezug auf „Unterschied zwischen Bewahrung und Erstarrung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-055",
+   "question": "Welche Grenzen aus der Seite zu Kollaps-Kernel (K₀) müsste eine Deutung von Kohärenz-Kernel (K₁) unter „Unterschied zwischen Bewahrung und Erstarrung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-056",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Kernel (K₁) vom Wissen über Kollaps-Kernel (K₀) unterscheiden, wenn „Unterschied zwischen Bewahrung und Erstarrung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Kernel (K₁) und Kollaps-Kernel (K₀) bei „Unterschied zwischen Bewahrung und Erstarrung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-058",
+   "question": "Falls Kohärenz-Kernel (K₁) im Hinblick auf „Unterschied zwischen Bewahrung und Erstarrung“ anders festgelegt wird: Welche Aussagen über Kollaps-Kernel (K₀) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Kernel (K₁) und Kollaps-Kernel (K₀) bei „Unterschied zwischen Bewahrung und Erstarrung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-060",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Kernel (K₁) und Kollaps-Kernel (K₀) bei „Unterschied zwischen Bewahrung und Erstarrung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-061",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Kernel (K₁) bestehen, ohne dass Kollaps-Kernel (K₀) dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Bewahrung und Erstarrung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Kernel (K₁) und Kollaps-Kernel (K₀) in Bezug auf „Unterschied zwischen Bewahrung und Erstarrung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-063",
+   "question": "Welche ältere Lesart von Kohärenz-Kernel (K₁) oder Kollaps-Kernel (K₀) könnte die Gegenüberstellung unter „Unterschied zwischen Bewahrung und Erstarrung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Kernel (K₁) und Kollaps-Kernel (K₀) unter „Unterschied zwischen Bewahrung und Erstarrung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kohaerenz-kernel",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-065",
+   "question": "Wo unterscheiden sich Kohärenz-Kernel (K₁) und Dual-Kernel-Theorie (DKT), wenn man sie unter dem Gesichtspunkt „Status als Prinzip oder Akteur“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-066",
+   "question": "Welche Quelle verbindet Kohärenz-Kernel (K₁) mit Dual-Kernel-Theorie (DKT) in Bezug auf „Status als Prinzip oder Akteur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-067",
+   "question": "Welche Grenzen aus der Seite zu Dual-Kernel-Theorie (DKT) müsste eine Deutung von Kohärenz-Kernel (K₁) unter „Status als Prinzip oder Akteur“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-068",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Kernel (K₁) vom Wissen über Dual-Kernel-Theorie (DKT) unterscheiden, wenn „Status als Prinzip oder Akteur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Kernel (K₁) und Dual-Kernel-Theorie (DKT) bei „Status als Prinzip oder Akteur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-070",
+   "question": "Falls Kohärenz-Kernel (K₁) im Hinblick auf „Status als Prinzip oder Akteur“ anders festgelegt wird: Welche Aussagen über Dual-Kernel-Theorie (DKT) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Kernel (K₁) und Dual-Kernel-Theorie (DKT) bei „Status als Prinzip oder Akteur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-072",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Kernel (K₁) und Dual-Kernel-Theorie (DKT) bei „Status als Prinzip oder Akteur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-073",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Kernel (K₁) bestehen, ohne dass Dual-Kernel-Theorie (DKT) dieselbe Funktion übernimmt, und was würde das für „Status als Prinzip oder Akteur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Kernel (K₁) und Dual-Kernel-Theorie (DKT) in Bezug auf „Status als Prinzip oder Akteur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-075",
+   "question": "Welche ältere Lesart von Kohärenz-Kernel (K₁) oder Dual-Kernel-Theorie (DKT) könnte die Gegenüberstellung unter „Status als Prinzip oder Akteur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Kernel (K₁) und Dual-Kernel-Theorie (DKT) unter „Status als Prinzip oder Akteur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kohaerenz-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-077",
+   "question": "Wo unterscheiden sich Kohärenz-Kernel (K₁) und Kael, wenn man sie unter dem Gesichtspunkt „Bildung stabiler Korrelationen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-078",
+   "question": "Welche Quelle verbindet Kohärenz-Kernel (K₁) mit Kael in Bezug auf „Bildung stabiler Korrelationen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Kohärenz-Kernel (K₁) unter „Bildung stabiler Korrelationen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-080",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Kernel (K₁) vom Wissen über Kael unterscheiden, wenn „Bildung stabiler Korrelationen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Kernel (K₁) und Kael bei „Bildung stabiler Korrelationen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-082",
+   "question": "Falls Kohärenz-Kernel (K₁) im Hinblick auf „Bildung stabiler Korrelationen“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Kernel (K₁) und Kael bei „Bildung stabiler Korrelationen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-084",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Kernel (K₁) und Kael bei „Bildung stabiler Korrelationen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-085",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Kernel (K₁) bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Bildung stabiler Korrelationen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Kernel (K₁) und Kael in Bezug auf „Bildung stabiler Korrelationen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-087",
+   "question": "Welche ältere Lesart von Kohärenz-Kernel (K₁) oder Kael könnte die Gegenüberstellung unter „Bildung stabiler Korrelationen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Kernel (K₁) und Kael unter „Bildung stabiler Korrelationen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kohaerenz-kernel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-089",
+   "question": "Wo unterscheiden sich Kohärenz-Kernel (K₁) und Kohärenz, wenn man sie unter dem Gesichtspunkt „Grenze perfekter Selbstkorrektur“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-090",
+   "question": "Welche Quelle verbindet Kohärenz-Kernel (K₁) mit Kohärenz in Bezug auf „Grenze perfekter Selbstkorrektur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-091",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von Kohärenz-Kernel (K₁) unter „Grenze perfekter Selbstkorrektur“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-092",
+   "question": "Wie könnte sich das Wissen über Kohärenz-Kernel (K₁) vom Wissen über Kohärenz unterscheiden, wenn „Grenze perfekter Selbstkorrektur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kohärenz-Kernel (K₁) und Kohärenz bei „Grenze perfekter Selbstkorrektur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-094",
+   "question": "Falls Kohärenz-Kernel (K₁) im Hinblick auf „Grenze perfekter Selbstkorrektur“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kohärenz-Kernel (K₁) und Kohärenz bei „Grenze perfekter Selbstkorrektur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-096",
+   "question": "Braucht der Roman eine Verbindung von Kohärenz-Kernel (K₁) und Kohärenz bei „Grenze perfekter Selbstkorrektur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-097",
+   "question": "In welchem denkbaren Fall könnte Kohärenz-Kernel (K₁) bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Grenze perfekter Selbstkorrektur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kohärenz-Kernel (K₁) und Kohärenz in Bezug auf „Grenze perfekter Selbstkorrektur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-099",
+   "question": "Welche ältere Lesart von Kohärenz-Kernel (K₁) oder Kohärenz könnte die Gegenüberstellung unter „Grenze perfekter Selbstkorrektur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-kohaerenz-kernel-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kohärenz-Kernel (K₁) und Kohärenz unter „Grenze perfekter Selbstkorrektur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kohaerenz-kernel",
+    "kohaerenz"
+   ]
+  }
+ ]
+}

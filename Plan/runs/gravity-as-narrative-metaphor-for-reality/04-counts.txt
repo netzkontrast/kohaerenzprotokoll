@@ -1,0 +1,70 @@
+# counts for 58 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               18 word    18 in   [22, 37, 76, 108, 116, 149]
+  Protokoll                        25 word    25 in   [22, 37, 76, 108, 116, 149]
+  Gravity of Being                  2 word     2 in   [13, 108]
+  Hierarchy Problem of the Soul     1 word     1 in   [422]
+  Entropic Leakage                  2 word     2 in   [426, 430]
+  Operational Closure               6 word     6 in   [200, 204, 228, 434, 440, 497]
+  Forced Coherence                  1 word     1 in   [441]
+  Simulated Reality                 1 word     1 in   [441]
+  Epistemic Blindness               5 word     5 in   [212, 216, 430, 440, 558]
+  Entropic Disintegration           2 word     2 in   [222, 444]
+  Absence of Absence                1 word     1 in   [228]
+  Slaving                           4 word     4 in   [232, 240, 244, 442]
+  Order Parameter                   2 word     5 in   [240, 244, 256, 442]  <-- substring
+  Strange Attractor                 6 word     8 in   [315, 332, 336, 341, 442, 579]
+  Fixed Point Attractor             1 word     1 in   [341]
+  Dimensional Integration           1 word     1 in   [448]
+  Witnessing                        3 word     3 in   [444, 455, 496]
+  Classical Transition              1 word     1 in   [378]
+  God Code                          1 word     1 in   [409]
+  Black Hole                       13 word    14 in   [108, 315, 320, 324, 386, 401]
+  Event Horizon                     4 word     4 in   [260, 327, 508]
+  Singularity                       2 word     2 in   [430, 525]
+  Bulk                              4 word     4 in   [430, 456, 480, 523]
+  Brane                             4 word     8 in   [63, 67, 430, 537, 538, 539]
+                                    2      as Brane_cosmology
+                                    2      as Brane-World
+  Subject                           6 word     6 in   [430, 438, 452, 455, 456]
+                                    2      as subjective
+  Monster                          10 word    10 in   [394, 396, 405, 407, 409, 456]
+  Apparently Normal Part            2 word     2 in   [149, 282]
+  Emotional Part                    2 word     3 in   [149, 283, 569]
+  ANP                              17 word    19 in   [149, 268, 282, 283, 291, 292]
+  EP                               11 word    27 in   [112, 116, 126, 147, 149, 268]  <-- substring
+  ER Bridge                         1 word     1 in   [454]
+  Holographic Screen                1 word     1 in   [511]
+  Coherentist                       1 word     1 in   [188]
+                                    1      as coherentists
+  Hierarchy Problem                10 word    11 in   [22, 24, 33, 37, 59, 422]
+  Technical Naturalness             1 word     1 in   [53]
+  Brane Cosmology                   3 word     3 in   [63, 67, 430]
+  Large Extra Dimensions            1 word     1 in   [67]
+  Entropic Gravity                  4 word     4 in   [24, 80, 84, 511]
+  Holographic Principle             1 word     1 in   [96]
+  ER = EPR                          3 word     3 in   [112, 116, 546]
+  Wormhole                          4 word     5 in   [120, 127, 143, 509, 525]
+                                    1      as Wormholes
+  Quantum Entanglement              1 word     1 in   [126]
+  Tensor Networks                   1 word     1 in   [139]
+  Correspondence Theory of Truth    1 word     1 in   [173]
+  Coherence Theory of Truth         4 word     4 in   [24, 183, 441, 552]
+  Blob Realism                      1 word     1 in   [186]
+  Autopoiesis                       6 word     6 in   [24, 192, 196, 497, 524, 557]
+  Epistemic Closure                 3 word     3 in   [22, 192, 216]
+  Dimensional Collapse              2 word     2 in   [212, 218]
+  Synergetics                       8 word     9 in   [232, 236, 244, 442, 563, 564]
+                                    1      as synergetics-and-llms-emergent-order-in-ai
+                                    1      as Synergetics_
+  Slaving Principle                 3 word     3 in   [232, 240, 244]
+  Structural Dissociation          11 word    11 in   [22, 264, 268, 272, 291, 292]
+  Functional Multiplicity           3 word     3 in   [301, 303, 570]
+  Quantum Darwinism                15 word    15 in   [24, 345, 353, 357, 378, 444]
+  Pointer States                    1 word     1 in   [367]
+  Monstrous Moonshine               5 word     5 in   [24, 382, 386, 527, 590]
+  Monster Group                     5 word     5 in   [394, 396, 405, 407, 456]
+  Witten's Conjecture               1 word     1 in   [401]

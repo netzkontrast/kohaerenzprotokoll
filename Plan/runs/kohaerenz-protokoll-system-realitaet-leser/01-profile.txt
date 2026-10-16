@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-system-realitaet-leser
+  lines                192  (frontmatter ends at 9)
+  body words           4311
+  headings             18   bold-only lines 0
+  table rows           12   code fences 0
+  question marks       10
+  backslash escapes    60
+  typographic marks    18   ascii quotes 68
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    40
+  repeated labels      none
+  longest line         1236 chars
+

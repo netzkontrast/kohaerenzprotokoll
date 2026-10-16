@@ -1,0 +1,218 @@
+{
+  "document": "konsolidierung-des-hard-canon-protokolls",
+  "drive_id": "1jpBHMqoiAb7POikgNV7bGs__y9PhNQz3-GkAw7T41Cs",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list — the run directory held the gold candidate list of 2026-09-30 (Plan/runs/gold-2026-09-30/), which the ingest's list replaced, as ingest 162 did; the gold list stays in git history; rlm_ingest not run; readings, four record entries (C14, C16, Q3, Q9) and one chapter reading (Kap 39) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-402/brief.md, 2026-10-13; nothing read from the agent directive (L36–L52)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 50,
+    "decisions": 54,
+    "decided_by_lookup": 42,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A document that declares itself the novel's hard canon: its new surfaces are its own labels; what it declares of Kael, the 13 alters (Silas, Rhys, Oblivion, Moros), multiplicity, Juna, the Nichts-Rauschen, the Moonshine-Link, AEGIS, the Guardians, the Kernwelten, the TSDP and the Risse went on existing pages as declarations, with entries on C14, C16, Q3 and Q9 and the Ouroboros ending on Kap 39. Its claim of canon is recorded, not applied: canon is Manuscript/kanon.md.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        9,
+        15,
+        24,
+        28
+      ],
+      "attribution": "",
+      "note": "AEGIS and Kael declared one and the same"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        9,
+        13,
+        23
+      ],
+      "attribution": "",
+      "note": "exactly thirteen distinct alters declared"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        9,
+        24,
+        28
+      ],
+      "attribution": "",
+      "note": "narrated with AEGIS and Juna in a distanced third person"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        9,
+        14,
+        24,
+        28
+      ],
+      "attribution": "",
+      "note": "an external anomaly with a pre-existing bond to Kael"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        9,
+        13,
+        14,
+        15,
+        33
+      ],
+      "attribution": "",
+      "note": "the system of thirteen alters, one with AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        9,
+        29
+      ],
+      "attribution": "",
+      "note": "the present time level broken in the Kernwelten"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        9,
+        14
+      ],
+      "attribution": "",
+      "note": "the pre-existing bond as the link's authority"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        9,
+        13
+      ],
+      "attribution": "",
+      "note": "named among the thirteen alters as a separate entity"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        9,
+        13
+      ],
+      "attribution": "",
+      "note": "functional multiplicity declared as the aim"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        9,
+        14,
+        29
+      ],
+      "attribution": "",
+      "note": "the time before the system's genesis, and a break in the narrative"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        9,
+        13
+      ],
+      "attribution": "",
+      "note": "named among the thirteen alters as a separate entity"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        9,
+        13
+      ],
+      "attribution": "",
+      "note": "named among the thirteen alters as a separate entity"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        9,
+        28
+      ],
+      "attribution": "",
+      "note": "how the system shows itself in the Kael and Juna chapters"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        9,
+        13
+      ],
+      "attribution": "",
+      "note": "named among the thirteen alters as a separate entity"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        9,
+        23
+      ],
+      "attribution": "",
+      "note": "dissociation as the reason for first-person narration"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C14",
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz Protokoll` the title; `Juna-Anomalie`, `Kael-AEGIS-Spiegelkabinett`, `Kael-Alters` and `AEGIS-POV` read on juna, kael, aegis and alters; `Entropie` an example of a DKT value",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 28,
+      "decision": "occurrence",
+      "why": "an example of a DKT value in the status lines"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the title of the novel"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 28,
+      "decision": "reading",
+      "why": "physical glitches and Risse in the environment, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "HARD CANON MASTERFILE, Hard-Canon-Dokument, Post-Interview Consolidation, Die 13 Fragmente, 39-Kapitel-Matrix, prä-existente ontologische Bindung, Algorithmische Melancholie, Hybride Erzählperspektive, Ich-Perspektive, Kamera-Perspektive, Dynamische DKT-Statuszeilen, KHZ, Fraktale Zeitstruktur, Basisrealität, Das Psychologische Kammerspiel, Köln 2026, Zyklische Auflösung, and the directive's operations"
+  ],
+  "internal_tension": "none within the document; against the author's decision on C14 (AEGIS speaks as Ich in its own chapters, 2026-10-05) it narrates AEGIS in the third person (L24) — the document predates the decision, so the difference is recorded on C14 and no question is raised",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

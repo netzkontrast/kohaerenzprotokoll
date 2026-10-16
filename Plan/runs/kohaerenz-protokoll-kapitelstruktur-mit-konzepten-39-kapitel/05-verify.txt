@@ -1,0 +1,189 @@
+$ read.py --count "Erzähler"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Erzähler` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#39]
+
+$ read.py --count "AEGIS"
+whole word, case-sensitive     48
+whole word, case-insensitive   48
+including compounds            48
+
+`AEGIS` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#48]
+
+$ read.py --count "Fundamentales Konzept"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Fundamentales Konzept` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#39]
+
+$ read.py --count "Irrelevant"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Irrelevant` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#5]
+
+$ read.py --count "Kapitel"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            44
+
+`Kapitel` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#43]
+
+$ read.py --count "Kael"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            37
+
+`Kael` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#14]
+
+$ read.py --count "Kael/M"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Kael/M` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#9]
+
+$ read.py --count "Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#2]
+
+$ read.py --count "McL"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`McL` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#2]
+
+$ read.py --count "Potentialmeer"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Potentialmeer` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#5]
+
+$ read.py --count "Jetzt-Raum"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Jetzt-Raum` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#2]
+
+$ read.py --count "Fragment Alpha"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fragment Alpha` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#2]
+
+$ read.py --count "K-J"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`K-J` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#5]
+
+$ read.py --count "Entropie"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Entropie` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#3]
+
+$ read.py --count "Negentropie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Negentropie` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#2]
+
+$ read.py --count "Kohärenzprotokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenzprotokoll` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Protokoll` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "Wächter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Wächter` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "Gelb/Kissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gelb/Kissen` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "Stress-Test"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Stress-Test` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "Delta-7"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Delta-7` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "T-734"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`T-734` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#1]
+
+$ read.py --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#0]
+
+$ read.py --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lock` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#0]
+
+$ read.py --count "M"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            58
+
+`M` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#15]
+
+$ read.py --count "Kaels"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kaels` ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:#20]
+
+$ stance_marker_count: Erzähler 39 + AEGIS 48 + Fundamentales Konzept 39 + Irrelevant 5 = 131
+$ grep -c lines starting "  - **AEGIS:**" ; AEGIS mentions outside label lines
+39
+9
+$ chapter heading lines: Kapitel n at 15+10*(n-1), checked against read.py output L15 L265 L275 L395
+395| 1.  **Kapitel 39: Echo der Kohärenz**
+265| 1.  **Kapitel 26: Infiltration des Labyrinths**

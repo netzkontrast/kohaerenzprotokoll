@@ -1,0 +1,113 @@
+# counts for 93 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Fundament                    84 word    84 in   [11, 15, 16, 17, 18, 45]
+  Fundament                       104 word   154 in   [11, 15, 16, 17, 18, 24]
+                                   36      as Fundaments
+                                   16      as fundamentale
+                                   14      as fundamentalen
+                                    9      as fundamental
+  Übermonstergruppe                 1 word     1 in   [16]
+  Paraiyas                         26 word    26 in   [16, 42, 64, 67, 81, 82]
+  6 Paraiyas                        2 word     2 in   [42, 82]
+  AEGIS                            39 word    40 in   [31, 42, 45, 53, 54, 64]
+                                    1      as AEGIS-Systems
+  Kael                             43 word    43 in   [30, 43, 53, 64, 65, 73]
+  Juna                              7 word     7 in   [54, 64, 74, 330, 335, 450]
+  Juna/V Verbindung                 1 word     1 in   [54]
+  Juna/V-Verbindung                 4 word     4 in   [64, 74, 330, 450]
+  TSDP-Modell                       2 word     2 in   [43, 82]
+  TSDP                              2 word     7 in   [43, 53, 65, 73, 82, 268]  <-- substring
+                                    2      as TSDP-Modell
+                                    1      as TSDP-basierte
+                                    1      as TSDP-Anteile
+                                    1      as TSDP-Basis
+  Kernwelten                        5 word     5 in   [32, 44, 66, 177]
+  Potentialmeer                     4 word     4 in   [44, 66, 74]
+  Paradoxon X                      15 word    15 in   [42, 45, 67, 74, 75, 104]
+  Kohärenz Protokoll                9 word     9 in   [11, 15, 17, 20, 24, 238]
+  Fragmentierung/Integration        4 word     4 in   [30, 43, 73, 277]
+  Kontrolle/Emergenz                5 word     5 in   [31, 73, 83, 277, 355]
+  Realität/Simulation               3 word     3 in   [32, 44, 66]
+  Verbindung/Isolation              3 word     3 in   [33, 54, 182]
+  Ethik/KI                          1 word     1 in   [34]
+  Fundamentality                    3 word     3 in   [66, 470, 472]
+  Impact Point Identifikation       1 word     1 in   [75]
+  Integrationslevel                 1 word     1 in   [253]
+  Subtiles Hintergrundprinzip       2 word     2 in   [257, 294]
+  Quelle der Einsicht/Gnosis        3 word     3 in   [258, 295, 444]
+  Aktive Intervention               1 word     1 in   [259]
+  Finale Enthüllung                 3 word     3 in   [260, 297, 314]
+  Begrenzte/Indirekte Intervention    1 word     1 in   [296]
+  Verkörperung durch Charakter      1 word     1 in   [298]
+  Deus Ex Machina Risiko            1 word     1 in   [251]
+  Foreshadowing                     8 word     8 in   [252, 260, 293, 310, 314, 321]
+  Agency                           11 word    14 in   [53, 65, 268, 293, 306, 320]
+  ontologische Fundierung           1 word     1 in   [374]
+  P=NP                             11 word    11 in   [130, 199, 201, 203, 204, 209]
+  hybride Ansätze                   1 word     1 in   [348]
+  Deus ex Machina                   6 word     6 in   [17, 251, 293, 320, 428, 582]
+  Chosen One                        3 word     3 in   [331, 354, 593]
+  Crew Hero                         1 word     1 in   [331]
+  Metaphysik der Fundamentalität    1 word     1 in   [91]
+  Prozessphilosophie                5 word     5 in   [92, 160, 166, 442]
+  Prehension                        1 word     2 in   [92, 166]
+                                    1      as Prehensions
+  Advaita Vedanta                   6 word     6 in   [97, 166, 477, 478, 481, 557]
+  Brahman                           5 word     5 in   [97, 160, 166, 187]
+  Maya                              2 word     2 in   [97, 187]
+  Avidya                            2 word     2 in   [97, 187]
+  Madhyamaka Buddhismus             2 word     2 in   [98, 166]
+  Śūnyatā                           2 word     2 in   [98, 160]
+  Svabhāva                          1 word     1 in   [98]
+  Pratītyasamutpāda                 1 word     1 in   [98]
+  Zwei Wahrheiten                   1 word     1 in   [98]
+  Taoismus                          5 word     5 in   [99, 155, 186, 442]
+  Yin-Yang                          4 word     5 in   [99, 186, 190, 232, 442]
+                                    1      as Yin-Yang-Modell
+                                    1      as yin-yang-design-symbol-rugs
+  Tao                               3 word    10 in   [99, 155, 160, 186, 442, 491]  <-- substring
+  Harte Problem des Bewusstseins    1 word     1 in   [103]
+  Panpsychismus                     2 word     2 in   [103, 225]
+  Gödels Unvollständigkeitssätze    2 word     2 in   [104, 194]
+  Parakonsistente Logik             1 word     3 in   [104, 196, 234]  <-- substring
+  Dialetheismus                     1 word     1 in   [196]
+  Ex contradictione quodlibet       1 word     1 in   [196]
+  Fundamentale Symmetrien           1 word     1 in   [112]
+  Noether-Theorem                   1 word     1 in   [112]
+  Higgs-Mechanismus                 1 word     1 in   [113]
+  spontane Symmetriebrechung        1 word     1 in   [113]
+  Vereinheitlichungstheorien        1 word     1 in   [114]
+  Verschränkung                     1 word     1 in   [122]
+  Komplementarität                  7 word     8 in   [122, 155, 184, 190, 232, 386]
+                                    1      as Komplementaritätsprinzip
+  Komplementaritätsprinzip          1 word     1 in   [122]
+  Dialektik                         4 word     4 in   [155, 185, 190, 442]
+  Komplexitätstheorie               3 word     3 in   [130, 132, 226]
+  Autopoiesis                       2 word     2 in   [136, 539]
+  Kybernetik zweiter Ordnung        2 word     2 in   [137, 167]
+  Eigenform                         1 word     1 in   [137]
+  Archetypen                        1 word     2 in   [141, 269]
+  kollektive Unbewusste             1 word     1 in   [141]
+  Individuation                     2 word     2 in   [141, 398]
+  Schattens                         2 word     2 in   [141, 188]
+  Gipfelerfahrungen                 1 word     1 in   [142]
+  Selbsttranszendenz                1 word     1 in   [142]
+  kosmisches Bewusstsein            1 word     1 in   [142]
+  Integrale Theorie                 1 word     1 in   [142]
+  Gnostizismus                      2 word     2 in   [148]
+  Demiurgen                         4 word     4 in   [81, 148]
+  Pleroma                           2 word     3 in   [81, 148, 160]
+                                    1      as Pleromas
+  Sophia                            2 word     3 in   [148, 459]
+                                    1      as Sophia_
+  Gnosis                            5 word     5 in   [148, 258, 295, 444, 460]
+  Schwache Emergenz                 1 word     1 in   [217]
+  Starke Emergenz                   1 word     1 in   [217]
+  Abwärtskausalität                 2 word     2 in   [217, 224]
+  Reduktionismus                    3 word     3 in   [218, 373]
+  Emergentismus                     2 word     2 in   [218]
+  Santa Fe Institute                1 word     1 in   [132]
+  Rand des Chaos                    1 word     1 in   [132]

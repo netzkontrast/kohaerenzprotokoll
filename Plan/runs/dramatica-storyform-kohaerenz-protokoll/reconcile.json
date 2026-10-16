@@ -1,0 +1,160 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll",
+  "drive_id": "1ww7cD5AOXKf0pe_DMxzQ-YnZBRJV4Jug02VhVeuZL8w",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-390/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 64,
+    "decisions": 64,
+    "decided_by_lookup": 49,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English Dramatica storyform of 2026-01-02: its new surfaces are Dramatica's vocabulary; what it assigns to AEGIS, Kael, Juna/V, the Moonshine-Link, the Kernwelten and the rest went on existing pages, each value attributed to this document. Its domains differ from storyform A of decision 025 (OS Universe and IC Psychology here, IC Universe and OS Psychology in A; MC Concern The Conscious and Problem Disbelief here, Memory and Inertia in A); it predates the decision, so the difference is recorded, not raised as a question.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "AEGIS's Zero-Trust as the foil of the Moonshine-Link"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        34,
+        35,
+        36,
+        37,
+        44,
+        58,
+        65
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Overall Story throughline"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        44,
+        45
+      ],
+      "attribution": "",
+      "note": "the alters in Kael's Truth and Disbelief"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        50,
+        51,
+        52,
+        53,
+        65
+      ],
+      "attribution": "",
+      "note": "Juna/V as the Impact Character throughline"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        42,
+        43,
+        44,
+        45,
+        61
+      ],
+      "attribution": "",
+      "note": "Kael as the Main Character throughline, Resolve Change"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as resonators of the four throughlines"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        53,
+        58,
+        59,
+        61
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the Subjective Story and as trust"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the source of AEGIS's phobia"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        36
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the uncontrolled that AEGIS holds at bay"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        23,
+        65
+      ],
+      "attribution": "",
+      "note": "Risse as a driver of the plot and a measure of failing Progress"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the TSDP as the model of Kael's fixed mind"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` read on juna; `Zero-Trust` read on aegis-teilfunktionen, `Trust` the IC Problem; the Kernwelt names read on kern-welten; `Truth`, `Story Mind`, `Main Character`, `Control`/`Uncontrolled` Dramatica terms; `Kohärenz Protokoll` the title; `Theory of Structural Dissociation of the Personality` read on tsdp",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "Story Mind, Grand Argument Story and every Dramatica value",
+    "the borrowed concepts"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

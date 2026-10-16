@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      36
+  backslash escapes      8
+  typographic marks      29
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenartefakte, Datenaustausch, Datenfluss, Datenknotenpunkt, Datenpaket, Datenraums, Datenströme, Datenströmen
+  syste    System, Systeme, Systemfehler, Systeminterferenz, Systemlogik, Systems
+  fragm    Fragment, Fragmentation, Fragmente, Fragmenten, Fragmentierung
+  inter    Interaktion, Interface, Interior, Internal, Interruption
+  kontr    Kontrast, Kontrolle, Kontrollverlust, Kontrollverlusts
+  alter    Alter, Altered, Alters
+  archi    Architekt, Architekten, Architektur
+  disso    Dissociation, Dissociative, Dissonanz
+  proto    Protokoll, Protokolle, Protokolls
+  spieg    Spiegel, Spiegelbildes, Spiegels
+  abwei    Abweichung, Abweichungen
+  ander    Andere, Anders
+  antwo    Antwort, Antworten
+  augen    Augen, Augenblick
+  bruch    Bruch, Bruchteil
+  deper    Depersonalisation, Depersonalization
+  effiz    Effizienz, Effizienzsteigerung
+  eindr    Eindruck, Eindrücke
+  einsc    Einschlafen, Einschätzung
+  emoti    Emotion, Emotions
+  erwac    Erwachen, Erwachens
+  ficti    Fiction, FictionWriting
+  finge    Finger, Fingerabdruck
+  frage    Frage, Fragen
+  fremd    Fremdheit, Fremdkörper
+
+# substring pairs -- never one term, often merged by accident
+  Auge < Augen
+  Auge < Augenblick
+  Bild < Spiegelbildes
+  Chor < Choreographie
+  Echo < Echos
+  Eine < Einen
+  Eine < Seine
+  Eine < Weinen
+  Fall < Fallen
+  Fall < Zerfall
+  Five < Fiveable
+  Form < Plattform
+  Form < Information
+  Form < Konformität
+  Form < Plattformen
+  Form < Informationsströme
+  Frag < Frage
+  Frag < Fragen
+  Frag < Fragment
+  Frag < Fragmente

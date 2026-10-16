@@ -1,0 +1,14 @@
+# konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu
+  lines                181  (frontmatter ends at 9)
+  body words           989
+  headings             1   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    32   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    14
+  repeated labels      none
+  longest line         390 chars
+

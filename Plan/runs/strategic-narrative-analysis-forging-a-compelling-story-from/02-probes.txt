@@ -1,0 +1,45 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      44
+  typographic marks      15
+  ascii quotes           100
+
+# inflection families -- one term, several surfaces
+  philo    Philosophical, Philosophically, Philosophy
+  psych    Psyche, Psychologically, Psychology
+  syste    Systematic, Systemic, Systems
+  abstr    Abstract, Abstraction
+  ancho    Anchor, Anchoring
+  conce    Concept, Concepts
+  eleva    Elevate, Elevating
+  emoti    Emotion, Emotional
+  exter    External, Externe
+  groun    Ground, Grounding
+  ident    Identified, Identifying
+  integ    Integration, Integrative
+  kernw    Kernwelt, Kernwelten
+  lever    Leverage, Leveraging
+  logic    Logic, Logical
+  poten    Potential, Potentialität
+  recom    Recommendations, Recommended
+  story    Story, Storytelling
+  strat    Strategic, Strategy
+  theor    Theorems, Theory
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Risk < Risks
+  Logic < Logical
+  Logic < Psychologically
+  Story < Storytelling
+  World < Worlds
+  Anchor < Anchoring
+  Ground < Grounding
+  Concept < Concepts
+  Emotion < Emotional
+  Logical < Psychologically
+  Abstract < Abstraction
+  Kernwelt < Kernwelten
+  Potential < Potentialität
+  Philosophical < Philosophically

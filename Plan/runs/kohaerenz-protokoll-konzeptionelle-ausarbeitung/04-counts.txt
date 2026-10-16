@@ -1,0 +1,94 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenzprotokoll                29 word    50 in   [11, 17, 30, 32, 36, 40]
+                                   21      as Kohärenzprotokolls
+  Kohärenz                         26 word    92 in   [11, 13, 17, 19, 21, 30]  <-- substring
+                                   29      as Kohärenzprotokoll
+                                   21      as Kohärenzprotokolls
+                                    8      as Kohärenzerhaltung
+                                    2      as Kohärenzgewinnung
+  Inkohärenz                       32 word    35 in   [17, 32, 36, 38, 40, 42]
+                                    3      as Inkohärenzen
+  Kernrichtlinie                   28 word    30 in   [32, 36, 104, 106, 110, 116]
+                                    2      as Kernrichtlinien
+  Axiom der Kohärenz                1 word     1 in   [104]
+  Strukturelle Integrität           1 word     1 in   [23]
+  Funktionale Stabilität            1 word     1 in   [24]
+  Interne Konsistenz                1 word     1 in   [25]
+  Identitätspersistenz              2 word     2 in   [26, 429]
+  Taxonomie der Inkohärenz          1 word     1 in   [42]
+  Statistisches Rauschen            3 word     3 in   [44, 98, 423]
+  Logische Kontradiktion            1 word     1 in   [53]
+  Chaotische Dynamiken              2 word     2 in   [62, 98]
+  Thermodynamische Entropie         1 word     1 in   [80]
+  Ontologische Indeterminiertheit    2 word     2 in   [89, 93]
+  Unstrukturierte Potentialität     1 word     1 in   [89]
+  Potentialität                    17 word    19 in   [32, 89, 93, 98, 100, 102]
+                                    2      as Potentialitäten
+  Bleibe konsistent                 1 word     1 in   [113]
+  Definiere Dich                    1 word     1 in   [114]
+  Erhalte Deine Grenzen             1 word     1 in   [114]
+  Minimiere Überraschung            1 word     1 in   [149]
+  Erhalte Autopoiesis               1 word     1 in   [149]
+  Derivationsmechanismen            7 word     7 in   [143, 151, 198, 373, 421, 442]
+  Emergenz                         13 word    14 in   [153, 157, 190, 192, 194, 244]
+                                    1      as Emergenzphänomene
+  Rekursion                         8 word     8 in   [163, 167, 169, 192, 387, 421]
+  Evolutionäre Prozesse             1 word     1 in   [173]
+  Axiomatische Deduktion            2 word     2 in   [182, 192]
+  Selbstüberwachung                 2 word     2 in   [204, 208]
+  Zustandsverifikation              1 word     1 in   [204]
+  Fehlererkennung                   4 word     4 in   [49, 205, 361]
+  Konsistenzprüfung                 4 word     5 in   [58, 169, 206, 264]
+                                    1      as Konsistenzprüfungen
+  Konfliktlösung                    1 word     1 in   [206]
+  Redundanz                         8 word     8 in   [194, 205, 207, 245, 286, 287]
+  Fehlertoleranz                    4 word     5 in   [207, 217, 297, 415, 436]
+                                    1      as Fehlertoleranzmechanismen
+  Selbst-Modellierung               2 word     2 in   [204, 208]
+  Definition der Grenze             1 word     1 in   [214]
+  Permeabilität und Offenheit       1 word     1 in   [215]
+  Filterung und Abschirmung         1 word     1 in   [216]
+  Aktive Verteidigung und Reparatur    1 word     1 in   [217]
+  Sensorik und Wahrnehmung          1 word     1 in   [223]
+  Lernen und Adaptation             1 word     1 in   [224]
+  Extraktion von Ordnung            1 word     1 in   [225]
+  Imposition von Ordnung            1 word     1 in   [226]
+  Kohärenzextraktion                2 word     2 in   [219, 232]
+  Kernkomponenten                   2 word     2 in   [379, 381]
+  Sensorium                         1 word     1 in   [384]
+  Komparator                        2 word     2 in   [386, 387]
+  Evaluator                         1 word     1 in   [386]
+  Derivations-Engine                2 word     2 in   [387, 396]
+  Effektor                          1 word     2 in   [388, 396]
+                                    1      as Effektoren
+  Logischer Fluss                   1 word     1 in   [396]
+  Aktives Grenzmanagement           1 word     1 in   [403]
+  Adaptive Komplexität              1 word     1 in   [406]
+  Dynamik offener Systeme           2 word     2 in   [402, 429]
+  Archetypen                        1 word     1 in   [419]
+  Wettrüsten                        1 word     1 in   [256]
+  operationale Schließung           1 word     1 in   [359]
+  organisationale Schließung        1 word     1 in   [383]
+  Autopoiesis                      23 word    25 in   [122, 133, 134, 137, 139, 149]
+                                    1      as Autopoiesis-Grad
+  Homöostase                        8 word     8 in   [122, 137, 306, 307, 363, 413]
+  Free Energy Principle             4 word     4 in   [125, 137, 141, 509]
+  Active Inference                  8 word     8 in   [141, 223, 226, 232, 346, 364]
+  Gesetz der erforderlichen Varietät    2 word     2 in   [253, 336]
+  Law of Requisite Variety          2 word     2 in   [253, 535]
+  Kolmogorov-Komplexität            5 word     5 in   [254, 258, 423]
+  Minimum Description Length        1 word     1 in   [254]
+  Dissipative Strukturen            2 word     2 in   [225, 276]
+  Negentropie                       4 word     4 in   [124, 225, 230, 276]
+  Prädiktive Kodierung              1 word     1 in   [346]
+  Nischenkonstruktion               1 word     1 in   [226]
+  Turing-Vollständigkeit            1 word     1 in   [264]
+  Selbstorganisation                6 word     6 in   [158, 192, 194, 360, 436]
+  Conways Spiel des Lebens          1 word     1 in   [158]
+  Genetische Algorithmen            1 word     1 in   [177]
+  ex falso quodlibet                1 word     1 in   [57]
+  Ljapunow-Exponenten               1 word     1 in   [70]

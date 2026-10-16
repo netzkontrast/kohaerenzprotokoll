@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "cache-kohaerenz",
+ "title": "Cache-Kohärenz",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Gültigkeit der Computerarchitektur-Analogie",
+  "Inkonsistenz verschiedener Erinnerungen",
+  "Synchronisierung ohne Gleichschaltung",
+  "Grenzen des technischen Modells",
+  "Verwechslung von Cache und Persönlichkeit"
+ ],
+ "basis": {
+  "cache-kohaerenz": {
+   "title": "Cache-Kohärenz",
+   "path": "Wiki/candidates/cache-kohaerenz.md",
+   "hash": "38b366ecb71be124ee23458f7a92d3ed0c0d4e96765a3da59e44d8d2b70c25f8"
+  },
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  },
+  "did": {
+   "title": "DID — dissoziative Identitätsstruktur",
+   "path": "Wiki/candidates/did.md",
+   "hash": "3e4dbef89c60c8206972740f586bc1cab3ab4d96d5e71074e213f334b6b879a7"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "lex": {
+   "title": "Lex",
+   "path": "Wiki/candidates/lex.md",
+   "hash": "e0735fa95ac7b6e928b025c52f36ddfee357107824ddd781bda09d6067e9e0a5"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-cache-kohaerenz-001",
+   "question": "Welche Erfahrung von Erinnerungslücken erklärt die Cache-Analogie, und wo reduziert sie einen Persönlichkeitsteil unzulässig auf eine Datenkopie?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-002",
+   "question": "Welche Lesarten auf der Seite zu Cache-Kohärenz stützen oder begrenzen „Gültigkeit der Computerarchitektur-Analogie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-003",
+   "question": "Welcher Grenzfall würde bei Cache-Kohärenz die Annahmen über „Gültigkeit der Computerarchitektur-Analogie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-004",
+   "question": "Wer könnte innerhalb des Romans bei Cache-Kohärenz etwas über „Gültigkeit der Computerarchitektur-Analogie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-005",
+   "question": "Welche konkrete Entscheidung könnte „Gültigkeit der Computerarchitektur-Analogie“ bei Cache-Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gültigkeit der Computerarchitektur-Analogie“ bei Cache-Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-007",
+   "question": "Wie lässt sich „Gültigkeit der Computerarchitektur-Analogie“ bei Cache-Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-008",
+   "question": "Welche Alternativen sollte der Autor bei Cache-Kohärenz für „Gültigkeit der Computerarchitektur-Analogie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-009",
+   "question": "Was bedeutet bei Cache-Kohärenz der Themenpunkt „Inkonsistenz verschiedener Erinnerungen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-010",
+   "question": "Welche Lesarten auf der Seite zu Cache-Kohärenz stützen oder begrenzen „Inkonsistenz verschiedener Erinnerungen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-011",
+   "question": "Welcher Grenzfall würde bei Cache-Kohärenz die Annahmen über „Inkonsistenz verschiedener Erinnerungen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-012",
+   "question": "Wer könnte innerhalb des Romans bei Cache-Kohärenz etwas über „Inkonsistenz verschiedener Erinnerungen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-013",
+   "question": "Welche konkrete Entscheidung könnte „Inkonsistenz verschiedener Erinnerungen“ bei Cache-Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Inkonsistenz verschiedener Erinnerungen“ bei Cache-Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-015",
+   "question": "Wie lässt sich „Inkonsistenz verschiedener Erinnerungen“ bei Cache-Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-016",
+   "question": "Welche Alternativen sollte der Autor bei Cache-Kohärenz für „Inkonsistenz verschiedener Erinnerungen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-017",
+   "question": "Was bedeutet bei Cache-Kohärenz der Themenpunkt „Synchronisierung ohne Gleichschaltung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-018",
+   "question": "Welche Lesarten auf der Seite zu Cache-Kohärenz stützen oder begrenzen „Synchronisierung ohne Gleichschaltung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-019",
+   "question": "Welcher Grenzfall würde bei Cache-Kohärenz die Annahmen über „Synchronisierung ohne Gleichschaltung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-020",
+   "question": "Wer könnte innerhalb des Romans bei Cache-Kohärenz etwas über „Synchronisierung ohne Gleichschaltung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-021",
+   "question": "Welche konkrete Entscheidung könnte „Synchronisierung ohne Gleichschaltung“ bei Cache-Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Synchronisierung ohne Gleichschaltung“ bei Cache-Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-023",
+   "question": "Wie lässt sich „Synchronisierung ohne Gleichschaltung“ bei Cache-Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-024",
+   "question": "Welche Alternativen sollte der Autor bei Cache-Kohärenz für „Synchronisierung ohne Gleichschaltung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-025",
+   "question": "Was bedeutet bei Cache-Kohärenz der Themenpunkt „Grenzen des technischen Modells“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-026",
+   "question": "Welche Lesarten auf der Seite zu Cache-Kohärenz stützen oder begrenzen „Grenzen des technischen Modells“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-027",
+   "question": "Welcher Grenzfall würde bei Cache-Kohärenz die Annahmen über „Grenzen des technischen Modells“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-028",
+   "question": "Wer könnte innerhalb des Romans bei Cache-Kohärenz etwas über „Grenzen des technischen Modells“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen des technischen Modells“ bei Cache-Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen des technischen Modells“ bei Cache-Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-031",
+   "question": "Wie lässt sich „Grenzen des technischen Modells“ bei Cache-Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-032",
+   "question": "Welche Alternativen sollte der Autor bei Cache-Kohärenz für „Grenzen des technischen Modells“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-033",
+   "question": "Was bedeutet bei Cache-Kohärenz der Themenpunkt „Verwechslung von Cache und Persönlichkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-034",
+   "question": "Welche Lesarten auf der Seite zu Cache-Kohärenz stützen oder begrenzen „Verwechslung von Cache und Persönlichkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-035",
+   "question": "Welcher Grenzfall würde bei Cache-Kohärenz die Annahmen über „Verwechslung von Cache und Persönlichkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-036",
+   "question": "Wer könnte innerhalb des Romans bei Cache-Kohärenz etwas über „Verwechslung von Cache und Persönlichkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-037",
+   "question": "Welche konkrete Entscheidung könnte „Verwechslung von Cache und Persönlichkeit“ bei Cache-Kohärenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwechslung von Cache und Persönlichkeit“ bei Cache-Kohärenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-039",
+   "question": "Wie lässt sich „Verwechslung von Cache und Persönlichkeit“ bei Cache-Kohärenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-040",
+   "question": "Welche Alternativen sollte der Autor bei Cache-Kohärenz für „Verwechslung von Cache und Persönlichkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-041",
+   "question": "Wo unterscheiden sich Cache-Kohärenz und TSDP, wenn man sie unter dem Gesichtspunkt „Gültigkeit der Computerarchitektur-Analogie“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-042",
+   "question": "Welche Quelle verbindet Cache-Kohärenz mit TSDP in Bezug auf „Gültigkeit der Computerarchitektur-Analogie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-043",
+   "question": "Welche Grenzen aus der Seite zu TSDP müsste eine Deutung von Cache-Kohärenz unter „Gültigkeit der Computerarchitektur-Analogie“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-044",
+   "question": "Wie könnte sich das Wissen über Cache-Kohärenz vom Wissen über TSDP unterscheiden, wenn „Gültigkeit der Computerarchitektur-Analogie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cache-Kohärenz und TSDP bei „Gültigkeit der Computerarchitektur-Analogie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-046",
+   "question": "Falls Cache-Kohärenz im Hinblick auf „Gültigkeit der Computerarchitektur-Analogie“ anders festgelegt wird: Welche Aussagen über TSDP müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cache-Kohärenz und TSDP bei „Gültigkeit der Computerarchitektur-Analogie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-048",
+   "question": "Braucht der Roman eine Verbindung von Cache-Kohärenz und TSDP bei „Gültigkeit der Computerarchitektur-Analogie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-049",
+   "question": "In welchem denkbaren Fall könnte Cache-Kohärenz bestehen, ohne dass TSDP dieselbe Funktion übernimmt, und was würde das für „Gültigkeit der Computerarchitektur-Analogie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-050",
+   "question": "Welche Kosten könnte eine Verbindung von Cache-Kohärenz und TSDP in Bezug auf „Gültigkeit der Computerarchitektur-Analogie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-051",
+   "question": "Welche ältere Lesart von Cache-Kohärenz oder TSDP könnte die Gegenüberstellung unter „Gültigkeit der Computerarchitektur-Analogie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cache-Kohärenz und TSDP unter „Gültigkeit der Computerarchitektur-Analogie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "cache-kohaerenz",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-053",
+   "question": "Wo unterscheiden sich Cache-Kohärenz und DID — dissoziative Identitätsstruktur, wenn man sie unter dem Gesichtspunkt „Inkonsistenz verschiedener Erinnerungen“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-054",
+   "question": "Welche Quelle verbindet Cache-Kohärenz mit DID — dissoziative Identitätsstruktur in Bezug auf „Inkonsistenz verschiedener Erinnerungen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-055",
+   "question": "Welche Grenzen aus der Seite zu DID — dissoziative Identitätsstruktur müsste eine Deutung von Cache-Kohärenz unter „Inkonsistenz verschiedener Erinnerungen“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-056",
+   "question": "Wie könnte sich das Wissen über Cache-Kohärenz vom Wissen über DID — dissoziative Identitätsstruktur unterscheiden, wenn „Inkonsistenz verschiedener Erinnerungen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cache-Kohärenz und DID — dissoziative Identitätsstruktur bei „Inkonsistenz verschiedener Erinnerungen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-058",
+   "question": "Falls Cache-Kohärenz im Hinblick auf „Inkonsistenz verschiedener Erinnerungen“ anders festgelegt wird: Welche Aussagen über DID — dissoziative Identitätsstruktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cache-Kohärenz und DID — dissoziative Identitätsstruktur bei „Inkonsistenz verschiedener Erinnerungen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-060",
+   "question": "Braucht der Roman eine Verbindung von Cache-Kohärenz und DID — dissoziative Identitätsstruktur bei „Inkonsistenz verschiedener Erinnerungen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-061",
+   "question": "In welchem denkbaren Fall könnte Cache-Kohärenz bestehen, ohne dass DID — dissoziative Identitätsstruktur dieselbe Funktion übernimmt, und was würde das für „Inkonsistenz verschiedener Erinnerungen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-062",
+   "question": "Welche Kosten könnte eine Verbindung von Cache-Kohärenz und DID — dissoziative Identitätsstruktur in Bezug auf „Inkonsistenz verschiedener Erinnerungen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-063",
+   "question": "Welche ältere Lesart von Cache-Kohärenz oder DID — dissoziative Identitätsstruktur könnte die Gegenüberstellung unter „Inkonsistenz verschiedener Erinnerungen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cache-Kohärenz und DID — dissoziative Identitätsstruktur unter „Inkonsistenz verschiedener Erinnerungen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "cache-kohaerenz",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-065",
+   "question": "Wo unterscheiden sich Cache-Kohärenz und Kohärenz, wenn man sie unter dem Gesichtspunkt „Synchronisierung ohne Gleichschaltung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-066",
+   "question": "Welche Quelle verbindet Cache-Kohärenz mit Kohärenz in Bezug auf „Synchronisierung ohne Gleichschaltung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-067",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von Cache-Kohärenz unter „Synchronisierung ohne Gleichschaltung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-068",
+   "question": "Wie könnte sich das Wissen über Cache-Kohärenz vom Wissen über Kohärenz unterscheiden, wenn „Synchronisierung ohne Gleichschaltung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cache-Kohärenz und Kohärenz bei „Synchronisierung ohne Gleichschaltung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-070",
+   "question": "Falls Cache-Kohärenz im Hinblick auf „Synchronisierung ohne Gleichschaltung“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cache-Kohärenz und Kohärenz bei „Synchronisierung ohne Gleichschaltung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-072",
+   "question": "Braucht der Roman eine Verbindung von Cache-Kohärenz und Kohärenz bei „Synchronisierung ohne Gleichschaltung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-073",
+   "question": "In welchem denkbaren Fall könnte Cache-Kohärenz bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Synchronisierung ohne Gleichschaltung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-074",
+   "question": "Welche Kosten könnte eine Verbindung von Cache-Kohärenz und Kohärenz in Bezug auf „Synchronisierung ohne Gleichschaltung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-075",
+   "question": "Welche ältere Lesart von Cache-Kohärenz oder Kohärenz könnte die Gegenüberstellung unter „Synchronisierung ohne Gleichschaltung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cache-Kohärenz und Kohärenz unter „Synchronisierung ohne Gleichschaltung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "cache-kohaerenz",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-077",
+   "question": "Wo unterscheiden sich Cache-Kohärenz und Alters, wenn man sie unter dem Gesichtspunkt „Grenzen des technischen Modells“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-078",
+   "question": "Welche Quelle verbindet Cache-Kohärenz mit Alters in Bezug auf „Grenzen des technischen Modells“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-079",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Cache-Kohärenz unter „Grenzen des technischen Modells“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-080",
+   "question": "Wie könnte sich das Wissen über Cache-Kohärenz vom Wissen über Alters unterscheiden, wenn „Grenzen des technischen Modells“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cache-Kohärenz und Alters bei „Grenzen des technischen Modells“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-082",
+   "question": "Falls Cache-Kohärenz im Hinblick auf „Grenzen des technischen Modells“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cache-Kohärenz und Alters bei „Grenzen des technischen Modells“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-084",
+   "question": "Braucht der Roman eine Verbindung von Cache-Kohärenz und Alters bei „Grenzen des technischen Modells“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-085",
+   "question": "In welchem denkbaren Fall könnte Cache-Kohärenz bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Grenzen des technischen Modells“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-086",
+   "question": "Welche Kosten könnte eine Verbindung von Cache-Kohärenz und Alters in Bezug auf „Grenzen des technischen Modells“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-087",
+   "question": "Welche ältere Lesart von Cache-Kohärenz oder Alters könnte die Gegenüberstellung unter „Grenzen des technischen Modells“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cache-Kohärenz und Alters unter „Grenzen des technischen Modells“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "cache-kohaerenz",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-089",
+   "question": "Wo unterscheiden sich Cache-Kohärenz und Lex, wenn man sie unter dem Gesichtspunkt „Verwechslung von Cache und Persönlichkeit“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-090",
+   "question": "Welche Quelle verbindet Cache-Kohärenz mit Lex in Bezug auf „Verwechslung von Cache und Persönlichkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-091",
+   "question": "Welche Grenzen aus der Seite zu Lex müsste eine Deutung von Cache-Kohärenz unter „Verwechslung von Cache und Persönlichkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-092",
+   "question": "Wie könnte sich das Wissen über Cache-Kohärenz vom Wissen über Lex unterscheiden, wenn „Verwechslung von Cache und Persönlichkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cache-Kohärenz und Lex bei „Verwechslung von Cache und Persönlichkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-094",
+   "question": "Falls Cache-Kohärenz im Hinblick auf „Verwechslung von Cache und Persönlichkeit“ anders festgelegt wird: Welche Aussagen über Lex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cache-Kohärenz und Lex bei „Verwechslung von Cache und Persönlichkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-096",
+   "question": "Braucht der Roman eine Verbindung von Cache-Kohärenz und Lex bei „Verwechslung von Cache und Persönlichkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-097",
+   "question": "In welchem denkbaren Fall könnte Cache-Kohärenz bestehen, ohne dass Lex dieselbe Funktion übernimmt, und was würde das für „Verwechslung von Cache und Persönlichkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-098",
+   "question": "Welche Kosten könnte eine Verbindung von Cache-Kohärenz und Lex in Bezug auf „Verwechslung von Cache und Persönlichkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-099",
+   "question": "Welche ältere Lesart von Cache-Kohärenz oder Lex könnte die Gegenüberstellung unter „Verwechslung von Cache und Persönlichkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  },
+  {
+   "id": "RQ-cache-kohaerenz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cache-Kohärenz und Lex unter „Verwechslung von Cache und Persönlichkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "cache-kohaerenz",
+    "lex"
+   ]
+  }
+ ]
+}

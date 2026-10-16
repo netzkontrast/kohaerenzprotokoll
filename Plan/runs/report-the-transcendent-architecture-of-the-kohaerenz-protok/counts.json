@@ -1,0 +1,349 @@
+{
+  "document": "report-the-transcendent-architecture-of-the-kohaerenz-protok",
+  "drive_id": "1SP71Nktb2Xbg1wm3DfouLKBhA-v3DWN91i-TLyjMFug",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1,
+        5,
+        84
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        5
+      ]
+    },
+    "Juna/V connection": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        5,
+        9,
+        13,
+        35,
+        46,
+        84
+      ]
+    },
+    "Juna/V": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        5,
+        7,
+        9,
+        13,
+        28,
+        35,
+        46,
+        84
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        7,
+        9,
+        23,
+        38,
+        42
+      ]
+    },
+    "Das Fundament": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        5,
+        42,
+        44,
+        46,
+        50,
+        56,
+        58,
+        62,
+        70,
+        74,
+        78,
+        84
+      ]
+    },
+    "Kael": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        9,
+        17,
+        19,
+        28,
+        33,
+        35,
+        37,
+        38,
+        42,
+        46,
+        50,
+        57,
+        62,
+        66,
+        67,
+        68,
+        70,
+        78,
+        80
+      ]
+    },
+    "AEGIS": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        9,
+        13,
+        16,
+        17,
+        28,
+        31,
+        35,
+        37,
+        38,
+        40,
+        42,
+        54,
+        56,
+        58,
+        62,
+        66,
+        67,
+        68,
+        70,
+        74,
+        80
+      ]
+    },
+    "Juna": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        5,
+        7,
+        9,
+        13,
+        28,
+        35,
+        46,
+        84
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        58
+      ]
+    },
+    "Sea of Potential": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "ontological blindness": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        5,
+        42,
+        84
+      ]
+    },
+    "ontological exploit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        9,
+        84
+      ]
+    },
+    "coherence over truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "operational closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "prehensive resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Gnostic Injection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Coordinated Emergence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "stealth channel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Integration of Opposites": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Fundamental Symmetry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Enabler of Weak Emergence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "artifacts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        80
+      ]
+    },
+    "acusmatic harmony": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Gnosis": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        37,
+        60,
+        62,
+        66,
+        68,
+        70,
+        78,
+        84
+      ]
+    },
+    "Episteme": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        62,
+        66,
+        67
+      ]
+    },
+    "Quantum Entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Prehension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29
+      ]
+    },
+    "strange attractor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50
+      ]
+    },
+    "basin of attraction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        5,
+        62,
+        84
+      ]
+    }
+  }
+}

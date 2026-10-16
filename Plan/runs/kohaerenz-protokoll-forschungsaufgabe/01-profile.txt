@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-forschungsaufgabe
+  lines                394  (frontmatter ends at 9)
+  body words           7879
+  headings             23   bold-only lines 1
+  table rows           14   code fences 0
+  question marks       10
+  backslash escapes    59
+  typographic marks    29   ascii quotes 254
+  invisible characters none
+  math symbol lines    2
+  glued ref numbers    98
+  repeated labels      none
+  longest line         1558 chars
+

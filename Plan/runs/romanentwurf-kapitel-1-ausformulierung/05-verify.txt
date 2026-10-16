@@ -1,0 +1,153 @@
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Praetor ?"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Praetor ?` ^[romanentwurf-kapitel-1-ausformulierung.md:#4]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Nox ?"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nox ?` ^[romanentwurf-kapitel-1-ausformulierung.md:#3]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Kairos?"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kairos?` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Cerberus?"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cerberus?` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Echo ?"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Echo ?` ^[romanentwurf-kapitel-1-ausformulierung.md:#3]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Silas ?"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Silas ?` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Kael"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kael` ^[romanentwurf-kapitel-1-ausformulierung.md:#13]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "LogOS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`LogOS` ^[romanentwurf-kapitel-1-ausformulierung.md:#3]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Konstrukt-Stadt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Konstrukt-Stadt` ^[romanentwurf-kapitel-1-ausformulierung.md:#4]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Anomalie"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Anomalie` ^[romanentwurf-kapitel-1-ausformulierung.md:#5]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            4
+
+`Riss` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Risse` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Intrusion"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Intrusion` ^[romanentwurf-kapitel-1-ausformulierung.md:#4]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Naht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Naht` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Finde die Naht"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Finde die Naht` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Depersonalisation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Depersonalisation` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Fragmentierung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fragmentierung` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Zerrissenheit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zerrissenheit` ^[romanentwurf-kapitel-1-ausformulierung.md:#3]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Zugriff am April 18, 2025"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+
+`Zugriff am April 18, 2025` ^[romanentwurf-kapitel-1-ausformulierung.md:#33]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Als ob"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Als ob` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "als ob"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`als ob` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Alters"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+
+`Alters` ^[romanentwurf-kapitel-1-ausformulierung.md:#2]
+$ read.py romanentwurf-kapitel-1-ausformulierung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[romanentwurf-kapitel-1-ausformulierung.md:#1]
+stance_marker_count 4+3+2+2+3+2 = 16
+$ grep -c . (backslash-escaped brackets)
+4

@@ -1,0 +1,14 @@
+# fundament-konzept-fuer-kohaerenz-protokoll
+  lines                595  (frontmatter ends at 9)
+  body words           10685
+  headings             2   bold-only lines 39
+  table rows           8   code fences 0
+  question marks       56
+  backslash escapes    52
+  typographic marks    440   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    167
+  repeated labels      none
+  longest line         1205 chars
+

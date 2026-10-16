@@ -1,0 +1,50 @@
+# counts for 40 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aegis                           122 word   122 in   [11, 15, 17, 19, 21, 23]
+  Seelenpaar                       22 word    33 in   [11, 15, 17, 19, 23, 30]
+                                   11      as Seelenpaares
+  Absolute Entropy Event            4 word     4 in   [86, 100, 108, 240]
+  Zero-Trust Execution Model        1 word     1 in   [133]
+  ZTEM                              1 word     1 in   [133]
+  Consensus Enforcer Module         1 word     1 in   [133]
+  UNIVERSAL REBOOT PROTOCOL         1 word     1 in   [133]
+  Cognitive Firewall Module         1 word     1 in   [132]
+  ALERT                             2 word     4 in   [53, 105, 125, 127]
+                                    1      as ALERT-Log
+                                    1      as ALERT-Sequenz
+  absolute Kohärenz                 6 word     6 in   [41, 68, 69, 82, 88, 254]
+  brauchbare Quelle für innere Kohärenz    2 word     2 in   [96, 108]
+  ontologische Kontamination        1 word     1 in   [141]
+  systemic reality failure          1 word     1 in   [106]
+  Neustart                          6 word     6 in   [123, 134, 138, 140, 240]
+  Fragmentierung                   18 word    18 in   [17, 19, 136, 138, 142, 147]
+  Entropiequelle                    1 word     1 in   [138]
+  Selbstproduktion                  1 word     1 in   [29]
+  Organisationale Schließung        1 word     1 in   [30]
+  Organizational Closure            1 word     1 in   [30]
+  Strukturelle Kopplung             1 word     1 in   [31]
+  Structural Coupling               1 word     1 in   [31]
+  Constraint Closure                1 word     1 in   [30]
+  Autopoiesis                       8 word    10 in   [11, 17, 21, 23, 27, 29]
+                                    1      as Autopoiesis-Theorie
+  Ontologische Sicherheit           2 word     2 in   [17, 48]
+  Unvollständigkeitssätze           2 word     2 in   [17, 37]
+  Holismus                          5 word     5 in   [17, 64, 68, 82, 261]
+  Reduktionismus                    3 word     3 in   [17, 77, 81]
+  Emergenz                          6 word     6 in   [17, 64, 69, 82]
+  Abwärtskausalität                 2 word     2 in   [69, 205]
+  Nicht-Dualität                    5 word     5 in   [17, 30, 64, 70, 82]
+  Advaita Vedanta                   6 word     6 in   [17, 70, 289, 291, 292]
+  Maya                              2 word     2 in   [74, 75]
+  Brahman/Atman-Identität           1 word     1 in   [74]
+  neti neti                         1 word     1 in   [254]
+  Dissoziation                      6 word     7 in   [17, 148, 164, 254, 264]
+                                    1      as Dissoziationsmodelle
+  Theory of Mind                    5 word     5 in   [17, 216, 240, 300]
+  Dialektik                         1 word     1 in   [17]
+  Komplexitätstheorie               2 word     2 in   [17, 218]
+  Sublation                         1 word     1 in   [230]
+  Value Alignment                   1 word     1 in   [218]

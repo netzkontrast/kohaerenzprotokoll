@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-agentive-narrative
+  lines                671  (frontmatter ends at 9)
+  body words           7274
+  headings             26   bold-only lines 4
+  table rows           33   code fences 0
+  question marks       14
+  backslash escapes    193
+  typographic marks    182   ascii quotes 486
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    108
+  repeated labels      Aufgaben x4, Ziel x4, Mitigation x3
+  longest line         833 chars
+

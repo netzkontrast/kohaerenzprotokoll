@@ -1,0 +1,107 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Relevanz"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Relevanz` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#9]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Parallelen"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Parallelen` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#9]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Unterschiede"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Unterschiede` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#10]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Beispiele"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Beispiele` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Rechercheauftrag"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Rechercheauftrag` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Figur"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Figur` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Roman"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Roman` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Kohärenzprotokoll"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            50
+
+`Kohärenzprotokoll` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#29]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Kohärenzprotokolls"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Kohärenzprotokolls` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#21]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Kernrichtlinie"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            30
+
+`Kernrichtlinie` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#28]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Autopoiesis"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            25
+
+`Autopoiesis` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#23]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Homöostase"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Homöostase` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#8]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Active Inference"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Active Inference` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#8]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Free Energy Principle"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Free Energy Principle` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count "Kolmogorov-Komplexität"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kolmogorov-Komplexität` ^[kohaerenz-protokoll-konzeptionelle-ausarbeitung.md:#5]
+
+stance_marker_count 33 = Relevanz 9 + Parallelen 9 + Unterschiede 10 + Beispiele 5 (counts above, case-sensitive whole word)
+candidates 76, zeros 0, standing alone less often than with compounds 10: from python3 scripts/capture.py kohaerenz-protokoll-konzeptionelle-ausarbeitung --count (04-counts.txt) and census.py draft
+sections I to IX: nine headings at L13 L38 L104 L143 L196 L234 L266 L371 L425 (read.py); comparison table 7 data rows (L359-L365); reference list 79 entries (L462-L540); profile: 56 backslash escapes, 132 glued ref numbers, 4 invisible characters (01-profile.txt)

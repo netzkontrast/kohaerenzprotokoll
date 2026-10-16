@@ -1,0 +1,234 @@
+{
+  "document": "in-teil-2-werden-die-persona-von-ihren-spezifis",
+  "drive_id": "1BMgpjhmzOckElJ-v4LkOWdmpKUgZEDXTm8jxM_lBcoo",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 43,
+  "backslash_escapes": 4,
+  "typographic_marks": 3,
+  "ascii_quotes": 62,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systematik",
+      "Systematischere",
+      "Systembewusstsein",
+      "Systembruch",
+      "Systemfehler",
+      "Systemintegrität",
+      "Systemproblems",
+      "Systems"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Interne",
+      "Internen",
+      "Intervention",
+      "Interventionen"
+    ],
+    "archi": [
+      "Archipel",
+      "Architekt",
+      "Architekten",
+      "Architektur"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterisierung"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "gesam": [
+      "Gesamtbild",
+      "Gesamtes",
+      "Gesamtkonzept",
+      "Gesamtsituation"
+    ],
+    "perso": [
+      "Person",
+      "Persona",
+      "Personas",
+      "Personen"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitäts",
+      "Realitätsrisse"
+    ],
+    "repar": [
+      "Reparatur",
+      "Reparaturversuch",
+      "Reparaturversuche",
+      "Reparaturversuchen"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmaßnahmen",
+      "Abwehrreaktion"
+    ],
+    "beoba": [
+      "Beobachtend",
+      "Beobachtende",
+      "Beobachter"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsstrom"
+    ],
+    "haupt": [
+      "Hauptfacetten",
+      "Hauptfigur",
+      "Hauptursache"
+    ],
+    "infor": [
+      "Information",
+      "Informationseinheiten",
+      "Informationsgewebe"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integratoren"
+    ],
+    "persp": [
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivwechsel"
+    ],
+    "risse": [
+      "Risse",
+      "Rissen",
+      "Risses"
+    ],
+    "seele": [
+      "Seele",
+      "Seelen",
+      "Seelenfragmenten"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterkenntnis",
+      "Selbstorganisation"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissende",
+      "Wissens"
+    ],
+    "übers": [
+      "Überschreiten",
+      "Überschreitung",
+      "Übersetzer"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschnitte"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen"
+    ],
+    "bibli": [
+      "Bibliothek",
+      "Bibliothekar"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Quellcodes"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Ende",
+      "Wissende"
+    ],
+    [
+      "Ende",
+      "Zunehmende"
+    ],
+    [
+      "Ende",
+      "Beobachtende"
+    ],
+    [
+      "Ende",
+      "Kooperierendes"
+    ],
+    [
+      "Ende",
+      "Wiederkehrende"
+    ],
+    [
+      "Ende",
+      "Übergreifender"
+    ],
+    [
+      "Ende",
+      "Wiederkehrenden"
+    ],
+    [
+      "Fall",
+      "Tonfall"
+    ],
+    [
+      "Info",
+      "Information"
+    ],
+    [
+      "Info",
+      "Informationsgewebe"
+    ],
+    [
+      "Info",
+      "Informationseinheiten"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Kern",
+      "Kerns"
+    ],
+    [
+      "Kern",
+      "Kernaussage"
+    ],
+    [
+      "Kern",
+      "Kernschmelze"
+    ]
+  ]
+}

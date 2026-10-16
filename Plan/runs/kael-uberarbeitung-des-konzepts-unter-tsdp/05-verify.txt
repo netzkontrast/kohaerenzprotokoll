@@ -1,0 +1,72 @@
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "TSDP-Rolle"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`TSDP-Rolle` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#6]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "Funktion"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            12
+
+`Funktion` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#5]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "Entspricht"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Entspricht` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#5]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#0]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#0]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "PP-INT-01"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PP-INT-01` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#1]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "PP-WRD-01"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PP-WRD-01` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#1]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "PP-SYS-01"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PP-SYS-01` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#1]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "PP-CCH-01"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PP-CCH-01` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#1]
+
+$ python3 scripts/read.py kael-uberarbeitung-des-konzepts-unter-tsdp --count "Persona"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Persona` ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:#0]
+
+$ grep -c "end list" Sources/drive/kael-uberarbeitung-des-konzepts-unter-tsdp.md
+13

@@ -1,0 +1,50 @@
+{
+  "document": "kohaerenz-protokoll-als-algorithmische-grundlage-fuer-narrat",
+  "drive_id": "14SzL2iA7poSBaCd2LEbN7TW2N6QBNOsM",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document a general essay on narrative systems that is not about the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 47,
+    "decided_by_lookup": 41,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A general essay on narrative coherence and algorithmic systems for it, using the name Kohärenz-Protokoll for such a system; it names none of the novel's figures and says nothing of its world, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a general essay on narrative coherence: `Kohärenz-Protokoll`, `Kohärenz-Protokolls`, `temporale Kohärenz` and `Kohärenz-Detektor` its tools, another sense; `Kontrollinstanz` a generic validator, not AEGIS; `SCORE` a borrowed framework, not an AEGIS metric; decided as occurrences",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "narrative coherence in general, another sense"
+    }
+  ],
+  "not_promoted": [
+    "everything — the essay's protocol, story bibles, ontologies, the SCORE framework, planners and validators, and the borrowed systems (NCP, Dramatica, OntoMedia)"
+  ],
+  "internal_tension": "none: an essay",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

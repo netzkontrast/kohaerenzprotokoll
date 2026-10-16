@@ -1,0 +1,99 @@
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Personas                         49 word    49 in   [23, 25, 29, 31, 32, 44]
+  Meta-Erzähler                    15 word    49 in   [15, 17, 23, 25, 29, 30]  <-- substring
+                                   28      as Meta-Erzählers
+                                    2      as Meta-Erzähler-Modus
+                                    2      as Meta-Erzähler-Modi
+                                    1      as Meta-Erzähler-Rolle
+  Meta-Realität                    19 word    19 in   [15, 23, 25, 30, 31, 38]
+  Meta-Erzähler-Modi                2 word     2 in   [171, 274]
+  Magier                           27 word    35 in   [17, 25, 30, 76, 78, 82]
+                                    6      as Magiers
+                                    2      as Magier-Modus
+  Forscher                         16 word    18 in   [25, 29, 32, 78, 103, 113]
+                                    2      as Forschers
+  Philosoph                         9 word    31 in   [17, 25, 31, 78, 103, 113]  <-- substring
+                                   11      as philosophischer
+                                   10      as philosophische
+                                   10      as Philosophie
+                                    6      as Philosophy
+  funktionale Multiplizität         4 word     4 in   [17, 51, 71, 321]
+  funktionalen Multiplizität        6 word     6 in   [15, 66, 74, 268, 277, 305]
+  Functional Multiplicity           1 word     1 in   [49]
+  Kernrealität                      1 word     1 in   [84]
+  Prototyp-Konzept                  3 word     3 in   [19, 261, 263]
+  Reality Bleed                     1 word     1 in   [31]
+  Realitätsüberlappung              1 word     1 in   [31]
+  Geteilte Narrative Räume          2 word     2 in   [31, 253]
+  Metafiktionale Dialoge und Interaktionen    1 word     1 in   [29]
+  Parallele Erzählstränge           1 word     1 in   [30]
+  Montage                           3 word     3 in   [30, 47, 253]
+  Veränderter Innerer Monolog       1 word     1 in   [55]
+  Metaphorische Repräsentation      1 word     1 in   [56]
+  Veränderte Interaktionsmuster     2 word     2 in   [57, 254]
+  Internalisierte Narrative Therapie-Techniken    1 word     1 in   [58]
+  Verkörperte Erfahrung von Klarheit    1 word     1 in   [59]
+  Symbolische Sprache               2 word     2 in   [82, 255]
+  Archetypische Muster              1 word     1 in   [83]
+  Traumlogik                        6 word     6 in   [84, 93, 103, 229, 255, 269]
+  Synchronizität                    6 word     6 in   [85, 95, 103, 229, 255]
+  Paradoxe Aussagen                 1 word     1 in   [86]
+  Koans                             1 word     1 in   [86]
+  Holistische/Nicht-Lineare Perspektive    1 word     1 in   [87]
+  Thematische Weltbau-Regeln        2 word     2 in   [111, 256]
+  Symbolische Umgebungen            2 word     2 in   [112, 256]
+  Plot als philosophisches Argument    1 word     1 in   [113]
+  Strategische Exposition           3 word     3 in   [139, 157, 257]
+  Motive und Leitmotive             1 word     1 in   [140]
+  Leitmotive                        5 word     7 in   [140, 152, 160, 231, 241, 257]
+                                    2      as Leitmotiven
+  Kontrollierte Pacing-Variation    1 word     1 in   [141]
+  Nicht-lineare Informationsenthüllung    1 word     1 in   [142]
+  Verankerung des Lesers            1 word     1 in   [143]
+  Spannungs- und Enthüllungsmanagement    1 word     1 in   [144]
+  Narrative Lücken                  2 word     2 in   [169, 258]
+  Unzuverlässige Narration          2 word     2 in   [171, 258]
+  Rahmenerzählungen                 3 word     3 in   [173, 232, 258]
+  Fokalisierung                     1 word     1 in   [170]
+  Narrative Selbstreflexion         2 word     2 in   [197, 259]
+  Gewährung von Agency für Personas    1 word     1 in   [198]
+  Thematisierung von Machtdynamiken    2 word     2 in   [200, 233]
+  Ethische Rahmung                  2 word     2 in   [201, 259]
+  Vulnerable Narration              1 word     1 in   [202]
+  Ethical Feedback Loop             1 word     1 in   [313]
+  Ethische Rückkopplungsschleife    1 word     1 in   [313]
+  NZT-Mode                          1 word     1 in   [293]
+  Ich-Positionen                    3 word     3 in   [32, 63]
+  Gesellschaft des Geistes          1 word     1 in   [32]
+  Barzakh                           1 word     1 in   [56]
+  Dhvani                            1 word     1 in   [56]
+  Externalisierung                  1 word     1 in   [58]
+  Neuerzählung                      1 word     1 in   [58]
+  Dekonstruktion                    1 word     1 in   [58]
+  epistemologische Reise            7 word     7 in   [160, 162, 186, 189, 232, 274]
+  Didaktizismus                     3 word     3 in   [15, 128, 270]
+  Pacing                           17 word    21 in   [17, 133, 135, 141, 156, 157]
+                                    3      as Pacing-Variation
+                                    1      as Pacings
+  Agency                           15 word    19 in   [39, 46, 198, 216, 218, 219]
+  Info-Dumps                        2 word     2 in   [139, 157]
+  Anwendbarkeit                    15 word    15 in   [19, 41, 44, 68, 71, 97]
+  Funktionalität                    7 word     7 in   [43, 70, 99, 127, 156, 185]
+  Vorteile                          8 word     8 in   [19, 45, 72, 101, 129, 158]
+  Herausforderungen                16 word    17 in   [11, 19, 38, 46, 73, 74]
+  Vertiefte Betrachtung             7 word     7 in   [47, 74, 103, 131, 160, 189]
+  Dialogical Self Theory            3 word     3 in   [32, 63, 363]
+  DST                              14 word    14 in   [32, 43, 44, 47, 71, 242]
+  Dialogischen Selbst               2 word     2 in   [32, 227]
+  Rezeptionsästhetik                5 word     5 in   [168, 179, 189, 258]
+  Reader-Response Theory            1 word     1 in   [168]
+  Narrative Ethik                   3 word     3 in   [209, 219, 259]
+  Jungschen Psychologie             1 word     1 in   [83]
+  Archetypen                        1 word     1 in   [83]
+  Nigredo                           1 word     1 in   [92]
+  Albedo                            1 word     1 in   [92]
+  Rubedo                            1 word     1 in   [92]

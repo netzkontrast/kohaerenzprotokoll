@@ -1,0 +1,202 @@
+{
+  "document": "the-coherence-protocol-an-architectural-blueprint-for-agenti",
+  "drive_id": "1FKhws6B-OlVc4xdAoHx_1uKu87Q2DCdA8NkpddRmHi0",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 4,
+  "typographic_marks": 8,
+  "ascii_quotes": 68,
+  "inflection_families": {
+    "agent": [
+      "Agent",
+      "AgentOrchestra",
+      "Agentic"
+    ],
+    "gener": [
+      "Generating",
+      "Generation",
+      "Generative"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Models"
+    ],
+    "opera": [
+      "Operates",
+      "Operation",
+      "Operational"
+    ],
+    "struc": [
+      "Structural",
+      "Structure",
+      "Structured"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyze"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture"
+    ],
+    "autho": [
+      "Authors",
+      "Authorship"
+    ],
+    "belie": [
+      "Belief",
+      "Beliefs"
+    ],
+    "causa": [
+      "Causal",
+      "Causality"
+    ],
+    "class": [
+      "Class",
+      "Classical"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherent"
+    ],
+    "criti": [
+      "Critic",
+      "Critique"
+    ],
+    "evalu": [
+      "Evaluating",
+      "Evaluator"
+    ],
+    "event": [
+      "Event",
+      "Events"
+    ],
+    "found": [
+      "Foundation",
+      "Foundations"
+    ],
+    "graph": [
+      "Graph",
+      "GraphRAG"
+    ],
+    "imple": [
+      "Implementation",
+      "Implemented"
+    ],
+    "inter": [
+      "Interfacing",
+      "Internal"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "manag": [
+      "Management",
+      "Managing"
+    ],
+    "memor": [
+      "Memories",
+      "Memory"
+    ],
+    "multi": [
+      "Multi",
+      "Multiplicity"
+    ],
+    "narra": [
+      "Narrative",
+      "Narratives"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "List",
+      "Specialists"
+    ],
+    [
+      "Plan",
+      "Planer"
+    ],
+    [
+      "Role",
+      "Roles"
+    ],
+    [
+      "Agent",
+      "Agentic"
+    ],
+    [
+      "Agent",
+      "AgentOrchestra"
+    ],
+    [
+      "Class",
+      "Classical"
+    ],
+    [
+      "Event",
+      "Events"
+    ],
+    [
+      "Graph",
+      "GraphRAG"
+    ],
+    [
+      "Graph",
+      "Hypergraph"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Model",
+      "Models"
+    ],
+    [
+      "Model",
+      "Modeling"
+    ],
+    [
+      "Multi",
+      "Multiplicity"
+    ],
+    [
+      "Belief",
+      "Beliefs"
+    ],
+    [
+      "Belief",
+      "Disbelief"
+    ],
+    [
+      "Causal",
+      "Causality"
+    ],
+    [
+      "Proven",
+      "Unproven"
+    ],
+    [
+      "Reason",
+      "Reasoning"
+    ]
+  ]
+}

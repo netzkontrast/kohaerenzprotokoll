@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x3
+  glued ref numbers      263
+  backslash escapes      76
+  typographic marks      40
+  ascii quotes           414
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstbezüglichkeit, Selbsterhaltung, Selbsterhaltungsdrang, Selbsterleben, Selbsterschaffung, Selbstfindung, Selbstkonstitution, Selbstorganisation, Selbstreferenz, Selbstreferenzialität, Selbsttranszendenz, Selbstverbesserung, Selbstverwirklichung, Selbstzweifel, Selbstähnlichkeit
+  syste    System, Systematic, Systembiologie, Systeme, Systemeigenschaften, Systemen, Systemfehler, Systeminstabilität, Systeminstabilitäten, Systemkollaps, Systemkomponenten, Systemreparatur, Systemrisse, Systems, Systemwohl
+  ident    Identifikation, Identifying, Identity, Identität, Identitäts, Identitätsdiebstahl, Identitätsgrenzen, Identitätskonflikte, Identitätsparadoxie, Identitätsstörung, Identitätsverlust, Identitätsverwirrung
+  poten    Potential, Potentiale, Potentialen, Potentiality, Potentialität, Potentialitäten, Potentialmeer, Potentialmeers, Potentials, Potenzial, Potenziale, Potenzials
+  quant    Quanten, Quantenereignisse, Quantenfeldtheorie, Quantenfeldtheorien, Quantenfluktuationen, Quantenmechanik, Quantenprozesse, Quantenvakuum, Quantenvakuumzustand, Quantenzustände, Quantum, QuantumPhysics
+  trans    Trans, Transactional, Transactions, Transaktion, Transaktionale, Transcendence, Transfer, Transformation, Transformationen, Transformationskarte, Transpersonal, Transpersonale
+  psych    Psych, Psyche, Psychedelika, Psychodynamic, Psychological, Psychologie, Psychologischem, Psychologischer, Psychologists, Psychology, Psychotherapy
+  compu    Computational, Computationalismus, Computer, Computerarchitekturen, Computerinterfaces, Computerprogramm, Computers, Computersystem, Computersystemen, Computing
+  symme    Symmetrie, Symmetriebrechung, Symmetriebrechungen, Symmetriebruch, Symmetriebrüche, Symmetrieeigenschaften, Symmetrien, Symmetrieregeln, Symmetries, Symmetry
+  analy    Analyse, Analysemethode, Analysen, Analyseprotokolle, Analyseprozess, Analysis, Analytic, Analytical, Analytics
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsintegration, Bewusstseinsstrukturen, Bewusstseinsströme, Bewusstseinsströmen, Bewusstseinsstufen, Bewusstseinszustände
+  modul    Modul, Modular, Module, Modulen, Modulformen, Modulfunktion, Modulfunktionen, Moduls
+  objek    Objekt, Objektbeziehungen, Objektbeziehungsdyaden, Objektbeziehungstheorie, Objekte, Objekten, Objektfunktion, Objektivismus
+  perso    PERSONHOOD, Person, Persona, Personal, Personality, Personen, Personhood, Persons
+  reali    Realisierbarkeit, Realisierung, Realism, Realismus, Realität, Realitäten, Realitätsgefühl, Realitätsverlust
+  verst    Verstand, Verstandes, Verstehen, Verstrickung, Verständlichkeit, Verständnis, Verständnisfähigkeit, Verständnisses
+  wisse    Wissen, Wissens, Wissenschaft, Wissenschaftlerin, Wissenschaftstheoretiker, Wissenschaftstheorie, Wissenserwerb, Wissensstände
+  infor    Informatik, Information, Informationen, Informationsintegration, Informationstheorie, Informationsverarbeitung, Informationsverarbeitungssystem
+  integ    Integral, Integrale, Integrated, Integration, Integrationspotenzial, Integrationsprozess, Integrationsziels
+  inter    Interaktion, Interaktionen, Internal, International, Internet, Interpretation, Interpretationen
+  philo    Philosophen, Philosophical, Philosophie, Philosophien, Philosophische, Philosophischer, Philosophy
+  theor    Theorem, Theoretical, Theoretische, Theorie, Theorien, Theories, Theory
+  bindu    Bindungen, Bindungserfahrungen, Bindungsmuster, Bindungsstile, Bindungsstilen, Bindungstheorie
+  organ    Organ, Organisation, Organisationsebene, Organismen, Organismus, Organizational
+  physi    Physicalism, Physics, Physik, Physikalisch, Physikalismus, Physiker
+
+# substring pairs -- never one term, often merged by accident
+  Alan < Balance
+  Alte < Alter
+  Alte < Halte
+  Alte < Alters
+  Alte < Verhalten
+  Alte < Entfaltens
+  Alte < Alternative
+  Alte < Halteproblem
+  Alte < Halteverhalten
+  Alte < Verhaltensweisen
+  Arts < Warts
+  Auch < Missbrauchs
+  Back < Feedback
+  Back < Backchannel
+  Back < Feedbackschleifen
+  Best < Bestehende
+  Best < Bestimmtes
+  Best < Bestandteile
+  Best < Bestätigungswelle
+  Best < Bestätigungsfehler

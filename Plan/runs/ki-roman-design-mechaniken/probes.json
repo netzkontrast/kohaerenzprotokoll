@@ -1,0 +1,296 @@
+{
+  "document": "ki-roman-design-mechaniken",
+  "drive_id": "1GM_wZwwwPa4hqzF1Cl8dgbYa4ijvMZ0bgjDrLDEnm_o",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 69,
+  "backslash_escapes": 70,
+  "typographic_marks": 71,
+  "ascii_quotes": 52,
+  "inflection_families": {
+    "spiel": [
+      "Spiel",
+      "Spieldurchläufe",
+      "Spielens",
+      "Spieler",
+      "Spielerattributen",
+      "Spielereingabe",
+      "Spielerentscheidungen",
+      "Spielerhandlung",
+      "Spielerinteraktion",
+      "Spielern",
+      "Spielers",
+      "Spielerschaft",
+      "Spielertelemetrie",
+      "Spielleiter",
+      "Spielmechanik",
+      "Spielmechaniken",
+      "Spiels",
+      "Spielsitzungen",
+      "Spielstunden",
+      "Spielsystem",
+      "Spielwelt",
+      "Spielzustand"
+    ],
+    "syste": [
+      "System",
+      "Systemabstürze",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemen",
+      "Systemfehlern",
+      "Systemic",
+      "Systeminteraktion",
+      "Systemische",
+      "Systemischer",
+      "Systemisches",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "inter": [
+      "Interaction",
+      "Interactive",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsrunden",
+      "Interface",
+      "Interfaces",
+      "Internal",
+      "Interpretation",
+      "Interpretationen",
+      "Intervention"
+    ],
+    "daten": [
+      "Daten",
+      "Datenartefakt",
+      "Datenbanken",
+      "Datenfragmenten",
+      "Datenknotenpunkte",
+      "Datenräumen",
+      "Datensätze"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfreiheit",
+      "Handlungsfähigkeit",
+      "Handlungsoption",
+      "Handlungsrahmen",
+      "Handlungsverläufen"
+    ],
+    "narra": [
+      "Narration",
+      "Narrativ",
+      "Narrative",
+      "NarrativePlanning",
+      "Narrativen",
+      "Narrativer",
+      "Narratives"
+    ],
+    "archi": [
+      "Architecting",
+      "Architectures",
+      "Architekten",
+      "Architektur",
+      "Architekturen"
+    ],
+    "desig": [
+      "Design",
+      "Designer",
+      "Designern",
+      "Designing",
+      "Designprinzipien"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsstrom",
+      "Informationstext",
+      "Informationstheorie"
+    ],
+    "konte": [
+      "Kontext",
+      "Kontextdaten",
+      "Kontextmanagement",
+      "Kontexts",
+      "Kontextvektoren"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modells",
+      "Models"
+    ],
+    "roman": [
+      "Roman",
+      "Romane",
+      "Romanen",
+      "Romans",
+      "Romanschreiben"
+    ],
+    "vekto": [
+      "Vektor",
+      "Vektordatenbank",
+      "Vektordatenbanken",
+      "Vektorisierung",
+      "Vektorsuche"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentic",
+      "Agents"
+    ],
+    "autor": [
+      "Autor",
+      "Autorenregeln",
+      "Autorensaufwands",
+      "Autors"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialoge",
+      "Dialoghistorien",
+      "Dialogwahl"
+    ],
+    "drama": [
+      "Drama",
+      "DramaManagementSurvey",
+      "Dramatica",
+      "Dramaturgie"
+    ],
+    "hallu": [
+      "Hallucinating",
+      "Hallucination",
+      "Hallucinations",
+      "Halluzinationen"
+    ],
+    "inhal": [
+      "Inhalt",
+      "Inhalte",
+      "Inhalten",
+      "Inhalts"
+    ],
+    "kontr": [
+      "Kontrasts",
+      "Kontrolle",
+      "Kontrollstruktur",
+      "Kontrollverlust"
+    ],
+    "konze": [
+      "Konzentrationsphasen",
+      "Konzept",
+      "Konzepte",
+      "Konzeptionierung"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanik",
+      "Mechaniken",
+      "Mechanismus"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolls",
+      "Prototyp"
+    ],
+    "story": [
+      "Story",
+      "Storylet",
+      "Storylets",
+      "Storytelling"
+    ],
+    "techn": [
+      "Techniken",
+      "Techniques",
+      "Technischer",
+      "Technologische"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Akteure"
+    ],
+    [
+      "Akte",
+      "Abstraktes"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakters"
+    ],
+    [
+      "Akte",
+      "Faktentreue"
+    ],
+    [
+      "Akte",
+      "Hauptcharakters"
+    ],
+    [
+      "Back",
+      "Feedback"
+    ],
+    [
+      "Chao",
+      "Chaos"
+    ],
+    [
+      "Chat",
+      "SpicyChat"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Core",
+      "SCORE"
+    ],
+    [
+      "Data",
+      "DataCamp"
+    ],
+    [
+      "Data",
+      "Database"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Durchscheinen"
+    ],
+    [
+      "Eine",
+      "Textbausteine"
+    ],
+    [
+      "Fine",
+      "Finesse"
+    ]
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "document": "dramatica-storyform-synthese-aegis-verortung",
+  "drive_id": "1XY4mqxHMGv7rZRYIXgKoGtg9BGkQUWE-_At9bvHUy-o",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 20,
+  "backslash_escapes": 76,
+  "typographic_marks": 77,
+  "ascii_quotes": 56,
+  "inflection_families": {
+    "lösch": [
+      "Löschung",
+      "Löschungs",
+      "Löschungsalgorithmen",
+      "Löschungsdirektive",
+      "Löschungsenergie",
+      "Löschungsereignisses",
+      "Löschungsfeld",
+      "Löschungsfelder",
+      "Löschungsgebühr",
+      "Löschungsinstanz",
+      "Löschungsroutinen",
+      "Löschungswelle",
+      "Löschungszyklen"
+    ],
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systembrüche",
+      "Systeme",
+      "Systemen",
+      "Systemheilung",
+      "Systemkollaps",
+      "Systemreinheit",
+      "Systems",
+      "Systemteilen",
+      "Systemumgebung",
+      "Systemzerstörung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenlöschung",
+      "Datenmengen",
+      "Datenpuffer",
+      "Datenstruktur",
+      "Datensubstrat",
+      "Datenverlust",
+      "Datenübertragungen"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenkohärenz",
+      "Quantenkollaps",
+      "Quantenmechanik",
+      "Quantenverschränkung",
+      "Quantenzustandstomographie",
+      "Quantenzweiges",
+      "Quantum"
+    ],
+    "infor": [
+      "Information",
+      "Informational",
+      "Informationeller",
+      "Informationsauslöschung",
+      "Informationsbits",
+      "Informationsphysik",
+      "Informationsthermodynamik"
+    ],
+    "gegen": [
+      "Gegenalgorithmen",
+      "Gegenangriff",
+      "Gegenläufigkeit",
+      "Gegenposition",
+      "Gegensatz",
+      "Gegenstück"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktlösung",
+      "Konfliktmaximierung",
+      "Konflikts"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstanten",
+      "Konstanzer",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktionen"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyformen",
+      "Storymind",
+      "Storypoint",
+      "Storypoints"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoreme",
+      "Theorie",
+      "Theorien",
+      "Theorieregeln",
+      "Theory"
+    ],
+    "überl": [
+      "Überlagerung",
+      "Überlastung",
+      "Überlebensfähigkeit",
+      "Überlebensmechanismus",
+      "Überlebensschuld",
+      "Überlebenswahrscheinlichkeit"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmenwechsel",
+      "Paradoxa",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "persp": [
+      "Perspectives",
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivenwechsel",
+      "Perspektivwechsel"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumastruktur",
+      "Traumata",
+      "Traumatisierung"
+    ],
+    "archi": [
+      "Archibald",
+      "Archipel",
+      "Archipels",
+      "Architektur"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsbildung",
+      "Bewusstseinsstruktur"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungen",
+      "Forschungs",
+      "Forschungsmandat"
+    ],
+    "funkt": [
+      "Funktionalen",
+      "Funktionalität",
+      "Funktionen",
+      "Funktionieren"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interferenz",
+      "Interferenzmusters",
+      "Interferenzstruktur"
+    ],
+    "krypt": [
+      "Kryptographie",
+      "Kryptographische",
+      "Kryptographischer",
+      "Kryptographisches"
+    ],
+    "logik": [
+      "Logik",
+      "Logiken",
+      "Logikern",
+      "Logikkorrekturen"
+    ],
+    "model": [
+      "Modell",
+      "Modellen",
+      "Modellierung",
+      "Modells"
+    ],
+    "modul": [
+      "Modularisierung",
+      "Module",
+      "Modulen",
+      "Modulfunktionen"
+    ],
+    "proto": [
+      "Proto",
+      "Protokoll",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bits",
+      "Informationsbits"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Storyformen"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Informational"
+    ],
+    [
+      "Form",
+      "Formalisierung"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationeller"
+    ],
+    [
+      "Form",
+      "Informationsbits"
+    ],
+    [
+      "Form",
+      "Transinformation"
+    ],
+    [
+      "Form",
+      "Transinformations"
+    ],
+    [
+      "Form",
+      "Informationsphysik"
+    ],
+    [
+      "Form",
+      "Informationsauslöschung"
+    ],
+    [
+      "Form",
+      "Transinformationsdichte"
+    ]
+  ]
+}

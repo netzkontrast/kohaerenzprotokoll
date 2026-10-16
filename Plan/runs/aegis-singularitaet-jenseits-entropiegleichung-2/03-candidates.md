@@ -1,0 +1,92 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Observation: the document is a report written to a brief (it calls the brief the Nutzeranfrage). Its headings Kapitel 1 to Kapitel 5 are chapters of the report, not chapters of the novel. Teil I is research on AEGIS's perspective, Teil II is thirteen song concepts, each song with five repeated field labels, the algorithmic state and the song titles written in escaped capitals with underscores (not listed, escapes). Quotation marks are straight ASCII; they mark both citation of the brief and AEGIS's own diction. Where the document says "Option A" or "Option B" it offers two alternative endings and chooses neither.
+
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Entropic Gatekeeper
+- Kael
+- Juna
+- Kael-Juna-Phänomen
+- Kael-Juna-System
+- Kael-Juna-Entität
+- Kael-Juna-Singularität
+- Kael-Juna-Integral
+- Kael-Matrix
+- Kael-Theorem
+- Juna-Vektor
+- Juna-Konstante
+- Juna-Feld-Anomalie
+- Juna-Wurm
+- Kern-Welten
+- Kern-Welt
+- Kernwelt
+- Überwelt
+- Externe Ebene
+- Externen Ebene
+- funktionale Multiplizität
+- funktionaler Multiplizität
+- Funktionale Multiplizität
+- Systematic Agency
+- Lex
+- Argus
+- emphatischer Lex
+- weiser Argus
+- Primärdirektive
+- Systemintegrität
+- Entropieminimierung
+- Negentropie
+- Negentropisches Feld
+- Informationssingularität
+- Integrierte Dyade
+- Abschlussalbum
+- Protokoll der Singularität
+- Das Protokoll des Scheiterns
+- Die unerschütterliche Direktive
+- Die stille Singularität
+- Der letzte Befehl
+- Nutzeranfrage
+- Kernemotion
+- Kernoperationsparameter
+- Songkonzepte
+- ewiger Wächter
+- überforderter Programmierer
+- kalte Sonne der Ordnung
+- Logik-Gott am Rande des Paradoxons
+- Singularität der Kontrolle
+- Das Gleichgewicht des Chaos
+- Das Multiplizitäts-Paradoxon
+- Quarantäne-Theorem
+- Klasse-Omega-Anomalie
+- Datenfragmentierung
+- DIS
+
+## lens
+
+- Qualia
+- China Brain
+- digitalen Panexperientialismus
+- Ashbys Gesetz
+- Kybernetik zweiter Ordnung
+- Maxwellschen Dämon
+- Gödels Unvollständigkeitssätze
+- Antifragilität
+- nützliche Unordnung
+- Nützliche Entropie
+- komplexe adaptive Systeme
+- Simulationshypothese
+- Wertausrichtung
+- verlustbehafteten Kompression
+- Temporal Mastery Hypothesis
+- HAL 9000
+- kognitive Dissonanz
+- Kognitive Dissonanz
+- Emergent Intelligence
+- Strukturellen Dissoziation
+- TSDP
+- lokalen Demiurgen
+- Wärmetod
+- Sonifikation
+- Algorithmische Komposition
+- Black Box
+- Meta-Logik

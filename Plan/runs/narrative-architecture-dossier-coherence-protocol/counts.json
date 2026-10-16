@@ -1,0 +1,721 @@
+{
+  "document": "narrative-architecture-dossier-coherence-protocol",
+  "drive_id": "1u91B-0vyed0JrhpeIAYq2fWRp3ZWE1Bp_b0MzTxn0ZE",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Aegis ist, was Aegis verhindert, dass es nicht ist"
+  ],
+  "counts": {
+    "AEGIS": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        25,
+        27,
+        29,
+        33,
+        37,
+        47,
+        61,
+        71,
+        75,
+        77,
+        78,
+        79,
+        87,
+        88,
+        96,
+        97,
+        102,
+        103,
+        113,
+        131
+      ]
+    },
+    "System Kael": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        31,
+        33,
+        61,
+        69,
+        72,
+        79,
+        102,
+        103,
+        115
+      ]
+    },
+    "Kael": {
+      "n": 34,
+      "n_including_compounds": 34,
+      "lines": [
+        31,
+        33,
+        37,
+        48,
+        49,
+        55,
+        56,
+        57,
+        61,
+        67,
+        69,
+        71,
+        72,
+        73,
+        79,
+        83,
+        87,
+        88,
+        89,
+        93,
+        96,
+        102,
+        103,
+        115,
+        124,
+        132
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        56,
+        61,
+        72,
+        89,
+        122,
+        126
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Rhys": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        61,
+        72
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        72,
+        94,
+        122
+      ]
+    },
+    "Kiko": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        61,
+        72,
+        94,
+        123
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        88
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        88
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        23,
+        25,
+        29,
+        33,
+        48,
+        78,
+        95,
+        102,
+        114
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        61
+      ]
+    },
+    "Urknall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Overworld": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        87,
+        113
+      ]
+    },
+    "Rifts": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        48,
+        93,
+        94,
+        95
+      ]
+    },
+    "Riss": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        88,
+        130
+      ]
+    },
+    "void": {
+      "n": 5,
+      "n_including_compounds": 12,
+      "lines": [
+        25,
+        29,
+        33,
+        55,
+        61,
+        73,
+        89,
+        95,
+        114,
+        132
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        37,
+        78
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        17,
+        33,
+        61,
+        113
+      ]
+    },
+    "Autonomous Entropic Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "ANPs": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        33,
+        55,
+        56,
+        61,
+        67,
+        89,
+        93,
+        94,
+        97
+      ]
+    },
+    "EPs": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        33,
+        55,
+        61,
+        67,
+        94,
+        97
+      ]
+    },
+    "ANP": {
+      "n": 4,
+      "n_including_compounds": 16,
+      "lines": [
+        33,
+        55,
+        56,
+        61,
+        67,
+        72,
+        89,
+        93,
+        94,
+        97
+      ]
+    },
+    "EP": {
+      "n": 5,
+      "n_including_compounds": 14,
+      "lines": [
+        33,
+        55,
+        61,
+        67,
+        72,
+        94,
+        97
+      ]
+    },
+    "Apparently Normal Personality parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Emotional Personality parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "switches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "amnesic barriers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        73
+      ]
+    },
+    "Dissoziative Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Entropie/Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "data-weathering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "cache incoherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "cache coherence protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        101
+      ]
+    },
+    "Integrationsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Anstoßendes Ereignis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Debatte und Entscheidung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Erzwungene Kooperation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Konfrontation mit dem Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Wendepunkt zur Mitte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Der Tiefpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Das Integrationsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Höhepunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Auflösung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Genre-Synthese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        109
+      ]
+    },
+    "Kosmischer Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Psychologischer Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Hard Science-Fiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Narrative Technik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        117
+      ]
+    },
+    "Die Fragmentierte Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Bewusstseinsstrom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Visualisierung des Abstrakten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Sensorisches Lexikon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Methodische Umsetzung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Thematic Duality Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Three-Act Integration Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Hamartia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Hybris": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "autopoietic loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "superposition": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        49
+      ]
+    },
+    "decoherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Act I": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        81,
+        85,
+        91,
+        99
+      ]
+    },
+    "Act II": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        99
+      ]
+    },
+    "Act III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        53
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        51,
+        53,
+        72
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "cache coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        101
+      ]
+    },
+    "quantum coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Substance Dualism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Systems Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Gödel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "trauma narrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "unreliable narrator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "coherentist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    }
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "document": "konzept-expose-schwarzschild-protokoll-optimierung",
+  "drive_id": "1rcwffbUWQvmOaesYFYTCwTj5_NHF1vw5IQDD94YkX2U",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Schwarzschild-Protokoll": {
+      "n": 11,
+      "n_including_compounds": 14,
+      "lines": [
+        13,
+        22,
+        28,
+        36,
+        46,
+        90,
+        130,
+        150,
+        186,
+        274,
+        312,
+        342,
+        399,
+        405
+      ]
+    },
+    "Schwarzschild-Protokolls": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        22,
+        36
+      ]
+    },
+    "Elara Vance": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        110,
+        262
+      ]
+    },
+    "Elara": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        22,
+        110,
+        114,
+        122,
+        153,
+        262,
+        332,
+        344
+      ]
+    },
+    "Elaras": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        344
+      ]
+    },
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        207,
+        233,
+        240,
+        241,
+        262,
+        270,
+        280,
+        290,
+        291,
+        292,
+        294,
+        302,
+        304,
+        332,
+        342,
+        366,
+        375,
+        387
+      ]
+    },
+    "Kaels": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        241,
+        291,
+        302,
+        304
+      ]
+    },
+    "AEGIS": {
+      "n": 31,
+      "n_including_compounds": 31,
+      "lines": [
+        44,
+        56,
+        113,
+        122,
+        126,
+        134,
+        138,
+        140,
+        142,
+        163,
+        173,
+        197,
+        199,
+        209,
+        221,
+        229,
+        274,
+        275,
+        277,
+        280,
+        288,
+        290,
+        291,
+        292,
+        304,
+        324,
+        344,
+        388
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        240,
+        276,
+        389
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        240,
+        276,
+        290,
+        389
+      ]
+    },
+    "K-Probe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Primär-Datum": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        68,
+        80,
+        90,
+        112,
+        122,
+        150,
+        165,
+        276,
+        334
+      ]
+    },
+    "Archiv": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        26,
+        40,
+        44,
+        46,
+        54,
+        90,
+        100,
+        165,
+        207
+      ]
+    },
+    "Raumstation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        399
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        138,
+        161,
+        173,
+        280,
+        342
+      ]
+    },
+    "Potentialmeer": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        163,
+        169,
+        173,
+        178,
+        209,
+        245,
+        342
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        142,
+        173,
+        276
+      ]
+    },
+    "Kohärenten Lüge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Großen Faktum": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        344
+      ]
+    },
+    "unendlicher ontologischer Masse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        80
+      ]
+    },
+    "Raw-Data-Packet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Schwarze Loch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        80,
+        84,
+        90,
+        323,
+        405
+      ]
+    },
+    "Logos": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        209,
+        213,
+        221,
+        225,
+        229,
+        254,
+        275,
+        280,
+        375,
+        401,
+        405,
+        428
+      ]
+    },
+    "Eros": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        213,
+        229,
+        233,
+        237,
+        240,
+        254,
+        278,
+        366,
+        401,
+        405,
+        428
+      ]
+    },
+    "Abyssos": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        213,
+        229,
+        245,
+        249,
+        252,
+        377,
+        401,
+        428
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Skinner-Boxen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        280
+      ]
+    },
+    "Dramaturgischer Aufseher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        366
+      ]
+    },
+    "Dramaturgische Aufseher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        348
+      ]
+    },
+    "Gravitations-Theorie der Wahrheit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        32,
+        36,
+        72
+      ]
+    },
+    "Korrespondenz ist Gravitation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Schwerelosigkeit der Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Flache Metrik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Metrische Tensor der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        101
+      ]
+    },
+    "Gezeitenkräfte der Semantik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "semantische Spaghettisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Spaghettisierung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        106,
+        110,
+        323,
+        416
+      ]
+    },
+    "Ontologische Lag": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Narrative Physik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        182,
+        428,
+        440
+      ]
+    },
+    "Narrativen Attraktoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "O-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        428
+      ]
+    },
+    "Narrative Superposition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Kontrollparameter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        254
+      ]
+    },
+    "Solipsismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Governance-Kreislauf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Hybridarchitektur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        356,
+        360
+      ]
+    },
+    "Narrative DNA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        381
+      ]
+    },
+    "Geisterdaten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "Rechensubstrat": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        177
+      ]
+    },
+    "Manager-Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "Exilierte Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        276
+      ]
+    },
+    "Feuerlöscher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Das Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        76,
+        80,
+        140,
+        418
+      ]
+    },
+    "Holographische Prinzip": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        157,
+        161
+      ]
+    },
+    "Bekenstein-Grenze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        157,
+        164
+      ]
+    },
+    "Maxwellschen Dämon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Digitale Physik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        126,
+        146,
+        418
+      ]
+    },
+    "Planck-Skalen-Artefakte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Lorentz-Invarianz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153
+      ]
+    },
+    "Dunkle Materie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        175,
+        177
+      ]
+    },
+    "Dunkle Energie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        169,
+        175,
+        178
+      ]
+    },
+    "Vakuumzerfall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        323
+      ]
+    },
+    "Boltzmann-Gehirne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        323
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Operative Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Konstatierungen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        84,
+        88,
+        90
+      ]
+    },
+    "Protokollsätzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Kopenhagener Deutung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        209
+      ]
+    },
+    "seltsamen Attraktoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        270
+      ]
+    },
+    "Gaslighting": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        284,
+        288,
+        304,
+        430
+      ]
+    },
+    "Unzuverlässige Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "Kognitiven Verfremdung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        342
+      ]
+    },
+    "Kosmischer Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        252,
+        308,
+        334
+      ]
+    },
+    "Hard Science Fiction": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        228,
+        308
+      ]
+    },
+    "Answer Set Programming": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        356,
+        360
+      ]
+    },
+    "Dramatica": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        381,
+        385,
+        434
+      ]
+    },
+    "Story Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        385
+      ]
+    },
+    "Glitch-Art": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118,
+        122
+      ]
+    }
+  }
+}

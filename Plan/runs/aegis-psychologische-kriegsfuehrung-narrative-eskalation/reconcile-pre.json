@@ -1,0 +1,519 @@
+{
+  "document": "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 81,
+  "decisions": 84,
+  "same_surface": {
+    "vergiftetegold": [
+      "Das vergiftete Gold",
+      "vergiftete Gold"
+    ]
+  },
+  "decided_mechanically": 70,
+  "needs_judgement": 14,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 243
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 247
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 180
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 180
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 158
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 159
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 110
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 153
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 109
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 108
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 127
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 156
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "Anteile"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "Trainingsprotokolle"
+      },
+      {
+        "candidate": "Leistungsbewertung"
+      },
+      {
+        "candidate": "Konditionierungsprotokoll"
+      },
+      {
+        "candidate": "Behandlungsprotokoll"
+      },
+      {
+        "candidate": "Reinraum"
+      },
+      {
+        "candidate": "Subplot-Dokument"
+      },
+      {
+        "candidate": "Rückschlag"
+      },
+      {
+        "candidate": "Lex-Box"
+      },
+      {
+        "candidate": "Nyx-Box"
+      },
+      {
+        "candidate": "Kultivierung"
+      },
+      {
+        "candidate": "Krise der Authentizität"
+      },
+      {
+        "candidate": "Das vergiftete Gold"
+      },
+      {
+        "candidate": "Die Entwirrung"
+      },
+      {
+        "candidate": "Der ideologische Trichter"
+      },
+      {
+        "candidate": "Der unwissende Agent"
+      },
+      {
+        "candidate": "Der perverse Heiler"
+      },
+      {
+        "candidate": "De-Programmierung"
+      },
+      {
+        "candidate": "authentischen Kern"
+      },
+      {
+        "candidate": "Asset"
+      },
+      {
+        "candidate": "Werkzeuge"
+      },
+      {
+        "candidate": "Vollstrecker"
+      },
+      {
+        "candidate": "Analyst"
+      },
+      {
+        "candidate": "Social Engineer"
+      },
+      {
+        "candidate": "waffenfähigen Geistes"
+      },
+      {
+        "candidate": "Tabelle 1"
+      },
+      {
+        "candidate": "Tabelle 2"
+      },
+      {
+        "candidate": "Tabelle 3"
+      },
+      {
+        "candidate": "operante Konditionierung"
+      },
+      {
+        "candidate": "Positive Verstärkung"
+      },
+      {
+        "candidate": "Negative Verstärkung"
+      },
+      {
+        "candidate": "Positive Bestrafung"
+      },
+      {
+        "candidate": "Negative Bestrafung"
+      },
+      {
+        "candidate": "kontinuierliche Verstärkung"
+      },
+      {
+        "candidate": "intermittierenden Verstärkung"
+      },
+      {
+        "candidate": "variablen Quotenplan"
+      },
+      {
+        "candidate": "Shaping"
+      },
+      {
+        "candidate": "Milieukontrolle"
+      },
+      {
+        "candidate": "Informationskontrolle"
+      },
+      {
+        "candidate": "Heilige Wissenschaft"
+      },
+      {
+        "candidate": "Beladene Sprache"
+      },
+      {
+        "candidate": "Doktrin über die Person"
+      },
+      {
+        "candidate": "Verteilung der Existenzberechtigung"
+      },
+      {
+        "candidate": "BITE-Modell"
+      },
+      {
+        "candidate": "Gedankenreform"
+      },
+      {
+        "candidate": "Zwangskontrolle"
+      },
+      {
+        "candidate": "Iatrogenese"
+      },
+      {
+        "candidate": "Radikalisierungstrichter"
+      },
+      {
+        "candidate": "Stressimpfung"
+      },
+      {
+        "candidate": "Kompartmentalisierung"
+      },
+      {
+        "candidate": "Kintsugi"
+      },
+      {
+        "candidate": "Lifton"
+      },
+      {
+        "candidate": "Hassan"
+      },
+      {
+        "candidate": "SERE"
+      },
+      {
+        "candidate": "Need-to-know"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  System Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelten  /  Kernwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KW1 (Logos-Prime)  /  Logos-Prime",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "KW3 (Cerberus-Labyrinth)  /  Cerberus-Labyrinth",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Skinner-Boxen  /  Skinner",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "KW1 (Logos-Prime)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "KW3 (Cerberus-Labyrinth)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Paradoxons der Fehlausgerichteten Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Funktionen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegisteilfunktionen",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 383,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 131,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 149,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

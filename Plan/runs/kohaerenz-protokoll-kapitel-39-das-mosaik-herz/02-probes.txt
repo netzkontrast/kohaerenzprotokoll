@@ -1,0 +1,47 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      0
+  typographic marks      27
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  integ    INTEGRATIONS, Integration, Integrations
+  mosai    MOSAIK, Mosaik, Mosaiks
+  anoma    ANOMALIE, Anomalie
+  grenz    Grenze, Grenzen
+  herz     HERZ, Herz
+  kael     KAEL, Kael
+  leben    Leben, Lebens
+  nicht    NICHT, Nichts
+  patie    Patient, Patienten
+  proba    Proband, Probanden
+  proto    PROTOKOLL, Protokolls
+  selbs    Selbsterhaltung, Selbstorganisation
+  statu    STATUS, Statusbericht
+  staub    Staub, Staubkörnern
+  stimm    Stimme, Stimmen
+  syste    SYSTEMFEHLER, System
+  zielk    ZIELKOH, Zielkohärenz
+
+# substring pairs -- never one term, often merged by accident
+  ENDE < Tendenz
+  HERZ < Herz
+  HERZ < Herzmonitors
+  Herz < Herzmonitors
+  KAEL < Kael
+  KAEL < Kaels
+  Kael < Kaels
+  Leben < Lebens
+  NICHT < Nichts
+  Punkt < Ankerpunkt
+  Staub < Staubkörnern
+  Stern < Knistern
+  Teile < Anteile
+  ÄRENZ < Kohärenz
+  ÄRENZ < Zielkohärenz
+  Grenze < Grenzen
+  MOSAIK < Mosaik
+  MOSAIK < Mosaiks
+  Mosaik < Mosaiks
+  STATUS < Statusbericht

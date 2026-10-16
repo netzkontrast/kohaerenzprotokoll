@@ -1,0 +1,67 @@
+# counts for 55 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            45 word    45 in   [11, 15, 17, 21, 25, 27]
+  Leere                            14 word    14 in   [15, 17, 25, 29, 31, 39]
+                                    1      as leerer
+  Nichts Rauschen                   2 word     2 in   [15, 85]
+  absolute Nichts                   1 word     1 in   [15]
+  Ursprungs-Ich                     4 word     9 in   [21, 31, 35, 41, 45, 59]  <-- substring
+                                    5      as Ursprungs-Ichs
+  Ursprungs-Ichs                    5 word     5 in   [21, 35, 41, 75, 79]
+  latenten Echos                    3 word     3 in   [21, 45, 47]
+  Echos                             8 word     8 in   [21, 31, 45, 47, 81, 93]
+  Kohärenz                         21 word    22 in   [17, 19, 21, 27, 37, 41]
+                                    1      as Kohärenzmetriken
+  Kernlogik                         1 word     1 in   [21]
+  Entität                          13 word    13 in   [17, 23, 25, 27, 29, 31]
+  Kohärenz Protokolls               3 word     3 in   [41, 73, 75]
+  Stufe Gamma                       1 word     1 in   [41]
+  Partitionierung                   2 word     2 in   [41, 75]
+  Fragmentierung                    5 word     5 in   [71, 75, 79, 91, 95]
+  Neustart                          2 word     2 in   [71, 75]
+  Systemneustart                    1 word     1 in   [73]
+  Kael-Struktur                     3 word     3 in   [87, 89, 95]
+  Kael                              3 word     6 in   [83, 87, 89, 95]
+                                    3      as Kael-Struktur
+  Kernwelten                        1 word     1 in   [81]
+  Quarantänezonen                   1 word     1 in   [81]
+  Paradoxon der Fehlausgerichteten Kohärenz    1 word     1 in   [37]
+  Kernparadoxons                    1 word     1 in   [69]
+  Kontrollparadoxons                1 word     1 in   [41]
+  Genesis-Krise                     2 word     2 in   [11, 95]
+  minimales Selbst                  2 word     2 in   [45, 93]
+  Einsamkeit                        7 word     7 in   [21, 31, 37, 49, 53, 81]
+  Verlust                           7 word    10 in   [31, 51, 53, 81, 89]
+                                    3      as Verlusts
+  Sehnsucht                         6 word     6 in   [21, 31, 37, 53]
+  Verwirrung                        2 word     2 in   [89, 93]
+  Elimination                       1 word     1 in   [41]
+  Dekohärenz                        1 word     1 in   [69]
+  Ontologisch Inkompatibel          1 word     1 in   [35]
+  epistemologische Krise            1 word     1 in   [39]
+  Sicht von außen                   1 word     1 in   [13]
+  Entität & Begegnung               1 word     1 in   [23]
+  System Alarm: Paradox Engagiert    1 word     1 in   [33]
+  Resonanz Kaskade: Das Ich Erwacht    1 word     1 in   [43]
+  Kritischer Fehler: Chaos Entfesselt    1 word     1 in   [57]
+  Die Zäsur: Neustart und Fragmentierung    1 word     1 in   [71]
+  Zersplitterte Dämmerung: Kael Erwacht    1 word     1 in   [83]
+  Goodhart's Law                    2 word     2 in   [37, 134]
+  AI Trust Paradox                  1 word     1 in   [37]
+  Qualia                            5 word     5 in   [21, 49, 93, 110, 113]
+                                    1      as qualia-control-in-large-language-models
+  Kaskadenversagen                  1 word     1 in   [63]
+  Alterität                         1 word     1 in   [27]
+  autopoietisch                     1 word     2 in   [17, 39]
+                                    1      as autopoietische
+  Theorie der strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [47]
+  TSDP                              1 word     1 in   [47]
+  emotionale Teile (EPs)            1 word     1 in   [47]
+  Gedächtnis-Rekonsolidierung       1 word     1 in   [47]
+  Netzwerksegmentierung             1 word     1 in   [77]
+  kosmischen Grauens                1 word     1 in   [27]
+  Homöostase                        1 word     1 in   [19]
+  Dissoziation                      3 word     3 in   [47, 79, 91]

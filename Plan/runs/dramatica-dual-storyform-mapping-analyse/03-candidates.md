@@ -1,0 +1,114 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a Dramatica-based mapping analysis in German with English method labels; formulas and Greek symbols were lost in the export (e.g. the names of the two storyforms and the mapping symbol are gaps), so the two storyforms are listed only by the words that stand. The Alternative labels are split by markup ("Alternative" + gap); listed as written. Roman-numbered reference list and URLs are not candidates.
+
+- Kohärenz Protokoll
+- Kael
+- Juna
+- AEGIS
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Konstrukt-Stadt
+- Alter
+- TSDP
+- Dual-Kernel-Theorie
+- DKT
+- Dual-Kernel-Modell
+- Heuristics of Integration
+- Phoenix Collapse
+- Phönix-Kollaps
+- Alt-Kanon
+- Landauer-Hitze
+- Erasure-Sweeps
+- Erasure-Sweep
+- Moonshine-Link
+- Vertex-Operator-Algebra
+- Leech-Lattice
+- Quanten-Witness
+- Gödel-Satz
+- Witness-Funktionen
+- Witness Function
+- Zero-Knowledge-Proofs
+- Zero-Knowledge Proof
+- ZKP
+- Dialetheia
+- Holarchie
+- Algorithmischen Melancholie
+- Vortex-Inversion
+- Wahrheits-Rotation
+- Truth-Rotation
+- PSM
+- Phänomenales Selbstmodell
+- parakonsistenten Raum
+- Orbifold-Konstruktion
+- Ontologische Transposition
+- Prozessuale Transposition
+- Dual-Storyform-Mapping
+- Dual-Storyform-Spiegelung
+- Zustands-Involution
+- Prozess-Involution
+- Lateral-Intern
+- Lateral-Extern
+- Domain-Bijektion
+- Pronomen-Inversion
+- Schichten-Restriktion
+- Überlagerungs-Tensor
+- Thermodynamische Asymmetrie
+- Triple-Stack
+- Juna-Anker
+- Sekundär-Schicht
+- Reibungs-Topologie
+- Hypothesen-Baum
+- Contradiction Log
+- Query Expansion Log
+- Cross-Pollination Log
+- Hypothesis Half-Life Audit
+- Reflection History
+- Rationalisierungs-Audit
+- MIRROR
+- ReAct
+- Methodology Note
+
+## lens
+
+- Dramatica
+- Storyform
+- Storymind
+- Throughline
+- Domain
+- Universe
+- Physics
+- Mind
+- Psychology
+- MC
+- IC
+- OS
+- RS
+- Main Character
+- Influence Character
+- Objective Story
+- Relationship Story
+- Pronomen-Achse
+- Quad-Algebra
+- Dramatica-Quad-Axiom
+- Dynamik-Tupel
+- Driver
+- Limit
+- Outcome
+- Judgment
+- Optionlock
+- Timelock
+- Fixed Attitude
+- Problem-Solving-Style
+- Landauer’s Principle
+- Landauer-Limit
+- Mutual Information
+- Hard Problem of Consciousness
+- Gödel-Unvollständigkeit
+- Steelmanning
+- First-Principles Decomposition
+- Falsification
+- Multiplizität

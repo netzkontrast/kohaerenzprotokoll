@@ -1,0 +1,14 @@
+# plot-exploration-kohaerenz-protokollkonzepte
+  lines                237  (frontmatter ends at 9)
+  body words           5254
+  headings             21   bold-only lines 0
+  table rows           12   code fences 0
+  question marks       15
+  backslash escapes    228
+  typographic marks    47   ascii quotes 48
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    28
+  repeated labels      A. Konzept-Titel & Fokus x5, B. Narrativer Kern & Hauptantrieb x5, C. Zwingende Tiefenrecherche-Felder x5, D. Potenzial & Herausforderungen x5, Vertiefende Betrachtung x5
+  longest line         1401 chars
+

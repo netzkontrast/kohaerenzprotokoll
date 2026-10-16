@@ -1,0 +1,23 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      16
+  typographic marks      15
+  ascii quotes           42
+
+# inflection families -- one term, several surfaces
+  theor    Theorems, Theories, Theory
+  chall    Challenge, Challenges
+  metho    Method, Methods
+  objec    Objection, Objectivity
+  proto    Protocol, Protokoll
+  struc    Structural, Structured
+  syste    System, Systematic
+
+# substring pairs -- never one term, often merged by accident
+  Bias < Biases
+  Idea < Ideal
+  View < Review
+  Method < Methods
+  System < Systematic
+  Challenge < Challenges

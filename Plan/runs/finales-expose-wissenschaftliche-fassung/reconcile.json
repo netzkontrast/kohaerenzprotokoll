@@ -1,0 +1,177 @@
+{
+  "document": "finales-expose-wissenschaftliche-fassung",
+  "drive_id": "13-epnUBU7gdWqTnn0-8m63d4h0cPqYrvLNQVlwprUHc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-343/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 45,
+    "decided_by_lookup": 34,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A synopsis of the novel: its new surfaces are its part titles, the Phases of the voice and the reader, the cognitive contract and borrowed concepts; what it summarises of AEGIS, Kael, coherence, the alters, the Gödel-Gambit, multiplicity, the Nichts Rauschen, Lex, Nyx, the Risse, TSDP and the Überwelt went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        28,
+        39
+      ],
+      "attribution": "",
+      "note": "the antagonist as tragic figure, ontology of negation, ambivalent end"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the inner parts, named Alters, discovered in Teil 1"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the trauma of AEGIS anchored in its genesis"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        21,
+        39
+      ],
+      "attribution": "",
+      "note": "the climax staged as an epistemological victory"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        21,
+        30,
+        37
+      ],
+      "attribution": "",
+      "note": "three acts from disorientation to sovereignty, resilience by inclusion"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        15,
+        19,
+        32
+      ],
+      "attribution": "",
+      "note": "the paradox of misaligned coherence, the ironic title, the synthesis"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Lex in the merging fingerprints of Phase 3"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        30,
+        37
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the final state, beside the gardener"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        19,
+        28
+      ],
+      "attribution": "",
+      "note": "AEGIS defined against the chaotic Nichts Rauschen"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Nyx in the merging fingerprints of Phase 3"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        69
+      ],
+      "attribution": "",
+      "note": "the cracks caused by Kael, and their typographic staging"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "TSDP as the model of the development of Kael"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        17,
+        37
+      ],
+      "attribution": "",
+      "note": "Teil 2 titled with the Überwelt, and the meta level"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "no near match needed a rule beyond the lookup",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 37,
+      "decision": "occurrence",
+      "why": "generic in Kael's arc"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 19,
+      "decision": "reading",
+      "why": "AEGIS's trauma anchored in its genesis, read on the page if the reader writes it"
+    }
+  ],
+  "not_promoted": [
+    "the three part titles as labels",
+    "the Phases of the voice and the reader",
+    "the cognitive contract and the gardener's role",
+    "the hegelian synthesis and ergodic literature"
+  ],
+  "internal_tension": "Kael's final state is named both as the gardener's role and as functional multiplicity (L17, L37); AEGIS's end is left as two possibilities (L39)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

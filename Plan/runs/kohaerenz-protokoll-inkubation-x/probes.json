@@ -1,0 +1,376 @@
+{
+  "document": "kohaerenz-protokoll-inkubation-x",
+  "drive_id": "11FWqz8_-TZHxerFWAuK_8QSrq-0RaTMEVK2F5ktJP0Y",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 150,
+  "backslash_escapes": 222,
+  "typographic_marks": 22,
+  "ascii_quotes": 118,
+  "inflection_families": {
+    "inter": [
+      "Interaction",
+      "Interactions",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsdynamiken",
+      "Interaktionsformen",
+      "Interaktionsfähigkeit",
+      "Interaktionsfähigkeiten",
+      "Interaktionsmechanismen",
+      "Interaktionsmechanismus",
+      "Interaktionsmodelle",
+      "Interaktionsmodi",
+      "Interaktionsmöglichkeiten",
+      "Interaktionstopologie",
+      "Interaktionsweise",
+      "Interaktive",
+      "Interdependenz",
+      "Interdependenzen",
+      "Interface",
+      "Interfaces",
+      "Interkonnektivität",
+      "Interne",
+      "Internet",
+      "Interpellation",
+      "Interpretation",
+      "Interpretationen",
+      "Interuniversale"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationell",
+      "Informationelle",
+      "Informationen",
+      "Informations",
+      "Informationsaustausch",
+      "Informationsbits",
+      "Informationsdichten",
+      "Informationsentropie",
+      "Informationsfeld",
+      "Informationsfelder",
+      "Informationsflut",
+      "Informationsflüsse",
+      "Informationsintegration",
+      "Informationsleckage",
+      "Informationsmuster",
+      "Informationsphysik",
+      "Informationsprojektion",
+      "Informationsquelle",
+      "Informationsresonanz",
+      "Informationsstrukturen",
+      "Informationsverarbeitungssystem",
+      "Informationsverlust",
+      "Informationsüberflutung",
+      "Informationsübertragung"
+    ],
+    "syste": [
+      "System",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systeminteraktionen",
+      "Systemisch",
+      "Systemische",
+      "Systemischen",
+      "Systemischer",
+      "Systemkollaps",
+      "Systemkonfiguration",
+      "Systemlast",
+      "Systemlogik",
+      "Systemregeln",
+      "Systems",
+      "Systemtheorie",
+      "Systemverhalten",
+      "Systemzuständen"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenbewusstseinsideen",
+      "Quanteneffekte",
+      "Quantenfeldtheorie",
+      "Quantenfluktuationen",
+      "Quanteninformationstheorie",
+      "Quantenkohärenz",
+      "Quantenmechanik",
+      "Quantenphysik",
+      "Quantenrealität",
+      "Quantensimulationen",
+      "Quantensprünge",
+      "Quantensystem",
+      "Quantentheorien",
+      "Quantenverschränkung",
+      "Quantenwelt",
+      "Quantum",
+      "QuantumComputationInBrainMicrotubules"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsdynamik",
+      "Simulationsgrenzen",
+      "Simulationshypothese",
+      "Simulationskontext",
+      "Simulationsparameter",
+      "Simulationsparametern",
+      "Simulationsphysik",
+      "Simulationssubstrat",
+      "Simulationstheorie",
+      "Simulierbarkeit"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsevolution",
+      "Bewusstseinsinteraktion",
+      "Bewusstseinsmodellen",
+      "Bewusstseinstheorien",
+      "Bewusstseinszustands",
+      "Bewusstseinszustände"
+    ],
+    "trans": [
+      "Transfer",
+      "Transformation",
+      "Transformationen",
+      "Transhumanism",
+      "Transhumanismus",
+      "Transit",
+      "Transparenz",
+      "Transzendente",
+      "Transzendenz"
+    ],
+    "unive": [
+      "Universale",
+      "Universaler",
+      "Universe",
+      "Universen",
+      "Universes",
+      "University",
+      "Universums",
+      "Universumsgrenze",
+      "Universumsgrenzen"
+    ],
+    "compu": [
+      "Computational",
+      "Computationale",
+      "Computationaler",
+      "Computer",
+      "Computernetzwerken",
+      "Computers",
+      "Computing"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells",
+      "Models"
+    ],
+    "philo": [
+      "Philosoph",
+      "Philosophical",
+      "Philosophie",
+      "Philosophien",
+      "Philosophische",
+      "Philosophischer",
+      "Philosophy"
+    ],
+    "reali": [
+      "Realities",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätskonstitution",
+      "Realitätsveränderung",
+      "Realitätswahrnehmung"
+    ],
+    "schwa": [
+      "Schwachstellen",
+      "Schwarm",
+      "Schwarmintelligenz",
+      "Schwarmkognition",
+      "Schwarmkognitionsmodellen",
+      "Schwarms",
+      "Schwarzer"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezogenheit",
+      "Selbste",
+      "Selbsten",
+      "Selbstorganisation",
+      "Selbstproduktionsschleife",
+      "Selbstreferenz"
+    ],
+    "parad": [
+      "Paradigmenwechsel",
+      "Paradigms",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "proje": [
+      "Project",
+      "Projekt",
+      "Projektion",
+      "Projektionen",
+      "Projektleitung",
+      "Projekts"
+    ],
+    "subst": [
+      "Substrat",
+      "Substratabhängigkeit",
+      "Substraten",
+      "Substratinteraktionen",
+      "Substrats",
+      "Substratunabhängigkeit"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische",
+      "Algorithmischem",
+      "Algorithmischer",
+      "Algorithms"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Anderes",
+      "Andersartigkeit",
+      "Andersheit"
+    ],
+    "extra": [
+      "Extradimensional",
+      "Extradimensionale",
+      "Extradimensionaler",
+      "Extrapolation",
+      "Extrapoliert"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitationsausbreitung",
+      "Gravitationsleckage",
+      "Gravitationswechselwirkungen",
+      "Gravity"
+    ],
+    "holog": [
+      "Hologramm",
+      "Holographic",
+      "Holographisch",
+      "Holographische",
+      "Holographischen"
+    ],
+    "hypot": [
+      "Hypothese",
+      "Hypothesen",
+      "Hypothesencluster",
+      "Hypothesenmatrix",
+      "Hypothesis"
+    ],
+    "kaska": [
+      "Kaskade",
+      "Kaskaden",
+      "Kaskadeneffekte",
+      "Kaskadenversagen",
+      "Kaskadierendes"
+    ],
+    "poten": [
+      "Potenzial",
+      "Potenziale",
+      "Potenzials",
+      "Potenziell",
+      "Potenzierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Abstrakte"
+    ],
+    [
+      "Akte",
+      "Artefakte"
+    ],
+    [
+      "Akte",
+      "Charakterfehler"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Bach",
+      "Beobachter"
+    ],
+    [
+      "Bach",
+      "Beobachtung"
+    ],
+    [
+      "Bach",
+      "Beobachtereinfluss"
+    ],
+    [
+      "Bach",
+      "Beobachtungseffekte"
+    ],
+    [
+      "Bran",
+      "Brane"
+    ],
+    [
+      "Bran",
+      "Branes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Nondualism"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Dependent"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ]
+  ]
+}

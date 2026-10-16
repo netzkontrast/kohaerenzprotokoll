@@ -1,0 +1,58 @@
+# counts for 44 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                             6 word    11 in   [23, 50, 71, 73, 75, 77]
+                                    2      as AEGIS-Protokoll
+                                    1      as AEGIS-Protokolls
+                                    1      as AEGIS-Paradigma
+                                    1      as AEGIS-System
+  AEGIS-Protokoll                   2 word     3 in   [23, 50, 81]
+                                    1      as AEGIS-Protokolls
+  AEGIS-System                      1 word     1 in   [73]
+  AEGIS-Paradigma                   1 word     1 in   [71]
+  Kohärenz Protokolls               1 word     1 in   [73]
+  Genesis-Krise                     2 word     2 in   [50, 85]
+  Genesis Crisis                    1 word     1 in   [85]
+  Trennungsprotokoll                1 word     1 in   [85]
+  Separation Protocol               1 word     1 in   [85]
+  Entropie                          2 word     2 in   [23, 77]
+  Risse                             1 word     2 in   [33, 81]
+                                    1      as Rissen
+  rifts                             1 word     1 in   [81]
+  Bedrohungsvektor                  1 word     1 in   [19]
+  Isolationseinwandes               1 word     1 in   [81]
+  Isolation Objection               1 word     1 in   [81]
+  Kohärenztheorie der Wahrheit      2 word     2 in   [77, 81]
+  Coherence Theory of Truth         1 word     1 in   [77]
+  Korrespondenztheorie der Wahrheit    2 word     2 in   [9, 77]
+  Correspondence Theory of Truth    2 word     2 in   [9, 77]
+  Blick von Nirgendwo               2 word     2 in   [7, 89]
+  Blicks von Nirgendwo              1 word     1 in   [37]
+  View from Nowhere                 1 word     1 in   [7]
+  erkenntnistheoretischer Schock    1 word     1 in   [85]
+  Kognitive Verzerrungen            3 word     3 in   [39, 41]
+  Cognitive Biases                  1 word     1 in   [39]
+  Bestätigungsfehler                1 word     3 in   [46, 50, 85]  <-- substring
+                                    2      as Bestätigungsfehlers
+  Ankerheuristik                    1 word     1 in   [47]
+  Framing-Effekt                    1 word     1 in   [48]
+  Messfehler                        1 word     1 in   [60]
+  Operationalisierung               1 word     1 in   [61]
+  Reproduzierbarkeitskrise          2 word     2 in   [67, 95]
+  Peer-Review-Prozess               1 word     1 in   [66]
+  Theoriebeladenheit                2 word     2 in   [17, 19]
+  Theory-Ladenness                  1 word     1 in   [19]
+  Paradigmen                        3 word     4 in   [21, 23, 93]
+                                    1      as Paradigmenwechsel
+  Inkommensurabilität               2 word     2 in   [21, 23]
+  Phänomene                         1 word     2 in   [27]
+                                    1      as Phänomenen
+  Noumena                           2 word     2 in   [27]
+  Macht/Wissen                      3 word     3 in   [29, 31]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [62]
+  Standpunkttheorie                 1 word     1 in   [97]
+  Standpoint Theory                 1 word     1 in   [97]
+  starken Objektivität              1 word     1 in   [97]
+  strong objectivity                1 word     1 in   [97]

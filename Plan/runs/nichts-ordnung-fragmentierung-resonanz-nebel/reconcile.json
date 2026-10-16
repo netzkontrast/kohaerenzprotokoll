@@ -1,0 +1,168 @@
+{
+  "document": "nichts-ordnung-fragmentierung-resonanz-nebel",
+  "drive_id": "1WeJCAt5bPp0enG31UN4UlYAA6hJ5dBivX3E_qApJbQg",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two chapter readings (kap-01, kap-02) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-300/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 42,
+    "decisions": 41,
+    "decided_by_lookup": 31,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analytical report on other texts: its new surfaces are the retold preface's Nichts, the relayed alarm protocol's names, the Resonanz-Nebel, the numbered Momente and its unexplained bracket tags; what it says of AEGIS, Kael, Juna, LogOS, the city, Genesis and the rifts went on existing pages, and its account of chapters 1 and 2 on kap-01 and kap-02.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        33,
+        35,
+        39,
+        41,
+        43,
+        45,
+        105
+      ],
+      "attribution": "",
+      "note": "AEGIS as the retold alarm protocol and the reboot, read as a strategy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the relayed `Genesis` as rewriting of reality"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "the talk with Juna as a formalised protocol"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        51,
+        57,
+        65,
+        69,
+        93,
+        99,
+        109,
+        145
+      ],
+      "attribution": "",
+      "note": "Kael from the sterile city to the fork, and as possible locus of the problem"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        45,
+        51,
+        53,
+        59,
+        87
+      ],
+      "attribution": "",
+      "note": "the `Konstrukt-Stadt` as the reboot's aesthetic and a failed utopia of logic"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "`LogOS` as a watching instance in chapter 1"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        57,
+        97
+      ],
+      "attribution": "",
+      "note": "the cracks in the system and a reality glitch"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`AEGIS` and `AEGIS Functional Protocol v1.4` on aegis, the label relayed and not promoted; `Wächter` and `Wächter-KI` the preface's guardian as relayed, not promoted; `Universal Reboot` and `UNIVERSAL REBOOT PROTOCOL` one relayed event, read on aegis; `Naht` and `Finde die Naht` the retold instruction, read on konstrukt-stadt; `Zero-Trust Execution Model (ZTEM)` a relayed label; `Anomalie` a symbol of the retold chapter; `Realitäts-Glitch` on risse; `Nichts` the preface's Nichts, not the Nichts-Rauschen",
+  "sweep": [
+    {
+      "page": "aegis-teilfunktionen",
+      "surface": "Zero-Trust",
+      "line": 33,
+      "decision": "occurrence",
+      "why": "a relayed protocol label, read on aegis"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 41,
+      "decision": "reading",
+      "why": "the relayed Genesis dictated by algorithms"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 33,
+      "decision": "occurrence",
+      "why": "inside the relayed protocol text"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 67,
+      "decision": "occurrence",
+      "why": "the hedged inner voice, read on kael"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 107,
+      "decision": "occurrence",
+      "why": "inside an interpretation of the Nebel"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 57,
+      "decision": "reading",
+      "why": "the threat seeping through the Risse"
+    }
+  ],
+  "not_promoted": [
+    "the Resonanz-Nebel",
+    "the preface's Nichts",
+    "the relayed protocol names (QUARANTINE PROTOCOL, Consensus Enforcer Module, LCA, SIS, Absolute Entropy Event)",
+    "the Wächter-KI, Gamma-7, the Naht",
+    "the Momente and the bracket tags",
+    "the lens terms (Śūnyatā, Parmenides, Uncanny Valley, Tal des Unwirklichen)"
+  ],
+  "internal_tension": "it offers several readings of the Nebel without choosing (L107), calls one particularly convincing (L109) and then proposes an integrating one (L111); it calls the analysed text deliberately ambivalent (L145)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

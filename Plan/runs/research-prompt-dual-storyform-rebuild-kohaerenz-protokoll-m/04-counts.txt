@@ -1,0 +1,184 @@
+# counts for 116 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                5 word     5 in   [15, 42, 172, 351, 1024]
+  Kael                              9 word    10 in   [355, 359, 367, 379, 465, 527]
+                                    1      as Kael-Host
+  Juna                              9 word    12 in   [140, 300, 311, 359, 367, 379]
+                                    1      as Juna-Verankerung
+                                    1      as Juna-Verortung
+  AEGIS                            18 word    22 in   [311, 327, 359, 363, 367, 371]
+                                    1      as AEGIS-Architektur
+                                    1      as AEGIS-Sensoren
+  Moonshine-Link                    2 word     3 in   [359, 367, 1160]
+                                    1      as Moonshine-Link-Boundary
+  Guardians                         2 word     2 in   [371, 379]
+  LogOS                             1 word     1 in   [371]
+  Mnemosyne                         1 word     2 in   [371, 690]
+                                    1      as Mnemosyne-Archipel-Konvergenz
+  Cerberus                          1 word     1 in   [371]
+  Kairos/Sophia                     1 word     1 in   [371]
+  Kernwelten                        2 word     3 in   [311, 371, 375]
+                                    1      as Kernwelten-Logik
+  KW1                               1 word     1 in   [375]
+  KW2                               1 word     2 in   [375]
+  KW3                               1 word     2 in   [375]
+  KW4                               1 word     1 in   [375]
+  Alter-System                      2 word     2 in   [311, 379]
+  ANP                               1 word     2 in   [355, 379]
+  EP                                1 word     2 in   [355, 379]
+  Lex                               0 word     1 in   [379]
+  Alex                              0 word     1 in   [379]
+                                    1      as Alex-Beschützer
+  Rhys                              0 word     1 in   [379]
+                                    1      as Rhys-Pfleger
+  Selene                            0 word     1 in   [379]
+                                    1      as Selene-ISH
+  Nyx                               0 word     1 in   [379]
+  Kiko                              0 word     1 in   [379]
+                                    1      as Kiko-Freeze
+  Lia                               0 word     1 in   [379]
+  Isabelle                          0 word     1 in   [379]
+                                    1      as Isabelle-Sexualisiert
+  Moros                             0 word     1 in   [379]
+                                    1      as Moros-Kollaps
+  Argus                             0 word     1 in   [379]
+                                    1      as Argus-Meta
+  Silas                             0 word     1 in   [379]
+                                    1      as Silas-Juna-Echo
+  Oblivion                          0 word     1 in   [379]
+                                    1      as Oblivion-AEGIS-Echo
+  Silas-Juna-Echo                   1 word     1 in   [379]
+  Oblivion-AEGIS-Echo               1 word     1 in   [379]
+  Dual-Kernel-Theorie               2 word     2 in   [311, 383]
+  DKT                               1 word     2 in   [383, 387]
+  K0                                4 word     4 in   [327, 363, 383]
+  K1                                4 word     4 in   [327, 363, 383]
+  Kollaps-Kern                      2 word     2 in   [363, 383]
+  Kohärenzkern                      2 word     2 in   [363, 383]
+  Erasure                           1 word     2 in   [363, 383]
+                                    1      as Erasure-Sweeps
+  Erasonen                          2 word     3 in   [383, 387, 391]
+                                    1      as Erasonen-Aktivität
+  Coheronen                         2 word     3 in   [383, 387, 391]
+                                    1      as Coheronen-Schicht
+  Erasure-Sweeps                    1 word     1 in   [363]
+  Landauer-Hitze                    1 word     1 in   [363]
+  PAL-Operator                      1 word     1 in   [391]
+  Zeitpfeil                         1 word     1 in   [383]
+  Wächter-Zwiespalt                 0 word     2 in   [371, 1160]
+                                    1      as Wächter-Zwiespalts
+                                    1      as Wächter-Zwiespalt-Soziopolitik
+  Truth Rotation                    1 word     1 in   [395]
+  Vortex                            1 word     2 in   [395, 1160]
+  Ouroboros                         1 word     1 in   [351]
+  Algorithmische Melancholie        1 word     1 in   [363]
+  Dialetheia-Logik                  1 word     1 in   [395]
+  Witness Function                  2 word     2 in   [359, 387]
+  Mnemosyne-Archipel                0 word     1 in   [690]
+                                    1      as Mnemosyne-Archipel-Konvergenz
+  Leech-Lattice                     1 word     1 in   [367]
+  Vertex Operator Algebras          1 word     1 in   [367]
+  Monstergruppe                     1 word     1 in   [367]
+  Storyform A                      12 word    12 in   [181, 183, 284, 395, 399, 446]
+  Storyform B                      11 word    11 in   [181, 183, 284, 395, 399, 496]
+  Heuristics of Integration         3 word     3 in   [183, 284, 399]
+  Phoenix Collapse                  3 word     3 in   [183, 284, 399]
+  Suno Album                        1 word     1 in   [286]
+  The Weight of Why                 1 word     1 in   [286]
+  Memory-Slot-Architektur           1 word     1 in   [286]
+  Dual-Mapping                      3 word     6 in   [64, 138, 181, 415, 508, 517]
+                                    1      as Dual-Mapping-Spiegelregeln
+                                    1      as Dual-Mapping-Spiegelung
+                                    1      as Dual-Mapping-Hypothese
+  Dual-Storyform-Spiegelung         8 word     8 in   [138, 180, 539, 616, 620, 745]
+  Spiegelregel                     14 word    25 in   [64, 68, 424, 434, 527, 636]
+                                    2      as Spiegelregeln
+                                    1      as Spiegelregel-Hypothese
+                                    1      as Spiegelregel-Variante
+                                    1      as Spiegelregel-Logik
+  Mirror-Operator                   2 word     3 in   [181, 660, 1048]
+                                    1      as Mirror-Operators
+  Maximum-2-Ebenen-Überlagerung     3 word     3 in   [140, 527, 652]
+  Maximum 2 Ebenen pro Throughline    1 word     1 in   [687]
+  Fixpunkte                         4 word     4 in   [656, 1056, 1060]
+  Guardian-Kollektiv                1 word     1 in   [689]
+  MAPIT                             7 word     8 in   [23, 130, 132, 160, 164, 584]
+                                    1      as MAPIT-Komponente
+  ReAct                             3 word     6 in   [23, 86, 88, 132, 164]
+                                    1      as ReAct-Framework
+                                    1      as ReAct-Zyklus
+                                    1      as ReAct-Wirbelsäule
+  NotebookLM                        6 word    21 in   [35, 93, 139, 187, 272, 286]  <-- substring
+                                   14      as NotebookLM-Notebooks
+                                    1      as NotebookLM-Befragung
+  Contradiction Log                15 word    17 in   [21, 255, 273, 276, 324, 471]
+  Query Expansion Log               5 word     5 in   [562, 992, 1124, 1190, 1198]
+  Falsification                     4 word     4 in   [19, 409, 726, 984]
+  Contrast Classes                  5 word     5 in   [20, 440, 727, 818, 984]
+  Adversarial Query Expansion       8 word     8 in   [23, 94, 128, 533, 724, 984]
+  First-Principles Decomposition    5 word     5 in   [22, 502, 725, 745, 984]
+  Reflection Baseline               4 word     4 in   [31, 211, 711, 1189]
+  Pre-Synthesis Integrity Check     4 word     4 in   [114, 220, 574, 1197]
+  Mandate                           8 word     8 in   [24, 136, 144, 152, 170, 586]
+  Architecture                      4 word     8 in   [25, 36, 137, 153, 345, 590]
+  Permutation Mathematics           5 word     5 in   [26, 138, 154, 614, 688]
+  Interrogation                    10 word    10 in   [27, 35, 139, 155, 309, 672]
+  Tensioning                        5 word     7 in   [28, 140, 144, 156, 182, 676]
+                                    2      as Tensioning-Liste
+  Compact Primer                    4 word     4 in   [36, 345, 596, 716]
+  Surviving-Branch Triangulation    3 word     3 in   [29, 825, 996]
+  Hypothesis Half-Life Audit        4 word     4 in   [30, 863, 893, 996]
+  Throughline                      15 word    23 in   [140, 181, 299, 508, 517, 527]
+                                    7      as Throughlines
+                                    1      as Throughline-Position
+  Domains                           5 word     5 in   [180, 605, 640, 688]
+  Universe                          6 word     7 in   [496, 605, 628, 640, 803, 804]
+                                    1      as Universe-Domain
+  Physics                           4 word     4 in   [605, 640, 803, 804]
+  Mind                              6 word    10 in   [260, 605, 640, 686, 690, 784]
+                                   20      as mindestens
+                                    4      as Mindestens
+  Psychology                        5 word     5 in   [605, 628, 640, 803, 804]
+  Perspektiven                      5 word     8 in   [180, 605, 606, 641, 688, 745]
+                                    1      as Perspektiven-Set
+                                    1      as Perspektiven-getriebene
+                                    1      as Perspektiven-Zuweisung
+  Overall Story                     1 word     1 in   [605]
+  Main Character                    1 word     1 in   [605]
+  Influence Character               1 word     1 in   [605]
+  Relationship Story                1 word     1 in   [605]
+  Quad                              2 word    10 in   [68, 424, 434, 527, 547, 555]  <-- substring
+                                    2      as Quad-Konsistenz
+                                    1      as Quad-Logik
+                                    1      as Quad-Constraint-Erhaltung
+                                    1      as Quads
+  Driver                           10 word    13 in   [180, 527, 607, 643, 669, 688]
+                                    2      as Driver-Pivot
+                                    1      as Drivers
+  Limit                             5 word    11 in   [180, 527, 607, 643, 669, 688]  <-- substring
+                                    4      as Limit-Regel
+                                    1      as Limits
+                                    1      as Limit-Konsistenz
+  Outcome                          10 word    12 in   [24, 136, 152, 180, 607, 643]
+                                    1      as Outcome-Specification
+                                    1      as Outcome-Spezifikation
+  Judgment                          6 word     9 in   [180, 607, 643, 669, 746, 921]
+                                    3      as Judgment-Regel
+  Optionlock                        1 word     1 in   [607]
+  Timelock                          1 word     1 in   [607]
+  Concerns                          3 word     3 in   [180, 608, 644]
+  Issues                            3 word     3 in   [180, 608, 644]
+  Problems                          3 word     3 in   [180, 608, 644]
+  Solutions                         3 word     3 in   [180, 608, 644]
+  Storypoints                       4 word     8 in   [138, 180, 608, 620, 652, 656]
+  Dynamics                          1 word     3 in   [517, 607, 745]  <-- substring
+                                    1      as Dynamics-Sechsergruppen
+                                    1      as Dynamics-Set
+  Dialetheia                        0 word     3 in   [375, 395, 656]  <-- substring
+                                    1      as Dialetheia-tolerant
+                                    1      as Dialetheia-Logik
+                                    1      as Dialetheia-Achsen
+  Deus ex Machina                   1 word     1 in   [359]

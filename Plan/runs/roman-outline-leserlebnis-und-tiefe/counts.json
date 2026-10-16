@@ -1,0 +1,1314 @@
+{
+  "document": "roman-outline-leserlebnis-und-tiefe",
+  "drive_id": "1Ug3tC4fSnB1WzV2v9eaArndM5SS5q_ucjvD7qKgJgTw",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 46,
+      "n_including_compounds": 64,
+      "lines": [
+        11,
+        15,
+        17,
+        37,
+        41,
+        49,
+        57,
+        65,
+        73,
+        81,
+        89,
+        123,
+        133,
+        139,
+        141,
+        145,
+        155,
+        174,
+        178,
+        182,
+        190,
+        198,
+        206,
+        212,
+        218,
+        226,
+        229,
+        233,
+        235,
+        255,
+        261,
+        269,
+        277,
+        285,
+        289,
+        301,
+        305,
+        309,
+        317,
+        353,
+        363,
+        369,
+        371,
+        375,
+        385
+      ]
+    },
+    "Kohärenz": {
+      "n": 127,
+      "n_including_compounds": 129,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        31,
+        37,
+        41,
+        49,
+        57,
+        65,
+        73,
+        77,
+        81,
+        89,
+        99,
+        107,
+        115,
+        123,
+        133,
+        139,
+        141,
+        145,
+        153,
+        155,
+        164,
+        174,
+        178,
+        182,
+        190,
+        198,
+        200,
+        204,
+        206,
+        208,
+        212,
+        218,
+        222,
+        224,
+        226,
+        229,
+        233,
+        235,
+        237,
+        239,
+        241,
+        249,
+        255,
+        261,
+        269,
+        277,
+        285,
+        289,
+        301,
+        305,
+        309,
+        317,
+        327,
+        335,
+        343,
+        353,
+        363,
+        369,
+        371,
+        375,
+        383,
+        385
+      ]
+    },
+    "Protokoll": {
+      "n": 135,
+      "n_including_compounds": 199,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        31,
+        37,
+        39,
+        41,
+        47,
+        49,
+        55,
+        57,
+        63,
+        65,
+        71,
+        73,
+        79,
+        81,
+        89,
+        91,
+        97,
+        99,
+        107,
+        123,
+        133,
+        139,
+        141,
+        145,
+        155,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        174,
+        178,
+        182,
+        188,
+        190,
+        196,
+        198,
+        206,
+        212,
+        218,
+        222,
+        225,
+        226,
+        229,
+        233,
+        235,
+        237,
+        239,
+        241,
+        249,
+        255,
+        257,
+        259,
+        261,
+        267,
+        269,
+        275,
+        277,
+        283,
+        285,
+        289,
+        294,
+        299,
+        301,
+        305,
+        307,
+        309,
+        317,
+        319,
+        325,
+        335,
+        353,
+        363,
+        369,
+        371,
+        375,
+        378,
+        380,
+        381,
+        385
+      ]
+    },
+    "Inkohärenz": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        31,
+        57,
+        115,
+        170,
+        249,
+        277,
+        343
+      ]
+    },
+    "Leseerlebnis": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        25,
+        27,
+        31,
+        99,
+        153,
+        180,
+        198,
+        243,
+        245,
+        249,
+        327,
+        383
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        218,
+        241,
+        283
+      ]
+    },
+    "World-Building": {
+      "n": 19,
+      "n_including_compounds": 21,
+      "lines": [
+        39,
+        135,
+        137,
+        139,
+        141,
+        155,
+        171,
+        206,
+        223,
+        259,
+        365,
+        367,
+        369,
+        371,
+        427
+      ]
+    },
+    "Hard SF": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        135,
+        137,
+        139,
+        147,
+        365,
+        369,
+        377
+      ]
+    },
+    "Glitch": {
+      "n": 18,
+      "n_including_compounds": 19,
+      "lines": [
+        39,
+        57,
+        123,
+        141,
+        148,
+        164,
+        167,
+        259,
+        277,
+        285,
+        353,
+        371,
+        378,
+        385,
+        429,
+        432,
+        474
+      ]
+    },
+    "Heldenreise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        151,
+        178,
+        381
+      ]
+    },
+    "Systemtheorie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        19,
+        171,
+        235
+      ]
+    },
+    "Kybernetik": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        19,
+        171,
+        235
+      ]
+    },
+    "Second-Order Cybernetics": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        237
+      ]
+    },
+    "Autopoiesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        399
+      ]
+    },
+    "Operational Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Second-Order Observation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Feedback Loops": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Ontologie": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        35,
+        37,
+        39,
+        41,
+        164,
+        223,
+        253,
+        255,
+        259,
+        261
+      ]
+    },
+    "ontologische Verpflichtung": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        41,
+        261
+      ]
+    },
+    "Qualia": {
+      "n": 29,
+      "n_including_compounds": 29,
+      "lines": [
+        23,
+        51,
+        53,
+        55,
+        57,
+        166,
+        241,
+        261,
+        271,
+        273,
+        275,
+        277,
+        404,
+        405,
+        455
+      ]
+    },
+    "Emergenz": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        21,
+        23,
+        59,
+        61,
+        65,
+        167,
+        223,
+        239,
+        279,
+        281,
+        285
+      ]
+    },
+    "Komplexität": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        23,
+        59,
+        63,
+        65,
+        111,
+        167,
+        241,
+        279,
+        281,
+        285,
+        301,
+        369
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        167,
+        281
+      ]
+    },
+    "Nicht-Aggregativität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        285
+      ]
+    },
+    "Reduktionismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        281
+      ]
+    },
+    "Chaostheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Persönliche Identität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        165,
+        263
+      ]
+    },
+    "Relation R": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        265
+      ]
+    },
+    "Bündeltheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        265
+      ]
+    },
+    "Noumena": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        77,
+        81,
+        107,
+        133,
+        169,
+        257,
+        305,
+        307,
+        309,
+        335,
+        363
+      ]
+    },
+    "Paradigmenwechsel": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        81,
+        180,
+        196,
+        309
+      ]
+    },
+    "Induktionsproblem": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        77,
+        79,
+        305,
+        307
+      ]
+    },
+    "Deontologie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        69,
+        73,
+        293,
+        301
+      ]
+    },
+    "Konsequentialismus": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        69,
+        73,
+        293,
+        301
+      ]
+    },
+    "Tugendethik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Fürsorgeethik": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        71,
+        73,
+        292,
+        299,
+        301
+      ]
+    },
+    "Problem des Bösen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        294
+      ]
+    },
+    "Prinzip des kleineren Übels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        297
+      ]
+    },
+    "Bad Faith": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        291
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        29,
+        91,
+        139,
+        147,
+        169,
+        172,
+        319,
+        369,
+        377,
+        413,
+        523,
+        524,
+        564,
+        568
+      ]
+    },
+    "Cosmic Awe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "kognitive Dissonanz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        99,
+        224,
+        327
+      ]
+    },
+    "Free-Choice Paradigm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        325
+      ]
+    },
+    "Effort-Justification Paradigm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        325
+      ]
+    },
+    "Experience-Taking": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        109,
+        111,
+        113,
+        337,
+        339,
+        341
+      ]
+    },
+    "Immersion": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        29,
+        109,
+        111,
+        115,
+        155,
+        247,
+        337,
+        339,
+        341,
+        343
+      ]
+    },
+    "Pacing": {
+      "n": 21,
+      "n_including_compounds": 24,
+      "lines": [
+        101,
+        103,
+        105,
+        107,
+        194,
+        196,
+        204,
+        206,
+        224,
+        329,
+        331,
+        333,
+        335,
+        521,
+        522,
+        528,
+        529
+      ]
+    },
+    "Ticking Clock": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        331
+      ]
+    },
+    "Cliffhanger": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        89,
+        103,
+        317,
+        331
+      ]
+    },
+    "Foreshadowing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        317
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        119,
+        121,
+        347,
+        351
+      ]
+    },
+    "Dissoziation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        119,
+        165,
+        347
+      ]
+    },
+    "Flashbacks": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        47,
+        119,
+        121,
+        123,
+        267,
+        347,
+        351,
+        353
+      ]
+    },
+    "unzuverlässige Erzähler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        327
+      ]
+    },
+    "Verantwortungslücke": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        299
+      ]
+    },
+    "Tropes": {
+      "n": 49,
+      "n_including_compounds": 65,
+      "lines": [
+        39,
+        71,
+        121,
+        125,
+        145,
+        148,
+        149,
+        151,
+        153,
+        155,
+        157,
+        188,
+        204,
+        225,
+        259,
+        299,
+        355,
+        375,
+        377,
+        378,
+        379,
+        381,
+        383,
+        385,
+        434,
+        445,
+        467,
+        558,
+        569,
+        570,
+        593,
+        610,
+        619,
+        621,
+        623,
+        627,
+        629,
+        631,
+        632,
+        653,
+        657
+      ]
+    },
+    "Glitch in the Matrix": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        39,
+        141,
+        148,
+        164,
+        259,
+        371,
+        378,
+        385,
+        429,
+        432
+      ]
+    },
+    "The Glitch Becomes a Feature": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        148,
+        167,
+        285,
+        378
+      ]
+    },
+    "Cyberspace": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        148,
+        164,
+        378,
+        573
+      ]
+    },
+    "Inside the Machine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        148,
+        378
+      ]
+    },
+    "Logic Bomb": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        148,
+        155,
+        169,
+        378,
+        581,
+        582
+      ]
+    },
+    "Defeating the Logical Guardian": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        148,
+        378
+      ]
+    },
+    "Thinking Outside the Box": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        148,
+        378,
+        588,
+        589
+      ]
+    },
+    "Unreliable Narrator": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        149,
+        164,
+        165,
+        169,
+        377,
+        379,
+        411,
+        416,
+        417,
+        418,
+        443,
+        444
+      ]
+    },
+    "Amnesia": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        149,
+        165,
+        170,
+        377,
+        379,
+        448,
+        449
+      ]
+    },
+    "Paranoia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        149,
+        377,
+        379
+      ]
+    },
+    "Gaslighting": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        131,
+        133,
+        149,
+        361,
+        363,
+        377,
+        379,
+        548,
+        549,
+        686
+      ]
+    },
+    "False Memory": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        149,
+        165,
+        379,
+        453
+      ]
+    },
+    "Internal Conference Room": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        149,
+        165,
+        379
+      ]
+    },
+    "Multiple Personalities": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        379
+      ]
+    },
+    "Facing Your Demons": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        149,
+        155,
+        170,
+        188,
+        379
+      ]
+    },
+    "Healing Old Wounds": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        149,
+        170,
+        188,
+        353,
+        379
+      ]
+    },
+    "The Body Keeps the Score": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        149,
+        347,
+        379
+      ]
+    },
+    "Protector/Caregiver": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        380
+      ]
+    },
+    "Reluctant Hero": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        380
+      ]
+    },
+    "Tragic Villain": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        150,
+        168,
+        380
+      ]
+    },
+    "Rules Lawyer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        150,
+        168,
+        380
+      ]
+    },
+    "Threshold Guardian": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        151,
+        381,
+        616
+      ]
+    },
+    "Origin Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Getting the Team Together": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "The Plan in Motion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Storming the Castle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        151,
+        381,
+        624
+      ]
+    },
+    "Final Battle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Hope Spot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Hoist by His Own Petard": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "The Reveal": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Aftermath/The World After": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "The Quiet After the Storm": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "A New Beginning": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Sequel Hook": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "Bittersweet Ending": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        151,
+        381,
+        654,
+        655
+      ]
+    },
+    "Open Ending": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        381
+      ]
+    },
+    "What Measure Is a Non-Human": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        166,
+        275
+      ]
+    },
+    "Moralisches Dilemma": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        299
+      ]
+    },
+    "Schwere Wahl": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        299
+      ]
+    },
+    "Moral Dilemma": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        168,
+        497,
+        498,
+        499
+      ]
+    },
+    "Hard Choice": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        168,
+        500
+      ]
+    },
+    "Lesser Evil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Deal with the Devil": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        155,
+        168,
+        659
+      ]
+    },
+    "Time Loop": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        182,
+        673,
+        675
+      ]
+    },
+    "Redemption Arc": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        188,
+        678
+      ]
+    },
+    "Productive Navel-Gazing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        196,
+        681
+      ]
+    },
+    "Crossing Threshold": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Positiver Bogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Negativer Bogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    }
+  }
+}

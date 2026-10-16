@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "garten-der-stillen-praesenz",
+ "title": "Garten der stillen Präsenz",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Präsenz ohne körperlichen Auftritt",
+  "Zuordnung zu KW4 oder Externer Ebene",
+  "Bedingungen stiller Begegnung",
+  "Eigenständigkeit der anwesenden Figur",
+  "Grenze zwischen Zuflucht und Stillstand"
+ ],
+ "basis": {
+  "garten-der-stillen-praesenz": {
+   "title": "Garten der stillen Präsenz",
+   "path": "Wiki/candidates/garten-der-stillen-praesenz.md",
+   "hash": "db5fa3219544b2b2c2b4dcf3e69d8512437bfcde7caa2646ed5df66b0b8709d1"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "junas-ankerpunkt": {
+   "title": "Junas Ankerpunkt",
+   "path": "Wiki/candidates/junas-ankerpunkt.md",
+   "hash": "842d31958c8d5bac8d49b14e7af32fbd9e6ece42e6b55c31061ab0abfd4cdbf5"
+  },
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  },
+  "moeglichkeits-garten": {
+   "title": "Möglichkeits-Garten",
+   "path": "Wiki/candidates/moeglichkeits-garten.md",
+   "hash": "e693bd36f30be04233b018d4241e0e1e0896eefac7d4d4dc4b5e194352c9fe6c"
+  },
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-garten-der-stillen-praesenz-001",
+   "question": "Was tut Juna im Garten der stillen Präsenz selbst, wenn ihre Anwesenheit ohne körperlichen Auftritt vermittelt wird?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-002",
+   "question": "Welche Lesarten auf der Seite zu Garten der stillen Präsenz stützen oder begrenzen „Präsenz ohne körperlichen Auftritt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-003",
+   "question": "Welcher Grenzfall würde bei Garten der stillen Präsenz die Annahmen über „Präsenz ohne körperlichen Auftritt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-004",
+   "question": "Wer könnte innerhalb des Romans bei Garten der stillen Präsenz etwas über „Präsenz ohne körperlichen Auftritt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-005",
+   "question": "Welche konkrete Entscheidung könnte „Präsenz ohne körperlichen Auftritt“ bei Garten der stillen Präsenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Präsenz ohne körperlichen Auftritt“ bei Garten der stillen Präsenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-007",
+   "question": "Wie lässt sich „Präsenz ohne körperlichen Auftritt“ bei Garten der stillen Präsenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-008",
+   "question": "Welche Alternativen sollte der Autor bei Garten der stillen Präsenz für „Präsenz ohne körperlichen Auftritt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-009",
+   "question": "Was bedeutet bei Garten der stillen Präsenz der Themenpunkt „Zuordnung zu KW4 oder Externer Ebene“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-010",
+   "question": "Welche Lesarten auf der Seite zu Garten der stillen Präsenz stützen oder begrenzen „Zuordnung zu KW4 oder Externer Ebene“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-011",
+   "question": "Welcher Grenzfall würde bei Garten der stillen Präsenz die Annahmen über „Zuordnung zu KW4 oder Externer Ebene“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-012",
+   "question": "Wer könnte innerhalb des Romans bei Garten der stillen Präsenz etwas über „Zuordnung zu KW4 oder Externer Ebene“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-013",
+   "question": "Welche konkrete Entscheidung könnte „Zuordnung zu KW4 oder Externer Ebene“ bei Garten der stillen Präsenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zuordnung zu KW4 oder Externer Ebene“ bei Garten der stillen Präsenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-015",
+   "question": "Wie lässt sich „Zuordnung zu KW4 oder Externer Ebene“ bei Garten der stillen Präsenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-016",
+   "question": "Welche Alternativen sollte der Autor bei Garten der stillen Präsenz für „Zuordnung zu KW4 oder Externer Ebene“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-017",
+   "question": "Was bedeutet bei Garten der stillen Präsenz der Themenpunkt „Bedingungen stiller Begegnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-018",
+   "question": "Welche Lesarten auf der Seite zu Garten der stillen Präsenz stützen oder begrenzen „Bedingungen stiller Begegnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-019",
+   "question": "Welcher Grenzfall würde bei Garten der stillen Präsenz die Annahmen über „Bedingungen stiller Begegnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-020",
+   "question": "Wer könnte innerhalb des Romans bei Garten der stillen Präsenz etwas über „Bedingungen stiller Begegnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-021",
+   "question": "Welche konkrete Entscheidung könnte „Bedingungen stiller Begegnung“ bei Garten der stillen Präsenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedingungen stiller Begegnung“ bei Garten der stillen Präsenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-023",
+   "question": "Wie lässt sich „Bedingungen stiller Begegnung“ bei Garten der stillen Präsenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-024",
+   "question": "Welche Alternativen sollte der Autor bei Garten der stillen Präsenz für „Bedingungen stiller Begegnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-025",
+   "question": "Was bedeutet bei Garten der stillen Präsenz der Themenpunkt „Eigenständigkeit der anwesenden Figur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-026",
+   "question": "Welche Lesarten auf der Seite zu Garten der stillen Präsenz stützen oder begrenzen „Eigenständigkeit der anwesenden Figur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-027",
+   "question": "Welcher Grenzfall würde bei Garten der stillen Präsenz die Annahmen über „Eigenständigkeit der anwesenden Figur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-028",
+   "question": "Wer könnte innerhalb des Romans bei Garten der stillen Präsenz etwas über „Eigenständigkeit der anwesenden Figur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-029",
+   "question": "Welche konkrete Entscheidung könnte „Eigenständigkeit der anwesenden Figur“ bei Garten der stillen Präsenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eigenständigkeit der anwesenden Figur“ bei Garten der stillen Präsenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-031",
+   "question": "Wie lässt sich „Eigenständigkeit der anwesenden Figur“ bei Garten der stillen Präsenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-032",
+   "question": "Welche Alternativen sollte der Autor bei Garten der stillen Präsenz für „Eigenständigkeit der anwesenden Figur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-033",
+   "question": "Was bedeutet bei Garten der stillen Präsenz der Themenpunkt „Grenze zwischen Zuflucht und Stillstand“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-034",
+   "question": "Welche Lesarten auf der Seite zu Garten der stillen Präsenz stützen oder begrenzen „Grenze zwischen Zuflucht und Stillstand“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-035",
+   "question": "Welcher Grenzfall würde bei Garten der stillen Präsenz die Annahmen über „Grenze zwischen Zuflucht und Stillstand“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-036",
+   "question": "Wer könnte innerhalb des Romans bei Garten der stillen Präsenz etwas über „Grenze zwischen Zuflucht und Stillstand“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Zuflucht und Stillstand“ bei Garten der stillen Präsenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Zuflucht und Stillstand“ bei Garten der stillen Präsenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-039",
+   "question": "Wie lässt sich „Grenze zwischen Zuflucht und Stillstand“ bei Garten der stillen Präsenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-040",
+   "question": "Welche Alternativen sollte der Autor bei Garten der stillen Präsenz für „Grenze zwischen Zuflucht und Stillstand“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-041",
+   "question": "Wo unterscheiden sich Garten der stillen Präsenz und Juna, wenn man sie unter dem Gesichtspunkt „Präsenz ohne körperlichen Auftritt“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-042",
+   "question": "Welche Quelle verbindet Garten der stillen Präsenz mit Juna in Bezug auf „Präsenz ohne körperlichen Auftritt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-043",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Garten der stillen Präsenz unter „Präsenz ohne körperlichen Auftritt“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-044",
+   "question": "Wie könnte sich das Wissen über Garten der stillen Präsenz vom Wissen über Juna unterscheiden, wenn „Präsenz ohne körperlichen Auftritt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Garten der stillen Präsenz und Juna bei „Präsenz ohne körperlichen Auftritt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-046",
+   "question": "Falls Garten der stillen Präsenz im Hinblick auf „Präsenz ohne körperlichen Auftritt“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Garten der stillen Präsenz und Juna bei „Präsenz ohne körperlichen Auftritt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-048",
+   "question": "Braucht der Roman eine Verbindung von Garten der stillen Präsenz und Juna bei „Präsenz ohne körperlichen Auftritt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-049",
+   "question": "In welchem denkbaren Fall könnte Garten der stillen Präsenz bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Präsenz ohne körperlichen Auftritt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-050",
+   "question": "Welche Kosten könnte eine Verbindung von Garten der stillen Präsenz und Juna in Bezug auf „Präsenz ohne körperlichen Auftritt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-051",
+   "question": "Welche ältere Lesart von Garten der stillen Präsenz oder Juna könnte die Gegenüberstellung unter „Präsenz ohne körperlichen Auftritt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Garten der stillen Präsenz und Juna unter „Präsenz ohne körperlichen Auftritt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-053",
+   "question": "Wo unterscheiden sich Garten der stillen Präsenz und Junas Ankerpunkt, wenn man sie unter dem Gesichtspunkt „Zuordnung zu KW4 oder Externer Ebene“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-054",
+   "question": "Welche Quelle verbindet Garten der stillen Präsenz mit Junas Ankerpunkt in Bezug auf „Zuordnung zu KW4 oder Externer Ebene“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-055",
+   "question": "Welche Grenzen aus der Seite zu Junas Ankerpunkt müsste eine Deutung von Garten der stillen Präsenz unter „Zuordnung zu KW4 oder Externer Ebene“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-056",
+   "question": "Wie könnte sich das Wissen über Garten der stillen Präsenz vom Wissen über Junas Ankerpunkt unterscheiden, wenn „Zuordnung zu KW4 oder Externer Ebene“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Garten der stillen Präsenz und Junas Ankerpunkt bei „Zuordnung zu KW4 oder Externer Ebene“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-058",
+   "question": "Falls Garten der stillen Präsenz im Hinblick auf „Zuordnung zu KW4 oder Externer Ebene“ anders festgelegt wird: Welche Aussagen über Junas Ankerpunkt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Garten der stillen Präsenz und Junas Ankerpunkt bei „Zuordnung zu KW4 oder Externer Ebene“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-060",
+   "question": "Braucht der Roman eine Verbindung von Garten der stillen Präsenz und Junas Ankerpunkt bei „Zuordnung zu KW4 oder Externer Ebene“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-061",
+   "question": "In welchem denkbaren Fall könnte Garten der stillen Präsenz bestehen, ohne dass Junas Ankerpunkt dieselbe Funktion übernimmt, und was würde das für „Zuordnung zu KW4 oder Externer Ebene“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-062",
+   "question": "Welche Kosten könnte eine Verbindung von Garten der stillen Präsenz und Junas Ankerpunkt in Bezug auf „Zuordnung zu KW4 oder Externer Ebene“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-063",
+   "question": "Welche ältere Lesart von Garten der stillen Präsenz oder Junas Ankerpunkt könnte die Gegenüberstellung unter „Zuordnung zu KW4 oder Externer Ebene“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Garten der stillen Präsenz und Junas Ankerpunkt unter „Zuordnung zu KW4 oder Externer Ebene“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "junas-ankerpunkt"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-065",
+   "question": "Wo unterscheiden sich Garten der stillen Präsenz und Externe Ebene, wenn man sie unter dem Gesichtspunkt „Bedingungen stiller Begegnung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-066",
+   "question": "Welche Quelle verbindet Garten der stillen Präsenz mit Externe Ebene in Bezug auf „Bedingungen stiller Begegnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-067",
+   "question": "Welche Grenzen aus der Seite zu Externe Ebene müsste eine Deutung von Garten der stillen Präsenz unter „Bedingungen stiller Begegnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-068",
+   "question": "Wie könnte sich das Wissen über Garten der stillen Präsenz vom Wissen über Externe Ebene unterscheiden, wenn „Bedingungen stiller Begegnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Garten der stillen Präsenz und Externe Ebene bei „Bedingungen stiller Begegnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-070",
+   "question": "Falls Garten der stillen Präsenz im Hinblick auf „Bedingungen stiller Begegnung“ anders festgelegt wird: Welche Aussagen über Externe Ebene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Garten der stillen Präsenz und Externe Ebene bei „Bedingungen stiller Begegnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-072",
+   "question": "Braucht der Roman eine Verbindung von Garten der stillen Präsenz und Externe Ebene bei „Bedingungen stiller Begegnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-073",
+   "question": "In welchem denkbaren Fall könnte Garten der stillen Präsenz bestehen, ohne dass Externe Ebene dieselbe Funktion übernimmt, und was würde das für „Bedingungen stiller Begegnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-074",
+   "question": "Welche Kosten könnte eine Verbindung von Garten der stillen Präsenz und Externe Ebene in Bezug auf „Bedingungen stiller Begegnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-075",
+   "question": "Welche ältere Lesart von Garten der stillen Präsenz oder Externe Ebene könnte die Gegenüberstellung unter „Bedingungen stiller Begegnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Garten der stillen Präsenz und Externe Ebene unter „Bedingungen stiller Begegnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-077",
+   "question": "Wo unterscheiden sich Garten der stillen Präsenz und Möglichkeits-Garten, wenn man sie unter dem Gesichtspunkt „Eigenständigkeit der anwesenden Figur“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-078",
+   "question": "Welche Quelle verbindet Garten der stillen Präsenz mit Möglichkeits-Garten in Bezug auf „Eigenständigkeit der anwesenden Figur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-079",
+   "question": "Welche Grenzen aus der Seite zu Möglichkeits-Garten müsste eine Deutung von Garten der stillen Präsenz unter „Eigenständigkeit der anwesenden Figur“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-080",
+   "question": "Wie könnte sich das Wissen über Garten der stillen Präsenz vom Wissen über Möglichkeits-Garten unterscheiden, wenn „Eigenständigkeit der anwesenden Figur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Garten der stillen Präsenz und Möglichkeits-Garten bei „Eigenständigkeit der anwesenden Figur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-082",
+   "question": "Falls Garten der stillen Präsenz im Hinblick auf „Eigenständigkeit der anwesenden Figur“ anders festgelegt wird: Welche Aussagen über Möglichkeits-Garten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Garten der stillen Präsenz und Möglichkeits-Garten bei „Eigenständigkeit der anwesenden Figur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-084",
+   "question": "Braucht der Roman eine Verbindung von Garten der stillen Präsenz und Möglichkeits-Garten bei „Eigenständigkeit der anwesenden Figur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-085",
+   "question": "In welchem denkbaren Fall könnte Garten der stillen Präsenz bestehen, ohne dass Möglichkeits-Garten dieselbe Funktion übernimmt, und was würde das für „Eigenständigkeit der anwesenden Figur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-086",
+   "question": "Welche Kosten könnte eine Verbindung von Garten der stillen Präsenz und Möglichkeits-Garten in Bezug auf „Eigenständigkeit der anwesenden Figur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-087",
+   "question": "Welche ältere Lesart von Garten der stillen Präsenz oder Möglichkeits-Garten könnte die Gegenüberstellung unter „Eigenständigkeit der anwesenden Figur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Garten der stillen Präsenz und Möglichkeits-Garten unter „Eigenständigkeit der anwesenden Figur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-089",
+   "question": "Wo unterscheiden sich Garten der stillen Präsenz und Telefon-Stille, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Zuflucht und Stillstand“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-090",
+   "question": "Welche Quelle verbindet Garten der stillen Präsenz mit Telefon-Stille in Bezug auf „Grenze zwischen Zuflucht und Stillstand“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-091",
+   "question": "Welche Grenzen aus der Seite zu Telefon-Stille müsste eine Deutung von Garten der stillen Präsenz unter „Grenze zwischen Zuflucht und Stillstand“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-092",
+   "question": "Wie könnte sich das Wissen über Garten der stillen Präsenz vom Wissen über Telefon-Stille unterscheiden, wenn „Grenze zwischen Zuflucht und Stillstand“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Garten der stillen Präsenz und Telefon-Stille bei „Grenze zwischen Zuflucht und Stillstand“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-094",
+   "question": "Falls Garten der stillen Präsenz im Hinblick auf „Grenze zwischen Zuflucht und Stillstand“ anders festgelegt wird: Welche Aussagen über Telefon-Stille müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Garten der stillen Präsenz und Telefon-Stille bei „Grenze zwischen Zuflucht und Stillstand“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-096",
+   "question": "Braucht der Roman eine Verbindung von Garten der stillen Präsenz und Telefon-Stille bei „Grenze zwischen Zuflucht und Stillstand“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-097",
+   "question": "In welchem denkbaren Fall könnte Garten der stillen Präsenz bestehen, ohne dass Telefon-Stille dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Zuflucht und Stillstand“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-098",
+   "question": "Welche Kosten könnte eine Verbindung von Garten der stillen Präsenz und Telefon-Stille in Bezug auf „Grenze zwischen Zuflucht und Stillstand“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-099",
+   "question": "Welche ältere Lesart von Garten der stillen Präsenz oder Telefon-Stille könnte die Gegenüberstellung unter „Grenze zwischen Zuflucht und Stillstand“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-garten-der-stillen-praesenz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Garten der stillen Präsenz und Telefon-Stille unter „Grenze zwischen Zuflucht und Stillstand“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "garten-der-stillen-praesenz",
+    "telefon-stille"
+   ]
+  }
+ ]
+}

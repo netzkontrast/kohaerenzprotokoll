@@ -1,0 +1,67 @@
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Alter Dynamics"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Alter Dynamics` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#4]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Psychological Challenge"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Psychological Challenge` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#4]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Kael"
+whole word, case-sensitive     59
+whole word, case-insensitive   59
+including compounds            59
+
+`Kael` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#59]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "AEGIS"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`AEGIS` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#26]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#0]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "functional multiplicity"
+whole word, case-sensitive     4
+whole word, case-insensitive   7
+including compounds            4
+
+`functional multiplicity` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#4]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Core Worlds"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Core Worlds` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#4]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Alters"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Alters` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#8]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Alter"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            13
+
+`Alter` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#5]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Juna` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#5]
+$ read.py the-true-coherence-protocol-architecting-kaels-journey-from --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:#4]
+stance_marker_count: 8 = Alter Dynamics 4 + Psychological Challenge 4

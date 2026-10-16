@@ -1,0 +1,289 @@
+{
+  "document": "kohaerenz-protokoll-detaillierte-recherche",
+  "drive_id": "15xm4VRGfwP8KRpasIFA0eyI1tHlJdjFiOdQwCWRu8Xw",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet), both shares in turn, from Plan/runs/ingest-223/brief.md — its repeated opening line on the report's standing kept on kohaerenz and aegis only, by the session; no chapter readings — the report names parts, not chapters",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 108,
+    "decisions": 115,
+    "decided_by_lookup": 95,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German analysis that reads the project against borrowed theory: its new surfaces are the theories (autopoiesis, LFI and D2, Specification Gaming, IIT, the rhizomatic self, Bachtin's polyphony) and its own constructs (Das Fundament, the triple helix, Fragment 'O', the Gärtner-Axiom, the reader's protocol); what it says of the novel's world went on existing pages and four records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        24,
+        104,
+        106,
+        108,
+        116,
+        125,
+        133,
+        141,
+        152,
+        199
+      ],
+      "attribution": "",
+      "note": "AEGIS as an autopoietic, operationally closed system with a three-layer architecture"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        154
+      ],
+      "attribution": "",
+      "note": "AEGIS's transformed state as existential loss"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as a state of maximal entropy"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        86,
+        137,
+        352
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as trigger of AEGIS's transformation"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        80,
+        84,
+        86,
+        206
+      ],
+      "attribution": "",
+      "note": "Juna/V as part of one quantum system, catalyst and logician"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        22,
+        195,
+        228,
+        230,
+        236,
+        262,
+        305,
+        315,
+        319
+      ],
+      "attribution": "",
+      "note": "System Kael read through TSDP, IFS, IIT and rhizome theory"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        201,
+        203,
+        204,
+        205,
+        206
+      ],
+      "attribution": "",
+      "note": "Kernwelten as psycho-architectures mapped to Dramatica throughlines"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        197,
+        264
+      ],
+      "attribution": "",
+      "note": "Kiko as a child part and freeze response"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        22,
+        24,
+        125,
+        133,
+        348,
+        350,
+        360,
+        362
+      ],
+      "attribution": "",
+      "note": "Kohärenz as a Grand Argument and as an activity"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        197,
+        265
+      ],
+      "attribution": "",
+      "note": "Lex as an analyst part, in TSDP terms an ANP"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        78,
+        80,
+        179
+      ],
+      "attribution": "",
+      "note": "a non-local, sub-protocol connection and AEGIS's blindness to it"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        228,
+        281
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as healing goal, not fusion"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the active ground of reality"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        124,
+        197,
+        263
+      ],
+      "attribution": "",
+      "note": "Nyx as an emotional part, fight response, later strategic defender"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        44,
+        48
+      ],
+      "attribution": "",
+      "note": "Die Leere / Das Potentialmeer as ground of reality"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        56
+      ],
+      "attribution": "",
+      "note": "Das Fundament as the deeper, integrative level of reality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        70
+      ],
+      "attribution": "",
+      "note": "the Fundament's artefacts distinguished from AEGIS's glitches"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        248,
+        266
+      ],
+      "attribution": "",
+      "note": "Selene as core self and, in the table, ISH and gatekeeper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        195
+      ],
+      "attribution": "",
+      "note": "Kael's psyche modelled on TSDP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name and „Kohärenz Protokoll 1.0“, AEGIS's emergency protocol, read on aegis), J34 (Juna/V on juna), J49 and J118 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis, the world names, read on kern-welten); `Koordinierte Emergenz` is an effect of the link, not AEGIS's emergence; one `Guardian` is an image of A ∧ ¬A, neither AEGIS's Integrity Guardian nor the Guardians; the Kael-Paradoxon is AEGIS's object of contemplation, read on algorithmische-melancholie",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 409,
+      "decision": "occurrence",
+      "why": "a reference-list title"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 84,
+      "decision": "occurrence",
+      "why": "Koordinierte Emergenz, an effect of the Juna/V link"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 48,
+      "decision": "reading",
+      "why": "the Nichts Rauschen as the state of maximal entropy"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 56,
+      "decision": "reading",
+      "why": "the Fundament as the deeper integrative reality level"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 70,
+      "decision": "reading",
+      "why": "the Fundament's artefacts against AEGIS's glitches"
+    }
+  ],
+  "not_promoted": [
+    "Das Fundament",
+    "Gnosis/Episteme",
+    "Specification Gaming",
+    "LFI and D2",
+    "the Kael-Paradoxon",
+    "Ineffiziente Schönheit",
+    "IIT and Φ",
+    "the rhizomatic self",
+    "the triple helix",
+    "Fragment 'O' and the Gärtner-Axiom",
+    "the reader's protocol"
+  ],
+  "internal_tension": "it calls itself definitive (L13, L24) and the story's laws unchangeable (L32) while ending in open, mutually exclusive epilogues (L346); Guardians count 0 although one Guardian appears (L152)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

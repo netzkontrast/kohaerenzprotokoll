@@ -1,0 +1,21 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      12
+  backslash escapes      0
+  typographic marks      14
+  ascii quotes           86
+
+# inflection families -- one term, several surfaces
+  logic    Logic, Logical, Logics
+  disso    Dissociation, Dissociative
+  exter    Externalization, Externalized
+  integ    Integrated, Integration
+  proto    Protocol, Protokoll
+  psych    Psyche, Psychology
+
+# substring pairs -- never one term, often merged by accident
+  Logic < Logics
+  Logic < Logical
+  Logic < Epistemological
+  Thesis < Synthesis
+  Logical < Epistemological

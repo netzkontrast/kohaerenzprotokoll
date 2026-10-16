@@ -1,0 +1,57 @@
+{
+  "document": "a-critical-analysis-of-coherence-protocol-an-assessment-of-p",
+  "drive_id": "16_lZHXre_zxe_4gk8kKFdk2M3wNcF0CWDsBDrW2NpLk",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 32,
+  "typographic_marks": 22,
+  "ascii_quotes": 68,
+  "inflection_families": {
+    "conce": [
+      "Conceit",
+      "Concept",
+      "Conceptual"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological"
+    ],
+    "quest": [
+      "Question",
+      "Questions"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanzkaskade"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Risk",
+      "Risks"
+    ],
+    [
+      "Concept",
+      "Conceptual"
+    ],
+    [
+      "Question",
+      "Questions"
+    ]
+  ]
+}

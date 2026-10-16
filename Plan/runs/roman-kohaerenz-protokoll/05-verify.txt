@@ -1,0 +1,268 @@
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Echo"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            20
+
+`Echo` ^[roman-kohaerenz-protokoll.md:#15]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Kael` ^[roman-kohaerenz-protokoll.md:#15]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "ALERT"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ALERT` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Moment:"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Moment:` ^[roman-kohaerenz-protokoll.md:#40]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Moment"
+whole word, case-sensitive     59
+whole word, case-insensitive   59
+including compounds            63
+
+`Moment` ^[roman-kohaerenz-protokoll.md:#59]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Wächter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wächter` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Risse"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Risse` ^[roman-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Riss"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            8
+
+`Riss` ^[roman-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Konstrukt-Stadt"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Konstrukt-Stadt` ^[roman-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[roman-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "KW2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW2` ^[roman-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Anomalie"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Anomalie` ^[roman-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Praetor"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Praetor` ^[roman-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Nox"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nox` ^[roman-kohaerenz-protokoll.md:#3]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Kairos"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kairos` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Cerberus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cerberus` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Silas"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Silas` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Naht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Naht` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Zerrissenheit"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Zerrissenheit` ^[roman-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Resonanz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Resonanz` ^[roman-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Sog"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Sog` ^[roman-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Kohärenz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz` ^[roman-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[roman-kohaerenz-protokoll.md:#0]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "COHERENCE"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`COHERENCE` ^[roman-kohaerenz-protokoll.md:#2]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Protokoll` ^[roman-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Nichts"
+whole word, case-sensitive     17
+whole word, case-insensitive   19
+including compounds            17
+
+`Nichts` ^[roman-kohaerenz-protokoll.md:#17]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Juna` ^[roman-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Architekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            7
+
+`Architekt` ^[roman-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Moos"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            8
+
+`Moos` ^[roman-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Echos"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Echos` ^[roman-kohaerenz-protokoll.md:#5]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Momente"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Momente` ^[roman-kohaerenz-protokoll.md:#4]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "RIC"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`RIC` ^[roman-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "SIS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`SIS` ^[roman-kohaerenz-protokoll.md:#3]
+
+stance_marker_count: Moment: 40 + ALERT 2 = 42
+$ grep -c 'Moment:' Sources/drive/roman-kohaerenz-protokoll.md
+40
+$ grep -n -o '\\.' ... (escapes: 8 in \[ \] on L373,393,411,413; 3 \! on L441)
+373:\[
+373:\]
+393:\[
+393:\]
+411:\[
+411:\]
+413:\[
+413:\]
+441:\!
+441:\!
+441:\!
+candidates: 89 (04-counts.txt header: '# counts for 89 candidates'); zeros: 0
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Ich-Fehler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich-Fehler` ^[roman-kohaerenz-protokoll.md:#1]
+
+$ python3 scripts/read.py roman-kohaerenz-protokoll --count "Systemfehler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Systemfehler` ^[roman-kohaerenz-protokoll.md:#1]

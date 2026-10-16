@@ -1,0 +1,118 @@
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Zweig verworfen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zweig verworfen` ^[dramatica-dual-storyform-mapping-analyse.md:#2]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Zweig überlebt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zweig überlebt` ^[dramatica-dual-storyform-mapping-analyse.md:#2]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Evidenz Pro"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Evidenz Pro` ^[dramatica-dual-storyform-mapping-analyse.md:#4]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Evidenz Contra"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Evidenz Contra` ^[dramatica-dual-storyform-mapping-analyse.md:#4]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "What-would-change-my-mind"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`What-would-change-my-mind` ^[dramatica-dual-storyform-mapping-analyse.md:#2]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Landauer-Limit"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Landauer-Limit` ^[dramatica-dual-storyform-mapping-analyse.md:#0]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Landauer-Limits"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Landauer-Limits` ^[dramatica-dual-storyform-mapping-analyse.md:#1]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Problem-Solving-Style"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Problem-Solving-Style` ^[dramatica-dual-storyform-mapping-analyse.md:#0]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Problem-Solving-Style-Theorem"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Problem-Solving-Style-Theorem` ^[dramatica-dual-storyform-mapping-analyse.md:#1]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            6
+
+`Kanon` ^[dramatica-dual-storyform-mapping-analyse.md:#0]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Alt-Kanon"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`Alt-Kanon` ^[dramatica-dual-storyform-mapping-analyse.md:#3]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Heuristics of Integration"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Heuristics of Integration` ^[dramatica-dual-storyform-mapping-analyse.md:#2]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Phoenix Collapse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Phoenix Collapse` ^[dramatica-dual-storyform-mapping-analyse.md:#2]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Ontologische Transposition"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Ontologische Transposition` ^[dramatica-dual-storyform-mapping-analyse.md:#4]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Prozessuale Transposition"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Prozessuale Transposition` ^[dramatica-dual-storyform-mapping-analyse.md:#5]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Ergebnis"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Ergebnis` ^[dramatica-dual-storyform-mapping-analyse.md:#7]
+$ python3 scripts/read.py dramatica-dual-storyform-mapping-analyse --count "Konfidenz"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            12
+
+`Konfidenz` ^[dramatica-dual-storyform-mapping-analyse.md:#7]
+$ python3 scripts/profile.py dramatica-dual-storyform-mapping-analyse
+# dramatica-dual-storyform-mapping-analyse
+  lines                281  (frontmatter ends at 9)
+  body words           4636
+  headings             21   bold-only lines 6
+  table rows           35   code fences 0
+  question marks       7
+  backslash escapes    228
+  typographic marks    97   ascii quotes 31
+  invisible characters U+200Bx14
+  math symbol lines    3
+  glued ref numbers    52
+  repeated labels      none
+  longest line         1044 chars
+
+stance_marker_count = 2+2+4+4+2 = 14

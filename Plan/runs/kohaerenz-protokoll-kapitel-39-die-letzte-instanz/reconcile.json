@@ -1,0 +1,152 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+  "drive_id": "1em4NZKN3UW1lDzizHvXuuNVG6ErGTU3f0Mss0dHDTDc",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-256/brief.md; chapter reading Kap 39 by the session (Plan/runs/ingest-256-kap/)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 30,
+    "decisions": 33,
+    "decided_by_lookup": 18,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A short prose chapter: its new surfaces are PMAS, the Beobachter-Instanz, Instanz and ZIELKOHÄRENZ; what it says of the novel's world went on existing pages, the Kap 39 page and one record.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "its voice no longer from the Nexus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "their despair becomes the reader's effort"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "named only to say Kael does not look at her"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        21,
+        27,
+        59
+      ],
+      "attribution": "",
+      "note": "he looks out of the text at the reader"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the reader as architect forming a Kern-Welt"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        19,
+        37,
+        65
+      ],
+      "attribution": "",
+      "note": "coherence no longer held internal; the PMAS status"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "its geometry collapsed to a surface"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "its halls only ink and pixels of light"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "the PMAS report: it beats in the reader's chest"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        19,
+        29
+      ],
+      "attribution": "",
+      "note": "AEGIS's voice leaves it; its light goes out"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the reader's room a set covering it"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C13"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`KOHÄRENZ`, `ZIELKOHÄRENZ ÜBERTRAGEN` and `ZIELKOHÄRENZ ERREICHT` read on kohaerenz; `Kohärenz Protokoll` and `Protokoll` the Protokoll the reader runs, not Entropie-Resonanz, Nullpunkt-Protokoll, Protokoll V14 or the Trennungsprotokoll; `Rauschen` the noise everywhere, `Nichts-Rauschen` read on nichts-rauschen; `Instanz`, `Die letzte Instanz` and `DIE BEOBACHTER-INSTANZ` the reader's role, not the Personas or AEGIS's Kontrollinstanz; `PMAS` and `PMAS-ENDE` the report's frame; `Architekt` the reader, not the Mnemosyne server",
+  "sweep": [
+    {
+      "page": "nichts-rauschen",
+      "surface": "Nichts-Rauschen",
+      "line": 55,
+      "decision": "reading",
+      "why": "the reader's room covering the Nichts-Rauschen of reality"
+    }
+  ],
+  "not_promoted": [
+    "PMAS",
+    "the Beobachter-Instanz",
+    "Instanz",
+    "ZIELKOHÄRENZ"
+  ],
+  "internal_tension": "it does not say whether `Instanz` (the title, the reader's role) and AEGIS's „DIE BEOBACHTER-INSTANZ“ name one thing; Juna, LogOS, the Guardians and the Kern-Welt stand once each, undefined",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

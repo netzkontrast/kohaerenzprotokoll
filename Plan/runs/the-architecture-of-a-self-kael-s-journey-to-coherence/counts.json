@@ -1,0 +1,577 @@
+{
+  "document": "the-architecture-of-a-self-kael-s-journey-to-coherence",
+  "drive_id": "1apCjN9hSQImfwi6m1mIKZEPQRpvUZO2YyP6fv1Af9qU",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        11,
+        13,
+        17,
+        21,
+        27,
+        29,
+        37,
+        39,
+        44,
+        50,
+        54,
+        56,
+        64,
+        66,
+        76,
+        81,
+        85,
+        89
+      ]
+    },
+    "Kael (Host)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Einheit K-1123": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kohärenz-Verifikator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        17,
+        19,
+        27,
+        29,
+        50,
+        54,
+        76,
+        81,
+        83,
+        89
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Juna Echo": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        27,
+        29
+      ]
+    },
+    "Juna-Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        27,
+        29,
+        64,
+        80
+      ]
+    },
+    "Kohärenz-Validierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Partitionierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "perturbation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Kohärenz wiederhergestellt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Apparently Normal Part (ANP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "ANP": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        37,
+        44,
+        45,
+        46,
+        48,
+        50
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "ANPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        46,
+        48,
+        50
+      ]
+    },
+    "Emotional Parts (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        44,
+        48,
+        50
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        37,
+        44,
+        46,
+        47,
+        48,
+        50
+      ]
+    },
+    "alters": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        37,
+        39
+      ]
+    },
+    "society of selves": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Lex": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        45,
+        46,
+        47,
+        50,
+        54,
+        56,
+        66,
+        70
+      ]
+    },
+    "Analyst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Nyx": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        44,
+        45,
+        46,
+        47,
+        50,
+        70
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        44,
+        45,
+        47,
+        50,
+        70
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        45,
+        48
+      ]
+    },
+    "Integrator/Inner Self Helper (ISH)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Inner Self Helper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "ISH": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Manager-part": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        66
+      ]
+    },
+    "McL-Sigma-3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Co₁": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        56
+      ]
+    },
+    "false success": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "epistemology-shift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Cache-Konflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "death of an attitude": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Self": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        48,
+        64,
+        66
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        91
+      ]
+    },
+    "dialetheic mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        90
+      ]
+    },
+    "Resonanz-Harmonisierer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Harmonizing Omega-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Omega-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Living Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        92
+      ]
+    },
+    "inefficient beauty": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Gärtner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Gardener": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Zombie-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Low Φ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "High Φ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "System AEGIS: Coherence through Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "System Kael: Coherence through Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "environmental storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        43
+      ]
+    },
+    "autopoietic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        91
+      ]
+    },
+    "operationally closed": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        91
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        90
+      ]
+    },
+    "Gödel-sentence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81
+      ]
+    },
+    "qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Integrated Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    }
+  }
+}

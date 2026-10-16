@@ -1,0 +1,135 @@
+$ read.py --count "Motivation:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Motivation:` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#5]
+$ read.py --count "Fear:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fear:` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#5]
+$ read.py --count "Core Logic:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Core Logic:` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#2]
+$ read.py --count "Worldview:"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Worldview:` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#3]
+$ read.py --count "Final State:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Final State:` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#2]
+$ read.py --count "Outcome:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Outcome:` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#2]
+$ read.py --count "Juna"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Juna` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#5]
+$ read.py --count "ANP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            7
+
+`ANP` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#3]
+$ read.py --count "ANPs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`ANPs` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#4]
+$ read.py --count "EP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`EP` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#2]
+$ read.py --count "EPs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`EPs` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#4]
+$ read.py --count "McL"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`McL` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "McL-Sigma-3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McL-Sigma-3` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "Juna-Resonanz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna-Resonanz` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "Juna Echo"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna Echo` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#3]
+$ read.py --count "Self"
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`Self` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#4]
+$ read.py --count "Lex"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Lex` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#9]
+$ read.py --count "Gardener"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gardener` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "Gärtner"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gärtner` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "ISH"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ISH` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "Co₁"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Co₁` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ read.py --count "Theory of Structural Dissociation of the Personality (TSDP)"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Theory of Structural Dissociation of the Personality (TSDP)` ^[the-architecture-of-a-self-kael-s-journey-to-coherence.md:#1]
+$ stance marker sum: 5+5+2+3+2+2 = 19
+$ grep -c "?" body (profile: question marks 0)
+0

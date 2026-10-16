@@ -1,0 +1,37 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      11
+  ascii quotes           66
+
+# inflection families -- one term, several surfaces
+  inter    Interacting, Interest, Internal
+  syste    System, Systemic, Systems
+  kohär    Kohärenz, Kohärenztheorie
+  logic    Logic, Logical
+  objec    Objection, Objective
+  psych    Psychological, Psychology
+  resol    Resolution, Resolve
+  setti    Setting, Settings
+  story    Story, Storyform
+  subsy    Subsystem, Subsystems
+
+# substring pairs -- never one term, often merged by accident
+  Main < Domain
+  Logic < Logical
+  Logic < Ontological
+  Logic < Psychological
+  Story < Storyform
+  Proven < Unproven
+  System < Systems
+  System < Systemic
+  System < Subsystem
+  System < Subsystems
+  Logical < Ontological
+  Logical < Psychological
+  Setting < Settings
+  Systems < Subsystems
+  Kohärenz < Kohärenztheorie
+  Solution < Resolution
+  Subsystem < Subsystems

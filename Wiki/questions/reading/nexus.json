@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "nexus",
+ "title": "Nexus",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unterschied zwischen Meta-Raum und Übergangsort",
+  "wechselnde Zuordnung der Ebene",
+  "Manifestation der Guardians",
+  "Schutz eines nicht messbaren Zwischenraums",
+  "Zugang zum Außen"
+ ],
+ "basis": {
+  "nexus": {
+   "title": "Nexus",
+   "path": "Wiki/candidates/nexus.md",
+   "hash": "2c8839ab4082b2f72d9df1267685dacd4c2870d69c3c15afbf866825d87bb40f"
+  },
+  "ueberraum": {
+   "title": "Überraum",
+   "path": "Wiki/candidates/ueberraum.md",
+   "hash": "9c0fdcdb83308a2cb5257ec2382286f9894e9dd2151a31417c71b3f73486c0d9"
+  },
+  "ueberwelt": {
+   "title": "Überwelt",
+   "path": "Wiki/candidates/ueberwelt.md",
+   "hash": "5b0376c5488a6266c9ac1396245c5a00f1851ec5d7b03cfc8b4790171abef5a6"
+  },
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  },
+  "verschraenkungs-insel": {
+   "title": "Verschränkungs-Insel",
+   "path": "Wiki/candidates/verschraenkungs-insel.md",
+   "hash": "75cfd1a128debe5e93f4e4ccd54408eb571cde0fcb55dbf44192b52fbc096f1e"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-nexus-001",
+   "question": "Ist der Nexus die Bühne der Guardians, ein Übergang zu einer anderen Ebene oder ein geschützter Beziehungsraum – und welche Quelle unterscheidet diese Funktionen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-002",
+   "question": "Welche Lesarten auf der Seite zu Nexus stützen oder begrenzen „Unterschied zwischen Meta-Raum und Übergangsort“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-003",
+   "question": "Welcher Grenzfall würde bei Nexus die Annahmen über „Unterschied zwischen Meta-Raum und Übergangsort“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-004",
+   "question": "Wer könnte innerhalb des Romans bei Nexus etwas über „Unterschied zwischen Meta-Raum und Übergangsort“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-005",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Meta-Raum und Übergangsort“ bei Nexus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Meta-Raum und Übergangsort“ bei Nexus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-007",
+   "question": "Wie lässt sich „Unterschied zwischen Meta-Raum und Übergangsort“ bei Nexus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-008",
+   "question": "Welche Alternativen sollte der Autor bei Nexus für „Unterschied zwischen Meta-Raum und Übergangsort“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-009",
+   "question": "Was bedeutet bei Nexus der Themenpunkt „wechselnde Zuordnung der Ebene“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-010",
+   "question": "Welche Lesarten auf der Seite zu Nexus stützen oder begrenzen „wechselnde Zuordnung der Ebene“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-011",
+   "question": "Welcher Grenzfall würde bei Nexus die Annahmen über „wechselnde Zuordnung der Ebene“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-012",
+   "question": "Wer könnte innerhalb des Romans bei Nexus etwas über „wechselnde Zuordnung der Ebene“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-013",
+   "question": "Welche konkrete Entscheidung könnte „wechselnde Zuordnung der Ebene“ bei Nexus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „wechselnde Zuordnung der Ebene“ bei Nexus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-015",
+   "question": "Wie lässt sich „wechselnde Zuordnung der Ebene“ bei Nexus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-016",
+   "question": "Welche Alternativen sollte der Autor bei Nexus für „wechselnde Zuordnung der Ebene“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-017",
+   "question": "Was bedeutet bei Nexus der Themenpunkt „Manifestation der Guardians“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-018",
+   "question": "Welche Lesarten auf der Seite zu Nexus stützen oder begrenzen „Manifestation der Guardians“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-019",
+   "question": "Welcher Grenzfall würde bei Nexus die Annahmen über „Manifestation der Guardians“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-020",
+   "question": "Wer könnte innerhalb des Romans bei Nexus etwas über „Manifestation der Guardians“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-021",
+   "question": "Welche konkrete Entscheidung könnte „Manifestation der Guardians“ bei Nexus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Manifestation der Guardians“ bei Nexus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-023",
+   "question": "Wie lässt sich „Manifestation der Guardians“ bei Nexus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-024",
+   "question": "Welche Alternativen sollte der Autor bei Nexus für „Manifestation der Guardians“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-025",
+   "question": "Was bedeutet bei Nexus der Themenpunkt „Schutz eines nicht messbaren Zwischenraums“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-026",
+   "question": "Welche Lesarten auf der Seite zu Nexus stützen oder begrenzen „Schutz eines nicht messbaren Zwischenraums“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-027",
+   "question": "Welcher Grenzfall würde bei Nexus die Annahmen über „Schutz eines nicht messbaren Zwischenraums“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-028",
+   "question": "Wer könnte innerhalb des Romans bei Nexus etwas über „Schutz eines nicht messbaren Zwischenraums“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-029",
+   "question": "Welche konkrete Entscheidung könnte „Schutz eines nicht messbaren Zwischenraums“ bei Nexus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Schutz eines nicht messbaren Zwischenraums“ bei Nexus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-031",
+   "question": "Wie lässt sich „Schutz eines nicht messbaren Zwischenraums“ bei Nexus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-032",
+   "question": "Welche Alternativen sollte der Autor bei Nexus für „Schutz eines nicht messbaren Zwischenraums“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-033",
+   "question": "Was bedeutet bei Nexus der Themenpunkt „Zugang zum Außen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-034",
+   "question": "Welche Lesarten auf der Seite zu Nexus stützen oder begrenzen „Zugang zum Außen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-035",
+   "question": "Welcher Grenzfall würde bei Nexus die Annahmen über „Zugang zum Außen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-036",
+   "question": "Wer könnte innerhalb des Romans bei Nexus etwas über „Zugang zum Außen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-037",
+   "question": "Welche konkrete Entscheidung könnte „Zugang zum Außen“ bei Nexus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugang zum Außen“ bei Nexus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-039",
+   "question": "Wie lässt sich „Zugang zum Außen“ bei Nexus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-040",
+   "question": "Welche Alternativen sollte der Autor bei Nexus für „Zugang zum Außen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-nexus-041",
+   "question": "Wo unterscheiden sich Nexus und Überraum, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Meta-Raum und Übergangsort“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-042",
+   "question": "Welche Quelle verbindet Nexus mit Überraum in Bezug auf „Unterschied zwischen Meta-Raum und Übergangsort“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-043",
+   "question": "Welche Grenzen aus der Seite zu Überraum müsste eine Deutung von Nexus unter „Unterschied zwischen Meta-Raum und Übergangsort“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-044",
+   "question": "Wie könnte sich das Wissen über Nexus vom Wissen über Überraum unterscheiden, wenn „Unterschied zwischen Meta-Raum und Übergangsort“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nexus und Überraum bei „Unterschied zwischen Meta-Raum und Übergangsort“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-046",
+   "question": "Falls Nexus im Hinblick auf „Unterschied zwischen Meta-Raum und Übergangsort“ anders festgelegt wird: Welche Aussagen über Überraum müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nexus und Überraum bei „Unterschied zwischen Meta-Raum und Übergangsort“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-048",
+   "question": "Braucht der Roman eine Verbindung von Nexus und Überraum bei „Unterschied zwischen Meta-Raum und Übergangsort“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-049",
+   "question": "In welchem denkbaren Fall könnte Nexus bestehen, ohne dass Überraum dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Meta-Raum und Übergangsort“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-050",
+   "question": "Welche Kosten könnte eine Verbindung von Nexus und Überraum in Bezug auf „Unterschied zwischen Meta-Raum und Übergangsort“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-051",
+   "question": "Welche ältere Lesart von Nexus oder Überraum könnte die Gegenüberstellung unter „Unterschied zwischen Meta-Raum und Übergangsort“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nexus und Überraum unter „Unterschied zwischen Meta-Raum und Übergangsort“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "nexus",
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-nexus-053",
+   "question": "Wo unterscheiden sich Nexus und Überwelt, wenn man sie unter dem Gesichtspunkt „wechselnde Zuordnung der Ebene“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-054",
+   "question": "Welche Quelle verbindet Nexus mit Überwelt in Bezug auf „wechselnde Zuordnung der Ebene“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-055",
+   "question": "Welche Grenzen aus der Seite zu Überwelt müsste eine Deutung von Nexus unter „wechselnde Zuordnung der Ebene“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-056",
+   "question": "Wie könnte sich das Wissen über Nexus vom Wissen über Überwelt unterscheiden, wenn „wechselnde Zuordnung der Ebene“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nexus und Überwelt bei „wechselnde Zuordnung der Ebene“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-058",
+   "question": "Falls Nexus im Hinblick auf „wechselnde Zuordnung der Ebene“ anders festgelegt wird: Welche Aussagen über Überwelt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nexus und Überwelt bei „wechselnde Zuordnung der Ebene“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-060",
+   "question": "Braucht der Roman eine Verbindung von Nexus und Überwelt bei „wechselnde Zuordnung der Ebene“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-061",
+   "question": "In welchem denkbaren Fall könnte Nexus bestehen, ohne dass Überwelt dieselbe Funktion übernimmt, und was würde das für „wechselnde Zuordnung der Ebene“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-062",
+   "question": "Welche Kosten könnte eine Verbindung von Nexus und Überwelt in Bezug auf „wechselnde Zuordnung der Ebene“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-063",
+   "question": "Welche ältere Lesart von Nexus oder Überwelt könnte die Gegenüberstellung unter „wechselnde Zuordnung der Ebene“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nexus und Überwelt unter „wechselnde Zuordnung der Ebene“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "nexus",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-nexus-065",
+   "question": "Wo unterscheiden sich Nexus und Externe Ebene, wenn man sie unter dem Gesichtspunkt „Manifestation der Guardians“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-066",
+   "question": "Welche Quelle verbindet Nexus mit Externe Ebene in Bezug auf „Manifestation der Guardians“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-067",
+   "question": "Welche Grenzen aus der Seite zu Externe Ebene müsste eine Deutung von Nexus unter „Manifestation der Guardians“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-068",
+   "question": "Wie könnte sich das Wissen über Nexus vom Wissen über Externe Ebene unterscheiden, wenn „Manifestation der Guardians“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nexus und Externe Ebene bei „Manifestation der Guardians“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-070",
+   "question": "Falls Nexus im Hinblick auf „Manifestation der Guardians“ anders festgelegt wird: Welche Aussagen über Externe Ebene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nexus und Externe Ebene bei „Manifestation der Guardians“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-072",
+   "question": "Braucht der Roman eine Verbindung von Nexus und Externe Ebene bei „Manifestation der Guardians“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-073",
+   "question": "In welchem denkbaren Fall könnte Nexus bestehen, ohne dass Externe Ebene dieselbe Funktion übernimmt, und was würde das für „Manifestation der Guardians“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-074",
+   "question": "Welche Kosten könnte eine Verbindung von Nexus und Externe Ebene in Bezug auf „Manifestation der Guardians“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-075",
+   "question": "Welche ältere Lesart von Nexus oder Externe Ebene könnte die Gegenüberstellung unter „Manifestation der Guardians“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nexus und Externe Ebene unter „Manifestation der Guardians“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "nexus",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-nexus-077",
+   "question": "Wo unterscheiden sich Nexus und Verschränkungs-Insel, wenn man sie unter dem Gesichtspunkt „Schutz eines nicht messbaren Zwischenraums“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-078",
+   "question": "Welche Quelle verbindet Nexus mit Verschränkungs-Insel in Bezug auf „Schutz eines nicht messbaren Zwischenraums“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-079",
+   "question": "Welche Grenzen aus der Seite zu Verschränkungs-Insel müsste eine Deutung von Nexus unter „Schutz eines nicht messbaren Zwischenraums“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-080",
+   "question": "Wie könnte sich das Wissen über Nexus vom Wissen über Verschränkungs-Insel unterscheiden, wenn „Schutz eines nicht messbaren Zwischenraums“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nexus und Verschränkungs-Insel bei „Schutz eines nicht messbaren Zwischenraums“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-082",
+   "question": "Falls Nexus im Hinblick auf „Schutz eines nicht messbaren Zwischenraums“ anders festgelegt wird: Welche Aussagen über Verschränkungs-Insel müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nexus und Verschränkungs-Insel bei „Schutz eines nicht messbaren Zwischenraums“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-084",
+   "question": "Braucht der Roman eine Verbindung von Nexus und Verschränkungs-Insel bei „Schutz eines nicht messbaren Zwischenraums“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-085",
+   "question": "In welchem denkbaren Fall könnte Nexus bestehen, ohne dass Verschränkungs-Insel dieselbe Funktion übernimmt, und was würde das für „Schutz eines nicht messbaren Zwischenraums“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-086",
+   "question": "Welche Kosten könnte eine Verbindung von Nexus und Verschränkungs-Insel in Bezug auf „Schutz eines nicht messbaren Zwischenraums“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-087",
+   "question": "Welche ältere Lesart von Nexus oder Verschränkungs-Insel könnte die Gegenüberstellung unter „Schutz eines nicht messbaren Zwischenraums“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nexus und Verschränkungs-Insel unter „Schutz eines nicht messbaren Zwischenraums“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "nexus",
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-nexus-089",
+   "question": "Wo unterscheiden sich Nexus und Guardians, wenn man sie unter dem Gesichtspunkt „Zugang zum Außen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-090",
+   "question": "Welche Quelle verbindet Nexus mit Guardians in Bezug auf „Zugang zum Außen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-091",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Nexus unter „Zugang zum Außen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-092",
+   "question": "Wie könnte sich das Wissen über Nexus vom Wissen über Guardians unterscheiden, wenn „Zugang zum Außen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Nexus und Guardians bei „Zugang zum Außen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-094",
+   "question": "Falls Nexus im Hinblick auf „Zugang zum Außen“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Nexus und Guardians bei „Zugang zum Außen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-096",
+   "question": "Braucht der Roman eine Verbindung von Nexus und Guardians bei „Zugang zum Außen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-097",
+   "question": "In welchem denkbaren Fall könnte Nexus bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Zugang zum Außen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-098",
+   "question": "Welche Kosten könnte eine Verbindung von Nexus und Guardians in Bezug auf „Zugang zum Außen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-099",
+   "question": "Welche ältere Lesart von Nexus oder Guardians könnte die Gegenüberstellung unter „Zugang zum Außen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-nexus-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Nexus und Guardians unter „Zugang zum Außen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "nexus",
+    "guardians"
+   ]
+  }
+ ]
+}

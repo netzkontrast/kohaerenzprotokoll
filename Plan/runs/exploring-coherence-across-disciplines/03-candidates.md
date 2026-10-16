@@ -1,0 +1,45 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an English report on coherence in philosophy, linguistics, wave physics and signal processing. It names nothing of the novel's world: no figure, place, object or event. The candidates below are the words it sets in bold, heads sections with, defines, or marks with the single quotation marks of a term; the whole document is about coherence in general, so I made no separate lens section. Sentences of the argument and titles of cited works are left out. Terms containing a period or a comma (Coherence vs. Correspondence, the references) are left out of the list as the briefing warns; its halves are listed.
+
+- coherence
+- Coherence Theory of Truth
+- correspondence theory of truth
+- Correspondence
+- Isolation Objection
+- Alternative Systems Objection
+- coherentism
+- regress argument
+- Foundationalist theories
+- Cohesion
+- schemata
+- Logical Ordering
+- Thematic Unity
+- Repetition of Key Nouns
+- Use of Synonyms
+- Consistent Pronoun Reference
+- Transition Signals
+- Parallel Structure
+- Schema Activation
+- Optical Coherence
+- Temporal Coherence
+- Spatial Coherence
+- Quantum Coherence
+- Coherence Time
+- Coherence Length
+- Coherence Area
+- monochromaticity
+- decoherence
+- stimulated emission
+- population inversion
+- reference beam
+- object beam
+- Michelson interferometer
+- magnitude-squared coherence function
+- auto-spectral densities
+- cross-spectral density
+- dynamic functional connectivity
+- fragility of coherence
+- internal coherence and external correspondence
+- correspondence check
+- Holography

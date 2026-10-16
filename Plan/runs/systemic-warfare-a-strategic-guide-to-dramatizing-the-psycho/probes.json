@@ -1,0 +1,101 @@
+{
+  "document": "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
+  "drive_id": "1YTqQ8J1Mo0w3m_wTJWUWHZx00IKpBY3Pl4lv-oOSqDc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 6,
+  "backslash_escapes": 52,
+  "typographic_marks": 17,
+  "ascii_quotes": 54,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "analy": [
+      "Analysis",
+      "Analyst"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "engin": [
+      "Engine",
+      "Engineered"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploitation"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragments"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrator"
+    ],
+    "scena": [
+      "Scenario",
+      "Scenarios"
+    ],
+    "weapo": [
+      "Weapon",
+      "Weaponizing"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Path",
+      "Empathy"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "With",
+      "Within"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Engine",
+      "Engineered"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Weapon",
+      "Weaponizing"
+    ],
+    [
+      "Exploit",
+      "Exploitation"
+    ],
+    [
+      "Scenario",
+      "Scenarios"
+    ]
+  ]
+}

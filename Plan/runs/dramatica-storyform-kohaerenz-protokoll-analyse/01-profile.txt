@@ -1,0 +1,14 @@
+# dramatica-storyform-kohaerenz-protokoll-analyse
+  lines                206  (frontmatter ends at 9)
+  body words           3447
+  headings             23   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       22
+  backslash escapes    99
+  typographic marks    141   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    44
+  repeated labels      none
+  longest line         754 chars
+

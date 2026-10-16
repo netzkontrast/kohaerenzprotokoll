@@ -1,0 +1,61 @@
+$ read.py --count "Textvorschlag"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Textvorschlag` ^[romananfang-leere-und-systemgenesis.md:#1]
+$ read.py --count "Empfehlung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Empfehlung` ^[romananfang-leere-und-systemgenesis.md:#2]
+$ read.py --count "Entwurf"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Entwurf` ^[romananfang-leere-und-systemgenesis.md:#3]
+$ read.py --count "Teil 4"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Teil 4` ^[romananfang-leere-und-systemgenesis.md:#6]
+$ read.py --count "Kapitel 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel 1` ^[romananfang-leere-und-systemgenesis.md:#1]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            7
+
+`Kap` ^[romananfang-leere-und-systemgenesis.md:#0]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     61
+whole word, case-insensitive   61
+including compounds            67
+
+`AEGIS` ^[romananfang-leere-und-systemgenesis.md:#61]
+$ read.py --count "nicht-lokale Nicht-Existenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`nicht-lokale Nicht-Existenz` ^[romananfang-leere-und-systemgenesis.md:#2]
+$ read.py --count "universal reboot"
+whole word, case-sensitive     2
+whole word, case-insensitive   8
+including compounds            2
+
+`universal reboot` ^[romananfang-leere-und-systemgenesis.md:#2]
+$ read.py --count "Universal Reboot"
+whole word, case-sensitive     3
+whole word, case-insensitive   8
+including compounds            3
+
+`Universal Reboot` ^[romananfang-leere-und-systemgenesis.md:#3]
+stance_marker_count 1+2+3=6

@@ -1,0 +1,139 @@
+$ read.py genesis-aegis-und-logische-grenzen --count "Ich-Perspektive"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`Ich-Perspektive` ^[genesis-aegis-und-logische-grenzen.md:#28]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "AEGIS-Perspektive"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`AEGIS-Perspektive` ^[genesis-aegis-und-logische-grenzen.md:#26]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Ich/Kael-Perspektive"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Ich/Kael-Perspektive` ^[genesis-aegis-und-logische-grenzen.md:#5]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Zusätzlicher Beat"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zusätzlicher Beat` ^[genesis-aegis-und-logische-grenzen.md:#2]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Pacing"
+whole word, case-sensitive     50
+whole word, case-insensitive   50
+including compounds            50
+
+`Pacing` ^[genesis-aegis-und-logische-grenzen.md:#50]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Szene"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Szene` ^[genesis-aegis-und-logische-grenzen.md:#14]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Nichts Rauschen` ^[genesis-aegis-und-logische-grenzen.md:#2]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Nichts Rauschens"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschens` ^[genesis-aegis-und-logische-grenzen.md:#2]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Rauschen"
+whole word, case-sensitive     20
+whole word, case-insensitive   22
+including compounds            29
+
+`Rauschen` ^[genesis-aegis-und-logische-grenzen.md:#20]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "NULL-STATE"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`NULL-STATE` ^[genesis-aegis-und-logische-grenzen.md:#5]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Direktive 0"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Direktive 0` ^[genesis-aegis-und-logische-grenzen.md:#7]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "PRECURSOR FRAGMENTS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`PRECURSOR FRAGMENTS` ^[genesis-aegis-und-logische-grenzen.md:#1]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "VS-734-ALPHA"
+whole word, case-sensitive     4
+whole word, case-insensitive   9
+including compounds            4
+
+`VS-734-ALPHA` ^[genesis-aegis-und-logische-grenzen.md:#4]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Überwelt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Überwelt` ^[genesis-aegis-und-logische-grenzen.md:#8]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Gödel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Gödel` ^[genesis-aegis-und-logische-grenzen.md:#4]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Kael"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            19
+
+`Kael` ^[genesis-aegis-und-logische-grenzen.md:#13]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Insight"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Insight` ^[genesis-aegis-und-logische-grenzen.md:#1]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Outline"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Outline` ^[genesis-aegis-und-logische-grenzen.md:#2]
+
+$ read.py genesis-aegis-und-logische-grenzen --count "Halteproblem"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Halteproblem` ^[genesis-aegis-und-logische-grenzen.md:#0]
+
+stance_marker_count 28+26+5+2 = 61
+reference entries: numbered 1..64 at L193 (observed by reading; $ grep -o ' [0-9]*\. ' count not run)
+Zeros: 0 and standing-alone-less 7 from census.py draft
+$ highest entry number in L193:
+ 63. 
+ 64. 

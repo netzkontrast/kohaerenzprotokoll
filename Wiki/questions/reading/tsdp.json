@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "tsdp",
+ "title": "TSDP",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status eines entlehnten klinischen Modells",
+  "Unterschied zwischen ANP und EP",
+  "Phobien zwischen Anteilen",
+  "Grenze der Übertragung auf Weltarchitektur",
+  "Integration ohne Vereinheitlichung"
+ ],
+ "basis": {
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  },
+  "did": {
+   "title": "DID — dissoziative Identitätsstruktur",
+   "path": "Wiki/candidates/did.md",
+   "hash": "3e4dbef89c60c8206972740f586bc1cab3ab4d96d5e71074e213f334b6b879a7"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "cache-kohaerenz": {
+   "title": "Cache-Kohärenz",
+   "path": "Wiki/candidates/cache-kohaerenz.md",
+   "hash": "38b366ecb71be124ee23458f7a92d3ed0c0d4e96765a3da59e44d8d2b70c25f8"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-tsdp-001",
+   "question": "Welche Grenzen des TSDP-Modells muss die Figurenführung bewahren, damit ANP und EP nicht zu erschöpfenden Rollenbeschreibungen werden?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-002",
+   "question": "Welche Lesarten auf der Seite zu TSDP stützen oder begrenzen „Status eines entlehnten klinischen Modells“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-003",
+   "question": "Welcher Grenzfall würde bei TSDP die Annahmen über „Status eines entlehnten klinischen Modells“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-004",
+   "question": "Wer könnte innerhalb des Romans bei TSDP etwas über „Status eines entlehnten klinischen Modells“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-005",
+   "question": "Welche konkrete Entscheidung könnte „Status eines entlehnten klinischen Modells“ bei TSDP in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status eines entlehnten klinischen Modells“ bei TSDP haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-007",
+   "question": "Wie lässt sich „Status eines entlehnten klinischen Modells“ bei TSDP zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-008",
+   "question": "Welche Alternativen sollte der Autor bei TSDP für „Status eines entlehnten klinischen Modells“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-009",
+   "question": "Was bedeutet bei TSDP der Themenpunkt „Unterschied zwischen ANP und EP“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-010",
+   "question": "Welche Lesarten auf der Seite zu TSDP stützen oder begrenzen „Unterschied zwischen ANP und EP“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-011",
+   "question": "Welcher Grenzfall würde bei TSDP die Annahmen über „Unterschied zwischen ANP und EP“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-012",
+   "question": "Wer könnte innerhalb des Romans bei TSDP etwas über „Unterschied zwischen ANP und EP“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen ANP und EP“ bei TSDP in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen ANP und EP“ bei TSDP haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-015",
+   "question": "Wie lässt sich „Unterschied zwischen ANP und EP“ bei TSDP zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-016",
+   "question": "Welche Alternativen sollte der Autor bei TSDP für „Unterschied zwischen ANP und EP“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-017",
+   "question": "Was bedeutet bei TSDP der Themenpunkt „Phobien zwischen Anteilen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-018",
+   "question": "Welche Lesarten auf der Seite zu TSDP stützen oder begrenzen „Phobien zwischen Anteilen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-019",
+   "question": "Welcher Grenzfall würde bei TSDP die Annahmen über „Phobien zwischen Anteilen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-020",
+   "question": "Wer könnte innerhalb des Romans bei TSDP etwas über „Phobien zwischen Anteilen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-021",
+   "question": "Welche konkrete Entscheidung könnte „Phobien zwischen Anteilen“ bei TSDP in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Phobien zwischen Anteilen“ bei TSDP haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-023",
+   "question": "Wie lässt sich „Phobien zwischen Anteilen“ bei TSDP zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-024",
+   "question": "Welche Alternativen sollte der Autor bei TSDP für „Phobien zwischen Anteilen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-025",
+   "question": "Was bedeutet bei TSDP der Themenpunkt „Grenze der Übertragung auf Weltarchitektur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-026",
+   "question": "Welche Lesarten auf der Seite zu TSDP stützen oder begrenzen „Grenze der Übertragung auf Weltarchitektur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-027",
+   "question": "Welcher Grenzfall würde bei TSDP die Annahmen über „Grenze der Übertragung auf Weltarchitektur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-028",
+   "question": "Wer könnte innerhalb des Romans bei TSDP etwas über „Grenze der Übertragung auf Weltarchitektur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze der Übertragung auf Weltarchitektur“ bei TSDP in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze der Übertragung auf Weltarchitektur“ bei TSDP haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-031",
+   "question": "Wie lässt sich „Grenze der Übertragung auf Weltarchitektur“ bei TSDP zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-032",
+   "question": "Welche Alternativen sollte der Autor bei TSDP für „Grenze der Übertragung auf Weltarchitektur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-033",
+   "question": "Was bedeutet bei TSDP der Themenpunkt „Integration ohne Vereinheitlichung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-034",
+   "question": "Welche Lesarten auf der Seite zu TSDP stützen oder begrenzen „Integration ohne Vereinheitlichung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-035",
+   "question": "Welcher Grenzfall würde bei TSDP die Annahmen über „Integration ohne Vereinheitlichung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-036",
+   "question": "Wer könnte innerhalb des Romans bei TSDP etwas über „Integration ohne Vereinheitlichung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-037",
+   "question": "Welche konkrete Entscheidung könnte „Integration ohne Vereinheitlichung“ bei TSDP in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Integration ohne Vereinheitlichung“ bei TSDP haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-039",
+   "question": "Wie lässt sich „Integration ohne Vereinheitlichung“ bei TSDP zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-040",
+   "question": "Welche Alternativen sollte der Autor bei TSDP für „Integration ohne Vereinheitlichung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-041",
+   "question": "Wo unterscheiden sich TSDP und DID — dissoziative Identitätsstruktur, wenn man sie unter dem Gesichtspunkt „Status eines entlehnten klinischen Modells“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-042",
+   "question": "Welche Quelle verbindet TSDP mit DID — dissoziative Identitätsstruktur in Bezug auf „Status eines entlehnten klinischen Modells“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-043",
+   "question": "Welche Grenzen aus der Seite zu DID — dissoziative Identitätsstruktur müsste eine Deutung von TSDP unter „Status eines entlehnten klinischen Modells“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-044",
+   "question": "Wie könnte sich das Wissen über TSDP vom Wissen über DID — dissoziative Identitätsstruktur unterscheiden, wenn „Status eines entlehnten klinischen Modells“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen TSDP und DID — dissoziative Identitätsstruktur bei „Status eines entlehnten klinischen Modells“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-046",
+   "question": "Falls TSDP im Hinblick auf „Status eines entlehnten klinischen Modells“ anders festgelegt wird: Welche Aussagen über DID — dissoziative Identitätsstruktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten TSDP und DID — dissoziative Identitätsstruktur bei „Status eines entlehnten klinischen Modells“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-048",
+   "question": "Braucht der Roman eine Verbindung von TSDP und DID — dissoziative Identitätsstruktur bei „Status eines entlehnten klinischen Modells“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-049",
+   "question": "In welchem denkbaren Fall könnte TSDP bestehen, ohne dass DID — dissoziative Identitätsstruktur dieselbe Funktion übernimmt, und was würde das für „Status eines entlehnten klinischen Modells“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-050",
+   "question": "Welche Kosten könnte eine Verbindung von TSDP und DID — dissoziative Identitätsstruktur in Bezug auf „Status eines entlehnten klinischen Modells“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-051",
+   "question": "Welche ältere Lesart von TSDP oder DID — dissoziative Identitätsstruktur könnte die Gegenüberstellung unter „Status eines entlehnten klinischen Modells“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von TSDP und DID — dissoziative Identitätsstruktur unter „Status eines entlehnten klinischen Modells“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "tsdp",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-053",
+   "question": "Wo unterscheiden sich TSDP und Alters, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen ANP und EP“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-054",
+   "question": "Welche Quelle verbindet TSDP mit Alters in Bezug auf „Unterschied zwischen ANP und EP“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-055",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von TSDP unter „Unterschied zwischen ANP und EP“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-056",
+   "question": "Wie könnte sich das Wissen über TSDP vom Wissen über Alters unterscheiden, wenn „Unterschied zwischen ANP und EP“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen TSDP und Alters bei „Unterschied zwischen ANP und EP“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-058",
+   "question": "Falls TSDP im Hinblick auf „Unterschied zwischen ANP und EP“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten TSDP und Alters bei „Unterschied zwischen ANP und EP“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-060",
+   "question": "Braucht der Roman eine Verbindung von TSDP und Alters bei „Unterschied zwischen ANP und EP“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-061",
+   "question": "In welchem denkbaren Fall könnte TSDP bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen ANP und EP“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-062",
+   "question": "Welche Kosten könnte eine Verbindung von TSDP und Alters in Bezug auf „Unterschied zwischen ANP und EP“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-063",
+   "question": "Welche ältere Lesart von TSDP oder Alters könnte die Gegenüberstellung unter „Unterschied zwischen ANP und EP“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von TSDP und Alters unter „Unterschied zwischen ANP und EP“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "tsdp",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-065",
+   "question": "Wo unterscheiden sich TSDP und Cache-Kohärenz, wenn man sie unter dem Gesichtspunkt „Phobien zwischen Anteilen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-066",
+   "question": "Welche Quelle verbindet TSDP mit Cache-Kohärenz in Bezug auf „Phobien zwischen Anteilen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-067",
+   "question": "Welche Grenzen aus der Seite zu Cache-Kohärenz müsste eine Deutung von TSDP unter „Phobien zwischen Anteilen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-068",
+   "question": "Wie könnte sich das Wissen über TSDP vom Wissen über Cache-Kohärenz unterscheiden, wenn „Phobien zwischen Anteilen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen TSDP und Cache-Kohärenz bei „Phobien zwischen Anteilen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-070",
+   "question": "Falls TSDP im Hinblick auf „Phobien zwischen Anteilen“ anders festgelegt wird: Welche Aussagen über Cache-Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten TSDP und Cache-Kohärenz bei „Phobien zwischen Anteilen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-072",
+   "question": "Braucht der Roman eine Verbindung von TSDP und Cache-Kohärenz bei „Phobien zwischen Anteilen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-073",
+   "question": "In welchem denkbaren Fall könnte TSDP bestehen, ohne dass Cache-Kohärenz dieselbe Funktion übernimmt, und was würde das für „Phobien zwischen Anteilen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-074",
+   "question": "Welche Kosten könnte eine Verbindung von TSDP und Cache-Kohärenz in Bezug auf „Phobien zwischen Anteilen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-075",
+   "question": "Welche ältere Lesart von TSDP oder Cache-Kohärenz könnte die Gegenüberstellung unter „Phobien zwischen Anteilen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von TSDP und Cache-Kohärenz unter „Phobien zwischen Anteilen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "tsdp",
+    "cache-kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-077",
+   "question": "Wo unterscheiden sich TSDP und Kael, wenn man sie unter dem Gesichtspunkt „Grenze der Übertragung auf Weltarchitektur“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-078",
+   "question": "Welche Quelle verbindet TSDP mit Kael in Bezug auf „Grenze der Übertragung auf Weltarchitektur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von TSDP unter „Grenze der Übertragung auf Weltarchitektur“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-080",
+   "question": "Wie könnte sich das Wissen über TSDP vom Wissen über Kael unterscheiden, wenn „Grenze der Übertragung auf Weltarchitektur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen TSDP und Kael bei „Grenze der Übertragung auf Weltarchitektur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-082",
+   "question": "Falls TSDP im Hinblick auf „Grenze der Übertragung auf Weltarchitektur“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten TSDP und Kael bei „Grenze der Übertragung auf Weltarchitektur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-084",
+   "question": "Braucht der Roman eine Verbindung von TSDP und Kael bei „Grenze der Übertragung auf Weltarchitektur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-085",
+   "question": "In welchem denkbaren Fall könnte TSDP bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Grenze der Übertragung auf Weltarchitektur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-086",
+   "question": "Welche Kosten könnte eine Verbindung von TSDP und Kael in Bezug auf „Grenze der Übertragung auf Weltarchitektur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-087",
+   "question": "Welche ältere Lesart von TSDP oder Kael könnte die Gegenüberstellung unter „Grenze der Übertragung auf Weltarchitektur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von TSDP und Kael unter „Grenze der Übertragung auf Weltarchitektur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "tsdp",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-089",
+   "question": "Wo unterscheiden sich TSDP und Multiplizität, wenn man sie unter dem Gesichtspunkt „Integration ohne Vereinheitlichung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-090",
+   "question": "Welche Quelle verbindet TSDP mit Multiplizität in Bezug auf „Integration ohne Vereinheitlichung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-091",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von TSDP unter „Integration ohne Vereinheitlichung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-092",
+   "question": "Wie könnte sich das Wissen über TSDP vom Wissen über Multiplizität unterscheiden, wenn „Integration ohne Vereinheitlichung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen TSDP und Multiplizität bei „Integration ohne Vereinheitlichung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-094",
+   "question": "Falls TSDP im Hinblick auf „Integration ohne Vereinheitlichung“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten TSDP und Multiplizität bei „Integration ohne Vereinheitlichung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-096",
+   "question": "Braucht der Roman eine Verbindung von TSDP und Multiplizität bei „Integration ohne Vereinheitlichung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-097",
+   "question": "In welchem denkbaren Fall könnte TSDP bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Integration ohne Vereinheitlichung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-098",
+   "question": "Welche Kosten könnte eine Verbindung von TSDP und Multiplizität in Bezug auf „Integration ohne Vereinheitlichung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-099",
+   "question": "Welche ältere Lesart von TSDP oder Multiplizität könnte die Gegenüberstellung unter „Integration ohne Vereinheitlichung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-tsdp-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von TSDP und Multiplizität unter „Integration ohne Vereinheitlichung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "tsdp",
+    "multiplizitaet"
+   ]
+  }
+ ]
+}

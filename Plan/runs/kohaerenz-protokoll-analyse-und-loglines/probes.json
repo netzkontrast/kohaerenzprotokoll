@@ -1,0 +1,293 @@
+{
+  "document": "kohaerenz-protokoll-analyse-und-loglines",
+  "drive_id": "12yTXUOv1ts5LteBM_eCU-pOck2-rwSBxdfPPtCETPko",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 92,
+  "backslash_escapes": 68,
+  "typographic_marks": 28,
+  "ascii_quotes": 56,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systeminstabilitäten",
+      "Systemnachricht",
+      "Systemreaktionen",
+      "Systemregeln",
+      "Systems",
+      "Systemstörung",
+      "Systemtheorie",
+      "Systemtheorien",
+      "Systemveränderung"
+    ],
+    "chara": [
+      "Characters",
+      "Charakter",
+      "Charakterarchitektur",
+      "Charakterbogen",
+      "Charakterentwicklung",
+      "Charakterentwicklungen",
+      "Charaktererfahrung",
+      "Charakterfokus",
+      "Charakterhandlungen",
+      "Charakterisierung",
+      "Charakters"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollhandlungen",
+      "Kontrollknotenpunkt",
+      "Kontrolllogik",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollprotokoll",
+      "Kontrollsystem",
+      "Kontrollversuche"
+    ],
+    "integ": [
+      "Integrate",
+      "Integration",
+      "Integrationsbemühungen",
+      "Integrationsprozess",
+      "Integrationsschritt",
+      "Integrierens",
+      "Integrierte",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Internal",
+      "InternalFamilySystems",
+      "Interne",
+      "Interner",
+      "Intervention",
+      "Interventionen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbestimmung",
+      "Selbstbezug",
+      "Selbsterhaltung",
+      "Selbsterhaltungsimperativ",
+      "Selbsterhaltungstrieb",
+      "Selbstproduktion",
+      "Selbstzerstörung"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionaler",
+      "Emotionen"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelclustern",
+      "Kapitelebene",
+      "Kapitelenden",
+      "Kapiteln",
+      "Kapitels"
+    ],
+    "poten": [
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzials",
+      "Potenzielle",
+      "Potenzieller"
+    ],
+    "strat": [
+      "Strategie",
+      "Strategieentwicklung",
+      "Strategien",
+      "Strategische",
+      "Strategischer",
+      "Strategisches"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzsicherung",
+      "Grenzziehung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfortschritt",
+      "Handlungsfähigkeit",
+      "Handlungsmacht"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identities",
+      "Identität",
+      "Identitäten",
+      "Identitätsgrenzen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts",
+      "Konzeptuelle"
+    ],
+    "überw": [
+      "Überwachen",
+      "Überwachung",
+      "Überwelt",
+      "Überwindung",
+      "Überwältigung"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschlussbild",
+      "Abschnitt",
+      "Abschnitte"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählers",
+      "Erzählprinzip",
+      "Erzählung"
+    ],
+    "exter": [
+      "Externalisierung",
+      "Externalisierungen",
+      "Externalization",
+      "Externe"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselfiguren",
+      "Schlüsselmerkmale",
+      "Schlüsselthemen"
+    ],
+    "spann": [
+      "Spannung",
+      "Spannungsbogen",
+      "Spannungsfreisetzung",
+      "Spannungsmanagement"
+    ],
+    "theor": [
+      "Theoretische",
+      "Theoretischer",
+      "Theorien",
+      "Theory"
+    ],
+    "varie": [
+      "Variety",
+      "Varietät",
+      "Varietätsdefizit",
+      "Varietätsdefizits"
+    ],
+    "wider": [
+      "Widersprüchen",
+      "Widerstand",
+      "Widerstands",
+      "Widerstandsversuch"
+    ],
+    "überl": [
+      "Überladung",
+      "Überleben",
+      "Überlebensversuche",
+      "Überlegungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Aktende"
+    ],
+    [
+      "Akte",
+      "Abstrakte"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charakters"
+    ],
+    [
+      "Akte",
+      "Charakterbogen"
+    ],
+    [
+      "Akte",
+      "Charakterfokus"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Akte",
+      "Charaktererfahrung"
+    ],
+    [
+      "Akte",
+      "Charakterhandlungen"
+    ],
+    [
+      "Akte",
+      "Charakterarchitektur"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklungen"
+    ],
+    [
+      "Arts",
+      "Parts"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Bild",
+      "Bildsprache"
+    ],
+    [
+      "Bild",
+      "Abschlussbild"
+    ],
+    [
+      "Bild",
+      "Vertrauensbildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ]
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "document": "kapitel-eins-1-kohaerenz-protokoll",
+  "drive_id": "12d4x94Vu7XU0HO6UqS2x3mFGLG696QV9AbVX5HrZQa8",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 17,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "daten": [
+      "Datenartefakte",
+      "Datenflusses",
+      "Datenpaket",
+      "Datenpunkt",
+      "Datenstrom",
+      "Datenströme",
+      "Datenverarbeitungszentrum"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtfäden",
+      "Lichtlinien",
+      "Lichtmuster",
+      "Lichtsignale"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemfehler",
+      "Systeminterferenz"
+    ],
+    "gesic": [
+      "Gesicht",
+      "Gesichter",
+      "Gesichtszüge"
+    ],
+    "anoma": [
+      "Anomalie",
+      "Anomalien"
+    ],
+    "block": [
+      "Block",
+      "Blocks"
+    ],
+    "finge": [
+      "Finger",
+      "Fingerabdrücke"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionen"
+    ],
+    "geist": [
+      "Geist",
+      "Geistes"
+    ],
+    "glied": [
+      "Glieder",
+      "Gliedmaßen"
+    ],
+    "herzs": [
+      "Herzschlag",
+      "Herzschlags"
+    ],
+    "infor": [
+      "Information",
+      "Informationen"
+    ],
+    "korri": [
+      "Korridor",
+      "Korridors"
+    ],
+    "mater": [
+      "Materials",
+      "Materie"
+    ],
+    "physi": [
+      "Physis",
+      "Physische"
+    ],
+    "platt": [
+      "Plattform",
+      "Plattformen"
+    ],
+    "senso": [
+      "Sensor",
+      "Sensoren"
+    ],
+    "sinus": [
+      "Sinus",
+      "Sinuswelle"
+    ],
+    "statu": [
+      "Statusbericht",
+      "Statusparameter"
+    ],
+    "tiefe": [
+      "Tiefe",
+      "Tiefen"
+    ],
+    "wände": [
+      "Wände",
+      "Wänden"
+    ],
+    "wärme": [
+      "Wärme",
+      "Wärmeabstrahlung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Eins",
+      "Seins"
+    ],
+    [
+      "Form",
+      "Plattform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Plattformen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Hand",
+      "Handballen"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Laut",
+      "Laute"
+    ],
+    [
+      "Norm",
+      "Normbereich"
+    ],
+    [
+      "Puls",
+      "Impuls"
+    ],
+    [
+      "Raum",
+      "Raumes"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Sein",
+      "Seins"
+    ],
+    [
+      "Sein",
+      "Gewahrsein"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Sinneseindrücken"
+    ],
+    [
+      "Sinn",
+      "Wahnsinn"
+    ]
+  ]
+}

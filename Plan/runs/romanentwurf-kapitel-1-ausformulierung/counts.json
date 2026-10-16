@@ -1,0 +1,383 @@
+{
+  "document": "romanentwurf-kapitel-1-ausformulierung",
+  "drive_id": "1_UVNdhcucY3Avn25aGZ4CUWRsFGRjVnV8PNUVARbafg",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        23,
+        25,
+        29,
+        31,
+        33,
+        35,
+        41,
+        47,
+        51,
+        63,
+        69,
+        71
+      ]
+    },
+    "Juna": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        27,
+        29,
+        43,
+        53
+      ]
+    },
+    "Jansen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        45,
+        49
+      ]
+    },
+    "LogOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        31,
+        39
+      ]
+    },
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        61,
+        71,
+        73
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Transitkorridor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Datenknotenpunkt Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Knotenpunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Wohneinheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        57
+      ]
+    },
+    "Panoramafenster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Pausenraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Sektor Delta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Architekten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        41
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        35,
+        37,
+        41,
+        51,
+        71
+      ]
+    },
+    "Praetor": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        39,
+        51,
+        61
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        51
+      ]
+    },
+    "Nox": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        49,
+        53
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        69
+      ]
+    },
+    "Echo": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        29,
+        35,
+        39,
+        43,
+        53,
+        57,
+        59,
+        71,
+        73
+      ]
+    },
+    "Silas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        59
+      ]
+    },
+    "Anomalie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        43,
+        49
+      ]
+    },
+    "Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Intrusion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        57
+      ]
+    },
+    "Riss": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        37,
+        51,
+        57
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        51,
+        57
+      ]
+    },
+    "Naht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Finde die Naht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        90
+      ]
+    },
+    "Systeminterferenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Reboot-Zyklus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Remote-Check-in": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Statusbericht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Ich-Fehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Protokoll": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        23,
+        41,
+        49
+      ]
+    },
+    "Depersonalisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        55
+      ]
+    },
+    "Tal des Unwirklichen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Projektion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Fragmentierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        75
+      ]
+    },
+    "Zerrissenheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        63,
+        75
+      ]
+    },
+    "Als ob": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    }
+  }
+}

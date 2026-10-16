@@ -1,0 +1,240 @@
+{
+  "document": "narrative-physik-attraktoren-leserbewusstsein",
+  "drive_id": "1ebX6DpsQ-z7ze6kmaHGynP1SYwXnApkJ1KLryw08nko",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 54,
+  "backslash_escapes": 66,
+  "typographic_marks": 126,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "psych": [
+      "Psyche",
+      "Psychoanalyse",
+      "Psychoanalytisch",
+      "Psychoanalytisches",
+      "Psychological",
+      "Psychologische",
+      "Psychologischen",
+      "Psychologischer"
+    ],
+    "attra": [
+      "Attractors",
+      "Attraktor",
+      "Attraktoren",
+      "Attraktors",
+      "Attraktorsystems"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätskollaps",
+      "Realitätsprinzip",
+      "Realitätsprinzips",
+      "Realitätszusammenbruch"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemkollapses",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählstimme",
+      "Erzählstrukturen",
+      "Erzählung"
+    ],
+    "infor": [
+      "Informationen",
+      "Informationsbegriff",
+      "Informationsentropie",
+      "Informationstheorie"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Interpretation",
+      "Interpretationen"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollparameter",
+      "Kontrollprotokoll",
+      "Kontrollverlusts"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzepten",
+      "Konzeption"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "roman": [
+      "Roman",
+      "Romans",
+      "Romanuniversums",
+      "Romanze"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumareaktionen",
+      "Traumas",
+      "Traumatisierte"
+    ],
+    "anzie": [
+      "Anziehungsbecken",
+      "Anziehungsbeckens",
+      "Anziehungskraft"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtereffekt",
+      "Beobachtung"
+    ],
+    "chaos": [
+      "Chaos",
+      "Chaosforschung",
+      "Chaostheorie"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterentscheidungen"
+    ],
+    "eleme": [
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ],
+    "erhab": [
+      "ErhabEnEn",
+      "Erhabene",
+      "Erhabenen"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalen",
+      "Funktionen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsbogen",
+      "Handlungsverläufe"
+    ],
+    "leser": [
+      "Leser",
+      "Leserintegration",
+      "Lesers"
+    ],
+    "liter": [
+      "Literature",
+      "Literaturtheorie",
+      "Literaturwissenschaft"
+    ],
+    "model": [
+      "Modell",
+      "Modellierung",
+      "Modells"
+    ],
+    "mytho": [
+      "Mythoi",
+      "Mythology",
+      "Mythos"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophisch",
+      "Philosophisches"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Wikibooks"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Ende",
+      "Pendel"
+    ],
+    [
+      "Ende",
+      "Schwankende"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Fall",
+      "Zufall"
+    ],
+    [
+      "Five",
+      "Fiveable"
+    ],
+    [
+      "Form",
+      "Formlosem"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Gedankenreform"
+    ],
+    [
+      "Form",
+      "Informationsbegriff"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationsentropie"
+    ],
+    [
+      "Frye",
+      "Fryes"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

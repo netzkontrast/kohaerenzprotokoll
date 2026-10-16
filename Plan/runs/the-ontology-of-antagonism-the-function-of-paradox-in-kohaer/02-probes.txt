@@ -1,0 +1,30 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      42
+  typographic marks      15
+  ascii quotes           70
+
+# inflection families -- one term, several surfaces
+  contr    Contradictione, Contradictions, Control
+  diale    Dialectic, Dialetheic, Dialetheismus
+  conse    Consequence, Consequences
+  defin    Defining, Definition
+  force    Forced, Forces
+  forsc    Forschungsaufgabe, Forschungsfragen
+  funct    Function, Functional
+  inter    Internal, Interprets
+  isola    Isolates, Isolation
+  ontol    Ontological, Ontology
+  parac    Paraconsistency, Paraconsistent
+  syste    System, Systemic
+
+# substring pairs -- never one term, often merged by accident
+  Logic < Ontological
+  Logic < Epistemological
+  Forces < Reinforces
+  System < Systemic
+  Thesis < Antithesis
+  Function < Functional
+  Existence < Coexistence
+  Consequence < Consequences

@@ -1,0 +1,144 @@
+{
+  "document": "strategic-narrative-implementation-for-kohaerenz-protokoll",
+  "drive_id": "1843XLBaBMXuGSro7SexzQtJvvHIP9_t0YU6OKVLRaz0",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 10,
+  "backslash_escapes": 28,
+  "typographic_marks": 26,
+  "ascii_quotes": 172,
+  "inflection_families": {
+    "confr": [
+      "Confrontation",
+      "Confronting"
+    ],
+    "crack": [
+      "Crack",
+      "Cracks"
+    ],
+    "creat": [
+      "Create",
+      "Creature"
+    ],
+    "descr": [
+      "Describe",
+      "Description"
+    ],
+    "detai": [
+      "Detail",
+      "Details"
+    ],
+    "final": [
+      "Final",
+      "Finally"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödelian"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestations"
+    ],
+    "narra": [
+      "Narrate",
+      "Narrative"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxon"
+    ],
+    "parai": [
+      "Paraiya",
+      "Paraiyas"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanzkaskade"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategy"
+    ],
+    "subje": [
+      "Subjectivity",
+      "Subjektivität"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Crack",
+      "Cracks"
+    ],
+    [
+      "Final",
+      "Finally"
+    ],
+    [
+      "Gödel",
+      "Gödelian"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Detail",
+      "Details"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Logical",
+      "Epistemological"
+    ],
+    [
+      "Paradox",
+      "Paradoxon"
+    ],
+    [
+      "Paraiya",
+      "Paraiyas"
+    ],
+    [
+      "Manifest",
+      "Manifestations"
+    ]
+  ]
+}

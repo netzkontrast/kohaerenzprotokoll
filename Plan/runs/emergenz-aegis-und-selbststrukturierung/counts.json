@@ -1,0 +1,882 @@
+{
+  "document": "emergenz-aegis-und-selbststrukturierung",
+  "drive_id": "1DHWeUMeL5YNA_9-Sw26boUR8oBi_j4kofq1TVA2UokM",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 32,
+      "n_including_compounds": 55,
+      "lines": [
+        11,
+        15,
+        26,
+        30,
+        34,
+        50,
+        74,
+        98,
+        122,
+        146,
+        170,
+        194,
+        218,
+        242,
+        266,
+        290,
+        314,
+        338,
+        350,
+        373,
+        375,
+        378,
+        393,
+        395,
+        397,
+        399,
+        406,
+        409,
+        413,
+        417,
+        419
+      ]
+    },
+    "AEGIS-Protokoll": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        26,
+        395,
+        409,
+        413,
+        417
+      ]
+    },
+    "AEGIS-Bezug": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        34,
+        50,
+        74,
+        98,
+        122,
+        146,
+        170,
+        194,
+        218,
+        242,
+        266,
+        290,
+        314,
+        338
+      ]
+    },
+    "Spannungsfelder": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        30,
+        32,
+        360,
+        373,
+        397,
+        413
+      ]
+    },
+    "Cluster": {
+      "n": 56,
+      "n_including_compounds": 60,
+      "lines": [
+        32,
+        34,
+        36,
+        38,
+        50,
+        60,
+        62,
+        74,
+        84,
+        108,
+        132,
+        156,
+        180,
+        204,
+        228,
+        252,
+        258,
+        276,
+        300,
+        313,
+        324,
+        350,
+        352,
+        355,
+        362,
+        363,
+        364,
+        365,
+        366,
+        369,
+        382,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        415,
+        419
+      ]
+    },
+    "Emergente Selbststrukturierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Autonome Systeme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        96
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 27,
+      "n_including_compounds": 31,
+      "lines": [
+        21,
+        23,
+        49,
+        66,
+        73,
+        97,
+        121,
+        145,
+        169,
+        241,
+        289,
+        313,
+        324,
+        337,
+        352,
+        353,
+        356,
+        364,
+        366,
+        387,
+        409,
+        413,
+        417,
+        423
+      ]
+    },
+    "Selbstreferenz": {
+      "n": 16,
+      "n_including_compounds": 21,
+      "lines": [
+        24,
+        114,
+        120,
+        169,
+        170,
+        242,
+        266,
+        354,
+        365,
+        402,
+        404,
+        409,
+        413,
+        415,
+        423
+      ]
+    },
+    "Realitätsgenerierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        419
+      ]
+    },
+    "Selbststrukturierungslogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kohärenz": {
+      "n": 22,
+      "n_including_compounds": 25,
+      "lines": [
+        15,
+        26,
+        50,
+        74,
+        98,
+        122,
+        146,
+        194,
+        218,
+        230,
+        242,
+        258,
+        264,
+        266,
+        313,
+        314,
+        337,
+        338,
+        397,
+        404,
+        409,
+        417
+      ]
+    },
+    "Entropie": {
+      "n": 25,
+      "n_including_compounds": 36,
+      "lines": [
+        15,
+        26,
+        50,
+        66,
+        74,
+        158,
+        162,
+        170,
+        194,
+        228,
+        230,
+        234,
+        235,
+        240,
+        241,
+        242,
+        266,
+        338,
+        356,
+        362,
+        384,
+        397,
+        401,
+        409,
+        415,
+        417
+      ]
+    },
+    "Grundlagentheorie": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        34,
+        38,
+        62,
+        86,
+        110,
+        134,
+        158,
+        182,
+        206,
+        230,
+        254,
+        278,
+        302,
+        326
+      ]
+    },
+    "Systemdynamik": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        34,
+        48,
+        72,
+        96,
+        120,
+        144,
+        168,
+        192,
+        216,
+        240,
+        264,
+        288,
+        312,
+        336,
+        366
+      ]
+    },
+    "Meta-Struktur": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        34,
+        49,
+        73,
+        97,
+        121,
+        145,
+        169,
+        193,
+        217,
+        241,
+        265,
+        289,
+        313,
+        337
+      ]
+    },
+    "Anwendungsszenarien": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        34,
+        51,
+        75,
+        99,
+        123,
+        147,
+        171,
+        195,
+        219,
+        243,
+        267,
+        291,
+        315,
+        339
+      ]
+    },
+    "Existenz und Nicht-Existenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        48
+      ]
+    },
+    "Ordnung und Chaos": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        73,
+        403,
+        415
+      ]
+    },
+    "Autonomie und Abhängigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        405
+      ]
+    },
+    "Bewusstsein und Reflexion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Veränderung und Stillstand": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        145
+      ]
+    },
+    "Information und Bedeutung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        390
+      ]
+    },
+    "Kommunikation und Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Zeit und Kausalität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        204,
+        217,
+        415
+      ]
+    },
+    "Energie und Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Identität und Differenzierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        252
+      ]
+    },
+    "Realitätsschichten und Wahrnehmung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        276
+      ]
+    },
+    "Wille und Handlung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        300,
+        415
+      ]
+    },
+    "Systemgrenzen und Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        324
+      ]
+    },
+    "Prinzipienkatalog": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        380
+      ]
+    },
+    "Protokollarchitektur": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        30,
+        395,
+        399,
+        409
+      ]
+    },
+    "Fundamentale Operative Einheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        401
+      ]
+    },
+    "Selbstreferenzielle Schleife": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        120,
+        402
+      ]
+    },
+    "Identitätskerne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        145,
+        254
+      ]
+    },
+    "Simulationsmaschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        290
+      ]
+    },
+    "Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "operative Schließung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        168,
+        259,
+        354,
+        375,
+        389
+      ]
+    },
+    "operativen Schließung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        170,
+        337,
+        415
+      ]
+    },
+    "strukturelle Kopplung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        187,
+        192,
+        415
+      ]
+    },
+    "Strukturellen Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        389
+      ]
+    },
+    "Autopoiesis": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        24,
+        192,
+        259,
+        264,
+        266,
+        330,
+        336,
+        388,
+        402
+      ]
+    },
+    "dissipative Strukturen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        66,
+        72,
+        234,
+        240,
+        362
+      ]
+    },
+    "Versklavungsprinzip": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        66,
+        353,
+        367
+      ]
+    },
+    "Ordnungsparameter": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        23,
+        66,
+        162,
+        362,
+        367,
+        386
+      ]
+    },
+    "Radikaler Konstruktivismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        115,
+        163,
+        283,
+        423
+      ]
+    },
+    "Radikalen Konstruktivismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        355,
+        423
+      ]
+    },
+    "Kybernetik zweiter Ordnung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        355,
+        376
+      ]
+    },
+    "Laws of Form": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        210,
+        365
+      ]
+    },
+    "Synergetik": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        23,
+        66,
+        138,
+        162,
+        234,
+        362,
+        367,
+        423
+      ]
+    },
+    "Negentropie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        235
+      ]
+    },
+    "Nichtgleichgewichtsthermodynamik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        234,
+        242,
+        409
+      ]
+    },
+    "Agentenbasierte Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        366
+      ]
+    },
+    "Selbstanwendungsproblematik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        376
+      ]
+    },
+    "Beobachterabhängigkeit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        289,
+        355
+      ]
+    },
+    "Parmenides": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        139
+      ]
+    },
+    "Luhmann": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        24,
+        192,
+        259,
+        331,
+        354,
+        423
+      ]
+    },
+    "Maturana": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        192,
+        354
+      ]
+    },
+    "Spencer-Brown": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        114,
+        210,
+        365
+      ]
+    },
+    "Prigogine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        234,
+        356
+      ]
+    },
+    "Hakens": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        353,
+        362,
+        367
+      ]
+    },
+    "Heinz von Foerster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Gödel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        365
+      ]
+    },
+    "Husserl": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        115,
+        283,
+        423
+      ]
+    },
+    "Merleau-Ponty": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Kant": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        91,
+        139,
+        211,
+        307
+      ]
+    },
+    "Laughlin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Varela": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        330
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Schmetterlingseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "seltsame Schleifen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "selbstorganisierte Kritikalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Subsidiaritätsprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Aktive Materie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        321
+      ]
+    },
+    "Phänomenologie": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        25,
+        115,
+        187,
+        211,
+        283,
+        331,
+        423
+      ]
+    },
+    "Simulationstheorie": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        58,
+        82,
+        106,
+        130,
+        154,
+        178,
+        202,
+        226,
+        250,
+        274,
+        283,
+        298,
+        322,
+        346
+      ]
+    }
+  }
+}

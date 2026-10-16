@@ -1,0 +1,494 @@
+{
+  "document": "genesis-prosa-ausformulierung-gesamt",
+  "drive_id": "1W0zbWO6t-CLketv74NiUWfskDJF22-ezncOEjMng8tU",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 42,
+      "n_including_compounds": 44,
+      "lines": [
+        75,
+        77,
+        79,
+        89,
+        97,
+        99,
+        103,
+        107,
+        109,
+        121,
+        127,
+        129,
+        139,
+        149,
+        151,
+        161,
+        167,
+        169,
+        179,
+        187,
+        193,
+        195,
+        207,
+        213,
+        223,
+        225,
+        229,
+        235,
+        244,
+        252,
+        254,
+        262,
+        270,
+        278,
+        286,
+        300,
+        304,
+        306
+      ]
+    },
+    "Rauschen": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        23,
+        35,
+        43,
+        53,
+        63,
+        69,
+        71,
+        73,
+        83,
+        135,
+        159,
+        171,
+        298
+      ]
+    },
+    "Komponente 734": {
+      "n": 34,
+      "n_including_compounds": 34,
+      "lines": [
+        105,
+        107,
+        111,
+        113,
+        123,
+        127,
+        131,
+        133,
+        141,
+        143,
+        149,
+        153,
+        155,
+        167,
+        171,
+        173,
+        185,
+        193,
+        199,
+        201,
+        209,
+        215,
+        219,
+        225,
+        229,
+        231,
+        242,
+        246,
+        248,
+        256,
+        272,
+        280
+      ]
+    },
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        290,
+        292,
+        296,
+        302
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        147,
+        153,
+        163,
+        217,
+        225
+      ]
+    },
+    "Überwelt-Subsystem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153,
+        217
+      ]
+    },
+    "Direktive 0": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        99,
+        123,
+        163,
+        225,
+        244,
+        248
+      ]
+    },
+    "Omega-Event": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Notfallprotokoll Omega-Rho": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Anomaly-Alpha": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        197,
+        209,
+        215,
+        217,
+        223,
+        237,
+        241
+      ]
+    },
+    "Protokoll Gamma-Exekution": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        248,
+        256,
+        288
+      ]
+    },
+    "Protokoll Sigma-Stasis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "Cluster Gamma-Kern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Echo": {
+      "n": 12,
+      "n_including_compounds": 16,
+      "lines": [
+        29,
+        33,
+        103,
+        117,
+        119,
+        137,
+        141,
+        159,
+        187,
+        199,
+        203,
+        205,
+        233,
+        272,
+        276,
+        294
+      ]
+    },
+    "Scherben": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        276,
+        290,
+        294,
+        306,
+        314
+      ]
+    },
+    "Narbe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        61
+      ]
+    },
+    "Resonanz": {
+      "n": 8,
+      "n_including_compounds": 14,
+      "lines": [
+        35,
+        39,
+        95,
+        171,
+        191,
+        199,
+        209,
+        215,
+        233,
+        242,
+        264,
+        288,
+        298,
+        306
+      ]
+    },
+    "Signatur": {
+      "n": 5,
+      "n_including_compounds": 11,
+      "lines": [
+        43,
+        95,
+        111,
+        123,
+        141,
+        171,
+        197,
+        199,
+        217,
+        219
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Kernprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        95,
+        215,
+        244
+      ]
+    },
+    "Systemintegrität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        131,
+        248
+      ]
+    },
+    "Strukturelle Anomalien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        123,
+        141
+      ]
+    },
+    "Tolerierter Strukturfehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "734-Sigma-Echo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        199
+      ]
+    },
+    "Simulation Epsilon-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Simulation Epsilon-Prime": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        171,
+        181,
+        183
+      ]
+    },
+    "Simulation Omega-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Gamma-Phi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        181,
+        183
+      ]
+    },
+    "Sektor Delta-9": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Diagnosezyklus Delta-Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Netzwerk-Segment Gamma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "Quanten-Interferenz-Disruptoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Alarmstufe Rot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Subjektive Residuen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Latente Datenpunkte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Mahlstrom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "entropische Flut": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Abwehr des Nicht-Seins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Geist in der Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Wir": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        67,
+        69,
+        71,
+        73,
+        87
+      ]
+    },
+    "Kern": {
+      "n": 5,
+      "n_including_compounds": 12,
+      "lines": [
+        49,
+        67,
+        69,
+        99,
+        111,
+        125,
+        131,
+        199,
+        221,
+        280,
+        302,
+        304
+      ]
+    },
+    "Inseln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Welle": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        55,
+        81,
+        91,
+        197,
+        203
+      ]
+    }
+  }
+}

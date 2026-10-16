@@ -1,0 +1,75 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a research report in German on a multidimensional structure model for narratives with several autonomous storylines; it applies borrowed theories to a project it calls `System Kael` as a case study. The novel's own names stand in a few sentences (L110, L129, L143, L192, L210, L277) and in the source list and prompt list from L310 to L458. No chapter number and no Dramatica value of the novel is given. Kael's parts are named only in L192; Lex and Nyx are under four characters and cannot be asked alone with find. Terms that stand only in the prompt list or the references are left off unless they also stand in the body.
+
+- System Kael
+- AEGIS
+- Kernwelten
+- Kohärenz Protokoll
+- Nichts Rauschen
+- Das Fundament
+- Juna/V Verbindung
+- Anscheinend Normalen Persönlichkeitsanteile
+- ANPs
+- Emotionalen Persönlichkeitsanteile
+- EPs
+- TSDP
+- Paradoxon der fehlausgerichteten Kohärenz
+- Riss
+- Kael
+- Kaels
+- Lex
+- Nyx
+- Kiko
+- Host
+- Analytiker
+- Kämpfer
+- Kind/Angst
+- Storyform
+- Storyforms
+- Meta-Erzählung
+- narrative Knotenpunkt
+- Nodal Point
+- Narrative Interferenz
+- Narrative Verschränkung
+- Konstruktive Interferenz
+- Destruktive Interferenz
+- Negative Feedbackschleife
+- Positive Feedbackschleife
+- emergente Eigenschaft
+- regelsetzendes System
+- Auslösende Ereignis
+- Wendepunkt in der Mitte
+- Großes Argument
+- entscheidenden Elements
+
+## lens
+
+- Autopoiesis
+- kybernetische Feedbackschleifen
+- Welleninterferenz
+- Quantenverschränkung
+- Beobachtereffekt
+- Superposition
+- Rhizoms
+- Polyphonie
+- Persona
+- Schattens
+- Individuation
+- Spiegelstadium
+- Selbstentfremdung
+- Ideal-Ich
+- These
+- Antithese
+- Synthese
+- Dynamische Paar
+- Quads
+- Dramatica-Theorie
+- Systemtheorie
+- Throughlines
+- Overall Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Grand Argument Story
+- Crucial Element

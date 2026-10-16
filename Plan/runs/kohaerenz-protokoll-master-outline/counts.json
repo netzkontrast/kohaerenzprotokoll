@@ -1,0 +1,318 @@
+{
+  "document": "kohaerenz-protokoll-master-outline",
+  "drive_id": "1BFWkidKFiv73gz85T19jt4sQys2GZXiMi2IzPO5nrIc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Master-Outline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        76
+      ]
+    },
+    "Kael": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        25,
+        27,
+        36,
+        47,
+        52,
+        53,
+        57,
+        63,
+        74,
+        75
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        57,
+        73,
+        75,
+        86
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        73
+      ]
+    },
+    "Konstrukt": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        25,
+        43,
+        69,
+        73,
+        81
+      ]
+    },
+    "Überwelt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        47,
+        73
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        62
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        57
+      ]
+    },
+    "Rauschen": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        37,
+        39,
+        57,
+        75
+      ]
+    },
+    "absolute Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Entropie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        74,
+        75
+      ]
+    },
+    "Der Erwachen-Zyklus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Die Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "unentscheidbare Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "externen Ebene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        74,
+        81
+      ]
+    },
+    "Der Spiegel-Effekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        86
+      ]
+    },
+    "Zielkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Statusbericht PMAS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "PMAS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "TSDP-Aspekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Zeitdilatationen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Gravitationsanomalien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Pacing": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        61,
+        80,
+        88
+      ]
+    },
+    "Kohärenz-Check": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        62,
+        81
+      ]
+    },
+    "Limit-Integration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        63,
+        82
+      ]
+    },
+    "Annotationen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        59,
+        78
+      ]
+    },
+    "Genre-Fokus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        41,
+        67
+      ]
+    },
+    "Inhaltliche Schwerpunkte": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        45,
+        71
+      ]
+    },
+    "Dozenten des Grauens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Architectural Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Unvollständigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        74
+      ]
+    }
+  }
+}

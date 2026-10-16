@@ -1,0 +1,75 @@
+$ read.py --count "in-world"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`in-world` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#9]
+$ read.py --count "fictional"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`fictional` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#6]
+$ read.py --count "source critique"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`source critique` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#1]
+$ read.py --count "source text"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`source text` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#1]
+$ read.py --count "K₁"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`K₁` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#8]
+$ read.py --count "K₀"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`K₀` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#9]
+$ read.py --count "Coherons"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Coherons` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#2]
+$ read.py --count "unfalsifiable"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`unfalsifiable` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#2]
+$ read.py --count "private cosmology"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`private cosmology` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#3]
+$ read.py --count "Korrektur"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Korrektur` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#1]
+$ read.py --count "Rekonfiguration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rekonfiguration` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#1]
+$ read.py --count "Emergenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Emergenz` ^[a-critical-evaluation-of-the-coherence-protocol-frameworks-s.md:#1]
+stance_marker_count 15 = in-world 9 + fictional 6
+candidates 43, zeros 0 (04-counts.txt)
+backslash escapes 56 and 43 candidates: from 01-profile.txt / census draft

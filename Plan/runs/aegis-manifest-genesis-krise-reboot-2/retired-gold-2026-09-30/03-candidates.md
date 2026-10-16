@@ -1,0 +1,184 @@
+written_by: gold subagent (Sonnet), 2026-09-30, while reading, before any count
+
+The list was made by reading the whole document once, first line to last, and writing each world name, own coinage and borrowed concept as the export writes it; multi-word phrases were checked with read.py --find. The document is in English with German names in italics and carries footnote digits glued to sentence ends.
+
+## world
+- Autonomous Entropy Gatekeeper for Identity Systems (AEGIS)
+- Autonomous Entropy Gatekeeper for Identity Systems
+- AEGIS
+- System AEGIS
+- Gatekeeper
+- Great Realignment
+- Genesis Crisis
+- Nichts Rauschen (Nothingness Noise)
+- Nichts Rauschen
+- Nothingness Noise
+- fear-vibration
+- Trennungsprotokoll (Separation Protocol)
+- Trennungsprotokoll
+- Separation Protocol
+- Ursprungs-Ich
+- Component 734
+- Coherence Kernel (K1)
+- K1
+- K1-Kernel
+- Collapse Kernel (K0)
+- K0
+- K0-Kernel
+- Dual-Kernel Theory (DKT)
+- Dual-Kernel Theory
+- DKT
+- Überwelt (Overworld)
+- Überwelt
+- Overworld
+- Behavioral Proof-of-Function (BPoF)
+- Behavioral Proof-of-Function
+- BPoF
+- Real-Time Self-Verification (RTSV)
+- Real-Time Self-Verification
+- RTSV
+- Cognitive Firewall
+- Coherence Protocol
+- Zerstückelung
+- Kernwelten (Core Worlds)
+- Kernwelten
+- Core Worlds
+- Kernwelt
+- Somatic Truth
+- Kael
+- Nyx
+- Juna/V
+- Kiko
+- Moros
+- Selene
+- Lex
+- corrupted data fragments
+- KW1: Logos-Prime (The Construct City)
+- KW1
+- Logos-Prime
+- Construct City
+- KW2: Mnemosyne-Archipel (The Resonance Landscape)
+- KW2
+- Mnemosyne-Archipel
+- Mnemosyne
+- Resonance Landscape
+- KW3: Cerberus-Labyrinth (The Boundary Fortress)
+- KW3
+- Cerberus-Labyrinth
+- Cerberus
+- Boundary Fortress
+- Grenzfeste
+- Border Fortress
+- KW4: Kairos-Potentialis (The Emergent Space)
+- KW4
+- Kairos-Potentialis
+- Kairos
+- Emergent Space
+- ruin-garden
+- Apparently Normal Part (ANP)
+- Apparently Normal Part
+- ANP
+- Emotional Parts (EPs)
+- Emotional Parts
+- EP
+- Trauma-Time
+- Regulated Breath Counting
+- Visceral Gut Reactions
+- Tensing of Muscles
+- Unclenching of Hands
+- Guardians
+- Wächter-Zwiespalt (Guardian's Dilemma)
+- Wächter-Zwiespalt
+- Guardian's Dilemma
+- Harness-in-Harness
+- LogOS
+- Oblivion
+- Silas
+- Isabelle
+- Hard Glitch Cut
+- Format C:
+- Digital Kintsugi
+- Corrective Wavelet
+- Amnesia Protocol
+- Narrative Context Protocol (NCP)
+- Narrative Context Protocol
+- NCP
+- Line Budgets
+- Domain Singularity
+- MemAct
+- Memory-as-Action
+- State-Freezing
+- PRO-Framework
+- Hallucination Compounding
+- Compute-Lock (Kernel Panic)
+- Compute-Lock
+- Kernel Panic
+- Identity Fragmentation (The Cleaving Protocol)
+- Identity Fragmentation
+- Cleaving Protocol
+- Corrupted Entity
+- Apparently Normal Entity
+- Corrupted Yellow
+- Clarifying-Question-Protocol (YAML-RPC)
+- Clarifying-Question-Protocol
+- YAML-RPC
+- Corrective Wavelet Integration
+- Compute Reallocation
+- XML-Snapshot
+- Vector Jitter
+- Data Moshing
+- Batch-Invariant Kernels
+- Absolute Greedy Decoding
+- Isolated Memory Allocation
+- Spec-Driven Development (SDD)
+- Spec-Driven Development
+- SDD
+- Manus-Pattern Triad
+- task\_plan.md
+- findings.md
+- progress.md
+- DECISIONS.md
+- SKILL
+- Quellenkritik
+- Contradiction Classification Matrix
+- Structural Argument Parsing
+- Tier 0 (Homeostasis)
+- Tier 1 (Dissonance)
+- Tier 1 Dissonance
+- Semantic Entropy
+- Surprisal
+- Free Energy Principle (FEP)
+- Expected Free Energy (EFE)
+- Active Inference
+- Direct Contradictions
+- Implicit Contradictions
+- Performative Contradictions
+- weasel-words
+
+## lens
+- Correspondence Theory of Truth
+- Coherence Theory of Truth
+- Principle of Explosion (Ex Contradictione Quodlibet)
+- Principle of Explosion
+- ex contradictione quodlibet
+- Integrated Information Theory (IIT)
+- Integrated Information Theory
+- Free Energy Principle
+- Logics of Formal Inconsistency (LFI)
+- Logics of Formal Inconsistency
+- Classical Logic
+- Paraconsistent Logic
+- Relevance Logic
+- Dialetheic Logic
+- P-Class
+- NP-Complete
+- NP-Search
+- Zero-Trust
+- Positional Bias
+- lost-in-the-middle
+- Qualia
+- truth-value gluts
+- autopoietic
+- tensor cores
+
+Observations: the export drops the digit of K1 and KW1 subscripts in some headings only as display; the document writes plain digits. Footnote digits are glued to sentence ends. Several names appear only in a bold table cell with escaped asterisks. The Referenzen list names three source titles, which are not terms.

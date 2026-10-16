@@ -1,0 +1,78 @@
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "fictional"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`fictional` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#3]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "imagines"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`imagines` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "ARCHON"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`ARCHON` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#4]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "NCP"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`NCP` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#4]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "Dramatica"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramatica` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "Risse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risse` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "rifts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`rifts` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "Gnosis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gnosis` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#1]
+
+$ python3 scripts/read.py beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt.md:#0]
+
+stance_marker_count 4 = fictional 3 + imagines 1

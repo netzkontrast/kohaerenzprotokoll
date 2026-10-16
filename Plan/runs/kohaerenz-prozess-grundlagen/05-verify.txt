@@ -1,0 +1,118 @@
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Hohe Priorität"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Hohe Priorität` ^[kohaerenz-prozess-grundlagen.md:#9]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Mittlere Priorität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mittlere Priorität` ^[kohaerenz-prozess-grundlagen.md:#4]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Niedrigere Priorität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Niedrigere Priorität` ^[kohaerenz-prozess-grundlagen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Optional"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Optional` ^[kohaerenz-prozess-grundlagen.md:#2]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Systematic Agency"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Systematic Agency` ^[kohaerenz-prozess-grundlagen.md:#4]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "The Agency System"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`The Agency System` ^[kohaerenz-prozess-grundlagen.md:#9]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Argus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Argus` ^[kohaerenz-prozess-grundlagen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Bunker"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bunker` ^[kohaerenz-prozess-grundlagen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Panikraum"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Panikraum` ^[kohaerenz-prozess-grundlagen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Garten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Garten` ^[kohaerenz-prozess-grundlagen.md:#2]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Viable System Model"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Viable System Model` ^[kohaerenz-prozess-grundlagen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "Perceptual Control Theory"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Perceptual Control Theory` ^[kohaerenz-prozess-grundlagen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "VSM"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            19
+
+`VSM` ^[kohaerenz-prozess-grundlagen.md:#14]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "PCT"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            24
+
+`PCT` ^[kohaerenz-prozess-grundlagen.md:#20]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "ANPs"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`ANPs` ^[kohaerenz-prozess-grundlagen.md:#13]
+
+$ python3 scripts/read.py kohaerenz-prozess-grundlagen --count "EPs"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            19
+
+`EPs` ^[kohaerenz-prozess-grundlagen.md:#18]
+
+$ sum of stance markers: 9 + 4 + 1 + 2 = 16 (Hohe, Mittlere, Niedrigere, Optional)
+$ grep -c "z\.B\." Sources/drive/kohaerenz-prozess-grundlagen.md
+11
+$ grep -n "^1[0-9][0-9]\|glued ref" Plan/runs/kohaerenz-prozess-grundlagen/01-profile.txt (profile: backslash escapes 84, glued ref numbers 111)
+  backslash escapes    84
+  glued ref numbers    111

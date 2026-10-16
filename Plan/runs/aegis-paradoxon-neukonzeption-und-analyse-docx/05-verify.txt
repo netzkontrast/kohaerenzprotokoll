@@ -1,0 +1,116 @@
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Synthese Stufe"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Synthese Stufe` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#6]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Plot Driver"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Plot Driver` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#3]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Kernwelten"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Kernwelten` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#18]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Paradoxon X"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paradoxon X` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#1]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Riss"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            10
+
+`Riss` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#7]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna/V` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#3]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehlausgerichtete Kohärenz` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#2]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Kael"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            46
+
+`Kael` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#32]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Kaels"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Kaels` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#14]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Kernwelt"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            28
+
+`Kernwelt` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#10]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Risse` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#2]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Risses"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risses` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#1]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Bereich I"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            21
+
+`Bereich I` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#7]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Bereich II"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            14
+
+`Bereich II` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#6]
+
+$ read.py aegis-paradoxon-neukonzeption-und-analyse-docx --count "Bereich III"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Bereich III` ^[aegis-paradoxon-neukonzeption-und-analyse-docx.md:#8]
+
+$ grep -nw Risses
+160:  AE
+$ stance_marker_count = Synthese Stufe 6 + Plot Driver 3 = 9
+$ profile: glued ref numbers 111 (01-profile.txt); references L178-L217; stages Teil I-VI at L20 L50 L90 L106 L128 L153
+20:**Teil I: Ein Spektrum trag
+50:**Teil II: Clusterung der K
+90:**Teil III: Tiefenanalyse d
+106:**Teil IV: Erzeugung narra
+128:**Teil V: Definition des Z
+153:**Teil VI: Der unausweichl
+170:**Schlussfolgerung**

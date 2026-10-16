@@ -1,0 +1,71 @@
+{
+  "document": "kohaerenz-protokoll-architektur-implementierung",
+  "drive_id": "1XyatSzjFAYqgO25ak5BKyE6-BCDCMJirK1WFfcjUa08",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document real-system material: a technical plan for a writing tool whose naming of the novel's figures repeats a cited character document",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 66,
+    "decisions": 66,
+    "decided_by_lookup": 58,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German technical plan for a single-user writing tool built from three software ecosystems; it names Kael's parts and the novel's terms only as a cited character document's content mapped onto software objects, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a technical plan for a writing tool: `Kohärenz Protokoll(s)` the novel's title; `Konstrukts`, `Dual Kernel Theorie`, `Kohärenztheorie` and `Phaenomena` analogies or borrowed concepts the plan maps onto software, not readings",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "entropy in the physical sense of a principle the plan borrows for its software"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title of the plan, naming the novel"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 133,
+      "decision": "occurrence",
+      "why": "an analogy for the software's last phase, real-system material"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "simulation in the software sense of the writing tool"
+    }
+  ],
+  "not_promoted": [
+    "everything — the software components, the plan's phases and the borrowed concepts"
+  ],
+  "internal_tension": "none recorded",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

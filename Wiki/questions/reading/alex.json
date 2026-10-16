@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "alex",
+ "title": "Alex",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "strategischer Schutz",
+  "Angst vor dem Versagen",
+  "Handlungsspielraum eines Protektors",
+  "Grenze zwischen Schutz und Kontrolle",
+  "Erkennbarkeit ohne Namensnennung"
+ ],
+ "basis": {
+  "alex": {
+   "title": "Alex",
+   "path": "Wiki/candidates/alex.md",
+   "hash": "6538e2812c49740b4f41298d6f960d97b2a61a3920710e00f930f4a7ded901d2"
+  },
+  "nyx": {
+   "title": "Nyx",
+   "path": "Wiki/candidates/nyx.md",
+   "hash": "aa8229d8a97c26a7de00405ae622849723762c4d13b598d13466ea7a98add48c"
+  },
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  },
+  "selene": {
+   "title": "Selene",
+   "path": "Wiki/candidates/selene.md",
+   "hash": "497002fd8ab927142bbd81479a8a8fbfbb634c66ce014beff4240db8cc858d72"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-alex-001",
+   "question": "Wann schützt Alex das System durch Planung, und wann verhindert dieselbe Planung eine notwendige Begegnung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-002",
+   "question": "Welche Lesarten auf der Seite zu Alex stützen oder begrenzen „strategischer Schutz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-003",
+   "question": "Welcher Grenzfall würde bei Alex die Annahmen über „strategischer Schutz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-004",
+   "question": "Wer könnte innerhalb des Romans bei Alex etwas über „strategischer Schutz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-005",
+   "question": "Welche konkrete Entscheidung könnte „strategischer Schutz“ bei Alex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „strategischer Schutz“ bei Alex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-007",
+   "question": "Wie lässt sich „strategischer Schutz“ bei Alex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-008",
+   "question": "Welche Alternativen sollte der Autor bei Alex für „strategischer Schutz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-009",
+   "question": "Was bedeutet bei Alex der Themenpunkt „Angst vor dem Versagen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-010",
+   "question": "Welche Lesarten auf der Seite zu Alex stützen oder begrenzen „Angst vor dem Versagen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-011",
+   "question": "Welcher Grenzfall würde bei Alex die Annahmen über „Angst vor dem Versagen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-012",
+   "question": "Wer könnte innerhalb des Romans bei Alex etwas über „Angst vor dem Versagen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-013",
+   "question": "Welche konkrete Entscheidung könnte „Angst vor dem Versagen“ bei Alex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Angst vor dem Versagen“ bei Alex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-015",
+   "question": "Wie lässt sich „Angst vor dem Versagen“ bei Alex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-016",
+   "question": "Welche Alternativen sollte der Autor bei Alex für „Angst vor dem Versagen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-017",
+   "question": "Was bedeutet bei Alex der Themenpunkt „Handlungsspielraum eines Protektors“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-018",
+   "question": "Welche Lesarten auf der Seite zu Alex stützen oder begrenzen „Handlungsspielraum eines Protektors“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-019",
+   "question": "Welcher Grenzfall würde bei Alex die Annahmen über „Handlungsspielraum eines Protektors“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-020",
+   "question": "Wer könnte innerhalb des Romans bei Alex etwas über „Handlungsspielraum eines Protektors“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-021",
+   "question": "Welche konkrete Entscheidung könnte „Handlungsspielraum eines Protektors“ bei Alex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlungsspielraum eines Protektors“ bei Alex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-023",
+   "question": "Wie lässt sich „Handlungsspielraum eines Protektors“ bei Alex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-024",
+   "question": "Welche Alternativen sollte der Autor bei Alex für „Handlungsspielraum eines Protektors“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-025",
+   "question": "Was bedeutet bei Alex der Themenpunkt „Grenze zwischen Schutz und Kontrolle“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-026",
+   "question": "Welche Lesarten auf der Seite zu Alex stützen oder begrenzen „Grenze zwischen Schutz und Kontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-027",
+   "question": "Welcher Grenzfall würde bei Alex die Annahmen über „Grenze zwischen Schutz und Kontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-028",
+   "question": "Wer könnte innerhalb des Romans bei Alex etwas über „Grenze zwischen Schutz und Kontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Schutz und Kontrolle“ bei Alex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Schutz und Kontrolle“ bei Alex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-031",
+   "question": "Wie lässt sich „Grenze zwischen Schutz und Kontrolle“ bei Alex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-032",
+   "question": "Welche Alternativen sollte der Autor bei Alex für „Grenze zwischen Schutz und Kontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-033",
+   "question": "Was bedeutet bei Alex der Themenpunkt „Erkennbarkeit ohne Namensnennung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-034",
+   "question": "Welche Lesarten auf der Seite zu Alex stützen oder begrenzen „Erkennbarkeit ohne Namensnennung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-035",
+   "question": "Welcher Grenzfall würde bei Alex die Annahmen über „Erkennbarkeit ohne Namensnennung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-036",
+   "question": "Wer könnte innerhalb des Romans bei Alex etwas über „Erkennbarkeit ohne Namensnennung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-037",
+   "question": "Welche konkrete Entscheidung könnte „Erkennbarkeit ohne Namensnennung“ bei Alex in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erkennbarkeit ohne Namensnennung“ bei Alex haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-039",
+   "question": "Wie lässt sich „Erkennbarkeit ohne Namensnennung“ bei Alex zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-040",
+   "question": "Welche Alternativen sollte der Autor bei Alex für „Erkennbarkeit ohne Namensnennung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-alex-041",
+   "question": "Wo unterscheiden sich Alex und Nyx, wenn man sie unter dem Gesichtspunkt „strategischer Schutz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-042",
+   "question": "Welche Quelle verbindet Alex mit Nyx in Bezug auf „strategischer Schutz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-043",
+   "question": "Welche Grenzen aus der Seite zu Nyx müsste eine Deutung von Alex unter „strategischer Schutz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-044",
+   "question": "Wie könnte sich das Wissen über Alex vom Wissen über Nyx unterscheiden, wenn „strategischer Schutz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alex und Nyx bei „strategischer Schutz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-046",
+   "question": "Falls Alex im Hinblick auf „strategischer Schutz“ anders festgelegt wird: Welche Aussagen über Nyx müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alex und Nyx bei „strategischer Schutz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-048",
+   "question": "Braucht der Roman eine Verbindung von Alex und Nyx bei „strategischer Schutz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-049",
+   "question": "In welchem denkbaren Fall könnte Alex bestehen, ohne dass Nyx dieselbe Funktion übernimmt, und was würde das für „strategischer Schutz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-050",
+   "question": "Welche Kosten könnte eine Verbindung von Alex und Nyx in Bezug auf „strategischer Schutz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-051",
+   "question": "Welche ältere Lesart von Alex oder Nyx könnte die Gegenüberstellung unter „strategischer Schutz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alex und Nyx unter „strategischer Schutz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "alex",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-alex-053",
+   "question": "Wo unterscheiden sich Alex und Rhys, wenn man sie unter dem Gesichtspunkt „Angst vor dem Versagen“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-054",
+   "question": "Welche Quelle verbindet Alex mit Rhys in Bezug auf „Angst vor dem Versagen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-055",
+   "question": "Welche Grenzen aus der Seite zu Rhys müsste eine Deutung von Alex unter „Angst vor dem Versagen“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-056",
+   "question": "Wie könnte sich das Wissen über Alex vom Wissen über Rhys unterscheiden, wenn „Angst vor dem Versagen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alex und Rhys bei „Angst vor dem Versagen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-058",
+   "question": "Falls Alex im Hinblick auf „Angst vor dem Versagen“ anders festgelegt wird: Welche Aussagen über Rhys müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alex und Rhys bei „Angst vor dem Versagen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-060",
+   "question": "Braucht der Roman eine Verbindung von Alex und Rhys bei „Angst vor dem Versagen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-061",
+   "question": "In welchem denkbaren Fall könnte Alex bestehen, ohne dass Rhys dieselbe Funktion übernimmt, und was würde das für „Angst vor dem Versagen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-062",
+   "question": "Welche Kosten könnte eine Verbindung von Alex und Rhys in Bezug auf „Angst vor dem Versagen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-063",
+   "question": "Welche ältere Lesart von Alex oder Rhys könnte die Gegenüberstellung unter „Angst vor dem Versagen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alex und Rhys unter „Angst vor dem Versagen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "alex",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-alex-065",
+   "question": "Wo unterscheiden sich Alex und Selene, wenn man sie unter dem Gesichtspunkt „Handlungsspielraum eines Protektors“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-066",
+   "question": "Welche Quelle verbindet Alex mit Selene in Bezug auf „Handlungsspielraum eines Protektors“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-067",
+   "question": "Welche Grenzen aus der Seite zu Selene müsste eine Deutung von Alex unter „Handlungsspielraum eines Protektors“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-068",
+   "question": "Wie könnte sich das Wissen über Alex vom Wissen über Selene unterscheiden, wenn „Handlungsspielraum eines Protektors“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alex und Selene bei „Handlungsspielraum eines Protektors“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-070",
+   "question": "Falls Alex im Hinblick auf „Handlungsspielraum eines Protektors“ anders festgelegt wird: Welche Aussagen über Selene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alex und Selene bei „Handlungsspielraum eines Protektors“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-072",
+   "question": "Braucht der Roman eine Verbindung von Alex und Selene bei „Handlungsspielraum eines Protektors“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-073",
+   "question": "In welchem denkbaren Fall könnte Alex bestehen, ohne dass Selene dieselbe Funktion übernimmt, und was würde das für „Handlungsspielraum eines Protektors“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-074",
+   "question": "Welche Kosten könnte eine Verbindung von Alex und Selene in Bezug auf „Handlungsspielraum eines Protektors“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-075",
+   "question": "Welche ältere Lesart von Alex oder Selene könnte die Gegenüberstellung unter „Handlungsspielraum eines Protektors“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alex und Selene unter „Handlungsspielraum eines Protektors“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "alex",
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-alex-077",
+   "question": "Wo unterscheiden sich Alex und Kael, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Schutz und Kontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-078",
+   "question": "Welche Quelle verbindet Alex mit Kael in Bezug auf „Grenze zwischen Schutz und Kontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Alex unter „Grenze zwischen Schutz und Kontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-080",
+   "question": "Wie könnte sich das Wissen über Alex vom Wissen über Kael unterscheiden, wenn „Grenze zwischen Schutz und Kontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alex und Kael bei „Grenze zwischen Schutz und Kontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-082",
+   "question": "Falls Alex im Hinblick auf „Grenze zwischen Schutz und Kontrolle“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alex und Kael bei „Grenze zwischen Schutz und Kontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-084",
+   "question": "Braucht der Roman eine Verbindung von Alex und Kael bei „Grenze zwischen Schutz und Kontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-085",
+   "question": "In welchem denkbaren Fall könnte Alex bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Schutz und Kontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-086",
+   "question": "Welche Kosten könnte eine Verbindung von Alex und Kael in Bezug auf „Grenze zwischen Schutz und Kontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-087",
+   "question": "Welche ältere Lesart von Alex oder Kael könnte die Gegenüberstellung unter „Grenze zwischen Schutz und Kontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alex und Kael unter „Grenze zwischen Schutz und Kontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "alex",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alex-089",
+   "question": "Wo unterscheiden sich Alex und Alters, wenn man sie unter dem Gesichtspunkt „Erkennbarkeit ohne Namensnennung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-090",
+   "question": "Welche Quelle verbindet Alex mit Alters in Bezug auf „Erkennbarkeit ohne Namensnennung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Alex unter „Erkennbarkeit ohne Namensnennung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-092",
+   "question": "Wie könnte sich das Wissen über Alex vom Wissen über Alters unterscheiden, wenn „Erkennbarkeit ohne Namensnennung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alex und Alters bei „Erkennbarkeit ohne Namensnennung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-094",
+   "question": "Falls Alex im Hinblick auf „Erkennbarkeit ohne Namensnennung“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alex und Alters bei „Erkennbarkeit ohne Namensnennung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-096",
+   "question": "Braucht der Roman eine Verbindung von Alex und Alters bei „Erkennbarkeit ohne Namensnennung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-097",
+   "question": "In welchem denkbaren Fall könnte Alex bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Erkennbarkeit ohne Namensnennung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-098",
+   "question": "Welche Kosten könnte eine Verbindung von Alex und Alters in Bezug auf „Erkennbarkeit ohne Namensnennung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-099",
+   "question": "Welche ältere Lesart von Alex oder Alters könnte die Gegenüberstellung unter „Erkennbarkeit ohne Namensnennung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alex-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alex und Alters unter „Erkennbarkeit ohne Namensnennung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "alex",
+    "alters"
+   ]
+  }
+ ]
+}

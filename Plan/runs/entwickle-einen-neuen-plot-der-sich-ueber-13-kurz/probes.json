@@ -1,0 +1,226 @@
+{
+  "document": "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz",
+  "drive_id": "1jid8K7s9f_pRjHhtsrqy5wzpq7J5lAlxfK6rAfROZ4A",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 45,
+  "backslash_escapes": 0,
+  "typographic_marks": 5,
+  "ascii_quotes": 90,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemanalytiker",
+      "Systembruch",
+      "Systemdiagnose",
+      "Systemfehlers",
+      "Systems"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitäts",
+      "Realitätsebene",
+      "Realitätsriss"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentiertes",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "inter": [
+      "Interface",
+      "Interfaces",
+      "Interne",
+      "Intervention"
+    ],
+    "persp": [
+      "Perspektive",
+      "Perspektiven",
+      "Perspektivenvielfalt",
+      "Perspektivwechsel"
+    ],
+    "repar": [
+      "Reparatur",
+      "Reparaturversuch",
+      "Reparaturversuche",
+      "Reparaturversuchen"
+    ],
+    "schwe": [
+      "Schwelle",
+      "Schwellenüberschreitung",
+      "Schwerpunkte",
+      "Schwertes"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterkenntnis",
+      "Selbstorganisation",
+      "Selbstzerstörung"
+    ],
+    "archi": [
+      "Archipel",
+      "Architekt",
+      "Architekten"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakterisierung",
+      "Charakterprofile"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählers",
+      "Erzählweise"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Geschichte",
+      "Geschichten"
+    ],
+    "grund": [
+      "Grundfesten",
+      "Grundlage",
+      "Grundstruktur"
+    ],
+    "handl": [
+      "Handlungsebene",
+      "Handlungsfähigkeit",
+      "Handlungsphase"
+    ],
+    "kontr": [
+      "Kontrollraum",
+      "Kontrollverlust",
+      "Kontrollversuch"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepten",
+      "Konzeptionelle"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsebene"
+    ],
+    "werkz": [
+      "Werkzeug",
+      "Werkzeuge",
+      "Werkzeugen"
+    ],
+    "anoma": [
+      "Anomalie",
+      "Anomalien"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitstitel"
+    ],
+    "aufga": [
+      "Aufgabe",
+      "Aufgaben"
+    ],
+    "außen": [
+      "Außen",
+      "Außenstehende"
+    ],
+    "bluep": [
+      "Blueprint",
+      "Blueprints"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser"
+    ],
+    "durch": [
+      "Durchbruch",
+      "Durchlässigkeit"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Außenstehende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Held",
+      "Heldenreise"
+    ],
+    [
+      "Info",
+      "Information"
+    ],
+    [
+      "Info",
+      "Informationen"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernkonzepte"
+    ],
+    [
+      "Kern",
+      "Kernschmelze"
+    ],
+    [
+      "Kern",
+      "Kernkonflikts"
+    ],
+    [
+      "Meta",
+      "Metaphorik"
+    ],
+    [
+      "Neue",
+      "Neuer"
+    ],
+    [
+      "Plot",
+      "Plots"
+    ],
+    [
+      "Plot",
+      "Plotpunkt"
+    ],
+    [
+      "Plot",
+      "Plotpunkte"
+    ]
+  ]
+}

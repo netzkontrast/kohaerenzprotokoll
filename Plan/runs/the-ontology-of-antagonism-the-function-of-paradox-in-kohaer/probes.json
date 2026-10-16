@@ -1,0 +1,98 @@
+{
+  "document": "the-ontology-of-antagonism-the-function-of-paradox-in-kohaer",
+  "drive_id": "1RPs7bqFfMH5VBOXQFdp2LjO7vKVLG1eWsRIwKsGWH4k",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 42,
+  "typographic_marks": 15,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "contr": [
+      "Contradictione",
+      "Contradictions",
+      "Control"
+    ],
+    "diale": [
+      "Dialectic",
+      "Dialetheic",
+      "Dialetheismus"
+    ],
+    "conse": [
+      "Consequence",
+      "Consequences"
+    ],
+    "defin": [
+      "Defining",
+      "Definition"
+    ],
+    "force": [
+      "Forced",
+      "Forces"
+    ],
+    "forsc": [
+      "Forschungsaufgabe",
+      "Forschungsfragen"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "inter": [
+      "Internal",
+      "Interprets"
+    ],
+    "isola": [
+      "Isolates",
+      "Isolation"
+    ],
+    "ontol": [
+      "Ontological",
+      "Ontology"
+    ],
+    "parac": [
+      "Paraconsistency",
+      "Paraconsistent"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Forces",
+      "Reinforces"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Thesis",
+      "Antithesis"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Existence",
+      "Coexistence"
+    ],
+    [
+      "Consequence",
+      "Consequences"
+    ]
+  ]
+}

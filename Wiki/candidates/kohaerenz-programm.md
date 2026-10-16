@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Programm
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz"]
 gathered: "2026-09-17"
 ---
 
@@ -36,6 +36,10 @@ Three surfaces sit close together and are three things (J16, J17):
 | `Das Seelen-Kohärenz-Protokoll` | the **novel's title**, in quotation marks after „Romanprojekts" ^[L15] |
 
 The third is not a term of the fiction at all.
+
+## Reading — `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz`, 2025-04-17, the Seelen-Kohärenz blueprint — a higher program whose errors come from fragmentation
+
+The Seelen-Kohärenz blueprint, an early proposal, states in its overall concept that „Die Fragmentierung eines simulierten Bewusstseins“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] „verursacht kritische Fehler in einem übergeordneten“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] `Seelen-Kohärenz-Programm`, and that this leads to „Rissen in der Struktur der simulierten“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] reality. The program is the blueprint's own figure.
 
 ## Open
 

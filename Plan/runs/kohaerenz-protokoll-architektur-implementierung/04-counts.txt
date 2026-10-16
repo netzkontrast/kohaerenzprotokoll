@@ -1,0 +1,84 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     7 in   [11, 13, 27, 57, 141, 173]  <-- substring
+  Kohärenz Protokolls               4 word     4 in   [13, 27, 57, 141]
+  Kael                              6 word     8 in   [13, 45, 49, 51, 116, 119]
+                                    2      as Kaels
+  AEGIS                             6 word     7 in   [13, 36, 41, 71, 108, 143]
+                                    1      as AEGIS-Doktrin
+  Juna                              1 word     2 in   [13, 93]
+                                    1      as Junas
+  Lex                               5 word     5 in   [49, 51, 69, 71, 119]
+  Nyx                               3 word     3 in   [49, 51, 119]
+  Kiko                              3 word     3 in   [49, 59]
+  Moros                             1 word     1 in   [49]
+  Selene                            1 word     1 in   [119]
+  Kohärenz-Kernel                   1 word     1 in   [13]
+  Kollaps-Kernel                    1 word     3 in   [13, 38, 93]  <-- substring
+  Tertiäre Strukturelle Dissoziation der Persönlichkeit    1 word     1 in   [13]
+  TSDP                              3 word     5 in   [13, 47, 49, 104, 143]
+                                    1      as TSDP-Architektur
+                                    1      as TSDP-Psychologie
+  Anscheinend Normale Persönlichkeitsanteile    1 word     1 in   [49]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [49]
+  ANPs                              2 word     2 in   [49, 121]
+  EPs                               2 word     2 in   [49, 121]
+  Konstrukts                        1 word     1 in   [108]
+  Kapitel 12                        1 word     1 in   [100]
+  Akt III                           1 word     1 in   [133]
+  Dual Kernel Theorie               1 word     1 in   [149]
+  Novel Writing Assistants          2 word     2 in   [13, 41]
+  Drama Engine                     21 word    22 in   [43, 45, 51, 53, 57, 63]
+  ZeroClaw                         19 word    23 in   [17, 25, 27, 29, 35, 41]
+                                    4      as zeroclaw-labs
+                                    1      as zeroclaw-Ökosystems
+                                    1      as ZeroClaws
+                                    1      as ZeroClaw-Endpunkt
+  ChatCompanion                     2 word     3 in   [51, 59, 120]
+                                    1      as ChatCompanion-Objekt
+  CompanionConfig                   1 word     2 in   [51, 119]
+                                    1      as CompanionConfig-Objekt
+  InstructionDeputy                 2 word     2 in   [57, 59]
+  InstructionDeputies               2 word     2 in   [121, 143]
+  Companions                        1 word     2 in   [45, 69]
+  Shells                            1 word     1 in   [57]
+  Deputies                          1 word     3 in   [57, 121, 143]  <-- substring
+  Situations                        3 word     3 in   [51]
+  Moods                             2 word     2 in   [51, 83]
+  Moderator                         1 word     3 in   [120]  <-- substring
+                                    1      as Moderator-Logik
+                                    1      as Moderators
+  Story Bible                       2 word     2 in   [82, 112]
+  Die Architektonische Grenzziehung    1 word     1 in   [106]
+  Instanziierung der Existenz       1 word     1 in   [114]
+  Die Deterministische Härte        1 word     1 in   [123]
+  Die Fusion der Ebenen             1 word     1 in   [131]
+  Phasen der Systemgenese           1 word     1 in   [102]
+  Vercel Authentication             4 word     4 in   [99, 111, 145, 184]
+  Edge Middleware                   4 word     4 in   [100, 145, 185, 186]
+  Fluid Compute                     4 word     4 in   [15, 104, 123, 127]
+  ToolLoopAgent                     3 word     3 in   [67, 69, 136]
+  Vercel Postgres                   2 word     3 in   [82, 92, 112]
+  Vercel KV                         2 word     3 in   [83, 112, 120]
+  Vercel Blob                       1 word     1 in   [84]
+  Ledger-Time-Modell                2 word     2 in   [73, 86]
+  Das Blockuniversum                1 word     1 in   [82]
+  Phänomenale Jetzt                 1 word     1 in   [83]
+  Die Physische Materialität        1 word     1 in   [84]
+  Landauer-Prinzip                  2 word     2 in   [23, 27]
+  Phänomenale Selbstmodell          2 word     2 in   [47, 116]
+  Phänomenalen Selbstmodells        1 word     1 in   [53]
+  PSM                               3 word     3 in   [53, 114, 116]
+  Meinigkeit                        1 word     1 in   [53]
+  Phaenomena                        1 word     1 in   [57]
+  Noumena                           1 word     1 in   [57]
+  Grenzsituation                    1 word     1 in   [71]
+  Schiffbruch des Denkens           1 word     1 in   [71]
+  Korrespondenztheorie              3 word     3 in   [82, 92, 145]
+  Kohärenztheorie                   3 word     3 in   [93, 145]
+  Chronozeption                     1 word     1 in   [29]
+  Eternalismus                      1 word     1 in   [82]
+  Präsentismus                      1 word     1 in   [83]

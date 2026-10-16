@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "moros",
+ "title": "Moros",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Kollaps als Schutz",
+  "Angst vor Hoffnung",
+  "Unterschied zwischen Aufgeben und Rückzug",
+  "Wünsche eines resignierten Anteils",
+  "Hilfe ohne erzwungene Aktivierung"
+ ],
+ "basis": {
+  "moros": {
+   "title": "Moros",
+   "path": "Wiki/candidates/moros.md",
+   "hash": "9c231ef2f8ffca2d9f201b1bbb263071597f939c9c8e823e2454ce1bc965f7a1"
+  },
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  },
+  "nyx": {
+   "title": "Nyx",
+   "path": "Wiki/candidates/nyx.md",
+   "hash": "aa8229d8a97c26a7de00405ae622849723762c4d13b598d13466ea7a98add48c"
+  },
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-moros-001",
+   "question": "Welche Form von Hilfe könnte Moros annehmen, ohne dafür zuerst Hoffnung oder Aktivität zeigen zu müssen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-002",
+   "question": "Welche Lesarten auf der Seite zu Moros stützen oder begrenzen „Kollaps als Schutz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-003",
+   "question": "Welcher Grenzfall würde bei Moros die Annahmen über „Kollaps als Schutz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-004",
+   "question": "Wer könnte innerhalb des Romans bei Moros etwas über „Kollaps als Schutz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-005",
+   "question": "Welche konkrete Entscheidung könnte „Kollaps als Schutz“ bei Moros in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kollaps als Schutz“ bei Moros haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-007",
+   "question": "Wie lässt sich „Kollaps als Schutz“ bei Moros zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-008",
+   "question": "Welche Alternativen sollte der Autor bei Moros für „Kollaps als Schutz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-009",
+   "question": "Was bedeutet bei Moros der Themenpunkt „Angst vor Hoffnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-010",
+   "question": "Welche Lesarten auf der Seite zu Moros stützen oder begrenzen „Angst vor Hoffnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-011",
+   "question": "Welcher Grenzfall würde bei Moros die Annahmen über „Angst vor Hoffnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-012",
+   "question": "Wer könnte innerhalb des Romans bei Moros etwas über „Angst vor Hoffnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-013",
+   "question": "Welche konkrete Entscheidung könnte „Angst vor Hoffnung“ bei Moros in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Angst vor Hoffnung“ bei Moros haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-015",
+   "question": "Wie lässt sich „Angst vor Hoffnung“ bei Moros zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-016",
+   "question": "Welche Alternativen sollte der Autor bei Moros für „Angst vor Hoffnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-017",
+   "question": "Was bedeutet bei Moros der Themenpunkt „Unterschied zwischen Aufgeben und Rückzug“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-018",
+   "question": "Welche Lesarten auf der Seite zu Moros stützen oder begrenzen „Unterschied zwischen Aufgeben und Rückzug“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-019",
+   "question": "Welcher Grenzfall würde bei Moros die Annahmen über „Unterschied zwischen Aufgeben und Rückzug“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-020",
+   "question": "Wer könnte innerhalb des Romans bei Moros etwas über „Unterschied zwischen Aufgeben und Rückzug“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Aufgeben und Rückzug“ bei Moros in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Aufgeben und Rückzug“ bei Moros haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-023",
+   "question": "Wie lässt sich „Unterschied zwischen Aufgeben und Rückzug“ bei Moros zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-024",
+   "question": "Welche Alternativen sollte der Autor bei Moros für „Unterschied zwischen Aufgeben und Rückzug“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-025",
+   "question": "Was bedeutet bei Moros der Themenpunkt „Wünsche eines resignierten Anteils“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-026",
+   "question": "Welche Lesarten auf der Seite zu Moros stützen oder begrenzen „Wünsche eines resignierten Anteils“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-027",
+   "question": "Welcher Grenzfall würde bei Moros die Annahmen über „Wünsche eines resignierten Anteils“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-028",
+   "question": "Wer könnte innerhalb des Romans bei Moros etwas über „Wünsche eines resignierten Anteils“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-029",
+   "question": "Welche konkrete Entscheidung könnte „Wünsche eines resignierten Anteils“ bei Moros in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wünsche eines resignierten Anteils“ bei Moros haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-031",
+   "question": "Wie lässt sich „Wünsche eines resignierten Anteils“ bei Moros zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-032",
+   "question": "Welche Alternativen sollte der Autor bei Moros für „Wünsche eines resignierten Anteils“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-033",
+   "question": "Was bedeutet bei Moros der Themenpunkt „Hilfe ohne erzwungene Aktivierung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-034",
+   "question": "Welche Lesarten auf der Seite zu Moros stützen oder begrenzen „Hilfe ohne erzwungene Aktivierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-035",
+   "question": "Welcher Grenzfall würde bei Moros die Annahmen über „Hilfe ohne erzwungene Aktivierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-036",
+   "question": "Wer könnte innerhalb des Romans bei Moros etwas über „Hilfe ohne erzwungene Aktivierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-037",
+   "question": "Welche konkrete Entscheidung könnte „Hilfe ohne erzwungene Aktivierung“ bei Moros in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Hilfe ohne erzwungene Aktivierung“ bei Moros haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-039",
+   "question": "Wie lässt sich „Hilfe ohne erzwungene Aktivierung“ bei Moros zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-040",
+   "question": "Welche Alternativen sollte der Autor bei Moros für „Hilfe ohne erzwungene Aktivierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "moros"
+   ]
+  },
+  {
+   "id": "RQ-moros-041",
+   "question": "Wo unterscheiden sich Moros und Kiko, wenn man sie unter dem Gesichtspunkt „Kollaps als Schutz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-042",
+   "question": "Welche Quelle verbindet Moros mit Kiko in Bezug auf „Kollaps als Schutz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-043",
+   "question": "Welche Grenzen aus der Seite zu Kiko müsste eine Deutung von Moros unter „Kollaps als Schutz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-044",
+   "question": "Wie könnte sich das Wissen über Moros vom Wissen über Kiko unterscheiden, wenn „Kollaps als Schutz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moros und Kiko bei „Kollaps als Schutz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-046",
+   "question": "Falls Moros im Hinblick auf „Kollaps als Schutz“ anders festgelegt wird: Welche Aussagen über Kiko müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moros und Kiko bei „Kollaps als Schutz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-048",
+   "question": "Braucht der Roman eine Verbindung von Moros und Kiko bei „Kollaps als Schutz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-049",
+   "question": "In welchem denkbaren Fall könnte Moros bestehen, ohne dass Kiko dieselbe Funktion übernimmt, und was würde das für „Kollaps als Schutz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-050",
+   "question": "Welche Kosten könnte eine Verbindung von Moros und Kiko in Bezug auf „Kollaps als Schutz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-051",
+   "question": "Welche ältere Lesart von Moros oder Kiko könnte die Gegenüberstellung unter „Kollaps als Schutz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moros und Kiko unter „Kollaps als Schutz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "moros",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-moros-053",
+   "question": "Wo unterscheiden sich Moros und Nyx, wenn man sie unter dem Gesichtspunkt „Angst vor Hoffnung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-054",
+   "question": "Welche Quelle verbindet Moros mit Nyx in Bezug auf „Angst vor Hoffnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-055",
+   "question": "Welche Grenzen aus der Seite zu Nyx müsste eine Deutung von Moros unter „Angst vor Hoffnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-056",
+   "question": "Wie könnte sich das Wissen über Moros vom Wissen über Nyx unterscheiden, wenn „Angst vor Hoffnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moros und Nyx bei „Angst vor Hoffnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-058",
+   "question": "Falls Moros im Hinblick auf „Angst vor Hoffnung“ anders festgelegt wird: Welche Aussagen über Nyx müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moros und Nyx bei „Angst vor Hoffnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-060",
+   "question": "Braucht der Roman eine Verbindung von Moros und Nyx bei „Angst vor Hoffnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-061",
+   "question": "In welchem denkbaren Fall könnte Moros bestehen, ohne dass Nyx dieselbe Funktion übernimmt, und was würde das für „Angst vor Hoffnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-062",
+   "question": "Welche Kosten könnte eine Verbindung von Moros und Nyx in Bezug auf „Angst vor Hoffnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-063",
+   "question": "Welche ältere Lesart von Moros oder Nyx könnte die Gegenüberstellung unter „Angst vor Hoffnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moros und Nyx unter „Angst vor Hoffnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "moros",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-moros-065",
+   "question": "Wo unterscheiden sich Moros und Rhys, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Aufgeben und Rückzug“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-066",
+   "question": "Welche Quelle verbindet Moros mit Rhys in Bezug auf „Unterschied zwischen Aufgeben und Rückzug“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-067",
+   "question": "Welche Grenzen aus der Seite zu Rhys müsste eine Deutung von Moros unter „Unterschied zwischen Aufgeben und Rückzug“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-068",
+   "question": "Wie könnte sich das Wissen über Moros vom Wissen über Rhys unterscheiden, wenn „Unterschied zwischen Aufgeben und Rückzug“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moros und Rhys bei „Unterschied zwischen Aufgeben und Rückzug“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-070",
+   "question": "Falls Moros im Hinblick auf „Unterschied zwischen Aufgeben und Rückzug“ anders festgelegt wird: Welche Aussagen über Rhys müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moros und Rhys bei „Unterschied zwischen Aufgeben und Rückzug“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-072",
+   "question": "Braucht der Roman eine Verbindung von Moros und Rhys bei „Unterschied zwischen Aufgeben und Rückzug“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-073",
+   "question": "In welchem denkbaren Fall könnte Moros bestehen, ohne dass Rhys dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Aufgeben und Rückzug“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-074",
+   "question": "Welche Kosten könnte eine Verbindung von Moros und Rhys in Bezug auf „Unterschied zwischen Aufgeben und Rückzug“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-075",
+   "question": "Welche ältere Lesart von Moros oder Rhys könnte die Gegenüberstellung unter „Unterschied zwischen Aufgeben und Rückzug“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moros und Rhys unter „Unterschied zwischen Aufgeben und Rückzug“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "moros",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-moros-077",
+   "question": "Wo unterscheiden sich Moros und Kael, wenn man sie unter dem Gesichtspunkt „Wünsche eines resignierten Anteils“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-078",
+   "question": "Welche Quelle verbindet Moros mit Kael in Bezug auf „Wünsche eines resignierten Anteils“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Moros unter „Wünsche eines resignierten Anteils“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-080",
+   "question": "Wie könnte sich das Wissen über Moros vom Wissen über Kael unterscheiden, wenn „Wünsche eines resignierten Anteils“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moros und Kael bei „Wünsche eines resignierten Anteils“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-082",
+   "question": "Falls Moros im Hinblick auf „Wünsche eines resignierten Anteils“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moros und Kael bei „Wünsche eines resignierten Anteils“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-084",
+   "question": "Braucht der Roman eine Verbindung von Moros und Kael bei „Wünsche eines resignierten Anteils“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-085",
+   "question": "In welchem denkbaren Fall könnte Moros bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Wünsche eines resignierten Anteils“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-086",
+   "question": "Welche Kosten könnte eine Verbindung von Moros und Kael in Bezug auf „Wünsche eines resignierten Anteils“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-087",
+   "question": "Welche ältere Lesart von Moros oder Kael könnte die Gegenüberstellung unter „Wünsche eines resignierten Anteils“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moros und Kael unter „Wünsche eines resignierten Anteils“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "moros",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-moros-089",
+   "question": "Wo unterscheiden sich Moros und Alters, wenn man sie unter dem Gesichtspunkt „Hilfe ohne erzwungene Aktivierung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-090",
+   "question": "Welche Quelle verbindet Moros mit Alters in Bezug auf „Hilfe ohne erzwungene Aktivierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Moros unter „Hilfe ohne erzwungene Aktivierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-092",
+   "question": "Wie könnte sich das Wissen über Moros vom Wissen über Alters unterscheiden, wenn „Hilfe ohne erzwungene Aktivierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Moros und Alters bei „Hilfe ohne erzwungene Aktivierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-094",
+   "question": "Falls Moros im Hinblick auf „Hilfe ohne erzwungene Aktivierung“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Moros und Alters bei „Hilfe ohne erzwungene Aktivierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-096",
+   "question": "Braucht der Roman eine Verbindung von Moros und Alters bei „Hilfe ohne erzwungene Aktivierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-097",
+   "question": "In welchem denkbaren Fall könnte Moros bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Hilfe ohne erzwungene Aktivierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-098",
+   "question": "Welche Kosten könnte eine Verbindung von Moros und Alters in Bezug auf „Hilfe ohne erzwungene Aktivierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-099",
+   "question": "Welche ältere Lesart von Moros oder Alters könnte die Gegenüberstellung unter „Hilfe ohne erzwungene Aktivierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-moros-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Moros und Alters unter „Hilfe ohne erzwungene Aktivierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "moros",
+    "alters"
+   ]
+  }
+ ]
+}

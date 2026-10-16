@@ -1,0 +1,97 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidate list for the Dramatica Dual-Storyform Mapping Protokoll, written while reading the whole document (L1 to L287). The document is German with English Dramatica vocabulary; the Kernel symbols and math symbols were lost in the export, so lines such as "dem -Kernel" have a gap where a symbol stood. Names of the novel's world come first, then the document's own terms, then borrowed concepts under lens. The chapters are written Kapitel N, in ranges and in a table column; the numbers are compared on their own.
+
+- Kael
+- Juna
+- AEGIS
+- LogOS
+- Konstrukt-Stadt
+- Wir-Geflecht
+- Protokoll-Instanz
+- Sektor 04
+- Verschränkungs-Insel
+- Köln 2026
+- Mosaik-Herz
+- Netzwerker
+- Epigenetische Geister
+- Pixel der Realität
+- Juna-Asymmetrie-Bruch
+- Erzählloch
+- Risse
+- Rauschen
+- Glitches
+- RIVE-Protokolle
+- Secure Isolation State
+- SIS-Zustand
+- Kernel-Failure
+- PSM
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Dual-Kernel-Theorie
+- Dual-Kernel-Ontologie
+- DKT
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Story-Mind Vortex
+- Story-Mind-Modell
+- Storyform A
+- Storyform B
+- SF-A
+- SF-B
+- Heuristik der Integration
+- Phoenix Collapse
+- Phoenix Mode
+- Phoenix-Mode
+- lebende Dialetheia
+- Dialetheia-Toleranz
+- Final Architecture Validation
+- Survival Architecture
+- Zeugenfunktion
+- Witness-Funktion
+- Witness-Function
+- Spiegelmapping-Logik
+- Spiegelungs-Alternative 1
+- Spiegelungs-Alternative 2
+- Orthogonale Inversion
+- Möbius-Verschränkung
+- Verschränkungs-Regel
+- Wärme-Metrik
+- thermodynamischen Motor
+- Zielkohärenz
+- Universal Re-Connecting
+- Gödel-Element
+- Fake Monster Algebra
+- Strukturelle Dissoziation
+- DID
+- Meta-Beobachter-Ebene
+- 5-dimensionale Interferenz
+- OS Domain
+- MC Domain
+- IC Domain
+- RS Domain
+- Kapitel
+
+## lens
+
+- Overall Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Throughlines
+- Signpost
+- Vertex-Operator-Algebren
+- VOA
+- Orbifold-Konstruktion
+- Monstrous Moonshine
+- Monster Group
+- Leech-Lattice-Vertex-Operator-Algebra
+- Operator Product Expansion
+- BRST-Kohomologie
+- Ward-Identitäten
+- Landauer-Prinzip
+- Landauer-Limit
+- Klein'sche Vierergruppe
+- Chaitin-Konstante
+- Halteproblem
+- Russellschen Antinomie
+- Gödels Unvollständigkeit

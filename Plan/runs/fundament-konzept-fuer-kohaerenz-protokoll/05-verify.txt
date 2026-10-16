@@ -1,0 +1,57 @@
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Vertiefende Betrachtungen"
+`Vertiefende Betrachtungen` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#6]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Handlungsleitende Empfehlungen"
+`Handlungsleitende Empfehlungen` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "möglicherweise"
+`möglicherweise` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#11]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "empfohlen"
+`empfohlen` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Paraiyas"
+`Paraiyas` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#26]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Paradoxon X"
+`Paradoxon X` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#15]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Kernwelten"
+`Kernwelten` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Potentialmeer"
+`Potentialmeer` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "TSDP-Modell"
+`TSDP-Modell` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Übermonstergruppe"
+`Übermonstergruppe` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Juna/V Verbindung"
+`Juna/V Verbindung` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Parakonsistente Logiken"
+`Parakonsistente Logiken` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Quelle der Einsicht/Gnosis"
+`Quelle der Einsicht/Gnosis` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "AEGIS-Systems"
+`AEGIS-Systems` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Fundaments"
+`Fundaments` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#36]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Prehensions"
+`Prehensions` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Komplementaritätsprinzip"
+`Komplementaritätsprinzip` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Yin-Yang-Modell"
+`Yin-Yang-Modell` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "yin-yang-design-symbol-rugs"
+`yin-yang-design-symbol-rugs` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Sophia_"
+`Sophia_` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Charakter-Agency"
+`Charakter-Agency` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Taoismus"
+`Taoismus` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Taoism"
+`Taoism` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Taoist"
+`Taoist` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Charakter-Archetypen"
+`Charakter-Archetypen` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Pleromas"
+`Pleromas` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "TSDP-basierte"
+`TSDP-basierte` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py fundament-konzept-fuer-kohaerenz-protokoll --count "Deus Ex Machina"
+`Deus Ex Machina` ^[fundament-konzept-fuer-kohaerenz-protokoll.md:#5]
+stance_marker_count: 6 + 1 = 7

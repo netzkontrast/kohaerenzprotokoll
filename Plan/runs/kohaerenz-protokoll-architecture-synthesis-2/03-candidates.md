@@ -1,0 +1,102 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is bilingual: English sections, each followed by a German "Spiegelung" section. K_1 and K_0 are written with escaped underscores in the export, so they are listed as written. The Protocol's thinkers appear as possessives inside lens terms; only concept names are listed.
+
+- Kohärenz Protokoll
+- Kohärenz-Protokoll
+- Story-Mind Vortex
+- Storymind Vortex
+- Vortex
+- Dual-Kernel Theory (DKT)
+- Dual-Kernel Theory
+- DKT
+- Dual-Kernel-Theorie
+- Dual-Kernel Ontology
+- Dual-Kernel-Ontologie
+- K\_1
+- K\_0
+- K1-K0 Equilibrium
+- Coherence Kernel
+- Erasure Kernel
+- Kohärenz-Kernel
+- Lösch-Kernel
+- Block Universe
+- Risse
+- Riss
+- Fire
+- Feuer
+- Narben
+- Interface
+- Capacity (T)
+- boundary closure monad
+- Juna
+- Witness
+- Zeugin
+- Zeugen-Funktion
+- Moonshine-Link
+- Vertex Operator Algebra (VOA)
+- Leech Lattice
+- Monster Group
+- Griess Algebra
+- orbifold construction
+- Storymind
+- Storyform
+- dual storyforms
+- Throughlines
+- Story Goal Anomaly
+- Story Goal Anomalie
+- Story Drivers
+- Vortex Inversion
+- Vortex-Inversion
+- Phönix-Mode Inversion
+- Static Abyss
+- Integrated Fragility
+- Integration Mandate
+- Formless Narrative
+- Random Void
+- Trivialist Trap
+- Trivialist Void
+- Deterministic Clockwork
+- Autotelic Text
+- Axis
+- Theory of Structural Dissociation (TSDP)
+- TSDP
+- Apparently Normal Part (ANP)
+- Emotional Part (EP)
+- ANP
+- EP
+- Primary Structural Dissociation
+- Secondary Structural Dissociation
+- Tertiary Structural Dissociation
+- integrative capacity
+- Leerstellen
+- Reader Function
+- Leser-Funktion
+- External Substrate
+- Implied Reader
+- Actual Reader
+- Aesthetic Object
+- Aesthetic Pole
+- Artistic Pole
+- Spiegelung
+- Requirement
+- Consequences
+- Moonshine
+
+## lens
+
+- Landauer bound
+- Landauer Principle
+- Monstrous Moonshine
+- Dramatica
+- Convention T
+- dialetheia
+- Trivialism
+- Process Metaphysics
+- Concrescence
+- Prehension
+- Actual Occasion
+- Nexus
+- Subjective Form
+- Creative Advance
+- Participatory Universe

@@ -304,3 +304,37 @@ Stands beside the record's senses as entropy meaning possibility, said of the se
 „die Integration von Trauma (Entropie)“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L28] is its epistemological centre, and AEGIS tries to erase „traumatische Entropie“ ^[kohaerenz-protokoll-duale-dramatica-storyform-synthese.md:L50]. The report's Entropie-Kernel is the chaos pole of its Dual Kernel Theory (symbol lost in the export).
 
 One more position in the record; it decides nothing about the sense of Entropie.
+
+## 2026-10-11 — `aegis-paradoxon-konzeption-und-analyse`, 2025-04-29, the AEGIS paradox report
+
+**The report uses Entropie in the information-theoretic sense, as the measure AEGIS minimises, glossed as Inkohärenz.**
+
+„Minimierung von Informationsentropie (Inkohärenz)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L36]. The recommended paradox ends: „Paradoxerweise erzeugt AEGIS dadurch genau die Inkohärenz und Entropie“ ^[aegis-paradoxon-konzeption-und-analyse.md:L288].
+
+One more position in the record; it decides nothing.
+
+## 2026-10-12 — `aegis-philosophie-und-manifest-entwicklung`, 2025-04-19, the AEGIS philosophy and manifest
+
+**The AEGIS-philosophy analysis describes AEGIS's entropy as incoherence, and asks whether that misclassifies useful complexity.**
+
+„AEGIS definiert Entropie primär als Inkohärenz, Zerfall und Systeminstabilität.“ ^[aegis-philosophie-und-manifest-entwicklung.md:L23]
+
+„Klassifiziert AEGIS möglicherweise nützliche Komplexität fälschlich als Entropie?“ ^[aegis-philosophie-und-manifest-entwicklung.md:L43]
+
+Stands beside position 1 (entropy as disorder to be resisted) as the same sense said of AEGIS's own definition, with the `Negentropie-Hypothese` named as the critique; it does not speak to position 2; recorded, nothing decided.
+
+## 2026-10-12 — `emergenz-aegis-und-selbststrukturierung`, 2025-04-27, the emergent self-structuring research
+
+**The self-structuring research postulates entropy as what AEGIS generates coherence from, and does not name it only as disorder to be resisted.**
+
+It writes „Die Generierung von Kohärenz (Ordnung) aus Entropie“ ^[emergenz-aegis-und-selbststrukturierung.md:L74] and „ist das Kernversprechen von AEGIS“ ^[emergenz-aegis-und-selbststrukturierung.md:L74], and at the energy cluster „Dies klingt paradox, muss aber im Sinne der Nichtgleichgewichtsthermodynamik interpretiert werden“ ^[emergenz-aegis-und-selbststrukturierung.md:L242]. Entropy is also described there as a measure of disorder or lack of information, and the model is postulated and hedged.
+
+Sits nearer the record's second position, entropy as what coherence comes out of, with the thermodynamic reading as lens; recorded, nothing decided.
+
+## 2026-10-12 — `emergenz-autonomer-systeme-aegis-forschung`, 2025-04-27, the AEGIS fundamental-research report
+
+**The report conceptualises AEGIS as producing coherence from a state of higher entropy, frames it as a dissipative structure, and itself asks whether `aus Entropie` means that or the use of entropy gradients.**
+
+It writes „AEGIS ist ein System oder Protokoll, das autonom interne Kohärenz“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L445] by processing or emerging from a higher-entropy state, and „AEGIS kann als dissipative Struktur im Sinne Prigogines gerahmt werden“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L449]. It marks the phrase as ambiguous („Bedeutet sie, dass Kohärenz“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L449]) and calls the gradient reading „Letzteres erscheint physikalisch plausibler“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L449]. The whole is labelled speculative: „als ein spekulatives Konstrukt konzeptualisiert“ ^[emergenz-autonomer-systeme-aegis-forschung.md:L517].
+
+Sits nearer the record's second position, entropy as what coherence comes out of, with the thermodynamic reading as lens; it also writes that low internal entropy is kept up against the pull of entropy, so it touches the first. Recorded, nothing decided.

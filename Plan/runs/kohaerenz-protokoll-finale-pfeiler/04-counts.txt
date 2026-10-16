@@ -1,0 +1,82 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Fundament                        12 word    16 in   [18, 22, 26, 30, 36, 40]
+                                    6      as fundamentalen
+                                    4      as Fundaments
+                                    2      as fundamentale
+                                    1      as fundamental
+  Potentialmeer                     3 word     4 in   [30, 102, 127, 268]
+                                    1      as Potentialmeers
+  Kohärenz-Inseln                   1 word     1 in   [30]
+  Paraiyas                          1 word     1 in   [30]
+  AEGIS                            41 word    41 in   [30, 54, 62, 66, 70, 78]
+  Kael                             34 word    45 in   [44, 54, 56, 60, 62, 82]
+                                   11      as Kaels
+  Juna                             16 word    16 in   [56, 88, 92, 102, 114, 191]
+  Juna/V                            8 word    10 in   [92, 191, 195, 203, 216, 218]
+                                    2      as Juna/V-Verbindung
+  Nyx                               4 word     4 in   [144, 152, 170, 184]
+  Kiko                              2 word     2 in   [144, 185]
+  Lex                               4 word     4 in   [144, 152, 170, 186]
+  Selene                            1 word     1 in   [187]
+  Nichts Rauschen                   2 word     2 in   [82, 290]
+  Risse                             1 word     2 in   [102, 125]
+                                    1      as Rissen
+  Kernwelten                        1 word     1 in   [125]
+  Kern-Direktive                    1 word     1 in   [249]
+  Kohärenz Protokoll                5 word     6 in   [13, 272, 276, 278, 294]
+  Gödel-Gambit                      1 word     1 in   [88]
+  Funktionale Multiplizität         2 word     2 in   [132, 148]
+  funktionalen Multiplizität        3 word     3 in   [60, 136, 152]
+  Anscheinend Normalen Anteile      1 word     1 in   [144]
+  Emotionalen Anteilen              1 word     1 in   [144]
+  ANPs                              1 word     1 in   [144]
+  EPs                               3 word     3 in   [144, 183]
+  ISH/Torwächter                    1 word     1 in   [187]
+  Co-Fronting                       1 word     1 in   [152]
+  Täterintrojekt                    1 word     1 in   [144]
+  Pfad A                            2 word     2 in   [98, 122]
+  Pfad B                            2 word     2 in   [106, 122]
+  Szenario A                        1 word     1 in   [267]
+  Szenario B                        1 word     1 in   [268]
+  Der neue Tyrann                   1 word     1 in   [267]
+  Der Gärtner                       1 word     1 in   [268]
+  Realitätserzeugung                1 word     1 in   [265]
+  Systemintervention                1 word     1 in   [265]
+  Kerkermeister                     1 word     1 in   [128]
+  Leere                             2 word     2 in   [128, 253]
+  Gefühl von Heimat                 1 word     1 in   [218]
+  Anziehungsbecken                  2 word     2 in   [44, 60]
+  dialetheische Geist               1 word     1 in   [166]
+  seltsamen Attraktors              2 word     2 in   [44, 60]
+  schwach emergenter Rahmen         1 word     1 in   [36]
+  schwache Emergenz                 1 word     1 in   [42]
+  Gnosis                            6 word     6 in   [50, 56, 58, 62, 218]
+  Episteme                          2 word     2 in   [50, 54]
+  autopoietisches System            1 word     1 in   [78]
+  operationale Geschlossenheit      1 word     1 in   [80]
+  parakonsistenten Logik            6 word     6 in   [110, 112, 123, 136, 170, 182]
+  Dialetheismus                     1 word     1 in   [172]
+  Prinzip der Explosion             2 word     2 in   [102, 110]
+  ex contradictione quodlibet       1 word     1 in   [84]
+  Gödel-Satz                        4 word     4 in   [92, 94, 212, 216]
+  Specification Gaming              3 word     3 in   [114, 245, 251]
+  Perverse Instantiation            3 word     3 in   [114, 251, 288]
+  Prehension                        1 word     1 in   [205]
+  Strukturelle Resonanz             1 word     1 in   [206]
+  rhizomatischen Selbst             2 word     2 in   [156, 162]
+  polyphoner Roman                  1 word     1 in   [160]
+  Tertiären Strukturellen Dissoziation    1 word     1 in   [144]
+  TSDP                              2 word     3 in   [140, 144, 182]
+                                    1      as TSDP-Klassifikation
+  Deus ex Machina                   5 word     5 in   [18, 22, 40, 60, 195]
+  KI-Alignment-Problems             1 word     1 in   [249]
+  Whitehead                         1 word     2 in   [82, 205]
+                                    1      as Whiteheads
+  Deleuze                           2 word     2 in   [162, 301]
+  Bachtin                           0 word     1 in   [160]
+                                    1      as Bachtins
+  Gaslighting                       1 word     1 in   [144]

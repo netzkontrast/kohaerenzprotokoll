@@ -1,0 +1,520 @@
+{
+  "document": "kohaerenz-protokoll-detaillierter-plot-blueprint",
+  "drive_id": "1IW6zREKcCCpANxpIhmMBi19h-ASqT-Q1cwkb9aSpP94",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Master-Blueprint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        74
+      ]
+    },
+    "Die Ästhetik der Ohnmacht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        19
+      ]
+    },
+    "Die Anatomie der Spaltung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        36
+      ]
+    },
+    "Die Resonanz der Wirklichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        61
+      ]
+    },
+    "Kael": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        25,
+        31,
+        32,
+        42,
+        51,
+        55,
+        56,
+        57,
+        67,
+        71,
+        73,
+        74,
+        76,
+        80
+      ]
+    },
+    "Juna": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        25,
+        42,
+        50,
+        51,
+        67,
+        71,
+        72,
+        74,
+        82
+      ]
+    },
+    "AEGIS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        29,
+        55,
+        67,
+        71,
+        72,
+        74,
+        81
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        30
+      ]
+    },
+    "Universal Reboot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Architectural Storytelling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Sektor 04": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Guardians": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        42,
+        46
+      ]
+    },
+    "Guardian": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        38,
+        42,
+        46
+      ]
+    },
+    "LogOS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        42,
+        50,
+        55
+      ]
+    },
+    "Mnemosyne": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        51,
+        56
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        57
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Blinden Fleck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Purge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Externen Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        67
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Köln": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        72
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Beobachter-Instanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Beobachters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Messer im Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "charakterlosen Erkundung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "kausale Horizonte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Gödelsche Sackgassen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "subjektive Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "parakonsistenten Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Entropie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        16,
+        51,
+        55,
+        72
+      ]
+    },
+    "Identität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        16,
+        56
+      ]
+    },
+    "Orientierungswissenschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Pfleger-Rolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "KPTBS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        80
+      ]
+    },
+    "DIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        80
+      ]
+    },
+    "ADHS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "TSDP-Systemik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Nichts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        82
+      ]
+    },
+    "Stasis-Momenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Meta-Foreshadowing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Meta-Twist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        76
+      ]
+    },
+    "Meta-Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Rendering-Grenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Karneval": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        72
+      ]
+    },
+    "Mediterana": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Schokoladenmuseum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Hard Sci-Fi Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Handlungsbogen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        40,
+        65
+      ]
+    },
+    "Dokument-Integration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        44,
+        69
+      ]
+    },
+    "Annotation \\[Pacing\\]": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        59
+      ]
+    },
+    "Annotation \\[Meta-Twist\\]": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Konzept": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        38,
+        46,
+        63
+      ]
+    },
+    "Systemtod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Hauptsatz der Thermodynamik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Systemischer Check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    }
+  }
+}

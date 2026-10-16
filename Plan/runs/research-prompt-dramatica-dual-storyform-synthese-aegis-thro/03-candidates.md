@@ -1,0 +1,189 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a research prompt addressed to another AI: its method sections (Popper, Steelmanning, ReAct, RISEN, templates, checklists) are listed only where they name a section or a device the prompt calls its own; its statements about the novel are in Constraint Blocks 2 and 3, the Forschungs-Ziel, Input 5 and Steps 1, 3, 5 and 7. The prompt's exclusion list names a private anchor; it is deliberately not listed as a candidate. Escaped underscores in file names (Coherence-Protocol-synthesis\_pdf.pdf) are export damage and are not listed.
+
+## world and the prompt's own terms
+
+- AEGIS
+- Kael
+- Juna
+- Junas Asymmetrie
+- Juna-Asymmetrie
+- Guardian
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Mnemosyne-Archipel
+- Wächter-Zwiespalt
+- Trennungsprotokolle
+- Trennungs-Protokoll-Gefüge
+- Erasure-Sweeps
+- Truth-Rotation
+- Wahrheits-Vortex
+- Kollaps-Kern
+- Erasure Kernel
+- Coherence Kernel
+- K0
+- K1
+- Algorithmische Melancholie
+- Algorithmischer Melancholie
+- Coheron
+- Coherons
+- Erason
+- Erasonen
+- η-Formel
+- PAL-Zeit
+- Erason-Gravitation
+- Landauer Heat
+- Landauer-Hitze
+- Mutual Information
+- DKT
+- Monster Group M
+- Vertex Operator Algebra
+- VOA
+- Leech Lattice
+- Orbifold
+- Twisted Modules
+- Witness Function
+- Zero-Knowledge Verifier
+- Husserlian Disinterested Spectator
+- Chaitin
+- Gödel-Satz
+- Gödel-Sentence
+- Gödel-Gambit
+- Monstrous-Moonshine
+- Moonshine-Link
+- Dialetheia
+- Dialetheismus
+- Phoenix Collapse
+- Heuristics of Integration
+- Storyform A
+- Storyform B
+- Vortex-Inversion
+- Driver-Pivot
+- Heat-Spike
+- Convergence
+- Rotation
+- Stille
+- Phönix-Mode-Inversion
+- Klimax
+- ANP
+- ANP/EP-Buffering
+- funktionale Multiplizität
+- Janetian Action Systems
+- ANP-artige Façade
+- Alter
+- Witness-Function-3-Layer
+- Q-Entanglement
+- Somatic Rulebook
+- Prose core principle
+- Hubble-Volumen
+- Halteproblem
+- Lex
+- Index
+- Nox
+- Echo
+- Flicker
+- Limina
+- Praetor
+- Eos
+- Elara
+- Aris
+- Mina
+- Lyra
+- Soren
+- Tariq
+- Nova
+- Sentinel
+- Deus ex Machina
+- 5D-Interferenz
+- H1
+- H2
+- H3
+- H3a
+- H3b
+- H3c
+- Surviving Branch
+- Hypothesis Half-Life Audit
+- Surviving-Branch Triangulation
+- Query Expansion Log
+- Contradiction Log
+- Reflection Entry
+- Restatement Checkpoint
+- Pre-Synthesis Integrity Check
+- Bayesianischer Prior
+- Cross-Pollination
+- Reflection Baseline
+- Quellen-Hierarchie
+- Canon-Inheritance
+- Output-Ausschlüsse
+- Dramatica-Legalität
+- Bilingualer Begriffs-Kanon
+- Falsification
+- Steelmanning
+- First-Principles Decomposition
+- Source Triangulation
+- Adversarial Query Expansion
+- ReAct
+- RISEN
+
+## lens
+
+- Dramatica
+- Throughline
+- Storypoint
+- Storyform
+- Main Character
+- Influence Character
+- Objective Story
+- Relationship Story
+- MC
+- IC
+- OS
+- RS
+- Story-Mind
+- Domain
+- Universe
+- Physics
+- Mind
+- Psychology
+- Concern
+- Issue
+- Problem
+- Solution
+- Symptom
+- Response
+- Catalyst
+- Inhibitor
+- Benchmark
+- Unique Ability
+- Critical Flaw
+- Resolve
+- Growth
+- Approach
+- Do-er
+- Be-er
+- Problem-Solving Style
+- Linear
+- Holistic
+- Driver
+- Action
+- Decision
+- Limit
+- Optionlock
+- Timelock
+- Outcome
+- Success
+- Failure
+- Judgment
+- Good
+- Bad
+- TSDP
+- Theory of Structural Dissociation
+- Landauer's Principle
+- autopoietisches System
+- Qualia

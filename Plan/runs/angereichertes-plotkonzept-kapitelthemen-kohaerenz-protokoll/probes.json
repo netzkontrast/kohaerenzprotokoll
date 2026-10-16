@@ -1,0 +1,210 @@
+{
+  "document": "angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll",
+  "drive_id": "1WnVMCG7noJJiSj0UntiRQuwqiBB3ulpfUhWeppV4YXs",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 10,
+  "backslash_escapes": 0,
+  "typographic_marks": 5,
+  "ascii_quotes": 30,
+  "inflection_families": {
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentials"
+    ],
+    "ident": [
+      "Identität",
+      "Identitäts",
+      "Identitätsparadoxien",
+      "Identitätsstörung"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseinstrumente",
+      "Analyseversuch"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsgeflechte"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierung",
+      "Fragmentierungs"
+    ],
+    "monst": [
+      "Monster",
+      "Monstergruppe",
+      "Monstrous"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenarbeit",
+      "Schattens"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstgefühls",
+      "Selbstreflexion"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebruch",
+      "Symmetrien"
+    ],
+    "syste": [
+      "System",
+      "Systeminstabilitäten",
+      "Systems"
+    ],
+    "wider": [
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchliche"
+    ],
+    "anoma": [
+      "Anomalie",
+      "Anomalien"
+    ],
+    "auswi": [
+      "Auswirkung",
+      "Auswirkungen"
+    ],
+    "bruch": [
+      "Bruch",
+      "Bruchpunkt"
+    ],
+    "cache": [
+      "Cache",
+      "Caches"
+    ],
+    "duali": [
+      "Dualität",
+      "Dualitäten"
+    ],
+    "eigen": [
+      "Eigenschaft",
+      "Eigenschaften"
+    ],
+    "emerg": [
+      "Emergent",
+      "Emergenz"
+    ],
+    "erinn": [
+      "Erinnerungen",
+      "Erinnerungsfetzen"
+    ],
+    "erken": [
+      "Erkenntnisse",
+      "Erkenntniswege"
+    ],
+    "frage": [
+      "Frage",
+      "Fragen"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle"
+    ],
+    "graph": [
+      "Graph",
+      "Graphen"
+    ],
+    "inter": [
+      "Intern",
+      "Internal"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Sinneseindruck"
+    ],
+    [
+      "Sein",
+      "Analyseinstrumente"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Teilen"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Kernwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Bruch",
+      "Bruchpunkt"
+    ],
+    [
+      "Bruch",
+      "Symmetriebruch"
+    ],
+    [
+      "Cache",
+      "Caches"
+    ],
+    [
+      "Frage",
+      "Fragen"
+    ],
+    [
+      "Graph",
+      "Graphen"
+    ]
+  ]
+}

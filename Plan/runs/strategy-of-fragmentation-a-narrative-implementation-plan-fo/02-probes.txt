@@ -1,0 +1,26 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      3
+  backslash escapes      38
+  typographic marks      9
+  ascii quotes           82
+
+# inflection families -- one term, several surfaces
+  proto    Protocol, Protocols, Protokoll
+  decon    Deconstruction, Deconstructive
+  integ    Integration, Integrator
+  perfo    Performative, Performing
+  princ    Principle, Principles
+  sente    Sentence, Sentences
+  strat    Strategic, Strategy
+  struc    Structural, Structure
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  World < Worlds
+  Anteil < Persönlichkeitsanteilen
+  Protocol < Protocols
+  Sentence < Sentences
+  Principle < Principles
+  Structure < Macrostructure

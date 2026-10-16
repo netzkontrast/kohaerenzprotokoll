@@ -1,0 +1,398 @@
+{
+  "document": "report-narrative-methodology-for-kohaerenz-protokoll",
+  "drive_id": "1bQid5yPEgLMnB8HWZd4nIXfTEkvKO5IGHXq9t8bXd4U",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        21,
+        23,
+        25,
+        51,
+        55,
+        63,
+        64,
+        68,
+        72,
+        76,
+        78,
+        79,
+        91
+      ]
+    },
+    "Kael": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        17,
+        21,
+        32,
+        34,
+        38,
+        46,
+        55,
+        62,
+        63,
+        64,
+        68,
+        72,
+        80,
+        90,
+        96,
+        100
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        17
+      ]
+    },
+    "Guardians": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        70,
+        72,
+        74,
+        76,
+        79
+      ]
+    },
+    "Guardian": {
+      "n": 3,
+      "n_including_compounds": 8,
+      "lines": [
+        70,
+        72,
+        74,
+        76,
+        78,
+        79,
+        80
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        49,
+        80
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "KW1 (Logik)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Rifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Das Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        30,
+        63
+      ]
+    },
+    "Meta-Narrator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Unreliable Omniscient": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "epistemology-shift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Found-Footage Structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Typographical Instability": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Contradictory Footnotes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "system correction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Emotional Parts (EPs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "autopoietische Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "amnesic barriers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "co-conscious multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Fragmented Voice (Dissoziation)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Fragmented Voice": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        36
+      ]
+    },
+    "Integrated Voice (Polyphony)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Integrated Voice": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Polyphony": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "polyphonic": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        46,
+        62
+      ]
+    },
+    "choric": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "second-order cybernetics (Kybernetik zweiter Ordnung)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Kybernetik zweiter Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "second-order cybernetics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "autopoietic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "integrated information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "co-consciousness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        50
+      ]
+    },
+    "derealization": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        90
+      ]
+    },
+    "depersonalization": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        90
+      ]
+    }
+  }
+}

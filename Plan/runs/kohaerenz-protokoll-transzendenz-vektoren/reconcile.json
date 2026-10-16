@@ -1,0 +1,143 @@
+{
+  "document": "kohaerenz-protokoll-transzendenz-vektoren",
+  "drive_id": "1X251_F5DoqNXj7ypzJpSJ9izuRLGaxKNVqy9hCl8MOw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; one candidate respelled by the coordinator to its running-text form after a zero only by case (05-verify.txt); rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-331/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 87,
+    "decided_by_lookup": 60,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A speculative report of proposals, a second text from the Inkubation-X commission: its new surfaces are its sender, its Vektoren, hypotheses, mechanisms, scenarios, states and techniques and the borrowed science of its Fundierung lists; what it proposes about AEGIS, Juna, Kael, Kael's multiplicity and glitches went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        172,
+        195,
+        215,
+        225,
+        228,
+        234,
+        235,
+        236,
+        237
+      ],
+      "attribution": "",
+      "note": "AEGIS as a system whose paradox is explored in conditional failure mechanisms and four endgame scenarios"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        69,
+        128,
+        136,
+        146,
+        156,
+        166,
+        172
+      ],
+      "attribution": "",
+      "note": "four hypotheses on Juna/V, offered side by side"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        47,
+        95,
+        241,
+        249,
+        260,
+        270
+      ],
+      "attribution": "",
+      "note": "Kael's contact with the Fundament and the Leere, and three transcendent states of System Kael"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        241,
+        275
+      ],
+      "attribution": "",
+      "note": "multiplicity as a potential and as a catalyst, in the conditional"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        36,
+        136
+      ],
+      "attribution": "",
+      "note": "glitches inside AEGIS proposed as leakage from the Fundament"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Quanten-Emergenz` a borrowed mechanism, not emergenz; `Kohärenz Protokoll` the project title; `Simulationsargument` and `Manipulation von Simulationsparametern` borrowed or generic, not the Überwelt; `Conceptual Expansion Unit` the sender's unit, not alex; `Juna/V` forms read on juna; `fehlausgerichteten Kohärenz` read on aegis; `Funktionaler Multiplizität` and `Multiplizität als Katalysator` read on multiplizitaet; `Glitches` read on risse",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 74,
+      "decision": "occurrence",
+      "why": "a borrowed emergence mechanism of Fundament and Leere, not the page's emergence"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 15,
+      "decision": "reading",
+      "why": "the report's four Juna/V hypotheses, read on the page from L128–L172"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the project title in the report's heading"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "funktionale Multiplizität",
+      "line": 241,
+      "decision": "reading",
+      "why": "System Kael's functional multiplicity as a potential, read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "AEGIS's simulation in general, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Orakel-Sigma",
+    "the Vektoren, mechanisms, hypotheses, Endspiel scenarios, transcendent states and techniques as labels",
+    "Kausale Leckage, Kael-Gestalt, Mind-Field, Quellcode",
+    "the borrowed concepts (M-theory, bulk and branes, loop quantum gravity, information field, Casimir effect, Gödel, Orch OR, IIT)"
+  ],
+  "internal_tension": "none found — the report offers alternatives side by side and chooses none",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

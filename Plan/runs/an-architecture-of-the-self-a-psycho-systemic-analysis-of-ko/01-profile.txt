@@ -1,0 +1,14 @@
+# an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko
+  lines                137  (frontmatter ends at 9)
+  body words           2621
+  headings             16   bold-only lines 0
+  table rows           11   code fences 0
+  question marks       0
+  backslash escapes    6
+  typographic marks    15   ascii quotes 64
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         804 chars
+

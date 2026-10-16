@@ -1,0 +1,97 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an English briefing with German names. Its two halves: the ARCHON framework (an AI architecture) and the novel. Voice is the briefing's own throughout; no speaker is named for the lines it reports. It closes with a section of open tensions (L167 onward). Core World names stand in a table with KW labels; the document writes them with a digit (KW1) and with a colon.
+
+- Kohärenz Protokoll
+- ARCHON
+- Narrative Context Protocol
+- NCP
+- Knowledge Hypergraph
+- Narrative Director Agent
+- Narrative Director
+- Core Reasoning Engine
+- Planner Module
+- Self-Reflection Module
+- Overall Story Consequence of Failure
+- Thematic Resonance
+- Kael
+- System Kael
+- AEGIS
+- System AEGIS
+- alters
+- functional multiplicity
+- tertiary dissociation
+- ANPs
+- Apparently Normal Parts
+- EPs
+- Emotional Parts
+- Day Shift
+- Emergency Responders
+- Lex
+- Nyx
+- Kiko
+- Rhys
+- Selene
+- Alex
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Das Nichts Rauschen
+- Coherence through Negation
+- Coherence through Integration
+- perverse learning loop
+- autopoietic
+- Logics of Formal Inconsistency
+- Discursive Logic
+- Überwelt
+- Kernwelten
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- The Foundation
+- Juna/V
+- Juna
+- Moonshine-Link
+- Gödel-Gambit
+- living Gödel-sentence
+- algorithmic melancholy
+- inefficient beauty
+- The Gärtner
+- Genesis Crisis
+- Algorithmic Horror
+- Fragmented State
+- Integrated State
+- polyphonic prose
+- Contradictory Footnotes
+- Typographical Instability
+- Found Footage
+- External Level
+
+## lens
+
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Dramatica
+- Integrated Information Theory
+- IIT
+- paraconsistent
+- Principle of Explosion
+- prehension
+- quantum entanglement
+- strange attractor
+- basin of attraction
+- ergodic literature
+- Retrieval-Augmented Generation
+- RAG
+- coherence crisis
+- short-term amnesia
+- Grand Argument Story
+- ReAct
+- zombie system
+- Deus ex Machina

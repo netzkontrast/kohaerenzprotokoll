@@ -1,0 +1,76 @@
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Introduction"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Introduction` ^[understanding-aegis-the-guardian-and-the-cage.md:#1]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Conclusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Conclusion` ^[understanding-aegis-the-guardian-and-the-cage.md:#1]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[understanding-aegis-the-guardian-and-the-cage.md:#0]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[understanding-aegis-the-guardian-and-the-cage.md:#2]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Nothing Hiss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nothing Hiss` ^[understanding-aegis-the-guardian-and-the-cage.md:#1]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Specification Gaming"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Specification Gaming` ^[understanding-aegis-the-guardian-and-the-cage.md:#1]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "incoherence"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`incoherence` ^[understanding-aegis-the-guardian-and-the-cage.md:#1]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "Coherence"
+whole word, case-sensitive     3
+whole word, case-insensitive   7
+including compounds            3
+
+`Coherence` ^[understanding-aegis-the-guardian-and-the-cage.md:#3]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "coherence"
+whole word, case-sensitive     4
+whole word, case-insensitive   7
+including compounds            5
+
+`coherence` ^[understanding-aegis-the-guardian-and-the-cage.md:#4]
+$ python3 scripts/read.py understanding-aegis-the-guardian-and-the-cage --count "AEGIS ist"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS ist` ^[understanding-aegis-the-guardian-and-the-cage.md:#1]
+$ grep -n "?" Sources/drive/understanding-aegis-the-guardian-and-the-cage.md | cut -c1-20
+15:AEGIS (Autonomous
+40:This machine-like
+$ sed -n 1,12p Plan/runs/understanding-aegis-the-guardian-and-the-cage/01-profile.txt (headings 6, table rows 6, backslash escapes 24, question marks 2)
+# understanding-aegis-the-guardian-and-the-cage
+  lines                57  (frontmatter ends at 9)
+  body words           912
+  headings             6   bold-only lines 0
+  table rows           6   code fences 0
+  question marks       2
+  backslash escapes    24
+  typographic marks    9   ascii quotes 38
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none

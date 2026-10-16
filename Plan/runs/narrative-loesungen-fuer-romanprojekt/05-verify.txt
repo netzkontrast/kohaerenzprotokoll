@@ -1,0 +1,88 @@
+$ read.py --count "Konkrete Techniken/Strategien"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Konkrete Techniken/Strategien` ^[narrative-loesungen-fuer-romanprojekt.md:#7]
+$ read.py --count "Illustrative Beispiele"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Illustrative Beispiele` ^[narrative-loesungen-fuer-romanprojekt.md:#7]
+$ read.py --count "Analyse & Anwendbarkeit"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Analyse & Anwendbarkeit` ^[narrative-loesungen-fuer-romanprojekt.md:#7]
+$ read.py --count "Vertiefte Betrachtung"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Vertiefte Betrachtung` ^[narrative-loesungen-fuer-romanprojekt.md:#7]
+$ read.py --count "Magier"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            35
+
+`Magier` ^[narrative-loesungen-fuer-romanprojekt.md:#27]
+$ read.py --count "Forscher"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            18
+
+`Forscher` ^[narrative-loesungen-fuer-romanprojekt.md:#16]
+$ read.py --count "Philosoph"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            31
+
+`Philosoph` ^[narrative-loesungen-fuer-romanprojekt.md:#9]
+$ read.py --count "funktionale Multiplizität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`funktionale Multiplizität` ^[narrative-loesungen-fuer-romanprojekt.md:#4]
+$ read.py --count "funktionalen Multiplizität"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`funktionalen Multiplizität` ^[narrative-loesungen-fuer-romanprojekt.md:#6]
+$ read.py --count "Functional Multiplicity"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Functional Multiplicity` ^[narrative-loesungen-fuer-romanprojekt.md:#1]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kapitel` ^[narrative-loesungen-fuer-romanprojekt.md:#0]
+$ read.py --count "Kapitelüberschriften"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitelüberschriften` ^[narrative-loesungen-fuer-romanprojekt.md:#1]
+$ read.py --count "Reality Bleed"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Reality Bleed` ^[narrative-loesungen-fuer-romanprojekt.md:#1]
+$ read.py --count "Meta-Erzählers"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`Meta-Erzählers` ^[narrative-loesungen-fuer-romanprojekt.md:#28]
+$ stance_marker_count 28 = 7+7+7+7 (the four counts above)
+$ sed -n 329p; sed -n 530p (reference list first and last numbers)
+1.  Getting the Story Right an
+202. Fragmentation Psychology:

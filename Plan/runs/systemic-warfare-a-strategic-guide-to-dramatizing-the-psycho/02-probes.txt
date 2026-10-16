@@ -1,0 +1,31 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      6
+  backslash escapes      52
+  typographic marks      17
+  ascii quotes           54
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemic, Systems
+  analy    Analysis, Analyst
+  disso    Dissociation, Dissociative
+  engin    Engine, Engineered
+  explo    Exploit, Exploitation
+  fragm    Fragmentation, Fragments
+  gödel    Gödel, Gödelian
+  narra    Narrative, Narrator
+  scena    Scenario, Scenarios
+  weapo    Weapon, Weaponizing
+
+# substring pairs -- never one term, often merged by accident
+  Path < Empathy
+  Riss < Risse
+  With < Within
+  Gödel < Gödelian
+  Logic < Psychological
+  Engine < Engineered
+  System < Systems
+  System < Systemic
+  Weapon < Weaponizing
+  Exploit < Exploitation
+  Scenario < Scenarios

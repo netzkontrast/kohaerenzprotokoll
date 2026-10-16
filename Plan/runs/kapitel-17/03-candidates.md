@@ -1,0 +1,44 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a chapter plan in German: a list of moments grouped A to F for Kapitel 17. Terms below are the figures, places, systems and the document's own section labels.
+
+- Kapitel 17
+- Kapitel 16
+- Step 2.4
+- Step 2.3
+- Step 2.5
+- Blueprint V2
+- Cerberus' Protokoll: Eskalation der Abwehr
+- Interne Dialoge
+- Kael
+- AEGIS
+- AEGIS v1.5
+- Cerberus
+- Cerberus 2.0
+- Cerberus' Konstrukte
+- Schattenlabyrinth
+- KW3
+- Juna
+- Juna-Fokussierung
+- Juna-Spur-Ort
+- System-Alarmstufe Rot
+- Weltübergreifender Einfluss
+- Zielobjekt Kael
+- Host
+- Alters
+- Manager-Alter
+- Praetor
+- Index
+- Limina
+- Silas
+- Echo
+- Flicker
+- Nox
+- LogOS
+- Abwehrdrohnen
+- Schattenkonstrukten
+- Zweck heiligt die Mittel
+- Innere Koordination unter Beschuss
+- Die Verschärfte Jagd
+- Eskalation der Bedrohung
+- Kapitelende: Der Gegenangriff beginnt

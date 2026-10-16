@@ -1,0 +1,14 @@
+# aegis-paradoxon-konzeption-und-analyse
+  lines                395  (frontmatter ends at 9)
+  body words           8898
+  headings             2   bold-only lines 11
+  table rows           48   code fences 0
+  question marks       18
+  backslash escapes    112
+  typographic marks    61   ascii quotes 108
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    167
+  repeated labels      none
+  longest line         1212 chars
+

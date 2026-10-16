@@ -1,0 +1,57 @@
+{
+  "document": "romanentwurf-kapitel-1-ausformulierung",
+  "drive_id": "1_UVNdhcucY3Avn25aGZ4CUWRsFGRjVnV8PNUVARbafg",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session found every body line from L18 on verbatim in document 245's Kapitel 1 and L17 two words apart (Plan/runs/ingest-253/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 44,
+    "decisions": 45,
+    "decided_by_lookup": 29,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A near version of document 245's Kapitel 1: its readings are 245's; nothing new went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a near version of document 245's Kapitel 1: every page it names was read there; every near match an occurrence here",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 90,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "nothing new — its surfaces are 245's"
+  ],
+  "internal_tension": "none beyond 245's: the voices in Kael stand only as bracketed guesses",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

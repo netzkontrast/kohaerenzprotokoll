@@ -1,0 +1,239 @@
+{
+  "document": "risikoanalysebericht-eine-systematische-bewertung-der-bedroh",
+  "drive_id": "1BT0nrQwhghG6GufU-cWFZE--uB07FisaOdc3g5XZ7Tw",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 18,
+  "typographic_marks": 40,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "wisse": [
+      "Wissen",
+      "Wissens",
+      "Wissensansprüche",
+      "Wissenschaft",
+      "Wissenschaftler",
+      "Wissenschaftlers",
+      "Wissenschaftliche",
+      "Wissensformen",
+      "Wissensgenerierung",
+      "Wissenssysteme"
+    ],
+    "risik": [
+      "Risiken",
+      "Risikoanalyse",
+      "Risikoanalysebericht",
+      "Risikofaktor",
+      "Risikofaktoren",
+      "Risikokategorien"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemische",
+      "Systems"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkenntnissen",
+      "Erkenntnistheoretische",
+      "Erkenntnistheorie"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmas",
+      "Paradigmen",
+      "Paradigmenwechsel",
+      "Paradigms"
+    ],
+    "theor": [
+      "Theorems",
+      "Theorie",
+      "Theoriebeladenheit",
+      "Theorien",
+      "Theory"
+    ],
+    "diese": [
+      "Diese",
+      "Dieselben",
+      "Dieser",
+      "Dieses"
+    ],
+    "objek": [
+      "Objektivität",
+      "Objektivitätsanspruchs",
+      "Objektivitätsideals",
+      "Objektivitätsprotokolls"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomens"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstreflexion",
+      "Selbsttäuschung",
+      "Selbstverstümmelung"
+    ],
+    "stand": [
+      "Standard",
+      "Standpoint",
+      "Standpunkt",
+      "Standpunkttheorie"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsansprüchen",
+      "Wahrheitsmodells"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsvektor"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "isola": [
+      "Isolation",
+      "Isolationseinwand",
+      "Isolationseinwandes"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "macht": [
+      "Macht",
+      "Machtdynamiken",
+      "Machtstrukturen"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolls"
+    ],
+    "abwei": [
+      "Abweichung",
+      "Abweichungen"
+    ],
+    "anker": [
+      "Anker",
+      "Ankerheuristik"
+    ],
+    "annah": [
+      "Annahme",
+      "Annahmen"
+    ],
+    "aussa": [
+      "Aussage",
+      "Aussagen"
+    ],
+    "besch": [
+      "Beschreibungen",
+      "Beschränkungen"
+    ],
+    "bestä": [
+      "Bestätigungsfehler",
+      "Bestätigungsfehlers"
+    ],
+    "bewei": [
+      "Beweisbarkeit",
+      "Beweise"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bias",
+      "Biases"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Dieselben"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Fakt",
+      "Fakten"
+    ],
+    [
+      "Fakt",
+      "Risikofaktor"
+    ],
+    [
+      "Fakt",
+      "Risikofaktoren"
+    ],
+    [
+      "Fall",
+      "Fallstudie"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Wissensformen"
+    ],
+    [
+      "Form",
+      "Formalisierung"
+    ],
+    [
+      "Kant",
+      "Kants"
+    ],
+    [
+      "Kuhn",
+      "Kuhns"
+    ],
+    [
+      "Teil",
+      "Urteil"
+    ],
+    [
+      "Teil",
+      "Urteilsvermögen"
+    ],
+    [
+      "Teil",
+      "Unparteilichkeit"
+    ],
+    [
+      "View",
+      "Review"
+    ]
+  ]
+}

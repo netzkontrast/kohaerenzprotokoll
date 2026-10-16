@@ -1,0 +1,950 @@
+{
+  "document": "orte-konzept-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-08",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 138,
+  "decisions": 156,
+  "same_surface": {},
+  "decided_mechanically": 86,
+  "needs_judgement": 70,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 193
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 179
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 189
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 103
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 117
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 96
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 83
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 74
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 124
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 115
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 58
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 145
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 97
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 56
+      },
+      {
+        "candidate": "Realitätsebenen",
+        "page": "realitaetsebenen",
+        "readings": 31
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 151
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 116
+      },
+      {
+        "candidate": "Trauma-Lokus",
+        "page": "vergessener-schrein",
+        "readings": 7
+      },
+      {
+        "candidate": "Realitätsebene",
+        "page": "realitaetsebenen",
+        "readings": 31
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Dissoziativer Identitätsstörung"
+      },
+      {
+        "candidate": "Systemkontrollmechanismus"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "KW1-4"
+      },
+      {
+        "candidate": "Seelenlandschaft"
+      },
+      {
+        "candidate": "Datenverarbeitungsknoten Epsilon"
+      },
+      {
+        "candidate": "Transitkorridor Delta-7"
+      },
+      {
+        "candidate": "Therapie-Schnittstelle Gamma"
+      },
+      {
+        "candidate": "Sektor für Logische Rekreation"
+      },
+      {
+        "candidate": "Archiv der Kausalitätsketten"
+      },
+      {
+        "candidate": "Insel der Fragmentierten Erinnerungen"
+      },
+      {
+        "candidate": "Garten der Falschen Erinnerungen"
+      },
+      {
+        "candidate": "Brücke der Verlorenen Verbindungen"
+      },
+      {
+        "candidate": "Die Schleusen des Misstrauens"
+      },
+      {
+        "candidate": "Gänge der Paranoia"
+      },
+      {
+        "candidate": "Nox' Schattenversteck"
+      },
+      {
+        "candidate": "Arena der Konfrontation"
+      },
+      {
+        "candidate": "Feld der Abgelehnten Identitäten"
+      },
+      {
+        "candidate": "Panoptikum der Überwachung"
+      },
+      {
+        "candidate": "Werkstatt der Möglichkeiten"
+      },
+      {
+        "candidate": "Bibliothek der Ungeschriebenen Geschichten"
+      },
+      {
+        "candidate": "Forum der Synthese"
+      },
+      {
+        "candidate": "Datenstrom-Autobahn"
+      },
+      {
+        "candidate": "Protokoll-Archiv"
+      },
+      {
+        "candidate": "Quarantäne-Zone für Anomalien"
+      },
+      {
+        "candidate": "Guardian Interface Hubs"
+      },
+      {
+        "candidate": "Kommunikationsrelais mit Extern"
+      },
+      {
+        "candidate": "Der Stille Garten"
+      },
+      {
+        "candidate": "Quelle der Anomalien"
+      },
+      {
+        "candidate": "Der Weberknoten"
+      },
+      {
+        "candidate": "Lokalitätenname"
+      },
+      {
+        "candidate": "Konzept"
+      },
+      {
+        "candidate": "Narrative Funktion"
+      },
+      {
+        "candidate": "Ästhetik & Sensorische Details"
+      },
+      {
+        "candidate": "Symbolische Bedeutung"
+      },
+      {
+        "candidate": "Regeln & Logik"
+      },
+      {
+        "candidate": "Atmosphäre & Stimmung"
+      },
+      {
+        "candidate": "Landmarken/Schlüsselmerkmale"
+      },
+      {
+        "candidate": "Charakter- & Plot-Verbindungen"
+      },
+      {
+        "candidate": "Location ID"
+      },
+      {
+        "candidate": "Masterliste der Lokalitäten"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "EST"
+      },
+      {
+        "candidate": "Eingebettetes EST"
+      },
+      {
+        "candidate": "Emergentes EST"
+      },
+      {
+        "candidate": "Räumliches EST"
+      },
+      {
+        "candidate": "Atmosphärisches EST"
+      },
+      {
+        "candidate": "Reaktive Umgebungen"
+      },
+      {
+        "candidate": "Datamoshing"
+      },
+      {
+        "candidate": "Pixel-Sorting"
+      },
+      {
+        "candidate": "Pathetischem Trugschluss"
+      },
+      {
+        "candidate": "Top-Down"
+      },
+      {
+        "candidate": "Bottom-Up"
+      },
+      {
+        "candidate": "Suspension of Disbelief"
+      },
+      {
+        "candidate": "Setting als Charakter"
+      },
+      {
+        "candidate": "Juxtaposition"
+      },
+      {
+        "candidate": "verschachtelte Konsistenz"
+      },
+      {
+        "candidate": "Oldest House"
+      },
+      {
+        "candidate": "The Hiss"
+      },
+      {
+        "candidate": "Objects of Power"
+      },
+      {
+        "candidate": "Totems"
+      },
+      {
+        "candidate": "Otherworld"
+      },
+      {
+        "candidate": "Pyramid Head"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  Kael's",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael's Wohneinheit 734",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael's  /  Kael's Wohneinheit 734",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Limina  /  liminale Räume",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Limina  /  Liminale Ästhetik",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echo's Versteckter Resonanzraum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echo der Realität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Junas Versteckter Zugangspunkt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Netzwerk",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Kern-Nexus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LogOS  /  Logos-Prime",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LogOS  /  LogOS' Beobachtungszentrum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne  /  Mnemosyne-Archipel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne  /  Mnemosynes Quellen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Cerberus  /  Cerberus-Labyrinth",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Cerberus  /  Cerberus' Zwinger",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  Kairos-Potentialis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  Kairos/Sophias Observatorium",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sophia  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sophia  /  Kairos/Sophias Observatorium",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos/Sophia  /  Kairos/Sophias Observatorium",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Archivar  /  Archivars Turm der Chroniken",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Orakel  /  Orakel/Muse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Muse  /  Orakel/Muse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Muse  /  Quelle der Inspiration (Muse-Lokus)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Muse  /  Muse-Lokus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Regel-Exekutor  /  Regel-Exekutor Posten 12",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Überwelt  /  Nexus-Interface zur Überwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Realitätsebenen  /  Realitätsebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "universal reboot  /  Reboot",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Risse/Entropie-Manifestationen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Glitch-Garten (Entropie als Kunst)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Risse/Entropie-Manifestationen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der Vergessene Schrein (Trauma-Lokus)  /  Der Vergessene Schrein",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der Vergessene Schrein (Trauma-Lokus)  /  Trauma-Lokus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "See der Tränen (Melancholie-Zone)  /  See der Tränen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "See der Tränen (Melancholie-Zone)  /  Melancholie-Zone",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der Innere Bunker (Kernabwehr)  /  Der Innere Bunker",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der Innere Bunker (Kernabwehr)  /  Kernabwehr",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hain der Symbole (Kreativ-Zone)  /  Hain der Symbole",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hain der Symbole (Kreativ-Zone)  /  Kreativ-Zone",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Glitch-Garten (Entropie als Kunst)  /  Glitch-Garten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Quelle der Inspiration (Muse-Lokus)  /  Quelle der Inspiration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Quelle der Inspiration (Muse-Lokus)  /  Muse-Lokus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Datenfriedhof (Veraltete Infos)  /  Datenfriedhof",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael's",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos/Sophia",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos-Potentialis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Netzwerk",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael's Wohneinheit 734",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "LogOS' Beobachtungszentrum",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Der Vergessene Schrein (Trauma-Lokus)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosynes Quellen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus' Zwinger",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Nexus-Interface zur Überwelt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          },
+          {
+            "surface": "uberwelt",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos/Sophias Observatorium",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch-Garten (Entropie als Kunst)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch-Garten",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Kern-Nexus",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulations-Parameter-Kammer",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Junas Versteckter Zugangspunkt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Risse/Entropie-Manifestationen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch-Kunst-Ästhetik",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kaels-wohneinheit",
+      "surface": "Kaels Wohneinheit",
+      "line": 205,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

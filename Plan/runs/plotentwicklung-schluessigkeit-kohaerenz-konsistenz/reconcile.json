@@ -1,0 +1,50 @@
+{
+  "document": "plotentwicklung-schluessigkeit-kohaerenz-konsistenz",
+  "drive_id": "1HkTt7ArcbFHh63AdoA70JPclgF8ivLWIa7sK_ChifKU",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a general craft essay that names nothing of the novel; first held by the privacy screen on the word foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 48,
+    "decisions": 47,
+    "decided_by_lookup": 43,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A general essay on coherence, consistency and credibility in plotting: it names nothing of the novel's world, so its craft concepts stay in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz` and its compounds narrative coherence in the general sense, not the novel's Kohärenz; the craft concepts not promoted; names of people never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "narrative coherence in the general sense"
+    }
+  ],
+  "not_promoted": [
+    "the craft concepts — Weltenbibel, Charakterbibel, Plotlöcher, Deus Ex Machina, Retconning and others, one named after a person"
+  ],
+  "internal_tension": "none: it calls its rules no rigid corset (L265) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

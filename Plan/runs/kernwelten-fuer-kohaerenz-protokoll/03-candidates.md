@@ -1,0 +1,90 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is a German report in the form of an outline: each section pairs a borrowed concept with a paragraph headed Relevanz, then four world chapters (Co₁, McL, B, Ly) with the same four sub-sections each (Ästhetischer Entwurf, Systemlogik, Kaels Schmelztiegel, Wächterprofil). The world names Co₁, McL, Ly are written with the subscript or the plain letters as given; the fourth world is written only as the single letter B and as Baby-Monster, so the letter alone is not listed (too short to count). The marker [User Prompt] appears in the text as a source label for what the brief said. Reference numbers are glued to words (231 per the profile). The last 160 lines are a reference list of web pages and are not candidates.
+
+- Kohärenz Protokoll
+- Kernwelten
+- Kernwelt Co₁
+- Kernwelt McL
+- Kernwelt B
+- Kernwelt Ly
+- Co₁
+- Co₀
+- McL
+- Ly
+- Conway-Welt
+- McLaughlin-Welt
+- Baby-Monster-Welt
+- Lyons-Welt
+- Kael
+- Cache Kohärenz
+- Caches
+- Dominanter Cache
+- Cache Kohärenz Manifestation
+- AEGIS
+- Wächter
+- Guardians
+- LogOS-Supervisor
+- Netzweber
+- Chaos-Regulator
+- Möglichkeits-Weber
+- K-J Verbindung
+- K-J-Verbindung
+- K-J-Kanal
+- Kaels Schmelztiegel
+- Gödelsche Risse
+- Laboratorien
+- User Prompt
+- Auftragsdokument
+- Sozialstruktur als Code
+- Netzwerkposition als Status
+- Quanten-Nichtlokalitäts-Analogie
+- Monstrous Moonshine-Andeutungen
+- Potentialität manifestiert
+- Emergenz als Kernmechanik
+- Chaos als Regel
+- Schattenmanifestation
+- Konfrontationsmechaniken
+- Emotionales Schleudertrauma
+- Fähigkeits-/Gedächtnis-Mismatch
+- Relevanz
+- Zweck
+- Visuelles
+- Klanglandschaft
+- Andere Sinne
+- Verkörperung
+- Interaktion
+- Herausforderungen
+- A₁₁
+- Paria
+- Baby-Monster
+- Monstergruppe
+
+## lens
+
+- Sporadische Gruppen
+- Leech-Gitter
+- McLaughlin-Graph
+- Golay-Code
+- Gödels Unvollständigkeitssätze
+- Chaostheorie
+- Phasenübergänge
+- Emergenz
+- Zelluläre Automaten
+- Spiel des Lebens
+- Abwärtskausalation
+- Nichtlokalität
+- Potentialität
+- Quantenschaum
+- Skaleninvarianz
+- Fraktale
+- Jungscher Schatten
+- Internal Family Systems
+- IFS
+- Exilanten
+- Manager
+- Feuerbekämpfer
+- Selbst
+- Schmetterlingseffekt
+- Rang-3-Wirkung
+- Social Proof

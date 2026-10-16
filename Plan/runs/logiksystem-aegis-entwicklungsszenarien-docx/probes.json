@@ -1,0 +1,323 @@
+{
+  "document": "logiksystem-aegis-entwicklungsszenarien-docx",
+  "drive_id": "1xQMV4aSHd9MhV1SvC6IUvcHEjO6pl73F",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 25
+  },
+  "glued_ref_numbers": 50,
+  "backslash_escapes": 25,
+  "typographic_marks": 153,
+  "ascii_quotes": 8,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstauslöschung",
+      "Selbstauslöschungsprozesses",
+      "Selbstbewahrung",
+      "Selbstdarstellung",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbsterhaltungsaktivität",
+      "Selbsterschaffung",
+      "Selbstheit",
+      "Selbstmodelle",
+      "Selbstmodellierung",
+      "Selbstmodifikation",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstproduktionsnetzwerks",
+      "Selbstproduzierendes",
+      "Selbstreferenz",
+      "Selbstreferenzen",
+      "Selbstreferenzielle",
+      "Selbstüberwachung"
+    ],
+    "grenz": [
+      "Grenz",
+      "Grenzbildung",
+      "Grenzdynamik",
+      "Grenze",
+      "Grenzen",
+      "Grenzerhaltung",
+      "Grenzkämpfe",
+      "Grenzmechanismus",
+      "Grenzverteidigung",
+      "Grenzziehung"
+    ],
+    "model": [
+      "Model",
+      "ModelA",
+      "ModelPS",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells",
+      "Modellverfeinerung",
+      "Models"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationsflüsse",
+      "Informationshandhabung",
+      "Informationsprozessor",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsüberlastung"
+    ],
+    "inter": [
+      "Interacts",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsoperation",
+      "Interne",
+      "Interpretation",
+      "Interpretationen",
+      "Interzession"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzerhaltung",
+      "Kohärenzfilter",
+      "Kohärenzfilters",
+      "Kohärenzmetriken",
+      "Kohärenzmuster",
+      "Kohärenzniveaus",
+      "Kohärenzverlust"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxienauflösung",
+      "Paradoxienbewertung",
+      "Paradoxon",
+      "Paradoxons",
+      "Paradoxonstabilität"
+    ],
+    "resso": [
+      "Ressource",
+      "Ressourcen",
+      "Ressourcenabhängigkeit",
+      "Ressourcenallokation",
+      "Ressourcenerwerb",
+      "Ressourcenmangel",
+      "Ressourcenungleichgewichte",
+      "Ressourcenzuweisung"
+    ],
+    "simul": [
+      "Simulate",
+      "Simulation",
+      "Simulationen",
+      "Simulations",
+      "Simulationsergebnissen",
+      "Simulationsmechanismus",
+      "Simulationsprozesses",
+      "Simuliert"
+    ],
+    "syste": [
+      "System",
+      "Systemdiagramm",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemidentität",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiale",
+      "Potentialraum",
+      "Potentialraums",
+      "Potentials",
+      "Potentielle",
+      "Potenziell"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungs",
+      "Verteidigungsmaßnahmen",
+      "Verteidigungsmechanismen",
+      "Verteidigungsmechanismus",
+      "Verteidigungsmodi",
+      "Verteidigungsstrategien"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widersprüchlichkeit",
+      "Widerstand",
+      "Widerstandsfähig",
+      "Widerstandsfähigkeit"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropieausbrüche",
+      "Entropiefluss",
+      "Entropiemaßen",
+      "Entropiereduktion",
+      "Entropy"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungen",
+      "Anpassungsfähigkeit",
+      "Anpassungsmaßnahmen",
+      "Anpassungsstrategien"
+    ],
+    "filte": [
+      "Filter",
+      "FilterAnalyseTransform",
+      "Filteralgorithmen",
+      "Filtermechanismus",
+      "Filterung"
+    ],
+    "fixpu": [
+      "Fixpunkt",
+      "Fixpunktberechnungen",
+      "Fixpunkte",
+      "Fixpunkten",
+      "Fixpunkttheoreme"
+    ],
+    "ident": [
+      "Identifiziert",
+      "Identifizierung",
+      "Identität",
+      "Identitäts",
+      "Identitätsschleife"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptualisierung",
+      "Konzeptuell"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozessanpassung",
+      "Prozesse",
+      "Prozessen",
+      "Prozessnetzwerks"
+    ],
+    "refle": [
+      "Reflecting",
+      "Reflection",
+      "Reflective",
+      "Reflektierende",
+      "Reflexion"
+    ],
+    "contr": [
+      "Contra",
+      "Control",
+      "Controller",
+      "Controlling"
+    ],
+    "gegen": [
+      "Gegenprozess",
+      "Gegensatz",
+      "Gegenteil",
+      "Gegenteils"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativer",
+      "Narratives"
+    ],
+    "opera": [
+      "Operation",
+      "OperationalClosure",
+      "Operationale",
+      "Operationen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Alle",
+      "Zurückfallens"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "DieExistenzvonAegisistandieAufrechterhaltungdieserGeschlossenheitgebunden"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Allgemeinen"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Eine",
+      "Modellverfeinerung"
+    ],
+    [
+      "Feld",
+      "Isolationsfeldes"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Transformiert"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsflüsse"
+    ]
+  ]
+}

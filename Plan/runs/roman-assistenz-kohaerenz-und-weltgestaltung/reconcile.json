@@ -1,0 +1,71 @@
+{
+  "document": "roman-assistenz-kohaerenz-und-weltgestaltung",
+  "drive_id": "1d9grWn7_1tpqm1xVWCUzZmMpQGGffn0RRkNdIH0yy6g",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document an image-language concept for drawings, a different work, read as documents 230 and 247 were (Plan/runs/ingest-270/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 86,
+    "decided_by_lookup": 81,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An image-language concept for drawings, not the novel: its thirteen figures and two kernels are the image language's, synthesised with a second project it names only by title; nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the image-language concept is a different work, a rule set for drawings: every near match and every page it names is an occurrence of a shared name, not read",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 115,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 102,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "an image-language concept for drawings, a different work; not read"
+    }
+  ],
+  "not_promoted": [
+    "everything — the image language's lines, glitch types, yellows, composition rules, tiers and figures"
+  ],
+  "internal_tension": "the export lost the symbols after both kernel names (L119); `The Lost One` is named once and not explained (L93)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

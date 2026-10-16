@@ -1,0 +1,23 @@
+$ read.py --count "Zugewiesener Wert"
+`Zugewiesener Wert` ^[storyforms-system-mind-bewusstsein.md:#2]
+$ read.py --count "Analytische Begründung im K1-Vektor"
+`Analytische Begründung im K1-Vektor` ^[storyforms-system-mind-bewusstsein.md:#1]
+$ read.py --count "Analytische Begründung im K0-Vektor"
+`Analytische Begründung im K0-Vektor` ^[storyforms-system-mind-bewusstsein.md:#1]
+$ read.py --count "Referenzen"
+`Referenzen` ^[storyforms-system-mind-bewusstsein.md:#1]
+$ read.py --count "Kernwelten"
+`Kernwelten` ^[storyforms-system-mind-bewusstsein.md:#1]
+$ read.py --count "T-734"
+`T-734` ^[storyforms-system-mind-bewusstsein.md:#2]
+$ read.py --count "Juna"
+`Juna` ^[storyforms-system-mind-bewusstsein.md:#2]
+$ read.py --count "Moonshine-Link"
+`Moonshine-Link` ^[storyforms-system-mind-bewusstsein.md:#1]
+$ read.py --count "Ouroboros"
+`Ouroboros` ^[storyforms-system-mind-bewusstsein.md:#0]
+$ read.py --count "Kapitel"
+`Kapitel` ^[storyforms-system-mind-bewusstsein.md:#1]
+$ read.py --count "Kapiteln"
+`Kapiteln` ^[storyforms-system-mind-bewusstsein.md:#2]
+stance_marker_count: 2+1+1 = 4

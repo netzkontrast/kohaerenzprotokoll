@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-master-outline
+  lines                91  (frontmatter ends at 9)
+  body words           712
+  headings             13   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    19
+  typographic marks    52   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    4
+  repeated labels      Annotationen x3, Genre-Fokus x3, Inhaltliche Schwerpunkte x3, Thema x3
+  longest line         284 chars
+

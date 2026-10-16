@@ -1,0 +1,526 @@
+{
+  "document": "fundament-konzept-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-11",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-11",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 91,
+  "decisions": 88,
+  "same_surface": {
+    "fundament": [
+      "Das Fundament",
+      "Fundament"
+    ],
+    "junavverbindung": [
+      "Juna/V Verbindung",
+      "Juna/V-Verbindung"
+    ]
+  },
+  "decided_mechanically": 71,
+  "needs_judgement": 17,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 219
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 223
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 208
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 138
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 164
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 71
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 76
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Übermonstergruppe"
+      },
+      {
+        "candidate": "Paradoxon X"
+      },
+      {
+        "candidate": "Fragmentierung/Integration"
+      },
+      {
+        "candidate": "Verbindung/Isolation"
+      },
+      {
+        "candidate": "Ethik/KI"
+      },
+      {
+        "candidate": "Impact Point Identifikation"
+      },
+      {
+        "candidate": "Integrationslevel"
+      },
+      {
+        "candidate": "Subtiles Hintergrundprinzip"
+      },
+      {
+        "candidate": "Aktive Intervention"
+      },
+      {
+        "candidate": "Finale Enthüllung"
+      },
+      {
+        "candidate": "Begrenzte/Indirekte Intervention"
+      },
+      {
+        "candidate": "Verkörperung durch Charakter"
+      },
+      {
+        "candidate": "Foreshadowing"
+      },
+      {
+        "candidate": "Agency"
+      },
+      {
+        "candidate": "ontologische Fundierung"
+      },
+      {
+        "candidate": "P=NP"
+      },
+      {
+        "candidate": "hybride Ansätze"
+      },
+      {
+        "candidate": "Chosen One"
+      },
+      {
+        "candidate": "Crew Hero"
+      },
+      {
+        "candidate": "Prozessphilosophie"
+      },
+      {
+        "candidate": "Prehension"
+      },
+      {
+        "candidate": "Advaita Vedanta"
+      },
+      {
+        "candidate": "Brahman"
+      },
+      {
+        "candidate": "Maya"
+      },
+      {
+        "candidate": "Avidya"
+      },
+      {
+        "candidate": "Madhyamaka Buddhismus"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "Svabhāva"
+      },
+      {
+        "candidate": "Pratītyasamutpāda"
+      },
+      {
+        "candidate": "Zwei Wahrheiten"
+      },
+      {
+        "candidate": "Taoismus"
+      },
+      {
+        "candidate": "Yin-Yang"
+      },
+      {
+        "candidate": "Tao"
+      },
+      {
+        "candidate": "Harte Problem des Bewusstseins"
+      },
+      {
+        "candidate": "Panpsychismus"
+      },
+      {
+        "candidate": "Gödels Unvollständigkeitssätze"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "Ex contradictione quodlibet"
+      },
+      {
+        "candidate": "Noether-Theorem"
+      },
+      {
+        "candidate": "Higgs-Mechanismus"
+      },
+      {
+        "candidate": "spontane Symmetriebrechung"
+      },
+      {
+        "candidate": "Vereinheitlichungstheorien"
+      },
+      {
+        "candidate": "Dialektik"
+      },
+      {
+        "candidate": "Komplexitätstheorie"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Kybernetik zweiter Ordnung"
+      },
+      {
+        "candidate": "Eigenform"
+      },
+      {
+        "candidate": "Archetypen"
+      },
+      {
+        "candidate": "kollektive Unbewusste"
+      },
+      {
+        "candidate": "Individuation"
+      },
+      {
+        "candidate": "Schattens"
+      },
+      {
+        "candidate": "Gipfelerfahrungen"
+      },
+      {
+        "candidate": "Selbsttranszendenz"
+      },
+      {
+        "candidate": "kosmisches Bewusstsein"
+      },
+      {
+        "candidate": "Integrale Theorie"
+      },
+      {
+        "candidate": "Gnostizismus"
+      },
+      {
+        "candidate": "Demiurgen"
+      },
+      {
+        "candidate": "Pleroma"
+      },
+      {
+        "candidate": "Abwärtskausalität"
+      },
+      {
+        "candidate": "Reduktionismus"
+      },
+      {
+        "candidate": "Emergentismus"
+      },
+      {
+        "candidate": "Santa Fe Institute"
+      },
+      {
+        "candidate": "Rand des Chaos"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Das Fundament  /  Fundamentality",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Fundament  /  Metaphysik der Fundamentalität",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Fundament  /  Fundamentale Symmetrien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Paraiyas  /  6 Paraiyas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V Verbindung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "TSDP-Modell  /  TSDP",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Quelle der Einsicht/Gnosis  /  Gnosis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Deus Ex Machina Risiko  /  Deus ex Machina",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Komplementarität  /  Komplementaritätsprinzip",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V Verbindung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "TSDP-Modell",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "tsdp",
+            "page": "tsdp"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kontrolle/Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Realität/Simulation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Verschränkung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "verschrankungsinsel",
+            "page": "verschraenkungs-insel"
+          }
+        ]
+      },
+      {
+        "candidate": "Schwache Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Starke Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 31,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 32,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 32,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

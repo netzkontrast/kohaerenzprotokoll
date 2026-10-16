@@ -1,0 +1,182 @@
+{
+  "document": "juna",
+  "drive_id": "18N07htwP86U6jD1PMVYidcvOITovxjDOAsyyYgUCEWE",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 44,
+    "decisions": 46,
+    "decided_by_lookup": 35,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        25,
+        91,
+        95,
+        97
+      ],
+      "attribution": "",
+      "note": "AEGIS as what the Fundament and Juna/V are set against"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "weak emergence under the Fundament"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Juna/V as a source of entropy for AEGIS"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        43,
+        95
+      ],
+      "attribution": "",
+      "note": "the Gambit and the Satz at the same place in the two passes"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        35,
+        37,
+        85,
+        87,
+        103,
+        104
+      ],
+      "attribution": "",
+      "note": "Juna/V as disruptive vector, ambiguous entity and catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        29,
+        31,
+        39,
+        76,
+        95
+      ],
+      "attribution": "",
+      "note": "Kael and the Fundament: earned insight, the right question, the link and the finale"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "the Kernwelten named once in the AEGIS perspective"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        39,
+        41,
+        89
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as non-local, sub-systemic connection"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        91
+      ],
+      "attribution": "",
+      "note": "qualia as a fundamental Glitch for the Protocol"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 23,
+      "decision": "reading",
+      "why": "the strange attractor and weak emergence; read on emergenz"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 97,
+      "decision": "reading",
+      "why": "AEGIS takes Juna/V as a source of entropy; read on entropie"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 11,
+      "decision": "reading",
+      "why": "read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title line"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 76,
+      "decision": "occurrence",
+      "why": "named in passing"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 91,
+      "decision": "reading",
+      "why": "qualia as a Glitch for the protocol; read on risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 87,
+      "decision": "occurrence",
+      "why": "the simulated reality, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

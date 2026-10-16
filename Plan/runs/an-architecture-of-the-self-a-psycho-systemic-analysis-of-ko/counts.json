@@ -1,0 +1,589 @@
+{
+  "document": "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko",
+  "drive_id": "1-iYmnI69DXcoM0-SFK2fduv7duVUVbhKmnkiWqK9vg8",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        13,
+        96,
+        117
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "System Kael": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        25,
+        41,
+        45,
+        133
+      ]
+    },
+    "Kael": {
+      "n": 41,
+      "n_including_compounds": 41,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        25,
+        31,
+        36,
+        41,
+        45,
+        47,
+        48,
+        53,
+        56,
+        62,
+        72,
+        74,
+        78,
+        81,
+        88,
+        92,
+        96,
+        100,
+        104,
+        106,
+        113,
+        117,
+        121,
+        123,
+        125,
+        133,
+        134,
+        136
+      ]
+    },
+    "Host": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        56,
+        100
+      ]
+    },
+    "Lex": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        37,
+        47,
+        49,
+        55,
+        89,
+        100,
+        107
+      ]
+    },
+    "Nyx": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        36,
+        47,
+        49,
+        55,
+        89,
+        107,
+        111
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        111
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        48
+      ]
+    },
+    "Praetor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Oblivion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        47,
+        48
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        56
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        111
+      ]
+    },
+    "AEGIS": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        15,
+        58,
+        60,
+        62,
+        66,
+        68,
+        72,
+        74,
+        76,
+        79,
+        81,
+        82,
+        86,
+        88,
+        90,
+        92,
+        96,
+        111,
+        121,
+        123,
+        125,
+        133,
+        134,
+        136
+      ]
+    },
+    "System AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Apparently Normal Parts (ANPs)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        35
+      ]
+    },
+    "ANPs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        23,
+        27,
+        28,
+        35,
+        47,
+        49,
+        100,
+        104
+      ]
+    },
+    "Emotional Parts (EPs)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        35
+      ]
+    },
+    "EPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        28,
+        35,
+        47,
+        106
+      ]
+    },
+    "Inner Self Helper (ISH)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        35
+      ]
+    },
+    "ISH": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        35
+      ]
+    },
+    "vereinigter Protagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Risse": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        28,
+        88,
+        109,
+        111
+      ]
+    },
+    "Inter-Alter Phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Phobia of the EPs' Emotions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Phobia of Specific Affects": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Phobia of Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Key Conflict Dyads": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Das Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Coherence through Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        68
+      ]
+    },
+    "Negentropie-Fehlinterpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "perverse learning loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Core Worlds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        96
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        96,
+        104
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Logos-Prime": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        98,
+        100,
+        104
+      ]
+    },
+    "The Construct City": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Korrektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Sehnsucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        121
+      ]
+    },
+    "living Gödel-sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        134
+      ]
+    },
+    "epistemological checkmate": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Coherence through Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Algorithmic Melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "zombie system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Manipulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality (TSDP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "TSDP": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        21,
+        25,
+        45,
+        96
+      ]
+    },
+    "trauma bond": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "autopoietic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        125
+      ]
+    },
+    "operationally closed": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    }
+  }
+}

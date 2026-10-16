@@ -1,0 +1,92 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German plot outline in outline form: a premise, conflict, setting and themes, then a chapter-theme draft in three parts. Its chapter list is numbered 1 to 10, then restarts at 1 twice in the export (the headings give Kapitel 11-25 and 26-39). Numbers in parentheses after chapter titles are bare numerals. The Lyons-Welt appears as `Lyons-Welt` in the chapter list and `Ly-Welt` in the premise. The formula with escaped underscores is left out.
+
+- AEGIS
+- Kael
+- Juna
+- M
+- Potentialmeer
+- ontologische Reibung
+- ontologischer Reibung
+- Kernwelten
+- Co₁-Welt
+- McL-Welt
+- B-Welt
+- Ly-Welt
+- Conway-Welt (Co₁)
+- Conway-Welt
+- McLaughlin-Welt
+- McLaughlin-Welt (McL)
+- Baby-Monster-Welt (B)
+- Baby-Monster-Welt
+- Lyons-Welt (Ly)
+- Lyons-Welt
+- Monstergruppe
+- Subquotienten
+- Moonshine-Link
+- K-J Verbindung
+- K-J
+- Grenzschutzprotokoll
+- Persönlichkeits-Partitionierungs
+- Fehlerkorrekturcodes
+- Fehlerkorrekturcode
+- Leech-Gitter
+- McLaughlin-Graph
+- Permutationssymmetrie
+- spontaner Symmetriebrechung
+- spontane Symmetriebrechungen
+- verborgene Dualitäten
+- Seeding
+- Caches
+- Cache Kohärenz
+- Kohärenz-Controller
+- Identitäts-Kohärenz
+- alternatives Kohärenzprotokoll
+- Kohärenzfehler
+- Cache-Konflikt
+- temporale Kohärenzverletzung
+- Kohärenzwelle
+- Risse
+- Erinnerungskristalle
+- Lecks
+- Purge
+- Autopoiesis
+- Dissoziative Identitätsstörung (DID)
+- DID
+- IFS
+- Internal Family Systems (IFS)
+- Manager
+- Firefighter
+- Exiles
+- Schattenarbeit
+- Gödel'sche Unvollständigkeitssätze
+- Parakonsistente Logik
+- Parakonsistenz
+- Monstrous Moonshine
+- Quanten-Nichtlokalität
+- Verschränkung
+- Jung'scher Schatten
+- NET
+- Transpersonale Psychologie
+- Non-Dualität
+- Holismus
+- Reduktionismus
+- Emergenz
+- Irreduzibilität
+- Schiff des Theseus
+- Bindungsproblem
+- Alignment-Problem
+- Conways Spiel des Lebens
+- Primfaktorenzerlegung
+- Zellularautomaten
+- Quantenschaum
+- Gnosis
+- Entropie
+- Kael/M
+- Kohärenz Protokoll
+
+## lens
+- Gödel
+- Theseus
+- Moonshine

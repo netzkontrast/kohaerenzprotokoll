@@ -1,0 +1,129 @@
+{
+  "document": "protokoll-ontologie-roman-konzeptentwicklung",
+  "drive_id": "1NnHjCF0iZmperRY1-K3fZgctL1EfrsVKqo800w499bM",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-365/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 48,
+    "decisions": 54,
+    "decided_by_lookup": 30,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German concept exposé defining a Protokoll-Ontologie: its new surfaces are that ontology's own terms, its archetypes, its plot cycle and borrowed concepts; what it says of AEGIS, cache coherence, the Dual Kernel Theory, Kael, coherence, the Kollaps-Kernel and the Risse went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        208,
+        210
+      ],
+      "attribution": "",
+      "note": "AEGIS as the exposé's template for the antagonist"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        78,
+        97
+      ],
+      "attribution": "",
+      "note": "cache-coherence protocols as the analogue of Overhead"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the basis of Kohärenz and Kollaps"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        156
+      ],
+      "attribution": "",
+      "note": "System Kael as the exposé's case study"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        24,
+        42,
+        59,
+        82,
+        122
+      ],
+      "attribution": "",
+      "note": "Kohärenz as the information-preserving principle against Kollaps"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel equated with quantum decoherence"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        122
+      ],
+      "attribution": "",
+      "note": "decoherent zones, Risse and Glitches"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the exposé's generic `Protokoll` and `Validierung`, not the named protocols; `Cache-Kohärenz-Protokolle` read on cache-kohaerenz; `System Kael` read on kael",
+  "sweep": [
+    {
+      "page": "cache-kohaerenz",
+      "surface": "Cache-Kohärenz",
+      "line": 97,
+      "decision": "reading",
+      "why": "the technical analogue of the Overhead, read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "entropy in the borrowed physical sense of the kernels"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 156,
+      "decision": "reading",
+      "why": "System Kael as a case study, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "Protokoll-Ontologie, Overhead, Corrective Wavelets, Korrespondenz-Check, Selbst-Protokoll",
+    "the archetypes, Validierungskrieg, the plot cycle, Kohärente and Dekohärente Zonen, Protokoll-Agenten",
+    "the borrowed concepts (systems theory, quantum decoherence, signal processing, Alternative Systems Objection)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

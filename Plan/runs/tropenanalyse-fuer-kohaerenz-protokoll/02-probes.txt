@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      24
+  backslash escapes      74
+  typographic marks      16
+  ascii quotes           136
+
+# inflection families -- one term, several surfaces
+  ident    Identifikation, Identifizierte, Identity, Identität, Identitätsfragen, Identitätsstörung, Identitätsveränderung
+  poten    Potential, Potentialmeer, Potentialmeers, Potenzial, Potenziale, Potenziell, Potenzielle
+  psych    Psyche, Psychische, Psycho, Psychological, Psychologische, Psychologischem, Psychologischer
+  simul    Simulation, Simulationsfehlern, Simulationsregeln, Simulationstechnologie, Simulationsumgebung, Simulationszusammenbruchs, Simulierte
+  erzäh    Erzählen, Erzähler, Erzählers, Erzählstruktur, Erzählung, Erzählungen
+  inter    Interaktion, Interaktionen, Interest, International, Interne, Interplay
+  kontr    Kontrapunkt, Kontrolle, Kontrollprotokoll, Kontrollsysteme, Kontrollversuche, Kontroversen
+  reali    Reality, Realität, Realitätsebene, Realitätsempfinden, Realitätsverzerrung, Realitätszusammenbruch
+  traum    Traum, Trauma, Traumageschichte, Traumamanifestation, Traumata, Traumaverarbeitung
+  disso    DISSOCIATION, Dissociation, Dissociative, Dissoziation, Dissoziativer
+  syste    System, Systeme, Systemfehler, Systemkontrolle, Systems
+  verst    Verstehen, Verständnis, Verständnisses, Verstärker, Verstärkt
+  abweh    Abwehr, Abwehrmechanismen, Abwehrreaktionen, Abwehrsysteme
+  exist    Existential, Existenz, Existenzielle, Existenzsicherung
+  konze    Konzentriere, Konzentriert, Konzept, Konzepts
+  kosmi    Kosmische, Kosmischem, Kosmischen, Kosmischer
+  motiv    Motivation, Motivationen, Motive, Motiven
+  persp    PERSPECTIVE, Perspectives, Perspektive, Perspektiven
+  roman    Roman, Romanprojekt, Romanprojekts, Romans
+  struc    STRUCTURAL, Structural, Structure, Structures
+  struk    Struktur, Strukturell, Strukturellen, Strukturübersicht
+  techn    Techniken, Technologie, Technologien, Technologische
+  verwe    Verweben, Verwebung, Verwechslung, Verwendung
+  alter    Alter, Alternative, Alters
+  antei    Anteile, Anteilen, Anteilwechsel
+
+# substring pairs -- never one term, often merged by accident
+  Book < Books
+  Book < Bookish
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Reine
+  Eine < Seine
+  Ende < Versagende
+  Ende < Rückblenden
+  Ende < Abschließende
+  Form < Informatik
+  Form < Lebensformen
+  Form < Informationen
+  Form < Transformationen
+  Form < Informationsenthüllung
+  Game < Games
+  Gehe < Geheimnissen
+  Gehe < Geheimgesellschaften
+  Kael < Kaels

@@ -1,0 +1,50 @@
+{
+  "document": "dis-komorbiditaeten-und-alltagsbewaeltigung",
+  "drive_id": "1riTd4sg504T5CEt5EzrqUZT6h4oT7ICgVI_a_ESlm1g",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-16, from the light-pass task (decision 028) with no count before the list; no readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 2,
+    "decisions": 2,
+    "decided_by_lookup": 2,
+    "needs_judgement": 0
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Research on a real diagnosis and its everyday and legal handling, read as a light pass: it names no term of the novel, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "light pass of a document with no term of the novel: `Kohärenz` and `Anteile` ordinary words, occurrences only; the research on a real diagnosis not harvested",
+  "sweep": [
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 174,
+      "decision": "occurrence",
+      "why": "an ordinary word in research on a real diagnosis; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything: the document names no term of the novel"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

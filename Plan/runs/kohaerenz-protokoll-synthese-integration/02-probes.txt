@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      37
+  backslash escapes      17
+  typographic marks      237
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturerhaltung, Strukturgradienten, Strukturmechanik, Strukturverlust, Strukturverlusts
+  syste    System, Systemabsturz, Systemblindheit, Systeme, Systemfehler, Systemische, Systemprompts, Systems, Systemtheorie
+  schre    Schreibe, Schreiben, Schreibens, Schreibprozess, Schreibprozesses, Schreibsoftware, Schreibstile, Schreibweise
+  inter    INTERPRETATIONS, Interaktion, Interface, Interferenz, Internet, Interpretation, Intervention
+  infor    Informatik, Information, Informationen, Informationsverlust, Informationsverlusts
+  parad    Paradox, Paradoxerweise, Paradoxie, Paradoxon, Paradoxons
+  wider    Widerspruch, Widerspruchs, Widerspruchsfreiheit, Widersprüche, Widerstand
+  analy    Analyse, Analysis, Analytischer, Analyze
+  archi    Archipel, Architecting, Architecture, Architektur
+  disso    Dissociation, Dissonanzen, Dissoziation, Dissoziativen
+  funkt    Funktion, Funktionale, Funktionaler, Funktionieren
+  handl    Handlung, Handlungen, Handlungsträger, Handlungsunfähigkeit
+  integ    Integration, Integrierte, Integriertes, Integrity
+  narra    Narrativ, Narrative, Narrativen, Narrato
+  philo    PHILOSOPHICAL, Philosophical, Philosophische, Philosophy
+  psych    Psyche, Psycho, Psychologie, Psychotraumatology
+  rhizo    Rhizom, Rhizomatic, Rhizomatische, Rhizome
+  roman    Roman, Romanprojekt, Romanprojekts, Romans
+  strat    Strategic, Strategie, Strategische, Strategischen
+  trans    Transformation, Transzendente, Transzendenz, Transzendierung
+  verle    Verletzlicher, Verletzlichkeit, Verletzung, Verleugnung
+  wahrh    Wahrheit, Wahrheiten, Wahrheitsdualität, Wahrheitstheorien
+  abweh    Abwehrmechanismus, Abwehrreaktionen, Abwehrsystem
+  angst    Angst, Angststörungen, Angstzustände
+  antei    Anteil, Anteile, Anteilen
+
+# substring pairs -- never one term, often merged by accident
+  Code < Codex
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dual < Wahrheitsdualität
+  Eine < Seine
+  Eine < Anscheinend
+  Ende < Tendenz
+  Ende < Transzendenz
+  Ende < Transzendente
+  Erst < Erstarrung
+  Erst < Erstellung
+  Erst < Widerstand
+  Erst < Verständnis
+  Erst < Sicherstellung
+  Form < Informatik
+  Form < Information
+  Form < Performance
+  Form < Informationen
+  Form < Transformation

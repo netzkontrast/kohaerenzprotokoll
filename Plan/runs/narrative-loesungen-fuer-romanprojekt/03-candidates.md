@@ -1,0 +1,87 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German research report on narrative techniques for a novel project; it names no fiction-world figure or place of its own, only the project's structural roles (Personas, Meta-Erzähler with three modes, Meta-Realität). Candidates below are those roles, the document's own technique labels (numbered, bold-headed), its repeated section labels, and borrowed concepts under the lens heading. Titles of cited works (films, novels, games) are left out by rule. The reference list (L329 to L530) is web titles and links and yields no candidates. Mode names stand in single quotes in the document; they are listed without the quotes.
+
+- Personas
+- Meta-Erzähler
+- Meta-Realität
+- Meta-Erzähler-Modi
+- Magier
+- Forscher
+- Philosoph
+- funktionale Multiplizität
+- funktionalen Multiplizität
+- Functional Multiplicity
+- Kernrealität
+- Prototyp-Konzept
+- Reality Bleed
+- Realitätsüberlappung
+- Geteilte Narrative Räume
+- Metafiktionale Dialoge und Interaktionen
+- Parallele Erzählstränge
+- Montage
+- Veränderter Innerer Monolog
+- Metaphorische Repräsentation
+- Veränderte Interaktionsmuster
+- Internalisierte Narrative Therapie-Techniken
+- Verkörperte Erfahrung von Klarheit
+- Symbolische Sprache
+- Archetypische Muster
+- Traumlogik
+- Synchronizität
+- Paradoxe Aussagen
+- Koans
+- Holistische/Nicht-Lineare Perspektive
+- Thematische Weltbau-Regeln
+- Symbolische Umgebungen
+- Plot als philosophisches Argument
+- Strategische Exposition
+- Motive und Leitmotive
+- Leitmotive
+- Kontrollierte Pacing-Variation
+- Nicht-lineare Informationsenthüllung
+- Verankerung des Lesers
+- Spannungs- und Enthüllungsmanagement
+- Narrative Lücken
+- Unzuverlässige Narration
+- Rahmenerzählungen
+- Fokalisierung
+- Narrative Selbstreflexion
+- Gewährung von Agency für Personas
+- Thematisierung von Machtdynamiken
+- Ethische Rahmung
+- Vulnerable Narration
+- Ethical Feedback Loop
+- Ethische Rückkopplungsschleife
+- NZT-Mode
+- Ich-Positionen
+- Gesellschaft des Geistes
+- Barzakh
+- Dhvani
+- Externalisierung
+- Neuerzählung
+- Dekonstruktion
+- epistemologische Reise
+- Didaktizismus
+- Pacing
+- Agency
+- Info-Dumps
+- Anwendbarkeit
+- Funktionalität
+- Vorteile
+- Herausforderungen
+- Vertiefte Betrachtung
+
+## lens
+
+- Dialogical Self Theory
+- DST
+- Dialogischen Selbst
+- Rezeptionsästhetik
+- Reader-Response Theory
+- Narrative Ethik
+- Jungschen Psychologie
+- Archetypen
+- Nigredo
+- Albedo
+- Rubedo

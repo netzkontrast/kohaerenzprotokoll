@@ -1,0 +1,175 @@
+{
+  "document": "aegis-eingriff-angriff-oder-rettung",
+  "drive_id": "1hn8cO0CekoDYODFGGrDURYYDwNLJm0rRpVN_N3-E71k",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 60,
+    "decided_by_lookup": 52,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        31,
+        35,
+        41,
+        49,
+        86,
+        98,
+        120,
+        132
+      ],
+      "attribution": "",
+      "note": "AEGIS as a closed autopoietic system whose every act is self-serving, and the two theses on its first intervention"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        31,
+        67
+      ],
+      "attribution": "",
+      "note": "The Genesis-Konflikt and the Genesis-Krise as texts the dossier refers to"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        41,
+        53,
+        55,
+        57,
+        84,
+        106,
+        120
+      ],
+      "attribution": "",
+      "note": "System Kael as a fragmented, highly vulnerable subject, and what each thesis makes of the intervention"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "The Kernwelten as conditioning environments, in the dossier's account of AEGIS's method"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        55,
+        155
+      ],
+      "attribution": "",
+      "note": "Kiko among the emotional parts, and as a possible narrative viewpoint for These A"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        47,
+        55,
+        94
+      ],
+      "attribution": "",
+      "note": "Lex as the rigid-logic part and the one whose fear of chaos the intervention can validate"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        55,
+        94,
+        155
+      ],
+      "attribution": "",
+      "note": "Nyx as a fighting part, and the intervention driving Nyx toward Paradoxon X"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        55,
+        156
+      ],
+      "attribution": "",
+      "note": "Rhys as the empathic, harmony-seeking part, and a viewpoint for These B"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "The Glitches that trigger the intervention"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        49,
+        94,
+        156
+      ],
+      "attribution": "",
+      "note": "Selene as integration and as keeper of the dissociative barriers"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "TSDP as the theory that places System Kael in tertiary structural dissociation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 84,
+      "decision": "occurrence",
+      "why": "generic in the account of the anomaly"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 39,
+      "decision": "reading",
+      "why": "the Genesis texts the dossier cites, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 41,
+      "decision": "occurrence",
+      "why": "AEGIS's Kohärenz Protokoll, read on aegis"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

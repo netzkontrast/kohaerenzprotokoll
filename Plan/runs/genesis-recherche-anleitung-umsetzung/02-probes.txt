@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      330
+  backslash escapes      127
+  typographic marks      607
+  ascii quotes           44
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEMALARM, System, Systemaktion, Systemaktivität, Systemantwort, Systemausgabe, Systembericht, Systemdaten, Systemdesigns, Systeme, Systemebene, Systemen, Systementscheidung, Systementscheidungen, Systemfehler, Systemfehlern, Systemhandlungen, Systemic, Systeminitialisierung, Systeminstabilität, Systemintegrität, Systemisch, Systemische, Systemkern, Systemkritik, Systemlog, Systemlogik, Systemparameter, Systemperspektive, Systemprotokoll, Systemreaktion, Systems, Systemstart, Systemstatus, Systemtheorie, Systemziel, Systemziele, Systemzielen, Systemzustand, Systemüberwachung
+  daten    DATEN, DATENSTROM, Daten, Datenanalyse, Datenbank, Datenbankabgleich, Datenerfassung, Datenfragment, Dateninterpretation, Datennutzung, Datenobjekt, Datenpunkte, Datenstrom, Datenstroms, Datenströme
+  proto    PROTOKOLL, Protokoll, Protokollausführung, Protokollebene, Protokolleintrag, Protokollen, Protokollformate, Protokollfortführung, Protokollieren, Protokollierung, Protokolls, Protokollzeile, Protokollziel
+  schwe    Schweben, Schwelle, Schwellenwert, Schwellenwerte, Schwellenwerten, Schwer, Schweregrad, Schwerelos, Schwerelosigkeit, Schwerpunkt
+  ident    IDENTIFIKATION, Identifikation, Identifikationsstatus, Identifikatoren, Identities, Identität, Identitätsbildung, Identitätshorrors, Identitätsverlust
+  fehle    Fehlen, Fehlende, Fehler, Fehlercode, Fehlercodes, Fehlererkennung, Fehlerhafte, Fehlerhaftigkeit
+  selbs    Selbst, Selbsterhaltung, Selbstgespräch, Selbstorganisation, Selbstrechtfertigung, Selbststruktur, Selbstwahrnehmung, Selbstzustände
+  stabi    STABIL, STABILISIERUNGSTREND, Stabil, Stabilisierte, Stabilisierung, Stabilisierungsfrequenz, Stabilisierungstrend, Stabilität
+  techn    Technical, Technik, Technikbereich, Techniken, Techniques, Technisch, Technologie, Technologischer
+  überg    Übergang, Übergangs, Übergangsnotizen, Übergangsphrase, Übergangsphrasen, Übergangstechnik, Übergänge, Übergängen
+  bewus    Bewusst, Bewusstsein, Bewusstseins, Bewusstseinsstrom, Bewusstseinsstroms, Bewusstseinsverlust, Bewusstseinszustände
+  fragm    Fragmentation, Fragmente, Fragmented, Fragmentiert, Fragmentierte, Fragmentierung, Fragments
+  initi    INITIIERE, INITIIERT, Initialisieren, Initialisierung, Initialisierungsphase, Initialisierungsprotokoll, Initialisierungssequenz
+  integ    INTEGRATION, INTEGRIT, Integrating, Integration, Integrationsfehler, Integrationsstress, Integriert
+  inter    Interaktion, Intern, Interner, Internet, Interpretation, Interpretationen, Intervention
+  kontr    Kontraktionen, Kontrast, Kontraste, Kontrasts, Kontrolle, Kontrollverlust, Kontrollverlusts
+  korre    KORRELATION, Korrekte, Korrektur, Korrekturprotokoll, Korrekturprotokolls, Korrelate, Korrelation
+  ereig    Ereignis, Ereignisbeschreibung, Ereignisprotokoll, Ereignisse, Ereignissen, Ereignisses
+  erfol    ERFOLGREICH, Erfolg, Erfolgreiche, Erfolgskriterien, Erfolgskriterium, Erfolgsmessung
+  erinn    Erinnerung, Erinnerungen, Erinnerungsfetzen, Erinnerungsfragmente, Erinnerungsgefühl, Erinnerungssplitter
+  gedan    Gedanke, Gedanken, Gedankenfluss, Gedankenflusses, Gedankenmuster, Gedankensprünge
+  metap    METAPHORS, Metapher, Metaphern, Metaphor, Metaphorical, Metaphors
+  narra    NARRATIVE, Narrative, Narrativen, Narratives, Narrator, Narrators
+  phant    Phantom, Phantomdruck, Phantomempfindungen, Phantomgefühl, Phantomgefühle, Phantomglied
+  subje    SUBJEKT, Subjekt, Subjektive, Subjektivität, Subjektprofil, Subjekts
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Allem
+  Alle < Alles
+  Alle < Allein
+  Alle < Fallen
+  Alle < Zerfalle
+  Alle < Zerfallens
+  Alle < Auseinanderfallens
+  Arme < Warmer
+  Arts < Artsper
+  BEST < Best
+  BEST < Bestätigung
+  BETA < Beta
+  Bank < Datenbank
+  Bank < Datenbankabgleich
+  Beat < Beats
+  Bell < Tabelle
+  Bell < Tabellen
+  Best < Bestätigung
+  Bias < Biases
+  Bild < Bilde

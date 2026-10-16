@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-plot-konzept-generierung-2
+  lines                191  (frontmatter ends at 9)
+  body words           5940
+  headings             9   bold-only lines 11
+  table rows           12   code fences 0
+  question marks       6
+  backslash escapes    78
+  typographic marks    26   ascii quotes 114
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    9
+  repeated labels      AEGIS' Rolle & Reaktion x5, Charakterdynamik x5, Fokus des Kernkonzepts x5, Logline x5, Plot-Verlauf x5, Thematische Resonanz x5
+  longest line         6420 chars
+

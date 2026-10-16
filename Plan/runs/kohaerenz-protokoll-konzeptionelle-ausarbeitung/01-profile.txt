@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-konzeptionelle-ausarbeitung
+  lines                541  (frontmatter ends at 9)
+  body words           9678
+  headings             2   bold-only lines 36
+  table rows           10   code fences 0
+  question marks       14
+  backslash escapes    56
+  typographic marks    97   ascii quotes 18
+  invisible characters U+200Bx4
+  math symbol lines    3
+  glued ref numbers    132
+  repeated labels      Definition x9, Relevanz x9, Beispiele x3
+  longest line         1228 chars
+

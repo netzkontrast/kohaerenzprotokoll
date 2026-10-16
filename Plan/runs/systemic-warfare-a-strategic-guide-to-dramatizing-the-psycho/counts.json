@@ -1,0 +1,521 @@
+{
+  "document": "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
+  "drive_id": "1YTqQ8J1Mo0w3m_wTJWUWHZx00IKpBY3Pl4lv-oOSqDc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 27,
+      "n_including_compounds": 27,
+      "lines": [
+        15,
+        19,
+        23,
+        25,
+        29,
+        30,
+        31,
+        32,
+        33,
+        37,
+        39,
+        71,
+        77,
+        78,
+        79,
+        83,
+        87
+      ]
+    },
+    "Kael": {
+      "n": 31,
+      "n_including_compounds": 31,
+      "lines": [
+        15,
+        17,
+        19,
+        23,
+        32,
+        33,
+        37,
+        39,
+        43,
+        47,
+        51,
+        56,
+        60,
+        62,
+        63,
+        64,
+        71,
+        77,
+        78,
+        83,
+        87
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        39,
+        78
+      ]
+    },
+    "Lex": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        30,
+        33,
+        53,
+        77
+      ]
+    },
+    "Lex (The Analyst)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        53
+      ]
+    },
+    "Kiko": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        43,
+        55,
+        79
+      ]
+    },
+    "Kiko (The Inner Child)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        55
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        32,
+        39,
+        43,
+        54,
+        78
+      ]
+    },
+    "Nyx (The Warrior)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        54
+      ]
+    },
+    "Kael (The Host)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        79
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78
+      ]
+    },
+    "Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Kernwelt 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kernwelt 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "KW1 (Logos-Prime)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "KW4 (Kairos-Potentialis)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "KW2 (Mnemosyne-Archipel)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Kairos-Potentialis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Riss": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        39,
+        78,
+        79
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Cache Incoherence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        43
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        33,
+        56
+      ]
+    },
+    "EP": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        32,
+        33,
+        39
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "AEGIS Guardian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "The Logic Trap": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Engineered Abandonment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Provocation through Constraint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Systemic Gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "heiligen Wissenschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "The Logic Hack": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "The Empathy Exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "The Trauma-Weapon Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        83
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "systemic synergy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "rhizomatic network of cooperating parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "high-Φ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "low-Φ 'zombie system'": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "The Gardener": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Gödelian paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "ANP-EP Phobia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        19,
+        29,
+        43,
+        47
+      ]
+    },
+    "positive dissociative symptoms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "negative dissociative symptoms": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        56
+      ]
+    },
+    "amnesia between parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "switching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Depersonalisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Intrusions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Flight/Freeze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Attachment Cry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Unreliable Narrator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    }
+  }
+}

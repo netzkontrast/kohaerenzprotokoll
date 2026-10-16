@@ -1,0 +1,137 @@
+# counts for 91 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Dramatica                        44 word    60 in   [11, 13, 15, 19, 21, 37]
+                                   11      as Dramatica-Theorie
+                                    2      as Dramatica-Terminologie
+                                    2      as dramatica-theory
+                                    1      as Dramatica-Modells
+  Dramatica-Theorie                11 word    11 in   [11, 13, 15, 19, 37, 57]
+  Story Mind                        6 word    15 in   [17, 19, 21, 27, 33, 37]  <-- substring
+  Grand Argument                    1 word     1 in   [21]
+  Inquität                          9 word    12 in   [13, 21, 29, 63, 78, 84]
+                                    2      as Inquitäten
+  Throughlines                      5 word     5 in   [21, 109, 133, 173, 193]
+  Throughline                       3 word     9 in   [21, 27, 33, 109, 133, 164]  <-- substring
+                                    5      as Throughlines
+  Objective Story                  10 word    10 in   [28, 33, 37, 39, 45, 101]
+  Main Character                    8 word     9 in   [29, 33, 37, 109, 124, 156]
+  Influence Character               3 word     3 in   [30, 133, 173]
+  Relationship Story                2 word     2 in   [31, 133]
+  Protagonist                       4 word     8 in   [28, 37, 46, 47, 50, 53]
+                                    4      as Protagonisten
+  Antagonist                        2 word     2 in   [28, 47]
+  Reason                            2 word     3 in   [48, 55, 222]
+                                    1      as Reasoning
+  Emotion                           1 word     1 in   [49]
+                                    6      as emotionale
+                                    3      as emotionalen
+                                    1      as emotionales
+                                    1      as emotionaler
+  Sidekick                          1 word     1 in   [50]
+  Skeptic                           2 word     2 in   [51, 55]
+  Guardian                          2 word     2 in   [52, 55]
+  Contagonist                       1 word     1 in   [53]
+  Complex Characters                1 word     1 in   [55]
+  Quad                              4 word    11 in   [61, 63, 76, 82, 88, 205]  <-- substring
+                                    3      as Quads
+                                    1      as Quadrat
+  KTAD                              1 word     3 in   [63, 88, 205]  <-- substring
+                                    1      as KTAD-Basis-Quads
+                                    1      as KTAD-Quads
+  Knowledge                         3 word     3 in   [63, 67, 150]
+  Thought                           4 word     4 in   [63, 68, 76, 150]
+  Ability                           3 word     3 in   [63, 69, 150]
+  Desire                            3 word     3 in   [63, 70, 150]
+  Mass                              2 word     6 in   [65, 67, 68, 150]  <-- substring
+                                    4      as Masse
+                                    1      as massive
+  Energy                            2 word     2 in   [65, 68]
+  Space                             3 word     3 in   [65, 69, 141]
+  Time                              2 word     4 in   [65, 70, 129]
+                                    2      as Timelock
+  Dynamic Pairs                     1 word     1 in   [82]
+  Sliding Scale                     1 word     1 in   [84]
+  Trust                             3 word     3 in   [84]
+  Test                              2 word     3 in   [84]
+                                    1      as Testen
+  Class / Domain                    1 word     1 in   [90]
+  Type                              2 word     3 in   [91, 92]
+                                    1      as Types
+  Variation                         3 word     4 in   [63, 92, 93]
+                                    1      as Variations
+  Element                           3 word    20 in   [15, 28, 55, 63, 72, 82]  <-- substring
+                                    8      as Elemente
+                                    2      as Elementarebene
+                                    2      as Elementen
+                                    2      as Element-Ebene
+  Size of Mind Constant             1 word     1 in   [95]
+  Story Points                      5 word     5 in   [97, 99, 101, 205]
+  Story Goal                        3 word     3 in   [103, 105, 130]
+  Story Requirements                1 word     1 in   [104]
+  Story Consequences                1 word     1 in   [105]
+  Story Costs                       1 word     1 in   [106]
+  Story Dividends                   1 word     1 in   [107]
+  Justification                     1 word     3 in   [109, 233]  <-- substring
+                                    2      as Justifications
+  Justifications                    2 word     2 in   [109, 233]
+  Storyform                        15 word    21 in   [113, 115, 150, 158, 164, 165]
+                                    3      as Storyforms
+                                    1      as Storyform-Problem
+                                    1      as storyform-builder
+  Storyforms                        3 word     3 in   [113, 183]
+  Story-Engine                      4 word     4 in   [111, 113, 133, 183]
+                                    1      as story-engine-mechanics-games
+  essenziellen Fragen               3 word     3 in   [111, 115, 183]
+  MC Resolve                        1 word     1 in   [124]
+  MC Growth                         1 word     1 in   [125]
+  MC Approach                       3 word     3 in   [126, 133, 243]
+  MC Problem-Solving Style          1 word     1 in   [127]
+  Story Driver                      1 word     1 in   [128]
+  Story Limit                       1 word     1 in   [129]
+  Story Outcome                     1 word     2 in   [130, 135]
+  Story Judgment                    2 word     2 in   [131, 164]
+  Optionlock                        2 word     2 in   [129]
+  Timelock                          2 word     2 in   [129]
+  Do-er                             4 word     4 in   [126, 133]
+  Be-er                             2 word     2 in   [126]
+  Slips                             1 word     1 in   [135]
+  PRCO                              4 word     9 in   [137, 139, 148, 150, 165, 195]  <-- substring
+                                    2      as PRCO-Modell
+                                    1      as PRCO-Schaltung
+                                    1      as PRCO-Szeneneinheiten
+                                    1      as PRCO-Logik
+  SRCA                              4 word     4 in   [137, 148, 150]
+  TKAD                              3 word     3 in   [137, 150]
+  Potential                         6 word     6 in   [139, 143, 144, 145, 146, 235]
+  Resistance                        4 word     4 in   [139, 144, 145, 235]
+  Current                           3 word     3 in   [139, 145, 235]
+  Outcome                           4 word     5 in   [130, 135, 139, 146, 235]
+                                    1      as Outcomes
+  Narrative Context Protocol       12 word    12 in   [11, 15, 152, 158, 177, 205]
+  NCP                              20 word    23 in   [15, 152, 158, 160, 162, 164]
+  Storyform Layer                   3 word     4 in   [164, 165, 185, 187]
+  Beat Layer                        3 word     4 in   [165, 193, 195]
+  Author-Intent Layer               2 word     3 in   [166, 195]
+  Version Layer                     1 word     1 in   [167]
+  Semantic Drift                    1 word     1 in   [156]
+  Guardrail                         1 word     2 in   [169, 171]
+                                    1      as Guardrails
+  Signposts                         4 word     4 in   [91, 165, 193, 237]
+  Journeys                          2 word     2 in   [165, 237]
+  Beats                             3 word     3 in   [150, 173, 195]
+  Subtext                           3 word     5 in   [158, 160, 162, 191, 199]
+                                    1      as Subtext-Beat-Mapping
+  Storytelling                     11 word    14 in   [13, 148, 156, 158, 160, 162]
+                                    1      as Storytelling-Daten
+                                    1      as Storytelling-Details
+                                    1      as Storytellings
+  Context Engineering               2 word     2 in   [171, 177]
+  Single Source of Truth            1 word     1 in   [189]
+  Candidate Storyforms              1 word     1 in   [183]
+  Predictive Psychology             1 word     1 in   [154]
+  Subtxt                            3 word     3 in   [177, 219, 251]
+  Narrova                           3 word     3 in   [177, 181, 217]
+  DreamCodeVR                       1 word     1 in   [199]

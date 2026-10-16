@@ -1,0 +1,37 @@
+$ python3 scripts/read.py objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g --count "literalizes"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`literalizes` ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:#3]
+$ python3 scripts/read.py objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g --count "literalized"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`literalized` ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:#1]
+$ python3 scripts/read.py objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g --count "literalization"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`literalization` ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:#1]
+$ python3 scripts/read.py objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g --count "literalizing"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`literalizing` ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:#1]
+$ python3 scripts/read.py objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g --count "Objectivity"
+whole word, case-sensitive     7
+whole word, case-insensitive   27
+including compounds            7
+
+`Objectivity` ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:#7]
+$ python3 scripts/read.py objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g --count "objectivity"
+whole word, case-sensitive     20
+whole word, case-insensitive   27
+including compounds            20
+
+`objectivity` ^[objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g.md:#20]
+stance_marker_count 6 = 3+1+1+1

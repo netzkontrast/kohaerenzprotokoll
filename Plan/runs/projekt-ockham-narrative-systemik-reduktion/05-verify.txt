@@ -1,0 +1,117 @@
+== Operative Nutzung
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Operative Nutzung` ^[projekt-ockham-narrative-systemik-reduktion.md:#2]
+== Entscheidung für NovelOS
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entscheidung für NovelOS` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== Der operative Konflikt
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der operative Konflikt` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== Kael
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            22
+
+`Kael` ^[projekt-ockham-narrative-systemik-reduktion.md:#20]
+== Juna
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Juna` ^[projekt-ockham-narrative-systemik-reduktion.md:#5]
+== AEGIS
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`AEGIS` ^[projekt-ockham-narrative-systemik-reduktion.md:#5]
+== Kapitel
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapitel` ^[projekt-ockham-narrative-systemik-reduktion.md:#3]
+== Golden Source
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Golden Source` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== Hard Canon
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Hard Canon` ^[projekt-ockham-narrative-systemik-reduktion.md:#5]
+== Soft Canon
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Soft Canon` ^[projekt-ockham-narrative-systemik-reduktion.md:#2]
+== Sektor 4
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sektor 4` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== Ergebnis
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Ergebnis` ^[projekt-ockham-narrative-systemik-reduktion.md:#2]
+== Der Simulationslauf
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der Simulationslauf` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== Die Isomorphie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Die Isomorphie` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== Das Szenario
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Das Szenario` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== BDI-Modell
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+
+`BDI-Modell` ^[projekt-ockham-narrative-systemik-reduktion.md:#2]
+== BDI-Modelle
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`BDI-Modelle` ^[projekt-ockham-narrative-systemik-reduktion.md:#3]
+== BDI-Agent
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`BDI-Agent` ^[projekt-ockham-narrative-systemik-reduktion.md:#1]
+== BDI
+whole word, case-sensitive     0
+whole word, case-insensitive   2
+including compounds            6
+
+`BDI` ^[projekt-ockham-narrative-systemik-reduktion.md:#0]
+== question marks: grep -c '?' lines
+12
+15

@@ -1,0 +1,63 @@
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "sollte"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            19
+
+`sollte` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#14]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "sollten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`sollten` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#5]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Riss"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            13
+
+`Riss` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#6]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Risse"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`Risse` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#6]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Risses"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Risses` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#1]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Identitätsstörung"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Identitätsstörung` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#0]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Checkliste"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Checkliste` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#1]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Empfehlungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Empfehlungen` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#1]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "KW1"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`KW1` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#13]
+$ read.py vorarbeiten-ausformulierung-kapitel-1-teil-1 --count "Anomalie"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Anomalie` ^[vorarbeiten-ausformulierung-kapitel-1-teil-1.md:#11]
+$ question marks: profile 01-profile.txt
+  question marks       38
+sum sollte+sollten = 14+5 = 19

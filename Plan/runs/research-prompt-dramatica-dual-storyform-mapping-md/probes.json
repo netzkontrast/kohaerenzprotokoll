@@ -1,0 +1,253 @@
+{
+  "document": "research-prompt-dramatica-dual-storyform-mapping-md",
+  "drive_id": "1E9mumGPuWIJbo95MW5Yr1pOyVVuNiG07A1KTaBStN_Q",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 78,
+  "backslash_escapes": 176,
+  "typographic_marks": 274,
+  "ascii_quotes": 173,
+  "inflection_families": {
+    "forsc": [
+      "Forschung",
+      "Forschungsergebnis",
+      "Forschungsfrage",
+      "Forschungsfragen",
+      "Forschungsnotizen",
+      "Forschungsprompt",
+      "Forschungsprompts",
+      "Forschungsziel"
+    ],
+    "metho": [
+      "METHODS",
+      "Method",
+      "Methode",
+      "Methoden",
+      "Methodologie",
+      "Methodologien",
+      "Methodology"
+    ],
+    "bestä": [
+      "Bestätige",
+      "Bestätigung",
+      "Bestätigungen",
+      "Bestätigungs",
+      "Bestätigungstheater",
+      "Bestätigungsverzerrung"
+    ],
+    "check": [
+      "CHECK",
+      "CHECKLIST",
+      "Check",
+      "Checkpoint",
+      "Checkpoints",
+      "Checks"
+    ],
+    "erwei": [
+      "Erweitere",
+      "Erweitern",
+      "Erweiterung",
+      "Erweiterungen",
+      "Erweiterungs"
+    ],
+    "inver": [
+      "Inversion",
+      "Inversionen",
+      "Inversions",
+      "Inversionsabbildung",
+      "Inversionsmuster"
+    ],
+    "primä": [
+      "Primär",
+      "Primäres",
+      "Primärliteratur",
+      "Primärquelle",
+      "Primärquellen"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturierte",
+      "Strukturierter"
+    ],
+    "block": [
+      "BLOCK",
+      "BLOCKS",
+      "Block",
+      "Blocks"
+    ],
+    "defin": [
+      "Definiere",
+      "Definition",
+      "Definitions",
+      "Definitionsmismatch"
+    ],
+    "gegen": [
+      "GEGEN",
+      "Gegen",
+      "Gegenschule",
+      "Gegenteil"
+    ],
+    "integ": [
+      "INTEGRITY",
+      "Integration",
+      "Integrationsachse",
+      "Integrity"
+    ],
+    "quell": [
+      "Quelle",
+      "Quellen",
+      "Quellenangabe",
+      "Quellenliste"
+    ],
+    "refle": [
+      "Reflection",
+      "Reflexion",
+      "Reflexionen",
+      "Reflexions"
+    ],
+    "reibu": [
+      "Reibung",
+      "Reibungs",
+      "Reibungspunkt",
+      "Reibungspunkte"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegelung",
+      "Spiegelungen",
+      "Spiegelungs"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storytelling"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentisches"
+    ],
+    "alter": [
+      "Alter",
+      "Alternative",
+      "Alternativen"
+    ],
+    "befun": [
+      "Befund",
+      "Befunde",
+      "Befunden"
+    ],
+    "begri": [
+      "Begriff",
+      "Begriffe",
+      "Begriffen"
+    ],
+    "const": [
+      "CONSTRAINT",
+      "Constraint",
+      "Constraints"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "execu": [
+      "EXECUTING",
+      "Execution",
+      "Executive"
+    ],
+    "falsi": [
+      "Falsification",
+      "Falsifikation",
+      "Falsifikations"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Anti",
+      "Substantiv"
+    ],
+    [
+      "Buch",
+      "Buchtitel"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Keiner"
+    ],
+    [
+      "Eine",
+      "Verfeinerungen"
+    ],
+    [
+      "Ende",
+      "Wende"
+    ],
+    [
+      "Ende",
+      "Endergebnis"
+    ],
+    [
+      "Ende",
+      "Ausschmückende"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ],
+    [
+      "Erst",
+      "Verständnis"
+    ],
+    [
+      "Form",
+      "Forms"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Formuliere"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Host",
+      "Hostsystem"
+    ]
+  ]
+}

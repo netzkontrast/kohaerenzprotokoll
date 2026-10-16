@@ -1,0 +1,122 @@
+{
+  "document": "kapitel-eins-welterkundung-konstrukt-stadt",
+  "drive_id": "1hVzwjG9tr6WE1fqwl19phqf5AD6yBNrf4s2M9HIapeA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one chapter reading (kap-01) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-291/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 33,
+    "decisions": 36,
+    "decided_by_lookup": 26,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A chapter plan with a sketch: its new surfaces are the fifteen stations of its path, the Vignette as its unit and four borrowed writing techniques; what it says of AEGIS, LogOS, entropy, coherence, the Kern-Welt and the Konstrukt-Stadt went on existing pages, and the plan on the chapter page kap-01.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        47,
+        91,
+        95,
+        153,
+        157,
+        173
+      ],
+      "attribution": "",
+      "note": "AEGIS conveyed only through the surroundings"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        95,
+        157,
+        173
+      ],
+      "attribution": "",
+      "note": "entropy as the measure of control"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "Kern-Welt 1 named as the Konstrukt-Stadt"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        91,
+        157
+      ],
+      "attribution": "",
+      "note": "coherence kept by AEGIS in the self-correction vignette"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        15,
+        115,
+        129,
+        153,
+        173
+      ],
+      "attribution": "",
+      "note": "a city observed without a figure"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        15,
+        89,
+        149,
+        153,
+        165,
+        173
+      ],
+      "attribution": "",
+      "note": "LogOS as the logic made visible"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz Protokoll` the title, `Kohärenz` and `Kohärenzwahrung` on kohaerenz; `AEGIS`, `LogOS` and `AEGIS/LogOS` the pair named together, each read on its page; `universal reboot` and `Reboot` the event the Vorwort is said to describe, not promoted; `Kern-Welt 1` read on kern-welten as the Konstrukt-Stadt; `Wohneinheit` an empty unit with no occupant, an occurrence near kaels-wohneinheit",
+  "sweep": [
+    {
+      "page": "kern-welten",
+      "surface": "Kern-Welt",
+      "line": 15,
+      "decision": "reading",
+      "why": "Kern-Welt 1 named as the Konstrukt-Stadt"
+    }
+  ],
+  "not_promoted": [
+    "the fifteen stations and their names",
+    "the Pfad der Beobachtung",
+    "the Vignette as a unit",
+    "the borrowed techniques (Uncanny Valley, Architectural Storytelling, Setting as Character, Subtle Environmental Storytelling)"
+  ],
+  "internal_tension": "it leaves the nature of the energy sources open (L141) and starts its sketch mid-sentence (L113)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

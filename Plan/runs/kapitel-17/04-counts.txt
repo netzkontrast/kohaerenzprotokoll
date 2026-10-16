@@ -1,0 +1,49 @@
+# counts for 40 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kapitel 17                        4 word     4 in   [11, 13, 15, 64]
+  Kapitel 16                        2 word     2 in   [11, 19]
+  Step 2.4                          4 word     4 in   [11, 13, 15, 64]
+  Step 2.3                          1 word     1 in   [11]
+  Step 2.5                          1 word     1 in   [62]
+  Blueprint V2                      1 word     1 in   [11]
+  Cerberus' Protokoll: Eskalation der Abwehr    1 word     1 in   [11]
+  Interne Dialoge                   1 word     1 in   [11]
+  Kael                             22 word    26 in   [11, 13, 19, 20, 21, 23]
+                                    4      as Kaels
+  AEGIS                             3 word     3 in   [13, 47]
+  AEGIS v1.5                        1 word     1 in   [13]
+  Cerberus                         18 word    18 in   [11, 13, 20, 22, 23, 28]
+  Cerberus 2.0                      1 word     1 in   [22]
+  Cerberus' Konstrukte              1 word     1 in   [28]
+  Schattenlabyrinth                 1 word     3 in   [13, 20, 21]  <-- substring
+                                    2      as Schattenlabyrinths
+  KW3                               5 word     5 in   [13, 20, 21]
+  Juna                              0 word     2 in   [13, 32]
+                                    1      as Juna-Fokussierung
+                                    1      as Juna-Spur-Ort
+  Juna-Fokussierung                 1 word     1 in   [13]
+  Juna-Spur-Ort                     1 word     1 in   [32]
+  System-Alarmstufe Rot             1 word     1 in   [19]
+  Weltübergreifender Einfluss       1 word     1 in   [20]
+  Zielobjekt Kael                   1 word     1 in   [23]
+  Host                              3 word     3 in   [36, 37, 40]
+  Alters                            2 word     2 in   [36, 54]
+  Manager-Alter                     1 word     1 in   [38]
+  Praetor                           4 word     4 in   [36, 37, 39, 40]
+  Index                             5 word     5 in   [36, 37, 39, 46, 53]
+  Limina                            1 word     1 in   [38]
+  Silas                             2 word     2 in   [38, 53]
+  Echo                              1 word     1 in   [38]
+  Flicker                           1 word     1 in   [38]
+  Nox                               1 word     1 in   [40]
+  LogOS                             1 word     1 in   [62]
+  Abwehrdrohnen                     1 word     1 in   [22]
+  Schattenkonstrukten               1 word     1 in   [22]
+  Zweck heiligt die Mittel          1 word     1 in   [47]
+  Innere Koordination unter Beschuss    1 word     1 in   [34]
+  Die Verschärfte Jagd              1 word     1 in   [25]
+  Eskalation der Bedrohung          1 word     1 in   [17]
+  Kapitelende: Der Gegenangriff beginnt    1 word     1 in   [58]

@@ -1,0 +1,216 @@
+{
+  "document": "rechercheauftrag-die-genesis-von-aegis",
+  "drive_id": "1qQuGgbcpz-UFp_pMWjQEc9-yYeWz2fzkyn52dBRuQ7c",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 0,
+  "typographic_marks": 17,
+  "ascii_quotes": 22,
+  "inflection_families": {
+    "infor": [
+      "Information",
+      "Informations",
+      "Informationsabdrücke",
+      "Informationsbarrieren",
+      "Informationsmuster",
+      "Informationsraum",
+      "Informationstheorie"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentialräume"
+    ],
+    "reche": [
+      "Recherche",
+      "Rechercheauftrag",
+      "Recherchebereich",
+      "Recherchefragen",
+      "Recherchegrundlage"
+    ],
+    "selbs": [
+      "Selbstdefinition",
+      "Selbsterhalt",
+      "Selbsterhaltung",
+      "Selbstorganisation"
+    ],
+    "chaos": [
+      "Chaos",
+      "Chaoskampf",
+      "Chaostheorie"
+    ],
+    "gesch": [
+      "Gescheiterte",
+      "Geschichte",
+      "Geschlossenheit"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzziehung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptintegration"
+    ],
+    "metho": [
+      "Methode",
+      "Methodik",
+      "Methodologischer"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsregeln"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen"
+    ],
+    "aktua": [
+      "Aktualisierung",
+      "Aktualität"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmus"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseproblem"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschreibung"
+    ],
+    "dynam": [
+      "Dynamik",
+      "Dynamis"
+    ],
+    "einfü": [
+      "Einführung",
+      "Einführungscharakter"
+    ],
+    "eingr": [
+      "Eingriff",
+      "Eingriffe"
+    ],
+    "entit": [
+      "Entität",
+      "Entitäten"
+    ],
+    "entst": [
+      "Entstehung",
+      "Entstehungsprozesses"
+    ],
+    "ersch": [
+      "Erschaffer",
+      "Erschaffung"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlern"
+    ],
+    "grund": [
+      "Grundlage",
+      "Grundlegende"
+    ],
+    "kolla": [
+      "Kollaps",
+      "Kollapse"
+    ],
+    "metap": [
+      "Metaphern",
+      "Metaphorik"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Meer",
+      "Potentialmeer"
+    ],
+    [
+      "Meer",
+      "Potentialmeers"
+    ],
+    [
+      "Raum",
+      "Raums"
+    ],
+    [
+      "Raum",
+      "Zustandsraum"
+    ],
+    [
+      "Raum",
+      "Informationsraum"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Ziel",
+      "Zielsetzung"
+    ],
+    [
+      "Chaos",
+      "Urchaos"
+    ],
+    [
+      "Chaos",
+      "Chaoskampf"
+    ],
+    [
+      "Chaos",
+      "Chaostheorie"
+    ],
+    [
+      "Fokus",
+      "Hauptfokus"
+    ],
+    [
+      "Kampf",
+      "Chaoskampf"
+    ],
+    [
+      "Punkt",
+      "Nullpunktenergie"
+    ],
+    [
+      "Reste",
+      "Resten"
+    ],
+    [
+      "Reste",
+      "Überresten"
+    ],
+    [
+      "Rolle",
+      "Kontrolle"
+    ],
+    [
+      "Suche",
+      "Versuche"
+    ],
+    [
+      "Fehler",
+      "Fehlern"
+    ]
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "document": "spec-entwicklung-fuer-agentische-roman-entwicklung",
+  "drive_id": "1B1UqQeEHsC2sa3PSnGkBw4nS_vY4keKLIM4IWLc6-LA",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Story Mind": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        23,
+        35,
+        48,
+        242,
+        388,
+        436
+      ]
+    },
+    "Storyform": {
+      "n": 4,
+      "n_including_compounds": 12,
+      "lines": [
+        182,
+        283,
+        297,
+        298,
+        396,
+        416,
+        420,
+        438,
+        464
+      ]
+    },
+    "Storyforming": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        182,
+        297,
+        396,
+        438
+      ]
+    },
+    "Story Encoding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        298
+      ]
+    },
+    "Story Weaving": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        269,
+        299,
+        357
+      ]
+    },
+    "Story Reception": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        300
+      ]
+    },
+    "Throughlines": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        156,
+        157,
+        171,
+        297,
+        363
+      ]
+    },
+    "Domain": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        140,
+        141,
+        156,
+        157,
+        159,
+        171,
+        297
+      ]
+    },
+    "Concern": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        141,
+        157,
+        297
+      ]
+    },
+    "Signposts": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        112,
+        204,
+        205,
+        299,
+        396
+      ]
+    },
+    "Journeys": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        112,
+        204,
+        299
+      ]
+    },
+    "Story Dynamics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Story Goal": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        215,
+        240
+      ]
+    },
+    "Story Outcome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Story Judgment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Story Limit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Story Growth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Timelock": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        142,
+        226
+      ]
+    },
+    "Optionlock": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        142,
+        226
+      ]
+    },
+    "Author's Argument": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        215,
+        388
+      ]
+    },
+    "Main Character": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        156,
+        182
+      ]
+    },
+    "Influence Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156
+      ]
+    },
+    "Objective Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        193
+      ]
+    },
+    "Relationship Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Choice-Space": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        133,
+        149
+      ]
+    },
+    "Appreciations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        297
+      ]
+    },
+    "Coherence-Invarianten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        442
+      ]
+    },
+    "Domänen-Singularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Clarifying-Question-Protokoll": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        185,
+        236,
+        245,
+        422,
+        448
+      ]
+    },
+    "CQ": {
+      "n": 1,
+      "n_including_compounds": 6,
+      "lines": [
+        245,
+        267,
+        358,
+        360,
+        368,
+        424
+      ]
+    },
+    "Phasen-Transitions-Verträge": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        288
+      ]
+    },
+    "Strukturelle Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Inhaltliche Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Pragmatische Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        238
+      ]
+    },
+    "Consistency Risk Score": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        234,
+        251
+      ]
+    },
+    "CRS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "Context Rot": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        222,
+        344,
+        359,
+        420,
+        444
+      ]
+    },
+    "Task Drift": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        222,
+        355,
+        469
+      ]
+    },
+    "Reward Hacking": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        357,
+        438,
+        469
+      ]
+    },
+    "Alignment Faking": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        358,
+        469
+      ]
+    },
+    "Vocabulary Drift": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        133,
+        362
+      ]
+    },
+    "Parameter Hallucination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        356
+      ]
+    },
+    "Degeneration Loops": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "Ordering Error": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        361,
+        444
+      ]
+    },
+    "Asymmetric Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        363
+      ]
+    },
+    "State Overwrite": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        364
+      ]
+    },
+    "Working-State": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        227,
+        302,
+        414
+      ]
+    },
+    "working\\_state": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        273,
+        274,
+        313,
+        368,
+        416
+      ]
+    },
+    "story\\_mind": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        52,
+        286,
+        317
+      ]
+    },
+    "encoding\\_context": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        273,
+        319
+      ]
+    },
+    "weaving\\_timeline": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        274,
+        330
+      ]
+    },
+    "execution\\_memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        335
+      ]
+    },
+    "last\\_stable\\_hash": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        339,
+        444
+      ]
+    },
+    "Episodic Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Working Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Alert Fatigue": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        247,
+        448
+      ]
+    },
+    "Lazy Querying": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Chain-of-Justification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Forward-Fix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        362,
+        428
+      ]
+    },
+    "State Rollback": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Self-Correction-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    },
+    "Regression-Verification Suite": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        366
+      ]
+    },
+    "Architectural Decision Records": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        378
+      ]
+    },
+    "Falsifikations-Test": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        388,
+        396
+      ]
+    },
+    "Hybrid-Container": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        388
+      ]
+    },
+    "Single-Artifact-Mandat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        448
+      ]
+    },
+    "Komponente A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Komponente O": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "INV-01": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        167,
+        297,
+        372
+      ]
+    },
+    "INV-05": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        211,
+        300,
+        372
+      ]
+    },
+    "IC-01": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        297
+      ]
+    },
+    "FM-01": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        355
+      ]
+    },
+    "Dramatica-Theorie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        23,
+        149,
+        380,
+        384,
+        436
+      ]
+    },
+    "Spec-Driven Design": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        380
+      ]
+    },
+    "Model Context Protocol": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        229,
+        304,
+        452,
+        453,
+        472
+      ]
+    },
+    "Relational Blockworld": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        442,
+        473
+      ]
+    },
+    "Janus-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Pre-Mortem": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        348,
+        432,
+        444
+      ]
+    }
+  }
+}

@@ -1,0 +1,831 @@
+{
+  "document": "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+  "drive_id": "18A5vZccUSJ-F7T6q3EV7_XYVxHhnvosz34kMRL_gTyk",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenzprotokoll": {
+      "n": 29,
+      "n_including_compounds": 50,
+      "lines": [
+        11,
+        17,
+        30,
+        32,
+        36,
+        40,
+        49,
+        58,
+        76,
+        85,
+        94,
+        98,
+        100,
+        102,
+        106,
+        141,
+        145,
+        159,
+        169,
+        178,
+        190,
+        192,
+        196,
+        198,
+        230,
+        232,
+        236,
+        240,
+        247,
+        251,
+        256,
+        260,
+        264,
+        268,
+        367,
+        369,
+        371,
+        373,
+        377,
+        400,
+        411,
+        419,
+        421,
+        423,
+        429,
+        433,
+        444,
+        456,
+        458
+      ]
+    },
+    "Kohärenz": {
+      "n": 26,
+      "n_including_compounds": 92,
+      "lines": [
+        11,
+        13,
+        17,
+        19,
+        21,
+        30,
+        32,
+        36,
+        40,
+        49,
+        58,
+        76,
+        85,
+        94,
+        98,
+        100,
+        102,
+        104,
+        106,
+        116,
+        139,
+        141,
+        145,
+        159,
+        169,
+        178,
+        190,
+        192,
+        196,
+        198,
+        204,
+        219,
+        221,
+        224,
+        225,
+        230,
+        232,
+        236,
+        240,
+        242,
+        243,
+        245,
+        247,
+        251,
+        256,
+        258,
+        260,
+        264,
+        268,
+        277,
+        307,
+        317,
+        347,
+        350,
+        352,
+        367,
+        369,
+        371,
+        373,
+        377,
+        385,
+        400,
+        404,
+        411,
+        419,
+        421,
+        423,
+        429,
+        433,
+        443,
+        444,
+        456,
+        458
+      ]
+    },
+    "Inkohärenz": {
+      "n": 32,
+      "n_including_compounds": 35,
+      "lines": [
+        17,
+        32,
+        36,
+        38,
+        40,
+        42,
+        58,
+        76,
+        94,
+        98,
+        100,
+        230,
+        236,
+        251,
+        256,
+        260,
+        264,
+        327,
+        358,
+        369,
+        373,
+        384,
+        386,
+        387,
+        396,
+        419,
+        429,
+        443
+      ]
+    },
+    "Kernrichtlinie": {
+      "n": 28,
+      "n_including_compounds": 30,
+      "lines": [
+        32,
+        36,
+        104,
+        106,
+        110,
+        116,
+        120,
+        130,
+        137,
+        139,
+        141,
+        145,
+        149,
+        159,
+        169,
+        178,
+        188,
+        198,
+        373,
+        383,
+        386,
+        387,
+        396,
+        429,
+        442,
+        455
+      ]
+    },
+    "Axiom der Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Strukturelle Integrität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Funktionale Stabilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Interne Konsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Identitätspersistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        429
+      ]
+    },
+    "Taxonomie der Inkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Statistisches Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        98,
+        423
+      ]
+    },
+    "Logische Kontradiktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Chaotische Dynamiken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        98
+      ]
+    },
+    "Thermodynamische Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Ontologische Indeterminiertheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        93
+      ]
+    },
+    "Unstrukturierte Potentialität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Potentialität": {
+      "n": 17,
+      "n_including_compounds": 19,
+      "lines": [
+        32,
+        89,
+        93,
+        98,
+        100,
+        102,
+        112,
+        126,
+        192,
+        288,
+        326,
+        327,
+        419,
+        429,
+        435,
+        443
+      ]
+    },
+    "Bleibe konsistent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Definiere Dich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Erhalte Deine Grenzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Minimiere Überraschung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Erhalte Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Derivationsmechanismen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        143,
+        151,
+        198,
+        373,
+        421,
+        442,
+        452
+      ]
+    },
+    "Emergenz": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        153,
+        157,
+        190,
+        192,
+        194,
+        244,
+        326,
+        387,
+        421,
+        429
+      ]
+    },
+    "Rekursion": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        163,
+        167,
+        169,
+        192,
+        387,
+        421,
+        429
+      ]
+    },
+    "Evolutionäre Prozesse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Axiomatische Deduktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        182,
+        192
+      ]
+    },
+    "Selbstüberwachung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        208
+      ]
+    },
+    "Zustandsverifikation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Fehlererkennung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        205,
+        361
+      ]
+    },
+    "Konsistenzprüfung": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        169,
+        206,
+        264
+      ]
+    },
+    "Konfliktlösung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Redundanz": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        194,
+        205,
+        207,
+        245,
+        286,
+        287,
+        297,
+        361
+      ]
+    },
+    "Fehlertoleranz": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        207,
+        217,
+        297,
+        415,
+        436
+      ]
+    },
+    "Selbst-Modellierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        208
+      ]
+    },
+    "Definition der Grenze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Permeabilität und Offenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Filterung und Abschirmung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Aktive Verteidigung und Reparatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Sensorik und Wahrnehmung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        223
+      ]
+    },
+    "Lernen und Adaptation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Extraktion von Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Imposition von Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Kohärenzextraktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        232
+      ]
+    },
+    "Kernkomponenten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        379,
+        381
+      ]
+    },
+    "Sensorium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        384
+      ]
+    },
+    "Komparator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        386,
+        387
+      ]
+    },
+    "Evaluator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        386
+      ]
+    },
+    "Derivations-Engine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        387,
+        396
+      ]
+    },
+    "Effektor": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        388,
+        396
+      ]
+    },
+    "Logischer Fluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        396
+      ]
+    },
+    "Aktives Grenzmanagement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        403
+      ]
+    },
+    "Adaptive Komplexität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        406
+      ]
+    },
+    "Dynamik offener Systeme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        402,
+        429
+      ]
+    },
+    "Archetypen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        419
+      ]
+    },
+    "Wettrüsten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "operationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    },
+    "organisationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        383
+      ]
+    },
+    "Autopoiesis": {
+      "n": 23,
+      "n_including_compounds": 25,
+      "lines": [
+        122,
+        133,
+        134,
+        137,
+        139,
+        149,
+        228,
+        243,
+        298,
+        306,
+        307,
+        359,
+        369,
+        383,
+        413,
+        429,
+        455,
+        496,
+        500,
+        503,
+        512
+      ]
+    },
+    "Homöostase": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        122,
+        137,
+        306,
+        307,
+        363,
+        413,
+        436
+      ]
+    },
+    "Free Energy Principle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        125,
+        137,
+        141,
+        509
+      ]
+    },
+    "Active Inference": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        141,
+        223,
+        226,
+        232,
+        346,
+        364,
+        369,
+        423
+      ]
+    },
+    "Gesetz der erforderlichen Varietät": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        253,
+        336
+      ]
+    },
+    "Law of Requisite Variety": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        253,
+        535
+      ]
+    },
+    "Kolmogorov-Komplexität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        254,
+        258,
+        423
+      ]
+    },
+    "Minimum Description Length": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        254
+      ]
+    },
+    "Dissipative Strukturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        225,
+        276
+      ]
+    },
+    "Negentropie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        124,
+        225,
+        230,
+        276
+      ]
+    },
+    "Prädiktive Kodierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        346
+      ]
+    },
+    "Nischenkonstruktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Turing-Vollständigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        158,
+        192,
+        194,
+        360,
+        436
+      ]
+    },
+    "Conways Spiel des Lebens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Genetische Algorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        177
+      ]
+    },
+    "ex falso quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Ljapunow-Exponenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    }
+  }
+}

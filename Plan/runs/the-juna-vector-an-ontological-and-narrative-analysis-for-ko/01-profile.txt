@@ -1,0 +1,14 @@
+# the-juna-vector-an-ontological-and-narrative-analysis-for-ko
+  lines                118  (frontmatter ends at 9)
+  body words           2733
+  headings             14   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    16
+  typographic marks    19   ascii quotes 124
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    4
+  repeated labels      Meaning for AEGIS x5, Meaning for Kael x5, Narrative Expression x5, The Moment x5
+  longest line         1112 chars
+

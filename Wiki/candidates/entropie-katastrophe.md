@@ -1,10 +1,10 @@
 ---
 term: Maximale Entropie-Katastrophe
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "paradoxien-der-kohaerenz-protokoll-entwicklung"]
 gathered: "2026-09-17"
 ---
 
@@ -38,3 +38,11 @@ Four stages, and the source is careful that none of them is [[kael|Kael]]'s DID:
 
 The observed effect vastly exceeds the cause [[aegis|AEGIS]] can see. That gap is what
 drives [[protokoll-v14|Protokoll v1.4]].
+
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — the Entropie-Katastrophe as outcome of a double bind and a cost of information processing
+
+The report suggests a link to the cost of computation: the Entropie-Katastrophe „könnte direkt mit den Kosten der Informationsverarbeitung zusammenhängen“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L145]. In the double-bind application it writes „ist die Folge dieses unlösbaren Dilemmas.“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L160] The table of a possible structure titles a row „Die Entropie-Katastrophe“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L369] and gives its cause: „Das Fehlen/die massive Störung der K-J-Verbindung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L369].
+
+## Where the sources differ
+
+- `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20: the paradox report derives the Entropie-Katastrophe from an unresolvable double bind („ist die Folge dieses unlösbaren Dilemmas.“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L160]) and, as a hypothesis, from the cost of information processing („könnte direkt mit den Kosten der Informationsverarbeitung zusammenhängen“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L145]).

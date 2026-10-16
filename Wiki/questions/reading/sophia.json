@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "sophia",
+ "title": "Sophia",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Funktion von Erkenntnis und Synthese",
+  "Wissen jenseits formaler Konsistenz",
+  "Grenze einer scheinbar weisen Instanz",
+  "Autonomie gegenüber dem Gesamtsystem",
+  "Vermittlung von Bedeutung ohne Belehrung"
+ ],
+ "basis": {
+  "sophia": {
+   "title": "Sophia",
+   "path": "Wiki/candidates/sophia.md",
+   "hash": "e1c28b9de93576148885c7be2e40dd4e9d69a9c1eb36905a81fa524f54380ad0"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "logos": {
+   "title": "LogOS",
+   "path": "Wiki/candidates/logos.md",
+   "hash": "d667c8f76ae17d3ab2c925db860c87bf6e0666f1e7400b49b0bdfc8f8fbd9a0e"
+  },
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-sophia-001",
+   "question": "Welche Einsicht kann Sophia vermitteln, ohne Kael eine abschließende Deutung seiner Erfahrung abzunehmen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-002",
+   "question": "Welche Lesarten auf der Seite zu Sophia stützen oder begrenzen „Funktion von Erkenntnis und Synthese“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-003",
+   "question": "Welcher Grenzfall würde bei Sophia die Annahmen über „Funktion von Erkenntnis und Synthese“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-004",
+   "question": "Wer könnte innerhalb des Romans bei Sophia etwas über „Funktion von Erkenntnis und Synthese“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-005",
+   "question": "Welche konkrete Entscheidung könnte „Funktion von Erkenntnis und Synthese“ bei Sophia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Funktion von Erkenntnis und Synthese“ bei Sophia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-007",
+   "question": "Wie lässt sich „Funktion von Erkenntnis und Synthese“ bei Sophia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-008",
+   "question": "Welche Alternativen sollte der Autor bei Sophia für „Funktion von Erkenntnis und Synthese“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-009",
+   "question": "Was bedeutet bei Sophia der Themenpunkt „Wissen jenseits formaler Konsistenz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-010",
+   "question": "Welche Lesarten auf der Seite zu Sophia stützen oder begrenzen „Wissen jenseits formaler Konsistenz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-011",
+   "question": "Welcher Grenzfall würde bei Sophia die Annahmen über „Wissen jenseits formaler Konsistenz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-012",
+   "question": "Wer könnte innerhalb des Romans bei Sophia etwas über „Wissen jenseits formaler Konsistenz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-013",
+   "question": "Welche konkrete Entscheidung könnte „Wissen jenseits formaler Konsistenz“ bei Sophia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen jenseits formaler Konsistenz“ bei Sophia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-015",
+   "question": "Wie lässt sich „Wissen jenseits formaler Konsistenz“ bei Sophia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-016",
+   "question": "Welche Alternativen sollte der Autor bei Sophia für „Wissen jenseits formaler Konsistenz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-017",
+   "question": "Was bedeutet bei Sophia der Themenpunkt „Grenze einer scheinbar weisen Instanz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-018",
+   "question": "Welche Lesarten auf der Seite zu Sophia stützen oder begrenzen „Grenze einer scheinbar weisen Instanz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-019",
+   "question": "Welcher Grenzfall würde bei Sophia die Annahmen über „Grenze einer scheinbar weisen Instanz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-020",
+   "question": "Wer könnte innerhalb des Romans bei Sophia etwas über „Grenze einer scheinbar weisen Instanz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-021",
+   "question": "Welche konkrete Entscheidung könnte „Grenze einer scheinbar weisen Instanz“ bei Sophia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze einer scheinbar weisen Instanz“ bei Sophia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-023",
+   "question": "Wie lässt sich „Grenze einer scheinbar weisen Instanz“ bei Sophia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-024",
+   "question": "Welche Alternativen sollte der Autor bei Sophia für „Grenze einer scheinbar weisen Instanz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-025",
+   "question": "Was bedeutet bei Sophia der Themenpunkt „Autonomie gegenüber dem Gesamtsystem“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-026",
+   "question": "Welche Lesarten auf der Seite zu Sophia stützen oder begrenzen „Autonomie gegenüber dem Gesamtsystem“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-027",
+   "question": "Welcher Grenzfall würde bei Sophia die Annahmen über „Autonomie gegenüber dem Gesamtsystem“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-028",
+   "question": "Wer könnte innerhalb des Romans bei Sophia etwas über „Autonomie gegenüber dem Gesamtsystem“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-029",
+   "question": "Welche konkrete Entscheidung könnte „Autonomie gegenüber dem Gesamtsystem“ bei Sophia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Autonomie gegenüber dem Gesamtsystem“ bei Sophia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-031",
+   "question": "Wie lässt sich „Autonomie gegenüber dem Gesamtsystem“ bei Sophia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-032",
+   "question": "Welche Alternativen sollte der Autor bei Sophia für „Autonomie gegenüber dem Gesamtsystem“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-033",
+   "question": "Was bedeutet bei Sophia der Themenpunkt „Vermittlung von Bedeutung ohne Belehrung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-034",
+   "question": "Welche Lesarten auf der Seite zu Sophia stützen oder begrenzen „Vermittlung von Bedeutung ohne Belehrung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-035",
+   "question": "Welcher Grenzfall würde bei Sophia die Annahmen über „Vermittlung von Bedeutung ohne Belehrung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-036",
+   "question": "Wer könnte innerhalb des Romans bei Sophia etwas über „Vermittlung von Bedeutung ohne Belehrung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-037",
+   "question": "Welche konkrete Entscheidung könnte „Vermittlung von Bedeutung ohne Belehrung“ bei Sophia in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Vermittlung von Bedeutung ohne Belehrung“ bei Sophia haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-039",
+   "question": "Wie lässt sich „Vermittlung von Bedeutung ohne Belehrung“ bei Sophia zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-040",
+   "question": "Welche Alternativen sollte der Autor bei Sophia für „Vermittlung von Bedeutung ohne Belehrung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "sophia"
+   ]
+  },
+  {
+   "id": "RQ-sophia-041",
+   "question": "Wo unterscheiden sich Sophia und Guardians, wenn man sie unter dem Gesichtspunkt „Funktion von Erkenntnis und Synthese“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-042",
+   "question": "Welche Quelle verbindet Sophia mit Guardians in Bezug auf „Funktion von Erkenntnis und Synthese“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-043",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Sophia unter „Funktion von Erkenntnis und Synthese“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-044",
+   "question": "Wie könnte sich das Wissen über Sophia vom Wissen über Guardians unterscheiden, wenn „Funktion von Erkenntnis und Synthese“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sophia und Guardians bei „Funktion von Erkenntnis und Synthese“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-046",
+   "question": "Falls Sophia im Hinblick auf „Funktion von Erkenntnis und Synthese“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sophia und Guardians bei „Funktion von Erkenntnis und Synthese“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-048",
+   "question": "Braucht der Roman eine Verbindung von Sophia und Guardians bei „Funktion von Erkenntnis und Synthese“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-049",
+   "question": "In welchem denkbaren Fall könnte Sophia bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Funktion von Erkenntnis und Synthese“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-050",
+   "question": "Welche Kosten könnte eine Verbindung von Sophia und Guardians in Bezug auf „Funktion von Erkenntnis und Synthese“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-051",
+   "question": "Welche ältere Lesart von Sophia oder Guardians könnte die Gegenüberstellung unter „Funktion von Erkenntnis und Synthese“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sophia und Guardians unter „Funktion von Erkenntnis und Synthese“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "sophia",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-sophia-053",
+   "question": "Wo unterscheiden sich Sophia und LogOS, wenn man sie unter dem Gesichtspunkt „Wissen jenseits formaler Konsistenz“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-054",
+   "question": "Welche Quelle verbindet Sophia mit LogOS in Bezug auf „Wissen jenseits formaler Konsistenz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-055",
+   "question": "Welche Grenzen aus der Seite zu LogOS müsste eine Deutung von Sophia unter „Wissen jenseits formaler Konsistenz“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-056",
+   "question": "Wie könnte sich das Wissen über Sophia vom Wissen über LogOS unterscheiden, wenn „Wissen jenseits formaler Konsistenz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sophia und LogOS bei „Wissen jenseits formaler Konsistenz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-058",
+   "question": "Falls Sophia im Hinblick auf „Wissen jenseits formaler Konsistenz“ anders festgelegt wird: Welche Aussagen über LogOS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sophia und LogOS bei „Wissen jenseits formaler Konsistenz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-060",
+   "question": "Braucht der Roman eine Verbindung von Sophia und LogOS bei „Wissen jenseits formaler Konsistenz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-061",
+   "question": "In welchem denkbaren Fall könnte Sophia bestehen, ohne dass LogOS dieselbe Funktion übernimmt, und was würde das für „Wissen jenseits formaler Konsistenz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-062",
+   "question": "Welche Kosten könnte eine Verbindung von Sophia und LogOS in Bezug auf „Wissen jenseits formaler Konsistenz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-063",
+   "question": "Welche ältere Lesart von Sophia oder LogOS könnte die Gegenüberstellung unter „Wissen jenseits formaler Konsistenz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sophia und LogOS unter „Wissen jenseits formaler Konsistenz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "sophia",
+    "logos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-065",
+   "question": "Wo unterscheiden sich Sophia und Kairos, wenn man sie unter dem Gesichtspunkt „Grenze einer scheinbar weisen Instanz“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-066",
+   "question": "Welche Quelle verbindet Sophia mit Kairos in Bezug auf „Grenze einer scheinbar weisen Instanz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-067",
+   "question": "Welche Grenzen aus der Seite zu Kairos müsste eine Deutung von Sophia unter „Grenze einer scheinbar weisen Instanz“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-068",
+   "question": "Wie könnte sich das Wissen über Sophia vom Wissen über Kairos unterscheiden, wenn „Grenze einer scheinbar weisen Instanz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sophia und Kairos bei „Grenze einer scheinbar weisen Instanz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-070",
+   "question": "Falls Sophia im Hinblick auf „Grenze einer scheinbar weisen Instanz“ anders festgelegt wird: Welche Aussagen über Kairos müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sophia und Kairos bei „Grenze einer scheinbar weisen Instanz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-072",
+   "question": "Braucht der Roman eine Verbindung von Sophia und Kairos bei „Grenze einer scheinbar weisen Instanz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-073",
+   "question": "In welchem denkbaren Fall könnte Sophia bestehen, ohne dass Kairos dieselbe Funktion übernimmt, und was würde das für „Grenze einer scheinbar weisen Instanz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-074",
+   "question": "Welche Kosten könnte eine Verbindung von Sophia und Kairos in Bezug auf „Grenze einer scheinbar weisen Instanz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-075",
+   "question": "Welche ältere Lesart von Sophia oder Kairos könnte die Gegenüberstellung unter „Grenze einer scheinbar weisen Instanz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sophia und Kairos unter „Grenze einer scheinbar weisen Instanz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "sophia",
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-sophia-077",
+   "question": "Wo unterscheiden sich Sophia und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Autonomie gegenüber dem Gesamtsystem“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-078",
+   "question": "Welche Quelle verbindet Sophia mit Ontologischer blinder Fleck in Bezug auf „Autonomie gegenüber dem Gesamtsystem“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-079",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von Sophia unter „Autonomie gegenüber dem Gesamtsystem“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-080",
+   "question": "Wie könnte sich das Wissen über Sophia vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Autonomie gegenüber dem Gesamtsystem“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sophia und Ontologischer blinder Fleck bei „Autonomie gegenüber dem Gesamtsystem“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-082",
+   "question": "Falls Sophia im Hinblick auf „Autonomie gegenüber dem Gesamtsystem“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sophia und Ontologischer blinder Fleck bei „Autonomie gegenüber dem Gesamtsystem“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-084",
+   "question": "Braucht der Roman eine Verbindung von Sophia und Ontologischer blinder Fleck bei „Autonomie gegenüber dem Gesamtsystem“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-085",
+   "question": "In welchem denkbaren Fall könnte Sophia bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Autonomie gegenüber dem Gesamtsystem“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-086",
+   "question": "Welche Kosten könnte eine Verbindung von Sophia und Ontologischer blinder Fleck in Bezug auf „Autonomie gegenüber dem Gesamtsystem“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-087",
+   "question": "Welche ältere Lesart von Sophia oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Autonomie gegenüber dem Gesamtsystem“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sophia und Ontologischer blinder Fleck unter „Autonomie gegenüber dem Gesamtsystem“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "sophia",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-sophia-089",
+   "question": "Wo unterscheiden sich Sophia und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Vermittlung von Bedeutung ohne Belehrung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-090",
+   "question": "Welche Quelle verbindet Sophia mit Truth-Rotation in Bezug auf „Vermittlung von Bedeutung ohne Belehrung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-091",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Sophia unter „Vermittlung von Bedeutung ohne Belehrung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-092",
+   "question": "Wie könnte sich das Wissen über Sophia vom Wissen über Truth-Rotation unterscheiden, wenn „Vermittlung von Bedeutung ohne Belehrung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Sophia und Truth-Rotation bei „Vermittlung von Bedeutung ohne Belehrung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-094",
+   "question": "Falls Sophia im Hinblick auf „Vermittlung von Bedeutung ohne Belehrung“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Sophia und Truth-Rotation bei „Vermittlung von Bedeutung ohne Belehrung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-096",
+   "question": "Braucht der Roman eine Verbindung von Sophia und Truth-Rotation bei „Vermittlung von Bedeutung ohne Belehrung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-097",
+   "question": "In welchem denkbaren Fall könnte Sophia bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Vermittlung von Bedeutung ohne Belehrung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-098",
+   "question": "Welche Kosten könnte eine Verbindung von Sophia und Truth-Rotation in Bezug auf „Vermittlung von Bedeutung ohne Belehrung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-099",
+   "question": "Welche ältere Lesart von Sophia oder Truth-Rotation könnte die Gegenüberstellung unter „Vermittlung von Bedeutung ohne Belehrung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-sophia-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Sophia und Truth-Rotation unter „Vermittlung von Bedeutung ohne Belehrung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "sophia",
+    "truth-rotation"
+   ]
+  }
+ ]
+}

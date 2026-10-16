@@ -1,0 +1,129 @@
+{
+  "document": "aegis-philosophie-und-systemtheorie",
+  "drive_id": "15mblPb85LBVPDUSkmMCV0Kn47Dsu5Jj8K_eMa_Qo780",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 58,
+    "decided_by_lookup": 46,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        22,
+        59,
+        94,
+        95,
+        96,
+        110,
+        117,
+        141,
+        143
+      ],
+      "attribution": "",
+      "note": "AEGIS as a hypothetical, self-verifying system read through borrowed frames"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        41,
+        93
+      ],
+      "attribution": "",
+      "note": "weak or strong emergence held open for AEGIS"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        40,
+        83
+      ],
+      "attribution": "",
+      "note": "entropy management read through information theory and self-organising physics"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        80,
+        147,
+        153,
+        155
+      ],
+      "attribution": "",
+      "note": "the Guardians as agents under RCV"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        118,
+        159
+      ],
+      "attribution": "",
+      "note": "coherence as the measure of validity"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 40,
+      "decision": "reading",
+      "why": "AEGIS's entropy management, read if it adds"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "reading",
+      "why": "Kohärenz statt Wahrheit"
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 51,
+      "decision": "occurrence",
+      "why": "an analogy inside a borrowed frame"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 65,
+      "decision": "occurrence",
+      "why": "Bostrom's simulation argument, a borrowed frame"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

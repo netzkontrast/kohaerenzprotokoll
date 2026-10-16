@@ -1,0 +1,244 @@
+{
+  "document": "ki-antagonist-fragmentierte-gottheit-analyse",
+  "drive_id": "1VVO69Rh9H-FZECqJnlRvXqR6aq8exdweZGTODVc1THg",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 30,
+  "backslash_escapes": 72,
+  "typographic_marks": 158,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemen",
+      "Systemfehlern",
+      "Systemische",
+      "Systemkohärenz",
+      "Systems",
+      "Systemstabilität",
+      "Systemzusammenbruch",
+      "Systemzustands"
+    ],
+    "daten": [
+      "Daten",
+      "Datenarchiv",
+      "Datenbank",
+      "Datenkorruption",
+      "Datenleck",
+      "Datenlöschung",
+      "Datenpaket"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychoanalytische",
+      "Psychogramm",
+      "Psychologische",
+      "Psychologisches",
+      "Psychose"
+    ],
+    "urspr": [
+      "Ursprung",
+      "Ursprungs",
+      "Ursprungscodes",
+      "Ursprungsgeschichte",
+      "Ursprünge"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmechanismen",
+      "Abwehrmechanismus",
+      "Abwehrsystem"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationskapazität",
+      "Integriertes",
+      "Integrität"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modells",
+      "Models"
+    ],
+    "regel": [
+      "Regel",
+      "Regelbasis",
+      "Regeln",
+      "Regelwerk"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumadaten",
+      "Traumas",
+      "Traumata"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen"
+    ],
+    "gefän": [
+      "Gefängnis",
+      "Gefängnisse",
+      "Gefängnissen"
+    ],
+    "geist": [
+      "Geist",
+      "Geister",
+      "Geistes"
+    ],
+    "haupt": [
+      "Hauptfunktion",
+      "Hauptsystem",
+      "Hauptverarbeitungsthread"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Intervention"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikts"
+    ],
+    "krieg": [
+      "Krieg",
+      "Kriege",
+      "Kriegsführung"
+    ],
+    "manag": [
+      "Managementstil",
+      "Manager",
+      "Managers"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifestation",
+      "Manifestationen"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsanteile"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozessisolation"
+    ],
+    "quell": [
+      "Quellcode",
+      "Quellcodes",
+      "Quelle"
+    ],
+    "sandb": [
+      "Sandbox",
+      "Sandboxes",
+      "Sandboxing"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Code",
+      "Quellcodes"
+    ],
+    [
+      "Code",
+      "Ursprungscodes"
+    ],
+    [
+      "Data",
+      "Database"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Vertiefende"
+    ],
+    [
+      "Form",
+      "Formation"
+    ],
+    [
+      "Form",
+      "Formwahrung"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Gott",
+      "Gottheit"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ]
+  ]
+}

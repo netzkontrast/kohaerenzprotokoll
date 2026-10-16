@@ -1,0 +1,561 @@
+{
+  "document": "strategic-narrative-analysis-forging-a-compelling-story-from",
+  "drive_id": "15jVIihftJ5lFaz8UQPEYxHIObzAMrbjaDIU2bN0XT3Q",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        13,
+        17,
+        126
+      ]
+    },
+    "Kael": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        21,
+        23,
+        25,
+        26,
+        27,
+        36,
+        37,
+        38,
+        51,
+        55,
+        57,
+        58,
+        60,
+        81,
+        95,
+        98,
+        105,
+        112,
+        119
+      ]
+    },
+    "AEGIS": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        25,
+        36,
+        37,
+        40,
+        42,
+        60,
+        81,
+        97,
+        98,
+        111,
+        112,
+        118,
+        135
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        55
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        55,
+        58
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        111,
+        135
+      ]
+    },
+    "KW1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        97
+      ]
+    },
+    "KW2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        97
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        97
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Alters": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        55,
+        58
+      ]
+    },
+    "Komponente 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Genesis der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Bruchpunkt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        100,
+        134
+      ]
+    },
+    "Risse im Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Externe Ebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        112
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        44
+      ]
+    },
+    "Das Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "The Fundament": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        120
+      ]
+    },
+    "The Gardener": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119
+      ]
+    },
+    "6 Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Paraiyas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        118,
+        119,
+        136
+      ]
+    },
+    "Isolation Objection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "narrative nihilism": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        116,
+        134
+      ]
+    },
+    "inevitable surprise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "operational closure": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        97,
+        112
+      ]
+    },
+    "ontological autarky": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "autopoietic system": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Kohärenz statt Wahrheit": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Kohärenz durch Integration": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Exclusionary Order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Emergent Order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Self-Referential Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Integrative Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "unified protagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        97,
+        133
+      ]
+    },
+    "Protokoll-Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Narrative Dekonstruktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "trauma-time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        51
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        57,
+        77
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        57
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        57
+      ]
+    },
+    "phobic avoidance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "positive intent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        57,
+        77
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Second-Order Cybernetics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Process Philosophy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Macht/Wissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Gödel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    }
+  }
+}

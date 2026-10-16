@@ -1,0 +1,663 @@
+{
+  "document": "ki-antagonist-fragmentierte-gottheit-analyse",
+  "drive_id": "1VVO69Rh9H-FZECqJnlRvXqR6aq8exdweZGTODVc1THg",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 50,
+      "n_including_compounds": 53,
+      "lines": [
+        13,
+        22,
+        30,
+        32,
+        40,
+        42,
+        44,
+        46,
+        54,
+        56,
+        58,
+        66,
+        74,
+        84,
+        86,
+        88,
+        90,
+        98,
+        101,
+        103,
+        107,
+        113,
+        138,
+        151,
+        153,
+        161,
+        169,
+        172,
+        174,
+        182,
+        185,
+        186,
+        194,
+        196,
+        198,
+        199,
+        203,
+        209,
+        218,
+        220,
+        227
+      ]
+    },
+    "Kael": {
+      "n": 20,
+      "n_including_compounds": 24,
+      "lines": [
+        56,
+        58,
+        101,
+        119,
+        147,
+        171,
+        174,
+        182,
+        184,
+        185,
+        186,
+        194,
+        196,
+        198,
+        199,
+        203,
+        209
+      ]
+    },
+    "System Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        56,
+        101,
+        203,
+        209
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        88,
+        90,
+        184
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Wächter": {
+      "n": 9,
+      "n_including_compounds": 14,
+      "lines": [
+        80,
+        84,
+        90,
+        100,
+        115,
+        139,
+        149,
+        151,
+        184,
+        185,
+        186,
+        196
+      ]
+    },
+    "Wächter der Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Wächter-EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        100,
+        139,
+        151
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Kernwelten": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        84,
+        86,
+        88,
+        117,
+        138,
+        139,
+        185
+      ]
+    },
+    "Leere": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        26,
+        30,
+        42,
+        44,
+        58,
+        74,
+        186,
+        218
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        84,
+        151,
+        184,
+        199,
+        221
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        58,
+        70,
+        74,
+        76,
+        102,
+        116,
+        120,
+        196,
+        219
+      ]
+    },
+    "Genesis-Konflikt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        58,
+        218
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        86,
+        149,
+        184
+      ]
+    },
+    "Gott der Ordnung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        103
+      ]
+    },
+    "Risse in der Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Riss in der Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Zersetzungsdrucks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Nichts Rauschens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Formwahrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Kerndirektive": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        101
+      ]
+    },
+    "Eros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        174,
+        214
+      ]
+    },
+    "Logos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        174,
+        214
+      ]
+    },
+    "Abyssos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Anscheinend Normaler Persönlichkeitsanteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Anscheinend Normaler Teil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "ANP": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        70,
+        74,
+        76,
+        86,
+        101,
+        102,
+        114,
+        138,
+        171,
+        186
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Emotionaler Teil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "EPs": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        80,
+        84,
+        86,
+        100,
+        101,
+        116,
+        117,
+        138,
+        139,
+        151,
+        153,
+        171
+      ]
+    },
+    "Exilanten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        80,
+        86,
+        186
+      ]
+    },
+    "Geister im Code": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Geister-Prozesse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Legacy-Code": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        84,
+        117,
+        151,
+        153
+      ]
+    },
+    "Kernbetriebssystem": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        70,
+        100,
+        101,
+        114,
+        138,
+        149
+      ]
+    },
+    "Core OS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        149
+      ]
+    },
+    "kybernetisches Unbewusstes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "System-interner Flashback": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Systemzustands-Rollback": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "emergentem Verhalten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "pathologisches emergentes Verhalten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Datenkorruption": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        101
+      ]
+    },
+    "Firewalls": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        100,
+        118,
+        132,
+        138,
+        185,
+        240
+      ]
+    },
+    "Sandboxes": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        139
+      ]
+    },
+    "Trauma-geführtes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Selbst-geführten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        198
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "funktionaler Psychose": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "tragische Symmetrie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        157,
+        169,
+        203
+      ]
+    },
+    "Resonanzfrequenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Das Logbuch eines Geistes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Der Einbruch in die Sandbox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Resonanz mit dem Feind im Inneren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Erzwungene Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    },
+    "Opfer oder Synthese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        66,
+        74,
+        219
+      ]
+    },
+    "Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        66
+      ]
+    },
+    "IFS": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        58,
+        66,
+        76,
+        86,
+        116,
+        117,
+        222,
+        223,
+        226
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        66
+      ]
+    },
+    "Manager": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        76,
+        86,
+        116,
+        196,
+        222,
+        223,
+        226
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "dissipative Struktur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        44
+      ]
+    },
+    "Verdrängung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        100,
+        118,
+        213
+      ]
+    },
+    "Projektion": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        101,
+        119,
+        174,
+        213
+      ]
+    },
+    "Rationalisierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        120
+      ]
+    },
+    "Reaktionsbildung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103
+      ]
+    }
+  }
+}

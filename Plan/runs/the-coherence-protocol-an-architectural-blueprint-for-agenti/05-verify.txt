@@ -1,0 +1,144 @@
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#0]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#0]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "K1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K1` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#0]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "K0"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K0` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#0]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Table"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Table` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#3]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "white paper"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`white paper` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "ARCHON"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`ARCHON` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#4]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "functional multiplicity"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`functional multiplicity` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Coherence Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Coherence Protocol` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#5]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Juna/V"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna/V` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "The Foundation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`The Foundation` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "System-Dirigent"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`System-Dirigent` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Kernel"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernel` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "Makro-KG"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Makro-KG` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "METATRON-Planer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`METATRON-Planer` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "IFS"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`IFS` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#3]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "BDI"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`BDI` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#2]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --count "OCC"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`OCC` ^[the-coherence-protocol-an-architectural-blueprint-for-agenti.md:#1]
+
+$ python3 scripts/read.py the-coherence-protocol-an-architectural-blueprint-for-agenti --find "4.3.2 Self-Optimization"
+^[L81]  6. 4.3.2 Self-Optimization with DSPy and TextGrad: The architecture is designed to move beyond static, brittle…
+$ grep -n "^#####\|^######" Sources/drive/the-coherence-protocol-an-architectural-blueprint-for-agenti.md (section numbers 1.0 to 6.0 and sub-numbers to 4.3.2)
+13:##### 1.0 Introduction: The Crisis of Coherence in Generative AI
+20:##### 2.0 Philosophical & Psychological Foundations: Modeling a Resilient Sys
+24:###### *2.1 The Duality of Truth as the Core Conflict Engine*
+30:###### *2.2 Isomorphic Architecture: Psychology as a System Blueprint*
+38:##### 3.0 Narrative Governance: Dramatica Theory as a Computational Framework
+42:###### *3.1 The Story Mind as a Formal Model*
+46:###### *3.2 Mapping the Four Core Subsystems*
+52:##### 4.0 The NovelOS Technical Architecture: From Theory to Implementation
+56:###### *4.1 Memory & State Management: The Neuro-Symbolic Approach*
+64:###### *4.2 Agentic Execution: The ARCHON Framework*
+72:###### *4.3 The Cognitive Loop: Interfacing with the LLM*
+83:##### 5.0 Case Study: The "Kohärenz Protokoll" in Operation
+87:###### *5.1 Simulating the Core Conflict*
+91:###### *5.2 The Resolution Engine: Generating a Paraconsistent Outcome*
+95:##### 6.0 Conclusion: A New Paradigm for Systemic Authorship

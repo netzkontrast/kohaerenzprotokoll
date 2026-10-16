@@ -1,0 +1,213 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-final-architecture-md",
+  "drive_id": "1B4mR_Qawm_IXXiYyvoD3EGIFa43VsSNEtuWV831hzXE",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 76,
+    "decided_by_lookup": 65,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        126,
+        132,
+        393,
+        427,
+        892
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic god, and the rotation it asks to test"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        243
+      ],
+      "attribution": "",
+      "note": "a German term to keep"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        880
+      ],
+      "attribution": "",
+      "note": "the unit in its worked example"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        125,
+        892
+      ],
+      "attribution": "",
+      "note": "Dual-Kernel Theory as the in-world physics"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        128,
+        282,
+        483,
+        494,
+        500
+      ],
+      "attribution": "",
+      "note": "an entity held unsettled, and a verdict required"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        127,
+        131,
+        133,
+        450,
+        892
+      ],
+      "attribution": "",
+      "note": "Main Character, two storyforms, loops that preserve information"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        912
+      ],
+      "attribution": "",
+      "note": "a German term for the kernel"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        912
+      ],
+      "attribution": "",
+      "note": "a German term for the kernel"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        128,
+        427,
+        437
+      ],
+      "attribution": "",
+      "note": "a link the prompt describes and questions"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        914
+      ],
+      "attribution": "",
+      "note": "a German term to prefer"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        131,
+        911
+      ],
+      "attribution": "",
+      "note": "a German term to prefer, and the journey toward it"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        909
+      ],
+      "attribution": "",
+      "note": "a German term to prefer"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        908
+      ],
+      "attribution": "",
+      "note": "a German term to prefer"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        134,
+        609
+      ],
+      "attribution": "",
+      "note": "a rotation the prompt asks to test"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        127,
+        193
+      ],
+      "attribution": "",
+      "note": "a clinical model glossed"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        133,
+        273,
+        915
+      ],
+      "attribution": "",
+      "note": "the Vortex Inversion as the central move"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title in the frontmatter"
+    },
+    {
+      "page": "truth-rotation",
+      "surface": "Truth-Rotation",
+      "line": 609,
+      "decision": "reading",
+      "why": "the Inversion Audit's Truth-Rotation verdict; read on the page"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the frontmatter's label; the Vortex Inversion is read on the page from L133"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

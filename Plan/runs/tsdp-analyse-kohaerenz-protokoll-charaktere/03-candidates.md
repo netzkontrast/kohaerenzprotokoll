@@ -1,0 +1,79 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Figures, places and objects the document names in the novel's world, then the document's own labels, then the borrowed concepts under a lens heading. The passages marked (User Query) and the PP- codes are the document's reports of an earlier brief it does not show; no passage of the document calls itself autobiographical, so nothing was skipped.
+
+- Kael
+- System Kael
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Juna/V
+- Juna
+- AEGIS
+- Kernwelten
+- Co₁
+- McL
+- Ly
+- Paradoxon X
+- Kohärenz Protokoll
+- Cache Kohärenz
+- PP-INT-01
+- PP-INT-02
+- PP-INT-03
+- PP-INT-04
+- PP-SYS-02
+- PP-SYS-03
+- PP-CCH-01
+- Erweitertes TSDP-Profil
+- Integrationsbedürfnisse/-hindernisse
+- Potenzieller Entwicklungsbogen
+- Matrix Interner Konflikte und Phobien
+- Haltung zur Integration
+
+## lens
+
+- TSDP
+- Strukturellen Dissoziation
+- ANP
+- EP
+- Anscheinend Normale Persönlichkeitsanteile
+- Emotionale Persönlichkeitsanteile
+- Alltags-Aktionssysteme
+- Verteidigungs-Aktionssysteme
+- Aktionssysteme
+- Primäre Strukturelle Dissoziation
+- Sekundäre Strukturelle Dissoziation
+- Tertiäre Strukturelle Dissoziation
+- negativen dissoziativen Symptomen
+- positiven dissoziativen Symptomen
+- dissoziative Barrieren
+- Phobien
+- Amnesie
+- Depersonalisation
+- Derealisation
+- Switching
+- Ko-Bewusstsein
+- Integration
+- Realisierung
+- Personifizierung
+- Präsentifizierung
+- Trigger
+- Täterintrojekt
+- Homöostase
+- IFS
+- Manager
+- Feuerbekämpfer
+- Verbannte
+- Selbst-Energie
+- Zeugenschaft
+- Koregulation
+- Bindungsruf
+- Erstarrung
+- Gatekeeperin

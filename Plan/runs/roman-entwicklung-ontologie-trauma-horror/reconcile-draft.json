@@ -1,0 +1,122 @@
+{
+  "document": "roman-entwicklung-ontologie-trauma-horror",
+  "drive_id": "15O1AQf7gvLkhtnz3h6o8xVGeiLyIm3gj9SCHx1enkhM",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 58,
+    "decisions": 56,
+    "decided_by_lookup": 54,
+    "needs_judgement": 2
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        39,
+        76,
+        100,
+        138,
+        146
+      ],
+      "attribution": "",
+      "note": "AEGIS as a borrowed statistical boundary and the macro-scale form of the protagonist's morning process"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        100,
+        146
+      ],
+      "attribution": "",
+      "note": "the alters as fragments held onto and deleted"
+    },
+    {
+      "page": "did",
+      "lines": [
+        63,
+        80,
+        96,
+        100
+      ],
+      "attribution": "",
+      "note": "waking with a dissociative identity structure, tested against an adversarial hypothesis"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        132,
+        142
+      ],
+      "attribution": "",
+      "note": "Juna outside the boundary-drawing"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        39,
+        138
+      ],
+      "attribution": "",
+      "note": "the simulation reading denied"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 53,
+      "decision": "occurrence",
+      "why": "a named writer's method of a system boundary, not the novel's wall"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 82,
+      "decision": "occurrence",
+      "why": "narrative coherence of the self in a neuroscience passage"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "cracks in reality in a named writer's fiction"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 39,
+      "decision": "reading",
+      "why": "AEGIS computes no simulation; read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

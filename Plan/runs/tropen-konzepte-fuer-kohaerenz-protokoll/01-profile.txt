@@ -1,0 +1,14 @@
+# tropen-konzepte-fuer-kohaerenz-protokoll
+  lines                357  (frontmatter ends at 9)
+  body words           7242
+  headings             2   bold-only lines 4
+  table rows           32   code fences 0
+  question marks       41
+  backslash escapes    118
+  typographic marks    102   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    26
+  repeated labels      none
+  longest line         2001 chars
+

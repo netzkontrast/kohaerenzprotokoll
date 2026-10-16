@@ -1,0 +1,251 @@
+{
+  "document": "monstergruppe-metapher-auf-mathematische-kohaerenz",
+  "drive_id": "1VlkHHyFC-wH9jOkaEMM691qXjFXoQfZqsTZE6wq1KM8",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 4
+  },
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 35,
+  "typographic_marks": 161,
+  "ascii_quotes": 3,
+  "inflection_families": {
+    "modul": [
+      "Modul",
+      "ModularFormsLecture",
+      "Modulfkt",
+      "Modulformen",
+      "Modulfunktion",
+      "Modulfunktionen",
+      "Modulfunktionskoeffizienten",
+      "Modulgruppe"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematisch",
+      "Mathematische",
+      "Mathematischer"
+    ],
+    "monst": [
+      "Monster",
+      "MonsterGroup",
+      "MonsterTalk",
+      "Monstergruppe",
+      "Monstergruppen",
+      "Monstrous"
+    ],
+    "quoti": [
+      "Quotient",
+      "Quotienten",
+      "Quotientenbildung",
+      "Quotientenbildungsschritts",
+      "Quotientengruppe",
+      "Quotientengruppen"
+    ],
+    "darst": [
+      "Darst",
+      "Darstellung",
+      "Darstellungen",
+      "Darstellungsdimensionen",
+      "Darstellungstheorie"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenhomomorphismen",
+      "Gruppenoperation",
+      "Gruppentheorie"
+    ],
+    "subst": [
+      "Substanz",
+      "Substrat",
+      "Substrats",
+      "Substruktur",
+      "Substrukturen"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "unter": [
+      "Untergruppe",
+      "Untergruppen",
+      "Untergruppenbeziehung",
+      "Unterscheidungen",
+      "Unterstruktur"
+    ],
+    "algeb": [
+      "ALGEBRAIC",
+      "Algebra",
+      "Algebraische",
+      "Algebren"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charaktertafel"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interne",
+      "Interpretation",
+      "Interpretationen"
+    ],
+    "zentr": [
+      "Zentralisator",
+      "Zentralisatoren",
+      "Zentralisierung",
+      "Zentrum"
+    ],
+    "alter": [
+      "Alternativ",
+      "Alternative",
+      "Alternativen"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysemethoden",
+      "Analysis"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekte",
+      "Aspekten"
+    ],
+    "baust": [
+      "Baustein",
+      "Bausteine",
+      "Bausteinen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlers"
+    ],
+    "kerne": [
+      "Kerne",
+      "Kerneigenschaft",
+      "Kerneigenschaften"
+    ],
+    "konju": [
+      "Konjugation",
+      "Konjugationsklasse",
+      "Konjugationsklassen"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorischen"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomens"
+    ],
+    "roman": [
+      "Romanentwurf",
+      "Romanprojekt",
+      "Romans"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Bausteinen"
+    ],
+    [
+      "Eine",
+      "Einerseits"
+    ],
+    [
+      "Eine",
+      "Verallgemeinerter"
+    ],
+    [
+      "Form",
+      "Modulformen"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Transformations"
+    ],
+    [
+      "Form",
+      "ModularFormsLecture"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Math",
+      "MathWorld"
+    ],
+    [
+      "Math",
+      "Mathematik"
+    ],
+    [
+      "Math",
+      "Mathematics"
+    ],
+    [
+      "Math",
+      "MathOverflow"
+    ],
+    [
+      "Math",
+      "Mathematical"
+    ],
+    [
+      "Math",
+      "Mathematisch"
+    ],
+    [
+      "Math",
+      "Mathematische"
+    ],
+    [
+      "Math",
+      "Mathematischer"
+    ]
+  ]
+}

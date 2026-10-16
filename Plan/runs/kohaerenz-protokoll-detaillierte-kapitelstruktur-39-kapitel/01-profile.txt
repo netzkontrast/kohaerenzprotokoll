@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel
+  lines                314  (frontmatter ends at 9)
+  body words           5934
+  headings             1   bold-only lines 19
+  table rows           0   code fences 0
+  question marks       18
+  backslash escapes    17
+  typographic marks    35   ascii quotes 34
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    46
+  repeated labels      none
+  longest line         1083 chars
+

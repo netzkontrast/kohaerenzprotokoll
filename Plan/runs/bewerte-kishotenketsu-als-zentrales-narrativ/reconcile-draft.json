@@ -1,0 +1,160 @@
+{
+  "document": "bewerte-kishotenketsu-als-zentrales-narrativ",
+  "drive_id": "1FzrHSnAGDJilrmu8eqIZzmk0CZJMKw_o156KfDRsLS0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 20,
+    "decisions": 22,
+    "decided_by_lookup": 16,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        28,
+        46,
+        62
+      ],
+      "attribution": "",
+      "note": "AEGIS in Ki, Ten and the strengths, in the evaluation's mapping"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        46,
+        73
+      ],
+      "attribution": "",
+      "note": "Juna/V in Ten and among the mysteries, in the evaluation's mapping"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        28,
+        55,
+        62
+      ],
+      "attribution": "",
+      "note": "Kael across Ki and Ketsu in the evaluation's mapping"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Kernwelten in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "named among Kael's inner parts in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        15,
+        19,
+        83,
+        85
+      ],
+      "attribution": "",
+      "note": "the form recommended as the novel's central frame"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "named among Kael's inner parts in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "funktionale Multiplizität as the Ketsu resolution, in the evaluation's mapping"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "named among Kael's inner parts in Shō, in the evaluation's mapping"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the Risse in Shō, in the evaluation's mapping"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 46,
+      "decision": "reading",
+      "why": "Ten: the Juna/V connection, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 46,
+      "decision": "occurrence",
+      "why": "generic level of reality in the Ten line, not the novel's levels"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 72,
+      "decision": "occurrence",
+      "why": "generic simulation in a list of tension sources, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

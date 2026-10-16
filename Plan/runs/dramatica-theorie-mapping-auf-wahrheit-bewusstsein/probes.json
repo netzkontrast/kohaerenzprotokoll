@@ -1,0 +1,284 @@
+{
+  "document": "dramatica-theorie-mapping-auf-wahrheit-bewusstsein",
+  "drive_id": "1W8O7VabpQz8TBOYj0qnx2idrPSqhaLgKAWk3YYDwgBI",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 81,
+  "backslash_escapes": 279,
+  "typographic_marks": 44,
+  "ascii_quotes": 154,
+  "inflection_families": {
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsansatz",
+      "Bewusstseinsarchitekturen",
+      "Bewusstseinsforschung",
+      "Bewusstseinsphänomen",
+      "Bewusstseinsstatus",
+      "Bewusstseinstheorie",
+      "Bewusstseinstheorien"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systementropie",
+      "Systemfeld",
+      "Systemgrenze",
+      "Systemgrenzen",
+      "Systemmechanik",
+      "Systems"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informations",
+      "Informationsintegration",
+      "Informationsphysik",
+      "Informationssystem",
+      "Informationstheorie",
+      "Informationsverlust"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheits",
+      "Wahrheitsfrage",
+      "Wahrheitsfähigkeit",
+      "Wahrheitskriterien",
+      "Wahrheitskriterium",
+      "Wahrheitstheorie",
+      "Wahrheitstheorien"
+    ],
+    "gegen": [
+      "Gegen",
+      "Gegenbeweisstück",
+      "Gegensatz",
+      "Gegenstück",
+      "Gegenstücke",
+      "Gegenüberstellungen"
+    ],
+    "probl": [
+      "Problem",
+      "Problemlösungsansatz",
+      "Problemlösungsprozess",
+      "Problemlösungsprozesses",
+      "Problems",
+      "Problemstellung"
+    ],
+    "relat": [
+      "Relation",
+      "Relational",
+      "Relationale",
+      "Relationalität",
+      "Relations",
+      "Relationship"
+    ],
+    "theor": [
+      "Theoretiker",
+      "Theoretikerin",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "chara": [
+      "Character",
+      "Characterizing",
+      "Characters",
+      "Charakter",
+      "Charaktere"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionsdynamik",
+      "Interface",
+      "Interpretationen",
+      "Intersubjektivität"
+    ],
+    "makro": [
+      "Makro",
+      "Makroebene",
+      "Makrophysik",
+      "Makrostruktur",
+      "Makrosystem"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorik",
+      "Metaphors",
+      "Metaphysik"
+    ],
+    "model": [
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modellierungen",
+      "Modells"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenales",
+      "Phänomenologie",
+      "Phänomenologisch",
+      "Phänomenologischer"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozesses",
+      "Prozessphilosophie",
+      "Prozessphilosophisch"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenmechanisch",
+      "Quantenwahrscheinlichkeiten",
+      "Quantitative",
+      "Quantum"
+    ],
+    "subje": [
+      "Subjective",
+      "Subjekt",
+      "Subjekte",
+      "Subjektiven",
+      "Subjekts"
+    ],
+    "synth": [
+      "Synthese",
+      "Synthesephase",
+      "Synthesis",
+      "Synthetische",
+      "Synthetischer"
+    ],
+    "verif": [
+      "Verification",
+      "Verifier",
+      "Verifikation",
+      "Verifikationsanfragen",
+      "Verifikationsinstanz"
+    ],
+    "überl": [
+      "Überladung",
+      "Überlebender",
+      "Überlebens",
+      "Überlebensakt",
+      "Überlebensparametern"
+    ],
+    "analy": [
+      "ANALYSIS",
+      "Analyse",
+      "Analyseinstanz",
+      "Analysis"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsdynamik",
+      "Beziehungsdynamiken"
+    ],
+    "durch": [
+      "Durch",
+      "Durchführung",
+      "Durchgangslinien",
+      "Durchläufe"
+    ],
+    "gesam": [
+      "Gesamtargumentation",
+      "Gesamtproblems",
+      "Gesamtsystem",
+      "Gesamtwahrheit"
+    ],
+    "haupt": [
+      "Hauptaspekte",
+      "Hauptbefund",
+      "Hauptfunktion",
+      "Hauptsystem"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Edge",
+      "Knowledge"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteinen"
+    ],
+    [
+      "Ende",
+      "Überlebender"
+    ],
+    [
+      "Ende",
+      "Konfligierende"
+    ],
+    [
+      "Ende",
+      "Transcendental"
+    ],
+    [
+      "Ende",
+      "Transzendentaler"
+    ],
+    [
+      "Fall",
+      "Verfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Feld",
+      "Systemfeld"
+    ],
+    [
+      "Flag",
+      "Flags"
+    ],
+    [
+      "Ford",
+      "Stanford"
+    ],
+    [
+      "Ford",
+      "Herausforderung"
+    ],
+    [
+      "Grad",
+      "Grade"
+    ]
+  ]
+}

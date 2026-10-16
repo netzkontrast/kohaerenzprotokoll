@@ -1,0 +1,599 @@
+{
+  "document": "aegis-philosophie-und-manifest-entwicklung",
+  "drive_id": "1lZIvvSGK2cTeD8HLFQgI_fVsRJGbLzTs1Gm_CjltM-s",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Realität ist das, was sich integriert"
+  ],
+  "counts": {
+    "AEGIS": {
+      "n": 34,
+      "n_including_compounds": 44,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        28,
+        32,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        48,
+        50,
+        52,
+        54,
+        56,
+        60,
+        62,
+        64,
+        82,
+        86,
+        118
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        54
+      ]
+    },
+    "Juna-Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Radikaler Verzicht auf Vertrauen und externe Validierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kohärenz als existenzielles und epistemisches Kriterium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Funktionalistische und wirkungsbasierte Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Emergenz durch Negation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        20,
+        40,
+        52,
+        56
+      ]
+    },
+    "Rekursive Selbstvalidierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        41
+      ]
+    },
+    "Operative Geschlossenheit und Autonomie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Entropie als Inkohärenz und Funktion als entropischer Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Nicht-Anthropomorphe Natur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        44
+      ]
+    },
+    "No-Trust": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        39,
+        42,
+        58
+      ]
+    },
+    "Externe Validierungsablehnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Entropischer Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "entropischer Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Operationale Geschlossenheit und Autonomie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Performative Natur der AEGIS-Ontologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Reifikation der Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Recursive Consistency Validation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "RCV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Reaktive Transparenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Herauslösung des Unwidersprüchlichen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "strukturelle Inkompatibilität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        54
+      ]
+    },
+    "Strukturelle Inkompatibilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "blinden Flecken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Blinde Flecken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        41
+      ]
+    },
+    "Negentropie-Hypothese": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        43,
+        52
+      ]
+    },
+    "State-Exchange": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kohärenz": {
+      "n": 34,
+      "n_including_compounds": 38,
+      "lines": [
+        17,
+        18,
+        23,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        66,
+        90,
+        100,
+        110,
+        114
+      ]
+    },
+    "Inkohärenz": {
+      "n": 20,
+      "n_including_compounds": 22,
+      "lines": [
+        20,
+        23,
+        38,
+        40,
+        43,
+        52,
+        56,
+        58,
+        72,
+        94,
+        102,
+        108,
+        112,
+        118
+      ]
+    },
+    "Entropie": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        23,
+        38,
+        40,
+        43,
+        56,
+        58,
+        72,
+        108
+      ]
+    },
+    "Torwächter": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        43,
+        108
+      ]
+    },
+    "Vertrauen": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        37,
+        44,
+        67,
+        92
+      ]
+    },
+    "Verifikation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        92
+      ]
+    },
+    "Rekursion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        67,
+        92
+      ]
+    },
+    "Autonomie": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        22,
+        42,
+        44,
+        54,
+        60,
+        73,
+        102,
+        118
+      ]
+    },
+    "Autarkie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        102
+      ]
+    },
+    "Persistenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        75,
+        108
+      ]
+    },
+    "Kontamination": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        102
+      ]
+    },
+    "Bollwerk": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        108
+      ]
+    },
+    "Nicht-Existenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        69,
+        100
+      ]
+    },
+    "Nicht-Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        112
+      ]
+    },
+    "Binnenperspektive": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        60
+      ]
+    },
+    "Selbstbezug": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19
+      ]
+    },
+    "Kohärenzkriterien": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        52,
+        100
+      ]
+    },
+    "AEGIS-Philosophie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        60,
+        62
+      ]
+    },
+    "AEGIS-Manifest": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        82
+      ]
+    },
+    "AEGIS-Ursprungsphilosophie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Präambel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Fundamentale Axiome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Operative Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Natur und Zweck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Beziehung zur Nicht-Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Schlussfolgerung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Existenz ist Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        90
+      ]
+    },
+    "Verifikation ist Existenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        92
+      ]
+    },
+    "Rekursion ist Beweis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        92
+      ]
+    },
+    "Das System validiert das System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        98
+      ]
+    },
+    "Wirkung ist das einzige Maß der Präsenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        112
+      ]
+    },
+    "Zweck ist Persistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        108
+      ]
+    },
+    "Inkompatibilität ist Nicht-Existenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69,
+        100
+      ]
+    },
+    "Gültigkeit ist intern": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        86,
+        102
+      ]
+    },
+    "Gödel'sche Unvollständigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Gödel-Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Tautologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    }
+  }
+}

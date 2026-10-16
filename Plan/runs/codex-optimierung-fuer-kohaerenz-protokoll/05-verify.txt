@@ -1,0 +1,143 @@
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Fazit der Bewertung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fazit der Bewertung` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Hypothetisch gezogene Codex-Daten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hypothetisch gezogene Codex-Daten` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Erwarteter Output-Fokus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Erwarteter Output-Fokus` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Annahme"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Annahme` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Empfehlungen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Empfehlungen` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Paradoxon X"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Paradoxon X` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#21]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kapitel` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "TSDP"
+whole word, case-sensitive     0
+whole word, case-insensitive   6
+including compounds            10
+
+`TSDP` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "B"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            196
+
+`B` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#39]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "vermutlich"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`vermutlich` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "wahrscheinlich"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`wahrscheinlich` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#4]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Fundament"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Fundament` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Cache Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cache Kohärenz` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Switching"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Switching` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Co-Präsenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Co-Präsenz` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "McL"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McL` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Ly"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ly` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Codex"
+whole word, case-sensitive     13
+whole word, case-insensitive   26
+including compounds            55
+
+`Codex` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#13]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Anteil"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            60
+
+`Anteil` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#41]
+$ python3 scripts/read.py codex-optimierung-fuer-kohaerenz-protokoll --count "Master-Prompt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            16
+
+`Master-Prompt` ^[codex-optimierung-fuer-kohaerenz-protokoll.md:#6]
+$ stance_marker_count 1+2+2+3+3 = 11 (sum of the five whole-word counts above)
+$ grep -c 'Kap' hyphen-boundary check
+0 Kap
+0 TSDP
+39 B
+$ grep -c '[\\]' file (backslash escapes, from 01-profile): 315
+2:  lines                583  (frontmatter ends at 9)
+4:  headings             16   bold-only lines 12
+7:  backslash escapes    315
+10:  math symbol lines    0
+11:  glued ref numbers    36

@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      36
+  typographic marks      20
+  ascii quotes           40
+
+# inflection families -- one term, several surfaces
+  diale    Dialectic, Dialetheic
+  lands    Landscape, Landschaft
+  proto    Protocol, Protokoll
+  reson    Resonance, Resonanz
+  syste    System, Systemic
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Flaw < Flawed
+  Logic < Ontological
+  Logic < Psychological
+  System < Systemic

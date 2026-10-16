@@ -1,0 +1,73 @@
+# counts for 40 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                9 word     9 in   [11, 13, 15, 73, 75, 85]
+  KP                               23 word    30 in   [15, 16, 17, 26, 59, 70]
+  AEGIS                            36 word    36 in   [16, 38, 93, 103, 122, 132]
+  Wächter-KI                        1 word     1 in   [16]
+  Simulation                       54 word    59 in   [16, 26, 59, 71, 93, 94]
+                                    1      as Simulations-Schnittstelle
+                                    1      as Simulationsstruktur
+                                    1      as Simulationsebene
+                                    1      as Simulationsgrenze
+  Potentialmeer                    22 word    29 in   [16, 59, 93, 94, 103, 104]
+                                    3      as Potentialmeers
+                                    1      as Potentialmeer-Grenze
+                                    1      as Potentialmeer-Einflüsse
+                                    1      as Potentialmeer-Interface
+  Monstergruppe                     2 word     2 in   [16, 161]
+  M                                63 word   169 in   [15, 16, 17, 26, 35, 42]  <-- substring
+  Risse                            13 word    14 in   [16, 104, 110, 146, 147, 193]
+                                    1      as Rissen
+  K-J Verbindung                   17 word    18 in   [16, 95, 123, 149, 161, 171]
+  Moonshine-Signatur                1 word     1 in   [95]
+  Moonshine                         5 word     7 in   [95, 161, 171, 180, 191]
+                                    1      as Moonshine-Signatur
+                                    1      as Moonshine-Algebraischen
+  Kernwelten                        3 word     3 in   [114, 150]
+  NZT-Ideal                         1 word     1 in   [16]
+  Grenze                           46 word    90 in   [16, 21, 25, 26, 27, 36]
+                                   19      as Grenzen
+  Informationsüberlauf              4 word     4 in   [108, 147, 193, 224]
+  Projektionsfehler                 5 word     5 in   [109, 147, 193, 220, 225]
+  Granularitätseffekte              4 word     4 in   [110, 124, 147, 193]
+  Kosmischer Horror                 2 word     2 in   [135, 257]
+  Holographisches Prinzip           2 word     2 in   [188, 299]
+  Holographischen Prinzips          9 word     9 in   [11, 15, 56, 75, 87, 154]
+  HP                               36 word    36 in   [15, 17, 26, 35, 38, 67]
+  AdS/CFT                          23 word    37 in   [42, 47, 56, 57, 59, 70]
+                                    8      as AdS/CFT-Korrespondenz
+                                    2      as AdS/CFT-Analogie
+                                    1      as AdS/CFT-Mechanismus
+                                    1      as AdS/CFT-Konsistenz
+  Bekenstein-Grenze                24 word    24 in   [36, 38, 67, 69, 77, 103]
+  Bulk                             35 word    47 in   [51, 56, 71, 78, 79, 83]
+                                    3      as Bulks
+                                    2      as Bulk-Physik
+                                    1      as Bulk-AdS-Raum
+                                    1      as Bulk-Information
+  Boundary                         23 word    66 in   [25, 52, 78, 79, 83, 93]  <-- substring
+                                   15      as Boundary-Theorie
+                                    6      as Boundary-Korrelationen
+                                    5      as Boundary-CFT
+                                    1      as Boundary-Beschreiber
+  Boundary-Theorie                 15 word    15 in   [83, 103, 114, 148, 160, 161]
+  Hologramm                         7 word    10 in   [25, 27, 56, 145, 147, 150]
+                                    1      as Hologrammen
+                                    1      as Hologramms
+  ER=EPR                            4 word     5 in   [71, 123, 149, 191, 245]
+                                    1      as ER=EPR-Analogie
+  Verschränkungsentropie            3 word     3 in   [71, 83]
+  Informationsparadoxon             2 word     3 in   [35, 38, 81]
+                                    1      as Informationsparadoxons
+  Stark-Schwach-Dualität            3 word     3 in   [57, 205]
+  Quantenschaum                     1 word     1 in   [110]
+  Pixelierung                       6 word     8 in   [69, 82, 110, 220, 226, 257]
+  Raumzeit-Granularität             4 word     4 in   [69, 70, 82, 226]
+  Holographisches Rauschen          1 word     1 in   [70]
+  Konforme Feldtheorie              1 word     2 in   [47, 52]
+  Vertex-Operator-Algebren          1 word     1 in   [16]
+  VOA                               8 word    11 in   [94, 148, 152, 154, 160, 161]
+  CFT                              33 word    62 in   [42, 47, 52, 56, 57, 58]

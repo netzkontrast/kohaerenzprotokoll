@@ -1,0 +1,85 @@
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Prämisse"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Setting"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Genre-Mix"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Kernthemen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Kapitel-Themen-Entwurf"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Kapitel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Klimax"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Moonshine"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            5
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Cache Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Zellularautomaten-Analogie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Quantenschaum-Analogie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "final"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Status"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "Lock"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "locked"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --count "verbindlich"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+stance_marker_count 5 = Prämisse 1 + Setting 1 + Genre-Mix 1 + Kernthemen 1 + Kapitel-Themen-Entwurf 1 (whole word)
+Part entry lines: part1 L36-L45 = 10 entries; part2 L49-L63 = 15; part3 L67-L80 = 14 (read.py listing above)
+$ python3 scripts/read.py angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere --from 36 --to 80 | grep -cE '^ *[0-9]+\|  *[0-9]+\.'
+39

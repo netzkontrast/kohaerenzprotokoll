@@ -1,0 +1,14 @@
+# fragen-zu-existenz-agency-und-realitaet
+  lines                309  (frontmatter ends at 9)
+  body words           3970
+  headings             20   bold-only lines 1
+  table rows           16   code fences 0
+  question marks       15
+  backslash escapes    21
+  typographic marks    44   ascii quotes 350
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    79
+  repeated labels      none
+  longest line         632 chars
+

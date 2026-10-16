@@ -1,0 +1,68 @@
+# numbers stated in the note and census, each from read.py --count (whole word, case-sensitive)
+$ read.py --count "Previous Conception"
+whole word, case-sensitive     1
+`Previous Conception` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "New Directive"
+whole word, case-sensitive     1
+`New Directive` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "global directive"
+whole word, case-sensitive     1
+`global directive` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "Call to Wholeness"
+whole word, case-sensitive     4
+`Call to Wholeness` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#4]
+$ read.py --count "Exilant"
+whole word, case-sensitive     1
+`Exilant` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "Genesis-Krise"
+whole word, case-sensitive     1
+`Genesis-Krise` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "Herold"
+whole word, case-sensitive     2
+`Herold` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#2]
+$ read.py --count "Manager"
+whole word, case-sensitive     2
+`Manager` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#2]
+$ read.py --count "Gedächtnislücken"
+whole word, case-sensitive     1
+`Gedächtnislücken` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "Moonshine-Link"
+whole word, case-sensitive     4
+`Moonshine-Link` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#4]
+$ read.py --count "uncorrelated system noise"
+whole word, case-sensitive     1
+`uncorrelated system noise` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "gnosis"
+whole word, case-sensitive     1
+`gnosis` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "episteme"
+whole word, case-sensitive     1
+`episteme` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "ER=EPR conjecture"
+whole word, case-sensitive     2
+`ER=EPR conjecture` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#2]
+$ read.py --count "Prehension"
+whole word, case-sensitive     2
+`Prehension` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#2]
+$ read.py --count "The Foundation"
+whole word, case-sensitive     3
+`The Foundation` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#3]
+$ read.py --count "Paraiyas"
+whole word, case-sensitive     2
+`Paraiyas` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#2]
+$ read.py --count "algorithmic melancholy"
+whole word, case-sensitive     1
+`algorithmic melancholy` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#1]
+$ read.py --count "Victory Through Wholeness"
+whole word, case-sensitive     2
+`Victory Through Wholeness` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#2]
+$ read.py --count "chapter"
+whole word, case-sensitive     0
+`chapter` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+`Kap` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+`Kapitel` ^[report-reorienting-the-central-conflict-as-a-call-to-wholene.md:#0]
+# stance_marker_count 3 = 1+1+1 (Previous Conception, New Directive, global directive); profile: question marks 0, backslash escapes 12, candidates 44

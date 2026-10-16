@@ -1,0 +1,66 @@
+# counts for 52 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Gravitations-Theorie der Wahrheit    5 word     5 in   [13, 23, 58, 279, 340]
+  Schwarzschild-Protokoll           2 word     3 in   [27, 135, 346]
+                                    1      as Schwarzschild-Protokolls
+  Station Aletheia                  1 word     1 in   [147]
+  Das Archiv                        5 word     5 in   [143, 147, 149, 301, 325]
+  Kurator                           4 word     7 in   [143, 149, 169, 175, 185, 223]
+                                    2      as Kurators
+                                    1      as Kuratorin
+  Elara Vance                       2 word     2 in   [151, 269]
+  Archivarin                        1 word     1 in   [151]
+  K-Probe                           1 word     1 in   [159]
+  Primär-Datum                      5 word     7 in   [155, 159, 173, 183, 195, 205]
+                                    2      as Primär-Datums
+  Raw-Data-Packet                   1 word     1 in   [159]
+  Kohärente Lüge                    2 word     2 in   [149, 301]
+  Schwebende Kohärenz               1 word     1 in   [31]
+  Schwere Korrespondenz             1 word     1 in   [31]
+  Korrespondenz ist Gravitation     1 word     1 in   [58]
+  Das Große Faktum                  1 word     1 in   [54]
+  Großen Faktum                     2 word     2 in   [23, 85]
+  Autopoietische Orbit              1 word     1 in   [39]
+  Metrische Tensor der Wahrheit     2 word     2 in   [77, 84]
+  Metrische Tensor der Lüge         1 word     1 in   [83]
+  Gezeitenkräfte                    5 word     6 in   [25, 85, 97, 327, 329]
+                                    1      as Gezeitenkräften
+  Gezeitenkraft                     1 word     1 in   [209]
+  Spaghettisierung                  7 word     7 in   [27, 97, 101, 201, 302, 328]
+  Ereignishorizont                  6 word     6 in   [64, 72, 159, 239, 269, 312]
+  Singularität                      6 word     6 in   [72, 147, 161, 243, 265, 327]
+  Resonanzkatastrophe               3 word     3 in   [25, 249, 330]
+  Ontologische Lag                  1 word     1 in   [189]
+  Lag                               3 word     3 in   [111, 117, 189]
+  Glitch                            7 word     9 in   [27, 93, 111, 118, 119, 294]
+                                    1      as Glitch-Art
+                                    1      as Glitches
+                                    1      as glitchten
+                                    1      as glitcht
+  Texture Stretching                2 word     2 in   [118, 332]
+  Z-Fighting                        2 word     2 in   [215, 332]
+  Tunnelblick                       3 word     3 in   [129, 219]
+  Greyout                           4 word     4 in   [129, 219, 225]
+  G-LOC                             4 word     4 in   [27, 123, 130, 379]
+  Geasles                           2 word     2 in   [131]
+  Hitzeschild                       1 word     1 in   [47]
+  Gravitatives Rendering            1 word     1 in   [301]
+  Skybox                            1 word     1 in   [301]
+  Drahtgittermodell                 2 word     2 in   [119, 215]
+  Kollisionsabfrage                 1 word     1 in   [193]
+  Systemsprenger                    1 word     1 in   [283]
+  Verifizierung                     1 word     1 in   [151]
+  Konstatierungen                   7 word     9 in   [64, 68, 70, 72, 310, 365]
+  Protokollsätzen                   1 word     1 in   [70]
+  Schwerelosigkeit                  6 word     6 in   [25, 39, 43, 45, 151, 327]
+  Kohärenztheorie                   4 word     4 in   [23, 43, 325]
+  Korrespondenztheorie              4 word     4 in   [23, 58, 325]
+  Autopoiesis                       1 word     1 in   [331]
+  Operative Geschlossenheit         1 word     1 in   [47]
+  Strukturelle Kopplung             1 word     1 in   [331]
+  strukturell gekoppelt             1 word     1 in   [48]
+  Simulationstheorie                1 word     1 in   [111]
+  Allgemeine Relativitätstheorie    1 word     1 in   [81]

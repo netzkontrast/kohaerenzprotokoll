@@ -1,0 +1,294 @@
+{
+  "document": "aegis-und-der-kollaps-kritische-analyse",
+  "drive_id": "12MzhGKEHKI5u4NC7fagT1S8cazw3LIsLEFR9MKPYINE",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 81,
+    "decisions": 82,
+    "decided_by_lookup": 69,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        73,
+        127
+      ],
+      "attribution": "",
+      "note": "Zero-Trust as the paradigm it says AEGIS must keep"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        19,
+        38,
+        42,
+        48,
+        50,
+        71,
+        103,
+        151,
+        160
+      ],
+      "attribution": "",
+      "note": "AEGIS reassigned from the Kohärenz-Kernel to the collapse side, argued as a proof"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        145
+      ],
+      "attribution": "",
+      "note": "the dictator algorithm's crash after the Gödel-Gambit"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        17,
+        23
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel-Theorie as the physical base of the framework it criticises"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        81,
+        83,
+        145
+      ],
+      "attribution": "",
+      "note": "the climax in which Kael breaks AEGIS' verification loop"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        127
+      ],
+      "attribution": "",
+      "note": "Juna/V named beside the player as a source of external input"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        81,
+        91,
+        105,
+        143,
+        145
+      ],
+      "attribution": "",
+      "note": "Kael as eleven subsystems, a living dialetheia and the one who integrates"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        63,
+        103
+      ],
+      "attribution": "",
+      "note": "the Kernwelt AEGIS aims at, and the worlds it claims to keep clean"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Kiko among the Emotional Parts AEGIS treats as instability"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        17,
+        25,
+        151
+      ],
+      "attribution": "",
+      "note": "the kernel AEGIS is assigned to in the canonical interpretation"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        19,
+        27,
+        38,
+        42,
+        160
+      ],
+      "attribution": "",
+      "note": "the collapse kernel as AEGIS' true domain"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        95,
+        103
+      ],
+      "attribution": "",
+      "note": "Lex as AEGIS' micro-level mirror"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Lia among the Emotional Parts AEGIS would delete"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        129
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as the way around AEGIS' censorship"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        101,
+        103,
+        105,
+        158
+      ],
+      "attribution": "",
+      "note": "Moros as the result of AEGIS' suppression, not of inner weakness"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        65,
+        147
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz as the critical boundary and the one true coherence"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "functional multiplicity at the Gödel-Gambit"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        17,
+        143
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the entropy that is necessary"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "Nyx as pure fighting instinct among the Emotional Parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        143
+      ],
+      "attribution": "",
+      "note": "architectural cracks as AEGIS' correction attempts"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        89,
+        95
+      ],
+      "attribution": "",
+      "note": "the TSDP as the psychological ground of the argument"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "dkt",
+      "surface": "Dual-Kernel-Theorie (DKT)",
+      "line": 17,
+      "decision": "reading",
+      "why": "the theory synthesised with Orch-OR and the Drama-Engine"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "a general sentence; the entropic domain read on kollaps-kernel"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 127,
+      "decision": "reading",
+      "why": "Juna in the Player Dilemma passage, if characterised"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 81,
+      "decision": "reading",
+      "why": "functional multiplicity at the Gödel-Gambit"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 143,
+      "decision": "reading",
+      "why": "Risse in Phase I, if placed"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 48,
+      "decision": "occurrence",
+      "why": "a simulation in general, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

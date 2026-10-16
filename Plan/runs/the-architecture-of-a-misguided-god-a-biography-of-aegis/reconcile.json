@@ -1,0 +1,172 @@
+{
+  "document": "the-architecture-of-a-misguided-god-a-biography-of-aegis",
+  "drive_id": "1TwsXLVL_SPQTYVa1hqdUYIjtJmRl3GOoa2h7J-PYuKk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-370/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 39,
+    "decisions": 38,
+    "decided_by_lookup": 30,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English interpretive biography of AEGIS: its new surfaces are its own labels and borrowed logic; what it says of AEGIS, its protocols, its genesis from the Nichts Rauschen, Kael as Komponente 734, the Risse, the Guardians, the Gödel-Gambit with Juna and the Moonshine-Link, and algorithmic melancholy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        39,
+        40,
+        41
+      ],
+      "attribution": "",
+      "note": "three guiding principles with their protocols"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        21,
+        27,
+        29,
+        39,
+        45,
+        63,
+        79,
+        95
+      ],
+      "attribution": "",
+      "note": "AEGIS as a misguided god born from the Nichts Rauschen"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "the transformed state as algorithmic melancholy"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        15,
+        17,
+        21
+      ],
+      "attribution": "",
+      "note": "the genesis of order, bound to primordial chaos"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        71,
+        75
+      ],
+      "attribution": "",
+      "note": "the final confrontation as an epistemological checkmate"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Guardians building and deconstructing the same wall"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        75
+      ],
+      "attribution": "",
+      "note": "Juna assists the presentation of the living refutation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        45,
+        53,
+        75
+      ],
+      "attribution": "",
+      "note": "Kael as Komponente 734 and a living Gödel-Satz for AEGIS"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "AEGIS's classification of Kael"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        75
+      ],
+      "attribution": "",
+      "note": "the channel for presenting the living refutation"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        21,
+        25
+      ],
+      "attribution": "",
+      "note": "AEGIS born from the Nothingness Noise"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        67,
+        91
+      ],
+      "attribution": "",
+      "note": "the Risse as the paradoxical result of control"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Autonomous Entropic Gatekeeper for Integrity Systems` and `Classical Logic Rigidity` read on aegis; `Zero-Trust Execution Model`, `Cognitive Firewall & SIS Protocol` and `RIVE` read on aegis-teilfunktionen; `Komponente` the first word of Komponente 734, read on komponente-734",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "reading",
+      "why": "the section on AEGIS's genesis, read on the page"
+    },
+    {
+      "page": "komponente-734",
+      "surface": "Komponente 734",
+      "line": 53,
+      "decision": "reading",
+      "why": "AEGIS's classification of Kael, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "PRESERVE SYSTEM EXISTENCE, systemic paranoia, the three pillars as labels, Hybrid Cognitive Architecture, D2, inefficient beauty, Zombie-System, contemplative paralysis, the blind spots",
+    "the borrowed concepts (classical, discursive and paraconsistent logic, the Principle of Explosion, autopoiesis, gnosis)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

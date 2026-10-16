@@ -1,0 +1,193 @@
+{
+  "document": "kapitel-17",
+  "drive_id": "1Nz3mpGbtIiuqN0GV-yMgW4psw52dqZWqOBSKc1rSTPw",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 14,
+  "backslash_escapes": 0,
+  "typographic_marks": 5,
+  "ascii_quotes": 10,
+  "inflection_families": {
+    "alter": [
+      "Alter",
+      "Alternativ",
+      "Alternative",
+      "Alters"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenkonstrukten",
+      "Schattenlabyrinth",
+      "Schattenlabyrinths"
+    ],
+    "syste": [
+      "System",
+      "Systemeingriff",
+      "Systemische",
+      "Systems"
+    ],
+    "angri": [
+      "Angriffe",
+      "Angriffs",
+      "Angriffsmuster"
+    ],
+    "fluch": [
+      "Flucht",
+      "Fluchtpunkt",
+      "Fluchtwegen"
+    ],
+    "momen": [
+      "Moment",
+      "Momente",
+      "Momenten"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrdrohnen"
+    ],
+    "antei": [
+      "Anteile",
+      "Anteilen"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungstypen"
+    ],
+    "berei": [
+      "Bereitet",
+      "Bereitschaft"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschuss"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusster"
+    ],
+    "diese": [
+      "Diese",
+      "Dieses"
+    ],
+    "direk": [
+      "Direkte",
+      "Direktive"
+    ],
+    "falle": [
+      "Falle",
+      "Fallen"
+    ],
+    "hilfe": [
+      "Hilfe",
+      "Hilferuf"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelende"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzraum"
+    ],
+    "unter": [
+      "Unterstützung",
+      "Unterwerfung"
+    ],
+    "verst": [
+      "Versteck",
+      "Verstecks"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungsprotokoll"
+    ],
+    "überl": [
+      "Überleben",
+      "Überlebensinstinkte"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "List",
+      "Liste"
+    ],
+    [
+      "Plan",
+      "Plans"
+    ],
+    [
+      "Plan",
+      "Planung"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Anteilen"
+    ],
+    [
+      "Teil",
+      "Lagebeurteilung"
+    ],
+    [
+      "Ziel",
+      "Zielobjekt"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Alter",
+      "Alternativ"
+    ],
+    [
+      "Alter",
+      "Alternative"
+    ],
+    [
+      "Diese",
+      "Dieses"
+    ],
+    [
+      "Falle",
+      "Fallen"
+    ],
+    [
+      "Hilfe",
+      "Hilferuf"
+    ],
+    [
+      "Punkt",
+      "Fluchtpunkt"
+    ],
+    [
+      "Teile",
+      "Anteile"
+    ],
+    [
+      "Teile",
+      "Anteilen"
+    ],
+    [
+      "Abwehr",
+      "Abwehrdrohnen"
+    ],
+    [
+      "Flucht",
+      "Zuflucht"
+    ]
+  ]
+}

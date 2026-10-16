@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "hitze-polaritaetsregel",
+ "title": "Hitze-Polaritätsregel",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "kaltes Ozon als Löschzeichen",
+  "Wärme als Bindungsspur",
+  "Unterschied zwischen Temperatur und Bedeutungszuordnung",
+  "Konflikte der sensorischen Zuordnung",
+  "verlässliche Wiederkehr ohne schematische Symbolik"
+ ],
+ "basis": {
+  "hitze-polaritaetsregel": {
+   "title": "Hitze-Polaritätsregel",
+   "path": "Wiki/candidates/hitze-polaritaetsregel.md",
+   "hash": "05425c17e06d24db35e071eb605a12e86c8515b4051328eadc7098553d7bf82c"
+  },
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "telefon-stille": {
+   "title": "Telefon-Stille",
+   "path": "Wiki/candidates/telefon-stille.md",
+   "hash": "eea87db998d97386ed45f456cbde8ca82d736541d8d113e8cf40e650c546ffcb"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-hitze-polaritaetsregel-001",
+   "question": "Wie bleibt kaltes Ozon ein eindeutiges Löschzeichen, wenn irreversible Löschung zugleich reale Wärme produziert?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-002",
+   "question": "Welche Lesarten auf der Seite zu Hitze-Polaritätsregel stützen oder begrenzen „kaltes Ozon als Löschzeichen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-003",
+   "question": "Welcher Grenzfall würde bei Hitze-Polaritätsregel die Annahmen über „kaltes Ozon als Löschzeichen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-004",
+   "question": "Wer könnte innerhalb des Romans bei Hitze-Polaritätsregel etwas über „kaltes Ozon als Löschzeichen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-005",
+   "question": "Welche konkrete Entscheidung könnte „kaltes Ozon als Löschzeichen“ bei Hitze-Polaritätsregel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „kaltes Ozon als Löschzeichen“ bei Hitze-Polaritätsregel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-007",
+   "question": "Wie lässt sich „kaltes Ozon als Löschzeichen“ bei Hitze-Polaritätsregel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-008",
+   "question": "Welche Alternativen sollte der Autor bei Hitze-Polaritätsregel für „kaltes Ozon als Löschzeichen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-009",
+   "question": "Was bedeutet bei Hitze-Polaritätsregel der Themenpunkt „Wärme als Bindungsspur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-010",
+   "question": "Welche Lesarten auf der Seite zu Hitze-Polaritätsregel stützen oder begrenzen „Wärme als Bindungsspur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-011",
+   "question": "Welcher Grenzfall würde bei Hitze-Polaritätsregel die Annahmen über „Wärme als Bindungsspur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-012",
+   "question": "Wer könnte innerhalb des Romans bei Hitze-Polaritätsregel etwas über „Wärme als Bindungsspur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-013",
+   "question": "Welche konkrete Entscheidung könnte „Wärme als Bindungsspur“ bei Hitze-Polaritätsregel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wärme als Bindungsspur“ bei Hitze-Polaritätsregel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-015",
+   "question": "Wie lässt sich „Wärme als Bindungsspur“ bei Hitze-Polaritätsregel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-016",
+   "question": "Welche Alternativen sollte der Autor bei Hitze-Polaritätsregel für „Wärme als Bindungsspur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-017",
+   "question": "Was bedeutet bei Hitze-Polaritätsregel der Themenpunkt „Unterschied zwischen Temperatur und Bedeutungszuordnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-018",
+   "question": "Welche Lesarten auf der Seite zu Hitze-Polaritätsregel stützen oder begrenzen „Unterschied zwischen Temperatur und Bedeutungszuordnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-019",
+   "question": "Welcher Grenzfall würde bei Hitze-Polaritätsregel die Annahmen über „Unterschied zwischen Temperatur und Bedeutungszuordnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-020",
+   "question": "Wer könnte innerhalb des Romans bei Hitze-Polaritätsregel etwas über „Unterschied zwischen Temperatur und Bedeutungszuordnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Temperatur und Bedeutungszuordnung“ bei Hitze-Polaritätsregel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Temperatur und Bedeutungszuordnung“ bei Hitze-Polaritätsregel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-023",
+   "question": "Wie lässt sich „Unterschied zwischen Temperatur und Bedeutungszuordnung“ bei Hitze-Polaritätsregel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-024",
+   "question": "Welche Alternativen sollte der Autor bei Hitze-Polaritätsregel für „Unterschied zwischen Temperatur und Bedeutungszuordnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-025",
+   "question": "Was bedeutet bei Hitze-Polaritätsregel der Themenpunkt „Konflikte der sensorischen Zuordnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-026",
+   "question": "Welche Lesarten auf der Seite zu Hitze-Polaritätsregel stützen oder begrenzen „Konflikte der sensorischen Zuordnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-027",
+   "question": "Welcher Grenzfall würde bei Hitze-Polaritätsregel die Annahmen über „Konflikte der sensorischen Zuordnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-028",
+   "question": "Wer könnte innerhalb des Romans bei Hitze-Polaritätsregel etwas über „Konflikte der sensorischen Zuordnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-029",
+   "question": "Welche konkrete Entscheidung könnte „Konflikte der sensorischen Zuordnung“ bei Hitze-Polaritätsregel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Konflikte der sensorischen Zuordnung“ bei Hitze-Polaritätsregel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-031",
+   "question": "Wie lässt sich „Konflikte der sensorischen Zuordnung“ bei Hitze-Polaritätsregel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-032",
+   "question": "Welche Alternativen sollte der Autor bei Hitze-Polaritätsregel für „Konflikte der sensorischen Zuordnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-033",
+   "question": "Was bedeutet bei Hitze-Polaritätsregel der Themenpunkt „verlässliche Wiederkehr ohne schematische Symbolik“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-034",
+   "question": "Welche Lesarten auf der Seite zu Hitze-Polaritätsregel stützen oder begrenzen „verlässliche Wiederkehr ohne schematische Symbolik“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-035",
+   "question": "Welcher Grenzfall würde bei Hitze-Polaritätsregel die Annahmen über „verlässliche Wiederkehr ohne schematische Symbolik“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-036",
+   "question": "Wer könnte innerhalb des Romans bei Hitze-Polaritätsregel etwas über „verlässliche Wiederkehr ohne schematische Symbolik“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-037",
+   "question": "Welche konkrete Entscheidung könnte „verlässliche Wiederkehr ohne schematische Symbolik“ bei Hitze-Polaritätsregel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „verlässliche Wiederkehr ohne schematische Symbolik“ bei Hitze-Polaritätsregel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-039",
+   "question": "Wie lässt sich „verlässliche Wiederkehr ohne schematische Symbolik“ bei Hitze-Polaritätsregel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-040",
+   "question": "Welche Alternativen sollte der Autor bei Hitze-Polaritätsregel für „verlässliche Wiederkehr ohne schematische Symbolik“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-041",
+   "question": "Wo unterscheiden sich Hitze-Polaritätsregel und Landauer-Signatur, wenn man sie unter dem Gesichtspunkt „kaltes Ozon als Löschzeichen“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-042",
+   "question": "Welche Quelle verbindet Hitze-Polaritätsregel mit Landauer-Signatur in Bezug auf „kaltes Ozon als Löschzeichen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-043",
+   "question": "Welche Grenzen aus der Seite zu Landauer-Signatur müsste eine Deutung von Hitze-Polaritätsregel unter „kaltes Ozon als Löschzeichen“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-044",
+   "question": "Wie könnte sich das Wissen über Hitze-Polaritätsregel vom Wissen über Landauer-Signatur unterscheiden, wenn „kaltes Ozon als Löschzeichen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Hitze-Polaritätsregel und Landauer-Signatur bei „kaltes Ozon als Löschzeichen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-046",
+   "question": "Falls Hitze-Polaritätsregel im Hinblick auf „kaltes Ozon als Löschzeichen“ anders festgelegt wird: Welche Aussagen über Landauer-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Hitze-Polaritätsregel und Landauer-Signatur bei „kaltes Ozon als Löschzeichen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-048",
+   "question": "Braucht der Roman eine Verbindung von Hitze-Polaritätsregel und Landauer-Signatur bei „kaltes Ozon als Löschzeichen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-049",
+   "question": "In welchem denkbaren Fall könnte Hitze-Polaritätsregel bestehen, ohne dass Landauer-Signatur dieselbe Funktion übernimmt, und was würde das für „kaltes Ozon als Löschzeichen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-050",
+   "question": "Welche Kosten könnte eine Verbindung von Hitze-Polaritätsregel und Landauer-Signatur in Bezug auf „kaltes Ozon als Löschzeichen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-051",
+   "question": "Welche ältere Lesart von Hitze-Polaritätsregel oder Landauer-Signatur könnte die Gegenüberstellung unter „kaltes Ozon als Löschzeichen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Hitze-Polaritätsregel und Landauer-Signatur unter „kaltes Ozon als Löschzeichen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-053",
+   "question": "Wo unterscheiden sich Hitze-Polaritätsregel und Juna, wenn man sie unter dem Gesichtspunkt „Wärme als Bindungsspur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-054",
+   "question": "Welche Quelle verbindet Hitze-Polaritätsregel mit Juna in Bezug auf „Wärme als Bindungsspur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-055",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Hitze-Polaritätsregel unter „Wärme als Bindungsspur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-056",
+   "question": "Wie könnte sich das Wissen über Hitze-Polaritätsregel vom Wissen über Juna unterscheiden, wenn „Wärme als Bindungsspur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Hitze-Polaritätsregel und Juna bei „Wärme als Bindungsspur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-058",
+   "question": "Falls Hitze-Polaritätsregel im Hinblick auf „Wärme als Bindungsspur“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Hitze-Polaritätsregel und Juna bei „Wärme als Bindungsspur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-060",
+   "question": "Braucht der Roman eine Verbindung von Hitze-Polaritätsregel und Juna bei „Wärme als Bindungsspur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-061",
+   "question": "In welchem denkbaren Fall könnte Hitze-Polaritätsregel bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Wärme als Bindungsspur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-062",
+   "question": "Welche Kosten könnte eine Verbindung von Hitze-Polaritätsregel und Juna in Bezug auf „Wärme als Bindungsspur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-063",
+   "question": "Welche ältere Lesart von Hitze-Polaritätsregel oder Juna könnte die Gegenüberstellung unter „Wärme als Bindungsspur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Hitze-Polaritätsregel und Juna unter „Wärme als Bindungsspur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-065",
+   "question": "Wo unterscheiden sich Hitze-Polaritätsregel und AEGIS, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Temperatur und Bedeutungszuordnung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-066",
+   "question": "Welche Quelle verbindet Hitze-Polaritätsregel mit AEGIS in Bezug auf „Unterschied zwischen Temperatur und Bedeutungszuordnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Hitze-Polaritätsregel unter „Unterschied zwischen Temperatur und Bedeutungszuordnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-068",
+   "question": "Wie könnte sich das Wissen über Hitze-Polaritätsregel vom Wissen über AEGIS unterscheiden, wenn „Unterschied zwischen Temperatur und Bedeutungszuordnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Hitze-Polaritätsregel und AEGIS bei „Unterschied zwischen Temperatur und Bedeutungszuordnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-070",
+   "question": "Falls Hitze-Polaritätsregel im Hinblick auf „Unterschied zwischen Temperatur und Bedeutungszuordnung“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Hitze-Polaritätsregel und AEGIS bei „Unterschied zwischen Temperatur und Bedeutungszuordnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-072",
+   "question": "Braucht der Roman eine Verbindung von Hitze-Polaritätsregel und AEGIS bei „Unterschied zwischen Temperatur und Bedeutungszuordnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-073",
+   "question": "In welchem denkbaren Fall könnte Hitze-Polaritätsregel bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Temperatur und Bedeutungszuordnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-074",
+   "question": "Welche Kosten könnte eine Verbindung von Hitze-Polaritätsregel und AEGIS in Bezug auf „Unterschied zwischen Temperatur und Bedeutungszuordnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-075",
+   "question": "Welche ältere Lesart von Hitze-Polaritätsregel oder AEGIS könnte die Gegenüberstellung unter „Unterschied zwischen Temperatur und Bedeutungszuordnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Hitze-Polaritätsregel und AEGIS unter „Unterschied zwischen Temperatur und Bedeutungszuordnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-077",
+   "question": "Wo unterscheiden sich Hitze-Polaritätsregel und Telefon-Stille, wenn man sie unter dem Gesichtspunkt „Konflikte der sensorischen Zuordnung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-078",
+   "question": "Welche Quelle verbindet Hitze-Polaritätsregel mit Telefon-Stille in Bezug auf „Konflikte der sensorischen Zuordnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-079",
+   "question": "Welche Grenzen aus der Seite zu Telefon-Stille müsste eine Deutung von Hitze-Polaritätsregel unter „Konflikte der sensorischen Zuordnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-080",
+   "question": "Wie könnte sich das Wissen über Hitze-Polaritätsregel vom Wissen über Telefon-Stille unterscheiden, wenn „Konflikte der sensorischen Zuordnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Hitze-Polaritätsregel und Telefon-Stille bei „Konflikte der sensorischen Zuordnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-082",
+   "question": "Falls Hitze-Polaritätsregel im Hinblick auf „Konflikte der sensorischen Zuordnung“ anders festgelegt wird: Welche Aussagen über Telefon-Stille müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Hitze-Polaritätsregel und Telefon-Stille bei „Konflikte der sensorischen Zuordnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-084",
+   "question": "Braucht der Roman eine Verbindung von Hitze-Polaritätsregel und Telefon-Stille bei „Konflikte der sensorischen Zuordnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-085",
+   "question": "In welchem denkbaren Fall könnte Hitze-Polaritätsregel bestehen, ohne dass Telefon-Stille dieselbe Funktion übernimmt, und was würde das für „Konflikte der sensorischen Zuordnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-086",
+   "question": "Welche Kosten könnte eine Verbindung von Hitze-Polaritätsregel und Telefon-Stille in Bezug auf „Konflikte der sensorischen Zuordnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-087",
+   "question": "Welche ältere Lesart von Hitze-Polaritätsregel oder Telefon-Stille könnte die Gegenüberstellung unter „Konflikte der sensorischen Zuordnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Hitze-Polaritätsregel und Telefon-Stille unter „Konflikte der sensorischen Zuordnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "telefon-stille"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-089",
+   "question": "Wo unterscheiden sich Hitze-Polaritätsregel und Vortex, wenn man sie unter dem Gesichtspunkt „verlässliche Wiederkehr ohne schematische Symbolik“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-090",
+   "question": "Welche Quelle verbindet Hitze-Polaritätsregel mit Vortex in Bezug auf „verlässliche Wiederkehr ohne schematische Symbolik“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-091",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Hitze-Polaritätsregel unter „verlässliche Wiederkehr ohne schematische Symbolik“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-092",
+   "question": "Wie könnte sich das Wissen über Hitze-Polaritätsregel vom Wissen über Vortex unterscheiden, wenn „verlässliche Wiederkehr ohne schematische Symbolik“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Hitze-Polaritätsregel und Vortex bei „verlässliche Wiederkehr ohne schematische Symbolik“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-094",
+   "question": "Falls Hitze-Polaritätsregel im Hinblick auf „verlässliche Wiederkehr ohne schematische Symbolik“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Hitze-Polaritätsregel und Vortex bei „verlässliche Wiederkehr ohne schematische Symbolik“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-096",
+   "question": "Braucht der Roman eine Verbindung von Hitze-Polaritätsregel und Vortex bei „verlässliche Wiederkehr ohne schematische Symbolik“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-097",
+   "question": "In welchem denkbaren Fall könnte Hitze-Polaritätsregel bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „verlässliche Wiederkehr ohne schematische Symbolik“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-098",
+   "question": "Welche Kosten könnte eine Verbindung von Hitze-Polaritätsregel und Vortex in Bezug auf „verlässliche Wiederkehr ohne schematische Symbolik“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-099",
+   "question": "Welche ältere Lesart von Hitze-Polaritätsregel oder Vortex könnte die Gegenüberstellung unter „verlässliche Wiederkehr ohne schematische Symbolik“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-hitze-polaritaetsregel-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Hitze-Polaritätsregel und Vortex unter „verlässliche Wiederkehr ohne schematische Symbolik“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "hitze-polaritaetsregel",
+    "vortex"
+   ]
+  }
+ ]
+}

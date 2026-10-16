@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "potentialmeer",
+ "title": "Potentialmeer",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status einer Projektmetapher",
+  "implizite Ordnung gegenüber physikalischem Beleg",
+  "Entstehung einer stabilen Bindung",
+  "Unterschied zwischen Möglichkeit und Leere",
+  "Grenzen der Bohm-Analogie"
+ ],
+ "basis": {
+  "potentialmeer": {
+   "title": "Potentialmeer",
+   "path": "Wiki/candidates/potentialmeer.md",
+   "hash": "0203c06c77688110ec6665d99a7da0541646d07bbb7386196f7f3886a1d72c4f"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  },
+  "kael-julia-bindung": {
+   "title": "Kael-Julia-Bindung",
+   "path": "Wiki/candidates/kael-julia-bindung.md",
+   "hash": "c1e85963cb0f24fc59c7957f82c90f13b1daf92dc7ff897fe04e96b2843ecf06"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-potentialmeer-001",
+   "question": "Welche erzählerische Eigenschaft des Potentialmeers wird durch Bohms implizite Ordnung erhellt, ohne daraus einen physikalischen Beweis der Bindung abzuleiten?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-002",
+   "question": "Welche Lesarten auf der Seite zu Potentialmeer stützen oder begrenzen „Status einer Projektmetapher“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-003",
+   "question": "Welcher Grenzfall würde bei Potentialmeer die Annahmen über „Status einer Projektmetapher“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-004",
+   "question": "Wer könnte innerhalb des Romans bei Potentialmeer etwas über „Status einer Projektmetapher“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-005",
+   "question": "Welche konkrete Entscheidung könnte „Status einer Projektmetapher“ bei Potentialmeer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status einer Projektmetapher“ bei Potentialmeer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-007",
+   "question": "Wie lässt sich „Status einer Projektmetapher“ bei Potentialmeer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-008",
+   "question": "Welche Alternativen sollte der Autor bei Potentialmeer für „Status einer Projektmetapher“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-009",
+   "question": "Was bedeutet bei Potentialmeer der Themenpunkt „implizite Ordnung gegenüber physikalischem Beleg“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-010",
+   "question": "Welche Lesarten auf der Seite zu Potentialmeer stützen oder begrenzen „implizite Ordnung gegenüber physikalischem Beleg“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-011",
+   "question": "Welcher Grenzfall würde bei Potentialmeer die Annahmen über „implizite Ordnung gegenüber physikalischem Beleg“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-012",
+   "question": "Wer könnte innerhalb des Romans bei Potentialmeer etwas über „implizite Ordnung gegenüber physikalischem Beleg“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-013",
+   "question": "Welche konkrete Entscheidung könnte „implizite Ordnung gegenüber physikalischem Beleg“ bei Potentialmeer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „implizite Ordnung gegenüber physikalischem Beleg“ bei Potentialmeer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-015",
+   "question": "Wie lässt sich „implizite Ordnung gegenüber physikalischem Beleg“ bei Potentialmeer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-016",
+   "question": "Welche Alternativen sollte der Autor bei Potentialmeer für „implizite Ordnung gegenüber physikalischem Beleg“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-017",
+   "question": "Was bedeutet bei Potentialmeer der Themenpunkt „Entstehung einer stabilen Bindung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-018",
+   "question": "Welche Lesarten auf der Seite zu Potentialmeer stützen oder begrenzen „Entstehung einer stabilen Bindung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-019",
+   "question": "Welcher Grenzfall würde bei Potentialmeer die Annahmen über „Entstehung einer stabilen Bindung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-020",
+   "question": "Wer könnte innerhalb des Romans bei Potentialmeer etwas über „Entstehung einer stabilen Bindung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-021",
+   "question": "Welche konkrete Entscheidung könnte „Entstehung einer stabilen Bindung“ bei Potentialmeer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entstehung einer stabilen Bindung“ bei Potentialmeer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-023",
+   "question": "Wie lässt sich „Entstehung einer stabilen Bindung“ bei Potentialmeer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-024",
+   "question": "Welche Alternativen sollte der Autor bei Potentialmeer für „Entstehung einer stabilen Bindung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-025",
+   "question": "Was bedeutet bei Potentialmeer der Themenpunkt „Unterschied zwischen Möglichkeit und Leere“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-026",
+   "question": "Welche Lesarten auf der Seite zu Potentialmeer stützen oder begrenzen „Unterschied zwischen Möglichkeit und Leere“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-027",
+   "question": "Welcher Grenzfall würde bei Potentialmeer die Annahmen über „Unterschied zwischen Möglichkeit und Leere“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-028",
+   "question": "Wer könnte innerhalb des Romans bei Potentialmeer etwas über „Unterschied zwischen Möglichkeit und Leere“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Möglichkeit und Leere“ bei Potentialmeer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Möglichkeit und Leere“ bei Potentialmeer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-031",
+   "question": "Wie lässt sich „Unterschied zwischen Möglichkeit und Leere“ bei Potentialmeer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-032",
+   "question": "Welche Alternativen sollte der Autor bei Potentialmeer für „Unterschied zwischen Möglichkeit und Leere“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-033",
+   "question": "Was bedeutet bei Potentialmeer der Themenpunkt „Grenzen der Bohm-Analogie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-034",
+   "question": "Welche Lesarten auf der Seite zu Potentialmeer stützen oder begrenzen „Grenzen der Bohm-Analogie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-035",
+   "question": "Welcher Grenzfall würde bei Potentialmeer die Annahmen über „Grenzen der Bohm-Analogie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-036",
+   "question": "Wer könnte innerhalb des Romans bei Potentialmeer etwas über „Grenzen der Bohm-Analogie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen der Bohm-Analogie“ bei Potentialmeer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen der Bohm-Analogie“ bei Potentialmeer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-039",
+   "question": "Wie lässt sich „Grenzen der Bohm-Analogie“ bei Potentialmeer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-040",
+   "question": "Welche Alternativen sollte der Autor bei Potentialmeer für „Grenzen der Bohm-Analogie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-041",
+   "question": "Wo unterscheiden sich Potentialmeer und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Status einer Projektmetapher“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-042",
+   "question": "Welche Quelle verbindet Potentialmeer mit Nichts-Rauschen in Bezug auf „Status einer Projektmetapher“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-043",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von Potentialmeer unter „Status einer Projektmetapher“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-044",
+   "question": "Wie könnte sich das Wissen über Potentialmeer vom Wissen über Nichts-Rauschen unterscheiden, wenn „Status einer Projektmetapher“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Potentialmeer und Nichts-Rauschen bei „Status einer Projektmetapher“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-046",
+   "question": "Falls Potentialmeer im Hinblick auf „Status einer Projektmetapher“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Potentialmeer und Nichts-Rauschen bei „Status einer Projektmetapher“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-048",
+   "question": "Braucht der Roman eine Verbindung von Potentialmeer und Nichts-Rauschen bei „Status einer Projektmetapher“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-049",
+   "question": "In welchem denkbaren Fall könnte Potentialmeer bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Status einer Projektmetapher“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-050",
+   "question": "Welche Kosten könnte eine Verbindung von Potentialmeer und Nichts-Rauschen in Bezug auf „Status einer Projektmetapher“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-051",
+   "question": "Welche ältere Lesart von Potentialmeer oder Nichts-Rauschen könnte die Gegenüberstellung unter „Status einer Projektmetapher“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Potentialmeer und Nichts-Rauschen unter „Status einer Projektmetapher“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "potentialmeer",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-053",
+   "question": "Wo unterscheiden sich Potentialmeer und Coheron, wenn man sie unter dem Gesichtspunkt „implizite Ordnung gegenüber physikalischem Beleg“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-054",
+   "question": "Welche Quelle verbindet Potentialmeer mit Coheron in Bezug auf „implizite Ordnung gegenüber physikalischem Beleg“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-055",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Potentialmeer unter „implizite Ordnung gegenüber physikalischem Beleg“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-056",
+   "question": "Wie könnte sich das Wissen über Potentialmeer vom Wissen über Coheron unterscheiden, wenn „implizite Ordnung gegenüber physikalischem Beleg“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Potentialmeer und Coheron bei „implizite Ordnung gegenüber physikalischem Beleg“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-058",
+   "question": "Falls Potentialmeer im Hinblick auf „implizite Ordnung gegenüber physikalischem Beleg“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Potentialmeer und Coheron bei „implizite Ordnung gegenüber physikalischem Beleg“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-060",
+   "question": "Braucht der Roman eine Verbindung von Potentialmeer und Coheron bei „implizite Ordnung gegenüber physikalischem Beleg“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-061",
+   "question": "In welchem denkbaren Fall könnte Potentialmeer bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „implizite Ordnung gegenüber physikalischem Beleg“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-062",
+   "question": "Welche Kosten könnte eine Verbindung von Potentialmeer und Coheron in Bezug auf „implizite Ordnung gegenüber physikalischem Beleg“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-063",
+   "question": "Welche ältere Lesart von Potentialmeer oder Coheron könnte die Gegenüberstellung unter „implizite Ordnung gegenüber physikalischem Beleg“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Potentialmeer und Coheron unter „implizite Ordnung gegenüber physikalischem Beleg“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "potentialmeer",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-065",
+   "question": "Wo unterscheiden sich Potentialmeer und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Entstehung einer stabilen Bindung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-066",
+   "question": "Welche Quelle verbindet Potentialmeer mit Moonshine-Link in Bezug auf „Entstehung einer stabilen Bindung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-067",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Potentialmeer unter „Entstehung einer stabilen Bindung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-068",
+   "question": "Wie könnte sich das Wissen über Potentialmeer vom Wissen über Moonshine-Link unterscheiden, wenn „Entstehung einer stabilen Bindung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Potentialmeer und Moonshine-Link bei „Entstehung einer stabilen Bindung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-070",
+   "question": "Falls Potentialmeer im Hinblick auf „Entstehung einer stabilen Bindung“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Potentialmeer und Moonshine-Link bei „Entstehung einer stabilen Bindung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-072",
+   "question": "Braucht der Roman eine Verbindung von Potentialmeer und Moonshine-Link bei „Entstehung einer stabilen Bindung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-073",
+   "question": "In welchem denkbaren Fall könnte Potentialmeer bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Entstehung einer stabilen Bindung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-074",
+   "question": "Welche Kosten könnte eine Verbindung von Potentialmeer und Moonshine-Link in Bezug auf „Entstehung einer stabilen Bindung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-075",
+   "question": "Welche ältere Lesart von Potentialmeer oder Moonshine-Link könnte die Gegenüberstellung unter „Entstehung einer stabilen Bindung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Potentialmeer und Moonshine-Link unter „Entstehung einer stabilen Bindung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "potentialmeer",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-077",
+   "question": "Wo unterscheiden sich Potentialmeer und Emergenz, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Möglichkeit und Leere“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-078",
+   "question": "Welche Quelle verbindet Potentialmeer mit Emergenz in Bezug auf „Unterschied zwischen Möglichkeit und Leere“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-079",
+   "question": "Welche Grenzen aus der Seite zu Emergenz müsste eine Deutung von Potentialmeer unter „Unterschied zwischen Möglichkeit und Leere“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-080",
+   "question": "Wie könnte sich das Wissen über Potentialmeer vom Wissen über Emergenz unterscheiden, wenn „Unterschied zwischen Möglichkeit und Leere“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Potentialmeer und Emergenz bei „Unterschied zwischen Möglichkeit und Leere“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-082",
+   "question": "Falls Potentialmeer im Hinblick auf „Unterschied zwischen Möglichkeit und Leere“ anders festgelegt wird: Welche Aussagen über Emergenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Potentialmeer und Emergenz bei „Unterschied zwischen Möglichkeit und Leere“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-084",
+   "question": "Braucht der Roman eine Verbindung von Potentialmeer und Emergenz bei „Unterschied zwischen Möglichkeit und Leere“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-085",
+   "question": "In welchem denkbaren Fall könnte Potentialmeer bestehen, ohne dass Emergenz dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Möglichkeit und Leere“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-086",
+   "question": "Welche Kosten könnte eine Verbindung von Potentialmeer und Emergenz in Bezug auf „Unterschied zwischen Möglichkeit und Leere“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-087",
+   "question": "Welche ältere Lesart von Potentialmeer oder Emergenz könnte die Gegenüberstellung unter „Unterschied zwischen Möglichkeit und Leere“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Potentialmeer und Emergenz unter „Unterschied zwischen Möglichkeit und Leere“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "potentialmeer",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-089",
+   "question": "Wo unterscheiden sich Potentialmeer und Kael-Julia-Bindung, wenn man sie unter dem Gesichtspunkt „Grenzen der Bohm-Analogie“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-090",
+   "question": "Welche Quelle verbindet Potentialmeer mit Kael-Julia-Bindung in Bezug auf „Grenzen der Bohm-Analogie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-091",
+   "question": "Welche Grenzen aus der Seite zu Kael-Julia-Bindung müsste eine Deutung von Potentialmeer unter „Grenzen der Bohm-Analogie“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-092",
+   "question": "Wie könnte sich das Wissen über Potentialmeer vom Wissen über Kael-Julia-Bindung unterscheiden, wenn „Grenzen der Bohm-Analogie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Potentialmeer und Kael-Julia-Bindung bei „Grenzen der Bohm-Analogie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-094",
+   "question": "Falls Potentialmeer im Hinblick auf „Grenzen der Bohm-Analogie“ anders festgelegt wird: Welche Aussagen über Kael-Julia-Bindung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Potentialmeer und Kael-Julia-Bindung bei „Grenzen der Bohm-Analogie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-096",
+   "question": "Braucht der Roman eine Verbindung von Potentialmeer und Kael-Julia-Bindung bei „Grenzen der Bohm-Analogie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-097",
+   "question": "In welchem denkbaren Fall könnte Potentialmeer bestehen, ohne dass Kael-Julia-Bindung dieselbe Funktion übernimmt, und was würde das für „Grenzen der Bohm-Analogie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-098",
+   "question": "Welche Kosten könnte eine Verbindung von Potentialmeer und Kael-Julia-Bindung in Bezug auf „Grenzen der Bohm-Analogie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-099",
+   "question": "Welche ältere Lesart von Potentialmeer oder Kael-Julia-Bindung könnte die Gegenüberstellung unter „Grenzen der Bohm-Analogie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-potentialmeer-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Potentialmeer und Kael-Julia-Bindung unter „Grenzen der Bohm-Analogie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "potentialmeer",
+    "kael-julia-bindung"
+   ]
+  }
+ ]
+}

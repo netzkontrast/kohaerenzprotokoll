@@ -1,0 +1,91 @@
+$ read.py roman-pitch-reduktion-auf-kern --count "Phase"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Phase` ^[roman-pitch-reduktion-auf-kern.md:#4]
+$ read.py roman-pitch-reduktion-auf-kern --count "Methodischer Rat"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Methodischer Rat` ^[roman-pitch-reduktion-auf-kern.md:#3]
+$ read.py roman-pitch-reduktion-auf-kern --count "Kapitel"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kapitel` ^[roman-pitch-reduktion-auf-kern.md:#5]
+$ read.py roman-pitch-reduktion-auf-kern --count "ANPs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`ANPs` ^[roman-pitch-reduktion-auf-kern.md:#4]
+$ read.py roman-pitch-reduktion-auf-kern --count "EPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EPs` ^[roman-pitch-reduktion-auf-kern.md:#2]
+$ read.py roman-pitch-reduktion-auf-kern --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Risse` ^[roman-pitch-reduktion-auf-kern.md:#2]
+$ read.py roman-pitch-reduktion-auf-kern --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[roman-pitch-reduktion-auf-kern.md:#0]
+$ read.py roman-pitch-reduktion-auf-kern --count "Streichliste"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Streichliste` ^[roman-pitch-reduktion-auf-kern.md:#1]
+$ read.py roman-pitch-reduktion-auf-kern --count "Kael"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            34
+
+`Kael` ^[roman-pitch-reduktion-auf-kern.md:#19]
+$ read.py roman-pitch-reduktion-auf-kern --count "Juna"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            14
+
+`Juna` ^[roman-pitch-reduktion-auf-kern.md:#12]
+$ read.py roman-pitch-reduktion-auf-kern --count "AEGIS"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            20
+
+`AEGIS` ^[roman-pitch-reduktion-auf-kern.md:#18]
+$ read.py roman-pitch-reduktion-auf-kern --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Kernwelt` ^[roman-pitch-reduktion-auf-kern.md:#1]
+$ read.py roman-pitch-reduktion-auf-kern --count "Rissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rissen` ^[roman-pitch-reduktion-auf-kern.md:#1]
+$ read.py roman-pitch-reduktion-auf-kern --count "NCP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`NCP` ^[roman-pitch-reduktion-auf-kern.md:#3]
+$ stance_marker_count 7 = Phase 4 + Methodischer Rat 3
+$ grep -n Phase
+19:## **Phase 1: Dokumenten-Inventar und thematische Evoluti
+28:| Roman-Konzeptdokument: Seelen-Kohärenz-Protokoll (Blue
+45:## **Phase 2: Gezielte Analyse und Themen-Extraktion**
+73:## **Phase 3: Synthese und strategischer Output**
+$ grep early names

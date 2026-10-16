@@ -1,0 +1,70 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Candidates as the document writes them. The document is English prose with German names in quotation marks. Halves of "A (B)" forms are listed separately. Escapes in the table (\*\*) and the plain K₁/K₀ subscripts are noted in the census.
+
+- Risse
+- Riss
+- Kael
+- AEGIS
+- Protocol Ontology
+- Coherence Kernel
+- Collapse Kernel
+- Coherons
+- Corrective Wavelets
+- Kernwelten
+- Core Worlds
+- Kernwelt 1
+- System Kael
+- Apparently Normal Parts
+- Emotional Parts
+- ANP-EP Phobias
+- ANP-EP Phobia
+- Alex
+- Selene
+- Lex
+- Rhys
+- Nyx
+- Kiko
+- Moros
+- Anteil
+- bindungsruf
+- Kampf
+- Erstarrung
+- Kollaps
+- Cache Incoherence
+- Correspondence Error
+- correspondence errors
+- correspondence check
+- coherentist
+- Riss-Symptom Matrix
+- self-protocol
+- Genesis-Krise
+- Ich-Fragmenten
+- Potentialmeer
+- Trennungsprotokoll
+- Separation Protocol
+- Ursprungs-Ich
+- Genesis Log
+- LOG 734.19
+- Rauschen
+- Einsamkeit
+- Sehnsucht
+- stress tests
+- epistemological blindness
+- living Gödel-Satz
+- algorithmic melancholy
+- Intrusion
+- Korrektur
+- Rekonfiguration
+- Psychological Architectures
+
+## lens
+- Tertiary Structural Dissociation of the Personality
+- TSDP
+- ANPs
+- EPs
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- unreliable narrator
+- depersonalization
+- Derealization

@@ -1,0 +1,300 @@
+{
+  "document": "aegis-paradoxon-neukonzeption-und-analyse-docx",
+  "drive_id": "1UMXQHC2vrdePXevhdaB2viYBnECrT4sD",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 111,
+  "backslash_escapes": 2,
+  "typographic_marks": 35,
+  "ascii_quotes": 108,
+  "inflection_families": {
+    "kontr": [
+      "Kontrollaktes",
+      "Kontrollalgorithmen",
+      "Kontrollbemühungen",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrollfehlern",
+      "Kontrollfähigkeit",
+      "Kontrollierbarkeit",
+      "Kontrollierten",
+      "Kontrollmaßnahme",
+      "Kontrollmechanismen",
+      "Kontrollmethoden",
+      "Kontrollstrategien",
+      "Kontrolltheorie",
+      "Kontrollverlust",
+      "Kontrollversuch",
+      "Kontrollversuche",
+      "Kontrollversuchen",
+      "Kontrollzyklen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktions",
+      "Interaktionsfähigkeit",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Intervenieren",
+      "Intervention",
+      "Interventionen",
+      "Interventionsmöglichkeiten"
+    ],
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemen",
+      "Systemintegrität",
+      "Systemische",
+      "Systemkonflikte",
+      "Systems",
+      "Systemtheorie",
+      "Systemzusammenbrüche",
+      "Systemzustände"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbeeinflussung",
+      "Selbstbezogenheit",
+      "Selbsterhalt",
+      "Selbsterhaltung",
+      "Selbsterhaltungsfähigkeit",
+      "Selbstreferenz",
+      "Selbstreferenzielle",
+      "Selbstregulation",
+      "Selbstzerstörerische"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsentropie",
+      "Informationskontrolle",
+      "Informationsmenge",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsüberflutung"
+    ],
+    "fehle": [
+      "Fehleinschätzungen",
+      "Fehlen",
+      "Fehlentscheidungen",
+      "Fehler",
+      "Fehlerfreiheit",
+      "Fehlerhaftigkeit",
+      "Fehlern"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktpotenzial",
+      "Konfliktquellen",
+      "Konflikts",
+      "Konfliktsituationen"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseprotokolle",
+      "Analyseprozesses",
+      "Analysestufen",
+      "Analysis",
+      "Analytics"
+    ],
+    "model": [
+      "Modell",
+      "Modellbildung",
+      "Modelle",
+      "Modellen",
+      "Modellfehler",
+      "Modells"
+    ],
+    "arist": [
+      "ARISTOTLE",
+      "Aristoteles",
+      "Aristotelisch",
+      "Aristotelische",
+      "Aristotle"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterentwicklung",
+      "Charakterisierung",
+      "Charakterkomplexität",
+      "Charaktertiefe"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungskontext",
+      "Handlungsmöglichkeiten",
+      "Handlungsunfähigkeit"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "resso": [
+      "Ressource",
+      "Ressourcen",
+      "Ressourcenakkumulation",
+      "Ressourcenkontrolle",
+      "Ressourcensicherung"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkennung"
+    ],
+    "exist": [
+      "Existentialism",
+      "Existentialismus",
+      "Existentielle",
+      "Existenz"
+    ],
+    "gödel": [
+      "Gödel",
+      "Gödels",
+      "Gödelsche",
+      "Gödelschen"
+    ],
+    "haupt": [
+      "Hauptcluster",
+      "Hauptsatz",
+      "Hauptziel",
+      "Hauptziels"
+    ],
+    "rückk": [
+      "Rückkopplung",
+      "Rückkopplungen",
+      "Rückkopplungsschleifen",
+      "Rückkopplungsversuche"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheits",
+      "Sicherheitsgarantie",
+      "Sicherung"
+    ],
+    "tiefe": [
+      "Tiefe",
+      "Tiefenanalyse",
+      "Tiefenrecherche",
+      "Tiefer"
+    ],
+    "verst": [
+      "Verstehen",
+      "Verstehens",
+      "Verständnis",
+      "Verstärkung"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentendichten"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Andersartigkeit"
+    ],
+    "aufga": [
+      "Aufgabe",
+      "Aufgaben",
+      "Aufgabenerfüllung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Econ",
+      "Second"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Formulierungen"
+    ],
+    [
+      "Form",
+      "Regelkonformität"
+    ],
+    [
+      "Form",
+      "Informationsmenge"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Form",
+      "Informationsentropie"
+    ],
+    [
+      "Form",
+      "Informationskontrolle"
+    ],
+    [
+      "Form",
+      "Informationsüberflutung"
+    ],
+    [
+      "Form",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Held",
+      "Helden"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

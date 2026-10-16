@@ -1,0 +1,177 @@
+{
+  "document": "strategic-narrative-implementation-for-kohaerenz-protokoll",
+  "drive_id": "1843XLBaBMXuGSro7SexzQtJvvHIP9_t0YU6OKVLRaz0",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 69,
+    "decided_by_lookup": 56,
+    "needs_judgement": 13
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        53,
+        57,
+        66,
+        69,
+        91
+      ],
+      "attribution": "",
+      "note": "AEGIS as K₁-structure and tragic antagonist, and its genesis as a trauma of logic"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "Emergenz among the Paraiyas"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        89,
+        91
+      ],
+      "attribution": "",
+      "note": "Juna/V in Crack 2"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        45,
+        91,
+        118,
+        119,
+        126
+      ],
+      "attribution": "",
+      "note": "Kael in the sample scene, Crack 2 and Crack 3, and the climax proposed as The Gardener"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Kernwelt 1 as Lex's domain"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "Kiko in the proposed climax"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        59,
+        67
+      ],
+      "attribution": "",
+      "note": "Component 734 as the outcome of the proposed genesis scene"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        27,
+        87
+      ],
+      "attribution": "",
+      "note": "Lex as AEGIS's worldview in miniature, and Crack 1"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        91,
+        92
+      ],
+      "attribution": "",
+      "note": "the non-local link in Crack 2"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "Nyx triggered in Crack 3"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        79,
+        85
+      ],
+      "attribution": "",
+      "note": "three proposed cracks foreshadowing the Bruchpunkt"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 51,
+      "decision": "occurrence",
+      "why": "a heading on AEGIS's genesis, read on aegis"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 89,
+      "decision": "reading",
+      "why": "Crack 2, the Juna/V Exploit"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 85,
+      "decision": "reading",
+      "why": "Crack 1, the Gödelian Glitch"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

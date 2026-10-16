@@ -1,0 +1,1159 @@
+{
+  "document": "aegis-singularitaet-jenseits-entropiegleichung-2",
+  "drive_id": "175QGLFVblF7IMFWAFMP0MfgvpwID8ExiJt_cp0eRYKE",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 340,
+      "n_including_compounds": 343,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        41,
+        43,
+        45,
+        47,
+        49,
+        53,
+        62,
+        64,
+        66,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        80,
+        82,
+        84,
+        86,
+        88,
+        90,
+        92,
+        94,
+        96,
+        98,
+        100,
+        102,
+        104,
+        106,
+        108,
+        112,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        128,
+        134,
+        136,
+        138,
+        140,
+        144,
+        146,
+        148,
+        150,
+        154,
+        156,
+        158,
+        164,
+        166,
+        168,
+        174,
+        176,
+        178,
+        180,
+        184,
+        186,
+        188,
+        190,
+        194,
+        203,
+        205,
+        207,
+        209,
+        211,
+        213,
+        215,
+        217,
+        219,
+        223,
+        224,
+        225,
+        226,
+        227,
+        231,
+        233,
+        235,
+        237,
+        238,
+        244,
+        246,
+        247,
+        253,
+        255,
+        256,
+        257,
+        262,
+        264,
+        265,
+        271,
+        273,
+        274,
+        280,
+        282,
+        283,
+        289,
+        291,
+        292,
+        294,
+        298,
+        300,
+        301,
+        307,
+        309,
+        310,
+        311,
+        316,
+        318,
+        319,
+        325,
+        327,
+        328,
+        334,
+        336,
+        337,
+        341,
+        343,
+        347,
+        348,
+        361,
+        362,
+        367,
+        387,
+        391,
+        392,
+        404,
+        406,
+        410,
+        412,
+        414,
+        416
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Entropic Gatekeeper": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        104
+      ]
+    },
+    "Kael": {
+      "n": 36,
+      "n_including_compounds": 162,
+      "lines": [
+        15,
+        21,
+        23,
+        25,
+        27,
+        35,
+        37,
+        43,
+        45,
+        47,
+        68,
+        70,
+        72,
+        78,
+        80,
+        82,
+        84,
+        90,
+        92,
+        94,
+        102,
+        106,
+        112,
+        114,
+        116,
+        122,
+        126,
+        134,
+        136,
+        146,
+        156,
+        158,
+        160,
+        162,
+        164,
+        166,
+        168,
+        172,
+        176,
+        178,
+        184,
+        186,
+        188,
+        190,
+        195,
+        197,
+        199,
+        201,
+        203,
+        213,
+        215,
+        225,
+        231,
+        235,
+        237,
+        238,
+        240,
+        244,
+        246,
+        247,
+        249,
+        256,
+        258,
+        262,
+        265,
+        267,
+        271,
+        274,
+        276,
+        283,
+        289,
+        292,
+        294,
+        298,
+        303,
+        316,
+        319,
+        321,
+        325,
+        328,
+        330,
+        334,
+        337,
+        339,
+        347,
+        367,
+        384,
+        392,
+        393,
+        398,
+        403,
+        410,
+        414
+      ]
+    },
+    "Juna": {
+      "n": 41,
+      "n_including_compounds": 131,
+      "lines": [
+        15,
+        23,
+        25,
+        27,
+        37,
+        43,
+        47,
+        68,
+        70,
+        72,
+        74,
+        78,
+        80,
+        82,
+        84,
+        92,
+        94,
+        104,
+        106,
+        112,
+        114,
+        116,
+        122,
+        124,
+        126,
+        134,
+        136,
+        146,
+        148,
+        156,
+        158,
+        170,
+        172,
+        174,
+        176,
+        178,
+        184,
+        186,
+        188,
+        190,
+        196,
+        198,
+        201,
+        203,
+        213,
+        215,
+        225,
+        231,
+        235,
+        237,
+        240,
+        253,
+        255,
+        256,
+        257,
+        258,
+        262,
+        264,
+        267,
+        271,
+        274,
+        276,
+        282,
+        289,
+        292,
+        294,
+        298,
+        303,
+        307,
+        310,
+        312,
+        316,
+        319,
+        321,
+        325,
+        328,
+        329,
+        330,
+        334,
+        336,
+        337,
+        339,
+        347,
+        361,
+        367,
+        384,
+        394,
+        398,
+        403,
+        410,
+        412,
+        414
+      ]
+    },
+    "Kael-Juna-Phänomen": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        92,
+        106,
+        112,
+        116,
+        146,
+        156,
+        184,
+        188,
+        203,
+        271,
+        347,
+        384
+      ]
+    },
+    "Kael-Juna-System": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        72,
+        94,
+        114,
+        215,
+        289,
+        321
+      ]
+    },
+    "Kael-Juna-Entität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        334
+      ]
+    },
+    "Kael-Juna-Singularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Kael-Juna-Integral": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        339,
+        403
+      ]
+    },
+    "Kael-Matrix": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        237,
+        258,
+        392
+      ]
+    },
+    "Kael-Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Juna-Vektor": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        170,
+        237,
+        240,
+        276,
+        303
+      ]
+    },
+    "Juna-Konstante": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        336,
+        361,
+        403
+      ]
+    },
+    "Juna-Feld-Anomalie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        255,
+        394
+      ]
+    },
+    "Juna-Wurm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Kern-Welten": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        21,
+        23,
+        37,
+        43,
+        58,
+        72,
+        82,
+        92,
+        100,
+        102,
+        106,
+        168,
+        174,
+        178,
+        262,
+        265
+      ]
+    },
+    "Kern-Welt": {
+      "n": 0,
+      "n_including_compounds": 20,
+      "lines": [
+        21,
+        23,
+        37,
+        43,
+        58,
+        72,
+        82,
+        92,
+        100,
+        102,
+        106,
+        168,
+        174,
+        178,
+        235,
+        262,
+        265
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "Überwelt": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        43,
+        102,
+        267,
+        319,
+        337,
+        339,
+        367,
+        395
+      ]
+    },
+    "Externe Ebene": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        253,
+        307,
+        311,
+        312,
+        400
+      ]
+    },
+    "Externen Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        309
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        90,
+        162,
+        188,
+        244
+      ]
+    },
+    "funktionaler Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        112,
+        122,
+        164,
+        412
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        162,
+        195,
+        276
+      ]
+    },
+    "Systematic Agency": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        72,
+        80,
+        122,
+        162,
+        164,
+        168,
+        244,
+        247
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        62,
+        166,
+        190,
+        200,
+        249
+      ]
+    },
+    "Argus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        166,
+        249
+      ]
+    },
+    "emphatischer Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        166
+      ]
+    },
+    "weiser Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166
+      ]
+    },
+    "Primärdirektive": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        39,
+        47,
+        94,
+        118,
+        122,
+        126,
+        138,
+        168,
+        186,
+        316
+      ]
+    },
+    "Systemintegrität": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        39,
+        41,
+        45,
+        55,
+        294,
+        303,
+        316,
+        399
+      ]
+    },
+    "Entropieminimierung": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        33,
+        35,
+        39,
+        41,
+        47,
+        54,
+        62,
+        92,
+        94,
+        102,
+        112,
+        120,
+        122,
+        168,
+        188,
+        213,
+        224,
+        316,
+        320,
+        367,
+        412
+      ]
+    },
+    "Negentropie": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        47,
+        59,
+        74,
+        76,
+        78,
+        82,
+        104,
+        112,
+        118,
+        122,
+        172,
+        174,
+        188,
+        213,
+        225,
+        226,
+        256,
+        285,
+        309,
+        320,
+        400,
+        412,
+        467
+      ]
+    },
+    "Negentropisches Feld": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        198
+      ]
+    },
+    "Informationssingularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Integrierte Dyade": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Abschlussalbum": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        209,
+        410,
+        416
+      ]
+    },
+    "Protokoll der Singularität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        205,
+        209,
+        410
+      ]
+    },
+    "Das Protokoll des Scheiterns": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        209,
+        225,
+        231,
+        414
+      ]
+    },
+    "Die unerschütterliche Direktive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Die stille Singularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Der letzte Befehl": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Nutzeranfrage": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        162,
+        172,
+        182,
+        265,
+        283,
+        310
+      ]
+    },
+    "Kernemotion": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        236,
+        245,
+        254,
+        263,
+        272,
+        281,
+        290,
+        299,
+        308,
+        317,
+        326,
+        335,
+        352
+      ]
+    },
+    "Kernoperationsparameter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Songkonzepte": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        62,
+        205,
+        229,
+        231,
+        410,
+        414
+      ]
+    },
+    "ewiger Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "überforderter Programmierer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "kalte Sonne der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Logik-Gott am Rande des Paradoxons": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        152,
+        154,
+        156
+      ]
+    },
+    "Singularität der Kontrolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        152,
+        154
+      ]
+    },
+    "Das Gleichgewicht des Chaos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        318,
+        401
+      ]
+    },
+    "Das Multiplizitäts-Paradoxon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        246,
+        393
+      ]
+    },
+    "Quarantäne-Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Klasse-Omega-Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        384
+      ]
+    },
+    "Datenfragmentierung": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        164,
+        195
+      ]
+    },
+    "DIS": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        247,
+        547
+      ]
+    },
+    "Qualia": {
+      "n": 22,
+      "n_including_compounds": 24,
+      "lines": [
+        21,
+        29,
+        31,
+        33,
+        35,
+        37,
+        136,
+        420,
+        425,
+        426,
+        428,
+        429,
+        430,
+        432
+      ]
+    },
+    "China Brain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "digitalen Panexperientialismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Ashbys Gesetz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        70
+      ]
+    },
+    "Kybernetik zweiter Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Maxwellschen Dämon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Antifragilität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        86,
+        88,
+        90,
+        94,
+        126,
+        319
+      ]
+    },
+    "nützliche Unordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Nützliche Entropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "komplexe adaptive Systeme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Wertausrichtung": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        47,
+        120,
+        122,
+        227
+      ]
+    },
+    "verlustbehafteten Kompression": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Temporal Mastery Hypothesis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        449
+      ]
+    },
+    "HAL 9000": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        132,
+        138,
+        523,
+        524
+      ]
+    },
+    "kognitive Dissonanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        182,
+        184,
+        225
+      ]
+    },
+    "Kognitive Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Emergent Intelligence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        188,
+        569
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        164
+      ]
+    },
+    "lokalen Demiurgen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Wärmetod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Sonifikation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        142,
+        414
+      ]
+    },
+    "Algorithmische Komposition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        142,
+        532,
+        533
+      ]
+    },
+    "Black Box": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        176,
+        247
+      ]
+    },
+    "Meta-Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    }
+  }
+}

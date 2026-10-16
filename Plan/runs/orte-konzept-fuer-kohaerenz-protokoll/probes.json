@@ -1,0 +1,403 @@
+{
+  "document": "orte-konzept-fuer-kohaerenz-protokoll",
+  "drive_id": "1oxFXFdb1lM6Eoij-M5tL2scPFysBf7zfN1OVzJFYZ8o",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 110,
+  "backslash_escapes": 80,
+  "typographic_marks": 40,
+  "ascii_quotes": 62,
+  "inflection_families": {
+    "daten": [
+      "Daten",
+      "Datenarchitektur",
+      "Datencluster",
+      "Datenfehler",
+      "Datenfluss",
+      "Datenflusses",
+      "Datenfragmente",
+      "Datenfriedhof",
+      "Datenkaskaden",
+      "Datenknoten",
+      "Datenkorruption",
+      "Datenkunst",
+      "Datenlogs",
+      "Datenmengen",
+      "Datenmüll",
+      "Datenpaketen",
+      "Datensektoren",
+      "Datenstrom",
+      "Datenstrudel",
+      "Datenströme",
+      "Datenströmen",
+      "Datenstürme",
+      "Datenverarbeitung",
+      "Datenverarbeitungsknoten",
+      "Datenvisualisierung",
+      "Datenzerfall",
+      "Datenzugriff",
+      "Datenästhetik"
+    ],
+    "syste": [
+      "System",
+      "Systemabstürze",
+      "Systemantworten",
+      "Systemanweisungen",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systemfreigabe",
+      "Systemfunktionen",
+      "Systemhierarchien",
+      "Systeminkonsistenzen",
+      "Systeminstabilität",
+      "Systeminteraktion",
+      "Systeminterface",
+      "Systemkontrollmechanismus",
+      "Systemlogik",
+      "Systemnormen",
+      "Systemprotokolle",
+      "Systemprozessen",
+      "Systemregeln",
+      "Systems",
+      "Systemtests",
+      "Systemverwalter",
+      "Systemzerfalls",
+      "Systemzustände",
+      "Systemästhetik"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontraste",
+      "Kontrasten",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollhierarchie",
+      "Kontrollinstanz",
+      "Kontrollinstrument",
+      "Kontrollmechanismen",
+      "Kontrollmechanismus",
+      "Kontrollpulte",
+      "Kontrollpunkt",
+      "Kontrollpunkte",
+      "Kontrollraum",
+      "Kontrollverlust",
+      "Kontrollzentrum"
+    ],
+    "archi": [
+      "Archipel",
+      "Architectural",
+      "Architecture",
+      "Architekt",
+      "Architekten",
+      "Architektonische",
+      "Architektur",
+      "Architekturelemente",
+      "Architekturstile",
+      "Architekturstilen",
+      "Architizer",
+      "Archiv",
+      "Archivar",
+      "Archivars",
+      "Archive"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsabfang",
+      "Informationsaustausch",
+      "Informationsdarstellung",
+      "Informationsdichte",
+      "Informationsfluss",
+      "Informationsfragmente",
+      "Informationsquelle",
+      "Informationsräumen",
+      "Informationsverarbeitung",
+      "Informationsüberflutung"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterbeziehungen",
+      "Charakterdetails",
+      "Charaktere",
+      "Charakteren",
+      "Charakterisierung",
+      "Charakters",
+      "Charaktertiefe",
+      "Charakterzuordnung"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsanker",
+      "Realitätsbrüche",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsprüfungen",
+      "Realitätsstruktur",
+      "Realitätszuständen"
+    ],
+    "haupt": [
+      "Haupt",
+      "Hauptbewohner",
+      "Hauptcharaktere",
+      "Hauptinteraktionsort",
+      "Hauptinteraktionspunkt",
+      "Hauptleitungen",
+      "Hauptnutzerin",
+      "Hauptort",
+      "Hauptverbindungsweg"
+    ],
+    "inter": [
+      "Interactive",
+      "Interaktion",
+      "Interaktionen",
+      "Interesse",
+      "Interface",
+      "Interfaces",
+      "Interkonnektivität",
+      "Interpretation",
+      "Intervention"
+    ],
+    "überw": [
+      "Überwacher",
+      "Überwachung",
+      "Überwachungselemente",
+      "Überwachungselementen",
+      "Überwachungskameras",
+      "Überwachungssymbole",
+      "Überwelt",
+      "Überwinden",
+      "Überwindung"
+    ],
+    "grund": [
+      "Grundatmosphäre",
+      "Grundierung",
+      "Grundlage",
+      "Grundlagen",
+      "Grundnorm",
+      "Grundparameter",
+      "Grundriss",
+      "Grundstimmung"
+    ],
+    "poten": [
+      "Potentialis",
+      "Potenzial",
+      "Potenziale",
+      "Potenzials",
+      "Potenziell",
+      "Potenzielle",
+      "Potenzieller",
+      "Potenzielles"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsbarrieren",
+      "Sicherheitsmaßnahmen",
+      "Sicherheitsprogramme",
+      "Sicherheitsrisiko",
+      "Sicherheitsstufen",
+      "Sicherheitssysteme",
+      "Sicherheitstechnologie"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolic",
+      "Symbolik",
+      "Symbolische",
+      "Symbolisieren",
+      "Symbolisiert",
+      "Symbolism"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumabereichen",
+      "Traumas",
+      "Traumata",
+      "Traumebenen",
+      "Traumwelt",
+      "Traumwelten"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeiter",
+      "Arbeitsgrundlage",
+      "Arbeitsleistung",
+      "Arbeitsplatz",
+      "Arbeitssektor",
+      "Arbeitsstationen"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachterseite",
+      "Beobachteter",
+      "Beobachtung",
+      "Beobachtungsfenster",
+      "Beobachtungsstationen",
+      "Beobachtungszentrum"
+    ],
+    "energ": [
+      "Energie",
+      "Energieentladungen",
+      "Energiefelder",
+      "Energiefluktuationen",
+      "Energiegeladen",
+      "Energieleitungen",
+      "Energiequelle"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsbildern",
+      "Erinnerungsfragmente",
+      "Erinnerungsfragmenten",
+      "Erinnerungsinseln",
+      "Erinnerungsszenen"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzentriert",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzeptionelle"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychoanalytic",
+      "Psychological",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychology"
+    ],
+    "schre": [
+      "Schreckmomenten",
+      "Schreiben",
+      "Schreibens",
+      "Schreibprozess",
+      "Schreibprozesses",
+      "Schreien",
+      "Schrein"
+    ],
+    "schwe": [
+      "Schwebende",
+      "Schweigen",
+      "Schwellenbereiche",
+      "Schwellenorte",
+      "Schwer",
+      "Schwere",
+      "Schwerelosigkeit"
+    ],
+    "techn": [
+      "Technik",
+      "Techniken",
+      "Techniker",
+      "Techniques",
+      "Technologie",
+      "Technologien",
+      "Technology"
+    ],
+    "visua": [
+      "Visual",
+      "Visualisierung",
+      "Visualisierungen",
+      "Visualisierungsbildschirm",
+      "Visualisierungsmetaphern",
+      "Visualization",
+      "Visualizing"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "ARTS",
+      "Artsy"
+    ],
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Alle",
+      "Allerdings"
+    ],
+    [
+      "Alle",
+      "Kristallen"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Alle",
+      "Verfallene"
+    ],
+    [
+      "Alle",
+      "Verfallener"
+    ],
+    [
+      "Alle",
+      "Leuchtkristalle"
+    ],
+    [
+      "Auch",
+      "Ressourcenverbrauch"
+    ],
+    [
+      "BLOG",
+      "Blog"
+    ],
+    [
+      "Bach",
+      "Beobachter"
+    ],
+    [
+      "Bach",
+      "Beobachtung"
+    ],
+    [
+      "Bach",
+      "Beobachteter"
+    ],
+    [
+      "Bach",
+      "Beobachterseite"
+    ],
+    [
+      "Bach",
+      "Beobachtungsfenster"
+    ],
+    [
+      "Bach",
+      "Beobachtungszentrum"
+    ],
+    [
+      "Bach",
+      "Beobachtungsstationen"
+    ],
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ]
+  ]
+}

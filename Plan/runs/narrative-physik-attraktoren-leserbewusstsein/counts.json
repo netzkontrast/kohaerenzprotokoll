@@ -1,0 +1,796 @@
+{
+  "document": "narrative-physik-attraktoren-leserbewusstsein",
+  "drive_id": "1ebX6DpsQ-z7ze6kmaHGynP1SYwXnApkJ1KLryw08nko",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 21,
+      "lines": [
+        66,
+        68,
+        70,
+        103,
+        119,
+        121,
+        123,
+        132,
+        148,
+        174,
+        207,
+        209,
+        217,
+        219,
+        229,
+        233,
+        234
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        119,
+        121,
+        132,
+        281
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        119,
+        121,
+        132,
+        281
+      ]
+    },
+    "AEGIS": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        36,
+        58,
+        91,
+        93,
+        105,
+        123,
+        130,
+        148,
+        219,
+        251
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        91
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "KW1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        130
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        217,
+        234
+      ]
+    },
+    "Echo-Intrusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Nichts": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        58,
+        105,
+        131,
+        148
+      ]
+    },
+    "umgebende Nichtssein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Leser": {
+      "n": 25,
+      "n_including_compounds": 41,
+      "lines": [
+        18,
+        22,
+        26,
+        30,
+        34,
+        44,
+        48,
+        56,
+        58,
+        60,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        140,
+        166,
+        170,
+        172,
+        173,
+        174,
+        176,
+        191,
+        199,
+        207,
+        209,
+        219,
+        233,
+        237,
+        241
+      ]
+    },
+    "Mitschöpfer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        233
+      ]
+    },
+    "Glitches": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        56,
+        58
+      ]
+    },
+    "Logos": {
+      "n": 20,
+      "n_including_compounds": 23,
+      "lines": [
+        58,
+        67,
+        68,
+        69,
+        71,
+        79,
+        83,
+        87,
+        89,
+        91,
+        93,
+        123,
+        130,
+        148,
+        152,
+        156,
+        158,
+        172
+      ]
+    },
+    "Abyssos": {
+      "n": 17,
+      "n_including_compounds": 21,
+      "lines": [
+        68,
+        79,
+        97,
+        101,
+        103,
+        105,
+        107,
+        117,
+        123,
+        131,
+        148,
+        152,
+        156,
+        159,
+        173,
+        188,
+        189
+      ]
+    },
+    "Eros": {
+      "n": 20,
+      "n_including_compounds": 24,
+      "lines": [
+        70,
+        79,
+        111,
+        115,
+        117,
+        119,
+        121,
+        123,
+        132,
+        148,
+        152,
+        156,
+        160,
+        162,
+        174,
+        186,
+        187,
+        273,
+        274,
+        280
+      ]
+    },
+    "Logos-Attraktor": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        158,
+        172
+      ]
+    },
+    "Abyssos-Attraktor": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        159,
+        173,
+        188,
+        189
+      ]
+    },
+    "Eros-Attraktor": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        160,
+        174,
+        186,
+        187
+      ]
+    },
+    "narrativen Attraktoren": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        79,
+        125
+      ]
+    },
+    "Anziehungsbecken": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        158,
+        159,
+        160,
+        162
+      ]
+    },
+    "basin of attraction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Phasenraum": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        144,
+        148,
+        156,
+        187
+      ]
+    },
+    "Phasenraums": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        148,
+        156
+      ]
+    },
+    "Kontrollparameter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        170
+      ]
+    },
+    "Trajektorie": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        148,
+        156,
+        180,
+        186,
+        188,
+        191
+      ]
+    },
+    "Negentropie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        58,
+        130,
+        253,
+        254
+      ]
+    },
+    "Entropie": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        58,
+        101,
+        105,
+        131,
+        159,
+        255,
+        256
+      ]
+    },
+    "Informationsentropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        233
+      ]
+    },
+    "Lexikon des ontologischen Foreshadowing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Perzeptuelle Instabilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Zeitliche Diskontinuität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Räumliches Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Emotionale Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Hellseherei der Figuren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Narrative Transportation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "transzendente Umwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "solipsistische Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Quanten-Metapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Kollaps der Wellenfunktion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        207,
+        247,
+        248
+      ]
+    },
+    "Wahrscheinlichkeitswelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        219
+      ]
+    },
+    "Superposition": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        46,
+        48,
+        244,
+        245
+      ]
+    },
+    "Datenkorruption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "psychologischen Kriegsführung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Gedankenreform": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Frakturierte Untersuchung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Mosaik-Plot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "multiple personale Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "anachronistische Zeitgestaltung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        235
+      ]
+    },
+    "unzuverlässigen Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Luhmann-Berkeley-Synthese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Esse est percipi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Kopenhagener Deutung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "strukturellen Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "autopoietisches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "operativ geschlossenes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Beobachtereffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "seltsame Attraktoren": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        156
+      ]
+    },
+    "Schmetterlingseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "mythoi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Leerstellen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        170,
+        207
+      ]
+    },
+    "Verfremdungseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        209
+      ]
+    },
+    "Über-Ich": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        130
+      ]
+    },
+    "Realitätsprinzips": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Lebenstrieb": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        117,
+        132
+      ]
+    },
+    "Todestrieb": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        131
+      ]
+    },
+    "Thanatos": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        103,
+        117,
+        131,
+        273,
+        274,
+        280
+      ]
+    },
+    "Skinner-Boxen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "ER=EPR": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        132
+      ]
+    },
+    "Einstein-Rosen-Brücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Wurmloch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Das Schöne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Erhabene": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        97,
+        107,
+        131,
+        277,
+        278
+      ]
+    },
+    "Hard Science-Fiction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Kosmischen Horrors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Psychologischen Thrillers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Komödie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        121,
+        132,
+        186
+      ]
+    },
+    "Romanze": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        121,
+        132,
+        187
+      ]
+    },
+    "Tragödie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Ironie/Satire": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    }
+  }
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 40
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie"]
+sources: 55
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "ki-roman-architektur-kohaerenz-und-kollaps", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "2026-09-14-kap25-vertiefung-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,18 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Kael handelt mit klarer Absicht, nicht mehr reaktiv, und bereitet die Konfrontation vor; das Leitbild der Quellen ist die Autoren-Feder mit klaren Linien, und laut der Plot-Konkretisierung wird hier das Delikt Absicht, als Kael einen Bericht schreibt, den niemand angefordert hat. AEGIS spürt seine neue Linearität, laut der Plot-Konkretisierung als Format-Anomalie, und laut der strukturierten Outline degradiert die Architektur sichtbar, während das Wir-Geflecht aller Alters in funktionaler Multiplizität steht; die AEGIS-Subplot-Sammlung kennt hier einen Roten Alarm, in dem Guardians zur Jagd auf Kael übergehen. Es ist die Ordinary World der Heldenreise außen nach dem Modus-Wechsel, laut der strukturierten Outline dort, wo das Ten beginnt; die meisten Quellen legen es in die Phase A des dritten Akts, die Plot-Konkretisierung in den Block des Deserteurs, Kernwelten vollständig dagegen noch an das Ende des zweiten Akts, an die Schwelle von KW3 zu KW4. In Storyform A trägt es MC-Concern, Agency mit Absicht, in B OS-Physics, laut der strukturierten Outline den dritten Signpost des OS in B, Progress.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 27
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 27, in Teil 3: Die Transzendenz, is titled „Nach dem Kollaps“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L371]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Erneuter Ruf zum Abenteuer`
+
+- The detailed plot draft plans for Kap 27, `Erneuter Ruf zum Abenteuer`: „Er übernimmt die Führung seiner inneren Reise“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L129] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Die Sprache der Symmetrie`
+
+- The Moonshine-Brücke blueprint plans for Kap 27, `Die Sprache der Symmetrie`: „Kael versteht bewusst die Struktur der K-J Verbindung als Teil der M-Hierarchie.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L90] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Der integrierte Selbst“ ^[monstergruppe-primzahlen-plot-blueprint.md:L295]
@@ -29,6 +41,30 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - Plot: „Angesichts von AEGIS' Angriff erreicht Kael den Höhepunkt seiner Integration.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] „Seine fragmentierten Alters verschmelzen zu einem kohärenten Ganzen, das im Einklang mit seiner M-Resonanz und der Moonshine-Verbindung steht.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
 - Establishes: „Er erreicht die Phase“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298] of „Wissen, dass er weiß.“ ^[monstergruppe-primzahlen-plot-blueprint.md:L298]
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Symmetrie (Emergent/Verborgen in Ly)`
+
+- The enriched plot concept's theme draft has for Kapitel 27, under the concept label `Symmetrie (Emergent/Verborgen in Ly)`: „Kael entdeckt, dass er die Welt manipulieren kann, indem er“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L68] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure — `Die Logik des Krieges`
+
+- The three-voice chapter structure plans for Kap 27, `Die Logik des Krieges`: the narrator's „Wenn ein System erkennt, dass seine Kontrolle herausgefordert wird, schaltet es oft von Analyse auf Verteidigung um.“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L299]; an AEGIS alert log with „Kael-Unit initiating unauthorized access to AEGIS Core Logic Layer“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L302]; and, for Kael, a bracketed direction: „Kaels Perspektive würde den Kampf gegen AEGIS“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L311]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Die Paradoxien der Wächter`
+
+- The concept chapter map plans for Kap 27: „Die Konfrontation mit AEGIS' aktiven Abwehrmaßnahmen“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L279]; AEGIS „Setzt gezielte psychologische und logische Verteidigungsmechanismen ein“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L280]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `AEGIS-Abwehr (Fallen)`
+
+- The comprehensive concept's overview gives Kap 27 the label „AEGIS-Abwehr (Fallen)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L102] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 27 „Zerbrochene Fassade“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L60] in its third part, the outer journey and assigns it the primary concept „Akzeptanz und Commitment (zur Konfrontation)“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L60]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — provoked Risse and an advance toward the Überwelt
+
+- The logline analysis proposes for Kap 27: „Kael initiiert seinen Plan, indem er gezielt Instabilitäten“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L256] and „in AEGIS' Überwelt oder einen zentralen Kontrollknotenpunkt vorzudringen“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L256] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Eintritt in die Höhle des Löwen
 
@@ -157,6 +193,14 @@ Position: Teil III; POV from `Perspektive & Stimme`: „Kael (akzeptierend, sart
 
 - The DKT synthesis's chapter 27: „Der Sprung ins Nichts“ ^[roman-synthese-mit-dual-kernel-theorie.md:L275]. Its narrative level: „Kael springt von einem Gebäude in die unbestimmte Zone; Vertrauen“ ^[roman-synthese-mit-dual-kernel-theorie.md:L279]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil III
+
+- The master blueprint places chapter 27 in Teil III, „Die Resonanz der Wirklichkeit“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L61]: „Das System kollabiert.“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L67], and Kael breaks through to the Externe Ebene. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — a chapter on radical contingency of existence, the first of Part III
+
+- The Roman-Outline plans for Kap 27 a chapter on radical contingency of existence, the first of Part III: „Kael akzeptiert die radikale Kontingenz seiner Existenz“ ^[roman-outline-kohaerenz-protokoll.md:L91] Numbered 27 in the whole novel; the export restarts the list in each part, so this is item 1 of Part III. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 Title: „Der Sprung ins Nichts und die Kontingenz“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L115]
@@ -225,6 +269,10 @@ Title: „Der Marsch zum Vortex“ ^[kohaerenz-protokoll-kapitel-outline-generie
 
 - The 39-chapter outline titles Kapitel 27 „Die brennenden Archive“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1017]. It opens „Akt III — Kapitel 27–39“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1013]. It plans: „Der Einschlag des Sweeps auf das Archipel beginnt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1019]; POV Kael / Lex (L1025) — a plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md`, 2026-04-30, the pacing revision — practised dialetheism
+
+In the revision's plan for functional multiplicity, Kap 27 is „praktizierter Dialetheismus“ ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:L25]. A plan of the revision (point 4), recorded, not canon.
+
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 Title: „Autoren-Feder“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L610]
@@ -253,6 +301,10 @@ Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50
 - Storyform A: „MC-Concern: Agency mit Absicht" ^[three-mode-architecture-39-chapters-md.md:L332]
 - Storyform B: „OS-Physics: AEGIS spürt Kaels neue Linearität" ^[three-mode-architecture-39-chapters-md.md:L332]
 - Leitmotif: „Autoren-Feder, klare Linien" ^[three-mode-architecture-39-chapters-md.md:L332]
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 27 as the harvest of the existential-unanchoring strand
+
+The character bible sets the strand of existential unanchoring: „Existentielle Unverankerung.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1115] and places its harvest: „Erntung Kap 27.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1115] The same document opens Act III at Kap 27 in another line, which is a range and not read here. Recorded, not canon.
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -299,6 +351,14 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 
 - Foreshadowing: „Dasein-Strang als Foreshadowing. Existentielle Unverankerung; Kaels Reflexionen Akt I tragen Sartre/Heidegger-Spuren.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L171] · „Erntung Kap 27 (klare Absicht, bereit zur Konfrontation).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L171] (§3.2 Heidegger, marked `[K]`)
 - Where Heidegger stands: „Kap 17, Kap 27, Kap 33, Vortex 2.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L183] (§3.2)
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — the harvest of the Dasein strand
+
+In the foreshadowing table the sensory drafting manual gives the Dasein strand, „Existentielle Unverankerung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L448], a harvest at Kap 27, glossed „Ordinary World, klare Absicht“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L448]. The first trace of the strand lies in Kael's reflections of Akt I, the accumulation in Akt II. In this table Kap 27 is thus the point where the strand is harvested and where the manual puts a clear intention. Its range, Kap 27–34, is also the first of the Akt III Phase A the manual sets in §11, which is not a reading of Kap 27 alone. A placement of the manual, recorded, not canon.
+
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap 25 deepening — an open question about Kap 27/28
+
+The Kap 25 deepening names Kap 27 and Kap 28 together, in one of its open decisions for Act III: it asks whether the unit of the maintenance station „Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur?“ ^[2026-09-14-kap25-vertiefung-md.md:L59]. The log sets nothing for these chapters; it leaves the carrying-on of that figure as a question. Recorded, not canon.
 
 ## Where the sources differ
 

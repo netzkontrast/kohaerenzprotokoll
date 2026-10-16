@@ -1,0 +1,14 @@
+# kapitel-1-generierungsprozess
+  lines                668  (frontmatter ends at 9)
+  body words           5418
+  headings             18   bold-only lines 0
+  table rows           13   code fences 0
+  question marks       27
+  backslash escapes    85
+  typographic marks    225   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    31
+  repeated labels      none
+  longest line         813 chars
+

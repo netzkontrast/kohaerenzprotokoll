@@ -1,0 +1,44 @@
+{
+  "document": "how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw",
+  "drive_id": "1rJWM8dG99HGqUpMS-HLSN5RyTgYr2LxLr7kX3SISpJg",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 16,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "story": [
+      "Story",
+      "Storytelling"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "Herein"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Story",
+      "Storytelling"
+    ],
+    [
+      "World",
+      "Worlds"
+    ]
+  ]
+}

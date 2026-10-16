@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 7
-readings: 7
+sources: 9
+readings: 9
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "systems-narrative-analysis-the-coherence-protocol-kanon-2026", "outline", "welt", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "umfassendes-lokalitaeten-konzept-fuer-roman", "orte-konzept-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-comprehensive-project-state-narrative-au"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -49,6 +49,12 @@ The second key place is headed „Ort des Kern-Traumas (KW2)“ ^[roman-lokalita
 
 Profile 11 is named „Vergessener Schrein / Kern-Trauma-Lokus“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L262] in KW2. Its core field: „Der physische oder symbolische Ort von Kaels zentralem Trauma“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L263], which „Repräsentiert den verdrängten, schmerzhaften Kern seiner psychischen Wunde“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L263]; the name `Vergessenheit` in it „deutet auf Verdrängung hin“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L263]. Its look is only suggested: „Könnte eine verfallene Struktur sein“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L264]. The plot field: „Zentraler Ort für die Konfrontation mit dem Kerntrauma in KW2“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L269]. Teil I already mentions it as a cave of hidden truths: „verborgene Wahrheiten, Unterbewusstsein“ ^[umfassendes-lokalitaeten-konzept-fuer-roman.md:L33].
 
+## Reading — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept — the places concept's Vergessener Schrein, KW2-01 and profile 4
+
+The places concept lists the place as „Der Vergessene Schrein (Trauma-Lokus)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L297], tagged `Plot Pt. 1` (taken from another text): „Verfallener, überwucherter Ort, der ein Kern-Trauma repräsentiert.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L297] Its function: „Zentrale Konfrontation mit verdrängtem Trauma, Ort starker Risse/Verzerrungen.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L297]
+
+Profile 4 describes „Verfallene Architektur (Tempelruine, zerbrochenes Haus, überwuchertes Denkmal?)“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L394] and proposes that Risse „sind hier keine kleinen Störungen, sondern massive Realitätsbrüche“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L396]. The concept gives it „Dient als Kulminationspunkt für die Konfrontation mit einem bestimmten Trauma.“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L393]
+
 ## Reading — `welt`, 2025-07-29, the Welt blueprint — a cave, one possible element of KW2
 
 The Welt blueprint names the `Vergessener Schrein` once, in the first pass, as a reference for how the second Kernwelt might look; the hedge is the text's own (`möglicherweise`, L48): a world with elements of a forest, ruins or „einer Höhle (verborgene Wahrheiten, Unterbewusstsein – vgl. Vergessener Schrein)“ ^[welt.md:L48].
@@ -56,6 +62,10 @@ The Welt blueprint names the `Vergessener Schrein` once, in the first pass, as a
 ## Reading — `outline`, 2025-07-30, the outline — a Trauma-Lokus in KW2 returned to in Kap 30
 
 The outline's Kap 30 plans: „Kael kehrt zu einem entscheidenden Trauma-Lokus in“ ^[outline.md:L187] `KW2` and confronts a central traumatic memory (L187); the chapter is titled with an `Echo-Lokus` (L186). The line does not call it a shrine; whether it is the page's forgotten shrine is not stated.
+
+## Reading — `kohaerenz-protokoll-comprehensive-project-state-narrative-au`, 2026-03-26, the project-state audit — Vergessener Schrein needs revision
+
+The project-state audit lists the Vergessener Schrein in Act II as the „Site of the Kern-Trauma-Lokus“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L60] in KW2-Mnemosyne, Loc-11, and marks it NEEDS REVISION: „Non-functional until the specific“ ^[kohaerenz-protokoll-comprehensive-project-state-narrative-au.md:L60] Betrayal event is defined.
 
 ## Open
 

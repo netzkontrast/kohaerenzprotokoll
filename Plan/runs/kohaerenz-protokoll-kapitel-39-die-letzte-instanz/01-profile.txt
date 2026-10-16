@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kapitel-39-die-letzte-instanz
+  lines                66  (frontmatter ends at 9)
+  body words           507
+  headings             2   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    2
+  typographic marks    24   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         342 chars
+

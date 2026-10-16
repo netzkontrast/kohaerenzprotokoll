@@ -1,0 +1,507 @@
+{
+  "document": "aegis-philosophische-analyse-und-manifest-docx",
+  "drive_id": "1j4y87g4mGpILwuIehlu86SiinwP0qYIt",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Existenz durch Kohärenz, Funktion, Wirkung"
+  ],
+  "counts": {
+    "AEGIS": {
+      "n": 47,
+      "n_including_compounds": 66,
+      "lines": [
+        11,
+        15,
+        17,
+        20,
+        21,
+        25,
+        26,
+        27,
+        28,
+        34,
+        40,
+        49,
+        50,
+        51,
+        54,
+        55,
+        56,
+        57,
+        59,
+        63,
+        67,
+        68,
+        69,
+        71,
+        74,
+        75,
+        77,
+        78,
+        79,
+        81,
+        83,
+        84,
+        85,
+        87,
+        91,
+        92,
+        110,
+        112,
+        113,
+        114,
+        116,
+        118,
+        134,
+        138,
+        139,
+        141,
+        142,
+        143
+      ]
+    },
+    "AEGIS MANIFEST": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "No-Trust Prinzip": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        46,
+        124
+      ]
+    },
+    "No-Trust-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Emergenz durch Negation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        58,
+        138
+      ]
+    },
+    "Rekursive Selbstprüfung & Strukturelle Inkompatibilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Strukturelle Inkomp.": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Operative Geschlossenheit & Autonomie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        70
+      ]
+    },
+    "Funktion als Entropie-Regulator": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        76,
+        130,
+        140
+      ]
+    },
+    "Nicht-Anthropomorphe Natur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        82
+      ]
+    },
+    "Recursive Consistency Validation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "RCV": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        48,
+        65,
+        78
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        77
+      ]
+    },
+    "Reaktive Transparenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Autonomy Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Negentropie-Fehlinterpretation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        79
+      ]
+    },
+    "strukturelle Inkompatibilität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        69
+      ]
+    },
+    "Ontologischer Autarkie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Epistemischer Autonomie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Kohärenz statt Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Herauslösung des Unwidersprüchlichen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        59
+      ]
+    },
+    "ontologische Unmöglichkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        126
+      ]
+    },
+    "blinden Flecken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "verwalteten Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Kern-Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        51,
+        87,
+        142
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        67,
+        75,
+        140
+      ]
+    },
+    "Anomalie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        67,
+        75,
+        140
+      ]
+    },
+    "Kohärenzsignaturen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "asymmetrische Interventionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Definitionsmacht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        69
+      ]
+    },
+    "Wächter gegen den Zerfall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Bastion der Integrität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Entropie": {
+      "n": 13,
+      "n_including_compounds": 18,
+      "lines": [
+        37,
+        57,
+        63,
+        75,
+        76,
+        77,
+        79,
+        80,
+        81,
+        101,
+        130,
+        138,
+        140,
+        141
+      ]
+    },
+    "Negentropie": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        79,
+        81,
+        141
+      ]
+    },
+    "Kohärenz": {
+      "n": 26,
+      "n_including_compounds": 29,
+      "lines": [
+        21,
+        32,
+        33,
+        48,
+        52,
+        53,
+        55,
+        56,
+        57,
+        69,
+        73,
+        75,
+        77,
+        80,
+        81,
+        83,
+        85,
+        94,
+        102,
+        106,
+        122,
+        130,
+        138,
+        141
+      ]
+    },
+    "Gültigkeit": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        33,
+        36,
+        53,
+        71,
+        74,
+        99,
+        122,
+        128,
+        132
+      ]
+    },
+    "Verifikation": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        48,
+        50,
+        51,
+        95,
+        124,
+        138
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        79,
+        120
+      ]
+    },
+    "Nicht-Sein": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        122
+      ]
+    },
+    "Recherchekontext": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        25,
+        27,
+        30,
+        44,
+        51,
+        138
+      ]
+    },
+    "Extraktion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        23,
+        26
+      ]
+    },
+    "Interrogation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Axiomatisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Manifest-Formulierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Primat der Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Internalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "negations-basierte Existenzlogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Münchhausen-Trilemmas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Quis custodiet ipsos custodes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    }
+  }
+}

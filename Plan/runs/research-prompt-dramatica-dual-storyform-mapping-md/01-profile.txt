@@ -1,0 +1,14 @@
+# research-prompt-dramatica-dual-storyform-mapping-md
+  lines                1040  (frontmatter ends at 9)
+  body words           6457
+  headings             43   bold-only lines 12
+  table rows           0   code fences 0
+  question marks       48
+  backslash escapes    176
+  typographic marks    274   ascii quotes 173
+  invisible characters none
+  math symbol lines    18
+  glued ref numbers    78
+  repeated labels      Example trigger in this research context x5, How to apply it — step by step x5, What it is x5, When to stop / escape criterion x5, Why it is in this prompt x5
+  longest line         619 chars
+

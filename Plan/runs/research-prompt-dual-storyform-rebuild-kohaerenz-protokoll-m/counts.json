@@ -1,0 +1,1170 @@
+{
+  "document": "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
+  "drive_id": "1cerl5kpzYP4LBhz4jWbwquIUD_LQnw04OpS1aCAtJiU",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        42,
+        172,
+        351,
+        1024
+      ]
+    },
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        355,
+        359,
+        367,
+        379,
+        465,
+        527,
+        689
+      ]
+    },
+    "Juna": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        140,
+        300,
+        311,
+        359,
+        367,
+        379,
+        685,
+        689
+      ]
+    },
+    "AEGIS": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        311,
+        327,
+        359,
+        363,
+        367,
+        371,
+        379,
+        383,
+        465,
+        496,
+        527,
+        689,
+        1160
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        359,
+        367,
+        1160
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        371,
+        379
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        371,
+        690
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        311,
+        371,
+        375
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        375
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        375
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        375
+      ]
+    },
+    "Alter-System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        379
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        355,
+        379
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        355,
+        379
+      ]
+    },
+    "Lex": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Alex": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Rhys": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Selene": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Nyx": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Kiko": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Lia": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Isabelle": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Moros": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Argus": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Silas": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Oblivion": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Silas-Juna-Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Oblivion-AEGIS-Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        383
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        383,
+        387
+      ]
+    },
+    "K0": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        327,
+        363,
+        383
+      ]
+    },
+    "K1": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        327,
+        363,
+        383
+      ]
+    },
+    "Kollaps-Kern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        363,
+        383
+      ]
+    },
+    "Kohärenzkern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        363,
+        383
+      ]
+    },
+    "Erasure": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        363,
+        383
+      ]
+    },
+    "Erasonen": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        383,
+        387,
+        391
+      ]
+    },
+    "Coheronen": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        383,
+        387,
+        391
+      ]
+    },
+    "Erasure-Sweeps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        363
+      ]
+    },
+    "Landauer-Hitze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        363
+      ]
+    },
+    "PAL-Operator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        391
+      ]
+    },
+    "Zeitpfeil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        383
+      ]
+    },
+    "Wächter-Zwiespalt": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        371,
+        1160
+      ]
+    },
+    "Truth Rotation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        395
+      ]
+    },
+    "Vortex": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        395,
+        1160
+      ]
+    },
+    "Ouroboros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        351
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        363
+      ]
+    },
+    "Dialetheia-Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        395
+      ]
+    },
+    "Witness Function": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        359,
+        387
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        690
+      ]
+    },
+    "Leech-Lattice": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Vertex Operator Algebras": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Monstergruppe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Storyform A": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        181,
+        183,
+        284,
+        395,
+        399,
+        446,
+        465,
+        685,
+        686,
+        922,
+        923,
+        936
+      ]
+    },
+    "Storyform B": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        181,
+        183,
+        284,
+        395,
+        399,
+        496,
+        686,
+        923,
+        937
+      ]
+    },
+    "Heuristics of Integration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        183,
+        284,
+        399
+      ]
+    },
+    "Phoenix Collapse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        183,
+        284,
+        399
+      ]
+    },
+    "Suno Album": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "The Weight of Why": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "Memory-Slot-Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "Dual-Mapping": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        64,
+        138,
+        181,
+        415,
+        508,
+        517
+      ]
+    },
+    "Dual-Storyform-Spiegelung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        138,
+        180,
+        539,
+        616,
+        620,
+        745,
+        1036,
+        1044
+      ]
+    },
+    "Spiegelregel": {
+      "n": 14,
+      "n_including_compounds": 25,
+      "lines": [
+        64,
+        68,
+        424,
+        434,
+        527,
+        636,
+        648,
+        652,
+        667,
+        688,
+        784,
+        798,
+        813,
+        843,
+        847,
+        877,
+        901,
+        921,
+        925,
+        935,
+        1068,
+        1072,
+        1160
+      ]
+    },
+    "Mirror-Operator": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        181,
+        660,
+        1048
+      ]
+    },
+    "Maximum-2-Ebenen-Überlagerung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        140,
+        527,
+        652
+      ]
+    },
+    "Maximum 2 Ebenen pro Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        687
+      ]
+    },
+    "Fixpunkte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        656,
+        1056,
+        1060
+      ]
+    },
+    "Guardian-Kollektiv": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        689
+      ]
+    },
+    "MAPIT": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        23,
+        130,
+        132,
+        160,
+        164,
+        584,
+        697
+      ]
+    },
+    "ReAct": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        86,
+        88,
+        132,
+        164
+      ]
+    },
+    "NotebookLM": {
+      "n": 6,
+      "n_including_compounds": 21,
+      "lines": [
+        35,
+        93,
+        139,
+        187,
+        272,
+        286,
+        302,
+        309,
+        311,
+        339,
+        347,
+        477,
+        597,
+        674,
+        715,
+        766,
+        780,
+        954,
+        968,
+        1148,
+        1168
+      ]
+    },
+    "Contradiction Log": {
+      "n": 15,
+      "n_including_compounds": 17,
+      "lines": [
+        21,
+        255,
+        273,
+        276,
+        324,
+        471,
+        477,
+        485,
+        487,
+        566,
+        728,
+        764,
+        781,
+        782,
+        984,
+        1120,
+        1194
+      ]
+    },
+    "Query Expansion Log": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        562,
+        992,
+        1124,
+        1190,
+        1198
+      ]
+    },
+    "Falsification": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        409,
+        726,
+        984
+      ]
+    },
+    "Contrast Classes": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        20,
+        440,
+        727,
+        818,
+        984
+      ]
+    },
+    "Adversarial Query Expansion": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        23,
+        94,
+        128,
+        533,
+        724,
+        984,
+        992,
+        1190
+      ]
+    },
+    "First-Principles Decomposition": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        22,
+        502,
+        725,
+        745,
+        984
+      ]
+    },
+    "Reflection Baseline": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        211,
+        711,
+        1189
+      ]
+    },
+    "Pre-Synthesis Integrity Check": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        114,
+        220,
+        574,
+        1197
+      ]
+    },
+    "Mandate": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        136,
+        144,
+        152,
+        170,
+        586,
+        588,
+        744
+      ]
+    },
+    "Architecture": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        36,
+        137,
+        153,
+        345,
+        590,
+        596,
+        716
+      ]
+    },
+    "Permutation Mathematics": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        138,
+        154,
+        614,
+        688
+      ]
+    },
+    "Interrogation": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        27,
+        35,
+        139,
+        155,
+        309,
+        672,
+        715,
+        766,
+        954,
+        1148
+      ]
+    },
+    "Tensioning": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        28,
+        140,
+        144,
+        156,
+        182,
+        676,
+        744
+      ]
+    },
+    "Compact Primer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        345,
+        596,
+        716
+      ]
+    },
+    "Surviving-Branch Triangulation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        825,
+        996
+      ]
+    },
+    "Hypothesis Half-Life Audit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        863,
+        893,
+        996
+      ]
+    },
+    "Throughline": {
+      "n": 15,
+      "n_including_compounds": 23,
+      "lines": [
+        140,
+        181,
+        299,
+        508,
+        517,
+        527,
+        605,
+        608,
+        652,
+        685,
+        686,
+        687,
+        689,
+        746,
+        922,
+        938,
+        1068
+      ]
+    },
+    "Domains": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        180,
+        605,
+        640,
+        688
+      ]
+    },
+    "Universe": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        496,
+        605,
+        628,
+        640,
+        803,
+        804
+      ]
+    },
+    "Physics": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        605,
+        640,
+        803,
+        804
+      ]
+    },
+    "Mind": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        260,
+        605,
+        640,
+        686,
+        690,
+        784,
+        802,
+        803,
+        804
+      ]
+    },
+    "Psychology": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        605,
+        628,
+        640,
+        803,
+        804
+      ]
+    },
+    "Perspektiven": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        180,
+        605,
+        606,
+        641,
+        688,
+        745,
+        805,
+        922
+      ]
+    },
+    "Overall Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        605
+      ]
+    },
+    "Main Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        605
+      ]
+    },
+    "Influence Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        605
+      ]
+    },
+    "Relationship Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        605
+      ]
+    },
+    "Quad": {
+      "n": 2,
+      "n_including_compounds": 10,
+      "lines": [
+        68,
+        424,
+        434,
+        527,
+        547,
+        555,
+        605,
+        648,
+        803
+      ]
+    },
+    "Driver": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        180,
+        527,
+        607,
+        643,
+        669,
+        688,
+        690,
+        746,
+        921,
+        922,
+        925,
+        935,
+        1052
+      ]
+    },
+    "Limit": {
+      "n": 5,
+      "n_including_compounds": 11,
+      "lines": [
+        180,
+        527,
+        607,
+        643,
+        669,
+        688,
+        746,
+        921,
+        922,
+        935,
+        1052
+      ]
+    },
+    "Outcome": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        24,
+        136,
+        152,
+        180,
+        607,
+        643,
+        669,
+        746,
+        921,
+        922,
+        935,
+        1052
+      ]
+    },
+    "Judgment": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        180,
+        607,
+        643,
+        669,
+        746,
+        921,
+        922,
+        935,
+        1052
+      ]
+    },
+    "Optionlock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        607
+      ]
+    },
+    "Timelock": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        607
+      ]
+    },
+    "Concerns": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        608,
+        644
+      ]
+    },
+    "Issues": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        608,
+        644
+      ]
+    },
+    "Problems": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        608,
+        644
+      ]
+    },
+    "Solutions": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        608,
+        644
+      ]
+    },
+    "Storypoints": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        138,
+        180,
+        608,
+        620,
+        652,
+        656,
+        746
+      ]
+    },
+    "Dynamics": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        517,
+        607,
+        745
+      ]
+    },
+    "Dialetheia": {
+      "n": 0,
+      "n_including_compounds": 3,
+      "lines": [
+        375,
+        395,
+        656
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        359
+      ]
+    }
+  }
+}

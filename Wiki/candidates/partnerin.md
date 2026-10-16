@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 10
-readings: 10
+sources: 14
+readings: 14
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten"]
 gathered: "2026-09-17"
 ---
 
@@ -49,6 +49,18 @@ The reply gives `Partnerin` as the name for Julia in the frame of its premise (L
 
 In the Guardians' list it makes the Partnerin the missing piece of Sophia's picture: she synthesises the other Guardians' data, but „ohne das entscheidende fehlende Puzzlestück“ ^[welten.md:L69] (the true nature of the Partnerin or K-J connection) she reaches an incomplete or wrong overall picture, „kommt sie dennoch zu einem unvollständigen oder falschen Gesamtbild“ ^[welten.md:L69].
 
+## Reading — `monstergruppe-babygruppe-und-kael`, 2025-04-23, the Monster-group analogy report — Juna named as Kael's Partnerin
+
+The Monster-group analogy report introduces the pairing with Juna as a relationship: „seiner Partnerin Juna (B)“ ^[monstergruppe-babygruppe-und-kael.md:L15]. An analogy report; recorded, not applied.
+
+## Reading — `monstergruppe-babymonstergruppe-fragmentierung-erzaehlung`, 2025-04-23, the coset-space report — Juna named as Kael's Partnerin
+
+The coset-space report introduces Juna as Kael's partner, whose loss triggers the fragmentation: „Partnerin Juna, die durch B symbolisiert wird“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L15]. An analogy report; recorded, not applied.
+
+## Reading — `monstergruppe-aegis-und-narrative-moeglichkeiten`, 2025-04-24, the Monster-group source report — Juna named as Kael's Partnerin
+
+The Monster-group source report uses the word once, in its opening, to place Juna in relation to Kael: „dessen entfernte Partnerin Juna“ ^[monstergruppe-aegis-und-narrative-moeglichkeiten.md:L15].
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — Julia as a Partnerin or another Kohärenz-Insel
 
 The word `Partnerin` ^[kohaerenz-protokoll-plotideen-generierung.md:#1] stands once, in the sentence on the Kael-Julia link: the link joins Kael with a deeper reality level, „Sie verbindet Kael mit einer externen oder tieferliegenden Realitätsebene (repräsentiert durch Julia“ ^[kohaerenz-protokoll-plotideen-generierung.md:L188], and Julia is there described as a `Partnerin` or another Kohärenz-Insel, both words put in the document's own inner quotation marks. The sentence is a description the document reports, hedged by the alternative; it is read on juna.
@@ -60,6 +72,10 @@ The plan names the Partnerin only in the blind spots of the Guardians: „insbes
 ## Reading — `outline`, 2025-07-30, the outline — Die Wende der Partnerin, Kap 35
 
 Kap 35 is titled „Das Fundament als Spiegel: Auflösung der Paradoxien / Die Wende der Partnerin“ ^[outline.md:L230] (L230). The plot line names the partner figure as Juna/V (L232), and the Fokus says „Kaels ultimative innere Integration wird durch Verbindung erreicht.“ ^[outline.md:L235] (L235).
+
+## Reading — `roman-kapitel-1-erstellung-analyse`, 2025-12-28, the chapter-1 analysis — `die Partnerin` in the drafted interface scene
+
+The chapter-1 analysis drafts: „Dies war Juna, die Partnerin“ ^[roman-kapitel-1-erstellung-analyse.md:L75], and adds that, mediated by AEGIS's filters, the image appeared distorted by perfection. A draft, recorded, not canon.
 
 ## Reading — `roman-entwicklung-kohaerenz-und-leitfragen`, 2026-02-23, the Leitfragen report — the Partnerin (Juna) as the one the Guardians misread
 

@@ -1,0 +1,14 @@
+# narrative-vertiefung-kohaerenz-protokoll
+  lines                972  (frontmatter ends at 9)
+  body words           17149
+  headings             2   bold-only lines 30
+  table rows           0   code fences 0
+  question marks       64
+  backslash escapes    76
+  typographic marks    40   ascii quotes 414
+  invisible characters U+200Bx3
+  math symbol lines    0
+  glued ref numbers    263
+  repeated labels      none
+  longest line         1268 chars
+

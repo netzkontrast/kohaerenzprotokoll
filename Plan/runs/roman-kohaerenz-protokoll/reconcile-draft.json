@@ -1,0 +1,209 @@
+{
+  "document": "roman-kohaerenz-protokoll",
+  "drive_id": "1-qJDwKciE7L-RJzqALCUQDLTbwZdld1nAIsBzeUmGc4",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 91,
+    "decided_by_lookup": 62,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        146,
+        156,
+        168,
+        255,
+        280,
+        300,
+        320
+      ],
+      "attribution": "",
+      "note": "modules and the Secure Isolation State named in the report"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        232,
+        236,
+        250,
+        284,
+        296,
+        314,
+        344
+      ],
+      "attribution": "",
+      "note": "AEGIS in its own report and in the narrator's voice"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        401
+      ],
+      "attribution": "",
+      "note": "Alters hinted, not assigned"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        389
+      ],
+      "attribution": "",
+      "note": "`(Cerberus?)` as the narrator's guess at a voice in Kael"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        272
+      ],
+      "attribution": "",
+      "note": "the Risse as manifestations of digital entropy"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        359,
+        361,
+        365,
+        367
+      ],
+      "attribution": "",
+      "note": "Juna as a formal voice that flickers"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        355,
+        363,
+        371,
+        375,
+        379,
+        401,
+        405,
+        413,
+        537
+      ],
+      "attribution": "",
+      "note": "Kael waking, doubting, hearing several voices"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        393,
+        395
+      ],
+      "attribution": "",
+      "note": "the Wohneinheit as the place of intrusions"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        407
+      ],
+      "attribution": "",
+      "note": "`(Kairos?)` as the narrator's guess at a voice in Kael"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        373,
+        399,
+        409,
+        411
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt as cold order, cage and ruin"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        365,
+        377
+      ],
+      "attribution": "",
+      "note": "LogOS as surveillance and as Juna's sync target"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        272,
+        389,
+        395
+      ],
+      "attribution": "",
+      "note": "Risse as entropy, as perception, as search"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        395
+      ],
+      "attribution": "",
+      "note": "`(Echo ? Silas ?)` as the narrator's guess"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        270,
+        300
+      ],
+      "attribution": "",
+      "note": "the Überwelt dissolving and re-forming at the reboot"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C9"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q4"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 272,
+      "decision": "reading",
+      "why": "the Risse as manifestations of digital entropy"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 114,
+      "decision": "occurrence",
+      "why": "the passage's heading"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

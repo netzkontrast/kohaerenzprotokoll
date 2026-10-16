@@ -1,0 +1,424 @@
+{
+  "document": "strategy-of-fragmentation-a-narrative-implementation-plan-fo",
+  "drive_id": "1WKRceIjtIAM76QsfCrCNZSI40sZyusjl_5yloMA9vjM",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        17
+      ]
+    },
+    "performative narrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kael": {
+      "n": 23,
+      "n_including_compounds": 24,
+      "lines": [
+        17,
+        21,
+        25,
+        26,
+        34,
+        36,
+        37,
+        38,
+        40,
+        46,
+        60,
+        74,
+        75,
+        76,
+        80,
+        88,
+        94,
+        96,
+        97
+      ]
+    },
+    "AEGIS": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        21,
+        25,
+        26,
+        37,
+        38,
+        55,
+        60,
+        74,
+        76,
+        94,
+        96
+      ]
+    },
+    "Tertiary Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        88
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        76,
+        96
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Triple Helix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        34
+      ]
+    },
+    "Act I": {
+      "n": 1,
+      "n_including_compounds": 7,
+      "lines": [
+        36,
+        37,
+        38,
+        62,
+        64,
+        68,
+        80
+      ]
+    },
+    "Act II": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        37,
+        38,
+        62,
+        64,
+        68,
+        80
+      ]
+    },
+    "Act III": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        80
+      ]
+    },
+    "Anscheinend Normale Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "ANP": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        36,
+        37,
+        55,
+        56,
+        80
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        80
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "EPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "EP": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        57,
+        58,
+        59
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "irreversible costs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        38,
+        74,
+        80
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        56,
+        74,
+        94
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        74
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "AEGIS Protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Kael-Unit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Voice Protocol Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Psychological Degradation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "External World Decay": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Relational Erosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Riss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        95
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Gardener": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        80
+      ]
+    },
+    "narrative toolkit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "glitch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        95
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Heroine's Journey": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36
+      ]
+    },
+    "Hero's Journey": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38
+      ]
+    },
+    "Gestalt principles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Principle of Proximity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Principle of Similarity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Principle of Closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Principle of Good Continuation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    }
+  }
+}

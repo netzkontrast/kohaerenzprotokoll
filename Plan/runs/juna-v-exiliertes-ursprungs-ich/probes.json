@@ -1,0 +1,248 @@
+{
+  "document": "juna-v-exiliertes-ursprungs-ich",
+  "drive_id": "1Kd1GzGbaFDdN0FHZjBQXfPJ8-_CnxOahDfAKqbfL4fA",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 64,
+  "backslash_escapes": 32,
+  "typographic_marks": 14,
+  "ascii_quotes": 190,
+  "inflection_families": {
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterbögen",
+      "Charakterdynamik",
+      "Charaktere",
+      "Charaktereigenschaft",
+      "Charakterisierung"
+    ],
+    "bifur": [
+      "Bifurcation",
+      "Bifurcations",
+      "Bifurkation",
+      "Bifurkationsereignis",
+      "Bifurkationsparameter",
+      "Bifurkationstheorie"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modelling",
+      "Models"
+    ],
+    "seele": [
+      "Seele",
+      "Seelenanteil",
+      "Seelenanteils",
+      "Seelenraub",
+      "Seelenrückholung",
+      "Seelenverlust"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsmodellen",
+      "Bewusstseinsraum",
+      "Bewusstseinszustände"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungsentwicklung",
+      "Handlungsfähigkeit",
+      "Handlungsimpulsen",
+      "Handlungsinstrument"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatry",
+      "Psychologische",
+      "Psychology",
+      "Psychotraumatology"
+    ],
+    "quant": [
+      "Quanteninformationssysteme",
+      "Quanteninformationstheorie",
+      "Quantenverschränkung",
+      "Quantenzustände",
+      "Quantum"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transformation",
+      "Transitions",
+      "Transzendentes",
+      "Transzendenz"
+    ],
+    "feuer": [
+      "Feuer",
+      "Feuerwehrmann",
+      "Feuerwehrmanns",
+      "Feuerwehrmänner"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumas",
+      "Traumastudien"
+    ],
+    "arche": [
+      "Archetyp",
+      "Archetype",
+      "Archetypes"
+    ],
+    "daten": [
+      "Datenanalyse",
+      "Datenpunkten",
+      "Datensatz"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensional",
+      "Dimensions"
+    ],
+    "energ": [
+      "Energetische",
+      "Energie",
+      "Energiefeld"
+    ],
+    "exila": [
+      "Exilant",
+      "Exilanten",
+      "Exilantin"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegenseite",
+      "Gegenüberstellung"
+    ],
+    "herol": [
+      "Herold",
+      "Herolde",
+      "Herolds"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitätsstörungen"
+    ],
+    "imman": [
+      "Immanence",
+      "Immanentes",
+      "Immanenz"
+    ],
+    "inter": [
+      "Interconnectedness",
+      "Interdependenz",
+      "Internal"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanismen",
+      "Mechanismus"
+    ],
+    "multi": [
+      "Multi",
+      "Multiplicity",
+      "Multiplizität"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Eine",
+      "Einem"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Exil",
+      "Exile"
+    ],
+    [
+      "Exil",
+      "Exils"
+    ],
+    [
+      "Exil",
+      "Exiles"
+    ],
+    [
+      "Exil",
+      "Exilant"
+    ],
+    [
+      "Exil",
+      "Exilanten"
+    ],
+    [
+      "Exil",
+      "Exilantin"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Quanteninformationssysteme"
+    ],
+    [
+      "Form",
+      "Quanteninformationstheorie"
+    ],
+    [
+      "Hero",
+      "Herold"
+    ]
+  ]
+}

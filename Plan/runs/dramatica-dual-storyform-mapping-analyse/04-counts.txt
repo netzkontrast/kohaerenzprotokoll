@@ -1,0 +1,166 @@
+# counts for 107 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                5 word     5 in   [11, 15, 25, 264, 265]
+  Kael                             15 word    26 in   [59, 60, 62, 67, 88, 91]
+                                   10      as Kaels
+                                    1      as Kael-zentrierten
+  Juna                             20 word    33 in   [17, 33, 52, 54, 61, 69]
+                                    4      as Juna-Anker
+                                    3      as Juna-Verankerung
+                                    3      as Junas
+                                    2      as Juna-Anker-Mechanismus
+  AEGIS                            37 word    39 in   [53, 59, 61, 67, 69, 75]
+                                    1      as AEGIS-Signatur
+                                    1      as AEGIS-Analyse
+  Guardians                         2 word     2 in   [75, 103]
+  LogOS                             1 word     1 in   [75]
+  Mnemosyne                         1 word     1 in   [75]
+  Cerberus                          1 word     1 in   [75]
+  Kairos/Sophia                     1 word     1 in   [75]
+  Konstrukt-Stadt                   2 word     2 in   [98, 171]
+  Alter                             2 word    19 in   [11, 17, 62, 91, 105, 107]  <-- substring
+                                    8      as Alternative
+                                    4      as Alternativen
+                                    2      as Alters
+  TSDP                              4 word     6 in   [60, 62, 91, 93, 145, 234]
+                                    2      as TSDP-Dissoziation
+  Dual-Kernel-Theorie               3 word     3 in   [15, 31, 89]
+  DKT                               3 word     5 in   [15, 17, 89, 93, 203]
+  Dual-Kernel-Modell                1 word     1 in   [53]
+  Heuristics of Integration         2 word     2 in   [15, 163]
+  Phoenix Collapse                  2 word     2 in   [15, 163]
+  Phönix-Kollaps                    1 word     1 in   [129]
+  Alt-Kanon                         3 word     6 in   [17, 49, 190, 234, 238, 259]
+                                    2      as Alt-Kanons
+                                    1      as Alt-Kanon-Struktur
+  Landauer-Hitze                    5 word     5 in   [17, 53, 78, 240, 244]
+  Erasure-Sweeps                    2 word     2 in   [53, 145]
+  Erasure-Sweep                     1 word     3 in   [53, 99, 145]  <-- substring
+                                    2      as Erasure-Sweeps
+  Moonshine-Link                    1 word     3 in   [90, 122, 255]  <-- substring
+                                    1      as Moonshine-Link-Konstrukt
+                                    1      as Moonshine-Links
+  Vertex-Operator-Algebra           2 word     2 in   [90, 255]
+  Leech-Lattice                     2 word     2 in   [90, 255]
+  Quanten-Witness                   1 word     1 in   [54]
+  Gödel-Satz                        1 word     1 in   [54]
+  Witness-Funktionen                1 word     1 in   [17]
+  Witness Function                  2 word     2 in   [227, 232]
+  Zero-Knowledge-Proofs             1 word     1 in   [17]
+  Zero-Knowledge Proof              4 word     6 in   [69, 179, 191, 205, 236, 245]
+  ZKP                               8 word    11 in   [146, 179, 191, 193, 205, 236]
+  Dialetheia                        2 word     3 in   [133, 181, 192]
+                                    1      as Dialetheia-Toleranz
+  Holarchie                         2 word     3 in   [97, 180, 192]
+                                    1      as Holarchie-Emergenz
+  Algorithmischen Melancholie       1 word     1 in   [254]
+  Vortex-Inversion                  1 word     1 in   [61]
+  Wahrheits-Rotation                1 word     1 in   [31]
+  Truth-Rotation                    1 word     1 in   [232]
+  PSM                               2 word     2 in   [193]
+  Phänomenales Selbstmodell         1 word     1 in   [193]
+  parakonsistenten Raum             2 word     2 in   [17, 165]
+  Orbifold-Konstruktion             1 word     1 in   [165]
+  Ontologische Transposition        4 word     5 in   [17, 57, 85, 109, 169]
+  Prozessuale Transposition         5 word     6 in   [17, 65, 95, 135, 176, 244]
+  Dual-Storyform-Mapping            2 word     2 in   [11, 21]
+  Dual-Storyform-Spiegelung         1 word     2 in   [15, 25]
+                                    1      as Dual-Storyform-Spiegelungen
+  Zustands-Involution               1 word     1 in   [40]
+  Prozess-Involution                1 word     1 in   [41]
+  Lateral-Intern                    1 word     1 in   [42]
+  Lateral-Extern                    1 word     1 in   [43]
+  Domain-Bijektion                  1 word     1 in   [27]
+  Pronomen-Inversion                6 word     6 in   [28, 113, 139, 159, 234, 238]
+  Schichten-Restriktion             1 word     1 in   [29]
+  Überlagerungs-Tensor              1 word     1 in   [29]
+  Thermodynamische Asymmetrie       2 word     2 in   [31, 203]
+  Triple-Stack                      1 word     3 in   [29, 236, 247]  <-- substring
+                                    1      as Triple-Stack-Ebene
+                                    1      as Triple-Stacks
+  Juna-Anker                        4 word     6 in   [114, 118, 140, 144, 172, 179]
+                                    2      as Juna-Anker-Mechanismus
+  Sekundär-Schicht                  4 word     6 in   [15, 114, 140, 172, 174, 181]
+                                    2      as Sekundär-Schicht-Reibung
+  Reibungs-Topologie                2 word     2 in   [167, 236]
+  Hypothesen-Baum                   1 word     1 in   [45]
+  Contradiction Log                 2 word     2 in   [183, 259]
+  Query Expansion Log               1 word     1 in   [195]
+  Cross-Pollination Log             1 word     1 in   [207]
+  Hypothesis Half-Life Audit        1 word     1 in   [212]
+  Reflection History                1 word     1 in   [230]
+  Rationalisierungs-Audit           2 word     3 in   [238, 242, 259]
+                                    1      as Rationalisierungs-Audits
+  MIRROR                            2 word     2 in   [242, 259]
+  ReAct                             1 word     1 in   [259]
+  Methodology Note                  1 word     1 in   [257]
+  Dramatica                        29 word    57 in   [15, 17, 21, 23, 25, 29]
+                                    4      as Dramatica-Theorie
+                                    2      as Dramatica-Diagonal-Gesetze
+                                    1      as Dramatica-Storyform-Architektur
+                                    1      as Dramatica-Domains
+  Storyform                         4 word    14 in   [11, 15, 21, 25, 27, 105]  <-- substring
+                                    1      as Storyforms
+                                    1      as Storyform-Auflösung
+  Storymind                         6 word     8 in   [17, 54, 165, 268, 274, 275]
+                                    2      as Storyminds
+  Throughline                       9 word    19 in   [15, 23, 27, 29, 52, 54]  <-- substring
+                                    4      as Throughlines
+                                    2      as Throughline-Kreuzungen
+                                    1      as throughlines
+  Domain                            9 word    30 in   [15, 17, 23, 27, 29, 39]  <-- substring
+                                    3      as Domain-Muster
+                                    1      as Domains
+                                    1      as Domain-Bijektion
+                                    1      as Domain-Schichten
+  Universe                         38 word    44 in   [15, 23, 40, 43, 51, 53]
+                                    5      as Universe-Domain
+                                    1      as Universe-Prämisse
+  Physics                          35 word    36 in   [15, 17, 23, 41, 43, 51]
+  Mind                             33 word    36 in   [15, 23, 40, 42, 51, 59]
+                                    1      as Mind-Domain
+                                    1      as Mindestens
+                                    1      as Mind-Symmetrie
+  Psychology                       24 word    25 in   [15, 23, 41, 42, 51, 63]
+                                    1      as Psychology-Domain
+  MC                               15 word    24 in   [23, 30, 51, 53, 69, 75]
+  IC                               20 word    27 in   [23, 30, 52, 54, 69, 87]
+  OS                               15 word    19 in   [23, 30, 51, 63, 70, 71]
+  RS                               11 word    12 in   [23, 30, 61, 87, 90, 97]
+  Main Character                    2 word     2 in   [23, 214]
+  Influence Character               1 word     2 in   [23, 236]
+  Objective Story                   1 word     1 in   [23]
+  Relationship Story                1 word     1 in   [23]
+  Pronomen-Achse                    1 word     3 in   [15, 23, 247]  <-- substring
+                                    2      as Pronomen-Achsen
+  Quad-Algebra                      2 word     2 in   [21, 232]
+  Dramatica-Quad-Axiom              1 word     1 in   [23]
+  Dynamik-Tupel                     1 word     1 in   [23]
+  Driver                            3 word     6 in   [23, 43, 124, 150, 163, 254]
+                                    2      as Driver-Pivot
+  Limit                             4 word     5 in   [23, 33, 71, 124, 150]
+                                    3      as limitiert
+                                    1      as limitierenden
+  Outcome                           3 word     5 in   [23, 31, 124, 150, 203]
+                                    2      as Outcomes
+  Judgment                          3 word     3 in   [23, 124, 150]
+  Optionlock                        4 word     5 in   [23, 98, 128, 154, 254]
+                                    1      as Optionlock-Erschöpfung
+  Timelock                          5 word     6 in   [23, 71, 98, 129, 155, 254]
+                                    1      as Timelock-Countdown
+  Fixed Attitude                    1 word     1 in   [61]
+  Problem-Solving-Style             0 word     1 in   [88]
+                                    1      as Problem-Solving-Style-Theorem
+  Landauer’s Principle              2 word     2 in   [69, 159]
+  Landauer-Limit                    0 word     1 in   [33]
+                                    1      as Landauer-Limits
+  Mutual Information                1 word     1 in   [99]
+  Hard Problem of Consciousness     1 word     1 in   [107]
+  Gödel-Unvollständigkeit           1 word     1 in   [165]
+  Steelmanning                      2 word     2 in   [163, 259]
+  First-Principles Decomposition    1 word     1 in   [259]
+  Falsification                     1 word     1 in   [259]
+  Multiplizität                     3 word     3 in   [17, 41, 137]

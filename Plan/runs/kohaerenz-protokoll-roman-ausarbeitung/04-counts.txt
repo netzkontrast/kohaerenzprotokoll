@@ -1,0 +1,91 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             63 word   138 in   [15, 29, 33, 41, 45, 49]  <-- substring
+                                   72      as Kaels
+                                    2      as Kael-Fragmente
+                                    1      as Kael-Instanzen
+  Juna                              9 word     9 in   [85, 93, 121, 167, 311, 316]
+  AEGIS                           104 word   111 in   [19, 29, 33, 41, 49, 57]
+                                    2      as AEGIS-Perspektive
+                                    2      as AEGIS-Logik
+                                    1      as AEGIS-System
+                                    1      as AEGIS-assoziiert
+  Kael/M                            8 word     8 in   [33, 314, 330, 331, 332, 333]
+  Kernwelten                       28 word    28 in   [19, 37, 41, 59, 69, 77]
+  Co₁                               7 word     7 in   [85, 185, 191, 233, 234, 241]
+  McL                               5 word     6 in   [185, 201, 234, 241, 421, 514]
+  Ly                                6 word     6 in   [137, 185, 221, 234, 241, 476]
+  Welt B                            4 word     4 in   [85, 378, 407, 476]
+  Welt Co₁                          1 word     1 in   [85]
+  Welt Ly                           2 word     2 in   [137, 476]
+  Ordnung/Order                     1 word     1 in   [191]
+  Netzwerk/Network                  1 word     1 in   [201]
+  Chaos/Schatten                    3 word     3 in   [85, 185, 211]
+  Potential/Potentialität           1 word     1 in   [221]
+  Moonshine-Link                    2 word     2 in   [41, 161]
+  K-J-Link                          1 word     1 in   [49]
+  K-J Verbindung                    2 word     2 in   [59, 310]
+  K-J-Verbindung                    2 word     2 in   [169, 420]
+  Kohärenz Protokoll               20 word    20 in   [11, 15, 23, 33, 41, 49]
+  Kohärenzprotokoll                 2 word     2 in   [270, 295]
+  Cache Kohärenz                    8 word     8 in   [19, 256, 258, 260, 262, 264]
+  Cache-Inkohärenz                  8 word     9 in   [69, 77, 250, 271, 275, 293]
+                                    1      as Cache-Inkohärenzen
+  Cache-Kohärenz-Metapher           2 word     2 in   [295, 485]
+  Cache-Invalidierung               1 word     1 in   [284]
+  Realitäts-Caches                  1 word     1 in   [252]
+  Risse                             2 word     4 in   [121, 157, 163, 178]
+                                    2      as Rissen
+  Einblicke in AEGIS                1 word     1 in   [149]
+  fundamentales Konzept             1 word     1 in   [394]
+  Fundamentale Konzept              1 word     1 in   [423]
+  Fundamentales Konzept             1 word     1 in   [453]
+  Erzähler                          7 word    15 in   [405, 419, 423, 433, 457, 459]  <-- substring
+                                    3      as Erzählers
+                                    2      as Erzähler-
+                                    1      as Erzählerstimme
+                                    1      as Erzählerreflexionen
+  Teil 1                            9 word     9 in   [93, 103, 299, 301, 320, 339]
+  Teil 2                           15 word    15 in   [101, 103, 243, 314, 320, 322]
+  Teil 3                           11 word    11 in   [93, 103, 299, 318, 320, 322]
+  Kapitel 1-13                      1 word     1 in   [301]
+  Kapitel 14-26                     1 word     1 in   [360]
+  Kapitel 27-39                     1 word     1 in   [318]
+  Abstieg zur Göttin                2 word     2 in   [310, 352]
+  Heilige Hochzeit                  1 word     1 in   [314]
+  Ordal/Feuerprobe                  2 word     2 in   [329, 352]
+  Gödel'sche Grenzen                1 word     1 in   [161]
+  Holismus-Problem                  1 word     1 in   [162]
+  Feuerwehr-Teil                    1 word     1 in   [293]
+  Kohärenz-Metriken                 1 word     1 in   [449]
+  Autopoiesis                      13 word    13 in   [109, 145, 147, 485, 558, 559]
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+  Autopoietische KI                 1 word     1 in   [109]
+  Holismus                          9 word    10 in   [17, 27, 53, 59, 162, 179]
+                                    1      as Holismus-Problem
+  Reduktionismus                   11 word    11 in   [17, 27, 53, 57, 59, 151]
+  Dissoziation                      8 word     8 in   [63, 73, 77, 271, 275, 295]
+  Derealisation                     5 word     5 in   [41, 73, 77, 282, 295]
+  Depersonalisation                 4 word     4 in   [73, 77, 283, 295]
+  Dissoziative Identitätsstörung    1 word     1 in   [73]
+  Internal Family Systems           4 word     4 in   [81, 529, 531, 532]
+  IFS                              12 word    16 in   [81, 85, 197, 217, 227, 242]
+  Kern-Selbst                       5 word     5 in   [81, 85, 227, 293, 377]
+  Exilanten                         5 word     6 in   [81, 85, 217, 242]
+                                    1      as Exilanten-Anteile
+  Feuerwehrleute                    1 word     1 in   [81]
+  Nicht-lineare Heilung             1 word     1 in   [97]
+  Heldinnenreise                   12 word    12 in   [19, 89, 93, 103, 297, 299]
+  Heldenreise                      13 word    13 in   [19, 89, 93, 103, 297, 299]
+  Monstergruppe                     5 word     5 in   [125, 139, 162, 485]
+  Symmetrie                        24 word    33 in   [125, 129, 133, 137, 139, 185]
+                                    5      as Symmetrien
+                                    1      as Symmetrieaspekt
+                                    1      as Symmetrieprinzipien
+                                    1      as Symmetries
+  Emergenz                          1 word     1 in   [414]
+  Environmental Storytelling        2 word     2 in   [233, 630]
+  Cosmic Horror                     3 word     3 in   [225, 473, 476]

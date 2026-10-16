@@ -1,0 +1,459 @@
+{
+  "document": "gravitation-realitaet-simulation-wahrheit-2",
+  "drive_id": "1ZG_nT3tq2sufx5nohQVP8ZfOjRoQrvGQe3gSrPzP4mc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Gravitations-Theorie der Wahrheit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        13,
+        23,
+        58,
+        279,
+        340
+      ]
+    },
+    "Schwarzschild-Protokoll": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        135,
+        346
+      ]
+    },
+    "Station Aletheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Das Archiv": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        143,
+        147,
+        149,
+        301,
+        325
+      ]
+    },
+    "Kurator": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        143,
+        149,
+        169,
+        175,
+        185,
+        223,
+        229
+      ]
+    },
+    "Elara Vance": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        269
+      ]
+    },
+    "Archivarin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "K-Probe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Primär-Datum": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        155,
+        159,
+        173,
+        183,
+        195,
+        205,
+        287
+      ]
+    },
+    "Raw-Data-Packet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Kohärente Lüge": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        301
+      ]
+    },
+    "Schwebende Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Schwere Korrespondenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Korrespondenz ist Gravitation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Das Große Faktum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Großen Faktum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        85
+      ]
+    },
+    "Autopoietische Orbit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Metrische Tensor der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        84
+      ]
+    },
+    "Metrische Tensor der Lüge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Gezeitenkräfte": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        85,
+        97,
+        327,
+        329
+      ]
+    },
+    "Gezeitenkraft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        209
+      ]
+    },
+    "Spaghettisierung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        27,
+        97,
+        101,
+        201,
+        302,
+        328,
+        344
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        64,
+        72,
+        159,
+        239,
+        269,
+        312
+      ]
+    },
+    "Singularität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        72,
+        147,
+        161,
+        243,
+        265,
+        327
+      ]
+    },
+    "Resonanzkatastrophe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        249,
+        330
+      ]
+    },
+    "Ontologische Lag": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Lag": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        117,
+        189
+      ]
+    },
+    "Glitch": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        27,
+        93,
+        111,
+        118,
+        119,
+        294,
+        332,
+        344,
+        383
+      ]
+    },
+    "Texture Stretching": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118,
+        332
+      ]
+    },
+    "Z-Fighting": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        215,
+        332
+      ]
+    },
+    "Tunnelblick": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        129,
+        219
+      ]
+    },
+    "Greyout": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        129,
+        219,
+        225
+      ]
+    },
+    "G-LOC": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        123,
+        130,
+        379
+      ]
+    },
+    "Geasles": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131
+      ]
+    },
+    "Hitzeschild": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Gravitatives Rendering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Skybox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        301
+      ]
+    },
+    "Drahtgittermodell": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        215
+      ]
+    },
+    "Kollisionsabfrage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Systemsprenger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        283
+      ]
+    },
+    "Verifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Konstatierungen": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        64,
+        68,
+        70,
+        72,
+        310,
+        365,
+        386
+      ]
+    },
+    "Protokollsätzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Schwerelosigkeit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        39,
+        43,
+        45,
+        151,
+        327
+      ]
+    },
+    "Kohärenztheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        43,
+        325
+      ]
+    },
+    "Korrespondenztheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        58,
+        325
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        331
+      ]
+    },
+    "Operative Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Strukturelle Kopplung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        331
+      ]
+    },
+    "strukturell gekoppelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Simulationstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Allgemeine Relativitätstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    }
+  }
+}

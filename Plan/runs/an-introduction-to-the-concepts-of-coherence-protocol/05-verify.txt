@@ -1,0 +1,6 @@
+$ python3 scripts/read.py an-introduction-to-the-concepts-of-coherence-protocol --count "Stated Goal"   -> 2  (`Stated Goal` ^[...#2])
+$ python3 scripts/read.py an-introduction-to-the-concepts-of-coherence-protocol --count "Tragic Reality" -> 2  (`Tragic Reality` ^[...#2])
+stance_marker_count 4 = 2 + 2
+$ python3 scripts/read.py an-introduction-to-the-concepts-of-coherence-protocol --count "canon" -> 0
+$ python3 scripts/read.py ... --count "Risse" -> 1 ; "functional multiplicity" -> 2 ; "Juna/V" -> 3 ; "Das Fundament" -> 2
+profile: 18 backslash escapes (01-profile.txt)

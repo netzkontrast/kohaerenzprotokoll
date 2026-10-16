@@ -1,0 +1,98 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a research protocol in German: a six-phase literature scan of real-world concepts offered as building blocks for an "abstracted core concept" of a narrative. Its own story-world words are few and generic (Entität, Protagonist, Risse, Äußere, Verbindung, Kernspannung, Grenze, Raum); the rest are borrowed concepts from physics, mathematics, philosophy and psychology, listed under the lens heading. L556 to L673 is a numbered reference list of web sources, not read for terms.
+
+## story world
+- Kohärenz Protokoll
+- abstrahierte Kernkonzept
+- Entität
+- Protagonist
+- Risse
+- Äußere
+- Kernspannung
+- Verbindung
+- Grenze
+- Raum
+- NZT-Protokoll
+
+## own terms
+- Forschungsmandat
+- Resonanzstärke
+- Neuheitspotenzial
+- Generative Kraft
+- Erhellungskapazität
+- Konzept-Mapping
+- Schlüsselkonzept/Cluster
+- Organisatorische Schließung
+- Autopoiesis & Organisatorische Schließung
+- Selbstorganisation
+- Pfadabhängigkeit
+- Rand des Chaos
+- schwache Emergenz
+- starke Emergenz
+- Downward Causation
+- kaskadierende Fehler
+- strukturelle Kopplung
+- Identitätsfragmentierung
+- Emergent Engineering
+- Emergentes Engineering
+- Intentionalität
+- Epoché
+- Lebenswelt
+- Verkörperung
+- Noesis
+- Noema
+- Abstraktionsebenen
+- Haecceitas
+- kontextuelle Individualität
+- Radikaler OSR
+- Moderater OSR
+- Forschungszyklus
+
+## lens
+- Ontischer Struktureller Realismus
+- OSR
+- ESR
+- Autopoiesis
+- Emergenz
+- Komplexe Adaptive Systeme
+- CAS
+- Quantenverschränkung
+- Nichtlokalität
+- Phänomenologie
+- Parakonsistente Logik
+- Dialetheismus
+- Dissoziative Identitätsstörung
+- DID
+- Quantenvakuumfeld
+- QVF
+- Quantenvakuum
+- Nullpunktenergie
+- ZPE
+- Casimir-Effekt
+- Monstrous Moonshine
+- Monstergruppe
+- Gruppentheorie
+- Topologische Defekte
+- Kategorientheorie
+- Relationale Biologie
+- Relationaler Realismus
+- Kausaler Strukturalismus
+- Informationsontologie
+- LoA
+- Integrierte Informationstheorie
+- IIT
+- Apophatische Theologie
+- Kybernetik
+- Chaostheorie
+- Seltsame Attraktoren
+- Dunkle Energie
+- Emergente Raumzeit
+- Systemdenken
+- Kaskadierende Fehler
+- Phasenübergang
+- Homöostase
+- Vertexoperatoralgebra
+- Ex contradictione quodlibet
+- Simulationstheorie
+- Panpsychismus

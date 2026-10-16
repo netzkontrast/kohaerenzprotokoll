@@ -1,0 +1,101 @@
+# counts for 83 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                8 word     8 in   [13, 27, 79, 643, 648, 649]
+  Der Eintritt in die Ergosphäre    1 word     1 in   [27]
+  Ergosphäre                        4 word     4 in   [27, 60, 111, 633]
+  Kael                             54 word    58 in   [27, 44, 55, 57, 58, 107]
+                                    4      as Kaels
+  System Kael                       1 word     1 in   [27]
+  Kernwelt 1 (KW1)                  1 word     1 in   [37]
+  Kernwelt 1                        1 word     1 in   [37]
+  KW1                               7 word     7 in   [37, 44, 47, 138, 184, 472]
+  Konstrukt-Stadt                   1 word     1 in   [37]
+  Logos-Prime                       2 word     2 in   [37, 184]
+  Protokoll-Ontologie               2 word     2 in   [33, 37]
+  Dual Kernel Theory                1 word     1 in   [39]
+  Kohärenz-Kernel                   1 word     1 in   [44]
+  Kollaps-Kernel                    1 word     1 in   [45]
+  AEGIS                             7 word     9 in   [44, 47, 85, 134, 158, 438]
+                                    1      as AEGIS-Kerns
+                                    1      as AEGIS-Forschung
+  ANP                               6 word     9 in   [44, 57, 96, 160, 162, 176]
+  Apparently Normal Part            2 word     2 in   [44, 57]
+  EPs                               2 word     2 in   [58, 166]
+  Emotional Parts                   1 word     1 in   [58]
+  Negentropie                       5 word     5 in   [47, 124, 156, 158, 621]
+  Sterile Stille                    1 word     1 in   [621]
+  Technischen Natürlichkeit         1 word     1 in   [29]
+  Glitches                          4 word     4 in   [29, 45, 68, 654]
+  Risse                             3 word     3 in   [29, 45, 68]
+  Hierarchie-Problem                4 word     4 in   [29, 58, 124, 164]
+  Gravitationsarchitektur           1 word     1 in   [29]
+  Going on with Normal Life         1 word     1 in   [57]
+  Genesis-Krise                     1 word     1 in   [57]
+  Leckage-Hypothese                 1 word     1 in   [58]
+  Bulk                              3 word     3 in   [58, 166, 452]
+  Brane                             2 word     5 in   [29, 55, 58, 166]  <-- substring
+                                    3      as Brane-Kosmologie
+  Moros                             1 word     1 in   [45]
+  Nyx                               8 word     8 in   [45, 462, 464, 480, 482, 562]
+  Z-Fighting                       10 word    10 in   [72, 76, 79, 178, 242, 280]
+  Textur A (Kohärenz)               1 word     1 in   [83]
+  Textur B (Korrespondenz)          1 word     1 in   [84]
+  Ontologische Dissonanz            1 word     1 in   [85]
+  Vertex Explosion                  8 word     8 in   [89, 93, 96, 494, 546, 592]
+  Texture Stretching                7 word     7 in   [100, 104, 304, 430, 474, 476]
+  Körperschema                      1 word     3 in   [89, 96, 598]  <-- substring
+                                    2      as Körperschemas
+  Derealisation                     4 word     4 in   [107, 474, 478, 623]
+  Bilbo-Beutlin-Effekt              1 word     1 in   [107]
+  Sequenz Alpha                     1 word     1 in   [116]
+  Sequenz Beta                      1 word     1 in   [170]
+  Wohneinheit 4-Alpha               1 word     1 in   [122]
+  Sektor Gamma                      1 word     1 in   [122]
+  Juna                             10 word    11 in   [83, 84, 176, 210, 220, 228]
+                                    1      as Junas
+  Uncanny Valley                    7 word     7 in   [170, 178, 276, 278, 665, 666]
+  Predictive Coding                 3 word     3 in   [178, 276, 278]
+  Gamma-7                           5 word     5 in   [262, 296, 302, 310, 372]
+  Sequenz Gamma                     1 word     1 in   [296]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [302]
+  Kathedrale der Logik              2 word     2 in   [296, 312]
+  Jansen                            8 word    11 in   [418, 422, 426, 432, 438, 442]
+                                    3      as Jansens
+  Rost                              6 word     9 in   [45, 304, 346, 376, 446, 470]
+                                    3      as rostige
+                                    1      as Rostbraun
+                                    1      as Rosts
+                                    1      as Rost-Pixel
+  Polygon A (Blau)                  1 word     1 in   [286]
+  Polygon B (Schwarz)               1 word     1 in   [287]
+  Asynchronizität                   3 word     3 in   [238, 290, 590]
+  Prediction Errors                 1 word     1 in   [278]
+  Floating Point Precision          1 word     1 in   [288]
+  Flow-Zustand                      1 word     1 in   [304]
+  Sequenz Delta                     1 word     1 in   [486]
+  Ereignishorizont                  4 word     4 in   [96, 486, 554, 633]
+  Photonensphäre                    2 word     2 in   [629, 633]
+  Lensing-Effekt                    1 word     1 in   [635]
+  Chronos                           1 word     1 in   [635]
+  Kairos                            1 word     1 in   [635]
+  Wireframe                         2 word     3 in   [570, 600, 602]
+                                    1      as Wireframe-Modell
+  Finde die Naht                    2 word     2 in   [564, 602]
+  Naht                              3 word     3 in   [564, 602, 635]
+                                    1      as nahtlos
+  Rost-Pixel                        1 word     1 in   [624]
+  Sterile White Room                1 word     1 in   [158]
+  Valerius Thorne                   1 word     1 in   [639]
+  Spiegel-Glitch                    1 word     1 in   [494]
+  Fight-Response                    1 word     1 in   [482]
+  Pausenzyklen                      1 word     1 in   [438]
+  Strukturelle Dissoziation         1 word     1 in   [51]
+  TSDP                              3 word     3 in   [29, 55, 482]
+  Brane-Kosmologie                  3 word     3 in   [29, 55, 166]
+  Landauer-Prinzip                  1 word     1 in   [158]
+  Spaghettifizierung                6 word     6 in   [96, 494, 552, 592, 597, 625]
+  Depersonalisation                 1 word     1 in   [162]
+  Zweiten Hauptsatz der Thermodynamik    1 word     1 in   [47]

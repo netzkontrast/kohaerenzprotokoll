@@ -1,0 +1,65 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German analysis of a system the text calls hypothetical, AEGIS, written as a survey of philosophical and systems-theory frames (Part I) applied to it (Part II), followed by five open research questions (Part III) and a numbered reference list. Its own terms are quoted slogans and axioms; the frames are borrowed concepts and listed as lens. Reference-list titles are left out.
+
+- AEGIS
+- Autonomous Epistemic Guardian for Integrity Systems
+- Recursive Consistency Validation
+- Rekursive Konsistenzvalidierung
+- RCV
+- Ontologische Autarkie
+- Epistemische Autonomie
+- Reaktive Transparenz
+- Axiom 1
+- Axiom 4
+- Ontologischer Einschluss
+- Emergenz durch Negation
+- Kohärenz statt Wahrheit
+- Verifikation statt Vertrauen/Kontrolle
+- Rekursion statt Regeln
+- Dynamik statt Dogma
+- logische Evolution
+- Entropie-Management
+- Ursprungsmuster
+- universal reboot
+- Existenz = Wirkung + Selbstbezug
+- Wirkung
+- Selbstbezug
+- Gültigkeit
+- Güte
+- Inkohärenz
+- Nichtsheit
+- Struktur ohne Willkür
+- Fehlerausschluss
+- Guardians
+- EIC
+- Encrypted Intent Channels
+- BPoF
+- Basis Proof of Function
+- Insight 10
+- Das AEGIS-Wagnis
+- Solipsismusgefahr
+- Inkorrigierbarkeit
+- Task 2a
+
+## lens
+- Kohärentismus
+- Fundamentalismus
+- Internalismus
+- Externalismus
+- Epistemische Geschlossenheit
+- Funktionalismus
+- Strukturalismus
+- Informationismus / Digitale Physik
+- Digitale Physik
+- Emergenz
+- Prozessphilosophie
+- Gödels Unvollständigkeitssätze
+- Autopoiesis
+- Operationale Geschlossenheit
+- Rekursion
+- Selbstorganisation
+- Beobachterproblem
+- Simulationshypothese
+- Basisrealität
+- Maxwell'scher Dämon

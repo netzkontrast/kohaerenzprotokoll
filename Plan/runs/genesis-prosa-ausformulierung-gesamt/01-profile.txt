@@ -1,0 +1,14 @@
+# genesis-prosa-ausformulierung-gesamt
+  lines                315  (frontmatter ends at 9)
+  body words           2531
+  headings             1   bold-only lines 16
+  table rows           0   code fences 0
+  question marks       14
+  backslash escapes    65
+  typographic marks    0   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    26
+  repeated labels      none
+  longest line         550 chars
+

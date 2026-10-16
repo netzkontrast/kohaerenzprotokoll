@@ -1,0 +1,117 @@
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "mutmaßlich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`mutmaßlich` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "wahrscheinlich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`wahrscheinlich` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#2]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "möglicherweise"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`möglicherweise` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "V"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            158
+
+`V` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#31]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Narratives Potenzial"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Narratives Potenzial` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#5]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Kernwelt"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            25
+
+`Kernwelt` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#3]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Kernwelten"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kernwelten` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#20]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Kaels"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Kaels` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#40]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "EP"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`EP` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#8]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Managerial"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Managerial` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "vs."
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`vs.` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#45]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Co₁"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Co₁` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "McL"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McL` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Ly"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ly` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#1]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Spannungsfelder"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Spannungsfelder` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#0]
+
+$ python3 scripts/read.py kohaerenz-protokoll-spannungsfelder-vertiefen --count "Spannungspunkte"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            12
+
+`Spannungspunkte` ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:#10]
+
+$ grep -c 'glued ref numbers' 01-profile.txt
+  glued ref numbers    118
+stance_marker_count = 2+2+5 = 9
+$ sed -n 315,386p Sources/drive/kohaerenz-protokoll-spannungsfelder-vertiefen.md | grep -c '^[0-9]*\. '
+72

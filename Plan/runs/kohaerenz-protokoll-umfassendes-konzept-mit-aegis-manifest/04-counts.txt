@@ -1,0 +1,53 @@
+# counts for 35 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 19]
+  AEGIS                            15 word    23 in   [11, 15, 17, 19, 48, 52]
+                                    5      as AEGIS-Manifest
+                                    2      as AEGIS-Manifests
+                                    1      as AEGIS-logischer
+  AEGIS-Manifest                    5 word     7 in   [11, 15, 17, 63, 75, 92]
+                                    2      as AEGIS-Manifests
+  Manifest                          5 word    23 in   [11, 15, 17, 19, 56, 59]  <-- substring
+                                    8      as Manifests
+                                    1      as Manifestation
+                                    1      as Manifest-Säulen
+                                    1      as Manifest-Säule
+  Säulen                            6 word     7 in   [15, 17, 67, 83, 88, 96]
+  Säule                            20 word    28 in   [15, 17, 58, 59, 60, 61]
+                                    6      as Säulen
+  Potentialmeer                     3 word     4 in   [19, 58, 63, 82]
+                                    1      as Potentialmeers
+  Kernwelten                        2 word     2 in   [61, 83]
+  Überwelt                          1 word     1 in   [84]
+  Kael                              4 word     8 in   [60, 62, 63, 69, 70, 71]
+                                    4      as Kaels
+  Juna                              2 word     2 in   [62, 77]
+  M                                 7 word    43 in   [11, 15, 17, 19, 44, 54]  <-- substring
+  K-J Verbindung                    1 word     1 in   [62]
+  Subquotienten                     1 word     1 in   [60]
+  Heldinnenreise                    2 word     2 in   [67, 69]
+  Heldenreise                       2 word     2 in   [67, 71]
+  Sein und Nicht-Sein               1 word     1 in   [21]
+  Ordnung und Entropie              1 word     1 in   [30]
+  Kohärenz und Differenz            1 word     1 in   [39]
+  Vereinigende Definition           1 word     1 in   [48]
+  Selbstkohärenz                    1 word     1 in   [52]
+  Selbstvalidierung                 2 word     2 in   [59, 69]
+  Selbstrealität                    1 word     1 in   [17]
+  Kernkonflikt                      1 word     1 in   [63]
+  Kernprämisse                      1 word     1 in   [56]
+  Entropie                         11 word    12 in   [30, 34, 35, 52, 58, 59]
+                                    1      as Entropieraum
+  Differenz                        11 word    12 in   [39, 44, 52, 59, 60, 61]
+                                    1      as Differenzierung
+  Multiplizität                     1 word     1 in   [71]
+  Autopoiesis                       1 word     1 in   [26]
+  Leere                             4 word     4 in   [21, 26, 58, 82]
+  Cache                             1 word     1 in   [88]
+  Monster                           1 word     1 in   [88]
+  Moonshine                         1 word     1 in   [88]
+  ursprünglichen Prinzipien         1 word     1 in   [88]
+  Trigger                           1 word     1 in   [70]

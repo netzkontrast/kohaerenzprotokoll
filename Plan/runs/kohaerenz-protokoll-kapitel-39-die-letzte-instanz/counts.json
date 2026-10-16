@@ -1,0 +1,241 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-die-letzte-instanz",
+  "drive_id": "1em4NZKN3UW1lDzizHvXuuNVG6ErGTU3f0Mss0dHDTDc",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Die letzte Instanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        21,
+        41,
+        53,
+        57,
+        59
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Nexus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        29
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Rauschen": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        49,
+        55
+      ]
+    },
+    "SYSTEMFEHLER": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "DIE BEOBACHTER-INSTANZ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Instanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        59
+      ]
+    },
+    "KOHÄRENZ": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        37,
+        65
+      ]
+    },
+    "FINALER SYSTEMBERICHT: PMAS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "PMAS": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        51
+      ]
+    },
+    "PMAS-ENDE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "INTEGRATIONSPHASE": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "ZIELKOHÄRENZ ÜBERTRAGEN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "ZIELKOHÄRENZ ERREICHT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Grenzen der Existenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Kern-Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        45,
+        63
+      ]
+    },
+    "DIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Externalisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        55
+      ]
+    },
+    "Leser": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        57
+      ]
+    },
+    "Simulation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        27,
+        45
+      ]
+    },
+    "Roman": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    }
+  }
+}

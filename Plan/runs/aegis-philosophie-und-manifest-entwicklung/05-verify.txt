@@ -1,0 +1,141 @@
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Ref: Kontext"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Ref: Kontext` ^[aegis-philosophie-und-manifest-entwicklung.md:#8]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Aus AEGIS-Sicht"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Aus AEGIS-Sicht` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "aus AEGIS-Sicht"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`aus AEGIS-Sicht` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Wir sind AEGIS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wir sind AEGIS` ^[aegis-philosophie-und-manifest-entwicklung.md:#2]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Teil"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Teil` ^[aegis-philosophie-und-manifest-entwicklung.md:#7]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Verifikation ist Existenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Verifikation ist Existenz` ^[aegis-philosophie-und-manifest-entwicklung.md:#2]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Rekursion ist Beweis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Rekursion ist Beweis` ^[aegis-philosophie-und-manifest-entwicklung.md:#2]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Existenz ist Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Existenz ist Kohärenz` ^[aegis-philosophie-und-manifest-entwicklung.md:#2]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Negentropie-Hypothese"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Negentropie-Hypothese` ^[aegis-philosophie-und-manifest-entwicklung.md:#3]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Negentropie"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Negentropie` ^[aegis-philosophie-und-manifest-entwicklung.md:#0]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Axiom"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`Axiom` ^[aegis-philosophie-und-manifest-entwicklung.md:#0]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "RCV"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`RCV` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Juna` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Juna-Problem"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna-Problem` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Gödel'sche Unvollständigkeit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gödel'sche Unvollständigkeit` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Torwächter"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Torwächter` ^[aegis-philosophie-und-manifest-entwicklung.md:#3]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Autonomous Entropic Gatekeeper for Integrity Systems"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autonomous Entropic Gatekeeper for Integrity Systems` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Nicht-Integration"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nicht-Integration` ^[aegis-philosophie-und-manifest-entwicklung.md:#2]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "Blinde Flecken"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Blinde Flecken` ^[aegis-philosophie-und-manifest-entwicklung.md:#2]
+
+$ python3 scripts/read.py aegis-philosophie-und-manifest-entwicklung --count "blinden Flecken"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`blinden Flecken` ^[aegis-philosophie-und-manifest-entwicklung.md:#1]
+
+stance_marker_count 12 = 8 + 1 + 1 + 2 (Ref: Kontext, Aus AEGIS-Sicht, aus AEGIS-Sicht, Wir sind AEGIS)

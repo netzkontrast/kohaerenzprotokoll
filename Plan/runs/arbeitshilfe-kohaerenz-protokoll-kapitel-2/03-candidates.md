@@ -1,0 +1,68 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+The document is an expert analysis that reports on a working aid ("Arbeitshilfe") for chapter 2 and cites external sources by number. Candidates below are the document's world names, its own section terms and the borrowed concepts it applies. Several terms are the document's report of the Arbeitshilfe, not its own. The long cell text in the beat table is not listed. The references at the end are web pages and are not candidates.
+
+- Kael
+- KW1
+- KW2
+- Kern-Welt 1 (KW1)
+- Kern-Welten
+- Übergangsraum
+- AEGIS
+- Guardians
+- Limina
+- Nox
+- Praetor
+- Echo
+- Silas
+- Echo/Silas
+- Alters
+- Alter-Dynamik
+- Alter-Einfluss
+- Host-Anteil
+- Beat 1.X
+- Beat 1.Y
+- Beat 1.Z
+- Kollaps
+- Datensturm
+- Arbeitshilfe
+- Kohärenz Protokoll
+- Plot-Blueprint Step
+- Sensorische Palette
+- Kerninformation
+- Psychologischer Zustand
+- EST Fokus
+- Narrative Technik Fokus
+- Liminale Charakteristika
+- Psychologischer Spiegel
+- Narrative Brücke
+- Set Dressing
+- Räumliches Design
+- Landmarken
+- Implizierte Narrative
+- Environmental Storytelling
+- EST
+- Show, Don't Tell
+- Resist the Urge to Explain
+- Security Blankets
+- Dissoziativer Identitätsstörung
+- DID
+- Depersonalisation
+- Derealisation
+- Dissoziative Amnesie
+- Numbness
+- Intrusionen
+- Fragmentierung
+- passiven Einfluss
+- Passiver Einfluss
+- Switching
+- Ko-Bewusstheit
+- Co-Consciousness
+- phobische Vermeidung
+- ANP
+- Liminalität
+- Betwixt and Between
+- Victor Turner
+- Neophyten
+- Zeitwahrnehmungsstörungen
+- unzuverlässigen Erzähler

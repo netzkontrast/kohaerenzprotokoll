@@ -1,0 +1,28 @@
+{
+  "document": "an-introduction-to-the-world-of-kohaerenz-protokoll",
+  "drive_id": "1_LuDSyDJfgRC19qM1fL5OAKBkPOdI8mZdOAX8DLettk",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 56,
+  "typographic_marks": 11,
+  "ascii_quotes": 48,
+  "inflection_families": {
+    "contr": [
+      "Contradiction",
+      "Contradictions"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Contradiction",
+      "Contradictions"
+    ]
+  ]
+}

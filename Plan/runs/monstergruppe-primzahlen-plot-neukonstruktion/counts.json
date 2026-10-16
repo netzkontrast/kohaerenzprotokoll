@@ -1,0 +1,787 @@
+{
+  "document": "monstergruppe-primzahlen-plot-neukonstruktion",
+  "drive_id": "141lW6EphPL2E35h_xTBprW-D_ghRETvkn5TL5b92f5k",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        197
+      ]
+    },
+    "Monstergruppe": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        17,
+        33,
+        88,
+        197,
+        201
+      ]
+    },
+    "Monstergruppe (M) als Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "M-als-Fundament Manifestation": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        46,
+        56,
+        67,
+        77,
+        88,
+        98,
+        108,
+        123,
+        134,
+        144,
+        158,
+        168,
+        178,
+        188
+      ]
+    },
+    "M-Substrat": {
+      "n": 9,
+      "n_including_compounds": 20,
+      "lines": [
+        67,
+        80,
+        100,
+        101,
+        108,
+        111,
+        121,
+        122,
+        123,
+        126,
+        134,
+        137,
+        142,
+        143,
+        147,
+        157,
+        161,
+        167
+      ]
+    },
+    "M-als-OS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Potentialmeer": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        19,
+        32,
+        164,
+        166,
+        167,
+        168,
+        170,
+        172
+      ]
+    },
+    "AEGIS": {
+      "n": 138,
+      "n_including_compounds": 139,
+      "lines": [
+        15,
+        17,
+        19,
+        32,
+        33,
+        34,
+        35,
+        36,
+        40,
+        45,
+        46,
+        49,
+        54,
+        55,
+        56,
+        59,
+        60,
+        61,
+        65,
+        66,
+        67,
+        70,
+        75,
+        76,
+        77,
+        80,
+        82,
+        86,
+        87,
+        88,
+        91,
+        96,
+        97,
+        98,
+        101,
+        106,
+        107,
+        108,
+        111,
+        112,
+        113,
+        117,
+        122,
+        123,
+        126,
+        128,
+        130,
+        132,
+        133,
+        137,
+        138,
+        142,
+        143,
+        144,
+        147,
+        152,
+        157,
+        161,
+        164,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        176,
+        177,
+        179,
+        181,
+        182,
+        187,
+        191,
+        197,
+        199
+      ]
+    },
+    "Wächter-KI": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        32,
+        54,
+        197
+      ]
+    },
+    "Kael": {
+      "n": 69,
+      "n_including_compounds": 123,
+      "lines": [
+        33,
+        34,
+        35,
+        36,
+        40,
+        45,
+        47,
+        48,
+        50,
+        55,
+        57,
+        59,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        76,
+        78,
+        79,
+        80,
+        81,
+        82,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        96,
+        97,
+        98,
+        99,
+        101,
+        102,
+        106,
+        107,
+        109,
+        111,
+        113,
+        117,
+        121,
+        122,
+        124,
+        126,
+        127,
+        128,
+        133,
+        135,
+        137,
+        142,
+        143,
+        145,
+        146,
+        147,
+        152,
+        154,
+        156,
+        157,
+        159,
+        160,
+        161,
+        167,
+        169,
+        177,
+        178,
+        179,
+        180,
+        186,
+        187,
+        189,
+        190,
+        199
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        107,
+        146,
+        187
+      ]
+    },
+    "Kael-Entität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        126,
+        137,
+        147,
+        161
+      ]
+    },
+    "Nebenfigur": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        76,
+        97,
+        107,
+        109
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        122
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Sandbox": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        32,
+        73,
+        76,
+        82,
+        107,
+        109
+      ]
+    },
+    "K-J Verbindung (Moonshine-Signatur)": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        35,
+        48,
+        58,
+        69,
+        79,
+        90,
+        100,
+        110,
+        125,
+        136,
+        146,
+        160,
+        170,
+        180,
+        190
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        33,
+        35,
+        40,
+        48,
+        58,
+        69,
+        79,
+        90,
+        100,
+        110,
+        125,
+        136,
+        146,
+        160,
+        170,
+        180,
+        190
+      ]
+    },
+    "Moonshine-Signatur": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        35,
+        48,
+        58,
+        69,
+        79,
+        90,
+        100,
+        110,
+        125,
+        132,
+        133,
+        136,
+        137,
+        146,
+        160,
+        170,
+        180,
+        190
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Baby-Monster": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        134
+      ]
+    },
+    "Twin Prime Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Primzahl-Metapher": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        15,
+        17,
+        36,
+        49,
+        54,
+        59,
+        70,
+        80,
+        91,
+        101,
+        111,
+        126,
+        137,
+        147,
+        152,
+        161,
+        167,
+        171,
+        181,
+        191,
+        197,
+        199
+      ]
+    },
+    "AEGIS & Primzahl-Metapher": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        49,
+        59,
+        70,
+        80,
+        91,
+        101,
+        111,
+        126,
+        137,
+        147,
+        161,
+        171,
+        181,
+        191
+      ]
+    },
+    "Primzahl-Generator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Primzahl-Gitter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147
+      ]
+    },
+    "Primzahl-Anomalie-Irreduzibel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Faktorisierungsrisse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Protokoll Omega": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Eindämmungsprotokoll K-Alpha": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Kael's Resonanz & Integration": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        47,
+        57,
+        68,
+        78,
+        89,
+        99,
+        109,
+        124,
+        135,
+        145,
+        159,
+        169,
+        179,
+        189
+      ]
+    },
+    "Selbstführung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        157
+      ]
+    },
+    "Symmetriebruch": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        113,
+        142,
+        143,
+        147,
+        156
+      ]
+    },
+    "Irreduzibilität": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        34,
+        36,
+        86,
+        117,
+        178
+      ]
+    },
+    "algebraische Einfachheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        86
+      ]
+    },
+    "Nicht-Isolierbarkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Der Glitch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        46
+      ]
+    },
+    "Der Beobachter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Resonanzmuster": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        66,
+        67
+      ]
+    },
+    "Die Sandbox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Algebraische Einfachheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Ödland": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Moonshine-Brücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Coda: Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Drei-Akt-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "VOA": {
+      "n": 4,
+      "n_including_compounds": 13,
+      "lines": [
+        15,
+        33,
+        35,
+        100,
+        123,
+        128,
+        132,
+        133,
+        134,
+        137,
+        157,
+        158,
+        197
+      ]
+    },
+    "CFT": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        33,
+        197
+      ]
+    },
+    "Vertex-Operator-Algebren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "konformen Feldtheorien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Faktorisierung": {
+      "n": 5,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        36,
+        40,
+        59,
+        61,
+        70,
+        80,
+        91,
+        111,
+        117,
+        122,
+        147,
+        161,
+        171,
+        181,
+        199
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Mathematical Universe Hypothesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 5,
+      "lines": [
+        82,
+        124,
+        128,
+        143,
+        226
+      ]
+    },
+    "DID": {
+      "n": 0,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        78,
+        227
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        19,
+        50,
+        60,
+        71,
+        92,
+        112,
+        127,
+        138,
+        148,
+        172,
+        182,
+        192,
+        199
+      ]
+    },
+    "Hard Science Fiction": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        40,
+        199
+      ]
+    }
+  }
+}

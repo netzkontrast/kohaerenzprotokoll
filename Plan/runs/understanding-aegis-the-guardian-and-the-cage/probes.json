@@ -1,0 +1,60 @@
+{
+  "document": "understanding-aegis-the-guardian-and-the-cage",
+  "drive_id": "1MJvybQJHzzVcB5GB06_LSahFc3-f1_MLNtDAdnkD6n0",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 24,
+  "typographic_marks": 9,
+  "ascii_quotes": 38,
+  "inflection_families": {
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "contr": [
+      "Contradiction",
+      "Control"
+    ],
+    "integ": [
+      "Integration",
+      "Integrity"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "origi": [
+      "Origin",
+      "Original"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxes"
+    ],
+    "prote": [
+      "Protection",
+      "Protector"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Origin",
+      "Original"
+    ],
+    [
+      "Paradox",
+      "Paradoxes"
+    ]
+  ]
+}

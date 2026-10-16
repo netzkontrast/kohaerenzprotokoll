@@ -1,0 +1,55 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a technical report on cache coherence in computer systems; it names no figure, place or event of a novel world. The candidates are the words it uses as its own terms (bold headings, bold list labels, defined names). Short forms such as MSI and RCP are listed as written.
+
+- Kohärenz Protokoll
+- Cache Coherence Protocol
+- Cache-Kohärenz
+- Cache-Kohärenzprotokolle
+- Kohärenzprotokolle
+- Dateninkonsistenz
+- Shared Memory
+- Cache-Zeile
+- Hauptspeicher
+- Interconnect
+- Snooping-basierte Protokolle
+- Verzeichnis-basierte Protokolle
+- Directory
+- Home Node
+- Snoop-Filter
+- Zustandsverfolgung
+- Kohärenz-Invarianten
+- Write-Invalidate-Protokoll
+- Write-Update-Protokoll
+- MESI-Protokoll
+- MESI
+- MSI
+- MOSI
+- MOESI
+- MESIF
+- Modified (M)
+- Exclusive (E)
+- Shared (S)
+- Invalid (I)
+- Bus Read (BusRd)
+- Bus Read Exclusive (BusRdX)
+- Flush / Writeback
+- Invalidate Signal
+- Token Coherence
+- Delta Coherence
+- Interconnect-Aware Protokolle
+- WiDir
+- POPS
+- Rainbow
+- RCP
+- Reversible Coherence Protocol
+- Ghostwriter
+- SELCC
+- Speicherkonsistenzmodell
+- Synchronisationsprimitive
+- Approximative Kohärenz
+- Kohärenz für disaggregierten Speicher
+- Delegation
+- Dekohärenz
+- Kohärenzfunktion
+- Skalierbarkeitsengpässe

@@ -1,0 +1,333 @@
+{
+  "document": "paradoxien-der-kohaerenz-protokoll-entwicklung",
+  "drive_id": "1iQn5RvKgUNcyGfDJqH4C7Ao7yFhnJOqSnCG8SI-PbXA",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 35,
+  "backslash_escapes": 139,
+  "typographic_marks": 19,
+  "ascii_quotes": 302,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemen",
+      "Systementscheidungen",
+      "Systemereignissen",
+      "Systemfehler",
+      "Systemic",
+      "Systemintegrität",
+      "Systemische",
+      "Systemkollaps",
+      "Systemressourcen",
+      "Systems",
+      "Systemstress",
+      "Systemtheorie",
+      "Systemverhalten",
+      "Systemzustand"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastieren",
+      "Kontrolle",
+      "Kontrollierbares",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollparadox",
+      "Kontrollparadoxons",
+      "Kontrollprotokolle",
+      "Kontrollraum",
+      "Kontrollsystem",
+      "Kontrolltheorie",
+      "Kontrollverlust",
+      "Kontrollversuch",
+      "Kontrollversuche",
+      "Kontrollversuchen",
+      "Kontrollzentrum"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbeobachtung",
+      "Selbstbewertung",
+      "Selbstdefinition",
+      "Selbsterhalt",
+      "Selbsterhaltend",
+      "Selbsterhaltung",
+      "Selbsterhaltungsparadigmas",
+      "Selbsterzeugung",
+      "Selbstkenntnis",
+      "Selbstmessung",
+      "Selbstorganisation",
+      "Selbstreferenz",
+      "Selbstreflexion",
+      "Selbstverständnisses",
+      "Selbstzerstörung"
+    ],
+    "parad": [
+      "PARADOX",
+      "Paradigma",
+      "Paradigmas",
+      "Paradigmen",
+      "Paradox",
+      "Paradoxe",
+      "Paradoxerweise",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropieberechnungen",
+      "Entropieerzeugung",
+      "Entropieproduktion",
+      "Entropiequelle",
+      "Entropiezunahme",
+      "Entropy"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifizierte",
+      "Identität",
+      "Identitätsfragen",
+      "Identitätsparadoxien",
+      "Identitätsstörung",
+      "Identitätswahl",
+      "Identitätswandel"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsintegration",
+      "Informationslöschung",
+      "Informationsparadoxon",
+      "Informationstheorie",
+      "Informationsthermodynamik",
+      "Informationsverarbeitung"
+    ],
+    "inter": [
+      "Interagieren",
+      "Interagiert",
+      "Interaktion",
+      "Interaktionen",
+      "Internal",
+      "Internet",
+      "Intersubjektivität",
+      "Interventionen"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentials",
+      "Potenzial",
+      "Potenzielle",
+      "Potenzieller"
+    ],
+    "unter": [
+      "Unterbau",
+      "Unterdrücke",
+      "Unterscheidbarkeit",
+      "Unterschied",
+      "Unterschiede",
+      "Untersucht",
+      "Untersuchung"
+    ],
+    "verst": [
+      "Verstehbares",
+      "Verstehensgrenzen",
+      "Verstrickung",
+      "Verständnis",
+      "Verständnisses",
+      "Verstärkte",
+      "Verstärkung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsprozess",
+      "Integriere",
+      "Integrity",
+      "Integrität",
+      "Integritätswächter"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptdokument",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle",
+      "Konzeptioneller"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatric",
+      "Psychologie",
+      "Psychologische",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "quant": [
+      "Quantenmechanik",
+      "Quantennatur",
+      "Quantenparadoxien",
+      "Quantenphysik",
+      "Quantensystems",
+      "Quantum"
+    ],
+    "theor": [
+      "Theorems",
+      "Theoretische",
+      "Theoretischer",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "chara": [
+      "Charakterbögen",
+      "Charakterdynamik",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charaktererleben"
+    ],
+    "defin": [
+      "Definierbarkeit",
+      "Definiert",
+      "Defining",
+      "Definition",
+      "Definitionen"
+    ],
+    "erklä": [
+      "Erklären",
+      "Erklärt",
+      "Erklärung",
+      "Erklärungskraft",
+      "Erklärungslücke"
+    ],
+    "grund": [
+      "Grundannahmen",
+      "Grundl",
+      "Grundlage",
+      "Grundlagen",
+      "Grundlegende"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorisch",
+      "Metaphorische",
+      "Metaphysik"
+    ],
+    "anwen": [
+      "Anwendbarkeit",
+      "Anwendung",
+      "Anwendungsanalyse",
+      "Anwendungsmöglichkeiten"
+    ],
+    "chine": [
+      "Chines",
+      "Chinese",
+      "Chinesische",
+      "Chinesisches"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanomalien",
+      "Datenmuster",
+      "Datenmüll"
+    ],
+    "direk": [
+      "Direkt",
+      "Direkte",
+      "Direktive",
+      "Direktiven"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bind",
+      "Binds"
+    ],
+    [
+      "Bind",
+      "Verbindet"
+    ],
+    [
+      "Bind",
+      "Verbindung"
+    ],
+    [
+      "Book",
+      "Handbook"
+    ],
+    [
+      "Book",
+      "Bookshelves"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Erde",
+      "Werden"
+    ],
+    [
+      "Fall",
+      "Fallstricke"
+    ],
+    [
+      "Fall",
+      "Fallstricken"
+    ],
+    [
+      "Fall",
+      "Energieabfall"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Formulated"
+    ],
+    [
+      "Form",
+      "Formalismen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "genesis",
+ "title": "Genesis",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Reihenfolge von Entstehung und Trennung",
+  "Zahl und Funktion der Ursprungsbeats",
+  "Entstehung einer Perspektive",
+  "Unterschied zwischen Ursprung und Rekonstruktion",
+  "Bedeutung des erneuten Erzählens"
+ ],
+ "basis": {
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "komponente-734": {
+   "title": "Komponente 734",
+   "path": "Wiki/candidates/komponente-734.md",
+   "hash": "49eb6bffb13cf9ad2de22e6e3802ad061e5be0d2c4ddf9d433d1425d1c07deec"
+  },
+  "trennungsprotokoll": {
+   "title": "Trennungsprotokoll",
+   "path": "Wiki/candidates/trennungsprotokoll.md",
+   "hash": "33c7084360ab2602ba3969b0722bf09d92e20952f7cbcc9235d8a3bbb5ca3bfc"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  },
+  "genesis-klammer": {
+   "title": "Genesis-Klammer",
+   "path": "Wiki/candidates/genesis-klammer.md",
+   "hash": "cb0c2af03ef01a3757eb1dfc38211430ec0f4325958224c3a7f38ff120afe1db"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-genesis-001",
+   "question": "Welche Konsequenz hat es, ob Komponente 734 vor dem Trennungsprotokoll entsteht oder erst aus dessen Vollzug hervorgeht?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-002",
+   "question": "Welche Lesarten auf der Seite zu Genesis stützen oder begrenzen „Reihenfolge von Entstehung und Trennung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-003",
+   "question": "Welcher Grenzfall würde bei Genesis die Annahmen über „Reihenfolge von Entstehung und Trennung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-004",
+   "question": "Wer könnte innerhalb des Romans bei Genesis etwas über „Reihenfolge von Entstehung und Trennung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-005",
+   "question": "Welche konkrete Entscheidung könnte „Reihenfolge von Entstehung und Trennung“ bei Genesis in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Reihenfolge von Entstehung und Trennung“ bei Genesis haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-007",
+   "question": "Wie lässt sich „Reihenfolge von Entstehung und Trennung“ bei Genesis zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-008",
+   "question": "Welche Alternativen sollte der Autor bei Genesis für „Reihenfolge von Entstehung und Trennung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-009",
+   "question": "Was bedeutet bei Genesis der Themenpunkt „Zahl und Funktion der Ursprungsbeats“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-010",
+   "question": "Welche Lesarten auf der Seite zu Genesis stützen oder begrenzen „Zahl und Funktion der Ursprungsbeats“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-011",
+   "question": "Welcher Grenzfall würde bei Genesis die Annahmen über „Zahl und Funktion der Ursprungsbeats“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-012",
+   "question": "Wer könnte innerhalb des Romans bei Genesis etwas über „Zahl und Funktion der Ursprungsbeats“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-013",
+   "question": "Welche konkrete Entscheidung könnte „Zahl und Funktion der Ursprungsbeats“ bei Genesis in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zahl und Funktion der Ursprungsbeats“ bei Genesis haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-015",
+   "question": "Wie lässt sich „Zahl und Funktion der Ursprungsbeats“ bei Genesis zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-016",
+   "question": "Welche Alternativen sollte der Autor bei Genesis für „Zahl und Funktion der Ursprungsbeats“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-017",
+   "question": "Was bedeutet bei Genesis der Themenpunkt „Entstehung einer Perspektive“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-018",
+   "question": "Welche Lesarten auf der Seite zu Genesis stützen oder begrenzen „Entstehung einer Perspektive“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-019",
+   "question": "Welcher Grenzfall würde bei Genesis die Annahmen über „Entstehung einer Perspektive“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-020",
+   "question": "Wer könnte innerhalb des Romans bei Genesis etwas über „Entstehung einer Perspektive“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-021",
+   "question": "Welche konkrete Entscheidung könnte „Entstehung einer Perspektive“ bei Genesis in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Entstehung einer Perspektive“ bei Genesis haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-023",
+   "question": "Wie lässt sich „Entstehung einer Perspektive“ bei Genesis zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-024",
+   "question": "Welche Alternativen sollte der Autor bei Genesis für „Entstehung einer Perspektive“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-025",
+   "question": "Was bedeutet bei Genesis der Themenpunkt „Unterschied zwischen Ursprung und Rekonstruktion“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-026",
+   "question": "Welche Lesarten auf der Seite zu Genesis stützen oder begrenzen „Unterschied zwischen Ursprung und Rekonstruktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-027",
+   "question": "Welcher Grenzfall würde bei Genesis die Annahmen über „Unterschied zwischen Ursprung und Rekonstruktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-028",
+   "question": "Wer könnte innerhalb des Romans bei Genesis etwas über „Unterschied zwischen Ursprung und Rekonstruktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Ursprung und Rekonstruktion“ bei Genesis in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Ursprung und Rekonstruktion“ bei Genesis haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-031",
+   "question": "Wie lässt sich „Unterschied zwischen Ursprung und Rekonstruktion“ bei Genesis zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-032",
+   "question": "Welche Alternativen sollte der Autor bei Genesis für „Unterschied zwischen Ursprung und Rekonstruktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-033",
+   "question": "Was bedeutet bei Genesis der Themenpunkt „Bedeutung des erneuten Erzählens“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-034",
+   "question": "Welche Lesarten auf der Seite zu Genesis stützen oder begrenzen „Bedeutung des erneuten Erzählens“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-035",
+   "question": "Welcher Grenzfall würde bei Genesis die Annahmen über „Bedeutung des erneuten Erzählens“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-036",
+   "question": "Wer könnte innerhalb des Romans bei Genesis etwas über „Bedeutung des erneuten Erzählens“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-037",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung des erneuten Erzählens“ bei Genesis in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung des erneuten Erzählens“ bei Genesis haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-039",
+   "question": "Wie lässt sich „Bedeutung des erneuten Erzählens“ bei Genesis zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-040",
+   "question": "Welche Alternativen sollte der Autor bei Genesis für „Bedeutung des erneuten Erzählens“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-041",
+   "question": "Wo unterscheiden sich Genesis und Komponente 734, wenn man sie unter dem Gesichtspunkt „Reihenfolge von Entstehung und Trennung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-042",
+   "question": "Welche Quelle verbindet Genesis mit Komponente 734 in Bezug auf „Reihenfolge von Entstehung und Trennung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-043",
+   "question": "Welche Grenzen aus der Seite zu Komponente 734 müsste eine Deutung von Genesis unter „Reihenfolge von Entstehung und Trennung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-044",
+   "question": "Wie könnte sich das Wissen über Genesis vom Wissen über Komponente 734 unterscheiden, wenn „Reihenfolge von Entstehung und Trennung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis und Komponente 734 bei „Reihenfolge von Entstehung und Trennung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-046",
+   "question": "Falls Genesis im Hinblick auf „Reihenfolge von Entstehung und Trennung“ anders festgelegt wird: Welche Aussagen über Komponente 734 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis und Komponente 734 bei „Reihenfolge von Entstehung und Trennung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-048",
+   "question": "Braucht der Roman eine Verbindung von Genesis und Komponente 734 bei „Reihenfolge von Entstehung und Trennung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-049",
+   "question": "In welchem denkbaren Fall könnte Genesis bestehen, ohne dass Komponente 734 dieselbe Funktion übernimmt, und was würde das für „Reihenfolge von Entstehung und Trennung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-050",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis und Komponente 734 in Bezug auf „Reihenfolge von Entstehung und Trennung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-051",
+   "question": "Welche ältere Lesart von Genesis oder Komponente 734 könnte die Gegenüberstellung unter „Reihenfolge von Entstehung und Trennung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis und Komponente 734 unter „Reihenfolge von Entstehung und Trennung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "genesis",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-genesis-053",
+   "question": "Wo unterscheiden sich Genesis und Trennungsprotokoll, wenn man sie unter dem Gesichtspunkt „Zahl und Funktion der Ursprungsbeats“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-054",
+   "question": "Welche Quelle verbindet Genesis mit Trennungsprotokoll in Bezug auf „Zahl und Funktion der Ursprungsbeats“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-055",
+   "question": "Welche Grenzen aus der Seite zu Trennungsprotokoll müsste eine Deutung von Genesis unter „Zahl und Funktion der Ursprungsbeats“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-056",
+   "question": "Wie könnte sich das Wissen über Genesis vom Wissen über Trennungsprotokoll unterscheiden, wenn „Zahl und Funktion der Ursprungsbeats“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis und Trennungsprotokoll bei „Zahl und Funktion der Ursprungsbeats“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-058",
+   "question": "Falls Genesis im Hinblick auf „Zahl und Funktion der Ursprungsbeats“ anders festgelegt wird: Welche Aussagen über Trennungsprotokoll müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis und Trennungsprotokoll bei „Zahl und Funktion der Ursprungsbeats“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-060",
+   "question": "Braucht der Roman eine Verbindung von Genesis und Trennungsprotokoll bei „Zahl und Funktion der Ursprungsbeats“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-061",
+   "question": "In welchem denkbaren Fall könnte Genesis bestehen, ohne dass Trennungsprotokoll dieselbe Funktion übernimmt, und was würde das für „Zahl und Funktion der Ursprungsbeats“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-062",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis und Trennungsprotokoll in Bezug auf „Zahl und Funktion der Ursprungsbeats“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-063",
+   "question": "Welche ältere Lesart von Genesis oder Trennungsprotokoll könnte die Gegenüberstellung unter „Zahl und Funktion der Ursprungsbeats“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis und Trennungsprotokoll unter „Zahl und Funktion der Ursprungsbeats“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "genesis",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-genesis-065",
+   "question": "Wo unterscheiden sich Genesis und AEGIS, wenn man sie unter dem Gesichtspunkt „Entstehung einer Perspektive“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-066",
+   "question": "Welche Quelle verbindet Genesis mit AEGIS in Bezug auf „Entstehung einer Perspektive“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-067",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Genesis unter „Entstehung einer Perspektive“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-068",
+   "question": "Wie könnte sich das Wissen über Genesis vom Wissen über AEGIS unterscheiden, wenn „Entstehung einer Perspektive“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis und AEGIS bei „Entstehung einer Perspektive“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-070",
+   "question": "Falls Genesis im Hinblick auf „Entstehung einer Perspektive“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis und AEGIS bei „Entstehung einer Perspektive“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-072",
+   "question": "Braucht der Roman eine Verbindung von Genesis und AEGIS bei „Entstehung einer Perspektive“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-073",
+   "question": "In welchem denkbaren Fall könnte Genesis bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Entstehung einer Perspektive“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-074",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis und AEGIS in Bezug auf „Entstehung einer Perspektive“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-075",
+   "question": "Welche ältere Lesart von Genesis oder AEGIS könnte die Gegenüberstellung unter „Entstehung einer Perspektive“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis und AEGIS unter „Entstehung einer Perspektive“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "genesis",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-genesis-077",
+   "question": "Wo unterscheiden sich Genesis und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Ursprung und Rekonstruktion“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-078",
+   "question": "Welche Quelle verbindet Genesis mit Nichts-Rauschen in Bezug auf „Unterschied zwischen Ursprung und Rekonstruktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-079",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von Genesis unter „Unterschied zwischen Ursprung und Rekonstruktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-080",
+   "question": "Wie könnte sich das Wissen über Genesis vom Wissen über Nichts-Rauschen unterscheiden, wenn „Unterschied zwischen Ursprung und Rekonstruktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis und Nichts-Rauschen bei „Unterschied zwischen Ursprung und Rekonstruktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-082",
+   "question": "Falls Genesis im Hinblick auf „Unterschied zwischen Ursprung und Rekonstruktion“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis und Nichts-Rauschen bei „Unterschied zwischen Ursprung und Rekonstruktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-084",
+   "question": "Braucht der Roman eine Verbindung von Genesis und Nichts-Rauschen bei „Unterschied zwischen Ursprung und Rekonstruktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-085",
+   "question": "In welchem denkbaren Fall könnte Genesis bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Ursprung und Rekonstruktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-086",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis und Nichts-Rauschen in Bezug auf „Unterschied zwischen Ursprung und Rekonstruktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-087",
+   "question": "Welche ältere Lesart von Genesis oder Nichts-Rauschen könnte die Gegenüberstellung unter „Unterschied zwischen Ursprung und Rekonstruktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis und Nichts-Rauschen unter „Unterschied zwischen Ursprung und Rekonstruktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "genesis",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-genesis-089",
+   "question": "Wo unterscheiden sich Genesis und Genesis-Klammer, wenn man sie unter dem Gesichtspunkt „Bedeutung des erneuten Erzählens“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-090",
+   "question": "Welche Quelle verbindet Genesis mit Genesis-Klammer in Bezug auf „Bedeutung des erneuten Erzählens“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-091",
+   "question": "Welche Grenzen aus der Seite zu Genesis-Klammer müsste eine Deutung von Genesis unter „Bedeutung des erneuten Erzählens“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-092",
+   "question": "Wie könnte sich das Wissen über Genesis vom Wissen über Genesis-Klammer unterscheiden, wenn „Bedeutung des erneuten Erzählens“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Genesis und Genesis-Klammer bei „Bedeutung des erneuten Erzählens“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-094",
+   "question": "Falls Genesis im Hinblick auf „Bedeutung des erneuten Erzählens“ anders festgelegt wird: Welche Aussagen über Genesis-Klammer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Genesis und Genesis-Klammer bei „Bedeutung des erneuten Erzählens“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-096",
+   "question": "Braucht der Roman eine Verbindung von Genesis und Genesis-Klammer bei „Bedeutung des erneuten Erzählens“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-097",
+   "question": "In welchem denkbaren Fall könnte Genesis bestehen, ohne dass Genesis-Klammer dieselbe Funktion übernimmt, und was würde das für „Bedeutung des erneuten Erzählens“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-098",
+   "question": "Welche Kosten könnte eine Verbindung von Genesis und Genesis-Klammer in Bezug auf „Bedeutung des erneuten Erzählens“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-099",
+   "question": "Welche ältere Lesart von Genesis oder Genesis-Klammer könnte die Gegenüberstellung unter „Bedeutung des erneuten Erzählens“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-genesis-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Genesis und Genesis-Klammer unter „Bedeutung des erneuten Erzählens“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "genesis",
+    "genesis-klammer"
+   ]
+  }
+ ]
+}

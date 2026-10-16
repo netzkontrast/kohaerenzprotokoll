@@ -1,0 +1,97 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidates for the Roman-Assistenz document, written while reading L11 to L123. The document is a visual-language master concept for a system of thirteen named agents; it names a source titled "Brief Julia" and "Bildsprache Julia" only as sources, and those titles are not listed. The figures Kael to Oblivion are listed as the document writes them. Colour names are listed because each is set in a parenthesis or capitalised as the figure's palette. The document's references list is not read for candidates.
+
+- Agency System
+- Agency System Design Language Specification
+- ASDLS
+- Interface-Brutalismus
+- Interface Brutalismus
+- Kernel Panic
+- Dropped Packets
+- Kael
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Silas
+- Oblivion
+- Per-Alter Visual Identities
+- Apparently Normal Parts
+- Emotional Parts
+- ANPs
+- EPs
+- Clinical White
+- Algorithmic Cyan
+- Lidar Red
+- Overheated Amber
+- Thermal Magenta
+- Quantum Silver
+- Destructive Orange
+- Acid Yellow
+- Frostbite Cyan
+- Phase-Shift Magenta
+- Glitch Green
+- Toxic Orchid
+- Abyssal Black
+- Clinical Terminal Mint Green
+- Phantom Gold
+- Absolute Zero White
+- Chromatic Aberration
+- Data Moshing
+- Vector Jitter
+- Packet Loss
+- Trauma-Gelb
+- Hoffnungs-Gelb
+- Signal-Gelb
+- Nostalgie-Gelb
+- Erkenntnis-Gelb
+- Kollaps-Kernel
+- Kohärenz-Kernel
+- The Lost One
+- Dual-Kernel-Theorie
+- Master-Terminal-Prinzip
+- Color Clash
+- Split-Composition
+- Polyphonie
+- Tier 0
+- Tier 1
+- Tier 2
+- Homöostase
+- Alert / Dissonanz
+- epistemischen Isolation
+- epistemischen Barrieren
+- Negativraum
+- Heavy Crosshatching
+- Dutch Angle
+- Micro-Jittering
+- Micro-Jitter
+- RGB-Splitting
+- Digital Kintsugi
+- Post-Trauma-Blässe
+- visuelle Lautstärkeregelung
+- Narrative Reliability Engineer
+- Analyse-Paralyse
+- Haptik des Bunkers
+- fensterlosen Kubus
+- Latenz-Ring
+- Datenfissur
+- Ladebalken
+- blinde Fleck
+- fehlende Block
+- Nadelstrich
+- HUD-Fadenkreuz
+- Logik-Firewall
+- Gradients
+- Bunker
+
+## lens
+
+- Theorie der strukturellen Dissoziation der Persönlichkeit
+- TSDP

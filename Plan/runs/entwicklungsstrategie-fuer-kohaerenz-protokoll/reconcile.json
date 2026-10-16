@@ -1,0 +1,64 @@
+{
+  "document": "entwicklungsstrategie-fuer-kohaerenz-protokoll",
+  "drive_id": "1Ius-o6MDSHS8IIDr8y8RUpdVO6RhdS3MVomuvfN_m0g",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — the session judged the document tool guidance with sample prompts (Plan/runs/ingest-321/brief.md); the candidate Co₁ was missed by the reader and not added after counting",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 57,
+    "decisions": 59,
+    "decided_by_lookup": 42,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A how-to guide for entering the novel into a writing software, with sample prompts: it states nothing of the novel's world, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "tool guidance, light pass: every page and near match it names stands as material to enter into a writing software or inside a sample prompt; nothing is read",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 144,
+      "decision": "occurrence",
+      "why": "tool guidance; light pass"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "tool guidance; light pass"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 53,
+      "decision": "occurrence",
+      "why": "tool guidance; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything — the software's features, the mapping table, the sample prompts, the workflow"
+  ],
+  "internal_tension": "none: instructions for a tool",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

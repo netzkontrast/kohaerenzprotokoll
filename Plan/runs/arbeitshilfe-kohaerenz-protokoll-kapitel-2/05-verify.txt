@@ -1,0 +1,238 @@
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Adressiert
+whole word, case-sensitive     4
+whole word, case-insensitive   6
+including compounds            4
+
+`Adressiert` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#4]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Die Arbeitshilfe fordert
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Die Arbeitshilfe fordert` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#5]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Die Arbeitshilfe verlangt
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Die Arbeitshilfe verlangt` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#3]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Arbeitshilfe
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`Arbeitshilfe` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#45]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Zugriff am April 20, 2025
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            35
+
+`Zugriff am April 20, 2025` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#35]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count KW1
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            19
+
+`KW1` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#17]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count KW2
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`KW2` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#11]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Show, Don't Tell
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Show, Don't Tell` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#17]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Echo/Silas
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Echo/Silas` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#4]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Guardians
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Übergangsraum
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            23
+
+`Übergangsraum` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#11]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Liminalität
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+
+`Liminalität` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#19]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count AEGIS
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`AEGIS` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#9]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count EST
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`EST` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#16]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Beat 1.X
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Beat 1.X` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#2]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Beat 1.Y
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Beat 1.Y` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#2]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Beat 1.Z
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beat 1.Z` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Betwixt and Between
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Betwixt and Between` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#2]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Datensturm
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Datensturm` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#3]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Dissoziativer Identitätsstörung
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziativer Identitätsstörung` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count DID
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            10
+
+`DID` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#8]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count ANP
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`ANP` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#0]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Kollapses
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`Kollapses` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#3]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Kaels
+whole word, case-sensitive     53
+whole word, case-insensitive   53
+including compounds            53
+
+`Kaels` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#53]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Übergangsraums
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Übergangsraums` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#12]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Praetors
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Praetors` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#5]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Echos
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Echos` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#4]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Datensturms
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Datensturms` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Alter-Dynamiken
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alter-Dynamiken` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Depersonalisationssymptome
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Depersonalisationssymptome` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Limina
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            48
+
+`Limina` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#5]
+
+$ python3 scripts/read.py arbeitshilfe-kohaerenz-protokoll-kapitel-2 --count Liminalitätstheorie
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Liminalitätstheorie` ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:#1]
+
+$ grep -c 'ANP-ähnlich' (compound, 1 line)
+1
+$ grep -o 'KW1-Kollapses' | wc -l
+2
+$ grep -o 'passiven Einflusses' | wc -l
+1
+$ lines with backslash
+222 223 224 225 339 
+profile: backslash escapes 164, glued ref numbers 84 (01-profile.txt)
+  backslash escapes    164
+  glued ref numbers    84
+arithmetic: Limina in 48 minus word 5 = 43 (04-counts.txt)
+  Limina                            5 word    48 in   [11, 17, 51, 59, 61, 77]  <-- substring
+candidates: 63; standing-alone-less rows 14 (census-draft facts)

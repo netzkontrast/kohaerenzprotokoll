@@ -1,0 +1,23 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      9
+  ascii quotes           70
+
+# inflection families -- one term, several surfaces
+  dynam    Dynamic, Dynamics
+  kernw    Kernwelt, Kernwelten
+  persp    Perspective, Perspectives
+  poten    Potentialis, Potentialmeer
+  story    Story, Storyform
+  throu    Throughline, Throughlines
+
+# substring pairs -- never one term, often merged by accident
+  Main < Domain
+  Story < Storyform
+  Control < Uncontrolled
+  Dynamic < Dynamics
+  Kernwelt < Kernwelten
+  Perspective < Perspectives
+  Throughline < Throughlines

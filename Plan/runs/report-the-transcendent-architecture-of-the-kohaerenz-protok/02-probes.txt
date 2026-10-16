@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      64
+  typographic marks      20
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  ancho    Anchor, Anchoring
+  emerg    Emergence, Emergent
+  funda    Fundament, Fundamental
+  integ    Integrated, Integration
+  mecha    Mechanical, Mechanics
+  poten    Potential, Potentialmeer
+  trans    Transcendence, Transcendent
+
+# substring pairs -- never one term, often merged by accident
+  Anchor < Anchoring
+  Fundament < Fundamental
+  Potential < Potentialmeer

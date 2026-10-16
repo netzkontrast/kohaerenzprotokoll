@@ -1,0 +1,349 @@
+{
+  "document": "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+  "drive_id": "18A5vZccUSJ-F7T6q3EV7_XYVxHhnvosz34kMRL_gTyk",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 4
+  },
+  "glued_ref_numbers": 132,
+  "backslash_escapes": 56,
+  "typographic_marks": 97,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systematischer",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemfunktion",
+      "Systemgrenze",
+      "Systemgrenzen",
+      "Systemintegrität",
+      "Systemkohärenz",
+      "Systemkomponenten",
+      "Systemorganisation",
+      "Systems",
+      "Systemtheorie",
+      "Systemverhalten",
+      "Systemzustands"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationelle",
+      "Informationen",
+      "Informationsaustausch",
+      "Informationsdurchsatz",
+      "Informationsgehalt",
+      "Informationsgenerierung",
+      "Informationsgewinnung",
+      "Informationsrate",
+      "Informationsreduktion",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsverlust",
+      "Informationsübertragung"
+    ],
+    "model": [
+      "Modeling",
+      "Modell",
+      "Modellaktualisierung",
+      "Modellauswahl",
+      "Modellbildung",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modellrepräsentation",
+      "Modells",
+      "Modelltheorie",
+      "Models"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlererkennung",
+      "Fehlerisolierung",
+      "Fehlerkorrektur",
+      "Fehlerkorrekturcodes",
+      "Fehlerkorrekturmechanismen",
+      "Fehlern",
+      "Fehlertolerante",
+      "Fehlertolerantes",
+      "Fehlertoleranz",
+      "Fehlertoleranzmechanismen"
+    ],
+    "kohär": [
+      "Kohärente",
+      "Kohärenz",
+      "Kohärenzbeurteilungen",
+      "Kohärenzerhaltung",
+      "Kohärenzextraktion",
+      "Kohärenzfunktion",
+      "Kohärenzgewinnung",
+      "Kohärenzmechanismen",
+      "Kohärenzprinzipien",
+      "Kohärenzprotokoll",
+      "Kohärenzprotokolls"
+    ],
+    "grenz": [
+      "Grenzdefinition",
+      "Grenze",
+      "Grenzen",
+      "Grenzkontrolle",
+      "Grenzmanagement",
+      "Grenzmodulation",
+      "Grenzverteidigung",
+      "Grenzziehung",
+      "Grenzüberschreitungen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbstmodellierung",
+      "Selbstorganisation",
+      "Selbstorganisierende",
+      "Selbstproduktion",
+      "Selbstregulation",
+      "Selbstüberwachung"
+    ],
+    "axiom": [
+      "Axiom",
+      "Axiomatic",
+      "Axiomatisch",
+      "Axiomatische",
+      "Axiomatisches",
+      "Axiome",
+      "Axiomen",
+      "Axiomensystems"
+    ],
+    "konsi": [
+      "Konsistentes",
+      "Konsistenz",
+      "Konsistenzbeweise",
+      "Konsistenzbeweisen",
+      "Konsistenzherstellung",
+      "Konsistenzmaximierung",
+      "Konsistenzprüfung",
+      "Konsistenzprüfungen"
+    ],
+    "optim": [
+      "OPTIMIZATION",
+      "Optimal",
+      "Optimierung",
+      "Optimierungs",
+      "Optimierungsbasiert",
+      "Optimierungsprozessen",
+      "Optimierungsziel",
+      "Optimization"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisational",
+      "Organisationals",
+      "Organisationsdynamik",
+      "Organisationsprinzipien",
+      "Organismen",
+      "Organismus",
+      "Organization"
+    ],
+    "compu": [
+      "Computational",
+      "Computer",
+      "Computergestützte",
+      "Computernetzwerken",
+      "Computerprogramms",
+      "Computersystemen",
+      "Computerwissenschaft"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen",
+      "Funktionsbereiche",
+      "Funktionsfähigkeit",
+      "Funktionsprinzipien",
+      "Funktionsweise"
+    ],
+    "kontr": [
+      "Kontradiktion",
+      "Kontrast",
+      "Kontrollaktionen",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollmechanismus",
+      "Kontrollprozesse"
+    ],
+    "regel": [
+      "Regel",
+      "Regelkreise",
+      "Regelmäßige",
+      "Regelmäßigkeit",
+      "Regelmäßigkeiten",
+      "Regeln",
+      "Regelungs"
+    ],
+    "theor": [
+      "Theoremen",
+      "Theorems",
+      "Theoretical",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "algor": [
+      "ALGORITHMS",
+      "Algorithm",
+      "Algorithmen",
+      "Algorithmische",
+      "Algorithms",
+      "Algorithmus"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbanken",
+      "Datenfehlers",
+      "Datenkette",
+      "Datensatzes",
+      "Datenstrukturen"
+    ],
+    "ident": [
+      "Identifizieren",
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitätsbildung",
+      "Identitätspersistenz"
+    ],
+    "ontol": [
+      "ONTOLOGY",
+      "Ontological",
+      "Ontologie",
+      "Ontologische",
+      "Ontologischer",
+      "Ontology"
+    ],
+    "proze": [
+      "Prozeduren",
+      "Prozess",
+      "Prozesse",
+      "Prozessen",
+      "Prozessisolation",
+      "Prozessphilosophie"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit",
+      "Widerstehen"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungen",
+      "Anpassungsfähigkeit",
+      "Anpassungsprobleme",
+      "Anpassungsprozesse"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropieexport",
+      "Entropieproduktion",
+      "Entropiezunahme",
+      "Entropy"
+    ],
+    "gesam": [
+      "Gesamtbeschreibung",
+      "Gesamtentropie",
+      "Gesamtstabilität",
+      "Gesamtstruktur",
+      "Gesamtsystem"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Modellbildung"
+    ],
+    [
+      "Bild",
+      "Identitätsbildung"
+    ],
+    [
+      "Bild",
+      "Kompromissbildung"
+    ],
+    [
+      "Bits",
+      "Orbits"
+    ],
+    [
+      "Bits",
+      "Paritätsbits"
+    ],
+    [
+      "Dich",
+      "Dichte"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Eines"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Fail",
+      "Failover"
+    ],
+    [
+      "Feld",
+      "Spannungsfeld"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formel"
+    ]
+  ]
+}

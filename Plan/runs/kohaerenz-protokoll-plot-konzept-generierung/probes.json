@@ -1,0 +1,283 @@
+{
+  "document": "kohaerenz-protokoll-plot-konzept-generierung",
+  "drive_id": "10okAA7VzLtf4oLE5TqM6EyKOGzUPg9f2QN-i2jLyFnA",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 103,
+  "backslash_escapes": 48,
+  "typographic_marks": 26,
+  "ascii_quotes": 114,
+  "inflection_families": {
+    "integ": [
+      "Integral",
+      "Integration",
+      "Integrations",
+      "Integrationsdurchbruch",
+      "Integrationsgambit",
+      "Integrationsmöglichkeiten",
+      "Integrationsprinzip",
+      "Integrationsprozess",
+      "Integrationsreise",
+      "Integrationsschritt",
+      "Integrationsversuche"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interkonnektivität",
+      "Internal",
+      "InternalFamilySystems",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Intervention",
+      "Interventionen",
+      "Interventionsversuche"
+    ],
+    "simul": [
+      "Simulating",
+      "Simulation",
+      "Simulationen",
+      "Simulationsbrüche",
+      "Simulationsgrenzen",
+      "Simulationslabore",
+      "Simulationsmauern",
+      "Simulationsphysik",
+      "Simulationsregeln",
+      "Simulationssubstrat",
+      "Simulationswelten"
+    ],
+    "syste": [
+      "System",
+      "Systemen",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systemkollaps",
+      "Systems",
+      "Systemstabilität",
+      "Systemverfalls",
+      "Systemverletzungen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhalt",
+      "Selbsterhaltung",
+      "Selbsterhaltungsversuchen",
+      "Selbstführung",
+      "Selbstorganisation",
+      "Selbstwiderspruch",
+      "Selbstwidersprüche"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollierende",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollparadigma",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierung",
+      "Fragmentierungsprotokolls",
+      "Fragmentierungsversuch",
+      "Fragments"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchen",
+      "Versuchung",
+      "Versuchungen"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchstoleranz",
+      "Widersprüche",
+      "Widersprüchen"
+    ],
+    "algeb": [
+      "Algebra",
+      "Algebraic",
+      "Algebras",
+      "Algebren"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergente",
+      "Emergenter",
+      "Emergenz"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionen",
+      "Emotions"
+    ],
+    "gegen": [
+      "Gegenagenten",
+      "Gegenmaßnahme",
+      "Gegenmaßnahmen",
+      "Gegenseitige"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenoperationen",
+      "Gruppentheorie"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbögen",
+      "Handlungstreiber"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzordnung",
+      "Kohärenzprinzip",
+      "Kohärenzprotokollen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptionelle",
+      "Konzeptioneller"
+    ],
+    "logik": [
+      "Logik",
+      "Logiken",
+      "Logikregeln",
+      "Logiksystem"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "proze": [
+      "Prozeduren",
+      "Prozess",
+      "Prozesse",
+      "Prozesses"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsbrüche",
+      "Realitätstasche"
+    ],
+    "varia": [
+      "Variablen",
+      "Variante",
+      "Varianten",
+      "Variation"
+    ],
+    "welte": [
+      "Welten",
+      "Weltenbluten",
+      "Weltenblutens",
+      "Weltenblutungen"
+    ],
+    "zusam": [
+      "Zusammenarbeit",
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenhang"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Adic",
+      "Sporadicity"
+    ],
+    [
+      "Chen",
+      "Erreichen"
+    ],
+    [
+      "Chen",
+      "Versuchen"
+    ],
+    [
+      "Chen",
+      "Auftauchen"
+    ],
+    [
+      "Chen",
+      "Widersprüchen"
+    ],
+    [
+      "Chen",
+      "Unerklärlichen"
+    ],
+    [
+      "Chen",
+      "Selbsterhaltungsversuchen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Down",
+      "Downward"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Erscheinen"
+    ],
+    [
+      "Form",
+      "Forms"
+    ],
+    [
+      "Form",
+      "Conformal"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsebene"
+    ],
+    [
+      "Form",
+      "ModularFormsLecture"
+    ]
+  ]
+}

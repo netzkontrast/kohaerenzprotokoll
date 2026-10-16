@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      56
+  backslash escapes      71
+  typographic marks      4
+  ascii quotes           86
+
+# inflection families -- one term, several surfaces
+  speic    Speicher, Speicherbedarf, Speicherlösungen, Speichernutzung, Speicherplatz, Speichersicherheit, Speicherung, Speicherverwaltung, Speicherverwaltungen
+  syste    System, Systemabstürze, Systemen, Systemgenese, Systemik, Systems
+  agent    Agent, AgentZero, Agenten, Agents
+  daten    Daten, Datenbank, Datenintegrität, Datensicherheit
+  grenz    Grenze, Grenzen, Grenzsituation, Grenzziehung
+  model    Modell, Modelle, Modellen, Modellierung
+  siche    Sicherheit, Sicherheitsarchitektur, Sicherheitsaudit, Sicherheitsmodell
+  unter    Unterdrückung, Unterfangen, Unterschreitung, Untersuchung
+  abstr    Abstraction, Abstractions, Abstraktion
+  antei    Anteil, Anteile, Anteilen
+  assis    Assistant, Assistants, Assistenten
+  ausfü    Ausführung, Ausführungsschleifen, Ausführungszeit
+  compa    Companion, CompanionConfig, Companions
+  imple    Implementierung, Implementierungsplan, Implementierungsplans
+  insta    Installation, Instanz, Instanziierung
+  kerne    Kernel, Kernels, Kernentwickler
+  laufz    Laufzeit, Laufzeitumgebung, Laufzeitverzögerungen
+  manus    Manuskript, Manuskriptdaten, Manuskripts
+  narra    Narration, Narrativ, Narrative
+  optim    Optimierung, Optimizing, Optimum
+  provi    Provider, Providern, Provisionierung
+  quell    Quellcodes, Quellen, Quellmaterialien
+  reali    Realisierung, Realismus, Realität
+  selbs    Selbst, Selbstmodell, Selbstmodells
+  simul    Simulation, Simultanität, Simultanitätsgrenze
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Wallet
+  Alle < Smaller
+  Code < Quellcodes
+  Dies < Diese
+  Edge < Ledger
+  Eine < Seine
+  Eine < Anscheinend
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kernel
+  Kern < Kernels
+  Kern < Kernentwickler
+  Kern < Kernkomponenten
+  Loop < ToolLoopAgent
+  Meta < Metaphorik
+  Rate < Crate
+  Rust < Rusts
+  Satz < Gegensatz
+  Satz < Unvollständigkeitssatz
+  Sein < Seine

@@ -1,0 +1,58 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- Kohärenz Protokoll
+- System Kael
+- Kael
+- AEGIS
+- Anteile
+- Ich-Fragmenten
+- Potentialmeer
+- Genesis-Krise
+- algorithmic dismemberment
+- Einsamkeit
+- Sehnsucht
+- entropy
+- Apparently Normal Parts (ANPs)
+- ANPs
+- Emotional Parts (EPs)
+- EPs
+- Lex
+- Rhys
+- Nyx
+- Kiko
+- Alex
+- Kernwelten (Core Worlds)
+- Kernwelten
+- Core Worlds
+- Psycho-Architectures
+- KW1
+- Logos-Prime
+- KW2
+- Mnemosyne-Archipel
+- KW3
+- Cerberus-Labyrinth
+- KW4
+- Kairos-Potentialis
+- Algorithmic Horror
+- Somatic Truth
+- Principle
+- Atmosphere
+- ruin-garden
+- Risse
+- Juna/V
+- 6 Paraiyas
+- Moonshine-Link
+- ontologically blind
+- Protocol Ontology
+- K₁
+- K₀
+- integration
+
+## lens
+
+- Theory of Structural Dissociation
+- TSDP
+- Correspondence
+- dialetheic
+- gnosis
+- qualia

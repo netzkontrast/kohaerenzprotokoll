@@ -1,0 +1,166 @@
+{
+  "document": "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
+  "drive_id": "1Vh61VHw2K9eys3XCGkb5NIeN-2GkqhbYo9x1OYYN6Zc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 0,
+  "typographic_marks": 27,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "integ": [
+      "INTEGRATIONS",
+      "Integration",
+      "Integrations"
+    ],
+    "mosai": [
+      "MOSAIK",
+      "Mosaik",
+      "Mosaiks"
+    ],
+    "anoma": [
+      "ANOMALIE",
+      "Anomalie"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen"
+    ],
+    "herz": [
+      "HERZ",
+      "Herz"
+    ],
+    "kael": [
+      "KAEL",
+      "Kael"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nichts"
+    ],
+    "patie": [
+      "Patient",
+      "Patienten"
+    ],
+    "proba": [
+      "Proband",
+      "Probanden"
+    ],
+    "proto": [
+      "PROTOKOLL",
+      "Protokolls"
+    ],
+    "selbs": [
+      "Selbsterhaltung",
+      "Selbstorganisation"
+    ],
+    "statu": [
+      "STATUS",
+      "Statusbericht"
+    ],
+    "staub": [
+      "Staub",
+      "Staubkörnern"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmen"
+    ],
+    "syste": [
+      "SYSTEMFEHLER",
+      "System"
+    ],
+    "zielk": [
+      "ZIELKOH",
+      "Zielkohärenz"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "ENDE",
+      "Tendenz"
+    ],
+    [
+      "HERZ",
+      "Herz"
+    ],
+    [
+      "HERZ",
+      "Herzmonitors"
+    ],
+    [
+      "Herz",
+      "Herzmonitors"
+    ],
+    [
+      "KAEL",
+      "Kael"
+    ],
+    [
+      "KAEL",
+      "Kaels"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Leben",
+      "Lebens"
+    ],
+    [
+      "NICHT",
+      "Nichts"
+    ],
+    [
+      "Punkt",
+      "Ankerpunkt"
+    ],
+    [
+      "Staub",
+      "Staubkörnern"
+    ],
+    [
+      "Stern",
+      "Knistern"
+    ],
+    [
+      "Teile",
+      "Anteile"
+    ],
+    [
+      "ÄRENZ",
+      "Kohärenz"
+    ],
+    [
+      "ÄRENZ",
+      "Zielkohärenz"
+    ],
+    [
+      "Grenze",
+      "Grenzen"
+    ],
+    [
+      "MOSAIK",
+      "Mosaik"
+    ],
+    [
+      "MOSAIK",
+      "Mosaiks"
+    ],
+    [
+      "Mosaik",
+      "Mosaiks"
+    ],
+    [
+      "STATUS",
+      "Statusbericht"
+    ]
+  ]
+}

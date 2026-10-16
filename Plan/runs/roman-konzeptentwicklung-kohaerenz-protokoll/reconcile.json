@@ -1,0 +1,292 @@
+{
+  "document": "roman-konzeptentwicklung-kohaerenz-protokoll",
+  "drive_id": "13911zWbhSANDfrABprWsDXLXrNjgXUBvIETEhv1HfY0",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings and chapter readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-283/brief.md, 2026-10-12",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 120,
+    "decisions": 119,
+    "decided_by_lookup": 100,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A master synthesis and plan: its new surfaces are its axes, world names of its own (Grenz-Zonen, Resonanz-Kontinuum), Nox, the Manager, the SIS state, the Bekenstein bound and its self-check; what it says of the novel's world went on existing pages, chapter pages and five records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        42,
+        44,
+        46,
+        83,
+        116
+      ],
+      "attribution": "",
+      "note": "AEGIS as autopoietic gatekeeper, heat of erasure, transformed in the finale"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        31,
+        79,
+        144,
+        151
+      ],
+      "attribution": "",
+      "note": "ANP/EP separation mapped to cache coherence"
+    },
+    {
+      "page": "chaitin-konstante",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "the Chaitin constant against AEGIS's axioms"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "KW 4 as Resonanz-Kontinuum and Externe Ebene"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        29,
+        44,
+        55,
+        83,
+        102,
+        110
+      ],
+      "attribution": "",
+      "note": "Juna as EP fragment, KW 4, edge of view, unmasking"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        25,
+        27,
+        81,
+        87,
+        112
+      ],
+      "attribution": "",
+      "note": "Kael as ANP host, isomorphic with AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        50,
+        52,
+        53,
+        54,
+        55
+      ],
+      "attribution": "",
+      "note": "four ontological spheres"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        59,
+        61,
+        69,
+        135
+      ],
+      "attribution": "",
+      "note": "Kishōtenketsu beside Dramatica and the three parts"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        52
+      ],
+      "attribution": "",
+      "note": "KW 1 as deterministic hyperstructure"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        54,
+        83,
+        97,
+        99,
+        127
+      ],
+      "attribution": "",
+      "note": "LogOS as guardian program, prisoner of Turing mechanics, executive of AEGIS"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        54,
+        100
+      ],
+      "attribution": "",
+      "note": "Mnemosyne reveals the illusion of identity"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        69,
+        116
+      ],
+      "attribution": "",
+      "note": "the dissonance integrated, the finale"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        54,
+        92,
+        95
+      ],
+      "attribution": "",
+      "note": "Der Nexus as KW 3, Part II setting"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        44,
+        102
+      ],
+      "attribution": "",
+      "note": "AEGIS reads Juna as noise"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        95
+      ],
+      "attribution": "",
+      "note": "focal persona shifts to the Manager"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the AEGIS level as physical-algorithmic"
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "Sektor 04 in the sample prose"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        25,
+        83,
+        140,
+        144
+      ],
+      "attribution": "",
+      "note": "TSDP as Kael's frame and as a friction"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        54,
+        87
+      ],
+      "attribution": "",
+      "note": "KW 3 as machine room and the SIS fall"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      3,
+      13,
+      26,
+      36,
+      38,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C11"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q6",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Landauer-Prinzip`, `Landauer-Limit` and `Landauer` the principle, not the Landauer-Signatur; `Mosaik-Herz` and `Mosaik-Herzens` one term, on mosaik-herz; `Teil I`–`Teil III` and `Kapitel 3`, `Kapitel 36`, `Kapitel 38-39` distinct labels, read as chapters where named; `Dramatica` and `Dramatica Storyminds`, `Kishōtenketsu` and `Ketsu` — the frame and its step, on kishotenketsu; Gödel's theorem not the Gambit; `Kohärenz Protokoll` the title, `Kohärenz-Kernels` not characterised, `Zielkohärenz erreicht` a label; `Autonomous Entropic Gatekeeper for Integrity Systems` on aegis; `Phaenomena` a reference title",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 187,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "a general sentence"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 95,
+      "decision": "reading",
+      "why": "the focal persona shifting in Part II"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 15,
+      "decision": "reading",
+      "why": "a Realitätsebene in the context line, if characterised"
+    }
+  ],
+  "not_promoted": [
+    "the System Mind",
+    "the four axes",
+    "the Grenz-Zonen and the Resonanz-Kontinuum as world names",
+    "Nox",
+    "the Manager",
+    "the SIS state",
+    "the Bekenstein bound",
+    "the self-check items",
+    "the Golden Sources"
+  ],
+  "internal_tension": "it calls LogOS a guardian program in the Überwelt (L54, L97, L99) and the executive instance of AEGIS (L83) without reconciling them; it names Part II both „Anatomie des Rauschens“ (L68) and „Die Anatomie der Spaltung“ (L89); it leaves chapter 1 open (L149–L151)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

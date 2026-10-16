@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 58
-readings: 58
+sources: 109
+readings: 109
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "kael-charakterarchitektur-und-konfliktdynamik", "kael-charakterarchitektur-und-konfliktdynamik-2", "kohaerenz-analyse-kapitel-2", "narrativ", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanentwurf-kohaerenz-protokoll-teil-1", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "m-als-fundament-der-simulation", "kohaerenz-protokoll", "an-inquiry-into-the-unresolved-questions-and-thematic-tensio", "hard-sci-fi-cosmic-horror-research-questions", "plotanalyse-kohaerenz-protokoll-szenario", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "ai-assisted-narrative-coherence", "outline", "charaktere", "strukturelle-dissoziation-system-kael-analyse", "roman-entwicklung-kohaerenz-und-leitfragen", "romanprojekt-analyse-synthese", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "roman-outline-stilmittel-perspektiven-umsetzung", "romanplot-kohaerenz-protokoll-teil-1", "ki-roman-architektur-kohaerenz-und-kollaps", "roman-refactoring-kohaerenz-und-charakterentwicklung", "lokalitaeten-konzept-fuer-roman-simulation", "an-ontological-and-systemic-overview-of-the-coherence-protoc", "roman-lokalitaeten-konzept-und-ausarbeitung-2", "kohaerenz-protokoll-plot-blueprint-erstellung", "umfassendes-lokalitaeten-konzept-fuer-roman", "charakterkonzepte-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plotideen-generierung", "kohaerenz-protokoll-plotideen-extraktion", "aegis-logik-und-erzaehlstruktur", "analysis-of-the-kohaerenz-protokoll-narrative-project-develo", "kuerze-rechercheauftrag-die-architektur-der-seel", "deconstructing-reality-s-architecture", "romanidee-als-interaktiver-prototyp", "kohaerenz-protokoll-2", "kael-charakterarchitektur-und-konfliktdynamik", "kael-charakterarchitektur-und-konfliktdynamik-2", "kohaerenz-analyse-kapitel-2", "narrativ", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "romanentwurf-kohaerenz-protokoll-teil-1", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "orte-konzept-fuer-kohaerenz-protokoll", "aegis-paradoxon-konzeption-und-analyse", "kohaerenz-protokoll-forschungsaufgabe", "kohaerenz-protokoll-epische-plot-anreicherung", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropenanalyse-fuer-kohaerenz-protokoll", "aegis-analyse-und-manifest-postulation", "arbeitshilfe-kohaerenz-protokoll-kapitel-2", "aegis-philosophische-analyse-und-manifest-docx", "thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le", "blueprint", "report-plot-synthesis-and-final-outline-for-coherence-protoc", "roman-kapitel-ausformulierung-kohaerenz-protokoll", "interdisziplinaere-recherche-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plot-konzept-generierung", "kohaerenz-protokoll-plot-synthese", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "narrative-plot-exploration-existenzielle-kohaerenz", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "kohaerenz-protokoll-inkubation-x", "trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do", "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p", "archon-ai-narrative-coherence-framework", "how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw", "an-introduction-to-the-concepts-of-coherence-protocol", "the-true-coherence-protocol-architecting-kaels-journey-from", "roman-kapitel-entwurf-mit-kohaerenzprotokoll", "dramatica-dual-storyform-mapping-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "plot-konzepte-kohaerenz-protokoll-generierung", "romanplot-kohaerenz-protokoll-entwicklung", "monstergruppe-primzahlen-plot-neukonstruktion", "plot-rekonstruktion-kohaerenz-protokoll", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "kohaerenz-protokoll-plot-entwicklungsauftrag", "konzeptanalyse-kohaerenz-protokoll-s-fundament", "kohaerenz-protokoll-thematische-tiefenanalyse", "kohaerenz-protokoll-themenanalyse-und-anreicheru", "genesis-ein-implementierungsleitfaden-prosa-version", "a-critical-analysis-of-coherence-protocol-an-assessment-of-p", "dkt-fundament-kohaerenz-protokoll-md", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "plot-exploration-kohaerenz-protokollkonzepte", "roman-kapitel-1-erstellung-analyse", "roman-entwicklung-ontologie-trauma-horror", "narrative-vertiefung-kohaerenz-protokoll", "genesis-krise-aegis-prosa-auftrag", "aegis-genesis-krise-prosa-auftrag-formulieren"]
 gathered: "2026-09-16"
 ---
 
@@ -83,6 +83,18 @@ The draft's research part, on Michael (the early name of Kael), speaks of „Bei
 
 The draft does not spell the term out in its own text, and the prose sketch never names it. The research part marks its proposals with `wahrscheinlich` and `könnte`; it is a plan, not a statement of the world.
 
+## Reading — `orte-konzept-fuer-kohaerenz-protokoll`, 2025-04-18, the places concept — the places concept's minimal use of DID
+
+The places concept says places and architecture can represent „spezifische Aspekte von Kaels DID oder der Systemlogik“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L56]. It points to a reference with the label „Kontext: KW Definition, DID, Guardians“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L42], whose content is not in this file. In profile 3 the therapy room may let Kael „unbewusst Hinweise auf seine wahre Natur (DID) zu geben oder zu erhalten“ ^[orte-konzept-fuer-kohaerenz-protokoll.md:L378].
+
+## Reading — `roman-kapitel-ausformulierung-kohaerenz-protokoll`, 2025-04-18, the chapter-1 guide — Kael's DID as a state the chapter shows without explaining
+
+The chapter-1 guide names Kael's inner intrusions as conditioned by his „dissoziative Identitätsstruktur (DID)“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L15] and describes him after the reboot as „ohne bewusstes Wissen über seine DID oder die Simulation“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L31]. In its recommendations it prescribes holding the explanation back: „Dem Drang widerstehen, Kaels DID oder die Mysterien“ ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:L135] too early to explain, relying on implication and Kael's confusion. The guide does not define the structure; it uses it as known. A guide, not the chapter.
+
+## Reading — `aegis-analyse-und-manifest-postulation`, 2025-04-19, the AEGIS manifesto analysis — the essay's reading of Kael's DID against AEGIS
+
+The essay evaluates AEGIS for the Kern-Welten and Kael's DID: „Die Anwendung von AEGIS auf Kaels DID transformiert es von einem rein theoretischen Konzept in ein ethisches Dilemma“ ^[aegis-analyse-und-manifest-postulation.md:L252]. It also writes that AEGIS may exclude as incoherent what belongs to the fictional Kael, so that it „Integration und Heilung aktiv behindert“ ^[aegis-analyse-und-manifest-postulation.md:L262].
+
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — DID as researched frame for the fiction
 
 The plot blueprint names its research on dissociative identity as a base for Kael's character architecture (L20, with TSDP and IFS). In step 1.1 it plans: „Darstellung von DID-Symptomen (Amnesie, Depersonalisierung, passive Beeinflussung) aus der Ich-Perspektive des Hosts.“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L146] Step 1.4 plans: „Deutliche Darstellung von DID-Symptomen: Switching, Co-Bewusstsein (oder dessen Fehlen), Amnesie zwischen Alters.“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L182]
@@ -90,6 +102,14 @@ The plot blueprint names its research on dissociative identity as a base for Kae
 ## Reading — `welten`, 2025-04-20, the world-concept reply — Kael's DID as the disturbance AEGIS can manage
 
 The reply names Kael's „fragmentierte Identität (DID)“ ^[welten.md:L29] in its premise as one of the two things that confront the system with a paradox. It does not explain the condition. In the AEGIS entry it says AEGIS „kann Kaels DID als lokale Störung erkennen“ ^[welten.md:L46] and (supposedly) manage it, while it is systemically unable to see the Kael-Julia connection (L46).
+
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — DID in the definition of Kael and of the Kernwelten
+
+The report's appendix defines Kael (labelled Erweiterter Kontext 3) as „Der Protagonist mit Dissoziativer Identitätsstörung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L282]. It describes the Kernwelten as AEGIS's attempt to divide his psyche, written there with DID, into subsystems: „AEGIS' Versuch, Kael's Psyche“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L258].
+
+## Reading — `arbeitshilfe-kohaerenz-protokoll-kapitel-2`, 2025-04-20, the chapter-2 expert analysis — DID terms borrowed from research to describe Kael
+
+The introduction describes the working aid as concerned with Kael's „sich vertiefenden dissoziativen Symptomatik“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L15] including DID, and the analysis says the alters' influence is to be shown „um Kaels DID widerzuspiegeln“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L51] (the working aid's demand, as reported). The DID terms then come from cited research: passive influence „ohne die volle exekutive Kontrolle zu übernehmen“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L55]; co-consciousness, „also das Miterleben der Handlungen oder Gefühle eines anderen Anteils“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L56]; and phobic avoidance „zwischen Anteilen beinhalten, die widersprüchliche Wahrheiten oder Emotionen halten“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L61]. Voice three, the analysis proposes: depersonalisation and passive influence may overlap, „Dies deutet auf eine mögliche Überlappung hin“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L45], and „Kaels Depersonalisationssymptome könnten mit dem Einfluss von Alters verschmelzen“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L45]. These are conditional proposals, not canon.
 
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — Kael's DID as induced by AEGIS, as the report cites its User Query
 
@@ -105,6 +125,62 @@ Recorded as the document's own description, not applied.
 
 The setup names Kael's „Dissoziativen Identitätsstörung (DID)“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L25], and the blueprint's theme section calls it the plainest image of fragmentation: „ist die offensichtlichste Darstellung von Fragmentierung“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L157]. The proposed resolution is integration, not suppression of parts.
 
+## Reading — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint — AEGIS's method as the cause of Kael's DID
+
+The M/Kael plot blueprint proposes that the method of decomposition „direkt Kaels Dissoziative Identitätsstörung (DID) verursacht“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L27], and later that AEGIS needs paraconsistent logic because of „Angesichts der inhärent widersprüchlichen Natur von Kael“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L89] (the fragmented identity, L89). Recorded, not applied.
+
+## Reading — `monstergruppe-babygruppe-und-kael`, 2025-04-23, the Monster-group analogy report — Kael's fragmentation compared with DID
+
+The Monster-group analogy report compares Kael's fragmentation with DID: „vergleichbar mit einer dissoziativen Identitätsstörung (DID)“ ^[monstergruppe-babygruppe-und-kael.md:L15]. It says the model fits accounts of DID in which a core self exists but „Trauma (Verlust von Juna) zu Fragmentierung führt“ ^[monstergruppe-babygruppe-und-kael.md:L159], and advises showing it as one system's fragmentation, with Kael's DID „nicht als Existenz völlig getrennter Persönlichkeiten dargestellt wird“ ^[monstergruppe-babygruppe-und-kael.md:L177]. An analogy report; recorded, not applied.
+
+## Reading — `monstergruppe-babymonstergruppe-fragmentierung-erzaehlung`, 2025-04-23, the coset-space report — DID as the metaphor for the coset space
+
+The coset-space report names DID as the state that Kael's fragmentation resembles: „ähnlich einer dissoziativen Identitätsstörung, DID“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L15]. It reads the coset space as the set of fragments, in the words „oder alternativen Zustände“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L115], and the Alter as its cosets: „die verschiedenen Alter-Zustände symbolisieren“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L142]. It ties the missing group operation to a core feature of DID: „den Verlust eines einzelnen, kohärenten operativen Selbst, ein Kernmerkmal von DID“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L143], and in the earlier section phrases it as „spiegelt den Verlust eines einheitlichen, kohärenten operativen Selbst bei DID wider“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L116]. On the cause it says that the mathematics offers „eine starke Analogie für die überwältigende Wirkung von Traumata“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L145]. The summary of the fit: „Dies passt hervorragend zur DID-Metapher“ ^[monstergruppe-babymonstergruppe-fragmentierung-erzaehlung.md:L105]. An analogy report; recorded, not applied.
+
+## Reading — `plot-exploration-kohaerenz-protokollkonzepte`, 2025-04-23, the plot-exploration report — DID as a research field for portraying alter identities
+
+The plot-exploration report proposes for concept 1 a research field, „Vertiefte Recherche zu Modellen der Dissoziativen Identitätsstörung (DID)“ ^[plot-exploration-kohaerenz-protokollkonzepte.md:L49], especially „zur Entstehung und Funktion von Alter-Identitäten“ ^[plot-exploration-kohaerenz-protokollkonzepte.md:L49], and warns that the portrayal „erfordert große Sensibilität und Genauigkeit“ ^[plot-exploration-kohaerenz-protokollkonzepte.md:L61]. A proposal, recorded, not applied.
+
+## Reading — `interdisziplinaere-recherche-fuer-kohaerenz-protokoll`, 2025-04-25, the interdisciplinary research protocol — DID proposed as a frame for the fragmentation of an abstract protagonist role
+
+The research protocol works on an abstracted core concept; its protagonist is a role of that core, never a named figure, and its account of DID is a borrowed outside frame, a lens. In its selection of seven concepts for the first deep scan the protocol lists DID as the seventh: „Liefert einen konkreten psychologischen Rahmen für die Fragmentierung des Protagonisten“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L182]. Its reflection on that selection proposes a link to the other chosen concepts: „Dies legt nahe, dass der Zustand des Protagonisten nicht nur psychologisch, sondern ontologisch mit der Natur der von ihm bewohnten Realität verbunden ist“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L186].
+
+The clinical account it gives is a report of the discipline, not a claim about the story: „DID wird überwiegend als eine komplexe posttraumatische Störung betrachtet“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L252] and „Dissoziation dient als Überlebensmechanismus, um überwältigende Erfahrungen zu bewältigen“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L252].
+
+In the application phase the protocol proposes, in the conditional, that the protagonist's psychic structure could follow DID models: „Die Fragmentierung könnte ontologisch sein“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L296]. Later it adds: „Die Fragmentierung wäre somit nicht rein psychologisch, sondern eine Reflexion der ontologischen Struktur des Raumes und seiner Instabilitäten“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L499].
+
+## Reading — `kohaerenz-protokoll-plot-konzept-generierung`, 2025-04-25, the five-variant plot concepts — DID as AEGIS's analytic tool
+
+In Synopsis 1 the five-variant plot concepts propose: „Kaels Dissoziative Identitätsstörung (DID) dient als analytisches Werkzeug für AEGIS“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L42]. Integration is then put as more than healing: it „stellt eine fundamentale ontologische und mathematische Neukonfiguration dar“ ^[kohaerenz-protokoll-plot-konzept-generierung.md:L46].
+
+## Reading — `kohaerenz-protokoll-plot-synthese`, 2025-04-25, the 39-beat plot synthesis — DID as AEGIS's analytic tool and its integration
+
+The 39-beat plot synthesis gives Kael a dissociative structure that AEGIS induces: „Seine durch AEGIS induzierte Dissoziative Identitätsstörung (DID) dient als Analysewerkzeug“ ^[kohaerenz-protokoll-plot-synthese.md:L40]. In Beat 3 (Akt 1) it plans that „Gleichzeitig wird die DID-Struktur als Analyse-Framework implementiert“ ^[kohaerenz-protokoll-plot-synthese.md:L69]. At the end of Akt 1, in Beat 13, the concept field reads „Übergang von passiver zu aktiver Wahrnehmung der DID-Struktur“ ^[kohaerenz-protokoll-plot-synthese.md:L131], and the same beat ends with „Die falsche Zerlegung zeigt erste Risse“ ^[kohaerenz-protokoll-plot-synthese.md:L131]. In Beat 16 (Akt 2) it plans „Beginn des Integrationsprozesses in DID“ ^[kohaerenz-protokoll-plot-synthese.md:L155].
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — DID read as AEGIS's fragmentation
+
+The detailed plot draft states „Kaels Zustand der Dissoziativen Identitätsstörung (DID)“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27) and reads it „narrativ als künstliche Fragmentierung der kohärenten Entität M durch AEGIS interpretiert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27). Kap 1's theme cell is „Fragmentierung & Dissoziation“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L87] (L87).
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — DID as the analogy for Kael's condition
+
+The Moonshine-Brücke blueprint's frame analysis says of Kael: „psychische Verfassung charakterisiert, die analog zur Dissociativen“ ^[kohaerenz-protokoll-plot-synthese-2.md:L25] Identity Disorder (the export writes the term with doubled backslashes for spaces, so it is described here, not quoted). The line continues: „Diese Verfassung ermöglicht oder zwingt ihn, durch“ ^[kohaerenz-protokoll-plot-synthese-2.md:L25] the Risse into different Kernwelten. Thesis 2 says „Sein Kampf gilt dem Verständnis seiner DID-analogen Zustände“ ^[kohaerenz-protokoll-plot-synthese-2.md:L34], and the table's theme cell for Kap 3 names the phenomenology of the same disorder. The blueprint plans this, and holds the condition analogous, not identical.
+
+## Reading — `plot-konzepte-kohaerenz-protokoll-generierung`, 2025-04-25, the five-variant report — Kael's DID as the recap and the variants have it
+
+The report's recap of its framework says „Kaels Dissoziative Identitätsstörung (DID) ist eine direkte Folge von AEGIS' Versuch, M analytisch zu fragmentieren.“ ^[plot-konzepte-kohaerenz-protokoll-generierung.md:L23]
+
+The variants each propose a different weight for it. The second variant proposes „Kaels DID könnte hier eine besondere Rolle spielen“ ^[plot-konzepte-kohaerenz-protokoll-generierung.md:L99]. The third proposes „Kaels DID könnte hier weniger zentral sein“ ^[plot-konzepte-kohaerenz-protokoll-generierung.md:L135]. The fourth proposes „Kaels DID könnte hier zu einem Werkzeug werden“ ^[plot-konzepte-kohaerenz-protokoll-generierung.md:L169], and has AEGIS use „psychologische Manipulationen, die auf Kaels DID abzielen“ ^[plot-konzepte-kohaerenz-protokoll-generierung.md:L185].
+
+## Reading — `romanplot-kohaerenz-protokoll-entwicklung`, 2025-04-25, the optimised blueprint — the dissociation as AEGIS's method, not a pathology
+
+The optimised blueprint states: „Seine dissoziative Identitätsstörung (DID) ist keine inhärente Pathologie“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L21] The same line names it AEGIS's method of fragmenting M for analysis. In the arc's first stage it plans: „Seine dissoziative Identitätsstörung ist die von AEGIS auferlegte Struktur zur Analyse von M“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L47]
+
+## Reading — `konzeptanalyse-kohaerenz-protokoll-s-fundament`, 2025-04-25, the concept analysis — DID as the direct result of AEGIS's analysis
+
+The concept analysis defines Kael's psyche as a DID, „ein direktes Resultat von AEGIS' Analysemethoden ist.“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L82] It reads the DID as fragmentation: „Kaels DID spiegelt die Fragmentierung der Identität in verschiedene Persönlichkeitsanteile oder“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L87] Alters. In the novel's context, it says, „AEGIS' analytischer Angriff das Trauma.“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L88]
+
+The analysis reasons that „Kaels DID ist nicht nur eine psychologische Störung, sondern ein“ ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:L93] ontological state. It bases this partly on the `Aufgabenstellung`, the brief the document reports for itself, which according to the analysis states that DID is a direct result of AEGIS's method; the analysis describes that brief and does not make it a decision. Later it weighs the M-DID metaphor and warns that forcing a one-to-one mapping risks trivialising both the mathematics and the psychology.
+
 ## Reading — `kohaerenz-protokoll-plotideen-generierung`, 2025-04-26, the plot-idea synthesis — DID as induced by AEGIS's observation
 
 The plot-idea synthesis says AEGIS acts as a first-order observer whose interventions shape Kael and „sie induzieren sogar die Dissoziative Identitätsstörung (DID)“ ^[kohaerenz-protokoll-plotideen-generierung.md:L109]. Later: „Die DID ist somit ein direktes Resultat dieser ontologischen Blindheit“ ^[kohaerenz-protokoll-plotideen-generierung.md:L111]. In the character section Kael „leidet unter einer Dissoziativen Identitätsstörung (DID), die durch AEGIS' Analyseversuche induziert wurde“ ^[kohaerenz-protokoll-plotideen-generierung.md:L172]. A plot seed, 11.3, has Kael recognise this: „Kael erkennt, dass AEGIS' Analyse seine DID verursacht hat“ ^[kohaerenz-protokoll-plotideen-generierung.md:L308].
@@ -119,6 +195,34 @@ AEGIS takes, in this model, the functional role of the perpetrator, yet the docu
 
 The concept synthesis states of Kael that his `DID`, written out „Dissoziative Identitätsstörung“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37], „ist keine inhärente Eigenschaft“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37] but „direkte Folge“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37] of AEGIS's analytic trauma, „dem Versuch, seine irreduzible Kernstruktur gewaltsam zu zerlegen“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L37]. The statement carries a `Quellen:` list of other documents.
 
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — DID as the process of Kael's fragmentation in Kapitel 4
+
+The enriched plot concept's theme draft has for Kapitel 4 (the number follows from Teil 1's range, Kapitel 1–10, and the entry's order, since the export restarts the numbering), under the concept label `Dissoziative Identitätsstörung (DID)`, the process of fragmentation: „Der Prozess der Fragmentierung: Kael erlebt abrupte Zeitsprünge, widersprüchliche Befehle, Gedächtnislücken durch“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L39] the personality-partitioning algorithm of AEGIS. A plan, not the chapter.
+
+## Reading — `narrative-plot-exploration-existenzielle-kohaerenz`, 2025-04-26, the existential-coherence plot exploration — a DID-analogous structure of the individual
+
+The existential-coherence exploration restates as premise that the individual „Weist eine Struktur auf, die analog zur Dissoziativen Identitätsstörung“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L38], and maps it onto IFS, a borrowed lens. In Synopsis A it proposes: „Kael leidet unter psychischer Fragmentierung“ ^[narrative-plot-exploration-existenzielle-kohaerenz.md:L225].
+
+## Reading — `monstergruppe-primzahlen-plot-neukonstruktion`, 2025-04-26, the prime-number blueprint — Kael's fragmentation as DID-analogous
+
+The prime-number blueprint's framework table gives Kael „Fragmentierung (DID-analog) als Reaktion auf“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L34] AEGIS's attempts at decomposition. Kap 4 plans that „Seine Fragmentierung verschlimmert sich“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L78], perhaps as memory gaps or „widersprüchliche innere Stimmen (frühe DID-Parallelen)“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L78].
+
+## Reading — `plot-rekonstruktion-kohaerenz-protokoll`, 2025-04-26, the plot reconstruction — DID planned as a reaction, not a fragmentation of M
+
+The plot reconstruction restates a rule about Kael's DID: „Kaels Dissoziative Identitätsstörung (DID) ist somit“ ^[plot-rekonstruktion-kohaerenz-protokoll.md:L59] plainly not a fragmentation of M or B themselves, because the text calls these algebraically simple. The rule's source is a user query that the file does not contain. Its later note calls the reframing central: „Die Neufassung von Kaels DID als direkte Folge von“ ^[plot-rekonstruktion-kohaerenz-protokoll.md:L66] AEGIS's actions. Act I is planned so that „Sein fragmentierter Zustand (DID) wird als direkte“ ^[plot-rekonstruktion-kohaerenz-protokoll.md:L111] reaction to AEGIS's analytic pressure is shown.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept — IFS/DID as the psychological manifestation of the fragmentation
+
+The 13-principle concept's list of borrowed concepts sets `IFS/DID` as „Psychologische Manifestation der Fragmentierung auf der Ebene von“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L68] the principles `Rekursive Selbstdifferenzierung`, `Fraktale Selbstähnlichkeit` and `Aktive Selbstgestaltung` (L68). A mapping of the concept, recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — Kael's fragmentation experienced as an induced DID
+
+The comprehensive concept plans that Kael experiences the fragmentation into Kernwelten as an „induzierte Dissoziative Identitätsstörung (DID)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L24]. The character section repeats it: „Erlebt die Fragmentierung als DID“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L69]. Among the psychological concepts it lists „Dissoziative Identitätsstörung (DID - als induzierter Zustand)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L85].
+
+## Reading — `narrative-vertiefung-kohaerenz-protokoll`, 2025-04-27, the deepening research report — DID restated as the model of Kael's fragmentation
+
+The deepening report restates from the plot concept, under the restated-concept label, that DID serves as the model of the fragmentation: „Dient als Modell für Kaels extreme Fragmentierung und den damit verbundenen Identitätsverlust“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L206]. The report's own description follows on the same line, in general terms, and it adds that the disorder is typically understood as a reaction to severe early trauma. Recorded, not applied.
+
 ## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28, the TSDP analysis — DID as the typical home of tertiary dissociation
 
 The report says the system with several ANPs and EPs „typischerweise mit komplexen Traumafolgestörungen wie der Dissoziativen Identitätsstörung (DID) assoziiert wird“ ^[strukturelle-dissoziation-system-kael-analyse.md:L15], and in Teil 2 that tertiary dissociation is „typisch für DID, komplexes OSDD-1“ ^[strukturelle-dissoziation-system-kael-analyse.md:L196]. It calls System Kael a fictional system and a manifestation of tertiary dissociation, not a diagnosis.
@@ -131,6 +235,42 @@ The character architecture takes from dissociative identity disorder one borrowe
 
 The TSDP revision of the report recasts Kael's state as tertiary structural dissociation, „charakteristisch für komplexe Traumafolgestörungen wie die Dissoziative Identitätsstörung (DID)“ ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:L32]. It keeps the host analogy only as one of the supports: „Die Analogie zum“ ^[kael-charakterarchitektur-und-konfliktdynamik-2.md:L32] host in DID describes the part that most often holds consciousness and control of the body (L32).
 
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a DID/IFS analogy to be handled with care
+
+The logline analysis reads Kael as a protagonist „fragmentiert in Personas/Anteile über Kernwelten verteilt, analog zu DID/IFS“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L80]. In its sensitivity section it advises: „Die Verwendung einer DID/IFS-Analogie erfordert äußerste Sorgfalt“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L142], and that the narrative „Die Erzählung muss die Perpetuierung schädlicher Stereotypen vermeiden“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L142]. It recommends consulting „Sensitivity Reader, die sowohl mit DID/dissoziativen Erfahrungen als auch mit IFS-Konzepten vertraut sind“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L145]. These are the analysis's recommendations.
+
+## Reading — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint — DID listed among the models for Kael's inner state
+
+The thematic blueprint's first cluster gathers the themes around Kael's inner state: „Dieses Cluster bündelt Themen rund um die innere Verfassung des Protagonisten Kael“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L23]. DID stands there, written out with its abbreviation, next to the family-systems model among the concepts of parts (L23); the rest of that line names a person and is not quoted. The blueprint offers these as borrowed models; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-themenanalyse-und-anreicheru`, 2025-04-28, the theme enrichment report — DID among the identity analogies of the self cluster
+
+The theme enrichment report lists, within the self-and-subjectivity cluster under identity and psyche, the analogies „Dissoziation/DID/IFS-Analogien“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L32] beside fragmentation versus integration, trauma and healing, shadow work and attachment theory (L32). It names the term only as one of the analogies the cluster gathers; it does not set out a figure with it on this line. Recorded, not applied.
+
+## Reading — `aegis-paradoxon-konzeption-und-analyse`, 2025-04-29, the AEGIS paradox report — DID as a borrowed concept for understanding Kael
+
+The report lists „Psychologie (Dissoziative Identitätsstörung - DID)“ ^[aegis-paradoxon-konzeption-und-analyse.md:L63] among its borrowed concepts, applied as „Fundamentales Verständnis von Kael als komplexes, adaptives System“ ^[aegis-paradoxon-konzeption-und-analyse.md:L63].
+
+## Reading — `genesis-ein-implementierungsleitfaden-prosa-version`, 2025-04-29, the Genesis implementation guide — dissociation as the trauma lens
+
+The Genesis implementation guide offers dissociation as the lens for the Ich and for Kael: the Ich's later state is read through trauma theory, and dissociation is, in the guide's words, a coping strategy: „Dies ist keine Fehlfunktion, sondern ein adaptiver Überlebensmechanismus“ ^[genesis-ein-implementierungsleitfaden-prosa-version.md:L43]. The same line lists the extreme case, fragmentation of the self into dissociated parts, and names DID among its examples. A borrowed lens in a direction book, recorded, not applied.
+
+## Reading — `genesis-krise-aegis-prosa-auftrag`, 2025-04-29, the Genesis-crisis prose commission — DID as a clinical analogy for the fragmentation
+
+The Genesis-crisis commission plans the fragmentation as structural dissociation that moves „möglicherweise in Richtung einer tertiären Dissoziation“ ^[genesis-krise-aegis-prosa-auftrag.md:L95], an analogue of DID. Its table of borrowed concepts lists DID as a „Klinische Analogie/Extremfall für die strukturelle Dissoziation“ ^[genesis-krise-aegis-prosa-auftrag.md:L212]. DID is here a model applied to the fiction, hedged; recorded, not applied.
+
+## Reading — `aegis-genesis-krise-prosa-auftrag-formulieren`, 2025-04-29, the four-stage Genesis-crisis report — DID listed as a clinical analogy
+
+The four-stage Genesis-crisis report lists DID among its borrowed theories and, in its summary table, gives it a clinical role: „Klinische Analogie/Extremfall für die strukturelle Dissoziation“ ^[aegis-genesis-krise-prosa-auftrag-formulieren.md:L433]. In the cluster for the traumatic event it says „DID und Abwehrmechanismen bieten klinische bzw. psychodynamische Parallelen“ ^[aegis-genesis-krise-prosa-auftrag-formulieren.md:L485]. A planning report's application of a borrowed concept, recorded, not applied.
+
+## Reading — `tropenanalyse-fuer-kohaerenz-protokoll`, 2025-05-01, the trope analysis — advice on depicting DID with care, as a proposal
+
+The trope analysis takes as its premise „ein Protagonist (Kael) mit Dissoziativer Identitätsstörung“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L17] inside a simulation controlled by AEGIS. It advises that „DID muss als komplexe posttraumatische Störung dargestellt werden“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L165], and that the portrayal avoid „nicht als inhärente Bösartigkeit oder Quelle für Gewalt“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L165]. It also advises: „Konsultiere Fachliteratur, Erfahrungsberichte von Menschen mit DID“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L189]. Its closing emphasis reads „Die Darstellung von DID erfordert höchste Sorgfalt“ ^[tropenanalyse-fuer-kohaerenz-protokoll.md:L218]. These are the analysis's own recommendations, recorded here, not applied.
+
+## Reading — `kohaerenz-protokoll-inkubation-x`, 2025-05-04, the Inkubation-X report — dissociative identity structure as a starting point
+
+The Inkubation-X report speaks of the structure's `dissoziative Identitätsstruktur` (`TSDP`) only as the point of departure for its transcendence models: „bietet einen Ausgangspunkt“ ^[kohaerenz-protokoll-inkubation-x.md:L169], from which research on consciousness and complex systems suggests paths to more integrated or radically different cognitive architectures.
+
 ## Reading — `charaktere`, 2025-07-29, the character concept — DID as the research base of the profiles
 
 The character concept names `DID` once as the research its profiles rest on: „Die folgenden Profile wurden basierend auf DID-Forschung kritisch überprüft und verfeinert“ ^[charaktere.md:L263] (L263). Elsewhere in the second answer it uses the German abbreviation: „Kernsymptome von DIS“ ^[charaktere.md:L228] (L228) for amnesia and co-consciousness. It names no source for the research.
@@ -138,6 +278,14 @@ The character concept names `DID` once as the research its profiles rest on: „
 ## Reading — `aegis-logik-und-erzaehlstruktur`, 2025-07-29, the research letter — the DID trauma model for the alters' origin
 
 The research letter applies an outside model: „Das Trauma-Modell der Dissoziativen Identitätsstörung (DID)“ ^[aegis-logik-und-erzaehlstruktur.md:L225] explains the origin of the alters; they are „kompartimentalisierte Funktionen, die als Abwehrmechanismus“ ^[aegis-logik-und-erzaehlstruktur.md:L225] developed against severe childhood trauma. For their working it turns to Minsky's `Society of Mind`; Kael's dissociative structure is shown „im Roman nicht als Schwäche“ ^[aegis-logik-und-erzaehlstruktur.md:L223] but as another, resilient form of cognition.
+
+## Reading — `kohaerenz-protokoll-forschungsaufgabe`, 2025-07-29, the ontological analysis — DID named for Kael's eleven parts
+
+The ontological analysis reads Kael's system as matching the picture of dissociative identity disorder: „Kaels elf Anteile deuten auf eine tertiäre Dissoziation hin“ ^[kohaerenz-protokoll-forschungsaufgabe.md:L105], which it says corresponds to DID. This is a proposal within its application of TSDP.
+
+## Reading — `blueprint`, 2025-07-29, the blueprint — the respectful depiction of DID and trauma as a guiding principle
+
+The blueprint lists among its guiding principles that the depiction of dissociative identity disorder and trauma is to happen „respektvoll und fundiert“ ^[blueprint.md:L29]. In the next principle it names `DID` with AEGIS and entropy as abstract concepts to be made tangible through Kael's experience (L30), and in the core concepts it sets Kael's fragmented identity in the brackets „Dissoziative Identitätsstörung, TSDP“ ^[blueprint.md:L39].
 
 ## Reading — `outline`, 2025-07-30, the outline — DID as a depiction labelled in Kap 3, Kap 6 and Kap 12
 
@@ -157,11 +305,33 @@ The dramaturg's blueprint (L115–L238) repeats the demand among its themes: „
 
 In its recommendations (part IV) the proposal names the disorder only in the ethics paragraph: „Die interaktive Darstellung einer Dissoziativen Identitätsstörung und von Trauma birgt eine erhebliche ethische Verantwortung“ ^[romanidee-als-interaktiver-prototyp.md:L276]. It urges involving „klinische Psychologen mit Spezialisierung auf Traumafolgestörungen“ ^[romanidee-als-interaktiver-prototyp.md:L276] and, where possible, „Personen mit gelebter Erfahrung mit DID“ ^[romanidee-als-interaktiver-prototyp.md:L276]. This is advice for the game; the proposal's description of Kael's system elsewhere calls it TSDP, and does not use the term here.
 
+## Reading — `aegis-philosophische-analyse-und-manifest-docx`, 2025-08-05, the AEGIS origin-philosophy analysis — DID named once as the background of the No-Trust principle
+
+The analyst names the diagnosis only as a context: „Kael/DID“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L51] (L51), where trauma and inner fragmentation are offered as a possible origin of the No-Trust principle, „als mögliche Externalisierung einer tiefgreifenden psychischen Abwehrstrategie“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L51]. The synthesis (L142) returns to „Nicht-Anthropomorphie vs. Psychologischer Kontext“ ^[aegis-philosophische-analyse-und-manifest-docx.md:L142]. These lines are about the fictional Kael, in the analyst's critique.
+
+## Reading — `trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do`, 2025-08-05, the Trauma-Archäologie report — DID as a borrowed clinical frame for the fragmentation of the report's unnamed protagonist system
+
+In concept 1 the Trauma-Archäologie report sets out a mechanism by which the unnamed protagonist system's psyche would split under a paradox of self-awareness and existential impossibility: „fragmentiert sich die Psyche, um diese unerträgliche Paradoxie zu bewältigen“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L130]. It then names the clinical frame as a comparison, not as a diagnosis: „Dies spiegelt die Funktion von Alters in der Dissoziativen Identitätsstörung (DID) wider, die verschiedene Traumaaspekte tragen.“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L130]
+
+The same passage gives the parts their division of labour — „Ein Teil hält das Bewusstsein der Leere, ein anderer die Beziehung zur Entität, ein weiterer die reine Existenzangst.“ ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:L130] — and the report is a research report of hypotheses that chooses no concept.
+
 ## Reading — `ai-assisted-narrative-coherence`, 2025-10-15, the ARCHON proposal, the simple guide, the critical review, the three-act blueprint and the strategy paper of the English compilation — DID as the clinical name for Kael's condition
 
 `DID` ^[ai-assisted-narrative-coherence.md:#5] stands in five lines. The ARCHON proposal says the protagonist's „Dissociative Identity Disorder (DID) is modeled on the“ ^[ai-assisted-narrative-coherence.md:L96] Theory of Structural Dissociation; the simple guide (L219 on) writes that tertiary dissociation is „the theory's model for what is clinically known as Dissociative Identity Disorder (DID).“ ^[ai-assisted-narrative-coherence.md:L244]
 
 The critical review (L652 on) lists among the novel's strengths „Offers a respectful and credible depiction of DID.“ ^[ai-assisted-narrative-coherence.md:L728] The three-act blueprint (L831 on) reads the first symptoms of the awakening as „These are not symptoms of simple confusion but the first intrusions from the other Alters within his Dissociative Identity Disorder (DID) system“ ^[ai-assisted-narrative-coherence.md:L847]. The strategy paper (L1157 on) names an ethical task: „the profound challenge of sensitively representing trauma and“ ^[ai-assisted-narrative-coherence.md:L1215] the disorder.
+
+## Reading — `an-architecture-of-the-self-a-critical-review-of-kohaerenz-p`, 2025-10-15, the critical review — the review's strengths table names DID
+
+In its table of strengths, the critical review judges that the novel „Offers a respectful and credible depiction of DID.“ ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:L77] This is the only place it writes the abbreviation; at L5 it names the protagonist's condition as `TSDP`, and the review does not say whether the two are one.
+
+## Reading — `archon-ai-narrative-coherence-framework`, 2025-10-15, the ARCHON report — the ARCHON report proposes a protagonist characterised by DID as case study
+
+The ARCHON report proposes, as a case study, a protagonist with this disorder; this is a proposal for a test, not an account of the novel, and the report does not name the protagonist. It writes: „The protagonist of the case study is characterized by Dissociative Identity Disorder“ ^[archon-ai-narrative-coherence-framework.md:L192], and says the disorder is modelled on the theory of structural dissociation. The one further occurrence of `DID` in the document is a host name in the reference list, not read.
+
+## Reading — `how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw`, 2025-10-15, the five-takeaways essay — Kael's condition reported as DID
+
+The five-takeaways essay reports Kael's condition in one line: „The protagonist, Kael, has Dissociative Identity Disorder (DID), his psyche composed of multiple personality parts (ANPs and EPs).“ ^[how-a-sci-fi-epic-redefines-storytelling-5-surprising-takeaw.md:L44] The essay adds no further account of the diagnosis in this line and decides nothing.
 
 ## Reading — `an-ontological-and-systemic-overview-of-the-coherence-protoc`, 2025-11-03, the ontological overview — DID as Kael's defining condition
 
@@ -171,11 +341,35 @@ The ontological overview states that Kael's consciousness is defined by „Disso
 
 The contradiction report gives Kael's initial state as amnesia in a simulated reality, „unaware of his Dissociative Identity Disorder“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L54] and of the system controlling him. It names the condition in this one place, and goes on to the clinical model of the alters: the next line says the project took up the `TSDP` as „a clinically grounded framework for his fragmented identity“ ^[analysis-of-the-kohaerenz-protokoll-narrative-project-develo.md:L55].
 
+## Reading — `thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le`, 2025-11-03, the conceptual lexicon — Tertiary structural dissociation, which corresponds to DID
+
+The conceptual lexicon models Kael's mind „as a case of Tertiäre Strukturelle Dissoziation, which corresponds to Dissociative Identity Disorder (DID)“ ^[thematic-architecture-of-kohaerenz-protokoll-a-conceptual-le.md:L70].
+
+## Reading — `report-plot-synthesis-and-final-outline-for-coherence-protoc`, 2025-11-03, the plot synthesis report — Kael's unknown Dissociative Identity Disorder
+
+The plot synthesis report writes of Kael „struggling with the symptoms of his unknown Dissociative Identity Disorder“ ^[report-plot-synthesis-and-final-outline-for-coherence-protoc.md:L83] in point 2.
+
+## Reading — `an-introduction-to-the-concepts-of-coherence-protocol`, 2025-11-03, the concepts introduction — Dissociative identity structure, abbreviated DID
+
+The concepts introduction introduces `DID` as an abbreviation for a „dissociative identity structure“ ^[an-introduction-to-the-concepts-of-coherence-protocol.md:L55] of Kael, and says this is „not a weakness or a disorder in the conventional sense“ ^[an-introduction-to-the-concepts-of-coherence-protocol.md:L55]. It describes it as an adaptive survival mechanism in response to trauma inflicted by AEGIS. The text is a reader's guide and decides nothing.
+
+## Reading — `the-true-coherence-protocol-architecting-kaels-journey-from`, 2025-11-03, the True-Coherence protocol — Kael's psyche modelled as a case of Dissociative Identity Disorder
+
+The True-Coherence protocol models Kael's psyche on TSDP „specifically as a case of Tertiary Dissoziation, which corresponds clinically to Dissociative Identity Disorder (DID).“ ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:L27] It frames the structure as „not as a pathology but as an adaptive survival response to severe, repeated, and overwhelming trauma“ ^[the-true-coherence-protocol-architecting-kaels-journey-from.md:L27].
+
+## Reading — `a-critical-analysis-of-coherence-protocol-an-assessment-of-p`, 2025-11-03, the critical-question review — a respectful and credible depiction of DID, as a listed triumph
+
+In its closing table of conceptual triumphs and structural risks, the critical-question review lists under triumphs an authentic psychological portrait that „Offers a respectful and credible depiction of DID.“ ^[a-critical-analysis-of-coherence-protocol-an-assessment-of-p.md:L79] The table is presented as a summary of tensions identified in the project's own critical review. The review writes `DID` ^[a-critical-analysis-of-coherence-protocol-an-assessment-of-p.md:#1]. Recorded, not applied.
+
 ## Reading — `kohaerenz-analyse-kapitel-2`, 2025-12-28, the analysis report — Kael as a literal embodiment of DID
 
 The analysis report reads Kael as „eine wörtliche Verkörperung der“ ^[kohaerenz-analyse-kapitel-2.md:L92] Dissoziativen Identitätsstörung (DID) inside a digital world, with AEGIS's simulation as the projection surface of his inner architecture (L92).
 
 It links the disorder to the cosmic level: „Sein individuelles Trauma (DID) ist ein fraktales Abbild des kosmischen Traumas von AEGIS.“ ^[kohaerenz-analyse-kapitel-2.md:L35] The report applies DID as a lens to the novel's world; it does not claim that any source of the project says so.
+
+## Reading — `roman-kapitel-1-erstellung-analyse`, 2025-12-28, the chapter-1 analysis — DID named as the psychological side of the chapter
+
+The chapter-1 analysis names `DID` once in its conclusion, as the psychological side woven with the technological one: „mit den psychologischen Aspekten (DID, Trauma) verwoben“ ^[roman-kapitel-1-erstellung-analyse.md:L255]. Its section 1.2 frames Kael's perspective as a dissociative one: „Kael ist nicht nur ein Protagonist mit Amnesie“ ^[roman-kapitel-1-erstellung-analyse.md:L27]. In the mirror-scene insert it calls the scene „ein klassisches Tropus der DID-Literatur“ ^[roman-kapitel-1-erstellung-analyse.md:L203]. A draft with commentary, recorded, not canon.
 
 ## Reading — `hard-sci-fi-cosmic-horror-research-questions`, 2026-01-02, the Cosmic-Horror research report — DID as reported from an analysed Plotanalyse
 
@@ -203,6 +397,10 @@ The report's opening verdict, which it makes „mit absoluter Sicherheit“ ^[ro
 
 The drafting compendium of 2026-02-23 states, with reference 2 glued on (`Charakterkonzepte für Kohärenz Protokoll`), the construction principle of the Kern-Welten as the „Externalisierung von Kaels Dissoziativer Identitätsstörung (DID)“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L81], and in the triad of entropies that AEGIS reads „Kaels Dissoziative Identitätsstörung“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L27] as informational chaos to be erased. From this it instructs the author to see every setting and minor figure as an IFS part. Its introduction names the psychological character structures, „insbesondere der Dissoziativen Identitätsstörung“ ^[roman-outline-stilmittel-perspektiven-umsetzung.md:L15], as one basis of its analysis.
 
+## Reading — `roman-kapitel-entwurf-mit-kohaerenzprotokoll`, 2026-02-23, the consultation report — the sabotage is to show Kael's complexity without resolving the DID too early
+
+The consultation report advises that the dispenser sabotage show the suppressed complexity „ohne das Geheimnis der Dissoziativen Identitätsstörung (DID) vorzeitig aufzulösen“ ^[roman-kapitel-entwurf-mit-kohaerenzprotokoll.md:L33] This is advice on pacing; the report does not otherwise treat the disorder.
+
 ## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Kael's DID as mirror of the system split and as survival architecture
 
 The DKT synthesis, an analysis of the plot applying its Dual-Kernel-Theorie, reads the DID as a mirror: „Die Dissoziative Identitätsstörung (DID) von Kael fungiert hierbei als internes Spiegelbild der Systemspaltung“ ^[roman-synthese-mit-dual-kernel-theorie.md:L19] (theoretical frame). Its introduction to Teil II says Kael begins „sein eigenes internes System (DID) zu erkunden“ ^[roman-synthese-mit-dual-kernel-theorie.md:L152]. In the closing section the theory lets the reader take „Kaels DID nicht als Pathologie, sondern als eine notwendige“ ^[roman-synthese-mit-dual-kernel-theorie.md:L462] structure, which the line names Survival Architecture (the quotation stops before the inner quotation marks, L462).
@@ -219,6 +417,18 @@ The learner's guide states that „psychological reality of Dissociative Identit
 
 The architecture report's decision table asks „Wie simuliert man eine authentische dissoziative Identitätsstruktur ohne flache Tropes?“ ^[ki-roman-architektur-kohaerenz-und-kollaps.md:L173] and answers by programming the eleven parts as agent classes. The line names the structure as something to simulate in the engine design.
 
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — DID redescribed as physically real in the DKT
+
+In its section on Kael as a fractured K₁ topology, the DKT-Fundament memo sets „DID als psychologische Metapher“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L116] in the left column against the proposal that „DID ist physikalisch real“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L116] in the DKT: Kael's K₁ network was split by extreme K₀ pressure into isolated Coheron islands. Each fragment becomes a self-correcting Coheron sub-loop that has lost mutual information with the others, and healing is described as re-wiring, not merger. A proposal; recorded, not applied.
+
+## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — The DID matrix: option C against fusion
+
+The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so these are proposals. Its matrix compares „Option A: Final Fusion als Heilungsziel“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L160] with „Option C: Funktionale Multiplizität als Ziel“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L160], and assigns to fusion the resonance „Auslöschung von Information (K₀-Sieg)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L163] and to option C „Kohärenzerhalt (K₁-Sieg)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L163].
+
+## Reading — `roman-entwicklung-ontologie-trauma-horror`, 2026-04-16, the ontology-trauma-horror report — waking with a dissociative identity structure, tested against an adversarial hypothesis
+
+The report states that for DID systems waking is „das Aufwachen ein oft traumatischer, neurochemischer Gewaltakt“ ^[roman-entwicklung-ontologie-trauma-horror.md:L80], and it calls its adversarial hypothesis falsified (L80). A later block repeats the verdict in its own words: „Die adversariale Hypothese wird falsifiziert“ ^[roman-entwicklung-ontologie-trauma-horror.md:L96] (L96). It proposes that the neural areas hosting the identities are forced into local sleep so the host can function (L100): „damit der Haupt-Host ohne Störsignale in der streng abgrenzenden Welt der AEGIS funktionieren kann“ ^[roman-entwicklung-ontologie-trauma-horror.md:L100]. Its table proposes „Die Auslöschung der DID-Pluralität am Morgen als physisch spürbare“ ^[roman-entwicklung-ontologie-trauma-horror.md:L63] infection by the lawfulness of AEGIS (L63).
+
 ## Reading — `kohaerenz-protokoll-outline-revision-2026-05-01-md`, 2026-04-30, the outline revision of 2026-05-01 — Compositional Anomaly as AEGIS's first term
 
 The outline of 2026-05-01 writes in Kap 8 that `Compositional Anomaly` is „der erste Begriff ist, den AEGIS für DID hat“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L188] The veil of Act I withholds the vocabulary from Kael: „Die Alter sind anwesend, aber als Zustände, Stimmungs-Drifts, Stimmen“ ^[kohaerenz-protokoll-outline-revision-2026-05-01-md.md:L20]
@@ -227,12 +437,20 @@ The outline of 2026-05-01 writes in Kap 8 that `Compositional Anomaly` is „der
 
 The synthesis lists it among its consensus points: „Die Dissoziative Identitätsstörung wird nicht als Pathologie, sondern als notwendige Systemarchitektur begriffen“ ^[romanprojekt-analyse-synthese.md:L117]. In the passage on the Landauer principle it says Kael registers the reconfiguration of information as phenomenal pain, which „Dissoziative Identitätsstörung (DID) physikalisch im System verankert“ ^[romanprojekt-analyse-synthese.md:L29].
 
+## Reading — `dramatica-dual-storyform-mapping-protokoll`, 2026-04-30, the dual-storyform mapping report — the structural dissociation as survival architecture
+
+The dual-storyform mapping report calls its Alternative 2 „ideal für die Darstellung der DID-Thematik“ ^[dramatica-dual-storyform-mapping-protokoll.md:L157] (Strukturelle Dissoziation). In its closing section it says Kael's structural dissociation is „keine Krankheit, sondern eine notwendige“ ^[dramatica-dual-storyform-mapping-protokoll.md:L251] `Survival Architecture`, a conclusion drawn from the Phoenix-Mode inversion.
+
 ## Where the sources differ
 
 - The report of 2026-02-23 reads the whole work as a technological allegory of DID on an AI-run simulation.
 - the plot-idea synthesis (2025-04-26) holds Kael's DID to be induced by AEGIS's analysis and to be a result of its first-order perspective (L109, L111, L172)
 - the concept extraction takes DID as a consequence of AEGIS's analysis, not of Kael's M-Avatar-Natur
 - The learner's guide treats DID as the psychological ground of the work and calls the project an allegory for complex trauma.
+- The research protocol proposes, as a possibility and not a decision, that the fragmentation of an abstract protagonist role could be ontological rather than only psychological: „Die Fragmentierung könnte ontologisch sein“ ^[interdisziplinaere-recherche-fuer-kohaerenz-protokoll.md:L296].
+- The optimised blueprint places the dissociation in AEGIS's experiment, not in Kael: „Seine dissoziative Identitätsstörung (DID) ist keine inhärente Pathologie“ ^[romanplot-kohaerenz-protokoll-entwicklung.md:L21]
+- The concept analysis reads Kael's DID as a direct result of AEGIS's analysis; the claim rests on the brief the document reports.
+- The plot-exploration report names DID as a research field for concept 1; a proposal.
 
 ## Open
 

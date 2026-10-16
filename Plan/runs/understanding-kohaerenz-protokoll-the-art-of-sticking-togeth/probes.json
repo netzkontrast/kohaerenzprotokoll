@@ -1,0 +1,44 @@
+{
+  "document": "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
+  "drive_id": "1Aw6urmdyd7tiKTXzv4N0eVui3Fd7ySWSH0nLNRoq3wM",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 40,
+  "typographic_marks": 13,
+  "ascii_quotes": 64,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "wavel": [
+      "Wavelet",
+      "Wavelets"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Order",
+      "Disorder"
+    ],
+    [
+      "Wavelet",
+      "Wavelets"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "document": "konzept-der-architektenraum-ein-behind-the-scenes-spiegel-zu",
+  "drive_id": "1sx0evnN5XMgCDMHtbSuZe3wghyu9Q_ZCnej0H-pQDU4",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document an outline for a companion work that lists the novel's subjects as topics (Plan/runs/ingest-322/brief.md); one appendix item (L164) not read",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 55,
+    "decided_by_lookup": 44,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An outline for a companion text explaining the theory behind the novel, listing its figures, worlds and theories as topics to discuss; it states nothing about them, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "an outline for a companion work: every page and near match it names stands as a topic the companion would discuss; nothing is read",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 116,
+      "decision": "occurrence",
+      "why": "a topic of the companion work's outline"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "a topic of the companion work's outline"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 103,
+      "decision": "occurrence",
+      "why": "a topic of the companion work's outline"
+    }
+  ],
+  "not_promoted": [
+    "everything — Der Architektenraum, its parts and chapters, and the topics it lists"
+  ],
+  "internal_tension": "none: an outline of intent, hedged with könnte",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

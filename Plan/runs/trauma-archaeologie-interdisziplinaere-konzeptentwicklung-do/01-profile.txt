@@ -1,0 +1,14 @@
+# trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do
+  lines                524  (frontmatter ends at 9)
+  body words           12658
+  headings             31   bold-only lines 0
+  table rows           9   code fences 0
+  question marks       47
+  backslash escapes    6
+  typographic marks    63   ascii quotes 78
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    133
+  repeated labels      Verbindung zum Fundament/Leere x5, Existenzielle/Mystische Tiefe x4, Konzept 1 x4, Konzept 2 x4, Konzept 3 x4, Konzept 4 x4, Kosmologische & Physikalische Analogien x4, Mechanismus der Fragmentierung x4, Narrative & Archetypale Manifestationen x4, Natur des Traumas x4, Philosophische Resonanzen x4, Psychologische Parallelen x4, Psychologische Plausibilität x4, Rolle der Simulierenden Entität x4, Schwächen x4, Stärken x4, Theologische & Mythic Echoes x4
+  longest line         1570 chars
+

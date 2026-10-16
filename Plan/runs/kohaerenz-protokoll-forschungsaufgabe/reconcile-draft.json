@@ -1,0 +1,249 @@
+{
+  "document": "kohaerenz-protokoll-forschungsaufgabe",
+  "drive_id": "13wkG62gN_QPLZC3pb527kGKFtxGOFoaFtpBcISR_RrM",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 94,
+    "decisions": 94,
+    "decided_by_lookup": 75,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        30,
+        36,
+        64,
+        87,
+        157,
+        292
+      ],
+      "attribution": "",
+      "note": "AEGIS as a tragic antagonist whose flaw is its ontology"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        240,
+        242
+      ],
+      "attribution": "",
+      "note": "the cache-coherence problem applied to Kael's identity"
+    },
+    {
+      "page": "did",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "DID named for Kael's eleven parts"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        260,
+        274
+      ],
+      "attribution": "",
+      "note": "weak and strong emergence for the Fundament"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        165,
+        175,
+        179,
+        189,
+        191,
+        205
+      ],
+      "attribution": "",
+      "note": "the Juna/V connection as an exploit beyond AEGIS's control"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        105,
+        119,
+        128,
+        157,
+        199,
+        205,
+        306
+      ],
+      "attribution": "",
+      "note": "Kael's eleven parts read as tertiary dissociation, aimed at functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        215,
+        225,
+        226,
+        227,
+        228,
+        230,
+        240
+      ],
+      "attribution": "",
+      "note": "four Kernwelten as laboratories and as a therapeutic path"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        123,
+        137
+      ],
+      "attribution": "",
+      "note": "Kiko as a child part"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        36,
+        157,
+        306
+      ],
+      "attribution": "",
+      "note": "Kohärenz durch Entfremdung against Kohärenz durch Integration"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        161,
+        165
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link only in a heading"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        128,
+        157
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the aim of Kael's path"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        121,
+        136
+      ],
+      "attribution": "",
+      "note": "Nyx as a protector part"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        34,
+        48,
+        228,
+        276
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as what AEGIS excludes, world 4 and ground of the Fundament"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        109,
+        242
+      ],
+      "attribution": "",
+      "note": "Risse as weakening dissociative barriers"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        128,
+        138
+      ],
+      "attribution": "",
+      "note": "Selene as a possible inner helper"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        103,
+        105
+      ],
+      "attribution": "",
+      "note": "TSDP as the frame for Kael's fragmentation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 345,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 105,
+      "decision": "reading",
+      "why": "eleven parts read as tertiary dissociation"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 260,
+      "decision": "reading",
+      "why": "Teil V, the Fundament as emergence"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title in the heading"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 64,
+      "decision": "occurrence",
+      "why": "the whole simulation in a specification-gaming example"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x25
+  glued ref numbers      41
+  backslash escapes      30
+  typographic marks      170
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  inter    Interaction, Interaktion, Interaktionen, Interaktionsregeln, Interaktionswege, Interferenzeffekte, Internal, Interne, Interpretation
+  syste    System, Systemausfälle, Systemaxiomen, Systeme, Systemen, Systemfehler, Systemlogik, Systemregeln, Systems
+  ordnu    Ordnung, Ordnungsform, Ordnungsformen, Ordnungsprinzip, Ordnungsprinzipien, Ordnungsschema, Ordnungsstruktur
+  analy    Analyse, Analysekapazitäten, Analysemethoden, Analyses, Analysesysteme, Analysis
+  chara    Character, Characters, Charakter, Charaktere, Charakteren, Charakteristika
+  mathe    Mathematical, Mathematicians, Mathematics, Mathematik, Mathematiker, Mathematikern
+  metap    Metapher, Metaphern, Metaphor, Metaphorical, Metaphorik, Metaphysical
+  modul    Modul, Module, Modulfunktion, Modulfunktionen, Modulgruppe, Moduls
+  quant    Quantengravitation, Quantengravitationsobjekts, Quantennatur, Quantenprozessen, Quantenzustände, Quantum
+  analo    Analog, Analogie, Analogon, Analogue, Analogy
+  beoba    Beobachter, Beobachters, Beobachtete, Beobachtung, Beobachtungen
+  dimen    Dimension, Dimensionalität, Dimensionen, Dimensions, Dimensionsreduktion
+  exist    Exist, Existenz, Existenzbeweis, Existenzgrundlage, Existenziellen
+  grupp    Gruppe, Gruppen, Gruppenelement, Gruppenstrukturen, Gruppentheorie
+  model    Modell, Modelle, Modellen, Modellierung, Models
+  monst    MONSTER, Monster, Monstergruppe, Monsters, Monstrous
+  proto    Protocol, Protokoll, Protokolle, Protokollen, Protokollverletzung
+  symme    Symmetrie, Symmetriegruppe, Symmetrien, Symmetrieoperationen, Symmetry
+  defin    Definieren, Definiert, Defining, Definition
+  entro    Entropie, Entropiewert, Entropiezone, Entropy
+  gegen    Gegensatz, Gegensätze, Gegenteil, Gegenüberstellung
+  klass    Klassifikation, Klassifikationsmustern, Klassifikationsschemata, Klassifizierung
+  kommu    Kommunikation, Kommunikations, Kommunikationsprotokolle, Kommunikationsregeln
+  konze    Konzepte, Konzepten, Konzeptionell, Konzepts
+  parad    Paradox, Paradoxien, Paradoxon, Paradoxons
+
+# substring pairs -- never one term, often merged by accident
+  Blue < Blueprint
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Seinen
+  Ende < Tendenzen
+  Ende < Außenstehende
+  Feld < Feldtheorie
+  Feld < Feldtheorien
+  Feld < Hossenfelder
+  Feld < Materiefelder
+  Form < Formel
+  Form < Formen
+  Form < Information
+  Form < Konformität
+  Form < Formulierung
+  Form < Informations
+  Form < Ordnungsform
+  Form < Ordnungsformen

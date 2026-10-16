@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      134
+  typographic marks      20
+  ascii quotes           100
+
+# inflection families -- one term, several surfaces
+  archi    Archipel, Architecture, Architectures
+  class    Class, Classical, Classification
+  diale    Dialectic, Dialetheic, Dialetheism
+  integ    Integrated, Integration, Integrity
+  proto    Protocol, Protocols, Protokoll
+  world    World, Worlds, Worldviews
+  aesth    Aesthetic, Aesthetics
+  alter    Alter, Alters
+  analy    Analysis, Analyst
+  bound    Boundaries, Boundary
+  coher    Coherence, Coherences
+  compl    Complete, Complexity
+  contr    Contradiction, Control
+  emoti    Emotion, Emotional
+  explo    Exploit, Explorative
+  forma    Formal, Formalism
+  funct    Function, Functional
+  funda    Fundament, Fundamental
+  inter    Interconnectedness, Internal
+  kernw    Kernwelt, Kernwelten
+  lands    Landscape, Landscapes
+  logic    Logic, Logics
+  logos    LogOS, Logos
+  motiv    Motivated, Motivation
+  parad    Paradox, Paradoxon
+
+# substring pairs -- never one term, often merged by accident
+  City < Multiplicity
+  Alter < Alters
+  Class < Classical
+  Class < Classification
+  LogOS < Logos
+  Logic < Logics
+  Logic < Ontological
+  Logic < Psychological
+  Logic < Epistemological
+  World < Worlds
+  World < Worldviews
+  Formal < Formalism
+  Search < Searcher
+  System < Systems
+  Emotion < Emotional
+  Paradox < Paradoxon
+  Function < Functional
+  Kernwelt < Kernwelten
+  Protocol < Protocols
+  Aesthetic < Aesthetics

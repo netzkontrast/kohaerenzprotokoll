@@ -1,0 +1,14 @@
+# romananfang-leere-und-systemgenesis
+  lines                221  (frontmatter ends at 9)
+  body words           4368
+  headings             8   bold-only lines 25
+  table rows           15   code fences 0
+  question marks       25
+  backslash escapes    11
+  typographic marks    80   ascii quotes 26
+  invisible characters none
+  math symbol lines    4
+  glued ref numbers    16
+  repeated labels      none
+  longest line         1439 chars
+

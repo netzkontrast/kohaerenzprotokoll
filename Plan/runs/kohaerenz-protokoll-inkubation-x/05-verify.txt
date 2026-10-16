@@ -1,0 +1,94 @@
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-inkubation-x.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-inkubation-x.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Szene"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Szene` ^[kohaerenz-protokoll-inkubation-x.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Orakel-Sigma"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Orakel-Sigma` ^[kohaerenz-protokoll-inkubation-x.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Zweck"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Zweck` ^[kohaerenz-protokoll-inkubation-x.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Methodologie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Methodologie` ^[kohaerenz-protokoll-inkubation-x.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Synthese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Synthese` ^[kohaerenz-protokoll-inkubation-x.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Abschließende Empfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Abschließende Empfehlung` ^[kohaerenz-protokoll-inkubation-x.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Ende des Berichts"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ende des Berichts` ^[kohaerenz-protokoll-inkubation-x.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Beispielhafte Umsetzung der Zitationsanforderung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Beispielhafte Umsetzung der Zitationsanforderung` ^[kohaerenz-protokoll-inkubation-x.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Kohärenz Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kohärenz Protokoll` ^[kohaerenz-protokoll-inkubation-x.md:#7]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Nichts Rauschen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nichts Rauschen` ^[kohaerenz-protokoll-inkubation-x.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Gravitationsleckage"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gravitationsleckage` ^[kohaerenz-protokoll-inkubation-x.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Levinas'sches Anderes"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Levinas'sches Anderes` ^[kohaerenz-protokoll-inkubation-x.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-inkubation-x --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fehlausgerichtete Kohärenz` ^[kohaerenz-protokoll-inkubation-x.md:#2]
+$ grep -c footnote entries
+37
+stance_marker_count 8 = Zweck 3 + Methodologie 1 + Synthese 1 + Abschließende Empfehlung 1 + Ende des Berichts 1 + Beispielhafte Umsetzung der Zitationsanforderung 1
+question marks: grep -n ? gives lines 116,174,187,348,352,353,370,389,392 = 9 (3 body, 6 reference titles)

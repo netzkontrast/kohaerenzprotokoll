@@ -1,0 +1,84 @@
+# counts for 62 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Potentialmeer                    16 word    18 in   [15, 23, 27, 29, 42, 43]
+                                    2      as Potentialmeers
+  AEGIS                           117 word   120 in   [15, 29, 33, 37, 42, 43]
+                                    2      as AEGIS-vs
+                                    1      as AEGIS-Simulationen
+  Monstergruppe (M)                 7 word     7 in   [15, 29, 52, 106, 137, 158]
+  Monstergruppe                     9 word     9 in   [15, 29, 52, 74, 106, 137]
+  Kael                             42 word    70 in   [15, 69, 78, 82, 87, 89]
+                                   24      as Kaels
+                                    4      as Kael-Juna
+  Juna                              8 word    13 in   [15, 97, 101, 106, 147, 161]
+                                    1      as Junas
+  Kael-Juna (K-J) Verbindung        2 word     2 in   [15, 97]
+  Kael-Juna Verbindung              2 word     2 in   [147, 354]
+  K-J Verbindung                   27 word    27 in   [70, 106, 112, 161, 202, 206]
+  Kernwelten                       17 word    17 in   [15, 116, 122, 145, 157, 159]
+  Kernwelt                          2 word    19 in   [15, 116, 122, 145, 157, 159]  <-- substring
+                                   17      as Kernwelten
+  Alters                           13 word    13 in   [87, 89, 93, 254, 255, 277]
+  Kernselbst                        3 word     3 in   [218, 329, 331]
+  Kernerinnerungen                  1 word     1 in   [219]
+  Happy Family                      6 word     6 in   [69, 74, 254, 277]
+  Parias                            8 word     8 in   [69, 74, 250, 254, 277, 330]
+  Paria                             2 word    11 in   [69, 74, 250, 254, 255, 277]  <-- substring
+                                    8      as Parias
+                                    1      as Paria-Untergruppenstruktur
+  Dissoziative Identitätsstörung    1 word     1 in   [82]
+  DID                              20 word    23 in   [82, 87, 88, 93, 122, 146]
+  Apparently Normal Parts           1 word     1 in   [89]
+  Emotional Parts                   1 word     1 in   [89]
+  ANP                               1 word     2 in   [89]
+  EP                                1 word     2 in   [89]
+  Glitch                            1 word     1 in   [208]
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 357]
+  Ebene 0                           3 word     3 in   [131, 157, 158]
+  Ebene 1                           5 word     5 in   [132, 159, 160, 161]
+  Ebene 2                           3 word     3 in   [141, 157, 161]
+  Moonshine                        20 word    25 in   [70, 97, 106, 112, 161, 206]
+                                    2      as Moonshine-Metapher
+                                    1      as Moonshine-Verbindung
+                                    1      as Moonshine-artige
+                                    1      as Moonshine-Eigenschaft
+  Monstrous Moonshine               3 word     3 in   [70, 106, 383]
+  Moonshine-Metapher                2 word     2 in   [106, 341]
+  Moonshine-Verbindung              1 word     1 in   [70]
+  sub-protokollarische              1 word     2 in   [101, 341]
+                                    1      as sub-protokollarischen
+  Sporadizität                      2 word     2 in   [232, 275]
+  Einfachheit                       7 word     7 in   [65, 74, 187, 214, 273, 329]
+  Darstellungsschwierigkeit         3 word     3 in   [68, 259, 278]
+  ontologischen Druck               1 word     1 in   [29]
+  Negation                         14 word    14 in   [29, 33, 37, 42, 48, 136]
+  Parakonsistenz                    4 word     4 in   [43, 48, 107, 357]
+  Holismus                          7 word     7 in   [44, 112, 158, 214, 273, 305]
+  Reduktionismus                    4 word     4 in   [44, 56, 93, 304]
+  Ontologische Architektur          1 word     1 in   [124]
+  Kerndichotomien                   1 word     1 in   [287]
+  apophatischen Theologie           1 word     1 in   [42]
+  via negativa                      1 word     1 in   [42]
+  parakonsistente Logik             1 word     1 in   [43]
+  Prinzip der Explosion             1 word     1 in   [43]
+  ex contradictione quodlibet       1 word     1 in   [43]
+  sporadischen Gruppen              2 word     2 in   [66, 74]
+  einfache Gruppe                   1 word     2 in   [65, 74]
+  Normalteiler                      2 word     2 in   [65, 74]
+  Subquotienten                     4 word     4 in   [69, 74, 329]
+  Modulfunktionen                   2 word     2 in   [70, 106]
+  Konformer Feldtheorie             1 word     1 in   [70]
+  CFT                               7 word     9 in   [70, 106, 107, 112, 315, 339]
+  VOAs                              2 word     2 in   [112, 340]
+  j-Invariante                      1 word     2 in   [106, 340]
+                                    1      as j-Invarianten-Koeffizienten
+  Gruppentheorie                    2 word     2 in   [228, 357]
+  begrenzter Rationalität           1 word     1 in   [48]
+  Taschenrealitäten                 1 word     1 in   [121]
+  Potentialität                     9 word     9 in   [28, 29, 48, 131, 156, 177]
+  Chaos                            10 word    11 in   [28, 29, 42, 67, 131, 156]
+                                    1      as Chaos_
+                                    1      as chaos-and-order

@@ -1,0 +1,76 @@
+written_by: document-reader subagent (Sonnet), 2026-10-11, while reading, before any count
+
+Candidates written while reading L1 to L387. The document is an analysis of tension points for the narrative project; the world names come first, the borrowed concepts it applies sit under the lens heading. Short names (Lex, Nyx, Kai, B) and the subscripted Co₁ are listed as written and may count oddly. The titles of the references (L315 to L386) are left out.
+
+## world
+- Kohärenz Protokoll
+- Kael
+- AEGIS
+- Juna
+- Juna/V
+- Verbindung V
+- Paradoxon X
+- Cache Kohärenz
+- Cache Kohärenz-Problem
+- Kernwelten
+- Kernwelt
+- Co₁
+- McL
+- Ly
+- Lex
+- Nyx
+- Kiko
+- Kai
+- Rhys
+- Selene
+- Wächterin
+- Personas
+- Pressure Points
+- Spannungspunkte
+- Zyklischen Kampfes
+- Äußere Befreiung
+- System Host
+
+## lens
+- IFS
+- Internal Family Systems
+- TSDP
+- Theorie der Strukturellen Dissoziation
+- Manager
+- Firefighter
+- Exile
+- Exiles
+- Protektoren
+- Kern-Selbst
+- Self-Leadership
+- ANP
+- EP
+- Anscheinend Normale Teil
+- Synthese
+- Personifikation
+- Schatten
+- Individuation
+- Projektion
+- Zero-Trust
+- Zero-Trust-Architektur
+- Funktionalismus
+- Qualia
+- Gödels Unvollständigkeitssätze
+- Kybernetik zweiter Ordnung
+- Viable System Model
+- Law of Requisite Variety
+- Rückkopplungsschleifen
+- Value Alignment Problem
+- Narrative Identität
+- Emplotment
+- Performativität
+- Dialogisches Selbst
+- Resonanz
+- Simulationshypothese
+- Konstruktivismus
+- Environmental Storytelling
+- Cosmic Horror
+- Bindungstheorie
+- Gaslighting
+- Emergenz
+- Brandbeschleuniger

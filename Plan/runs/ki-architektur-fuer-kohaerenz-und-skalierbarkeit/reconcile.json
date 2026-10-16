@@ -1,0 +1,57 @@
+{
+  "document": "ki-architektur-fuer-kohaerenz-und-skalierbarkeit",
+  "drive_id": "1qMSZjg2m97f0j_-QZSwKortSGHZtzbKFu1ALcJ6Rjnw",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a general AI-architecture proposal that names no figure of the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 53,
+    "decisions": 48,
+    "decided_by_lookup": 41,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German proposal for a neuro-symbolic architecture keeping long generated stories consistent; its examples are generic, it names no figure of the novel and says nothing a page needs, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a general AI-architecture proposal: `Vortex` the architecture's own cycle, not the novel's Vortex; `Kohärenztheorie` borrowed; the joined abbreviations (`CFD`, `NeSy`, `HMAS`, `TG-RAG`) the report's own short forms",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "entropy in the general sense of the report's title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "coherence of generated stories, the general sense"
+    }
+  ],
+  "not_promoted": [
+    "everything — the architecture, its components and the borrowed concepts"
+  ],
+  "internal_tension": "its Vortex cycle has four steps in the prose list (L59–L62) and five phases in the table (L296–L300); recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

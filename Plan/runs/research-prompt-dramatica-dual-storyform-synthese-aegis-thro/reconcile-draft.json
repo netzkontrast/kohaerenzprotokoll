@@ -1,0 +1,170 @@
+{
+  "document": "research-prompt-dramatica-dual-storyform-synthese-aegis-thro",
+  "drive_id": "1NCLUgVtipGYehdOlBpEoCRqM7-PPnRUUO-URKmknj-I",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 180,
+    "decisions": 181,
+    "decided_by_lookup": 141,
+    "needs_judgement": 40
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        156,
+        160,
+        164,
+        165,
+        166,
+        279,
+        283,
+        1236
+      ],
+      "attribution": "",
+      "note": "AEGIS as the position under test, with the canon the prompt reports"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        1248,
+        1296
+      ],
+      "attribution": "",
+      "note": "Algorithmische Melancholie as the climax's last beat and an open question"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        288
+      ],
+      "attribution": "",
+      "note": "DKT reported as natural law"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        289
+      ],
+      "attribution": "",
+      "note": "the climax reported as Gödel-Gambit"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        165,
+        287,
+        1062,
+        1063,
+        1064,
+        1065
+      ],
+      "attribution": "",
+      "note": "Guardians as MC candidates under H2"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        286,
+        1394
+      ],
+      "attribution": "",
+      "note": "Juna's asymmetry as reported canon and as a prohibition"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        283,
+        907,
+        1117,
+        1118,
+        1236
+      ],
+      "attribution": "",
+      "note": "Kael in the reported canon and in the Storyform B hypotheses"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        285,
+        1063,
+        1244
+      ],
+      "attribution": "",
+      "note": "Mnemosyne-Archipel as the reported setting of the climax"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        910,
+        1300
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as Storyform A's RS and a boundary question"
+    },
+    {
+      "page": "truth-rotation",
+      "lines": [
+        283,
+        297,
+        1103
+      ],
+      "attribution": "",
+      "note": "Truth-Rotation reported as binding canon"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q8",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 908,
+      "decision": "occurrence",
+      "why": "Storyform A's OS label, Manipulation der Simulation"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

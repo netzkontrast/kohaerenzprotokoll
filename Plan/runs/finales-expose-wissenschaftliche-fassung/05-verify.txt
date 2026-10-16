@@ -1,0 +1,60 @@
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[finales-expose-wissenschaftliche-fassung.md:#0]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[finales-expose-wissenschaftliche-fassung.md:#1]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Teil"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Teil` ^[finales-expose-wissenschaftliche-fassung.md:#8]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Phase"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Phase` ^[finales-expose-wissenschaftliche-fassung.md:#6]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Kaels"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kaels` ^[finales-expose-wissenschaftliche-fassung.md:#11]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Kael"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            23
+
+`Kael` ^[finales-expose-wissenschaftliche-fassung.md:#12]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[finales-expose-wissenschaftliche-fassung.md:#1]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[finales-expose-wissenschaftliche-fassung.md:#1]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Alters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Alters` ^[finales-expose-wissenschaftliche-fassung.md:#1]
+$ python3 scripts/read.py finales-expose-wissenschaftliche-fassung --count "Anteile"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Anteile` ^[finales-expose-wissenschaftliche-fassung.md:#6]

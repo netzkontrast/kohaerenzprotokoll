@@ -1,0 +1,187 @@
+{
+  "document": "finales-expose-wissenschaftliche-fassung",
+  "drive_id": "13-epnUBU7gdWqTnn0-8m63d4h0cPqYrvLNQVlwprUHc",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 14,
+  "backslash_escapes": 0,
+  "typographic_marks": 7,
+  "ascii_quotes": 66,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "algor": [
+      "Algorithmische",
+      "Algorithmischen",
+      "Algorithmus"
+    ],
+    "erzäh": [
+      "Erzählperspektiven",
+      "Erzählstimme",
+      "Erzählung"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmethoden",
+      "Kontrollprogramm"
+    ],
+    "manip": [
+      "Manipulation",
+      "Manipulationen",
+      "Manipulationsversuche"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "defin": [
+      "Definition",
+      "Definitionen"
+    ],
+    "gegen": [
+      "Gegenargument",
+      "Gegensatz"
+    ],
+    "gärtn": [
+      "Gärtner",
+      "Gärtners"
+    ],
+    "infor": [
+      "Informatik",
+      "Informationen"
+    ],
+    "initi": [
+      "Initianden",
+      "Initiation"
+    ],
+    "konfr": [
+      "Konfrontation",
+      "Konfrontiert"
+    ],
+    "prota": [
+      "Protagonist",
+      "Protagonisten"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle"
+    ],
+    "roman": [
+      "Roman",
+      "Romans"
+    ],
+    "schri": [
+      "Schriftart",
+      "Schritte"
+    ],
+    "seins": [
+      "Seins",
+      "Seinsform"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmen"
+    ],
+    "trans": [
+      "Transformation",
+      "Transformationen"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissens"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Seinsform"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Performativität"
+    ],
+    [
+      "Form",
+      "Transformationen"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernthese"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Seins"
+    ],
+    [
+      "Sein",
+      "Seinsform"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzung"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Bestandteil"
+    ],
+    [
+      "Teil",
+      "Puzzleteile"
+    ],
+    [
+      "Text",
+      "Textblöcke"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ]
+  ]
+}

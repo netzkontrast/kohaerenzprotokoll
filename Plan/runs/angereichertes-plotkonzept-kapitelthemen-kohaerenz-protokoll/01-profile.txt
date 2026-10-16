@@ -1,0 +1,14 @@
+# angereichertes-plotkonzept-kapitelthemen-kohaerenz-protokoll
+  lines                76  (frontmatter ends at 9)
+  body words           1226
+  headings             2   bold-only lines 3
+  table rows           0   code fences 0
+  question marks       9
+  backslash escapes    0
+  typographic marks    5   ascii quotes 30
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    10
+  repeated labels      none
+  longest line         1063 chars
+

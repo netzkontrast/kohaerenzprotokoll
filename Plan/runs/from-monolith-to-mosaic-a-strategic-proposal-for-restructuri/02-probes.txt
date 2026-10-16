@@ -1,0 +1,27 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      28
+  typographic marks      8
+  ascii quotes           88
+
+# inflection families -- one term, several surfaces
+  poten    Potential, Potentialis, Potentiality, Potentialmeer
+  archi    Archipel, Architectures
+  kernw    Kernwelt, Kernwelten
+  logos    LogOS, Logos
+  narra    Narrate, Narrative
+  psych    Psycho, Psychological
+  story    Story, Storytelling
+  struc    Structural, Structure
+  theor    Theorems, Theory
+
+# substring pairs -- never one term, often merged by accident
+  LogOS < Logos
+  Logic < Psychological
+  Story < Storytelling
+  Psycho < Psychological
+  Kernwelt < Kernwelten
+  Potential < Potentialis
+  Potential < Potentiality
+  Potential < Potentialmeer

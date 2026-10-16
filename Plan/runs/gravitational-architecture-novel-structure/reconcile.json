@@ -1,0 +1,77 @@
+{
+  "document": "gravitational-architecture-novel-structure",
+  "drive_id": "1h7PD4-1Rhq6kqoMJvk_wTgVcA-kFdmF1L0dNQlwe1s8",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; light pass: one reading (risse) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-386/brief.md, 2026-10-12; no record entries; no chapter readings — chapter phases without content",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 54,
+    "decided_by_lookup": 51,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English craft report mapping black-hole zones onto the novel's structure, psychology and prose style; it names no figure of the novel, and only its glitch mechanics for dissociation went on a page (light pass).",
+  "new_readings": [
+    {
+      "page": "risse",
+      "lines": [
+        92,
+        100,
+        102,
+        298
+      ],
+      "attribution": "",
+      "note": "glitch mechanics proposed as rendering errors that tear the protagonist's surface reality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenz Protokoll` the title; `Glitch Art` a borrowed aesthetic; `Firewall` not the Cognitive Firewall",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 399,
+      "decision": "occurrence",
+      "why": "a reference title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 88,
+      "decision": "reading",
+      "why": "glitch mechanics visualizing dissociation, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "the four zones, the prose-style mapping, Z-fighting and texture stretching as labels",
+    "the borrowed physics and psychology (accretion disk, lensing, synergetics, time dilation, the Monster group, ER=EPR, TSDP terms)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

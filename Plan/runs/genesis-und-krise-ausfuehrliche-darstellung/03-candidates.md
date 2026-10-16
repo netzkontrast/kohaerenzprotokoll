@@ -1,0 +1,56 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a first-person narrative in the voice of a novel's „Ich“ (a narrative voice, unnamed until Szene 13), in three parts (TEIL 1 to TEIL 3) and thirteen scenes, headed „Genesis“ and „Die Krise“. Scenes marked NEUE (6, 8, 10) are labelled by the document itself. Quoted words inside the text (Nichts Rauschen, Überwelt, Updates) are set in German quotation marks. Terms the narration only floats as possibilities (Bindung, Fluss, Kern) stand under „könnte hier entstehen“. The Kohärenz Protokoll is named once, as the thing AEGIS decides for.
+
+## world
+- Nichts Rauschen
+- Nichts Rauschens
+- Rauschen
+- Leere
+- AEGIS
+- Komponente 734
+- 734
+- Komponente
+- Überwelt
+- Kael
+- Kernwelten
+- Kohärenz Protokoll
+- Kohärenz
+- Cluster
+- Triaden
+- Tetraden
+- Herkunfts-Echos
+- Echo
+- Klick
+- Kernprinzip
+- Kernaxiome
+- Systemischer Lockdown
+- Grenze
+- Abwehrfront
+- Resonanz
+- Dissonanz
+- Anomalie
+- externen Entität
+- Entität
+- Kohärenz-Fragment
+- Fragment
+- Scherben
+- Mosaik
+- Zerstückelung
+- Logikpakete
+- Analysevektoren
+- Nicht-Sein
+- Nicht-Seins
+- operationalen Schließung
+- Rückkopplungsschleife
+- kritischen Schwelle
+- blinder Fleck
+- Hybris
+- Bindung
+- Fluss
+- Kern
+- Foreshadowing
+- Agency
+- offene Valenz
+- nicht-kohärenten Artefakten
+- außerhalb relevanter Parameter

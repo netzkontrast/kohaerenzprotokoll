@@ -1,0 +1,164 @@
+$ python3 scripts/read.py blueprint --count "Gesamt-Blueprint"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Gesamt-Blueprint` ^[blueprint.md:#2]
+$ python3 scripts/read.py blueprint --count "Nächste Schritte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nächste Schritte` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "AEGIS"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            18
+
+`AEGIS` ^[blueprint.md:#17]
+$ python3 scripts/read.py blueprint --count "AEGIS-Manifest"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Manifest` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Kael"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            14
+
+`Kael` ^[blueprint.md:#6]
+$ python3 scripts/read.py blueprint --count "Kaels"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Kaels` ^[blueprint.md:#8]
+$ python3 scripts/read.py blueprint --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Lex` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Selene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Selene` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Fusion"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fusion` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Moonshine-Link"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Link` ^[blueprint.md:#2]
+$ python3 scripts/read.py blueprint --count "Deus ex Machina"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Deus ex Machina` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[blueprint.md:#2]
+$ python3 scripts/read.py blueprint --count "Guardian"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardian` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Externe Ebene"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Externe Ebene` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[blueprint.md:#2]
+$ python3 scripts/read.py blueprint --count "Dramatica-Throughlines"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dramatica-Throughlines` ^[blueprint.md:#2]
+$ python3 scripts/read.py blueprint --count "Overall Story"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Overall Story` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Subjective Story"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Subjective Story` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Kishōtenketsu"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kishōtenketsu` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Novelcrafter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Novelcrafter` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Single Source of Truth"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Single Source of Truth` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "39"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`39` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Kapiteln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapiteln` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Potentialmeer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Potentialmeer` ^[blueprint.md:#1]
+$ python3 scripts/read.py blueprint --count "Paradoxon der Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paradoxon der Fehlausgerichteten Kohärenz` ^[blueprint.md:#1]
+$ grep -c "?" Sources/drive/blueprint.md
+0

@@ -1,0 +1,496 @@
+{
+  "document": "emergenz-autonomer-systeme-aegis-forschung",
+  "step": "reconcile-pre",
+  "at": "2026-10-12",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-12",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 62,
+  "decisions": 67,
+  "same_surface": {},
+  "decided_mechanically": 48,
+  "needs_judgement": 19,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 262
+      },
+      {
+        "candidate": "Emergenz",
+        "page": "emergenz",
+        "readings": 74
+      },
+      {
+        "candidate": "Negentropie",
+        "page": "negentropie",
+        "readings": 21
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Spannungsfelder"
+      },
+      {
+        "candidate": "Cluster"
+      },
+      {
+        "candidate": "universelle Protokollarchitektur"
+      },
+      {
+        "candidate": "universellen Protokollarchitektur"
+      },
+      {
+        "candidate": "Realitätserzeugung"
+      },
+      {
+        "candidate": "Konstitutives Prinzip"
+      },
+      {
+        "candidate": "Grundlagentheorie"
+      },
+      {
+        "candidate": "Systemdynamik"
+      },
+      {
+        "candidate": "Meta-Struktur"
+      },
+      {
+        "candidate": "Anwendungsszenarien"
+      },
+      {
+        "candidate": "Emergente Phänomene"
+      },
+      {
+        "candidate": "Nullraum"
+      },
+      {
+        "candidate": "Autopoietische Schließung"
+      },
+      {
+        "candidate": "Operation fern vom Gleichgewicht"
+      },
+      {
+        "candidate": "Fluktuationsgetriebene Dynamik"
+      },
+      {
+        "candidate": "Mehr-Ebenen-Organisation"
+      },
+      {
+        "candidate": "Interne Beobachtungs-/Reflexionsschleife"
+      },
+      {
+        "candidate": "Mikro-Makro-Beziehung"
+      },
+      {
+        "candidate": "Ziel-Autonomie"
+      },
+      {
+        "candidate": "Realitätsschichten"
+      },
+      {
+        "candidate": "Selbststrukturierung"
+      },
+      {
+        "candidate": "Abwärtskausalität"
+      },
+      {
+        "candidate": "Selbstorganisation"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Rande des Chaos"
+      },
+      {
+        "candidate": "Selbstorganisierte Kritikalität"
+      },
+      {
+        "candidate": "dissipative Strukturen"
+      },
+      {
+        "candidate": "dissipativen Strukturen"
+      },
+      {
+        "candidate": "Attraktoren"
+      },
+      {
+        "candidate": "Kipppunkte"
+      },
+      {
+        "candidate": "Periodenverdopplung"
+      },
+      {
+        "candidate": "Schwinger-Effekt"
+      },
+      {
+        "candidate": "Vakuum-Katastrophe"
+      },
+      {
+        "candidate": "Global Workspace Theory"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "Viable System Model"
+      },
+      {
+        "candidate": "operative Geschlossenheit"
+      },
+      {
+        "candidate": "operativer Geschlossenheit"
+      },
+      {
+        "candidate": "strukturelle Kopplung"
+      },
+      {
+        "candidate": "Phänomenale Transparenz"
+      },
+      {
+        "candidate": "Agentenbasierte Modellierung"
+      },
+      {
+        "candidate": "Zelluläre Automaten"
+      },
+      {
+        "candidate": "Dezentrale Autonome Organisationen"
+      },
+      {
+        "candidate": "Ashbys Prinzip"
+      },
+      {
+        "candidate": "CODES-Framework"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS-Projekt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Framework",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Relevanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emergenz  /  schwacher Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Emergenz  /  starker Emergenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selbstreferenz  /  Selbstreferenz-Effekt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Projekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Framework",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Relevanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "selbstgenerierendes Kohärenzsystem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz aus Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzentropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzkern",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          },
+          {
+            "surface": "koharenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernelk1",
+            "page": "kohaerenz-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenzmaximierung / Entropieminimierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "schwacher Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "starker Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Reentry",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "arsautopoietischereentrysegmentierung",
+            "page": "ars"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 33,
+      "already_read": false
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 392,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 59,
+      "already_read": false
+    },
+    {
+      "page": "nexus",
+      "surface": "Nexus",
+      "line": 582,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 165,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,14 @@
+# emergenz-autonomer-systeme-aegis-forschung
+  lines                598  (frontmatter ends at 9)
+  body words           8592
+  headings             2   bold-only lines 45
+  table rows           25   code fences 0
+  question marks       48
+  backslash escapes    136
+  typographic marks    8   ascii quotes 126
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    252
+  repeated labels      AEGIS-Relevanz x9, Anwendungen x9, Konzepte x9, Philosophie x8, Emergente Phänomene x4, Konstitutives Prinzip x4, Interaktion x3
+  longest line         1172 chars
+

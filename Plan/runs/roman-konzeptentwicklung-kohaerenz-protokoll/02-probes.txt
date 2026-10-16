@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      60
+  typographic marks      48
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systemaxiome, Systembericht, Systemik, Systemische, Systems, Systemtheorie
+  traum    Trauma, TraumaPRO, Traumas, Traumatisierung, Traumaträger
+  daten    Daten, Datenbestände, Datensatzes, Datenströmen
+  disso    Dissociation, Dissonanz, Dissoziation, Dissoziative
+  ident    Identifikation, Identität, Identitäts, Identitätsstörung
+  infor    Information, Informationsdichte, Informationsparadoxon, Informationsphysik
+  narra    Narrativ, Narrative, Narrativer, Narratives
+  persö    Persönlichkeit, Persönlichkeits, Persönlichkeitsanteil, Persönlichkeitsanteile
+  phäno    Phänomenalen, Phänomenales, Phänomene, Phänomens
+  quant    Quanten, Quantenebene, Quantenmechanik, Quantenphysik
+  roman    Roman, Romankonzept, Romanprojekts, Romans
+  speic    Speichereinheiten, Speicherkapazität, Speichermatrix, Speicherung
+  struk    Struktur, Strukturelle, Strukturen, Strukturierungsmethode
+  diale    Dialetheia, Dialetheism, Dialetheismus
+  emoti    Emotional, Emotionalen, Emotionen
+  ereig    Ereignis, Ereignishorizont, Ereignisse
+  geset    Gesetz, Gesetze, Gesetzmäßigkeiten
+  grenz    Grenz, Grenzen, Grenzsituation
+  integ    Integration, Integrity, Integrität
+  konst    Konstante, Konstrukt, Konstrukts
+  limit    Limit, Limitierungen, Limits
+  logik    Logik, Logikbausteinen, Logiklöcher
+  metap    Metaphern, Metaphernverbot, Metaphorische
+  phase    Phase, Phasen, Phasenverhalten
+  psych    Psyche, Psychologische, Psychotraumatology
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieses
+  Dual < Residuale
+  Eine < Seine
+  Eine < Anscheinend
+  Eine < Logikbausteinen
+  Ende < Wende
+  Ende < Folgenden
+  Ende < Rendering
+  Ende < Umfassende
+  Ende < Umgreifende
+  Herz < Herzens
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kernel
+  Kern < Kernels
+  Kern < Kernwelten
+  Kish < Kishotenketsu
+  Mind < Storyminds
+  Rand < Brandnarbe

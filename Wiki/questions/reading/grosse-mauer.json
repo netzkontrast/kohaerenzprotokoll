@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "grosse-mauer",
+ "title": "Die Große Mauer",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Grenze des Selbst",
+  "Unterschied zwischen Schutz und Gefängnis",
+  "Zugänge jenseits offizieller Schleusen",
+  "Erhalt einer Grenze bei mehr Durchlässigkeit",
+  "Folgen des Überschreitens"
+ ],
+ "basis": {
+  "grosse-mauer": {
+   "title": "Die Große Mauer",
+   "path": "Wiki/candidates/grosse-mauer.md",
+   "hash": "3c904ccef5118cf80a309cd9b4906178da7d8a21d9676d206e73c4e3ec7ca0c2"
+  },
+  "grenzfeste": {
+   "title": "Grenzfeste",
+   "path": "Wiki/candidates/grenzfeste.md",
+   "hash": "6f5d61cb867320ac02514a09f01dad6c72901f5e6873a02a04830f3fb396de75"
+  },
+  "cerberus": {
+   "title": "Cerberus",
+   "path": "Wiki/candidates/cerberus.md",
+   "hash": "49c8604dd7260ec941debb7617dfaf07d3e3546b8f44dc6311dc81173e78b753"
+  },
+  "schleuse-7": {
+   "title": "Schleuse 7",
+   "path": "Wiki/candidates/schleuse-7.md",
+   "hash": "f21abed2c3a7aa64f88e2a3ba14fba54d9bf4301917551299f63923ef49d4ada"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-grosse-mauer-001",
+   "question": "Was kann die Große Mauer nach einer Öffnung weiterhin schützen, damit Grenzüberwindung nicht mit grenzenloser Verletzbarkeit gleichgesetzt wird?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-002",
+   "question": "Welche Lesarten auf der Seite zu Die Große Mauer stützen oder begrenzen „Grenze des Selbst“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-003",
+   "question": "Welcher Grenzfall würde bei Die Große Mauer die Annahmen über „Grenze des Selbst“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-004",
+   "question": "Wer könnte innerhalb des Romans bei Die Große Mauer etwas über „Grenze des Selbst“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-005",
+   "question": "Welche konkrete Entscheidung könnte „Grenze des Selbst“ bei Die Große Mauer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze des Selbst“ bei Die Große Mauer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-007",
+   "question": "Wie lässt sich „Grenze des Selbst“ bei Die Große Mauer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-008",
+   "question": "Welche Alternativen sollte der Autor bei Die Große Mauer für „Grenze des Selbst“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-009",
+   "question": "Was bedeutet bei Die Große Mauer der Themenpunkt „Unterschied zwischen Schutz und Gefängnis“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-010",
+   "question": "Welche Lesarten auf der Seite zu Die Große Mauer stützen oder begrenzen „Unterschied zwischen Schutz und Gefängnis“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-011",
+   "question": "Welcher Grenzfall würde bei Die Große Mauer die Annahmen über „Unterschied zwischen Schutz und Gefängnis“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-012",
+   "question": "Wer könnte innerhalb des Romans bei Die Große Mauer etwas über „Unterschied zwischen Schutz und Gefängnis“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Schutz und Gefängnis“ bei Die Große Mauer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Schutz und Gefängnis“ bei Die Große Mauer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-015",
+   "question": "Wie lässt sich „Unterschied zwischen Schutz und Gefängnis“ bei Die Große Mauer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-016",
+   "question": "Welche Alternativen sollte der Autor bei Die Große Mauer für „Unterschied zwischen Schutz und Gefängnis“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-017",
+   "question": "Was bedeutet bei Die Große Mauer der Themenpunkt „Zugänge jenseits offizieller Schleusen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-018",
+   "question": "Welche Lesarten auf der Seite zu Die Große Mauer stützen oder begrenzen „Zugänge jenseits offizieller Schleusen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-019",
+   "question": "Welcher Grenzfall würde bei Die Große Mauer die Annahmen über „Zugänge jenseits offizieller Schleusen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-020",
+   "question": "Wer könnte innerhalb des Romans bei Die Große Mauer etwas über „Zugänge jenseits offizieller Schleusen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-021",
+   "question": "Welche konkrete Entscheidung könnte „Zugänge jenseits offizieller Schleusen“ bei Die Große Mauer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugänge jenseits offizieller Schleusen“ bei Die Große Mauer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-023",
+   "question": "Wie lässt sich „Zugänge jenseits offizieller Schleusen“ bei Die Große Mauer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-024",
+   "question": "Welche Alternativen sollte der Autor bei Die Große Mauer für „Zugänge jenseits offizieller Schleusen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-025",
+   "question": "Was bedeutet bei Die Große Mauer der Themenpunkt „Erhalt einer Grenze bei mehr Durchlässigkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-026",
+   "question": "Welche Lesarten auf der Seite zu Die Große Mauer stützen oder begrenzen „Erhalt einer Grenze bei mehr Durchlässigkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-027",
+   "question": "Welcher Grenzfall würde bei Die Große Mauer die Annahmen über „Erhalt einer Grenze bei mehr Durchlässigkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-028",
+   "question": "Wer könnte innerhalb des Romans bei Die Große Mauer etwas über „Erhalt einer Grenze bei mehr Durchlässigkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-029",
+   "question": "Welche konkrete Entscheidung könnte „Erhalt einer Grenze bei mehr Durchlässigkeit“ bei Die Große Mauer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erhalt einer Grenze bei mehr Durchlässigkeit“ bei Die Große Mauer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-031",
+   "question": "Wie lässt sich „Erhalt einer Grenze bei mehr Durchlässigkeit“ bei Die Große Mauer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-032",
+   "question": "Welche Alternativen sollte der Autor bei Die Große Mauer für „Erhalt einer Grenze bei mehr Durchlässigkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-033",
+   "question": "Was bedeutet bei Die Große Mauer der Themenpunkt „Folgen des Überschreitens“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-034",
+   "question": "Welche Lesarten auf der Seite zu Die Große Mauer stützen oder begrenzen „Folgen des Überschreitens“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-035",
+   "question": "Welcher Grenzfall würde bei Die Große Mauer die Annahmen über „Folgen des Überschreitens“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-036",
+   "question": "Wer könnte innerhalb des Romans bei Die Große Mauer etwas über „Folgen des Überschreitens“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-037",
+   "question": "Welche konkrete Entscheidung könnte „Folgen des Überschreitens“ bei Die Große Mauer in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen des Überschreitens“ bei Die Große Mauer haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-039",
+   "question": "Wie lässt sich „Folgen des Überschreitens“ bei Die Große Mauer zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-040",
+   "question": "Welche Alternativen sollte der Autor bei Die Große Mauer für „Folgen des Überschreitens“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-041",
+   "question": "Wo unterscheiden sich Die Große Mauer und Grenzfeste, wenn man sie unter dem Gesichtspunkt „Grenze des Selbst“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-042",
+   "question": "Welche Quelle verbindet Die Große Mauer mit Grenzfeste in Bezug auf „Grenze des Selbst“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-043",
+   "question": "Welche Grenzen aus der Seite zu Grenzfeste müsste eine Deutung von Die Große Mauer unter „Grenze des Selbst“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-044",
+   "question": "Wie könnte sich das Wissen über Die Große Mauer vom Wissen über Grenzfeste unterscheiden, wenn „Grenze des Selbst“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Die Große Mauer und Grenzfeste bei „Grenze des Selbst“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-046",
+   "question": "Falls Die Große Mauer im Hinblick auf „Grenze des Selbst“ anders festgelegt wird: Welche Aussagen über Grenzfeste müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Die Große Mauer und Grenzfeste bei „Grenze des Selbst“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-048",
+   "question": "Braucht der Roman eine Verbindung von Die Große Mauer und Grenzfeste bei „Grenze des Selbst“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-049",
+   "question": "In welchem denkbaren Fall könnte Die Große Mauer bestehen, ohne dass Grenzfeste dieselbe Funktion übernimmt, und was würde das für „Grenze des Selbst“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-050",
+   "question": "Welche Kosten könnte eine Verbindung von Die Große Mauer und Grenzfeste in Bezug auf „Grenze des Selbst“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-051",
+   "question": "Welche ältere Lesart von Die Große Mauer oder Grenzfeste könnte die Gegenüberstellung unter „Grenze des Selbst“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Die Große Mauer und Grenzfeste unter „Grenze des Selbst“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "grosse-mauer",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-053",
+   "question": "Wo unterscheiden sich Die Große Mauer und Cerberus, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Schutz und Gefängnis“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-054",
+   "question": "Welche Quelle verbindet Die Große Mauer mit Cerberus in Bezug auf „Unterschied zwischen Schutz und Gefängnis“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-055",
+   "question": "Welche Grenzen aus der Seite zu Cerberus müsste eine Deutung von Die Große Mauer unter „Unterschied zwischen Schutz und Gefängnis“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-056",
+   "question": "Wie könnte sich das Wissen über Die Große Mauer vom Wissen über Cerberus unterscheiden, wenn „Unterschied zwischen Schutz und Gefängnis“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Die Große Mauer und Cerberus bei „Unterschied zwischen Schutz und Gefängnis“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-058",
+   "question": "Falls Die Große Mauer im Hinblick auf „Unterschied zwischen Schutz und Gefängnis“ anders festgelegt wird: Welche Aussagen über Cerberus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Die Große Mauer und Cerberus bei „Unterschied zwischen Schutz und Gefängnis“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-060",
+   "question": "Braucht der Roman eine Verbindung von Die Große Mauer und Cerberus bei „Unterschied zwischen Schutz und Gefängnis“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-061",
+   "question": "In welchem denkbaren Fall könnte Die Große Mauer bestehen, ohne dass Cerberus dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Schutz und Gefängnis“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-062",
+   "question": "Welche Kosten könnte eine Verbindung von Die Große Mauer und Cerberus in Bezug auf „Unterschied zwischen Schutz und Gefängnis“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-063",
+   "question": "Welche ältere Lesart von Die Große Mauer oder Cerberus könnte die Gegenüberstellung unter „Unterschied zwischen Schutz und Gefängnis“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Die Große Mauer und Cerberus unter „Unterschied zwischen Schutz und Gefängnis“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "grosse-mauer",
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-065",
+   "question": "Wo unterscheiden sich Die Große Mauer und Schleuse 7, wenn man sie unter dem Gesichtspunkt „Zugänge jenseits offizieller Schleusen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-066",
+   "question": "Welche Quelle verbindet Die Große Mauer mit Schleuse 7 in Bezug auf „Zugänge jenseits offizieller Schleusen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-067",
+   "question": "Welche Grenzen aus der Seite zu Schleuse 7 müsste eine Deutung von Die Große Mauer unter „Zugänge jenseits offizieller Schleusen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-068",
+   "question": "Wie könnte sich das Wissen über Die Große Mauer vom Wissen über Schleuse 7 unterscheiden, wenn „Zugänge jenseits offizieller Schleusen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Die Große Mauer und Schleuse 7 bei „Zugänge jenseits offizieller Schleusen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-070",
+   "question": "Falls Die Große Mauer im Hinblick auf „Zugänge jenseits offizieller Schleusen“ anders festgelegt wird: Welche Aussagen über Schleuse 7 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Die Große Mauer und Schleuse 7 bei „Zugänge jenseits offizieller Schleusen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-072",
+   "question": "Braucht der Roman eine Verbindung von Die Große Mauer und Schleuse 7 bei „Zugänge jenseits offizieller Schleusen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-073",
+   "question": "In welchem denkbaren Fall könnte Die Große Mauer bestehen, ohne dass Schleuse 7 dieselbe Funktion übernimmt, und was würde das für „Zugänge jenseits offizieller Schleusen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-074",
+   "question": "Welche Kosten könnte eine Verbindung von Die Große Mauer und Schleuse 7 in Bezug auf „Zugänge jenseits offizieller Schleusen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-075",
+   "question": "Welche ältere Lesart von Die Große Mauer oder Schleuse 7 könnte die Gegenüberstellung unter „Zugänge jenseits offizieller Schleusen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Die Große Mauer und Schleuse 7 unter „Zugänge jenseits offizieller Schleusen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "grosse-mauer",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-077",
+   "question": "Wo unterscheiden sich Die Große Mauer und Risse, wenn man sie unter dem Gesichtspunkt „Erhalt einer Grenze bei mehr Durchlässigkeit“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-078",
+   "question": "Welche Quelle verbindet Die Große Mauer mit Risse in Bezug auf „Erhalt einer Grenze bei mehr Durchlässigkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-079",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Die Große Mauer unter „Erhalt einer Grenze bei mehr Durchlässigkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-080",
+   "question": "Wie könnte sich das Wissen über Die Große Mauer vom Wissen über Risse unterscheiden, wenn „Erhalt einer Grenze bei mehr Durchlässigkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Die Große Mauer und Risse bei „Erhalt einer Grenze bei mehr Durchlässigkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-082",
+   "question": "Falls Die Große Mauer im Hinblick auf „Erhalt einer Grenze bei mehr Durchlässigkeit“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Die Große Mauer und Risse bei „Erhalt einer Grenze bei mehr Durchlässigkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-084",
+   "question": "Braucht der Roman eine Verbindung von Die Große Mauer und Risse bei „Erhalt einer Grenze bei mehr Durchlässigkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-085",
+   "question": "In welchem denkbaren Fall könnte Die Große Mauer bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Erhalt einer Grenze bei mehr Durchlässigkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-086",
+   "question": "Welche Kosten könnte eine Verbindung von Die Große Mauer und Risse in Bezug auf „Erhalt einer Grenze bei mehr Durchlässigkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-087",
+   "question": "Welche ältere Lesart von Die Große Mauer oder Risse könnte die Gegenüberstellung unter „Erhalt einer Grenze bei mehr Durchlässigkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Die Große Mauer und Risse unter „Erhalt einer Grenze bei mehr Durchlässigkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "grosse-mauer",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-089",
+   "question": "Wo unterscheiden sich Die Große Mauer und Kael, wenn man sie unter dem Gesichtspunkt „Folgen des Überschreitens“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-090",
+   "question": "Welche Quelle verbindet Die Große Mauer mit Kael in Bezug auf „Folgen des Überschreitens“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Die Große Mauer unter „Folgen des Überschreitens“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-092",
+   "question": "Wie könnte sich das Wissen über Die Große Mauer vom Wissen über Kael unterscheiden, wenn „Folgen des Überschreitens“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Die Große Mauer und Kael bei „Folgen des Überschreitens“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-094",
+   "question": "Falls Die Große Mauer im Hinblick auf „Folgen des Überschreitens“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Die Große Mauer und Kael bei „Folgen des Überschreitens“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-096",
+   "question": "Braucht der Roman eine Verbindung von Die Große Mauer und Kael bei „Folgen des Überschreitens“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-097",
+   "question": "In welchem denkbaren Fall könnte Die Große Mauer bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Folgen des Überschreitens“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-098",
+   "question": "Welche Kosten könnte eine Verbindung von Die Große Mauer und Kael in Bezug auf „Folgen des Überschreitens“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-099",
+   "question": "Welche ältere Lesart von Die Große Mauer oder Kael könnte die Gegenüberstellung unter „Folgen des Überschreitens“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-grosse-mauer-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Die Große Mauer und Kael unter „Folgen des Überschreitens“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "grosse-mauer",
+    "kael"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+# cyberpunk-roman-kohaerenz-protokoll-ubersetzung
+  lines                162  (frontmatter ends at 9)
+  body words           3955
+  headings             17   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    32
+  typographic marks    4   ascii quotes 86
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    30
+  repeated labels      none
+  longest line         1151 chars
+

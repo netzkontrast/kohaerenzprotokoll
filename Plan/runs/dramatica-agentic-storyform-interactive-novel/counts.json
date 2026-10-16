@@ -1,0 +1,847 @@
+{
+  "document": "dramatica-agentic-storyform-interactive-novel",
+  "drive_id": "1-KzB7OWbPer-JiMf52GbNHCP6Dscm8ChmroBsrS34C8",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Story Mind": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        18,
+        35,
+        39,
+        43,
+        55,
+        80,
+        165
+      ]
+    },
+    "Agent Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Grand Argument": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        51
+      ]
+    },
+    "quads": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        132
+      ]
+    },
+    "storyform": {
+      "n": 39,
+      "n_including_compounds": 44,
+      "lines": [
+        51,
+        58,
+        59,
+        61,
+        78,
+        84,
+        86,
+        99,
+        109,
+        111,
+        119,
+        150,
+        152,
+        167,
+        175,
+        189,
+        227,
+        238,
+        241,
+        256,
+        283,
+        295,
+        297,
+        319,
+        366,
+        367,
+        371,
+        373,
+        407,
+        409,
+        447,
+        449,
+        483,
+        510,
+        537
+      ]
+    },
+    "Story Problem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        139,
+        252
+      ]
+    },
+    "Story Goal": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        56,
+        194,
+        241,
+        251,
+        369
+      ]
+    },
+    "Story Solution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "throughlines": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        132
+      ]
+    },
+    "Overall Story": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        58,
+        84,
+        136,
+        137,
+        139,
+        146,
+        152,
+        194,
+        297
+      ]
+    },
+    "Main Character": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        58,
+        84,
+        125,
+        136,
+        138,
+        152,
+        241,
+        373
+      ]
+    },
+    "Impact Character": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        84,
+        193
+      ]
+    },
+    "Subjective Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Dramatica-native agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Universal Narrative Model (UNM)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        101
+      ]
+    },
+    "Universal Narrative Model": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        90,
+        101,
+        165,
+        500,
+        505
+      ]
+    },
+    "UNM": {
+      "n": 40,
+      "n_including_compounds": 42,
+      "lines": [
+        90,
+        101,
+        105,
+        109,
+        111,
+        115,
+        119,
+        148,
+        150,
+        167,
+        182,
+        189,
+        206,
+        211,
+        226,
+        230,
+        253,
+        295,
+        297,
+        302,
+        319,
+        322,
+        335,
+        337,
+        366,
+        369,
+        407,
+        409,
+        423,
+        424,
+        447,
+        449,
+        450
+      ]
+    },
+    "Narrative Context Protocol (NCP)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        502
+      ]
+    },
+    "NCP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        101,
+        105,
+        206
+      ]
+    },
+    "Dynamics": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        121,
+        144,
+        476
+      ]
+    },
+    "Storypoints": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        132,
+        144,
+        253,
+        297,
+        302,
+        303,
+        322
+      ]
+    },
+    "Storybeats": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        144,
+        146,
+        254,
+        283
+      ]
+    },
+    "Signposts": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        145,
+        254,
+        283,
+        336
+      ]
+    },
+    "Main Character Resolve": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        152
+      ]
+    },
+    "Story Outcome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Story Judgment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Domain": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        47,
+        136,
+        484
+      ]
+    },
+    "Concern": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        137,
+        146,
+        152,
+        193,
+        253,
+        297
+      ]
+    },
+    "Issue": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        138,
+        211,
+        253,
+        297
+      ]
+    },
+    "Problem": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        55,
+        139,
+        252,
+        373
+      ]
+    },
+    "narrative constitution": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        152
+      ]
+    },
+    "Narrative Director": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        165,
+        167,
+        171,
+        175,
+        204,
+        224,
+        238,
+        242,
+        297,
+        319,
+        371,
+        373,
+        388,
+        390,
+        407
+      ]
+    },
+    "Planner Module": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        178,
+        250,
+        254
+      ]
+    },
+    "Self-Reflection Module": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Cognitive Layer": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        73,
+        167,
+        171,
+        175,
+        177,
+        251,
+        252
+      ]
+    },
+    "Memory Layer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        74,
+        200,
+        253
+      ]
+    },
+    "Tool Invocation Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Orchestration Layer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        76,
+        167,
+        250
+      ]
+    },
+    "Tool Layer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        185,
+        189,
+        220,
+        256
+      ]
+    },
+    "Overall Story Consequence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Static Memory (Knowledge Base)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Static Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Long-Term Memory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        207,
+        303
+      ]
+    },
+    "Semantic Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Procedural Memory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        212
+      ]
+    },
+    "Short-Term Memory (Episodic)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        216,
+        320
+      ]
+    },
+    "Short-Term Memory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        216,
+        320
+      ]
+    },
+    "GenerateNarrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "GenerateDialogue": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "UpdateWorldState": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "RetrieveFromMemory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "GetStoryformElement": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        230,
+        302,
+        335
+      ]
+    },
+    "Antagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Guardian": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        193,
+        241
+      ]
+    },
+    "Skeptic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Contagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        242
+      ]
+    },
+    "Context Engineering": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        260,
+        273,
+        517,
+        518
+      ]
+    },
+    "structured narrative summary": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        283,
+        321
+      ]
+    },
+    "UNM-RAG System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        295
+      ]
+    },
+    "UNM Static Knowledge Base": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        302
+      ]
+    },
+    "contextual drift": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        271,
+        336
+      ]
+    },
+    "sandbox paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        354
+      ]
+    },
+    "curated agency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        356
+      ]
+    },
+    "Storyforming": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        364,
+        366,
+        369,
+        483,
+        499,
+        537
+      ]
+    },
+    "Storytelling": {
+      "n": 17,
+      "n_including_compounds": 18,
+      "lines": [
+        256,
+        360,
+        364,
+        367,
+        371,
+        450,
+        460,
+        471,
+        500,
+        502,
+        505,
+        540,
+        544,
+        545,
+        546,
+        549,
+        554
+      ]
+    },
+    "re-planning": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        390,
+        392
+      ]
+    },
+    "Rosetta Stone": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        244
+      ]
+    },
+    "debiasing filter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        449
+      ]
+    },
+    "NPC": {
+      "n": 11,
+      "n_including_compounds": 17,
+      "lines": [
+        84,
+        165,
+        167,
+        183,
+        227,
+        238,
+        240,
+        241,
+        242,
+        255,
+        303,
+        392
+      ]
+    },
+    "OS": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        250,
+        496,
+        514
+      ]
+    },
+    "MC": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        58,
+        182,
+        227,
+        250
+      ]
+    },
+    "IC": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        58,
+        250
+      ]
+    },
+    "SS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        250
+      ]
+    },
+    "Belief-Desire-Intention (BDI)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Belief-Desire-Intention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "BDI": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        80,
+        84,
+        234,
+        238,
+        255,
+        495,
+        496
+      ]
+    },
+    "Constitutional AI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        249
+      ]
+    },
+    "Retrieval-Augmented Generation (RAG)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        293,
+        337,
+        528
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        293,
+        337,
+        515,
+        526,
+        528
+      ]
+    },
+    "RAG": {
+      "n": 15,
+      "n_including_compounds": 19,
+      "lines": [
+        229,
+        285,
+        289,
+        293,
+        295,
+        322,
+        336,
+        337,
+        515,
+        524,
+        525,
+        527,
+        528,
+        529,
+        531,
+        532
+      ]
+    },
+    "drama manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        388
+      ]
+    },
+    "ReAct": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        178
+      ]
+    },
+    "Chain-of-Thought": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    }
+  }
+}

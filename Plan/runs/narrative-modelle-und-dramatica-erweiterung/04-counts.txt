@@ -1,0 +1,108 @@
+# counts for 79 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Story Mind                       11 word    11 in   [13, 18, 30, 279, 308, 339]
+  System Mind                       6 word     6 in   [13, 339, 343, 358, 392, 457]
+  Story-Problem                     1 word     1 in   [30]
+  Grand Argument Story              2 word     2 in   [42, 280]
+  Throughlines                     13 word    13 in   [38, 42, 44, 51, 63, 237]
+  Throughline                      15 word    29 in   [38, 42, 44, 46, 47, 48]
+                                   13      as Throughlines
+                                    1      as Throughline-Struktur
+                                    1      as throughlines
+  Objective Story (OS) Throughline    1 word     1 in   [46]
+  Main Character (MC) Throughline    1 word     1 in   [47]
+  Influence Character (IC) Throughline    1 word     1 in   [48]
+  Relationship Story (RS) Throughline    1 word     1 in   [49]
+  Objective Story                   4 word     4 in   [46, 220, 289, 379]
+  Main Character                    3 word     3 in   [47, 282, 378]
+  Influence Character               2 word     2 in   [48]
+  Relationship Story                1 word     1 in   [49]
+  Hauptcharakter                    4 word    12 in   [47, 48, 49, 51, 219, 220]  <-- substring
+                                    8      as Hauptcharakters
+  Einflusscharakter                 2 word     4 in   [48, 49, 51, 219]
+                                    2      as Einflusscharakters
+  Table of Story Elements           3 word     3 in   [55, 59, 233]
+  Quad                              2 word     9 in   [55, 59, 197, 233, 244, 372]  <-- substring
+                                    4      as Quads
+                                    2      as Quad-Struktur
+                                    1      as Quad-basierte
+  Quads                             4 word     4 in   [59, 233, 244]
+  dynamische Paare                  1 word     1 in   [59]
+  Classes                           2 word     2 in   [63, 285]
+  Types                             2 word     2 in   [74, 286]
+  Variations                        2 word     2 in   [75, 287]
+  Elements                          5 word     5 in   [55, 59, 76, 233, 287]
+  Universe                          3 word     3 in   [67, 239, 285]
+                                    1      as universelle
+                                    1      as universellen
+                                    1      as universeller
+                                    1      as universell
+  Physics                           4 word     4 in   [68, 74, 240, 285]
+  Mind                             20 word    20 in   [13, 18, 30, 69, 242, 279]
+  Psychology                        3 word     3 in   [70, 241, 285]
+  Concerns                          3 word     3 in   [74, 244, 286]
+  Issue                             1 word     3 in   [75, 244, 287]  <-- substring
+                                    2      as Issues
+  Counterpoint                      1 word     1 in   [75]
+  Story Engine                      5 word     5 in   [92, 203, 306, 310, 409]
+  Narrative Context Protocol       18 word    18 in   [13, 22, 94, 98, 102, 110]
+  NCP                              67 word    70 in   [22, 88, 98, 102, 106, 110]
+  Universal Narrative Model         6 word     6 in   [102, 110, 487, 488, 491, 497]
+  UNM                               7 word     8 in   [102, 106, 110, 112, 237, 264]
+  Model Context Protocol            5 word     5 in   [102, 145, 493, 494, 498]
+  MCP                               8 word     9 in   [102, 141, 145, 149, 155, 493]
+  Narrative First                   9 word     9 in   [110, 222, 324, 467, 480, 481]
+  Subtxt                            8 word     8 in   [152, 264, 312, 409, 476, 504]
+  Storyform                        34 word    37 in   [90, 130, 134, 135, 151, 152]
+                                    3      as Storyforms
+                                    2      as storyform-Objekt
+                                    1      as storyforms
+  Dynamics                         12 word    12 in   [191, 195, 199, 209, 213, 217]
+                                    2      as dynamics-Objekt
+  Storypoints                      19 word    19 in   [191, 195, 197, 199, 215, 229]
+                                    1      as storypoints-Objekts
+                                    1      as storypoints-Struktur
+  Storybeats                       15 word    15 in   [191, 195, 201, 252, 256, 258]
+                                    1      as storybeats-Array
+  Resolve                           2 word     2 in   [219, 282]
+  Outcome                           3 word     3 in   [220, 283]
+  Judgment                          3 word     3 in   [220, 283]
+  Maintain                          2 word     2 in   [219, 282]
+  Relinquish                        3 word     3 in   [219, 223, 282]
+  Release                           1 word     1 in   [223]
+  Centered                          1 word     1 in   [223]
+  Narrative Alignment               2 word     4 in   [222, 326, 328, 457]
+  Dopamin                           4 word     4 in   [222, 326, 333, 391]
+                                    1      as dopaminorientiert
+                                    1      as dopaminorientierte
+  Serotonin                         4 word     4 in   [222, 326, 333, 391]
+                                    1      as serotoninfokussierte
+                                    1      as serotoninorientierte
+  Pyrrhussieg                       1 word     1 in   [221]
+  Story Driver                      1 word     1 in   [288]
+  Signposts                         3 word     3 in   [290, 378]
+  External Framing                  2 word     2 in   [239, 285]
+  External Processing               1 word     1 in   [240]
+  Internal Processing               2 word     2 in   [241, 285]
+  Internal Framing                  1 word     1 in   [242]
+  Authorial Intent                  1 word     1 in   [110]
+  Subtext                           3 word     3 in   [126, 137, 169]
+  Storytelling                     11 word    11 in   [126, 155, 167, 169, 360, 487]
+  thematische Leitplanken           1 word     1 in   [168]
+  Blockchain für Subtext            1 word     1 in   [137]
+  Rosetta-Stein                     4 word     4 in   [364, 370, 393, 457]
+  multi-agentischen Erzählsystemen    1 word     1 in   [345]
+  Black Box                         3 word     3 in   [92, 306, 390]
+  Kontextpersistenz                 1 word     1 in   [429]
+  Contagonist                       1 word     1 in   [90]
+  Preconditions                     1 word     1 in   [90]
+  Induction                         1 word     1 in   [90]
+  Non-acceptance                    1 word     1 in   [90]
+  Heldenreise                       4 word     4 in   [34, 171, 368, 378]
+  Save the Cat                      2 word     2 in   [171, 368]
+  Drei-Akt-Struktur                 2 word     2 in   [368, 379]
+  Midpoint                          1 word     1 in   [379]
+  Ruf zum Abenteuer                 1 word     1 in   [378]

@@ -1,0 +1,71 @@
+{
+  "document": "kohaerenz-prozess-grundlagen",
+  "drive_id": "1514B_spBuULyfm6LApvhBNsXrXu9y4Rsn2R-L915JDw",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a concept for an album, a different work, whose crisis material the privacy rule keeps off the wiki (Plan/runs/ingest-230/brief.md)",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 96,
+    "decisions": 94,
+    "decided_by_lookup": 83,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A concept for an album, not the novel: its figures share names with the novel's alters but belong to the album; nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the album concept is a different work: every near match and every page it names is an occurrence of a shared name, not read",
+  "sweep": [
+    {
+      "page": "aegis",
+      "surface": "Kontrollinstanz",
+      "line": 82,
+      "decision": "occurrence",
+      "why": "the album concept, a different work"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 82,
+      "decision": "occurrence",
+      "why": "the album concept, a different work"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the album's title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the album concept, a different work"
+    }
+  ],
+  "not_promoted": [
+    "everything — the album's arc, songs, symbols and models"
+  ],
+  "internal_tension": "it leaves Selene's type open (ANP/EP?) and calls its song plan a frame, not a fixed tracklist",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

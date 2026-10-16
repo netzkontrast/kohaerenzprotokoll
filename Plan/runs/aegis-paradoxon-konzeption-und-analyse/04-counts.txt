@@ -1,0 +1,86 @@
+# counts for 61 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           191 word   191 in   [11, 13, 16, 18, 22, 24]
+  Kael                             60 word    85 in   [18, 26, 40, 41, 43, 44]
+                                   19      as Kaels
+                                    2      as Kael-Anteilen
+                                    2      as Kael-Anteile
+                                    1      as Kael-Konflikt
+  Kernwelten                       20 word    20 in   [18, 26, 40, 50, 69, 92]
+  Kernwelt                          1 word    21 in   [18, 26, 40, 50, 69, 92]  <-- substring
+                                   20      as Kernwelten
+  KW1                               2 word     3 in   [18, 162, 249]
+  KW2                               1 word     1 in   [171]
+  KW3                               7 word     8 in   [162, 249, 331, 336, 337, 338]
+  KW4                               3 word     4 in   [18, 40, 171, 250]
+  Juna/V                           19 word    21 in   [52, 108, 151, 162, 171, 180]
+                                    2      as Juna/V-Verbindung
+  Juna                             22 word    32 in   [16, 52, 108, 151, 162, 171]
+                                   10      as JunaV
+  Risse                             8 word    10 in   [42, 92, 141, 151, 161, 249]
+                                    1      as Rissen
+                                    1      as Risses
+  Riss                              4 word    14 in   [42, 92, 141, 151, 161, 249]  <-- substring
+                                    8      as Risse
+                                    1      as Rissen
+                                    1      as Risses
+  Paradoxon X                       1 word     1 in   [16]
+  Monstergruppe                     1 word     1 in   [16]
+  Juna Verbindung                   1 word     1 in   [16]
+  Lex                               3 word     3 in   [331, 336, 337]
+  Kiko                              3 word     3 in   [331, 336, 337]
+  Nyx                               2 word     2 in   [250, 338]
+  TSDP                              1 word     1 in   [18]
+  Trauma Spectrum Dissociative Profile    1 word     1 in   [18]
+  Kohärenz Protokoll                3 word     3 in   [11, 16, 350]
+  Kohärenz                         50 word    54 in   [11, 16, 18, 26, 39, 46]
+                                    2      as Kohärenz-Management
+                                    1      as Kohärenzschaffung
+                                    1      as Kohärenz-Metriken
+  Primärziel                        2 word     2 in   [18, 250]
+  Primärdirektive                   1 word     1 in   [274]
+  Genesis                          11 word    11 in   [26, 59, 124, 145, 197, 233]
+  Kernprogrammierung                2 word     2 in   [58, 273]
+  Kohärenz-Management               2 word     2 in   [39, 108]
+  Inkohärenz-Metriken               1 word     1 in   [336]
+  Kohärenz durch Entfremdung        6 word     6 in   [287, 313, 328, 332, 348, 350]
+  Entfremdung                      20 word    20 in   [287, 288, 296, 297, 298, 305]
+  Kontroll-induzierte Instabilität    7 word     7 in   [130, 141, 157, 211, 282, 303]
+  Blinde Optimierung                9 word     9 in   [130, 132, 142, 166, 221, 282]
+  Autopoietische Isolation          4 word     4 in   [143, 175, 231, 305]
+  Logische Unvollständigkeit        5 word     5 in   [130, 144, 184, 221, 306]
+  Tragische Hybris                  6 word     6 in   [130, 145, 193, 231, 282, 307]
+  Kontroll-Paradoxien               2 word     2 in   [207, 245]
+  Wissens-Paradoxien                2 word     2 in   [217, 257]
+  Existenz-Paradoxien               2 word     2 in   [227, 269]
+  operative Schließung              5 word     5 in   [67, 108, 143, 179, 180]
+  Autopoiesis                       9 word     9 in   [39, 67, 81, 108, 143, 273]
+  Entropie                          7 word     8 in   [18, 36, 37, 79, 170, 288]
+                                    1      as Entropiewerten
+  Hybris                           22 word    22 in   [55, 82, 124, 130, 132, 145]
+  Hamartia                          7 word     7 in   [55, 82, 124, 145, 197, 297]
+  Peripetie                         2 word     2 in   [55, 297]
+  Anagnorisis                       2 word     2 in   [55, 277]
+  Katharsis                         2 word     2 in   [55, 322]
+  Halteproblem                      7 word     7 in   [47, 67, 80, 144, 188, 375]
+  Qualia                           12 word    15 in   [49, 67, 69, 80, 100, 132]
+                                    2      as Qualia-Problem
+                                    1      as Qualia-
+  Theory of Mind                    6 word     6 in   [52, 69, 80, 170, 261, 381]
+  Value Alignment Problem           3 word     5 in   [54, 81, 100, 132, 170]
+  Path Dependence                   5 word     5 in   [59, 81, 143, 180, 273]
+  Unintended Consequences           3 word     3 in   [60, 79, 389]
+  Information Overload              3 word     3 in   [61, 79, 391]
+  Lügner-Paradox                    2 word     2 in   [188, 387]
+  Feedback-Schleifen                3 word     3 in   [67, 92, 161]
+  Kybernetik zweiter Ordnung        1 word     1 in   [69]
+  Chaostheorie                      4 word     4 in   [41, 69, 79, 161]
+  Komplexitätstheorie               4 word     4 in   [40, 69, 79, 161]
+  Emergenz                          9 word    10 in   [40, 69, 92, 171, 180, 250]
+                                    1      as Emergenzphänomene
+  Baudrillard                       3 word     3 in   [50, 170, 377]
+                                    1      as baudrillard-scijournal
+  Dissoziative Identitätsstörung    2 word     2 in   [63, 394]

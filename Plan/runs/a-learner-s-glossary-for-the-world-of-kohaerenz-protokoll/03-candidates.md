@@ -1,0 +1,75 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an English glossary with German names; every headword is listed as written. The Core World names stand in a table whose cells carry escaped bold marks, so each name is listed alone as well as with its KW number.
+
+- AEGIS
+- Kael
+- Alters
+- Functional Multiplicity
+- Juna/V
+- Juna
+- Moonshine-Link
+- Sub-Protocol Connection
+- Das Fundament
+- The Foundation
+- Das Potentialmeer / Die Leere
+- Das Potentialmeer
+- Die Leere
+- The Sea of Potential
+- The Void
+- Sea of Potential
+- Nothingness Noise
+- Risse
+- Die Kernwelten
+- The Core Worlds
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Konstrukt-Stadt
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Algorithmic Horror
+- generative synthesis
+- Paradox of Misaligned Coherence
+- Kohärenz statt Wahrheit
+- operationally closed
+- ontological exploit
+- catalyst
+- Gödel-Satz
+- Apparently Normal Part (ANP)
+- Apparently Normal Part
+- ANP
+- Emotional Part (EP)
+- Emotional Part
+- EP
+- Lex
+- Nyx
+- Kiko
+- Phi
+- weak emergence
+- strong emergence
+- dialetheic
+
+## lens
+
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- Integrated Information Theory (IIT)
+- IIT
+- Gödel's Incompleteness Theorems
+- Paraconsistent Logic
+- Dialetheism
+- Principle of Explosion
+- Frame-Problem
+- Specification Gaming
+- Autopoiesis
+- Entropy
+- Emergence
+- Quantum Entanglement
+- Prehension
+- Deus ex Machina
+- integrated information

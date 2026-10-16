@@ -1,0 +1,14 @@
+# projekt-kohaerenz-protokoll-narrative-dekonstruktion
+  lines                251  (frontmatter ends at 9)
+  body words           3072
+  headings             24   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       5
+  backslash escapes    22
+  typographic marks    128   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    44
+  repeated labels      none
+  longest line         964 chars
+

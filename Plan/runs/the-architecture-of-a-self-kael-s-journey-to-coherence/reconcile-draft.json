@@ -1,0 +1,170 @@
+{
+  "document": "the-architecture-of-a-self-kael-s-journey-to-coherence",
+  "drive_id": "1apCjN9hSQImfwi6m1mIKZEPQRpvUZO2YyP6fv1Af9qU",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 69,
+    "decisions": 72,
+    "decided_by_lookup": 49,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        19,
+        27,
+        29,
+        83,
+        92
+      ],
+      "attribution": "",
+      "note": "the system as partitioner, then as a melancholy remnant"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        83,
+        92
+      ],
+      "attribution": "",
+      "note": "AEGIS's final state"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27,
+        37,
+        39
+      ],
+      "attribution": "",
+      "note": "five alters profiled through TSDP"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "Guardians in the aesthetic of inefficient beauty"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        64,
+        80
+      ],
+      "attribution": "",
+      "note": "the Juna Echo, partitioned, then strengthening at the turn"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        29,
+        37,
+        54,
+        56,
+        64,
+        76,
+        81,
+        85
+      ],
+      "attribution": "",
+      "note": "an analysis of Kael's arc from partition to integration"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        47,
+        70
+      ],
+      "attribution": "",
+      "note": "the child part with the freeze response"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        45,
+        54
+      ],
+      "attribution": "",
+      "note": "the analyst-part and the collapse of pure logic"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        46,
+        70
+      ],
+      "attribution": "",
+      "note": "the aggressive protector among the Emotional Parts"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Glitches as internal intrusions"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "the integrator and ethical compass"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the alters modelled on the structural dissociation theory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "the logs' Kohärenz wiederhergestellt, read on aegis"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

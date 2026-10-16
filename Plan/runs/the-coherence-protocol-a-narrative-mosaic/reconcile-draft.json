@@ -1,0 +1,283 @@
+{
+  "document": "the-coherence-protocol-a-narrative-mosaic",
+  "drive_id": "1LV6cKons4Kd6o5HhMp3V4mYpWZ2JMROUIc5byPgSpuI",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 115,
+    "decided_by_lookup": 83,
+    "needs_judgement": 32
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        36,
+        38,
+        39,
+        40,
+        41,
+        146,
+        266
+      ],
+      "attribution": "",
+      "note": "the antagonist as a roster of points of view, with a core logic called Component 734"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        24,
+        26,
+        30
+      ],
+      "attribution": "",
+      "note": "the internal parts as a roster, to be written in close third person"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        40,
+        41,
+        42,
+        46
+      ],
+      "attribution": "",
+      "note": "a monolithic and a rebel Guardian, and one Guardian per Kernwelt"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        49,
+        272
+      ],
+      "attribution": "",
+      "note": "the exiled part of Kael's Ursprungs-Ich as a roster point of view"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        23,
+        49,
+        62,
+        306
+      ],
+      "attribution": "",
+      "note": "the primary host as the first-person point of view, and the collection's model"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        43,
+        44,
+        45,
+        68,
+        146
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, each with a Guardian, in the roster"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        38,
+        146
+      ],
+      "attribution": "",
+      "note": "AEGIS Core Logic named Component 734, the traumatised Ursprungs-Ich after its fragmentation"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        26,
+        68
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        31
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        46,
+        92,
+        110,
+        200
+      ],
+      "attribution": "",
+      "note": "an anomaly monitored by a Guardian, in three entries"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        33
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        206,
+        266
+      ],
+      "attribution": "",
+      "note": "the static of unformed possibility, seen by two Guardians"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        204,
+        206,
+        266
+      ],
+      "attribution": "",
+      "note": "the unformed chaos beyond the simulation, in two entries"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        28
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        206
+      ],
+      "attribution": "",
+      "note": "a tear in the simulation, assigned to a Guardian"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        34
+      ],
+      "attribution": "",
+      "note": "a roster line for the point of view"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        27,
+        30,
+        60,
+        62
+      ],
+      "attribution": "",
+      "note": "the brief's alter classes and its first story"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        146,
+        278
+      ],
+      "attribution": "",
+      "note": "the simulation maintained by Component 734, and the Simulation Core as a point of view"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 49,
+      "decision": "reading",
+      "why": "Juna/V the exiled part of Kael's Ursprungs-Ich"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

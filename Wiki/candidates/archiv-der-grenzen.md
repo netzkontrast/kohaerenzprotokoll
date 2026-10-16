@@ -1,10 +1,10 @@
 ---
 term: Archiv der Grenzen
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-synthese-mit-dual-kernel-theorie"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-synthese-mit-dual-kernel-theorie", "roman-outline-kohaerenz-protokoll"]
 gathered: "2026-09-24"
 ---
 
@@ -15,6 +15,10 @@ gathered: "2026-09-24"
 ## Reading — `roman-synthese-mit-dual-kernel-theorie`, 2026-02-25, the DKT synthesis — Kapitel 14 titled `Das Archiv der Grenzen`
 
 The DKT synthesis, an analysis of the plot, titles Kapitel 14 `Das Archiv der Grenzen` (L154, the first chapter of Teil II). Its opening line says what Kael finds: „Kael erhält Zugang zu den technischen Dossiers von AEGIS im Lernarchiv Theta-9“ ^[roman-synthese-mit-dual-kernel-theorie.md:L156]. The systemic bullet adds „Temporäre Permeabilitätsanomalie ermöglicht Zugriff auf Meta-Regeln“ ^[roman-synthese-mit-dual-kernel-theorie.md:L159]. The document does not call the place a library or give it a Kernwelt.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — a chapter title and what the chapter plans
+
+The Roman-Outline plans Kap 14 under the title „Das Archiv der Grenzen“ ^[roman-outline-kohaerenz-protokoll.md:L59]: Kael gains access to the technical dossiers, which the line calls „dem internen Handbuch AEGIS“ ^[roman-outline-kohaerenz-protokoll.md:L59] The title is a chapter title in a plan.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 

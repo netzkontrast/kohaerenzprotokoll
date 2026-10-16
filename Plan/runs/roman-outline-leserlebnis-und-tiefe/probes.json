@@ -1,0 +1,350 @@
+{
+  "document": "roman-outline-leserlebnis-und-tiefe",
+  "drive_id": "1Ug3tC4fSnB1WzV2v9eaArndM5SS5q_ucjvD7qKgJgTw",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 170,
+  "backslash_escapes": 24,
+  "typographic_marks": 197,
+  "ascii_quotes": 20,
+  "inflection_families": {
+    "chara": [
+      "Character",
+      "CharacterRant",
+      "Characters",
+      "Charakter",
+      "Charakterbogen",
+      "Charakterbögen",
+      "Charakterdissonanz",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charaktererfahrungen",
+      "Charakterfehler",
+      "Charakterhandlungen",
+      "Charakteridentität",
+      "Charakteridentitäten",
+      "Charakterinteraktionen",
+      "Charakterisierung",
+      "Charaktermotivation",
+      "Charakterperspektiven",
+      "Charakterpsychologie",
+      "Charakters",
+      "Charakterstabilität",
+      "Charaktertransformationen",
+      "Charaktertypen",
+      "Charakterwerte",
+      "Charakterzustand"
+    ],
+    "syste": [
+      "System",
+      "Systemchaos",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemfunktionen",
+      "Systeminstabilität",
+      "Systemkern",
+      "Systemprobleme",
+      "Systemregeln",
+      "Systems",
+      "Systemtheorie",
+      "Systemverhalten",
+      "Systemverhaltens",
+      "Systemversagen",
+      "Systemversagens",
+      "Systemzustände"
+    ],
+    "erzäh": [
+      "Erzählen",
+      "Erzähler",
+      "Erzählers",
+      "Erzählmustern",
+      "Erzählperspektive",
+      "Erzählsituation",
+      "Erzählstil",
+      "Erzählstimme",
+      "Erzähltechnik",
+      "Erzählung",
+      "Erzählungen",
+      "Erzählwelt"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitäts",
+      "Identitätsbildung",
+      "Identitätsmodell",
+      "Identitätstheorie",
+      "Identitätstheorien",
+      "Identitätsverlust"
+    ],
+    "psych": [
+      "Psych",
+      "Psyche",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischen",
+      "Psychologischer",
+      "Psychologisches",
+      "Psychology"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungs",
+      "Handlungsentwicklung",
+      "Handlungsfähigkeit",
+      "Handlungsinstrument",
+      "Handlungsmustern",
+      "Handlungsort"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfluss",
+      "Informationslücken",
+      "Informationsphilosophie",
+      "Informationspräsentation",
+      "Informationssträngen",
+      "Informationsverarbeitung"
+    ],
+    "philo": [
+      "Philosophers",
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophischen",
+      "Philosophischer",
+      "Philosophisches",
+      "Philosophy"
+    ],
+    "roman": [
+      "Roman",
+      "Romance",
+      "RomanceBooks",
+      "Romans",
+      "Romantic",
+      "Romanuniversum",
+      "Romanuniversums",
+      "Romanwelt"
+    ],
+    "leser": [
+      "Leser",
+      "Leserbindung",
+      "Leserinteresses",
+      "Leserpsychologie",
+      "Leserpsychologische",
+      "Lesers",
+      "Leserzentrierte"
+    ],
+    "parad": [
+      "Paradigm",
+      "Paradigma",
+      "Paradigmen",
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "perso": [
+      "PERSONALITY",
+      "Person",
+      "Persona",
+      "Personal",
+      "Personalities",
+      "Personality",
+      "Personsein"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchsbereiche",
+      "Widersprüche",
+      "Widersprüchliche",
+      "Widerstand",
+      "Widerstands",
+      "Widerstandspunkt"
+    ],
+    "exist": [
+      "Existential",
+      "Existentialism",
+      "Existenz",
+      "Existenzialismus",
+      "Existenzielle",
+      "Existieren"
+    ],
+    "reali": [
+      "Realisierung",
+      "Realismus",
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätskomponenten"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbste",
+      "Selbstfokus",
+      "Selbstorganisation",
+      "Selbsttäuschung",
+      "Selbstverständnis"
+    ],
+    "spann": [
+      "Spann",
+      "Spannung",
+      "Spannungsaufbau",
+      "Spannungsfeld",
+      "Spannungsreduktion",
+      "Spannungssteuerung"
+    ],
+    "strat": [
+      "Strategie",
+      "Strategien",
+      "Strategisch",
+      "Strategische",
+      "Strategischer",
+      "Strategisches"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoreme",
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatic",
+      "Traumatische",
+      "Traumaüberwindung"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenbrüche",
+      "Zusammenfügens",
+      "Zusammenhang",
+      "Zusammenspiel"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachterabhängigkeit",
+      "Beobachters",
+      "Beobachtung",
+      "Beobachtungen"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschreibungsschwerpunkt",
+      "Beschränkungen"
+    ],
+    "cyber": [
+      "CYBERPUNK",
+      "Cyber",
+      "Cybernetics",
+      "Cyberpunk",
+      "Cyberspace"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Internal",
+      "Internet",
+      "Interpretation"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Arch",
+      "Archive"
+    ],
+    [
+      "Arch",
+      "ARCHIVES"
+    ],
+    [
+      "Arch",
+      "Research"
+    ],
+    [
+      "Arch",
+      "Archetype"
+    ],
+    [
+      "Arch",
+      "Archetypen"
+    ],
+    [
+      "Arch",
+      "Archetypes"
+    ],
+    [
+      "Arch",
+      "PhilArchive"
+    ],
+    [
+      "Arch",
+      "ResearchGate"
+    ],
+    [
+      "Auch",
+      "Auftauchen"
+    ],
+    [
+      "Auch",
+      "Eintauchen"
+    ],
+    [
+      "BESS",
+      "Bessel"
+    ],
+    [
+      "BOOK",
+      "Book"
+    ],
+    [
+      "BOOK",
+      "Books"
+    ],
+    [
+      "BOOK",
+      "Bookmarks"
+    ],
+    [
+      "BOOK",
+      "RomanceBooks"
+    ],
+    [
+      "Back",
+      "Feedback"
+    ],
+    [
+      "Back",
+      "Backstage"
+    ],
+    [
+      "Back",
+      "Flashback"
+    ],
+    [
+      "Back",
+      "Flashbacks"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ]
+  ]
+}

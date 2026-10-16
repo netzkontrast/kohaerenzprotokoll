@@ -1,0 +1,526 @@
+{
+  "document": "juna-v-exiliertes-ursprungs-ich",
+  "drive_id": "1Kd1GzGbaFDdN0FHZjBQXfPJ8-_CnxOahDfAKqbfL4fA",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Juna/V": {
+      "n": 38,
+      "n_including_compounds": 50,
+      "lines": [
+        13,
+        22,
+        41,
+        42,
+        46,
+        47,
+        55,
+        59,
+        61,
+        62,
+        63,
+        67,
+        71,
+        72,
+        83,
+        84,
+        115,
+        118,
+        122,
+        126,
+        128,
+        129,
+        137,
+        140,
+        141,
+        143,
+        161,
+        162,
+        173,
+        177,
+        184,
+        185,
+        197,
+        198,
+        200
+      ]
+    },
+    "Kael": {
+      "n": 32,
+      "n_including_compounds": 57,
+      "lines": [
+        22,
+        38,
+        40,
+        41,
+        42,
+        46,
+        47,
+        51,
+        61,
+        63,
+        67,
+        71,
+        72,
+        73,
+        81,
+        84,
+        115,
+        118,
+        128,
+        129,
+        137,
+        140,
+        141,
+        143,
+        161,
+        162,
+        172,
+        173,
+        177,
+        181,
+        183,
+        184,
+        185,
+        197,
+        198,
+        199,
+        200
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        40,
+        183
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        151,
+        155,
+        159,
+        185
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        84,
+        95
+      ]
+    },
+    "Exil": {
+      "n": 10,
+      "n_including_compounds": 23,
+      "lines": [
+        22,
+        41,
+        42,
+        55,
+        83,
+        84,
+        96,
+        98,
+        99,
+        122,
+        128,
+        129,
+        143,
+        151,
+        184,
+        197,
+        200,
+        204,
+        208,
+        231
+      ]
+    },
+    "Exilantin": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        84
+      ]
+    },
+    "Exilanten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        98,
+        99
+      ]
+    },
+    "Manager": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        42,
+        46,
+        51,
+        72,
+        98,
+        250
+      ]
+    },
+    "Feuerwehrmann": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        42,
+        47,
+        51,
+        83,
+        197
+      ]
+    },
+    "Feuerwehrmänner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Lasten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        59,
+        61,
+        63,
+        96
+      ]
+    },
+    "Innere Polarisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Bifurkationsereignis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        184
+      ]
+    },
+    "Ruf zur Ganzheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        81
+      ]
+    },
+    "Ruf zum Abenteuer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        81
+      ]
+    },
+    "Reintegration": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        84,
+        137,
+        185,
+        228
+      ]
+    },
+    "Herold": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        83
+      ]
+    },
+    "lebendiger MacGuffin": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        71
+      ]
+    },
+    "unzuverlässiger Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Gedächtnislücken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        72
+      ]
+    },
+    "Immanentes Exil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Transzendentes Exil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Bewusstseinsraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Mannigfaltigkeit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        183,
+        184
+      ]
+    },
+    "Internal Family Systems (IFS)": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        22,
+        34,
+        38,
+        94,
+        204,
+        212,
+        231
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        34,
+        38,
+        94,
+        204,
+        205,
+        206,
+        209,
+        210,
+        212,
+        231
+      ]
+    },
+    "IFS": {
+      "n": 13,
+      "n_including_compounds": 17,
+      "lines": [
+        22,
+        34,
+        38,
+        40,
+        59,
+        86,
+        94,
+        197,
+        204,
+        205,
+        207,
+        208,
+        211,
+        212,
+        231
+      ]
+    },
+    "ER=EPR": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        22,
+        155,
+        159,
+        187,
+        198,
+        250,
+        251,
+        252
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Wurmloch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Multiplizität": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        22,
+        133,
+        140,
+        141,
+        143,
+        200
+      ]
+    },
+    "Bifurkationstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170,
+        187
+      ]
+    },
+    "Systemtheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Phasenübergang": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        173
+      ]
+    },
+    "Kipppunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Bifurkationsparameter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Homöostase": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Topologischen Datenanalyse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "TDA": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        181,
+        185,
+        199
+      ]
+    },
+    "Seelenrückholung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Seelenanteil": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        98,
+        99
+      ]
+    },
+    "Immanenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        126
+      ]
+    },
+    "Transzendenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        126
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Benefizienz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        200
+      ]
+    },
+    "Paternalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    }
+  }
+}

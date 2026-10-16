@@ -1,0 +1,44 @@
+{
+  "document": "beyond-chatgpt-4-mind-bending-concepts-for-ai-powered-storyt",
+  "drive_id": "1IsM5y-OuxfMOrrjo2LBQNpLY7AThagsxlFZ0SmMVOMs",
+  "step": "probes",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 0,
+  "typographic_marks": 18,
+  "ascii_quotes": 54,
+  "inflection_families": {
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "story": [
+      "Story",
+      "Storytelling"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Story",
+      "Storytelling"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ]
+  ]
+}

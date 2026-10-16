@@ -1,0 +1,130 @@
+# every number stated in the census and note
+$ read.py --count "guided tour"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`guided tour` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "Think of"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Think of` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#2]
+$ read.py --count "Imagine"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Imagine` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#0]
+$ read.py --count "K1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K1` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#0]
+$ read.py --count "K0"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K0` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#0]
+$ read.py --count "Cohesion"
+whole word, case-sensitive     2
+whole word, case-insensitive   8
+including compounds            2
+
+`Cohesion` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#2]
+$ read.py --count "cohesion"
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`cohesion` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#6]
+$ read.py --count "Corrective Wavelet"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Corrective Wavelet` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "Corrective Wavelets"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Corrective Wavelets` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "correspondence check"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            3
+
+`correspondence check` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#2]
+$ read.py --count "Correspondence Check"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Correspondence Check` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "K₁"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`K₁` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#8]
+$ read.py --count "K₀"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`K₀` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#10]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kohärenz Protokoll` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#7]
+$ read.py --count "Genesis-Krise"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Genesis-Krise` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "internal coherence"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`internal coherence` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#3]
+$ read.py --count "external correspondence"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`external correspondence` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "TSDP"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`TSDP` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "Protocol Ontology"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Protocol Ontology` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ read.py --count "Dual Kernel Theory"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dual Kernel Theory` ^[understanding-kohaerenz-protokoll-the-art-of-sticking-togeth.md:#1]
+$ capture.py profile: 64 ascii quotes, 13 typographic marks (01-profile.txt)
+  typographic marks    13   ascii quotes 64
+stance_marker_count 4 = guided tour 1 + Think of 2 + Imagine 1

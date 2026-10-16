@@ -1,0 +1,287 @@
+{
+  "document": "arbeitshilfe-kohaerenz-protokoll-kapitel-2",
+  "drive_id": "1-O6wVH-IKxjj6mXYaAnKRewTwn9nwUiJiv7N65RD3Vo",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 84,
+  "backslash_escapes": 164,
+  "typographic_marks": 152,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "schwe": [
+      "Schwebe",
+      "Schweben",
+      "Schwebens",
+      "Schwelle",
+      "Schwellen",
+      "Schwellencharakter",
+      "Schwellenort",
+      "Schwellenübertritts",
+      "Schwere",
+      "Schwerelosigkeit",
+      "Schwerkraft",
+      "Schwerkraftverschiebungen"
+    ],
+    "syste": [
+      "System",
+      "Systemaktionen",
+      "Systemausfälle",
+      "Systemeingriffe",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systeminteraktionen",
+      "Systemintervention",
+      "Systeminterventionen",
+      "Systems",
+      "Systemwelt"
+    ],
+    "limin": [
+      "Limina",
+      "Liminal",
+      "LiminalSpace",
+      "Liminale",
+      "Liminalen",
+      "Liminality",
+      "Liminalität",
+      "Liminalitätstheorie",
+      "Liminas"
+    ],
+    "überg": [
+      "Übergang",
+      "Übergangs",
+      "Übergangsphase",
+      "Übergangsraum",
+      "Übergangsraums",
+      "Übergangsriten",
+      "Übergangsritus",
+      "Übergangstrauma",
+      "Übergänge"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrasten",
+      "Kontrasts",
+      "Kontrollbedürfnis",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterinteraktion",
+      "Charakterisierung",
+      "Charakteristika",
+      "Charakters"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativer"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabewältigung",
+      "Traumareaktion",
+      "Traumas",
+      "Traumata",
+      "Traumatic"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassung",
+      "Zusammenhang",
+      "Zusammenhänge",
+      "Zusammenkauern"
+    ],
+    "absch": [
+      "Abschließende",
+      "Abschluss",
+      "Abschnitt",
+      "Abschnitten",
+      "Abschnitts"
+    ],
+    "daten": [
+      "Daten",
+      "Datenstaub",
+      "Datenströme",
+      "Datensturm",
+      "Datensturms"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Gescheiterte",
+      "Geschichte",
+      "Geschmack",
+      "Geschmäcker"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitätsstruktur",
+      "Identitätsstörung",
+      "Identitätsverwirrung"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatry",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischer"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschleunigung",
+      "Beschreibung",
+      "Beschreibungen"
+    ],
+    "druck": [
+      "Druck",
+      "Druckempfindungen",
+      "Druckveränderungen",
+      "Druckänderungen"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle",
+      "Gefühlen",
+      "Gefühlsintrusionen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interpretation",
+      "Interpretationen",
+      "Interpretationsversuche"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtblitze",
+      "Lichter",
+      "Lichts"
+    ],
+    "schlü": [
+      "Schlüsselelement",
+      "Schlüsselmerkmale",
+      "Schlüsseltechnik",
+      "Schlüsseltechniken"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstempfinden",
+      "Selbstgefühl",
+      "Selbstseins"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturen",
+      "Strukturierungsversuche",
+      "Strukturlosigkeit"
+    ],
+    "subje": [
+      "Subjektive",
+      "Subjektiver",
+      "Subjektives",
+      "Subjektivität"
+    ],
+    "sympt": [
+      "Symptomatik",
+      "Symptome",
+      "Symptomen",
+      "Symptoms"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Informed"
+    ],
+    [
+      "Form",
+      "Formbarkeit"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Ausformulierung"
+    ],
+    [
+      "Form",
+      "Kerninformation"
+    ],
+    [
+      "Form",
+      "Informationsüberflutung"
+    ],
+    [
+      "Game",
+      "Games"
+    ],
+    [
+      "Hand",
+      "Handelns"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ]
+  ]
+}

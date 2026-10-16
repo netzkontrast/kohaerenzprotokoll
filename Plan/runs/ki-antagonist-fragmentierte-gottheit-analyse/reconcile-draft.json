@@ -1,0 +1,216 @@
+{
+  "document": "ki-antagonist-fragmentierte-gottheit-analyse",
+  "drive_id": "1VVO69Rh9H-FZECqJnlRvXqR6aq8exdweZGTODVc1THg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 68,
+    "decisions": 72,
+    "decided_by_lookup": 57,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        30,
+        56,
+        74,
+        84,
+        101,
+        161,
+        174,
+        186,
+        196,
+        199
+      ],
+      "attribution": "",
+      "note": "AEGIS read through trauma-psychology models"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        88,
+        90,
+        184
+      ],
+      "attribution": "",
+      "note": "Cerberus as functional psychosis"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        18,
+        22,
+        86
+      ],
+      "attribution": "",
+      "note": "the Genesis conflict as a lasting scar"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        80,
+        84,
+        151
+      ],
+      "attribution": "",
+      "note": "the Guardians as functional exiles"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        56,
+        147,
+        171,
+        174,
+        184,
+        186,
+        196,
+        199,
+        203
+      ],
+      "attribution": "",
+      "note": "Kael as the mirror of AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        88,
+        138,
+        139
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as prisons and sandboxes"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        174,
+        214
+      ],
+      "attribution": "",
+      "note": "a pathological Logos against Eros"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        171,
+        194,
+        214
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's path"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the Leere as source of a chaotic noise"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        147,
+        153
+      ],
+      "attribution": "",
+      "note": "Risse as failures of dissociative barriers"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "Selene as a possible bridge"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        32,
+        66,
+        74
+      ],
+      "attribution": "",
+      "note": "TSDP as the borrowed frame"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 138,
+      "decision": "occurrence",
+      "why": "signatures of high entropy in the general sense"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 18,
+      "decision": "reading",
+      "why": "the scar of the Genesis as AEGIS's core trauma"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 221,
+      "decision": "occurrence",
+      "why": "a reference-list title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "AEGIS's directive name"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 147,
+      "decision": "reading",
+      "why": "the Risse as failures of AEGIS's dissociative barriers"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 147,
+      "decision": "occurrence",
+      "why": "simulation inside the Risse phrase"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

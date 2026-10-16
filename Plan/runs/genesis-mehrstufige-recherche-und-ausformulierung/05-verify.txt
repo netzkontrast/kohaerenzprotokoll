@@ -1,0 +1,108 @@
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Stylistische Direktiven"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Stylistische Direktiven` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#13]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Spezifische Techniken/Beispiele"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Spezifische Techniken/Beispiele` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#13]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Dominante Stimmung/Atmosphäre"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Dominante Stimmung/Atmosphäre` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#13]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "NEUE Szene"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`NEUE Szene` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#3]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Resonanz"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            49
+
+`Resonanz` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#39]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Dissonanz"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Dissonanz` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#23]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Direktive 0"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Direktive 0` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#8]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Kohärenz Protokoll Gamma-Exekution"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll Gamma-Exekution` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#1]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Protokoll Gamma-Exekution"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Protokoll Gamma-Exekution` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#4]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#2]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Kohärenzprotokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenzprotokoll` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#0]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#0]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kernwelt` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#0]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Ich"
+whole word, case-sensitive     73
+whole word, case-insensitive   75
+including compounds            101
+
+`Ich` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#73]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Nutzen für Outline"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Nutzen für Outline` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#4]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Potenzielle Fallstricke"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Potenzielle Fallstricke` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#4]
+$ read.py genesis-mehrstufige-recherche-und-ausformulierung --count "Relevanz"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Relevanz` ^[genesis-mehrstufige-recherche-und-ausformulierung.md:#8]
+Sum stance_marker_count: 13+13+13+3 = 42
+Ich in vs word: 101-73 = 28 (04-counts.txt: Ich 73 word 101 in)
+Zeros in 04-counts.txt:
+0
+candidates: header of 04-counts.txt
+# counts for 89 candidates

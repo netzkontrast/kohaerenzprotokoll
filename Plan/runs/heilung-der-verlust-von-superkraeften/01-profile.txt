@@ -1,0 +1,14 @@
+# heilung-der-verlust-von-superkraeften
+  lines                254  (frontmatter ends at 9)
+  body words           4077
+  headings             13   bold-only lines 2
+  table rows           23   code fences 0
+  question marks       10
+  backslash escapes    104
+  typographic marks    28   ascii quotes 122
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    51
+  repeated labels      none
+  longest line         846 chars
+

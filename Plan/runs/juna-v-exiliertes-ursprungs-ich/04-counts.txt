@@ -1,0 +1,72 @@
+# counts for 49 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Juna/V                           38 word    50 in   [13, 22, 41, 42, 46, 47]
+                                   10      as Juna/Vs
+                                    1      as Juna/V-Transformation
+                                    1      as Juna/V-Exil-Teil
+  Kael                             32 word    57 in   [22, 38, 40, 41, 42, 46]
+                                   25      as Kaels
+  Ursprungs-Ich                     3 word     3 in   [22, 40, 183]
+  Moonshine-Link                    3 word     4 in   [151, 155, 159, 185]
+                                    1      as Moonshine-Links
+  Kern-Selbst                       3 word     3 in   [40, 84, 95]
+  Exil                             10 word    23 in   [22, 41, 42, 55, 83, 84]  <-- substring
+                                    4      as Exils
+                                    2      as exilierten
+                                    2      as Exilantin
+                                    2      as Exilanten
+  Exilantin                         2 word     2 in   [41, 84]
+  Exilanten                         2 word     2 in   [98, 99]
+  Manager                           7 word     8 in   [42, 46, 51, 72, 98, 250]
+                                    1      as Manager-
+  Feuerwehrmann                     5 word     8 in   [42, 47, 51, 83, 197]
+                                    1      as Feuerwehrmann-Teil
+                                    1      as Feuerwehrmann-Teile
+                                    1      as Feuerwehrmanns
+  Feuerwehrmänner                   1 word     1 in   [98]
+  Lasten                            5 word     5 in   [55, 59, 61, 63, 96]
+  Innere Polarisierung              1 word     1 in   [51]
+  Bifurkationsereignis              2 word     2 in   [166, 184]
+  Ruf zur Ganzheit                  2 word     2 in   [22, 81]
+  Ruf zum Abenteuer                 2 word     2 in   [22, 81]
+  Reintegration                     6 word     7 in   [84, 137, 185, 228]
+  Herold                            1 word     3 in   [83]  <-- substring
+                                    1      as Herolds
+                                    1      as Herolde
+  lebendiger MacGuffin              2 word     2 in   [67, 71]
+  unzuverlässiger Erzähler          1 word     1 in   [67]
+  Gedächtnislücken                  2 word     2 in   [46, 72]
+  Immanentes Exil                   1 word     1 in   [128]
+  Transzendentes Exil               1 word     1 in   [129]
+  funktionale Multiplizität         1 word     1 in   [200]
+  Ko-Bewusstsein                    1 word     1 in   [141]
+  Bewusstseinsraum                  1 word     1 in   [199]
+  Mannigfaltigkeit                  4 word     4 in   [183, 184]
+  Internal Family Systems (IFS)     6 word     7 in   [22, 34, 38, 94, 204, 212]
+  Internal Family Systems          11 word    11 in   [22, 34, 38, 94, 204, 205]
+  IFS                              13 word    17 in   [22, 34, 38, 40, 59, 86]
+  ER=EPR                            4 word     8 in   [22, 155, 159, 187, 198, 250]
+                                    3      as ER=EPR-Vermutung
+                                    1      as ER=EPR-Verbindung
+  Quantenverschränkung              1 word     1 in   [155]
+  Wurmloch                          1 word     1 in   [161]
+  Multiplizität                     9 word     9 in   [22, 133, 140, 141, 143, 200]
+  Bifurkationstheorie               2 word     2 in   [170, 187]
+  Systemtheorie                     1 word     1 in   [170]
+  Phasenübergang                    2 word     2 in   [173]
+  Kipppunkt                         1 word     1 in   [172]
+  Bifurkationsparameter             1 word     1 in   [172]
+  Homöostase                        1 word     1 in   [172]
+  Topologischen Datenanalyse        1 word     1 in   [181]
+  TDA                               3 word     4 in   [181, 185, 199]
+  Seelenrückholung                  1 word     1 in   [94]
+  Seelenanteil                      2 word     3 in   [96, 98, 99]
+                                    1      as Seelenanteils
+  Immanenz                          2 word     2 in   [122, 126]
+  Transzendenz                      2 word     2 in   [122, 126]
+  Heldenreise                       1 word     1 in   [77]
+  Benefizienz                       2 word     2 in   [141, 200]
+  Paternalismus                     1 word     1 in   [141]

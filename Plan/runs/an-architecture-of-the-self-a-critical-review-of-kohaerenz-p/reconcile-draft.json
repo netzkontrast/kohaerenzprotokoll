@@ -1,0 +1,169 @@
+{
+  "document": "an-architecture-of-the-self-a-critical-review-of-kohaerenz-p",
+  "drive_id": "17QM0GYTlId3U_iosLCEWCDLXCbGi_4WH2E8Sbd46RjE",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 45,
+    "decisions": 45,
+    "decided_by_lookup": 41,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        35,
+        59
+      ],
+      "attribution": "",
+      "note": "AEGIS as the review reports and judges it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review's account of the system of dissociated parts"
+    },
+    {
+      "page": "did",
+      "lines": [
+        77
+      ],
+      "attribution": "",
+      "note": "the review's strengths table names DID"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        5,
+        11,
+        36,
+        38,
+        46
+      ],
+      "attribution": "",
+      "note": "what the critical review reports of the protagonist and judges of the premise"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "the Core Worlds as a technique in the review"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the child-part)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the logician)"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the protector)"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the empath)"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        13
+      ],
+      "attribution": "",
+      "note": "the cracks in reality as the review reports them"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        44
+      ],
+      "attribution": "",
+      "note": "the review names the part with a role (the integrator)"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        5,
+        44,
+        57
+      ],
+      "attribution": "",
+      "note": "TSDP named as the condition and as the model of the parts"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 77,
+      "decision": "reading",
+      "why": "the strengths table's depiction of DID, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 1,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 9,
+      "decision": "occurrence",
+      "why": "generic simulation, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

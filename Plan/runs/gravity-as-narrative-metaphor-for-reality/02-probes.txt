@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      69
+  backslash escapes      177
+  typographic marks      39
+  ascii quotes           238
+
+# inflection families -- one term, several surfaces
+  psych    Psyche, Psychoanalytic, Psychological, Psychology, Psychotraumatology
+  coher    Coherence, Coherentism, Coherentist
+  compl    COMPLEXITY, Complex, Complexity
+  criti    Critical, Critics, Critique
+  force    Force, Forced, Forces
+  monst    Monster, Monstrous, MonstrousMoonshineandtheBlackHole
+  objec    Objective, Objectivity, Objects
+  physi    Physical, Physicist, Physics
+  relat    Related, Relative, Relativity
+  struc    Structural, Structure, Structured
+  syste    System, Systemic, Systems
+  theor    Theoretical, Theories, Theory
+  anoma    Anomalies, Anomalous
+  attra    Attractor, Attractors
+  autop    Autopoiesis, Autopoietic
+  bridg    Bridge, Bridging
+  chaos    CHAOS, Chaos
+  class    Classical, Classicality
+  conce    Concept, Concepts
+  conse    Consensus, Consequently
+  corre    Correlate, Correspondence
+  dimen    Dimensional, Dimensions
+  disso    Dissociation, Dissociative
+  emerg    Emergence, Emergent
+  entro    Entropic, Entropy
+
+# substring pairs -- never one term, often merged by accident
+  Flow < MathOverflow
+  Here < Coherence
+  Here < Coherentism
+  Here < Coherentist
+  Here < Decoherence
+  Hole < Holes
+  Hole < Wormhole
+  Hole < Wormholes
+  Hole < MonstrousMoonshineandtheBlackHole
+  Matt < Matter
+  PTSD < CPtsd
+  Part < Parts
+  Part < Bipartite
+  Part < Particular
+  SELF < Self
+  Time < Spacetime
+  Weak < Weakest
+  Weak < Weakling
+  Weak < Weakness
+  Black < MonstrousMoonshineandtheBlackHole

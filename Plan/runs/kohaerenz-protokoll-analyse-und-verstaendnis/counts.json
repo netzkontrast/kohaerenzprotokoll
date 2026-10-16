@@ -1,0 +1,563 @@
+{
+  "document": "kohaerenz-protokoll-analyse-und-verstaendnis",
+  "drive_id": "1GehDbl2CIZIr7lJJ8sFWF3dymlckaSoLSdXyB2Yae4Q",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        17,
+        236
+      ]
+    },
+    "Cache Coherence Protocol": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        236,
+        251,
+        255,
+        262,
+        275,
+        283,
+        285
+      ]
+    },
+    "Cache-Kohärenz": {
+      "n": 21,
+      "n_including_compounds": 36,
+      "lines": [
+        13,
+        17,
+        21,
+        25,
+        29,
+        47,
+        49,
+        51,
+        59,
+        61,
+        69,
+        71,
+        73,
+        89,
+        91,
+        176,
+        178,
+        180,
+        182,
+        184,
+        186,
+        188,
+        190,
+        192,
+        196,
+        219,
+        223,
+        230,
+        240,
+        244,
+        248,
+        277
+      ]
+    },
+    "Cache-Kohärenzprotokolle": {
+      "n": 10,
+      "n_including_compounds": 14,
+      "lines": [
+        17,
+        21,
+        29,
+        51,
+        59,
+        61,
+        69,
+        89,
+        91,
+        186,
+        196,
+        219,
+        240
+      ]
+    },
+    "Kohärenzprotokolle": {
+      "n": 5,
+      "n_including_compounds": 25,
+      "lines": [
+        11,
+        17,
+        21,
+        29,
+        51,
+        59,
+        61,
+        69,
+        89,
+        91,
+        163,
+        172,
+        176,
+        184,
+        186,
+        196,
+        215,
+        219,
+        240,
+        244
+      ]
+    },
+    "Dateninkonsistenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        21,
+        236
+      ]
+    },
+    "Shared Memory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        301
+      ]
+    },
+    "Cache-Zeile": {
+      "n": 14,
+      "n_including_compounds": 17,
+      "lines": [
+        63,
+        64,
+        78,
+        83,
+        91,
+        95,
+        104,
+        105,
+        106,
+        107,
+        117,
+        157,
+        190,
+        209,
+        236
+      ]
+    },
+    "Hauptspeicher": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        17,
+        21,
+        25,
+        63,
+        104,
+        105,
+        106,
+        107,
+        115,
+        157,
+        159,
+        201
+      ]
+    },
+    "Interconnect": {
+      "n": 2,
+      "n_including_compounds": 11,
+      "lines": [
+        25,
+        64,
+        65,
+        77,
+        168,
+        176,
+        200,
+        208,
+        227,
+        230
+      ]
+    },
+    "Snooping-basierte Protokolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        236
+      ]
+    },
+    "Verzeichnis-basierte Protokolle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        81,
+        236
+      ]
+    },
+    "Directory": {
+      "n": 15,
+      "n_including_compounds": 18,
+      "lines": [
+        66,
+        81,
+        83,
+        84,
+        85,
+        87,
+        167,
+        169,
+        171,
+        236,
+        283,
+        285
+      ]
+    },
+    "Home Node": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Snoop-Filter": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        210
+      ]
+    },
+    "Zustandsverfolgung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Kohärenz-Invarianten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Write-Invalidate-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Write-Update-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "MESI-Protokoll": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        63,
+        97,
+        99,
+        100,
+        111,
+        120
+      ]
+    },
+    "MESI": {
+      "n": 10,
+      "n_including_compounds": 21,
+      "lines": [
+        63,
+        78,
+        95,
+        97,
+        99,
+        100,
+        111,
+        120,
+        126,
+        152,
+        158,
+        159,
+        163,
+        172,
+        176,
+        240,
+        278
+      ]
+    },
+    "MSI": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        78,
+        95,
+        99,
+        156,
+        157,
+        176,
+        240
+      ]
+    },
+    "MOSI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        157,
+        158
+      ]
+    },
+    "MOESI": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        78,
+        95,
+        158,
+        240
+      ]
+    },
+    "MESIF": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        159,
+        240
+      ]
+    },
+    "Modified (M)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        138
+      ]
+    },
+    "Exclusive (E)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        105,
+        140
+      ]
+    },
+    "Shared (S)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        142
+      ]
+    },
+    "Invalid (I)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        107,
+        144
+      ]
+    },
+    "Bus Read (BusRd)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Bus Read Exclusive (BusRdX)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Flush / Writeback": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Invalidate Signal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        118
+      ]
+    },
+    "Token Coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        165,
+        240,
+        263
+      ]
+    },
+    "Delta Coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        166,
+        240,
+        291
+      ]
+    },
+    "Interconnect-Aware Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "WiDir": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        169,
+        227,
+        240,
+        285
+      ]
+    },
+    "POPS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        170,
+        292
+      ]
+    },
+    "Rainbow": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        171,
+        210,
+        240,
+        286,
+        293
+      ]
+    },
+    "RCP": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        172,
+        219,
+        240,
+        295
+      ]
+    },
+    "Reversible Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        172,
+        219,
+        294,
+        295,
+        296
+      ]
+    },
+    "Ghostwriter": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        173,
+        225,
+        240,
+        275
+      ]
+    },
+    "SELCC": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        174,
+        226,
+        240
+      ]
+    },
+    "Speicherkonsistenzmodell": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        180,
+        183,
+        240
+      ]
+    },
+    "Synchronisationsprimitive": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        186,
+        189,
+        190,
+        192,
+        211,
+        240
+      ]
+    },
+    "Approximative Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        225
+      ]
+    },
+    "Kohärenz für disaggregierten Speicher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Delegation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        167,
+        170,
+        209
+      ]
+    },
+    "Dekohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kohärenzfunktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        45
+      ]
+    },
+    "Skalierbarkeitsengpässe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    }
+  }
+}

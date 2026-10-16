@@ -1,0 +1,14 @@
+# aegis-singularitaet-jenseits-entropiegleichung-2
+  lines                571  (frontmatter ends at 9)
+  body words           14087
+  headings             27   bold-only lines 17
+  table rows           43   code fences 0
+  question marks       47
+  backslash escapes    451
+  typographic marks    46   ascii quotes 884
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    53
+  repeated labels      Konsistente AEGIS Perspektive & "Stimme" x13, Lyrische Kernideen/Fragestellungen x13, Narrative Phase (AEGIS' Perspektive) x13, Zentrale Metaphern/Motive (AEGIS' Sicht) x13
+  longest line         3107 chars
+

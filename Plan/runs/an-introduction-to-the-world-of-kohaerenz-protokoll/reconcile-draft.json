@@ -1,0 +1,106 @@
+{
+  "document": "an-introduction-to-the-world-of-kohaerenz-protokoll",
+  "drive_id": "1_LuDSyDJfgRC19qM1fL5OAKBkPOdI8mZdOAX8DLettk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 35,
+    "decisions": 33,
+    "decided_by_lookup": 23,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        51,
+        55,
+        59,
+        86
+      ],
+      "attribution": "",
+      "note": "the guide's AEGIS: Coherence-maker, artificial god, born of the void, blind to subjective experience"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        35,
+        45,
+        73
+      ],
+      "attribution": "",
+      "note": "the guide's Kael: a system of parts, structured by TSDP, whose integration is the goal"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        40
+      ],
+      "attribution": "",
+      "note": "the guide's ANP example"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the void AEGIS emerged from"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the guide's EP example"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the clinical frame the guide gives Kael's parts"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

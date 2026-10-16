@@ -1,0 +1,328 @@
+{
+  "document": "character-dossier-the-opposing-logics-of-kael-and-aegis",
+  "drive_id": "1D97MCQDmduffq9tOaVbHMglvm9bS7gHuSdIBcCFHzAA",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        11,
+        15,
+        46,
+        52,
+        54,
+        58,
+        66,
+        70,
+        76,
+        82,
+        86,
+        100,
+        102,
+        103,
+        104,
+        111
+      ]
+    },
+    "AEGIS": {
+      "n": 34,
+      "n_including_compounds": 34,
+      "lines": [
+        11,
+        15,
+        19,
+        21,
+        25,
+        27,
+        29,
+        33,
+        38,
+        42,
+        44,
+        46,
+        48,
+        54,
+        76,
+        82,
+        86,
+        96,
+        98,
+        99,
+        100,
+        103,
+        104,
+        105,
+        111
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Paradox of Misaligned Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Gödel Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "ontological exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "ontological blindness": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        38
+      ]
+    },
+    "operationally closed": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "relevance criteria": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "coherent": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        31,
+        33,
+        36,
+        46,
+        102
+      ]
+    },
+    "incoherent": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        46
+      ]
+    },
+    "perturbations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Co-consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "System Responsibility": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "rhizomatic self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        66
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        66
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "gentle explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "quarantine room": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "autopoietic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        88
+      ]
+    },
+    "Specification Gaming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Integrated Information Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90
+      ]
+    },
+    "IIT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Gödel's Incompleteness Theorems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "LFI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "paraconsistent": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        87,
+        105
+      ]
+    },
+    "dialetheic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Deleuze and Guattari": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    }
+  }
+}

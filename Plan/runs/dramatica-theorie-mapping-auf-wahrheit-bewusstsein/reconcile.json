@@ -1,0 +1,71 @@
+{
+  "document": "dramatica-theorie-mapping-auf-wahrheit-bewusstsein",
+  "drive_id": "1W8O7VabpQz8TBOYj0qnx2idrPSqhaLgKAWk3YYDwgBI",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a general research report that names no figure of the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 97,
+    "decisions": 89,
+    "decided_by_lookup": 79,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German research report mapping a narrative theory onto truth theories, a consciousness theory and a borrowed two-kernel information physics; it names no figure, place or term of the novel and says nothing a page needs, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a general research report: `Dual-Kernel-Theorie` and `DKT` a borrowed information-physics model attributed to a named researcher, not the novel's DKT; the throughline pairs the theory's own vocabulary",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "entropy in the general physical sense of the report's synthesis"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 157,
+      "decision": "occurrence",
+      "why": "a system boundary in the general sense of the report's theory"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "coherence in the general sense of truth theory"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 118,
+      "decision": "occurrence",
+      "why": "simulation in the general sense"
+    }
+  ],
+  "not_promoted": [
+    "everything — the report's mapping vocabulary and the borrowed concepts"
+  ],
+  "internal_tension": "none recorded; the report itself leaves two points open (L397, L398), recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

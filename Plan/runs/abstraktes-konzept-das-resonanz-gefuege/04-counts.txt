@@ -1,0 +1,30 @@
+# counts for 23 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Resonanz-Gefüge               3 word     3 in   [11, 15, 30]
+  Resonanz-Gefüge                   4 word     4 in   [11, 15, 21, 30]
+  Kohärenz Protokoll                2 word     2 in   [15, 30]
+  Kohärenz                          3 word     3 in   [15, 30]
+  Protokoll                         4 word     4 in   [15, 26, 30]
+  Resonanz                          3 word     7 in   [11, 15, 21, 25, 30]  <-- substring
+                                    4      as Resonanz-Gefüge
+  Gefüge                            1 word     5 in   [11, 15, 21, 26, 30]  <-- substring
+  AEGIS                             3 word     3 in   [15, 19, 25]
+  Kael                              1 word     1 in   [19]
+  Anteile                           1 word     2 in   [19, 25]
+                                    1      as Anteilen
+  Anteilen                          1 word     1 in   [25]
+  Juna/V                            2 word     2 in   [19, 25]
+  Juna                              2 word     2 in   [19, 25]
+  Fundament                         1 word     1 in   [19]
+  Kernwelten                        1 word     1 in   [19]
+  Heldenreisen                      1 word     1 in   [19]
+  theoretische Linsen               1 word     1 in   [19]
+  Emergenz                          1 word     1 in   [19]
+  Simulation                        1 word     1 in   [19]
+  Integration                       1 word     1 in   [19]
+  Isolation                         1 word     1 in   [19]
+  TSDP/IFS                          1 word     1 in   [19]
+  TSDP                              1 word     1 in   [19]

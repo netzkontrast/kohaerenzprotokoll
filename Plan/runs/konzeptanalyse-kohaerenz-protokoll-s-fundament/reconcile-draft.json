@@ -1,0 +1,193 @@
+{
+  "document": "konzeptanalyse-kohaerenz-protokoll-s-fundament",
+  "drive_id": "1tgps_pKrkJZM1D_spu9zq8xOT6rWigy64zL39NMi8rQ",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 65,
+    "decided_by_lookup": 50,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        33,
+        37,
+        42,
+        43,
+        44,
+        48,
+        136,
+        157,
+        177,
+        356
+      ],
+      "attribution": "",
+      "note": "AEGIS as existence through negation, with the analysis's hedges"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        87,
+        89,
+        93,
+        255,
+        330
+      ],
+      "attribution": "",
+      "note": "the Alters as the broken parts, with ANP and EP types hedged"
+    },
+    {
+      "page": "did",
+      "lines": [
+        82,
+        87,
+        88,
+        93
+      ],
+      "attribution": "",
+      "note": "DID as the direct result of AEGIS's analysis"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        127,
+        132,
+        158
+      ],
+      "attribution": "",
+      "note": "level 1 of the proposed hierarchy as emergence/definition"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        97,
+        101,
+        147,
+        207,
+        228
+      ],
+      "attribution": "",
+      "note": "Juna in the Kael-Juna connection, the K-J connection read as manifested Moonshine"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        78,
+        82,
+        88,
+        218,
+        354
+      ],
+      "attribution": "",
+      "note": "Kael as fragmented avatar and the battlefield of AEGIS against M"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        116,
+        120,
+        121,
+        122,
+        145
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as AEGIS's analytical laboratories"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        97,
+        106,
+        112,
+        161,
+        341
+      ],
+      "attribution": "",
+      "note": "the K-J connection as manifested Moonshine, and the metaphor's limit"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        23,
+        27,
+        28,
+        29,
+        131,
+        156
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as primordial ground and active pressure"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        208
+      ],
+      "attribution": "",
+      "note": "the K-J connection as a `Glitch` in AEGIS's matrix"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 132,
+      "decision": "reading",
+      "why": "level 1 of the hierarchy: M emerges from level 0; read on emergenz"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "the Potentialmeer's multiplicity, not functional multiplicity"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 126,
+      "decision": "occurrence",
+      "why": "levels of reality in a general sense"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

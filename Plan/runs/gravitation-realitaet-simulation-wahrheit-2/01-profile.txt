@@ -1,0 +1,14 @@
+# gravitation-realitaet-simulation-wahrheit-2
+  lines                389  (frontmatter ends at 9)
+  body words           3969
+  headings             27   bold-only lines 1
+  table rows           10   code fences 0
+  question marks       5
+  backslash escapes    46
+  typographic marks    180   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    33
+  repeated labels      none
+  longest line         800 chars
+

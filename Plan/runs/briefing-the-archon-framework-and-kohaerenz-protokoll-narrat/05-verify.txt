@@ -1,0 +1,47 @@
+$ read.py --count "Unresolved Thematic Tensions"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unresolved Thematic Tensions` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#1]
+$ read.py --count "posits"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`posits` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#2]
+$ read.py --count "proposed"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`proposed` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#2]
+$ read.py --count "canonical"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`canonical` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#1]
+$ read.py --count "Kanonisch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kanonisch` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#1]
+$ read.py --count "Kael"
+whole word, case-sensitive     26
+whole word, case-insensitive   26
+including compounds            26
+
+`Kael` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#26]
+$ read.py --count "Lex"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lex` ^[briefing-the-archon-framework-and-kohaerenz-protokoll-narrat.md:#2]
+$ eleven alters: table rows L84-L94 by grep
+11
+stance_marker_count 7 = 1+2+2+1+1 (Unresolved Thematic Tensions, posits, proposed, canonical, Kanonisch)
+$ grep -c "?" 
+1

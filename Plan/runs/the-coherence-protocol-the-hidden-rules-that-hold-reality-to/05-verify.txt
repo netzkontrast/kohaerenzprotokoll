@@ -1,0 +1,13 @@
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "speculative framework"  -> 1
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "novel concepts"  -> 1
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "posits"  -> 1
+stance_marker_count 3 = 1+1+1
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "Kap"  -> 0 (case-sensitive and insensitive)
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "Coherence Protocol"  -> 5 case-sensitive, 6 including compounds
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "decoherence"  -> 1 case-sensitive, 3 case-insensitive
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "Self-Organization"  -> 1 case-sensitive, 2 case-insensitive
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "K₁"  -> 3 / 4 with compounds
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "K₀"  -> 3 / 4 with compounds
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "reversible computation"  -> 1 / 2
+python3 scripts/read.py the-coherence-protocol-the-hidden-rules-that-hold-reality-to --count "Cache Coherence Protocols"  -> 1
+census profile: 24 backslash escapes, 1 question mark (01-profile.txt)

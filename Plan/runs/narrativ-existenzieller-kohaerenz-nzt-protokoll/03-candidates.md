@@ -1,0 +1,78 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a research report that names no figure, place or event of the novel; it works on an abstract premise it calls a narrative framework. Its own terms are the five components of that premise (Entität, Raum, Protagonist, Verbindung, Kernspannung) and the "Äußere"; everything else is a borrowed concept applied to them, listed under the lens heading. Person-named concepts are kept only as concepts. Suspended or inflected forms are written as the lines write them.
+
+- Entität
+- Potentialität
+- Äußere
+- Risse
+- Verbindung
+- Kernspannung
+- Protagonist
+- Grenze
+- Interface
+- Narrativ Existenzieller Kohärenz
+- NZT-Protokoll Σ
+- Forschungsmandat
+- Das Interface/Der Protagonist
+- Die Entität & Ihr Raum
+- Leitfragen
+- Tiefenrecherche
+- Basisrealität
+
+## lens
+
+- Autopoiesis
+- Autopoiese
+- operationale Geschlossenheit
+- strukturelle Kopplung
+- Selbstorganisation
+- Quantenverschränkung
+- Verschränkung
+- Nichtlokalität
+- Quanten-Nichtlokalität
+- No-Communication Theorem
+- Prehension
+- Konkreszenz
+- ewige Objekte
+- aktualer Ereignisse
+- aktualen Ereignissen
+- Prozessphilosophie
+- Śūnyatā
+- Pratītyasamutpāda
+- Brahman
+- Maya
+- Atman
+- Advaita Vedanta
+- Madhyamaka
+- Parakonsistente Logik
+- parakonsistente Logik
+- Dialetheismus
+- Gödel'sche Sätze
+- Emergenz
+- Downward Causation
+- Seltsame Attraktoren
+- Chaostheorie
+- Dissoziation
+- Liminalität
+- Communitas
+- Schwellenkonzepte
+- Schwellenkonzept
+- Trickster-Archetyp
+- Trickster
+- Schatten
+- Synchronizität
+- Strukturelle Resonanz
+- Kolmogorov-Komplexität
+- Landauer's Prinzip
+- Entropie
+- Thermodynamik
+- Kognitive Dissonanz
+- Narrative Identität
+- Simulationstheorie
+- Netzwerktheorie
+- Vakuumfluktuationen
+- Nullpunktenergie
+- Multiversum
+- Qualia
+- Lucas-Penrose

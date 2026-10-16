@@ -1,0 +1,102 @@
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Schlüsselwörter"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Schlüsselwörter` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#4]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#0]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#0]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Protagonist"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            36
+
+`Protagonist` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#4]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Entität"
+whole word, case-sensitive     54
+whole word, case-insensitive   54
+including compounds            54
+
+`Entität` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#54]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "kontrollierenden Entität"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`kontrollierenden Entität` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#4]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Simulierenden Entität"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Simulierenden Entität` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#4]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Verbindung zum Fundament/Leere"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Verbindung zum Fundament/Leere` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#5]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Genesis"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Genesis` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#5]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "ontologischen Bruch"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`ontologischen Bruch` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#0]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "ontologischen Bruchs"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ontologischen Bruchs` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#1]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#1]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Simulationshypothese"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Simulationshypothese` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#2]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "SimulationTheory"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`SimulationTheory` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#2]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Simulationsgrenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Simulationsgrenzen` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#1]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Demiurgen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Demiurgen` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#3]
+$ read.py trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do --count "Gaslightings"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gaslightings` ^[trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md:#2]

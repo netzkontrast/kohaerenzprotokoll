@@ -1,0 +1,72 @@
+{
+  "document": "dramaturgical-precision-deconstructing-the-irreversible-conf",
+  "drive_id": "1ST5T0jx_MbSP6DZND7zKKK75WLlqQLeOj3rUx5y5mOM",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 10,
+  "backslash_escapes": 0,
+  "typographic_marks": 18,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "chapt": [
+      "Chapter",
+      "Chapters"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "logic": [
+      "Logic",
+      "Logics"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Lure",
+      "Failure"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Chapter",
+      "Chapters"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Construct",
+      "Deconstructing"
+    ],
+    [
+      "Consistency",
+      "Inconsistency"
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a numbered outline of 39 chapters in three parts, each part with a genre focus and a theme. The numbered lists restart at 1 in each part in the export, so the chapter numbers 1-13, 14-26 and 27-39 stand only in the part headings. Chapter titles are set in bold and are listed as the document writes them. Names of philosophical or mathematical frames appear in parentheses after chapters; they are listed under lens in the document's own wording, without the thinkers' names where a bare term stands.
+
+- Kael
+- Juna
+- AEGIS
+- Konstrukt-Stadt
+- Stadt
+- Mosaik-Herz
+- PSM
+- Phänomenales Selbstmodell
+- PSM (Phänomenales Selbstmodell)
+- Technischen Dossiers
+- Protokoll
+- Kohärenz
+- Membran
+- Rauschen
+- Konstrukt
+- Der Erwachen-Zyklus
+- Geometrie der Isolation
+- Das flüchtige Echo
+- Die unentscheidbare Zone
+- Das Rauschen von AEGIS
+- Sprachliche Schatten
+- Der Riss im Kontinuum
+- Russellsche Trümmer
+- Phantomschmerz der Identität
+- Gravitationsanomalien
+- Grenzsituationen
+- Der blinde Fleck des Selbst
+- Der erste Zusammenbruch
+- Das Archiv der Grenzen
+- Turing-Mechanik
+- Die Diktatur der Komplexität
+- Phaenomena
+- Noumena
+- Das Qualia-Informationsparadox
+- Chaitins Konstante
+- Schwarze Löcher der Information
+- Das konstruierte Narrativ
+- Die Planck-Barriere
+- Symmetriebruch
+- Epigenetische Geister
+- Das Protokoll der Kohärenz
+- Junas Demaskierung
+- Der Sprung ins Nichts
+- Sein zum Tode
+- Die Auflösung der Membran
+- Der Schiffbruch des Denkens
+- Entropische Akzeptanz
+- Die Chiffren der Realität
+- Jenseits des Ereignishorizonts
+- Das Mosaik-Herz
+- Das Ende der Subjekt-Objekt-Spaltung
+- Der Spiegel-Effekt
+- Das absolute Limit
+- Fusion der Ebenen
+- Statusbericht
+- Zielkohärenz
+- Erfahrung des Horrors
+- Erkenntnis der Systemik
+- existenziellen Fusion
+- Hard Sci-Fi Horror
+- Technothriller
+- Metaphysische Sci-Fi
+
+## lens
+
+- Unvollständigkeit
+- Grenze des Sagbaren
+- Mengen-Paradoxon
+- Halteproblem
+- universelle Turingmaschine
+- Ding an sich
+- Kontingenz
+- Entropie
+- Transzendenz

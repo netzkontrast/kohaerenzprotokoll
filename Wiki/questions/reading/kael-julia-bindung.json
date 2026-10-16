@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kael-julia-bindung",
+ "title": "Kael-Julia-Bindung",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status einer gesetzten Projektprämisse",
+  "Bindung als fundamentale Struktur",
+  "Unterschied zwischen physikalischem Fortbestand und Beziehung",
+  "Möglichkeit von Distanz trotz Verbindung",
+  "Gegenseitigkeit ohne Rettungszwang"
+ ],
+ "basis": {
+  "kael-julia-bindung": {
+   "title": "Kael-Julia-Bindung",
+   "path": "Wiki/candidates/kael-julia-bindung.md",
+   "hash": "c1e85963cb0f24fc59c7957f82c90f13b1daf92dc7ff897fe04e96b2843ecf06"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "negentropie": {
+   "title": "Negentropie",
+   "path": "Wiki/candidates/negentropie.md",
+   "hash": "d8946392e840d2a9fbb4349001cf9cf7adf9d112058bfc231a5a5370c173e472"
+  },
+  "trennungsprotokoll": {
+   "title": "Trennungsprotokoll",
+   "path": "Wiki/candidates/trennungsprotokoll.md",
+   "hash": "33c7084360ab2602ba3969b0722bf09d92e20952f7cbcc9235d8a3bbb5ca3bfc"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kael-julia-bindung-001",
+   "question": "Wie kann eine fundamentale Bindung fortbestehen, während ihre beiden Beteiligten unterschiedliche Wünsche und Grenzen entwickeln?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-002",
+   "question": "Welche Lesarten auf der Seite zu Kael-Julia-Bindung stützen oder begrenzen „Status einer gesetzten Projektprämisse“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-003",
+   "question": "Welcher Grenzfall würde bei Kael-Julia-Bindung die Annahmen über „Status einer gesetzten Projektprämisse“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-004",
+   "question": "Wer könnte innerhalb des Romans bei Kael-Julia-Bindung etwas über „Status einer gesetzten Projektprämisse“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-005",
+   "question": "Welche konkrete Entscheidung könnte „Status einer gesetzten Projektprämisse“ bei Kael-Julia-Bindung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status einer gesetzten Projektprämisse“ bei Kael-Julia-Bindung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-007",
+   "question": "Wie lässt sich „Status einer gesetzten Projektprämisse“ bei Kael-Julia-Bindung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-008",
+   "question": "Welche Alternativen sollte der Autor bei Kael-Julia-Bindung für „Status einer gesetzten Projektprämisse“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-009",
+   "question": "Was bedeutet bei Kael-Julia-Bindung der Themenpunkt „Bindung als fundamentale Struktur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-010",
+   "question": "Welche Lesarten auf der Seite zu Kael-Julia-Bindung stützen oder begrenzen „Bindung als fundamentale Struktur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-011",
+   "question": "Welcher Grenzfall würde bei Kael-Julia-Bindung die Annahmen über „Bindung als fundamentale Struktur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-012",
+   "question": "Wer könnte innerhalb des Romans bei Kael-Julia-Bindung etwas über „Bindung als fundamentale Struktur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-013",
+   "question": "Welche konkrete Entscheidung könnte „Bindung als fundamentale Struktur“ bei Kael-Julia-Bindung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bindung als fundamentale Struktur“ bei Kael-Julia-Bindung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-015",
+   "question": "Wie lässt sich „Bindung als fundamentale Struktur“ bei Kael-Julia-Bindung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-016",
+   "question": "Welche Alternativen sollte der Autor bei Kael-Julia-Bindung für „Bindung als fundamentale Struktur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-017",
+   "question": "Was bedeutet bei Kael-Julia-Bindung der Themenpunkt „Unterschied zwischen physikalischem Fortbestand und Beziehung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-018",
+   "question": "Welche Lesarten auf der Seite zu Kael-Julia-Bindung stützen oder begrenzen „Unterschied zwischen physikalischem Fortbestand und Beziehung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-019",
+   "question": "Welcher Grenzfall würde bei Kael-Julia-Bindung die Annahmen über „Unterschied zwischen physikalischem Fortbestand und Beziehung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-020",
+   "question": "Wer könnte innerhalb des Romans bei Kael-Julia-Bindung etwas über „Unterschied zwischen physikalischem Fortbestand und Beziehung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen physikalischem Fortbestand und Beziehung“ bei Kael-Julia-Bindung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen physikalischem Fortbestand und Beziehung“ bei Kael-Julia-Bindung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-023",
+   "question": "Wie lässt sich „Unterschied zwischen physikalischem Fortbestand und Beziehung“ bei Kael-Julia-Bindung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-024",
+   "question": "Welche Alternativen sollte der Autor bei Kael-Julia-Bindung für „Unterschied zwischen physikalischem Fortbestand und Beziehung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-025",
+   "question": "Was bedeutet bei Kael-Julia-Bindung der Themenpunkt „Möglichkeit von Distanz trotz Verbindung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-026",
+   "question": "Welche Lesarten auf der Seite zu Kael-Julia-Bindung stützen oder begrenzen „Möglichkeit von Distanz trotz Verbindung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-027",
+   "question": "Welcher Grenzfall würde bei Kael-Julia-Bindung die Annahmen über „Möglichkeit von Distanz trotz Verbindung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-028",
+   "question": "Wer könnte innerhalb des Romans bei Kael-Julia-Bindung etwas über „Möglichkeit von Distanz trotz Verbindung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-029",
+   "question": "Welche konkrete Entscheidung könnte „Möglichkeit von Distanz trotz Verbindung“ bei Kael-Julia-Bindung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Möglichkeit von Distanz trotz Verbindung“ bei Kael-Julia-Bindung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-031",
+   "question": "Wie lässt sich „Möglichkeit von Distanz trotz Verbindung“ bei Kael-Julia-Bindung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-032",
+   "question": "Welche Alternativen sollte der Autor bei Kael-Julia-Bindung für „Möglichkeit von Distanz trotz Verbindung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-033",
+   "question": "Was bedeutet bei Kael-Julia-Bindung der Themenpunkt „Gegenseitigkeit ohne Rettungszwang“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-034",
+   "question": "Welche Lesarten auf der Seite zu Kael-Julia-Bindung stützen oder begrenzen „Gegenseitigkeit ohne Rettungszwang“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-035",
+   "question": "Welcher Grenzfall würde bei Kael-Julia-Bindung die Annahmen über „Gegenseitigkeit ohne Rettungszwang“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-036",
+   "question": "Wer könnte innerhalb des Romans bei Kael-Julia-Bindung etwas über „Gegenseitigkeit ohne Rettungszwang“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-037",
+   "question": "Welche konkrete Entscheidung könnte „Gegenseitigkeit ohne Rettungszwang“ bei Kael-Julia-Bindung in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gegenseitigkeit ohne Rettungszwang“ bei Kael-Julia-Bindung haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-039",
+   "question": "Wie lässt sich „Gegenseitigkeit ohne Rettungszwang“ bei Kael-Julia-Bindung zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-040",
+   "question": "Welche Alternativen sollte der Autor bei Kael-Julia-Bindung für „Gegenseitigkeit ohne Rettungszwang“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-041",
+   "question": "Wo unterscheiden sich Kael-Julia-Bindung und Kael, wenn man sie unter dem Gesichtspunkt „Status einer gesetzten Projektprämisse“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-042",
+   "question": "Welche Quelle verbindet Kael-Julia-Bindung mit Kael in Bezug auf „Status einer gesetzten Projektprämisse“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-043",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Kael-Julia-Bindung unter „Status einer gesetzten Projektprämisse“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-044",
+   "question": "Wie könnte sich das Wissen über Kael-Julia-Bindung vom Wissen über Kael unterscheiden, wenn „Status einer gesetzten Projektprämisse“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael-Julia-Bindung und Kael bei „Status einer gesetzten Projektprämisse“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-046",
+   "question": "Falls Kael-Julia-Bindung im Hinblick auf „Status einer gesetzten Projektprämisse“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael-Julia-Bindung und Kael bei „Status einer gesetzten Projektprämisse“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-048",
+   "question": "Braucht der Roman eine Verbindung von Kael-Julia-Bindung und Kael bei „Status einer gesetzten Projektprämisse“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-049",
+   "question": "In welchem denkbaren Fall könnte Kael-Julia-Bindung bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Status einer gesetzten Projektprämisse“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kael-Julia-Bindung und Kael in Bezug auf „Status einer gesetzten Projektprämisse“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-051",
+   "question": "Welche ältere Lesart von Kael-Julia-Bindung oder Kael könnte die Gegenüberstellung unter „Status einer gesetzten Projektprämisse“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael-Julia-Bindung und Kael unter „Status einer gesetzten Projektprämisse“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kael-julia-bindung",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-053",
+   "question": "Wo unterscheiden sich Kael-Julia-Bindung und Juna, wenn man sie unter dem Gesichtspunkt „Bindung als fundamentale Struktur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-054",
+   "question": "Welche Quelle verbindet Kael-Julia-Bindung mit Juna in Bezug auf „Bindung als fundamentale Struktur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-055",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Kael-Julia-Bindung unter „Bindung als fundamentale Struktur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-056",
+   "question": "Wie könnte sich das Wissen über Kael-Julia-Bindung vom Wissen über Juna unterscheiden, wenn „Bindung als fundamentale Struktur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael-Julia-Bindung und Juna bei „Bindung als fundamentale Struktur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-058",
+   "question": "Falls Kael-Julia-Bindung im Hinblick auf „Bindung als fundamentale Struktur“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael-Julia-Bindung und Juna bei „Bindung als fundamentale Struktur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-060",
+   "question": "Braucht der Roman eine Verbindung von Kael-Julia-Bindung und Juna bei „Bindung als fundamentale Struktur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-061",
+   "question": "In welchem denkbaren Fall könnte Kael-Julia-Bindung bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Bindung als fundamentale Struktur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kael-Julia-Bindung und Juna in Bezug auf „Bindung als fundamentale Struktur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-063",
+   "question": "Welche ältere Lesart von Kael-Julia-Bindung oder Juna könnte die Gegenüberstellung unter „Bindung als fundamentale Struktur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael-Julia-Bindung und Juna unter „Bindung als fundamentale Struktur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kael-julia-bindung",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-065",
+   "question": "Wo unterscheiden sich Kael-Julia-Bindung und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen physikalischem Fortbestand und Beziehung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-066",
+   "question": "Welche Quelle verbindet Kael-Julia-Bindung mit Moonshine-Link in Bezug auf „Unterschied zwischen physikalischem Fortbestand und Beziehung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-067",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Kael-Julia-Bindung unter „Unterschied zwischen physikalischem Fortbestand und Beziehung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-068",
+   "question": "Wie könnte sich das Wissen über Kael-Julia-Bindung vom Wissen über Moonshine-Link unterscheiden, wenn „Unterschied zwischen physikalischem Fortbestand und Beziehung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael-Julia-Bindung und Moonshine-Link bei „Unterschied zwischen physikalischem Fortbestand und Beziehung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-070",
+   "question": "Falls Kael-Julia-Bindung im Hinblick auf „Unterschied zwischen physikalischem Fortbestand und Beziehung“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael-Julia-Bindung und Moonshine-Link bei „Unterschied zwischen physikalischem Fortbestand und Beziehung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-072",
+   "question": "Braucht der Roman eine Verbindung von Kael-Julia-Bindung und Moonshine-Link bei „Unterschied zwischen physikalischem Fortbestand und Beziehung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-073",
+   "question": "In welchem denkbaren Fall könnte Kael-Julia-Bindung bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen physikalischem Fortbestand und Beziehung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kael-Julia-Bindung und Moonshine-Link in Bezug auf „Unterschied zwischen physikalischem Fortbestand und Beziehung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-075",
+   "question": "Welche ältere Lesart von Kael-Julia-Bindung oder Moonshine-Link könnte die Gegenüberstellung unter „Unterschied zwischen physikalischem Fortbestand und Beziehung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael-Julia-Bindung und Moonshine-Link unter „Unterschied zwischen physikalischem Fortbestand und Beziehung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kael-julia-bindung",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-077",
+   "question": "Wo unterscheiden sich Kael-Julia-Bindung und Negentropie, wenn man sie unter dem Gesichtspunkt „Möglichkeit von Distanz trotz Verbindung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-078",
+   "question": "Welche Quelle verbindet Kael-Julia-Bindung mit Negentropie in Bezug auf „Möglichkeit von Distanz trotz Verbindung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-079",
+   "question": "Welche Grenzen aus der Seite zu Negentropie müsste eine Deutung von Kael-Julia-Bindung unter „Möglichkeit von Distanz trotz Verbindung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-080",
+   "question": "Wie könnte sich das Wissen über Kael-Julia-Bindung vom Wissen über Negentropie unterscheiden, wenn „Möglichkeit von Distanz trotz Verbindung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael-Julia-Bindung und Negentropie bei „Möglichkeit von Distanz trotz Verbindung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-082",
+   "question": "Falls Kael-Julia-Bindung im Hinblick auf „Möglichkeit von Distanz trotz Verbindung“ anders festgelegt wird: Welche Aussagen über Negentropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael-Julia-Bindung und Negentropie bei „Möglichkeit von Distanz trotz Verbindung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-084",
+   "question": "Braucht der Roman eine Verbindung von Kael-Julia-Bindung und Negentropie bei „Möglichkeit von Distanz trotz Verbindung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-085",
+   "question": "In welchem denkbaren Fall könnte Kael-Julia-Bindung bestehen, ohne dass Negentropie dieselbe Funktion übernimmt, und was würde das für „Möglichkeit von Distanz trotz Verbindung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kael-Julia-Bindung und Negentropie in Bezug auf „Möglichkeit von Distanz trotz Verbindung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-087",
+   "question": "Welche ältere Lesart von Kael-Julia-Bindung oder Negentropie könnte die Gegenüberstellung unter „Möglichkeit von Distanz trotz Verbindung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael-Julia-Bindung und Negentropie unter „Möglichkeit von Distanz trotz Verbindung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kael-julia-bindung",
+    "negentropie"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-089",
+   "question": "Wo unterscheiden sich Kael-Julia-Bindung und Trennungsprotokoll, wenn man sie unter dem Gesichtspunkt „Gegenseitigkeit ohne Rettungszwang“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-090",
+   "question": "Welche Quelle verbindet Kael-Julia-Bindung mit Trennungsprotokoll in Bezug auf „Gegenseitigkeit ohne Rettungszwang“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-091",
+   "question": "Welche Grenzen aus der Seite zu Trennungsprotokoll müsste eine Deutung von Kael-Julia-Bindung unter „Gegenseitigkeit ohne Rettungszwang“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-092",
+   "question": "Wie könnte sich das Wissen über Kael-Julia-Bindung vom Wissen über Trennungsprotokoll unterscheiden, wenn „Gegenseitigkeit ohne Rettungszwang“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kael-Julia-Bindung und Trennungsprotokoll bei „Gegenseitigkeit ohne Rettungszwang“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-094",
+   "question": "Falls Kael-Julia-Bindung im Hinblick auf „Gegenseitigkeit ohne Rettungszwang“ anders festgelegt wird: Welche Aussagen über Trennungsprotokoll müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kael-Julia-Bindung und Trennungsprotokoll bei „Gegenseitigkeit ohne Rettungszwang“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-096",
+   "question": "Braucht der Roman eine Verbindung von Kael-Julia-Bindung und Trennungsprotokoll bei „Gegenseitigkeit ohne Rettungszwang“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-097",
+   "question": "In welchem denkbaren Fall könnte Kael-Julia-Bindung bestehen, ohne dass Trennungsprotokoll dieselbe Funktion übernimmt, und was würde das für „Gegenseitigkeit ohne Rettungszwang“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kael-Julia-Bindung und Trennungsprotokoll in Bezug auf „Gegenseitigkeit ohne Rettungszwang“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-099",
+   "question": "Welche ältere Lesart von Kael-Julia-Bindung oder Trennungsprotokoll könnte die Gegenüberstellung unter „Gegenseitigkeit ohne Rettungszwang“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-kael-julia-bindung-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kael-Julia-Bindung und Trennungsprotokoll unter „Gegenseitigkeit ohne Rettungszwang“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kael-julia-bindung",
+    "trennungsprotokoll"
+   ]
+  }
+ ]
+}

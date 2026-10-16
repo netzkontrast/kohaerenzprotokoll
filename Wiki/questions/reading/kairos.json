@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kairos",
+ "title": "Kairos",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Verwaltung von Zeit und Möglichkeiten",
+  "Grenze zulässiger Zukunftsvariation",
+  "Wissen über alternative Verläufe",
+  "Preis einer verpassten Gelegenheit",
+  "Zeitwahrnehmung im Übergang"
+ ],
+ "basis": {
+  "kairos": {
+   "title": "Kairos",
+   "path": "Wiki/candidates/kairos.md",
+   "hash": "2099c0dd38293e1872cce73804dca00de1d1937a389fb2450a3b4f7b5f64a9b6"
+  },
+  "atemporalitaet": {
+   "title": "Atemporalität",
+   "path": "Wiki/candidates/atemporalitaet.md",
+   "hash": "14b4b5f52007a37646a202ac97f2543e4ad19fca8a3d5d317831e1102305b681"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "moeglichkeits-garten": {
+   "title": "Möglichkeits-Garten",
+   "path": "Wiki/candidates/moeglichkeits-garten.md",
+   "hash": "e693bd36f30be04233b018d4241e0e1e0896eefac7d4d4dc4b5e194352c9fe6c"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "persistenzgleichung": {
+   "title": "Persistenzgleichung",
+   "path": "Wiki/candidates/persistenzgleichung.md",
+   "hash": "36633bdf956587b0c45d44f68aed672cecbce56d5f854b7f6c5b96a36a840a0f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kairos-001",
+   "question": "Was darf Kairos an einem möglichen Verlauf ändern, und welchen Preis zahlt jemand für diese Veränderung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-002",
+   "question": "Welche Lesarten auf der Seite zu Kairos stützen oder begrenzen „Verwaltung von Zeit und Möglichkeiten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-003",
+   "question": "Welcher Grenzfall würde bei Kairos die Annahmen über „Verwaltung von Zeit und Möglichkeiten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-004",
+   "question": "Wer könnte innerhalb des Romans bei Kairos etwas über „Verwaltung von Zeit und Möglichkeiten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-005",
+   "question": "Welche konkrete Entscheidung könnte „Verwaltung von Zeit und Möglichkeiten“ bei Kairos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwaltung von Zeit und Möglichkeiten“ bei Kairos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-007",
+   "question": "Wie lässt sich „Verwaltung von Zeit und Möglichkeiten“ bei Kairos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-008",
+   "question": "Welche Alternativen sollte der Autor bei Kairos für „Verwaltung von Zeit und Möglichkeiten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-009",
+   "question": "Was bedeutet bei Kairos der Themenpunkt „Grenze zulässiger Zukunftsvariation“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-010",
+   "question": "Welche Lesarten auf der Seite zu Kairos stützen oder begrenzen „Grenze zulässiger Zukunftsvariation“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-011",
+   "question": "Welcher Grenzfall würde bei Kairos die Annahmen über „Grenze zulässiger Zukunftsvariation“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-012",
+   "question": "Wer könnte innerhalb des Romans bei Kairos etwas über „Grenze zulässiger Zukunftsvariation“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-013",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zulässiger Zukunftsvariation“ bei Kairos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zulässiger Zukunftsvariation“ bei Kairos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-015",
+   "question": "Wie lässt sich „Grenze zulässiger Zukunftsvariation“ bei Kairos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-016",
+   "question": "Welche Alternativen sollte der Autor bei Kairos für „Grenze zulässiger Zukunftsvariation“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-017",
+   "question": "Was bedeutet bei Kairos der Themenpunkt „Wissen über alternative Verläufe“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-018",
+   "question": "Welche Lesarten auf der Seite zu Kairos stützen oder begrenzen „Wissen über alternative Verläufe“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-019",
+   "question": "Welcher Grenzfall würde bei Kairos die Annahmen über „Wissen über alternative Verläufe“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-020",
+   "question": "Wer könnte innerhalb des Romans bei Kairos etwas über „Wissen über alternative Verläufe“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-021",
+   "question": "Welche konkrete Entscheidung könnte „Wissen über alternative Verläufe“ bei Kairos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen über alternative Verläufe“ bei Kairos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-023",
+   "question": "Wie lässt sich „Wissen über alternative Verläufe“ bei Kairos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-024",
+   "question": "Welche Alternativen sollte der Autor bei Kairos für „Wissen über alternative Verläufe“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-025",
+   "question": "Was bedeutet bei Kairos der Themenpunkt „Preis einer verpassten Gelegenheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-026",
+   "question": "Welche Lesarten auf der Seite zu Kairos stützen oder begrenzen „Preis einer verpassten Gelegenheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-027",
+   "question": "Welcher Grenzfall würde bei Kairos die Annahmen über „Preis einer verpassten Gelegenheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-028",
+   "question": "Wer könnte innerhalb des Romans bei Kairos etwas über „Preis einer verpassten Gelegenheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-029",
+   "question": "Welche konkrete Entscheidung könnte „Preis einer verpassten Gelegenheit“ bei Kairos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Preis einer verpassten Gelegenheit“ bei Kairos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-031",
+   "question": "Wie lässt sich „Preis einer verpassten Gelegenheit“ bei Kairos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-032",
+   "question": "Welche Alternativen sollte der Autor bei Kairos für „Preis einer verpassten Gelegenheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-033",
+   "question": "Was bedeutet bei Kairos der Themenpunkt „Zeitwahrnehmung im Übergang“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-034",
+   "question": "Welche Lesarten auf der Seite zu Kairos stützen oder begrenzen „Zeitwahrnehmung im Übergang“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-035",
+   "question": "Welcher Grenzfall würde bei Kairos die Annahmen über „Zeitwahrnehmung im Übergang“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-036",
+   "question": "Wer könnte innerhalb des Romans bei Kairos etwas über „Zeitwahrnehmung im Übergang“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-037",
+   "question": "Welche konkrete Entscheidung könnte „Zeitwahrnehmung im Übergang“ bei Kairos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zeitwahrnehmung im Übergang“ bei Kairos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-039",
+   "question": "Wie lässt sich „Zeitwahrnehmung im Übergang“ bei Kairos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-040",
+   "question": "Welche Alternativen sollte der Autor bei Kairos für „Zeitwahrnehmung im Übergang“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kairos"
+   ]
+  },
+  {
+   "id": "RQ-kairos-041",
+   "question": "Wo unterscheiden sich Kairos und Atemporalität, wenn man sie unter dem Gesichtspunkt „Verwaltung von Zeit und Möglichkeiten“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-042",
+   "question": "Welche Quelle verbindet Kairos mit Atemporalität in Bezug auf „Verwaltung von Zeit und Möglichkeiten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-043",
+   "question": "Welche Grenzen aus der Seite zu Atemporalität müsste eine Deutung von Kairos unter „Verwaltung von Zeit und Möglichkeiten“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-044",
+   "question": "Wie könnte sich das Wissen über Kairos vom Wissen über Atemporalität unterscheiden, wenn „Verwaltung von Zeit und Möglichkeiten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kairos und Atemporalität bei „Verwaltung von Zeit und Möglichkeiten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-046",
+   "question": "Falls Kairos im Hinblick auf „Verwaltung von Zeit und Möglichkeiten“ anders festgelegt wird: Welche Aussagen über Atemporalität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kairos und Atemporalität bei „Verwaltung von Zeit und Möglichkeiten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-048",
+   "question": "Braucht der Roman eine Verbindung von Kairos und Atemporalität bei „Verwaltung von Zeit und Möglichkeiten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-049",
+   "question": "In welchem denkbaren Fall könnte Kairos bestehen, ohne dass Atemporalität dieselbe Funktion übernimmt, und was würde das für „Verwaltung von Zeit und Möglichkeiten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kairos und Atemporalität in Bezug auf „Verwaltung von Zeit und Möglichkeiten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-051",
+   "question": "Welche ältere Lesart von Kairos oder Atemporalität könnte die Gegenüberstellung unter „Verwaltung von Zeit und Möglichkeiten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kairos und Atemporalität unter „Verwaltung von Zeit und Möglichkeiten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kairos",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-kairos-053",
+   "question": "Wo unterscheiden sich Kairos und Erason, wenn man sie unter dem Gesichtspunkt „Grenze zulässiger Zukunftsvariation“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-054",
+   "question": "Welche Quelle verbindet Kairos mit Erason in Bezug auf „Grenze zulässiger Zukunftsvariation“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-055",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Kairos unter „Grenze zulässiger Zukunftsvariation“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-056",
+   "question": "Wie könnte sich das Wissen über Kairos vom Wissen über Erason unterscheiden, wenn „Grenze zulässiger Zukunftsvariation“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kairos und Erason bei „Grenze zulässiger Zukunftsvariation“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-058",
+   "question": "Falls Kairos im Hinblick auf „Grenze zulässiger Zukunftsvariation“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kairos und Erason bei „Grenze zulässiger Zukunftsvariation“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-060",
+   "question": "Braucht der Roman eine Verbindung von Kairos und Erason bei „Grenze zulässiger Zukunftsvariation“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-061",
+   "question": "In welchem denkbaren Fall könnte Kairos bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Grenze zulässiger Zukunftsvariation“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kairos und Erason in Bezug auf „Grenze zulässiger Zukunftsvariation“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-063",
+   "question": "Welche ältere Lesart von Kairos oder Erason könnte die Gegenüberstellung unter „Grenze zulässiger Zukunftsvariation“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kairos und Erason unter „Grenze zulässiger Zukunftsvariation“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kairos",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kairos-065",
+   "question": "Wo unterscheiden sich Kairos und Möglichkeits-Garten, wenn man sie unter dem Gesichtspunkt „Wissen über alternative Verläufe“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-066",
+   "question": "Welche Quelle verbindet Kairos mit Möglichkeits-Garten in Bezug auf „Wissen über alternative Verläufe“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-067",
+   "question": "Welche Grenzen aus der Seite zu Möglichkeits-Garten müsste eine Deutung von Kairos unter „Wissen über alternative Verläufe“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-068",
+   "question": "Wie könnte sich das Wissen über Kairos vom Wissen über Möglichkeits-Garten unterscheiden, wenn „Wissen über alternative Verläufe“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kairos und Möglichkeits-Garten bei „Wissen über alternative Verläufe“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-070",
+   "question": "Falls Kairos im Hinblick auf „Wissen über alternative Verläufe“ anders festgelegt wird: Welche Aussagen über Möglichkeits-Garten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kairos und Möglichkeits-Garten bei „Wissen über alternative Verläufe“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-072",
+   "question": "Braucht der Roman eine Verbindung von Kairos und Möglichkeits-Garten bei „Wissen über alternative Verläufe“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-073",
+   "question": "In welchem denkbaren Fall könnte Kairos bestehen, ohne dass Möglichkeits-Garten dieselbe Funktion übernimmt, und was würde das für „Wissen über alternative Verläufe“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kairos und Möglichkeits-Garten in Bezug auf „Wissen über alternative Verläufe“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-075",
+   "question": "Welche ältere Lesart von Kairos oder Möglichkeits-Garten könnte die Gegenüberstellung unter „Wissen über alternative Verläufe“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kairos und Möglichkeits-Garten unter „Wissen über alternative Verläufe“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kairos",
+    "moeglichkeits-garten"
+   ]
+  },
+  {
+   "id": "RQ-kairos-077",
+   "question": "Wo unterscheiden sich Kairos und Guardians, wenn man sie unter dem Gesichtspunkt „Preis einer verpassten Gelegenheit“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-078",
+   "question": "Welche Quelle verbindet Kairos mit Guardians in Bezug auf „Preis einer verpassten Gelegenheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-079",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Kairos unter „Preis einer verpassten Gelegenheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-080",
+   "question": "Wie könnte sich das Wissen über Kairos vom Wissen über Guardians unterscheiden, wenn „Preis einer verpassten Gelegenheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kairos und Guardians bei „Preis einer verpassten Gelegenheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-082",
+   "question": "Falls Kairos im Hinblick auf „Preis einer verpassten Gelegenheit“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kairos und Guardians bei „Preis einer verpassten Gelegenheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-084",
+   "question": "Braucht der Roman eine Verbindung von Kairos und Guardians bei „Preis einer verpassten Gelegenheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-085",
+   "question": "In welchem denkbaren Fall könnte Kairos bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Preis einer verpassten Gelegenheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kairos und Guardians in Bezug auf „Preis einer verpassten Gelegenheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-087",
+   "question": "Welche ältere Lesart von Kairos oder Guardians könnte die Gegenüberstellung unter „Preis einer verpassten Gelegenheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kairos und Guardians unter „Preis einer verpassten Gelegenheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kairos",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-kairos-089",
+   "question": "Wo unterscheiden sich Kairos und Persistenzgleichung, wenn man sie unter dem Gesichtspunkt „Zeitwahrnehmung im Übergang“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-090",
+   "question": "Welche Quelle verbindet Kairos mit Persistenzgleichung in Bezug auf „Zeitwahrnehmung im Übergang“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-091",
+   "question": "Welche Grenzen aus der Seite zu Persistenzgleichung müsste eine Deutung von Kairos unter „Zeitwahrnehmung im Übergang“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-092",
+   "question": "Wie könnte sich das Wissen über Kairos vom Wissen über Persistenzgleichung unterscheiden, wenn „Zeitwahrnehmung im Übergang“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kairos und Persistenzgleichung bei „Zeitwahrnehmung im Übergang“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-094",
+   "question": "Falls Kairos im Hinblick auf „Zeitwahrnehmung im Übergang“ anders festgelegt wird: Welche Aussagen über Persistenzgleichung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kairos und Persistenzgleichung bei „Zeitwahrnehmung im Übergang“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-096",
+   "question": "Braucht der Roman eine Verbindung von Kairos und Persistenzgleichung bei „Zeitwahrnehmung im Übergang“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-097",
+   "question": "In welchem denkbaren Fall könnte Kairos bestehen, ohne dass Persistenzgleichung dieselbe Funktion übernimmt, und was würde das für „Zeitwahrnehmung im Übergang“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kairos und Persistenzgleichung in Bezug auf „Zeitwahrnehmung im Übergang“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-099",
+   "question": "Welche ältere Lesart von Kairos oder Persistenzgleichung könnte die Gegenüberstellung unter „Zeitwahrnehmung im Übergang“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-kairos-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kairos und Persistenzgleichung unter „Zeitwahrnehmung im Übergang“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kairos",
+    "persistenzgleichung"
+   ]
+  }
+ ]
+}

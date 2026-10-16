@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      90
+  backslash escapes      363
+  typographic marks      98
+  ascii quotes           128
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstanteils, Selbstbeobachtung, Selbstbewusstsein, Selbstbewusstseins, Selbstbezug, Selbstbezugsparadoxien, Selbstbezüglichkeit, Selbsten, Selbsterleben, Selbstkonzept, Selbstmodifikation, Selbstorganisation, Selbstproduktion, Selbstregulation, Selbstverbesserung, Selbstwahrnehmung, Selbstzerstörung, Selbständerung
+  syste    System, Systematic, Systemdynamik, Systeme, Systemebene, Systemen, Systemereignis, Systemfehler, Systemgrenzen, Systemisch, Systemische, Systemkollaps, Systemlogik, Systems, Systemtheorie, Systemversagen, Systemversagens, Systemzusammenbruchs
+  infor    INFORMATION, Inforg, Inforgs, Information, Informationen, Informationist, Informations, Informationserhaltung, Informationsontologie, Informationsparadoxon, Informationstheorie, Informationsverarbeitung, Informationsverarbeitungssystem, Informationsverlust, Informationsübertragung, Informed
+  psych    Psyche, Psychiatry, Psychoanalyse, Psychoanalytisches, Psychobiology, Psychological, Psychologie, Psychologisch, Psychologische, Psychologischen, Psychologischer, Psychology, Psychosis
+  ident    Identifikation, Identit, Identity, Identität, Identitäten, Identitäts, Identitätsbildung, Identitätskonstruktion, Identitätsproblematik, Identitätsstörung, Identitätstheorie, Identitätsverlust
+  inter    Interagierende, Interaktion, Interaktionen, Internalisierte, Internalisierung, Interne, Internet, Interpretation, Interpretationsbias, Interpretationsspielraum
+  kontr    Kontrast, Kontrolle, Kontrollinstanz, Kontrollmaßnahme, Kontrollmaßnahmen, Kontrollproblem, Kontrollstreben, Kontrollverlust, Kontrollversuche
+  bedro    Bedrohung, Bedrohungen, Bedrohungsanalyse, Bedrohungsbewertung, Bedrohungsinterpretation, Bedrohungsreizen, Bedrohungswahrnehmung, Bedrohungsüberzeugungen
+  gedäc    Gedächtnis, Gedächtnisdiagnostik, Gedächtnisfragmentierung, Gedächtnisses, Gedächtnisstörunge, Gedächtnissystemen, Gedächtnistheorie, Gedächtnisverlust
+  grund    Grund, Grundlage, Grundlagen, Grundlegendes, Grundlegendste, Grundmodell, Grundprinzip
+  model    Model, Modell, Modelle, Modellen, Modelliert, Modellierung, Models
+  struk    Struktur, Strukturbildung, Strukturelle, Strukturellen, Strukturen, Strukturieren, Strukturierung
+  theor    Theorems, Theoretical, Theoretische, Theorie, Theorien, Theories, Theory
+  unter    Unterdrückung, Unterscheidet, Unterscheidung, Unterschieden, Untersucht, Untersuchung, Unterton
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsform, Bewusstseinsphilosophie, Bewusstseinstheorien, Bewusstseinszustände
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragmentierungsmechanismus, Fragmentierungsprozess
+  konze    Konzept, Konzepte, Konzepten, Konzeption, Konzeptionelle, Konzepts
+  netzw    Netzwerk, Netzwerken, Netzwerks, Netzwerktheorie, Netzwerktopologie, Netzwerkzerfall
+  parad    PARADOX, Paradigm, Paradox, Paradoxien, Paradoxon, Paradoxons
+  phäno    Phänomen, Phänomene, Phänomenologie, Phänomenologisch, Phänomenologische, Phänomenologisches
+  traum    Trauma, Traumaerinnerungen, Traumas, Traumatheorie, Traumatisierung, Traumatization
+  unvol    Unvollst, Unvollständige, Unvollständigkeit, Unvollständigkeitsproblem, Unvollständigkeitssatz, Unvollständigkeitssätze
+  ander    Andere, Anderem, Anderen, Anderes, Andersartigkeit
+  disso    Dissociation, Dissociative, Dissonanten, Dissoziation, Dissoziative
+  erleb    Erleben, Erlebens, Erlebnismoment, Erlebnisse, Erlebnissen
+
+# substring pairs -- never one term, often merged by accident
+  Bias < Biases
+  Bias < Phobias
+  Bias < Aufmerksamkeitsbias
+  Bias < Interpretationsbias
+  Bild < Bildung
+  Bild < Strukturbildung
+  Bild < Identitätsbildung
+  Book < Bookish
+  Book < Bookshelf
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Unreinen
+  Eine < Allgemeinen
+  Eine < Anscheinend
+  Ekel < Ekels
+  Ende < Endet
+  Ende < Tendenz
+  Ende < Überlappende

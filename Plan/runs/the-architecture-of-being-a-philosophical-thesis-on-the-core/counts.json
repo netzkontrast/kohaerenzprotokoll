@@ -1,0 +1,427 @@
+{
+  "document": "the-architecture-of-being-a-philosophical-thesis-on-the-core",
+  "drive_id": "16A88XrcqhUlqLfzkLgJdm03XZ46sDHwHkGLw4vNM4Aw",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        21,
+        101,
+        125
+      ]
+    },
+    "AEGIS": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        15,
+        38,
+        40,
+        44,
+        46,
+        50,
+        54,
+        58,
+        60,
+        64,
+        66,
+        68,
+        74,
+        85,
+        91,
+        113,
+        116
+      ]
+    },
+    "System Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        68,
+        72,
+        74,
+        78,
+        85
+      ]
+    },
+    "Kael": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        58,
+        68,
+        72,
+        74,
+        78,
+        80,
+        85,
+        91,
+        93,
+        113
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "The K₁ (Coherence) Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "The K₀ (Collapse/Entropy) Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "K₁": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        27,
+        28,
+        30,
+        114,
+        115
+      ]
+    },
+    "K₀": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        28,
+        30,
+        36,
+        54,
+        114,
+        115
+      ]
+    },
+    "Coherons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "correspondence check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Intrusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Korrektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Rekonfiguration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        34,
+        64
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        36,
+        64,
+        91
+      ]
+    },
+    "Original Self": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        62,
+        117
+      ]
+    },
+    "unerkennable entity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Great Realignment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Autonomous Entropic Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Das Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Component 734": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "ANPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        80,
+        81,
+        85,
+        87,
+        114,
+        115
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        81,
+        85,
+        87,
+        114
+      ]
+    },
+    "Systemic Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "functional multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        117
+      ]
+    },
+    "narrative mirroring": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Thematic Duality Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Coherence instead of Truth": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "Coherence through Integration": {
+      "n": 0,
+      "n_including_compounds": 0,
+      "lines": []
+    },
+    "integrative ontology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        80
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        78
+      ]
+    },
+    "Ship of Theseus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Hamartia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "quantum decoherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "operant conditioning": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Skinner-boxes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# monstergruppe-metapher-auf-mathematische-kohaerenz
+  lines                194  (frontmatter ends at 9)
+  body words           4851
+  headings             2   bold-only lines 6
+  table rows           8   code fences 0
+  question marks       5
+  backslash escapes    35
+  typographic marks    161   ascii quotes 3
+  invisible characters U+200Bx4
+  math symbol lines    3
+  glued ref numbers    53
+  repeated labels      none
+  longest line         2120 chars
+

@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 45
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-duale-dramatica-storyform-synthese"]
+sources: 65
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-detaillierter-plot-blueprint", "dramaturgical-precision-deconstructing-the-irreversible-conf", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "aegis-psychologische-kriegsfuehrung-narrative-eskalation", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "roman-outline-kohaerenz-protokoll", "roman-analyse-kohaerenz-protokoll-akt-i", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "roman-outline-kohaerenz-protokoll-strategie", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-master-integration-md"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,18 @@ In den Echos im Fundament scheitert Kaels einseitiger Logik-Ansatz im Cache-Konf
 
 - The plot blueprint plans step 1.6, „Die Logik des Wächters“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L223]. Its synopsis begins: „AEGIS (v1.4) reagiert auf Kaels zunehmend“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L226] — a plan, not the chapter as written.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 6
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 6, in Teil 1: Die Zerlegung, is titled „Grenze verletzt, Alarm ausgelöst“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L348]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Prüfungen, Verbündete, Feinde (KW1)`
+
+- The detailed plot draft plans for Kap 6, `Prüfungen, Verbündete, Feinde (KW1)`: „Kael navigiert durch KW1.“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L92] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Der fehlende Name`
+
+- The Moonshine-Brücke blueprint plans for Kap 6, `Der fehlende Name`: „Eine Erinnerungslücke oder ein Trigger verstärkt Kaels Fragmentierung“ ^[kohaerenz-protokoll-plot-synthese-2.md:L67] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -43,6 +55,18 @@ Title: „Fragmente der Erinnerung“ ^[monstergruppe-primzahlen-plot-blueprint.
 - Establishes: „triggern das Auftauchen neuer oder stärkerer Persönlichkeitszustände“ ^[monstergruppe-primzahlen-plot-blueprint.md:L80]
 - AEGIS: „AEGIS' frühere Versuche, Kael zu "faktorisieren", haben diese Fragmentierung verursacht“ ^[monstergruppe-primzahlen-plot-blueprint.md:L84]
 
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Symmetrie (Geometrisch/Permutation in Co₁)`
+
+- The enriched plot concept's theme draft has for Kapitel 6, under the concept label `Symmetrie (Geometrisch/Permutation in Co₁)`: „Kael nimmt an einem Ritual teil, bei dem Personen aufgrund“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L41] The number follows from Teil 1's range (Kapitel 1–10) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure — `Der Kollaps der Formeln`
+
+- The three-voice chapter structure plans for Kap 6, `Der Kollaps der Formeln`: the narrator's „Der Cache-Konflikt – die Unvereinbarkeit isolierter Daten oder Perspektiven – wird unüberbrückbar.“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L112]; an AEGIS alert log concluding „Isolated M-Entity attributes are insufficient“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L118]; and a Kael passage (Logik-Anteil) with „Die Logik allein reichte nicht.“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L124] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Der Kollaps der Formeln`
+
+- The concept chapter map plans for Kap 6: „Das unvermeidliche Scheitern einer einseitigen Strategie an der Komplexität der Realität“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L69]; AEGIS „erkennt die Insuffizienz isolierter Attribute und die Notwendigkeit von Integration“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L70]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the interface collapses, and Juna returns
 
 Title: „Die Implosion der Logik“ ^[kohaerenz-protokoll.md:L657]
@@ -51,6 +75,22 @@ Position: „(Fundamentales Konzept: Cache Kohärenz (Konflikt) / Parakonsistent
 - Somatic marker: „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war.“ ^[kohaerenz-protokoll.md:L761]
 - Collapse: „Die Aufgabe war gescheitert.“ ^[kohaerenz-protokoll.md:L783]
 - Juna at the break: „In diesem Moment des absoluten Zusammenbruchs, als alle mentalen Firewalls versagten, als die Mauer zur isolierten Resonanz zerbarst, spürte er es wieder.“ ^[kohaerenz-protokoll.md:L777]
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept — the chapter's focus on `Dynamische Selbstbalancierung` and `Fraktale Selbstähnlichkeit`
+
+- The 13-principle concept's chapter overview gives Kapitel 6 a focus on `Dynamische Selbstbalancierung`, „(Balance gestört)“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L78], and on `Fraktale Selbstähnlichkeit`, „(Einseitigkeit scheitert)“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L78] (L78). The overview keeps the chapter assignment and only colours its interpretation „durch die Linse“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L74] of the principles. A concept's focus, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Kollaps der Logik (Cache-Konflikt)`
+
+- The comprehensive concept's overview gives Kap 6 the label „Kollaps der Logik (Cache-Konflikt)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L100] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 6 „Auge des Sturms“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L35] in its first part, the inner journey and assigns it the primary concept „Pseudo-Anpassung / Oberflächenfunktionalität“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L35]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — traces of M and a suspected induced fragmentation
+
+- The logline analysis proposes for Kap 6: „beginnt zu ahnen, dass seine Fragmentierung künstlich herbeigeführt wurde“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L221] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Fragmente der Vergangenheit
 
@@ -86,6 +126,14 @@ Focus: `Traumatische Echos`, „Die Intensivierung der Konfrontation mit spezifi
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — the TSDP phobia
 
 - The strategy report keys this chapter to the TSDP phobia „Phobie vor traumatischen Erinnerungen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L48]; to the TSDP phobia „Phobie vor mentalen Inhalten“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L49]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — the lure
+
+The strategy outline titles Chapter 6 „Der Köder“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L142] and plans: „Kael versucht, den Absender der ursprünglichen Nachricht“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L146] to reach by using the glitch; the answer carries signs of a trap or disinformation from AEGIS.
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — memory manipulation in KW2 and trauma
+
+- The trope analysis ties chapter 6 to „Mnemosynes potenzielle Manipulation von Erinnerungen in KW2“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L44] (L44), to the emotional chaos of KW2 and qualia (L66), and to trauma: „Die Erforschung von Kaels Trauma“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L127] is called central (L127). The amnesia row of the trope table lists it (L193). An analysis of an outline it does not reproduce.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Begegnung mit Echo
 
@@ -150,9 +198,17 @@ Position: the scene outline plans the scene at „1.5 - Cerberus-Labyrinth (KW3)
 
 - The scene outline plans Chapter 6 within Chapters 6–7, „The Fortress of Fear“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L90], in Act I: Fragmentation and First Echoes — a plan in English, not the chapter as written.
 
+## Reading — `aegis-psychologische-kriegsfuehrung-narrative-eskalation`, 2025-10-16, the psychological-warfare essay — stage 1, the disturbances in the matrix
+
+- The psychological-warfare essay proposes stage 1 of a four-stage reveal for this chapter of the subplot document it cites: „Stufe 1: Störungen in der Matrix (vgl. Subplot-Dokument, Kap. 1-7)“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L380] „Kael beginnt, Inkonsistenzen in den Kernwelten zu bemerken“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L380] A proposal of the essay, not the chapter.
+
 ## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Deceptive Facade
 
 - The plot framework titles Chapter 6 „The Deceptive Facade“ ^[plot-generation-framework-for-the-coherence-protocol.md:L242]. It commissions: „Show a period of apparent calm that AEGIS logs as a success, creating dramatic irony for the reader by foreshadowing the“ ^[plot-generation-framework-for-the-coherence-protocol.md:L242] — a plan, not the chapter as written.
+
+## Reading — `dramaturgical-precision-deconstructing-the-irreversible-conf`, 2025-11-03, the dramaturgical analysis — the Correction phase
+
+- The dramaturgical analysis places chapter 6 in its first phase: „In the first act of the novel (Chapters“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25] 1–13 „AEGIS's strategy is one of“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25] Correction, classifying Kael's dissociation as system errors. An analysis of a phase, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The initiation
 
@@ -190,6 +246,14 @@ Position: Teil I; POV from `Perspektive & Stimme`: „Kael (kämpft um die Kontr
 
 - The DKT synthesis's chapter 6: „Sprachliche Schatten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L78]. Its narrative level: „Kael versucht zu kommunizieren, aber Metaphern werden als unlogisch“ ^[roman-synthese-mit-dual-kernel-theorie.md:L82]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil I
+
+- The master blueprint places chapter 6 in Teil I, „Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L19]: Kael wakes after the Universal Reboot and experiences the Konstrukt-Stadt „als ein kaltes, logikbasiertes Gefängnis“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L25]. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Sprachliche Schatten`
+
+- The Roman-Outline plans for Kap 6, `Sprachliche Schatten`: „Die Entdeckung, dass Worte in der Stadt ihre Bedeutung verlieren“ ^[roman-outline-kohaerenz-protokoll.md:L35] Numbered 6 in the whole novel; the export restarts the list in each part, so this is item 6 of Part I. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -198,6 +262,10 @@ Title: „Die semantische Firewall“ ^[roman-konzept-dualitaet-kohaerenz-spannu
 
 - Theory: „Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L65]
 - Establishes: „AEGIS kontrolliert die Realität durch semantische Restriktion“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L65]
+
+## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — mathematical fragments in Theta-9
+
+The the master integration lists, in a table of mathematical and physical strands against chapters, a row of the identity-strand in which Kap 6 and Kap 14 stand together: „Kap. 6, 14: Mathematische Fragmente in Theta-9“ ^[kohaerenz-protokoll-master-integration-md.md:L316]. The same row ends on „Perfekte Balance = null Erleben“ ^[kohaerenz-protokoll-master-integration-md.md:L316] and „AEGIS strebt nach dem Unerreichbaren“ ^[kohaerenz-protokoll-master-integration-md.md:L316]. The master integration, a synthesis of thirteen source documents dated 26 March 2026, gives no scene for either chapter. Recorded, not canon.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — LogOS turns the city against Kael, the temperature sinks, Silas freezes him
 
@@ -210,6 +278,14 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Sensorik (C11): „Türen verschweißen sich auf atomarer Ebene, und die Temperatur sinkt schleichend ab.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
 - Silas: „Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
 - What it establishes: „Lex berechnet, dass ein Überleben in der P-Klasse-Logik von Logos-Prime unmöglich ist.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] · „Sie müssen in die unkartierten Zwischenzonen der Architektur vordringen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108]
+
+## Reading — `roman-analyse-kohaerenz-protokoll-akt-i`, 2026-04-08, the Act I reader-psychology report — the effect and technique planned for Kap. 6
+
+Title in the report's section on Act I: `Kap. 6` „Die Sprache der Schatten“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L121]
+
+The Act I reader-psychology report plans effects and techniques for this chapter; it is a plan of effects, not the chapter as written.
+
+- Planned effect and technique: „Die Horrorerwartung des Lesers wird in diesem Kapitel fundamental umgekehrt.“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L123] „Diese Erwartung wird subvertiert, wenn die Stimme Kael vor einer unsichtbaren Gefahr innerhalb von AEGIS warnt.“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L125]
 
 ## Reading — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis — Ten
 
@@ -276,6 +352,10 @@ Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L
 - Storyform B: „OS-Physics: AEGIS' Logik zeigt Schwächen" ^[three-mode-architecture-39-chapters-md.md:L183]
 - Leitmotif: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[three-mode-architecture-39-chapters-md.md:L183]
 
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 6 as a place of contradicting classifications
+
+The character bible lists Kap 6 among the structural markers: „Sich widersprechende Klassifikationen (Kap 6, Kap 16, Kap 24).“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1054] It adds that the markers allow a second reading: „Diese Markierungen erlauben den zweiten Lesedurchgang als völlig anderen Roman.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1054] It names Kap 6 only as a place for these classifications. Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Echos im Fundament“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L367]
@@ -340,6 +420,10 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - Theory anchor: „(Steinbruch) Wittgenstein (Sprache als Grenze), Cache-Konflikt“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L699] · function „Semantische Firewall“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L700] (§14.3; the cell marks itself Steinbruch)
 - Where it places Wittgenstein: „Kap 6 (Semantische Firewall — kanonisch in Steinbruch-Outline), AEGIS-Logs durchgängig.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L141] (§2.2 Wittgenstein, marked `[K]`) — its claim about another document, a `Steinbruch-Outline` it does not name further.
 
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — Kap 6 as the cache conflict and the Form motif
+
+The sensory drafting manual places Kap 6 in the accumulation column of the heat strand: „Kap 6 (Cache-Konflikt)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]. In the Form motif it sets Kap 6 with the title „Echos im Fundament“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L539] and as the chapter where AEGIS' mantra works as setting: „Kohärenz-Mantra als Umgebungs-Logik“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L539]. Kap 6 is also one of the candidates for the Hard-B chapter, the open table asking „Kap 5, 6, 7 oder 8?“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1431]. The manual labels the motif entry canonical (kanonisch); recorded as its statement, not canon.
+
 ## Where the sources differ
 
 - **Title, and cold sweat, not heat (D47).** „Die Implosion der Logik“ ^[kohaerenz-protokoll.md:L657] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; its somatic marker is „Kalter Schweiß brach auf seiner Stirn aus, obwohl die Umgebungstemperatur konstant war.“ ^[kohaerenz-protokoll.md:L761]: Kael's body, not a Landauer trace — `Landauer` and `Hitze` stand 0 times in the document (C11).
@@ -347,6 +431,7 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - **When the other Alters' style codes are full.** „Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377] (strukturierter Outline, Kap 6) · „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810] (konsolidiertes Konzept) · „voll-polyphon erst Akt II“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927] (Kernwelten vollständig).
 - **Title.** „Tod einer Einstellung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (Kapitel-Kompendium) · „Echos im Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369].
 - **The Hard-SF-Outline.** „Türen verschweißen sich auf atomarer Ebene, und die Temperatur sinkt schleichend ab.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] · „Silas, das Coheron-Echo, manifestiert sich als eine lähmende Erstarrung in Kael, ein Einfrieren der Gliedmaßen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L108] (the Hard-SF-Outline, 2026-04-08) — Kap 6 grows cold and Silas freezes Kael, a month before the Konzept-Iteration's heat shimmer; its title is „Der Abstieg beginnt“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L106]. (C11)
+- The sensory drafting manual gives Kap 6 the Cache-Konflikt and a Form-motif setting.
 
 ## Questions for this chapter
 

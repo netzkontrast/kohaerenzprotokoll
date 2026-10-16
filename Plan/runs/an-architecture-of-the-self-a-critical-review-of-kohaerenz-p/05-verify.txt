@@ -1,0 +1,80 @@
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "review"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+`review` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#3]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "critique"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`critique` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#2]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Kohärenz"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+`Kohärenz` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#10]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Part 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Part 1` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Part 2"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Part 2` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#2]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Part 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Part 3` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "DID"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`DID` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "ground truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`ground truth` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#0]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "The text purports"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`The text purports` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "This review must evaluate"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`This review must evaluate` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "The critique must assess"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`The critique must assess` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "This critique will evaluate"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`This critique will evaluate` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Wahrheit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+`Wahrheit` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#1]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Kohärenz Protokoll"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+`Kohärenz Protokoll` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#9]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "Kael"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+`Kael` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#17]
+$ python3 scripts/read.py an-architecture-of-the-self-a-critical-review-of-kohaerenz-p --count "AEGIS"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+`AEGIS` ^[an-architecture-of-the-self-a-critical-review-of-kohaerenz-p.md:#8]

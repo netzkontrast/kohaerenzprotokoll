@@ -1,0 +1,99 @@
+# counts for 71 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           219 word   220 in   [11, 13, 15, 17, 19, 21]
+                                    1      as AEGIS-Protokolls
+  Kael                             68 word   102 in   [17, 19, 37, 41, 43, 45]
+                                   30      as Kaels
+                                    4      as Kael-Juna-Verbindung
+  Juna                             15 word    20 in   [17, 19, 37, 41, 43, 45]
+                                    1      as Junas
+  K-J                              26 word   133 in   [11, 13, 15, 17, 19, 21]  <-- substring
+  K-J-Verbindung                   87 word    87 in   [13, 19, 25, 27, 29, 33]
+  Kael-Juna-Verbindung              4 word     4 in   [19, 37, 41, 289]
+  K-J-Anomalie                      6 word     6 in   [15, 21, 65, 77, 89, 266]
+  Kohärenz Protokoll                3 word     3 in   [11, 17, 289]
+  Kernwelten                       31 word    31 in   [46, 55, 81, 140, 162, 166]
+  Guardians                         6 word     6 in   [65, 96, 181, 210, 235]
+  Alters                            3 word     3 in   [47, 122]
+  Risse                            12 word    12 in   [88, 92, 96, 104, 181, 186]
+  Abgrenzung                        5 word     5 in   [17, 33, 35, 158]
+  Kohärenz durch Abgrenzung         1 word     1 in   [158]
+  Kohärenz durch Integration        4 word     4 in   [35, 127, 158]
+  sub-protokollarische Resonanz     3 word     3 in   [33, 35, 104]
+  Monstergruppe                    12 word    12 in   [35, 39, 41, 43, 44, 46]
+  Monstrous Moonshine               3 word     3 in   [46, 69]
+  Happy Family                      2 word     2 in   [47]
+  Pariahs                           2 word     2 in   [47]
+  Chaos-Welt                        4 word     4 in   [168, 179, 180, 210]
+  Quanten-Verschränkungs-Welt       1 word     1 in   [169]
+  Logik-Paradox-Welt                1 word     1 in   [170]
+  Autopoiesis-Welt                  4 word     4 in   [171, 179, 180, 182]
+  Liminalitäts-Welt                 4 word     4 in   [172, 180, 182, 279]
+  Gedächtnis-Welt                   1 word     1 in   [173]
+  Verschränkungs-Welt               4 word     5 in   [169, 179, 182, 210, 277]
+  Paradox-Welt                      2 word     3 in   [170, 180, 278]
+  Exilanten                        15 word    15 in   [116, 117, 118, 130, 131, 144]
+  Manager                           5 word     9 in   [117, 118, 123, 131, 138, 199]
+                                    3      as Manager-Teile
+                                    1      as Managern
+  Feuerlöscher                      4 word     5 in   [118, 131, 211, 214]
+                                    1      as Feuerlöschern
+  Selbst                           21 word    35 in   [71, 104, 108, 118, 123, 129]
+                                    3      as Selbst-Führung
+                                    2      as selbstbezüglichen
+                                    2      as Selbst-Energie
+                                    2      as Selbstführung
+  Teufelskreise                     2 word     2 in   [96]
+  Ontologischer Mismatch            2 word     2 in   [92, 98]
+  Mysterium tremendum et fascinans    1 word     1 in   [60]
+  Tremendum                         2 word     2 in   [58, 62]
+  Fascinans                         2 word     2 in   [58, 63]
+  Testgelände für AEGIS             1 word     1 in   [179]
+  Akt I                             1 word     3 in   [194, 206, 218]  <-- substring
+  Akt II                            1 word     2 in   [206, 218]
+  Akt III                           1 word     1 in   [218]
+  Plot Point 1                      1 word     1 in   [202]
+  Plot Point 2                      1 word     1 in   [214]
+  Mittelpunkt                       1 word     1 in   [212]
+  Konzept-zu-Narrativ-Mapping-Matrix    1 word     1 in   [250]
+  Konzept-Integrations-Matrix       1 word     1 in   [295]
+  Sicherer Hafen                    2 word     2 in   [153, 274]
+  Internal Family Systems           4 word     4 in   [112, 337, 347, 348]
+  IFS                               8 word    12 in   [71, 112, 125, 129, 130, 158]
+  Halting Problem                   4 word     4 in   [27, 90, 267, 340]
+  Gödelsche Mauer                   1 word     2 in   [84, 89]
+  Emergenz                          5 word     5 in   [25, 35, 49, 53, 268]
+  Quantenverschränkung              3 word     4 in   [35, 54, 169]
+                                    1      as Quantenverschränkungs-Analogie
+  Nichtlokalität                   13 word    14 in   [33, 46, 49, 154, 169, 182]
+  Autopoiesis                       8 word    13 in   [49, 55, 171, 179, 180, 182]
+                                    4      as Autopoiesis-Welt
+                                    1      as Autopoiesis_and_Cognition
+  Symbiose                          4 word     5 in   [49, 55, 180, 271]
+                                    1      as Symbiosen
+  Irreduzible Komplexität           1 word     1 in   [56]
+  Heldenreise                       5 word     5 in   [133, 188, 212, 280]
+  Monomythos                        1 word     2 in   [133, 280]
+                                    1      as Monomythos-Stadien
+  Jungianische Archetypen           1 word     1 in   [122]
+  Schatten                          5 word     9 in   [122, 132, 143, 188, 211, 273]
+                                    1      as Schattenintegration
+                                    1      as Schattenanteile
+                                    1      as Schattenaspekten
+                                    1      as Schattenaspekte
+  Individuation                     5 word     6 in   [132, 158, 188, 273, 280]
+                                    1      as Individuationsreise
+  Polyvagal-Theorie                 3 word     3 in   [130, 152, 275]
+  Somatic Experiencing              4 word     4 in   [130, 152, 352, 353]
+  Bindungstheorie                   2 word     2 in   [153, 274]
+  Kybernetik zweiter Ordnung        1 word     1 in   [104]
+  Liminalität                       2 word     6 in   [172, 180, 182, 279]  <-- substring
+                                    4      as Liminalitäts-Welt
+  Communitas                        2 word     3 in   [172, 363]
+  Chaostheorie                      2 word     2 in   [80, 168]
+  Intuition                         5 word     5 in   [71, 151, 276, 357]
+  Dauer                             4 word     4 in   [151, 173, 236, 276]
+                                    1      as dauerhafter

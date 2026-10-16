@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 53
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "romanidee-als-interaktiver-prototyp", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-duale-dramatica-storyform-synthese"]
+sources: 75
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "ki-prompt-analyse-hard-problem-of-consciousness", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "romanidee-als-interaktiver-prototyp", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-detaillierter-plot-blueprint", "dramaturgical-precision-deconstructing-the-irreversible-conf", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "roman-konzeptentwicklung-kohaerenz-protokoll", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "roman-analyse-kohaerenz-protokoll-akt-i", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kapitel-13-momente"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,22 @@ Mit diesem Kapitel schließen Akt I und die Heldinnenreise innen auf der Murdock
 
 - The plot blueprint plans step 1.13, „Der Abgrund und der Ruf“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L307]. Its synopsis begins: „Kael ist am Ende seiner Kräfte, in die Enge getrieben von Cerberus in KW3. Er steht vor einem scheinbar unüberwindbaren Hindernis oder einer tödlichen Falle –“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L310] — a plan, not the chapter as written.
 
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 13
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 13, in Teil 1: Die Zerlegung, is titled „Der Plan zur Eindämmung“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L355]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `kapitel-13-momente`, 2025-04-20, the chapter-13 moments — the close of Part 1 and the cut to the reboot
+
+The chapter-13 moments plan Kapitel 13 as the step „Der Abgrund und der Ruf“ ^[kapitel-13-momente.md:L11] of Blueprint V2, following Kapitel 12. Its goal: „Kael erreicht seinen absoluten Tiefpunkt“ ^[kapitel-13-momente.md:L13]. The plan groups the moments in five parts, A to E, from the edge of the abyss to the dissolving world. The last image of Part 1 is proposed as „Letztes Bild von Teil“ ^[kapitel-13-momente.md:L57], and the plan closes on a cut: „Abrupter Schnitt zu Schwarz, Weiß oder reinem Rauschen.“ ^[kapitel-13-momente.md:L58]. All of it is the plan's proposal under an old outline's numbering, never canon.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Rückkehr mit Elixier (Teil 1 Abschluss)`
+
+- The detailed plot draft plans for Kap 13, `Rückkehr mit Elixier (Teil 1 Abschluss)`: „Kael übersteht die erste Welle in KW2“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L99] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Kernwelt-Karussell`
+
+- The Moonshine-Brücke blueprint plans for Kap 13, `Kernwelt-Karussell`: „Kael erlebt einen längeren, unkontrollierten Wechsel durch mehrere Kernwelten; Ende Teil 1.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L74] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -42,6 +58,30 @@ Title: „Der Riss wird zum Tor“ ^[monstergruppe-primzahlen-plot-blueprint.md:
 
 - Establishes: „Ende von Akt I: Kael hat einen potenziellen Weg erkannt“ ^[monstergruppe-primzahlen-plot-blueprint.md:L150]
 - Establishes: „zu einem potenziellen Übergang oder einer Schwachstelle in AEGIS' Kontrolle“ ^[monstergruppe-primzahlen-plot-blueprint.md:L150]
+
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Internal Family Systems (IFS)`
+
+- The enriched plot concept's theme draft has for Kapitel 13, under the concept label `Internal Family Systems (IFS)`: „Kael interagiert mit klar definierten sozialen Gruppen, die wie“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L51] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure — `Der Tanz im Garten`
+
+- The three-voice chapter structure plans for Kap 13, `Der Tanz im Garten`: the narrator's „Es ist ein fortwährender Tanz zwischen den verschiedenen Anteilen“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L237] and a Kael passage (Integriert) with „Ich bin der Raum, in dem alle Teile tanzen können.“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L249] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Der Tanz im Garten`
+
+- The concept chapter map plans for Kap 13: „Die Etablierung einer kontinuierlichen Praxis der inneren Achtsamkeit und Balance“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L139]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Innere Praxis (Garten)`
+
+- The comprehensive concept's overview gives Kap 13 the label „Innere Praxis (Garten)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L100] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 13 „Freiheit zu Leben“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L42] in its first part, the inner journey and assigns it the primary concept „Inneres Potenzial / Hoffnung auf Authentizität“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L42]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a decision to seek integration and liberation
+
+- The logline analysis proposes for Kap 13: „trifft Kael eine bewusste Entscheidung“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L228] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Am Abgrund der Kontrolle
 
@@ -78,6 +118,10 @@ Focus: `Wendepunkt zur Agency`, „Der Übergang von einer primär reaktiven Hal
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage
 
 - The strategy report keys this chapter to Murdock's stage „Erwachen zur spirituellen Leere/Tod“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L119]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — from victim to agent
+
+- The trope analysis ties chapter 13 to the existential reading: „Ihr Übergang vom Opfer zum Akteur“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L75] (L75); the concept table row is „Existentialismus (Sartre)“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L107] (L107). An analysis of an outline it does not reproduce.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Kontakt
 
@@ -155,6 +199,10 @@ Position: the scene outline plans the scene at „1.8 - Kael's Inner World“ ^[
 
 - The journey outline places the first major turning point, at the end of chapter 13 here: „He consciously decides to abandon his passive state“ ^[plot-outline-for-kohaerenz-protokoll-a-journey-through-syste.md:L47]. A plan's turning point, not the chapter as written.
 
+## Reading — `dramaturgical-precision-deconstructing-the-irreversible-conf`, 2025-11-03, the dramaturgical analysis — the Correction phase
+
+- The dramaturgical analysis places chapter 13 in its first phase: „In the first act of the novel (Chapters“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25] 1–13 „AEGIS's strategy is one of“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25] Correction, classifying Kael's dissociation as system errors. An analysis of a phase, not the chapter as written.
+
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — End of the inner journey
 
 Title: „Ende der Inneren Reise“ ^[romanstruktur-und-philosophische-einleitung.md:L113]
@@ -196,6 +244,14 @@ Position: Teil I; POV from `Perspektive & Stimme`: „Kael (entschlossen, aber f
 
 - The DKT synthesis's chapter 13: „Der erste Zusammenbruch“ ^[roman-synthese-mit-dual-kernel-theorie.md:L141]. Its narrative level: „Kael wird in die Evaluierungseinheit transferiert;“ ^[roman-synthese-mit-dual-kernel-theorie.md:L145]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil I
+
+- The master blueprint places chapter 13 in Teil I, „Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L19]: Kael wakes after the Universal Reboot and experiences the Konstrukt-Stadt „als ein kaltes, logikbasiertes Gefängnis“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L25]. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Der erste Zusammenbruch`
+
+- The Roman-Outline plans for Kap 13, `Der erste Zusammenbruch`: „Die Erkenntnis, dass Flucht innerhalb der bekannten Logik unmöglich ist.“ ^[roman-outline-kohaerenz-protokoll.md:L51] Numbered 13 in the whole novel; the export restarts the list in each part, so this is item 13 of Part I. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -204,6 +260,10 @@ Title: „Der System-Kollaps“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:
 
 - Establishes: „LogOS befiehlt Kael, den Code-Sektor, in dem Juna steht, thermisch zu „reinigen““ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L79]
 - Establishes: „Kael wird von AEGIS zwangsweise in die Resonanz-Landschaft (Quarantäne) transferiert“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L79]
+
+## Reading — `roman-konzeptentwicklung-kohaerenz-protokoll`, 2026-02-26, the master synthesis — the ultimate collapse
+
+- The master synthesis plans that Chapter 13 „markiert den ultimativen Zusammenbruch“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L87]: „Kael stößt an die Bekenstein-Schranke“ ^[roman-konzeptentwicklung-kohaerenz-protokoll.md:L87] and falls into the SIS state of the Überwelt. A plan, not the chapter as written.
 
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — the temperature oscillation, and Kael falls from KW1 into KW2
 
@@ -216,6 +276,14 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Sensorik: „Von den ewigen 21°C Logos-Primes schnellt sie auf drückende 34°C, um sofort danach auf eisige 8°C abzustürzen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130] · „Diese relationale Information ist für AEGIS unlöschbar.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
 - What it establishes: „Der Boden bricht weg, und Kael stürzt unkontrolliert in den entropischen Abgrund.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L130]
 - Checklist, Fixpunkt 4: „(desorganisierte Bindung)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218] · „Die abrupte Temperatur-Oszillation zerreißt die Stabilität von Logos-Prime und führt zum Sturz in das Archiv.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218]
+
+## Reading — `roman-analyse-kohaerenz-protokoll-akt-i`, 2026-04-08, the Act I reader-psychology report — the effect and technique planned for Kap. 13
+
+Title in the report's section on Act I: `Kap. 13` „Die Abgrund-Entscheidung / Der erste Zusammenbruch“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L219]
+
+The Act I reader-psychology report plans effects and techniques for this chapter; it is a plan of effects, not the chapter as written.
+
+- Planned effect and technique: „Der Abschluss des ersten Aktes zielt auf einen kathartischen Schock, das Gefühl absoluter Irreversibilität und die endgültige, unbedingte Bindung des Lesers an den Protagonisten ab.“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L221] „Das Kapitel verwehrt sich einem billigen Cliffhanger des Nichtwissens“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L225]
 
 ## Reading — `ki-prompt-analyse-hard-problem-of-consciousness`, 2026-04-28, the Hard-Problem-Analyse — the Dance in the Garden as K1's own Werk-Beleg
 
@@ -263,6 +331,10 @@ Title: „Der totale System-Kollaps“ ^[kohaerenz-protokoll-kapitel-outline-gen
 ## Reading — `kohaerenz-protokoll-kapitel-outline-generierung`, 2026-04-30, the 39-chapter outline — Der erste Zusammenbruch
 
 - The 39-chapter outline titles Kapitel 13 „Der erste Zusammenbruch“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L493]. It plans: „Akt-Übergang. Das rein rationale Denken scheitert endgültig an der Grenze der Simulation“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L495]; POV Kael / Wir-Geflecht (L501) — a plan, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md`, 2026-04-30, the pacing revision — the curtain falls
+
+The pacing revision plans a veil over Act I: Kael is „nicht als System markiert“ ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:L21] until Kap 13, and the system terms do not fall; the line says „fällt der Vorhang“ ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:L21] only in Kap 13. A plan of the revision (point 2), recorded, not canon.
 
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
@@ -326,6 +398,14 @@ Position: „Akt I\*\* | Kap 1–13“ ^[dual-storyform-hintergruende-md.md:L333
 
 - Veil: „Multiplizitäts-Schleier hält bis Kapitel 13.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535], the last sentence of its genre caution, after „Wer in der ersten Szene weiß, dass der Held dreizehn Stimmen hat, kennt das Buch nicht.“ ^[kohaerenz-protokoll-philosophischer-bericht-md.md:L535]
 
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 13 as the fall of the multiplicity veil
+
+The character bible sets Kap 13 as the point where the veil falls. For the rule of Act I: „Erst Kap 13 fällt der Multiplizitäts-Schleier.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L349] For the act structure: „Erst Kap 13 fällt der Vorhang.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L848] The linguistic traces of level 2 are to accumulate toward it: „Diese Spuren akkumulieren bis Kap 13“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1050] The list of locks closes: „Multiplizitäts-Schleier bis Kap 13.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1185] Recorded, not canon.
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13, the speech-DNA manual of 2026-05-13 — Kap 13 as the limit of the multiplicity veil
+
+the speech-DNA manual of 2026-05-13 sets for the everyday-consciousness voice: „Multiplizitäts-Schleier bis Kap 13.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69] The closing checklist asks which switch is possible „ohne den Multiplizitäts-Schleier zu lüften (vor Kap 13)“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L241], so Kap 13 is the chapter before which the veil holds. The same entry opens with its role: „Alltagsbewusstsein-Träger.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69] Recorded, not canon.
+
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one rule
 
 - The veil lifts here: „**R-3 — Multiplizitäts-Schleier hält bis Kap 13.**" ^[kap0-v1-annotiert-md.md:L51]
@@ -387,12 +467,26 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - Leitmotiv: „Lebendige Ordnung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Teil-1-Schluss; kleinste mögliche Schöpfung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Lock: „kein Klartext vor 13“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L238] (marked `[K]`)
 
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — Kap 13 as the fall of the multiplicity veil
+
+The sensory drafting manual sets Kap 13 as the end of the veil: „Multiplizitäts-Schleier hält bis Kap 13.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L50] and as a rule: „Multiplizitäts-Schleier intakt halten (bis Kap 13).“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059] Traces accumulate: „Spuren akkumulieren bis Kap 13.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L462], so that at the fall the reader thinks „natürlich, das war die ganze Zeit da.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L462] The reveal table gives Kap 13 as „Schleier fällt intern“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L585], with Kael's column reading „weiß: ich bin nicht allein in mir“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L585]. For Kael's state before the chapter it sets „bis Kap 13: nichts strukturell; nur Symptome“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L573]. A possible setting is named: „offizielle Verhandlung der Identität; Setting möglich Kap 13“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L219]. Recorded as the source's settings, not canon.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10, the parts-profiles and speech-DNA manual — Kap 13 as the internal fall of the multiplicity veil
+
+The parts-profiles and speech-DNA manual states as a rule for Kael: „Multiplizitäts-Schleier hält bis Kap 13.“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157] Its act table sets the fall of the veil in Kap 13 (the entry `Multiplizitäts-Schleier fällt intern`), and the trace list says „Diese Spuren akkumulieren bis Kap 13“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1059], so that the reader at the reveal thinks the traces were there all along. Recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — sets Kap 13 as the threshold for plain diagnosis
+
+The terms-and-concepts companion, tagged `[K]`, sets for Kap 13 a threshold: „vor Kap 13 keine Klartext-Diagnose“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L289] From there on the multiplicity may be named: „ab Kap 13 offen benennbar“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L289] Recorded, not canon.
+
 ## Where the sources differ
 
 - **World.** „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (Kapitel-Kompendium) · „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] (Kernwelten vollständig). · „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658], KW1 to its end (master report). · „KW1 dominiert Akt I (Ch1–13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L496] and, in the same chapter, a KW3 place: „Evaluierungseinheit — Ort des „Messers im Bewusstsein" (Ch13).“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578] (the worldbuilding concept).
 - **What happens.** „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318] (storyform outline) · „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545] (strukturierter Outline) · „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839] · „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Kernwelten vollständig). · „Wo Personae kollabieren.“ ^[worldbuilding-konzept-kohaerenzprotokoll-md.md:L578] (the worldbuilding concept), in Kernwelten vollständig's words.
 - **Genesis echo.** The echo two documents set on Kap 13 carries the name each gives Kap 12's stage: „Kap 13: die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L842] · „Stille der Mitte — Jetzt-Raum (innere Stabilität gefunden)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L830] (konsolidiertes Konzept); „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] · „Stille der Mitte (Jetzt-Raum) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).
 - **The Hard-SF-Outline.** „Der Fall in die Tiefe“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L128] (the Hard-SF-Outline, 2026-04-08) — a new title; the end of Akt I is the fall from KW1 into KW2, „Die abrupte Temperatur-Oszillation zerreißt die Stabilität von Logos-Prime und führt zum Sturz in das Archiv.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L218]
+- The sensory drafting manual sets the fall of the multiplicity veil at Kap 13.
+- The parts-profiles and speech-DNA manual sets the internal fall of the multiplicity veil at Kap 13.
 
 ## Questions for this chapter
 

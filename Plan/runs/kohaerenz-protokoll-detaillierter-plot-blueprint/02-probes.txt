@@ -1,0 +1,41 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      7
+  backslash escapes      6
+  typographic marks      75
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systembericht, Systemik, Systemische, Systemischer, Systemtod
+  beoba    Beobachter, Beobachters
+  bezie    Beziehungsdynamik, Beziehungsreaktivierung
+  exter    Externe, Externen
+  guard    Guardian, Guardians
+  karne    Karneval, Karnevals
+  leser    Leser, Lesers
+  momen    Moment, Momenten
+  selbs    Selbst, Selbstbeherrschung
+  unive    Universal, Universums
+  welte    Welten, Welterkundung
+
+# substring pairs -- never one term, often merged by accident
+  Date < Datenübertragung
+  Juna < Junas
+  Kael < Kaels
+  Kern < Kernfragen
+  Raum < Trauma
+  Welt < Welten
+  Welt < Überwelt
+  Welt < Welterkundung
+  Ebene < Simulationsebene
+  Leser < Lesers
+  Thema < Mathematik
+  Moment < Momenten
+  Selbst < Selbstbeherrschung
+  System < Systemik
+  System < Systemtod
+  System < Systemische
+  System < Systemischer
+  System < Systembericht
+  Wissen < Orientierungswissenschaft
+  Externe < Externen

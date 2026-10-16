@@ -1,0 +1,14 @@
+# narrativ-existenzieller-kohaerenz-nzt-protokoll
+  lines                473  (frontmatter ends at 9)
+  body words           9159
+  headings             2   bold-only lines 30
+  table rows           21   code fences 0
+  question marks       22
+  backslash escapes    127
+  typographic marks    31   ascii quotes 182
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    226
+  repeated labels      none
+  longest line         1185 chars
+

@@ -1,0 +1,250 @@
+{
+  "document": "storyforms-system-mind-bewusstsein",
+  "drive_id": "17xR6Ldf52qlbn0juMN495K7UCOLbZrRWsitv1WKeX9o",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list; rlm_ingest not run; readings, entries on C16 and Q7 and three chapter readings (Kap 32, 35, 36) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-406/brief.md, 2026-10-13",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 74,
+    "decisions": 76,
+    "decided_by_lookup": 64,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An exegesis assigning Dramatica values to two storyforms of its own, with a TSDP error table and a thermodynamic account of consciousness: its new surfaces are its own labels and borrowed concepts; what it says of Kael, AEGIS, Juna, the Moonshine-Link, the DKT and its two kernels, the Kernwelten, the TSDP, the Trennungsprotokoll, the Gödel-Gambit, multiplicity, the Risse, Moros and negentropy went on existing pages, with entries on C16 and Q7 and its chapters on Kap 32, 35 and 36.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        45,
+        83,
+        85,
+        91,
+        118,
+        120,
+        144
+      ],
+      "attribution": "",
+      "note": "AEGIS in two storyforms of its own, and a Genesis-Krise misread"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        15,
+        126
+      ],
+      "attribution": "",
+      "note": "the two kernels as the document's governing theory"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        73,
+        118,
+        150
+      ],
+      "attribution": "",
+      "note": "a climax in chapters 35–36 read in both storyforms"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        51,
+        53
+      ],
+      "attribution": "",
+      "note": "Juna as the Influence Character of Storyform A"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        30,
+        35,
+        47,
+        70,
+        72,
+        89,
+        118
+      ],
+      "attribution": "",
+      "note": "Kael as Main Character of both storyforms"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "Kernwelten as the inner spaces of Storyform A"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        15,
+        106
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel as one of two forces"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel as the entropic force"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as Relationship Story of Storyform A"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "Moros inside a table of kernel errors"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        36,
+        150
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the outcome of Storyform A"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        36
+      ],
+      "attribution": "",
+      "note": "Negentropie as the outcome of Storyform A"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        34,
+        148
+      ],
+      "attribution": "",
+      "note": "cracks as the Landauer heat and as proof of suffering"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        43,
+        144
+      ],
+      "attribution": "",
+      "note": "AEGIS's Trennungsprotokoll as deletion and as self-mutilation"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        97,
+        110
+      ],
+      "attribution": "",
+      "note": "TSDP symptoms paired with kernel errors"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      32,
+      35,
+      36
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael/M` and `Juna/V-Vektor` read on kael and juna; `Logos-Prime` a Kernwelt, not LogOS; `Genesis-Krise` read on aegis; `Landauer` the borrowed principle, not the Landauer-Signatur; `Kohärenz Protokoll(s)` the title; `System Mind(s)` one term",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 112,
+      "decision": "occurrence",
+      "why": "a heading of the document's synthesis"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "what the Kollaps-Kernel represents, read on kollaps-kernel"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "moros",
+      "surface": "Moros",
+      "line": 108,
+      "decision": "reading",
+      "why": "the freeze response named with a TSDP symptom, read on the page"
+    },
+    {
+      "page": "negentropie",
+      "surface": "Negentropie",
+      "line": 36,
+      "decision": "reading",
+      "why": "new patterns of order in Storyform A's outcome, read on the page"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 41,
+      "decision": "occurrence",
+      "why": "a level of reality in the general sense"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 34,
+      "decision": "reading",
+      "why": "physical Risse in the matrix from Landauer heat, read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 43,
+      "decision": "occurrence",
+      "why": "the simulation in the general sense"
+    }
+  ],
+  "not_promoted": [
+    "Storyform A „Die Heuristik der Integration“, Storyform B „Der Phönix-Kollaps“, 5D-Synthese, System Mind, Protokoll-Ontologie, Alpha-Logik-Fragment, Kael/M, Juna/V-Vektor, Logos-Prime, T-734, Landauer-Wärme, Witness Function, thermodynamische Narben, Ouroboros-Ending, Narrative Context Protocol, the error codes, and the borrowed concepts"
+  ],
+  "internal_tension": "Kael holds two incompatible resolves, Change in its Storyform A and Steadfast in its Storyform B, and the document says both hold (L114) — its own dialetheist claim, recorded in the note. Against decision 025 both its storyforms differ (its A gives Kael MC in Psychology, OS Mind with AEGIS, IC Juna in Physics, RS Universe; its B keeps Kael as MC); the document predates the decision, so the difference is recorded here and no question is raised",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

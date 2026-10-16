@@ -1,0 +1,15 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      8
+  typographic marks      9
+  ascii quotes           36
+
+# inflection families -- one term, several surfaces
+  guide    Guide, Guides
+  manag    Managers, Managing
+
+# substring pairs -- never one term, often merged by accident
+  Less < Helplessness
+  Part < Parts
+  Guide < Guides

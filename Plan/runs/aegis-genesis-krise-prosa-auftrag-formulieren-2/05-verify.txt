@@ -1,0 +1,93 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Eignung/Relevanz"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`Eignung/Relevanz` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#40]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Zwingend"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Zwingend` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#2]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "\[Kontext\]"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`\[Kontext\]` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#5]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "NZT-Modus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`NZT-Modus` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#1]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#1]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Lex"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Lex` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Guardians"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Guardians` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Fehlausgerichtete Kohärenz` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#5]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Kohärenz durch Entfremdung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz durch Entfremdung` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#3]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Kosmischen Horror"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            3
+
+`Kosmischen Horror` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#0]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Ursprungs-Ich"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            54
+
+`Ursprungs-Ich` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#19]
+$ python3 scripts/read.py aegis-genesis-krise-prosa-auftrag-formulieren-2 --count "Ursprungs-Ichs"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            35
+
+`Ursprungs-Ichs` ^[aegis-genesis-krise-prosa-auftrag-formulieren-2.md:#35]
+stance_marker_count 47 = 40 (Eignung/Relevanz) + 2 (Zwingend) + 5 (\[Kontext\])
+stop-name check: the four stop names stand as figures of the novel 0 times (one hit, L801, is an author of a reference-list entry).

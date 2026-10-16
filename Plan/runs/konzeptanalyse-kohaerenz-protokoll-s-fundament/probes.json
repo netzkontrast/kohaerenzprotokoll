@@ -1,0 +1,261 @@
+{
+  "document": "konzeptanalyse-kohaerenz-protokoll-s-fundament",
+  "drive_id": "1tgps_pKrkJZM1D_spu9zq8xOT6rWigy64zL39NMi8rQ",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 2
+  },
+  "glued_ref_numbers": 58,
+  "backslash_escapes": 38,
+  "typographic_marks": 94,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "inter": [
+      "Interagiert",
+      "Interaktion",
+      "Interaktionen",
+      "Interdependenzen",
+      "Interdisciplinary",
+      "Interkonnektivität",
+      "Interne",
+      "Internet",
+      "Interrelationen"
+    ],
+    "poten": [
+      "Potential",
+      "Potentiality",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentials",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseergebnisse",
+      "Analysemethoden",
+      "Analysen",
+      "Analyseversuche",
+      "Analysis",
+      "Analytische"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented",
+      "Fragmentiert",
+      "Fragmentiertes",
+      "Fragmentierung"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenelementen",
+      "Gruppenstrukturen",
+      "Gruppentheorie"
+    ],
+    "kernk": [
+      "Kernkonflikt",
+      "Kernkonzept",
+      "Kernkonzepte",
+      "Kernkonzepten",
+      "Kernkonzepts"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts",
+      "Konzeptuelle"
+    ],
+    "unter": [
+      "Untergeordnete",
+      "Untergruppen",
+      "Untergruppenstruktur",
+      "Unterscheidung",
+      "Untersuchung"
+    ],
+    "apoph": [
+      "APOPHATICISM",
+      "Apophatic",
+      "Apophatik",
+      "Apophatische"
+    ],
+    "disso": [
+      "Dissociated",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "gegen": [
+      "Gegenkraft",
+      "Gegenoffensive",
+      "Gegensatz",
+      "Gegensätze"
+    ],
+    "grund": [
+      "Grund",
+      "Grundlage",
+      "Grundpfeiler",
+      "Grundzustand"
+    ],
+    "integ": [
+      "Integrating",
+      "Integration",
+      "Integrative",
+      "Integrierte"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematicians",
+      "Mathematik",
+      "Mathematische"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorisch",
+      "Metaphorische"
+    ],
+    "metho": [
+      "Methode",
+      "Methoden",
+      "Methodik",
+      "Methodische"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomenologie"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemfehler",
+      "Systems"
+    ],
+    "theol": [
+      "THEOLOECONOMY",
+      "THEOLOGY",
+      "Theologie",
+      "Theology"
+    ],
+    "theor": [
+      "THEORIES",
+      "Theoretisches",
+      "Theorie",
+      "Theory"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerstand"
+    ],
+    "darst": [
+      "Darstellung",
+      "Darstellungen",
+      "Darstellungsschwierigkeit"
+    ],
+    "defin": [
+      "Definiert",
+      "Definition",
+      "Definitionen"
+    ],
+    "detai": [
+      "Detail",
+      "Detaillierte",
+      "Details"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Allem"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Alle",
+      "Zurückfallen"
+    ],
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eins",
+      "Einsatz"
+    ],
+    [
+      "Eins",
+      "Einschluss"
+    ],
+    [
+      "Eins",
+      "Einsichten"
+    ],
+    [
+      "Eins",
+      "Seinsweise"
+    ],
+    [
+      "Eins",
+      "Bewusstseins"
+    ],
+    [
+      "Fall",
+      "Zurückfallen"
+    ],
+    [
+      "Feld",
+      "Spielfeld"
+    ],
+    [
+      "Feld",
+      "Feldtheorie"
+    ],
+    [
+      "Feld",
+      "Schlachtfeld"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formale"
+    ]
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "system-monitor",
+ "title": "Der Große System-Monitor",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Sichtbarkeit des Gesamtzustands",
+  "Unterschied zwischen Darstellung und Realität",
+  "Grenzen allumfassender Überwachung",
+  "blinde Stellen einer Visualisierung",
+  "Folgen widersprechender Anzeigen"
+ ],
+ "basis": {
+  "system-monitor": {
+   "title": "Der Große System-Monitor",
+   "path": "Wiki/candidates/system-monitor.md",
+   "hash": "99027a31989149d535a2ba5a747bcaee26441b47d9a7fcec2a403cee5f0143a4"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "aegis-metriken": {
+   "title": "AEGIS' operative Metriken",
+   "path": "Wiki/candidates/aegis-metriken.md",
+   "hash": "56a264a67a1de1336bd00e87a9f0c434343e29db471168db59a58dcbabcf7999"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-system-monitor-001",
+   "question": "Welche Störung könnte der Große System-Monitor anzeigen, ohne ihre Bedeutung für die beobachteten Figuren erkennen zu können?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-002",
+   "question": "Welche Lesarten auf der Seite zu Der Große System-Monitor stützen oder begrenzen „Sichtbarkeit des Gesamtzustands“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-003",
+   "question": "Welcher Grenzfall würde bei Der Große System-Monitor die Annahmen über „Sichtbarkeit des Gesamtzustands“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-004",
+   "question": "Wer könnte innerhalb des Romans bei Der Große System-Monitor etwas über „Sichtbarkeit des Gesamtzustands“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-005",
+   "question": "Welche konkrete Entscheidung könnte „Sichtbarkeit des Gesamtzustands“ bei Der Große System-Monitor in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Sichtbarkeit des Gesamtzustands“ bei Der Große System-Monitor haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-007",
+   "question": "Wie lässt sich „Sichtbarkeit des Gesamtzustands“ bei Der Große System-Monitor zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-008",
+   "question": "Welche Alternativen sollte der Autor bei Der Große System-Monitor für „Sichtbarkeit des Gesamtzustands“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-009",
+   "question": "Was bedeutet bei Der Große System-Monitor der Themenpunkt „Unterschied zwischen Darstellung und Realität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-010",
+   "question": "Welche Lesarten auf der Seite zu Der Große System-Monitor stützen oder begrenzen „Unterschied zwischen Darstellung und Realität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-011",
+   "question": "Welcher Grenzfall würde bei Der Große System-Monitor die Annahmen über „Unterschied zwischen Darstellung und Realität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-012",
+   "question": "Wer könnte innerhalb des Romans bei Der Große System-Monitor etwas über „Unterschied zwischen Darstellung und Realität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Darstellung und Realität“ bei Der Große System-Monitor in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Darstellung und Realität“ bei Der Große System-Monitor haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-015",
+   "question": "Wie lässt sich „Unterschied zwischen Darstellung und Realität“ bei Der Große System-Monitor zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-016",
+   "question": "Welche Alternativen sollte der Autor bei Der Große System-Monitor für „Unterschied zwischen Darstellung und Realität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-017",
+   "question": "Was bedeutet bei Der Große System-Monitor der Themenpunkt „Grenzen allumfassender Überwachung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-018",
+   "question": "Welche Lesarten auf der Seite zu Der Große System-Monitor stützen oder begrenzen „Grenzen allumfassender Überwachung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-019",
+   "question": "Welcher Grenzfall würde bei Der Große System-Monitor die Annahmen über „Grenzen allumfassender Überwachung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-020",
+   "question": "Wer könnte innerhalb des Romans bei Der Große System-Monitor etwas über „Grenzen allumfassender Überwachung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-021",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen allumfassender Überwachung“ bei Der Große System-Monitor in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen allumfassender Überwachung“ bei Der Große System-Monitor haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-023",
+   "question": "Wie lässt sich „Grenzen allumfassender Überwachung“ bei Der Große System-Monitor zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-024",
+   "question": "Welche Alternativen sollte der Autor bei Der Große System-Monitor für „Grenzen allumfassender Überwachung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-025",
+   "question": "Was bedeutet bei Der Große System-Monitor der Themenpunkt „blinde Stellen einer Visualisierung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-026",
+   "question": "Welche Lesarten auf der Seite zu Der Große System-Monitor stützen oder begrenzen „blinde Stellen einer Visualisierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-027",
+   "question": "Welcher Grenzfall würde bei Der Große System-Monitor die Annahmen über „blinde Stellen einer Visualisierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-028",
+   "question": "Wer könnte innerhalb des Romans bei Der Große System-Monitor etwas über „blinde Stellen einer Visualisierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-029",
+   "question": "Welche konkrete Entscheidung könnte „blinde Stellen einer Visualisierung“ bei Der Große System-Monitor in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „blinde Stellen einer Visualisierung“ bei Der Große System-Monitor haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-031",
+   "question": "Wie lässt sich „blinde Stellen einer Visualisierung“ bei Der Große System-Monitor zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-032",
+   "question": "Welche Alternativen sollte der Autor bei Der Große System-Monitor für „blinde Stellen einer Visualisierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-033",
+   "question": "Was bedeutet bei Der Große System-Monitor der Themenpunkt „Folgen widersprechender Anzeigen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-034",
+   "question": "Welche Lesarten auf der Seite zu Der Große System-Monitor stützen oder begrenzen „Folgen widersprechender Anzeigen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-035",
+   "question": "Welcher Grenzfall würde bei Der Große System-Monitor die Annahmen über „Folgen widersprechender Anzeigen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-036",
+   "question": "Wer könnte innerhalb des Romans bei Der Große System-Monitor etwas über „Folgen widersprechender Anzeigen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-037",
+   "question": "Welche konkrete Entscheidung könnte „Folgen widersprechender Anzeigen“ bei Der Große System-Monitor in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen widersprechender Anzeigen“ bei Der Große System-Monitor haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-039",
+   "question": "Wie lässt sich „Folgen widersprechender Anzeigen“ bei Der Große System-Monitor zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-040",
+   "question": "Welche Alternativen sollte der Autor bei Der Große System-Monitor für „Folgen widersprechender Anzeigen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-041",
+   "question": "Wo unterscheiden sich Der Große System-Monitor und AEGIS, wenn man sie unter dem Gesichtspunkt „Sichtbarkeit des Gesamtzustands“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-042",
+   "question": "Welche Quelle verbindet Der Große System-Monitor mit AEGIS in Bezug auf „Sichtbarkeit des Gesamtzustands“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Der Große System-Monitor unter „Sichtbarkeit des Gesamtzustands“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-044",
+   "question": "Wie könnte sich das Wissen über Der Große System-Monitor vom Wissen über AEGIS unterscheiden, wenn „Sichtbarkeit des Gesamtzustands“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Der Große System-Monitor und AEGIS bei „Sichtbarkeit des Gesamtzustands“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-046",
+   "question": "Falls Der Große System-Monitor im Hinblick auf „Sichtbarkeit des Gesamtzustands“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Der Große System-Monitor und AEGIS bei „Sichtbarkeit des Gesamtzustands“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-048",
+   "question": "Braucht der Roman eine Verbindung von Der Große System-Monitor und AEGIS bei „Sichtbarkeit des Gesamtzustands“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-049",
+   "question": "In welchem denkbaren Fall könnte Der Große System-Monitor bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Sichtbarkeit des Gesamtzustands“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-050",
+   "question": "Welche Kosten könnte eine Verbindung von Der Große System-Monitor und AEGIS in Bezug auf „Sichtbarkeit des Gesamtzustands“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-051",
+   "question": "Welche ältere Lesart von Der Große System-Monitor oder AEGIS könnte die Gegenüberstellung unter „Sichtbarkeit des Gesamtzustands“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Der Große System-Monitor und AEGIS unter „Sichtbarkeit des Gesamtzustands“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "system-monitor",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-053",
+   "question": "Wo unterscheiden sich Der Große System-Monitor und AEGIS' operative Metriken, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Darstellung und Realität“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-054",
+   "question": "Welche Quelle verbindet Der Große System-Monitor mit AEGIS' operative Metriken in Bezug auf „Unterschied zwischen Darstellung und Realität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-055",
+   "question": "Welche Grenzen aus der Seite zu AEGIS' operative Metriken müsste eine Deutung von Der Große System-Monitor unter „Unterschied zwischen Darstellung und Realität“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-056",
+   "question": "Wie könnte sich das Wissen über Der Große System-Monitor vom Wissen über AEGIS' operative Metriken unterscheiden, wenn „Unterschied zwischen Darstellung und Realität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Der Große System-Monitor und AEGIS' operative Metriken bei „Unterschied zwischen Darstellung und Realität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-058",
+   "question": "Falls Der Große System-Monitor im Hinblick auf „Unterschied zwischen Darstellung und Realität“ anders festgelegt wird: Welche Aussagen über AEGIS' operative Metriken müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Der Große System-Monitor und AEGIS' operative Metriken bei „Unterschied zwischen Darstellung und Realität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-060",
+   "question": "Braucht der Roman eine Verbindung von Der Große System-Monitor und AEGIS' operative Metriken bei „Unterschied zwischen Darstellung und Realität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-061",
+   "question": "In welchem denkbaren Fall könnte Der Große System-Monitor bestehen, ohne dass AEGIS' operative Metriken dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Darstellung und Realität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-062",
+   "question": "Welche Kosten könnte eine Verbindung von Der Große System-Monitor und AEGIS' operative Metriken in Bezug auf „Unterschied zwischen Darstellung und Realität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-063",
+   "question": "Welche ältere Lesart von Der Große System-Monitor oder AEGIS' operative Metriken könnte die Gegenüberstellung unter „Unterschied zwischen Darstellung und Realität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Der Große System-Monitor und AEGIS' operative Metriken unter „Unterschied zwischen Darstellung und Realität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "system-monitor",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-065",
+   "question": "Wo unterscheiden sich Der Große System-Monitor und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Grenzen allumfassender Überwachung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-066",
+   "question": "Welche Quelle verbindet Der Große System-Monitor mit Realitätsebenen in Bezug auf „Grenzen allumfassender Überwachung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-067",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Der Große System-Monitor unter „Grenzen allumfassender Überwachung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-068",
+   "question": "Wie könnte sich das Wissen über Der Große System-Monitor vom Wissen über Realitätsebenen unterscheiden, wenn „Grenzen allumfassender Überwachung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Der Große System-Monitor und Realitätsebenen bei „Grenzen allumfassender Überwachung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-070",
+   "question": "Falls Der Große System-Monitor im Hinblick auf „Grenzen allumfassender Überwachung“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Der Große System-Monitor und Realitätsebenen bei „Grenzen allumfassender Überwachung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-072",
+   "question": "Braucht der Roman eine Verbindung von Der Große System-Monitor und Realitätsebenen bei „Grenzen allumfassender Überwachung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-073",
+   "question": "In welchem denkbaren Fall könnte Der Große System-Monitor bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Grenzen allumfassender Überwachung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-074",
+   "question": "Welche Kosten könnte eine Verbindung von Der Große System-Monitor und Realitätsebenen in Bezug auf „Grenzen allumfassender Überwachung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-075",
+   "question": "Welche ältere Lesart von Der Große System-Monitor oder Realitätsebenen könnte die Gegenüberstellung unter „Grenzen allumfassender Überwachung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Der Große System-Monitor und Realitätsebenen unter „Grenzen allumfassender Überwachung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "system-monitor",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-077",
+   "question": "Wo unterscheiden sich Der Große System-Monitor und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „blinde Stellen einer Visualisierung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-078",
+   "question": "Welche Quelle verbindet Der Große System-Monitor mit Ontologischer blinder Fleck in Bezug auf „blinde Stellen einer Visualisierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-079",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von Der Große System-Monitor unter „blinde Stellen einer Visualisierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-080",
+   "question": "Wie könnte sich das Wissen über Der Große System-Monitor vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „blinde Stellen einer Visualisierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Der Große System-Monitor und Ontologischer blinder Fleck bei „blinde Stellen einer Visualisierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-082",
+   "question": "Falls Der Große System-Monitor im Hinblick auf „blinde Stellen einer Visualisierung“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Der Große System-Monitor und Ontologischer blinder Fleck bei „blinde Stellen einer Visualisierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-084",
+   "question": "Braucht der Roman eine Verbindung von Der Große System-Monitor und Ontologischer blinder Fleck bei „blinde Stellen einer Visualisierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-085",
+   "question": "In welchem denkbaren Fall könnte Der Große System-Monitor bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „blinde Stellen einer Visualisierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-086",
+   "question": "Welche Kosten könnte eine Verbindung von Der Große System-Monitor und Ontologischer blinder Fleck in Bezug auf „blinde Stellen einer Visualisierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-087",
+   "question": "Welche ältere Lesart von Der Große System-Monitor oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „blinde Stellen einer Visualisierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Der Große System-Monitor und Ontologischer blinder Fleck unter „blinde Stellen einer Visualisierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "system-monitor",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-089",
+   "question": "Wo unterscheiden sich Der Große System-Monitor und Entropie, wenn man sie unter dem Gesichtspunkt „Folgen widersprechender Anzeigen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-090",
+   "question": "Welche Quelle verbindet Der Große System-Monitor mit Entropie in Bezug auf „Folgen widersprechender Anzeigen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-091",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Der Große System-Monitor unter „Folgen widersprechender Anzeigen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-092",
+   "question": "Wie könnte sich das Wissen über Der Große System-Monitor vom Wissen über Entropie unterscheiden, wenn „Folgen widersprechender Anzeigen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Der Große System-Monitor und Entropie bei „Folgen widersprechender Anzeigen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-094",
+   "question": "Falls Der Große System-Monitor im Hinblick auf „Folgen widersprechender Anzeigen“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Der Große System-Monitor und Entropie bei „Folgen widersprechender Anzeigen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-096",
+   "question": "Braucht der Roman eine Verbindung von Der Große System-Monitor und Entropie bei „Folgen widersprechender Anzeigen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-097",
+   "question": "In welchem denkbaren Fall könnte Der Große System-Monitor bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Folgen widersprechender Anzeigen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-098",
+   "question": "Welche Kosten könnte eine Verbindung von Der Große System-Monitor und Entropie in Bezug auf „Folgen widersprechender Anzeigen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-099",
+   "question": "Welche ältere Lesart von Der Große System-Monitor oder Entropie könnte die Gegenüberstellung unter „Folgen widersprechender Anzeigen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-system-monitor-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Der Große System-Monitor und Entropie unter „Folgen widersprechender Anzeigen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "system-monitor",
+    "entropie"
+   ]
+  }
+ ]
+}

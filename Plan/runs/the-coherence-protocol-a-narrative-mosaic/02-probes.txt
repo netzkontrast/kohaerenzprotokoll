@@ -1,0 +1,53 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      52
+  backslash escapes      0
+  typographic marks      27
+  ascii quotes           184
+
+# inflection families -- one term, several surfaces
+  narra    Narrate, Narrative, Narratology, Narrator
+  fragm    Fragment, Fragmentation, Fragmented
+  syste    System, Systemic, Systems
+  aegis    AEGIS, Aegis
+  alter    Altered, Alters
+  analy    Analysis, Analyst
+  archi    Architect, Architecture
+  conce    Concept, Conceptual
+  concl    Conclude, Conclusion
+  exile    Exile, Exiles
+  forma    Formal, Formation
+  integ    Integrating, Integration
+  kernw    Kernwelt, Kernwelten
+  liber    Liberated, Liberation
+  manag    Manager, Managers
+  poten    Potentiality, Potentialmeer
+  proto    Protocol, Protokoll
+  psych    Psychological, Psychology
+  simul    Simulating, Simulation
+  stati    Stationed, Statistical
+  theor    Theoretic, Theory
+  trans    Transcendental, Transformation
+  whole    Whole, Wholeness
+
+# substring pairs -- never one term, often merged by accident
+  Back < Feedback
+  Free < Freeze
+  Free < Freedom
+  Hero < Heroine
+  Part < Parts
+  Riss < Risse
+  AEGIS < Aegis
+  Exile < Exiles
+  Fight < Firefighters
+  Logic < Psychological
+  Whole < Wholeness
+  System < Systems
+  System < Systemic
+  System < Subsystem
+  Concept < Conceptual
+  Entropy < Negentropy
+  Manager < Managers
+  Fragment < Fragmented
+  Fragment < Fragmentation
+  Kernwelt < Kernwelten

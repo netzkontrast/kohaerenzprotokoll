@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-inkubation-x
+  lines                401  (frontmatter ends at 9)
+  body words           7652
+  headings             23   bold-only lines 4
+  table rows           14   code fences 0
+  question marks       9
+  backslash escapes    222
+  typographic marks    22   ascii quotes 118
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    150
+  repeated labels      none
+  longest line         1031 chars
+

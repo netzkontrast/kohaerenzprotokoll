@@ -1,0 +1,113 @@
+{
+  "document": "critical-plot-interrogatories-for-kohaerenz-protokoll",
+  "drive_id": "1C3KBRYCXMy_MLRJaQ9b40n0Z_FOYDd2RtE09ykVMNLY",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 16,
+  "ascii_quotes": 100,
+  "inflection_families": {
+    "inter": [
+      "Internal",
+      "Interrogating",
+      "Interrogatories"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "auton": [
+      "Autonomie",
+      "Autonomy"
+    ],
+    "contr": [
+      "Contrast",
+      "Control"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional"
+    ],
+    "ident": [
+      "Identify",
+      "Identity"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphysics"
+    ],
+    "poten": [
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "wavel": [
+      "Wavelet",
+      "Wavelets"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Alter",
+      "Alters"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Emotion",
+      "Emotional"
+    ],
+    [
+      "Wavelet",
+      "Wavelets"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Protokoll",
+      "Trennungsprotokoll"
+    ]
+  ]
+}

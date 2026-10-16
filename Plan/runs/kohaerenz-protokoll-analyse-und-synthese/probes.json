@@ -1,0 +1,255 @@
+{
+  "document": "kohaerenz-protokoll-analyse-und-synthese",
+  "drive_id": "1QyvEp0IW2dwok8t0-kcIFrEoJcsi0RWEFbIOloUOqDA",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 92,
+  "backslash_escapes": 54,
+  "typographic_marks": 194,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemanalytiker",
+      "Systemarchetyp",
+      "Systeme",
+      "Systemfehler",
+      "Systemische",
+      "Systemleistung",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemverantwortung",
+      "Systemzustand"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstauslöschung",
+      "Selbstbestimmung",
+      "Selbstbezüglichkeit",
+      "Selbsterhaltung",
+      "Selbsterhaltungstrieb",
+      "Selbstintegration",
+      "Selbstproduktion"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentiert",
+      "Fragmentierte",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsfähigkeiten",
+      "Integriert",
+      "Integrierte",
+      "Integrität"
+    ],
+    "inter": [
+      "Interactive",
+      "International",
+      "Interner",
+      "Internet",
+      "Intervention"
+    ],
+    "kontr": [
+      "Kontradiktion",
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollmethoden",
+      "Kontrollprotokolle"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophischer",
+      "Philosophy"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analytics",
+      "Analytiker"
+    ],
+    "attra": [
+      "Attractor",
+      "Attractors",
+      "Attraktor",
+      "Attraktors"
+    ],
+    "gegen": [
+      "Gegenentwurf",
+      "Gegensatz",
+      "Gegensätzen",
+      "Gegenwart"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradigmen",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "rhizo": [
+      "Rhizom",
+      "Rhizomatic",
+      "Rhizomatische",
+      "Rhizome"
+    ],
+    "roman": [
+      "Roman",
+      "Romanende",
+      "Romanprojekt",
+      "Romans"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabewältigung",
+      "Traumas",
+      "Traumatisiert"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchlichkeit"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenführung",
+      "Zusammenprall",
+      "Zusammenspiel"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Andersartigkeit"
+    ],
+    "antag": [
+      "Antagonismus",
+      "Antagonist",
+      "Antagonisten"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "aussa": [
+      "Aussaat",
+      "Aussage",
+      "Aussagen"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic",
+      "Autopsie"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsstrom"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsaufbaus"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disku": [
+      "Diskurs",
+      "Diskursive",
+      "Diskursprozessor"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Bell",
+      "Campbell"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "ENGL",
+      "English"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Romanende"
+    ],
+    [
+      "Ende",
+      "Steigende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Auslösendes"
+    ],
+    [
+      "Ende",
+      "Independent"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Übergreifende"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formalen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performance"
+    ]
+  ]
+}

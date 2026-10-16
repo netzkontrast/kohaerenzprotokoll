@@ -1,0 +1,405 @@
+{
+  "document": "kohaerenz-direktive-narratives-protokoll",
+  "drive_id": "1P_n8KfpAJtuAIyakA4Uiy0iDX8aFq1nJp0Ltkcob9nY",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Narratives Kohärenz-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Kern-Dilemma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Hard Sci-Fi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        17
+      ]
+    },
+    "Philosophical Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        18
+      ]
+    },
+    "Unvermeidliche": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Informationsphysik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Entropie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        32,
+        56
+      ]
+    },
+    "Landauer-Limit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Quanten-Unitarität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Thermodynamik der Verdrängung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Gödel-Gefängnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Unvollständigkeitssatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Holografische Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Schwarze-Loch-Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        37
+      ]
+    },
+    "Hawking-Strahlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Unitarität": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        38
+      ]
+    },
+    "AEGIS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        42,
+        90
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        26,
+        37,
+        64,
+        89
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        31,
+        32,
+        70
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32
+      ]
+    },
+    "Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Syntaxfehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Kind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Grenz-Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Resonanz-Kontinuum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Wir-Form": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "Transzendenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Energie-Bilanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Perspektiv-Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "System-Reaktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Grenz-Erfahrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Kohärenz-Checkliste": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Fixe Regel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        32,
+        38
+      ]
+    },
+    "Plot-Anwendung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        31,
+        37
+      ]
+    },
+    "Horror-Element": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54,
+        68,
+        82
+      ]
+    },
+    "Sprachliche Regeln": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        59,
+        73
+      ]
+    },
+    "Atmosphäre": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        58,
+        72
+      ]
+    },
+    "Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        30,
+        36
+      ]
+    },
+    "Stilistische Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Inhaltliche Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Strahlung": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        38
+      ]
+    }
+  }
+}

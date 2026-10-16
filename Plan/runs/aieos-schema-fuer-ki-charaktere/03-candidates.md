@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Juna
+- JANUS
+- JANUS-Projekt
+- JANUS-System
+- JANUS-Kernel
+- Kohärenz Protokoll
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kernel
+- Kernel-AIs
+- Dual-Kognitions-Architektur
+- Dual-Kognitions-Struktur
+- Dual-Kognitions-Systeme
+- Dual-Kognitions-Philosophie
+- Dual-Kernel-Theorie
+- System 1
+- System 2
+- Apparently Normal Part
+- ANP
+- Emotional Part
+- EP
+- Manager
+- Emotionalen Teile
+- Ground Truth Algorithm
+- Cognitive Simultaneity
+- AEGIS-Doktrin
+- funktionalen Multiplizität
+- epistemischen Isolation
+- Amnesie-Barrieren
+- Context Rot
+- Context Engineerings
+- Kohärenz Digests
+- Kohärenz-Digests
+- Orchestrator of Orchestrators
+- Emergence by Negation
+- Dialetheismus
+- parakonsistenter Logik
+- kausale Geschlossenheit
+- Chronozeption
+- Chronoperzeption
+- Vercel Storage
+- Google Jules
+- AIEOS
+- AI Entity Object Specification
+- Narrative Context Protocol
+- NCP
+- Storyform
+- Storytelling
+- Narrative Entropy
+- God Mode
+- Character Card
+- Lorebooks
+- Inworld AI
+- ZeroClaw
+- NullClaw
+- OpenClaw
+- Nanobot
+- TinyClaw
+- repomix
+- CodeAct
+- SKILL.md
+- STATE.md
+- AGENTS.md
+- Constitutional AI
+- anthropomorphem Overhead
+- thermodynamischen Ineffizienz
+- Needle-in-a-Haystack
+- Zero-Trust
+- Lawful Neutral
+- Chaotic Neutral
+
+## lens
+
+- Landauer-Prinzip
+- Dual-Prozess-Theorie
+- strukturellen Dissoziation der Persönlichkeit
+- TSDP
+
+Observations. The document is an evaluation report in German prose that carries two long JSON blocks (L62 to L300 and L318 to L556) in which the field names are backslash-escaped. Those field names are the schema's, not the novel's; only the values for AEGIS and Juna are listed. The text quotes other texts throughout (glued footnote numbers, a numbered reference list at L620 to L640), so definitions of the TSDP lens and of the NCP belong to those reported sources. The two JSON blocks make the same field set carry opposite values for the two kernels.

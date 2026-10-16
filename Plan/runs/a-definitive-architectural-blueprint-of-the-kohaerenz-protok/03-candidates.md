@@ -1,0 +1,76 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is English prose with German names in quotation marks. Figures first, then places and objects, then the document's own bold terms, then the borrowed concepts under a lens heading. The table at L67 to L77 lists the alters; the table at L107 to L113 lists the four Kernwelten.
+
+- AEGIS
+- Kael
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Moros
+- Selene
+- Juna/V
+- System Kael
+- Kernwelten
+- Kernwelt
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Nichts Rauschen
+- Rauschen
+- Inkohärenz
+- Moonshine-Link
+- Das Fundament
+- Paraiyas
+- Paradoxon X
+- Gödel-Gambit
+- lebendiger Gödel-Satz
+- ineffiziente Schönheit
+- Inefficient Beauty
+- Algorithmic Melancholy
+- kognitive Dissonanz
+- functional multiplicity
+- ontological blindness
+- Discursive Logic (D2)
+- Discursive Logic
+- D2
+- Logics of Formal Inconsistency
+- LFI
+- Aggressive Reductionism
+- Psychological Manipulation
+- gaslighting
+- analytischer Angriff
+- externalisiertes Täterintrojekt
+- Tertiäre Strukturelle Dissoziation
+- Apparently Normal Parts
+- ANPs
+- Emotional Parts
+- EPs
+- Internal Self Helper
+- ISH
+- ANP
+- EP
+- polyphonic prose
+- Algorithmic Horror
+- Protocol of the Reader
+- acoustic pressure without sound
+- thermal void
+- AEGIS is what AEGIS prevents from not being
+
+## lens
+
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Principle of Explosion
+- Prehension
+- qualia
+- paraconsistent
+- Deus ex Machina

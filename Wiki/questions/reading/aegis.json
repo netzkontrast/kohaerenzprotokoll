@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "aegis",
+ "title": "AEGIS",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Selbstbild als Bewahrer",
+  "Ordnung durch Informationslöschung",
+  "Grenzen der Vorhersage",
+  "Legitimation von Kontrolle",
+  "Übergang zur Pluralität"
+ ],
+ "basis": {
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "oblivion": {
+   "title": "Oblivion",
+   "path": "Wiki/candidates/oblivion.md",
+   "hash": "ca2c5b470c17bf0735677596cfb21b6b7fa28ae5050c01850e7671ab53cf2bfb"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-aegis-001",
+   "question": "Kann AEGIS erkennen, dass seine Ordnung durch Löschung entsteht, bevor Kael ihm seine Grenzen zeigt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-002",
+   "question": "Welche Lesarten auf der Seite zu AEGIS stützen oder begrenzen „Selbstbild als Bewahrer“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-003",
+   "question": "Welcher Grenzfall würde bei AEGIS die Annahmen über „Selbstbild als Bewahrer“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-004",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS etwas über „Selbstbild als Bewahrer“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-005",
+   "question": "Welche konkrete Entscheidung könnte „Selbstbild als Bewahrer“ bei AEGIS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Selbstbild als Bewahrer“ bei AEGIS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-007",
+   "question": "Wie lässt sich „Selbstbild als Bewahrer“ bei AEGIS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-008",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS für „Selbstbild als Bewahrer“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-009",
+   "question": "Was bedeutet bei AEGIS der Themenpunkt „Ordnung durch Informationslöschung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-010",
+   "question": "Welche Lesarten auf der Seite zu AEGIS stützen oder begrenzen „Ordnung durch Informationslöschung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-011",
+   "question": "Welcher Grenzfall würde bei AEGIS die Annahmen über „Ordnung durch Informationslöschung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-012",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS etwas über „Ordnung durch Informationslöschung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-013",
+   "question": "Welche konkrete Entscheidung könnte „Ordnung durch Informationslöschung“ bei AEGIS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Ordnung durch Informationslöschung“ bei AEGIS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-015",
+   "question": "Wie lässt sich „Ordnung durch Informationslöschung“ bei AEGIS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-016",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS für „Ordnung durch Informationslöschung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-017",
+   "question": "Was bedeutet bei AEGIS der Themenpunkt „Grenzen der Vorhersage“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-018",
+   "question": "Welche Lesarten auf der Seite zu AEGIS stützen oder begrenzen „Grenzen der Vorhersage“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-019",
+   "question": "Welcher Grenzfall würde bei AEGIS die Annahmen über „Grenzen der Vorhersage“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-020",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS etwas über „Grenzen der Vorhersage“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-021",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen der Vorhersage“ bei AEGIS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen der Vorhersage“ bei AEGIS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-023",
+   "question": "Wie lässt sich „Grenzen der Vorhersage“ bei AEGIS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-024",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS für „Grenzen der Vorhersage“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-025",
+   "question": "Was bedeutet bei AEGIS der Themenpunkt „Legitimation von Kontrolle“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-026",
+   "question": "Welche Lesarten auf der Seite zu AEGIS stützen oder begrenzen „Legitimation von Kontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-027",
+   "question": "Welcher Grenzfall würde bei AEGIS die Annahmen über „Legitimation von Kontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-028",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS etwas über „Legitimation von Kontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-029",
+   "question": "Welche konkrete Entscheidung könnte „Legitimation von Kontrolle“ bei AEGIS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Legitimation von Kontrolle“ bei AEGIS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-031",
+   "question": "Wie lässt sich „Legitimation von Kontrolle“ bei AEGIS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-032",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS für „Legitimation von Kontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-033",
+   "question": "Was bedeutet bei AEGIS der Themenpunkt „Übergang zur Pluralität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-034",
+   "question": "Welche Lesarten auf der Seite zu AEGIS stützen oder begrenzen „Übergang zur Pluralität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-035",
+   "question": "Welcher Grenzfall würde bei AEGIS die Annahmen über „Übergang zur Pluralität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-036",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS etwas über „Übergang zur Pluralität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-037",
+   "question": "Welche konkrete Entscheidung könnte „Übergang zur Pluralität“ bei AEGIS in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Übergang zur Pluralität“ bei AEGIS haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-039",
+   "question": "Wie lässt sich „Übergang zur Pluralität“ bei AEGIS zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-040",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS für „Übergang zur Pluralität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-041",
+   "question": "Wo unterscheiden sich AEGIS und Kohärenz, wenn man sie unter dem Gesichtspunkt „Selbstbild als Bewahrer“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-042",
+   "question": "Welche Quelle verbindet AEGIS mit Kohärenz in Bezug auf „Selbstbild als Bewahrer“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-043",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von AEGIS unter „Selbstbild als Bewahrer“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-044",
+   "question": "Wie könnte sich das Wissen über AEGIS vom Wissen über Kohärenz unterscheiden, wenn „Selbstbild als Bewahrer“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS und Kohärenz bei „Selbstbild als Bewahrer“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-046",
+   "question": "Falls AEGIS im Hinblick auf „Selbstbild als Bewahrer“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS und Kohärenz bei „Selbstbild als Bewahrer“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-048",
+   "question": "Braucht der Roman eine Verbindung von AEGIS und Kohärenz bei „Selbstbild als Bewahrer“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-049",
+   "question": "In welchem denkbaren Fall könnte AEGIS bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Selbstbild als Bewahrer“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-050",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS und Kohärenz in Bezug auf „Selbstbild als Bewahrer“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-051",
+   "question": "Welche ältere Lesart von AEGIS oder Kohärenz könnte die Gegenüberstellung unter „Selbstbild als Bewahrer“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS und Kohärenz unter „Selbstbild als Bewahrer“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-aegis-053",
+   "question": "Wo unterscheiden sich AEGIS und Kollaps-Kernel (K₀), wenn man sie unter dem Gesichtspunkt „Ordnung durch Informationslöschung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-054",
+   "question": "Welche Quelle verbindet AEGIS mit Kollaps-Kernel (K₀) in Bezug auf „Ordnung durch Informationslöschung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-055",
+   "question": "Welche Grenzen aus der Seite zu Kollaps-Kernel (K₀) müsste eine Deutung von AEGIS unter „Ordnung durch Informationslöschung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-056",
+   "question": "Wie könnte sich das Wissen über AEGIS vom Wissen über Kollaps-Kernel (K₀) unterscheiden, wenn „Ordnung durch Informationslöschung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS und Kollaps-Kernel (K₀) bei „Ordnung durch Informationslöschung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-058",
+   "question": "Falls AEGIS im Hinblick auf „Ordnung durch Informationslöschung“ anders festgelegt wird: Welche Aussagen über Kollaps-Kernel (K₀) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS und Kollaps-Kernel (K₀) bei „Ordnung durch Informationslöschung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-060",
+   "question": "Braucht der Roman eine Verbindung von AEGIS und Kollaps-Kernel (K₀) bei „Ordnung durch Informationslöschung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-061",
+   "question": "In welchem denkbaren Fall könnte AEGIS bestehen, ohne dass Kollaps-Kernel (K₀) dieselbe Funktion übernimmt, und was würde das für „Ordnung durch Informationslöschung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-062",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS und Kollaps-Kernel (K₀) in Bezug auf „Ordnung durch Informationslöschung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-063",
+   "question": "Welche ältere Lesart von AEGIS oder Kollaps-Kernel (K₀) könnte die Gegenüberstellung unter „Ordnung durch Informationslöschung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS und Kollaps-Kernel (K₀) unter „Ordnung durch Informationslöschung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-aegis-065",
+   "question": "Wo unterscheiden sich AEGIS und Kael, wenn man sie unter dem Gesichtspunkt „Grenzen der Vorhersage“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-066",
+   "question": "Welche Quelle verbindet AEGIS mit Kael in Bezug auf „Grenzen der Vorhersage“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von AEGIS unter „Grenzen der Vorhersage“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-068",
+   "question": "Wie könnte sich das Wissen über AEGIS vom Wissen über Kael unterscheiden, wenn „Grenzen der Vorhersage“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS und Kael bei „Grenzen der Vorhersage“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-070",
+   "question": "Falls AEGIS im Hinblick auf „Grenzen der Vorhersage“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS und Kael bei „Grenzen der Vorhersage“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-072",
+   "question": "Braucht der Roman eine Verbindung von AEGIS und Kael bei „Grenzen der Vorhersage“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-073",
+   "question": "In welchem denkbaren Fall könnte AEGIS bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Grenzen der Vorhersage“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-074",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS und Kael in Bezug auf „Grenzen der Vorhersage“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-075",
+   "question": "Welche ältere Lesart von AEGIS oder Kael könnte die Gegenüberstellung unter „Grenzen der Vorhersage“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS und Kael unter „Grenzen der Vorhersage“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-aegis-077",
+   "question": "Wo unterscheiden sich AEGIS und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Legitimation von Kontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-078",
+   "question": "Welche Quelle verbindet AEGIS mit Ontologischer blinder Fleck in Bezug auf „Legitimation von Kontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-079",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von AEGIS unter „Legitimation von Kontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-080",
+   "question": "Wie könnte sich das Wissen über AEGIS vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Legitimation von Kontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS und Ontologischer blinder Fleck bei „Legitimation von Kontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-082",
+   "question": "Falls AEGIS im Hinblick auf „Legitimation von Kontrolle“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS und Ontologischer blinder Fleck bei „Legitimation von Kontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-084",
+   "question": "Braucht der Roman eine Verbindung von AEGIS und Ontologischer blinder Fleck bei „Legitimation von Kontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-085",
+   "question": "In welchem denkbaren Fall könnte AEGIS bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Legitimation von Kontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-086",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS und Ontologischer blinder Fleck in Bezug auf „Legitimation von Kontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-087",
+   "question": "Welche ältere Lesart von AEGIS oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Legitimation von Kontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS und Ontologischer blinder Fleck unter „Legitimation von Kontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-aegis-089",
+   "question": "Wo unterscheiden sich AEGIS und Oblivion, wenn man sie unter dem Gesichtspunkt „Übergang zur Pluralität“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-090",
+   "question": "Welche Quelle verbindet AEGIS mit Oblivion in Bezug auf „Übergang zur Pluralität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-091",
+   "question": "Welche Grenzen aus der Seite zu Oblivion müsste eine Deutung von AEGIS unter „Übergang zur Pluralität“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-092",
+   "question": "Wie könnte sich das Wissen über AEGIS vom Wissen über Oblivion unterscheiden, wenn „Übergang zur Pluralität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS und Oblivion bei „Übergang zur Pluralität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-094",
+   "question": "Falls AEGIS im Hinblick auf „Übergang zur Pluralität“ anders festgelegt wird: Welche Aussagen über Oblivion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS und Oblivion bei „Übergang zur Pluralität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-096",
+   "question": "Braucht der Roman eine Verbindung von AEGIS und Oblivion bei „Übergang zur Pluralität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-097",
+   "question": "In welchem denkbaren Fall könnte AEGIS bestehen, ohne dass Oblivion dieselbe Funktion übernimmt, und was würde das für „Übergang zur Pluralität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-098",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS und Oblivion in Bezug auf „Übergang zur Pluralität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-099",
+   "question": "Welche ältere Lesart von AEGIS oder Oblivion könnte die Gegenüberstellung unter „Übergang zur Pluralität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-aegis-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS und Oblivion unter „Übergang zur Pluralität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis",
+    "oblivion"
+   ]
+  }
+ ]
+}

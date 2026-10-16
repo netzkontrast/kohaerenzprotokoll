@@ -1,0 +1,235 @@
+{
+  "document": "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko",
+  "drive_id": "1-iYmnI69DXcoM0-SFK2fduv7duVUVbhKmnkiWqK9vg8",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-228/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 67,
+    "decided_by_lookup": 55,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English essay reading the novel through TSDP: its new surfaces are the clinical categories (ANP, EP, ISH), Praetor, its phobias and dyads and its own analytic phrases; what it says of the novel's world went on existing pages and two records.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        62,
+        66,
+        68,
+        72,
+        74,
+        88,
+        134
+      ],
+      "attribution": "",
+      "note": "AEGIS as externalized trauma logic, not a malevolent AI"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        134
+      ],
+      "attribution": "",
+      "note": "AEGIS's fate, in the English form"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        121,
+        125
+      ],
+      "attribution": "",
+      "note": "The Gödel-Gambit as the climactic manoeuvre"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        90,
+        111
+      ],
+      "attribution": "",
+      "note": "Juna as the external influence AEGIS tries to sever"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        36,
+        49,
+        56,
+        121,
+        133,
+        134
+      ],
+      "attribution": "",
+      "note": "System Kael as a psycho-architectural battleground and its fate"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        96,
+        100,
+        106,
+        107
+      ],
+      "attribution": "",
+      "note": "The Kernwelten as psychodrama externalizing Kael's psyche"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        111
+      ],
+      "attribution": "",
+      "note": "Kiko among the EPs"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        47,
+        55,
+        107
+      ],
+      "attribution": "",
+      "note": "Lex as an ANP, analyst, and pole of the Lex vs. Nyx dyad"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link to Juna as what AEGIS cannot control"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        121,
+        134
+      ],
+      "attribution": "",
+      "note": "Functional multiplicity as Kael's stable state"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        74
+      ],
+      "attribution": "",
+      "note": "The Negentropie-Fehlinterpretation"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        62
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis in Das Nichts Rauschen"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        55,
+        89
+      ],
+      "attribution": "",
+      "note": "Nyx as an EP, the fight-protector"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Oblivion as an EP and the dread of hopelessness"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        48
+      ],
+      "attribution": "",
+      "note": "Rhys as an ANP and caretaker"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        28,
+        88,
+        111
+      ],
+      "attribution": "",
+      "note": "Risse as the visualization of EP intrusions"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        29,
+        56
+      ],
+      "attribution": "",
+      "note": "Selene as the ISH and the system's internal therapist"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13,
+        25
+      ],
+      "attribution": "",
+      "note": "TSDP applied as an epistemological challenge"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J49 (Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, the world names, read on kern-welten); `System Kael` on kael, `System AEGIS` on aegis; TSDP's full name read on tsdp; `Negentropie-Fehlinterpretation` read on negentropie",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 49,
+      "decision": "occurrence",
+      "why": "the general sense in the phobia list"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "ANP/EP/ISH as categories",
+    "Praetor",
+    "the phobias and dyads",
+    "the perverse learning loop",
+    "Coherence through Negation",
+    "the epistemological checkmate"
+  ],
+  "internal_tension": "it adopts one alter ensemble while noting that other sources give variant lists (L41); its numbering begins at section 2",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

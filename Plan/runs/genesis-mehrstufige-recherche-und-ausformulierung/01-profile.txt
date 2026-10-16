@@ -1,0 +1,14 @@
+# genesis-mehrstufige-recherche-und-ausformulierung
+  lines                686  (frontmatter ends at 9)
+  body words           10763
+  headings             20   bold-only lines 21
+  table rows           11   code fences 0
+  question marks       40
+  backslash escapes    184
+  typographic marks    28   ascii quotes 510
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    182
+  repeated labels      Dominante Stimmung/Atmosphäre x13, Perspektive x13, Spezifische Techniken/Beispiele x13, Stylistische Direktiven x13, Ziel x13, Nutzen für Outline x4, Potenzielle Fallstricke x4, Relevanz x4
+  longest line         11541 chars
+

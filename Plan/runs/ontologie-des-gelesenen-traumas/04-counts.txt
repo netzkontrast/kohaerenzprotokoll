@@ -1,0 +1,51 @@
+# counts for 42 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis-Krise                    18 word    18 in   [22, 24, 30, 34, 44, 46]
+  Genesis-Paradoxon                 1 word     1 in   [13]
+  AEGIS                            10 word    11 in   [44, 56, 66, 96, 98, 114]
+                                    1      as AEGIS-Systems
+  'O'                              22 word    22 in   [22, 24, 26, 56, 68, 72]
+  Leere                             6 word     6 in   [44, 56, 96, 98, 114, 221]
+  Ich                               8 word     9 in   [44, 56, 66, 96, 114, 136]
+  Nichts Rauschen                   1 word     2 in   [98]
+  Zersetzungsdruck                  1 word     1 in   [114]
+  Echos des Ursprungs               2 word     2 in   [44, 142]
+  operationaler Schließung          1 word     1 in   [116]
+  fünf fundamentalen Konflikte      3 word     5 in   [44, 56, 66, 96, 160]
+  Systemkohäsion                    2 word     2 in   [44, 56]
+  Fusionsentität                    1 word     1 in   [142]
+  Leseakt                           6 word     6 in   [22, 56, 66, 128, 197, 210]
+  fixierten Vergangenheit           3 word     3 in   [34, 204, 208]
+  Potentialität                    27 word    29 in   [13, 24, 26, 30, 42, 46]
+                                    2      as Potentialitäten
+  Aktualisierung                    9 word     9 in   [24, 68, 106, 128, 136, 140]
+  Aktualität                        7 word     7 in   [42, 46, 96, 154, 166, 210]
+  Möglichkeitsraum                  3 word     3 in   [24, 34, 160]
+  Wiedererleben                    13 word    15 in   [26, 102, 106, 120, 128, 136]
+                                    2      as Wiedererlebens
+  Schrödingers Text                 1 word     1 in   [96]
+  Beobachterinduzierter Kollaps     1 word     1 in   [197]
+  Vergangenes Ereignis              1 word     1 in   [160]
+  Quelldokument                     1 word     1 in   [114]
+  dunamis                          10 word    10 in   [26, 42, 46, 56, 86, 96]
+  energeia                          5 word     5 in   [42, 44, 96, 162]
+  entelecheia                       1 word     1 in   [42]
+  hulê                              2 word     2 in   [42, 44]
+  eidos                             2 word     2 in   [42, 44]
+  morphê                            1 word     1 in   [42]
+  coincidentia oppositorum          2 word     2 in   [64, 66]
+  Ineffabile                        1 word     1 in   [64]
+                                    1      as ineffabilen
+  Summe über die Historien          6 word     6 in   [26, 50, 54, 86, 96, 194]
+  It from Bit                       9 word     9 in   [26, 80, 84, 98, 196, 225]
+  Superposition                     7 word     7 in   [30, 56, 94, 96, 98, 162]
+  Schrödingers Katze                1 word     1 in   [94]
+  Zen-Koan                          3 word     3 in   [170, 174, 200]
+  PTBS                              1 word     1 in   [124]
+  Hippocampus                       2 word     2 in   [124, 126]
+  Amygdala                          1 word     1 in   [126]
+  Trauma-informierte Narratologie    1 word     1 in   [132]
+  unzuverlässiger Erzähler          1 word     1 in   [138]

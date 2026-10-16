@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      44
+  backslash escapes      239
+  typographic marks      28
+  ascii quotes           162
+
+# inflection families -- one term, several surfaces
+  quant    Quanten, Quantenaspekte, Quantenberechnung, Quantenberechnungsprozessen, Quantencomputation, Quantencomputer, Quantencomputing, Quantendynamik, Quantenebene, Quantenfeldtheorie, Quantenfluktuationen, Quantengeometrie, Quantengravitationsschaum, Quantenmechanismen, Quantennatur, Quantennetzwerk, Quantennetzwerkdynamik, Quantennetzwerks, Quantenphänomene, Quantenprozessen, Quantensubstrat, Quantensysteme, Quantenvakuumfluktuationen, Quantenverschränkungs, Quantenwahrscheinlichkeiten, Quantenwellenresonanz, Quantitative, Quantum
+  inter    Interaction, Interaktion, Interaktionen, Interaktionsdynamiken, Interaktionsmechanismen, Interaktionsmöglichkeiten, Interaktionspotential, Interaktive, Interface, Interfaces, Interferenz, Internet, Interpretation, Interpretationen, Interpretationsebene, Interpretationsprozess, Intervention
+  infor    Informatik, Information, Informationen, Informations, Informationsaustausch, Informationsebene, Informationsfeld, Informationsfeldern, Informationsflut, Informationsintegration, Informationsphysik, Informationspotential, Informationssemantik, Informationssubstrat, Informationstheorie, Informationsverarbeitung
+  syste    SYSTEmS, System, Systematic, Systembefehle, Systemdynamik, Systeme, Systemen, Systemfehler, Systemic, Systeminstabilität, Systemische, Systemkollaps, Systems, Systemverhalten, Systemversagen, Systemzusammenbrüchen
+  bewus    Bewusstsein, Bewusstseine, Bewusstseins, Bewusstseinsfelder, Bewusstseinsfeldern, Bewusstseinsfeldes, Bewusstseinsformen, Bewusstseinsintegrationstheorien, Bewusstseinsmodelle, Bewusstseinsproblem, Bewusstseinstheorien, Bewusstseinszuständen
+  simul    Simulating, Simulation, Simulationen, Simulations, Simulationsargument, Simulationsfehler, Simulationsmanipulation, Simulationsparameter, Simulationsparametern, Simulationsphysik, Simulationsregeln
+  emerg    Emerg, Emergence, Emergent, Emergente, Emergenter, Emergentes, Emergenz, Emergenztheorie, Emergenztheorien, Emerging
+  netzw    Netzwerk, Netzwerkdynamiken, Netzwerke, Netzwerken, Netzwerkneurowissenschaft, Netzwerks, Netzwerktheorie, Netzwerkzustand
+  parad    Paradigmas, Paradigmen, Paradigms, Paradox, Paradoxes, Paradoxien, Paradoxon, Paradoxons
+  model    Model, Modeling, Modell, Modelle, Modellen, Modellkollaps, Models
+  reali    Realismus, Realities, Reality, Realität, Realitäten, Realitätssimulation, Realitätsverzerrung
+  theor    THEORY, Theoretical, Theoretische, Theorie, Theorien, Theories, Theory
+  unive    Universal, Universen, Universes, Universiteit, University, Universum, Universums
+  vakuu    Vakuum, Vakuumenergiedichte, Vakuumfluktuationen, Vakuumfluktuations, Vakuumzustand, Vakuumzustände, Vakuumzuständen
+  algor    Algorithmen, Algorithmic, Algorithmisch, Algorithmische, Algorithms, Algorithmus
+  berec    Berechnung, Berechnungsbeschränkungen, Berechnungsgerüst, Berechnungslogik, Berechnungsprozess, Berechnungsrahmens
+  insta    INSTABILITY, Instabilities, Instabilität, Instabilitäten, Instantiation, Instanziierung
+  metho    Methode, Methoden, Methodiken, Methodologie, Methodologies, Methods
+  multi    Multi, Multimodal, Multiplizität, Multisector, Multisensory, Multiversen
+  physi    Physical, Physics, Physik, Physikalische, Physikalisches, Physiksimulation
+  psych    Psyche, Psychological, Psychologie, Psychologischen, Psychologischer, Psychology
+  selbs    Selbst, Selbstbewusstsein, Selbsterkenntnis, Selbstgefühl, Selbstorganisation, Selbstverlusts
+  techn    Technik, Techniken, Techniques, Technologien, Technologies, Technology
+  trans    Transactions, Transformation, Transformationen, Transformative, Transition, Transzendenz
+  compu    Computation, Computational, Computer, Computers, Computing
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantic
+  Anti < Semantik
+  Anti < Quantitative
+  Anti < Instantiation
+  Anti < Informationssemantik
+  Bark < Unvorhersehbarkeit
+  Bark < Nachvollziehbarkeit
+  Book < Books
+  Bulk < Bulks
+  Code < Codes
+  Code < Codex
+  Code < Quellcode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Eine < Keine
+  Eine < Reine
+  Eine < Seine
+  Eine < Bewusstseine

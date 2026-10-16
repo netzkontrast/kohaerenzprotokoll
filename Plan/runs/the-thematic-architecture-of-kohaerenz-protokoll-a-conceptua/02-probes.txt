@@ -1,0 +1,50 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      76
+  typographic marks      15
+  ascii quotes           104
+
+# inflection families -- one term, several surfaces
+  coher    Coherence, Coherent, Coheron, Coherons
+  prote    Protect, Protection, Protector, Protects
+  proto    Protocol, Protocols, Protokoll
+  syste    System, Systemic, Systems
+  aegis    AEGIS, Aegis
+  ambiv    Ambivalence, Ambivalent
+  careg    Caregiver, Caregiving
+  compa    Comparative, Comparison
+  confl    Conflict, Conflicts
+  contr    Contract, Control
+  corre    Corrective, Correspondence
+  criti    Criticism, Criticizes
+  duali    Dualities, Duality
+  emerg    Emergence, Emergent
+  integ    Integration, Integrator
+  inter    Interaction, Internal
+  sexua    Sexualization, Sexualized
+  struc    Structural, Structure
+  theor    Theorems, Theory
+  wavel    Wavelet, Wavelets
+
+# substring pairs -- never one term, often merged by accident
+  Dual < Duality
+  Dual < Dualities
+  Fear < Fears
+  Hero < Coheron
+  Hero < Coherons
+  Seek < Seeks
+  Ship < Relationships
+  AEGIS < Aegis
+  Logic < Psychological
+  Logic < Epistemological
+  Action < Interaction
+  System < Systems
+  System < Systemic
+  Coheron < Coherons
+  Protect < Protects
+  Protect < Protector
+  Protect < Protection
+  Wavelet < Wavelets
+  Conflict < Conflicts
+  Physical < Metaphysical

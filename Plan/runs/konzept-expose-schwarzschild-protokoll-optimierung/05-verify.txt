@@ -1,0 +1,136 @@
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Bericht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Bericht` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#2]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Lektion"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            13
+
+`Lektion` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#3]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Lektionen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            10
+
+`Lektionen` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#2]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#0]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#0]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Gravitations-Theorie der Wahrheit"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Gravitations-Theorie der Wahrheit` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#4]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "unendlicher ontologischer Masse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`unendlicher ontologischer Masse` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#2]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Kernwelten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kernwelten` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#5]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "AEGIS"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`AEGIS` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#31]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "K-Probe"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K-Probe` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#1]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Primär-Datum"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Primär-Datum` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#9]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Elara Vance"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Elara Vance` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#3]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna/V` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#3]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#1]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Potentialmeer"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Potentialmeer` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#5]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Risse` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#3]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Logos"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Logos` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#12]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Eros"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Eros` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#10]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Abyssos"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Abyssos` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#8]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Dramaturgischer Aufseher"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dramaturgischer Aufseher` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#1]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Psychoanalytisch"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Psychoanalytisch` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#3]
+$ read.py konzept-expose-schwarzschild-protokoll-optimierung --count "Großen Faktum"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Großen Faktum` ^[konzept-expose-schwarzschild-protokoll-optimierung.md:#1]
+$ grep -n "?" (question marks, lines 28 90 142 294 304 366 375 438-447)
+28 90 142 294 304 366 375 438 439 440 441 442 443 444 445 446 447 
+# stance_marker_count 7 = Bericht 2 + Lektion 3 + Lektionen 2
+# candidates 84 (04-counts.txt header); zeros 0

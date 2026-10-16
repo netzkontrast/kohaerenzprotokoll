@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-epische-plot-anreicherung
+  lines                267  (frontmatter ends at 9)
+  body words           5516
+  headings             23   bold-only lines 3
+  table rows           31   code fences 0
+  question marks       5
+  backslash escapes    186
+  typographic marks    66   ascii quotes 16
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    72
+  repeated labels      none
+  longest line         1937 chars
+

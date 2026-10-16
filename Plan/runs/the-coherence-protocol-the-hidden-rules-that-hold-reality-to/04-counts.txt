@@ -1,0 +1,33 @@
+# counts for 28 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Coherence Protocol                5 word     6 in   [11, 17, 53, 54, 65, 71]
+  Cache Coherence Problem           1 word     1 in   [23]
+  cache coherence protocol          1 word     1 in   [25]
+  MESI                              2 word     2 in   [25, 54]
+  overhead                          1 word     1 in   [27]
+  quantum coherence                 3 word     3 in   [31, 33, 35]
+  Decoherence                       2 word     2 in   [37, 55]
+  Quantum Resource Theories         1 word     1 in   [35]
+  QRT                               1 word     1 in   [35]
+  self-organization                 1 word     1 in   [41]
+  downward causation                1 word     1 in   [43]
+  emergent property                 2 word     2 in   [43, 45]
+  Coherence Through Constraint Generation    1 word     1 in   [45]
+  Protocol Ontology                 1 word     1 in   [58]
+  Dual Kernel Theory                1 word     1 in   [58]
+  Coherence Kernel                  1 word     1 in   [60]
+  Collapse Kernel                   1 word     1 in   [61]
+  K₁                                3 word     4 in   [60, 63, 65, 71]
+  K₀                                3 word     4 in   [61, 63, 65, 71]
+  reversible computation            1 word     2 in   [60, 61]
+  irreversible computation          1 word     1 in   [61]
+  Coherons                          2 word     2 in   [63, 71]
+  Corrective Wavelets               2 word     2 in   [63, 71]
+  felt side of re-coherence         1 word     1 in   [65]
+  erosive pressure                  1 word     1 in   [63]
+  atoms of persistence              1 word     1 in   [63]
+  correspondence check              2 word     2 in   [37, 55]
+  superposition                     4 word     4 in   [31, 33, 55]

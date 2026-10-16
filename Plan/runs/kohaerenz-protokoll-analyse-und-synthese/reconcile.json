@@ -1,0 +1,135 @@
+{
+  "document": "kohaerenz-protokoll-analyse-und-synthese",
+  "drive_id": "1QyvEp0IW2dwok8t0-kcIFrEoJcsi0RWEFbIOloUOqDA",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; rlm_ingest not run; light pass — in content a near version of kohaerenz-protokoll-detaillierte-recherche (223) — readings by one wiki-reader subagent (Sonnet) only where it adds, from Plan/runs/ingest-227/brief.md; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 91,
+    "decisions": 92,
+    "decided_by_lookup": 87,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A near version in content of document 223, sharing only five long lines: its new surfaces are the same borrowed theory and constructs; what it adds — the Dramatica throughline table, AEGIS's two paths, the transformed Guardians, a Kishōtenketsu application table — went on existing pages and one record. Light pass.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        45,
+        142,
+        143
+      ],
+      "attribution": "",
+      "note": "AEGIS as Objective Story and its two paths at the Gödel-Gambit"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "the transformed AEGIS marked by ineffiziente Schönheit and algorithmische Melancholie"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        132,
+        136
+      ],
+      "attribution": "",
+      "note": "the Gödel-Gambit as climax of the Objective Story"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        151
+      ],
+      "attribution": "",
+      "note": "the Guardians of the transformed AEGIS"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        47,
+        48,
+        136
+      ],
+      "attribution": "",
+      "note": "Juna/V as Impact Character, relationship Subjective Story, catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "Kael as Main Character in the essay's Dramatica table"
+    },
+    {
+      "page": "kishotenketsu",
+      "lines": [
+        337
+      ],
+      "attribution": "",
+      "note": "the essay's application table for Kishōtenketsu"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        142
+      ],
+      "attribution": "",
+      "note": "Pfad A: dissolution into the Nichts Rauschen"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "J9 (the Protokoll's name), J34 (Juna/V on juna); `Fragment` is Fragment 'O', not psychic fragmentation; `Kishōtenketsu-Struktur` read on kishotenketsu",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 32,
+      "decision": "occurrence",
+      "why": "emergence in general, not AEGIS's emergence"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "Specification Gaming, Fixes That Fail",
+    "LFI and D2",
+    "IIT and Φ",
+    "the rhizomatic identity",
+    "the Gärtner-Axiom and Fragment 'O'",
+    "the triple helix",
+    "the reader's protocol"
+  ],
+  "internal_tension": "its title calls it definitive (L13); it reads the D2 blind spot and the Gödel-Gambit as two views of one state",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

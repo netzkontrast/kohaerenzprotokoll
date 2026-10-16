@@ -1,0 +1,99 @@
+# counts for 77 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             24 word    28 in   [23, 36, 56, 66, 84, 85]
+                                    4      as Kaels
+  AEGIS                            27 word    27 in   [24, 34, 46, 52, 60, 67]
+  Juna                             12 word    12 in   [25, 56, 60, 85, 86, 108]
+  Juna/V                            2 word     2 in   [25, 85]
+  System Kael                       2 word     2 in   [23, 84]
+  System AEGIS                      1 word     1 in   [24]
+  Die Anomalie                      2 word     2 in   [25, 110]
+  Das Fundament                     7 word     7 in   [26, 108, 118, 120, 122, 123]
+  Fundament                         8 word    10 in   [26, 60, 108, 118, 120, 122]
+                                    2      as Fundaments
+                                    1      as fundamentale
+                                    1      as fundamentaler
+  Moonshine Link                    3 word     3 in   [60, 86, 115]
+  Moonshine-Link                    2 word     2 in   [56, 115]
+  K\_0                             12 word    12 in   [26, 36, 48, 50, 52, 67]
+  K\_1                             12 word    12 in   [34, 44, 46, 50, 52, 101]
+  Kernel 1                          1 word     1 in   [34]
+  Kernel 0                          1 word     1 in   [36]
+  Risse                             1 word     1 in   [36]
+  Nothing Noise                     1 word     1 in   [36]
+  Nichts Rauschen                   1 word     1 in   [50]
+  Exklusionäre Ordnung              1 word     1 in   [34]
+  Kohärenz Protokoll                9 word    10 in   [15, 21, 28, 50, 68, 151]
+  Kohärenz-Prime                    3 word     3 in   [72, 76, 95]
+  Lex                               1 word     1 in   [66]
+  Nyx                               1 word     1 in   [66]
+  System Mind                       3 word     3 in   [19, 21, 68]
+  Story Mind                        3 word     3 in   [13, 21, 163]
+  Existenz-Matrizen                 1 word     1 in   [21]
+  Mosaik                            3 word     7 in   [17, 126, 128, 130, 133, 137]  <-- substring
+                                    3      as Mosaik-Struktur
+                                    1      as Mosaik-Form
+  Gödel-Gambit                      2 word     2 in   [97, 106]
+  Maximal-Plotter                   1 word     1 in   [138]
+  Dual Kernel Theory                8 word     8 in   [17, 32, 40, 42, 165, 169]
+  DKT                               2 word     2 in   [42, 52]
+  Isomorphen Architektur            1 word     1 in   [32]
+  Isomorphie                        4 word     4 in   [30, 32, 132, 151]
+  Seltsamer Attraktor               1 word     1 in   [124]
+  Monster-Gruppe                    3 word     3 in   [58, 60, 122]
+  Monstrous Moonshine               9 word     9 in   [17, 54, 56, 58, 151, 177]
+  Grand Argument Story              1 word     1 in   [15]
+  Funktionale Multiplizität         3 word     3 in   [62, 68]
+  Interne Helfer                    1 word     1 in   [116]
+  Trauma Time                       1 word     1 in   [133]
+  Maxwellscher Dämon                1 word     1 in   [101]
+  Landauer-Prinzips                 1 word     1 in   [46]
+  Edge of Coherence                 1 word     1 in   [52]
+  Dramatica                        12 word    18 in   [11, 17, 21, 70, 72, 90]
+                                    2      as Dramatica-Storyform
+                                    1      as Dramatica-Metaphysik
+                                    1      as Dramatica-Theorie
+                                    1      as Dramatica-Architektur
+  Storyform                         6 word     9 in   [17, 28, 70, 72, 161, 162]
+                                    1      as Storyforms
+  Throughline                       1 word     2 in   [74, 82]
+                                    1      as Throughlines
+  Main Character                    2 word     3 in   [23, 36, 84]
+  Influence Character               2 word     2 in   [24, 85]
+  Overall Story                     1 word     1 in   [36]
+  Objective Story                   1 word     1 in   [83]
+  Relationship Story                1 word     1 in   [86]
+  Diagonalen Opposition             3 word     3 in   [85, 88, 90]
+  Domain                            1 word     1 in   [82]
+  Physics                           5 word     5 in   [83, 86, 93, 180]
+  Psychology                        4 word     4 in   [83, 86, 93]
+  Universe                          3 word     3 in   [85, 92]
+  Fixed Attitude                    1 word     1 in   [84]
+  Change Resolve                    1 word     1 in   [84]
+  Control                           2 word     3 in   [101, 151, 182]
+                                    1      as Controlled
+  Uncontrolled                      3 word     3 in   [102, 151]
+  Faith                             2 word     2 in   [103, 106]
+  Disbelief                         2 word     2 in   [104, 106]
+  Signposts                         1 word     1 in   [137]
+  TSDP                              5 word     7 in   [15, 17, 34, 62, 64, 116]
+                                    1      as TSDP-Theorie
+                                    1      as TSDP-Metapher
+  ANP                               6 word     9 in   [34, 52, 66, 67, 116, 151]
+  EP                                5 word     8 in   [36, 52, 66, 67, 116, 151]
+  Tertiäre Dissoziation             1 word     1 in   [66]
+  Fusion                            4 word     4 in   [68, 187]
+                                    1      as fusionieren
+  Parakonsistente Logik             1 word     1 in   [123]
+  Dialetheismus                     1 word     1 in   [123]
+  Quantenverschränkung              2 word     2 in   [115]
+  Prehension                        1 word     1 in   [115]
+  Mutuelle Information              1 word     1 in   [46]
+  Qualia                            2 word     2 in   [52, 165]
+                                    1      as qualia-at-the-edge-a-dual-kernel-theory-of-consciousness-96a3c8c778e9
+  Gnosis                            1 word     1 in   [124]
+  Episteme                          1 word     1 in   [124]
+  Deus ex Machina                   1 word     1 in   [124]

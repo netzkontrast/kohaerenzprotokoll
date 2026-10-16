@@ -1,0 +1,306 @@
+{
+  "document": "aegis-analyse-und-manifest-postulation",
+  "drive_id": "1SWxd5ZBufgM01zWjySAfi_ICsJ3LPxE3R1OuBmxInCQ",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 16,
+  "backslash_escapes": 116,
+  "typographic_marks": 27,
+  "ascii_quotes": 154,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemannahmen",
+      "Systeme",
+      "Systemebene",
+      "Systemebenen",
+      "Systemen",
+      "Systemfehler",
+      "Systeminkonsistenz",
+      "Systeminstabilitäten",
+      "Systemintegrität",
+      "Systemische",
+      "Systems",
+      "Systemsicherheit",
+      "Systemstruktur",
+      "Systemteile",
+      "Systemtheorie",
+      "Systemverlangsamungen",
+      "Systemzuständen"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modellabhängigkeit",
+      "Modellaktualisierung",
+      "Modelle",
+      "Modellen",
+      "Modellgenauigkeit",
+      "Modellierung",
+      "Modellrevision",
+      "Modellupdate"
+    ],
+    "selbs": [
+      "Selbstbezug",
+      "Selbstbezüglichkeit",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbstmodellen",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstreferenz",
+      "Selbstvalidierung",
+      "Selbstverifikation"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsregeln",
+      "Interaktiv",
+      "Interessanterweise",
+      "Interface",
+      "Interne",
+      "Interventionen"
+    ],
+    "verif": [
+      "Verification",
+      "Verifikation",
+      "Verifikationen",
+      "Verifikationsaufwand",
+      "Verifizierbare",
+      "Verifizierbarkeit",
+      "Verifizierte",
+      "Verifizierungsschritte"
+    ],
+    "daten": [
+      "Daten",
+      "Datenablehnung",
+      "Datenbanken",
+      "Datenbasis",
+      "Datenflüsse",
+      "Datenschutz",
+      "Datenzerfall"
+    ],
+    "konst": [
+      "Konstruierbarkeit",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktive",
+      "Konstruktiver",
+      "Konstruktivist",
+      "Konstruktivistische"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungsarten",
+      "Ordnungsbildung",
+      "Ordnungsformen",
+      "Ordnungsmechanismen",
+      "Ordnungsprinzip",
+      "Ordnungsprinzipien"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationelle",
+      "Informationsbeschränkungen",
+      "Informationstheorie",
+      "Informationsverarbeitung"
+    ],
+    "konse": [
+      "Konsens",
+      "Konsensalgorithmen",
+      "Konsensmechanismen",
+      "Konsensschwellenwerte",
+      "Konsequenz",
+      "Konsequenzen"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerkdynamik",
+      "Netzwerke",
+      "Netzwerks",
+      "Netzwerksicherheit",
+      "Netzwerktopologien"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozessalgebra",
+      "Prozesse",
+      "Prozessen",
+      "Prozesses",
+      "Prozesskalküle"
+    ],
+    "vertr": [
+      "Vertrauen",
+      "Vertrauens",
+      "Vertrauensbasis",
+      "Vertrauenslosigkeit",
+      "Vertrauensmodell",
+      "Vertrauenswürdigkeit"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweisbarkeit",
+      "Beweise",
+      "Beweisen",
+      "Beweissystemen"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlermodi",
+      "Fehlern",
+      "Fehlertolerante",
+      "Fehlertoleranz"
+    ],
+    "opera": [
+      "Operationale",
+      "Operationalismus",
+      "Operationen",
+      "Operationsbereiche",
+      "Operatoren"
+    ],
+    "reche": [
+      "Rechen",
+      "Rechenaufwand",
+      "Rechenzeit",
+      "Recherche",
+      "Recherchekontext"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsanker",
+      "Wahrheitsbegriff",
+      "Wahrheitsbegriffe"
+    ],
+    "adapt": [
+      "Adaptation",
+      "Adaptive",
+      "Adaptivität",
+      "Adaptivitätsmangel"
+    ],
+    "agent": [
+      "Agenten",
+      "Agentenbasierte",
+      "Agenteninteraktion",
+      "Agentivität"
+    ],
+    "anwen": [
+      "Anwendbarkeit",
+      "Anwendung",
+      "Anwendungen",
+      "Anwendungsfeld"
+    ],
+    "archi": [
+      "Architecture",
+      "Architectures",
+      "Architekten",
+      "Architektur"
+    ],
+    "besch": [
+      "Beschreibung",
+      "Beschreibungsansätze",
+      "Beschränkungen",
+      "Beschränkungsbefriedigung"
+    ],
+    "defin": [
+      "Definieren",
+      "Definition",
+      "Definitionen",
+      "Definitionsprobleme"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Semantik"
+    ],
+    [
+      "Anti",
+      "Byzantine"
+    ],
+    [
+      "Anti",
+      "Garantien"
+    ],
+    [
+      "Arch",
+      "Architekten"
+    ],
+    [
+      "Arch",
+      "Architektur"
+    ],
+    [
+      "Arch",
+      "Architecture"
+    ],
+    [
+      "Arch",
+      "Architectures"
+    ],
+    [
+      "Arch",
+      "Hierarchisches"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Tendenzen"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Ende",
+      "Vergleichende"
+    ],
+    [
+      "Ende",
+      "Korrespondierendes"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formung"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ]
+  ]
+}

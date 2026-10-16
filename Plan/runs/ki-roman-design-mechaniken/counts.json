@@ -1,0 +1,543 @@
+{
+  "document": "ki-roman-design-mechaniken",
+  "drive_id": "1GM_wZwwwPa4hqzF1Cl8dgbYa4ijvMZ0bgjDrLDEnm_o",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        152,
+        154,
+        176,
+        188,
+        249
+      ]
+    },
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        156,
+        165,
+        169,
+        183
+      ]
+    },
+    "AEGIS": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        156,
+        165,
+        183
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        184
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        154,
+        179
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Tertiärer Struktureller Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Gamma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Praetor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Echo von Panik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Trauma-Holding-Alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        192
+      ]
+    },
+    "Exekutivsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Systemische Stabilität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Fokus-Slider": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        165,
+        184
+      ]
+    },
+    "Text Overstep": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Alter-Verhandlung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Internal Party Management": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Memory Decryption": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Ontologische Ausrichtung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Core Gameplay Mechanics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Drama Manager": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        29,
+        31,
+        35,
+        43,
+        47,
+        51,
+        172,
+        188
+      ]
+    },
+    "Experience Manager": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        45,
+        47
+      ]
+    },
+    "Authorial Experience Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Hierarchical Task Network": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        51,
+        188,
+        211
+      ]
+    },
+    "HTN": {
+      "n": 5,
+      "n_including_compounds": 11,
+      "lines": [
+        29,
+        49,
+        51,
+        53,
+        167,
+        172,
+        210
+      ]
+    },
+    "Storylets": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        59,
+        63
+      ]
+    },
+    "Salienz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        63,
+        172
+      ]
+    },
+    "Lorebook": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        83,
+        85,
+        87,
+        89,
+        91,
+        114,
+        144,
+        178,
+        222,
+        223,
+        224,
+        225,
+        226
+      ]
+    },
+    "Player-Created Content": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        83,
+        85,
+        179,
+        190
+      ]
+    },
+    "PCC": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        83,
+        100,
+        174
+      ]
+    },
+    "RAG": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        85,
+        93,
+        95,
+        98,
+        102,
+        144,
+        174,
+        178,
+        188,
+        228,
+        230
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        178
+      ]
+    },
+    "Retrieval-Augmented Story Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "RASE": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        233
+      ]
+    },
+    "Authorial Anchors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Narratives Outpainting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Ankerszenen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Diegetisches Interface": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Glitch-Ästhetik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        123
+      ]
+    },
+    "Progressive Disclosure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Goldfish Memory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        253
+      ]
+    },
+    "Neurosymbolic Guardrails": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Multi-Agent Validation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Debate Protocol": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        145,
+        179
+      ]
+    },
+    "SCORE Framework": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Tool Calling": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Clocks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Success at a cost": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Search-Based Drama Management": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "SBDM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Declarative Optimization-based Drama Management": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "DODM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        41
+      ]
+    },
+    "Targeted Trajectory Distribution MDPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Director-Actor-Paradigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Director Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Actor Agents": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Branching Narratives": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        59
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Fehlattributionen von Erregung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Dramatica-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    }
+  }
+}

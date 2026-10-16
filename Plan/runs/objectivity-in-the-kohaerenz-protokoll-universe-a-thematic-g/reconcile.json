@@ -1,0 +1,153 @@
+{
+  "document": "objectivity-in-the-kohaerenz-protokoll-universe-a-thematic-g",
+  "drive_id": "1EQNMOU3TxIKiFnBUn24o_IlAw6qD-G9_ZBtasj6vcZI",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-363/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 42,
+    "decisions": 42,
+    "decided_by_lookup": 35,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English thematic essay on objectivity: its new surfaces are its labels for AEGIS's methods and borrowed epistemology; what it reads of AEGIS, Kael, the alters, the Kernwelten, Lex, Nyx, the Risse, TSDP and the Überwelt went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        25,
+        31,
+        48,
+        50,
+        51
+      ],
+      "attribution": "",
+      "note": "AEGIS as sterile, coherence-based objectivity and a confirmation-bias engine"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "The alters inside the guide's account of the TSDP structure"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        73,
+        79
+      ],
+      "attribution": "",
+      "note": "Juna/V as the guide's standpoint-theory figure and as AEGIS's excluded datum"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        27,
+        55,
+        57,
+        79,
+        89
+      ],
+      "attribution": "",
+      "note": "System Kael as fragmented consciousness whose trauma is external fact"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61
+      ],
+      "attribution": "",
+      "note": "The Kernwelten as engineered trauma-landscapes and a false balance"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        57,
+        61
+      ],
+      "attribution": "",
+      "note": "Lex as the rational alter in an internal trial, and the world that empowers Lex"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "Nyx as the aggressive protector presenting the evidence of trauma"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "The Risse as a literalized reproducibility crisis"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "TSDP as the structure of Kael's mind in the guide"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        49,
+        61
+      ],
+      "attribution": "",
+      "note": "The Überwelt as a closed feedback loop"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Logos-Prime` and `Mnemosyne-Archipel` names of Kernwelten, not the Guardians; `Genesis-Krise` named in scare quotes and not defined, an occurrence; `Juna/V` read on juna",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 73,
+      "decision": "reading",
+      "why": "Juna/V among the data AEGIS treats as entropy, read on the page"
+    }
+  ],
+  "not_promoted": [
+    "the view from nowhere, operational closure, epistemological blindness",
+    "the four methods as labels and false balance",
+    "the borrowed concepts (standpoint theory, Gödel, confirmation bias, reproducibility crisis, coherence and correspondence theories of truth)"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,71 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Tests, Allies, Enemies
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Seelen-Kohärenz-Programm          4 word     5 in   [11, 38, 121, 137, 248]
+                                    1      as Seelen-Kohärenz-Programms
+  Das Seelen-Kohärenz-Protokoll     1 word     1 in   [36]
+  Protagonisten-Fragmentierung      1 word     1 in   [11]
+  Protagonisten-System              8 word     8 in   [113, 151, 162, 181, 220, 233]
+  Hüter                            29 word    34 in   [11, 17, 24, 25, 28, 38]
+                                    4      as Hütern
+                                    1      as Hüter-Charaktere
+  Hüter der Realitäten              1 word     1 in   [136]
+  Überraum                          6 word     9 in   [11, 17, 25, 127, 136, 150]
+                                    2      as Überraums
+                                    1      as Überraum-Interface
+  Meta-Realität                     5 word     5 in   [137, 195, 208, 221, 260]
+  Schaltzentrale                    2 word     2 in   [131, 137]
+  Nexus                             2 word     2 in   [137, 195]
+  Archipel                          4 word     4 in   [80, 195, 196, 260]
+  Wächter-Insel                     1 word     1 in   [80]
+  Kognitive Stadt                   1 word     1 in   [54]
+  Bibliothek der Geister-Editionen    1 word     1 in   [93]
+  Brücken im Archipel               1 word     1 in   [196]
+  Realitätsriss                     2 word     2 in   [107, 183]
+  Risse                            18 word    19 in   [17, 24, 38, 113, 129, 137]
+                                    1      as Rissen
+  Glitches                          1 word     2 in   [46, 113]
+  Intrusion                         3 word     5 in   [46, 68, 81, 113]
+                                    2      as Intrusionen
+  Meta-Narrator                     2 word     3 in   [94, 113, 247]
+                                    1      as Meta-Narrator-Stimme
+  Meta-Erzählers                    1 word     1 in   [25]
+  M/R/P                             3 word     6 in   [25, 28, 113, 149]
+                                    2      as M/R/P-Modi
+                                    1      as M/R/P-Narrator
+  Der Architekt                     3 word     3 in   [53, 55, 149]
+  Das Echo                          2 word     2 in   [66, 68]
+  Der Wächter                       2 word     2 in   [79, 81]
+  Der Sucher                        2 word     2 in   [92, 94]
+  Der Funke                         2 word     2 in   [105, 107]
+  Personas                         10 word    10 in   [26, 28, 113, 151, 164, 183]
+  Integrations-Tools                1 word     1 in   [164]
+  funktionaler Multiplizität        1 word     1 in   [261]
+  Klarheit                          1 word     1 in   [261]
+  Ontologischer Schock 2.0          1 word     1 in   [210]
+  Seele=Info                        2 word     2 in   [174, 202]
+  Echos im Zersplitterten Spiegel    1 word     1 in   [42]
+  Die Jagd nach der Realität        1 word     1 in   [170]
+  Die Naht im Selbst                1 word     1 in   [170]
+  Bruch der Realitäten              1 word     1 in   [114]
+  Simulation                       10 word    12 in   [17, 113, 121, 129, 149, 150]
+                                    1      as Simulationen
+                                    1      as Simulationsebene
+  Kintsugi der Seele                1 word     1 in   [262]
+  NZT-Modus                         2 word     2 in   [13, 30]
+  Heldenreise                       3 word     5 in   [11, 22, 44, 172, 267]
+                                    2      as Heldenreise-Stufen
+  HJ-Stufe                         16 word    16 in   [52, 65, 78, 91, 104, 118]
+  Gewohnte Welt                     3 word     3 in   [44, 48, 52]
+  Ruf zum Abenteuer                 2 word     2 in   [22, 65]
+  Weigerung des Rufs                1 word     1 in   [78]
+  Mentor                            4 word     4 in   [44, 87, 91, 113]
+  Schwelle                          4 word     5 in   [22, 44, 100, 104, 113]
+                                    1      as Schwellenüberschreitung
+  Feuerprobe                        2 word     2 in   [172, 202]
+  Auferstehung                      3 word     3 in   [172, 241, 245]
+  Elixier                           3 word     3 in   [172, 254, 258]
+  Approach to the Inmost Cave       1 word     1 in   [161]

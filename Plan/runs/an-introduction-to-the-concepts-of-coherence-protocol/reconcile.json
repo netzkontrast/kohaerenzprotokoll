@@ -1,0 +1,162 @@
+{
+  "document": "an-introduction-to-the-concepts-of-coherence-protocol",
+  "drive_id": "1_Jv1aNdVGh8_JwFzuyHsjVM39_5F-YMWcOqMA19QA_w",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-358/brief.md, 2026-10-12; no record entries, no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 41,
+    "decisions": 44,
+    "decided_by_lookup": 32,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English orientation text for newcomers: its new surfaces are its labels for the two logics, the table headers and lens concepts; what it describes of AEGIS, Kael, the alters, DID, Juna, the Kernwelten, Kiko, Lex, the Moonshine-Link, Nyx, the Risse and Selene went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        30,
+        34,
+        45,
+        92
+      ],
+      "attribution": "",
+      "note": "AEGIS as the flawed god of exclusion"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        55,
+        63
+      ],
+      "attribution": "",
+      "note": "The parts of Kael's mind called alters"
+    },
+    {
+      "page": "did",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "Dissociative identity structure, abbreviated DID"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        90,
+        92
+      ],
+      "attribution": "",
+      "note": "Juna/V as the connection beyond AEGIS's control"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        24,
+        55,
+        64,
+        102
+      ],
+      "attribution": "",
+      "note": "Logic of Integration and functional multiplicity"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        74,
+        79,
+        80,
+        81,
+        82
+      ],
+      "attribution": "",
+      "note": "The four Kernwelten as simulated realities"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "Kiko (The Child) in the table of alters"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "Lex (The Analyst) in the table of alters"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link as a bond of resonance and empathy"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "Nyx (The Protector) holding righteous anger"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "Risse as the glitches AEGIS's control creates"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "Selene (The Integrator) in the table of alters"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Cerberus-Labyrinth`, `Kairos-Potentialis`, `Logos-Prime` and `Mnemosyne-Archipel` names of Kernwelten, not the Guardians; `ontological exploit` not alex; `Kohärenz Protokoll` the novel's title",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "Logic of Exclusion and Logic of Integration as labels",
+    "Sea of Potentiality and the table headers",
+    "ontological exploit and the lens concepts"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

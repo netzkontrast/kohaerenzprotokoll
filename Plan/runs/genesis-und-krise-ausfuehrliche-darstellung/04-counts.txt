@@ -1,0 +1,76 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Nichts Rauschen                   3 word     5 in   [17, 45, 63, 65, 105]
+  Nichts Rauschens                  2 word     2 in   [63, 65]
+  Rauschen                          6 word    12 in   [17, 19, 23, 25, 31, 37]
+                                    6      as Rauschens
+  Leere                             7 word     7 in   [17, 25, 37, 39, 57, 59]
+  AEGIS                            33 word    34 in   [33, 35, 39, 45, 47, 51]
+  Komponente 734                   18 word    18 in   [43, 45, 47, 51, 53, 57]
+  734                              24 word    25 in   [43, 45, 47, 51, 53, 57]
+  Komponente                       19 word    20 in   [43, 45, 47, 51, 53, 57]
+                                    1      as Komponenten
+  Überwelt                          8 word     8 in   [55, 57, 59, 63, 83, 85]
+  Kael                              3 word     3 in   [103, 107]
+  Kernwelten                        2 word     2 in   [105, 107]
+  Kohärenz Protokoll                1 word     1 in   [95]
+  Kohärenz                          6 word     8 in   [17, 23, 31, 59, 77, 87]
+                                    1      as Kohärenz-Fragment
+                                    1      as Kohärenzwahrung
+  Cluster                           4 word     4 in   [29, 31, 37]
+  Triaden                           1 word     1 in   [29]
+  Tetraden                          1 word     1 in   [29]
+  Herkunfts-Echos                   1 word     1 in   [29]
+  Echo                              5 word     9 in   [19, 29, 41, 47, 53, 59]
+                                    3      as Echos
+  Klick                             1 word     2 in   [25, 39]
+                                    1      as Klicken
+  Kernprinzip                       2 word     2 in   [41, 95]
+  Kernaxiome                        2 word     2 in   [65, 85]
+  Systemischer Lockdown             1 word     1 in   [99]
+  Grenze                            6 word     7 in   [41, 45, 51, 61, 65, 75]
+                                    1      as Grenzen
+  Abwehrfront                       1 word     1 in   [41]
+  Resonanz                         11 word    15 in   [19, 21, 25, 29, 31, 47]
+                                    1      as Resonanzen
+                                    1      as Resonanzsignale
+                                    1      as Resonanzprofilen
+                                    1      as Resonanzfrequenz
+  Dissonanz                         5 word     5 in   [23, 47, 53, 79, 89]
+  Anomalie                          6 word     7 in   [45, 53, 75, 77, 83, 87]
+                                    1      as Anomalien
+  externen Entität                  3 word     3 in   [83, 91, 105]
+  Entität                          12 word    12 in   [83, 85, 87, 91, 93, 99]
+  Kohärenz-Fragment                 1 word     1 in   [77]
+  Fragment                          5 word    11 in   [23, 25, 31, 45, 77, 79]  <-- substring
+                                    4      as Fragmente
+                                    1      as fragmentiert
+                                    1      as Fragmentierte
+                                    1      as fragmentierter
+  Scherben                          2 word     2 in   [103, 107]
+  Mosaik                            2 word     2 in   [105, 107]
+  Zerstückelung                     2 word     2 in   [97, 105]
+  Logikpakete                       1 word     1 in   [45]
+  Analysevektoren                   1 word     1 in   [45]
+  Nicht-Sein                        1 word     2 in   [39, 41]
+                                    1      as Nicht-Seins
+  Nicht-Seins                       1 word     1 in   [39]
+  operationalen Schließung          1 word     1 in   [39]
+  Rückkopplungsschleife             1 word     1 in   [95]
+  kritischen Schwelle               2 word     2 in   [47, 53]
+  blinder Fleck                     1 word     1 in   [67]
+  Hybris                            1 word     1 in   [67]
+  Bindung                           1 word     1 in   [31]
+  Fluss                             1 word     1 in   [31]
+  Kern                              4 word    10 in   [31, 39, 41, 49, 65, 85]  <-- substring
+                                    2      as Kernprinzip
+                                    2      as Kernaxiome
+                                    2      as Kernwelten
+  Foreshadowing                     3 word     3 in   [19, 53, 59]
+  Agency                            1 word     1 in   [91]
+  offene Valenz                     1 word     1 in   [19]
+  nicht-kohärenten Artefakten       1 word     1 in   [65]
+  außerhalb relevanter Parameter    1 word     1 in   [67]

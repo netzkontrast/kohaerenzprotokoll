@@ -1,0 +1,14 @@
+# roman-kapitel-1-generierungsprozess
+  lines                604  (frontmatter ends at 9)
+  body words           4499
+  headings             17   bold-only lines 1
+  table rows           14   code fences 0
+  question marks       11
+  backslash escapes    64
+  typographic marks    251   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    20
+  repeated labels      none
+  longest line         832 chars
+

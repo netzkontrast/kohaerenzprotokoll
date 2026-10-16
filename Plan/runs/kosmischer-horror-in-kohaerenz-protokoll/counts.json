@@ -1,0 +1,657 @@
+{
+  "document": "kosmischer-horror-in-kohaerenz-protokoll",
+  "drive_id": "1MQyWy14WHTPkAXnhRIebWqfD9eIlK76-dkaFeMnQ2qs",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Potentialmeer": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        73,
+        78,
+        80,
+        84,
+        98,
+        124,
+        133,
+        139,
+        145,
+        150,
+        151,
+        165,
+        166,
+        177,
+        186
+      ]
+    },
+    "AEGIS": {
+      "n": 27,
+      "n_including_compounds": 27,
+      "lines": [
+        73,
+        74,
+        79,
+        88,
+        93,
+        97,
+        98,
+        106,
+        107,
+        124,
+        125,
+        134,
+        137,
+        140,
+        145,
+        146,
+        150,
+        151,
+        152,
+        160,
+        176,
+        177,
+        182,
+        186
+      ]
+    },
+    "Monstergruppe M": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        186
+      ]
+    },
+    "Monstergruppe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        102,
+        186
+      ]
+    },
+    "Kael/Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        111
+      ]
+    },
+    "Kael": {
+      "n": 11,
+      "n_including_compounds": 19,
+      "lines": [
+        76,
+        107,
+        111,
+        115,
+        116,
+        137,
+        139,
+        141,
+        145,
+        151,
+        160,
+        170,
+        171,
+        176,
+        186
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        76,
+        111,
+        115
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        76,
+        77,
+        116,
+        171
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        78,
+        88,
+        133,
+        134,
+        176
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 6,
+      "lines": [
+        78,
+        88,
+        133,
+        134,
+        150,
+        176
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        120,
+        124
+      ]
+    },
+    "Wissensgrenzen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        120
+      ]
+    },
+    "KP": {
+      "n": 12,
+      "n_including_compounds": 19,
+      "lines": [
+        13,
+        64,
+        66,
+        72,
+        129,
+        156,
+        160,
+        161,
+        175,
+        176,
+        177,
+        181,
+        182,
+        190
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        13,
+        17,
+        62,
+        186,
+        192
+      ]
+    },
+    "NZT-Direktive": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        192
+      ]
+    },
+    "Nutzeranfrage": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        60,
+        160,
+        170,
+        175,
+        177,
+        181
+      ]
+    },
+    "Datenpunkt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        27,
+        33,
+        39,
+        44,
+        49,
+        54,
+        59
+      ]
+    },
+    "Kontext/Analyse": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        22,
+        28,
+        34,
+        40,
+        45,
+        50,
+        55,
+        60
+      ]
+    },
+    "Implikation": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        29,
+        35,
+        40,
+        171,
+        177
+      ]
+    },
+    "Verstärkung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        64,
+        72,
+        89,
+        98,
+        107,
+        116,
+        125
+      ]
+    },
+    "Rationale": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        160,
+        165,
+        170,
+        175,
+        181
+      ]
+    },
+    "Implementierung": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        154,
+        156,
+        161,
+        166,
+        171,
+        176,
+        182,
+        188
+      ]
+    },
+    "Prinzip": {
+      "n": 11,
+      "n_including_compounds": 27,
+      "lines": [
+        11,
+        13,
+        17,
+        19,
+        21,
+        22,
+        25,
+        28,
+        31,
+        37,
+        40,
+        42,
+        47,
+        49,
+        52,
+        55,
+        57,
+        64,
+        66,
+        72,
+        88,
+        175,
+        176,
+        177,
+        186,
+        192
+      ]
+    },
+    "Richtlinie": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        154,
+        156,
+        158,
+        163,
+        168,
+        173,
+        179,
+        190,
+        192
+      ]
+    },
+    "Strategie": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        133,
+        134,
+        135,
+        139,
+        140,
+        141,
+        145,
+        146,
+        150,
+        151,
+        152,
+        188
+      ]
+    },
+    "Tonale Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Agency": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        168,
+        170
+      ]
+    },
+    "Einblick": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        140,
+        151
+      ]
+    },
+    "Maschinen-Grauen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Kaskadenausfall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Logischer Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Kollision der Ordnungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Proto-Gesetze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Prä-Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 33,
+      "n_including_compounds": 41,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        22,
+        28,
+        29,
+        35,
+        40,
+        62,
+        64,
+        66,
+        72,
+        88,
+        106,
+        124,
+        129,
+        150,
+        156,
+        160,
+        165,
+        175,
+        177,
+        186,
+        192,
+        196
+      ]
+    },
+    "Lovecraftian": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        17,
+        196
+      ]
+    },
+    "Eldritch Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kosmische Gleichgültigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Menschliche Irrelevanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Verbotenes Wissen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        74,
+        76,
+        80
+      ]
+    },
+    "Verbotenem Wissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Wahnsinn": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        27,
+        31,
+        33,
+        35,
+        80,
+        139,
+        166,
+        175
+      ]
+    },
+    "Existenzielle Angst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        80,
+        139
+      ]
+    },
+    "Existenzieller Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Dread/Awe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Fragilität der Realität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        133,
+        186
+      ]
+    },
+    "Fragile Realität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        77,
+        78
+      ]
+    },
+    "Fremde Intelligenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Fremden Intelligenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Fremden Einfluss": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Machtlosigkeit": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        57,
+        74,
+        76,
+        79,
+        115,
+        152,
+        170
+      ]
+    },
+    "Vergeblichkeit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        57,
+        60,
+        79,
+        125,
+        152
+      ]
+    },
+    "Anthropozentrismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Simulations-Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Uncanny Valleys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Uncanny Valley KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Körper-/Geist-Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        76,
+        115
+      ]
+    },
+    "Derealisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    },
+    "Depersonalisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        139
+      ]
+    }
+  }
+}

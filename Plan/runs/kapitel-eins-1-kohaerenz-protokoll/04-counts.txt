@@ -1,0 +1,33 @@
+# counts for 26 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             16 word    18 in   [15, 17, 23, 27, 29, 37]
+                                    2      as Kaels
+  Juna                              3 word     4 in   [33, 43, 49, 57]
+                                    1      as Junas
+  LogOS                             4 word     4 in   [43, 45, 65, 89]
+  AEGIS                             3 word     3 in   [65, 71, 91]
+  Konstrukt-Stadt                   2 word     2 in   [61, 67]
+  Transitkorridor                   1 word     1 in   [61]
+  Zuteilungs-Hub                    1 word     1 in   [91]
+  Datenverarbeitungszentrum         1 word     1 in   [71]
+  Sensor-Netzwerk                   1 word     1 in   [91]
+  Manager-Anteil                    1 word     1 in   [85]
+  kognitive Firewall                1 word     1 in   [55]
+  digitale Wärme                    1 word     1 in   [71]
+  entropische Anomalien             1 word     1 in   [71]
+  Entropie                          1 word     1 in   [81]
+  Asymmetrie                        2 word     2 in   [27, 81]
+  Logische Korrektur                1 word     1 in   [29]
+  Systeminterferenz                 1 word     1 in   [55]
+  Render-Pipeline                   1 word     1 in   [87]
+  Reboot-Zyklus                     1 word     1 in   [55]
+  Statusbericht                     1 word     1 in   [37]
+  Kristalline Käfig                 1 word     1 in   [11]
+  Komponente                        1 word     1 in   [95]
+  Operator                          1 word     1 in   [17]
+  Datenpunkt                        1 word     1 in   [15]
+  Datenpaket                        1 word     1 in   [65]
+  Uncanny Valley                    1 word     1 in   [25]

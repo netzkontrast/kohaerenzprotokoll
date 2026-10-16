@@ -1,0 +1,64 @@
+# commands and output pasted from read.py
+$ read.py --count "Ontologisches Paradigma"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ontologisches Paradigma` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#2]
+$ read.py --count "Visuelle Repräsentation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Visuelle Repräsentation` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#2]
+$ read.py --count "Systemische Funktion"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Systemische Funktion` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#2]
+$ read.py --count "Autor"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            27
+
+`Autor` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#23]
+$ read.py --count "Doppelbetazerfall"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Doppelbetazerfall` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#1]
+$ read.py --count "Selene"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Selene` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#3]
+$ read.py --count "Tribunal"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Tribunal` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#4]
+$ read.py --count "Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            7
+
+`Kernel` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#1]
+$ read.py --count "Kernel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            7
+
+`Kernel` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#1]
+$ read.py --count "Entropie-Toleranz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropie-Toleranz` ^[ui-konzept-fuer-roman-entwicklungssystem.md:#1]
+stance_marker_count 6 = 2+2+2 (three labels above)
+candidates 89 (capture.py --count); Zeros 0; compounds-greater 12 (census.py draft)
+elf, 62 glued, 92 escapes: from 01-profile.txt

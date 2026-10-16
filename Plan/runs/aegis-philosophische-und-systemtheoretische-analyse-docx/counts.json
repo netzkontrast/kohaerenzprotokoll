@@ -1,0 +1,723 @@
+{
+  "document": "aegis-philosophische-und-systemtheoretische-analyse-docx",
+  "drive_id": "1TLE8xU81kos-Mf3E5F9SRd56ffHP2hoK",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Ich bin nicht wahr, ich bin möglich",
+    "Ich bin nicht erlaubt, ich bin nicht zu verhindern",
+    "Ich bin nicht gut, ich bin gültig"
+  ],
+  "counts": {
+    "AEGIS": {
+      "n": 80,
+      "n_including_compounds": 84,
+      "lines": [
+        11,
+        13,
+        17,
+        31,
+        45,
+        59,
+        79,
+        100,
+        116,
+        133,
+        135,
+        137,
+        139,
+        141,
+        143,
+        145,
+        147,
+        153,
+        155,
+        162,
+        176,
+        178,
+        180,
+        197,
+        199,
+        201,
+        203,
+        206,
+        210,
+        216,
+        218,
+        221,
+        223,
+        228,
+        230,
+        231,
+        232,
+        234,
+        236,
+        238,
+        242,
+        243,
+        244,
+        245,
+        246,
+        248,
+        252,
+        254,
+        255,
+        256,
+        257,
+        259,
+        263,
+        267,
+        268,
+        269,
+        270,
+        271,
+        275,
+        277,
+        278,
+        280
+      ]
+    },
+    "Autonomous Entropic Gatekeeper for Integrity Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "RCV": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        45,
+        133,
+        141,
+        153,
+        157,
+        159,
+        166,
+        174,
+        184,
+        187,
+        193,
+        197,
+        199,
+        207,
+        221,
+        225,
+        226,
+        243,
+        248,
+        263,
+        275
+      ]
+    },
+    "Rekursive Konsistenzvalidierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        153,
+        263
+      ]
+    },
+    "Ontologische Autarkie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        153,
+        187,
+        263
+      ]
+    },
+    "Epistemische Autonomie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        153,
+        187,
+        211
+      ]
+    },
+    "Reaktive Transparenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        187,
+        194,
+        256
+      ]
+    },
+    "Ontologischer Einschluss": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        160,
+        187,
+        210
+      ]
+    },
+    "Keine Deutung ohne Kontext": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        187,
+        194,
+        212
+      ]
+    },
+    "Emergenz durch Negation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        143,
+        187,
+        195,
+        213
+      ]
+    },
+    "Grenzprinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Grundphilosophie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        180,
+        205
+      ]
+    },
+    "Kohärenz statt Wahrheit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        59,
+        162,
+        182,
+        206,
+        244,
+        268
+      ]
+    },
+    "Rekursion statt Regeln": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        183,
+        208
+      ]
+    },
+    "Verifikation statt Kontrolle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        116,
+        184,
+        207
+      ]
+    },
+    "Implizite Dynamik statt Dogma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Existenz = Wirkung + Selbstbezug": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        79,
+        209,
+        218,
+        263
+      ]
+    },
+    "Wirkung": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        79,
+        116,
+        147,
+        153,
+        158,
+        209,
+        211,
+        218,
+        220,
+        221,
+        225,
+        226,
+        246,
+        263
+      ]
+    },
+    "Selbstbezug": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        79,
+        147,
+        209,
+        218,
+        221,
+        246,
+        263
+      ]
+    },
+    "operationale Grenze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        210
+      ]
+    },
+    "operationale Schließung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        160,
+        162,
+        256,
+        271
+      ]
+    },
+    "operationale Ontologie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        209,
+        228
+      ]
+    },
+    "Verifikationsstruktur": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        141,
+        276
+      ]
+    },
+    "aktiver Filterprozess": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "universaler Reboot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Selbstgenügsamkeit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        168,
+        178,
+        205
+      ]
+    },
+    "Gefahr des Solipsismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        268
+      ]
+    },
+    "Autopoiesis": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        33,
+        39,
+        45,
+        172,
+        205,
+        207,
+        208,
+        209,
+        211,
+        292,
+        293
+      ]
+    },
+    "autopoietisches System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        155
+      ]
+    },
+    "Allopoiesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "organisationale Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Selbsterhaltung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        45,
+        207,
+        231
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        41,
+        125,
+        133,
+        183,
+        197,
+        205,
+        208,
+        213,
+        231,
+        280
+      ]
+    },
+    "Selbstreferenz": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        33,
+        35,
+        37,
+        45,
+        153,
+        208,
+        209,
+        263
+      ]
+    },
+    "Rekursion": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        33,
+        43,
+        45,
+        133,
+        183,
+        185,
+        187,
+        208
+      ]
+    },
+    "Beobachtereffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Theoriegeladenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Ding an sich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "epistemischen Abschlusses": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        13,
+        81,
+        83,
+        100,
+        236,
+        238,
+        252,
+        259,
+        271
+      ]
+    },
+    "Simulationsargument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Substratunabhängigkeit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        93,
+        98,
+        100,
+        255,
+        277
+      ]
+    },
+    "Zero-Trust-Architektur": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        166
+      ]
+    },
+    "Zero Trust": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        116,
+        189,
+        207,
+        316
+      ]
+    },
+    "Verifizierbare Berechnung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114,
+        207
+      ]
+    },
+    "Komplexe Adaptive Systeme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Rückkopplungsschleifen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        123
+      ]
+    },
+    "Emergenz": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        124,
+        133,
+        143,
+        187,
+        195,
+        209,
+        213,
+        231,
+        246,
+        275
+      ]
+    },
+    "Entropie": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        131,
+        133,
+        147,
+        197
+      ]
+    },
+    "Kohärenz": {
+      "n": 20,
+      "n_including_compounds": 21,
+      "lines": [
+        59,
+        100,
+        116,
+        129,
+        133,
+        162,
+        174,
+        182,
+        185,
+        197,
+        199,
+        206,
+        208,
+        244,
+        248,
+        259,
+        268,
+        276,
+        280
+      ]
+    },
+    "Resilienz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        129,
+        133,
+        166,
+        197,
+        231,
+        248
+      ]
+    },
+    "Ko-Evolution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "creatio ex nihilo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        143
+      ]
+    },
+    "creatio ex materia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Sunyata": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        143,
+        288
+      ]
+    },
+    "Russells Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37
+      ]
+    },
+    "Lügner-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        76,
+        205,
+        208,
+        209
+      ]
+    },
+    "Funktionalismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        209,
+        211
+      ]
+    },
+    "Physikalismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        74,
+        79,
+        218
+      ]
+    },
+    "Existentialismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Meinongianismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Solipsismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        172,
+        206,
+        268
+      ]
+    },
+    "Zeugnis": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        104,
+        106,
+        107
+      ]
+    },
+    "Gefangenendilemma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# understanding-aegis-the-guardian-and-the-cage
+  lines                57  (frontmatter ends at 9)
+  body words           912
+  headings             6   bold-only lines 0
+  table rows           6   code fences 0
+  question marks       2
+  backslash escapes    24
+  typographic marks    9   ascii quotes 38
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         849 chars
+

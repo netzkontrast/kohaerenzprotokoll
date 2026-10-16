@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kishotenketsu",
+ "title": "Kishōtenketsu",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status als Rezept oder Diagnose",
+  "Wendung ohne nachträgliche Erklärung",
+  "Synthese statt Siegeslogik",
+  "Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen",
+  "Bedeutungswandel des Anfangs"
+ ],
+ "basis": {
+  "kishotenketsu": {
+   "title": "Kishōtenketsu",
+   "path": "Wiki/candidates/kishotenketsu.md",
+   "hash": "a2afc0d2d6f1f898fbdf8948f0010a0c339113f7de2eb78abb60b8196b2fa1f1"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "genesis-klammer": {
+   "title": "Genesis-Klammer",
+   "path": "Wiki/candidates/genesis-klammer.md",
+   "hash": "cb0c2af03ef01a3757eb1dfc38211430ec0f4325958224c3a7f38ff120afe1db"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kishotenketsu-001",
+   "question": "Dient Kishōtenketsu nach W1 als Diagnose des fertigen Treatments oder soll es weiterhin konkrete Kapitelentscheidungen vorgeben?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-002",
+   "question": "Welche Lesarten auf der Seite zu Kishōtenketsu stützen oder begrenzen „Status als Rezept oder Diagnose“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-003",
+   "question": "Welcher Grenzfall würde bei Kishōtenketsu die Annahmen über „Status als Rezept oder Diagnose“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-004",
+   "question": "Wer könnte innerhalb des Romans bei Kishōtenketsu etwas über „Status als Rezept oder Diagnose“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-005",
+   "question": "Welche konkrete Entscheidung könnte „Status als Rezept oder Diagnose“ bei Kishōtenketsu in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als Rezept oder Diagnose“ bei Kishōtenketsu haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-007",
+   "question": "Wie lässt sich „Status als Rezept oder Diagnose“ bei Kishōtenketsu zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-008",
+   "question": "Welche Alternativen sollte der Autor bei Kishōtenketsu für „Status als Rezept oder Diagnose“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-009",
+   "question": "Was bedeutet bei Kishōtenketsu der Themenpunkt „Wendung ohne nachträgliche Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-010",
+   "question": "Welche Lesarten auf der Seite zu Kishōtenketsu stützen oder begrenzen „Wendung ohne nachträgliche Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-011",
+   "question": "Welcher Grenzfall würde bei Kishōtenketsu die Annahmen über „Wendung ohne nachträgliche Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-012",
+   "question": "Wer könnte innerhalb des Romans bei Kishōtenketsu etwas über „Wendung ohne nachträgliche Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-013",
+   "question": "Welche konkrete Entscheidung könnte „Wendung ohne nachträgliche Erklärung“ bei Kishōtenketsu in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wendung ohne nachträgliche Erklärung“ bei Kishōtenketsu haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-015",
+   "question": "Wie lässt sich „Wendung ohne nachträgliche Erklärung“ bei Kishōtenketsu zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-016",
+   "question": "Welche Alternativen sollte der Autor bei Kishōtenketsu für „Wendung ohne nachträgliche Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-017",
+   "question": "Was bedeutet bei Kishōtenketsu der Themenpunkt „Synthese statt Siegeslogik“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-018",
+   "question": "Welche Lesarten auf der Seite zu Kishōtenketsu stützen oder begrenzen „Synthese statt Siegeslogik“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-019",
+   "question": "Welcher Grenzfall würde bei Kishōtenketsu die Annahmen über „Synthese statt Siegeslogik“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-020",
+   "question": "Wer könnte innerhalb des Romans bei Kishōtenketsu etwas über „Synthese statt Siegeslogik“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-021",
+   "question": "Welche konkrete Entscheidung könnte „Synthese statt Siegeslogik“ bei Kishōtenketsu in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Synthese statt Siegeslogik“ bei Kishōtenketsu haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-023",
+   "question": "Wie lässt sich „Synthese statt Siegeslogik“ bei Kishōtenketsu zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-024",
+   "question": "Welche Alternativen sollte der Autor bei Kishōtenketsu für „Synthese statt Siegeslogik“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-025",
+   "question": "Was bedeutet bei Kishōtenketsu der Themenpunkt „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-026",
+   "question": "Welche Lesarten auf der Seite zu Kishōtenketsu stützen oder begrenzen „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-027",
+   "question": "Welcher Grenzfall würde bei Kishōtenketsu die Annahmen über „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-028",
+   "question": "Wer könnte innerhalb des Romans bei Kishōtenketsu etwas über „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ bei Kishōtenketsu in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ bei Kishōtenketsu haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-031",
+   "question": "Wie lässt sich „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ bei Kishōtenketsu zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-032",
+   "question": "Welche Alternativen sollte der Autor bei Kishōtenketsu für „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-033",
+   "question": "Was bedeutet bei Kishōtenketsu der Themenpunkt „Bedeutungswandel des Anfangs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-034",
+   "question": "Welche Lesarten auf der Seite zu Kishōtenketsu stützen oder begrenzen „Bedeutungswandel des Anfangs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-035",
+   "question": "Welcher Grenzfall würde bei Kishōtenketsu die Annahmen über „Bedeutungswandel des Anfangs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-036",
+   "question": "Wer könnte innerhalb des Romans bei Kishōtenketsu etwas über „Bedeutungswandel des Anfangs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-037",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutungswandel des Anfangs“ bei Kishōtenketsu in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutungswandel des Anfangs“ bei Kishōtenketsu haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-039",
+   "question": "Wie lässt sich „Bedeutungswandel des Anfangs“ bei Kishōtenketsu zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-040",
+   "question": "Welche Alternativen sollte der Autor bei Kishōtenketsu für „Bedeutungswandel des Anfangs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-041",
+   "question": "Wo unterscheiden sich Kishōtenketsu und Vortex, wenn man sie unter dem Gesichtspunkt „Status als Rezept oder Diagnose“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-042",
+   "question": "Welche Quelle verbindet Kishōtenketsu mit Vortex in Bezug auf „Status als Rezept oder Diagnose“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-043",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Kishōtenketsu unter „Status als Rezept oder Diagnose“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-044",
+   "question": "Wie könnte sich das Wissen über Kishōtenketsu vom Wissen über Vortex unterscheiden, wenn „Status als Rezept oder Diagnose“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kishōtenketsu und Vortex bei „Status als Rezept oder Diagnose“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-046",
+   "question": "Falls Kishōtenketsu im Hinblick auf „Status als Rezept oder Diagnose“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kishōtenketsu und Vortex bei „Status als Rezept oder Diagnose“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-048",
+   "question": "Braucht der Roman eine Verbindung von Kishōtenketsu und Vortex bei „Status als Rezept oder Diagnose“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-049",
+   "question": "In welchem denkbaren Fall könnte Kishōtenketsu bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Status als Rezept oder Diagnose“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kishōtenketsu und Vortex in Bezug auf „Status als Rezept oder Diagnose“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-051",
+   "question": "Welche ältere Lesart von Kishōtenketsu oder Vortex könnte die Gegenüberstellung unter „Status als Rezept oder Diagnose“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kishōtenketsu und Vortex unter „Status als Rezept oder Diagnose“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kishotenketsu",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-053",
+   "question": "Wo unterscheiden sich Kishōtenketsu und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „Wendung ohne nachträgliche Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-054",
+   "question": "Welche Quelle verbindet Kishōtenketsu mit Ouroboros-Struktur in Bezug auf „Wendung ohne nachträgliche Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-055",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Kishōtenketsu unter „Wendung ohne nachträgliche Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-056",
+   "question": "Wie könnte sich das Wissen über Kishōtenketsu vom Wissen über Ouroboros-Struktur unterscheiden, wenn „Wendung ohne nachträgliche Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kishōtenketsu und Ouroboros-Struktur bei „Wendung ohne nachträgliche Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-058",
+   "question": "Falls Kishōtenketsu im Hinblick auf „Wendung ohne nachträgliche Erklärung“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kishōtenketsu und Ouroboros-Struktur bei „Wendung ohne nachträgliche Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-060",
+   "question": "Braucht der Roman eine Verbindung von Kishōtenketsu und Ouroboros-Struktur bei „Wendung ohne nachträgliche Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-061",
+   "question": "In welchem denkbaren Fall könnte Kishōtenketsu bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „Wendung ohne nachträgliche Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kishōtenketsu und Ouroboros-Struktur in Bezug auf „Wendung ohne nachträgliche Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-063",
+   "question": "Welche ältere Lesart von Kishōtenketsu oder Ouroboros-Struktur könnte die Gegenüberstellung unter „Wendung ohne nachträgliche Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kishōtenketsu und Ouroboros-Struktur unter „Wendung ohne nachträgliche Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kishotenketsu",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-065",
+   "question": "Wo unterscheiden sich Kishōtenketsu und Genesis-Klammer, wenn man sie unter dem Gesichtspunkt „Synthese statt Siegeslogik“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-066",
+   "question": "Welche Quelle verbindet Kishōtenketsu mit Genesis-Klammer in Bezug auf „Synthese statt Siegeslogik“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-067",
+   "question": "Welche Grenzen aus der Seite zu Genesis-Klammer müsste eine Deutung von Kishōtenketsu unter „Synthese statt Siegeslogik“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-068",
+   "question": "Wie könnte sich das Wissen über Kishōtenketsu vom Wissen über Genesis-Klammer unterscheiden, wenn „Synthese statt Siegeslogik“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kishōtenketsu und Genesis-Klammer bei „Synthese statt Siegeslogik“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-070",
+   "question": "Falls Kishōtenketsu im Hinblick auf „Synthese statt Siegeslogik“ anders festgelegt wird: Welche Aussagen über Genesis-Klammer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kishōtenketsu und Genesis-Klammer bei „Synthese statt Siegeslogik“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-072",
+   "question": "Braucht der Roman eine Verbindung von Kishōtenketsu und Genesis-Klammer bei „Synthese statt Siegeslogik“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-073",
+   "question": "In welchem denkbaren Fall könnte Kishōtenketsu bestehen, ohne dass Genesis-Klammer dieselbe Funktion übernimmt, und was würde das für „Synthese statt Siegeslogik“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kishōtenketsu und Genesis-Klammer in Bezug auf „Synthese statt Siegeslogik“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-075",
+   "question": "Welche ältere Lesart von Kishōtenketsu oder Genesis-Klammer könnte die Gegenüberstellung unter „Synthese statt Siegeslogik“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kishōtenketsu und Genesis-Klammer unter „Synthese statt Siegeslogik“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kishotenketsu",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-077",
+   "question": "Wo unterscheiden sich Kishōtenketsu und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-078",
+   "question": "Welche Quelle verbindet Kishōtenketsu mit Truth-Rotation in Bezug auf „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-079",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Kishōtenketsu unter „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-080",
+   "question": "Wie könnte sich das Wissen über Kishōtenketsu vom Wissen über Truth-Rotation unterscheiden, wenn „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kishōtenketsu und Truth-Rotation bei „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-082",
+   "question": "Falls Kishōtenketsu im Hinblick auf „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kishōtenketsu und Truth-Rotation bei „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-084",
+   "question": "Braucht der Roman eine Verbindung von Kishōtenketsu und Truth-Rotation bei „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-085",
+   "question": "In welchem denkbaren Fall könnte Kishōtenketsu bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kishōtenketsu und Truth-Rotation in Bezug auf „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-087",
+   "question": "Welche ältere Lesart von Kishōtenketsu oder Truth-Rotation könnte die Gegenüberstellung unter „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kishōtenketsu und Truth-Rotation unter „Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kishotenketsu",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-089",
+   "question": "Wo unterscheiden sich Kishōtenketsu und Kael, wenn man sie unter dem Gesichtspunkt „Bedeutungswandel des Anfangs“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-090",
+   "question": "Welche Quelle verbindet Kishōtenketsu mit Kael in Bezug auf „Bedeutungswandel des Anfangs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Kishōtenketsu unter „Bedeutungswandel des Anfangs“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-092",
+   "question": "Wie könnte sich das Wissen über Kishōtenketsu vom Wissen über Kael unterscheiden, wenn „Bedeutungswandel des Anfangs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kishōtenketsu und Kael bei „Bedeutungswandel des Anfangs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-094",
+   "question": "Falls Kishōtenketsu im Hinblick auf „Bedeutungswandel des Anfangs“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kishōtenketsu und Kael bei „Bedeutungswandel des Anfangs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-096",
+   "question": "Braucht der Roman eine Verbindung von Kishōtenketsu und Kael bei „Bedeutungswandel des Anfangs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-097",
+   "question": "In welchem denkbaren Fall könnte Kishōtenketsu bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Bedeutungswandel des Anfangs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kishōtenketsu und Kael in Bezug auf „Bedeutungswandel des Anfangs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-099",
+   "question": "Welche ältere Lesart von Kishōtenketsu oder Kael könnte die Gegenüberstellung unter „Bedeutungswandel des Anfangs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-kishotenketsu-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kishōtenketsu und Kael unter „Bedeutungswandel des Anfangs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kishotenketsu",
+    "kael"
+   ]
+  }
+ ]
+}

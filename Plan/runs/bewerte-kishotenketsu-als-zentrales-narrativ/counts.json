@@ -1,0 +1,224 @@
+{
+  "document": "bewerte-kishotenketsu-als-zentrales-narrativ",
+  "drive_id": "1FzrHSnAGDJilrmu8eqIZzmk0CZJMKw_o156KfDRsLS0",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        21,
+        28,
+        37,
+        46,
+        55,
+        83
+      ]
+    },
+    "Kael": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        28,
+        37,
+        46,
+        55,
+        62,
+        72,
+        74,
+        79
+      ]
+    },
+    "AEGIS": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        28,
+        37,
+        46,
+        55,
+        62,
+        63,
+        73,
+        79
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        55,
+        73
+      ]
+    },
+    "lebende Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Kishōtenketsu": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        19,
+        62,
+        83,
+        85
+      ]
+    },
+    "Drei-Akt-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Vier-Akt-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Ki (起)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Shō (承)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Ten (転)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Ketsu (結)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Ki": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        15,
+        19,
+        23,
+        36,
+        37,
+        54,
+        62,
+        78,
+        83,
+        85
+      ]
+    },
+    "Shō": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        54,
+        78
+      ]
+    },
+    "Ten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        41,
+        46,
+        54,
+        78
+      ]
+    },
+    "Ketsu": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        55
+      ]
+    }
+  }
+}

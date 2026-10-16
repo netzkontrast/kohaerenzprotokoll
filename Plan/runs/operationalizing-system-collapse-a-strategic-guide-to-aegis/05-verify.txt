@@ -1,0 +1,85 @@
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "narrative strategy"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`narrative strategy` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "narrative goal"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`narrative goal` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Act 2"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Act 2` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#3]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Act 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Act 3` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Parts 2 and 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Parts 2 and 3` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Riss"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Riss` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#2]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "entropy"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`entropy` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#4]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Autonomous Entropic Gatekeeper"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Autonomous Entropic Gatekeeper` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "K₀"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K₀` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#1]
+
+# python3 scripts/read.py operationalizing-system-collapse-a-strategic-guide-to-aegis --count "Juna/V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna/V` ^[operationalizing-system-collapse-a-strategic-guide-to-aegis.md:#3]
+
+# sum of stance markers: narrative strategy 1 + narrative goal 1 = 2

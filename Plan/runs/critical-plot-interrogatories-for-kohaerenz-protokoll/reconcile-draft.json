@@ -1,0 +1,186 @@
+{
+  "document": "critical-plot-interrogatories-for-kohaerenz-protokoll",
+  "drive_id": "1C3KBRYCXMy_MLRJaQ9b40n0Z_FOYDd2RtE09ykVMNLY",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 89,
+    "decided_by_lookup": 78,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        50,
+        58,
+        115
+      ],
+      "attribution": "",
+      "note": "AEGIS as tragic antagonist, asked about"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        36,
+        72
+      ],
+      "attribution": "",
+      "note": "Alex as protector alter and possible switcher"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        95,
+        101
+      ],
+      "attribution": "",
+      "note": "Juna/V as exiled part and as an ethical dilemma"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        32,
+        77,
+        80,
+        113
+      ],
+      "attribution": "",
+      "note": "Kael's system as the Kernwelten's architecture and a three-phase arc"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        32,
+        34,
+        37
+      ],
+      "attribution": "",
+      "note": "The Kernwelten as psychological architecture, per world"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        34,
+        71,
+        73
+      ],
+      "attribution": "",
+      "note": "Lex's logic and phobia, as scenes asked for"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        93
+      ],
+      "attribution": "",
+      "note": "The Moonshine-Link as a question of mechanism"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "The Nexus as a question in KW4"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        36,
+        58,
+        81
+      ],
+      "attribution": "",
+      "note": "Nyx as protector alter and as suppressed EP"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        24,
+        26
+      ],
+      "attribution": "",
+      "note": "The Nichts Rauschen as a sensory scene asked for"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        73,
+        81
+      ],
+      "attribution": "",
+      "note": "Rhys's empathy in two scenes asked for"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        79,
+        80
+      ],
+      "attribution": "",
+      "note": "The Riss as inciting event and journey"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        47,
+        50
+      ],
+      "attribution": "",
+      "note": "The Trennungsprotokoll as AEGIS's self-harm"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 85,
+      "decision": "reading",
+      "why": "Juna/V as an exiled part of Kael's Ursprungs-Ich, read on juna"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,300 @@
+{
+  "document": "exploring-the-coherence-protocol",
+  "drive_id": "1mWTuZvcoZzM1veCN-aL9Q_xAwJkq8zoOjrRyDmB5F_Y",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Coherence Protocol": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        13,
+        22,
+        140,
+        212,
+        262,
+        284,
+        296,
+        301,
+        313,
+        317
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        162,
+        166,
+        298,
+        332
+      ]
+    },
+    "DKT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        175
+      ]
+    },
+    "Persistence Principle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        162,
+        276,
+        329,
+        330
+      ]
+    },
+    "K₁": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        168,
+        171,
+        173,
+        175
+      ]
+    },
+    "K₀": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        169,
+        171,
+        173,
+        175
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Coherons": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        171,
+        175,
+        330
+      ]
+    },
+    "Corrective Wavelets": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        171,
+        175,
+        298
+      ]
+    },
+    "Λ-Canon Synthesis": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        179,
+        183,
+        191,
+        336
+      ]
+    },
+    "Λ Constant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Λ-Imperative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Codex Framework": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        187,
+        336
+      ]
+    },
+    "Luna Codex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Bridge Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "coherence floor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "restorative barrier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Informational Action Minimization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Coherence Science": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "decoherence": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        22,
+        38,
+        48,
+        171,
+        273,
+        308
+      ]
+    },
+    "quantum superposition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Quantum Resource Theories": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "pointer basis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "cache coherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        86,
+        274
+      ]
+    },
+    "MESI": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        86,
+        88,
+        274,
+        296
+      ]
+    },
+    "MOESI": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        296
+      ]
+    },
+    "self-organization": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        124,
+        138,
+        148
+      ]
+    },
+    "emergent property": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "downward causation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "attractors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Anthropic Principle": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        232,
+        236,
+        238,
+        239,
+        299,
+        354
+      ]
+    },
+    "fine-tuning": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        212,
+        220,
+        228,
+        236,
+        251,
+        252,
+        254,
+        346,
+        348
+      ]
+    }
+  }
+}

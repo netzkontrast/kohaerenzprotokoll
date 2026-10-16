@@ -1,0 +1,64 @@
+{
+  "document": "gravity-as-narrative-metaphor-for-reality",
+  "drive_id": "1UQtTdpYK1HoXAxjwR85KrugBiGSZur_NlrkbRxLNjQA",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; no readings — the session judged the document a research report of borrowed concepts that names no figure of the novel",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 58,
+    "decisions": 55,
+    "decided_by_lookup": 48,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English research report explaining borrowed physics, systems theory and trauma psychology for the story; it names no figure of the novel and says nothing a page needs, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a research report of borrowed concepts: `Kohärenz Protokoll` the title, `Protokoll` in its general sense; `Hierarchy Problem`, `Slaving`, `Brane` and `Monster` short forms of its borrowed terms",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 293,
+      "decision": "occurrence",
+      "why": "the clinical diagnosis in general"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 185,
+      "decision": "occurrence",
+      "why": "the simulation problem of truth theory, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "everything — the borrowed physics, systems theory and psychology, the God Code and the synthesis"
+  ],
+  "internal_tension": "none: a report",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

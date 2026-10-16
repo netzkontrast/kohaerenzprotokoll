@@ -1,0 +1,4 @@
+python3 scripts/read.py the-ontology-of-antagonism-the-function-of-paradox-in-kohaer --count "cite"  -> 13  (stance_marker_count 13; mark in note and census)
+python3 scripts/read.py the-ontology-of-antagonism-the-function-of-paradox-in-kohaer --count "Kap"  -> 0
+python3 scripts/read.py the-ontology-of-antagonism-the-function-of-paradox-in-kohaer --count "AEGIS-Logik"  -> 1
+census: 41 candidates, zeros 0 (04-counts.txt); AEGIS 46 word / 47 in

@@ -1,0 +1,71 @@
+# counts for 54 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             20 word    50 in   [17, 29, 33, 34, 45, 46]  <-- substring
+                                   30      as Kaels
+  AEGIS                            34 word    34 in   [17, 29, 30, 32, 44, 45]
+  Juna/V                           12 word    12 in   [44, 46, 47, 61, 68, 100]
+  Juna                             14 word    14 in   [44, 46, 47, 61, 66, 68]
+  Nichts                           17 word    18 in   [17, 35, 44, 45, 47, 50]
+                                    1      as Nichtssein
+  Potentialmeer                     6 word     8 in   [44, 47, 109, 124, 144, 171]
+                                    2      as Potentialmeers
+  Risse                            10 word    10 in   [48, 49, 82, 124, 143, 151]
+  Kern-Welten                       4 word     4 in   [100, 124, 151, 161]
+  KW1                               2 word     3 in   [100, 124, 161]
+  KW2                               2 word     2 in   [100, 161]
+  KW3                               2 word     2 in   [100, 161]
+  KW4                               2 word     2 in   [100, 161]
+  Autonomous Entropic Gatekeeper    1 word     1 in   [91]
+  Entropieminimierung               6 word     6 in   [91, 124, 139, 153, 169, 214]
+  Simulation                       35 word    43 in   [16, 17, 29, 32, 33, 34]
+                                    2      as Simulationsregeln
+                                    2      as Simulationsumgebung
+                                    1      as Simulationsfehlern
+                                    1      as Simulationstechnologie
+  DID                              36 word    38 in   [17, 18, 46, 48, 51, 60]
+  TSDP                             14 word    20 in   [17, 100, 118, 124, 140, 151]
+                                    3      as TSDP-Modell
+                                    1      as TSDP-Framework
+                                    1      as TSDP-Modells
+                                    1      as TSDP-informierte
+  ANP                              10 word    11 in   [100, 124, 140, 151, 159, 161]
+  EP                                6 word    14 in   [100, 124, 140, 151, 159, 161]  <-- substring
+  Apparently Normal Part            2 word     3 in   [100, 124, 159]
+  Emotional Part                    1 word     3 in   [100, 124, 159]  <-- substring
+  Alters                            1 word     1 in   [159]
+  Hard SF                          12 word    15 in   [15, 16, 17, 24, 35, 39]
+  Hard Science-Fiction              3 word     3 in   [11, 15, 22]
+  Kosmischer Horror                 6 word     6 in   [15, 37, 51, 82, 205]
+  Psychologischer Thriller          4 word     4 in   [15, 53, 82]
+  HSF                              26 word    32 in   [81, 90, 99, 100, 108, 118]
+  Simulierte Realität               4 word     4 in   [31, 81, 137, 151]
+  Virtuelle Realität                2 word     2 in   [31, 81]
+  Unzuverlässiger Erzähler          5 word     5 in   [60, 81, 99, 117, 138]
+  Realitätszusammenbruch            5 word     5 in   [17, 48, 81, 143, 175]
+  Dünner Schleier                   1 word     1 in   [48]
+  Verbotenes Wissen                 3 word     3 in   [46, 81, 141]
+  Versagende Technologie            3 word     3 in   [81, 117, 175]
+  Mysteriöser Fremder               2 word     2 in   [68, 171]
+  Mysteriöser Helfer                1 word     1 in   [144]
+  Body Horror                       4 word     4 in   [51, 99, 175]
+  AI Gone Rogue                     3 word     3 in   [30, 90, 153]
+  Glitch in the Matrix              1 word     1 in   [175]
+  Existenzielle Furcht              2 word     2 in   [50, 108]
+  Kosmische Indifferenz             3 word     3 in   [45, 108, 142]
+  Kulte und Geheimgesellschaften    1 word     1 in   [49]
+  Fragmentierte Erzählungen         2 word     2 in   [67, 81]
+  Fragmentierte Erzählstruktur      1 word     1 in   [163]
+  Psychologische Fragmentierung     2 word     2 in   [99, 140]
+  Zeigen statt Erklären             1 word     1 in   [197]
+  böser Alter                       1 word     1 in   [187]
+  Cluster                          10 word    11 in   [70, 73, 77, 82, 86, 95]
+                                    1      as Clusterung
+  Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [17]
+  Gaslighting                       1 word     1 in   [63]
+  Existential Dread                 1 word     1 in   [50]
+  Suspension of Disbelief           1 word     1 in   [193]
+  Sensitivity Reader                0 word     1 in   [189]
+  Skynet                            1 word     1 in   [202]

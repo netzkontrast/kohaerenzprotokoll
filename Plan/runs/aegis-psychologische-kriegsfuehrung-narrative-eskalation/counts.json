@@ -1,0 +1,874 @@
+{
+  "document": "aegis-psychologische-kriegsfuehrung-narrative-eskalation",
+  "drive_id": "1ErKgr5r2h2H-vCwJ1M_mvOxnHHqltfhM_m52WFBbtKs",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 60,
+      "n_including_compounds": 61,
+      "lines": [
+        13,
+        22,
+        30,
+        49,
+        53,
+        85,
+        87,
+        88,
+        90,
+        103,
+        105,
+        113,
+        122,
+        130,
+        132,
+        135,
+        141,
+        143,
+        145,
+        147,
+        149,
+        157,
+        169,
+        173,
+        183,
+        185,
+        187,
+        189,
+        197,
+        227,
+        228,
+        231,
+        251,
+        253,
+        261,
+        262,
+        279,
+        280,
+        312,
+        316,
+        324,
+        381,
+        382,
+        383,
+        391,
+        393,
+        394
+      ]
+    },
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        53,
+        173,
+        364,
+        380,
+        381,
+        421,
+        438
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        53,
+        173,
+        438
+      ]
+    },
+    "Kernwelten": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        26,
+        30,
+        53,
+        57,
+        96,
+        105,
+        113,
+        121,
+        126,
+        135,
+        142,
+        222,
+        231,
+        239,
+        249,
+        250,
+        266,
+        380,
+        391,
+        393
+      ]
+    },
+    "Kernwelt": {
+      "n": 8,
+      "n_including_compounds": 29,
+      "lines": [
+        26,
+        30,
+        53,
+        57,
+        61,
+        96,
+        97,
+        103,
+        105,
+        113,
+        121,
+        126,
+        130,
+        131,
+        135,
+        142,
+        222,
+        226,
+        231,
+        239,
+        249,
+        250,
+        266,
+        274,
+        275,
+        380,
+        391,
+        393
+      ]
+    },
+    "KW1": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        63,
+        98,
+        130,
+        132,
+        145,
+        227,
+        261,
+        278,
+        380
+      ]
+    },
+    "KW3": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        72,
+        99,
+        130,
+        132,
+        145,
+        227,
+        262,
+        277,
+        380
+      ]
+    },
+    "KW1 (Logos-Prime)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        98,
+        278
+      ]
+    },
+    "Logos-Prime": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        98,
+        278
+      ]
+    },
+    "KW3 (Cerberus-Labyrinth)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        99,
+        277
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        99,
+        277
+      ]
+    },
+    "Lex": {
+      "n": 23,
+      "n_including_compounds": 24,
+      "lines": [
+        63,
+        88,
+        98,
+        105,
+        130,
+        131,
+        144,
+        146,
+        227,
+        228,
+        229,
+        231,
+        261,
+        278,
+        280,
+        304,
+        314,
+        324,
+        380,
+        381,
+        382
+      ]
+    },
+    "Nyx": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        72,
+        88,
+        99,
+        130,
+        184,
+        227,
+        228,
+        262,
+        277,
+        280,
+        304,
+        315,
+        324,
+        380,
+        382
+      ]
+    },
+    "Rhys": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        100,
+        263,
+        382
+      ]
+    },
+    "Kiko": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        77,
+        101,
+        184,
+        231,
+        380
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        189,
+        316,
+        356
+      ]
+    },
+    "Juna/V": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        383
+      ]
+    },
+    "Anteile": {
+      "n": 32,
+      "n_including_compounds": 36,
+      "lines": [
+        53,
+        88,
+        105,
+        130,
+        143,
+        149,
+        173,
+        183,
+        185,
+        189,
+        201,
+        215,
+        226,
+        231,
+        249,
+        252,
+        257,
+        276,
+        279,
+        296,
+        312,
+        348,
+        356,
+        381,
+        383,
+        391,
+        394,
+        395,
+        397
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Paradoxons der Fehlausgerichteten Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        187
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        397,
+        420
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        97,
+        149,
+        420,
+        421
+      ]
+    },
+    "Trainingsprotokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        381
+      ]
+    },
+    "Leistungsbewertung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        381
+      ]
+    },
+    "Konditionierungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        381
+      ]
+    },
+    "Behandlungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Reinraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Subplot-Dokument": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        324,
+        372,
+        380,
+        381,
+        382
+      ]
+    },
+    "Rückschlag": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        324,
+        382
+      ]
+    },
+    "Lex-Box": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Nyx-Box": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Skinner-Boxen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        26,
+        30
+      ]
+    },
+    "Kultivierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        26,
+        173,
+        205,
+        288,
+        395
+      ]
+    },
+    "Krise der Authentizität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        105,
+        292,
+        304,
+        382,
+        395
+      ]
+    },
+    "Das vergiftete Gold": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        328
+      ]
+    },
+    "vergiftete Gold": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        328,
+        356
+      ]
+    },
+    "Die Entwirrung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "Der ideologische Trichter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Der unwissende Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Der perverse Heiler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "De-Programmierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        316
+      ]
+    },
+    "authentischen Kern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        316,
+        395
+      ]
+    },
+    "Asset": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        257,
+        280,
+        381,
+        394
+      ]
+    },
+    "Funktionen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        235,
+        394
+      ]
+    },
+    "Werkzeuge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        253
+      ]
+    },
+    "Vollstrecker": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        262,
+        277,
+        394
+      ]
+    },
+    "Analyst": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        105,
+        261,
+        278,
+        394
+      ]
+    },
+    "Social Engineer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "waffenfähigen Geistes": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        391
+      ]
+    },
+    "Tabelle 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Tabelle 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Tabelle 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "operante Konditionierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        53
+      ]
+    },
+    "Positive Verstärkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        97
+      ]
+    },
+    "Negative Verstärkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        97
+      ]
+    },
+    "Positive Bestrafung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Negative Bestrafung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "kontinuierliche Verstärkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "intermittierenden Verstärkung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "variablen Quotenplan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Shaping": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Milieukontrolle": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        121,
+        130,
+        143
+      ]
+    },
+    "Informationskontrolle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        130,
+        143,
+        228,
+        393
+      ]
+    },
+    "Heilige Wissenschaft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        144
+      ]
+    },
+    "Beladene Sprache": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        145
+      ]
+    },
+    "Doktrin über die Person": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        121,
+        131,
+        146
+      ]
+    },
+    "Verteilung der Existenzberechtigung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        121,
+        133,
+        147
+      ]
+    },
+    "BITE-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Gedankenreform": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        121
+      ]
+    },
+    "Zwangskontrolle": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        109,
+        113,
+        141,
+        149,
+        391,
+        393
+      ]
+    },
+    "Iatrogenese": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        153,
+        157,
+        165,
+        189,
+        391,
+        393
+      ]
+    },
+    "Radikalisierungstrichter": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        205,
+        222,
+        394
+      ]
+    },
+    "Stressimpfung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        251,
+        279
+      ]
+    },
+    "Kompartmentalisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        252,
+        280
+      ]
+    },
+    "Kintsugi": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        328,
+        340,
+        356,
+        395
+      ]
+    },
+    "Lifton": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        113,
+        121,
+        130,
+        131,
+        132,
+        133,
+        141,
+        142,
+        393,
+        408,
+        409,
+        411,
+        412
+      ]
+    },
+    "Hassan": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        113,
+        122,
+        130,
+        131,
+        133,
+        141,
+        142,
+        393,
+        416,
+        418
+      ]
+    },
+    "Skinner": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        26,
+        30,
+        393,
+        402,
+        404,
+        406
+      ]
+    },
+    "SERE": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        276
+      ]
+    },
+    "Need-to-know": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        252,
+        280
+      ]
+    }
+  }
+}

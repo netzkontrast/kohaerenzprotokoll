@@ -1,0 +1,14 @@
+# projektanalyse-kohaerenz-protokoll-dis
+  lines                270  (frontmatter ends at 9)
+  body words           3548
+  headings             26   bold-only lines 1
+  table rows           23   code fences 0
+  question marks       21
+  backslash escapes    297
+  typographic marks    12   ascii quotes 176
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    44
+  repeated labels      none
+  longest line         733 chars
+

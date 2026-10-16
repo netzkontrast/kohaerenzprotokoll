@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      107
+  backslash escapes      134
+  typographic marks      26
+  ascii quotes           16
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, SYSTEMS, System, Systematische, Systemdiagnose, Systeme, Systemfehler, Systemintegrität, Systemische, Systemparameter, Systemreaktion, Systems, Systemstabilisierung, Systemstabilität, Systemstress, Systemzustands
+  inter    INTERACTION, INTERFERENCE, INTERNAL, INTERRUPT, INTERVENTION, Interaktion, Interaktionen, Interne, Internet, Interpretation
+  model    MODEL, MODELING, MODELS, Model, Modell, Modelle, Modellen, Modellrahmens, Models
+  signa    SIGNAL, SIGNATURE, SIGNATURES, Signal, Signals, Signatur, Signature, Signaturen, Signatures
+  fragm    FRAGMENT, FRAGMENTS, Fragment, Fragmente, Fragmenten, Fragmentiert, Fragmentierte, Fragmentierung
+  daten    Daten, Datenanomalie, Datenfluss, Datenpaketierung, Datenpunkt, Datenströme, Datenströmen
+  simul    SIMULATE, SIMULATED, SIMULATION, Simulation, Simulationen, Simulationsversuch, Simulators
+  varia    VARIABLE, VARIABLES, VARIANCE, Variablen, Variables, Variance, Varianz
+  confi    CONFIDENCE, CONFIGURATIONS, CONFIRM, CONFIRMED, Confidence, Confirmed
+  parad    PARADOX, PARADOXICAL, Paradox, Paradoxien, Paradoxon, Paradoxons
+  reali    REALITIES, REALITY, Realität, Realitäten, Realitätslabor, Realitätsmodelle
+  compl    COMPLETE, COMPLETION, COMPLEXITY, Complex, Complexity
+  emerg    EMERGENCY, EMERGENT, Emergenter, Emergenz, Emerging
+  gener    GENERATING, GENERATION, GENERATIVE, Generation, Generative
+  initi    INITIALIZATION, INITIATE, INITIATED, INITIATING, Initiierung
+  logic    LOGIC, LOGICAL, LOGICS, Logic, Logics
+  physi    PHYSICAL, PHYSICS, Physical, Physicist, Physik
+  trans    TRANSFER, TRANSMITTING, Transfer, Transferprozess, Transformation
+  aktiv    Aktiv, Aktive, Aktives, Aktivitätsspitzen
+  analy    ANALYSIS, Analyse, Analysewerkzeug, Analytisch
+  autho    AUTHORIZATION, AUTHORIZED, AUTHORIZING, Author
+  clust    CLUSTERS, Cluster, Clusterbildung, Clusters
+  diagn    DIAGNOSTIC, Diagnose, Diagnosing, Diagnostic
+  dynam    DYNAMICS, Dynamics, Dynamik, Dynamisch
+  entro    ENTROPIC, ENTROPY, Entropie, Entropy
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Allein
+  Alle < Alleinseins
+  Alle < Challenging
+  Ampl < AMPLIFIER
+  Ampl < AMPLITUDE
+  CODE < Code
+  Corr < CORRELATION
+  Corr < Correlation
+  DATA < Data
+  DATA < METADATA
+  Data < METADATA
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Echo < ECHOES
+  Eine < Keine
+  Eine < Seine
+  Eine < Kleine
+  Ende < Senden

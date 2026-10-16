@@ -1,0 +1,71 @@
+$ read.py exploring-coherence-across-disciplines --count "This report"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`This report` ^[exploring-coherence-across-disciplines.md:#1]
+$ read.py exploring-coherence-across-disciplines --count "Section"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Section` ^[exploring-coherence-across-disciplines.md:#4]
+$ read.py exploring-coherence-across-disciplines --count "Zugriff am"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            43
+
+`Zugriff am` ^[exploring-coherence-across-disciplines.md:#43]
+$ read.py exploring-coherence-across-disciplines --count "decoherence"
+whole word, case-sensitive     6
+whole word, case-insensitive   8
+including compounds            6
+
+`decoherence` ^[exploring-coherence-across-disciplines.md:#6]
+$ read.py exploring-coherence-across-disciplines --count "incoherence"
+whole word, case-sensitive     1
+whole word, case-insensitive   5
+including compounds            1
+
+`incoherence` ^[exploring-coherence-across-disciplines.md:#1]
+$ read.py exploring-coherence-across-disciplines --count "object beams"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`object beams` ^[exploring-coherence-across-disciplines.md:#1]
+$ read.py exploring-coherence-across-disciplines --count "coherence"
+whole word, case-sensitive     121
+whole word, case-insensitive   185
+including compounds            153
+
+`coherence` ^[exploring-coherence-across-disciplines.md:#121]
+$ read.py exploring-coherence-across-disciplines --count "ground truth"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`ground truth` ^[exploring-coherence-across-disciplines.md:#0]
+$ read.py exploring-coherence-across-disciplines --count "canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`canon` ^[exploring-coherence-across-disciplines.md:#0]
+$ read.py exploring-coherence-across-disciplines --count "Logical Ordering"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Logical Ordering` ^[exploring-coherence-across-disciplines.md:#1]
+$ read.py exploring-coherence-across-disciplines --count "Schema Activation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schema Activation` ^[exploring-coherence-across-disciplines.md:#1]
+$ grep -c "^| \\\\\*\\\\\*" rows of mechanisms table (L147-L154) = 8 rows by line numbers
+$ profile (01-profile.txt): backslash escapes 163, glued ref numbers 45
+  backslash escapes    163
+  glued ref numbers    45
+stance_marker_count: This report 1 + Section 4 = 5

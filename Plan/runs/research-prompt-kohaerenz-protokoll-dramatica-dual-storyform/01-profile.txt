@@ -1,0 +1,14 @@
+# research-prompt-kohaerenz-protokoll-dramatica-dual-storyform
+  lines                2153  (frontmatter ends at 9)
+  body words           11437
+  headings             59   bold-only lines 49
+  table rows           53   code fences 0
+  question marks       103
+  backslash escapes    416
+  typographic marks    453   ascii quotes 294
+  invisible characters none
+  math symbol lines    14
+  glued ref numbers    117
+  repeated labels      Anwendungs-Schritte x8, Stop-Kriterium x8, Warum sie hier ist x8, Was sie ist x8
+  longest line         654 chars
+

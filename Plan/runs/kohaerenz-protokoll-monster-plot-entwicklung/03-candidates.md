@@ -1,0 +1,111 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- AEGIS
+- Kael
+- Juna
+- K-J
+- Kael-Juna-Verbindung
+- K-J-Verbindung
+- K-J-Anomalie
+- Kernwelten
+- Kernwelt
+- Guardians
+- Alters
+- Alter Ego
+- Kerndirektive
+- Abgrenzung
+- Kohärenz durch Abgrenzung
+- Kohärenz durch Integration
+- Kohärenz Protokoll
+- Monster
+- Monstergruppe
+- sub-protokollarische Resonanz
+- Risse
+- Teufelskreise
+- Positive Feedback-Schleifen
+- Kaskadierendes Kategorisierungsversagen
+- Ontologischer Mismatch
+- Chaos-Welt
+- Quanten-Verschränkungs-Welt
+- Verschränkungs-Welt
+- Logik-Paradox-Welt
+- Paradox-Welt
+- Autopoiesis-Welt
+- Liminalitäts-Welt
+- Gedächtnis-Welt
+- Testgelände für AEGIS
+- Subversion der Regeln
+- Selbst
+- Exilanten
+- Exiles
+- Manager
+- Feuerlöscher
+- Firefighters
+- Teile
+- Entlastung der Exilanten
+- Transformation der Beschützer
+- Schattenintegration
+- Zugang zum Selbst
+- Sicherer Hafen
+- Secure Base
+- Happy Family
+- Pariahs
+- Monstrous Moonshine
+- Sporadizität
+- Irreduzibilität
+- Gödelsche Mauern
+- Gödelsche Grenzen
+- Halting-Problem-Analogie
+- Plot-Blueprint
+- Beat Sheet
+- Akt I
+- Akt II
+- Akt III
+- Auslösendes Ereignis
+- Plot Point
+- Mittelpunkt
+- Steigende Handlung
+- Fallende Handlung
+- Höhepunkt
+- Konzept-zu-Narrativ-Mapping-Matrix
+- Konzept-Integrations-Matrix
+- Mapping-Matrix
+- Rekursive Schleifen
+- Fragmentierte Perspektiven
+- Pacing
+
+## lens
+
+- Internal Family Systems (IFS) Framework
+- IFS
+- Jungianische Archetypen
+- Individuation
+- Anima/Animus
+- Schatten
+- Heldenreise
+- Monomythos
+- Feuerprobe
+- Emergenz
+- Quantenverschränkung
+- Nichtlokalität
+- Autopoiesis
+- Symbiose
+- Irreduzible Komplexität
+- Mysterium tremendum et fascinans
+- Tremendum
+- Fascinans
+- Halting Problem
+- Liar-Paradoxie
+- Kybernetik zweiter Ordnung
+- Bindungstheorie
+- Polyvagal-Theorie
+- Somatic Experiencing
+- Liminalität
+- Communitas
+- Dauer
+- intellektuellen Sympathie
+- Chaostheorie
+- Unburdening
+- Intelligent Design
+
+The document is a plot proposal in the form of a research report, with sections numbered I to VIII, section headings in bold, and a closing reference list that is one long line. The text cites a "User Query" with a roman numeral in square brackets many times; it is the reference label of the commission, and I leave it off the list. In the matrix of section VII the first column pairs a concept with a discipline, and several of those rows name a theorem or a person; they are borrowed concepts and stand in the lens section only where the text itself writes them as a concept. Terms such as Exilanten, Manager and Feuerlöscher are set in bold italics and glossed in English in brackets once. The document names neither chapters nor Kap numbers; its structure is Akt I to III with beats.

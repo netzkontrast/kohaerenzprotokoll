@@ -1,0 +1,71 @@
+# counts for 59 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            27 word    27 in   [15, 17, 19, 21, 31, 32]
+  Kael                             21 word    29 in   [15, 17, 19, 34, 36, 37]
+                                    8      as Kaels
+  Juna                              2 word     6 in   [17, 19, 39, 54, 74]  <-- substring
+                                    3      as Junas
+                                    1      as Juna-Verbindung
+  M                                11 word    41 in   [15, 17, 19, 23, 32, 33]  <-- substring
+  Potentialmeer                     3 word     4 in   [15, 21, 31, 75]
+                                    1      as Potentialmeers
+  Kernwelten                        5 word     5 in   [15, 17, 21, 35]
+  Conway-Welt                       1 word     1 in   [35]
+  Co₁                               3 word     6 in   [15, 35, 36, 37, 38, 47]
+  McLaughlin-Welt                   1 word     1 in   [44]
+  McL                               3 word     6 in   [15, 44, 45, 46, 47]
+  Baby-Monster-Welt                 1 word     1 in   [51]
+  Lyons-Welt                        1 word     1 in   [62]
+  Ly                                3 word     5 in   [15, 62, 63, 65]
+  Monstergruppe                     3 word     3 in   [15, 33]
+  Moonshine-Link                    1 word     1 in   [17]
+  K-J Verbindung                    4 word     4 in   [39, 50, 67, 71]
+  Kohärenz-Controller               1 word     1 in   [17]
+  Caches                            1 word     1 in   [17]
+  Backchannel                       2 word     2 in   [17, 67]
+  Risse                             4 word     4 in   [17, 42, 49]
+  Prämisse                          1 word     1 in   [13]
+  Konflikt                          2 word     3 in   [19, 47, 55]
+                                    1      as Konflikten
+  Setting                           1 word     1 in   [21]
+  Genre-Mix                         1 word     1 in   [23]
+  Kernthemen                        1 word     1 in   [25]
+  Kapitel-Themen-Entwurf            1 word     1 in   [27]
+  Potentialität & Aktualität        1 word     1 in   [31]
+  Cache Kohärenz                    5 word     5 in   [17, 37, 47, 55, 67]
+  Cache Kohärenz Metapher           1 word     1 in   [37]
+  Klimax                            2 word     2 in   [72, 73]
+  Falling Action                    1 word     1 in   [74]
+  Resolution                        1 word     1 in   [75]
+  Symmetrie                         8 word    13 in   [15, 17, 36, 45, 52, 63]
+                                    2      as Symmetrien
+                                    2      as Symmetriebruch
+  Symmetriebruch                    2 word     2 in   [45, 52]
+  Bindungsproblem                   1 word     1 in   [72]
+  Autopoiesis                       2 word     2 in   [32, 73]
+  Monstrous Moonshine               1 word     1 in   [39]
+  Dissoziative Identitätsstörung    1 word     1 in   [34]
+  DID                               2 word     2 in   [17, 34]
+  Internal Family Systems           1 word     1 in   [46]
+  IFS                               2 word     2 in   [17, 46]
+  Gödel'sche Unvollständigkeitssätze    1 word     1 in   [38]
+  Quanten-Nichtlokalität            1 word     1 in   [40]
+  Verschränkung                     1 word     1 in   [40]
+  Parakonsistente Logik             1 word     1 in   [48]
+  Transpersonale Psychologie        1 word     1 in   [50]
+  Non-Dualität                      1 word     1 in   [50]
+  Jung'scher Schatten               1 word     1 in   [53]
+  NET                               1 word     1 in   [54]
+  Holismus                          4 word     4 in   [19, 56, 75]
+  Reduktionismus                    1 word     1 in   [56]
+  Grenzen der Berechenbarkeit       1 word     1 in   [57]
+  Identitätsparadoxien              1 word     1 in   [58]
+  Schiff des Theseus                1 word     1 in   [58]
+  Emergenz                          3 word     3 in   [19, 60, 64]
+  Ontologie                         1 word     1 in   [65]
+  Epistemologie                     1 word     1 in   [66]
+  KI-Ethik                          2 word     2 in   [25, 68]
+  Entropie                          1 word     1 in   [75]

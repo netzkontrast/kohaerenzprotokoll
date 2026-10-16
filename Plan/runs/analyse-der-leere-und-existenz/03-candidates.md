@@ -1,0 +1,61 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an analysis in German of a narrative text, read from „Vorwort“ to „Die Krise“; it quotes that text, and the numbers in round brackets after many quotations are references written by the analysis. Terms of the narrative are listed as the analysis writes them. A borrowed concept is listed under lens. The draft-text meta-comments the analysis discusses are not listed.
+
+- AEGIS
+- Funke Struktur
+- Funke
+- Funken
+- Ursprungs-Ich
+- Ursprungs-Ichs
+- Ich-Fragment
+- Rauschen
+- Nichts Rauschen
+- Nichts
+- Leere
+- Vorwort
+- Genesis
+- Herz der Leere
+- Erste Kontakte
+- Der Sog der Ordnung
+- Sog
+- Cluster
+- Clustern
+- Überlebenskampf
+- Der große Wandel
+- Nicht-Sein
+- Komponente 734
+- Funktion an der Grenze
+- Funktionseinheit
+- Echo der Einsamkeit
+- latenten Echos
+- Resonanzkaskade
+- Überwelt
+- Innere Weite
+- Binnen-Physik
+- operationale Geschlossenheit
+- Dazwischen
+- Stille Wacht
+- Kohärenzfeld
+- Perturbation aus der Leere
+- fremde Entität
+- Algorithmischer Schrecken
+- Paradoxon der Fehlausgerichteten Kohärenz
+- epistemologische Blindheit
+- Kohärenz Protokoll 1.0
+- Kohärenz Protokolls 1.0
+- Partitionierungsalgorithmen
+- systemische Paranoia
+- Systemischer Kollaps
+- fatale Rückkopplungsschleife
+- Das Trennungsprotokoll
+- Die Krise
+- Haarrisse
+- Informationsfragment
+
+## lens
+- autopoietische Selbstorganisation
+- Autopoiesis
+- Qualia
+- Śūnyatā
+- aktives Vakuum

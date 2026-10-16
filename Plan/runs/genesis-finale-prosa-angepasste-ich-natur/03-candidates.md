@@ -1,0 +1,59 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- Genesis
+- AEGIS
+- Rauschen
+- Nichts Rauschen
+- Kohärenz
+- Funke Kohärenz
+- Resonanz
+- Ganzheit
+- Echo
+- Narbe
+- Cluster
+- Triaden
+- Tetraden
+- Bindung
+- Fluss
+- Kern
+- Herkunft
+- Direktive 0
+- Komponente 734
+- Sektor Gamma-7
+- Grenzinterface
+- Systemgrenze
+- Abwehrfront
+- operationale Schließung
+- Kernprinzip
+- Subjektive Residuen
+- Unvollständigkeitsmarker
+- Angst-Äquivalente
+- latente Signatur
+- Prä-AEGIS-Stadium
+- Logikpakete
+- Analysevektoren
+- Routinezyklus Delta-Gamma
+- Diagnosezyklus Delta-Gamma
+- Standby-Modus B
+- Überwelt
+- Simulation Gamma-Omega
+- Simulation Epsilon-Prime
+- Überwelt-Analysemodul Omega
+- Anomalie Sigma
+- Entität Sigma
+- Kohärenz-Fragment
+- Alarmstufe
+- positive Feedbackschleife
+- Agency
+- Wendepunkt
+- Kohärenz Protokoll Gamma-Exekution
+- Protokoll Gamma-Exekution
+- Ich-Konstrukt
+- Scherben
+- Mosaik
+- Kael
+- Kernwelten
+- Phantom in der Maschine
+- Systemresonanz
+
+Observations. The text is first-person narrative prose in 13 scenes under three parts (TEIL 1 to TEIL 3). Passages switch between an italic or plain "ich" voice and a system-report voice (AEGIS's logs, "Systemanalyse"); no speaker is named for the first-person voice until the last scene. Two scene headings carry the label NEUE. Some terms appear only in the system-report register (Alarmstufe, Standby-Modus B).

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "archiv-des-ungesagten",
+ "title": "Archiv des Ungesagten",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Speicherung verdrängter Wahrheiten",
+  "Rolle des anonymen Archivars",
+  "Unterscheidung von Vergessen und Zensur",
+  "Verlässlichkeit zugänglicher Erinnerungen",
+  "Handlung beim Lesen des Archivs"
+ ],
+ "basis": {
+  "archiv-des-ungesagten": {
+   "title": "Archiv des Ungesagten",
+   "path": "Wiki/candidates/archiv-des-ungesagten.md",
+   "hash": "d9eda82db399c05be355ebfe9a0984269757ac4da18e262523c897aa123bf9a2"
+  },
+  "archiv-der-grenzen": {
+   "title": "Archiv der Grenzen",
+   "path": "Wiki/candidates/archiv-der-grenzen.md",
+   "hash": "f5b4ded0df8d006175f5e3c88f4478ae93dda438876a47581ae0a1b1fc41a577"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "vergessener-schrein": {
+   "title": "Vergessener Schrein",
+   "path": "Wiki/candidates/vergessener-schrein.md",
+   "hash": "2a4e4c5a60f09667b677c16d16f6e9369d5f78585bfc1c1b54b30ab6f1f38a41"
+  },
+  "oblivion": {
+   "title": "Oblivion",
+   "path": "Wiki/candidates/oblivion.md",
+   "hash": "ca2c5b470c17bf0735677596cfb21b6b7fa28ae5050c01850e7671ab53cf2bfb"
+  },
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-archiv-des-ungesagten-001",
+   "question": "Wer entscheidet im Archiv des Ungesagten, ob eine Erinnerung verdrängt, vergessen oder absichtlich zensiert wurde?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-002",
+   "question": "Welche Lesarten auf der Seite zu Archiv des Ungesagten stützen oder begrenzen „Speicherung verdrängter Wahrheiten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-003",
+   "question": "Welcher Grenzfall würde bei Archiv des Ungesagten die Annahmen über „Speicherung verdrängter Wahrheiten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-004",
+   "question": "Wer könnte innerhalb des Romans bei Archiv des Ungesagten etwas über „Speicherung verdrängter Wahrheiten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-005",
+   "question": "Welche konkrete Entscheidung könnte „Speicherung verdrängter Wahrheiten“ bei Archiv des Ungesagten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Speicherung verdrängter Wahrheiten“ bei Archiv des Ungesagten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-007",
+   "question": "Wie lässt sich „Speicherung verdrängter Wahrheiten“ bei Archiv des Ungesagten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-008",
+   "question": "Welche Alternativen sollte der Autor bei Archiv des Ungesagten für „Speicherung verdrängter Wahrheiten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-009",
+   "question": "Was bedeutet bei Archiv des Ungesagten der Themenpunkt „Rolle des anonymen Archivars“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-010",
+   "question": "Welche Lesarten auf der Seite zu Archiv des Ungesagten stützen oder begrenzen „Rolle des anonymen Archivars“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-011",
+   "question": "Welcher Grenzfall würde bei Archiv des Ungesagten die Annahmen über „Rolle des anonymen Archivars“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-012",
+   "question": "Wer könnte innerhalb des Romans bei Archiv des Ungesagten etwas über „Rolle des anonymen Archivars“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-013",
+   "question": "Welche konkrete Entscheidung könnte „Rolle des anonymen Archivars“ bei Archiv des Ungesagten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Rolle des anonymen Archivars“ bei Archiv des Ungesagten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-015",
+   "question": "Wie lässt sich „Rolle des anonymen Archivars“ bei Archiv des Ungesagten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-016",
+   "question": "Welche Alternativen sollte der Autor bei Archiv des Ungesagten für „Rolle des anonymen Archivars“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-017",
+   "question": "Was bedeutet bei Archiv des Ungesagten der Themenpunkt „Unterscheidung von Vergessen und Zensur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-018",
+   "question": "Welche Lesarten auf der Seite zu Archiv des Ungesagten stützen oder begrenzen „Unterscheidung von Vergessen und Zensur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-019",
+   "question": "Welcher Grenzfall würde bei Archiv des Ungesagten die Annahmen über „Unterscheidung von Vergessen und Zensur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-020",
+   "question": "Wer könnte innerhalb des Romans bei Archiv des Ungesagten etwas über „Unterscheidung von Vergessen und Zensur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterscheidung von Vergessen und Zensur“ bei Archiv des Ungesagten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterscheidung von Vergessen und Zensur“ bei Archiv des Ungesagten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-023",
+   "question": "Wie lässt sich „Unterscheidung von Vergessen und Zensur“ bei Archiv des Ungesagten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-024",
+   "question": "Welche Alternativen sollte der Autor bei Archiv des Ungesagten für „Unterscheidung von Vergessen und Zensur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-025",
+   "question": "Was bedeutet bei Archiv des Ungesagten der Themenpunkt „Verlässlichkeit zugänglicher Erinnerungen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-026",
+   "question": "Welche Lesarten auf der Seite zu Archiv des Ungesagten stützen oder begrenzen „Verlässlichkeit zugänglicher Erinnerungen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-027",
+   "question": "Welcher Grenzfall würde bei Archiv des Ungesagten die Annahmen über „Verlässlichkeit zugänglicher Erinnerungen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-028",
+   "question": "Wer könnte innerhalb des Romans bei Archiv des Ungesagten etwas über „Verlässlichkeit zugänglicher Erinnerungen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-029",
+   "question": "Welche konkrete Entscheidung könnte „Verlässlichkeit zugänglicher Erinnerungen“ bei Archiv des Ungesagten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verlässlichkeit zugänglicher Erinnerungen“ bei Archiv des Ungesagten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-031",
+   "question": "Wie lässt sich „Verlässlichkeit zugänglicher Erinnerungen“ bei Archiv des Ungesagten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-032",
+   "question": "Welche Alternativen sollte der Autor bei Archiv des Ungesagten für „Verlässlichkeit zugänglicher Erinnerungen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-033",
+   "question": "Was bedeutet bei Archiv des Ungesagten der Themenpunkt „Handlung beim Lesen des Archivs“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-034",
+   "question": "Welche Lesarten auf der Seite zu Archiv des Ungesagten stützen oder begrenzen „Handlung beim Lesen des Archivs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-035",
+   "question": "Welcher Grenzfall würde bei Archiv des Ungesagten die Annahmen über „Handlung beim Lesen des Archivs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-036",
+   "question": "Wer könnte innerhalb des Romans bei Archiv des Ungesagten etwas über „Handlung beim Lesen des Archivs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-037",
+   "question": "Welche konkrete Entscheidung könnte „Handlung beim Lesen des Archivs“ bei Archiv des Ungesagten in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlung beim Lesen des Archivs“ bei Archiv des Ungesagten haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-039",
+   "question": "Wie lässt sich „Handlung beim Lesen des Archivs“ bei Archiv des Ungesagten zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-040",
+   "question": "Welche Alternativen sollte der Autor bei Archiv des Ungesagten für „Handlung beim Lesen des Archivs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-041",
+   "question": "Wo unterscheiden sich Archiv des Ungesagten und Archiv der Grenzen, wenn man sie unter dem Gesichtspunkt „Speicherung verdrängter Wahrheiten“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-042",
+   "question": "Welche Quelle verbindet Archiv des Ungesagten mit Archiv der Grenzen in Bezug auf „Speicherung verdrängter Wahrheiten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-043",
+   "question": "Welche Grenzen aus der Seite zu Archiv der Grenzen müsste eine Deutung von Archiv des Ungesagten unter „Speicherung verdrängter Wahrheiten“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-044",
+   "question": "Wie könnte sich das Wissen über Archiv des Ungesagten vom Wissen über Archiv der Grenzen unterscheiden, wenn „Speicherung verdrängter Wahrheiten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv des Ungesagten und Archiv der Grenzen bei „Speicherung verdrängter Wahrheiten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-046",
+   "question": "Falls Archiv des Ungesagten im Hinblick auf „Speicherung verdrängter Wahrheiten“ anders festgelegt wird: Welche Aussagen über Archiv der Grenzen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv des Ungesagten und Archiv der Grenzen bei „Speicherung verdrängter Wahrheiten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-048",
+   "question": "Braucht der Roman eine Verbindung von Archiv des Ungesagten und Archiv der Grenzen bei „Speicherung verdrängter Wahrheiten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-049",
+   "question": "In welchem denkbaren Fall könnte Archiv des Ungesagten bestehen, ohne dass Archiv der Grenzen dieselbe Funktion übernimmt, und was würde das für „Speicherung verdrängter Wahrheiten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-050",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv des Ungesagten und Archiv der Grenzen in Bezug auf „Speicherung verdrängter Wahrheiten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-051",
+   "question": "Welche ältere Lesart von Archiv des Ungesagten oder Archiv der Grenzen könnte die Gegenüberstellung unter „Speicherung verdrängter Wahrheiten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv des Ungesagten und Archiv der Grenzen unter „Speicherung verdrängter Wahrheiten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "archiv-des-ungesagten",
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-053",
+   "question": "Wo unterscheiden sich Archiv des Ungesagten und Mnemosyne, wenn man sie unter dem Gesichtspunkt „Rolle des anonymen Archivars“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-054",
+   "question": "Welche Quelle verbindet Archiv des Ungesagten mit Mnemosyne in Bezug auf „Rolle des anonymen Archivars“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-055",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Archiv des Ungesagten unter „Rolle des anonymen Archivars“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-056",
+   "question": "Wie könnte sich das Wissen über Archiv des Ungesagten vom Wissen über Mnemosyne unterscheiden, wenn „Rolle des anonymen Archivars“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv des Ungesagten und Mnemosyne bei „Rolle des anonymen Archivars“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-058",
+   "question": "Falls Archiv des Ungesagten im Hinblick auf „Rolle des anonymen Archivars“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv des Ungesagten und Mnemosyne bei „Rolle des anonymen Archivars“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-060",
+   "question": "Braucht der Roman eine Verbindung von Archiv des Ungesagten und Mnemosyne bei „Rolle des anonymen Archivars“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-061",
+   "question": "In welchem denkbaren Fall könnte Archiv des Ungesagten bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „Rolle des anonymen Archivars“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-062",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv des Ungesagten und Mnemosyne in Bezug auf „Rolle des anonymen Archivars“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-063",
+   "question": "Welche ältere Lesart von Archiv des Ungesagten oder Mnemosyne könnte die Gegenüberstellung unter „Rolle des anonymen Archivars“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv des Ungesagten und Mnemosyne unter „Rolle des anonymen Archivars“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "archiv-des-ungesagten",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-065",
+   "question": "Wo unterscheiden sich Archiv des Ungesagten und Vergessener Schrein, wenn man sie unter dem Gesichtspunkt „Unterscheidung von Vergessen und Zensur“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-066",
+   "question": "Welche Quelle verbindet Archiv des Ungesagten mit Vergessener Schrein in Bezug auf „Unterscheidung von Vergessen und Zensur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-067",
+   "question": "Welche Grenzen aus der Seite zu Vergessener Schrein müsste eine Deutung von Archiv des Ungesagten unter „Unterscheidung von Vergessen und Zensur“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-068",
+   "question": "Wie könnte sich das Wissen über Archiv des Ungesagten vom Wissen über Vergessener Schrein unterscheiden, wenn „Unterscheidung von Vergessen und Zensur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv des Ungesagten und Vergessener Schrein bei „Unterscheidung von Vergessen und Zensur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-070",
+   "question": "Falls Archiv des Ungesagten im Hinblick auf „Unterscheidung von Vergessen und Zensur“ anders festgelegt wird: Welche Aussagen über Vergessener Schrein müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv des Ungesagten und Vergessener Schrein bei „Unterscheidung von Vergessen und Zensur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-072",
+   "question": "Braucht der Roman eine Verbindung von Archiv des Ungesagten und Vergessener Schrein bei „Unterscheidung von Vergessen und Zensur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-073",
+   "question": "In welchem denkbaren Fall könnte Archiv des Ungesagten bestehen, ohne dass Vergessener Schrein dieselbe Funktion übernimmt, und was würde das für „Unterscheidung von Vergessen und Zensur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-074",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv des Ungesagten und Vergessener Schrein in Bezug auf „Unterscheidung von Vergessen und Zensur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-075",
+   "question": "Welche ältere Lesart von Archiv des Ungesagten oder Vergessener Schrein könnte die Gegenüberstellung unter „Unterscheidung von Vergessen und Zensur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv des Ungesagten und Vergessener Schrein unter „Unterscheidung von Vergessen und Zensur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "archiv-des-ungesagten",
+    "vergessener-schrein"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-077",
+   "question": "Wo unterscheiden sich Archiv des Ungesagten und Oblivion, wenn man sie unter dem Gesichtspunkt „Verlässlichkeit zugänglicher Erinnerungen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-078",
+   "question": "Welche Quelle verbindet Archiv des Ungesagten mit Oblivion in Bezug auf „Verlässlichkeit zugänglicher Erinnerungen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-079",
+   "question": "Welche Grenzen aus der Seite zu Oblivion müsste eine Deutung von Archiv des Ungesagten unter „Verlässlichkeit zugänglicher Erinnerungen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-080",
+   "question": "Wie könnte sich das Wissen über Archiv des Ungesagten vom Wissen über Oblivion unterscheiden, wenn „Verlässlichkeit zugänglicher Erinnerungen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv des Ungesagten und Oblivion bei „Verlässlichkeit zugänglicher Erinnerungen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-082",
+   "question": "Falls Archiv des Ungesagten im Hinblick auf „Verlässlichkeit zugänglicher Erinnerungen“ anders festgelegt wird: Welche Aussagen über Oblivion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv des Ungesagten und Oblivion bei „Verlässlichkeit zugänglicher Erinnerungen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-084",
+   "question": "Braucht der Roman eine Verbindung von Archiv des Ungesagten und Oblivion bei „Verlässlichkeit zugänglicher Erinnerungen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-085",
+   "question": "In welchem denkbaren Fall könnte Archiv des Ungesagten bestehen, ohne dass Oblivion dieselbe Funktion übernimmt, und was würde das für „Verlässlichkeit zugänglicher Erinnerungen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-086",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv des Ungesagten und Oblivion in Bezug auf „Verlässlichkeit zugänglicher Erinnerungen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-087",
+   "question": "Welche ältere Lesart von Archiv des Ungesagten oder Oblivion könnte die Gegenüberstellung unter „Verlässlichkeit zugänglicher Erinnerungen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv des Ungesagten und Oblivion unter „Verlässlichkeit zugänglicher Erinnerungen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "archiv-des-ungesagten",
+    "oblivion"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-089",
+   "question": "Wo unterscheiden sich Archiv des Ungesagten und Resonanz-Landschaft, wenn man sie unter dem Gesichtspunkt „Handlung beim Lesen des Archivs“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-090",
+   "question": "Welche Quelle verbindet Archiv des Ungesagten mit Resonanz-Landschaft in Bezug auf „Handlung beim Lesen des Archivs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-091",
+   "question": "Welche Grenzen aus der Seite zu Resonanz-Landschaft müsste eine Deutung von Archiv des Ungesagten unter „Handlung beim Lesen des Archivs“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-092",
+   "question": "Wie könnte sich das Wissen über Archiv des Ungesagten vom Wissen über Resonanz-Landschaft unterscheiden, wenn „Handlung beim Lesen des Archivs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv des Ungesagten und Resonanz-Landschaft bei „Handlung beim Lesen des Archivs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-094",
+   "question": "Falls Archiv des Ungesagten im Hinblick auf „Handlung beim Lesen des Archivs“ anders festgelegt wird: Welche Aussagen über Resonanz-Landschaft müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv des Ungesagten und Resonanz-Landschaft bei „Handlung beim Lesen des Archivs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-096",
+   "question": "Braucht der Roman eine Verbindung von Archiv des Ungesagten und Resonanz-Landschaft bei „Handlung beim Lesen des Archivs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-097",
+   "question": "In welchem denkbaren Fall könnte Archiv des Ungesagten bestehen, ohne dass Resonanz-Landschaft dieselbe Funktion übernimmt, und was würde das für „Handlung beim Lesen des Archivs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-098",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv des Ungesagten und Resonanz-Landschaft in Bezug auf „Handlung beim Lesen des Archivs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-099",
+   "question": "Welche ältere Lesart von Archiv des Ungesagten oder Resonanz-Landschaft könnte die Gegenüberstellung unter „Handlung beim Lesen des Archivs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-des-ungesagten-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv des Ungesagten und Resonanz-Landschaft unter „Handlung beim Lesen des Archivs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "archiv-des-ungesagten",
+    "resonanz-landschaft"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Target Collaborations"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Target Collaborations` ^[global-research-for-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Experimental Pipeline"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Experimental Pipeline` ^[global-research-for-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Objective"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            4
+
+`Objective` ^[global-research-for-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[global-research-for-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[global-research-for-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Zugriff am April 29, 2026"
+whole word, case-sensitive     45
+whole word, case-insensitive   45
+including compounds            45
+
+`Zugriff am April 29, 2026` ^[global-research-for-kohaerenz-protokoll.md:#45]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Landauer cost"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            4
+
+`Landauer cost` ^[global-research-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Landauer costs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Landauer costs` ^[global-research-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Landauer erasure"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Landauer erasure` ^[global-research-for-kohaerenz-protokoll.md:#3]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "witness function"
+whole word, case-sensitive     5
+whole word, case-insensitive   8
+including compounds            6
+
+`witness function` ^[global-research-for-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Witness Functions"
+whole word, case-sensitive     1
+whole word, case-insensitive   4
+including compounds            1
+
+`Witness Functions` ^[global-research-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Accurate"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            8
+
+`Accurate` ^[global-research-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "accurately"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`accurately` ^[global-research-for-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "objectives"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`objectives` ^[global-research-for-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py global-research-for-kohaerenz-protokoll --count "Neuro-Interface"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Neuro-Interface` ^[global-research-for-kohaerenz-protokoll.md:#1]
+stance_marker_count 9 = 3+3+3 (Target Collaborations, Experimental Pipeline, Objective whole word)
+profile figures stated in the census (from 01-profile.txt, python3 scripts/capture.py): question marks 2; backslash escapes 96; glued ref numbers 47
+numbered references: 45, = count of "Zugriff am April 29, 2026" above

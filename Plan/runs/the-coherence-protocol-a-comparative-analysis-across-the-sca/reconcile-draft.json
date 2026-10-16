@@ -1,0 +1,133 @@
+{
+  "document": "the-coherence-protocol-a-comparative-analysis-across-the-sca",
+  "drive_id": "1AOCi0B1fQ3oRzFjFg2bPfSsbp_yvUJdVWqZw4XGeHEc",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 55,
+    "decided_by_lookup": 52,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        92,
+        93,
+        94,
+        147
+      ],
+      "attribution": "",
+      "note": "proposed turning points that set AEGIS against the Protocol"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        77,
+        169
+      ],
+      "attribution": "",
+      "note": "cache coherence as the computational-scale model"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        121,
+        131
+      ],
+      "attribution": "",
+      "note": "the K₁ vs. K₀ dynamic and the evolutionary spiral"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        140,
+        147
+      ],
+      "attribution": "",
+      "note": "Kael among the ANPs, and the proposed Integration Event"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        140,
+        148
+      ],
+      "attribution": "",
+      "note": "Kiko among the EPs, and a proposed trigger"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        140
+      ],
+      "attribution": "",
+      "note": "Lex among the ANPs"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        148
+      ],
+      "attribution": "",
+      "note": "Moros named as an EP in a proposed trigger"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        140,
+        146
+      ],
+      "attribution": "",
+      "note": "Nyx among the EPs, and aggression relied on in a proposal"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        67,
+        146
+      ],
+      "attribution": "",
+      "note": "Risse as zones of failing decoherence, proposed"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        131,
+        171
+      ],
+      "attribution": "",
+      "note": "TSDP as the psychological-scale frame"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

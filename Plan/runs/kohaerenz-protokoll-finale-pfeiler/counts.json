@@ -1,0 +1,626 @@
+{
+  "document": "kohaerenz-protokoll-finale-pfeiler",
+  "drive_id": "1BHk5pT2XdptoQzmUB1hwTjt7SdtqzLd4ZX4SmrCyd2E",
+  "step": "counts",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Fundament": {
+      "n": 12,
+      "n_including_compounds": 16,
+      "lines": [
+        18,
+        22,
+        26,
+        30,
+        36,
+        40,
+        44,
+        54,
+        58,
+        60,
+        174
+      ]
+    },
+    "Potentialmeer": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        102,
+        127,
+        268
+      ]
+    },
+    "Kohärenz-Inseln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Paraiyas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "AEGIS": {
+      "n": 41,
+      "n_including_compounds": 41,
+      "lines": [
+        30,
+        54,
+        62,
+        66,
+        70,
+        78,
+        82,
+        92,
+        94,
+        102,
+        110,
+        112,
+        114,
+        125,
+        127,
+        144,
+        152,
+        172,
+        174,
+        195,
+        203,
+        208,
+        216,
+        219,
+        233,
+        241,
+        245,
+        249,
+        253,
+        265,
+        267,
+        276,
+        286
+      ]
+    },
+    "Kael": {
+      "n": 34,
+      "n_including_compounds": 45,
+      "lines": [
+        44,
+        54,
+        56,
+        60,
+        62,
+        82,
+        88,
+        92,
+        102,
+        114,
+        128,
+        136,
+        144,
+        152,
+        160,
+        162,
+        172,
+        174,
+        183,
+        195,
+        203,
+        205,
+        206,
+        208,
+        216,
+        218,
+        223,
+        231,
+        233,
+        241,
+        251,
+        261,
+        265,
+        267,
+        268,
+        276,
+        286,
+        287
+      ]
+    },
+    "Juna": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        56,
+        88,
+        92,
+        102,
+        114,
+        191,
+        195,
+        203,
+        205,
+        206,
+        216,
+        218,
+        227,
+        233
+      ]
+    },
+    "Juna/V": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        92,
+        191,
+        195,
+        203,
+        216,
+        218,
+        227,
+        233
+      ]
+    },
+    "Nyx": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        144,
+        152,
+        170,
+        184
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        144,
+        185
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        144,
+        152,
+        170,
+        186
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        290
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        125
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Kern-Direktive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        272,
+        276,
+        278,
+        294
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        148
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        136,
+        152
+      ]
+    },
+    "Anscheinend Normalen Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Emotionalen Anteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        144,
+        183
+      ]
+    },
+    "ISH/Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Co-Fronting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Täterintrojekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Pfad A": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        98,
+        122
+      ]
+    },
+    "Pfad B": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        122
+      ]
+    },
+    "Szenario A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "Szenario B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        268
+      ]
+    },
+    "Der neue Tyrann": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "Der Gärtner": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        268
+      ]
+    },
+    "Realitätserzeugung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "Systemintervention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        265
+      ]
+    },
+    "Kerkermeister": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Leere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        253
+      ]
+    },
+    "Gefühl von Heimat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        218
+      ]
+    },
+    "Anziehungsbecken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        60
+      ]
+    },
+    "dialetheische Geist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "seltsamen Attraktors": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        60
+      ]
+    },
+    "schwach emergenter Rahmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "schwache Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Gnosis": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        50,
+        56,
+        58,
+        62,
+        218
+      ]
+    },
+    "Episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50,
+        54
+      ]
+    },
+    "autopoietisches System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "parakonsistenten Logik": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        110,
+        112,
+        123,
+        136,
+        170,
+        182
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        110
+      ]
+    },
+    "ex contradictione quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        92,
+        94,
+        212,
+        216
+      ]
+    },
+    "Specification Gaming": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        245,
+        251
+      ]
+    },
+    "Perverse Instantiation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        251,
+        288
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Strukturelle Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "rhizomatischen Selbst": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        162
+      ]
+    },
+    "polyphoner Roman": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Tertiären Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        140,
+        144,
+        182
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        18,
+        22,
+        40,
+        60,
+        195
+      ]
+    },
+    "KI-Alignment-Problems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        249
+      ]
+    },
+    "Whitehead": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        205
+      ]
+    },
+    "Deleuze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        162,
+        301
+      ]
+    },
+    "Bachtin": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    }
+  }
+}

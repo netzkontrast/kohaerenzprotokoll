@@ -1,0 +1,161 @@
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Kernidee"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kernidee` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#6]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Forschungsintegration"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Forschungsintegration` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#6]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Implikationen"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Implikationen` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#8]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Zielsetzung"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Zielsetzung` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#6]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Aufgabenstellung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Aufgabenstellung` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#3]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#0]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#0]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "wahrscheinlich"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`wahrscheinlich` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#6]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "möglicherweise"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`möglicherweise` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#4]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "könnten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`könnten` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#5]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Juna"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            13
+
+`Juna` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#8]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Parias"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Parias` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#8]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Glitch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Glitch` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#1]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Reduktionismus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Reduktionismus` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#4]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Holismus"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Holismus` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#7]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "begrenzter Rationalität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`begrenzter Rationalität` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#1]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Darstellungsschwierigkeit"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Darstellungsschwierigkeit` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#3]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "sub-protokollarische"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`sub-protokollarische` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#1]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Kohärenz Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokoll` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#3]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Kerndichotomien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kerndichotomien` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#1]
+
+$ python3 scripts/read.py konzeptanalyse-kohaerenz-protokoll-s-fundament --count "Alter"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            18
+
+`Alter` ^[konzeptanalyse-kohaerenz-protokoll-s-fundament.md:#3]
+
+$ stance_marker_count = 6 + 6 + 8 + 6 = 26 (Kernidee, Forschungsintegration, Implikationen, Zielsetzung; whole word, case-sensitive)
+$ grep -n "?" Sources/drive/konzeptanalyse-kohaerenz-protokoll-s-fundament.md | cut -d: -f1 | tr "\n" " "
+254 296 306 316 330 347 348 349 369 386 388 396 
+$ grep -c "Kapitel\|Kap " (hand check of count 0): 
+0
+0
+(above: rows of numbered ontology table L156-161 = 6)
+$ sed -n 273,278p (six property rows of the manifestation table)
+| Einfachheit (Holismus) | Widerstand ge
+| Komplexität/Symmetrie | Verschachtelt
+| Sporadizität | Einzigartigkeit der K-
+| Moonshine | Existenz der K-J Verbindun
+| Interne Struktur / Parias | Beziehunge
+| Darstellungsschwierigkeit | Scheitern 

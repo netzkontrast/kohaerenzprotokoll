@@ -1,0 +1,925 @@
+{
+  "document": "kohaerenz-protokoll-plot-konzept-generierung-2",
+  "drive_id": "1oZlDiHceOCt4l3DnQg59BXmEtxvQPVKzTpQc013lHBc",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Potentialmeer": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        26,
+        71,
+        90,
+        146,
+        156,
+        158,
+        164,
+        172,
+        177
+      ]
+    },
+    "AEGIS": {
+      "n": 106,
+      "n_including_compounds": 108,
+      "lines": [
+        17,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        40,
+        42,
+        44,
+        52,
+        54,
+        59,
+        60,
+        61,
+        65,
+        69,
+        71,
+        73,
+        77,
+        78,
+        79,
+        81,
+        83,
+        87,
+        88,
+        89,
+        90,
+        100,
+        107,
+        108,
+        110,
+        114,
+        115,
+        116,
+        117,
+        125,
+        127,
+        129,
+        137,
+        139,
+        144,
+        145,
+        146,
+        154,
+        156,
+        158,
+        163,
+        164,
+        166,
+        170,
+        171,
+        172,
+        177,
+        178,
+        179,
+        180,
+        186
+      ]
+    },
+    "Monstergruppe (M)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        28,
+        40,
+        71
+      ]
+    },
+    "Monstergruppe": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        28,
+        40,
+        71,
+        100,
+        102,
+        156
+      ]
+    },
+    "Baby-Monster-Gruppen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        29,
+        100
+      ]
+    },
+    "Baby-Monster-Gruppe": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        29,
+        40,
+        44,
+        49,
+        61,
+        100
+      ]
+    },
+    "Kael": {
+      "n": 52,
+      "n_including_compounds": 79,
+      "lines": [
+        17,
+        28,
+        29,
+        34,
+        36,
+        40,
+        42,
+        44,
+        48,
+        49,
+        50,
+        52,
+        54,
+        58,
+        59,
+        60,
+        61,
+        77,
+        78,
+        83,
+        87,
+        89,
+        90,
+        100,
+        102,
+        106,
+        108,
+        110,
+        114,
+        115,
+        116,
+        129,
+        133,
+        134,
+        135,
+        137,
+        139,
+        143,
+        144,
+        145,
+        146,
+        156,
+        158,
+        162,
+        166,
+        170,
+        172,
+        177,
+        186
+      ]
+    },
+    "Juna": {
+      "n": 32,
+      "n_including_compounds": 37,
+      "lines": [
+        17,
+        29,
+        49,
+        50,
+        59,
+        61,
+        77,
+        78,
+        83,
+        87,
+        90,
+        100,
+        102,
+        106,
+        108,
+        115,
+        116,
+        134,
+        144,
+        145,
+        146,
+        156,
+        158,
+        162,
+        166,
+        170,
+        172,
+        177
+      ]
+    },
+    "Kael-Juna (K-J) Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 35,
+      "n_including_compounds": 35,
+      "lines": [
+        17,
+        28,
+        30,
+        33,
+        49,
+        50,
+        52,
+        58,
+        59,
+        60,
+        69,
+        71,
+        73,
+        79,
+        81,
+        83,
+        94,
+        98,
+        100,
+        102,
+        107,
+        108,
+        116,
+        125,
+        127,
+        133,
+        135,
+        144,
+        145,
+        154,
+        164,
+        166,
+        186
+      ]
+    },
+    "Emergenter Moonshine": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        30,
+        50,
+        79,
+        108,
+        135,
+        164
+      ]
+    },
+    "Moonshine": {
+      "n": 19,
+      "n_including_compounds": 27,
+      "lines": [
+        17,
+        19,
+        28,
+        30,
+        31,
+        50,
+        79,
+        94,
+        100,
+        102,
+        108,
+        110,
+        116,
+        117,
+        135,
+        156,
+        164,
+        170,
+        190
+      ]
+    },
+    "Kernwelten": {
+      "n": 27,
+      "n_including_compounds": 29,
+      "lines": [
+        17,
+        31,
+        42,
+        48,
+        52,
+        58,
+        59,
+        71,
+        77,
+        81,
+        83,
+        88,
+        100,
+        102,
+        107,
+        110,
+        115,
+        121,
+        125,
+        127,
+        129,
+        133,
+        137,
+        139,
+        145,
+        171,
+        186
+      ]
+    },
+    "Kernwelt": {
+      "n": 3,
+      "n_including_compounds": 32,
+      "lines": [
+        17,
+        31,
+        42,
+        48,
+        52,
+        58,
+        59,
+        71,
+        77,
+        81,
+        83,
+        88,
+        100,
+        102,
+        107,
+        110,
+        115,
+        121,
+        125,
+        127,
+        129,
+        133,
+        137,
+        139,
+        143,
+        145,
+        171,
+        186
+      ]
+    },
+    "KW1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        129,
+        144
+      ]
+    },
+    "KW2": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        129
+      ]
+    },
+    "KW3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Kernwelten Substrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "parakonsistenter Logik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        81,
+        156
+      ]
+    },
+    "Emergenz": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        19,
+        31,
+        33,
+        50,
+        73,
+        83,
+        100,
+        119,
+        127,
+        156
+      ]
+    },
+    "IFS/DID Analogie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Alters": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        29,
+        34,
+        40,
+        42,
+        44,
+        48,
+        50,
+        58,
+        59,
+        102,
+        129,
+        133,
+        139,
+        144
+      ]
+    },
+    "Parts": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        34,
+        42,
+        48,
+        190
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        42,
+        48
+      ]
+    },
+    "Firefighter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        42
+      ]
+    },
+    "Exiles": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        42,
+        190
+      ]
+    },
+    "Selbst": {
+      "n": 4,
+      "n_including_compounds": 16,
+      "lines": [
+        27,
+        33,
+        42,
+        48,
+        49,
+        54,
+        60,
+        61,
+        73,
+        77,
+        89,
+        92,
+        139,
+        156
+      ]
+    },
+    "Selbstführung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        54,
+        60,
+        61,
+        156
+      ]
+    },
+    "Unburdening": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        34,
+        40,
+        42,
+        44,
+        156,
+        171,
+        190
+      ]
+    },
+    "Simplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        44,
+        156
+      ]
+    },
+    "Complexity": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        156,
+        190
+      ]
+    },
+    "Sporadicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Sporadizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        158,
+        179
+      ]
+    },
+    "Internal Structure": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        127
+      ]
+    },
+    "Existenz durch Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        69
+      ]
+    },
+    "Existenz-durch-Negation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        89,
+        139,
+        154,
+        166
+      ]
+    },
+    "Logischer Beschützer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Emotionalen Exile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Logik-Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Emotions-Exile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Weltenbluten": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        121,
+        135
+      ]
+    },
+    "Blutungsereignis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Weltenblutungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Glitches": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        127
+      ]
+    },
+    "Hard Resets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Pocket-Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Nexuspunkt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Fragmentierungsprotokoll": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Hauptmoduln": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        190
+      ]
+    },
+    "Das Integrationsgambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Das Paradox der Kontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Das Moonshine-Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Das Weltenbluten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Transzendenz des Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Transzendenz": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        150,
+        158,
+        166,
+        177,
+        182,
+        186
+      ]
+    },
+    "Transformation": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        61,
+        81,
+        90,
+        150,
+        156,
+        162,
+        166,
+        178
+      ]
+    },
+    "Neue Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Gegenseitige Vernichtung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Gegenagenten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "NZT-Ideal": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        186
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "DID": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        29,
+        34,
+        40
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        40,
+        190
+      ]
+    },
+    "IFS": {
+      "n": 9,
+      "n_including_compounds": 16,
+      "lines": [
+        19,
+        34,
+        40,
+        42,
+        59,
+        63,
+        129,
+        139,
+        190
+      ]
+    },
+    "Self-Leadership": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Monstrous Moonshine-Phänomens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Vertex Operator Algebren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "VOA": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        19,
+        30,
+        31,
+        79,
+        98,
+        100,
+        102,
+        115,
+        127,
+        156,
+        164,
+        171
+      ]
+    },
+    "Conformal Field Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        100,
+        190
+      ]
+    },
+    "CFT": {
+      "n": 5,
+      "n_including_compounds": 13,
+      "lines": [
+        19,
+        30,
+        31,
+        79,
+        98,
+        100,
+        127,
+        164,
+        190
+      ]
+    },
+    "Gruppentheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        100,
+        156
+      ]
+    },
+    "Reduktionismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        52
+      ]
+    },
+    "Holismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        73
+      ]
+    },
+    "Skaleninvarianz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    }
+  }
+}

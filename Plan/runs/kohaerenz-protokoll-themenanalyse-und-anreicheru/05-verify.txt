@@ -1,0 +1,79 @@
+$ read.py --count "Könnte"
+whole word, case-sensitive     9
+whole word, case-insensitive   37
+including compounds            11
+
+`Könnte` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#9]
+$ read.py --count "Könnten"
+whole word, case-sensitive     2
+whole word, case-insensitive   11
+including compounds            2
+
+`Könnten` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#2]
+$ read.py --count "Narrative Manifestation"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Narrative Manifestation` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#20]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#0]
+$ read.py --count "Kael"
+whole word, case-sensitive     43
+whole word, case-insensitive   43
+including compounds            83
+
+`Kael` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#43]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     81
+whole word, case-insensitive   81
+including compounds            82
+
+`AEGIS` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#81]
+$ read.py --count "Juna/V"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            25
+
+`Juna/V` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#18]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kernwelten` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#13]
+$ read.py --count "Potentialmeer"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Potentialmeer` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#4]
+$ read.py --count "Risse"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Risse` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#7]
+$ read.py --count "Guardians"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Guardians` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#2]
+$ read.py --count "Gaslighting"
+whole word, case-sensitive     13
+whole word, case-insensitive   15
+including compounds            17
+
+`Gaslighting` ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:#13]
+stance_marker_count 68 = 37 (Könnte) + 11 (Könnten) + 20 (Narrative Manifestation), whole word, case-insensitive

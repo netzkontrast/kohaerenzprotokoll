@@ -1,0 +1,109 @@
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Narrative Verbindung"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Narrative Verbindung` ^[physik-fuer-simulierte-realitaet.md:#19]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Narrative Integration"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Narrative Integration` ^[physik-fuer-simulierte-realitaet.md:#5]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Überblick"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Überblick` ^[physik-fuer-simulierte-realitaet.md:#6]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Potenzielle Signaturen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Potenzielle Signaturen` ^[physik-fuer-simulierte-realitaet.md:#3]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "AEGIS"
+whole word, case-sensitive     103
+whole word, case-insensitive   103
+including compounds            107
+
+`AEGIS` ^[physik-fuer-simulierte-realitaet.md:#103]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Kernwelten"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            20
+
+`Kernwelten` ^[physik-fuer-simulierte-realitaet.md:#19]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Risse"
+whole word, case-sensitive     37
+whole word, case-insensitive   37
+including compounds            47
+
+`Risse` ^[physik-fuer-simulierte-realitaet.md:#37]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "M-Struktur"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            12
+
+`M-Struktur` ^[physik-fuer-simulierte-realitaet.md:#10]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "K-J Verbindung"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`K-J Verbindung` ^[physik-fuer-simulierte-realitaet.md:#19]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Kael"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            10
+
+`Kael` ^[physik-fuer-simulierte-realitaet.md:#9]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Überwelt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Überwelt` ^[physik-fuer-simulierte-realitaet.md:#6]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[physik-fuer-simulierte-realitaet.md:#0]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "Potentialmeer/Überwelt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Potentialmeer/Überwelt` ^[physik-fuer-simulierte-realitaet.md:#4]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "AEGIS/Potentialmeer"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`AEGIS/Potentialmeer` ^[physik-fuer-simulierte-realitaet.md:#4]
+
+$ python3 scripts/read.py physik-fuer-simulierte-realitaet --count "AEGIS/Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS/Überwelt` ^[physik-fuer-simulierte-realitaet.md:#1]
+
+# 33 = 19 + 5 + 6 + 3 (case-sensitive whole-word counts above)
+$ grep -cE "^[0-9]+\.  " references (lines 589-662 numbered 1-74)
+74
+$ census 52 candidates, 15 standing-alone-less, profile 109 glued / 98 escapes: see 01-profile.txt and census-draft.md

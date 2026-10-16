@@ -1,0 +1,325 @@
+{
+  "document": "operationalizing-system-collapse-a-strategic-guide-to-aegis",
+  "drive_id": "1VNjJ0hO1PoZS4VyHLRHc1qnYsCq3z1xk6Y-gXQ9Uyk4",
+  "step": "counts",
+  "at": "2026-10-12",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "AEGIS": {
+      "n": 38,
+      "n_including_compounds": 38,
+      "lines": [
+        11,
+        15,
+        19,
+        21,
+        25,
+        29,
+        33,
+        35,
+        39,
+        41,
+        49,
+        53,
+        55,
+        61,
+        69,
+        71,
+        73,
+        75,
+        79,
+        83,
+        84,
+        100,
+        104,
+        106,
+        110,
+        112,
+        118
+      ]
+    },
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        39,
+        41,
+        43,
+        49,
+        51,
+        53,
+        55,
+        59,
+        61,
+        69,
+        73,
+        75,
+        79,
+        81,
+        90,
+        91,
+        92,
+        94,
+        104,
+        106,
+        112
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        39,
+        92
+      ]
+    },
+    "Potentialmeer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        33
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Separation Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        92
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Riss": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        83
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        88
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Autonomous Entropic Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Adaptive Kontrolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Adaptive Control": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        73
+      ]
+    },
+    "Gödel Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        59
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        112
+      ]
+    },
+    "Dialetheic Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Algorithmic Melancholy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        108,
+        110
+      ]
+    },
+    "Einsamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Sehnsucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "entropy": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        41,
+        106
+      ]
+    },
+    "Prime Directive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "ontological wound": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        112
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "paraconsistent logic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        112
+      ]
+    },
+    "correspondence check": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "autopoietic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "functional multiplicity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    }
+  }
+}

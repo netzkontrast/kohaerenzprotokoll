@@ -1,0 +1,69 @@
+$ read.py heilung-der-verlust-von-superkraeften --count "Szenario"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Szenario` ^[heilung-der-verlust-von-superkraeften.md:#2]
+$ read.py heilung-der-verlust-von-superkraeften --count "Situation:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Situation:` ^[heilung-der-verlust-von-superkraeften.md:#2]
+$ read.py heilung-der-verlust-von-superkraeften --count "Das Scheitern:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Das Scheitern:` ^[heilung-der-verlust-von-superkraeften.md:#2]
+$ read.py heilung-der-verlust-von-superkraeften --count "Die Konsequenz:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Die Konsequenz:` ^[heilung-der-verlust-von-superkraeften.md:#2]
+$ read.py heilung-der-verlust-von-superkraeften --count "Zugriff am Oktober"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Zugriff am Oktober` ^[heilung-der-verlust-von-superkraeften.md:#39]
+$ read.py heilung-der-verlust-von-superkraeften --count "Kapitel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kapitel` ^[heilung-der-verlust-von-superkraeften.md:#3]
+$ read.py heilung-der-verlust-von-superkraeften --count "Kap."
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kap.` ^[heilung-der-verlust-von-superkraeften.md:#2]
+$ read.py heilung-der-verlust-von-superkraeften --count "Hyperfokus"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Hyperfokus` ^[heilung-der-verlust-von-superkraeften.md:#10]
+$ read.py heilung-der-verlust-von-superkraeften --count "Kintsugi"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Kintsugi` ^[heilung-der-verlust-von-superkraeften.md:#5]
+$ read.py heilung-der-verlust-von-superkraeften --count "Wabi-Sabi"
+whole word, case-sensitive     5
+whole word, case-insensitive   8
+including compounds            6
+
+`Wabi-Sabi` ^[heilung-der-verlust-von-superkraeften.md:#5]
+# stance_marker_count 8 = Szenario 2 + Situation: 2 + Das Scheitern: 2 + Die Konsequenz: 2
+$ grep -c "^[0-9]*\.  " (numbered references L212 to L253, 42 lines; grep counts only single-space-formatted ones, so by lines:)
+$ sed -n 212,253p | wc -l
+42
+$ grep -n "Lexikon" 
+221:10. Lexikon der Neurowissenschaft - 
+$ grep -no "Kaels"
+115:Kaels
+141:Kaels

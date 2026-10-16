@@ -1,0 +1,117 @@
+{
+  "document": "the-k-j-connection-defining-the-non-algorithmic-mechanism-of",
+  "drive_id": "1WdEsnyIWq4hJtOwArxeg_yngxkZJhM7-PFS0fmPZVNY",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 42,
+    "decisions": 44,
+    "decided_by_lookup": 38,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        27,
+        28,
+        29,
+        65,
+        68
+      ],
+      "attribution": "",
+      "note": "the system whose design leaves a blind spot"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "the second outcome of the Gödel-Gambit"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        61,
+        63,
+        65
+      ],
+      "attribution": "",
+      "note": "the endgame as a living Gödel-Satz"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        15,
+        51,
+        55,
+        76
+      ],
+      "attribution": "",
+      "note": "the external presence recast as a catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        39,
+        63
+      ],
+      "attribution": "",
+      "note": "the managed asset and one half of an inseparable system"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the boundaries the alters coordinate across"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        17,
+        35,
+        39,
+        40,
+        41
+      ],
+      "attribution": "",
+      "note": "a non-local, sub-protocol backdoor"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,14 @@
+# codex-optimierung-fuer-kohaerenz-protokoll
+  lines                583  (frontmatter ends at 9)
+  body words           6133
+  headings             16   bold-only lines 12
+  table rows           36   code fences 0
+  question marks       17
+  backslash escapes    315
+  typographic marks    35   ascii quotes 244
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    36
+  repeated labels      none
+  longest line         1231 chars
+

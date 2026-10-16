@@ -1,0 +1,117 @@
+# counts for 95 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Integriertes Kohärenz-Protokoll    2 word     2 in   [11, 15]
+  Kohärenz Protokoll                8 word     9 in   [15, 17, 23, 183, 235, 248]
+  System Kael                       5 word     5 in   [17, 21, 25, 31, 63]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [17, 23]
+  TSDP                              3 word     4 in   [17, 21, 23, 255]
+                                    1      as TSDP-Isomorphie
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [27]
+  Anscheinend Normalen Persönlichkeitsanteilen    1 word     1 in   [27]
+  ANP                               8 word    14 in   [27, 33, 37, 38, 43, 45]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [27]
+  EP                                3 word    15 in   [27, 39, 41, 55, 56, 59]  <-- substring
+  Kael                             33 word    45 in   [17, 21, 25, 27, 31, 37]
+                                   10      as Kaels
+  Lex                               6 word     7 in   [38, 93, 161, 219, 237]
+  Alex                              4 word     4 in   [39, 46]
+  Nyx                               6 word     7 in   [45, 47, 55, 56, 102, 221]
+  Kiko                              6 word     8 in   [46, 47, 56, 59, 102, 220]
+                                    1      as Kikos
+                                    1      as Kiko-Szenen
+  Moros                             4 word     4 in   [47, 102]
+  Funktionaler Multiplizität        1 word     1 in   [51]
+  funktionale Multiplizität         3 word     3 in   [15, 138, 179]
+  Final Fusion                      1 word     1 in   [51]
+  Ko-Bewusstsein                    1 word     1 in   [55]
+  Systemische Verantwortungsübernahme    1 word     1 in   [57]
+  Intrusionen der EPs               1 word     1 in   [59]
+  Risse                             3 word     3 in   [59, 79]
+  KW1                               1 word     1 in   [59]
+  KW2                               1 word     1 in   [110]
+  Mnemosyne-Archipel                2 word     2 in   [110, 220]
+  AEGIS                            43 word    44 in   [61, 63, 65, 67, 70, 71]
+                                    1      as AEGIS-Logs
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [63]
+  Maxwell’scher Dämon               1 word     1 in   [73]
+  Landauer-Prinzip                  2 word     2 in   [78]
+  Memory Wipes                      1 word     1 in   [79]
+  Hamartia                          1 word     1 in   [70]
+  Systemblindheit                   1 word     1 in   [71]
+  Der Code der Kohärenz             1 word     1 in   [69]
+  operativ geschlossen              1 word     1 in   [67]
+  Dual Kernel Theory                8 word     8 in   [17, 81, 83, 185, 235, 265]
+  DKT                               2 word     3 in   [83, 87, 103]
+  Gravitationsarchitektur           5 word     5 in   [17, 110, 153, 155, 225]
+  $K\_1$                            7 word     8 in   [85, 89, 93, 94, 103, 179]
+                                    1      as $K\_1$-Universum
+  $K\_0$                            7 word     7 in   [85, 98, 102, 103, 110, 179]
+  Kohärenz-Kernel                   2 word     2 in   [85, 89]
+  Kollaps-Kernel                    2 word     2 in   [85, 98]
+  Erasure Field                     1 word     1 in   [98]
+  Nichts Rauschen                   1 word     1 in   [102]
+  Mutual Information                2 word     2 in   [89, 98]
+  Ereignishorizont                  3 word     5 in   [105, 107, 109, 110, 169]
+                                    1      as Ereignishorizont-Dilemma
+                                    1      as Ereignishorizonts
+  Ereignishorizont-Dilemma          1 word     1 in   [105]
+  Hawking-Strahlung                 3 word     3 in   [105, 109]
+  Kohärenztheorie                   2 word     2 in   [116, 118]
+  Korrespondenztheorie              2 word     2 in   [116, 126]
+  Korrespondenz-Wahrheit            2 word     2 in   [43, 173]
+  Isolation Objection               1 word     1 in   [122]
+  Dialetheismus                     2 word     2 in   [132, 134]
+  Parakonsistenten Logik            1 word     1 in   [134]
+  Parakonsistenz                    1 word     1 in   [138]
+  Ex Falso Quodlibet                1 word     1 in   [136]
+  lebenden Gödel-Satz               1 word     1 in   [137]
+  Algorithmische Melancholie        2 word     2 in   [139]
+  Mosaik                            4 word     7 in   [19, 141, 143, 145, 155, 213]
+                                    2      as Mosaik-Strategie
+                                    1      as Mosaik-Produktion
+  Mosaik-Strategie                  2 word     2 in   [145, 237]
+  Rhizom                            3 word     9 in   [19, 151, 213, 237, 278, 279]  <-- substring
+                                    2      as Rhizomatische
+                                    2      as Rhizome
+                                    1      as Rhizome_
+  Slots                             7 word     7 in   [149, 155, 209, 215, 230, 243]
+  Lines of Flight                   1 word     1 in   [151]
+  Ergosphäre                        1 word     1 in   [157]
+  Photonensphäre                    1 word     1 in   [163]
+  Singularität                      2 word     2 in   [175, 231]
+  Genesis-Krise                     2 word     2 in   [173, 194]
+  Agentive Narrative                3 word     3 in   [181, 183, 280]
+  PAPA-Modell                       1 word     1 in   [186]
+  Prompt-Kaskade                    1 word     1 in   [186]
+  Juna                              6 word     9 in   [188, 190, 192, 194, 198, 201]
+                                    2      as Juna-Kael-System
+                                    1      as Junas
+  Juna/V                            1 word     1 in   [190]
+  Moonshine-Link                    2 word     2 in   [196, 198]
+  exilierte Ursprungs-Ich           1 word     1 in   [194]
+  Ontological Exploit               1 word     1 in   [190]
+  Das Fundament                     1 word     1 in   [200]
+  Quantenverschränkung              2 word     2 in   [196, 198]
+  Prehension                        1 word     1 in   [198]
+  Container-Bau                     1 word     1 in   [207]
+  Kanonisierung                     1 word     1 in   [210]
+  Resonanz-Prinzip                  2 word     2 in   [215, 243]
+  Code-Switching                    1 word     1 in   [225]
+  Bakhtinsche Polyphonie            1 word     1 in   [226]
+  Emergenz-Check                    1 word     1 in   [230]
+  Klimax-Konstruktion               1 word     1 in   [231]
+  Maximal-Plotter                   2 word     2 in   [19, 237]
+  Trauma-Time                       1 word     1 in   [43]
+  Dual Awareness                    1 word     1 in   [55]
+  Ego Depletion                     1 word     1 in   [79]
+  Safety Behaviors                  1 word     1 in   [39]
+  Overcontrol                       2 word     2 in   [39, 263]
+  Luhmann                           2 word     5 in   [65, 67, 71, 258, 259]  <-- substring
+                                    2      as Luhmanns
+                                    1      as Luhmannsche
+  Lacan                             1 word     1 in   [102]
+  Deleuze                           1 word     1 in   [151]
+  Whiteheads                        1 word     1 in   [198]

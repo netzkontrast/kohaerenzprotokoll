@@ -1,0 +1,47 @@
+$ read.py monstergruppe-als-narrative-inspiration --count "Leitfragen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Leitfragen` ^[monstergruppe-als-narrative-inspiration.md:#4]
+$ read.py monstergruppe-als-narrative-inspiration --count "Charakter"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            35
+
+`Charakter` ^[monstergruppe-als-narrative-inspiration.md:#14]
+$ read.py monstergruppe-als-narrative-inspiration --count "Metapher"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            9
+
+`Metapher` ^[monstergruppe-als-narrative-inspiration.md:#6]
+$ read.py monstergruppe-als-narrative-inspiration --count "Baby-Monstergruppe"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Baby-Monstergruppe` ^[monstergruppe-als-narrative-inspiration.md:#1]
+$ read.py monstergruppe-als-narrative-inspiration --count "Monstrous Moonshine-Vermutung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Monstrous Moonshine-Vermutung` ^[monstergruppe-als-narrative-inspiration.md:#1]
+$ read.py monstergruppe-als-narrative-inspiration --count "j-Invarianten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`j-Invarianten` ^[monstergruppe-als-narrative-inspiration.md:#1]
+$ read.py monstergruppe-als-narrative-inspiration --count "Schattenaspekte"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schattenaspekte` ^[monstergruppe-als-narrative-inspiration.md:#1]
+profile numbers (20 zero-width, 16 escapes, 52 glued) from 01-profile.txt:
+  backslash escapes    16
+  invisible characters U+200Bx20
+  glued ref numbers    52
+Zeros: 0, standing alone less often: 3 from census-draft.md

@@ -1,0 +1,84 @@
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Core Concept"
+whole word, case-sensitive     39
+whole word, case-insensitive   40
+including compounds            39
+
+`Core Concept` ^[the-coherence-protocol-a-narrative-mosaic.md:#39]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Assigned POV"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Assigned POV` ^[the-coherence-protocol-a-narrative-mosaic.md:#39]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Dramatize the Concept"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Dramatize the Concept` ^[the-coherence-protocol-a-narrative-mosaic.md:#39]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Guardian"
+whole word, case-sensitive     64
+whole word, case-insensitive   64
+including compounds            64
+
+`Guardian` ^[the-coherence-protocol-a-narrative-mosaic.md:#64]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Guardians"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Guardians` ^[the-coherence-protocol-a-narrative-mosaic.md:#0]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Potentialmeer"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Potentialmeer` ^[the-coherence-protocol-a-narrative-mosaic.md:#6]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Moonshine-Link"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Moonshine-Link` ^[the-coherence-protocol-a-narrative-mosaic.md:#5]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Paraiyas"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Paraiyas` ^[the-coherence-protocol-a-narrative-mosaic.md:#3]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "functional multiplicity"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`functional multiplicity` ^[the-coherence-protocol-a-narrative-mosaic.md:#5]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "TSDP"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`TSDP` ^[the-coherence-protocol-a-narrative-mosaic.md:#8]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "IFS"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`IFS` ^[the-coherence-protocol-a-narrative-mosaic.md:#9]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "Zero-Trust"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`Zero-Trust` ^[the-coherence-protocol-a-narrative-mosaic.md:#0]
+$ python3 scripts/read.py the-coherence-protocol-a-narrative-mosaic --count "zero-trust"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`zero-trust` ^[the-coherence-protocol-a-narrative-mosaic.md:#1]
+stance_marker_count 117 = 39+39+39 (Core Concept, Assigned POV, Dramatize the Concept)
+question marks 3 (L182 L216 L302): grep -n '?'
+182:  - **Dr
+216:  - **Co
+302:  - **Dr
+candidates 104: capture.py --count header

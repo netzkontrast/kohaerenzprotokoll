@@ -1,0 +1,14 @@
+# konzeptionelle-transzendenz-fuer-kohaerenz-protokoll
+  lines                521  (frontmatter ends at 9)
+  body words           8488
+  headings             23   bold-only lines 3
+  table rows           10   code fences 0
+  question marks       37
+  backslash escapes    58
+  typographic marks    34   ascii quotes 88
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    105
+  repeated labels      Beschreibung x21, Theoretischer Hintergrund x14, Implikationen x10, Narrative Implikationen x8, Verbindung zur Forschung x6, Beispielhafte Anwendung x3
+  longest line         813 chars
+

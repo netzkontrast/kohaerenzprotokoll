@@ -1,0 +1,14 @@
+# dis-komorbiditaeten-und-alltagsbewaeltigung
+  lines                288  (frontmatter ends at 9)
+  body words           6870
+  headings             21   bold-only lines 0
+  table rows           13   code fences 0
+  question marks       3
+  backslash escapes    72
+  typographic marks    29   ascii quotes 48
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    91
+  repeated labels      none
+  longest line         1263 chars
+

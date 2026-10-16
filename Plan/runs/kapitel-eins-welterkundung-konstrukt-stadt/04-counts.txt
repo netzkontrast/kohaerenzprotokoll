@@ -1,0 +1,52 @@
+# counts for 33 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     3 in   [11, 15, 189]
+  Kern-Welt 1                       1 word     1 in   [15]
+  Konstrukt-Stadt                   8 word     8 in   [15, 17, 23, 39, 51, 137]
+  AEGIS                            12 word    13 in   [15, 23, 47, 70, 86, 91]
+                                    1      as AEGIS-Intervention
+  LogOS                             8 word    14 in   [15, 23, 47, 70, 89, 93]
+                                    3      as LogOS-Präsenz
+                                    2      as LogOS-Prinzipien
+                                    1      as LogOS-Signaturen
+  AEGIS/LogOS                       2 word     5 in   [15, 70, 95, 171, 191]  <-- substring
+                                    3      as AEGIS/LogOS-Präsenz
+  universal reboot                  1 word     1 in   [15]
+  Reboot                            3 word     8 in   [47, 67, 92, 102, 161, 189]  <-- substring
+                                    4      as Reboots
+                                    1      as Reboot-Prozess
+  Wohneinheit                       4 word     4 in   [57, 82, 115, 119]
+  Transitsystem                     3 word     5 in   [59, 84, 103, 127]
+                                    2      as Transitsystems
+  Kapsel                            6 word     9 in   [59, 84, 85, 129, 133]
+                                    3      as Kapseln
+  Verkehrsknotenpunkt               4 word     4 in   [60, 85, 131, 133]
+  Datenverarbeitungszentrum         4 word     4 in   [61, 86, 135, 137]
+  Energieverteilungsnetzwerk        4 word     4 in   [62, 87, 139, 141]
+  Logik-Geflecht                    3 word     3 in   [64, 89, 147]
+  Sensor-/Überwachungsnetzwerk      3 word     3 in   [65, 90, 151]
+  Selbstkorrektur-Instanz           3 word     3 in   [66, 91, 155]
+  Initialisierungszone              3 word     3 in   [67, 92, 159]
+  Architektonisches Makro-Muster    3 word     3 in   [68, 93, 163]
+  Informationsfeld-Schnittstelle    3 word     3 in   [69, 94, 167]
+  Pfad der Beobachtung              1 word     1 in   [53]
+  Vignette                         22 word    28 in   [49, 73, 75, 81, 102, 103]
+                                    5      as Vignetten
+                                    1      as Vignetten-Detailplanung
+  Kontrollinstanz                   1 word     1 in   [173]
+  Wartungseinheiten                 1 word     1 in   [47]
+  Überwachungssignaturen            2 word     2 in   [47, 65]
+  Kohärenzwahrung                   1 word     1 in   [91]
+  Informationssphäre                1 word     1 in   [169]
+  Entropie                          3 word     5 in   [70, 87, 95, 157, 173]
+                                    1      as Entropie-Minimierung
+                                    1      as Entropie-Kontrolle
+  Kohärenz                          4 word     5 in   [11, 15, 91, 157, 189]
+                                    1      as Kohärenzwahrung
+  Uncanny Valley                    4 word     4 in   [37, 39, 95, 219]
+  Architectural Storytelling        6 word     6 in   [21, 23, 84, 86, 93, 201]
+  Setting as Character              3 word     3 in   [21, 93, 198]
+  Subtle Environmental Storytelling    4 word     4 in   [45, 90, 91, 92]

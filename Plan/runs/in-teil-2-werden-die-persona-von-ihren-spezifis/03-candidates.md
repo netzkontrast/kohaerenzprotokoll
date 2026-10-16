@@ -1,0 +1,83 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+---
+# Candidates — in-teil-2-werden-die-persona-von-ihren-spezifis
+
+The document is a plot blueprint in three parts with a reflective preface; the fields repeat under every plot point. Observations stay in paragraphs: the Heldenreise stages are a borrowed frame the document applies, listed under the lens heading; "Plotpunkt 1.1" style labels are numbered and are left to the count.
+
+- Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Programm
+- Kohärenz-Programms
+- Kern-Bewusstseins
+- Personas
+- Persona
+- Persona-Realitäten
+- Architekt
+- Echo
+- Wächter
+- Sucher
+- Funke
+- Magier-Narrator
+- Guardians
+- Guardian
+- Hüter
+- Guardian der Struktur/Logik
+- Guardian der Erinnerung/Emotion
+- Guardian der Sicherheit/Systemintegrität
+- Guardian des Wissens/der Information
+- Guardian der Kreativität/des Potenzials
+- Wissende Guardians
+- Ober-Guardian
+- Überraum
+- Nexus
+- Schaltzentrale
+- Überraum/Nexus/Schaltzentrale
+- Kognitive Stadt
+- Meta-Narrator
+- Meta-Erzählers
+- Magier
+- Forscher
+- Philosoph
+- M/R/P
+- Risse
+- Intrusion
+- Intrusionen
+- Glitches
+- Wiederkehrende Randfiguren
+- Zugeordneter Guardian
+- Relevante Interne Personas
+- Fokus-Persona
+- Service-Bots
+- Vorgesetzter
+- Bibliothekar-Figur
+- Bruch der Realitäten
+- Integrations-Werkzeuge
+- Protagonisten-System
+- Seele als Information
+- Seele=Info
+- funktionale Multiplizität
+- Klarheit
+- Außen
+- Jagd nach der Realität
+- Die Naht im Selbst
+- Echos im Zersplitterten Spiegel
+- Intervention aus dem Überraum
+- Der Twist
+- Innere Kohärenz
+- Meta-Realität
+- Archipel
+- Kintsugi
+- Gleiche Person
+- NZT-Modus
+- aktiven Integratoren
+
+## lens
+
+- Heldenreise
+- Gewohnte Welt
+- Ruf zum Abenteuer
+- Weigerung des Rufs
+- Begegnung mit dem Mentor
+- Überschreiten der ersten Schwelle
+- Feuerprobe
+- Elixier

@@ -1,0 +1,111 @@
+{
+  "document": "kohaerenz-protokoll-konzeptionelle-ausarbeitung",
+  "drive_id": "18A5vZccUSJ-F7T6q3EV7_XYVxHhnvosz34kMRL_gTyk",
+  "step": "reconcile",
+  "at": "2026-10-12",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-12, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-297/brief.md, 2026-10-12; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 80,
+    "decided_by_lookup": 66,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report on a hypothetical Kohärenzprotokoll for any system: its new surfaces are its taxonomy, directive, mechanisms, functions, model components and eighteen borrowed concepts, none of them the novel's; what it says of coherence, emergence, negentropy and entropy went on existing pages.",
+  "new_readings": [
+    {
+      "page": "emergenz",
+      "lines": [
+        157,
+        190,
+        194,
+        244,
+        445
+      ],
+      "attribution": "",
+      "note": "emergence as one of four derivation mechanisms"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32,
+        84,
+        85
+      ],
+      "attribution": "",
+      "note": "thermodynamic entropy as a borrowed frame"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        21,
+        28,
+        32,
+        40,
+        94,
+        102,
+        106,
+        110,
+        230,
+        383
+      ],
+      "attribution": "",
+      "note": "coherence defined for an abstract system, not for the novel's world"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        225,
+        230,
+        276
+      ],
+      "attribution": "",
+      "note": "negentropy as an operative function and a borrowed analogy"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kohärenzprotokoll`, `Kohärenz`, `Inkohärenz`, `Axiom der Kohärenz`, `Taxonomie der Inkohärenz` and `Kohärenzextraktion` on kohaerenz — the report's labels, not promoted; `Unstrukturierte Potentialität` and `Potentialität` one form of incoherence, not promoted; `Erhalte Autopoiesis` and `Autopoiesis` a relayed imperative and a borrowed concept; `Thermodynamische Entropie` read with the entropy reading",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 32,
+      "decision": "reading",
+      "why": "the protocol against entropy, read with the thermodynamic entry"
+    },
+    {
+      "page": "grosse-mauer",
+      "surface": "Systemgrenze",
+      "line": 228,
+      "decision": "occurrence",
+      "why": "an abstract system's boundary"
+    }
+  ],
+  "not_promoted": [
+    "the taxonomy of incoherence and its five forms",
+    "the Kernrichtlinie and its imperative candidates, the Axiom der Kohärenz",
+    "the four Derivationsmechanismen and the operative functions",
+    "the six components and the Archetypen",
+    "the eighteen borrowed concepts"
+  ],
+  "internal_tension": "it leaves open whether the protocol is itself an emergent property (L445), whether it can be formalised (L442) and whether a universal one is conceivable (L444); it names a tension between delimiting and staying open (L230)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

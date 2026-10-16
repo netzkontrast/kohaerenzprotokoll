@@ -1,0 +1,74 @@
+$ read.py --count "Thematischer Fokus"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Thematischer Fokus` ^[roman-plot-kohaerenz-protokoll-glitch.md:#3]
+$ read.py --count "Aethelred"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Aethelred` ^[roman-plot-kohaerenz-protokoll-glitch.md:#2]
+$ read.py --count "Aethelreds"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Aethelreds` ^[roman-plot-kohaerenz-protokoll-glitch.md:#2]
+$ read.py --count "Glitches"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Glitches` ^[roman-plot-kohaerenz-protokoll-glitch.md:#6]
+$ read.py --count "Glitch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            8
+
+`Glitch` ^[roman-plot-kohaerenz-protokoll-glitch.md:#2]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`Kohärenz Protokoll` ^[roman-plot-kohaerenz-protokoll-glitch.md:#8]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[roman-plot-kohaerenz-protokoll-glitch.md:#0]
+$ read.py --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[roman-plot-kohaerenz-protokoll-glitch.md:#0]
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[roman-plot-kohaerenz-protokoll-glitch.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[roman-plot-kohaerenz-protokoll-glitch.md:#0]
+$ read.py --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwelt` ^[roman-plot-kohaerenz-protokoll-glitch.md:#0]
+$ read.py --count "Abschnitt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Abschnitt` ^[roman-plot-kohaerenz-protokoll-glitch.md:#6]
+$ sed -n 135,187p Sources/drive/roman-plot-kohaerenz-protokoll-glitch.md | grep -c "^[0-9]*\."
+53

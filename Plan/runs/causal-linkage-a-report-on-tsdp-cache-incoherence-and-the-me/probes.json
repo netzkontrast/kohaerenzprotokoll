@@ -1,0 +1,140 @@
+{
+  "document": "causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me",
+  "drive_id": "1W5a49AUOZ9eBVTEFBXS7yLv_np4n_a6FakXSLKrANLQ",
+  "step": "probes",
+  "at": "2026-10-11",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 82,
+  "typographic_marks": 13,
+  "ascii_quotes": 112,
+  "inflection_families": {
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "archi": [
+      "Architecture",
+      "Architectures"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherons"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "explo": [
+      "Exploitation",
+      "Exploiting"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmenten"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "manif": [
+      "Manifestation",
+      "Manifests"
+    ],
+    "mecha": [
+      "Mechanics",
+      "Mechanism"
+    ],
+    "metap": [
+      "Metaphor",
+      "Metaphysical"
+    ],
+    "motiv": [
+      "Motivated",
+      "Motivation"
+    ],
+    "narra": [
+      "Narrative",
+      "Narrator"
+    ],
+    "phobi": [
+      "Phobia",
+      "Phobias"
+    ],
+    "physi": [
+      "Physical",
+      "Physics"
+    ],
+    "predi": [
+      "Predicted",
+      "Predictive"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Host",
+      "Hostile"
+    ],
+    [
+      "Part",
+      "Parts"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "Action",
+      "Reaction"
+    ],
+    [
+      "Phobia",
+      "Phobias"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Physical",
+      "Metaphysical"
+    ],
+    [
+      "Coherence",
+      "Incoherence"
+    ],
+    [
+      "Architecture",
+      "Architectures"
+    ]
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 49
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "kohaerenz-analyse-kapitel-2", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-duale-dramatica-storyform-synthese"]
+sources: 76
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "roman-outline-system-kael", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-projekt-rekonstruktion", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "plot-analyse-und-romanentwicklung", "romananalyse-kohaerenz-plot-kritik", "romanplot-kohaerenz-protokoll-teil-1", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-outline-fuer-kohaerenz-protokoll", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "kohaerenz-protokoll-plot-blueprint-erstellung", "roman-plot-entwicklung-und-kohaerenz-analyse", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "detaillierte-kapiteluebersicht", "kohaerenz-analyse-kapitel-2", "roman-outline-kohaerenz-protokoll-uberarbeitung", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese", "romanplot-uberarbeitung-kohaerenz-protokoll-teil-1", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-detaillierter-plot-blueprint", "dramaturgical-precision-deconstructing-the-irreversible-conf", "kapitelanreicherung-mit-fundamentalen-konzepten", "kapitel-1-generierungsprozess", "roman-kohaerenz-protokoll", "paradoxien-der-kohaerenz-protokoll-entwicklung", "arbeitshilfe-kohaerenz-protokoll-kapitel-2", "tropen-konzepte-fuer-kohaerenz-protokoll", "aegis-psychologische-kriegsfuehrung-narrative-eskalation", "nichts-ordnung-fragmentierung-resonanz-nebel", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "roman-outline-kohaerenz-protokoll", "roman-analyse-kohaerenz-protokoll-akt-i", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "monstergruppe-primzahlen-plot-neukonstruktion", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "roman-outline-kohaerenz-protokoll-strategie", "dkt-fundament-kohaerenz-protokoll-md", "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -22,6 +22,10 @@ Navigation, not a reading: what the readings on this page say the chapter is abo
 
 Im ersten Riss bricht eine konkrete Anomalie Kaels Ordnung in KW1: laut strukturierter Outline reaktivieren Glitches Echos, mit Zeitverlust, einem Blackout und einer Erinnerung, die nicht zu seinem Selbst passt, laut Kernwelten vollständig eine geometrische Inkonsistenz im Datenverarbeitungs-Zentrum in Sektor 04, laut Plot-Konkretisierung eine schon ausgeglichene Abweichung, die an derselben Stelle wiederkehrt und die Kael abends in fremder Syntax in seinem Entwurfsordner findet. Lex bricht zum ersten Mal mit anderer Syntax und Logik in Kaels Stimme ein, die Zahl 734 taucht laut strukturierter Outline erstmals als Foreshadowing auf, und laut AEGIS-Subplots protokolliert AEGIS die Abweichungen als nicht-kritisches Rauschen, Syntax ohne Semantik. Unter flackernden Geometrien und unscharfen Kanten ist der Riss laut Kapitel-Kompendium Landauer-Hitze mit Ozon, laut Storyform-Outline kaltes Ozon, in beiden die sichtbar werdende Verdrängung. In der Heldinnenreise ist es Verrat und Desillusionierung, laut strukturierter Outline in der Ki-Vertiefung von Akt I, mit dem MC-Issue Falsehood vs. Truth als erster Begegnung mit der Systemlüge in Storyform A und dem initialisierten Controlled Fragmentation Protocol als OS-Physics in Storyform B. Laut Konzept-Iteration Genesis wiederholt AEGIS' Gaslighting hier seine ursprüngliche Selbstmanipulation.
 
+## Reading — `roman-kohaerenz-protokoll`, 2025-04-17, the early prose draft — `Resonanz`
+
+- The early prose draft's chapter 2, „Resonanz“ ^[roman-kohaerenz-protokoll.md:L417], is cut into 40 numbered Moments in a grey place that answers Kael's feelings: „Meine Gefühle... sie formen diesen Ort“ ^[roman-kohaerenz-protokoll.md:L537]. It ends at a fork, „(40. Moment: Der Scheideweg)“ ^[roman-kohaerenz-protokoll.md:L585], with „Er musste wählen.“ ^[roman-kohaerenz-protokoll.md:L587] A remark in another voice before Moment 31 calls the last ten Moments the arrival at the threshold to KW2 (L545). A draft of 2025, not the chapter as approved.
+
 ## Reading — `romanplot-kohaerenz-protokoll-teil-1`, 2025-04-18, the Teil-1 plot — the call, the Risse grow and Kael loses time
 
 - The Teil-1 plot proposes Kapitel 2, `Betrayal` (L73), as the call, the Risse grow and Kael loses time: „werden häufiger und auffälliger, widersetzen sich einfachen Erklärungen“ ^[romanplot-kohaerenz-protokoll-teil-1.md:L78]. It hedges, and adds the first DID symptom, Kael loses time (L84), and a wave of sadness seeping in from KW2 (L87).
@@ -33,6 +37,29 @@ Im ersten Riss bricht eine konkrete Anomalie Kaels Ordnung in KW1: laut struktur
 ## Reading — `kohaerenz-protokoll-plot-blueprint-erstellung`, 2025-04-20, the plot blueprint — step 1.2, Echos aus dem Inneren
 
 - The plot blueprint plans step 1.2, „Echos aus dem Inneren“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L154]. Its synopsis begins: „Kael erlebt stärkere Intrusionen aus seinem Inneren“ ^[kohaerenz-protokoll-plot-blueprint-erstellung.md:L157] — a plan, not the chapter as written.
+
+## Reading — `paradoxien-der-kohaerenz-protokoll-entwicklung`, 2025-04-20, the paradox report — a possible rough structure, step 2
+
+- The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 2, in Teil 1: Die Zerlegung, is titled „Protokoll Initiation“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L344]. A possible structure keyed to its paradox cluster, not the chapter as written.
+
+## Reading — `arbeitshilfe-kohaerenz-protokoll-kapitel-2`, 2025-04-20, the chapter-2 expert analysis — the transition out of KW1
+
+- The chapter-2 expert analysis comments on a working aid for chapter 2, part 1, in three beats: „Unmittelbarer Zerfall von KW1; Beginn des Falls/Übergangs.“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L223], „Orientierungslosigkeit im undefinierten Übergangsraum.“ ^[arbeitshilfe-kohaerenz-protokoll-kapitel-2.md:L224], and a first perception of the threshold of KW2 (L225, L280). It proposes the alters' influence (Limina, Nox, Praetor, Echo/Silas, L51) and an unreliable perception of the system's interventions (L189). An analysis of a working aid, not the chapter as written.
+
+## Reading — `nichts-ordnung-fragmentierung-resonanz-nebel`, 2025-04-20, the Nichts-to-Nebel report — the fall into the Resonanz-Nebel and the fork
+
+- The Nichts-to-Nebel report relays the fall (Momente 1–10) and reads it as „Dekonstruktion der vorherigen Realität“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L65].
+- It relays the awakening in the Nebel (Momente 11–20): „Nach dem Verlöschen im Nichts erwacht Kael allmählich in einer neuen Umgebung“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L69].
+- For Momente 21–40 the report reads the Nebel as „externalisierte Psycholandschaft“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L93] and as „keine Befreiung, sondern wird als eine neue Form des Gefängnisses empfunden“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L93].
+- It relays a brief glitch in the Nebel, „Entscheidend ist jedoch ein kurzer Realitäts-Glitch“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L97], and the ending: „Das Kapitel endet an einem Scheideweg“ ^[nichts-ordnung-fragmentierung-resonanz-nebel.md:L99]. A report on the chapter, not the chapter.
+
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Ruf zum Abenteuer`
+
+- The detailed plot draft plans for Kap 2, `Ruf zum Abenteuer`: „Kael erlebt eine starke, unerklärliche Resonanz“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L88] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Falsche Frequenz`
+
+- The Moonshine-Brücke blueprint plans for Kap 2, `Falsche Frequenz`: „wird intensiver, Kael wechselt kurzzeitig unkontrolliert in eine andere Kernwelt“ ^[kohaerenz-protokoll-plot-synthese-2.md:L63] A plan, not the chapter.
 
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
@@ -47,6 +74,22 @@ Title: „Das Echo“ ^[monstergruppe-primzahlen-plot-blueprint.md:L37]
 
 - The concept synthesis reports its chapter 2 (part 1) as worked out in detail, on „des Übergangs in den Resonanz-Nebel“ ^[kohaerenz-protokoll-aktuelle-gesamtkonzept-synthese.md:L53]. A status note on drafts it lists among its sources, not the chapter as written.
 
+## Reading — `angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere`, 2025-04-26, the enriched plot concept — `Autopoiesis`
+
+- The enriched plot concept's theme draft has for Kapitel 2, under the concept label `Autopoiesis`: „Kael nimmt dies als undurchdringliche Barriere wahr“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L37] The number follows from Teil 1's range (Kapitel 1–10) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel`, 2025-04-26, the three-voice chapter structure — `Der Riss im Spiegel`
+
+- The three-voice chapter structure plans for Kap 2, `Der Riss im Spiegel`: the narrator's „Verrat ist mehr als nur ein Bruch des Vertrauens.“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L39]; an AEGIS log recording „Controlled Fragmentation Protocol (CFP) initiated“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L42]; and a Kael passage that puts the cause on AEGIS: „Es war ein Befehl von AEGIS“ ^[kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel.md:L52]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Der Riss im Spiegel`
+
+- The concept chapter map plans for Kap 2: „Der ontologische Schock des Verrats durch eine Ordnungsinstanz“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L29]; AEGIS „registriert Kaels Dissoziation als erwartete Folge“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L30]. A plan, not the chapter.
+
+## Reading — `monstergruppe-primzahlen-plot-neukonstruktion`, 2025-04-26, the prime-number blueprint — `Der Beobachter`
+
+- The prime-number blueprint plans for Kap 2, `Der Beobachter`: „Natur als Wächter-KI; sein analytischer Ansatz (Reduktionismus)“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L54] and, in the plot summary, that Kael „ist sich der spezifischen Beobachtung nicht bewusst“ ^[monstergruppe-primzahlen-plot-neukonstruktion.md:L57]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the partitioning, done once here
 
 Title: „Die Partitionierung“ ^[kohaerenz-protokoll.md:L196]
@@ -56,6 +99,22 @@ Position: „(Fundamentales Konzept: Dissoziative Identitätsstörung)“ ^[koha
 - What it cuts: „Eine Mauer zwischen dem Logiker, dem Manager, der versuchte zu kooperieren, und dem intuitiven, fühlenden Teil, der mit dem goldenen Licht, mit *Juna*, verbunden war.“ ^[kohaerenz-protokoll.md:L260]
 - Juna erased: „Der Name *Juna* wurde zu einem bedeutungslosen Echo, einem gelöschten Datenfragment.“ ^[kohaerenz-protokoll.md:L264]
 - What is left: „Er war immer noch K-1123, der Kohärenz-Verifikator, der Logiker.“ ^[kohaerenz-protokoll.md:L268]
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept — the chapter's focus on `Emergenz aus der Leere` and `Fraktale Selbstähnlichkeit`
+
+- The 13-principle concept's chapter overview gives Kapitel 2 a focus on `Emergenz aus der Leere`, „(Existenz/Nicht-Existenz - Schock)“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L77], and on `Fraktale Selbstähnlichkeit`, „(Identität/Differenzierung - Fragmentierung)“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L77] (L77). The overview keeps the chapter assignment and only colours its interpretation „durch die Linse“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L74] of the principles. A concept's focus, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Verrat/Fragmentierung`
+
+- The comprehensive concept's overview gives Kap 2 the label „Verrat/Fragmentierung“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L100] A plan, not the chapter.
+
+## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
+
+- The concept analysis titles chapter 2 „Der Verrat“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L31] in its first part, the inner journey and assigns it the primary concept „Traumainduzierte Fragmentierung“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L31]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a flight into the Resonanz-Landschaft
+
+- The logline analysis proposes for Kap 2: „stolpert Kael in die Resonanz-Landschaft“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L217] and „wo er schmerzhaft mit einem traumatisierten Anteil seiner selbst“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L217] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Echos in der Konstrukt-Stadt
 
@@ -91,6 +150,14 @@ Focus: `Grenzen der Ratio`, „Der Versuch, ein inhärent paradoxes System“ ^[
 ## Reading — `roman-outline-kohaerenz-protokoll-uberarbeitung`, 2025-05-03, the strategy report — Murdock's stage, the TSDP phobia, the alignment concept
 
 - The strategy report keys this chapter to the TSDP phobia „Phobie vor mentalen Inhalten“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L49]; to Murdock's stage „Identifikation mit dem Männlichen“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L116]; to the alignment concept „Instrumentelle Konvergenz (Machtstreben/Selbsterhaltung)“ ^[roman-outline-kohaerenz-protokoll-uberarbeitung.md:L197]. A thematic key to the planned outline (prologue and 39 chapters), not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll-strategie`, 2025-05-03, the strategy outline — the test
+
+The strategy outline titles Chapter 2 „Der Test“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L55] and plans: „Kael wird einer scheinbar harmlosen psychologischen oder kognitiven Untersuchung“ ^[roman-outline-kohaerenz-protokoll-strategie.md:L59] by an AEGIS representative, a scientist, that probes Kael's reaction to dissonance and loyalty.
+
+## Reading — `tropen-konzepte-fuer-kohaerenz-protokoll`, 2025-05-04, the trope analysis — Lex trying to understand KW1 by reason
+
+- The trope analysis ties chapter 2 to Lex: „Kaels logischer Anteil (Lex) versucht, KW1 und AEGIS durch Vernunft zu verstehen“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L43] (L43), and to the tropes of logic puzzle and rules lawyer: „Lex' Versuch, KW1 zu verstehen, bedient sich dieser Tropen“ ^[tropen-konzepte-fuer-kohaerenz-protokoll.md:L142] (L142). An analysis of an outline it does not reproduce.
 
 ## Reading — `roman-outline-system-kael`, 2025-06-24, the Part 1 outline — Die Logik der Risse
 
@@ -150,9 +217,21 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 
 - The scene outline gives no line of its own to Chapter 2; it falls within „Fragmentation and First Echoes“ ^[kohaerenz-protokoll-scene-by-scene-outline.md:L17], whose opening scenes (1.1–1.3, the awakening in Logos-Prime, the coherence check, the anomaly in the data stream) carry no chapter number.
 
+## Reading — `aegis-psychologische-kriegsfuehrung-narrative-eskalation`, 2025-10-16, the psychological-warfare essay — stage 1, the disturbances in the matrix
+
+- The psychological-warfare essay proposes stage 1 of a four-stage reveal for this chapter of the subplot document it cites: „Stufe 1: Störungen in der Matrix (vgl. Subplot-Dokument, Kap. 1-7)“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L380] „Kael beginnt, Inkonsistenzen in den Kernwelten zu bemerken“ ^[aegis-psychologische-kriegsfuehrung-narrative-eskalation.md:L380] A proposal of the essay, not the chapter.
+
 ## Reading — `plot-generation-framework-for-the-coherence-protocol`, 2025-11-03, the plot framework — The Proactive Protector
 
 - The plot framework titles Chapter 2 „The Proactive Protector“ ^[plot-generation-framework-for-the-coherence-protocol.md:L238]. It commissions: „Introduce Lex's cold, logical control, thereby establishing the internal psychological mirroring of AEGIS's flawed, top-down control strategy“ ^[plot-generation-framework-for-the-coherence-protocol.md:L238] — a plan, not the chapter as written.
+
+## Reading — `dramaturgical-precision-deconstructing-the-irreversible-conf`, 2025-11-03, the dramaturgical analysis — the Correction phase
+
+- The dramaturgical analysis places chapter 2 in its first phase: „In the first act of the novel (Chapters“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25] 1–13 „AEGIS's strategy is one of“ ^[dramaturgical-precision-deconstructing-the-irreversible-conf.md:L25] Correction, classifying Kael's dissociation as system errors. An analysis of a phase, not the chapter as written.
+
+## Reading — `kapitel-1-generierungsprozess`, 2025-11-25, the chapter-1 report — a forecast for chapter 2
+
+- The chapter-1 report's forecast: „In Kapitel 2 darf er sich nicht mehr in der stabilen“ ^[kapitel-1-generierungsprozess.md:L633] KW1; Kael must wake in a fragmented in-between world, „Er muss in einer fragmentierten Zwischenwelt erwachen“ ^[kapitel-1-generierungsprozess.md:L633], the Photonensphäre, with cyclic, traumatic time and a hypotactic style (L635). A proposal for the next chapter, not the chapter as written.
 
 ## Reading — `romanstruktur-und-philosophische-einleitung`, 2025-12-18, the three-part analysis — The guardians of the threshold
 
@@ -202,6 +281,14 @@ Position: Teil I; POV from `Perspektive & Stimme`: „Kael (mit ersten Einbrüch
 
 - The DKT synthesis's chapter 2: „Geometrie der Isolation“ ^[roman-synthese-mit-dual-kernel-theorie.md:L42]. Its narrative level: „Erkundung der Korridore; Interaktion mit automatisierten“ ^[roman-synthese-mit-dual-kernel-theorie.md:L46]. An analysis of a 39-chapter plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plot-blueprint`, 2026-02-25, the master blueprint — Teil I
+
+- The master blueprint places chapter 2 in Teil I, „Die Ästhetik der Ohnmacht“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L19]: Kael wakes after the Universal Reboot and experiences the Konstrukt-Stadt „als ein kaltes, logikbasiertes Gefängnis“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L25]. A part's arc in a three-part plan, not the chapter as written.
+
+## Reading — `roman-outline-kohaerenz-protokoll`, 2026-02-25, the Roman-Outline — `Geometrie der Isolation`
+
+- The Roman-Outline plans for Kap 2, `Geometrie der Isolation`: „Die unmöglichen Winkel der Stadt beginnen, Kaels Raumwahrnehmung zu destabilisieren.“ ^[roman-outline-kohaerenz-protokoll.md:L27] Numbered 2 in the whole novel; the export restarts the list in each part, so this is item 2 of Part I. A plan, not the chapter.
+
 ## Reading — `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26, the Ultra-Plot
 
 A report to the author, one paragraph per chapter across 39 Kapitel in drei Teile; it prescribes and ends by asking the author, „Welche spezifischen emotionalen Anker (Objekte, Gerüche, Orte) sollen in den frühen K1-Kapiteln als subtile Trigger versteckt werden“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L147]. Recorded, not applied.
@@ -216,6 +303,10 @@ Title: „Nicht-euklidische Isolation und das Kachelproblem“ ^[roman-konzept-d
 
 - Among the foreshadowing strands: „Das sukzessive Auftreten des Analytikers und des Protektors in Kapitel 2“ ^[kohaerenz-protokoll-projekt-rekonstruktion.md:L123] — Lex and Alex — prepares the reader for the system's inner power struggles.
 
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — a passing temperature anomaly
+
+The memo's list of foreshadowing strands proposes, for the strand on the heat of erasure, an introduction in Kap. 2-3: „Einführung in Kap. 2-3 als beiläufige Temperaturanomalie“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L199]. The strand says that every erasure produces heat and that the erasures of AEGIS heat the city; the memo describes the first trace as a passing temperature anomaly. A proposal of the memo, recorded, not canon.
+
 ## Reading — `hard-sf-roman-outline-dkt-physik-cosmic-horror`, 2026-04-08, the Hard-SF-Outline — a deviation, the city's gaslighting, and Lex breaks through
 
 A plan dated 2026-04-08, before the reset of 2026-04-30, one paragraph per chapter; it names itself „den vollständigen, detaillierten Bauplan“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L13]. Recorded, not applied.
@@ -227,6 +318,14 @@ Position: „Akt I: Die Entropie der Ordnung (Heldinnenreise nach Murdock)“ ^[
 - Who: „In diesem Moment extremer Belastung bricht Lex durch.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] · „Lex unterdrückt jegliche Panik, kalkuliert Winkel und führt den Körper mit absoluter, maschineller Präzision aus der Gefahrenzone.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
 - Reader's view: „Für den Leser wirkt es, als würde ein kybernetisches Überlebensimplantat oder eine kalte, analytische Subroutine die motorische Kontrolle übernehmen.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96]
 - Checklist, Fixpunkt 2: „Routineabweichung, Gaslighting, Lex bricht durch, aperiodische Architektur.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L216] · „Lex übernimmt als ANP die Kontrolle, um Panik zu unterdrücken.“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L216]
+
+## Reading — `roman-analyse-kohaerenz-protokoll-akt-i`, 2026-04-08, the Act I reader-psychology report — the effect and technique planned for Kap. 2
+
+Title in the report's section on Act I: `Kap. 2` „Geometrie der Isolation“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L65]
+
+The Act I reader-psychology report plans effects and techniques for this chapter; it is a plan of effects, not the chapter as written.
+
+- Planned effect and technique: „tiefgreifende räumliche Desorientierung gepaart mit kognitiver Dissonanz und einem wachsenden Gefühl der Klaustrophobie“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L67] „Statt kurzer Stakkato-Sätze dominieren nun lange, sich windende Konstruktionen (Hypotaxen)“ ^[roman-analyse-kohaerenz-protokoll-akt-i.md:L71]
 
 ## Reading — `kohaerenz-protokoll-duale-dramatica-storyform-synthese`, 2026-04-28, the dual storyform synthesis — Ki
 
@@ -263,6 +362,10 @@ Title: „Kausale Horizonte“ ^[kohaerenz-protokoll-kapitel-outline-generierung
 
 - The 39-chapter outline titles Kapitel 2 „Die Geometrie des Rauschens“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L91]. It plans: „Die zunehmende Wahrnehmungsstörung zwingt den Verstand in eine funktionale Aufspaltung, als Lex die Kontrolle übernimmt, um den Wahnsinn zu rationalisieren“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L93]; POV Kael / Lex (L99) — a plan, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md`, 2026-04-30, the pacing revision — a balance anomaly
+
+The pacing revision continues the Juna seeding in Kap 2 with a „Bilanz-Anomalie“ ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:L23]. A plan of the revision (point 3), recorded, not canon.
+
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 Title: „Geometrie der Isolation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L510]
@@ -294,6 +397,10 @@ Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L
 - Storyform A: „MC-Issue Falsehood-vs-Truth: erste Begegnung mit Systemlüge" ^[three-mode-architecture-39-chapters-md.md:L179]
 - Storyform B: „OS-Physics: Controlled Fragmentation Protocol initialisiert" ^[three-mode-architecture-39-chapters-md.md:L179]
 - Leitmotif: „flackernde Geometrien, Kanten, die unscharf werden" ^[three-mode-architecture-39-chapters-md.md:L179]
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08, the character bible — Kap 2 as a first appearance of the number 734
+
+The character bible places the number 734 among the structural markers visible only in retrospect: „Die Zahl 734 (Kap 2, Kap 10, Kap 25).“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1054] The simulation line says the number returns at several foreshadowing points: „sie taucht in mehreren foreshadowing-Stellen wieder auf (Kap 2, 10, 25), ohne dass Kael ihre Bedeutung kennt.“ ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L311] The character bible names Kap 2 only as one of these places. Recorded, not canon.
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -349,6 +456,14 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - Plot beats: „Das System nimmt die zweite Markierung kommentarlos. Kael auch.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Characters: „Aber abends findet er den Wert in seinem Entwurfsordner notiert — in einer Syntax, die nicht seine ist“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „erster Lex-Einbruch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, ab Kap 2–3]`)
 
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — Kap 2 as the first crack and a return of the number 734
+
+The sensory drafting manual lists the border area Sektor 04 with its first geometric inconsistencies and marks the chapter: „Kap 2 ff. (erster Riss)“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104]. It places Kap 2 among the returns of the number 734: „Wiederkehr der Zahl (Foreshadowing-Anker, strukturelle Ebene).“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L488] The same pointer, with Kap 2, 10 and 25, recurs as a structural marking in the foreshadowing tiers (names Kap 2 only as an anchor chapter, with nothing more about it). Recorded as the source's settings, not canon.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10, the parts-profiles and speech-DNA manual — Kap 2 as a foreshadowing place of the number 734
+
+The parts-profiles and speech-DNA manual names Kap 2 as one of the places where a number returns: „Die Zahl 734 ist somatisch verankert und taucht in foreshadowing-Stellen wieder auf (Kap 2, 10, 25), ohne dass Kael ihre Bedeutung kennt.“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105] The structural-markers list repeats it: „Die Zahl 734 (Kap 2, 10, 25).“ ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1063], visible only in retrospect. Recorded, not canon.
+
 ## Where the sources differ
 
 - **Title, and the Riss without heat or ozone (D47).** „Die Partitionierung“ ^[kohaerenz-protokoll.md:L196] (the Kohärenz-Protokoll narrative, 2025-04-27) — a fifth title; its Riss is done by AEGIS' evaluation unit as „Initiere Protokoll zur erzwungenen Kohärenz-Partitionierung.“ ^[kohaerenz-protokoll.md:L258], with no `Hitze`, `Landauer` or `Ozon` in this chapter (`Hitze` and `Landauer` 0 in the whole document, `Ozon` twice elsewhere, once at a McL node — `Plan/runs/kohaerenz-protokoll/05-verify.txt`).
@@ -357,6 +472,8 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - **First style shift.** „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium, Kap 2) · „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834] (Kernwelten vollständig, its Kap 8).
 - **Title.** „Geometrie der Isolation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L510] (Konzept-Iteration Genesis) · „Der erste Riss“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L963] (konsolidiertes Konzept; also strukturierter Outline, storyform outline) · „Verrat / Desillusionierung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] (Kapitel-Kompendium) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 2: Verrat / Desillusionierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L273].
 - **The Hard-SF-Outline.** „Geometrie der Isolation“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96] (the Hard-SF-Outline, 2026-04-08) — the Konzept-Iteration Genesis's title a month later; the chapter is Kael's deviation from a path, „weicht jedoch instinktiv um wenige Zentimeter von einem vorgezeichneten Pfad ab“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L96], and Lex's first takeover.
+- The sensory drafting manual places the first crack of the world at Kap 2 and a return of the number 734 there.
+- The parts-profiles and speech-DNA manual lists Kap 2 among three foreshadowing places of the number 734.
 
 ## Questions for this chapter
 

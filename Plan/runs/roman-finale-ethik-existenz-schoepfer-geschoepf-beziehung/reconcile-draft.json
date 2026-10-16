@@ -1,0 +1,158 @@
+{
+  "document": "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+  "drive_id": "1XqZf3idjE2pVd3QRDruqaQYthhtAO4QwJe4rFhf-2GA",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 55,
+    "decided_by_lookup": 49,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        74,
+        118,
+        152,
+        156,
+        166,
+        168
+      ],
+      "attribution": "",
+      "note": "AEGIS as the defeated origin of the parts' competences and as ruins in the garden"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "a story no longer read as a state of maximal entropy"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        22,
+        72,
+        74,
+        76,
+        132,
+        156,
+        178,
+        179,
+        180
+      ],
+      "attribution": "",
+      "note": "the final state of System Kael as the subject of an epilogue blueprint"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        167
+      ],
+      "attribution": "",
+      "note": "Kiko among the parts in scene 2"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        74,
+        167
+      ],
+      "attribution": "",
+      "note": "Lex's logic as a pathological artefact, and Lex in council"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        72,
+        167
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the end of the healing journey"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        118,
+        120
+      ],
+      "attribution": "",
+      "note": "gardening as negentropy against narrative entropy"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        168
+      ],
+      "attribution": "",
+      "note": "Kael near the Nichts Rauschen in scene 3"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        74,
+        167
+      ],
+      "attribution": "",
+      "note": "Nyx's reflexes as a pathological artefact, and Nyx in council"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "structural dissociation among the frameworks"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 118,
+      "decision": "reading",
+      "why": "an unread story falling into maximal entropy"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 18,
+      "decision": "occurrence",
+      "why": "the introduction's heading"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

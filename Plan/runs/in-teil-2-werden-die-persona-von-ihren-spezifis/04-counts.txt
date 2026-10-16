@@ -1,0 +1,99 @@
+# counts for 73 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Seelen-Kohärenz-Protokoll         1 word     1 in   [31]
+  Seelen-Kohärenz-Programm          2 word     2 in   [33, 136]
+  Kohärenz-Programms                1 word     1 in   [164]
+  Kern-Bewusstseins                 1 word     1 in   [33]
+  Personas                         24 word    24 in   [11, 13, 14, 15, 17, 21]
+  Persona                          12 word    48 in   [11, 13, 14, 15, 17, 21]  <-- substring
+                                   24      as Personas
+                                    2      as Persona-Realitäten
+                                    2      as Persona-Welten
+                                    1      as Persona-Realität
+  Persona-Realitäten                2 word     2 in   [43, 125]
+  Architekt                         8 word    10 in   [22, 50, 52, 55, 68, 71]
+                                    1      as Architekten
+                                    1      as Architektur
+  Echo                              6 word     7 in   [22, 39, 52, 55, 66, 68]
+                                    1      as Echos
+  Wächter                           5 word     6 in   [52, 82, 84, 87, 116, 119]
+                                    1      as Wächters
+  Sucher                            6 word     6 in   [68, 84, 87, 98, 100, 103]
+  Funke                             6 word     6 in   [84, 87, 114, 116, 119, 193]
+  Magier-Narrator                   2 word     2 in   [100, 103]
+  Guardians                        23 word    23 in   [14, 17, 21, 23, 24, 33]
+  Guardian                         15 word    43 in   [13, 14, 17, 21, 23, 24]  <-- substring
+                                   23      as Guardians
+                                    1      as Guardian-Kreises
+                                    1      as Guardian-Charaktere
+                                    1      as Guardian-Expertise
+  Hüter                             6 word     6 in   [13, 21, 142, 144, 150, 158]
+  Guardian der Struktur/Logik       1 word     1 in   [54]
+  Guardian der Erinnerung/Emotion    1 word     1 in   [70]
+  Guardian der Sicherheit/Systemintegrität    1 word     1 in   [86]
+  Guardian des Wissens/der Information    1 word     1 in   [102]
+  Guardian der Kreativität/des Potenzials    1 word     1 in   [118]
+  Wissende Guardians                1 word     1 in   [23]
+  Ober-Guardian                     1 word     1 in   [24]
+  Überraum                          5 word     6 in   [33, 142, 151, 163, 175, 233]
+                                    1      as Überraum-Interface
+  Nexus                             1 word     1 in   [151]
+  Schaltzentrale                    2 word     2 in   [146, 151]
+  Überraum/Nexus/Schaltzentrale     1 word     1 in   [151]
+  Kognitive Stadt                   1 word     1 in   [51]
+  Meta-Narrator                     6 word     6 in   [24, 35, 125, 154, 164]
+  Meta-Erzählers                    1 word     1 in   [27]
+  Magier                            1 word     3 in   [35, 100, 103]  <-- substring
+                                    2      as Magier-Narrator
+  Forscher                          1 word     1 in   [35]
+  Philosoph                         1 word     2 in   [35, 150]
+                                    1      as Philosophie
+                                    1      as philosophischen
+  M/R/P                             3 word     5 in   [24, 125, 162]
+                                    2      as M/R/P-Modi
+  Risse                            14 word    17 in   [14, 15, 33, 125, 144, 152]
+                                    2      as Rissen
+                                    1      as Risses
+  Intrusion                         9 word    14 in   [13, 17, 21, 43, 52, 55]
+                                    5      as Intrusionen
+  Intrusionen                       5 word     5 in   [13, 21, 43, 73, 125]
+  Glitches                          1 word     2 in   [43, 125]
+  Wiederkehrende Randfiguren        6 word     6 in   [53, 69, 85, 101, 117, 134]
+  Zugeordneter Guardian             6 word     6 in   [54, 70, 86, 102, 118, 135]
+  Relevante Interne Personas        6 word     6 in   [52, 68, 84, 100, 116, 133]
+  Fokus-Persona                     6 word     6 in   [50, 66, 82, 98, 114, 131]
+  Service-Bots                      1 word     1 in   [53]
+  Vorgesetzter                      1 word     1 in   [53]
+  Bibliothekar-Figur                1 word     1 in   [101]
+  Bruch der Realitäten              1 word     1 in   [126]
+  Integrations-Werkzeuge            1 word     1 in   [176]
+  Protagonisten-System              2 word     2 in   [164, 174]
+  Seele als Information             1 word     1 in   [164]
+  Seele=Info                        2 word     2 in   [186, 214]
+  funktionale Multiplizität         1 word     1 in   [273]
+  Klarheit                          1 word     1 in   [273]
+  Außen                             7 word     7 in   [15, 33, 186, 227, 247, 260]
+  Jagd nach der Realität            2 word     2 in   [182, 234]
+  Die Naht im Selbst                1 word     1 in   [182]
+  Echos im Zersplitterten Spiegel    1 word     1 in   [39]
+  Intervention aus dem Überraum     1 word     1 in   [142]
+  Der Twist                         1 word     1 in   [253]
+  Innere Kohärenz                   1 word     1 in   [266]
+  Meta-Realität                     4 word     4 in   [207, 220, 233, 272]
+  Archipel                          1 word     1 in   [272]
+  Kintsugi                          1 word     1 in   [274]
+  Gleiche Person                    1 word     1 in   [22]
+  NZT-Modus                         1 word     1 in   [19]
+  aktiven Integratoren              1 word     1 in   [15]
+  Heldenreise                       1 word     3 in   [25, 41, 184]  <-- substring
+                                    2      as Heldenreise-Stufen
+  Gewohnte Welt                     3 word     3 in   [41, 45, 49]
+  Ruf zum Abenteuer                 1 word     1 in   [65]
+  Weigerung des Rufs                1 word     1 in   [81]
+  Begegnung mit dem Mentor          1 word     1 in   [97]
+  Überschreiten der ersten Schwelle    1 word     1 in   [113]
+  Feuerprobe                        3 word     3 in   [184, 214, 218]
+  Elixier                           3 word     3 in   [184, 266, 270]

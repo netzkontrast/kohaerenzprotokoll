@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations (paragraphs, not terms). The document is one German exegesis that maps two Dramatica storyforms of the novel (A and B) value by value in two flattened three-column tables (L27-L37, L67-L77) and in prose per throughline, then a "5D-Synthese" and a section on the Hard Problem. Footnote digits are glued to sentence ends; the K subscripts are lost in the vector headings and the kernel symbols are gaps; the error codes in the TSDP table are escaped. Chapter numbers appear as "Kapitel 32", "ersten 13 Kapiteln" and "Kapiteln 35-36". Many Dramatica values (Change, Success, Memory, Order, Chaos, Avoid, Pursuit and so on) are ordinary English words and are not listed one by one; they are recorded in the note.
+
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- System Mind
+- System Minds
+- Protokoll-Ontologie
+- Existenz-Matrizen
+- Dual Kernel Theory
+- DKT
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kollaps-Kerns
+- Storyform A
+- Storyform B
+- Die Heuristik der Integration
+- Der Phönix-Kollaps
+- Phönix-Kollaps
+- Vektor K1
+- Vektor K0
+- Kael
+- AEGIS
+- Juna
+- Juna/V-Vektor
+- Moonshine-Link
+- Logos-Prime
+- Kernwelten
+- T-734
+- Alpha-Logik-Fragments
+- Kael/M
+- EPs
+- ANP
+- ANPs
+- TSDP
+- Landauer-Wärme
+- Trennungsprotokoll
+- Gödel-Gambit
+- Ouroboros-Ending
+- Witness Function
+- Zeugenfunktion
+- Hard Problem of Consciousness
+- thermodynamische Narben
+- Genesis-Krise
+- Ursprungs-Ich
+- Jetzt-Raum
+- Hostile System Errors
+- ChatCompanions
+- InstructionDeputies
+- Narrative Context Protocol (NCP)
+- 5D-Synthese
+- Garbage Collector
+- Memory Leak
+- Speicherüberlauf
+- funktionale Multiplizität
+- Diagnostic Rigidity
+- Chronometrische Agnosie
+- Vektor-Instabilität
+- Phasing / Mikrosprünge
+- Echo-Phänomene
+- Somatische Desynchronisation
+- Feld-Kollaps
+- Moderator
+
+## lens
+
+- Dramatica-Theorie
+- Throughlines
+- Dialetheismus
+- Qualia
+- Landauer
+- Entanglement Witness
+- Zero-Knowledge-Beweisen
+- Prehension
+- Actual Occasions
+- Reversiblen Computings
+- Gödelsche Unvollständigkeitssatz
+- Optionlock
+- Timelock
+- Steadfast
+- Gegenläufigkeits-Achse

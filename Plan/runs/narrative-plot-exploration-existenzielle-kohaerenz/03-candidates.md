@@ -1,0 +1,99 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+World: the system, the individual, the disturbance, the connection (the document calls them "Analogon"/"Analogie" of figures of the premise).
+
+- AEGIS
+- AEGIS-Analogon
+- Kael
+- Kael-Analogon
+- Juna
+- Juna-Analogie
+- Juna-Verbindung
+- Potentialmeer
+- Guardians
+- Risse
+- Paradoxon
+- fehlende Verbindung
+- Simulation Sigma
+- Simulation Beta
+- Simulation Gamma
+- Sigma
+- Gamma
+- Gödel-Schleife
+- Echos des Selbst
+- Moonshine-Brücke
+- Synopsis A
+- Synopsis B
+- Synopsis C
+- Gödel'sche Knoten
+- Emergente Anomalie
+- Externe Resonanz
+- Ontologische Riss
+- Transzendenz
+- Definition durch Negation
+- Kohärenz durch Kontrolle
+- Alters
+- Parts
+- Exiles
+- Managers
+- Firefighters
+- Self
+- Protectors
+- Unburdening
+- Selbstführung
+
+Lens: borrowed concepts the document applies to the world.
+
+- Autopoiesis
+- strukturelle Kopplung
+- operationale Geschlossenheit
+- Self-Production
+- Luhmann
+- Maturana
+- Varela
+- Conant-Ashby-Theorem
+- Ashbys Gesetz
+- Ashby's Law
+- Kybernetik
+- Kybernetik 2. Ordnung
+- IFS
+- DID
+- Internal Family Systems
+- Dissoziativen Identitätsstörung
+- Gödels Unvollständigkeitssätze
+- Parakonsistente Logik
+- Halting Problem
+- Landauer-Prinzip
+- Kolmogorov-Komplexität
+- Monstergruppe
+- Monstrous Moonshine
+- VOA
+- Holographisches Prinzip
+- Floridi
+- Informationsontologie
+- Infosphäre
+- Inforg
+- Inforgs
+- Levels of Abstraction
+- Prozessphilosophie
+- Whitehead
+- Prehension
+- Ontischer Struktureller Realismus
+- OSR
+- Śūnyatā
+- Madhyamaka
+- Svabhāva
+- Konstruktivismus
+- Starke Emergenz
+- Emergenz
+- CAS
+- Quantenverschränkung
+- Nichtlokalität
+- Dekohärenz
+- Environmental Storytelling
+- Kosmischer Horror
+- Hard Problem
+- Traumatheorie
+- Potentialität
+
+Observations (paragraph, not candidates): the document is a plot-exploration in four parts (I to IV) with three synopses A to C, each in three acts; the passages marked [Premise] restate a premise given elsewhere; footnote numbers are glued to words; a reference list of 59 numbered web sources closes it. Real-person names occur only as theorists and are lens, not figures.

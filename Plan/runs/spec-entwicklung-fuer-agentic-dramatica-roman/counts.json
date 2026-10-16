@@ -1,0 +1,933 @@
+{
+  "document": "spec-entwicklung-fuer-agentic-dramatica-roman",
+  "drive_id": "1UDDSiplXfZuNcpMVsmse5i4FRE8FP07sPjWlTgnb6qM",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Spec-Metadata": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Choice-Space": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        115,
+        117,
+        265,
+        385,
+        453,
+        467,
+        515
+      ]
+    },
+    "Interaction-Constraints": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        131
+      ]
+    },
+    "Coherence-Invarianten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Contradiction-Detection": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        200,
+        326,
+        424,
+        557
+      ]
+    },
+    "Clarifying-Question Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        213,
+        529
+      ]
+    },
+    "Phase-Definitions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Failure-Modes Catalog": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        369
+      ]
+    },
+    "Regression-Checks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        389
+      ]
+    },
+    "Self-Verification Test Suite": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        397
+      ]
+    },
+    "Reflection History": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        450
+      ]
+    },
+    "Query Expansion Log": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        483
+      ]
+    },
+    "Cross-Pollination Logs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        490
+      ]
+    },
+    "Pre-Mortem-Analyse": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        371,
+        510
+      ]
+    },
+    "Red-Team-Review": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        525
+      ]
+    },
+    "Contradiction Log": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        551
+      ]
+    },
+    "Falsifikations-Audit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        555
+      ]
+    },
+    "Open Questions": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        549,
+        559
+      ]
+    },
+    "Architectural Decision Records": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        410
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        22,
+        26,
+        40,
+        434,
+        452,
+        574,
+        591
+      ]
+    },
+    "NCP": {
+      "n": 22,
+      "n_including_compounds": 28,
+      "lines": [
+        17,
+        22,
+        24,
+        26,
+        40,
+        163,
+        255,
+        276,
+        312,
+        342,
+        361,
+        363,
+        393,
+        434,
+        438,
+        452,
+        462,
+        466,
+        481,
+        508,
+        522,
+        533,
+        553,
+        557,
+        574
+      ]
+    },
+    "State Freezing": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        342,
+        382,
+        438,
+        455,
+        463,
+        473,
+        487,
+        508,
+        514
+      ]
+    },
+    "Context Rot": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        145,
+        250,
+        335,
+        342,
+        382,
+        436,
+        455,
+        463,
+        477,
+        486,
+        506,
+        514,
+        553,
+        557
+      ]
+    },
+    "Progressive Disclosure": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        339,
+        438,
+        454,
+        473,
+        553
+      ]
+    },
+    "Line Budgets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        340
+      ]
+    },
+    "Branching Rule": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        341,
+        387,
+        517
+      ]
+    },
+    "Hierarchical Routing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        343
+      ]
+    },
+    "Narrative Efficiency": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        191,
+        195,
+        382,
+        514,
+        583
+      ]
+    },
+    "Consistency Risk Score": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        210,
+        219,
+        290
+      ]
+    },
+    "CRS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        210,
+        219,
+        290,
+        549
+      ]
+    },
+    "Latent Space Projection": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        211,
+        381,
+        520,
+        561
+      ]
+    },
+    "Phase-Transition-Contracts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        259,
+        488
+      ]
+    },
+    "Cross-Output Alignment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        210
+      ]
+    },
+    "Chain-of-Justification": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        210,
+        533
+      ]
+    },
+    "Decoupled Semantic Encoding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Strukturelle Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        209
+      ]
+    },
+    "Inhaltliche Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Pragmatische Contradictions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Domänen-Singularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Archetypische Motivationsexklusion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Vocabulary Drift": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        117,
+        385,
+        515
+      ]
+    },
+    "Task Drift": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        202,
+        378,
+        500,
+        523
+      ]
+    },
+    "Reward Hacking": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        380,
+        516
+      ]
+    },
+    "Alignment Faking": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        381,
+        486,
+        520
+      ]
+    },
+    "Parameter Hallucination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Degeneration Loops": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        383
+      ]
+    },
+    "Ordering Errors": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        384,
+        518
+      ]
+    },
+    "Asymmetric Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        386
+      ]
+    },
+    "Distraction Degradation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        341,
+        387,
+        465,
+        517,
+        553
+      ]
+    },
+    "State Contamination": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        366,
+        522
+      ]
+    },
+    "Trigger Overlap": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        521
+      ]
+    },
+    "YAML-RPC": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        211,
+        223,
+        404,
+        444,
+        464,
+        529
+      ]
+    },
+    "Immutable Fields": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        277,
+        295,
+        313,
+        331
+      ]
+    },
+    "Acceptance Criteria": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        259,
+        266,
+        284,
+        302,
+        320,
+        494
+      ]
+    },
+    "Storyformer Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        261
+      ]
+    },
+    "Storyencoder Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        279
+      ]
+    },
+    "Storyweaver Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        297
+      ]
+    },
+    "Storyreceptor Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        315
+      ]
+    },
+    "Narrova": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        418,
+        458,
+        474,
+        496,
+        587
+      ]
+    },
+    "Author's Argument": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        52,
+        139,
+        263,
+        466,
+        520
+      ]
+    },
+    "IC-01": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        138,
+        271,
+        394,
+        402,
+        426,
+        468
+      ]
+    },
+    "IC-02": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        139,
+        271
+      ]
+    },
+    "IC-03": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        140,
+        244,
+        271
+      ]
+    },
+    "IC-04": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        141,
+        271,
+        468
+      ]
+    },
+    "INV-01": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147,
+        395
+      ]
+    },
+    "INV-02": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        158,
+        325
+      ]
+    },
+    "INV-03": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        169,
+        289
+      ]
+    },
+    "INV-04": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        180,
+        307,
+        380,
+        469,
+        516
+      ]
+    },
+    "INV-05": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        191,
+        325,
+        395
+      ]
+    },
+    "FM-01": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        378,
+        523
+      ]
+    },
+    "FM-02": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "FM-03": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        380,
+        516
+      ]
+    },
+    "FM-04": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        381,
+        520
+      ]
+    },
+    "FM-05": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        382,
+        514
+      ]
+    },
+    "FM-06": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        383,
+        519
+      ]
+    },
+    "FM-07": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        384,
+        518
+      ]
+    },
+    "FM-08": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        385,
+        515
+      ]
+    },
+    "FM-09": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        386
+      ]
+    },
+    "FM-10": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        387,
+        465,
+        517
+      ]
+    },
+    "Dramatica": {
+      "n": 13,
+      "n_including_compounds": 32,
+      "lines": [
+        11,
+        15,
+        20,
+        24,
+        28,
+        40,
+        131,
+        162,
+        259,
+        363,
+        379,
+        385,
+        418,
+        430,
+        452,
+        453,
+        472,
+        474,
+        496,
+        515,
+        541,
+        553,
+        557,
+        561,
+        575,
+        577,
+        579,
+        581,
+        583,
+        587
+      ]
+    },
+    "Storyforming": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        18,
+        259,
+        261,
+        418,
+        496
+      ]
+    },
+    "Story Encoding": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        259,
+        279
+      ]
+    },
+    "Storyweaving": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        235,
+        259,
+        297
+      ]
+    },
+    "Story Reception": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        259,
+        315
+      ]
+    },
+    "Storyform Alignment": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        20,
+        28,
+        428,
+        430,
+        461
+      ]
+    },
+    "Narrative Field": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        20,
+        28,
+        158,
+        299,
+        469,
+        541
+      ]
+    },
+    "Mental Sex": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        67,
+        428,
+        430
+      ]
+    },
+    "Story Limit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        69
+      ]
+    },
+    "Story Mind": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        263,
+        414,
+        434,
+        553
+      ]
+    },
+    "Throughline": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        125,
+        126,
+        139,
+        151,
+        265,
+        301,
+        306,
+        386
+      ]
+    },
+    "Signposts": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        93,
+        162,
+        301,
+        306,
+        313
+      ]
+    },
+    "Journeys": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        162,
+        301,
+        308,
+        313
+      ]
+    },
+    "Domain": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        124,
+        139,
+        151,
+        265,
+        453,
+        454,
+        455
+      ]
+    },
+    "Concern": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        125,
+        139,
+        265,
+        578
+      ]
+    },
+    "Positional Bias": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        335,
+        382,
+        438,
+        477,
+        487,
+        507
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        210,
+        504
+      ]
+    },
+    "Spec-Driven Development": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        497,
+        571
+      ]
+    },
+    "Model Context Protocol": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        567
+      ]
+    }
+  }
+}

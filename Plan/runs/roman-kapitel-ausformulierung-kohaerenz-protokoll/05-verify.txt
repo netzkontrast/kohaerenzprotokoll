@@ -1,0 +1,57 @@
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Anleitung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Anleitung` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#2]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Execution Plan"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Execution Plan` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#1]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Checkliste"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Checkliste` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#1]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Kontext"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Kontext` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#7]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            16
+
+`Kapitel` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#7]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            16
+
+`Kap` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#0]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "24 Beats"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`24 Beats` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#1]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Reboot"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            2
+
+`Reboot` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#1]
+$ read.py roman-kapitel-ausformulierung-kohaerenz-protokoll --count "Show, Don't Tell"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Show, Don't Tell` ^[roman-kapitel-ausformulierung-kohaerenz-protokoll.md:#6]
+$ grep -cE "^\| 1\." Sources/drive/roman-kapitel-ausformulierung-kohaerenz-protokoll.md
+25
+(25 table rows 1.1a to 1.15c; the document states 24 beats)

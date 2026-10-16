@@ -1,0 +1,68 @@
+$ read.py gravitational-architecture-novel-structure --count "Drafting cue"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Drafting cue` ^[gravitational-architecture-novel-structure.md:#2]
+$ read.py gravitational-architecture-novel-structure --count "Implementation Example"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Implementation Example` ^[gravitational-architecture-novel-structure.md:#1]
+$ read.py gravitational-architecture-novel-structure --count "Stylistic Implementation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Stylistic Implementation` ^[gravitational-architecture-novel-structure.md:#1]
+$ read.py gravitational-architecture-novel-structure --count "Narrative Description"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Narrative Description` ^[gravitational-architecture-novel-structure.md:#1]
+$ read.py gravitational-architecture-novel-structure --count "Scene Construction"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Scene Construction` ^[gravitational-architecture-novel-structure.md:#1]
+$ read.py gravitational-architecture-novel-structure --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[gravitational-architecture-novel-structure.md:#0]
+$ read.py gravitational-architecture-novel-structure --count "Chapter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Chapter` ^[gravitational-architecture-novel-structure.md:#1]
+$ read.py gravitational-architecture-novel-structure --count "Z-fighting"
+whole word, case-sensitive     5
+whole word, case-insensitive   8
+including compounds            5
+
+`Z-fighting` ^[gravitational-architecture-novel-structure.md:#5]
+$ read.py gravitational-architecture-novel-structure --count "Z-Fighting"
+whole word, case-sensitive     3
+whole word, case-insensitive   8
+including compounds            3
+
+`Z-Fighting` ^[gravitational-architecture-novel-structure.md:#3]
+$ read.py gravitational-architecture-novel-structure --count "Synergetics"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Synergetics` ^[gravitational-architecture-novel-structure.md:#8]
+$ read.py gravitational-architecture-novel-structure --count "kissing number"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`kissing number` ^[gravitational-architecture-novel-structure.md:#1]
+stance_marker_count 6 = 2+1+1+1+1 (case-sensitive word counts above)
+census: 54 candidates, zeros 0 (04-counts.txt); profile: backslash escapes 132, glued ref numbers 80, 71 references (grep -c 'Zugriff am November 25, 2025' = 71)

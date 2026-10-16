@@ -1,0 +1,73 @@
+# counts for 45 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: Show, Don't Tell
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                2 word     2 in   [11, 15]
+  Konstrukt-Stadt                   5 word     5 in   [15, 19, 21, 76, 81]
+  KW1                              26 word    27 in   [15, 19, 21, 23, 27, 43]
+  KW4                               2 word     2 in   [58, 119]
+  UNIVERSAL REBOOT                  1 word     1 in   [21]
+  AEGIS                             3 word     3 in   [25, 62, 81]
+  LogOS                             3 word     3 in   [25, 62, 81]
+  Kael                             21 word    69 in   [15, 21, 24, 27, 29, 31]  <-- substring
+                                   48      as Kaels
+  Juna                              6 word    14 in   [55, 56, 68, 70, 79, 81]  <-- substring
+                                    7      as Junas
+                                    1      as Juna-Enigma
+  Praetor                           4 word     4 in   [37, 60, 64, 72]
+  Nox                               4 word     4 in   [37, 68, 72]
+  Echo                              6 word     8 in   [37, 56, 60, 68, 71, 76]
+                                    2      as Echos
+  Silas                             3 word     3 in   [37, 56, 70]
+  Limina                            2 word     2 in   [60, 66]
+  Jansen                            1 word     2 in   [65]
+                                    1      as Jansens
+  Funke                             2 word     2 in   [58, 119]
+  Host                              4 word     6 in   [39, 56, 58, 64, 70, 72]
+                                    1      as Host-Kontrolle
+                                    1      as Hosts
+  Architekt                         1 word     5 in   [23, 39, 61, 72, 133]  <-- substring
+                                    2      as Architektur
+                                    1      as Architekten
+                                    1      as Architekten-Aspekt
+  Host/Architekt                    1 word     1 in   [39]
+  Index                             1 word     1 in   [64]
+  Alter                             1 word     1 in   [69]
+  DID                               3 word     3 in   [15, 31, 135]
+  Datenknotenpunkt Gamma-7          1 word     1 in   [59]
+  Gamma-7                           1 word     1 in   [59]
+  Resonanz-Landschaft               1 word     1 in   [76]
+  Normalem Nachbarn                 1 word     1 in   [65]
+  Gewohnte Welt                     1 word     1 in   [129]
+  Perfect World                     1 word     1 in   [129]
+  Der klare Hinweis                 1 word     1 in   [74]
+  Juna-Enigma                       1 word     1 in   [79]
+  Naht                              4 word     4 in   [74, 117, 121, 123]
+  Riss                              8 word    23 in   [27, 44, 54, 58, 63, 64]  <-- substring
+                                   14      as Risse
+                                    1      as Risses
+  Glitch                            9 word    11 in   [38, 58, 63, 88, 108, 110]
+                                    2      as Glitches
+  Anomalie                         14 word    14 in   [63, 64, 66, 67, 68, 110]
+  Spiegel                          10 word    13 in   [19, 21, 65, 69, 77, 117]
+                                    2      as Spiegelbild
+                                    2      as spiegelt
+                                    1      as Spiegels
+                                    1      as spiegeln
+  Intrusion                         9 word    12 in   [15, 33, 52, 56, 58, 70]
+                                    3      as Intrusionen
+  Intrusionen                       3 word     3 in   [15, 33, 97]
+  Dissoziation                      1 word     1 in   [33]
+  Depersonalisation                 4 word     4 in   [38, 53, 69, 120]
+  Derealisation                     1 word     1 in   [38]
+  Beat                              2 word     7 in   [46, 48, 52, 81, 134]  <-- substring
+                                    2      as Beats
+                                    1      as Beat-by-Beat
+                                    1      as Beat-Struktur
+  Uncanny Valley                    3 word     4 in   [23, 54, 55, 86]
+  Stream of Consciousness           1 word     1 in   [73]
+  Cliffhanger                       3 word     4 in   [77, 129, 137]
+                                    1      as Cliffhangers
+  Synästhesie                       1 word     1 in   [76]

@@ -1,0 +1,14 @@
+# roman-plot-kohaerenz-protokoll-glitch
+  lines                188  (frontmatter ends at 9)
+  body words           3391
+  headings             12   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       7
+  backslash escapes    30
+  typographic marks    103   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    60
+  repeated labels      Thematischer Fokus x3
+  longest line         1336 chars
+

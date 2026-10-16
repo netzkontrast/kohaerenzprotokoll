@@ -1,0 +1,65 @@
+$ read.py --count "These"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`These` ^[aegis-und-der-kollaps-kritische-analyse.md:#3]
+$ read.py --count "Beweis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Beweis` ^[aegis-und-der-kollaps-kritische-analyse.md:#2]
+$ read.py --count "Synthese"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Synthese` ^[aegis-und-der-kollaps-kritische-analyse.md:#2]
+$ read.py --count "Fazit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fazit` ^[aegis-und-der-kollaps-kritische-analyse.md:#1]
+$ read.py --count "Storyform"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Storyform` ^[aegis-und-der-kollaps-kritische-analyse.md:#0]
+$ read.py --count "Erasure-Kernel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Erasure-Kernel` ^[aegis-und-der-kollaps-kritische-analyse.md:#0]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     63
+whole word, case-insensitive   63
+including compounds            63
+
+`AEGIS` ^[aegis-und-der-kollaps-kritische-analyse.md:#63]
+$ read.py --count "Kael"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            16
+
+`Kael` ^[aegis-und-der-kollaps-kritische-analyse.md:#15]
+$ read.py --count "Moros"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Moros` ^[aegis-und-der-kollaps-kritische-analyse.md:#6]
+$ read.py --count "Execution Integrity Failure"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Execution Integrity Failure` ^[aegis-und-der-kollaps-kritische-analyse.md:#2]
+stance_marker_count 8 = 3+2+2+1
+$ grep -c autobiograph
+0
+profile: 53 glued ref numbers, 2 zero-width chars (01-profile.txt)
+reference list items: 48 (L164 to L211)

@@ -1,0 +1,216 @@
+{
+  "document": "kohaerenz-protokoll-dramatica-synthese",
+  "drive_id": "1dJk-ZFNzYuOvd9EXsUtPNvR6I33TOIzkexB8BfY-pvY",
+  "step": "reconcile",
+  "at": "2026-10-11",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-11, from the full-ingest task with no count before the list; three sentences about matters outside the novel's world made neutral by the session in the candidate list, census and note before reconciliation; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-243/brief.md, reading only L65–L210; no chapter readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 98,
+    "decisions": 100,
+    "decided_by_lookup": 85,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A German report mapping the project onto Dramatica: its new surfaces are the four throughlines and dimensions, K_1/K_0, the Mosaik-Strategie and its slots, the Resonanz-Kodex, Golden Sources, Logos-Prime and borrowed concepts; what it says of the novel's world went on existing pages and two records. Its passages about matters outside the novel's world (L17–L23, L33–L59, L212–L221) were not read for the wiki.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        84,
+        90,
+        94,
+        148,
+        169,
+        170
+      ],
+      "attribution": "",
+      "note": "AEGIS as the keeper of a false high-coherence state, failing by knowledge"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "the ending forces AEGIS into it"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        94,
+        146,
+        158
+      ],
+      "attribution": "",
+      "note": "the DKT as bridge and as a source of inconsistency"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "the world built on the lie that existence without entropy is possible"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        84
+      ],
+      "attribution": "",
+      "note": "the Guardians as prisoners of the false universe"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        116,
+        120,
+        124,
+        126,
+        130,
+        146
+      ],
+      "attribution": "",
+      "note": "Juna as Impact Character, Ability, and living proof"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        84,
+        106,
+        110,
+        112,
+        148,
+        169
+      ],
+      "attribution": "",
+      "note": "Kael as Main Character, Thought, and the living Gödel sentence"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        110,
+        146
+      ],
+      "attribution": "",
+      "note": "Kiko as an EP and as attachment trauma"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        106
+      ],
+      "attribution": "",
+      "note": "Lex as the part of Kael that ruminates"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        124
+      ],
+      "attribution": "",
+      "note": "Juna's Ability, a metaphorical adaptation of quantum entanglement"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        126,
+        162,
+        169
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Juna's proof and Kael's truth"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        110
+      ],
+      "attribution": "",
+      "note": "Nyx among the EPs breaking into System Kael"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        84,
+        94
+      ],
+      "attribution": "",
+      "note": "Risse as the result of the held high-coherence state, and a demand on the writer"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q9"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` on kael; `Juna/V` on juna (J34); `AEGIS-Falle`, a writer's trap named after AEGIS, read on aegis; `Kohärenz Protokoll` and `Integrierten Kohärenz-Protokolls` the title and the report's name for itself; `Kohärenztheorie der Wahrheit` a borrowed lens; `Logos-Prime` the false universe, not LogOS; `Cerberus-Labyrinth` a place named once, not the Guardian; `Ontological Exploit` not Alex; `Slot` and `Slots` one term; `Intrusive Thoughts` and `Thought` two terms",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "in the opening, which speaks about matters outside the novel's world; Entropie is read at L84"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "in the opening, which speaks about matters outside the novel's world"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 94,
+      "decision": "reading",
+      "why": "the world must have Risse"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "in the opening, which speaks about matters outside the novel's world"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 55,
+      "decision": "occurrence",
+      "why": "a simulation of polyphony in the work process"
+    }
+  ],
+  "not_promoted": [
+    "the four throughlines and dimensions",
+    "K_1 and K_0",
+    "Mosaik-Strategie and Mosaik-Struktur",
+    "Slots",
+    "Resonanz-Kodex",
+    "Golden Sources",
+    "Logos-Prime",
+    "AEGIS-Falle",
+    "Buffering Capacity",
+    "Intrusive Thoughts"
+  ],
+  "internal_tension": "it declares itself complete (L210) while it names the mosaic two ways (Mosaik-Struktur, Mosaik-Strategie) without saying they are one, and leaves Golden Sources and Logos-Prime undefined",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
