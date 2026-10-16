@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-epische-plot-anreicherung", "dkt-fundament-kohaerenz-protokoll-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dual-storyform-hintergruende-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-master-integration-md", "kohaerenz-protokoll-epische-plot-anreicherung", "dkt-fundament-kohaerenz-protokoll-md", "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform"]
 gathered: "2026-09-24"
 ---
 
@@ -24,6 +24,10 @@ The DKT-Fundament memo defines Erasonen as „elementare Löschungsereignisse“
 ## Reading — `kohaerenz-protokoll-epische-plot-anreicherung`, 2026-04-08, the epic enrichment brief — Erasonen erasing concepts and narrowing the world
 
 The epic enrichment brief is an unsigned German research brief of proposals and recommendations; so these are proposals. A survey row writes that the concept „Arm“ is deleted „von Erasonen aus der Axiomatik des Raumes gelöscht“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L46]; of Optionlock it proposes „Jeder Zyklus in Akt II verschließt eine Option unwiderruflich durch Informationslöschung (Erasonen)“ ^[kohaerenz-protokoll-epische-plot-anreicherung.md:L81].
+
+## Reading — `research-prompt-kohaerenz-protokoll-dramatica-dual-storyform`, 2026-04-28, the dual-storyform prompt — Erasonen on the K0 side
+
+The dual-storyform prompt places the term on the K0 storyform: „Erasonen als irreversible Löschungen, generieren den Zeitpfeil.“ ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:L126] Where it later sums up that storyform, it lists „Erasonen, Zeitpfeil, linear, AEGIS' Spur, Funktion.“ ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:L532]
 
 ## Reading — `kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md`, 2026-04-30, the Struktur-Kanon — K0 as Erasonen
 
