@@ -1,66 +1,53 @@
-# Kohärenz Protokoll — working agreement
+# Kohärenz Protokoll — session contract
 
-A German hard-SF novel and its research corpus. **The wiki is being built, and the first chapter is being drafted in `Manuscript/`** on the author's request (decision 023). A plan for writing the novel is proposed and not yet decided
-(`Plan/concept/novel-writing-plan_2026-09-29.md`; its four questions for the author are in `NOW.md`).
+A German hard-SF novel and its research corpus. German manuscript prose stays German; engineering and planning use English. This file contains standing operating rules. `NOW.md` contains current work; `PRINCIPLES.md` contains the reasons and design principles. Do not duplicate their histories or measured counts here.
 
-**Canon prose is German and is never translated. Engineering and work language is English.**
+## Start a session
 
-## Read this first
+1. Read `AGENTS.md`, `NOW.md`, this file and `PRINCIPLES.md`. The author's current instruction wins; follow NOW.md's named mandate and linked briefing before choosing unrelated work. Read `SPEC.md` before architecture changes.
+2. Run `python3 scripts/knowledge.py init --profile reader` as coordinator (`research` for DSPy work). Claude's SessionStart hook already runs the research initializer; inspect its result before repeating it. Workers use the matching `--check` profile and never rebuild shared stores. Report unavailable capabilities; a source-only task can continue with `read.py` when those capabilities are irrelevant. Install dependencies in virtualenvs, never system Python.
+3. Run `python3 scripts/sessions.py board`. Read active branches and open PRs before selecting work. Unknown live state is not free. Claim work with an open PR whose body has `Session: <id>`; a branch name is not a claim. For source ingest also name the source slugs under `Claim`.
+4. Load only the skill for the operation below and its needed references. Enumerate current files instead of assuming an old chapter variant, source count or branch remains current.
 
-1. **`NOW.md`** — what is open right now, the author's standing instructions, the questions that wait, what is half-done. It is the handover between sessions, and it is one page.
-   If it names a next-session mandate, follow that mandate before selecting pipeline work; its linked briefing owns the task and its completion criteria.
-   **The session board** prints at every session start (`python3 scripts/sessions.py board`) and is live at https://kohaerenzprotokoll.vercel.app/#/now: NOW.md's plan against GitHub — which session an open pull request has claimed, which branches were pushed in the last day. **Coordinate there**: read it before choosing work, take a session no pull request claims, and claim it at once with a pull request whose body holds `Session: <id>` (the id the board prints; your own id for work NOW.md does not name). The author's instruction of 2026-10-05; a branch named like a session is not a claim, and when the board cannot reach GitHub it says the state is unknown rather than free.
-2. **`PRINCIPLES.md`** — the rules we follow, each with the evidence that produced it, and a catalogue of ideas kept but not yet built. Read it before writing a new skill, command, script, check or page type.
-3. **`SPEC.md`** — the architecture, adopted by the author (decision 021): modules and who owns what, the hit and pack contracts, the evaluation gates, and the migration order. Each step is marked *[built]* or *[migrate]*.
-4. **`GOAL.md`** — the author's brief (2026-09-23, German): a git-versioned knowledge graph and wiki that helps write the novel — sources tiered by precedence, conflicts found and never silently
-   smoothed, self-generated questions, the plot model as checkable rules. It describes the *target*, not the repository: where it names paths or tools that do not exist here, this page says what exists.
+## Authority and writes
 
-**Everything on this page describes what currently exists. A statement here that is not true of the repository is the defect — fix it in the same change, or delete it.** A description that outran what
-existed is how the previous version of this project failed. The detail behind each section lives where it is maintained: a script's docstring is its documentation, `scripts/README.md` is the map of the
-folder, and the skills in `.agents/skills/` hold the procedures (the table at the end of this page says which).
-
-### A fresh container has none of the derived things
-
-A cloud session starts from a clean clone, and everything git-ignored is absent. `.claude/hooks/session-start.sh` runs `python3 scripts/knowledge.py init --profile research` synchronously at every Claude
-session start (Codex coordinators run it by `AGENTS.md`); it calls `scripts/install.sh --session` — `derived`, `tools`, `dspy`, `graphqlite`, `typesafe`, `qmd` — and builds or refreshes the graph
-store, and it never blocks the session on a failed component. `scripts/install.sh --check` says what is present, `--list` names the components, `scripts/install.sh <name>` installs one; the log is `.install.log`.
-A second run takes seconds; the first took about a minute with uv's cache warm.
-
-| absent at start | rebuild | needed for |
+| Input | Authority | Write path |
 |---|---|---|
-| `Plan/derived/ask.db` | `python3 scripts/knowledge.py init --profile reader` (or `.venv-graphqlite/bin/python scripts/kg.py index`) | both graph CLIs; reads refuse a stale store |
-| `Plan/derived/` | `install.sh derived` (`python3 scripts/derive.py`, about 3 s) | `corpus.py`'s index path |
-| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica`, `.venv-mflow`, `.venv-graphqlite` | `install.sh <name>` | only the step that names each; `scripts/kg.py` needs `graphqlite` (pinned `graphqlite==0.8.0`) |
-| `he`, `he-mcp` (upstream Hyper-Extract) | `install.sh hyperextract`, pinned to `395039e` — **not** at session start | `hx.py parity`, `templates.py parse`, the vendored `hyper*` design skills; a contract run uses the port, `scripts/hx.py` (decision 020) |
-| `jev-decide`, `graphify`, `cgr`, OpenCode + oh-my-openagent | `install.sh jev` / `graphify` (pinned `4c73561`) / `cgr` / `omo` | the vendored skills; nothing in the pipeline |
-| qmd package and the `/usr/local/bin/qmd` shim | `install.sh qmd` (`scripts/setup_qmd.sh --package`) | searching; nothing in the pipeline |
-| qmd's models (~2.1 GB), index and embeddings | `install.sh qmd-models` (`scripts/setup_qmd.sh`) — **not** run at session start | vector search and `qmd query` |
-| `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev or OpenRouter call |
-| `Plan/derived/ui/` | `python3 scripts/ui.py` (`--check` also writes `stamp.json`) | the project app's canvas files, to publish; `llms.txt` and `agents/`; the stamp `appstamp.py verify` reads |
-| `Plan/derived/web/` | `python3 scripts/web.py` (runs `ui.py`, about 90 s) | the project app as a website; Vercel builds it itself |
-| `.venv-novelgraph`, `Index/sources/*/vec/`, `Index/sources/*/lex/`, `Index/_build/`, the embedder (~0.5 GB in the Hugging Face cache) | `UV_PROJECT_ENVIRONMENT=$PWD/.venv-novelgraph uv sync --project novelgraph`, then `.venv-novelgraph/bin/novelgraph build` (about 3 minutes from nothing) — not at session start | `novelgraph search`; `ask`'s `novelgraph` finder, which is off by default |
+| `Sources/manifest.jsonl`, `Sources/drive/` | Immutable landed research, including narrative-looking sources | `sources.py` only; never model-rewrite bytes |
+| `Sources/terms/`, `Sources/notes/`, `Wiki/` | Independent source readings, disagreements and human reviews; not novel canon | Ingest/reconciliation procedures; preserve attribution |
+| `Manuscript/kanon.md`, dated author decisions and approved material | Decided content; later explicit corrections win | Author-authorized change only; no automatic promotion |
+| `Plan/storyform/a.json`, `b.json`, `weave.json` | Approved structure with provenance | `storyform` workflow; do not change an answer to pass a check |
+| `development.json`, cards, drafts, scene lists and simulation runs | Proposals or working bases unless explicitly approved | Preserve their status and assumptions |
+| `Plan/derived/`, `Graph/`, generated NCP and overview | Disposable derived views | Regenerate from authoritative inputs; never hand-edit or import the Graph atlas |
 
-The standard-library scripts — `state.py`, `quotes.py`, `read.py`, `reconcile.py`, `account.py`, `entities.py`, `ui.py`, `hx.py`, `he_claude.py` — need none of these. **Every dependency goes into a virtualenv, never into the system
-Python** (`pip install --break-system-packages` once broke `cryptography` for the whole container); `.agents/skills/tools/references/install.md` has every venv, vendored skill and third-party tool and how each is installed.
+`Sources/` and `Wiki/` are the two research layers; `Manuscript/` is what they serve. A source calling itself canon cannot promote itself. `Legacy/` is parked, never runtime input, canon or a prose reference; historical measurements may cite it without reading it at runtime. `GOAL.md` describes the target; it does not certify implemented features.
 
-## Two layers, and the manuscript
+## Evidence and model calls
 
-| layer | what it is | who writes it |
-|---|---|---|
-| `Sources/` | research documents fetched from Drive, immutable once landed | `scripts/sources.py`, nothing else |
-| `Wiki/` | term pages derived from those sources, promoted by a human | a person, for now |
-| `Manuscript/` | the novel's workspace (decisions 023, 024): the canon ledger `kanon.md`, the drafts one folder per chapter, plot drafts in `plot/`, cards for cast and world in `figuren/` and `welt/` — only canon and working drafts, never a reading: nothing is canon unless `kanon.md` lists it, and nothing in `Wiki/` or `Sources/` reads it | the author, or a session on the author's explicit request, named in each draft's head |
+- Freeze a document's independent census/note before loading wiki or cross-document context. Reconcile by the existing lookup procedure. Readings remain attributed and unmerged; semantic conflicts remain judgement, not a program's verdict.
+- Obtain source lines with `read.py` and `--find`; never invent identifiers or reconstruct quotations. Wiki references name the source slug. `quotes.py` verifies them; uncheckable is not passed. Search ranking is discovery, never a corpus count.
+- Model output proposes; it does not decide canon, conflicts, judgements or links. Keep proposal relations out of the core graph. Record actual inputs, outputs, status, usage and cost through the existing compatible model path; evaluation caches stay off.
+- No corpus text goes to a third party without the author's decision for that run (007/008/011). Claude CLI's isolated first-party path remains as specified by decision 011. Do not infer a new provider permission from this AEGIS plan.
+- Model calls are serial, except up to two Sonnet ingest readers allowed by NOW.md; their reconciliation and commits remain sequential. Do not interpret multiple fictional figures as permission for parallel paid runs.
+- Every workflow needs an offline fixture. Name separate mechanical checks and human judgements; `not run`, unavailable and incomplete are not success.
 
-`Manuscript/` is not a third research layer: it is what the two layers are for. The writing skills' findings about a draft go to `Plan/runs/writing/`, never into `Manuscript/`. Everything else the project used to have is parked under `Legacy/` and read by nothing. `Sources/manifest.jsonl` is the spine: each row has `drive_id`, `title`, `slug`, `category`,
-`tier` and, once landed, `export_path` and two checksums. Anything derived traces back to a `drive_id`. `Sources/duplicates.jsonl` holds the rows that left it — Drive holds up to five exports of one document, and
-`scripts/dedupe.py` folds the extra ones away — so that „not in the manifest" never has to mean „nobody knows" (`Plan/learnings/fetch.md` has which copy survives, and why it is not the longest).
+For claim correction, provisional constructs and source-named wiki commits, read [session-method](Plan/concept/session-method.md). Never collapse different sources into one reading or delete a construct merely because its first use is disputed.
 
-## State — measured, never stored
+## Select the workflow
 
-**587 <!--state:sources.total--> rows in the manifest, 586 <!--state:sources.landed--> landed** — 586 <!--state:sources.distinct--> distinct documents, 93 <!--state:sources.folded--> duplicate exports folded away, 0 <!--state:sources.near_copies--> near-copies left
-(`scripts/duplicates.py` keeps saying so). The one row not landed is `Coherence Protocol.mp3`: markitdown can only transcribe it by sending the audio to a third-party speech service, which waits on the author's yes.
-All 33 <!--state:sources.canon_era--> rows dated May 2026 or later (the canon era) are landed (33 <!--state:sources.canon_era_landed-->) and read.
+| Task | Read next |
+|---|---|
+| Ingest/reconcile a source | `.agents/skills/ingest/SKILL.md`, `tools`; workers: `reader-tools` |
+| Bounded research or evidence lookup | `reader-tools` (research scope), `graph-context` or `qmd`; discovery alone is not ingest |
+| Plot, casting or NCP | `storyform`; chapter execution: `scene-architecture` planning/review mode |
+| Manuscript critique, voice or continuity | `writing-skills`, then the relevant specialist; findings in `Plan/runs/writing/` |
+| AEGIS agent implementation | The next section and `Plan/briefings/aegis-agent-pilot.md` |
+| Model/template experiment | `dspy` or `hyperextract-learning`; approvals and STOP files still apply |
+| NOW/app changes | `app-refresh`; build from sources, keep routes and agent exports consistent |
 
+Project skills live in `.agents/skills/`; `.claude/skills/` links to them. Do not edit two copies or rewrite pinned vendored skills. The coding coordinator implements software; editorial skills critique prose; fictional agents act only inside their scenario. A review skill's no-rewrite rule does not ban an explicitly authorized separate drafting task.
+
+## AEGIS implementation mandate
 **525 <!--state:documents.with_census--> documents have a term census** in `Sources/terms/`, 525 <!--state:documents.with_note--> a note in `Sources/notes/`, 525 <!--state:documents.reconciled--> a reconciliation in `Wiki/compare/`.
 `python3 scripts/account.py order` holds — `true` <!--state:order.holds--> — when every document with a census has a note and a reconciliation, each ran against the state the previous one left, and the wiki
 matches what the newest run recorded leaving; when it does not, it says so with exit status 1. What each document added is in its reconciliation record `Wiki/compare/reconcile-NN-<slug>.md` and, up to document 51,
@@ -72,22 +59,21 @@ in `Plan/runs/reading-log.md`. `Plan/runs/judgements.jsonl` holds 121 <!--state:
 preceding them: a promoted page stays in `Wiki/candidates/` with `status: reviewed` (decision 026), 1 <!--state:wiki.reviewed--> so far, and only a reviewed candidate gets a term page in `Wiki/terms/` (decision 027), 1 <!--state:wiki.terms--> so far. A term page collects every source's reading of one term, **attributed and unmerged**: where sources disagree the page says so and stops.
 Which reading is right is the author's call, never the page's.
 
-**Every number on this page carries a `<!--state:key-->` marker naming the measurement it came from, and `python3 scripts/state.py --prose` fails if any of them contradicts the repository.** It reads every markdown
-file outside `Legacy/` and the vendored clones. That check exists because this section went stale four times — 27 of 680 landed, 3 documents read, 32 wiki pages, a reconciliation of 19/12/7 — each true when written, each wrong
-within a day, each caught by a person rather than a command. **State is derived, never stored**: `scripts/state.py` measures the repository, `Plan/state.json` is the artifact of a run and not the source of truth, and a new
-measurement is a decorated function.
+The author requested the plan on 2026-10-13 and this PR/instruction update. The implementation below is the next proposed coding task, not a claim that a runtime exists or a new canon decision.
 
-```bash
-python3 scripts/state.py            # derive everything, write Plan/state.json
-python3 scripts/state.py --prose    # fail on any stale number in prose
-python3 scripts/state.py --check    # fail if Plan/state.json has drifted
-python3 scripts/state.py --get wiki.pages
-```
+Read the [pilot briefing](Plan/briefings/aegis-agent-pilot.md) before coding; the full rationale and source review are in [the plan](Plan/concept/aegis-agent_2026-10-13.md). Start with two manual cases, AEGIS and one counterfigure, then an offline standard-library implementation. Reuse the existing canon, storyforms, pack contracts and model adapters where they fit. A fictional AEGIS is not the research pipeline's canon checker.
 
-## The process — one operation at several scales
+Keep perception filtering outside the model. Characters receive only scenario-visible facts and allowed actions, with no repository tools. AEGIS proposes typed actions; deterministic code validates prerequisites, state version and resource costs before committing one event. Preserve mistaken beliefs separately from facts. Pause/reactivate figures from persisted events; replay uses frozen responses and never calls a model. Simulation events and literary logs are separate artifacts.
 
-    account(subject, question) -> account
+Keep manuscript/canon untouched. Model integration, Ink/inkjs play, public backend and alternative endings are later steps, each earning its scope through pilot evidence. Do not add a graph database, MCP server, controller framework or swarm before the offline cases need it. The briefing owns deliverables and acceptance criteria; update it when implementation proves a design assumption wrong.
 
+## Finish a change
+
+Run the checks appropriate to the changed inputs and every required CI step from `.github/workflows/checks.yml`. Standard checks include `state.py --prose`, `account.py order --summary`, `quotes.py`, `wiki_index.py --check`, `promote.py check`, `terms.py check`, `judgements.py --open`, `chapters.py`, `overview.py --check`, `storyform.py --check` and `selftests.py --only std`; run `derive.py` first. Skill edits also run `check_skills.py`. Report venv suites separately.
+
+NOW.md changes affect the session UI: derive sessions and run `ui.py --check` / `web.py --no-build --check` using `app-refresh`. The pre-PR app hook was removed on 2026-10-06; do not reintroduce a mandatory hook or claim deployment from a local build. Visual/deployment checks require their actual environment; report any unavailable verification.
+
+Commit complete work with provenance, keep PR descriptions current, and preserve unrelated work. After the author merges an active branch, merge `origin/main` into it rather than rebasing or resetting it; open a new PR when continuing. Decisions belong in `Plan/decisions/`, evidence in `Plan/runs/`, questions in `Plan/questions-for-the-author.md`, next steps in NOW.md, and history in git. The session board derives from NOW.md and live GitHub; do not create a second persistent backlog.
 | subject | the account |
 |---|---|
 | a document | the census, the note |

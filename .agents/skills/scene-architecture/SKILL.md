@@ -316,3 +316,12 @@ scene list is a working basis, not automatic canon (decision 025 step 38).
 Leave undecided content as an open question and continue independent planning.
 Do not name an alter early, import draft inventions into canon, require a disastrous
 ending for every quiet beat, or diagnose Change/Be-er from a single physical action.
+
+## Hand off a test scene to the AEGIS pilot
+
+In planning/review mode, identify each figure's visible facts and received claims,
+allowed action, opposition, cost and observable before/after consequence. Label
+which requirements are decided and which are scenario assumptions. Use
+`Plan/briefings/aegis-agent-pilot.md` for the implementation handoff; code validates
+state transitions, while this skill judges whether a choice changes the scene.
+A passing fixture is not treatment approval or permission to write the chapter.

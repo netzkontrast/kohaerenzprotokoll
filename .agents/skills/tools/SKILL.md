@@ -226,7 +226,7 @@ something you can run or hand over**.
 | `reconcile <slug>` | phase 3 | ✓ `reconcile.py`, `brief.py`, `readings.py`, `record.py`; the judgements, and what a reading says, are a person's and a `wiki-reader`'s |
 | `account <subject>` | the recursive verb over `document`, `term`, `pair`, `corpus`, `order` | ✓ `account.py` |
 | `ask <question>` | attributed evidence, `doc:line` behind every quotation | ✓ `graphrag.py ask` returns quotations, never prose; `ask.py` packs a question, answers it (`claude -p` by default) and lands the answer as a source of tier `M-ask` (decision 017) |
-| `promote <term>` | a person's review, candidate → `Wiki/terms/` | **to build**, and it is a person's gate, not a command that decides |
+| candidate review / term approval | separate author reviews, not automatic source promotion | `scripts/promote.py` and `scripts/terms.py`; read their current help and `Wiki/terms/README.md` |
 
 **Write no command for a step that has not been done by hand twice.** The
 previous version of this project declared nine command names that never existed

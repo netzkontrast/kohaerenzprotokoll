@@ -77,8 +77,8 @@ python3 scripts/check_skills.py         # after a repository skill changes
    points and next approved driver transition. Cite the inputs. Do not claim every
    scene must embody every throughline, or treat a signpost label as a scene.
 2. **Read the complete variants.** Enumerate chapter files with `rg --files` and
-   read each prose draft in full, separately from README recommendations. For Kap 1,
-   the current A–I set must all be accounted for; re-enumerate on every new review.
+   read each prose draft in full, separately from README recommendations. Account for every current variant; re-enumerate on every new review instead of
+   assuming a previously named set is complete.
    Cite exact file lines obtained from `nl -ba` or `rg -n`, and label whether each
    fact is decided, draft-only, inferred or missing. Prefer no variant by recency.
 3. **Test the dramatic argument.** Distinguish overall conflict (OS), personal
@@ -154,3 +154,12 @@ name: storyform
 #          or make generated chapter development canon
 # retire when: treatment checks show this workflow adds nothing, or the author drops Dramatica
 ```
+
+## Constraints for a simulation pilot
+
+For AEGIS implementation, hand the coordinator decided role, scene/act window,
+endpoint and their provenance from current canon/structure. Mark unresolved
+knowledge, voice and resource values as pilot assumptions. Do not turn the whole
+NCP or a future plot into character context. `Plan/briefings/aegis-agent-pilot.md`
+owns implementation acceptance; this skill checks structural compatibility and
+never executes state changes or makes simulation outcomes canon.
