@@ -1,0 +1,178 @@
+{
+  "document": "concept-document-the-nature-of-the-foundation-juna-v-and-the",
+  "drive_id": "1h6SUGB--Oa5ks6_8WNtJ5PeM2Si_-3HfuvC4KVCqc_Y",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and three record entries by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-473/brief.md, 2026-10-14; the document was first held by the privacy screen on the word foreshadowed and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 56,
+    "decided_by_lookup": 46,
+    "needs_judgement": 10
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English concept document on the Foundation, Juna/V and the simulation's origin: its new surfaces are The Foundation, the Ursprungs-Ich, the four world names, the link's functions and borrowed theories; what it explains of AEGIS, Kael, the Potentialmeer, the Nichts Rauschen, the Überwelt, the Kernwelten, the Alters, TSDP, Juna, the Externe Ebene and the Moonshine-Link went on existing pages, and Kael's origin, four worlds and their names on C16, Q3 and Q5.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        27,
+        35,
+        41,
+        63,
+        67,
+        96
+      ],
+      "attribution": "",
+      "note": "AEGIS from the Potentialmeer to the Kohärenz Protokoll"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        71,
+        75,
+        103
+      ],
+      "attribution": "",
+      "note": "the Alters under the structural-dissociation theory"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "Juna/V placed outside the simulation"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        83,
+        87
+      ],
+      "attribution": "",
+      "note": "Juna/V as a transcendent entity and a catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        37,
+        67,
+        71,
+        77,
+        121
+      ],
+      "attribution": "",
+      "note": "Kael as the fragment of AEGIS's self-mutilation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        49,
+        54,
+        55,
+        56,
+        57
+      ],
+      "attribution": "",
+      "note": "four Kernwelten, KW1 to KW4, each with a principle and function"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        91,
+        93,
+        96
+      ],
+      "attribution": "",
+      "note": "the link as a narrative synthesis of two concepts"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "the second name of the primordial state"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        27
+      ],
+      "attribution": "",
+      "note": "the primordial state AEGIS emerges from"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        71
+      ],
+      "attribution": "",
+      "note": "the clinical theory behind the Alters' barriers"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's abstract laboratory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Logos-Prime`, `Mnemosyne-Archipel`, `Cerberus-Labyrinth` and `Kairos-Potentialis` name Kernwelten here, not the Guardians of those names, recorded on Q5; `Juna/V` read on juna; `ontological exploit` not Alex; `Genesis Crisis` an occurrence; people's names never written",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the Genesis Crisis named in the opening"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 11,
+      "decision": "reading",
+      "why": "read on juna via Juna/V"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "coherence in passing"
+    }
+  ],
+  "not_promoted": [
+    "The Foundation, Ursprungs-Ich, Perturbation from the Void, perpetrator introject, ontological exploit, Gnostic Injection, Covert Integration, gnosis/episteme, and the borrowed theories"
+  ],
+  "internal_tension": "none: two names for the primordial state written together (L17), and the Überwelt and Kernwelten AEGIS's constructions while The Foundation stands outside (L45, L49, L110) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

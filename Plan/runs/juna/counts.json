@@ -1,0 +1,463 @@
+{
+  "document": "juna",
+  "drive_id": "18N07htwP86U6jD1PMVYidcvOITovxjDOAsyyYgUCEWE",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Das Fundament": {
+      "n": 29,
+      "n_including_compounds": 29,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        50,
+        52,
+        54,
+        60,
+        62,
+        64,
+        68,
+        70,
+        72,
+        74,
+        76,
+        78,
+        104
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        11,
+        33,
+        35,
+        43,
+        50,
+        52,
+        54,
+        81,
+        83,
+        91,
+        93,
+        104
+      ]
+    },
+    "Juna/V": {
+      "n": 27,
+      "n_including_compounds": 39,
+      "lines": [
+        11,
+        33,
+        35,
+        37,
+        39,
+        43,
+        45,
+        47,
+        48,
+        49,
+        50,
+        52,
+        54,
+        81,
+        83,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        99,
+        101,
+        102,
+        103,
+        104
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        41,
+        89
+      ]
+    },
+    "Kael-Juna (K-J) Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Paraiyas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        64
+      ]
+    },
+    "Paradoxon X": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        70,
+        78
+      ]
+    },
+    "Potentialmeers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        85
+      ]
+    },
+    "alternatives Kohärenzprotokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        85
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        17,
+        31,
+        52,
+        54,
+        78,
+        91
+      ]
+    },
+    "Kernprozessor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        95
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Kontaktquelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        85
+      ]
+    },
+    "Reboots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "AEGIS": {
+      "n": 46,
+      "n_including_compounds": 46,
+      "lines": [
+        21,
+        25,
+        35,
+        37,
+        39,
+        41,
+        43,
+        47,
+        52,
+        68,
+        70,
+        72,
+        77,
+        79,
+        83,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        101,
+        104
+      ]
+    },
+    "Kael": {
+      "n": 22,
+      "n_including_compounds": 41,
+      "lines": [
+        23,
+        25,
+        29,
+        30,
+        31,
+        39,
+        43,
+        48,
+        52,
+        68,
+        70,
+        72,
+        76,
+        77,
+        79,
+        85,
+        89,
+        91,
+        93,
+        95,
+        97,
+        102,
+        104
+      ]
+    },
+    "Impact Character (IC)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Monster Group (M)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "ontologischer Exploit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        43,
+        56,
+        93
+      ]
+    },
+    "lebendiger Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        93
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        93
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "architektonische Hintertür": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        91,
+        95
+      ]
+    },
+    "seltsamer Attraktor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        68
+      ]
+    },
+    "Anziehungsbecken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        68
+      ]
+    },
+    "schwache Emergenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        68
+      ]
+    },
+    "parakonsistenter Rahmen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        64
+      ]
+    },
+    "Gnosis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        72
+      ]
+    },
+    "Ankerpunkte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "blindem Fleck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Verdiente Einsicht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        76
+      ]
+    },
+    "Frühes Foreshadowing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        77
+      ]
+    },
+    "Begrenzte Erklärungskraft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        78
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        27,
+        45,
+        56,
+        74,
+        99
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        89
+      ]
+    },
+    "Prehension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        89
+      ]
+    },
+    "Prähension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Qualia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        91
+      ]
+    },
+    "Advaita Vedanta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Madhyamaka Buddhismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Pleroma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Yin und Yang": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Śūnyatā": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    }
+  }
+}

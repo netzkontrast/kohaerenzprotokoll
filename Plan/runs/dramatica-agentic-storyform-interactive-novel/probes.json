@@ -1,0 +1,232 @@
+{
+  "document": "dramatica-agentic-storyform-interactive-novel",
+  "drive_id": "1-KzB7OWbPer-JiMf52GbNHCP6Dscm8ChmroBsrS34C8",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 112,
+  "backslash_escapes": 116,
+  "typographic_marks": 31,
+  "ascii_quotes": 122,
+  "inflection_families": {
+    "story": [
+      "Story",
+      "Storybeat",
+      "Storybeats",
+      "Storyform",
+      "Storyforming",
+      "Storylines",
+      "Storymind",
+      "Storypoint",
+      "Storypoints",
+      "Storytelling"
+    ],
+    "gener": [
+      "Generate",
+      "GenerateDialogue",
+      "GenerateNarrative",
+      "Generates",
+      "Generating",
+      "Generation",
+      "Generative",
+      "Generators"
+    ],
+    "archi": [
+      "Architect",
+      "Architecting",
+      "Architectural",
+      "Architecture",
+      "Architectures"
+    ],
+    "autho": [
+      "Author",
+      "Authorial",
+      "Authoring",
+      "Authors",
+      "Authorship"
+    ],
+    "conce": [
+      "Concept",
+      "Concepts",
+      "Conceptual",
+      "Concern",
+      "Concerns"
+    ],
+    "inter": [
+      "Interacting",
+      "Interactive",
+      "Interest",
+      "International",
+      "Intersection"
+    ],
+    "agent": [
+      "Agent",
+      "Agentic",
+      "Agentification",
+      "Agents"
+    ],
+    "compr": [
+      "Compressed",
+      "Compressing",
+      "Compression"
+    ],
+    "inten": [
+      "Intent",
+      "Intention",
+      "Intentions"
+    ],
+    "journ": [
+      "Journal",
+      "Journey",
+      "Journeys"
+    ],
+    "machi": [
+      "Machine",
+      "MachineLearning",
+      "Machines"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Models"
+    ],
+    "narra": [
+      "Narration",
+      "Narrative",
+      "Narratives"
+    ],
+    "retri": [
+      "Retrieval",
+      "RetrieveFromMemory",
+      "Retrieved"
+    ],
+    "summa": [
+      "Summarization",
+      "Summarizing",
+      "Summary"
+    ],
+    "analy": [
+      "Analysis",
+      "Analytics"
+    ],
+    "arche": [
+      "Archetypal",
+      "Archetypes"
+    ],
+    "belie": [
+      "Belief",
+      "Beliefs"
+    ],
+    "chall": [
+      "Challenge",
+      "Challenges"
+    ],
+    "chara": [
+      "Character",
+      "Characters"
+    ],
+    "choic": [
+      "Choice",
+      "Choices"
+    ],
+    "cogni": [
+      "Cognition",
+      "Cognitive"
+    ],
+    "coher": [
+      "Coherence",
+      "Coherent"
+    ],
+    "compo": [
+      "Component",
+      "Components"
+    ],
+    "consi": [
+      "Consistency",
+      "Consistent"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anne",
+      "Planner"
+    ],
+    [
+      "Base",
+      "Based"
+    ],
+    [
+      "Base",
+      "Database"
+    ],
+    [
+      "Core",
+      "Score"
+    ],
+    [
+      "Data",
+      "Database"
+    ],
+    [
+      "Data",
+      "Acceldata"
+    ],
+    [
+      "Even",
+      "Events"
+    ],
+    [
+      "Fail",
+      "Failure"
+    ],
+    [
+      "Form",
+      "Forms"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Storyforming"
+    ],
+    [
+      "Form",
+      "Platformization"
+    ],
+    [
+      "Form",
+      "GetStoryformElement"
+    ],
+    [
+      "Game",
+      "Games"
+    ],
+    [
+      "Goal",
+      "Goals"
+    ],
+    [
+      "High",
+      "Highest"
+    ],
+    [
+      "JSON",
+      "JsonSchema"
+    ]
+  ]
+}

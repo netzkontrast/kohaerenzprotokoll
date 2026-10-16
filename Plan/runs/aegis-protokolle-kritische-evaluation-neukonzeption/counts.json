@@ -1,0 +1,407 @@
+{
+  "document": "aegis-protokolle-kritische-evaluation-neukonzeption",
+  "drive_id": "1TOpRhs8DAOIlxHab1tNt4y0nm0rTJRWJL5zJ_XSHotk",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 31,
+      "n_including_compounds": 60,
+      "lines": [
+        11,
+        15,
+        21,
+        29,
+        32,
+        33,
+        34,
+        38,
+        46,
+        56,
+        66,
+        70,
+        74,
+        78,
+        79,
+        85,
+        86,
+        87,
+        88,
+        96,
+        97,
+        105,
+        106,
+        114,
+        122,
+        130,
+        134,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        145,
+        157,
+        159,
+        165,
+        179,
+        183,
+        185,
+        189,
+        195
+      ]
+    },
+    "AFP v1.4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "ZTEM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "RTSV": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        31,
+        34
+      ]
+    },
+    "SVI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        31,
+        34
+      ]
+    },
+    "P-INIT": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        40,
+        46,
+        97,
+        105,
+        136,
+        153,
+        170,
+        171,
+        182,
+        193
+      ]
+    },
+    "P-ENTROPY": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        50,
+        126,
+        128,
+        129,
+        153,
+        174,
+        175,
+        183,
+        193
+      ]
+    },
+    "Ontologische Exklusion": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        60,
+        81,
+        130,
+        168,
+        193
+      ]
+    },
+    "No-Trust / No-Control": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        166
+      ]
+    },
+    "No-Trust": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        72,
+        76,
+        78,
+        138,
+        151,
+        166
+      ]
+    },
+    "No-Control": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        151,
+        166
+      ]
+    },
+    "Kohärenz als Existenzbedingung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        81,
+        167
+      ]
+    },
+    "Emergenz durch Negation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        96
+      ]
+    },
+    "Rekursion und Selbstverifikation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        101
+      ]
+    },
+    "Funktionale Ontologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        108,
+        172
+      ]
+    },
+    "Operative Geschlossenheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        116,
+        122,
+        173
+      ]
+    },
+    "Entropisches Gatekeeping": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        175
+      ]
+    },
+    "Kernphilosophie": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        17,
+        38,
+        68,
+        145
+      ]
+    },
+    "Passive Nicht-Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Nicht-Andocken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        168
+      ]
+    },
+    "Gründungsproblem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        105,
+        171
+      ]
+    },
+    "Protokoll-Skizzen": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        17,
+        25,
+        70,
+        134,
+        145
+      ]
+    },
+    "Free Energy Principle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "FEP": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        33,
+        65,
+        86,
+        130,
+        167,
+        209
+      ]
+    },
+    "Active Inference": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        65,
+        208
+      ]
+    },
+    "AIF": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        167
+      ]
+    },
+    "HoTT": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        33,
+        78,
+        104,
+        106,
+        171,
+        191,
+        259
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        56,
+        129,
+        174,
+        183
+      ]
+    },
+    "Maxwell'sche Dämon": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        128,
+        129
+      ]
+    },
+    "BFT": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        77,
+        78,
+        79,
+        121,
+        166,
+        202
+      ]
+    },
+    "Fixpunktsemantik": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        45,
+        65,
+        104,
+        170,
+        171,
+        191
+      ]
+    },
+    "dissipative Strukturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        56
+      ]
+    },
+    "Selbstorganisierte Kritikalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Constraint Satisfaction": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        96,
+        169
+      ]
+    },
+    "Prägeometrie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        122,
+        170,
+        173,
+        182,
+        191
+      ]
+    },
+    "Negentropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Computational Mechanics": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        175,
+        183,
+        191,
+        254
+      ]
+    }
+  }
+}

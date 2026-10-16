@@ -1,0 +1,187 @@
+{
+  "document": "ki-rolle-aegis-genesis-fragestellungen",
+  "drive_id": "1XloAMmWXICWDNx44MzddYnX_sgfrXiYMW_NwaM40-LQ",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two record entries by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-448/brief.md, 2026-10-14",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 92,
+    "decisions": 97,
+    "decided_by_lookup": 78,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report reconstructing the backstory from the documents it cites and reading it through system theory, cache coherence and TSDP: its new surfaces are the Ursprungs-Ich, Entität M, the Genesis-Krise, the Heuristik der Negation, its prompt's English names (Entity/Component 734, Origin-Self, Void Entity, Core Worlds) and borrowed concepts; what it says of AEGIS, Kael, Juna, the Potentialmeer, the Kernwelten, the Risse, the Alters, TSDP, emergence and entropy went on existing pages, Kael as Entity 734 on Q7 and Kael as the Ursprungs-Ich on C16.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        60,
+        62,
+        70,
+        92,
+        102,
+        160,
+        176,
+        219,
+        346
+      ],
+      "attribution": "",
+      "note": "AEGIS as an autopoietic system of self-preservation that misreads its own part"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        176,
+        184,
+        321
+      ],
+      "attribution": "",
+      "note": "the Alters as fragments of the emotional part, shattered to dilute trauma"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        60
+      ],
+      "attribution": "",
+      "note": "the precursor consciousness arose by emergence and selection"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "entropy as the ontological threat of the substrate"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        118,
+        211,
+        320
+      ],
+      "attribution": "",
+      "note": "Juna as the external entity whose signature escapes AEGIS"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        102,
+        174,
+        176,
+        203,
+        211,
+        302,
+        319
+      ],
+      "attribution": "",
+      "note": "Kael as the Ursprungs-Ich, the emotional part split off from AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        184,
+        186,
+        271
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as sealed simulation containers for the fragments"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        40,
+        296,
+        328
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as active void and field of maximal entropy"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        211,
+        348
+      ],
+      "attribution": "",
+      "note": "the Risse as the repressed truth bleeding through the simulation"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        168,
+        176
+      ],
+      "attribution": "",
+      "note": "the protocol read as structural dissociation, ANP and EP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` and `Entität M` read on juna; `Genesis-Krise` the report's own compound, not the genesis page; `Mauer` the simulation's walls, not the great wall; `Resonanz` the Ursprungs-Ich's resonance, not the protocol nor the landscape; `Sog der Entropie` read on entropie; `Kohärenz Protokoll` and `Fehlausgerichtete Kohärenz` the protocol's name; the theories named after people borrowed and never written on a page",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 60,
+      "decision": "reading",
+      "why": "AEGIS's precursor consciousness arose by emergence and selection"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 32,
+      "decision": "reading",
+      "why": "a reality emerging from maximal entropy; read on entropie"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 377,
+      "decision": "occurrence",
+      "why": "a title in the reference list"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "the protocol's name and the novel project"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 24,
+      "decision": "occurrence",
+      "why": "the prompt's simulation of a state of consciousness, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Ursprungs-Ich, Entität M, Entity/Component 734, Void Entity, Origin-Self, Genesis-Krise, Der große Wandel, Sog der Ordnung, informationelle Fossilien, Corrective Wavelets, Heuristik der Negation, Existenz durch Negation, Fehlausgerichtete Kohärenz, Kael-Juna-Verbindung, Monstergruppe, ANP, EP, and the borrowed concepts"
+  ],
+  "internal_tension": "none found: section 7's questions and section 8's prompt speak as and to AEGIS, as the report announces (L219)",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

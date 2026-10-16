@@ -1,0 +1,681 @@
+{
+  "document": "roman-outline-kohaerenz-protokoll-strategie",
+  "drive_id": "1h2K4XcnY3H6ERS3fNtDrCyQuMpaiCEeFaE_DUCsm9H4",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 20,
+      "n_including_compounds": 26,
+      "lines": [
+        11,
+        37,
+        45,
+        53,
+        69,
+        91,
+        114,
+        134,
+        180,
+        190,
+        199,
+        205,
+        211,
+        221,
+        226,
+        234,
+        240,
+        243,
+        251,
+        282,
+        284,
+        291,
+        304,
+        312,
+        327,
+        354
+      ]
+    },
+    "Chrono-Weave": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        228,
+        232,
+        234,
+        240,
+        242,
+        247,
+        251,
+        292,
+        314,
+        355,
+        362
+      ]
+    },
+    "Sentient Echo": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        261,
+        263,
+        271,
+        282,
+        304,
+        356
+      ]
+    },
+    "Sentient Echo (KI)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        356
+      ]
+    },
+    "AEGIS": {
+      "n": 55,
+      "n_including_compounds": 59,
+      "lines": [
+        17,
+        19,
+        26,
+        31,
+        37,
+        39,
+        58,
+        59,
+        60,
+        61,
+        67,
+        68,
+        75,
+        81,
+        83,
+        102,
+        105,
+        113,
+        119,
+        124,
+        125,
+        127,
+        140,
+        146,
+        147,
+        148,
+        154,
+        156,
+        162,
+        168,
+        170,
+        184,
+        189,
+        192,
+        205,
+        209,
+        210,
+        213,
+        214,
+        226,
+        234,
+        261,
+        262,
+        263,
+        284,
+        303,
+        304,
+        306,
+        307,
+        316,
+        321,
+        327,
+        329,
+        362,
+        367,
+        368,
+        372
+      ]
+    },
+    "Kael": {
+      "n": 53,
+      "n_including_compounds": 88,
+      "lines": [
+        16,
+        17,
+        18,
+        25,
+        36,
+        37,
+        38,
+        40,
+        46,
+        48,
+        53,
+        58,
+        59,
+        60,
+        61,
+        70,
+        71,
+        75,
+        80,
+        81,
+        82,
+        83,
+        84,
+        89,
+        90,
+        93,
+        103,
+        104,
+        119,
+        125,
+        126,
+        140,
+        144,
+        146,
+        147,
+        148,
+        155,
+        162,
+        168,
+        169,
+        177,
+        184,
+        191,
+        211,
+        212,
+        213,
+        219,
+        232,
+        233,
+        251,
+        262,
+        281,
+        282,
+        283,
+        293,
+        304,
+        305,
+        316,
+        326,
+        327,
+        328,
+        338,
+        343,
+        353,
+        359,
+        360,
+        366,
+        370,
+        371
+      ]
+    },
+    "Aris Thorne": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        211,
+        368
+      ]
+    },
+    "Jian Li": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        103,
+        105,
+        115,
+        158,
+        271,
+        369
+      ]
+    },
+    "Protokoll": {
+      "n": 35,
+      "n_including_compounds": 51,
+      "lines": [
+        11,
+        37,
+        45,
+        53,
+        69,
+        71,
+        91,
+        97,
+        104,
+        105,
+        114,
+        119,
+        134,
+        180,
+        186,
+        190,
+        191,
+        199,
+        205,
+        211,
+        213,
+        220,
+        221,
+        226,
+        234,
+        240,
+        243,
+        251,
+        282,
+        284,
+        291,
+        304,
+        306,
+        312,
+        321,
+        327,
+        354
+      ]
+    },
+    "Simulation": {
+      "n": 17,
+      "n_including_compounds": 18,
+      "lines": [
+        235,
+        278,
+        282,
+        283,
+        284,
+        285,
+        290,
+        291,
+        292,
+        293,
+        294,
+        304,
+        307,
+        313,
+        327,
+        354
+      ]
+    },
+    "Glitch": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        125,
+        128,
+        134,
+        136,
+        146,
+        156,
+        232,
+        235,
+        242,
+        285,
+        362
+      ]
+    },
+    "System-Glitch": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        232,
+        362
+      ]
+    },
+    "System-Glitch / Exploit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        362
+      ]
+    },
+    "Widerstandszelle": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        201,
+        251,
+        272,
+        315,
+        363
+      ]
+    },
+    "Widerstandsgruppe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        205,
+        261,
+        372
+      ]
+    },
+    "Mysteriöse Nachricht": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        157,
+        370
+      ]
+    },
+    "Kaels Vergangenheit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        71,
+        89,
+        93,
+        251,
+        338,
+        371
+      ]
+    },
+    "Implizite Überwachung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        135,
+        358
+      ]
+    },
+    "Fragmentierte Erinnerung / Amnesie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        293
+      ]
+    },
+    "Fragmentierte Erinnerung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        293,
+        360
+      ]
+    },
+    "Amnesie": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        89,
+        97,
+        293,
+        371
+      ]
+    },
+    "Implantierte Erinnerungen (Möglichkeit)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Ethische Konflikte in der Wissenschaft": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        222
+      ]
+    },
+    "Desinformation / Honeypot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Honeypot": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        149,
+        154
+      ]
+    },
+    "Vertrauensdilemma": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        155,
+        179
+      ]
+    },
+    "Freier Wille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "Determinismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "Der verschwundene Schöpfer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        361
+      ]
+    },
+    "Simulierte Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        364
+      ]
+    },
+    "Das Flackern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Die Stimme im Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Der Test": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Echos der Vergangenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        330
+      ]
+    },
+    "Der Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Risse im Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Der Köder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Die Allianz der Fragmente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Das Phantom-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        186
+      ]
+    },
+    "Aris' Perspektive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        207
+      ]
+    },
+    "Die Chrono-Weave Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Der Pakt mit dem Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Die Wahrheit der Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        278
+      ]
+    },
+    "Kollabierende Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        300
+      ]
+    },
+    "Das Offene Ende": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        323
+      ]
+    },
+    "Prolog": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        38,
+        353,
+        358,
+        366,
+        367
+      ]
+    },
+    "Zusammenfassende Übersicht der Kernelemente": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        347
+      ]
+    },
+    "Konzepte": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        251,
+        352
+      ]
+    },
+    "Tropes": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        241,
+        270,
+        357
+      ]
+    },
+    "Charaktere & Subplots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        365
+      ]
+    },
+    "Subplot": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        49,
+        93,
+        115,
+        157,
+        158,
+        365,
+        369,
+        370,
+        371,
+        372
+      ]
+    },
+    "Kognitive Dissonanz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        48,
+        92,
+        353
+      ]
+    },
+    "Unreliable Narrator": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        70,
+        359
+      ]
+    },
+    "Foreshadowing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        71,
+        136
+      ]
+    },
+    "Dead Drops": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    }
+  }
+}

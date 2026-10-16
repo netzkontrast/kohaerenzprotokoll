@@ -1,0 +1,183 @@
+{
+  "document": "narrative-entropie-existenzielle-bedrohung-des-romans",
+  "drive_id": "1sA37rVFqsrmcfqaikjdP9LJwlr_yQigVX2bWcgwNkb8",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-474/brief.md, 2026-10-14; the document was first held by the privacy screen on the word Foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 74,
+    "decisions": 73,
+    "decided_by_lookup": 57,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A design dossier laying a physics of reader attention over the novel: its new surfaces are narrative entropy as a concept, the triadic currency, the sins, the grey decay, the reality wounds and the reader 'O'; what it proposes for AEGIS, Kael, the Risse, the Nichts Rauschen, negentropy, multiplicity, entropy, Lex, Argus, Nyx and the Gödel-Gambit went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        196,
+        198,
+        200
+      ],
+      "attribution": "",
+      "note": "AEGIS as the engine of narrative entropy and the ultimate unreliable narrator"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        229
+      ],
+      "attribution": "",
+      "note": "Argus as a possible meta-observer in Scenario 4"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        22,
+        198
+      ],
+      "attribution": "",
+      "note": "the dossier's own concept of narrative entropy"
+    },
+    {
+      "page": "goedel-gambit",
+      "lines": [
+        235
+      ],
+      "attribution": "",
+      "note": "Beat 12 in the beat table"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        180,
+        208,
+        216,
+        226
+      ],
+      "attribution": "",
+      "note": "Kael as the only source of negentropy"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        180,
+        226
+      ],
+      "attribution": "",
+      "note": "Lex proposes a predictable solution in Scenario 1"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        208
+      ],
+      "attribution": "",
+      "note": "Kael's journey to functional multiplicity"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        208
+      ],
+      "attribution": "",
+      "note": "negentropy as narrative currency"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        42,
+        159
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the unread page"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        235
+      ],
+      "attribution": "",
+      "note": "Nyx in the beat table"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        174,
+        176
+      ],
+      "attribution": "",
+      "note": "the Risse as manifest plot holes"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Narrative Entropie` and its cases read on entropie as the dossier's own concept; `Genesis-Krise` not the genesis page's term; `Juna/V` only inside a question; `Logos-Prime` names KW1, not the Logos; `Kohärenz` compounds the dossier's own; people's names and the outline figure of L234 never written",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 22,
+      "decision": "reading",
+      "why": "the dossier's narrative entropy; read on entropie"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 74,
+      "decision": "occurrence",
+      "why": "inside a question"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 208,
+      "decision": "reading",
+      "why": "Kael's journey to functional multiplicity; read on multiplizitaet"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 170,
+      "decision": "reading",
+      "why": "the Risse as plot holes; read on risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 63,
+      "decision": "occurrence",
+      "why": "fiction as a simulation of social experience"
+    }
+  ],
+  "not_promoted": [
+    "Narrative Entropie as a term, the triadic currency, the four sins, Grauer Verfall, Realitätswunden, Psychotische Fissur, Kausales Geschwür, Phantom-Erzählung, 'O', and the borrowed concepts"
+  ],
+  "internal_tension": "the concept written in three cases and the decay as Grauen and Graue Verfall (L114, L129) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

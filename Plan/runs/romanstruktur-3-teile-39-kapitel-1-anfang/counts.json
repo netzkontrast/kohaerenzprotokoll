@@ -1,0 +1,828 @@
+{
+  "document": "romanstruktur-3-teile-39-kapitel-1-anfang",
+  "drive_id": "1Yxs8HvK0eClGsF8IcLilwl67e4H9XAoHup60Pjupeys",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [
+    "Das System ist kohärent, aber unvollständig",
+    "Universe vs. Mind"
+  ],
+  "counts": {
+    "Kapitel 40/0": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        19,
+        33,
+        39
+      ]
+    },
+    "Kael Voss": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        49,
+        165
+      ]
+    },
+    "Kael": {
+      "n": 52,
+      "n_including_compounds": 56,
+      "lines": [
+        19,
+        21,
+        23,
+        25,
+        35,
+        49,
+        51,
+        53,
+        55,
+        59,
+        61,
+        63,
+        65,
+        69,
+        71,
+        73,
+        75,
+        81,
+        85,
+        87,
+        89,
+        91,
+        95,
+        97,
+        99,
+        103,
+        105,
+        107,
+        113,
+        117,
+        119,
+        121,
+        140,
+        142,
+        144,
+        155,
+        157,
+        165
+      ]
+    },
+    "Nova Ardent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Nova": {
+      "n": 18,
+      "n_including_compounds": 19,
+      "lines": [
+        53,
+        61,
+        69,
+        73,
+        75,
+        87,
+        89,
+        99,
+        103,
+        107,
+        117,
+        121,
+        132,
+        134,
+        140,
+        158
+      ]
+    },
+    "Aegis": {
+      "n": 25,
+      "n_including_compounds": 26,
+      "lines": [
+        21,
+        23,
+        49,
+        51,
+        55,
+        59,
+        65,
+        69,
+        95,
+        105,
+        107,
+        119,
+        130,
+        132,
+        134,
+        155,
+        196
+      ]
+    },
+    "Aegis Coalition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        49,
+        95
+      ]
+    },
+    "New Zenith": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        49,
+        55,
+        59,
+        63,
+        65,
+        87,
+        163
+      ]
+    },
+    "Neon Ashes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Quarantine Zones": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "Forsaken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        73
+      ]
+    },
+    "Codex of Aegis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        196
+      ]
+    },
+    "MX-400 Sentinels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Orakel der Daten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Halle der Kausalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Technomancer": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        97
+      ]
+    },
+    "Warlords": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Kultisten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Doppelgänger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Keys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Glitches": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        51,
+        140,
+        155
+      ]
+    },
+    "Stasis-Kapsel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Täter-Introjekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Virus der Empathie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Innovation Organizer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Garbage Collector": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Firewall der Regierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Firewall der Industrie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Firewall der Akademie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        49,
+        65,
+        117,
+        158,
+        200
+      ]
+    },
+    "Kohärenz-Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        17,
+        75,
+        163,
+        165
+      ]
+    },
+    "Teil I": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        77,
+        109
+      ]
+    },
+    "Teil II": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        109
+      ]
+    },
+    "Teil III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Kapitel 1–4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Kapitel 5–9": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Kapitel 10–13": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Kapitel 14–17": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Kapitel 18–22": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Kapitel 23–26": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Kapitel 27–30": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Kapitel 31–34": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Kapitel 35–39": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        136
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        35,
+        51
+      ]
+    },
+    "Primary Structural Dissociation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        155
+      ]
+    },
+    "Secondary Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Tertiary Structural Dissociation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        65,
+        85,
+        107
+      ]
+    },
+    "Tertiary Dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "Apparently Normal Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "ANP": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        35,
+        45,
+        49,
+        53,
+        59,
+        63,
+        71,
+        89,
+        107,
+        155
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        63
+      ]
+    },
+    "EP": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        35,
+        45,
+        51,
+        53,
+        59,
+        71,
+        85,
+        89
+      ]
+    },
+    "LeanRAG": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        23,
+        37,
+        59,
+        73,
+        87,
+        138,
+        156,
+        163,
+        172,
+        180,
+        182
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Retrieval Cue": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Retrieval": {
+      "n": 8,
+      "n_including_compounds": 12,
+      "lines": [
+        23,
+        59,
+        87,
+        107,
+        156,
+        172,
+        180,
+        181,
+        182,
+        202
+      ]
+    },
+    "Cache Coherence": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        49,
+        51,
+        155
+      ]
+    },
+    "Cache Coherence Protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Directory Implementation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kishōtenketsu": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        25,
+        34,
+        43,
+        45,
+        79,
+        111,
+        154,
+        163,
+        185,
+        187
+      ]
+    },
+    "Ki": {
+      "n": 5,
+      "n_including_compounds": 18,
+      "lines": [
+        25,
+        34,
+        43,
+        45,
+        69,
+        79,
+        111,
+        154,
+        155,
+        163,
+        175,
+        185,
+        187
+      ]
+    },
+    "Shō": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        67,
+        69,
+        79,
+        81,
+        156
+      ]
+    },
+    "Ten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        79,
+        81,
+        101,
+        107,
+        157
+      ]
+    },
+    "Ketsu": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        34,
+        111,
+        113,
+        158
+      ]
+    },
+    "Triple Helix": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        55,
+        93,
+        97,
+        121,
+        138,
+        156,
+        165,
+        194
+      ]
+    },
+    "Triple Helix of Trauma": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        156,
+        194
+      ]
+    },
+    "P vs NP": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        61,
+        87,
+        142,
+        157,
+        197,
+        198,
+        209
+      ]
+    },
+    "Gödels Unvollständigkeit": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        36,
+        158,
+        163
+      ]
+    },
+    "Gödelschen Knoten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Dramatica": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        69,
+        195,
+        201
+      ]
+    },
+    "Story-Encoding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Personal Identity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Narrative Phenomenology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "narrative Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Body-Switching": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        206
+      ]
+    },
+    "Strange Loop": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        128,
+        130,
+        159
+      ]
+    },
+    "Referential Integrity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Hyperlink": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Overfitted": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Circular Narrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Context Gap": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        163
+      ]
+    },
+    "helical construction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Race Condition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Chapter 0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Reboot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        158
+      ]
+    }
+  }
+}

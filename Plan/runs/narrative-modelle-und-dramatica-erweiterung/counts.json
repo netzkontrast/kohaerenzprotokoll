@@ -1,0 +1,901 @@
+{
+  "document": "narrative-modelle-und-dramatica-erweiterung",
+  "drive_id": "1EnWL7ckuQZ1UEHeNw9wfZgE0aeSq7NFNOA5sh2vQhfA",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Story Mind": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        18,
+        30,
+        279,
+        308,
+        339,
+        343,
+        392,
+        457
+      ]
+    },
+    "System Mind": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        13,
+        339,
+        343,
+        358,
+        392,
+        457
+      ]
+    },
+    "Story-Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        280
+      ]
+    },
+    "Throughlines": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        38,
+        42,
+        44,
+        51,
+        63,
+        237,
+        244,
+        284,
+        471,
+        472,
+        473,
+        475,
+        476
+      ]
+    },
+    "Throughline": {
+      "n": 15,
+      "n_including_compounds": 29,
+      "lines": [
+        38,
+        42,
+        44,
+        46,
+        47,
+        48,
+        49,
+        51,
+        63,
+        74,
+        237,
+        244,
+        284,
+        285,
+        286,
+        287,
+        289,
+        378,
+        379,
+        471,
+        472,
+        473,
+        475,
+        476
+      ]
+    },
+    "Objective Story (OS) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Main Character (MC) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Influence Character (IC) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Relationship Story (RS) Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Objective Story": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        46,
+        220,
+        289,
+        379
+      ]
+    },
+    "Main Character": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        282,
+        378
+      ]
+    },
+    "Influence Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48
+      ]
+    },
+    "Relationship Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Hauptcharakter": {
+      "n": 4,
+      "n_including_compounds": 12,
+      "lines": [
+        47,
+        48,
+        49,
+        51,
+        219,
+        220,
+        223,
+        282,
+        326
+      ]
+    },
+    "Einflusscharakter": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        49,
+        51,
+        219
+      ]
+    },
+    "Table of Story Elements": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        59,
+        233
+      ]
+    },
+    "Quad": {
+      "n": 2,
+      "n_including_compounds": 9,
+      "lines": [
+        55,
+        59,
+        197,
+        233,
+        244,
+        372,
+        481
+      ]
+    },
+    "Quads": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        59,
+        233,
+        244
+      ]
+    },
+    "dynamische Paare": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Classes": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        285
+      ]
+    },
+    "Types": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        286
+      ]
+    },
+    "Variations": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        287
+      ]
+    },
+    "Elements": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        55,
+        59,
+        76,
+        233,
+        287
+      ]
+    },
+    "Universe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        239,
+        285
+      ]
+    },
+    "Physics": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        74,
+        240,
+        285
+      ]
+    },
+    "Mind": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        13,
+        18,
+        30,
+        69,
+        242,
+        279,
+        285,
+        308,
+        339,
+        343,
+        358,
+        392,
+        457
+      ]
+    },
+    "Psychology": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        70,
+        241,
+        285
+      ]
+    },
+    "Concerns": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        74,
+        244,
+        286
+      ]
+    },
+    "Issue": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        244,
+        287
+      ]
+    },
+    "Counterpoint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Story Engine": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        92,
+        203,
+        306,
+        310,
+        409
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        13,
+        22,
+        94,
+        98,
+        102,
+        110,
+        124,
+        145,
+        165,
+        189,
+        274,
+        306,
+        389,
+        441,
+        455,
+        459,
+        490,
+        496
+      ]
+    },
+    "NCP": {
+      "n": 67,
+      "n_including_compounds": 70,
+      "lines": [
+        22,
+        88,
+        98,
+        102,
+        106,
+        110,
+        112,
+        114,
+        116,
+        124,
+        128,
+        137,
+        147,
+        149,
+        151,
+        155,
+        167,
+        168,
+        171,
+        173,
+        177,
+        181,
+        203,
+        246,
+        248,
+        264,
+        278,
+        298,
+        308,
+        310,
+        312,
+        316,
+        324,
+        333,
+        335,
+        343,
+        345,
+        358,
+        360,
+        370,
+        372,
+        381,
+        385,
+        389,
+        409,
+        417,
+        425,
+        427,
+        433,
+        443,
+        444,
+        445,
+        447,
+        455,
+        457,
+        459
+      ]
+    },
+    "Universal Narrative Model": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        102,
+        110,
+        487,
+        488,
+        491,
+        497
+      ]
+    },
+    "UNM": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        102,
+        106,
+        110,
+        112,
+        237,
+        264,
+        409
+      ]
+    },
+    "Model Context Protocol": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        102,
+        145,
+        493,
+        494,
+        498
+      ]
+    },
+    "MCP": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        102,
+        141,
+        145,
+        149,
+        155,
+        493,
+        494,
+        498
+      ]
+    },
+    "Narrative First": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        110,
+        222,
+        324,
+        467,
+        480,
+        481,
+        492,
+        504,
+        506
+      ]
+    },
+    "Subtxt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        152,
+        264,
+        312,
+        409,
+        476,
+        504,
+        505,
+        507
+      ]
+    },
+    "Storyform": {
+      "n": 34,
+      "n_including_compounds": 37,
+      "lines": [
+        90,
+        130,
+        134,
+        135,
+        151,
+        152,
+        168,
+        170,
+        177,
+        181,
+        185,
+        189,
+        191,
+        205,
+        213,
+        225,
+        233,
+        237,
+        244,
+        256,
+        262,
+        270,
+        278,
+        310,
+        314,
+        351,
+        358,
+        413,
+        415,
+        427,
+        429,
+        430,
+        431,
+        445,
+        505
+      ]
+    },
+    "Dynamics": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        191,
+        195,
+        199,
+        209,
+        213,
+        217,
+        220,
+        225,
+        235,
+        260,
+        281,
+        310
+      ]
+    },
+    "Storypoints": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        191,
+        195,
+        197,
+        199,
+        215,
+        229,
+        233,
+        235,
+        237,
+        244,
+        246,
+        248,
+        258,
+        260,
+        310,
+        358,
+        374,
+        429,
+        430
+      ]
+    },
+    "Storybeats": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        191,
+        195,
+        201,
+        252,
+        256,
+        258,
+        260,
+        264,
+        266,
+        270,
+        290,
+        310,
+        312,
+        374,
+        507
+      ]
+    },
+    "Resolve": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        282
+      ]
+    },
+    "Outcome": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        283
+      ]
+    },
+    "Judgment": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        283
+      ]
+    },
+    "Maintain": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        282
+      ]
+    },
+    "Relinquish": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        219,
+        223,
+        282
+      ]
+    },
+    "Release": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        223
+      ]
+    },
+    "Centered": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        223
+      ]
+    },
+    "Narrative Alignment": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        222,
+        326,
+        328,
+        457
+      ]
+    },
+    "Dopamin": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        222,
+        326,
+        333,
+        391
+      ]
+    },
+    "Serotonin": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        222,
+        326,
+        333,
+        391
+      ]
+    },
+    "Pyrrhussieg": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Story Driver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        288
+      ]
+    },
+    "Signposts": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        290,
+        378
+      ]
+    },
+    "External Framing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        239,
+        285
+      ]
+    },
+    "External Processing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Internal Processing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        241,
+        285
+      ]
+    },
+    "Internal Framing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        242
+      ]
+    },
+    "Authorial Intent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Subtext": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        126,
+        137,
+        169
+      ]
+    },
+    "Storytelling": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        126,
+        155,
+        167,
+        169,
+        360,
+        487,
+        488,
+        490,
+        491,
+        496,
+        497
+      ]
+    },
+    "thematische Leitplanken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Blockchain für Subtext": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Rosetta-Stein": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        364,
+        370,
+        393,
+        457
+      ]
+    },
+    "multi-agentischen Erzählsystemen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        345
+      ]
+    },
+    "Black Box": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        306,
+        390
+      ]
+    },
+    "Kontextpersistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        429
+      ]
+    },
+    "Contagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Preconditions": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Induction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Non-acceptance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Heldenreise": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        34,
+        171,
+        368,
+        378
+      ]
+    },
+    "Save the Cat": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        368
+      ]
+    },
+    "Drei-Akt-Struktur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        368,
+        379
+      ]
+    },
+    "Midpoint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        379
+      ]
+    },
+    "Ruf zum Abenteuer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        378
+      ]
+    }
+  }
+}

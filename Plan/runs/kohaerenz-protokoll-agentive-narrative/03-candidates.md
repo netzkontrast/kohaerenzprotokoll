@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German architecture report for the project as an agentive, LLM-driven interactive narrative; it reads the four narrative layers as Dramatica storyforms and maps them onto psychological and philosophical models, then proposes a schema, a prompt cascade, a symbolic overseer and a technology stack. Names of the world are Kael, AEGIS, Juna/V and Das Fundament. The reference list (L583 to L670) holds only titles and URLs and contributes no candidates. Concepts borrowed from named thinkers appear only as lens terms.
+
+- Kael
+- AEGIS
+- Juna/V
+- Juna
+- Das Fundament
+- Fundament
+- Kohärenz Protokoll
+- Narrative Kontext Protokoll
+- NCP
+- System-Dirigent
+- System-Dirigenten
+- Theorie der Narrativen Systemik
+- dramaturgischen Aufseher
+- Dramaturgische Aufseher
+- Aufseher
+- Prompt-Kaskade
+- worldState
+- interferenceRules
+- interferenceRule
+- Story Mind
+- Throughlines
+- State Analysis Prompt
+- Context Compression Prompt
+- Narrative Generation Prompt
+- State Update Prompt
+- activeFocalSystem
+- userModel
+- narrativeInstruction
+- Kael.integrationProgress
+- AEGIS.entropyLevel
+- AEGIS.protocolAdherence
+- JunaV.resonanceFrequency
+- Fundament.activeBinaryOpposition
+- Psychologische Ebene
+- Logisch-Systemische Ebene
+- Ontologische Ebene
+- Metaphysische Ebene
+- Semantische Drift
+- Kontextfenster-Kollaps
+- Inter-Agenten-Fehlausrichtung
+- Zustands-Audits
+- narrative Gravitationsmechanik
+- Decaying-Resolution Memory
+- Geführter Abruf
+- Geführte Korrektur
+- Harte Zurückweisung
+- Hybridarchitektur
+- Constraint Solver
+- Answer Set Programming
+- ASP
+- clingo
+- Retrieval-Augmented Generation
+- RAG
+- Desire Paths
+- SCORE-Framework
+- LangGraph
+- Redis
+- MongoDB
+
+## lens
+
+- Dramatica
+- Jungsche Schattenintegration
+- Schatten
+- Internal Family Systems
+- IFS
+- Manager
+- Firefighter
+- Exiles
+- Selbst
+- verwundeten Heilers
+- Morphische Resonanz
+- Transzendentalismus
+- Über-Seele
+- Lévi-Strauss'scher Strukturalismus
+- Mythemen
+- binären Oppositionen
+- Perceive-Analyze-Plan-Act
+- Agent Drift

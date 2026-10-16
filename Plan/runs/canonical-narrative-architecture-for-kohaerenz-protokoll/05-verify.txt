@@ -1,0 +1,67 @@
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "Canonical Resolution"
+whole word, case-sensitive     5
+whole word, case-insensitive   9
+including compounds            5
+
+`Canonical Resolution` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#5]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "canonical resolution"
+whole word, case-sensitive     4
+whole word, case-insensitive   9
+including compounds            5
+
+`canonical resolution` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#4]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "Rationale and Grounding"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Rationale and Grounding` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#4]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "The Contradiction"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`The Contradiction` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#4]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#0]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`chapter` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#0]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "System Kael"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`System Kael` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#3]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "Story 22"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Story 22` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#2]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "Story 25"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Story 25` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#2]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "Story 29"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Story 29` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#1]
+$ read.py canonical-narrative-architecture-for-kohaerenz-protokoll --count "TSDP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`TSDP` ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:#3]
+sum of four markers 5+4+4+4=17

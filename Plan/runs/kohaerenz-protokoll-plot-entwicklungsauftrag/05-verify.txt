@@ -1,0 +1,63 @@
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "Setting"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Setting` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "Aktion"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Aktion` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#5]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "Narrative Manifestation"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Narrative Manifestation` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#6]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "AEGIS' Beobachtung/Scheitern"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`AEGIS' Beobachtung/Scheitern` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "könnte"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            20
+
+`könnte` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#16]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "möglicherweise"
+whole word, case-sensitive     13
+whole word, case-insensitive   14
+including compounds            13
+
+`möglicherweise` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#13]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "vielleicht"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`vielleicht` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#13]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-plot-entwicklungsauftrag --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:#0]
+stance_marker_count = 4 + 5 + 6 + 4 = 19
+$ sed -n 266,330p Sources/drive/kohaerenz-protokoll-plot-entwicklungsauftrag.md | grep -c '^[0-9][0-9]*\. '
+65

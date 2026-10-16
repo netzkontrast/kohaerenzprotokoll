@@ -1,0 +1,266 @@
+{
+  "document": "analyse-der-leere-und-existenz",
+  "drive_id": "1A9w-QyeLvu6JxWN3Z0c5gvhVhQrHvPl_EIGM6GeoaOI",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 6,
+  "backslash_escapes": 100,
+  "typographic_marks": 608,
+  "ascii_quotes": 34,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstbeschränkung",
+      "Selbstempfinden",
+      "Selbsterhaltung",
+      "Selbsterhaltungstrieb",
+      "Selbsterlebens",
+      "Selbstoptimierung",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbstverständnis",
+      "Selbstverstärkende",
+      "Selbstverstümmelung",
+      "Selbstzerstörung"
+    ],
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systemgrenze",
+      "Systemischer",
+      "Systemlogik",
+      "Systemrauschen",
+      "Systems",
+      "Systemschwäche",
+      "Systemversagen",
+      "Systemverständnisses"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsaustausch",
+      "Informationschaos",
+      "Informationsfragment",
+      "Informationsfragments",
+      "Informationstheoretisches"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisformen",
+      "Erkenntnisgrenze",
+      "Erkenntnisse",
+      "Erkenntnisweisen"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "grund": [
+      "Grund",
+      "Grundannahmen",
+      "Grundlage",
+      "Grundlagen",
+      "Grundlegung"
+    ],
+    "konst": [
+      "Konstitution",
+      "Konstruiertheit",
+      "Konstruktion",
+      "Konstruktionsprozess",
+      "Konstrukts"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollmechanismen",
+      "Kontrollstrebens",
+      "Kontrollverlust"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmas",
+      "Paradoxe",
+      "Paradoxie",
+      "Paradoxon"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzeigenschaften",
+      "Resonanzen",
+      "Resonanzkaskade",
+      "Resonator"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmische",
+      "Algorithmischer",
+      "Algorithmus"
+    ],
+    "clust": [
+      "Cluster",
+      "Clusterbildung",
+      "Clustern",
+      "Clusters"
+    ],
+    "entwi": [
+      "Entwicklung",
+      "Entwicklungen",
+      "Entwicklungsetappen",
+      "Entwicklungsstadium"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalisierung",
+      "Funktionalität",
+      "Funktionseinheit"
+    ],
+    "kohär": [
+      "Kohärenz",
+      "Kohärenzerhaltung",
+      "Kohärenzfeld",
+      "Kohärenzsteigerung"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomenologie"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebenen",
+      "Realitätsmodell"
+    ],
+    "signa": [
+      "Signal",
+      "Signale",
+      "Signatur",
+      "Signaturen"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturbildung",
+      "Strukturen",
+      "Strukturinformation"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Unterscheidungen",
+      "Untersuchung"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erleb": [
+      "Erleben",
+      "Erlebens",
+      "Erlebensweise"
+    ],
+    "gesch": [
+      "Gescheiterter",
+      "Geschichte",
+      "Geschlossenheit"
+    ],
+    "grenz": [
+      "Grenzbegriff",
+      "Grenze",
+      "Grenzen"
+    ],
+    "indiv": [
+      "Individuelle",
+      "Individuellen",
+      "Individuum"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Echo",
+      "Echokammer"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formbewahrung"
+    ],
+    [
+      "Form",
+      "Formlosigkeit"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Desinformation"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Erkenntnisformen"
+    ],
+    [
+      "Form",
+      "Informationschaos"
+    ],
+    [
+      "Form",
+      "Strukturinformation"
+    ],
+    [
+      "Form",
+      "Informationsfragment"
+    ],
+    [
+      "Form",
+      "Informationsaustausch"
+    ]
+  ]
+}

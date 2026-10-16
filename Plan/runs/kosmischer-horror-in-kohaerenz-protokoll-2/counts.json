@@ -1,0 +1,418 @@
+{
+  "document": "kosmischer-horror-in-kohaerenz-protokoll-2",
+  "drive_id": "1bXoBmSvaQQRiEsxYRK-9n04PYT12YtZQVwgVXHbopSs",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        13,
+        19,
+        64,
+        196,
+        202
+      ]
+    },
+    "KP": {
+      "n": 12,
+      "n_including_compounds": 19,
+      "lines": [
+        13,
+        68,
+        70,
+        78,
+        137,
+        166,
+        170,
+        171,
+        185,
+        186,
+        187,
+        191,
+        192,
+        200
+      ]
+    },
+    "NZT-Direktive": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        202
+      ]
+    },
+    "Potentialmeer": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        79,
+        84,
+        86,
+        90,
+        104,
+        130,
+        141,
+        147,
+        153,
+        158,
+        159,
+        175,
+        176,
+        187,
+        196
+      ]
+    },
+    "AEGIS": {
+      "n": 27,
+      "n_including_compounds": 27,
+      "lines": [
+        79,
+        80,
+        85,
+        94,
+        99,
+        103,
+        104,
+        112,
+        113,
+        130,
+        131,
+        142,
+        145,
+        148,
+        153,
+        154,
+        158,
+        159,
+        160,
+        170,
+        186,
+        187,
+        192,
+        196
+      ]
+    },
+    "Monstergruppe M": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81,
+        196
+      ]
+    },
+    "Monstergruppe (M)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Monstergruppe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        81,
+        108,
+        196
+      ]
+    },
+    "Kael": {
+      "n": 11,
+      "n_including_compounds": 19,
+      "lines": [
+        82,
+        113,
+        117,
+        121,
+        122,
+        145,
+        147,
+        149,
+        153,
+        159,
+        170,
+        180,
+        181,
+        186,
+        196
+      ]
+    },
+    "Kaels": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        121,
+        122,
+        147,
+        149,
+        153,
+        170,
+        196
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        117,
+        121
+      ]
+    },
+    "Kael/Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        117
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        82,
+        83,
+        122,
+        181
+      ]
+    },
+    "Kernwelten": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        84,
+        94,
+        141,
+        142,
+        186
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        126,
+        130
+      ]
+    },
+    "Wissensgrenzen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        126
+      ]
+    },
+    "Einbrüche des Unmöglichen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Der Horror der Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Maschinen-Grauen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Cosmic Horror": {
+      "n": 33,
+      "n_including_compounds": 41,
+      "lines": [
+        11,
+        13,
+        15,
+        19,
+        24,
+        30,
+        31,
+        37,
+        42,
+        64,
+        68,
+        70,
+        78,
+        94,
+        112,
+        130,
+        137,
+        158,
+        166,
+        170,
+        175,
+        185,
+        187,
+        196,
+        202,
+        207,
+        212,
+        213,
+        214,
+        215,
+        219,
+        220,
+        223,
+        225,
+        226,
+        227,
+        228
+      ]
+    },
+    "Kosmische Gleichgültigkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Verbotenes Wissen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        80,
+        82,
+        86
+      ]
+    },
+    "Verbotenem Wissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Existenzielle Angst": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        86,
+        147
+      ]
+    },
+    "Existenzieller Angst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Fragilität der Realität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        141,
+        196
+      ]
+    },
+    "Machtlosigkeit": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        59,
+        80,
+        82,
+        85,
+        121,
+        160,
+        180
+      ]
+    },
+    "Vergeblichkeit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        59,
+        62,
+        85,
+        131,
+        160
+      ]
+    },
+    "Fremde Intelligenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Fremden Intelligenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Uncanny Valley KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Dread": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        39,
+        41,
+        42,
+        81,
+        113,
+        219,
+        225
+      ]
+    },
+    "Agency": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        178,
+        180
+      ]
+    },
+    "Tonale Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Atmosphäre & Suggestion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Körper-/Geist-Horror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        121
+      ]
+    }
+  }
+}

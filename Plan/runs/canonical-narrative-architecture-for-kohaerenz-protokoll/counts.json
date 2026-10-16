@@ -1,0 +1,473 @@
+{
+  "document": "canonical-narrative-architecture-for-kohaerenz-protokoll",
+  "drive_id": "1VGKU2Pq5cjsA_kIcekGOrx9m7iVNisv3ePqj6kmT-RQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 37,
+      "n_including_compounds": 37,
+      "lines": [
+        25,
+        27,
+        33,
+        34,
+        35,
+        36,
+        40,
+        62,
+        63,
+        67,
+        75,
+        79,
+        85,
+        86,
+        87,
+        91,
+        103,
+        115,
+        125,
+        126,
+        127,
+        136,
+        137,
+        138
+      ]
+    },
+    "System Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        27,
+        126
+      ]
+    },
+    "AEGIS": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        36,
+        42,
+        48,
+        55,
+        61,
+        62,
+        63,
+        67,
+        79,
+        86,
+        91,
+        99,
+        110,
+        126,
+        127,
+        137
+      ]
+    },
+    "Guardians": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        91,
+        93,
+        99,
+        103,
+        126,
+        127,
+        139
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Juna/V connection": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "The Foundation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Rebel Guardian": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        111,
+        139
+      ]
+    },
+    "rebel Guardians": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        126,
+        127
+      ]
+    },
+    "Story 22": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        110,
+        139
+      ]
+    },
+    "Story 25": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        139
+      ]
+    },
+    "Story 29": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Genesis-Krise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        137
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Einsamkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Sehnsucht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Wächter-Zwiespalt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Guardian's Dilemma": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        97,
+        99,
+        101,
+        103,
+        126,
+        139
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        50,
+        55,
+        63,
+        127,
+        137
+      ]
+    },
+    "Algorithmic Melancholy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        53
+      ]
+    },
+    "living Gödel-Satz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        62,
+        127,
+        137
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        127,
+        137
+      ]
+    },
+    "functional multiplicity": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        85,
+        125,
+        136
+      ]
+    },
+    "ANP-EP Phobia": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        125,
+        136
+      ]
+    },
+    "ANP-EP Phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        40,
+        125
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        40,
+        125
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        27,
+        33,
+        34,
+        40,
+        136
+      ]
+    },
+    "epistemological blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "logical self-harm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        61
+      ]
+    },
+    "psycho-ontological confrontation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        138
+      ]
+    },
+    "Internal Psycho-Ontological Confrontation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Three-Act Canonical Structure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Act I": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        125,
+        126,
+        127
+      ]
+    },
+    "Act II": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        126,
+        127
+      ]
+    },
+    "Act III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Hypothesis A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Hypothesis B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Tertiary Structural Dissociation of the Personality": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "IFS": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        125,
+        136
+      ]
+    },
+    "Heroine's Journey": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "strange attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "gnosis": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        87,
+        138
+      ]
+    },
+    "episteme": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        138
+      ]
+    },
+    "qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        137
+      ]
+    }
+  }
+}

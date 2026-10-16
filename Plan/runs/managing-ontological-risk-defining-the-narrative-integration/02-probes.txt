@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      46
+  typographic marks      54
+  ascii quotes           50
+
+# inflection families -- one term, several surfaces
+  achie    Achievement, Achieving
+  artef    Artefact, Artefacts
+  direc    Direct, Directly
+  inter    Internal, Intervention
+  mitig    Mitigating, Mitigation
+  proto    Protocol, Protokoll
+  strat    Strategic, Strategy
+
+# substring pairs -- never one term, often merged by accident
+  Direct < Directly
+  Earned < Unearned
+  Artefact < Artefacts

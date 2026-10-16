@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 9
-readings: 9
+sources: 12
+readings: 12
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -62,6 +62,18 @@ In this document the `Personas` are Kael's inner parts, not instances watched ov
 ## Reading — `kohaerenz-protokoll-spannungsfelder-vertiefen`, 2025-04-28, the tension-points analysis — Personas modelled on IFS, and their unclear ontology
 
 The tension-points analysis takes Kael's Personas as „modelliert nach psychologischen Theorien wie Internal Family Systems“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L23]. It supposes that they react to Juna differently: „Kaels innere Zerrissenheit spiegelt sich in den Reaktionen seiner Personas auf Juna wider“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L100]. Under „Ontologie der Personas“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L111] it asks whether they are real sub-personalities or functional states, and says: „Ihre ontologische Natur ist unklar und Quelle von Konflikten“ ^[kohaerenz-protokoll-spannungsfelder-vertiefen.md:L111].
+
+## Reading — `kael-uberarbeitung-des-konzepts-unter-tsdp`, 2025-04-28, the TSDP revision of Kael — the Personas re-mapped onto ANP and EP roles
+
+The TSDP revision proposes in section 3, headed Re-Mapping der `Personas` „auf ANP/EP-Rollen“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L35], that the earlier Personas „werden nun primär als Manifestationen von ANPs und EPs“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L37] interpreted (or complexes of them). In the profile the complexity of the Personas is explained by the dissociation „gekennzeichnet durch multiple ANPs und multiple EPs, was die Komplexität seiner“ ^[kael-uberarbeitung-des-konzepts-unter-tsdp.md:L22] Personas.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — the Personas distributed over the Kernwelten
+
+The logline analysis states Kael as „fragmentiert in Personas/Anteile über Kernwelten verteilt“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L80]. It proposes viewing them as parts with good intentions: „Seine Personas als 'Teile' mit potenziell positiven Absichten zu betrachten“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L82].
+
+## Reading — `tsdp-analyse-kaels-innere-welt`, 2025-04-28, the TSDP analysis of Kael's inner world — Kael's inner Personas read as manifestations of dissociated parts
+
+The report fixes how it reads the term: „Die Analyse interpretiert Kaels innere“ ^[tsdp-analyse-kaels-innere-welt.md:L19] `Personas` (the word stands in nested quotation marks on the line) „konsequent als Manifestationen dissoziierter Anteile im Sinne der TSDP.“ ^[tsdp-analyse-kaels-innere-welt.md:L19] The scope is the TSDP applied to the supplied character information, no more.
 
 ## Reading — `kohaerenz-protokoll-narrative-architektur-2`, 2025-07-29, the system plan — the Personas as AEGIS's isolated data caches
 

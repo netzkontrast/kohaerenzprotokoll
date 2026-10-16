@@ -1,0 +1,124 @@
+{
+  "document": "narrative-context-protocol-ncp-spezifikation",
+  "drive_id": "1vCVfo6_vxaw0kHHUteedKI6oLmz1KnomYTSiQOs6DoM",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list — one candidate written with a comma went uncounted, explained in the census; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-412/brief.md, 2026-10-13, from Part I only; the document was first held back by a privacy screen on the word „Paar“ and released when the hit proved to be Dramatica's dynamic pair",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 83,
+    "decisions": 78,
+    "decided_by_lookup": 66,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A specification proposal for a narrative engine: its new surfaces are its own schema, components and the Dramatica vocabulary; the value sets its Table 1 assigns to Kael, AEGIS and Juna/V went on kael, aegis and juna.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        27,
+        30,
+        41,
+        51,
+        53,
+        54,
+        56,
+        57,
+        60,
+        61
+      ],
+      "attribution": "",
+      "note": "AEGIS as the Obstacle Character subsystem in a proposed Dramatica table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        25,
+        30,
+        51,
+        53,
+        54,
+        55,
+        56,
+        57,
+        60,
+        61
+      ],
+      "attribution": "",
+      "note": "Juna/V as the Objective Story subsystem in a proposed Dramatica table"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        26,
+        30,
+        45,
+        51,
+        55,
+        56,
+        57,
+        60,
+        61,
+        63,
+        71
+      ],
+      "attribution": "",
+      "note": "Kael as the Main Character subsystem in a proposed Dramatica table"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Juna/V` read on juna; `Das Fundament`/`DasFundament` one subsystem, no page; the schema field names and the Dramatica pairs the white paper's own vocabulary; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 75,
+      "decision": "occurrence",
+      "why": "emergence in the white paper's general sense"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 30,
+      "decision": "reading",
+      "why": "the subsystem Juna/V, read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "simulation in the software sense"
+    }
+  ],
+  "not_promoted": [
+    "Narrative Context Protocol, Das Fundament, Dramaturgischer Aufseher, activeFocalSystem and the other schema fields, the prompt cascade, and the Dramatica vocabulary"
+  ],
+  "internal_tension": "it calls each subsystem a full storyform with four internal throughlines (L30) but gives each one value set (L51–L61), recorded in the note; its example of a diagonal pair puts Faith with Kael and Disbelief with AEGIS (L71), while its Table 1 gives the Issue Faith vs. Disbelief to Juna/V (L55), recorded on kael. Against decision 025 its values differ (Kael Mind/Conscious, AEGIS Physics, Juna/V Universe, Das Fundament Psychology); the document predates the decision, so the difference is recorded here and no question is raised",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

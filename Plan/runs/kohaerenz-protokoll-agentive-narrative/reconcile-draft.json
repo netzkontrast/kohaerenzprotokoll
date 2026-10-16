@@ -1,0 +1,113 @@
+{
+  "document": "kohaerenz-protokoll-agentive-narrative",
+  "drive_id": "1owe7uOMZe--SNvvgyP9qTSA4ca1Co8jayRA29w6MQms",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 76,
+    "decided_by_lookup": 58,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        57,
+        62,
+        92,
+        302
+      ],
+      "attribution": "",
+      "note": "AEGIS as a layer, a damage model and a state variable of a software design"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        57,
+        62,
+        102,
+        303
+      ],
+      "attribution": "",
+      "note": "Juna/V as the ontological layer of a design proposal"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        57,
+        62,
+        80,
+        299
+      ],
+      "attribution": "",
+      "note": "Kael as the psychological layer of a design proposal"
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        525
+      ],
+      "attribution": "",
+      "note": "four layers, each given its own interface"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 62,
+      "decision": "occurrence",
+      "why": "a cell of the Dramatica table"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 525,
+      "decision": "reading",
+      "why": "the four layers as reality levels; read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 435,
+      "decision": "occurrence",
+      "why": "simulation of automated play-throughs"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

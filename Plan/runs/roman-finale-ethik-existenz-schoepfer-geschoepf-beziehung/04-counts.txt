@@ -1,0 +1,71 @@
+# counts for 56 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             35 word    52 in   [22, 28, 36, 40, 44, 46]
+                                   15      as Kaels
+                                    2      as Kael-
+  System Kael                       2 word     2 in   [22, 44]
+  AEGIS                            15 word    15 in   [24, 74, 76, 84, 85, 108]
+  Lex                               2 word     2 in   [74, 167]
+  Nyx                               2 word     2 in   [74, 167]
+  Kiko                              1 word     1 in   [167]
+  Unit 734                          1 word     1 in   [166]
+  Gärtner                           7 word    13 in   [13, 46, 48, 60, 61, 82]
+                                    3      as Gärtnern
+                                    2      as Gärtnerns
+                                    1      as Gärtners
+                                    1      as gärtnerische
+  Gärtnerns                         2 word     2 in   [48, 138]
+  Schöpfer-Beobachter               2 word     2 in   [28, 96]
+  Schöpfer-Geschöpf-Beziehung       3 word     3 in   [26, 100, 104]
+  funktionalen Multiplizität        1 word     1 in   [72]
+  funktionale Multiplizität         1 word     1 in   [167]
+  Kuratierten Immanenz              8 word     8 in   [26, 62, 87, 130, 146, 150]
+  Philosophie der Kuratierten Immanenz    3 word     3 in   [146, 150, 179]
+  permeablen vierten Wand           1 word     1 in   [92]
+  permeable vierte Wand             1 word     1 in   [128]
+  vergifteten Goldes                1 word     1 in   [156]
+  Gabe des Traumas                  1 word     1 in   [76]
+  unerträgliche Wahl                1 word     1 in   [132]
+  dissonante Resonanz               1 word     1 in   [180]
+  Nichts Rauschen                   1 word     1 in   [168]
+  algorithmischer Melancholie       1 word     1 in   [168]
+  inneren Ratsversammlung           1 word     1 in   [167]
+  Die Gärten der gefallenen Götter    1 word     1 in   [166]
+  Der Rat der Vielen                1 word     1 in   [167]
+  Das Echo der Leere                1 word     1 in   [168]
+  Welt-Kuration                     1 word     1 in   [150]
+  ineffiziente Schönheit            1 word     1 in   [156]
+  Der stille Dialog                 2 word     2 in   [124, 134]
+  Der Pakt des Bewusstseins         1 word     1 in   [112]
+  Wächter-Panzer                    1 word     1 in   [166]
+  narrativen Entropie               0 word     0 in   []
+  Der offene Kreis                  1 word     1 in   [180]
+  Die Frage an den Schöpfer         1 word     1 in   [178]
+  Der Akt der Schöpfung             1 word     1 in   [179]
+  Die letzte Geste                  1 word     1 in   [172]
+  Absurdismus                       4 word     4 in   [26, 36, 56, 188]
+  Das Absurde                       2 word     2 in   [44, 83]
+  Revolte                           6 word     6 in   [46, 48, 84]
+  Logotherapie                     15 word    15 in   [26, 36, 52, 56, 188, 200]
+                                    1      as logotherapie-und-existenzanalyse
+                                    1      as logotherapie-viktor-frankl
+                                    1      as logotherapie-nach-viktor-frankl
+  Einstellungswerte                 2 word     3 in   [60, 85]
+                                    1      as Einstellungswertes
+  Schöpferische Werte               2 word     2 in   [61, 86]
+  Erlebniswerte                     3 word     3 in   [62, 87]
+  Selbst-Transzendenz               2 word     2 in   [64, 88]
+  Strukturellen Dissoziation        1 word     1 in   [26]
+  TSDP                              1 word     1 in   [26]
+  Negentropie                       5 word     5 in   [26, 118, 120, 223]
+  Imago Fictoris                    1 word     1 in   [106]
+  esse est percipi                  1 word     1 in   [116]
+  Wabi-Sabi                         6 word     6 in   [62, 76, 84, 152, 156, 166]
+  Komorebi                          4 word     4 in   [62, 87, 154, 179]
+  Mono no aware                     2 word     2 in   [153, 156]
+  Kintsugi                          2 word     2 in   [76, 156]
+  Zen                               1 word     2 in   [150, 203]
+  Stoizismus                        1 word     1 in   [150]

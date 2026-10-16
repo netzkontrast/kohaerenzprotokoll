@@ -1,0 +1,416 @@
+{
+  "document": "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 50,
+  "decisions": 50,
+  "same_surface": {},
+  "decided_mechanically": 28,
+  "needs_judgement": 22,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 377
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 329
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 389
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 173
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 211
+      },
+      {
+        "candidate": "Telefon-Stille",
+        "page": "telefon-stille",
+        "readings": 35
+      },
+      {
+        "candidate": "Funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 167
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "System-Telemetrie"
+      },
+      {
+        "candidate": "Storyform A POV"
+      },
+      {
+        "candidate": "Storyform B POV"
+      },
+      {
+        "candidate": "Storyforms"
+      },
+      {
+        "candidate": "Dual-POV"
+      },
+      {
+        "candidate": "Modi"
+      },
+      {
+        "candidate": "Drifts"
+      },
+      {
+        "candidate": "Lücken"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "CFP"
+      },
+      {
+        "candidate": "Bilanz-Anomalie"
+      },
+      {
+        "candidate": "anomale Temperatur"
+      },
+      {
+        "candidate": "langsam fallender Staub"
+      },
+      {
+        "candidate": "Resonanzbruch"
+      },
+      {
+        "candidate": "Mosaik-Ahnung"
+      },
+      {
+        "candidate": "Witness-Funktion"
+      },
+      {
+        "candidate": "Pacing-Profil"
+      },
+      {
+        "candidate": "Foreshadowing-Architektur"
+      },
+      {
+        "candidate": "Kap 7"
+      },
+      {
+        "candidate": "Kapitel 13"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Alter  /  POV-Alternation pro Kapitel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Alter-Surface-Timeline",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna seeding",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Seeding-Layer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna seeding  /  Juna-Seeding-Layer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "taktische Polyphonie  /  Akt I",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "praktizierter Dialetheismus  /  Akt I",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kap 1  /  Kap 11",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kap 1  /  Kap 13",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kap 2  /  Kap 23",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kap 2  /  Kap 27",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kap 3  /  Kap 33",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Multiplizitäts-Schleier",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Echos",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragment",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna seeding",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Schrein",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vergessenerschrein",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "Garten",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenpraesenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "moeglichkeitsgarten",
+            "page": "moeglichkeits-garten"
+          },
+          {
+            "surface": "moglichkeitsgarten",
+            "page": "moeglichkeits-garten"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter-Surface-Timeline",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Seeding-Layer",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

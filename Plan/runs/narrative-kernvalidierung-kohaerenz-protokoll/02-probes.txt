@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      16
+  backslash escapes      28
+  typographic marks      64
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systeme, Systemeigenschaft, Systemen, Systemfehler, Systemhalts, Systeminstabilität, Systemisch, Systemkollaps, Systemkorruption, Systemlähmung, Systemprotokolle, Systems, Systemstabilität, Systemverhalten, Systemversagens
+  daten    Daten, Datenbanken, Datenfragment, Datengewinnung, Dateninkonsistenz, Datenkonflikt, Datenpunkt, Datenpunkte, Datenquelle, Datenstrom, Datenströme, Datensätzen, Datenverarbeitung
+  chara    Charakter, Charakterauflösung, Charakterbögen, Charakterdrama, Charaktere, Charakterentwicklung, Charaktererfahrungen, Charakterhandlungen, Charakterpotenzial, Charakterreise, Charakterverankerung
+  reali    Realisierung, Realität, Realitäten, Realitäts, Realitätsbrüche, Realitätsgestaltung, Realitätsglitch, Realitätssimulation, Realitätsverzerrungen, Realitätsveränderungen
+  kontr    Kontrapunkt, Kontrast, Kontrolle, Kontrollinstanz, Kontrolllogik, Kontrollmechanismen, Kontrollstrategie, Kontrollversuche
+  simul    Simulation, Simulationen, Simulationsfehler, Simulationstheorie, Simulationsumgebung, Simulationszusammenbruchs, Simulationsüberwachung
+  analy    Analyse, Analyseansatz, Analysemethoden, Analysen, Analyseobjekt, Analyseversuche
+  konze    Konzept, Konzepte, Konzepten, Konzepts, Konzeptuelle, Konzeptueller
+  parad    Paradigma, Paradigmenwechsel, Paradoxie, Paradoxien, Paradoxon, Paradoxons
+  psych    Psyche, Psycho, Psychological, Psychologie, Psychology, Psychotherapy
+  selbs    Selbst, Selbstbezüglichkeit, Selbstdefinition, Selbstführung, Selbstkorrekturschleifen, Selbsttäuschung
+  zusta    Zustand, Zustands, Zustandsaustausch, Zustandsaustauschs, Zustandsmarker, Zustandsänderung
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungsspielraum, Handlungsstränge
+  infor    Information, Informations, Informationsmuster, Informationsquellen, Informationsübertragung
+  inter    Interaktion, Interaktionen, Intern, Internal, Internet
+  kausa    Kausalität, Kausalitätsanomalie, Kausalitätsmodell, Kausalitätsprinzipien, Kausalitätsverständnis
+  model    Model, Modell, Modelle, Modellen, Modells
+  poten    Potentialmeer, Potentialmeers, Potenzial, Potenzials, Potenzielle
+  quant    Quanten, Quantenmechanik, Quantenphänomene, Quantenzustände, Quantum
+  schlü    Schlüssel, Schlüsselelement, Schlüsselkonzepte, Schlüsselsequenz, Schlüsselsequenzen
+  theor    Theorem, Theoreme, Theoremen, Theorems, Theory
+  verst    Verstand, Versteht, Verständnis, Verständnisebene, Verständnisses
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widersprüchliche, Widerstand
+  zusam    Zusammenbruch, Zusammenbruchs, Zusammenfassung, Zusammenprall, Zusammenstoß
+  emerg    Emergence, Emergent, Emergenz, Emergenztheorie
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Abstrakte
+  Akte < Charakter
+  Akte < Charaktere
+  Akte < Charakterbögen
+  Akte < Charakterdrama
+  Akte < Charakterreise
+  Akte < Charakterauflösung
+  Akte < Charakterpotenzial
+  Akte < Charakterhandlungen
+  Akte < Charakterentwicklung
+  Akte < Charaktererfahrungen
+  Akte < Charakterverankerung
+  Alle < Falle
+  Bell < Tabelle
+  Bild < Bilder
+  Bild < Spiegelbild
+  Code < Codex
+  Dies < Diese
+  Dies < Dieser
+  Eine < Seine

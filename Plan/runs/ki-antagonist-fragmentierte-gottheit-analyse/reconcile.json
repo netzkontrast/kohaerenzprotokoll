@@ -1,0 +1,216 @@
+{
+  "document": "ki-antagonist-fragmentierte-gottheit-analyse",
+  "drive_id": "1VVO69Rh9H-FZECqJnlRvXqR6aq8exdweZGTODVc1THg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-443/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be an analysis of AEGIS whose Wächter are the Guardians",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 68,
+    "decisions": 72,
+    "decided_by_lookup": 57,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A psychogram of AEGIS through trauma-psychology models: its new surfaces are the Ursprungs-Ich, the Gott der Ordnung, the Genesis-Konflikt and -Krise, the Cerberus-Labyrinth, the Guardian EPs, the core operating system, legacy code, Eros and Abyssos, the Leere, System Kael and borrowed concepts; what it models for AEGIS, Kael, Selene, Cerberus, the Guardians, the Kernwelten, the Logos, multiplicity, the theory, the Genesis, the Risse and the Nichts-Rauschen went on existing pages, and the shared origin on C16.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        22,
+        30,
+        56,
+        74,
+        84,
+        101,
+        161,
+        174,
+        186,
+        196,
+        199
+      ],
+      "attribution": "",
+      "note": "AEGIS read through trauma-psychology models"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        88,
+        90,
+        184
+      ],
+      "attribution": "",
+      "note": "Cerberus as functional psychosis"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        18,
+        22,
+        86
+      ],
+      "attribution": "",
+      "note": "the Genesis conflict as a lasting scar"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        80,
+        84,
+        151
+      ],
+      "attribution": "",
+      "note": "the Guardians as functional exiles"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        56,
+        147,
+        171,
+        174,
+        184,
+        186,
+        196,
+        199,
+        203
+      ],
+      "attribution": "",
+      "note": "Kael as the mirror of AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        88,
+        138,
+        139
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as prisons and sandboxes"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        174,
+        214
+      ],
+      "attribution": "",
+      "note": "a pathological Logos against Eros"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        171,
+        194,
+        214
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as Kael's path"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the Leere as source of a chaotic noise"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        147,
+        153
+      ],
+      "attribution": "",
+      "note": "Risse as failures of dissociative barriers"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "Selene as a possible bridge"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        32,
+        66,
+        74
+      ],
+      "attribution": "",
+      "note": "TSDP as the borrowed frame"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `Cerberus-Labyrinth` on cerberus; `Wächter` and `Wächter der Kernwelten` the Guardians, read on guardians, not the Wächter der systemischen Stabilität; `Genesis-Konflikt` and `Genesis-Krise` read on genesis; `Risse in der Simulation` on risse; `Nichts Rauschens` on nichts-rauschen; `Kohärenz Protokoll` AEGIS's directive name",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 138,
+      "decision": "occurrence",
+      "why": "signatures of high entropy in the general sense"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 18,
+      "decision": "reading",
+      "why": "the scar of the Genesis as AEGIS's core trauma"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 221,
+      "decision": "occurrence",
+      "why": "a reference-list title"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "AEGIS's directive name"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 147,
+      "decision": "reading",
+      "why": "the Risse as failures of AEGIS's dissociative barriers"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 147,
+      "decision": "occurrence",
+      "why": "simulation inside the Risse phrase"
+    }
+  ],
+  "not_promoted": [
+    "Ursprungs-Ich, Gott der Ordnung, Genesis-Konflikt, Genesis-Krise, Cerberus-Labyrinth, Wächter-EPs, Kernbetriebssystem, Legacy-Code, Eros, Abyssos, Leere, System Kael, ANP/EP, the defence mechanisms, Sandbox/Firewall, and the borrowed concepts"
+  ],
+  "internal_tension": "it offers three endings without choosing (L196, L199); Juna appears only in a reference title (L221) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

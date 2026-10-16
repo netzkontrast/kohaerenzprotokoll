@@ -1,0 +1,309 @@
+{
+  "document": "monstergruppe-primzahlen-plot-neukonstruktion",
+  "drive_id": "141lW6EphPL2E35h_xTBprW-D_ghRETvkn5TL5b92f5k",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 64,
+  "backslash_escapes": 73,
+  "typographic_marks": 22,
+  "ascii_quotes": 82,
+  "inflection_families": {
+    "analy": [
+      "Analyse",
+      "Analyseberichte",
+      "Analyseframework",
+      "Analysemethode",
+      "Analysemethoden",
+      "Analysen",
+      "Analyseparadigma",
+      "Analyseprotokoll",
+      "Analyseumgebung",
+      "Analysewerkzeug",
+      "Analysis"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationseffekte",
+      "Simulationsgewebe",
+      "Simulationsinstabilität",
+      "Simulationsintegrität",
+      "Simulationsmechanik",
+      "Simulationsparameter",
+      "Simulationsphysik",
+      "Simulationssubstrat",
+      "Simulationsverhalten",
+      "Simulationszusammenbruch"
+    ],
+    "syste": [
+      "System",
+      "Systemdynamiken",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemintegrität",
+      "Systemkomponente",
+      "Systemlogs",
+      "Systemparadoxons",
+      "Systemprotokoll",
+      "Systems"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenfragment",
+      "Datenmuster",
+      "Datenpunkt",
+      "Datenrauschen",
+      "Datensatz",
+      "Datenstruktur",
+      "Datenströme",
+      "Datenübertragung"
+    ],
+    "fakto": [
+      "Faktor",
+      "Faktoren",
+      "Faktorisierbarkeit",
+      "Faktorisierung",
+      "Faktorisierungs",
+      "Faktorisierungslogik",
+      "Faktorisierungsmetapher",
+      "Faktorisierungsrisse",
+      "Faktorisierungsversuch",
+      "Faktorisierungsversuche"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsfilter",
+      "Realitätsmatrix",
+      "Realitätsstabilisierung",
+      "Realitätsverzerrungen",
+      "Realitätszusammenbruch"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzkaskade",
+      "Resonanzmuster",
+      "Resonanzphysik",
+      "Resonanzphänomene",
+      "Resonanzsignatur",
+      "Resonanzspitzen",
+      "Resonating"
+    ],
+    "eindä": [
+      "Eindämmung",
+      "Eindämmungsbemühungen",
+      "Eindämmungsfeldintegrität",
+      "Eindämmungsprotokoll",
+      "Eindämmungsprotokolle",
+      "Eindämmungsstrategien",
+      "Eindämmungstechnologie"
+    ],
+    "reche": [
+      "Rechenartefakt",
+      "Rechenexperiment",
+      "Rechenfehler",
+      "Rechengrenzen",
+      "Rechenlast",
+      "Rechenleistung",
+      "Rechenproblem"
+    ],
+    "integ": [
+      "Integer",
+      "Integral",
+      "Integrating",
+      "Integration",
+      "Integrationsfortschritt",
+      "Integrationsideen"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modelliere",
+      "Modellierung"
+    ],
+    "physi": [
+      "Physics",
+      "Physik",
+      "Physikanomalien",
+      "Physikfluktuationen",
+      "Physikkonzepte",
+      "Physikmanipulation"
+    ],
+    "signa": [
+      "Signal",
+      "Signalanalyse",
+      "Signalcharakteristik",
+      "Signatur",
+      "Signaturanalyse",
+      "Signaturen"
+    ],
+    "entit": [
+      "Entität",
+      "Entitätsklassifikation",
+      "Entitätsprofilen",
+      "Entitätsquarantäne",
+      "Entitätsstruktur"
+    ],
+    "fehle": [
+      "FEHLER",
+      "Fehler",
+      "Fehleranalyse",
+      "Fehlermeldungen",
+      "Fehlermodi"
+    ],
+    "irred": [
+      "Irreduzibel",
+      "Irreduzibilität",
+      "Irreduzibilitäts",
+      "Irreduzible",
+      "Irreduziblem"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokollebene",
+      "Protokollen",
+      "Protokolls"
+    ],
+    "stabi": [
+      "Stabilisator",
+      "Stabilisiere",
+      "Stabilisierungsfaktor",
+      "Stabilität",
+      "Stabilitätszustand"
+    ],
+    "stand": [
+      "Standard",
+      "Standardoperationen",
+      "Standardprotokolle",
+      "Standardtopologie",
+      "Standort"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriebruch",
+      "Symmetriebruchereignis",
+      "Symmetrien",
+      "Symmetry"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassung",
+      "Zusammenprall",
+      "Zusammenstoß"
+    ],
+    "axiom": [
+      "Axiom",
+      "Axiomatische",
+      "Axiome",
+      "Axiomen"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamentale",
+      "Fundamentales",
+      "Fundaments"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Interner",
+      "Intervention"
+    ],
+    "kompo": [
+      "Komponente",
+      "Komponenten",
+      "Komposit",
+      "Kompositstruktur"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Akteur"
+    ],
+    [
+      "Akte",
+      "Charakterisiert"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Akte",
+      "Signalcharakteristik"
+    ],
+    [
+      "Alle",
+      "Parallel"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Weltbildes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eins",
+      "Einschränkung"
+    ],
+    [
+      "Eins",
+      "Einschränkungen"
+    ],
+    [
+      "Ende",
+      "Rückblende"
+    ]
+  ]
+}

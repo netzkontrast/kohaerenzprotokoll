@@ -1,0 +1,99 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis                           8 word     8 in   [11, 17, 45, 55, 95, 309]
+  Ich                              65 word   101 in   [15, 17, 19, 21, 23, 25]
+  AEGIS                           118 word   131 in   [21, 27, 29, 31, 33, 35]
+                                    7      as AEGIS-Perspektive
+                                    1      as AEGIS-Perspektiven
+                                    1      as AEGIS-Stimme
+                                    1      as AEGIS-Szenen
+  Kael                             18 word    19 in   [23, 41, 45, 49, 51, 61]
+                                    1      as Kaels
+  Komponente 734                   36 word    36 in   [21, 23, 31, 33, 37, 45]
+  Nichts Rauschen                   9 word    10 in   [23, 41, 70, 111, 127, 185]
+  Rauschen                         20 word    24 in   [23, 41, 70, 111, 112, 127]
+                                    4      as Rauschens
+  Echo                             25 word    33 in   [33, 35, 45, 100, 189, 261]
+                                    8      as Echos
+  Resonanz                         34 word    39 in   [17, 21, 23, 35, 51, 70]
+                                    1      as Resonanzen
+                                    1      as Resonanzspitze
+                                    1      as Resonanzverbindung
+                                    1      as Resonanzpfade
+  Dissonanz                        22 word    22 in   [17, 25, 37, 100, 112, 125]
+  Mosaik                            6 word     7 in   [45, 49, 307, 537, 538, 540]
+                                    1      as Mosaik-Identität
+  Mosaik-Identität                  1 word     1 in   [49]
+  Direktive 0                       8 word     8 in   [31, 33, 106, 400, 418, 508]
+  Kernprotokoll                     1 word     1 in   [400]
+  Kohärenz Protokoll Gamma-Exekution    1 word     1 in   [517]
+  Protokoll Gamma-Exekution         4 word     4 in   [234, 517, 529, 533]
+  Diagnosezyklus Delta-Gamma        3 word     3 in   [232, 243, 431]
+  Simulation Epsilon-7              1 word     1 in   [448]
+  Simulation Epsilon-Prime          2 word     2 in   [464, 466]
+  Simulation Omega-Prime            1 word     1 in   [498]
+  Algorithmus Sigma-7               1 word     1 in   [416]
+  Abwehralgorithmus V.3.2           1 word     1 in   [402]
+  Sektor Gamma-3                    2 word     2 in   [295, 414]
+  Überwelt                          8 word    11 in   [106, 273, 305, 438, 443, 448]
+                                    2      as Überwelt-Subsystem
+                                    1      as Überwelt-Simulation
+  Überwelt-Subsystem                2 word     2 in   [448, 497]
+  logischen Konstruktraum           1 word     1 in   [443]
+  Strukturelle Anomalien            1 word     1 in   [434]
+  Alarmstufe Rot                    1 word     1 in   [497]
+  Kernwelten                        2 word     2 in   [540, 549]
+  Klick                             5 word     9 in   [199, 261, 272, 282, 356, 363]
+                                    3      as Klicken
+                                    1      as Klickt
+  Hybris                            2 word     2 in   [37, 456]
+  Qualia                           12 word    12 in   [15, 17, 19, 21, 25, 37]
+  Systemkohärenz                    3 word     3 in   [111, 497, 515]
+  Systemintegrität                  4 word     4 in   [33, 221, 400, 517]
+  Funktionalisierung                4 word     4 in   [35, 391, 402, 409]
+  Eliminierung                      6 word     7 in   [31, 223, 274, 505, 508, 517]
+                                    1      as Eliminierungs-Entscheidung
+  Ich-Perspektive                  29 word    29 in   [17, 61, 69, 72, 89, 125]
+  AEGIS-Perspektive                 7 word     8 in   [62, 89, 123, 126, 283, 313]
+                                    1      as AEGIS-Perspektiven
+  Regiebuch                         2 word     2 in   [309, 554]
+  Sensorisches Lexikon              1 word     1 in   [164]
+  Technisches Glossar               1 word     1 in   [165]
+  Stylistic Contrast Summary        1 word     1 in   [317]
+  Der Funke im Nichts               1 word     1 in   [335]
+  Flüchtige Resonanzen              1 word     1 in   [351]
+  Der Keim der Ordnung              1 word     1 in   [367]
+  Die Geburt von AEGIS              1 word     1 in   [386]
+  Systemdiagnose: Stille im Kern    1 word     1 in   [421]
+  Die Überwelt: Simulation der Ordnung    1 word     1 in   [438]
+  Grenzen der Simulation: Das Unmodellierbare    1 word     1 in   [454]
+  Die Ankunft und die Resonanz      1 word     1 in   [472]
+  Simulation des Paradoxons: Systemfehler    1 word     1 in   [487]
+  Das Erwachen und die Dissonanz    1 word     1 in   [503]
+  Die Zerstückelung                 1 word     1 in   [519]
+  Dämmerung in Scherben             1 word     1 in   [535]
+  DAS ERWACHEN IM RAUSCHEN          1 word     1 in   [333]
+  AEGIS - DIE FESTUNG DER LOGIK     1 word     1 in   [384]
+  DIE KRISE UND DIE SCHERBEN        1 word     1 in   [470]
+  Schwierige Problem des Bewusstseins    2 word     2 in   [19, 89]
+  Hard Problem of Consciousness     1 word     1 in   [19]
+  Erklärungslücke                   1 word     1 in   [19]
+  philosophischen Zombies           1 word     1 in   [19]
+  Existenzialismus                  2 word     2 in   [23, 99]
+  Authentizität                     2 word     2 in   [23, 126]
+  Intentionalität                   1 word     1 in   [25]
+  Systemtheorie                     7 word     7 in   [27, 29, 71, 105, 111, 126]
+  Kybernetik                        8 word     8 in   [27, 29, 33, 71, 105, 126]
+  Autopoiesis                       5 word     5 in   [31, 105, 126, 221]
+  Homöostase                        4 word     4 in   [33, 105, 126, 221]
+  Feedbackschleifen                 1 word     1 in   [33]
+  Traumatheorie                     3 word     3 in   [41, 49, 99]
+  Dissoziation                      8 word     8 in   [39, 43, 49, 99, 101, 125]
+  Dissoziativen Identitätsstörung    1 word     1 in   [43]
+  Post-Traumatic Growth             1 word     1 in   [51]
+  Deep POV                         10 word    10 in   [61, 89, 99, 125, 175, 322]
+  Bewusstseinsstrom                 7 word     7 in   [61, 99, 125, 138, 175, 322]
+  Third-Person Objective            1 word     1 in   [62]

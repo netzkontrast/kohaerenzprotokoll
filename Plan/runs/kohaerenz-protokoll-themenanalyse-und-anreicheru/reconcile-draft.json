@@ -1,0 +1,196 @@
+{
+  "document": "kohaerenz-protokoll-themenanalyse-und-anreicheru",
+  "drive_id": "1XBWap0Vk5onCm0JRXGL7ZuZgKpSQY7JAxABHp37uzQw",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 78,
+    "decisions": 77,
+    "decided_by_lookup": 72,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        126,
+        201,
+        228
+      ],
+      "attribution": "",
+      "note": "AEGIS as the system whose total order may produce chaos"
+    },
+    {
+      "page": "did",
+      "lines": [
+        32
+      ],
+      "attribution": "",
+      "note": "DID among the identity analogies of the self cluster"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        53,
+        69,
+        132,
+        138
+      ],
+      "attribution": "",
+      "note": "emergence as theme, and against control"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        138,
+        142,
+        144
+      ],
+      "attribution": "",
+      "note": "entropy as a marker of Co₁, Ly and Kael's journey"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        132,
+        234
+      ],
+      "attribution": "",
+      "note": "Guardians as facets or ethical stances of the system"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        64,
+        195,
+        200
+      ],
+      "attribution": "",
+      "note": "Juna/V as resonance and the remedy to AEGIS's instrumentalism"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        62,
+        82,
+        93
+      ],
+      "attribution": "",
+      "note": "Kael's arc from fragmentation to integration, in the vocabulary of dissociation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        65,
+        69,
+        70,
+        71,
+        72,
+        211
+      ],
+      "attribution": "",
+      "note": "themes assigned to the coded core worlds Co₁, McL, B and Ly"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        274
+      ],
+      "attribution": "",
+      "note": "the Mosaik-Herz among recurring symbols"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        211
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as source of resonant potential and original potentiality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        43,
+        51,
+        148
+      ],
+      "attribution": "",
+      "note": "the Risse as symbol of instability and as cracks in AEGIS's order"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q3"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 32,
+      "decision": "reading",
+      "why": "DID among the self cluster's analogies; read on did"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 42,
+      "decision": "reading",
+      "why": "read on juna via Juna/V"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 112,
+      "decision": "occurrence",
+      "why": "a mask symbol, not the personas"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 64,
+      "decision": "occurrence",
+      "why": "other levels of reality, general sense"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "a theme in the cluster list"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,74 @@
+# counts for 58 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            14 word    22 in   [39, 61, 63, 76, 90, 100]
+                                    3      as AEGIS-Welt
+                                    1      as AEGIS-Gesetzmäßigkeit
+                                    1      as AEGIS-Realität
+                                    1      as AEGIS-Universums
+  Juna                              6 word     7 in   [64, 132, 142]
+                                    1      as Junas
+  Weltmaschine                      1 word     1 in   [39]
+  Welt ohne Außen                   1 word     1 in   [19]
+  Alltags-Anker-Zustand             0 word     2 in   [90, 96]
+                                    2      as Alltags-Anker-Zustands
+  Anker-Zustand                     1 word     3 in   [90, 96, 138]  <-- substring
+  Alters                            3 word     3 in   [86, 88, 146]
+  Haupt-Host                        1 word     1 in   [100]
+  innere Pluralität                 1 word     1 in   [138]
+  Kohärent-Werden                   1 word     3 in   [84, 90, 104]  <-- substring
+                                    2      as Kohärent-Werdens
+  namenlosen Verlust                2 word     2 in   [140, 146]
+  Schmerz des Wiedererkennens       2 word     2 in   [92, 104]
+  Bewusstseinsmembranen             1 word     1 in   [90]
+  Interface-Identität               1 word     1 in   [96]
+  Diskontinuität                    3 word     4 in   [53, 64, 142]
+                                    1      as Diskontinuitäten
+  Fraktale Symmetrie der Grenzziehung    1 word     1 in   [138]
+  Singularität der Erlösung         1 word     1 in   [142]
+  Rhythmisierung der Negation       1 word     1 in   [76]
+  wundloses Bluten                  1 word     1 in   [76]
+  lichtlose Reibung                 1 word     1 in   [76]
+  Kernbefund                        4 word     4 in   [29, 66, 94, 122]
+  Das Unerwartete                   4 word     4 in   [33, 70, 98, 126]
+  Konkret nutzbar                   4 word     4 in   [37, 74, 102, 130]
+  Teilfrage                         4 word     5 in   [13, 41, 78, 106, 136]
+                                    1      as Teilfragen
+  adversariale Hypothese            8 word     8 in   [15, 31, 43, 68, 80, 96]
+  Tathandlung                       8 word     8 in   [17, 23, 31, 118, 138, 142]
+  Absolute Ich                      1 word     1 in   [17]
+  Neutralen Monismus                1 word     1 in   [21]
+  phänomenales Selbstmodell         1 word     1 in   [23]
+  Markov-Decke                      8 word    11 in   [25, 31, 39, 84, 96, 138]
+                                    3      as Markov-Decken
+  Markov-Decken                     3 word     3 in   [96, 138, 140]
+  Nemozentrismus                    3 word     3 in   [27, 31, 138]
+  Dolphin Model of Cognition        1 word     1 in   [35]
+  Dissoziativen Identitätsstruktur    1 word     1 in   [80]
+  DID                               9 word    12 in   [63, 80, 82, 84, 88, 90]
+  OSDD                              1 word     1 in   [80]
+  Default Mode Network              3 word     3 in   [82, 96, 138]
+  DMN                               6 word     6 in   [82, 84, 92, 96, 138]
+  Cortisol Awakening Response       3 word     3 in   [82, 104, 138]
+  CAR                               3 word     3 in   [82, 104, 138]
+  Phillips-Robinson-Modell          1 word     1 in   [82]
+  Papez-Kreis                       1 word     1 in   [84]
+  Wille zur Identität               1 word     1 in   [86]
+  rebellische Temporalität          1 word     1 in   [86]
+  Kondensation                      1 word     1 in   [86]
+  Rhapsodie                         1 word     1 in   [86]
+  Hypnopompie                       1 word     1 in   [90]
+  Lokalen Schlaf                    1 word     2 in   [90, 100]
+  Falschem Erwachen                 1 word     1 in   [90]
+  Malignant Uselessness             1 word     1 in   [110]
+  Blind Brain Theory                3 word     3 in   [112, 124, 140]
+  Semantic Apocalypse               3 word     3 in   [112, 179, 181]
+  semantische Apokalypse            2 word     2 in   [114, 124]
+  kognitiven Affordanzen            2 word     2 in   [118, 128]
+  Melancholy Antisemanticism        1 word     1 in   [120]
+  Neonihilism                       1 word     2 in   [120]
+                                    1      as Neonihilismus
+  Cosmic Horror der Qualia          2 word     2 in   [106, 118]
+  Ego Tunnel                        6 word     6 in   [23, 152, 153, 154, 156, 157]

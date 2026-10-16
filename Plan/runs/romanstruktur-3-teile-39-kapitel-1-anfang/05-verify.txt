@@ -1,0 +1,300 @@
+# Numbers stated in census and note, and the commands that produced them (run 2026-10-14)
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kishōtenketsu Phase"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kishōtenketsu Phase` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#3]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Einleitung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Einleitung` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#2]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Tabelle"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Tabelle` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#3]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Schlussbetrachtung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Schlussbetrachtung` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Exegese"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Exegese` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kapitel 40/0"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kapitel 40/0` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#4]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kap. 40/0"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kap. 40/0` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Neon Ashes"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Neon Ashes` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "New Zenith"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`New Zenith` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#8]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Aegis Coalition"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Aegis Coalition` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#3]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Nova Ardent"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nova Ardent` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "MX-400 Sentinels"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`MX-400 Sentinels` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Quarantine Zones"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Quarantine Zones` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Codex of Aegis"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Codex of Aegis` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#2]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kael Voss"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kael Voss` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#3]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#0]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#0]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Aegis"
+whole word, case-sensitive     25
+whole word, case-insensitive   25
+including compounds            26
+
+`Aegis` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#25]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Coherence Protocol"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Coherence Protocol` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#5]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kohärenz-Protokoll"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kohärenz-Protokoll` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#5]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Strange Loop"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Strange Loop` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#3]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Ki"
+whole word, case-sensitive     5
+whole word, case-insensitive   9
+including compounds            18
+
+`Ki` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#5]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Shō"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Shō` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#5]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Ten"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Ten` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#5]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Ketsu"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Ketsu` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#6]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kishōtenketsu"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kishōtenketsu` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#10]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "ANP"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`ANP` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#12]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "EP"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            9
+
+`EP` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#5]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "LeanRAG"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`LeanRAG` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#12]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Triple Helix"
+whole word, case-sensitive     10
+whole word, case-insensitive   12
+including compounds            10
+
+`Triple Helix` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#10]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Primary Structural Dissociation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Primary Structural Dissociation` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#2]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Tertiary Structural Dissociation"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Tertiary Structural Dissociation` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#4]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Apparently Normal Personality"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Apparently Normal Personality` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Coherence Protocols"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coherence Protocols` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "ANP-Rolle"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ANP-Rolle` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "EPs"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`EPs` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#4]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Kaels"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kaels` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#4]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Technomancern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Technomancern` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Aegis-Administration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Aegis-Administration` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Retrieval-Augmented"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Retrieval-Augmented` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#2]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Retrieval-Prozess"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Retrieval-Prozess` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#1]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "Ki-Phase"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Ki-Phase` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#0]
+$ python3 scripts/read.py romanstruktur-3-teile-39-kapitel-1-anfang --count "LeanRAG-Architektur"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`LeanRAG-Architektur` ^[romanstruktur-3-teile-39-kapitel-1-anfang.md:#0]
+
+# Stance markers: 3+2+3+1+1 = 10 (Kishōtenketsu Phase, Einleitung, Tabelle, Schlussbetrachtung, Referenzen)
+$ grep -n -o "Neon Ashes.\{0,20\}" (lines 21 and 175, case-insensitive count 2)
+21:Neon Ashes“ vo
+175:NEON ASHES, eBoo
+$ glued reference numbers after the name sentences
+Neon Ashes“ von New Zenith.7
+New Zenith kontrolliert.7
+verbreitet.7
+Codex of Aegis" 28
+Quarantine Zones".22
+Sentinels* 
+Fürsorge.32
+$ sed -n 169p / 214p (reference list range)
+1.  Early ex
+46. Collagen
+$ sed -n 175p,190p,196p (entries 7, 22, 28)
+7.  NEON A
+22. Steel 
+28. Etherb
+$ glued ref numbers 105, backslash escapes 106: from 01-profile.txt
+  backslash escapes    106
+  glued ref numbers    105
+$ grep -n New Zenith lines
+21 49 55 59 63 65 87 163 
+$ not counted by capture.py (2 prose lines)
+69:Universe vs. Mind
+25:Das S
+$ chapter 40/0 lines
+13 19 33 39 
+$ candidates 87, zeros 0: from census-draft.md
+candidates: 87    # the terms capture.py counted
+**Zeros:** 0.
+$ L71 sentinels glued number
+Sentinels* ein 22

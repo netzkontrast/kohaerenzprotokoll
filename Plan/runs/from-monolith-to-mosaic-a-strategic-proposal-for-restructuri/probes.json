@@ -1,0 +1,86 @@
+{
+  "document": "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
+  "drive_id": "1UZEzU0BKDl7iKPXD2-3-s-u67VusbUy58JpQ1k28w5c",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 28,
+  "typographic_marks": 8,
+  "ascii_quotes": 88,
+  "inflection_families": {
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "archi": [
+      "Archipel",
+      "Architectures"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "logos": [
+      "LogOS",
+      "Logos"
+    ],
+    "narra": [
+      "Narrate",
+      "Narrative"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "story": [
+      "Story",
+      "Storytelling"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "theor": [
+      "Theorems",
+      "Theory"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "LogOS",
+      "Logos"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Story",
+      "Storytelling"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Potential",
+      "Potentiality"
+    ],
+    [
+      "Potential",
+      "Potentialmeer"
+    ]
+  ]
+}

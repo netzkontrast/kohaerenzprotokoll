@@ -1,0 +1,14 @@
+# an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe
+  lines                135  (frontmatter ends at 9)
+  body words           2826
+  headings             23   bold-only lines 0
+  table rows           7   code fences 0
+  question marks       0
+  backslash escapes    24
+  typographic marks    22   ascii quotes 78
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         1076 chars
+

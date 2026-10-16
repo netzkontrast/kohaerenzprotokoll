@@ -1,0 +1,90 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations: the document translates a figure-and-image concept into a machine-readable design language and calls figures partly by earlier names; those names are left off this list on purpose. A trauma-symbol detail is left off; it is named only as the Kernwunde. Colour names are listed where the document sets them in italics as a palette entry of a part.
+
+- Kohärenz-Protokoll
+- Agency System Design Language
+- ASDLS
+- Spec-Driven Development
+- SDD
+- Interface Brutalismus
+- Interface Brutalismus-Konzept
+- TSDP
+- Strukturellen Dissoziation der Persönlichkeit
+- Dual-Kernel-Logik
+- Dual-Kernel-Paradigma
+- Slow Kernel
+- Fast Kernel
+- Kohärenz-Maschine
+- Kollaps-Maschine
+- Scheinbar Normalen Persönlichkeitsanteile
+- ANPs
+- Emotionalen Persönlichkeitsanteile
+- EPs
+- Wächterin
+- Corporate Mimicry
+- Neural-Circuit Policies
+- NCP
+- Global Workspace Theory
+- GWT
+- Hintergrund-Paradigma
+- Dutch Angles
+- Dutch Angle
+- Low Bandwidth
+- High Bandwidth
+- Dropped Packets
+- Vector Jitter
+- Chromatic Aberration
+- Data Moshing
+- Packet Loss
+- Micro-Jittering
+- 5%-Regel
+- Color Clashes
+- Gesetz des Ausschlusses
+- Digital Kintsugi
+- Kintsugi Gold
+- Clean Ping
+- Signal Yellow
+- Flame Orange
+- System Blue
+- Terminal Black
+- Deep Charcoal
+- Roster
+- Front-End-Protokolle
+- Hintergrund-Prozesse
+- Kael
+- Lex
+- Alex
+- Isabelle
+- Selene
+- Argus
+- Nyx
+- Moros
+- Oblivion
+- Kiko
+- Lia
+- Rhys
+- Silas
+- Data Fissure
+- Latenz-Ring
+- Encrypted Payload
+- Black Mirror Terminals
+- Master-Terminal-Prinzip
+- Split-Composition Cut
+- Eskalationsmodul
+- Tier 0
+- Tier 1
+- Tier 2
+- Tier 4
+- Window of Tolerance
+- Kernel Panic
+- Safe Mode
+- NovelOS
+- Research Prompt Optimizer
+- Inequity Validator
+- Fractal Auditor
+- SPECD-Prompt-Formel
+- Bunker
+- Sinking Vectors
+- Format C:
+- Multiplizität

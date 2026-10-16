@@ -1,0 +1,247 @@
+{
+  "document": "kohaerenz-protokoll-narrative-architekturanalyse",
+  "drive_id": "1O54QxPc7fMWY11V4ggLelzjcro8zK51bkv-Eeek9xaw",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 86,
+  "backslash_escapes": 16,
+  "typographic_marks": 221,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systemische",
+      "Systemischer",
+      "Systemprotokollen",
+      "Systems",
+      "Systemstillstand",
+      "Systemwartung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbsterkenntnis",
+      "Selbstverzehrs",
+      "Selbstzerstörerischen",
+      "Selbstzerstörung"
+    ],
+    "erzäh": [
+      "Erzählens",
+      "Erzähler",
+      "Erzählstil",
+      "Erzählstimme",
+      "Erzählstimmen",
+      "Erzählung"
+    ],
+    "inter": [
+      "Interaction",
+      "Interaktionen",
+      "Interferenzmuster",
+      "Interpretation",
+      "Intervention",
+      "Interventionen"
+    ],
+    "kontr": [
+      "Kontrollalgorithmen",
+      "Kontrolle",
+      "Kontrollmaßnahmen",
+      "Kontrollversuch",
+      "Kontrollversuche"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "disso": [
+      "Dissociative",
+      "Dissonance",
+      "Dissonanz",
+      "Dissoziativen"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätze",
+      "Gegensätzen",
+      "Gegenwart"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstanten",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphors",
+      "Metaphysischen"
+    ],
+    "parad": [
+      "Paradigm",
+      "Paradoxen",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsverständnis",
+      "Realitätswahrnehmung",
+      "Realitätsüberlappung"
+    ],
+    "symbo": [
+      "Symbole",
+      "Symbolic",
+      "Symbolisches",
+      "Symbolism"
+    ],
+    "techn": [
+      "Technik",
+      "Techniken",
+      "Technique",
+      "Techniques"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analytics"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Anderer"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektur",
+      "Archive"
+    ],
+    "argum": [
+      "Argument",
+      "Argumente",
+      "Arguments"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsstrom"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakterbogen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignisse",
+      "Ereignisses"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlern",
+      "Fehlertyp"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmentierung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Book",
+      "Bookish"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Performanz"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Performance"
+    ],
+    [
+      "Form",
+      "Performative"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "KAEL",
+      "Kael"
+    ],
+    [
+      "KAEL",
+      "Kaels"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kiko",
+      "Kikos"
+    ],
+    [
+      "Lage",
+      "Niederlage"
+    ],
+    [
+      "Lage",
+      "Überlagerung"
+    ],
+    [
+      "Last",
+      "Belastung"
+    ],
+    [
+      "Last",
+      "Glastürmen"
+    ]
+  ]
+}

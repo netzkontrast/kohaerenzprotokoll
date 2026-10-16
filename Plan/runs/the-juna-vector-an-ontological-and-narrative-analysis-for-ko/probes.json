@@ -1,0 +1,89 @@
+{
+  "document": "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+  "drive_id": "1PAlyn1xAerpwJGJhT1K9pf0udLg1jz4TMp4NSaRy2Lk",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 4,
+  "backslash_escapes": 16,
+  "typographic_marks": 19,
+  "ascii_quotes": 124,
+  "inflection_families": {
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "chapt": [
+      "Chapter",
+      "Chapters"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "inter": [
+      "Interconnectedness",
+      "Intervention"
+    ],
+    "manif": [
+      "Manifestation",
+      "Manifestations"
+    ],
+    "metap": [
+      "Metaphor",
+      "Metaphysical"
+    ],
+    "natur": [
+      "Nature",
+      "Natures"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer"
+    ],
+    "trans": [
+      "Transcendent",
+      "Transformation"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Turn",
+      "Turning"
+    ],
+    [
+      "With",
+      "Within"
+    ],
+    [
+      "With",
+      "Without"
+    ],
+    [
+      "Nature",
+      "Natures"
+    ],
+    [
+      "Chapter",
+      "Chapters"
+    ],
+    [
+      "Protocol",
+      "Protocols"
+    ],
+    [
+      "Potential",
+      "Potentialmeer"
+    ],
+    [
+      "Manifestation",
+      "Manifestations"
+    ]
+  ]
+}

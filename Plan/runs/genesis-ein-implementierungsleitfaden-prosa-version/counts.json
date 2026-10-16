@@ -1,0 +1,1040 @@
+{
+  "document": "genesis-ein-implementierungsleitfaden-prosa-version",
+  "drive_id": "156cozTac3xrIEaZo5q0VWQ5JYAylJSLwNjPXX4eIT4w",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Genesis": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        11,
+        17,
+        45,
+        55,
+        95,
+        309,
+        313,
+        554
+      ]
+    },
+    "Ich": {
+      "n": 65,
+      "n_including_compounds": 101,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        33,
+        41,
+        45,
+        55,
+        61,
+        69,
+        72,
+        89,
+        97,
+        100,
+        107,
+        112,
+        118,
+        123,
+        125,
+        134,
+        164,
+        173,
+        180,
+        181,
+        283,
+        293,
+        294,
+        313,
+        321,
+        337,
+        338,
+        340,
+        346,
+        354,
+        370,
+        372,
+        389,
+        390,
+        391,
+        396,
+        397,
+        407,
+        408,
+        409,
+        415,
+        417,
+        419,
+        424,
+        425,
+        426,
+        432,
+        436,
+        441,
+        442,
+        443,
+        449,
+        452,
+        457,
+        458,
+        459,
+        465,
+        466,
+        468,
+        474,
+        475,
+        476,
+        477,
+        484,
+        505,
+        506,
+        507,
+        508,
+        513,
+        521,
+        522,
+        523,
+        524,
+        531,
+        532,
+        538,
+        540,
+        545,
+        554,
+        558
+      ]
+    },
+    "AEGIS": {
+      "n": 118,
+      "n_including_compounds": 131,
+      "lines": [
+        21,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        41,
+        51,
+        55,
+        62,
+        70,
+        71,
+        72,
+        89,
+        103,
+        105,
+        106,
+        112,
+        118,
+        123,
+        126,
+        144,
+        165,
+        215,
+        267,
+        283,
+        285,
+        295,
+        304,
+        313,
+        321,
+        384,
+        386,
+        388,
+        389,
+        390,
+        391,
+        399,
+        400,
+        401,
+        402,
+        406,
+        407,
+        409,
+        414,
+        416,
+        418,
+        423,
+        424,
+        425,
+        426,
+        431,
+        433,
+        434,
+        435,
+        440,
+        441,
+        442,
+        443,
+        448,
+        450,
+        451,
+        456,
+        457,
+        458,
+        459,
+        464,
+        466,
+        467,
+        468,
+        474,
+        475,
+        476,
+        477,
+        482,
+        483,
+        485,
+        489,
+        490,
+        492,
+        501,
+        505,
+        506,
+        507,
+        508,
+        514,
+        515,
+        516,
+        517,
+        521,
+        522,
+        523,
+        524,
+        529,
+        530,
+        533,
+        540,
+        547,
+        550,
+        554,
+        558
+      ]
+    },
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 19,
+      "lines": [
+        23,
+        41,
+        45,
+        49,
+        51,
+        61,
+        100,
+        134,
+        211,
+        535,
+        537,
+        538,
+        545,
+        548,
+        558
+      ]
+    },
+    "Komponente 734": {
+      "n": 36,
+      "n_including_compounds": 36,
+      "lines": [
+        21,
+        23,
+        31,
+        33,
+        37,
+        45,
+        232,
+        234,
+        243,
+        295,
+        404,
+        407,
+        409,
+        414,
+        416,
+        418,
+        424,
+        426,
+        431,
+        433,
+        435,
+        441,
+        443,
+        448,
+        457,
+        459,
+        464,
+        475,
+        477,
+        483,
+        485,
+        506,
+        508,
+        515,
+        517,
+        529
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        23,
+        41,
+        70,
+        111,
+        127,
+        185,
+        191,
+        247,
+        337,
+        340
+      ]
+    },
+    "Rauschen": {
+      "n": 20,
+      "n_including_compounds": 24,
+      "lines": [
+        23,
+        41,
+        70,
+        111,
+        112,
+        127,
+        180,
+        185,
+        191,
+        247,
+        293,
+        294,
+        337,
+        340,
+        345,
+        349,
+        361,
+        364,
+        372,
+        381,
+        409,
+        459,
+        464,
+        546
+      ]
+    },
+    "Echo": {
+      "n": 25,
+      "n_including_compounds": 33,
+      "lines": [
+        33,
+        35,
+        45,
+        100,
+        189,
+        261,
+        307,
+        348,
+        349,
+        402,
+        406,
+        407,
+        409,
+        417,
+        419,
+        423,
+        426,
+        436,
+        440,
+        443,
+        452,
+        477,
+        484,
+        513,
+        532,
+        540
+      ]
+    },
+    "Resonanz": {
+      "n": 34,
+      "n_including_compounds": 39,
+      "lines": [
+        17,
+        21,
+        23,
+        35,
+        51,
+        70,
+        100,
+        106,
+        111,
+        112,
+        125,
+        127,
+        140,
+        164,
+        195,
+        199,
+        257,
+        340,
+        349,
+        351,
+        356,
+        378,
+        399,
+        459,
+        472,
+        475,
+        477,
+        483,
+        485,
+        515,
+        530,
+        533,
+        540,
+        546,
+        550
+      ]
+    },
+    "Dissonanz": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        25,
+        37,
+        100,
+        112,
+        125,
+        127,
+        140,
+        181,
+        195,
+        200,
+        262,
+        356,
+        362,
+        408,
+        409,
+        443,
+        452,
+        503
+      ]
+    },
+    "Mosaik": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        45,
+        49,
+        307,
+        537,
+        538,
+        540,
+        545
+      ]
+    },
+    "Mosaik-Identität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Direktive 0": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        33,
+        106,
+        400,
+        418,
+        508,
+        515
+      ]
+    },
+    "Kernprotokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        400
+      ]
+    },
+    "Kohärenz Protokoll Gamma-Exekution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        517
+      ]
+    },
+    "Protokoll Gamma-Exekution": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        234,
+        517,
+        529,
+        533
+      ]
+    },
+    "Diagnosezyklus Delta-Gamma": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        232,
+        243,
+        431
+      ]
+    },
+    "Simulation Epsilon-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        448
+      ]
+    },
+    "Simulation Epsilon-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        464,
+        466
+      ]
+    },
+    "Simulation Omega-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        498
+      ]
+    },
+    "Algorithmus Sigma-7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        416
+      ]
+    },
+    "Abwehralgorithmus V.3.2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        402
+      ]
+    },
+    "Sektor Gamma-3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        295,
+        414
+      ]
+    },
+    "Überwelt": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        106,
+        273,
+        305,
+        438,
+        443,
+        448,
+        450,
+        489,
+        497,
+        501
+      ]
+    },
+    "Überwelt-Subsystem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        448,
+        497
+      ]
+    },
+    "logischen Konstruktraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        443
+      ]
+    },
+    "Strukturelle Anomalien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        434
+      ]
+    },
+    "Alarmstufe Rot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        497
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        540,
+        549
+      ]
+    },
+    "Klick": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        199,
+        261,
+        272,
+        282,
+        356,
+        363,
+        389,
+        391,
+        398
+      ]
+    },
+    "Hybris": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        456
+      ]
+    },
+    "Qualia": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        25,
+        37,
+        99,
+        139,
+        328,
+        340,
+        477
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        497,
+        515
+      ]
+    },
+    "Systemintegrität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        221,
+        400,
+        517
+      ]
+    },
+    "Funktionalisierung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        391,
+        402,
+        409
+      ]
+    },
+    "Eliminierung": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        223,
+        274,
+        505,
+        508,
+        517
+      ]
+    },
+    "Ich-Perspektive": {
+      "n": 29,
+      "n_including_compounds": 29,
+      "lines": [
+        17,
+        61,
+        69,
+        72,
+        89,
+        125,
+        313,
+        321,
+        338,
+        354,
+        370,
+        389,
+        391,
+        407,
+        409,
+        424,
+        426,
+        441,
+        443,
+        457,
+        459,
+        475,
+        477,
+        506,
+        508,
+        522,
+        524,
+        538,
+        554
+      ]
+    },
+    "AEGIS-Perspektive": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        62,
+        89,
+        123,
+        126,
+        283,
+        313,
+        321,
+        554
+      ]
+    },
+    "Regiebuch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        309,
+        554
+      ]
+    },
+    "Sensorisches Lexikon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Technisches Glossar": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Stylistic Contrast Summary": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        317
+      ]
+    },
+    "Der Funke im Nichts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        335
+      ]
+    },
+    "Flüchtige Resonanzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        351
+      ]
+    },
+    "Der Keim der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Die Geburt von AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        386
+      ]
+    },
+    "Systemdiagnose: Stille im Kern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        421
+      ]
+    },
+    "Die Überwelt: Simulation der Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        438
+      ]
+    },
+    "Grenzen der Simulation: Das Unmodellierbare": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        454
+      ]
+    },
+    "Die Ankunft und die Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        472
+      ]
+    },
+    "Simulation des Paradoxons: Systemfehler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        487
+      ]
+    },
+    "Das Erwachen und die Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        503
+      ]
+    },
+    "Die Zerstückelung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        519
+      ]
+    },
+    "Dämmerung in Scherben": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        535
+      ]
+    },
+    "DAS ERWACHEN IM RAUSCHEN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        333
+      ]
+    },
+    "AEGIS - DIE FESTUNG DER LOGIK": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        384
+      ]
+    },
+    "DIE KRISE UND DIE SCHERBEN": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        470
+      ]
+    },
+    "Schwierige Problem des Bewusstseins": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        89
+      ]
+    },
+    "Hard Problem of Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Erklärungslücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "philosophischen Zombies": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Existenzialismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        99
+      ]
+    },
+    "Authentizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        126
+      ]
+    },
+    "Intentionalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Systemtheorie": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        27,
+        29,
+        71,
+        105,
+        111,
+        126,
+        221
+      ]
+    },
+    "Kybernetik": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        27,
+        29,
+        33,
+        71,
+        105,
+        126,
+        148,
+        221
+      ]
+    },
+    "Autopoiesis": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        105,
+        126,
+        221
+      ]
+    },
+    "Homöostase": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        33,
+        105,
+        126,
+        221
+      ]
+    },
+    "Feedbackschleifen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Traumatheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        49,
+        99
+      ]
+    },
+    "Dissoziation": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        39,
+        43,
+        49,
+        99,
+        101,
+        125,
+        138,
+        205
+      ]
+    },
+    "Dissoziativen Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Post-Traumatic Growth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Deep POV": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        61,
+        89,
+        99,
+        125,
+        175,
+        322,
+        338,
+        354,
+        370,
+        540
+      ]
+    },
+    "Bewusstseinsstrom": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        61,
+        99,
+        125,
+        138,
+        175,
+        322,
+        540
+      ]
+    },
+    "Third-Person Objective": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    }
+  }
+}

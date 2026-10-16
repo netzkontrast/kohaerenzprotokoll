@@ -1,0 +1,344 @@
+{
+  "document": "monstergruppe-logik-und-metaphern",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 59,
+  "decisions": 56,
+  "same_surface": {
+    "parakonsistentelogik": [
+      "parakonsistente Logik",
+      "Parakonsistente Logik"
+    ]
+  },
+  "decided_mechanically": 46,
+  "needs_judgement": 10,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [],
+    "new_term": [
+      {
+        "candidate": "sporadischen Gruppen"
+      },
+      {
+        "candidate": "Fischer-Griess-Monster"
+      },
+      {
+        "candidate": "Freundlicher Riese"
+      },
+      {
+        "candidate": "Subquotienten"
+      },
+      {
+        "candidate": "maximale Untergruppe"
+      },
+      {
+        "candidate": "Griess-Algebra"
+      },
+      {
+        "candidate": "Vertexoperatoralgebren"
+      },
+      {
+        "candidate": "VOAs"
+      },
+      {
+        "candidate": "Monster-Lie-Algebra"
+      },
+      {
+        "candidate": "Leech-Gitter"
+      },
+      {
+        "candidate": "Orbifold-Konstruktion"
+      },
+      {
+        "candidate": "Mathieu-Gruppen"
+      },
+      {
+        "candidate": "Conway-Gruppen"
+      },
+      {
+        "candidate": "Golay-Code"
+      },
+      {
+        "candidate": "Moufang-Loop"
+      },
+      {
+        "candidate": "McKay-Thompson-Reihe"
+      },
+      {
+        "candidate": "Hauptmodul"
+      },
+      {
+        "candidate": "Erklärungsrahmen"
+      },
+      {
+        "candidate": "Stringtheorie"
+      },
+      {
+        "candidate": "Steiner-Systems"
+      },
+      {
+        "candidate": "Pariah-Gruppen"
+      },
+      {
+        "candidate": "Prinzip der Explosion"
+      },
+      {
+        "candidate": "Ex Contradictione Quodlibet"
+      },
+      {
+        "candidate": "ECQ"
+      },
+      {
+        "candidate": "klassischen Logik"
+      },
+      {
+        "candidate": "klassische Logik"
+      },
+      {
+        "candidate": "parakonsistente Logik"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "Konstruktionsopazität"
+      },
+      {
+        "candidate": "dekonstruktive Logik"
+      },
+      {
+        "candidate": "Parker-Loop"
+      },
+      {
+        "candidate": "Satz vom Widerspruch"
+      },
+      {
+        "candidate": "Abstraktion"
+      },
+      {
+        "candidate": "Komputationale Komplexität"
+      },
+      {
+        "candidate": "Friendly Giant"
+      },
+      {
+        "candidate": "Parakonsistenz"
+      },
+      {
+        "candidate": "Komplexität ohne Trivialität"
+      },
+      {
+        "candidate": "Grenzen der Zerlegung"
+      },
+      {
+        "candidate": "Metaphorisches Werkzeug"
+      },
+      {
+        "candidate": "Denkrahmen"
+      },
+      {
+        "candidate": "Unermessliche Skala und Macht"
+      },
+      {
+        "candidate": "Exzeptionalität und Isolation"
+      },
+      {
+        "candidate": "Verborgene Ordnung und Symmetrie"
+      },
+      {
+        "candidate": "Unverständlichkeit und Mysterium"
+      },
+      {
+        "candidate": "Narrative Potenziale"
+      },
+      {
+        "candidate": "dekonstruierender Logiken"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Monstergruppe  /  Baby-Monstergruppe",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Happy Family  /  Interne Struktur (Happy Family / Pariahs)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Pariahs  /  Interne Struktur (Happy Family / Pariahs)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine-Modul-VOA  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Monstrous Moonshine  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine-Vermutungen  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine-Moduls  /  Moonshine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dimensionalität  /  Hohe Dimensionalität (196.883+)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine  /  Moonshine-Phänomens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moonshine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moonshinelink",
+            "page": "moonshine-link"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 372,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

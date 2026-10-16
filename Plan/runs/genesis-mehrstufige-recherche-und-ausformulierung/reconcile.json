@@ -1,0 +1,71 @@
+{
+  "document": "genesis-mehrstufige-recherche-und-ausformulierung",
+  "drive_id": "1jLBPP1BCvSzJACYfVSlF7u-eKbYCu_SWOvWpjw3cj20",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a version of genesis-ein-implementierungsleitfaden-prosa-version (read as ingest 462) with an added research plan; first held by the privacy screen on the word Foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 89,
+    "decisions": 95,
+    "decided_by_lookup": 66,
+    "needs_judgement": 29
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A version of the Genesis implementation guide: the same synthesis, sample material and scene directives with an added research plan, so the read version's readings stand and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a light pass: the read version's decisions stand — `Resonanz`, `Echo` and `Mosaik` the Ich's and Kael's, not the pages of those names; `Kohärenz` systems coherence; people's names never written",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 43,
+      "decision": "occurrence",
+      "why": "as in the read version, its reading stands"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 119,
+      "decision": "occurrence",
+      "why": "an effect the metaphors should evoke, as in the read version"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "systems coherence, as in the read version"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 189,
+      "decision": "occurrence",
+      "why": "a word in a sample metaphor list, as in the read version"
+    }
+  ],
+  "not_promoted": [
+    "as for the read version — Direktive 0, Ich-Perspektive, Echo, Resonanz, Mosaik, Protokoll Gamma-Exekution, Regiebuch, the scene titles, the research tasks, and the borrowed concepts"
+  ],
+  "internal_tension": "as in the read version: section 3 marked as illustration because the research was not done (L161) beside instructions said to rest on its results (L303) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

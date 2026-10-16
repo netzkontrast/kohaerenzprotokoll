@@ -1,0 +1,82 @@
+# every number the census and note state
+$ read.py juna --count "Natur und Definition"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Natur und Definition` ^[juna.md:#4]
+$ read.py juna --count "Mechanik und Funktionsweise"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Mechanik und Funktionsweise` ^[juna.md:#2]
+$ read.py juna --count "Rolle im Narrativ und Konflikt"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Rolle im Narrativ und Konflikt` ^[juna.md:#4]
+$ read.py juna --count "Vermeidung eines"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Vermeidung eines` ^[juna.md:#4]
+$ read.py juna --count "Als Konzept-Dramaturg"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Als Konzept-Dramaturg` ^[juna.md:#1]
+$ read.py juna --count "Als Narrativer Architekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Als Narrativer Architekt` ^[juna.md:#1]
+$ read.py juna --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[juna.md:#0]
+$ read.py juna --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[juna.md:#0]
+$ read.py juna --count "Moonshine-Links"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Moonshine-Links` ^[juna.md:#3]
+$ read.py juna --count "Kaels"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Kaels` ^[juna.md:#18]
+$ read.py juna --count "Kael-Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-Juna` ^[juna.md:#1]
+$ read.py juna --count "Juna/V"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            39
+
+`Juna/V` ^[juna.md:#27]
+$ read.py juna --count "Deus ex Machina"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Deus ex Machina` ^[juna.md:#6]
+16 = 4+2+4+4 (Natur 4, Mechanik 2, Rolle 4, Vermeidung 4) + 1 + 1 = 16
+# question marks 0: from 01-profile.txt
+0

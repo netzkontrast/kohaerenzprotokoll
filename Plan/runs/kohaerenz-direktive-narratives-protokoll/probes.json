@@ -1,0 +1,112 @@
+{
+  "document": "kohaerenz-direktive-narratives-protokoll",
+  "drive_id": "1P_n8KfpAJtuAIyakA4Uiy0iDX8aFq1nJp0Ltkcob9nY",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 3,
+  "backslash_escapes": 3,
+  "typographic_marks": 22,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "ebene": [
+      "Ebene",
+      "Ebenen"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierte"
+    ],
+    "grenz": [
+      "Grenz",
+      "Grenze"
+    ],
+    "infor": [
+      "Information",
+      "Informationsphysik"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichts"
+    ],
+    "regel": [
+      "Regel",
+      "Regeln"
+    ],
+    "schme": [
+      "Schmelzen",
+      "Schmerz"
+    ],
+    "schwa": [
+      "Schwarze",
+      "Schwarzes"
+    ],
+    "szene": [
+      "Szene",
+      "Szenen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Form",
+      "Zeitform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Ausformulierung"
+    ],
+    [
+      "Form",
+      "Informationsphysik"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Satz",
+      "Unvollständigkeitssatz"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Ebene",
+      "Ebenen"
+    ],
+    [
+      "Grenz",
+      "Grenze"
+    ],
+    [
+      "Nicht",
+      "Nichts"
+    ],
+    [
+      "Regel",
+      "Regeln"
+    ],
+    [
+      "Szene",
+      "Szenen"
+    ],
+    [
+      "Physik",
+      "Informationsphysik"
+    ],
+    [
+      "Schwarze",
+      "Schwarzes"
+    ],
+    [
+      "Information",
+      "Informationsphysik"
+    ]
+  ]
+}

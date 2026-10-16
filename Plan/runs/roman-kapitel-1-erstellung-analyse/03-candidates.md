@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observation on the document: an analysis report in the voice of an assistant, with the text of a chapter set between analytical inserts ("Analytischer Einschub"); numbered reference marks are glued to words, and a numbered reference list closes the file. Chapter text and commentary are two voices; the commentary names the alters in brackets inside the chapter text (Nox, Echo, Limina).
+
+- Kohärenz-Protokoll
+- Kohärenz Protokoll
+- Universal Reboot
+- Nichts Rauschen
+- Post-Genesis
+- Genesis der Existenz
+- drückende Potentialität
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- operative Geschlossenheit
+- Kael
+- Juna
+- LogOS
+- Nox
+- Echo
+- Limina
+- Praetor
+- Index
+- Mnemosyne
+- Cerberus
+- Kairos
+- Nachbar Jansen
+- Guardians
+- Konstrukt-Stadt
+- Kernwelt 1
+- Kernwelt 4
+- Möglichkeiten-Gartens
+- Datenknotenpunkt Gamma-7
+- Sektor Delta
+- Wartebucht
+- Transitröhre
+- Ruhefläche
+- Das Grau
+- The Gray
+- Zwischenwelt
+- Crash Space
+- Resonanz-Landschaft
+- Dissoziative Matrix
+- Host
+- ANP
+- Anscheinend Normaler Persönlichkeitsanteil
+- Alters
+- Persecutor
+- Beschützer-Alter
+- Analytiker-Alter
+- Host-Identität
+- Zero-Trust-Architektur
+- Niedrigen Entropie
+- Niedrige Entropie
+- Hohe Entropie
+- hoch-entropisch
+- Externen Ebene
+- Resonanz
+- Ranke
+- Risse
+- Naht
+- Glitch
+- Overlay
+- Self-Healing Algorithms
+- Cache-Kohärenz
+- kontrollierten Kollaps
+- Instrumente der Ordnung
+- Pulsierende Licht
+- Wegführungsprotokolle
+- Systemcheck
+- Amnesie-Barrieren
+
+## lens
+
+- Uncanny Valley
+- Tal des Unwirklichen
+- Landauer's Prinzip
+- Landauer-Prinzip
+- Panoptikum
+- Atmospheric Writing
+- Call to Adventure
+- Depersonalisation
+- Derealisation
+- Flow-Zustand

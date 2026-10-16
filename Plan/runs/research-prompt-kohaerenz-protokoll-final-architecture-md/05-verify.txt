@@ -1,0 +1,160 @@
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Abort criterion"
+whole word, case-sensitive     17
+whole word, case-insensitive   21
+including compounds            17
+
+`Abort criterion` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#17]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Pass condition"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Pass condition` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#3]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Fail condition"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Fail condition` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#3]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Example seed questions"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Example seed questions` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#7]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#0]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#0]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "chapters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`chapters` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#2]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Juna"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Juna` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#22]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Vortex Inversion"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Vortex Inversion` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#17]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "K₁"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            27
+
+`K₁` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#20]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "K₀"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            25
+
+`K₀` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#17]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Coheron"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Coheron` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#1]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Kael/M"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael/M` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#1]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Foundation"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Foundation` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#1]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Sea of Potentiality"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sea of Potentiality` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#1]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "foundational"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`foundational` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#2]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "K1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K1` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#0]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "DKT"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`DKT` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#3]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Dramatica"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            31
+
+`Dramatica` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#28]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Plot-Outline-Ready"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Plot-Outline-Ready` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#4]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Moonshine-Link"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Moonshine-Link` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#4]
+
+$ python3 scripts/read.py research-prompt-kohaerenz-protokoll-final-architecture-md --count "Moonshine Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine Link` ^[research-prompt-kohaerenz-protokoll-final-architecture-md.md:#1]
+
+$ stance sum: 17+3+3+7 = 30
+
+$ grep -noP '(?<![\w-])K₁-\w+' Sources/drive/...md | sort | uniq -c   -> 5 K₁-Coherence, 1 K₁-coherent, 1 K₁-reading = 7 (= 27 - 20)
+$ grep -noP '(?<![\w-])K₀-\w+' ...                                  -> 1 K₀-Entropy, 5 K₀-Erasure, 1 K₀-correspondent, 1 K₀-reading = 8 (= 25 - 17)
+$ grep -noP '(?<![\w-])DKT-\w+' ...                                 -> 892:DKT-membership
+$ grep -noP 'Plot-Outline-Ready...' ...                              -> 15, 31, 165, 172 (Dramatica-Plot-Outline-Ready), 812

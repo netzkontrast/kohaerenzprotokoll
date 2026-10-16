@@ -1,0 +1,107 @@
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             26 word    59 in   [26, 30, 32, 34, 38, 40]  <-- substring
+                                   33      as Kaels
+  AEGIS                            17 word    18 in   [34, 36, 40, 45, 46, 58]
+                                    1      as AEGIS-Eingriff
+  Juna/V                            3 word     3 in   [36, 47, 190]
+  Juna                              3 word     3 in   [36, 47, 190]
+  Lex                               1 word     1 in   [32]
+  Nyx                               1 word     1 in   [32]
+  Kiko                              1 word     1 in   [32]
+  'O'                               8 word    10 in   [64, 86, 98, 106, 109, 110]
+  Gärtner                           3 word     6 in   [48, 60, 104, 108, 166, 176]
+                                    2      as Gärtnerns
+                                    1      as Gärtners
+  Narrative Entropie                4 word     4 in   [64, 104, 198]
+  Nichts Rauschen                   2 word     2 in   [86, 104]
+  Abyssos                           1 word     1 in   [60]
+  Eros                              5 word     5 in   [36, 40, 47, 60, 64]
+  Logos                             2 word     2 in   [36, 40]
+  narrativen Währung                1 word     1 in   [64]
+  Erwachte Narrative Entität        2 word     2 in   [72, 90]
+  ENE                               6 word     6 in   [72, 80, 84, 86, 102, 113]
+  funktionalen Multiplizität        2 word     2 in   [48, 151]
+  funktionale Multiplizität         1 word     1 in   [38]
+  tertiären strukturellen Dissoziation    1 word     1 in   [32]
+  traumatisierter Gott              1 word     1 in   [34]
+  Esse est percipi                  2 word     2 in   [64, 110]
+  Realitätswunden                   1 word     1 in   [62]
+  Glitches                          1 word     1 in   [62]
+  Kohärenz Protokoll                2 word     2 in   [13, 64]
+  inneren Verbündeten               1 word     1 in   [121]
+  Was würde Kael tun?               2 word     2 in   [139, 147]
+  stille Dialog                     3 word     3 in   [139, 147, 168]
+  platonischen Raum der Fiktion     2 word     2 in   [84, 113]
+  Resonanzkörper                    1 word     1 in   [145]
+  psychologische Kriegsführung      1 word     1 in   [40]
+  Schmelztiegel                     1 word     1 in   [40]
+  Epilog                            5 word     6 in   [135, 160, 162, 164, 170, 223]
+                                    1      as Epilogue
+  Lesertransformation               1 word     1 in   [18]
+  Individuations-Maschine           1 word     1 in   [26]
+  Parallelreise                     1 word     1 in   [22]
+  stellvertretenden Integration     2 word     2 in   [18, 22]
+  Ist es schön?                     1 word     1 in   [168]
+  Reicht das?                       2 word     2 in   [168, 177]
+  Radikale Akzeptanz                1 word     1 in   [149]
+  Aktive Sinnstiftung               1 word     1 in   [150]
+  Integratives Denken               1 word     1 in   [151]
+  Resilienz                         1 word     1 in   [152]
+  Wabi-Sabi                         1 word     2 in   [166, 175]
+                                    1      as Wabi-Sabi-Garten
+  Meta-Offenbarung                  1 word     1 in   [170]
+  Nigredo                           2 word     2 in   [32, 45]
+  Albedo                            2 word     2 in   [34, 46]
+  Citrinitas                        2 word     2 in   [36, 47]
+  Rubedo                            2 word     2 in   [38, 48]
+  prima materia                     2 word     2 in   [32, 45]
+  unio mentalis                     1 word     1 in   [36]
+  Enantiodromie                     1 word     1 in   [40]
+  Anima/Animus                      0 word     1 in   [36]
+                                    1      as Anima/Animus-Archetyps
+  Anima                             3 word     3 in   [36, 38, 47]
+  Animus                            1 word     2 in   [36, 47]
+                                    1      as Animus-Archetyps
+  Selbst                            9 word    12 in   [34, 38, 40, 48, 52, 84]
+                                    1      as Selbsterhaltung
+                                    1      as Selbstzweifeln
+                                    1      as Selbstdarstellung
+  Schatten                          4 word     8 in   [32, 34, 38, 45, 46, 82]
+                                    2      as Schattens
+                                    1      as Schatten-Archetyps
+                                    1      as Schattenaspekte
+  Archetyp                          4 word     8 in   [34, 36, 38, 82, 84, 133]
+                                    2      as Archetypen
+                                    1      as archetypischer
+  Individuationsprozess             1 word     2 in   [30, 191]
+                                    1      as Individuationsprozesses
+                                    1      as individuationsprozess-sehnsucht
+  Narrative Therapie                2 word     2 in   [52, 62]
+  Narrativen Therapie               4 word     4 in   [56, 58, 60, 64]
+  externalisieren                   1 word     1 in   [58]
+  Dekonstruktion                    2 word     3 in   [62]
+                                    1      as Dekonstruktionsprozess
+  Re-Authoring Conversations        1 word     1 in   [60]
+  Unique Outcomes                   1 word     1 in   [60]
+  Leerstellen                       2 word     2 in   [62, 202]
+  Sosein                            4 word     4 in   [84]
+  Gegenstandstheorie                3 word     4 in   [84, 210, 212]
+  Gegenstand                        2 word     6 in   [84, 91, 210, 212]  <-- substring
+                                    3      as Gegenstandstheorie
+  parasoziale Beziehung             1 word     1 in   [131]
+  PSR                               3 word     3 in   [131, 170]
+  guten inneren Objekts             1 word     1 in   [133]
+  Introjektion                      1 word     2 in   [125, 135]
+                                    1      as Introjektionsmechanismus
+  Objektbeziehungstheorie           1 word     1 in   [133]
+  Verfremdungseffekt                1 word     1 in   [170]
+  Negentropie                       0 word     2 in   [93, 108]
+                                    2      as Negentropie-Erzeugung
+  negentropischen                   1 word     1 in   [86]
+  Dissoziation                      2 word     2 in   [32, 45]
+  Retraumatisierung                 1 word     1 in   [40]
+  iatrogen                          1 word     1 in   [40]

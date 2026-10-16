@@ -1,0 +1,73 @@
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Challenge"
+whole word, case-sensitive     12
+whole word, case-insensitive   13
+including compounds            12
+
+`Challenge` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#12]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Prompt"
+whole word, case-sensitive     12
+whole word, case-insensitive   13
+including compounds            12
+
+`Prompt` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#12]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "How can we"
+whole word, case-sensitive     12
+whole word, case-insensitive   13
+including compounds            12
+
+`How can we` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#12]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "how can we"
+whole word, case-sensitive     1
+whole word, case-insensitive   13
+including compounds            1
+
+`how can we` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#1]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Risse"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Risse` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#2]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Gnostic Injection"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gnostic Injection` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#1]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "The Foundation"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`The Foundation` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#5]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Moonshine-Link"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Link` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#1]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#1]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Moros"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moros` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#1]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "Coherence Protocol"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Coherence Protocol` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#2]
+$ read.py operationalizing-the-coherence-protocol-a-narrative-stress-t --count "functional multiplicity"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`functional multiplicity` ^[operationalizing-the-coherence-protocol-a-narrative-stress-t.md:#2]
+stance_marker_count 36 = 12+12+12 (Challenge, Prompt, How can we above)

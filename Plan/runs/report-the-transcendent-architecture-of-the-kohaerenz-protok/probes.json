@@ -1,0 +1,56 @@
+{
+  "document": "report-the-transcendent-architecture-of-the-kohaerenz-protok",
+  "drive_id": "1SP71Nktb2Xbg1wm3DfouLKBhA-v3DWN91i-TLyjMFug",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 64,
+  "typographic_marks": 20,
+  "ascii_quotes": 74,
+  "inflection_families": {
+    "ancho": [
+      "Anchor",
+      "Anchoring"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "funda": [
+      "Fundament",
+      "Fundamental"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration"
+    ],
+    "mecha": [
+      "Mechanical",
+      "Mechanics"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transcendent"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anchor",
+      "Anchoring"
+    ],
+    [
+      "Fundament",
+      "Fundamental"
+    ],
+    [
+      "Potential",
+      "Potentialmeer"
+    ]
+  ]
+}

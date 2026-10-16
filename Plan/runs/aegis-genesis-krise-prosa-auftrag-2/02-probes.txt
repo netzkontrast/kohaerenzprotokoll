@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      304
+  backslash escapes      0
+  typographic marks      54
+  ascii quotes           179
+
+# inflection families -- one term, several surfaces
+  infor    Inforg, Inforgs, Information, Informationelles, Informations, Informationsausbreitung, Informationsdynamik, Informationsfluss, Informationsgehalt, Informationsknotenpunkten, Informationsmuster, Informationsmustern, Informationsontologie, Informationspfaden, Informationsstruktur, Informationssystem, Informationstheorie, Informationsverarb, Informationsverarbeitung, Informationsverarbeitungssystem, Informationsverlust, Informationszerstörung, Informationsübertragung, Informiert
+  syste    System, Systemabsturz, Systematische, Systeme, Systemebene, Systemen, Systemerhaltung, Systemfehlern, Systemgrenzen, Systemic, Systemintegrität, Systemische, Systemkollaps, Systemperspektive, Systems, Systemstruktur, Systemtheorie, Systemtyps, Systemverhalten, Systemverhaltens, Systemversagen, Systemversagens, Systemzusammenbruchs, Systemüberlastung
+  selbs    Selbst, Selbstbeobachtung, Selbstbewusstsein, Selbstbezüglichkeit, Selbstbildes, Selbsterhaltung, Selbstgefühl, Selbstheit, Selbstkontrolle, Selbstkonzepten, Selbstnegation, Selbstorganisation, Selbstorganisationstheorie, Selbstregulation, Selbsttäuschung, Selbstverortung
+  inter    Interaktion, Interaktionen, Intern, International, Interne, Interner, Internet, Interpretant, Interpretation, Interpretationen
+  kontr    Kontrast, Kontrastierung, Kontrollakt, Kontrolle, Kontrollmechanismen, Kontrollproblem, Kontrollproblems, Kontrollsystemversagen, Kontrollverlust, Kontrollversuch
+  psych    Psyche, Psychiatric, Psychiatry, Psychoanalyse, Psychoanalytische, Psychological, Psychologie, Psychologische, Psychology, Psychotherapy
+  ident    Identifikation, Identit, Identity, Identität, Identitäts, Identitätsbildung, Identitätsstruktur, Identitätsstörung, Identitätstheorie
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragmentierungsmechanismus, Fragmentierungsmuster, Fragmentierungsprozess, Fragmentierungsprozesses
+  regel    Regelkreis, Regeln, Regelung, Regelungsalgorithmus, Regelungslogik, Regelungsmechanismus, Regelungsstabilität, Regelungstechnik
+  analy    Analyse, Analysen, Analyseschritte, Analyseversuchen, Analysiert, Analytics, Analyzing
+  daten    Daten, Datenkette, Datenpartitionierung, Datenprotokolle, Datenräumen, Datensegmente, Datenströme
+  gedäc    Gedächtnis, Gedächtnisfragmente, Gedächtnisfragmentierung, Gedächtnislücken, Gedächtnisses, Gedächtnistheorie, Gedächtnisverlust
+  phäno    Phänomen, Phänomenale, Phänomenalen, Phänomene, Phänomenologie, Phänomenologisch, Phänomens
+  traum    TRAUMA, Trauma, Traumas, Traumata, Traumatheorie, Traumatic, Traumatische
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsgraden, Bewusstseinskerns, Bewusstseinsphilosophie, Bewusstseinsstrom
+  exist    Existential, Existentialism, Existenz, Existenzialismus, Existenzielles, Existenzphilosophie
+  fehle    Fehlen, Fehler, Fehlerkorrektur, Fehlerloops, Fehlermeldungen, Fehlers
+  model    Model, Modell, Modelle, Modellen, Modelliert, Modellierung
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturierung, Strukturschritte
+  techn    Techn, Technik, Techniken, Technological, Technologie, Technology
+  unter    Unterbau, Unterscheidet, Unterscheidung, Unterschied, Untersucht, Untersuchung
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widersprüchliche, Widerstand, Widerstands
+  zusam    Zusammenbruch, Zusammenbruchs, Zusammenfassung, Zusammenhang, Zusammenpralls, Zusammensetzung
+  beoba    Beobachter, Beobachtereffekt, Beobachtereffekts, Beobachters, Beobachtung
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziative
+
+# substring pairs -- never one term, often merged by accident
+  ANPs < PANPSYCHISMUS
+  Akts < Kontakts
+  Bias < Biases
+  Bind < Binds
+  Bind < Verbindung
+  Bind < Verbindungen
+  Data < PubData
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Reine
+  Eine < Seine
+  Eine < Kleine
+  Ende < Eskalierendes
+  Face < Facetten
+  Fall < Zerfall
+  Fall < Zufallsgr
+  Fall < Zufallsgrößen
+  Form < Formen

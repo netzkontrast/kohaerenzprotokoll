@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 46
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "roman-outline-kohaerenz-protokoll"]
+sources: 53
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "romanprojekt-kohaerenz-protokoll-leitfragen", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "dramatica-dual-storyform-status-2026-05-07-md", "2026-09-14-kap25-vertiefung-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ AEGIS eskaliert, und ein Ereignis zwingt Kael zum sofortigen Handeln: laut Konze
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 28, in Teil 3: Die Transzendenz, is titled „AEGIS' Selbstreflexion“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L372]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Übernatürliche Hilfe`
+
+- The detailed plot draft plans for Kap 28, `Übernatürliche Hilfe`: „Kael lernt bewusst, die K-J Verbindung zu nutzen“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L130] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `AEGIS' Dilemma`
+
+- The Moonshine-Brücke blueprint plans for Kap 28, `AEGIS' Dilemma`: „Stabilität ist kritisch gefährdet; es muss die Anomalie Kael/K-J neu bewerten.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L91] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Das Versagen der Eindämmung“ ^[monstergruppe-primzahlen-plot-blueprint.md:L305]
@@ -37,13 +45,25 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - The enriched plot concept's theme draft has for Kapitel 28, under the concept label `Emergenz`: „einfache Regeln in die Ly-Welt“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L69] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Die Wahrheit im Kern`
+
+- The concept chapter map plans for Kap 28: „Die finale Konfrontation im Zentrum von AEGIS“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L289]; AEGIS „Systemintegrität kritisch gefährdet“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L290]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll-umfassendes-konzept-mit-prin`, 2025-04-27, the 13-principle concept — the chapter's focus on `Dynamische Selbstbalancierung`, `Fraktale Selbstähnlichkeit` and `Autonome Grenzbildung`
 
 - The 13-principle concept's chapter overview gives Kapitel 28 a „Kulmination des Konflikts um“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L81] these three principles (L81). The overview keeps the chapter assignment and only colours its interpretation „durch die Linse“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L74] of the principles. A concept's focus, not the chapter.
 
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Finale Konfrontation (Kernwahrheit M/Trauma)`
+
+- The comprehensive concept's overview gives Kap 28 the label „Finale Konfrontation (Kernwahrheit M/Trauma)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L102] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 28 „Ruf des verratenen Kindes“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L61] in its third part, the outer journey and assigns it the primary concept „Das Verwundete Kind (Archetyp) / Ruf zur Heilung“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L61]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a confrontation in the Überwelt
+
+- The logline analysis proposes for Kap 28: „In der Überwelt konfrontiert Kael die abstrakte Repräsentation von AEGIS' Kernlogik“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L257] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Der Spießrutenlauf der Paradoxien
 
@@ -236,6 +256,10 @@ Title: „Die Resonanz der Wirklichkeit“ ^[kohaerenz-protokoll-kapitel-outline
 
 - The 39-chapter outline titles Kapitel 28 „Der Widerstand der Leere“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1059]. It plans: „Junas Präsenz im Moonshine-Link beginnt, die Flammen lokal zu kühlen, was AEGIS' Berechnungen vollends ad absurdum führt“ ^[kohaerenz-protokoll-kapitel-outline-generierung.md:L1061]; POV Silas / Kael (L1067) — a plan, not the chapter as written.
 
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07, the dual-storyform status of 2026-05-07 — Kap 28 as the start of the vortex precursors
+
+the dual-storyform status of 2026-05-07 sets as the third item of its list „Vortex-Vorläufer (ab \~Kap 28).“ ^[dramatica-dual-storyform-status-2026-05-07-md.md:L334] The line continues „Akt III Anfang.“ ^[dramatica-dual-storyform-status-2026-05-07-md.md:L334] and „Eskalierende Bridge-Frequenz, vorbereitend auf den Vortex.“ ^[dramatica-dual-storyform-status-2026-05-07-md.md:L334] Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 Title: „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614]
@@ -332,11 +356,16 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Die Wartungsfenster verlieren ihren Takt (das erste Mal, dass der Apparat unordentlich wirkt — Degradation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „sichtbar als Stilbruch des Systems“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 5: „28 (Voll-Konsolidierungs-Drohung = Purge“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L68] (marked `[K]`)
 
+## Reading — `2026-09-14-kap25-vertiefung-md`, 2026-09-14, the Kap 25 deepening — an open question about Kap 27/28
+
+The Kap 25 deepening names Kap 28 together with Kap 27, in one of its open decisions for Act III: it asks whether the unit of the maintenance station „Trägt sie in Akt III weiter (Kap 27/28) oder bleibt sie eine Delta-Sieben-Figur?“ ^[2026-09-14-kap25-vertiefung-md.md:L59]. The log sets nothing for these chapters; it leaves the carrying-on of that figure as a question. Recorded, not canon.
+
 ## Where the sources differ
 
 - **The trigger: Purge and Juna, or one of them.** „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] (Konzept-Iteration Genesis) · „Purge-Drohung, Juna in Gefahr; A-Consequence akut (ewige Fragmentierung droht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360] (storyform outline) · „Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913] (strukturierter Outline).
 - **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung). · „Akt III\*\* | Kap 27–34“ ^[dual-storyform-hintergruende-md.md:L335], and for the bridge scenes „Vortex-Vorläufer (ab \~Kap 28). Akt-III-Anfang.“ ^[dual-storyform-hintergruende-md.md:L308] (the Dual-Storyform background document) — Akt III from Kap 27 in its table, and its start at about Kap 28 in its list, both in one document · „Akt III: Die Apotheose der Ganzheit (Heldenreise nach Campbell)“ ^[hard-sf-roman-outline-dkt-physik-cosmic-horror.md:L166] (the Hard-SF-Outline), Akt III from its Kapitel 27.
 - **Title.** „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis) · „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903] (strukturierter Outline) · „Consequence akut“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis).
+- the dual-storyform status of 2026-05-07 places the start of the vortex precursors at about Kap 28, the beginning of Akt III.
 
 ## Questions for this chapter
 

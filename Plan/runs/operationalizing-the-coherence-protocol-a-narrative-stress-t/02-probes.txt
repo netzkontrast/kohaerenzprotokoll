@@ -1,0 +1,19 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      4
+  ascii quotes           46
+
+# inflection families -- one term, several surfaces
+  causa    Causal, Causality
+  mecha    Mechanics, Mechanism
+  perso    Personality, Personifying
+  physi    Physical, Physics
+  world    World, Worlds
+
+# substring pairs -- never one term, often merged by accident
+  Riss < Risse
+  World < Worlds
+  Causal < Causality
+  Solution < Resolution

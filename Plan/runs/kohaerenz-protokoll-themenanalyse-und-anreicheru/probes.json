@@ -1,0 +1,311 @@
+{
+  "document": "kohaerenz-protokoll-themenanalyse-und-anreicheru",
+  "drive_id": "1XBWap0Vk5onCm0JRXGL7ZuZgKpSQY7JAxABHp37uzQw",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 52,
+  "backslash_escapes": 118,
+  "typographic_marks": 162,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systeme",
+      "Systemgrenzen",
+      "Systemintegrität",
+      "Systemische",
+      "Systemisches",
+      "Systemlogik",
+      "Systemregeln",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interesse",
+      "Internal",
+      "International",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Intersubjectivity",
+      "Intersubjektivität",
+      "Interventionen"
+    ],
+    "ident": [
+      "Identifizierte",
+      "Identity",
+      "Identität",
+      "Identitätsarbeit",
+      "Identitätserforschung",
+      "Identitätsfindung",
+      "Identitätskampf",
+      "Identitätsparadoxien",
+      "Identitätstheorie"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrolleure",
+      "Kontrollfehler",
+      "Kontrollmethoden",
+      "Kontrollproblem",
+      "Kontrollsystem",
+      "Kontrollversuch",
+      "Kontrollversuche"
+    ],
+    "reali": [
+      "Realism",
+      "Reality",
+      "Realität",
+      "Realitätsebenen",
+      "Realitätserkundung",
+      "Realitätskonzepten",
+      "Realitätsoberfläche",
+      "Realitätsprüfung",
+      "Realitätswahrnehmung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstausdruck",
+      "Selbstbehauptung",
+      "Selbstempfinden",
+      "Selbsterhaltung",
+      "Selbstfindung",
+      "Selbstmodelle",
+      "Selbstorganisation",
+      "Selbstproduktion"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtereffekt",
+      "Beobachterin",
+      "Beobachterproblem",
+      "Beobachters",
+      "Beobachtervoreingenommenheit",
+      "Beobachtung",
+      "Beobachtungen"
+    ],
+    "infor": [
+      "Information",
+      "Informational",
+      "Informationen",
+      "Informationsfluss",
+      "Informationskompression",
+      "Informationsmanipulation",
+      "Informationsontologie",
+      "Informationstheorie"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterbögen",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charaktergetriebene",
+      "Charakterverhalten"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungselement",
+      "Handlungsereignisse",
+      "Handlungsfähigkeit",
+      "Handlungsmacht",
+      "Handlungspunkte"
+    ],
+    "theor": [
+      "Theorems",
+      "Theoretical",
+      "Theoretische",
+      "Theoretischen",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenanteile",
+      "Schattenarbeit",
+      "Schattenintegration",
+      "Schattenkonfrontation",
+      "Schattens"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationshypothese",
+      "Simulationskritik",
+      "Simulationsregeln",
+      "Simulator"
+    ],
+    "thema": [
+      "Thema",
+      "Themas",
+      "Thematik",
+      "Thematische",
+      "Thematischen",
+      "Thematisches"
+    ],
+    "daten": [
+      "Daten",
+      "Datenintegrität",
+      "Datenstruktur",
+      "Datenströme",
+      "Datenströmen"
+    ],
+    "nicht": [
+      "Nicht",
+      "Nichtlinearität",
+      "Nichtlokale",
+      "Nichtlokalität",
+      "Nichts"
+    ],
+    "spieg": [
+      "Spiegel",
+      "Spiegelbilder",
+      "Spiegeln",
+      "Spiegelstadium",
+      "Spiegelt"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturierung"
+    ],
+    "zusam": [
+      "Zusammenfassung",
+      "Zusammenfügen",
+      "Zusammenspiel",
+      "Zusammenspiels",
+      "Zusammenstoß"
+    ],
+    "begin": [
+      "Beginn",
+      "Beginnende",
+      "Beginnender",
+      "Beginner"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinskonzepte",
+      "Bewusstseinstheorien"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsprobleme",
+      "Bindungsstil",
+      "Bindungstheorie"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialoge",
+      "Dialogical",
+      "Dialogischen"
+    ],
+    "erleb": [
+      "Erleben",
+      "Erlebens",
+      "Erlebnissen",
+      "Erlebt"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmente",
+      "Fragmented",
+      "Fragmentierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakteren"
+    ],
+    [
+      "Akte",
+      "Charakterbögen"
+    ],
+    [
+      "Akte",
+      "Hauptcharaktere"
+    ],
+    [
+      "Akte",
+      "Charakterverhalten"
+    ],
+    [
+      "Akte",
+      "Charaktergetriebene"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Anti",
+      "Antidot"
+    ],
+    [
+      "Auch",
+      "Auftauchen"
+    ],
+    [
+      "Back",
+      "Feedback"
+    ],
+    [
+      "Back",
+      "Feedbackschleifen"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Spiegelbilder"
+    ],
+    [
+      "CORE",
+      "Core"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ]
+  ]
+}

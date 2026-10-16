@@ -1,0 +1,24 @@
+# counts for 18 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Die Stasis-Lücke                  1 word     1 in   [11]
+  Foreshadowing Meta-Ebene          1 word     1 in   [11]
+  Kael                              6 word     6 in   [13, 19, 25, 27, 29, 43]
+  Konstrukt-Stadt                   1 word     1 in   [13]
+  Sektor 04                         1 word     1 in   [13]
+  funktionale Stille                1 word     1 in   [23]
+  Beobachter                        1 word     2 in   [25, 35]
+                                    1      as Beobachter-Resonanz
+  Beobachter-Resonanz               1 word     1 in   [35]
+  AEGIS v.4.2                       1 word     1 in   [33]
+  AEGIS                             1 word     1 in   [33]
+  SYSTEMMELDUNG                     1 word     1 in   [33]
+  Lese-Frequenz                     1 word     1 in   [37]
+  narrative Dichte                  1 word     1 in   [39]
+  Weiß zwischen den Zeilen          1 word     1 in   [41]
+  Wassertropfen                     2 word     2 in   [17, 29]
+  Transformatoren                   1 word     1 in   [23]
+  Fabriken im Untergrund            1 word     1 in   [23]
+  Muster                            1 word     1 in   [43]

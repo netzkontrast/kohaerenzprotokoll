@@ -1,0 +1,14 @@
+# monstergruppe-aegis-und-narrative-moeglichkeiten
+  lines                318  (frontmatter ends at 9)
+  body words           5698
+  headings             25   bold-only lines 0
+  table rows           18   code fences 0
+  question marks       29
+  backslash escapes    70
+  typographic marks    40   ascii quotes 76
+  invisible characters U+200Bx12
+  math symbol lines    1
+  glued ref numbers    78
+  repeated labels      Fokus x4, Manifestation der Monster-Eigenschaften x4
+  longest line         1056 chars
+

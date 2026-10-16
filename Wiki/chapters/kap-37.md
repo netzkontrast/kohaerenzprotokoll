@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 44
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 52
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "dual-storyform-hintergruende-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "outline", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "romanprojekt-analyse-synthese", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "roman-outline-kohaerenz-protokoll-uberarbeitung", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -26,6 +26,14 @@ In der äußeren Heldenreise ist das der Reward, laut Spec und strukturierter Ou
 
 - The paradox report's appendix sketches „eine mögliche Grobstruktur“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L337] over 39 steps or chapters; step 37, in Teil 3: Die Transzendenz, is titled „Die Wahl: Auflösung oder Transformation“ ^[paradoxien-der-kohaerenz-protokoll-entwicklung.md:L381]. A possible structure keyed to its paradox cluster, not the chapter as written.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Rückkehrschwelle`
+
+- The detailed plot draft plans for Kap 37, `Rückkehrschwelle`: „Kann oder will er zurück in eine simulierte Welt?“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L139] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Neue Kohärenz`
+
+- The Moonshine-Brücke blueprint plans for Kap 37, `Neue Kohärenz`: „AEGIS stabilisiert sich und/oder die Simulation durch Anwendung der neuen Erkenntnisse.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L100] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 Title: „Echos im Potentialmeer“ ^[monstergruppe-primzahlen-plot-blueprint.md:L393]
@@ -38,9 +46,21 @@ Position: „Akt III: Integration / Konfrontation (Kapitel 27-39)“ ^[monstergr
 
 - The enriched plot concept's theme draft has for Kapitel 37, under the concept label `Klimax 2: AEGIS' Reaktion / Kollaps`: „löst in AEGIS einen“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L78] The number follows from Teil 3's range (Kapitel 26–39) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Wellen der Ordnung`
+
+- The concept chapter map plans for Kap 37: „Kael/M beginnt, durch seine kohärente Präsenz das Potentialmeer subtil zu beeinflussen“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L379]; AEGIS is „(Irrelevant)“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L380]. A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Neue Ordnung im Potentialmeer`
+
+- The comprehensive concept's overview gives Kap 37 the label „Neue Ordnung im Potentialmeer“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L102] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 37 „Moment der Klarheit“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L70] in its third part, the outer journey and assigns it the primary concept „Übernahme der Selbstführung / Klimaktische Entscheidung“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L70]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — a decision about the future
+
+- The logline analysis proposes for Kap 37: „Kael muss eine Entscheidung über seine Zukunft treffen“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L266] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Die Heimreise
 
@@ -277,6 +297,10 @@ Position: „Resolution\*\* | Kap 37–39“ ^[dual-storyform-hintergruende-md.m
 - Open, Oblivion: „Empfehlung: Oblivion übernimmt als interne Wachheit, die entscheidet statt löscht.“ ^[dual-storyform-hintergruende-md.md:L428] · „Berührt: A-Resolution Kap 37–39.“ ^[dual-storyform-hintergruende-md.md:L428] — both among the „Reset-Doc Appendix C-Punkte“ ^[dual-storyform-hintergruende-md.md:L423] the document restates.
 - No false victory: `trügerisch`, `Gärtner` and `Vortex 2` 0 times.
 
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13, the speech-DNA manual of 2026-05-13 — Kap 37 as the deceptive victory
+
+the speech-DNA manual of 2026-05-13 names the act-mode „Trügerischer Sieg (Kap 37).“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L197] and sets it as „Kristallisierte Ruhe mit feinem Unterton.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L197] The style level stays dominant, yet: „Stilebene 3 dominant, aber unter der Oberfläche beginnt etwas zu zerfasern.“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L197] The AEGIS voice is reduced to „leere Log-Fragmente, abgeschnittene Hex-IDs“ ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L197]. Recorded, not canon.
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Der Gärtner / Trügerischer Sieg“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1134]
@@ -331,6 +355,14 @@ Position: „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkreti
 - Plot beats: „Am Rand: Die Schlange füllt sich mit Einträgen, deren Absender das Rauschen ist“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Rauschen-Vorzeichen; keine Resolution-Glättung]`)
 - Lock conformity: „Keine Resolution-Glättung Kap 37“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L244] · „Der sanfte Apparat zerfasert sichtbar (Rauschen-Absender).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L244]
 - Open point: „vor RS-/Kap-37-Encoding“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L264]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — deceptive peace, and no smoothing of the resolution
+
+The sensory drafting manual sets Kap 37 as „trügerischer Pastoralismus“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1140], a reward beat with „Reward-Beat, kristallisierte Ruhe“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1140], while the resolution is called real elsewhere in that row. In the noise motif it reads: „Kap 37: das Rauschen, das wieder beginnt unter dem trügerischen Frieden.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] Among the prohibitions it lists: „Keine Resolution-Glättung in Kap 37.“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1228] A drafting rule of the manual, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — sets Kap 37 as the deceptive victory
+
+The terms-and-concepts companion places between the vortices „Trügerischer Sieg (Kap 37) als Reward-Beat / falscher Frieden“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L589] Its entry, tagged `[K]`, sets the mood as „kristallisierte Ruhe mit feinem Unterton“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L605] and the constraint „Hard-Constraint: keine Resolution-Glättung.“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L605] The noise that begins there is tied back to Kap 0: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L605] Recorded, not canon.
 
 ## Where the sources differ
 

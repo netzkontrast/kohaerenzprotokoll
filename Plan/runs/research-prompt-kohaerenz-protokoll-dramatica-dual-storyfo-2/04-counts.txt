@@ -1,0 +1,82 @@
+# counts for 50 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                7 word     7 in   [15, 46, 58, 166, 204, 1235]
+  Kael                              8 word     9 in   [172, 174, 177, 192, 367, 696]
+                                    1      as Kaels-Sicht-Storyform
+  Juna                              4 word     5 in   [173, 175, 180, 192, 834]
+                                    1      as Junas
+  AEGIS                             8 word    10 in   [58, 174, 179, 180, 192, 366]
+                                    1      as AEGIS-Architektur
+                                    1      as AEGIS-Sicht-Storyform
+  Ouroboros                         4 word     5 in   [171, 293, 843, 896, 1561]
+                                    1      as Ouroboros-Endings
+  K1                                2 word     2 in   [179, 845]
+  K0                                2 word     2 in   [179, 845]
+  Coherence Kernel                  1 word     1 in   [179]
+  Funktionale Multiplizität         7 word     7 in   [86, 181, 614, 735, 845, 1218]
+  Kernparadoxon                     4 word    10 in   [178, 179, 614, 735, 845, 957]  <-- substring
+  DKT-Kernparadoxon                 5 word     6 in   [179, 614, 735, 957, 1218, 1561]
+                                    1      as DKT-Kernparadoxon-Anker
+  DKT                               1 word    11 in   [58, 86, 159, 179, 291, 614]  <-- substring
+  Dunkle-Körper-Theorie             1 word     1 in   [844]
+  Gödel-Gambit                      2 word     2 in   [182, 835]
+  Gödel-Loop                        1 word     1 in   [30]
+  Coheron                           1 word     1 in   [844]
+  Erason                            1 word     1 in   [844]
+  Landauer-Wärme                    1 word     1 in   [179]
+  Gardener's Axiom                  1 word     1 in   [847]
+  Guardian's Dilemma                1 word     1 in   [847]
+  Silas                             1 word     1 in   [846]
+  Oblivion                          1 word     1 in   [846]
+  ANP                               1 word     1 in   [846]
+  EP                                1 word     1 in   [846]
+  Spiegel                           1 word     2 in   [366, 846]
+                                    1      as Spiegelung
+  13 Alter                          1 word     1 in   [846]
+  Fragmentierung                    1 word     1 in   [845]
+  Fundament                         2 word     2 in   [192, 834]
+  Kernfrage                         5 word     5 in   [170, 176, 614, 843, 1218]
+  Schlüsselbild                     2 word     2 in   [176, 614]
+  Telefonat                         3 word     3 in   [176, 614, 843]
+  Ending-Form                       1 word     1 in   [171]
+  Werk-Anker                       11 word    15 in   [86, 157, 291, 519, 610, 614]
+                                    3      as Werk-Anker-Konsistenzprüfung
+                                    1      as Werk-Anker-Konsistenz-Audit
+  Steinbruch                        2 word     2 in   [159, 184]
+  Story-first                       4 word    11 in   [159, 186, 291, 307, 330, 340]  <-- substring
+                                    4      as Story-first-Pivot
+                                    3      as Story-first-Phase
+  Story-first-Pivot                 4 word     4 in   [186, 291, 307, 340]
+  dekanonisiert                     3 word     3 in   [58, 291, 855]
+  Storyform A                      21 word    21 in   [133, 248, 364, 579, 593, 606]
+  Storyform B                      16 word    16 in   [133, 248, 364, 579, 593, 719]
+  Gegenläufigkeits-Achse           11 word    11 in   [391, 664, 735, 926, 945, 947]
+  Aufhebung                         3 word     3 in   [719, 893, 1219]
+  TRACE                             4 word     4 in   [25, 137, 139, 917]
+  Story-Mind                        2 word     4 in   [30, 216, 592, 804]
+                                    1      as Story-Mind-Logik
+                                    1      as Story-Mind-These
+  Storyform                        93 word   197 in   [15, 31, 32, 38, 39, 46]  <-- substring
+                                   42      as Storyforms
+                                    8      as Storyform-Zuordnung
+                                    5      as Storyform-Konstruktion
+                                    3      as Storyform-Zuordnungen
+  Throughline                      13 word    28 in   [31, 59, 63, 192, 213, 216]  <-- substring
+                                    6      as Throughline-Verteilung
+                                    5      as Throughlines
+                                    1      as Throughline-Mechanik
+                                    1      as throughlines
+  Overall Story                     2 word     2 in   [352, 407]
+  Impact Character                  1 word     1 in   [173]
+  Klimax                            2 word     2 in   [182, 835]
+  Dramatica                        21 word    64 in   [15, 30, 31, 34, 35, 46]  <-- substring
+                                    7      as Dramatica-Theorie
+                                    6      as Dramatica-Element-Matrix
+                                    3      as Dramatica-Storyform-Mapping
+                                    3      as Dramatica-Konsistenz
+  ReAct                             3 word     5 in   [25, 63, 93, 95, 965]
+                                    1      as ReAct-Zyklus
+                                    1      as ReAct-Schleifen

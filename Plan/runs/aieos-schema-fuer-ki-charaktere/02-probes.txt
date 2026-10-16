@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      39
+  backslash escapes      174
+  typographic marks      0
+  ascii quotes           1298
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systeme, Systemen, Systemgrenzen, Systemische, Systemnahe, Systemprogrammiersprachen, Systems, Systemänderungen
+  ausfü    Ausführern, Ausführung, Ausführungspräferenzen, Ausführungsschicht, Ausführungsschleifen, Ausführungszyklen
+  archi    Architecture, Architektonische, Architektur, Architekturen
+  daten    Daten, Datenfragmente, Datenobjekt, Datenschemas
+  entit    Entity, Entität, Entitäten, Entitätsidentifikationen
+  kompi    Kompilat, Kompilieren, Kompilierungsschleifen, Kompilierzeit
+  laufz    Laufzeit, Laufzeiten, Laufzeitumgebung, Laufzeitumgebungen
+  minim    Minimalistische, Minimalistischer, Minimierung, Minimum
+  model    Modell, Modelle, Modells, Models
+  spezi    Spezifikation, Spezifikationen, Spezifikationsgrundlage, Spezifikationsstandards
+  sprac    Sprache, Sprachen, Sprachmodell, Sprachmodelle
+  agent    AGENTS, Agent, Agenten
+  algor    Algorithm, Algorithmic, Algorithmisch
+  chara    Character, Characters, Charakteristika
+  diese    Diese, Dieser, Dieses
+  emoti    EmotionState, Emotional, Emotionalen
+  engin    Engineering, Engineerings, Engines
+  entro    Entropic, Entropie, Entropy
+  gener    Generation, Generierung, Generierungszyklen
+  insta    Instanz, Instanziiert, Instanziierung
+  integ    Integration, Integrity, Integrität
+  isola    Isolated, Isolation, Isolationsmechanismen
+  kalts    Kaltstartlatenz, Kaltstartzeit, Kaltstartzeiten
+  knote    Knoten, Knotenpunkt, Knotenpunkte
+  konte    Kontext, Kontextfenster, Kontextlänge
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Wallets
+  Auch < Verbrauch
+  Card < Cards
+  Code < CodeAct
+  Code < Quellcode
+  Code < Codeumfang
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Exit < Komplexität
+  Feld < Felder
+  Form < Format
+  Form < Formate
+  Form < Plattform
+  Form < Storyform
+  Form < Plattformen
+  Form < Informationen
+  Form < Transformation
+  Grad < Degradierung

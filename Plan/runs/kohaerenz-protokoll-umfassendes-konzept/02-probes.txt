@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      9
+  backslash escapes      0
+  typographic marks      3
+  ascii quotes           42
+
+# inflection families -- one term, several surfaces
+  ident    Identifikation, Identität, Identitätsparadoxien, Identitätsstörung
+  kernw    Kernwahrheit, Kernwelt, Kernwelten, Kernwunde
+  insta    Instabiler, Instabilität, Instanzen
+  kernt    Kernthemen, Kerntrauma, Kerntraumas
+  monst    Monster, Monstergruppe, Monstrous
+  muste    Muster, Mustererkennung, Mustern
+  netzw    Netzweber, Netzwerk, Netzwerke
+  poten    Potential, Potentialität, Potentialmeer
+  schat    Schatten, Schattenanteilen, Schattenkonfrontation
+  syste    System, Systems, Systemtheorie
+  allta    Alltag, Alltagsintegrationstest
+  analy    Analyse, Analysen
+  angst    Angst, Angstsimulationen
+  archi    Architekt, Architektur
+  aspek    Aspekte, Aspekts
+  chara    Charaktere, Charakterreise
+  disso    Dissoziation, Dissoziative
+  einbl    Einblicke, Einblicken
+  emerg    Emergent, Emergenz
+  erzäh    Erzähler, Erzählstil
+  guard    Guardian, Guardians
+  herau    Herausforderung, Herausforderungen
+  integ    Integration, Integrationsversuche
+  inter    Intern, Internal
+  intui    Intuition, Intuitionsquelle
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Seine
+  Kael < Kaels
+  Kern < Kernwelt
+  Kern < Kernwunde
+  Kern < Kernthemen
+  Kern < Kerntrauma
+  Kern < Kernwelten
+  Kern < Kerntraumas
+  Kern < Kernkonflikt
+  Kern < Kernprämisse
+  Kern < Kernwahrheit
+  Meta < Metapher
+  Meta < Metaphern
+  Raum < Trauma
+  Raum < Kerntrauma
+  Raum < Kerntraumas
+  Stil < Erzählstil
+  Teil < Teile
+  Teil < Anteile
+  Teil < Schattenanteilen

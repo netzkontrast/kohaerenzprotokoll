@@ -1,0 +1,77 @@
+# counts for 46 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            36 word    36 in   [16, 38, 93, 103, 122, 132]
+  Potentialmeer                    22 word    29 in   [16, 59, 93, 94, 103, 104]
+                                    3      as Potentialmeers
+                                    1      as Potentialmeer-Grenze
+                                    1      as Potentialmeer-Einflüsse
+                                    1      as Potentialmeer-Interface
+  Simulation                       54 word    59 in   [16, 26, 59, 71, 93, 94]
+                                    1      as Simulations-Schnittstelle
+                                    1      as Simulationsstruktur
+                                    1      as Simulationsebene
+                                    1      as Simulationsgrenze
+  Kernwelten                        3 word     3 in   [114, 150]
+  Monstergruppe                     2 word     2 in   [16, 161]
+  M                                63 word   169 in   [15, 16, 17, 26, 35, 42]  <-- substring
+  K-J Verbindung                   17 word    18 in   [16, 95, 123, 149, 161, 171]
+  Moonshine-Signatur                1 word     1 in   [95]
+  Risse                            13 word    14 in   [16, 104, 110, 146, 147, 193]
+                                    1      as Rissen
+  NZT-Ideal                         1 word     1 in   [16]
+  Wächter-KI                        1 word     1 in   [16]
+  Kohärenz Protokoll                9 word     9 in   [11, 13, 15, 73, 75, 85]
+  KP                               23 word    30 in   [15, 16, 17, 26, 59, 70]
+  VOA                               8 word    11 in   [94, 148, 152, 154, 160, 161]
+  Schutzbarriere                    1 word     1 in   [16]
+  Boundary-Beschreiber              1 word     1 in   [93]
+  Holographisches Prinzip           2 word     2 in   [188, 338]
+  HP                               36 word    36 in   [15, 17, 26, 35, 38, 67]
+  Bulk                             35 word    47 in   [51, 56, 71, 78, 79, 83]
+                                    3      as Bulks
+                                    2      as Bulk-Physik
+                                    1      as Bulk-AdS-Raum
+                                    1      as Bulk-Information
+  Boundary                         23 word    66 in   [25, 52, 78, 79, 83, 93]  <-- substring
+                                   15      as Boundary-Theorie
+                                    6      as Boundary-Korrelationen
+                                    5      as Boundary-CFT
+                                    1      as Boundary-Beschreiber
+  Grenze                           46 word    90 in   [16, 21, 25, 26, 27, 36]
+                                   19      as Grenzen
+  Facetten                         14 word    14 in   [17, 87, 93, 94, 95, 103]
+  Informationsüberlauf              4 word     4 in   [108, 147, 193, 227]
+  Projektionsfehler                 5 word     5 in   [109, 147, 193, 222, 228]
+  Granularitätseffekte              4 word     4 in   [110, 124, 147, 193]
+  Raumzeit-Granularität/Pixelierung    2 word     2 in   [69, 82]
+  Raumzeit-Granularität             4 word     4 in   [69, 70, 82, 229]
+  Pixelierung                       6 word     8 in   [69, 82, 110, 222, 229, 263]
+  Holographisches Rauschen          1 word     1 in   [70]
+  Quantenschaum                     1 word     1 in   [110]
+  M als Boundary-Theorie            4 word     4 in   [160, 192, 238, 241]
+  Redundanzprüfung                  1 word     1 in   [175]
+  Bulk/Boundary Dualität            1 word     1 in   [78]
+  AdS/CFT                          22 word    37 in   [42, 47, 56, 57, 59, 70]
+                                    8      as AdS/CFT-Korrespondenz
+                                    2      as AdS/CFT-Analogie
+                                    1      as AdS/CFT-Mechanismus
+                                    1      as AdS/CFT-Konsistenz
+  AdS/CFT-Korrespondenz             8 word     8 in   [42, 56, 57, 59, 201, 202]
+  Bekenstein-Grenze                24 word    24 in   [36, 38, 67, 69, 77, 103]
+  Informationsparadoxon             2 word     3 in   [35, 38, 81]
+                                    1      as Informationsparadoxons
+  ER=EPR                            4 word     5 in   [71, 123, 149, 191, 250]
+                                    1      as ER=EPR-Analogie
+  Verschränkungsentropie            3 word     3 in   [71, 83]
+  Stark-Schwach-Dualität            3 word     3 in   [57, 206]
+  Konforme Feldtheorie              1 word     2 in   [47, 52]
+  Vertex-Operator-Algebren          1 word     1 in   [16]
+  Quantengravitation                7 word     8 in   [25, 27, 46, 51, 59, 69]
+                                    1      as Quantengravitationstheorie
+                                    1      as quantengravitation-woraus-besteht-die-raumzeit
+  Informationserhaltung             1 word     1 in   [81]
+  Unitarität                        2 word     2 in   [35]
+  Holometer-Experiment              1 word     1 in   [70]

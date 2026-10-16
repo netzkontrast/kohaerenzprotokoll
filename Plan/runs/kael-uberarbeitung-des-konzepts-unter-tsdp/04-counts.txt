@@ -1,0 +1,70 @@
+# counts for 56 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              5 word     9 in   [11, 13, 15, 17, 19, 21]
+                                    4      as Kaels
+  Kaels                             4 word     4 in   [15, 17, 121]
+  AEGIS                            13 word    13 in   [17, 23, 44, 80, 95, 99]
+  Juna                              3 word     3 in   [99, 114, 117]
+  Juna/V                            2 word     2 in   [114, 117]
+  Lex                               3 word     3 in   [39, 94, 96]
+  Kiko                              5 word     5 in   [48, 62, 94, 95, 97]
+  Nyx                               3 word     3 in   [57, 94, 95]
+  Rhys                              3 word     3 in   [66, 96, 97]
+  Kai                               1 word     1 in   [75]
+  Selene                            3 word     3 in   [84, 88, 112]
+  Der Logiker                       1 word     1 in   [39]
+  Das Kind                          1 word     1 in   [48]
+  Der Schatten                      1 word     1 in   [57]
+  Der Relationale Anteil            1 word     1 in   [66]
+  Der Kreativ-Intuitive             1 word     1 in   [75]
+  Die Wächterin                     1 word     1 in   [84]
+  Wächterin/Selene                  1 word     1 in   [112]
+  Personas                          3 word     3 in   [22, 35, 37]
+  Konstrukt-Stadt                   2 word     2 in   [44, 97]
+  Grenzfeste                        1 word     1 in   [97]
+  Kernwelten                        1 word     1 in   [95]
+  Cache Kohärenz                    2 word     2 in   [22, 95]
+  Pressure Points                   1 word     1 in   [92]
+  Paradoxon X                       1 word     1 in   [116]
+  Kohärenz Protokoll                1 word     1 in   [15]
+  TSDP-Rolle                        6 word     6 in   [43, 52, 61, 70, 79, 88]
+  Funktion                          5 word    12 in   [15, 17, 44, 53, 62, 70]  <-- substring
+                                    2      as Funktionsweise
+                                    2      as Funktionen
+                                    2      as Funktionalität
+                                    1      as Funktionieren
+  Systemstruktur                    1 word     1 in   [24]
+  Kernproblem                       1 word     1 in   [22]
+  Anscheinend Normale(n) Teil(en)    1 word     1 in   [28]
+  Emotionale(n) Teil(en)            1 word     1 in   [29]
+  ANP                              14 word    25 in   [15, 17, 22, 28, 33, 35]
+  ANPs                              8 word     8 in   [22, 28, 37, 96, 103, 105]
+  EP                               11 word    31 in   [15, 17, 22, 28, 29, 33]  <-- substring
+  EPs                              15 word    15 in   [22, 28, 29, 37, 43, 62]
+  ANP-Phobie vor EPs                1 word     1 in   [94]
+  EP-Intrusionen                    2 word     2 in   [43, 95]
+  Konflikte zwischen ANPs           1 word     1 in   [96]
+  Fehlanpassung von Teilen an die Umgebung    1 word     1 in   [97]
+  Amnesie und Ko-Bewusstseinsmangel    1 word     1 in   [98]
+  Realisation                       1 word     1 in   [105]
+  Transformation von Trauma-Erinnerungen    1 word     1 in   [106]
+  Überwindung von Phobien           1 word     1 in   [107]
+  Erhöhte Ko-Bewusstheit            1 word     1 in   [108]
+  Personifikation & Mentalisierung    1 word     1 in   [109]
+  Integration von Funktionen        1 word     1 in   [110]
+  Integrationsziel                  1 word     1 in   [101]
+  psychoforme Systeme               1 word     1 in   [17]
+  Theorie der Strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [15]
+  TSDP                              6 word    15 in   [11, 15, 33, 43, 52, 61]  <-- substring
+                                    6      as TSDP-Rolle
+                                    1      as TSDP-Sicht
+                                    1      as TSDP-Sinne
+                                    1      as TSDP-Dynamiken
+  Strukturelle Dissoziation         1 word     1 in   [22]
+  Tertiäre Dissoziation             1 word     1 in   [22]
+  Co-Consciousness                  1 word     1 in   [33]
+  Fight-Type ANP                    1 word     1 in   [61]
+  IFS                               1 word     1 in   [15]

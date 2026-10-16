@@ -1,0 +1,14 @@
+# narrative-techniken-fuer-kohaerenz-protokoll
+  lines                633  (frontmatter ends at 9)
+  body words           14439
+  headings             25   bold-only lines 37
+  table rows           28   code fences 0
+  question marks       58
+  backslash escapes    139
+  typographic marks    207   ascii quotes 18
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    152
+  repeated labels      none
+  longest line         1352 chars
+

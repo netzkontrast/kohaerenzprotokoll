@@ -1,0 +1,178 @@
+{
+  "document": "monstergruppe-primzahlen-plot-neukonstruktion",
+  "drive_id": "141lW6EphPL2E35h_xTBprW-D_ghRETvkn5TL5b92f5k",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and six chapter readings (Kap 1–5, 39) by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-432/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a plot blueprint naming AEGIS a Wächter-KI",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 55,
+    "decisions": 56,
+    "decided_by_lookup": 42,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plot blueprint of 39 chapters/beats in three acts joining the Monster group as the simulation's foundation and a prime-number metaphor for AEGIS's reductionism: its new surfaces are M as foundation, the M-Substrat, the metaphor, the K-J connection's Moonshine signature, AEGIS's protocols, the Sandbox, the chapter titles, field labels and borrowed concepts; what it plans for AEGIS, Kael, Juna, the alters, DID, the Kernwelt, the Potentialmeer, the Risse, the simulation and the Moonshine link went on existing pages, and Kap 1–5 and 39 on their pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        32,
+        54,
+        75,
+        86,
+        167,
+        177,
+        191
+      ],
+      "attribution": "",
+      "note": "AEGIS planned as a failing guardian AI whose prime-number reductionism collapses"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        99,
+        122
+      ],
+      "attribution": "",
+      "note": "Kael's fragments planned in two chapter ranges"
+    },
+    {
+      "page": "did",
+      "lines": [
+        34,
+        78
+      ],
+      "attribution": "",
+      "note": "Kael's fragmentation as DID-analogous"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        107,
+        146,
+        187
+      ],
+      "attribution": "",
+      "note": "Juna's presence is hedged"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        34,
+        45,
+        47,
+        57,
+        78,
+        99,
+        122,
+        167,
+        187
+      ],
+      "attribution": "",
+      "note": "Kael as the irreducible protagonist"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "one mention, in Kap 1"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        35,
+        146
+      ],
+      "attribution": "",
+      "note": "the K-J connection planned as a Moonshine signature"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        32,
+        167
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as pre-real substrate and AEGIS's origin"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        19,
+        46,
+        80
+      ],
+      "attribution": "",
+      "note": "the Glitch as first crack"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        33,
+        75,
+        167
+      ],
+      "attribution": "",
+      "note": "the simulation and the M structure beneath it"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      39
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael-Entität` and `Kael's Resonanz & Integration` read with kael; `AEGIS & Primzahl-Metapher` a field label read with aegis; `Faktorisierungsrisse` and `Der Glitch` read on risse; `Moonshine` read on moonshine-link where the line is about the K-J connection; `Kohärenz Protokoll` and `Coda: Kohärenz` titles",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "Act 2's label Paradoxon/Emergenz"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 15,
+      "decision": "reading",
+      "why": "M as the framework of the simulation"
+    }
+  ],
+  "not_promoted": [
+    "Monstergruppe (M) als Fundament, M-Substrat, Primzahl-Metapher, K-J Verbindung (Moonshine-Signatur), Kael-Entität, Sandbox, Protokoll Omega, Eindämmungsprotokoll K-Alpha, Primzahl-Gitter, Faktorisierungsrisse, Nebenfigur, the chapter titles, the field labels and the borrowed concepts"
+  ],
+  "internal_tension": "it calls itself final and its frame definitive (L15, L23) while Juna's presence stays hedged („falls vorhanden“, L146); Kap 6–38 stand only in ranges — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

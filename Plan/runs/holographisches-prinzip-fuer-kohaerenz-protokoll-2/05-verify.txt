@@ -1,0 +1,100 @@
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Fazit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fazit` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#2]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Empfehlung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Empfehlung` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#4]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Gesamturteil"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Gesamturteil` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#1]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "AEGIS"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`AEGIS` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#36]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Wächter-KI"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wächter-KI` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#1]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Monstergruppe"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Monstergruppe` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#2]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "NZT-Ideal"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`NZT-Ideal` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#1]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Moonshine"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Moonshine` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#5]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "K-J Verbindung"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            18
+
+`K-J Verbindung` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#17]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Risse"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            14
+
+`Risse` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#13]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Kernwelten"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernwelten` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#3]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#0]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#0]
+$ read.py holographisches-prinzip-fuer-kohaerenz-protokoll-2 --count "Riss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            15
+
+`Riss` ^[holographisches-prinzip-fuer-kohaerenz-protokoll-2.md:#1]
+$ numbers in census prose: 154 backslash escapes, 21 glued, 11384 chars, 2 headings: from 01-profile.txt
+# holographisches-prinzip-fuer-kohaerenz-protokoll-2
+  lines                300  (frontmatter ends at 9)
+  body words           7498
+  headings             2   bold-only lines 7
+  table rows           18   code fences 0
+  question marks       38
+  backslash escapes    154
+  typographic marks    41   ascii quotes 144
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    21
+  repeated labels      none
+  longest line         11384 chars
+
+77. 

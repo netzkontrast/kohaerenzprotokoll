@@ -1,0 +1,57 @@
+{
+  "document": "codex-optimierung-fuer-kohaerenz-protokoll",
+  "drive_id": "1ErrA2EisDX9xQV9kbm1sHlEP1dGuv00CQJ1wv4-nqyQ",
+  "step": "reconcile",
+  "at": "2026-10-15",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-15, from the full-ingest task with no count before the list; rlm_ingest not run; a first reading was discarded uncommitted because its list held `TSDP`, which stands only in hyphen compounds, and quotes.py refused the zero as zero only by case; the note was made pronoun-neutral before commit; light pass, no readings — a tooling report whose novel material is sample data",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 48,
+    "decided_by_lookup": 33,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report on configuring an AI-assisted writing tool for the novel: its figures and world values are sample data in templates and two hypothetical scenes, so its vocabulary stays in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the figures, parts and world codes are sample data for a writing tool, not statements about the story; world codes never expanded; `TSDP` listed in the compounds it stands in; names of people never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 43,
+      "decision": "occurrence",
+      "why": "sample data for a writing tool; light pass"
+    }
+  ],
+  "not_promoted": [
+    "the tool's templates, the Codex field names, the master prompt, the three-tier context strategy, the hypothetical scenes, and the sample world and part values"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

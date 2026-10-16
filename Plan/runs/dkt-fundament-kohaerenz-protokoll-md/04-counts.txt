@@ -1,0 +1,115 @@
+# counts for 91 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             14 word    24 in   [112, 116, 121, 123, 124, 129]
+                                    9      as Kaels
+                                    1      as Kael-Aspekt
+  Juna                             15 word    17 in   [107, 131, 134, 138, 139, 141]
+                                    1      as Junas
+                                    1      as Juna-Entscheidung
+  AEGIS                            22 word    26 in   [70, 79, 80, 100, 104, 105]
+                                    1      as AEGIS-Aspekt
+                                    1      as AEGIS-Nexus
+                                    1      as AEGIS-Schicksal
+                                    1      as AEGIS-Log-Physik
+  Kael (Host)                       1 word     1 in   [124]
+  Host                              1 word     1 in   [124]
+  Mara/Firefighter                  1 word     1 in   [125]
+  Mara                              1 word     1 in   [125]
+  Firefighter                       1 word     1 in   [125]
+  Der Architekt/Exile               1 word     1 in   [126]
+  Der Architekt                     2 word     2 in   [126, 268]
+  Exile                             1 word     1 in   [126]
+  Eos/Manager                       1 word     1 in   [127]
+  Eos                               1 word     1 in   [127]
+  Manager                           1 word     1 in   [127]
+  Allen Orbital Lattice             2 word     2 in   [126, 268]
+  Gitter                            1 word     1 in   [126]
+  Kernzone (AEGIS-Nexus)            1 word     1 in   [164]
+  Arbeits-Sektoren                  1 word     1 in   [165]
+  Grenzquartiere                    1 word     1 in   [166]
+  Dunkle Zonen                      1 word     1 in   [167]
+  Das Archiv (Theta-9)              1 word     1 in   [168]
+  Theta-9                           2 word     2 in   [168, 267]
+  Ursprungstrauma                   5 word     5 in   [116, 129, 180, 224, 279]
+  Sektorisierung                    1 word     1 in   [155]
+  Löschprotokolle                   1 word     1 in   [180]
+  AEGIS INTEGRITY LOG               1 word     1 in   [248]
+  Kohärenz-Index                    1 word     1 in   [249]
+  PAL-Frequenz                      1 word     1 in   [250]
+  Neue Stadttopologie               1 word     1 in   [160]
+  Reversibilitäts-Hubs              1 word     1 in   [156]
+  Entropie-Senken                   1 word     1 in   [157]
+  algorithmische Melancholie        1 word     1 in   [226]
+  Erzwungenes Nicht-Sehen           1 word     1 in   [224]
+  Dual-Kernel-Theorie               1 word     1 in   [9]
+  Dual-Kernel-Substrat              1 word     1 in   [17]
+  DKT                              16 word    28 in   [1, 9, 98, 102, 110, 112]
+  Naturgesetz                       1 word     1 in   [9]
+  K₁                                6 word    27 in   [21, 24, 36, 40, 50, 92]  <-- substring
+  K₀                               10 word    28 in   [28, 36, 47, 66, 67, 86]  <-- substring
+  K₁ (Kohärenz-Kernel)              1 word     1 in   [21]
+  K₀ (Kollaps-Kernel)               1 word     1 in   [28]
+  Kohärenz-Kernel                   1 word     1 in   [21]
+  Kollaps-Kernel                    1 word     1 in   [28]
+  Grenzfläche                       5 word     5 in   [35, 36, 176, 192]
+  Romanschauplatz                   1 word     1 in   [35]
+  Coherons                          4 word     4 in   [9, 38, 40, 191]
+  Coheron                           2 word    18 in   [9, 38, 40, 44, 45, 76]  <-- substring
+                                    4      as Coherons
+                                    4      as Coheron-Netzwerk
+                                    2      as Coheron-Netzwerks
+                                    2      as Coheron-Inseln
+  Erasonen                          3 word     3 in   [38, 47, 191]
+  Erason                            1 word    11 in   [38, 47, 51, 85, 144, 145]  <-- substring
+                                    3      as Erasonen
+                                    2      as Erason-Ereignis
+                                    2      as Erason-Inversion
+                                    1      as Erason-Löschung
+  Coheron-Netzwerk                  4 word     7 in   [44, 45, 85, 192, 205, 222]
+                                    2      as Coheron-Netzwerks
+                                    1      as Coheron-Netzwerke
+  Coheron-Inseln                    2 word     2 in   [116, 119]
+  Coheron-Subschleife               1 word     1 in   [117]
+  Erason-Ereignis                   2 word     3 in   [51, 180, 240]
+                                    1      as Erason-Ereignisses
+  Erason-Löschung                   1 word     1 in   [85]
+  Erason-Inversion                  2 word     2 in   [144, 275]
+  Tags of Erasure                   1 word     1 in   [50]
+  Persistenzgleichung               7 word     7 in   [53, 104, 191, 192, 202, 222]
+  Persistenz-Score                  1 word     1 in   [63]
+  Reversibilitätseffizienz          1 word     1 in   [64]
+  Pufferkapazität                   4 word     4 in   [67, 106, 126, 153]
+  Mutuale Information               1 word     1 in   [65]
+  Phasensymmetrie                   3 word     3 in   [23, 43, 236]
+  Phase Alignment Lock / PAL        1 word     1 in   [76]
+  PAL                               4 word     8 in   [76, 77, 78, 80, 108, 118]
+  Phase-Alignment-Bruch             1 word     1 in   [118]
+  Zeitpfeil                         2 word     2 in   [24, 31]
+  Witness Function (Zeugenfunktion)    1 word     1 in   [123]
+  Witness Function                  6 word     6 in   [123, 129, 204, 224, 240, 279]
+  Zeugenfunktion                    4 word     4 in   [123, 129, 190, 205]
+  Collapse Susceptibility Index     1 word     1 in   [110]
+  CSI                               7 word     7 in   [110, 127, 155, 202, 226, 251]
+  Thermodynamic Graph Fields (TGF)    1 word     1 in   [151]
+  TGF                               2 word     2 in   [151]
+  thermodynamische Wellen           1 word     1 in   [158]
+  Bootstrapping-Rekonfigurationswelle    1 word     1 in   [92]
+  Dunkle Materie                    5 word     5 in   [170, 174, 178, 180, 283]
+  Gravitationsermüdung              1 word     1 in   [285]
+  K₁-Macro-Puffer                   1 word     1 in   [104]
+  Kohärenz-Anomalie                 1 word     1 in   [131]
+  Re-Verkabelung                    1 word     1 in   [119]
+  Identitätsfragmente               1 word     1 in   [117]
+  Option A                          1 word     1 in   [138]
+  Foreshadowing-Architektur         1 word     1 in   [194]
+  OQ-01                             1 word     1 in   [220]
+  Markov Random Fields              1 word     1 in   [151]
+  Landauer's Prinzip                1 word     1 in   [198]
+  Landauer-Budget                   1 word     1 in   [257]
+  Bekenstein-Bound                  1 word     1 in   [207]
+  Euler'sche Identität              1 word     1 in   [210]
+  Dasein                            2 word     2 in   [204, 205]
+  Geworfenheit                      1 word     1 in   [205]

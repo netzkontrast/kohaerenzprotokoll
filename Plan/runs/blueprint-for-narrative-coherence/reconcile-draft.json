@@ -1,0 +1,124 @@
+{
+  "document": "blueprint-for-narrative-coherence",
+  "drive_id": "1KpldnyuDAmZK5uG7EpMAS3CUl-0TRxAizwqf5BHG9uw",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 23,
+    "decisions": 23,
+    "decided_by_lookup": 20,
+    "needs_judgement": 3
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        39,
+        51
+      ],
+      "attribution": "",
+      "note": "AEGIS's world as brittle artifice, and a frequency its logic cannot perceive"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "Juna as a resonance across the Moonshine-Link"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        17,
+        19,
+        35,
+        65
+      ],
+      "attribution": "",
+      "note": "Kael inside normalcy, and a single doubt"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        19
+      ],
+      "attribution": "",
+      "note": "Kael's function within Kernwelt 1"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        39,
+        51
+      ],
+      "attribution": "",
+      "note": "Kiko as the child part behind the light and the wave"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        17,
+        21,
+        23
+      ],
+      "attribution": "",
+      "note": "the city seen from the viewport"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "the link as a non-local bond carrying a quale"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the Nothingness Noise as the pressure the system defends against"
+    }
+  ],
+  "chapters": {
+    "readings_on": [
+      1
+    ]
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 71,
+      "decision": "occurrence",
+      "why": "a reference title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

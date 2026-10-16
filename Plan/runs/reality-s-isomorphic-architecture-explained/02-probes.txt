@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      10
+  backslash escapes      121
+  typographic marks      24
+  ascii quotes           194
+
+# inflection families -- one term, several surfaces
+  disso    Dissociated, Dissociation, Dissolution, Dissonance
+  psych    Psyche, Psychological, Psychologically, Psychology
+  inter    Interface, Internal, Intervention
+  isomo    Isomorphic, Isomorphism, Isomorphisms
+  prote    Protection, Protector, Protectors
+  artif    Artifact, Artificial
+  burde    Burden, Burdens
+  compa    Compassion, Compassionate
+  compl    Complex, Complexity
+  conne    Connectedness, Connection
+  corru    Corrupted, Corruption
+  criti    Critic, Critics
+  explo    Explosion, Explosions
+  failu    Failure, Failures
+  firef    Firefighter, Firefighters
+  flash    Flashback, Flashbacks
+  force    Forceful, Forces
+  fragm    Fragmentation, Fragments
+  funct    Function, Functionality
+  glitc    Glitch, Glitches
+  gravi    Gravitational, Gravity
+  group    Group, Groups
+  hyper    Hyperreal, Hyperreality
+  maint    Maintaining, Maintenance
+  manag    Manager, Managers
+
+# substring pairs -- never one term, often merged by accident
+  Even < Event
+  Hole < Whole
+  Hole < Wormhole
+  Mind < Minds
+  Part < Parts
+  Plan < Planck
+  Real < Reality
+  Real < Hyperreal
+  Real < Realities
+  Real < Hyperreality
+  Agent < Wissensagenten
+  Brane < Membrane
+  Group < Groups
+  Group < Subgroups
+  World < Worlds
+  Burden < Burdens
+  Burden < Unburdening
+  Critic < Critics
+  Glitch < Glitches
+  Groups < Subgroups

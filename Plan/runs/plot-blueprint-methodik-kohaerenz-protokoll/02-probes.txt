@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      223
+  typographic marks      7
+  ascii quotes           96
+
+# inflection families -- one term, several surfaces
+  chara    Character, Charakter, Charakterbogen, Charakterbögen, Charaktere, Charaktereigenschaften, Charakteren, Charakterentwicklung, Charaktererfahrung, Charaktererfahrungen, Charakterhandlung, Charakterhandlungen, Charaktermerkmal, Charakterparadox, Charakterparadoxien, Charakterpsychologie, Charakters, Charakterverhalten, Charakterverkörperung, Charakterzustände
+  syste    System, Systemdynamik, Systeme, Systemen, Systemgrenzen, Systeminstabilität, Systeminteraktion, Systemische, Systemkontrolle, Systemlogik, Systemregeln, Systems, Systemtheorie, Systemverfall, Systemverhalten, Systemwahrnehmung, Systemzustand, Systemzwänge
+  infor    Information, Informationen, Informations, Informationsentropie, Informationsfluss, Informationshalden, Informationssuche, Informationstheorie, Informationsverlust, Informationsvisualisierung, Informierte
+  umgeb    Umgebung, Umgebungen, Umgebungsbeschreibungen, Umgebungseinfluss, Umgebungselemente, Umgebungsgestaltung, Umgebungshinweise, Umgebungsinteraktionen, Umgebungsmetaphern, Umgebungsverfall
+  erzäh    Erzählen, Erzählens, Erzähler, Erzählperspektive, Erzählsituation, Erzählstimme, Erzählung, Erzählweise
+  psych    Psych, Psyche, Psychological, Psychologie, Psychologische, Psychologischen, Psychologischer, Psychology
+  inter    Interaktion, Interaktionen, Internal, Interpretation, Interpretationen, Intervention, Interventionen
+  archi    Archipel, Architecture, Architektonische, Architektur, Architekturdesign, Architekturen
+  abstr    Abstrakte, Abstrakten, Abstrakter, Abstraktion, Abstraktionen
+  besch    Beschreiben, Beschreibung, Beschreibungen, Beschränkungen, Beschützer
+  gesch    Geschichte, Geschieht, Geschlechter, Geschmack, Geschriebene
+  handl    Handlung, Handlungen, Handlungsbasierte, Handlungsmacht, Handlungssynopsis
+  konfl    Konflikt, Konfliktaussagen, Konflikte, Konflikten, Konflikts
+  kontr    Kontrast, Kontrolle, Kontrollebene, Kontrollprotokolle, Kontrollverlust
+  konze    Konzept, Konzepte, Konzepten, Konzeptionelle, Konzepts
+  metap    Metapher, Metaphern, Metaphor, Metaphorische, Metaphors
+  narra    Narrativ, Narrative, Narrativer, Narratives, Narrativtheorie
+  anwen    Anwendung, Anwendungen, Anwendungshinweise, Anwendungsmatrix
+  bewus    Bewusste, Bewusstsein, Bewusstseins, Bewusstseinsverschiebungen
+  diese    Diese, Dieselbe, Dieser, Dieses
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziative
+  effek    Effekt, Effekte, Effektive, Effektives
+  embod    EMBODIED, EMBODIMENT, Embodied, Embodiment
+  funkt    Funktion, Funktionaler, Funktionen, Funktionieren
+  ident    Identity, Identität, Identitätsstörung, Identitätsunterbrechung
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Dieselbe
+  Fall < Falls
+  Fall < Verfall
+  Fall < Verfalls
+  Fall < Systemverfall
+  Fall < Umgebungsverfall
+  Fall < Gedächtnisverfall
+  Form < Formen
+  Form < Information
+  Form < Informierte
+  Form < Informations
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsfluss
+  Form < Informationssuche
+  Form < Informationshalden
+  Form < Informationstheorie

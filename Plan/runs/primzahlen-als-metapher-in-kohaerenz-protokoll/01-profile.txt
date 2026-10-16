@@ -1,0 +1,14 @@
+# primzahlen-als-metapher-in-kohaerenz-protokoll
+  lines                286  (frontmatter ends at 9)
+  body words           4793
+  headings             2   bold-only lines 31
+  table rows           21   code fences 0
+  question marks       10
+  backslash escapes    42
+  typographic marks    38   ascii quotes 8
+  invisible characters U+200Bx2
+  math symbol lines    0
+  glued ref numbers    80
+  repeated labels      Beschreibung x6, Metaphorisches Potenzial x6
+  longest line         1633 chars
+

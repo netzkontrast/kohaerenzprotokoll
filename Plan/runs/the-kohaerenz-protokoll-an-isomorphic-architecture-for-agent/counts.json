@@ -1,0 +1,499 @@
+{
+  "document": "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+  "drive_id": "1KTOzz0YotlBS78uZotiCjF41B9i_uuyyXURhBvIIY0E",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        17
+      ]
+    },
+    "NovelOS": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        13,
+        17,
+        24,
+        28,
+        30,
+        34,
+        38,
+        148,
+        152,
+        156,
+        158,
+        172,
+        177,
+        185,
+        189,
+        193,
+        197,
+        201
+      ]
+    },
+    "AEGIS": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        17,
+        21,
+        22,
+        24,
+        34,
+        74
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        24,
+        40,
+        48,
+        166,
+        185
+      ]
+    },
+    "System Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        40,
+        48,
+        185
+      ]
+    },
+    "Juna": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        170
+      ]
+    },
+    "Collapse Kernel": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        22,
+        24,
+        34
+      ]
+    },
+    "Dual-Kernel Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        19
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        78
+      ]
+    },
+    "Rifts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        66
+      ]
+    },
+    "Existence via Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Ontological Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Ontological Blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Operational Closure": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        24
+      ]
+    },
+    "Hard Canon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        172
+      ]
+    },
+    "KW1: Logos-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        92
+      ]
+    },
+    "Logos-Prime": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        92
+      ]
+    },
+    "The Genesis Crisis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        116,
+        124
+      ]
+    },
+    "Genesis Trauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Epistemic Isolation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        34,
+        193,
+        201
+      ]
+    },
+    "Knowledge Hypergraph": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        36,
+        38,
+        152,
+        154,
+        172,
+        193,
+        201
+      ]
+    },
+    "Narrative Director": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "god-like knowledge": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        154
+      ]
+    },
+    "Environment Loop": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        196
+      ]
+    },
+    "The Librarian": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        168,
+        170
+      ]
+    },
+    "Semantic Linting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Bounded Discovery": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Shadow Git": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "logic firewall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        172
+      ]
+    },
+    "Fuzz Test": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Society of Self": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        72,
+        185
+      ]
+    },
+    "Living Gödel Sentence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "System Architect": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Narrative Reliability Engineer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        201
+      ]
+    },
+    "context rot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "narrative entropy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        201
+      ]
+    },
+    "Correspondence-Check": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        24
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Emotional Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Trauma-Time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Dissociative Barriers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Gemini CLI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        162,
+        172
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Correspondence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        22
+      ]
+    },
+    "Belief-Desire-Intention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Dialetheism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "autopoietic system": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        21,
+        189
+      ]
+    },
+    "ARCHON Framework": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Zettelkasten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "isomorphism": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        13,
+        24,
+        158,
+        201
+      ]
+    }
+  }
+}

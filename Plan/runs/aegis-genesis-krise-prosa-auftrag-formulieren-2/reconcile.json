@@ -1,0 +1,64 @@
+{
+  "document": "aegis-genesis-krise-prosa-auftrag-formulieren-2",
+  "drive_id": "1R1RYzBOyhZi_eommmGbA_m_oJZnDdxbEF2WBu7Vwmmc",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a near-duplicate version of document 510; first held by the privacy screen on a real person's given name in the reference list, released on re-screening",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 82,
+    "decisions": 87,
+    "decided_by_lookup": 61,
+    "needs_judgement": 26
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A longer version of document 510's four-stage Genesis-crisis report: what it says is already on the pages from 510, so its vocabulary stays in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "as for document 510: the paradox names and the Protokoll on aegis, `latente Echos` the report's own term, a given name in the reference list an occurrence; names of people never written",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 76,
+      "decision": "occurrence",
+      "why": "a theory definition; light pass"
+    },
+    {
+      "page": "juna",
+      "surface": "Julia",
+      "line": 801,
+      "decision": "occurrence",
+      "why": "a real person's given name in the reference list, not the early name"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 54,
+      "decision": "occurrence",
+      "why": "a theory definition; light pass"
+    }
+  ],
+  "not_promoted": [
+    "as for document 510 — Ursprungs-Ich, Entität, latente Echos, Kernparadoxon, Kohärenz durch Entfremdung, the cluster and stage labels, NZT-Modus, the 7-step trajectory, and the 40 theory areas"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

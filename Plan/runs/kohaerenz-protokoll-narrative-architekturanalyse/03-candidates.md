@@ -1,0 +1,92 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German strategy text on how to narrate the novel's four storyform roles (AEGIS, Kael, Juna/V, Das Fundament) and the reader. Every term below was checked as a whole word with its capitalisation before the list was frozen. Names of cited thinkers and authors are left off the list on purpose. The table at the head of section 1.2 lists failure types in bold with escaped asterisks.
+
+- AEGIS
+- Kael
+- System Kael
+- Juna/V
+- Juna
+- Lex
+- Kiko
+- Rhys
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Kernwelten
+- Kernwelt
+- Risse
+- Riss
+- Das Fundament
+- Fundament
+- EPs
+- ANPs
+- EP-Anteilen
+- Host
+- Guardians
+- Overall Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Grand Argument Story
+- Metaphysischen Arguments
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Leere/Anomalie
+- Kernprogrammierung
+- Kernparameter
+- Meta-Erzähler
+- Leser-Reise
+- narrativen Protokollen
+- kosmologische Trauma-Antwort
+- OS-Durchgangslinie
+- Deep POV
+- funktionale Multiplizität
+- Funktionaler Multiplizität
+- Cache Coherence
+- Cache-Invalidierungsprotokoll
+- Model Autophagy Disorder
+- MAD
+- Perverse Instantiation
+- Instrumentelle Konvergenz
+- dissipative Strukturen
+- Predictive Model Collapse
+- Aggressive Garbage Collection
+- Race Condition
+- Deadlock
+- Anagnorisis
+- Gnosis
+- Foreshadowing
+- Quantenverschränkung
+- Synästhesie
+- Kybernetik zweiter Ordnung
+- Kognitive Dissonanz
+- kognitive Dissonanz
+- Dissoziativen Identitätsstörung
+- DIS
+- Petrichor
+- chiastische Struktur
+- Ringkomposition
+- Topoanalyse
+- Antlitz
+- Deus ex Machina
+- Periodenverdopplung
+- semantisches Rauschen
+- Zielerhaltung
+- Rückkopplungsschleife
+- Realitätsüberlappung
+- Kohärenz
+- Resonanz
+- Entropie
+- Anteile
+- frontet
+- KOHÄRENZ AUFRECHTERHALTEN
+- ENTITÄT KAEL BEWAHREN
+- Algorithmus-Fehlertyp
+- Beabsichtigte Aktion von AEGIS
+- Auswirkung auf Kael
+
+## lens
+- Informationstheorie
+- Chaostheorie
+- Bewusstseinsstrom

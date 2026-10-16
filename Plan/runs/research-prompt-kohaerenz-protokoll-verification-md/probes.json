@@ -1,0 +1,212 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-verification-md",
+  "drive_id": "16NBS_PWcAMhHjNzS5q8w9Yhm709Ur_ut_AOsgbSt-OI",
+  "step": "probes",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 53,
+  "backslash_escapes": 194,
+  "typographic_marks": 68,
+  "ascii_quotes": 256,
+  "inflection_families": {
+    "check": [
+      "Check",
+      "Checklist",
+      "Checkpoint",
+      "Checkpoints"
+    ],
+    "const": [
+      "CONSTRAINT",
+      "Constraint",
+      "Constraints",
+      "Construction"
+    ],
+    "contr": [
+      "Contradicting",
+      "Contradiction",
+      "Contradictions",
+      "Controversies"
+    ],
+    "execu": [
+      "Execute",
+      "Executing",
+      "Execution",
+      "Executive"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theoretische",
+      "Theories",
+      "Theory"
+    ],
+    "verif": [
+      "VERIFICATION",
+      "Verification",
+      "Verifizierung",
+      "Verify"
+    ],
+    "archi": [
+      "Archipel",
+      "Architect",
+      "Architecture"
+    ],
+    "block": [
+      "BLOCK",
+      "BLOCKS",
+      "Blocks"
+    ],
+    "proto": [
+      "PROTOKOLL",
+      "Protocol",
+      "Protokoll"
+    ],
+    "resol": [
+      "Resolution",
+      "Resolvable",
+      "Resolved"
+    ],
+    "aggre": [
+      "Aggregator",
+      "Aggregators"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische"
+    ],
+    "apply": [
+      "Apply",
+      "Applying"
+    ],
+    "assum": [
+      "Assume",
+      "Assumption"
+    ],
+    "audit": [
+      "AUDIT",
+      "Audit"
+    ],
+    "axis": [
+      "AXIS",
+      "Axis"
+    ],
+    "claim": [
+      "CLAIM",
+      "Claim"
+    ],
+    "confi": [
+      "Confidence",
+      "Confirm"
+    ],
+    "criti": [
+      "Critical",
+      "Critique"
+    ],
+    "epist": [
+      "Epistemic",
+      "Epistemological"
+    ],
+    "exclu": [
+      "Excluded",
+      "Exclusion"
+    ],
+    "expan": [
+      "Expand",
+      "Expansion"
+    ],
+    "expec": [
+      "Expectations",
+      "Expected"
+    ],
+    "falsi": [
+      "Falsification",
+      "Falsify"
+    ],
+    "flagg": [
+      "Flagged",
+      "Flagging"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "AXIS",
+      "Axis"
+    ],
+    [
+      "Algo",
+      "Algorithmic"
+    ],
+    [
+      "Algo",
+      "Algorithmische"
+    ],
+    [
+      "Hand",
+      "Handle"
+    ],
+    [
+      "List",
+      "Checklist"
+    ],
+    [
+      "Note",
+      "NOTES"
+    ],
+    [
+      "Note",
+      "Notes"
+    ],
+    [
+      "Step",
+      "Steps"
+    ],
+    [
+      "AUDIT",
+      "Audit"
+    ],
+    [
+      "Apply",
+      "Applying"
+    ],
+    [
+      "BLOCK",
+      "BLOCKS"
+    ],
+    [
+      "BLOCK",
+      "Blocks"
+    ],
+    [
+      "CLAIM",
+      "Claim"
+    ],
+    [
+      "Check",
+      "Checklist"
+    ],
+    [
+      "Check",
+      "Checkpoint"
+    ],
+    [
+      "Check",
+      "Checkpoints"
+    ],
+    [
+      "FOUND",
+      "Foundational"
+    ],
+    [
+      "Janet",
+      "Janetian"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ]
+  ]
+}

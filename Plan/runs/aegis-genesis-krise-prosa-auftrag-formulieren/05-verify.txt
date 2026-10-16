@@ -1,0 +1,91 @@
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Eignung/Relevanz"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Zwingend"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "AEGIS"
+whole word, case-sensitive     144
+whole word, case-insensitive   144
+including compounds            151
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Fehlausgerichtete Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Kohärenz durch Entfremdung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Kohärenz Protokoll"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            21
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Ursprungs-Ich"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            54
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Ursprungs-Ichs"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            35
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "latenten Echos"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Entität"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            41
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Leere"
+whole word, case-sensitive     35
+whole word, case-insensitive   35
+including compounds            36
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Fragmentierung"
+whole word, case-sensitive     59
+whole word, case-insensitive   59
+including compounds            64
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Kael"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            36
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Leere/Potentialmeer"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Cluster"
+whole word, case-sensitive     69
+whole word, case-insensitive   69
+including compounds            76
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Stufe"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            21
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "NZT-Modus"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+$ read.py aegis-genesis-krise-prosa-auftrag-formulieren --count "Fehlausgerichteten Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+stance_marker_count 42 = Eignung/Relevanz 40 + Zwingend 2 (sum of case-sensitive whole-word counts above)
+$ grep -c bracketed Kontext lines (L171,L180,L596,L597,L598): 
+171 180 596 597 598 profile numbers (363 escapes, 90 glued refs, 128 ascii quotes, 98 typographic, 42 table rows, longest line 22307): Plan/runs/aegis-genesis-krise-prosa-auftrag-formulieren/01-profile.txt via capture.py

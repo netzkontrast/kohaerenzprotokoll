@@ -1,0 +1,14 @@
+# physik-fuer-simulierte-realitaet
+  lines                663  (frontmatter ends at 9)
+  body words           9603
+  headings             9   bold-only lines 28
+  table rows           19   code fences 0
+  question marks       36
+  backslash escapes    98
+  typographic marks    255   ascii quotes 42
+  invisible characters U+200Bx3
+  math symbol lines    0
+  glued ref numbers    109
+  repeated labels      Überblick x6, Plot x5, Thema x5, Worldbuilding x5, Potenzielle Signaturen x3
+  longest line         920 chars
+

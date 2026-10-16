@@ -1,0 +1,68 @@
+$ read.py --count "Query Pt"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            32
+
+`Query Pt` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#32]
+
+$ read.py --count "Relevanz für"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Relevanz für` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#13]
+
+$ read.py --count "Hypothetisch"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothetisch` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#1]
+
+$ read.py --count "Zugriff am April"
+whole word, case-sensitive     234
+whole word, case-insensitive   234
+including compounds            234
+
+`Zugriff am April` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#234]
+
+$ read.py --count "Kapitel"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            14
+
+`Kapitel` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#10]
+
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            14
+
+`Kap` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#0]
+
+$ read.py --count "Co1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Co1` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#0]
+
+$ read.py --count "K₁"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K₁` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#0]
+
+$ read.py --count "M"
+whole word, case-sensitive     47
+whole word, case-insensitive   47
+including compounds            274
+
+`M` ^[kohaerenz-protokoll-roman-ausarbeitung.md:#47]
+
+stance_marker_count: 32+13+1 = 46
+
+numbers in the census prose taken from 04-counts.txt: Kaels x72, IFS 12 alone and IFS-Teile x3, Symmetrien x5, McL 5/6, Internal Family Systems lines 81/529/531/532, Kapitel 10 (above)
+profile: glued ref numbers 308 (01-profile.txt); candidates 66 and zeros 0 (04-counts.txt)
+list lengths read from the document: ten steps (L305-L314), twelve steps (L322-L333), 234 reference entries (Zugriff am April count above)

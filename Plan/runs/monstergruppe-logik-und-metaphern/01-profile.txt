@@ -1,0 +1,14 @@
+# monstergruppe-logik-und-metaphern
+  lines                456  (frontmatter ends at 9)
+  body words           6905
+  headings             21   bold-only lines 4
+  table rows           15   code fences 0
+  question marks       15
+  backslash escapes    72
+  typographic marks    110   ascii quotes 6
+  invisible characters U+200Bx85
+  math symbol lines    5
+  glued ref numbers    94
+  repeated labels      none
+  longest line         1009 chars
+

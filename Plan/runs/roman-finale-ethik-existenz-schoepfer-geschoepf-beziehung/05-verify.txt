@@ -1,0 +1,67 @@
+# every number the census and note state, with the command that produced it
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Blaupause"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Blaupause` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#1]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Bausteine"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Bausteine` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#3]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Option"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Option` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#3]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Szenarien"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Szenarien` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#3]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "narrative Entropie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`narrative Entropie` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#1]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Einstellungswertes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Einstellungswertes` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#1]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Zentrum"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zentrum` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#1]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#0]
+
+$ python3 scripts/read.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md:#0]
+$ python3 scripts/profile.py roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung   (01-profile.txt)
+  glued ref numbers    40
+  backslash escapes    44
+stance_marker_count 7 = Blaupause 1 + Bausteine 3 + Option 3 (counts above)

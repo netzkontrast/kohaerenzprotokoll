@@ -1,0 +1,202 @@
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "wahrscheinlich"
+whole word, case-sensitive     32
+whole word, case-insensitive   39
+including compounds            33
+
+`wahrscheinlich` ^[tsdp-analyse-kaels-innere-welt.md:#32]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "möglicherweise"
+whole word, case-sensitive     25
+whole word, case-insensitive   29
+including compounds            25
+
+`möglicherweise` ^[tsdp-analyse-kaels-innere-welt.md:#25]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "mutmaßlich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`mutmaßlich` ^[tsdp-analyse-kaels-innere-welt.md:#2]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Hypothesen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Hypothesen` ^[tsdp-analyse-kaels-innere-welt.md:#2]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[tsdp-analyse-kaels-innere-welt.md:#0]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[tsdp-analyse-kaels-innere-welt.md:#0]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            11
+
+`Kernwelt` ^[tsdp-analyse-kaels-innere-welt.md:#0]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kernwelten"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kernwelten` ^[tsdp-analyse-kaels-innere-welt.md:#10]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kapazität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapazität` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kaels"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Kaels` ^[tsdp-analyse-kaels-innere-welt.md:#16]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kikos"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Kikos` ^[tsdp-analyse-kaels-innere-welt.md:#17]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Kais"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kais` ^[tsdp-analyse-kaels-innere-welt.md:#11]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "McLeans"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`McLeans` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "ANPs"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`ANPs` ^[tsdp-analyse-kaels-innere-welt.md:#20]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "EPs"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            28
+
+`EPs` ^[tsdp-analyse-kaels-innere-welt.md:#28]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "TSD"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            34
+
+`TSD` ^[tsdp-analyse-kaels-innere-welt.md:#5]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "TSDP-Rolle"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            7
+
+`TSDP-Rolle` ^[tsdp-analyse-kaels-innere-welt.md:#6]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Aktionssystemen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Aktionssystemen` ^[tsdp-analyse-kaels-innere-welt.md:#2]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Bindungsruf-System"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bindungsruf-System` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "EP-Intrusionen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`EP-Intrusionen` ^[tsdp-analyse-kaels-innere-welt.md:#4]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Bedürfnissen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Bedürfnissen` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Wildnis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wildnis` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Archiv"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Archiv` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Selene"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Selene` ^[tsdp-analyse-kaels-innere-welt.md:#11]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Juna"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`Juna` ^[tsdp-analyse-kaels-innere-welt.md:#24]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Personas"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Personas` ^[tsdp-analyse-kaels-innere-welt.md:#1]
+
+$ python3 scripts/read.py tsdp-analyse-kaels-innere-welt --count "Cache Kohärenz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Cache Kohärenz` ^[tsdp-analyse-kaels-innere-welt.md:#2]
+
+stance_marker_count 72 = 39 (wahrscheinlich, case-insensitive) + 29 (möglicherweise) + 2 (mutmaßlich) + 2 (Hypothesen)
+profile fields numbered 1 to 11: L292 '1.' to L302 '11.' (read.py --from 292 --to 302)
+292|   - **1. TSDP-Rolle & Funktion:** A
+293|   - **2. Beziehung zum Trauma:** Ak
+294|   - **3. Dominante Emotionen/Affekt
+295|   - **4. Kognitive Merkmale:** Star
+296|   - **5. Verhaltensmuster:** Planen
+297|   - **6. Körperliche Manifestation
+298|   - **7. Trigger:** Unlogisches Ver
+299|   - **8. Phobien:** Kernphobie vor 
+300|   - **9. Beziehungen zu anderen Tei
+301|   - **10. Beziehung zu AEGIS & Juna
+302|   - **11. Potenzial für Integratio

@@ -2,10 +2,10 @@
 term: Kishōtenketsu
 status: reviewed
 reviewed: 2026-10-08
-sources: 28
-readings: 28
+sources: 29
+readings: 29
 conflict: none yet
-ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-analyse-und-synthese", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "bewerte-kishotenketsu-als-zentrales-narrativ"]
+ingested: ["ki-prompt-analyse-hard-problem-of-consciousness", "three-mode-architecture-39-chapters-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "ai-assisted-narrative-coherence", "roman-entwicklung-kohaerenz-und-leitfragen", "kohaerenz-protokoll-scene-by-scene-outline", "briefing-core-concepts-of-the-kohaerenz-protokoll-project", "romanstruktur-duale-erzaehlung-und-kishotenketsu", "kuerze-rechercheauftrag-die-architektur-der-seel", "narrativ", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "narrative-architektur-fuer-kohaerenz-protokoll", "dramatica-und-kohaerenz-protokoll-analyse", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "kohaerenz-protokoll-duale-dramatica-storyform-synthese", "kohaerenz-protokoll-analyse-und-synthese", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "bewerte-kishotenketsu-als-zentrales-narrativ", "the-juna-vector-an-ontological-and-narrative-analysis-for-ko"]
 gathered: "2026-09-25"
 ---
 
@@ -212,3 +212,7 @@ The Kishōtenketsu evaluation calls the form „thematisch und philosophisch ide
 *Where it differs:*
 
 - The Kishōtenketsu evaluation recommends the form as the central frame: „Meine definitive Empfehlung lautet, Kishōtenketsu als das zentrale, tragende Gerüst des Romans zu adoptieren“ ^[bewerte-kishotenketsu-als-zentrales-narrativ.md:L85]
+
+## Reading — `the-juna-vector-an-ontological-and-narrative-analysis-for-ko`, 2025-11-03, the Juna-Vector analysis — the Ten as a turning point of Juna/V
+
+The Juna-Vector analysis names in section 6.2 the Ten (Wendung/Turn) of Kishōtenketsu as a turning point: „This narrative turning point marks the moment when the Juna/V-Verbindung transitions from a passive, mysterious echo into an active, tangible, and system-rule-breaking influence.“ ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:L93]

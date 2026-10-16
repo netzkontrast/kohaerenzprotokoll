@@ -1,0 +1,20 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      32
+  typographic marks      22
+  ascii quotes           68
+
+# inflection families -- one term, several surfaces
+  conce    Conceit, Concept, Conceptual
+  mecha    Mechanics, Mechanism
+  psych    Psyche, Psychological
+  quest    Question, Questions
+  reson    Resonance, Resonanzkaskade
+  struc    Structural, Structure
+
+# substring pairs -- never one term, often merged by accident
+  Here < Coherence
+  Risk < Risks
+  Concept < Conceptual
+  Question < Questions

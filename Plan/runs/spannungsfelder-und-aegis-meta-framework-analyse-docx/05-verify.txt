@@ -1,0 +1,105 @@
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Prinzip:"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Prinzip:` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#13]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Modell:"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Modell:` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#13]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Operation:"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Operation:` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#13]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Theoretische Konzepte:"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Theoretische Konzepte:` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#13]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Diskussion:"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Diskussion:` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#13]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "AEGIS"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            57
+
+`AEGIS` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#16]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "AEGIS Meta-Framework"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            8
+
+`AEGIS Meta-Framework` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#4]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Spannungsfeld"
+whole word, case-sensitive     27
+whole word, case-insensitive   27
+including compounds            53
+
+`Spannungsfeld` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#27]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Spannungsfelder"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            24
+
+`Spannungsfelder` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#21]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Selbstbestätigung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Selbstbestätigung` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#5]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Koheränz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Koheränz` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#1]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Kohärenz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            11
+
+`Kohärenz` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#5]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Kohera¨nz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Kohera¨nz` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#2]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#0]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#0]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#0]
+$ python3 scripts/read.py spannungsfelder-und-aegis-meta-framework-analyse-docx --count "Roman"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Roman` ^[spannungsfelder-und-aegis-meta-framework-analyse-docx.md:#0]
+$ grep -c "^[0-9]*\. " reference lines 393-520 (last numbered reference)
+128. Computing with membranes.
+stance_marker_count 5 labels x 13 = 65

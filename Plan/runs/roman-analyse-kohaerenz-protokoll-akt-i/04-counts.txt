@@ -1,0 +1,92 @@
+# counts for 75 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                5 word     5 in   [11, 15, 25, 33, 41]
+  Die Architektur der Dissoziation    3 word     3 in   [15, 49, 235]
+  Kael                             41 word    65 in   [15, 27, 31, 35, 41, 45]
+                                   24      as Kaels
+  Juna                              5 word     7 in   [31, 83, 89, 195, 209, 263]
+                                    2      as Junas
+  Lex                               4 word     4 in   [69, 111, 209, 262]
+  Alex                              2 word     2 in   [125, 209]
+  Nyx                               1 word     1 in   [125]
+  Rhys                              1 word     1 in   [209]
+  AEGIS                            21 word    26 in   [17, 29, 35, 41, 45, 69]
+                                    2      as AEGIS-System
+                                    2      as AEGIS-Systems
+                                    1      as AEGIS-Strukturen
+  Alters                           11 word    11 in   [31, 35, 45, 97, 173, 209]
+  Alter-Persönlichkeiten            2 word     2 in   [33, 167]
+  Rationalist-Alter                 1 word     1 in   [69]
+  Kernwelt 1                        2 word     2 in   [25, 43]
+  Konstrukt-Stadt                   1 word     1 in   [29]
+  Universal Reboot                  1 word     1 in   [53]
+  K0-Narbe                          1 word     1 in   [83]
+  Landauer-Prinzip                  5 word     6 in   [17, 41, 55, 83, 153, 261]
+                                    1      as Landauer-Prinzips
+  Ozon                              6 word     9 in   [41, 55, 59, 87, 153, 223]
+                                    2      as Ozongeruch
+                                    1      as Ozon-Metaphorik
+  Hitze                             8 word    11 in   [41, 55, 59, 83, 87, 157]
+                                    1      as Hitzeschub
+                                    1      as Hitze-
+                                    1      as Hitze-Kollaps
+  Petrichor                         2 word     2 in   [83, 87]
+  Subroutine-Interferenz            1 word     1 in   [97]
+  internen Konferenz                1 word     1 in   [209]
+  axiomatische Lücke                1 word     1 in   [209]
+  blinden Fleck                     1 word     1 in   [272]
+  Wartungsschächte                  2 word     2 in   [181, 270]
+  Kontrollsystem                    1 word     2 in   [17, 209]
+                                    1      as Kontrollsystems
+  Erwachen-Zyklus                   1 word     1 in   [51]
+  Geometrie der Isolation           1 word     1 in   [65]
+  Das flüchtige Echo                1 word     1 in   [79]
+  Echos im Fundament                1 word     1 in   [93]
+  Der Glanz der Oberfläche          1 word     1 in   [107]
+  Die Sprache der Schatten          1 word     1 in   [121]
+  Das Gewicht der Leere             1 word     1 in   [135]
+  Die Syntax des Schmerzes          1 word     1 in   [149]
+  Resonanz und Widerstand           1 word     1 in   [163]
+  Gravitationsanomalien             1 word     1 in   [177]
+  Grenzsituationen                  1 word     1 in   [191]
+  Der blinde Fleck des Selbst       1 word     1 in   [205]
+  Die Zuflucht                      1 word     1 in   [205]
+  Die Abgrund-Entscheidung          1 word     1 in   [219]
+  Der erste Zusammenbruch           1 word     1 in   [219]
+  Der sterile Schock                1 word     1 in   [237]
+  Steriler Schock                   1 word     1 in   [248]
+  Wachsende Paranoia                1 word     1 in   [237]
+  Der tiefe Fall                    1 word     1 in   [239]
+  Tiefer Fall                       1 word     1 in   [250]
+  Konsolidierung                    2 word     2 in   [241, 251]
+  Die Eskalation                    1 word     1 in   [243]
+  Lesersteuerungs-Direktiven        2 word     2 in   [19, 254]
+  Informationsökonomie             14 word    14 in   [15, 61, 75, 89, 103, 117]
+  Dissoziativen Identitätsstörung    2 word     2 in   [15, 45]
+  Fugue-Zuständen                   2 word     2 in   [17, 69]
+  ISSTD                             3 word     3 in   [17, 45, 277]
+  Transportation Theory             3 word     3 in   [19, 25, 283]
+  Embodied Cognition                3 word     3 in   [27, 239, 268]
+  Uncanny Valley                    5 word     7 in   [19, 29, 113, 237, 265, 294]
+  Narrativen Empathie               2 word     2 in   [19, 31]
+  Bounded Empathy                   3 word     3 in   [31, 263]
+  Bounded Narrative Empathy         1 word     1 in   [83]
+  Ambassadorial Empathy             5 word     5 in   [31, 167, 241, 269]
+  Excitation Transfer Theory        3 word     3 in   [33, 85, 235]
+  Terror Management Theory          4 word     4 in   [35, 195, 271, 303]
+  Entertained Uncertainty           1 word     1 in   [237]
+  Somatic Transfer                  2 word     2 in   [151, 250]
+  Embodied Reading                  1 word     1 in   [153]
+  Unreliable Narrator               4 word     4 in   [264, 298, 312, 316]
+  Scene and Sequel                  2 word     2 in   [169, 269]
+  lost time                         2 word     2 in   [139, 267]
+  passive influence                 1 word     1 in   [97]
+  Co-Consciousness                  1 word     1 in   [209]
+  Safe Space                        2 word     2 in   [209, 272]
+  Parataxe                         11 word    11 in   [47, 55, 111, 195, 237, 248]
+  Hypotaxen                         3 word     3 in   [47, 71, 262]
+  Gaslighting                       3 word     3 in   [43, 69, 262]
+  reader fatigue                    1 word     1 in   [235]

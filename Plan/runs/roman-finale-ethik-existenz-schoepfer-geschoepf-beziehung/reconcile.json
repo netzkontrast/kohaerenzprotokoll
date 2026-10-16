@@ -1,0 +1,158 @@
+{
+  "document": "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+  "drive_id": "1XqZf3idjE2pVd3QRDruqaQYthhtAO4QwJe4rFhf-2GA",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and two record entries by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-444/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be an epilogue dossier whose Wächter are AEGIS's agents",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 56,
+    "decisions": 55,
+    "decided_by_lookup": 49,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A design dossier for the novel's epilogue: its new surfaces are the creator-observer 'O', the permeable fourth wall, Kuratierte Immanenz, Kael's gardening, its scene and option titles, its own coinages and borrowed frameworks; what it proposes for Kael, AEGIS, Lex, Nyx, Kiko, multiplicity, the Nichts-Rauschen, the theory, negentropy and entropy went on existing pages, Unit 734 on Q7 and AEGIS's collapsed end on Q8.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        74,
+        118,
+        152,
+        156,
+        166,
+        168
+      ],
+      "attribution": "",
+      "note": "AEGIS as the defeated origin of the parts' competences and as ruins in the garden"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "a story no longer read as a state of maximal entropy"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        22,
+        72,
+        74,
+        76,
+        132,
+        156,
+        178,
+        179,
+        180
+      ],
+      "attribution": "",
+      "note": "the final state of System Kael as the subject of an epilogue blueprint"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        167
+      ],
+      "attribution": "",
+      "note": "Kiko among the parts in scene 2"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        74,
+        167
+      ],
+      "attribution": "",
+      "note": "Lex's logic as a pathological artefact, and Lex in council"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        72,
+        167
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the end of the healing journey"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        118,
+        120
+      ],
+      "attribution": "",
+      "note": "gardening as negentropy against narrative entropy"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        168
+      ],
+      "attribution": "",
+      "note": "Kael near the Nichts Rauschen in scene 3"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        74,
+        167
+      ],
+      "attribution": "",
+      "note": "Nyx's reflexes as a pathological artefact, and Nyx in council"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        26
+      ],
+      "attribution": "",
+      "note": "structural dissociation among the frameworks"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q7",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `funktionalen Multiplizität` on multiplizitaet; `narrativen Entropie` on entropie; `Gärtnerns` the genitive of the dossier's label; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 118,
+      "decision": "reading",
+      "why": "an unread story falling into maximal entropy"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 18,
+      "decision": "occurrence",
+      "why": "the introduction's heading"
+    }
+  ],
+  "not_promoted": [
+    "'O', Schöpfer-Beobachter, the permeable fourth wall, Kuratierte Immanenz, Welt-Kuration, Gärtnern, Gabe des Traumas, unerträgliche Wahl, dissonante Resonanz, algorithmische Melancholie, innere Ratsversammlung, the scene and option titles, and the borrowed frameworks"
+  ],
+  "internal_tension": "it offers three final options without choosing (L178–L180) and answers an earlier plan it does not reproduce — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

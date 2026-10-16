@@ -1,0 +1,36 @@
+{
+  "document": "kohaerenz-protokoll-szene-der-stillstand-der-welt",
+  "drive_id": "1vDpr8Fdg-2iN9H5OFWg_x9x7mT3IyAvQSxV2vivH03Q",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 1,
+  "backslash_escapes": 0,
+  "typographic_marks": 8,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "ebene": [
+      "Ebene",
+      "Ebenen"
+    ],
+    "kael": [
+      "KAEL",
+      "Kael"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "KAEL",
+      "Kael"
+    ],
+    [
+      "Ebene",
+      "Ebenen"
+    ],
+    [
+      "Meldung",
+      "SYSTEMMELDUNG"
+    ]
+  ]
+}

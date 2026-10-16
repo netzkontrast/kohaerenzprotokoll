@@ -1,0 +1,64 @@
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "The Moment"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`The Moment` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#5]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Meaning for Kael"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Meaning for Kael` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#5]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Meaning for AEGIS"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Meaning for AEGIS` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#5]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Narrative Expression"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Narrative Expression` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#5]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Chapter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Chapter` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#2]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Chapters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Chapters` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#1]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#0]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#0]
+
+$ read.py the-juna-vector-an-ontological-and-narrative-analysis-for-ko --count "Moonshine-Link"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Moonshine-Link` ^[the-juna-vector-an-ontological-and-narrative-analysis-for-ko.md:#6]
+
+numbers in prose: 20 = 4 labels x 5 (counts above); 3 chapter references (L84, L98, L105, from --find); 47 candidates (capture.py --count header); 0 zeros (04-counts.txt)

@@ -1,0 +1,419 @@
+{
+  "document": "concept-document-the-nature-of-the-foundation-juna-v-and-the",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 55,
+  "decisions": 56,
+  "same_surface": {
+    "potentialmeer": [
+      "Das Potentialmeer",
+      "Potentialmeer"
+    ]
+  },
+  "decided_mechanically": 46,
+  "needs_judgement": 10,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 374
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 362
+      },
+      {
+        "candidate": "Das Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 116
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 143
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 144
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 250
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 250
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 70
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 178
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 176
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 203
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Ursprungs-Ich"
+      },
+      {
+        "candidate": "Perturbation from the Void"
+      },
+      {
+        "candidate": "Zerstückelung"
+      },
+      {
+        "candidate": "Core Worlds"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Algorithmic Horror"
+      },
+      {
+        "candidate": "Paraiyas"
+      },
+      {
+        "candidate": "The Foundation"
+      },
+      {
+        "candidate": "functional multiplicity"
+      },
+      {
+        "candidate": "dialetheic mind"
+      },
+      {
+        "candidate": "externalized perpetrator introject"
+      },
+      {
+        "candidate": "Gnostic Injection"
+      },
+      {
+        "candidate": "Covert Integration"
+      },
+      {
+        "candidate": "akusmatischer Harmonie"
+      },
+      {
+        "candidate": "informational void"
+      },
+      {
+        "candidate": "auditory pressure without sound"
+      },
+      {
+        "candidate": "induced existential anxiety"
+      },
+      {
+        "candidate": "minimal information fragment"
+      },
+      {
+        "candidate": "zombie system"
+      },
+      {
+        "candidate": "Trauma-Time"
+      },
+      {
+        "candidate": "Frame Problem"
+      },
+      {
+        "candidate": "autopoietic system"
+      },
+      {
+        "candidate": "paraconsistent logic"
+      },
+      {
+        "candidate": "ex contradictione quodlibet"
+      },
+      {
+        "candidate": "Quantum Entanglement"
+      },
+      {
+        "candidate": "Prehension"
+      },
+      {
+        "candidate": "strange attractor"
+      },
+      {
+        "candidate": "weak emergence"
+      },
+      {
+        "candidate": "Integrated Information Theory"
+      },
+      {
+        "candidate": "Gödel-Satz"
+      },
+      {
+        "candidate": "gnosis"
+      },
+      {
+        "candidate": "episteme"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kernwelten  /  Kernwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis Crisis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos-Potentialis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          }
+        ]
+      },
+      {
+        "candidate": "ontological exploit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alex",
+            "page": "alex"
+          }
+        ]
+      },
+      {
+        "candidate": "Theory of Structural Dissociation of the Personality",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 13,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 35,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

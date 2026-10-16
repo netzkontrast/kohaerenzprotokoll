@@ -1,0 +1,14 @@
+# plot-blueprint-methodik-kohaerenz-protokoll
+  lines                404  (frontmatter ends at 9)
+  body words           6773
+  headings             2   bold-only lines 4
+  table rows           15   code fences 0
+  question marks       57
+  backslash escapes    223
+  typographic marks    7   ascii quotes 96
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      Grundprinzipien x12, Vertiefte Betrachtung x12
+  longest line         5743 chars
+

@@ -1,0 +1,170 @@
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Gesamtziel"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Gesamtziel` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#3]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Konzeptfokus & Progression"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Konzeptfokus & Progression` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#14]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Plot-Zusammenfassung"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Plot-Zusammenfassung` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#14]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Genre-Integration"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Genre-Integration` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#15]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Kontextualisierung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Kontextualisierung` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#5]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "User Query"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`User Query` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#3]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#1]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Zugriff am April"
+whole word, case-sensitive     38
+whole word, case-insensitive   38
+including compounds            38
+
+`Zugriff am April` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#38]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Kapitel"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            21
+
+`Kapitel` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#19]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Akt 1 Klimax"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Akt 1 Klimax` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#2]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Akt 2 Klimax"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Akt 2 Klimax` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#2]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Baby-Monster"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Baby-Monster` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#0]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Moonshine-Modul"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Moonshine-Modul` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#0]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "DID"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`DID` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#0]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelt` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#1]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#4]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Nebenfigur"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Nebenfigur` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#4]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Alters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alters` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#2]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Monstergruppe"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Monstergruppe` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#5]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "M-als-Fundament Manifestation"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`M-als-Fundament Manifestation` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#14]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Primzahl-Gitter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Primzahl-Gitter` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#2]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Kael"
+whole word, case-sensitive     69
+whole word, case-insensitive   69
+including compounds            123
+
+`Kael` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#69]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "M-Substrat"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            20
+
+`M-Substrat` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#9]
+
+$ read.py monstergruppe-primzahlen-plot-neukonstruktion --count "Faktorisierung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            16
+
+`Faktorisierung` ^[monstergruppe-primzahlen-plot-neukonstruktion.md:#5]
+
+stance_marker_count: 3+14+14+15+5 = 51
+profile: glued ref numbers 64 (01-profile.txt); 38 references (L205-L242)

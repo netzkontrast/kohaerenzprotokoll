@@ -1,0 +1,50 @@
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "TEIL"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`TEIL` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#3]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "Szene"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Szene` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#13]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "NEUE"
+whole word, case-sensitive     3
+whole word, case-insensitive   9
+including compounds            3
+
+`NEUE` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#3]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "Ich"
+whole word, case-sensitive     10
+whole word, case-insensitive   11
+including compounds            12
+
+`Ich` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#10]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Protokoll` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#2]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#1]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "Kernwelt"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kernwelt` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#0]
+$ python3 scripts/read.py genesis-und-krise-ausfuehrliche-darstellung --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[genesis-und-krise-ausfuehrliche-darstellung.md:#2]
+stance_marker_count 19 = TEIL 3 + Szene 13 + NEUE 3 (counts above)
+candidates: 51 (04-counts.txt header: counts for 51 candidates); 'Zeros: 0' from census.py draft facts

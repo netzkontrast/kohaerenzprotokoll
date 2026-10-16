@@ -1,0 +1,42 @@
+{
+  "document": "dramatica-agentic-storyform-interactive-novel",
+  "drive_id": "1-KzB7OWbPer-JiMf52GbNHCP6Dscm8ChmroBsrS34C8",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a general design report that names nothing of the novel; first held by the privacy screen on the word foreshadowing and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 84,
+    "decisions": 74,
+    "decided_by_lookup": 62,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A general research report on an agentic architecture for interactive narrative: it names no figure, place or event of the novel, so its design terms stay in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Guardian` a role in the proposed agent architecture, not the Guardians or AEGIS's subfunction; the storyform's terms and the architecture's components one family each, not promoted",
+  "sweep": [],
+  "not_promoted": [
+    "the architecture's components (Narrative Director, memory layers, UNM, NCP, the storyform fields) and the borrowed concepts (BDI, RAG, ReAct, Chain-of-Thought, drama manager)"
+  ],
+  "internal_tension": "none: it calls its static memory and storyform the authoritative source of the design (L206, L249) — claims about the proposed design, recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

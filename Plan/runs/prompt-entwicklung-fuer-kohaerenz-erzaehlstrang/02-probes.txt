@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      22
+  backslash escapes      24
+  typographic marks      142
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  handl    Handlung, Handlungen, Handlungsauftrags, Handlungsbogen, Handlungsbögen, Handlungsgliederung, Handlungspunkt, Handlungspunkte, Handlungspunkten, Handlungsstränge
+  erzäh    Erzählarchitektur, Erzählperspektive, Erzählstimme, Erzählstrang, Erzählstränge, Erzählung, Erzählungen
+  inter    Interaktion, Interaktionen, Internalisierter, Internen, Interner, Interpretiere
+  unter    Unterabschnitt, Unterdrücker, Unterdrückung, Unterscheidung, Untersuchung, Untertönen
+  konfl    Konflikt, Konflikte, Konflikten, Konflikts, Konfliktscheu
+  kontr    Kontrolle, Kontrolleur, Kontrollmacht, Kontrollregime, Kontrollverlust
+  quant    Quanten, Quantenphänomen, Quantenpotentialität, Quantenreichs, Quantensimulation
+  selbs    Selbst, Selbstberuhigung, Selbstermächtigung, Selbstfürsorge, Selbstwerdung
+  antei    Anteil, Anteile, Anteilen, Anteils
+  chara    Charakterdrama, Charaktere, Charaktereigenschaften, Charakters
+  gedäc    Gedächtnis, Gedächtnislöschung, Gedächtnislücken, Gedächtnisses
+  integ    Integration, Integrationsmodell, Integrationsmodelle, Integrität
+  konze    Konzentriere, Konzept, Konzepten, Konzeptionelle
+  traum    Traum, Trauma, Traumas, Traumatisierung
+  abweh    Abwehr, Abwehrmechanismus, Abwehrreaktionen
+  denkp    Denkprozess, Denkprozesse, Denkprozesses
+  diese    Diese, Dieser, Dieses
+  durch    Durch, Durchbruch, Durchbrüche
+  heilu    Heilung, Heilungsgeschichte, Heilungsprozess
+  metap    Metapher, Metaphorische, Metaphysik
+  model    Modell, Modelle, Modells
+  norma    Normale, Normalen, Normalität
+  perso    Person, Persona, Personifikation
+  physi    Physik, Physikalische, Physiker
+  probl    Problem, Problemlösung, Problems
+
+# substring pairs -- never one term, often merged by accident
+  Code < Quellcode
+  Code < Programmcodes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Deine
+  Eine < Seine
+  Eine < Anscheinend
+  Fall < Falle
+  Fall < Zerfall
+  Fall < Zerfalls
+  Fall < Fallstricke
+  Fall < Laborunfall
+  Fall < Systemzerfall
+  Fall < Auseinanderfallen
+  Hier < Extrahiere
+  Hier < Hierarchie
+  Jede < Jeder
+  Kael < Kaels
+  Kern < Kernwelt

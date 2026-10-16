@@ -1,0 +1,291 @@
+{
+  "document": "spec-entwicklung-fuer-agentische-roman-entwicklung",
+  "drive_id": "1B1UqQeEHsC2sa3PSnGkBw4nS_vY4keKLIM4IWLc6-LA",
+  "step": "probes",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 114,
+  "backslash_escapes": 312,
+  "typographic_marks": 4,
+  "ascii_quotes": 126,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemfehlern",
+      "Systemgestaltung",
+      "Systemic",
+      "Systems",
+      "Systemstatus",
+      "Systemverifikation"
+    ],
+    "archi": [
+      "ARCHITECTURE",
+      "Architect",
+      "Architectural",
+      "Architecture",
+      "Architektur",
+      "Architekturen",
+      "Architekturentscheidungen",
+      "Architekturoptimierung",
+      "Architekturspezifikation",
+      "Architekturvorgabe"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agenteninteraktion",
+      "Agentenprofil",
+      "Agentic",
+      "AgenticAI",
+      "Agentische",
+      "Agents"
+    ],
+    "evalu": [
+      "Evaluationen",
+      "Evaluative",
+      "Evaluator",
+      "Evaluierung",
+      "Evaluierungen",
+      "Evaluierungsblock",
+      "Evaluierungsblöcke"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehlende",
+      "Fehler",
+      "Fehlerbeschreibung",
+      "Fehlerkatalog",
+      "Fehlers",
+      "Fehlerstatus"
+    ],
+    "gener": [
+      "Generation",
+      "Generative",
+      "Generierung",
+      "Generierungen",
+      "Generierungspipeline",
+      "Generierungsprozess",
+      "Generierungsprozesse"
+    ],
+    "hybri": [
+      "Hybrid",
+      "Hybride",
+      "Hybrides",
+      "Hybridmodell",
+      "Hybridstruktur",
+      "Hybridsystems"
+    ],
+    "inter": [
+      "Interaction",
+      "Interactive",
+      "Interaktion",
+      "Interaktions",
+      "Interface",
+      "Intersection"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modellen",
+      "Modellierbarkeit",
+      "Modells",
+      "Models"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturiertes",
+      "Strukturintegrität",
+      "Strukturpräzision"
+    ],
+    "valid": [
+      "Validation",
+      "Validator",
+      "Validierung",
+      "Validierungen",
+      "Validierungsfrequenz",
+      "Validierungsmodell"
+    ],
+    "chara": [
+      "Character",
+      "Characters",
+      "Charakter",
+      "Charakterdefinition",
+      "Charaktere"
+    ],
+    "conce": [
+      "Conceiving",
+      "Concepts",
+      "Conceptualizing",
+      "Concern",
+      "Concerns"
+    ],
+    "infer": [
+      "INFERENCE",
+      "Inference",
+      "Inferenz",
+      "Inferenzgeschwindigkeit",
+      "Inferenzzeit"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktlinien",
+      "Konflikts"
+    ],
+    "konte": [
+      "Kontex",
+      "Kontext",
+      "Kontextes",
+      "Kontextfenster",
+      "Kontextfenstern"
+    ],
+    "phase": [
+      "Phase",
+      "Phasen",
+      "Phasenmodell",
+      "Phasenvertrag",
+      "Phasenübergang"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokollebene",
+      "Protokolls"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storymind"
+    ],
+    "szene": [
+      "Szene",
+      "Szenen",
+      "Szenenhandlungen",
+      "Szeneninhalt",
+      "Szenenverlauf"
+    ],
+    "block": [
+      "BLOCKER",
+      "Blocker",
+      "Blockwelt",
+      "Blockworld"
+    ],
+    "contr": [
+      "Contra",
+      "Contradiction",
+      "Contradictions",
+      "Control"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datensatz",
+      "Datenschemata"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ],
+    "erzäh": [
+      "Erzähl",
+      "Erzählen",
+      "Erzählstränge",
+      "Erzählung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Parallel"
+    ],
+    [
+      "Auto",
+      "Autors"
+    ],
+    [
+      "Auto",
+      "Autoren"
+    ],
+    [
+      "Auto",
+      "Autonome"
+    ],
+    [
+      "Auto",
+      "Autonomie"
+    ],
+    [
+      "Auto",
+      "Autonomous"
+    ],
+    [
+      "Auto",
+      "Automatische"
+    ],
+    [
+      "Auto",
+      "Autorenschaft"
+    ],
+    [
+      "Call",
+      "Calls"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Reines"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Ende",
+      "Fehlende"
+    ],
+    [
+      "Ende",
+      "Laufende"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Fail",
+      "Failure"
+    ],
+    [
+      "Flag",
+      "Flags"
+    ],
+    [
+      "Flag",
+      "Flagging"
+    ],
+    [
+      "Form",
+      "Format"
+    ]
+  ]
+}

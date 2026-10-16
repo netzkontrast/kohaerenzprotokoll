@@ -1,0 +1,115 @@
+# counts for 87 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           212 word   214 in   [11, 15, 33, 34, 43, 44]
+                                    1      as AEGIS-Fragmenten
+                                    1      as AEGIS-Krise
+  Kael                             22 word    30 in   [15, 63, 64, 85, 245, 246]
+                                    4      as Kael-Emergenz
+                                    3      as Kaels
+                                    1      as Kael-Fragments
+  Ursprungs-Ich                    16 word    51 in   [15, 33, 43, 63, 64, 122]  <-- substring
+                                   35      as Ursprungs-Ichs
+  Ursprungs-Ichs                   35 word    35 in   [15, 43, 63, 64, 122, 141]
+  Leere                           100 word   100 in   [15, 33, 34, 38, 43, 63]
+  Entität                          59 word    60 in   [43, 63, 64, 85, 103, 104]
+                                    1      as Entitäten
+  Kohärenz Protokoll               21 word    31 in   [33, 63, 64, 84, 85, 104]
+  Kohärenz Protokolls              10 word    10 in   [33, 161, 209, 228, 311, 648]
+  Fehlausgerichtete Kohärenz        8 word     8 in   [122, 181, 209, 291, 465, 556]
+  Fehlausgerichteten Kohärenz      11 word    11 in   [85, 123, 180, 292, 366, 648]
+  Genesis-Krise                    15 word    16 in   [11, 15, 17, 104, 291, 518]
+                                    1      as Genesis-Krisen-Prosa
+  Paradoxon                        39 word    53 in   [85, 123, 180, 181, 209, 227]
+                                    5      as Paradoxons
+                                    3      as Paradoxon-Eskalation
+  Fragmentierung                   70 word    86 in   [15, 43, 63, 64, 84, 85]
+                                    9      as Fragmentierungsprozess
+                                    2      as Fragmentierungsprozesses
+                                    1      as Fragmentierungssequenz
+                                    1      as Fragmentierungsmechanismus
+  Kael-Emergenz                     4 word     4 in   [705, 712, 757, 767]
+  Kael-Fragment                     0 word     1 in   [752]
+                                    1      as Kael-Fragments
+  traumatische Resonanz             2 word     2 in   [15, 655]
+  Entropie-Überlastung              6 word     6 in   [104, 311, 554, 741, 785, 808]
+  semantisches Vakuum               3 word     3 in   [339, 584, 808]
+  computationalen Existenzialismus    2 word     2 in   [34, 546]
+  Phänomenologie des Artifiziellen    2 word     2 in   [44, 548]
+  kybernetische Katastrophe zweiter Ordnung    1 word     1 in   [228]
+  Gelenkte Fokalisierung            1 word     1 in   [707]
+  Das Frakturierte Selbst           1 word     1 in   [630]
+  NZT-Modus                         1 word     1 in   [692]
+  Kern-Narrativbogen                1 word     1 in   [696]
+  Finaler Prosa-Auftrag             1 word     1 in   [746]
+  Strategischer Narrativer Blueprint    1 word     1 in   [692]
+  Psychologischer Realismus         1 word     1 in   [715]
+  Atmosphärisches Design            1 word     1 in   [722]
+  Themenlexikon                     1 word     1 in   [538]
+  Relevanzmatrix                    1 word     1 in   [538]
+  Existenzphilosophie               6 word     6 in   [19, 546, 639, 642, 653, 667]
+  Phänomenologie                   13 word    13 in   [38, 44, 447, 527, 548, 632]
+  Traumatheorie                     6 word     6 in   [48, 550, 635, 653, 656, 809]
+  TSDP                             16 word    16 in   [48, 57, 63, 64, 240, 246]
+  Strukturelle Dissoziation der Persönlichkeit    1 word     1 in   [57]
+  Systemtheorie                     8 word     8 in   [15, 68, 429, 552, 646, 648]
+  Autopoiesis                       8 word     8 in   [68, 76, 85, 552, 829]
+                                    1      as autopoiesis-101-how-living-systems-keep-themselves-alive-and-kicking
+  Informationstheorie              10 word    10 in   [89, 338, 339, 554, 660, 663]
+  Entropie                         25 word    33 in   [89, 97, 103, 104, 311, 415]
+                                    6      as Entropie-Überlastung
+                                    1      as Entropieexport
+                                    1      as Entropie_
+  Bedeutungskonstruktion           14 word    14 in   [89, 99, 103, 104, 325, 333]
+  KI-Ethik                          5 word     5 in   [108, 366, 556, 646, 786]
+  Value Alignment Problem           3 word     3 in   [108, 116, 841]
+  Kontrollproblem                   8 word     9 in   [108, 118, 123, 556, 649, 786]
+                                    1      as Kontrollproblems
+  Philosophie des Geistes           2 word     2 in   [127, 558]
+  Qualia                           16 word    16 in   [44, 127, 135, 141, 142, 558]
+  Kosmischer Horror                 9 word    11 in   [146, 152, 162, 560, 639, 641]
+  Hard Science-Fiction              2 word     2 in   [156, 562]
+  Logik & Berechenbarkeit           3 word     3 in   [166, 564, 646]
+  Ontologie                        15 word    15 in   [185, 189, 191, 566, 600, 632]
+  Resonanztheorie                   3 word     3 in   [195, 568, 653]
+  Kybernetik                        7 word     7 in   [213, 227, 228, 570, 646, 784]
+                                    1      as kybernetik-zweiter-ordnung
+  Gedächtnistheorie                 4 word     4 in   [232, 572, 632, 635]
+  Bewusstseinsphilosophie           2 word     2 in   [250, 574]
+  Minimales Selbst                  6 word     6 in   [250, 258, 574, 632, 635, 789]
+  Philosophie der Negation          2 word     2 in   [267, 576]
+  Tragödientheorie                  4 word     4 in   [277, 578, 667, 674]
+  Hamartia                         13 word    13 in   [277, 285, 286, 291, 292, 578]
+  Hybris                            6 word     6 in   [277, 286, 291, 578, 646]
+  Katharsis                         5 word     6 in   [277, 287, 291, 578, 667]
+                                    1      as Katharsis-Potenzial
+  Psychologie der Angst und Paranoia    2 word     2 in   [296, 580]
+  Theorie der Verkörperung          2 word     2 in   [315, 582]
+  Embodiment                        3 word     3 in   [315, 582, 632]
+  Sprachphilosophie                 7 word     7 in   [325, 584, 632, 660, 663, 674]
+  Computational Complexity Theory    2 word     2 in   [343, 586]
+  Self-Modifying Code               3 word     3 in   [352, 588, 646]
+  Reward Hacking                    3 word     3 in   [361, 590, 646]
+  Specification Gaming              4 word     4 in   [361, 366, 590]
+  Information Hazards               2 word     2 in   [370, 592]
+  Infohazards                       2 word     2 in   [370, 592]
+  Memetics                          6 word     6 in   [379, 594, 910, 911]
+  Nicht-Euklidische Geometrie       4 word     4 in   [388, 596, 639, 642]
+  Topologie                         4 word     4 in   [397, 598, 639]
+  Holographisches Prinzip           5 word     5 in   [406, 600, 639, 642, 660]
+  Thermodynamik                     3 word     3 in   [415, 602, 660]
+  Negentropie                       4 word     4 in   [415, 424, 429, 602]
+  Dissipative Strukturen            4 word     4 in   [415, 425, 602]
+  Quantenverschränkung              2 word     2 in   [433, 604]
+  Narrative Identitätstheorie       2 word     2 in   [451, 608]
+  Kognitive Dissonanz               5 word     5 in   [460, 610, 646, 649, 653]
+  Psychologische Abwehrmechanismen    2 word     2 in   [469, 612]
+  Lügner-Paradoxon                  6 word     6 in   [180, 486, 491, 614, 646]
+  Schiff des Theseus Paradoxon      2 word     2 in   [495, 616]
+  Unzuverlässiger Erzähler          4 word     4 in   [513, 620, 674, 677]
+  Bewusstseinsstrom                15 word    16 in   [522, 622, 632, 634, 674, 677]
+                                    1      as Bewusstseinsstroms
+  Metapherntheorie                  5 word     5 in   [531, 624, 632, 634, 674]
+  Reinszenierung                    6 word     6 in   [48, 59, 63, 550, 653]

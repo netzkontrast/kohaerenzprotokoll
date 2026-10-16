@@ -1,0 +1,14 @@
+# research-prompt-kohaerenz-protokoll-verification-md
+  lines                1428  (frontmatter ends at 9)
+  body words           6022
+  headings             34   bold-only lines 61
+  table rows           16   code fences 0
+  question marks       88
+  backslash escapes    194
+  typographic marks    68   ascii quotes 256
+  invisible characters none
+  math symbol lines    7
+  glued ref numbers    53
+  repeated labels      Observe x20, Reason x18, Act (Search Protocol M06 + M01) x8, What it is x5, Act (Search Protocol M01 + M06) x4, Act (Search Protocol M06) x4, Example trigger in this research context x4, How to apply it — step by step x4, When to stop / escape criterion x4, Why it is in this prompt x4, Method Adherence x3
+  longest line         360 chars
+

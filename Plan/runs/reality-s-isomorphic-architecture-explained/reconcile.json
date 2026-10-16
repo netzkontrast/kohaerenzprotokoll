@@ -1,0 +1,57 @@
+{
+  "document": "reality-s-isomorphic-architecture-explained",
+  "drive_id": "14vZGIMAl-fY_453ERPV209TL7eDH3B1YG1E-uMO-2Bc",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — an English counterpart of the isomorphy report that names nothing of the novel; the note was reworded before commit to drop a person-named concept from its prose; first held by the privacy screen on the word shadow and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 56,
+    "decided_by_lookup": 49,
+    "needs_judgement": 7
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English glossary-style report claiming one isomorphic architecture across physics, trauma psychology, rendering faults, group theory and agent design: it names no figure, place or object of the novel (Kael, AEGIS, Juna each 0), so its vocabulary stays in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Glitches`, `Horror-Glitch` and `Simulation` general senses, not the novel's Risse or simulation; `Coherence Protocol` the glossary's own four-phase method, not the novel's title; names of people never written",
+  "sweep": [
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 175,
+      "decision": "occurrence",
+      "why": "a section heading on rendering and simulation glitches in general, not the novel's Risse"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 219,
+      "decision": "occurrence",
+      "why": "a heading on the ANP as simulation in the general sense, not the novel's simulation"
+    }
+  ],
+  "not_promoted": [
+    "the glossary's vocabulary — Isomorphism, Z-Fighting, Vertex Explosion, Hyperreal, Burden, Unburdening, Self-Reflecting Story Engine, its four-phase Coherence Protocol and the rest, several named after people"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

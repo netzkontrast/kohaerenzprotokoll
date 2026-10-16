@@ -1,0 +1,144 @@
+# counts for 107 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                3 word     8 in   [11, 15, 21, 268, 424, 465]  <-- substring
+  Kohärenz Protokolls               5 word     5 in   [21, 268, 424, 465, 633]
+  Potentialmeer                    21 word    27 in   [21, 25, 38, 46, 54, 58]
+                                    6      as Potentialmeers
+  AEGIS                           167 word   170 in   [21, 25, 30, 38, 46, 54]
+                                    1      as AEGIS-System
+                                    1      as AEGIS-Systems
+                                    1      as AEGIS-Kael
+  Kael                             76 word   159 in   [15, 25, 38, 46, 54, 71]  <-- substring
+                                   74      as Kaels
+                                    4      as Kael-Juna-Verbindung
+                                    1      as Kael-Zustand
+                                    1      as Kael-Juna-Beziehung
+  Juna                             40 word    51 in   [15, 38, 79, 96, 129, 137]
+                                    4      as Junas
+                                    1      as Juna-Verbindung
+  M                                89 word   447 in   [15, 16, 21, 25, 26, 30]  <-- substring
+  Kernwelten                       57 word    58 in   [30, 38, 46, 54, 63, 71]
+                                    1      as Kernwelten-Technologie
+  Kernwelt                          8 word    66 in   [30, 38, 46, 54, 63, 71]  <-- substring
+                                   57      as Kernwelten
+                                    1      as Kernwelten-Technologie
+  Moonshine-Link                    6 word     6 in   [96, 129, 166, 465, 565, 569]
+  K-J-Link                          5 word     5 in   [190, 473, 521, 581, 646]
+  Kael-Juna-Verbindung              4 word     4 in   [15, 137, 563, 565]
+  Risse                             8 word     8 in   [46, 71, 190, 348, 394, 402]
+  Caches                            3 word     3 in   [54, 83, 348]
+  Cache-Kohärenz-Metapher           4 word     4 in   [21, 54, 81, 88]
+  Kohärenz-Controller               2 word     2 in   [83, 348]
+  Identitäts-Kohärenz               1 word     1 in   [83]
+  Identitätsparadoxie               1 word     1 in   [54]
+  Schiff des Theseus                1 word     1 in   [54]
+  B-Welt                            6 word     6 in   [209, 240, 264, 497, 521, 659]
+  Baby-Monster-Welt                 2 word     2 in   [190, 208]
+  McL-Welt                          3 word     3 in   [232, 240, 296]
+  Co1-Welt                          3 word     3 in   [232, 240, 264]
+  Ly-Welt                           2 word     2 in   [240, 264]
+  Monstergruppe                    10 word    10 in   [121, 141, 143, 145, 146, 162]
+  Subquotienten                     4 word     4 in   [145, 146, 150, 166]
+  Happy Family                      2 word     2 in   [146, 150]
+  Pariahs                           2 word     2 in   [146, 150]
+  Kernkonflikt                      3 word     7 in   [15, 38, 266, 270, 272, 286]  <-- substring
+                                    2      as Kernkonflikts
+                                    1      as Kernkonflikte
+                                    1      as Kernkonflikt-Philosophie
+  Kernkonflikts                     2 word     2 in   [266, 270]
+  Kernkonzept                       4 word     6 in   [25, 58, 83, 108, 145, 465]
+                                    2      as Kernkonzepte
+  Narrative Relevanz               55 word    55 in   [30, 38, 46, 54, 63, 71]
+  Narrative Eignung                 7 word     7 in   [581, 589, 597, 605, 613, 621]
+  Autopoiesis                       8 word     8 in   [21, 56, 59, 63, 358, 402]
+  Potentialität & Aktualität        1 word     1 in   [23]
+  Whiteheadsche Prozessphilosophie    1 word     1 in   [34]
+  Aktuale Entitäten                 1 word     1 in   [34]
+  Konkreszenz                       1 word     1 in   [34]
+  Quantenvakuum                     3 word     4 in   [42, 46, 154, 644]
+                                    1      as Quantenvakuumzustand
+  Second-Order Cybernetics          2 word     2 in   [67, 645]
+  Enaktivismus                      4 word     4 in   [75, 79, 645]
+  Distributed Cognition             2 word     2 in   [84, 746]
+  Consensus Protocols               2 word     2 in   [92, 646]
+  Split-Brain-Forschung             1 word     1 in   [100]
+  Halting Problem                   1 word     1 in   [109]
+  Gödel'schen Unvollständigkeitssätzen    1 word     1 in   [108]
+  Kolmogorov-Komplexität            3 word     3 in   [117, 121]
+  Hypercomputation                  6 word     7 in   [133, 137, 650, 729, 762]
+                                    1      as Hypercomputation-Computing-Church-Turing-Monographs-Computer
+  P versus NP Problem               1 word     1 in   [125]
+  Monstrous Moonshine               5 word     6 in   [141, 162, 569, 658, 765, 778]
+  Moonshine-Modul                   2 word     2 in   [162, 178]
+  Leech-Gitter                      2 word     3 in   [162, 178, 182]
+                                    1      as Leech-Gitters
+  Monster-Lie-Algebra               2 word     2 in   [178, 182]
+  Stringtheorie                     6 word     6 in   [162, 170, 178]
+  Konforme Feldtheorie              2 word     2 in   [170, 569]
+  Symmetriebrechung                 5 word     7 in   [42, 46, 154, 158, 186, 190]
+                                    2      as Symmetriebrechungen
+  Chaostheorie                      2 word     2 in   [186, 659]
+  Quasikristalle                    3 word     3 in   [194, 660]
+  Dissoziative Identitätsstörung    1 word     1 in   [206]
+  Internal Family Systems           1 word     1 in   [207]
+  Jung'scher Schatten               2 word     2 in   [202, 208]
+  Narrative Expositionstherapie     1 word     1 in   [209]
+  Transpersonale Psychologie        2 word     2 in   [202, 210]
+  Objektbeziehungstheorie           2 word     2 in   [214, 668]
+  Spaltung (Splitting)              1 word     1 in   [219]
+  Bindungstheorie                   2 word     2 in   [228, 669]
+  Archetypenlehre                   2 word     2 in   [236, 670]
+  Somatic Experiencing              6 word     6 in   [244, 671, 836, 837, 838, 840]
+  Integrale Theorie                 2 word     2 in   [210, 252]
+  Perinatale Matrizen               1 word     1 in   [260]
+  Emergenztheorie                   1 word     1 in   [280]
+  Schwache Emergenz                 3 word     3 in   [284, 680]
+  Starke Emergenz                   2 word     2 in   [285]
+  Holismus                          4 word     6 in   [268, 290, 295, 307, 681]
+                                    1      as Holismus-Aspekt
+                                    1      as Holismus-Thema
+  Reduktionismus                    5 word     5 in   [268, 290, 294, 296]
+  Implizite Ordnung                 5 word     5 in   [304, 625, 681, 718]
+  Impliziten Ordnung                4 word     4 in   [307, 629]
+  Holomovement                      6 word     6 in   [300, 306, 307, 625, 852]
+  Tacit Knowing                     1 word     1 in   [315]
+  Phänomenologie                    3 word     3 in   [322, 330, 683]
+  Wu Wei                            4 word     4 in   [334, 338, 684, 864]
+  Chinese Room Argument             3 word     3 in   [362, 692, 866]
+  Computational Theory of Mind      2 word     2 in   [370, 870]
+  Integrated Information Theory     1 word     1 in   [392]
+  Global Workspace Theory           2 word     2 in   [393, 874]
+  Orthogonalitätsthese              1 word     1 in   [435]
+  Instrumentelle Konvergenz         1 word     1 in   [436]
+  Value Alignment                   3 word     3 in   [432, 441, 694]
+  Gehirn im Tank                    2 word     2 in   [421, 428]
+  Mary's Room                       6 word     6 in   [422, 429, 481, 695, 894, 895]
+  Philosophische Zombies            1 word     1 in   [423]
+  Kognitive Verfremdung             2 word     2 in   [461, 703]
+  Novum                             9 word    10 in   [461, 465, 469, 473, 485, 913]
+                                    1      as Novums
+  Unzuverlässiger Erzähler          1 word     1 in   [493]
+  Gaslighting                       8 word     9 in   [501, 505, 704, 922, 923, 924]
+                                    1      as gaslighting_in_intimate_relationships
+                                    1      as Gaslighting-in-Intimate-Relationships
+                                    1      as gaslighting-and-manipulation
+  Paranoia                          5 word     5 in   [509, 513, 927]
+  Doppelgänger                      7 word    10 in   [517, 521, 705, 928, 929, 930]
+                                    1      as Doppelgängern
+                                    1      as Doppelgänger-Konfrontation
+                                    1      as Doppelgängers
+  Kosmische Gleichgültigkeit        1 word     1 in   [533]
+  Verbotenes Wissen                 2 word     2 in   [541, 706]
+  Körperhorror                      2 word     2 in   [557, 561]
+  Transaktionale Interpretation     2 word     2 in   [577, 716]
+  Relationale Quantenmechanik       1 word     1 in   [585]
+  De Broglie-Bohm-Theorie           1 word     1 in   [593]
+  Pilotwelle                        5 word     6 in   [593, 597]
+                                    1      as Pilotwellentheorie
+  Synchronizität                    3 word     4 in   [601, 605, 717]
+                                    1      as Synchronizitäten
+  Kollektives Unbewusstes           2 word     2 in   [609, 718]
+  Morphische Resonanz               2 word     2 in   [617, 718]

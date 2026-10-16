@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "paradoxien-der-kohaerenz-protokoll-entwicklung", "kernwelten-fuer-kohaerenz-protokoll"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "romanprojekt-analyse-kohaerenz-protokoll", "welten", "kohaerenz-protokoll-weltkonzept-synthese", "plot-entwicklung-fuer-kohaerenz-protokoll", "paradoxien-der-kohaerenz-protokoll-entwicklung", "kernwelten-fuer-kohaerenz-protokoll", "kohaerenz-protokoll-plot-entwicklungsauftrag"]
 gathered: "2026-09-17"
 ---
 
@@ -62,6 +62,10 @@ Recorded as the document's own description, not applied.
 The blueprint writes the bond under three names: `Kael-Juna-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#27], the clipped `K-J-Verbindung` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#18] and `Kael-Juna-Resonanz` ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:#3]; it never writes Julia for Juna in these names. A heading calls it „Die Kael-Juna-Resonanz: Katalysator des Wandels“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L123].
 
 On what it does to AEGIS, it proposes: „Sie umgeht die logikbasierten Protokolle und Überwachungssysteme von AEGIS“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L127]; for AEGIS it is at first invisible: „Für AEGIS ist diese Resonanz zunächst unsichtbar“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L129]. On its origin the blueprint places it outside AEGIS's system: „Diese Verbindung, die ihren Ursprung außerhalb von AEGIS' System hat“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163], in the `Kohärenz-Insel` or, hedged, „oder einem damit verbundenen Nexus“ ^[plot-entwicklung-fuer-kohaerenz-protokoll.md:L163].
+
+## Reading — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint — the K-J-Bindung as a written form of the Kael-Juna connection
+
+The M/Kael plot blueprint introduces the connection as „Einführung der Kael-Juna-Verbindung als Narratives Moonshine“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L104] and abbreviates it K-J-Verbindung. The form K-J-Bindung stands twice: in „Phänomene wie die K-J-Bindung“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L121] (the Potentialmeer passage, L121) and in „Die Moonshine-Verbindung (K-J-Bindung) sollte dabei subtil als ermöglichender Faktor in all diesen Szenen präsent sein“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L200] (the key scenes, L200). Recorded, not applied.
 
 ## Reading — `kernwelten-fuer-kohaerenz-protokoll`, 2025-04-27, the Kernwelten design report — the K-J connection as a proposed channel across the caches
 

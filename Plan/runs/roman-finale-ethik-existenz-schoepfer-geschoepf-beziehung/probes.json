@@ -1,0 +1,229 @@
+{
+  "document": "roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung",
+  "drive_id": "1XqZf3idjE2pVd3QRDruqaQYthhtAO4QwJe4rFhf-2GA",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 40,
+  "backslash_escapes": 44,
+  "typographic_marks": 39,
+  "ascii_quotes": 118,
+  "inflection_families": {
+    "grund": [
+      "Grund",
+      "Grundlage",
+      "Grundlagen",
+      "Grundlegung",
+      "Grundsätzliche"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologie",
+      "Psychologische",
+      "Psychotherapie"
+    ],
+    "schöp": [
+      "Schöpfer",
+      "Schöpferische",
+      "Schöpfers",
+      "Schöpfung",
+      "Schöpfungen"
+    ],
+    "absur": [
+      "Absurd",
+      "Absurde",
+      "Absurden",
+      "Absurdismus"
+    ],
+    "gesch": [
+      "Geschenk",
+      "Geschichte",
+      "Geschichtenerzählers",
+      "Geschöpf"
+    ],
+    "gärtn": [
+      "Gärtner",
+      "Gärtnern",
+      "Gärtnerns",
+      "Gärtners"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsentwurf",
+      "Handlungsfreiheit"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption"
+    ],
+    "leben": [
+      "Leben",
+      "Lebensmodell",
+      "Lebensphilosophie",
+      "Lebenssituation"
+    ],
+    "leser": [
+      "Leser",
+      "Leserbewusstsein",
+      "Leserintegration",
+      "Lesers"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "erzäh": [
+      "Erzählens",
+      "Erzähltheorie",
+      "Erzählung"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzanalyse",
+      "Existenzphilosophie"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophisches",
+      "Philosophy"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekt",
+      "Romans"
+    ],
+    "seins": [
+      "Seins",
+      "Seinszustand",
+      "Seinszustands"
+    ],
+    "stein": [
+      "Stein",
+      "Steine",
+      "Steinen"
+    ],
+    "werte": [
+      "Werte",
+      "Wertedynamik",
+      "Werten"
+    ],
+    "analo": [
+      "Analogie",
+      "Analogien"
+    ],
+    "aufga": [
+      "Aufgabe",
+      "Aufgabenstellung"
+    ],
+    "barri": [
+      "Barriere",
+      "Barrieren"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungslosigkeit"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschleunigungskritik"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Schlussbild"
+    ],
+    [
+      "Bild",
+      "Ebenbildlichkeit"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Steine"
+    ],
+    [
+      "Eine",
+      "Steinen"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Ende",
+      "Endes"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Gabe",
+      "Gaben"
+    ],
+    [
+      "Gabe",
+      "Aufgabe"
+    ],
+    [
+      "Gabe",
+      "Hingabe"
+    ],
+    [
+      "Gabe",
+      "Sonderausgabe"
+    ],
+    [
+      "Gabe",
+      "Aufgabenstellung"
+    ],
+    [
+      "Gold",
+      "Goldes"
+    ]
+  ]
+}

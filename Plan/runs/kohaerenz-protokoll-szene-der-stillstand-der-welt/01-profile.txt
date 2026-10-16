@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-szene-der-stillstand-der-welt
+  lines                48  (frontmatter ends at 9)
+  body words           395
+  headings             1   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    8   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    1
+  repeated labels      none
+  longest line         359 chars
+

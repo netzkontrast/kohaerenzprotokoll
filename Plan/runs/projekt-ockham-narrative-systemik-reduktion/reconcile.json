@@ -1,0 +1,154 @@
+{
+  "document": "projekt-ockham-narrative-systemik-reduktion",
+  "drive_id": "1SFuKU0hZCgwwiHgYuCba7J8WFbszyxh6d1RnNEpekjY",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; a first reading was discarded uncommitted because its list held a term that stands only in hyphen compounds and quotes.py refused the zero; the note's heading was reworded to drop the project's person-derived name; readings and the Q8 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-519/brief.md, 2026-10-14; first held by the privacy screen on the words shadow (a software technique) and DIS, released on re-screening",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 110,
+    "decisions": 111,
+    "decided_by_lookup": 87,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A technical report on a multi-agent writing system that uses the novel as its stress test: its new surfaces are software terms; what its case study and sample data say of Kael, AEGIS, Juna, the alters, the two kernels, the DKT and TSDP went on existing pages, and the simulated climax on Q8.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        305,
+        309,
+        317,
+        318
+      ],
+      "attribution": "",
+      "note": "AEGIS as the classical-logic kernel in a software stress test"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        305
+      ],
+      "attribution": "",
+      "note": "Kael's identities as the case study's premise"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel-Theorie as the software's ordering principle"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        79,
+        155
+      ],
+      "attribution": "",
+      "note": "Juna in sample data"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        154,
+        157,
+        305,
+        310,
+        314,
+        344
+      ],
+      "attribution": "",
+      "note": "Kael as the second kernel in a stress-test case study"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        37
+      ],
+      "attribution": "",
+      "note": "the first kernel as the domain of consistency"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        38
+      ],
+      "attribution": "",
+      "note": "the second kernel as the domain of sensory experience"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "the novel's protagonist modelled after TSDP"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Narrative Entropie` and `Kohärenztheorie der Wahrheit` general uses; `Architekt` and `AutoGen` software terms; Kael and Juna outside the case study are sample data; the project's name and the gambit's name carry people's names and are never written",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 305,
+      "decision": "reading",
+      "why": "Kael as a fragmented system of identities; read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "a general use"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "a general use"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 80,
+      "decision": "occurrence",
+      "why": "an agent persona in the software"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "a general use"
+    }
+  ],
+  "not_promoted": [
+    "NovelOS, ARCHON, the Coherence Loop, the Librarian, the Sensory Drafter, Hard/Soft Canon, the YAML schemas, BDI-Modell, Shadow Git, Aktives Vergessen, the Golden Source, and the concepts named after people"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

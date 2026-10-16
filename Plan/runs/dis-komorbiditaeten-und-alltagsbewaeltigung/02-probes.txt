@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      91
+  backslash escapes      72
+  typographic marks      29
+  ascii quotes           48
+
+# inflection families -- one term, several surfaces
+  arbei    Arbeit, Arbeiten, Arbeitgeber, Arbeitsgedächtnis, Arbeitsgedächtnisleistung, Arbeitsmarkt, Arbeitsmarktpartizipation, Arbeitsorganisation, Arbeitsplatz, Arbeitsplatzes, Arbeitsrecht, Arbeitstag, Arbeitsunfähigkeit, Arbeitsverträge
+  psych    Psyche, Psychiater, Psychiatrie, Psychiatrische, Psychiatrischen, Psychische, Psychose, Psychosen, Psychosomatik, Psychosoziales, Psychotherapeutenjournal, Psychotherapie, Psychotraumatherapie, Psychotraumatologie
+  traum    Trauma, Traumafolgestörung, Traumafolgestörungen, Traumaklinik, Traumakompensation, Traumas, Traumastationen, Traumata, Traumatherapie, Traumatisierung, Traumatisierungen, Traumatologische
+  allta    Alltag, Alltagsanforderungen, Alltagsanteile, Alltagsaufgaben, Alltagsbewusstsein, Alltagsbewältigung, Alltagskompetenz, Alltagsleben, Alltagsroutinen, Alltagssituationen, Alltagsteilhabe
+  betre    Betreuer, Betreuers, Betreute, Betreuten, Betreutes, Betreuung, Betreuungen, Betreuungsgericht, Betreuungsrecht, Betreuungsrechtsreform, Betreuungsvereine
+  leben    Leben, Lebensgefahr, Lebenshilfe, Lebenskrisen, Lebenslange, Lebensnotwendige, Lebensqualität, Lebenssituation, Lebensumfeld, Lebensumständen, Lebensunterhalt
+  sozia    SOZIALEN, Sozialarbeiter, Soziale, Sozialen, Soziales, Sozialgerichten, Sozialgesetzbuches, Sozialrechtliche, Sozialrechtsangelegenheiten, Sozialstaat, Sozialverband
+  inter    Interaktion, Interaktionen, Interferenz, Interferenzkontrolle, International, Internationalen, Internet, Intervention, Interventionen, Interview
+  persö    Persönliche, Persönlichen, Persönliches, Persönlichkeit, Persönlichkeits, Persönlichkeitsanteil, Persönlichkeitsanteile, Persönlichkeitsanteilen, Persönlichkeitsentwicklung, Persönlichkeitszustände
+  schme    Schmerz, Schmerzattacke, Schmerzempfindung, Schmerzen, Schmerzes, Schmerzsyndrome, Schmerzsyndromen, Schmerztherapeut, Schmerzverlauf
+  schwe    Schweigegebote, Schweigen, Schwerbehindertenausweis, Schwerbehindertenausweises, Schwerbehinderung, Schwere, Schweregrad, Schweregradkategorie, Schwerste
+  sucht    Sucht, Suchtberatung, Suchtberatungsstellen, Suchtdruck, Suchtdynamik, Suchterkrankungen, Suchthilfesysteme, Suchtmittel, Suchtproblematik
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziationen, Dissoziationstrigger, Dissoziative, Dissoziativen, Dissoziativer
+  sympt    Symptom, Symptomatik, Symptome, Symptomen, Symptomkontrolle, Symptomlast, Symptoms, Symptomüberlappung
+  aufga    Aufgabe, Aufgaben, Aufgabenbereiche, Aufgabenkreis, Aufgabenkreise, Aufgabenkreisen, Aufgabenwechsel
+  bunde    Bundesarbeitsgemeinschaft, Bundesgerichtshof, Bundesportal, Bundesteilhabegesetz, Bundesteilhabegesetzes, Bundesverband, Bundesversorgungsgesetzes
+  subst    Substanzabusus, Substanzen, Substanzgebrauch, Substanzgebrauchsstörung, Substanzgebrauchsstörungen, Substanzmissbrauch, Substanzmissbrauchs
+  verso    VERSORGUNGSMEDIZINISCHE, Versorgung, Versorgungsmedizin, Versorgungsmedizinische, Versorgungsmedizinischen, Versorgungssystem, Versorgungsämter
+  ident    Identität, Identitäten, Identitätsstörung, Identitätswechseln, Identitätswechsels, Identitätszuständen
+  recht    Rechtfertigungsdruck, Rechtliche, Rechtlichen, Rechtsmerkmal, Rechtssubjekt, Rechtssystem
+  selbs    Selbst, Selbstbestimmung, Selbstbild, Selbsthilfebuch, Selbstorganisation, Selbstschutz
+  bezie    Beziehungen, Beziehungsabbrüche, Beziehungsfähigkeit, Beziehungsgestaltung, Beziehungsmuster
+  bindu    Bindung, Bindungsmuster, Bindungspersonen, Bindungsstilen, Bindungstrauma
+  famil    Familie, Familienratgeber, Familienstrukturen, Familientrauma, Familienverhältnisse
+  grund    GRUNDS, Grundlagen, Grundsicherung, Grundsätze, Grundsätzen
+
+# substring pairs -- never one term, often merged by accident
+  ALIT < Realität
+  ALIT < Suizidalitäts
+  ALIT < Lebensqualität
+  ALIT < Vitalitätseinbußen
+  Acht < Ohnmacht
+  Acht < Gutachten
+  Acht < Gutachter
+  Acht < Nachteile
+  Acht < Gutachtens
+  Acht < Begutachtung
+  Acht < Begutachtungen
+  Acht < Nachteilsausgleiche
+  Acht < Begutachtungssituation
+  Acht < Sachverständigengutachten
+  Auch < Substanzgebrauch
+  Auch < Missbrauchszyklen
+  Auch < Substanzmissbrauch
+  Auch < Substanzmissbrauchs
+  Auch < Missbrauchsgeschichten
+  Auch < Substanzgebrauchsstörung

@@ -1,0 +1,714 @@
+{
+  "document": "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
+  "drive_id": "113uo8FO5YjbYWMd5qgi9WfTSGlCKK15R5LbqndAcgHo",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 26,
+      "n_including_compounds": 59,
+      "lines": [
+        26,
+        30,
+        32,
+        34,
+        38,
+        40,
+        44,
+        45,
+        56,
+        58,
+        60,
+        62,
+        64,
+        72,
+        84,
+        86,
+        90,
+        98,
+        102,
+        104,
+        106,
+        108,
+        110,
+        111,
+        113,
+        121,
+        131,
+        133,
+        135,
+        139,
+        143,
+        145,
+        147,
+        166,
+        168,
+        170,
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    "AEGIS": {
+      "n": 17,
+      "n_including_compounds": 18,
+      "lines": [
+        34,
+        36,
+        40,
+        45,
+        46,
+        58,
+        60,
+        104,
+        113,
+        182,
+        184
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        47,
+        190
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        47,
+        190
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "'O'": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        64,
+        86,
+        98,
+        106,
+        109,
+        110,
+        168,
+        177,
+        178,
+        204
+      ]
+    },
+    "Gärtner": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        48,
+        60,
+        104,
+        108,
+        166,
+        176
+      ]
+    },
+    "Narrative Entropie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        104,
+        198
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        104
+      ]
+    },
+    "Abyssos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Eros": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        36,
+        40,
+        47,
+        60,
+        64
+      ]
+    },
+    "Logos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        40
+      ]
+    },
+    "narrativen Währung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Erwachte Narrative Entität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        90
+      ]
+    },
+    "ENE": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        72,
+        80,
+        84,
+        86,
+        102,
+        113
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        151
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "tertiären strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "traumatisierter Gott": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Esse est percipi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        110
+      ]
+    },
+    "Realitätswunden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        62
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        64
+      ]
+    },
+    "inneren Verbündeten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Was würde Kael tun?": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        139,
+        147
+      ]
+    },
+    "stille Dialog": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        147,
+        168
+      ]
+    },
+    "platonischen Raum der Fiktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        113
+      ]
+    },
+    "Resonanzkörper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "psychologische Kriegsführung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Schmelztiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Epilog": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        135,
+        160,
+        162,
+        164,
+        170,
+        223
+      ]
+    },
+    "Lesertransformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Individuations-Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Parallelreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "stellvertretenden Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        22
+      ]
+    },
+    "Ist es schön?": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Reicht das?": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        168,
+        177
+      ]
+    },
+    "Radikale Akzeptanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Aktive Sinnstiftung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Integratives Denken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Resilienz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Wabi-Sabi": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        175
+      ]
+    },
+    "Meta-Offenbarung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Nigredo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        45
+      ]
+    },
+    "Albedo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        46
+      ]
+    },
+    "Citrinitas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        47
+      ]
+    },
+    "Rubedo": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        38,
+        48
+      ]
+    },
+    "prima materia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        45
+      ]
+    },
+    "unio mentalis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Enantiodromie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Anima/Animus": {
+      "n": 0,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Anima": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        38,
+        47
+      ]
+    },
+    "Animus": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        47
+      ]
+    },
+    "Selbst": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        34,
+        38,
+        40,
+        48,
+        52,
+        84,
+        133,
+        135,
+        145,
+        212
+      ]
+    },
+    "Schatten": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        32,
+        34,
+        38,
+        45,
+        46,
+        82,
+        91
+      ]
+    },
+    "Archetyp": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        34,
+        36,
+        38,
+        82,
+        84,
+        133,
+        186,
+        187
+      ]
+    },
+    "Individuationsprozess": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        191
+      ]
+    },
+    "Narrative Therapie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        62
+      ]
+    },
+    "Narrativen Therapie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        56,
+        58,
+        60,
+        64
+      ]
+    },
+    "externalisieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Dekonstruktion": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        62
+      ]
+    },
+    "Re-Authoring Conversations": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Unique Outcomes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "Leerstellen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        202
+      ]
+    },
+    "Sosein": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        84
+      ]
+    },
+    "Gegenstandstheorie": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        84,
+        210,
+        212
+      ]
+    },
+    "Gegenstand": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        84,
+        91,
+        210,
+        212
+      ]
+    },
+    "parasoziale Beziehung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "PSR": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        170
+      ]
+    },
+    "guten inneren Objekts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Introjektion": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        135
+      ]
+    },
+    "Objektbeziehungstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Verfremdungseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Negentropie": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        108
+      ]
+    },
+    "negentropischen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        45
+      ]
+    },
+    "Retraumatisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "iatrogen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    }
+  }
+}

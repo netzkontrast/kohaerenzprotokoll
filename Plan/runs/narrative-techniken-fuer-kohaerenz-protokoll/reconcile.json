@@ -1,0 +1,165 @@
+{
+  "document": "narrative-techniken-fuer-kohaerenz-protokoll",
+  "drive_id": "1GY8gHHSD50-5byKhrLCWX3Bd6If0151unkE3mCmsKeo",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-438/brief.md, 2026-10-14; the document was first held back by a privacy screen on the word Wächter and released when it proved to be a craft report whose Wächterin is a part of Kael",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 80,
+    "decisions": 90,
+    "decided_by_lookup": 57,
+    "needs_judgement": 33
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report of narrative techniques applying borrowed craft frameworks to the novel: its new surfaces are M, Kael-M, the Kael-Juna-Einheit, Kael's inner space, the world codes, the Guardians' names, the Log-Format, the Sprachwechsel, the Blaupause, Kael's parts and borrowed craft concepts; what it advises for Kael, Juna, AEGIS, the Risse, cache coherence, the Kernwelten, the Guardians, emergence and the Moonshine link went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        45,
+        64,
+        220,
+        225,
+        337,
+        340
+      ],
+      "attribution": "",
+      "note": "proposals for AEGIS's voice, setting and nature"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        44,
+        79,
+        261,
+        269,
+        274,
+        276
+      ],
+      "attribution": "",
+      "note": "how to make `Cache Kohärenz` experienceable"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        216,
+        221,
+        222,
+        223,
+        338
+      ],
+      "attribution": "",
+      "note": "emergence as a borrowed concept applied to M, Ly and AEGIS"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        373,
+        381,
+        382,
+        386
+      ],
+      "attribution": "",
+      "note": "Guardians as embodied world principles"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        99,
+        363,
+        406,
+        408
+      ],
+      "attribution": "",
+      "note": "Juna in the subtle K-J connection and the three parts"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        44,
+        65,
+        206,
+        298,
+        407,
+        408
+      ],
+      "attribution": "",
+      "note": "advice on voice, space, parts and the three-part course for Kael"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        61,
+        62,
+        63,
+        67,
+        381
+      ],
+      "attribution": "",
+      "note": "three worlds described by principle, and Guardians who embody them"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        99,
+        345,
+        367,
+        369
+      ],
+      "attribution": "",
+      "note": "techniques for the subtle K-J connection"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        45,
+        64,
+        338,
+        339
+      ],
+      "attribution": "",
+      "note": "the `Risse` as signs of AEGIS's instability"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kael-M`, `Kael-Juna-Einheit` and `Innerer Raum Kaels` read with kael and juna; `AEGIS-System` read with aegis; the coded worlds and `Kernwelt-Guardian(s)` read on kern-welten and guardians; `Cache-Kohärenz-Metapher` on cache-kohaerenz; `Moonshine` on moonshine-link; `Kohärenz Protokoll` the title",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 189,
+      "decision": "occurrence",
+      "why": "a clinical definition in a borrowed psychology section"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    }
+  ],
+  "not_promoted": [
+    "M, Kael-M, Kael-Juna-Einheit, Innerer Raum Kaels, the world codes, the Guardians' names, Log-Format, Sprachwechsel, Blaupause, Kael's parts, and the borrowed craft concepts"
+  ],
+  "internal_tension": "it refers to a chapter blueprint it does not contain (L45, L69, L369) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

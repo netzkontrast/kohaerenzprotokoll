@@ -1,0 +1,86 @@
+# counts for 68 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            50 word    53 in   [13, 22, 30, 32, 40, 42]
+                                    1      as AEGIS-Architektur
+                                    1      as AEGIS-Äquivalent
+                                    1      as AEGIS-Eingriff
+  Kael                             20 word    24 in   [56, 58, 101, 119, 147, 171]
+                                    4      as Kaels
+  System Kael                       4 word     4 in   [56, 101, 203, 209]
+  Selene                            1 word     1 in   [186]
+  Cerberus                          2 word     3 in   [88, 90, 184]
+                                    1      as Cerberus-Labyrinth
+  Cerberus-Labyrinth                1 word     1 in   [88]
+  Wächter                           9 word    14 in   [80, 84, 90, 100, 115, 139]
+                                    3      as Wächter-EPs
+                                    1      as Wächter-EP
+                                    1      as Wächtern
+  Wächter der Kernwelten            1 word     1 in   [84]
+  Wächter-EPs                       3 word     3 in   [100, 139, 151]
+  Guardians                         1 word     1 in   [84]
+  Kernwelten                        8 word     8 in   [84, 86, 88, 117, 138, 139]
+  Leere                             9 word     9 in   [26, 30, 42, 44, 58, 74]
+  Ursprungs-Ich                     4 word     5 in   [84, 151, 184, 199, 221]
+                                    1      as Ursprungs-Ichs
+  Kohärenz Protokoll                8 word     9 in   [58, 70, 74, 76, 102, 116]
+  Genesis-Konflikt                  3 word     3 in   [22, 58, 218]
+  Genesis-Krise                     3 word     3 in   [86, 149, 184]
+  Gott der Ordnung                  2 word     2 in   [56, 103]
+  Risse in der Simulation           1 word     1 in   [147]
+  Riss in der Simulation            1 word     1 in   [153]
+  Zersetzungsdrucks                 1 word     1 in   [30]
+  Nichts Rauschens                  1 word     1 in   [30]
+  Formwahrung                       1 word     1 in   [32]
+  Kerndirektive                     2 word     2 in   [54, 101]
+  Eros                              2 word     2 in   [174, 214]
+  Logos                             2 word     2 in   [174, 214]
+  Abyssos                           1 word     1 in   [174]
+  Anscheinend Normaler Persönlichkeitsanteil    1 word     1 in   [74]
+  Anscheinend Normaler Teil         1 word     1 in   [114]
+  ANP                              11 word    12 in   [70, 74, 76, 86, 101, 102]
+  Emotionalen Persönlichkeitsanteile    1 word     1 in   [84]
+  Emotionaler Teil                  1 word     1 in   [115]
+  EPs                              10 word    13 in   [80, 84, 86, 100, 101, 116]
+  Exilanten                         4 word     4 in   [80, 86, 186]
+  Geister im Code                   1 word     1 in   [80]
+  Geister-Prozesse                  1 word     1 in   [84]
+  Legacy-Code                       5 word     5 in   [84, 117, 151, 153]
+  Kernbetriebssystem                5 word     6 in   [70, 100, 101, 114, 138, 149]
+                                    1      as Kernbetriebssystems
+  Core OS                           2 word     2 in   [114, 149]
+  kybernetisches Unbewusstes        1 word     1 in   [151]
+  System-interner Flashback         1 word     1 in   [149]
+  Systemzustands-Rollback           1 word     1 in   [149]
+  emergentem Verhalten              1 word     1 in   [151]
+  pathologisches emergentes Verhalten    1 word     1 in   [153]
+  Datenkorruption                   2 word     2 in   [76, 101]
+  Firewalls                         7 word     7 in   [100, 118, 132, 138, 185, 240]
+  Sandboxes                         3 word     3 in   [132, 139]
+  Trauma-geführtes                  1 word     1 in   [58]
+  Selbst-geführten                  2 word     2 in   [171, 198]
+  funktionale Multiplizität         1 word     1 in   [171]
+  funktionaler Psychose             1 word     1 in   [90]
+  tragische Symmetrie               3 word     3 in   [157, 169, 203]
+  Resonanzfrequenz                  1 word     1 in   [186]
+  Das Logbuch eines Geistes         1 word     1 in   [184]
+  Der Einbruch in die Sandbox       1 word     1 in   [185]
+  Resonanz mit dem Feind im Inneren    1 word     1 in   [186]
+  Erzwungene Integration            1 word     1 in   [198]
+  Opfer oder Synthese               1 word     1 in   [199]
+  TSDP                              3 word     4 in   [32, 66, 74, 219]
+                                    1      as TSDP-Analyse
+  Strukturellen Dissoziation der Persönlichkeit    2 word     2 in   [32, 66]
+  IFS                               8 word    10 in   [58, 66, 76, 86, 116, 117]
+  Internal Family Systems           2 word     2 in   [58, 66]
+  Manager                           4 word     8 in   [76, 86, 116, 196, 222, 223]
+                                    4      as Managers
+                                    1      as managers
+  Autopoiesis                       1 word     1 in   [36]
+  dissipative Struktur              2 word     2 in   [36, 44]
+  Verdrängung                       4 word     4 in   [100, 118, 213]
+  Projektion                        3 word     4 in   [101, 119, 174, 213]
+  Rationalisierung                  3 word     3 in   [102, 120]
+  Reaktionsbildung                  2 word     2 in   [103]

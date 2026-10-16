@@ -1,0 +1,350 @@
+{
+  "document": "spannungsfelder-und-aegis-meta-framework-analyse-docx",
+  "drive_id": "1SjX7GbNpKU5xfXqO1HRSlbuqtDT1QJ8l",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 4
+  },
+  "glued_ref_numbers": 193,
+  "backslash_escapes": 24,
+  "typographic_marks": 22,
+  "ascii_quotes": 110,
+  "inflection_families": {
+    "selbs": [
+      "Selbstbalancierung",
+      "Selbstbestimmung",
+      "Selbstbestätigung",
+      "Selbstbezug",
+      "Selbstdifferenzierung",
+      "Selbsterhaltung",
+      "Selbstgenügsamkeit",
+      "Selbstgestaltung",
+      "Selbstkonsistenz",
+      "Selbstorg",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstprüfung",
+      "Selbstreferenz",
+      "Selbststrukturierung",
+      "Selbstwahrnehmung",
+      "Selbstähnliche",
+      "Selbstähnlichkeit"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interdependent",
+      "Interdependente",
+      "Interdependenz",
+      "Interdependenzen",
+      "Interessant",
+      "Interessante",
+      "Internet",
+      "Interpret",
+      "Interpretation",
+      "Interpreten",
+      "Intervention"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergente",
+      "Emergentism",
+      "Emergentismus",
+      "Emergenz",
+      "Emergenzfähigkeit",
+      "Emergenzpflicht",
+      "Emergenztheorie",
+      "Emergenztheorien",
+      "Emergenzzeit",
+      "Emerging"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemgrenzen",
+      "Systemidentität",
+      "Systemisches",
+      "Systemparameter",
+      "Systemprinzipien",
+      "Systems",
+      "Systemsgrenzen",
+      "Systemtheorie",
+      "Systemverhalten"
+    ],
+    "energ": [
+      "Energie",
+      "Energieaustausch",
+      "Energiedissipation",
+      "Energieerhaltung",
+      "Energiefluss",
+      "Energieschwellen",
+      "Energieverteilung",
+      "Energiezerstreuung",
+      "Energiezufuhr",
+      "Energy"
+    ],
+    "infor": [
+      "Information",
+      "Informationell",
+      "Informationen",
+      "Informationsblockaden",
+      "Informationsentropie",
+      "Informationsfluss",
+      "Informationsflussregulation",
+      "Informationsgehalt",
+      "Informationstheorie",
+      "Informationsverarbeitung"
+    ],
+    "phase": [
+      "Phase",
+      "Phasen",
+      "Phasenfehlpassung",
+      "Phasenraum",
+      "Phasenstabilität",
+      "Phasenübergang",
+      "Phasenübergangstheorie",
+      "Phasenübergänge",
+      "Phasenübergängen"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modellierung",
+      "Modells",
+      "Modellvorschlag",
+      "Models"
+    ],
+    "reali": [
+      "Realismus",
+      "Realita",
+      "Realität",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsschicht",
+      "Realitätsschichten",
+      "Realitätsstrukturen"
+    ],
+    "spann": [
+      "Spannung",
+      "Spannungsfeld",
+      "Spannungsfelder",
+      "Spannungsfeldern",
+      "Spannungsfeldes",
+      "Spannungskohärenz",
+      "Spannungspunkt",
+      "Spannungsverhältnis"
+    ],
+    "muste": [
+      "Muster",
+      "Mustererhaltung",
+      "Mustererkennung",
+      "Mustern",
+      "Musters",
+      "MustertrotzVera",
+      "Musterwiederkehr"
+    ],
+    "philo": [
+      "Philosophen",
+      "Philosopher",
+      "Philosophical",
+      "Philosophie",
+      "Philosophisch",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturationstheorie",
+      "Strukturbildung",
+      "Strukturen",
+      "Strukturerhalt",
+      "Strukturierung",
+      "Strukturkomplexität"
+    ],
+    "therm": [
+      "Thermo",
+      "Thermodyn",
+      "Thermodynamics",
+      "Thermodynamik",
+      "Thermodynamisch",
+      "Thermodynamische",
+      "Thermodynamischer"
+    ],
+    "attra": [
+      "Attractor",
+      "Attractors",
+      "Attraktor",
+      "Attraktorbecken",
+      "Attraktoren",
+      "Attraktorentheorie"
+    ],
+    "bifur": [
+      "Bifurcation",
+      "Bifurcations",
+      "Bifurkation",
+      "Bifurkationen",
+      "Bifurkationsdiagramm",
+      "Bifurkationsdiagramme"
+    ],
+    "dynam": [
+      "Dynamical",
+      "Dynamik",
+      "Dynamiken",
+      "Dynamische",
+      "Dynamischen",
+      "Dynamisches"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropieexport",
+      "Entropiezunahme",
+      "Entropieänderung",
+      "Entropische",
+      "Entropy"
+    ],
+    "grenz": [
+      "Grenzbildung",
+      "Grenzdynamiken",
+      "Grenze",
+      "Grenzen",
+      "Grenzyklen",
+      "Grenzziehung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsabsichten",
+      "Handlungsfähigkeit",
+      "Handlungstheorie",
+      "Handlungsverläufe"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identita",
+      "Identity",
+      "Identität",
+      "Identitätsentwicklung",
+      "Identitätsmuster"
+    ],
+    "physi": [
+      "Physicist",
+      "Physics",
+      "Physik",
+      "Physikalismus",
+      "Physiker",
+      "Physiology"
+    ],
+    "theor": [
+      "Theoretical",
+      "Theoretische",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "wahrn": [
+      "Wahrn",
+      "Wahrnehmenden",
+      "Wahrnehmung",
+      "Wahrnehmungen",
+      "Wahrnehmungsphilosophie",
+      "Wahrnehmungsschichten"
+    ],
+    "überg": [
+      "Übergang",
+      "Übergangs",
+      "Übergangszone",
+      "Übergreifende",
+      "Übergänge",
+      "Übergängen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Abbilden"
+    ],
+    [
+      "Bild",
+      "Abbildung"
+    ],
+    [
+      "Bild",
+      "Artbildung"
+    ],
+    [
+      "Bild",
+      "Grenzbildung"
+    ],
+    [
+      "Bild",
+      "Willensbildung"
+    ],
+    [
+      "Bild",
+      "Koheränzbildung"
+    ],
+    [
+      "Bild",
+      "Kohärenzbildung"
+    ],
+    [
+      "Bild",
+      "Strukturbildung"
+    ],
+    [
+      "Code",
+      "Coder"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Does",
+      "Doesn"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Allgemeine"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Zeichenform"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ]
+  ]
+}

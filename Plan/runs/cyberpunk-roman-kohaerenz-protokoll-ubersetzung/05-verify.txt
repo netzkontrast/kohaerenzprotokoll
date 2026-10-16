@@ -1,0 +1,56 @@
+$ read.py cyberpunk-roman-kohaerenz-protokoll-ubersetzung --count "verboten"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`verboten` ^[cyberpunk-roman-kohaerenz-protokoll-ubersetzung.md:#4]
+$ read.py cyberpunk-roman-kohaerenz-protokoll-ubersetzung --count "untersagt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`untersagt` ^[cyberpunk-roman-kohaerenz-protokoll-ubersetzung.md:#2]
+$ read.py cyberpunk-roman-kohaerenz-protokoll-ubersetzung --count "Tier 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Tier 3` ^[cyberpunk-roman-kohaerenz-protokoll-ubersetzung.md:#1]
+$ read.py cyberpunk-roman-kohaerenz-protokoll-ubersetzung --count "Eskalationsstufe 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Eskalationsstufe 3` ^[cyberpunk-roman-kohaerenz-protokoll-ubersetzung.md:#1]
+$ read.py cyberpunk-roman-kohaerenz-protokoll-ubersetzung --count "Safe Mode"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Safe Mode` ^[cyberpunk-roman-kohaerenz-protokoll-ubersetzung.md:#1]
+$ read.py cyberpunk-roman-kohaerenz-protokoll-ubersetzung --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[cyberpunk-roman-kohaerenz-protokoll-ubersetzung.md:#1]
+$ stance_marker_count = verboten 4 + untersagt 2 = 6
+$ sed -n 87,102p | grep -oE '\([0-9]{2}\)'
+(01) (02) (03) (09) (05) (11) (06) (10) (13) (07) (08) (04) (12) 
+$ sed -n 154,161p (reference entries)
+8
+$ profile: glued ref numbers 30; backslash escapes 32 (01-profile.txt)
+  backslash escapes    32
+  glued ref numbers    30
+$ grep -c 'Fast Kernels'
+1
+$ grep -c 'Dutch Angles'
+1
+$ grep -c 'Bunkers'
+2
+$ grep -c 'Lias'
+1
+$ grep -c 'Kohärenz-Protokolls'
+3
+$ no tier-3 section: grep -n 'Tier' L125-132
+Tier 0 Tier 1 Tier 2 Tier 4 Tier 0 Tier 4 

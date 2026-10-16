@@ -1,0 +1,90 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a general compendium on existence (philosophy, physics, life, consciousness, information). It names no figure, place or event of the novel; the only novel-world name is the title „Kohärenz Protokoll“, which it reads as a rule set at several levels. Everything else is borrowed science and philosophy, so most candidates stand under the lens heading. Person names of the text are left off the list. The table of paradigms is flattened with pipes and escaped asterisks; its paradigm names are listed as written.
+
+- Kohärenz Protokoll
+- Kohärenz
+- Protokoll
+- genetischen Protokoll
+- Kohärenz-vernichtenden
+- Basisrealität
+- Glitch
+- Glitches
+- Simulation
+- Simulationshypothese
+- Simulationsargument
+- Trilemma
+- Auslöschungs-Hypothese
+- Desinteresse-Hypothese
+- Simulations-Hypothese
+- Kontinuum oder Diskretum
+- neuronale Kohärenz
+- Quantenkohärenz
+- Dekohärenz
+- Dekohärenzzeit
+- Quantenverschränkung
+
+## lens
+
+- Kohärenztheorie der Wahrheit
+- Kohärenztheorie
+- Korrespondenztheorie
+- Konsistenzprinzip
+- Kohärenzprinzip
+- Master Objection
+- Einwand der Isolation
+- Metaphysik
+- Ontologie
+- Metaphysischer Realismus
+- Anti-Realismus
+- Idealismus
+- Nominalismus
+- Konstruktivismus
+- phänomenalen Welt
+- noumenalen Welt
+- Raumzeit
+- Spezielle Relativitätstheorie
+- Allgemeine Relativitätstheorie
+- Urknalltheorie
+- Urknall
+- Inflation
+- Dunklen Energie
+- Dunkle Energie
+- Big Freeze
+- Big Rip
+- Big Crunch
+- Big Bounce
+- Multiversums
+- Multiversum
+- Superposition
+- Kollaps der Wellenfunktion
+- Schrödinger-Gleichung
+- Heisenbergsche Unschärferelation
+- Welle-Teilchen-Dualismus
+- Quantisierung
+- Beobachtereffekt
+- Abiogenese
+- RNA-Welt
+- Ribozyme
+- Panspermie-Hypothese
+- Henne-Ei-Problem
+- Qualia
+- schwierige Problem
+- schwierigen Problem
+- neuronalen Korrelaten
+- NCC
+- Bindungsproblem
+- Default Mode Network
+- It from Bit
+- Qubits
+- partizipatorisch
+- Holographische Prinzip
+- Ereignishorizont
+- Panpsychismus
+- Klassischer Realismus
+- Quanten-Indeterminismus
+- Informationaler Realismus
+- Komputationalismus
+- Wärmetod
+- Zeitdilatation
+- Längenkontraktion

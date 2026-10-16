@@ -1,0 +1,135 @@
+{
+  "document": "genesis-und-krise-ausfuehrliche-darstellung",
+  "drive_id": "1PdUKdT61QTjhA9rqbLAdkWoPCl_T92Ff2rBHL2wTP1U",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 58,
+    "decided_by_lookup": 31,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        39,
+        41,
+        53,
+        87,
+        95,
+        99,
+        101
+      ],
+      "attribution": "",
+      "note": "AEGIS narrated as a birth from the cluster's panic, a defence against the void, and the executor of the cut"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        67
+      ],
+      "attribution": "",
+      "note": "a further blind spot after the simulation's limit"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        105,
+        107
+      ],
+      "attribution": "",
+      "note": "Kael as the last scene's birth from the fragments"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        105
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as the ruins of the old structure"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        17,
+        31,
+        95
+      ],
+      "attribution": "",
+      "note": "coherence as what the fragment seeks and AEGIS enforces"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        45,
+        47,
+        77,
+        101,
+        105
+      ],
+      "attribution": "",
+      "note": "the fragment as Komponente 734, its latent signature, and its cutting"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        17,
+        105
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the narrative's opening ground"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        57,
+        59,
+        65
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS's simulation space and its limit"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [
+    "Q7"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the heading"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

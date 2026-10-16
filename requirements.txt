@@ -1,0 +1,3 @@
+# The MCP server on Vercel (api/rag_server.py, decision 029). Only the function needs these; every
+# pipeline script is standard library. Locally: scripts/install.sh mcp (.venv-mcp).
+fastmcp==4.1.0

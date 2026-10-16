@@ -1,0 +1,112 @@
+{
+  "document": "monstergruppe-babygruppe-und-kael",
+  "drive_id": "1EkMcR9MTIzgkEUG9FLx_5a7ABzwKIWTC46yJMpJdtVk",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 41,
+    "decisions": 40,
+    "decided_by_lookup": 29,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "did",
+      "lines": [
+        15,
+        159,
+        177
+      ],
+      "attribution": "",
+      "note": "Kael's fragmentation compared with DID"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        15,
+        55,
+        63,
+        87,
+        158,
+        172
+      ],
+      "attribution": "",
+      "note": "Juna as B, an integral part of Kael's structure, whose loss is the trigger"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        33,
+        37,
+        105,
+        123,
+        177
+      ],
+      "attribution": "",
+      "note": "Kael as M, a possibly indivisible core whose coherence fragments"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        107,
+        174,
+        177
+      ],
+      "attribution": "",
+      "note": "coherence as what suffers after Juna's loss"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "Juna named as Kael's Partnerin"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 15,
+      "decision": "reading",
+      "why": "Juna named as Kael's Partnerin; read on partnerin"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 109,
+      "decision": "occurrence",
+      "why": "a section heading using Risse as a figure, not the novel's Risse"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,256 @@
+{
+  "document": "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
+  "drive_id": "1CseyKovWOdJsQty5c7dShsNZc7Qnw-BMDifUdx0PSwk",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 49,
+  "backslash_escapes": 2,
+  "typographic_marks": 1,
+  "ascii_quotes": 30,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systeminfiltration",
+      "Systemintegrität",
+      "Systemkaskadenfehler",
+      "Systemkollaps",
+      "Systemlogik",
+      "Systemparameter",
+      "Systemregeln",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstführung",
+      "Selbstkonzept",
+      "Selbstmitgefühl",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbstsystem",
+      "Selbstwidersprüchen"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interdependenz",
+      "Interferenz",
+      "Internal",
+      "Interventionen"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentials",
+      "Potenzial"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeiten",
+      "Analysen",
+      "Analyseparametern",
+      "Analysiert"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollpunkt",
+      "Kontrollsystem",
+      "Kontrollvektoren",
+      "Kontrollverlust"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsgrenze",
+      "Simulationstheorie",
+      "Simuliert"
+    ],
+    "erken": [
+      "Erkennen",
+      "Erkennt",
+      "Erkenntnis",
+      "Erkenntnisgrenzen"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionsmodus"
+    ],
+    "kommu": [
+      "Kommunikation",
+      "Kommunikationskanälen",
+      "Kommunikationspannen",
+      "Kommunikationsstrategien"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konfliktsignale"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabindung",
+      "Traumagedächtnis",
+      "Traumareaktivierung"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungslinien",
+      "Verteidigungsmaßnahmen",
+      "Verteidigungsmechanismen"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widersprüche",
+      "Widerstands",
+      "Widerstände"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen"
+    ],
+    "erzäh": [
+      "Erzählen",
+      "Erzähler",
+      "Erzählstil"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätswandel"
+    ],
+    "isola": [
+      "Isolation",
+      "Isolationismus",
+      "Isolationsstrategie"
+    ],
+    "leben": [
+      "Lebendigen",
+      "Lebendigkeit",
+      "Lebenssinn"
+    ],
+    "mögli": [
+      "Möglichkeit",
+      "Möglichkeiten",
+      "Möglichkeitsraum"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungsinstanz",
+      "Ordnungszustände"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle"
+    ],
+    "schwa": [
+      "Schwachstelle",
+      "Schwachstellen",
+      "Schwachstellenanalyse"
+    ],
+    "stärk": [
+      "Stärke",
+      "Stärken",
+      "Stärkung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Symptombildung"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Rückfall"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Seinsform"
+    ],
+    [
+      "Form",
+      "Wissensformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Fehlinformationen"
+    ],
+    [
+      "Herz",
+      "Herzens"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwunde"
+    ],
+    [
+      "Kern",
+      "Kernsysteme"
+    ],
+    [
+      "Kern",
+      "Durchsickern"
+    ],
+    [
+      "Meta",
+      "Metamorphose"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Traumabindung"
+    ],
+    [
+      "Raum",
+      "Möglichkeitsraum"
+    ],
+    [
+      "Raum",
+      "Traumagedächtnis"
+    ],
+    [
+      "Raum",
+      "Posttraumatisches"
+    ]
+  ]
+}

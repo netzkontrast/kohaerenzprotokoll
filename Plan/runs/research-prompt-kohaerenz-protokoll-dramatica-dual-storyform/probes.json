@@ -1,0 +1,271 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+  "drive_id": "1_dnN-L9ncN2tQYcu5iwWEFQojPHOAFVxo7pDzoNCSc4",
+  "step": "probes",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 117,
+  "backslash_escapes": 416,
+  "typographic_marks": 453,
+  "ascii_quotes": 294,
+  "inflection_families": {
+    "struk": [
+      "Struktur",
+      "Strukturangaben",
+      "Strukturaussage",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturierte",
+      "Strukturierter",
+      "Strukturskelett",
+      "Strukturtheorie"
+    ],
+    "gegen": [
+      "GEGEN",
+      "Gegenanfrage",
+      "Gegenfolie",
+      "Gegenläufig",
+      "Gegenläufigkeit",
+      "Gegenläufigkeits",
+      "Gegenschule",
+      "Gegenüberstellung"
+    ],
+    "origi": [
+      "Original",
+      "Originalarbeit",
+      "Originalform",
+      "Originalmaterial",
+      "Originalquelle",
+      "Originaltext",
+      "Originaltexte",
+      "Originalwerk"
+    ],
+    "vergl": [
+      "Vergleich",
+      "Vergleiche",
+      "Vergleichs",
+      "Vergleichsfall",
+      "Vergleichsfälle",
+      "Vergleichsfällen",
+      "Vergleichsmatrix",
+      "Vergleichsmaßstab"
+    ],
+    "metho": [
+      "METHODEN",
+      "Method",
+      "Methode",
+      "Methoden",
+      "Methodennamen",
+      "Methodology"
+    ],
+    "bestä": [
+      "Bestätige",
+      "Bestätigt",
+      "Bestätigung",
+      "Bestätigungen",
+      "Bestätigungs"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktional",
+      "Funktionale",
+      "Funktionen",
+      "Funktions"
+    ],
+    "haupt": [
+      "Hauptaussagen",
+      "Hauptcharaktere",
+      "Hauptquellen",
+      "Hauptthese",
+      "Hauptvertreter"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektionen",
+      "Projektions",
+      "Projektnotizen",
+      "Projekts"
+    ],
+    "story": [
+      "STORYFORM",
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storyweaver"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analyst",
+      "Analyze"
+    ],
+    "bewus": [
+      "Bewussten",
+      "Bewusstsein",
+      "Bewusstseinen",
+      "Bewusstseins"
+    ],
+    "check": [
+      "Check",
+      "Checkliste",
+      "Checkpoint",
+      "Checkpoints"
+    ],
+    "eigen": [
+      "Eigene",
+      "Eigennamen",
+      "Eigenschaft",
+      "Eigenschaften"
+    ],
+    "erste": [
+      "Erste",
+      "Erstelle",
+      "Erstellt",
+      "Ersten"
+    ],
+    "erwei": [
+      "Erweitern",
+      "Erweiterte",
+      "Erweiterung",
+      "Erweiterungen"
+    ],
+    "falsi": [
+      "Falsification",
+      "Falsifikation",
+      "Falsifikations",
+      "Falsifizierbarkeits"
+    ],
+    "grund": [
+      "Grund",
+      "Grundkonflikt",
+      "Grundlage",
+      "Grundvoraussetzung"
+    ],
+    "konst": [
+      "Konstellation",
+      "Konstellationen",
+      "Konstruiere",
+      "Konstruktion"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptpapier",
+      "Konzeptpapiere"
+    ],
+    "leser": [
+      "Leser",
+      "Leserführung",
+      "Lesersteuerung",
+      "Lesersteuerungs"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenales",
+      "Phänomenologie",
+      "Phänomenologische"
+    ],
+    "refle": [
+      "Reflection",
+      "Reflektions",
+      "Reflexion",
+      "Reflexions"
+    ],
+    "schlu": [
+      "Schluss",
+      "Schlussfolgerung",
+      "Schlussfolgerungen",
+      "Schlusswort"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Hauptcharaktere"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Anti",
+      "Antithese"
+    ],
+    [
+      "Bach",
+      "Beobachter"
+    ],
+    [
+      "Bach",
+      "Beobachtung"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualism"
+    ],
+    [
+      "Dual",
+      "Dualitäts"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Bewusstseinen"
+    ],
+    [
+      "Ende",
+      "DENKENDE"
+    ],
+    [
+      "Ende",
+      "Folgende"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "dis-komorbiditaeten-und-alltagsbewaeltigung",
+  "drive_id": "1riTd4sg504T5CEt5EzrqUZT6h4oT7ICgVI_a_ESlm1g",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 2,
+    "decisions": 2,
+    "decided_by_lookup": 2,
+    "needs_judgement": 0
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 174,
+      "decision": "occurrence",
+      "why": "an ordinary word in research on a real diagnosis; light pass"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

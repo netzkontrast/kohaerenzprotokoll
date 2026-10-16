@@ -1,0 +1,11 @@
+# every number the census and note state
+$ python3 scripts/read.py a-critical-analysis-of-coherence-protocol-an-assessment-of-p --count "Critical Question"   -> case-sensitive 7
+$ python3 scripts/read.py a-critical-analysis-of-coherence-protocol-an-assessment-of-p --count "critical review"     -> 4
+$ stance_marker_count 11 = 7 + 4
+$ python3 scripts/read.py a-critical-analysis-of-coherence-protocol-an-assessment-of-p --count "Kernwelten"          -> 1
+$ python3 scripts/read.py a-critical-analysis-of-coherence-protocol-an-assessment-of-p --count "Coherence Protocol"  -> 6
+$ profile: 68 ascii quotes, 32 backslash escapes (L76-L79, 8 cells x 4), 38 candidates (04-counts.txt)
+whole word, case-sensitive     7
+whole word, case-sensitive     4
+whole word, case-sensitive     1
+whole word, case-sensitive     6

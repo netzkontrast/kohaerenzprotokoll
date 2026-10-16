@@ -1,0 +1,205 @@
+{
+  "document": "plot-konzepte-kohaerenz-protokoll-generierung",
+  "drive_id": "16Ej3aLQtx6EdSTb79azpr_KPnIkuLd4zIr_6kjkyipA",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 54,
+    "decisions": 59,
+    "decided_by_lookup": 41,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        20,
+        22,
+        26,
+        60,
+        149,
+        194,
+        196
+      ],
+      "attribution": "",
+      "note": "AEGIS as the recap restates it, and as each variant's option has it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        64,
+        69,
+        99,
+        169,
+        205
+      ],
+      "attribution": "",
+      "note": "Kael's Alters in the report's variants"
+    },
+    {
+      "page": "did",
+      "lines": [
+        23,
+        99,
+        135,
+        169,
+        185
+      ],
+      "attribution": "",
+      "note": "Kael's DID as the recap and the variants have it"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        26,
+        30,
+        39,
+        56,
+        174,
+        196
+      ],
+      "attribution": "",
+      "note": "emergence of the connection, in the recap and the variants"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        19,
+        20,
+        39
+      ],
+      "attribution": "",
+      "note": "entropy in the recap and the first table"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        23,
+        54,
+        56,
+        65,
+        100,
+        205
+      ],
+      "attribution": "",
+      "note": "Juna in the recap, the table and two variants' options"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        54,
+        56,
+        65,
+        165,
+        190
+      ],
+      "attribution": "",
+      "note": "Kael in the recap, the table and the variants"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        22,
+        64,
+        124,
+        194,
+        229
+      ],
+      "attribution": "",
+      "note": "the four Kernwelten in the recap and as variants' options"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        24,
+        54,
+        109,
+        214
+      ],
+      "attribution": "",
+      "note": "the K-J connection as Moonshine, in the recap and the second variant"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        19,
+        20,
+        194,
+        210,
+        229
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer in the recap and two variants"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        22,
+        42,
+        126,
+        196
+      ],
+      "attribution": "",
+      "note": "the simulation as AEGIS's laboratory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "reading",
+      "why": "the Potentialmeer's extremely high entropy"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 39,
+      "decision": "occurrence",
+      "why": "the table's row label Genesis/Ursprung"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the novel's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 42,
+      "decision": "reading",
+      "why": "simulation among AEGIS's methods"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

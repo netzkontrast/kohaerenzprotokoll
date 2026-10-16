@@ -1,0 +1,14 @@
+# kael-uberarbeitung-des-konzepts-unter-tsdp
+  lines                122  (frontmatter ends at 9)
+  body words           1398
+  headings             1   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    34   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      TSDP-Rolle x6, Funktion x5
+  longest line         676 chars
+

@@ -1,0 +1,470 @@
+{
+  "document": "kohaerenz-protokoll-agentive-narrative",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 75,
+  "decisions": 76,
+  "same_surface": {
+    "fundament": [
+      "Das Fundament",
+      "Fundament"
+    ]
+  },
+  "decided_mechanically": 58,
+  "needs_judgement": 18,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 385
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 398
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 337
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Narrative Kontext Protokoll"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "Theorie der Narrativen Systemik"
+      },
+      {
+        "candidate": "Prompt-Kaskade"
+      },
+      {
+        "candidate": "worldState"
+      },
+      {
+        "candidate": "Story Mind"
+      },
+      {
+        "candidate": "Throughlines"
+      },
+      {
+        "candidate": "State Analysis Prompt"
+      },
+      {
+        "candidate": "Context Compression Prompt"
+      },
+      {
+        "candidate": "Narrative Generation Prompt"
+      },
+      {
+        "candidate": "State Update Prompt"
+      },
+      {
+        "candidate": "activeFocalSystem"
+      },
+      {
+        "candidate": "userModel"
+      },
+      {
+        "candidate": "narrativeInstruction"
+      },
+      {
+        "candidate": "Psychologische Ebene"
+      },
+      {
+        "candidate": "Logisch-Systemische Ebene"
+      },
+      {
+        "candidate": "Ontologische Ebene"
+      },
+      {
+        "candidate": "Metaphysische Ebene"
+      },
+      {
+        "candidate": "Semantische Drift"
+      },
+      {
+        "candidate": "Kontextfenster-Kollaps"
+      },
+      {
+        "candidate": "Inter-Agenten-Fehlausrichtung"
+      },
+      {
+        "candidate": "Zustands-Audits"
+      },
+      {
+        "candidate": "narrative Gravitationsmechanik"
+      },
+      {
+        "candidate": "Decaying-Resolution Memory"
+      },
+      {
+        "candidate": "Geführter Abruf"
+      },
+      {
+        "candidate": "Geführte Korrektur"
+      },
+      {
+        "candidate": "Harte Zurückweisung"
+      },
+      {
+        "candidate": "Hybridarchitektur"
+      },
+      {
+        "candidate": "Constraint Solver"
+      },
+      {
+        "candidate": "Answer Set Programming"
+      },
+      {
+        "candidate": "ASP"
+      },
+      {
+        "candidate": "clingo"
+      },
+      {
+        "candidate": "Retrieval-Augmented Generation"
+      },
+      {
+        "candidate": "RAG"
+      },
+      {
+        "candidate": "Desire Paths"
+      },
+      {
+        "candidate": "SCORE-Framework"
+      },
+      {
+        "candidate": "LangGraph"
+      },
+      {
+        "candidate": "Redis"
+      },
+      {
+        "candidate": "MongoDB"
+      },
+      {
+        "candidate": "Dramatica"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Firefighter"
+      },
+      {
+        "candidate": "Exiles"
+      },
+      {
+        "candidate": "Selbst"
+      },
+      {
+        "candidate": "verwundeten Heilers"
+      },
+      {
+        "candidate": "Morphische Resonanz"
+      },
+      {
+        "candidate": "Transzendentalismus"
+      },
+      {
+        "candidate": "Über-Seele"
+      },
+      {
+        "candidate": "Lévi-Strauss'scher Strukturalismus"
+      },
+      {
+        "candidate": "Mythemen"
+      },
+      {
+        "candidate": "binären Oppositionen"
+      },
+      {
+        "candidate": "Perceive-Analyze-Plan-Act"
+      },
+      {
+        "candidate": "Agent Drift"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  Kael.integrationProgress",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS.entropyLevel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS.protocolAdherence",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V  /  JunaV.resonanceFrequency",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  JunaV.resonanceFrequency",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Fundament  /  Fundament.activeBinaryOpposition",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System-Dirigent  /  System-Dirigenten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "dramaturgischen Aufseher  /  Aufseher",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dramaturgische Aufseher  /  Aufseher",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "interferenceRules  /  interferenceRule",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Jungsche Schattenintegration  /  Schatten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael.integrationProgress",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS.entropyLevel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS.protocolAdherence",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "JunaV.resonanceFrequency",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 62,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 525,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 435,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

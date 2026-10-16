@@ -1,0 +1,93 @@
+{
+  "document": "an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe",
+  "drive_id": "15_qWP5TnAlxmoeil_KFgIreIRiinnLcm_scmOfhtXgg",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 24,
+  "typographic_marks": 22,
+  "ascii_quotes": 78,
+  "inflection_families": {
+    "coher": [
+      "Coherence",
+      "Coheron",
+      "Coherons"
+    ],
+    "aegis": [
+      "AEGIS",
+      "Aegis"
+    ],
+    "autop": [
+      "Autopoiesis",
+      "Autopoietic"
+    ],
+    "corre": [
+      "Corrective",
+      "Correspondence"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropy"
+    ],
+    "initi": [
+      "Initial",
+      "Initially"
+    ],
+    "strat": [
+      "Strategic",
+      "Strategy"
+    ],
+    "syste": [
+      "System",
+      "Systemic"
+    ],
+    "these": [
+      "These",
+      "Theseus"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Path",
+      "Pathological"
+    ],
+    [
+      "AEGIS",
+      "Aegis"
+    ],
+    [
+      "Logic",
+      "Pathological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "These",
+      "Theseus"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Coheron",
+      "Coherons"
+    ],
+    [
+      "Initial",
+      "Initially"
+    ]
+  ]
+}

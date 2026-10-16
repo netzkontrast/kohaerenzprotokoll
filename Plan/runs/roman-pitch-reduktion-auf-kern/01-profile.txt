@@ -1,0 +1,14 @@
+# roman-pitch-reduktion-auf-kern
+  lines                158  (frontmatter ends at 9)
+  body words           3837
+  headings             15   bold-only lines 0
+  table rows           23   code fences 0
+  question marks       12
+  backslash escapes    72
+  typographic marks    72   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    27
+  repeated labels      Methodischer Rat x3
+  longest line         1359 chars
+

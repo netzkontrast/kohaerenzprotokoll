@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-themenanalyse-und-anreicheru
+  lines                288  (frontmatter ends at 9)
+  body words           6801
+  headings             17   bold-only lines 26
+  table rows           7   code fences 0
+  question marks       44
+  backslash escapes    118
+  typographic marks    162   ascii quotes 4
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    52
+  repeated labels      none
+  longest line         13020 chars
+

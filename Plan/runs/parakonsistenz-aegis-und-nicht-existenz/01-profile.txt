@@ -1,0 +1,14 @@
+# parakonsistenz-aegis-und-nicht-existenz
+  lines                423  (frontmatter ends at 9)
+  body words           7635
+  headings             29   bold-only lines 2
+  table rows           10   code fences 0
+  question marks       17
+  backslash escapes    53
+  typographic marks    28   ascii quotes 92
+  invisible characters U+200Bx9
+  math symbol lines    30
+  glued ref numbers    72
+  repeated labels      Kohärenz x3, Modellierung x3, Semantik x3
+  longest line         1253 chars
+

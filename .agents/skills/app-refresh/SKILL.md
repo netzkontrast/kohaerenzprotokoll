@@ -101,15 +101,16 @@ The plan stays in NOW.md: the editor never stores a session, it hands the entry 
   (measured 2026-10-05: a session's snapshot of `e9e262c2`, on no branch this one held, went live minutes before
   this skill's first run). A session without the Artifact tool says in the pull request that the canvas was not
   published.
-- **The website** — Vercel project `kohaerenzprotokoll` builds every push itself (`vercel.json` runs
-  `python3 scripts/web.py`). After pushing, look for the branch's preview deployment and open
-  `/llms.txt` and `/Main.dc.html#/now` on it (the Vercel connector's `web_fetch_vercel_url` gets past the login).
-  When the connector cannot reach the team's scope, say in the pull request that the preview was not looked at.
+- **The website** — Vercel project `kohaerenzprotokoll` builds every push to `main` itself (`vercel.json` runs
+  `python3 scripts/web.py`); a branch builds no preview (`git.deploymentEnabled`, the author's instruction of
+  2026-10-16). Before the merge, step 2's local server is the only look at the website; after it, open
+  `/llms.txt` and `/Main.dc.html#/now` on the production deployment (the Vercel connector's `web_fetch_vercel_url`
+  gets past the login).
 
 ## 6 · Say what was done
 
 The pull request's description names: the tree the app was built for (`appstamp.py show`), the defect count, the
-screens looked at, whether the canvas was published, whether the preview was opened, and any waiver with its reason.
+screens looked at, whether the canvas was published, and any waiver with its reason.
 
 ## Provisional
 
@@ -119,5 +120,5 @@ name: app-refresh        # provisional — the hook and this skill are one day o
 #          waive a defect, publish layout changes to the canvas without saying so,
 #          or put corpus text into a prompt the app offers
 # retire when: CI builds and checks the app on every pull request (Plan/concept/vercel-app_2026-10-02.md §4.2)
-#              and a published preview is linked from the pull request without a session
+#              and the production deployment is looked at after the merge without a session
 ```

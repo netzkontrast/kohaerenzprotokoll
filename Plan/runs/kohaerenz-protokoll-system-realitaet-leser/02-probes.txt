@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      40
+  backslash escapes      60
+  typographic marks      18
+  ascii quotes           68
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systemautorität, Systemdesign, Systeme, Systemenergie, Systemische, Systemprozesse, Systems, Systemschöpfung, Systemstabilität, Systemtheorien
+  infor    Information, Informationen, Informationsdichte, Informationsfluss, Informationsflüssen, Informationslöschung, Informationstheorie, Informationsverarbeitungssystem
+  datei    Dateien, Dateileser, Dateisystem, Dateisysteme, Dateitransfer
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziationsbarriere, Dissoziationsbarrieren
+  autor    Autor, Autorenintentionen, Autorenstimme, Autors
+  entro    Entropie, Entropieproduktion, Entropische, Entropisches
+  falsi    Falsifiability, Falsification, Falsifikation, Falsifizierbarkeit
+  funkt    Funktion, Funktionalität, Funktionieren, Funktionsebene
+  logik    Logik, Logikketten, Logikzerfall, Logikzweige
+  model    Model, Modell, Modells, Models
+  quant    Quantendekohärenz, Quantenmechanik, Quantenphysik, Quantum
+  theor    Theorem, Theoretical, Theorie, Theory
+  zeuge    Zeugen, Zeugenfunktion, Zeugeninstanz, Zeugenschaft
+  bedro    Bedrohung, Bedrohungen, Bedrohungsabwehr
+  beoba    Beobachter, Beobachtung, Beobachtungen
+  berec    Berechnung, Berechnungsbudgets, Berechnungsflüsse
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsströme
+  bruta    Brutalism, Brutalismus, Brutalist
+  daten    Daten, Datenblöcke, Datenlöschung
+  diese    Diese, Dieser, Dieses
+  durch    Durch, Durchblutung, Durchblutungsmuster
+  ereig    Ereignishorizont, Ereignisse, Ereignissen
+  erzäh    Erzählstruktur, Erzählung, Erzählwelt
+  exeku    Exekutiv, Exekutive, Exekutivkontrolle
+  inter    Interception, Interface, Interpretation
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Bausteine
+  Ende < Wendet
+  Ende < Quantendekohärenz
+  File < Files
+  File < Logfiles
+  Form < Format
+  Form < Formale
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsfluss
+  Form < Informationsdichte
+  Form < Informationsflüssen
+  Form < Informationstheorie
+  Form < Informationslöschung
+  Form < Informationsverarbeitungssystem
+  Hand < Handlung

@@ -1,0 +1,13 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      12
+  typographic marks      8
+  ascii quotes           76
+
+# inflection families -- one term, several surfaces
+  none
+
+# substring pairs -- never one term, often merged by accident
+  Defining < Redefining
+  Integration < Reintegration

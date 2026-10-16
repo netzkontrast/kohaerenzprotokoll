@@ -1,0 +1,13 @@
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2 --count "Werk-Anker"
+
+`Werk-Anker` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2.md:#11]
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2 --count "Steinbruch"
+
+`Steinbruch` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2.md:#2]
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2 --count "Story-first-Pivot"
+
+`Story-first-Pivot` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2.md:#4]
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2 --count "Kernwunde"
+
+`Kernwunde` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2.md:#0]
+stance_marker_count 17 = 11 + 2 + 4

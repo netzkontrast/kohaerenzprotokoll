@@ -1,0 +1,14 @@
+# plot-konzepte-kohaerenz-protokoll-generierung
+  lines                271  (frontmatter ends at 9)
+  body words           5880
+  headings             9   bold-only lines 28
+  table rows           16   code fences 0
+  question marks       2
+  backslash escapes    92
+  typographic marks    37   ascii quotes 80
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    49
+  repeated labels      AEGIS Reaktion x5, Auflösung (Potenzial) x5, Auslösendes Ereignis x5, Emergente Moonshine-Rolle x5, Fokus x5, Höhepunkt x5, Kael/Juna (Baby-Monster-Natur) x5, M-Kohärenz Emergenz (Prozess) x5, Plot-Bogen x5, Setup x5, Steigende Handlung x5
+  longest line         1366 chars
+

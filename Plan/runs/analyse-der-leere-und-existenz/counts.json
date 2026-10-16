@@ -1,0 +1,651 @@
+{
+  "document": "analyse-der-leere-und-existenz",
+  "drive_id": "1A9w-QyeLvu6JxWN3Z0c5gvhVhQrHvPl_EIGM6GeoaOI",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 58,
+      "n_including_compounds": 58,
+      "lines": [
+        13,
+        31,
+        53,
+        59,
+        63,
+        67,
+        69,
+        71,
+        73,
+        75,
+        81,
+        85,
+        87,
+        89,
+        91,
+        95,
+        97,
+        99,
+        101,
+        103,
+        107,
+        111,
+        113,
+        117,
+        119,
+        129,
+        131,
+        133,
+        137,
+        139,
+        141,
+        143,
+        145,
+        147,
+        151,
+        183,
+        187,
+        191
+      ]
+    },
+    "Funke Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Funke": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        27,
+        31,
+        37,
+        85,
+        91,
+        131,
+        139,
+        151,
+        189
+      ]
+    },
+    "Funken": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        85,
+        91,
+        131,
+        151
+      ]
+    },
+    "Ursprungs-Ich": {
+      "n": 5,
+      "n_including_compounds": 19,
+      "lines": [
+        89,
+        101,
+        105,
+        107,
+        113,
+        115,
+        117,
+        119,
+        131,
+        137,
+        141,
+        143,
+        147,
+        175,
+        183,
+        191
+      ]
+    },
+    "Ursprungs-Ichs": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        89,
+        101,
+        105,
+        107,
+        115,
+        119,
+        131,
+        137,
+        143,
+        147,
+        175,
+        183,
+        191
+      ]
+    },
+    "Ich-Fragment": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        57,
+        129,
+        141,
+        183
+      ]
+    },
+    "Rauschen": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        29,
+        33,
+        35,
+        37,
+        43,
+        89,
+        127,
+        137,
+        139,
+        143,
+        161,
+        187,
+        191
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        89,
+        127,
+        143
+      ]
+    },
+    "Nichts": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        13,
+        15,
+        19,
+        21,
+        23,
+        27,
+        29,
+        33,
+        37,
+        89,
+        125,
+        127,
+        139,
+        143,
+        160,
+        161,
+        183,
+        189
+      ]
+    },
+    "Leere": {
+      "n": 29,
+      "n_including_compounds": 29,
+      "lines": [
+        21,
+        23,
+        29,
+        39,
+        43,
+        51,
+        53,
+        59,
+        67,
+        71,
+        85,
+        93,
+        95,
+        127,
+        137,
+        139,
+        143,
+        160,
+        162,
+        169,
+        189,
+        191
+      ]
+    },
+    "Vorwort": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        13,
+        17,
+        19,
+        21,
+        29,
+        85,
+        127,
+        137,
+        160,
+        189
+      ]
+    },
+    "Genesis": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        13,
+        27,
+        29,
+        31,
+        33,
+        37,
+        127,
+        137,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    },
+    "Herz der Leere": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        39,
+        137,
+        143,
+        162
+      ]
+    },
+    "Erste Kontakte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        163
+      ]
+    },
+    "Der Sog der Ordnung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        164
+      ]
+    },
+    "Sog": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        39,
+        41,
+        47,
+        139,
+        164
+      ]
+    },
+    "Cluster": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        41,
+        47,
+        51,
+        95,
+        111,
+        139,
+        164
+      ]
+    },
+    "Clustern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Überlebenskampf": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        49,
+        51,
+        129,
+        165
+      ]
+    },
+    "Der große Wandel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        53,
+        166
+      ]
+    },
+    "Nicht-Sein": {
+      "n": 3,
+      "n_including_compounds": 10,
+      "lines": [
+        49,
+        53,
+        63,
+        67,
+        73,
+        103,
+        166,
+        183
+      ]
+    },
+    "Komponente 734": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        55,
+        57,
+        77,
+        131,
+        137,
+        151,
+        167
+      ]
+    },
+    "Funktion an der Grenze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        167
+      ]
+    },
+    "Funktionseinheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        137
+      ]
+    },
+    "Echo der Einsamkeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        77,
+        187
+      ]
+    },
+    "latenten Echos": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        87,
+        91,
+        97,
+        107,
+        131,
+        143,
+        151
+      ]
+    },
+    "Resonanzkaskade": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        105,
+        137,
+        173,
+        189
+      ]
+    },
+    "Überwelt": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        63,
+        65,
+        67,
+        71,
+        73,
+        75,
+        77,
+        133,
+        137,
+        168
+      ]
+    },
+    "Innere Weite": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        168
+      ]
+    },
+    "Binnen-Physik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        71,
+        168
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        101,
+        137,
+        147
+      ]
+    },
+    "Dazwischen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        83,
+        169
+      ]
+    },
+    "Stille Wacht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        170
+      ]
+    },
+    "Kohärenzfeld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Perturbation aus der Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "fremde Entität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        95,
+        97,
+        107,
+        133
+      ]
+    },
+    "Algorithmischer Schrecken": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        143,
+        172
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "epistemologische Blindheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        172
+      ]
+    },
+    "Kohärenz Protokoll 1.0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        147
+      ]
+    },
+    "Kohärenz Protokolls 1.0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Partitionierungsalgorithmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "systemische Paranoia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Systemischer Kollaps": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        174
+      ]
+    },
+    "fatale Rückkopplungsschleife": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        111
+      ]
+    },
+    "Das Trennungsprotokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        137
+      ]
+    },
+    "Die Krise": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        79,
+        81,
+        91,
+        131,
+        137,
+        143,
+        151,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        183
+      ]
+    },
+    "Haarrisse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        97
+      ]
+    },
+    "Informationsfragment": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        133
+      ]
+    },
+    "autopoietische Selbstorganisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        147
+      ]
+    },
+    "Autopoiesis": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        145,
+        172
+      ]
+    },
+    "Qualia": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        101,
+        131,
+        137,
+        143,
+        147,
+        172,
+        173,
+        187
+      ]
+    },
+    "Śūnyatā": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        127
+      ]
+    },
+    "aktives Vakuum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    }
+  }
+}

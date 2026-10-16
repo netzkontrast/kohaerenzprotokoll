@@ -1,0 +1,107 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             16 word    20 in   [57, 76, 80, 82, 94, 104]
+                                    4      as Kaels
+                                    2      as kaelState
+  AEGIS                            15 word    16 in   [57, 88, 92, 94, 104, 178]
+                                    2      as aegisState
+                                    1      as AEGIS-Storyform
+  Juna/V                            9 word     9 in   [57, 98, 102, 104, 105, 303]
+  Juna                              9 word    11 in   [57, 98, 102, 104, 105, 179]
+                                    2      as JunaV
+                                    2      as junaVState
+  Das Fundament                     6 word     6 in   [57, 109, 115, 523, 557]
+  Fundament                        10 word    12 in   [22, 34, 57, 102, 109, 115]
+                                    2      as Fundaments
+                                    2      as fundamentalen
+                                    2      as fundamentState
+                                    1      as fundamentale
+  Kohärenz Protokoll                5 word     9 in   [13, 22, 26, 51, 115, 145]
+  Narrative Kontext Protokoll       1 word     1 in   [128]
+  NCP                               7 word     8 in   [51, 83, 128, 132, 134, 294]
+  System-Dirigent                   2 word     3 in   [24, 42, 146]
+                                    1      as System-Dirigenten
+  System-Dirigenten                 1 word     1 in   [42]
+  Theorie der Narrativen Systemik    2 word     2 in   [24, 34]
+  dramaturgischen Aufseher          1 word     2 in   [51, 374]
+  Dramaturgische Aufseher           1 word     1 in   [370]
+  Aufseher                          4 word     7 in   [51, 370, 374, 378, 404, 412]
+                                    2      as Aufsehers
+  Prompt-Kaskade                    7 word     7 in   [312, 323, 327, 412, 474, 496]
+  worldState                       14 word    16 in   [72, 161, 240, 292, 294, 312]
+                                    1      as worldState-Variablen
+                                    1      as worldState-JSON-Objekt
+  interferenceRules                 9 word     9 in   [72, 116, 156, 304, 355, 381]
+  interferenceRule                  3 word    12 in   [72, 116, 134, 156, 159, 235]  <-- substring
+                                    9      as interferenceRules
+  Story Mind                        3 word     3 in   [38, 42, 64]
+  Throughlines                      1 word     1 in   [42]
+  State Analysis Prompt             2 word     2 in   [317, 329]
+  Context Compression Prompt        3 word     3 in   [330, 349, 353]
+  Narrative Generation Prompt       2 word     2 in   [331, 388]
+  State Update Prompt               4 word     4 in   [332, 382, 404, 421]
+  activeFocalSystem                 3 word     3 in   [170, 355, 517]
+  userModel                         3 word     4 in   [187, 416, 420, 421]
+                                    1      as userModel-Historie
+  narrativeInstruction              2 word     2 in   [388, 408]
+  Kael.integrationProgress          2 word     2 in   [299, 388]
+  AEGIS.entropyLevel                1 word     1 in   [301]
+  AEGIS.protocolAdherence           1 word     1 in   [302]
+  JunaV.resonanceFrequency          1 word     1 in   [303]
+  Fundament.activeBinaryOpposition    1 word     1 in   [304]
+  Psychologische Ebene              2 word     2 in   [57, 76]
+  Logisch-Systemische Ebene         2 word     2 in   [57, 88]
+  Ontologische Ebene                2 word     2 in   [57, 98]
+  Metaphysische Ebene               2 word     2 in   [57, 109]
+  Semantische Drift                 1 word     1 in   [400]
+  Kontextfenster-Kollaps            1 word     1 in   [416]
+  Inter-Agenten-Fehlausrichtung     1 word     1 in   [408]
+  Zustands-Audits                   1 word     1 in   [404]
+  narrative Gravitationsmechanik    1 word     1 in   [404]
+  Decaying-Resolution Memory        1 word     1 in   [420]
+  Geführter Abruf                   1 word     1 in   [355]
+  Geführte Korrektur                1 word     1 in   [388]
+  Harte Zurückweisung               1 word     1 in   [387]
+  Hybridarchitektur                 2 word     2 in   [378, 577]
+  Constraint Solver                 1 word     1 in   [378]
+  Answer Set Programming            6 word     6 in   [378, 577, 637, 640, 644, 646]
+  ASP                               2 word     9 in   [378, 382, 388, 390, 400, 412]  <-- substring
+  clingo                            7 word     7 in   [380, 382, 641, 642, 643]
+  Retrieval-Augmented Generation    1 word     1 in   [351]
+  RAG                               3 word     6 in   [351, 412, 507, 577, 632, 633]
+  Desire Paths                      2 word     2 in   [448]
+  SCORE-Framework                   2 word     2 in   [435]
+  LangGraph                         3 word     3 in   [496, 502]
+  Redis                            10 word    10 in   [316, 319, 616, 617, 618, 619]
+                                    2      as redis-vs-mongodb
+                                    1      as redis-vs-mongodb-which-database-is-right-for-you
+  MongoDB                           8 word     9 in   [318, 319, 616, 617, 618, 619]
+                                    2      as mongodb-vs-redis
+                                    1      as MongoDB-Collection
+  Dramatica                        13 word    20 in   [38, 42, 44, 53, 150, 381]
+                                    3      as dramaticaStoryform
+                                    2      as Dramatica-Theorie
+                                    2      as Dramatica-Storyforms
+                                    1      as Dramatica-Komponenten-Mapping
+  Jungsche Schattenintegration      1 word     1 in   [82]
+  Schatten                          1 word     2 in   [82]
+                                    1      as Schattenintegration
+  Internal Family Systems           3 word     3 in   [84, 597, 598]
+  IFS                               4 word     5 in   [84, 300, 596, 597]
+  Manager                           1 word     1 in   [84]
+  Firefighter                       1 word     1 in   [84]
+  Exiles                            1 word     1 in   [84]
+  Selbst                            3 word     4 in   [83, 84, 300]
+                                    1      as Selbstakzeptanz
+  verwundeten Heilers               2 word     2 in   [94]
+  Morphische Resonanz               1 word     1 in   [104]
+  Transzendentalismus               1 word     1 in   [105]
+  Über-Seele                        2 word     2 in   [105]
+  Lévi-Strauss'scher Strukturalismus    1 word     1 in   [115]
+  Mythemen                          1 word     1 in   [115]
+  binären Oppositionen              2 word     2 in   [115]
+  Perceive-Analyze-Plan-Act         1 word     1 in   [327]
+  Agent Drift                       1 word     1 in   [400]

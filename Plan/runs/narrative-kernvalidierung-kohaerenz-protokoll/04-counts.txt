@@ -1,0 +1,87 @@
+# counts for 48 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           184 word   185 in   [17, 19, 25, 26, 28, 29]
+                                    1      as AEGIS-Manifestation
+  Kael                             86 word   146 in   [17, 19, 25, 26, 27, 28]
+                                   58      as Kaels
+                                    1      as Kael-Node
+                                    1      as Kael-Juna-Systems
+  Juna                             20 word    28 in   [17, 31, 37, 71, 271, 272]
+                                    3      as Junas
+                                    2      as Juna-Aspekt
+                                    1      as Juna-Entität
+                                    1      as Juna-Verbindung
+  M                                81 word   242 in   [17, 19, 25, 26, 27, 28]  <-- substring
+  Potentialmeer                    12 word    14 in   [17, 19, 37, 39, 42, 44]
+                                    1      as Potentialmeer-Substrat
+                                    1      as Potentialmeers
+  Kernwelten                        5 word     5 in   [17, 19, 37, 210, 416]
+  Kernwelt                          9 word    22 in   [17, 19, 27, 37, 60, 79]  <-- substring
+                                    5      as Kernwelten
+                                    5      as Kernwelt-Gamma
+                                    2      as Kernwelt-Alpha
+                                    1      as Kernwelt-Umgebung
+  Kernwelt-Alpha                    2 word     2 in   [60, 79]
+  Kernwelt-Gamma                    5 word     5 in   [193, 199, 210, 220, 221]
+  Moonshine                        10 word    16 in   [17, 28, 40, 71, 264, 270]
+                                    3      as Moonshine-Resonanz
+                                    3      as Moonshine-Durchbruch
+  K-J                              32 word    32 in   [17, 19, 25, 28, 30, 40]
+  Risse                             5 word     5 in   [17, 44, 138, 139, 149]
+  Alters                           10 word    10 in   [27, 41, 210, 211, 212, 221]
+  Alter                            15 word    33 in   [27, 41, 193, 199, 201, 209]  <-- substring
+                                   10      as Alters
+                                    4      as Alternative
+  Paria-Alter                       4 word     4 in   [193, 199, 209, 542]
+  Guardian                          1 word     6 in   [80, 150, 221, 292, 353, 557]  <-- substring
+                                    3      as Guardian-Agenten
+                                    2      as Guardians
+  Guardians                         2 word     2 in   [221, 353]
+  Guardian-Agenten                  3 word     3 in   [150, 292, 557]
+  Gödel-Punkt                      13 word    14 in   [29, 188, 191, 326, 332, 384]
+                                    1      as Gödel-Punkts
+  Kern-Selbst                       3 word     3 in   [41, 282, 405]
+  Wächter-KI                        1 word     1 in   [17]
+  Avatar                            3 word     8 in   [17, 27, 80, 98, 118, 120]  <-- substring
+                                    1      as Avatare
+  Kael-Node                         1 word     1 in   [80]
+  Kohärenz Protokoll                6 word     6 in   [11, 17, 37, 46, 515, 563]
+  Kohärenz-Prinzipien               3 word     3 in   [450, 456, 546]
+  Narrativer Kern-Blueprint         2 word     2 in   [11, 48]
+  Die Erste Fraktur                 2 word     2 in   [52, 58]
+  Moonshine-Resonanz                3 word     3 in   [264, 270, 543]
+  Moonshine-Durchbruch              3 word     3 in   [388, 394, 545]
+  Bürden                            1 word     1 in   [41]
+  Exile                             4 word     8 in   [41, 68, 79, 120, 139, 209]
+                                    3      as Exile-Teil
+                                    1      as Exiles
+  Manager                           8 word    12 in   [41, 68, 79, 88, 97, 120]
+                                    1      as Managers
+                                    1      as Manager-Kontrolle
+                                    1      as Manager-Teil
+                                    1      as Manager-Überlastung
+  Firefighter                       4 word     8 in   [41, 97, 139, 149, 168, 189]
+                                    1      as Firefighters
+                                    1      as Firefighter-Reaktionen
+                                    1      as Firefighter-Aktivierung
+                                    1      as Firefighter-Teile
+  Sub-Protokolle                    1 word     1 in   [281]
+  sub-protokollarisch               2 word     3 in   [40, 281, 324]
+                                    1      as sub-protokollarischen
+  Parakonsistente Logik             2 word     2 in   [39, 138]
+  Parakonsistenz                   16 word    16 in   [26, 69, 106, 122, 128, 186]
+  Quanten-Nichtlokalität            1 word     1 in   [40]
+  Nicht-Lokalität                   9 word     9 in   [71, 280, 310, 324, 404, 465]
+  Internal Family Systems           9 word     9 in   [19, 41, 567]
+  IFS                              11 word    24 in   [41, 68, 118, 120, 139, 209]  <-- substring
+  Emergenztheorie                   1 word     1 in   [42]
+  Emergenz                         21 word    22 in   [17, 19, 31, 42, 191, 212]
+                                    1      as Emergenztheorie
+  Gödels Unvollständigkeitssätze    2 word     3 in   [19, 43, 342]
+  Cosmic Horror                    32 word    33 in   [17, 33, 44, 70, 102, 107]
+  Hard Sci-Fi                       7 word     7 in   [106, 177, 248, 310, 372, 434]
+  Dialetheismus                     1 word     1 in   [191]
+  Befriending                       1 word     1 in   [209]

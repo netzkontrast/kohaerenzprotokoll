@@ -1,0 +1,68 @@
+# counts for 49 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                8 word     8 in   [11, 15, 43, 155, 159, 239]
+  Kael-Juna-Verbindung / Kohärenz-Insel    3 word     3 in   [15, 159, 262]
+  Kael-Juna-Verbindung              4 word     4 in   [15, 119, 159, 262]
+  Kohärenz-Insel                   10 word    10 in   [15, 121, 157, 159, 174, 187]
+  KJ/KI                            50 word    50 in   [15, 17, 19, 21, 43, 51]
+  Kael                              7 word    14 in   [15, 119, 121, 159, 169, 171]
+                                    4      as Kael-Juna-Verbindung
+                                    2      as Kael-Juna-Bindung
+                                    1      as Kael-Juna
+  Juna                              7 word    14 in   [15, 119, 121, 159, 169, 171]
+  Kael/Juna                         1 word     1 in   [255]
+  AEGIS                            69 word    72 in   [15, 17, 19, 21, 43, 51]
+                                    1      as AEGIS-Instanzen
+                                    1      as AEGIS-Logik
+                                    1      as AEGIS-Systemen
+  Potentialmeer                     6 word    10 in   [21, 163, 177, 179, 181, 183]
+                                    4      as Potentialmeers
+  Leere                             3 word     3 in   [179, 243]
+  Sein durch Abgrenzung             2 word     2 in   [17, 226]
+  Kohärenz durch Abgrenzung         1 word     1 in   [194]
+  Kohärenz durch Integration        3 word     3 in   [194, 232, 262]
+  Kael-Juna-Bindung                 2 word     2 in   [173, 183]
+  kristallisierte Komplexität       1 word     1 in   [163]
+  relationalen Komplexität          1 word     1 in   [165]
+  stabiler Attraktorzustand         1 word     1 in   [183]
+  Sub-protokollar                   1 word     1 in   [175]
+  irreduzibler Kern                 1 word     1 in   [243]
+  Analyse-Guardians                 1 word     1 in   [250]
+  LogOS                             1 word     1 in   [250]
+  EST                               1 word     1 in   [244]
+  Erweiterte Sensorische Transkription    1 word     1 in   [244]
+  Maximalen Existenziellen Bedrohung    1 word     1 in   [251]
+  Kerndirektive                     1 word     1 in   [226]
+  Classification Failure            1 word     1 in   [193]
+  Reductionism Failure              1 word     1 in   [195]
+  Protocol Violation                1 word     1 in   [196]
+  Monstergruppe                    27 word    27 in   [11, 15, 17, 19, 21, 23]
+  Monstrous Moonshine               9 word     9 in   [15, 19, 49, 82, 86, 98]
+  Moonshine                        19 word    32 in   [15, 19, 21, 49, 51, 67]
+                                    6      as Moonshine-Modul
+                                    1      as Moonshine-Phänomen
+                                    1      as Moonshine-Verbindung
+                                    1      as Moonshine-Beziehung
+  Sporadizität                      6 word     6 in   [19, 21, 23, 43, 68, 163]
+  sporadischen einfachen Gruppen    1 word     1 in   [27]
+  Happy Family                      3 word     3 in   [41, 66, 165]
+  Pariahs                           1 word     1 in   [41]
+  Griess-Algebra                    4 word     4 in   [49, 67, 133]
+  Moonshine-Modul                   6 word     7 in   [49, 106, 111, 113, 121, 131]
+                                    1      as Moonshine-Moduls
+  Monster-Vertex-Operator-Algebra    2 word     2 in   [49, 78]
+  Vertex-Operator-Algebren          1 word     1 in   [104]
+  Monster-CFT                       4 word     4 in   [131, 139, 147, 155]
+  Monster-Lie-Algebra               2 word     2 in   [113, 153]
+  Leech-Gitter                      4 word     4 in   [78, 111, 129, 131]
+  Genus-Null-Gruppe                 1 word     1 in   [98]
+  McKay-Thompson-Reihen             2 word     2 in   [96, 113]
+  Monstrous M-Theory                1 word     1 in   [133]
+  AdS/CFT-Korrespondenz             2 word     2 in   [137]
+  Stringtheorie                    12 word    14 in   [19, 102, 104, 113, 117, 125]
+                                    1      as Stringtheorie-Modellen
+                                    1      as Stringtheorie-Verbindung
+  selbstorganisierten Kritikalität    1 word     1 in   [183]

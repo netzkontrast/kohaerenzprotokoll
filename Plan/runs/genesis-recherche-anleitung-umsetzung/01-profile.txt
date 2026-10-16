@@ -1,0 +1,14 @@
+# genesis-recherche-anleitung-umsetzung
+  lines                1542  (frontmatter ends at 9)
+  body words           15871
+  headings             8   bold-only lines 31
+  table rows           81   code fences 0
+  question marks       154
+  backslash escapes    127
+  typographic marks    607   ascii quotes 44
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    330
+  repeated labels      A. Schlüsselmomente (aus Outline V4) x13, B. Perspektive & POV x13, C. Stil, Ton & Stimmung x13, D. Recherche-Integration & Techniken x13, E. Thematischer Fokus x13, F. Übergangsnotizen (Hinaus) x13, Primäre POV x13, Stil x13, Stimmung x13, Ton x13, POV-Wechsel x7, Anwendungshinweis x3
+  longest line         668 chars
+

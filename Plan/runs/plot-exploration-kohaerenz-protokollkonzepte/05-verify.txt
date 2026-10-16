@@ -1,0 +1,148 @@
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Query-I"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            89
+
+`Query-I` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#3]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Query-II"
+whole word, case-sensitive     58
+whole word, case-insensitive   58
+including compounds            65
+
+`Query-II` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#58]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Query-III"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Query-III` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#7]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Query-IV"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Query-IV` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#21]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Query"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            89
+
+`Query` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "DIS"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`DIS` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#7]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Juna"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            23
+
+`Juna` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#17]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Guardians"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Guardians` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#11]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Konzept 2"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Konzept 2` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#11]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Autopoiesis"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Autopoiesis` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#4]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Risse"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Risse` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#5]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "KW1"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            3
+
+`KW1` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "KW3"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`KW3` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "KW4"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`KW4` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "KW2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`KW2` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#1]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Kael"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            56
+
+`Kael` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#33]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Kaels"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Kaels` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#15]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "K-J"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            19
+
+`K-J` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#6]
+
+$ python3 scripts/read.py plot-exploration-kohaerenz-protokollkonzepte --count "Quantenschaum"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Quantenschaum` ^[plot-exploration-kohaerenz-protokollkonzepte.md:#0]
+
+stance_marker_count 89 = 3 + 58 + 7 + 21 (Query-I whole word 3, Query-II 58, Query-III 7, Query-IV 21); Query-I including compounds 89

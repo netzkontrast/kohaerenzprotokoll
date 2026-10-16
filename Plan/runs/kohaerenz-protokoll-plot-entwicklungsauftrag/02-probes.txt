@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      85
+  backslash escapes      60
+  typographic marks      157
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  syste    System, Systembruchpunkt, Systeme, Systemen, Systemfehler, Systemfehlern, Systemische, Systemprotokollen, Systems, Systemüberlastung
+  analy    Analyse, Analysealgorithmen, Analysekapazitäten, Analysemethoden, Analysemodell, Analysen, Analysewerkzeuge, Analysis, Analytiker
+  selbs    Selbstdefinition, Selbsterhalt, Selbsterhaltungs, Selbstgefühl, Selbstverletzung, Selbstverständnis, Selbstwartungsfunktionen, Selbstwiderspruch, Selbstwidersprüche
+  inter    Interaktion, Interaktionen, Interferenz, Internal, Interne, Internet, Interpretationen, Interventions
+  daten    Daten, Datenbank, Datenflut, Datenpunkte, Datenströme, Datenüberflutung, Datenübertragung
+  parad    Paradigma, Paradoxe, Paradoxerweise, Paradoxes, Paradoxie, Paradoxien, Paradoxon
+  disso    Dissociated, Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziative
+  integ    Integrating, Integration, Integrationsprozess, Integrationsprozesses, Integrationstransformation, Integriert
+  mathe    Mathematical, Mathematicians, Mathematics, Mathematik, Mathematisch, Mathematische
+  fragm    Fragmente, Fragmentierte, Fragmentierung, Fragmentierungsprotokoll, Fragmentierungsversuchen
+  ident    Identity, Identität, Identitäten, Identitätsfragmentierung, Identitätsstörung
+  infor    Information, Informationen, Informationskonstrukt, Informationspakete, Informationsstruktur
+  mögli    Möglicherweise, Möglichkeit, Möglichkeiten, Möglichkeitsstrom, Möglichkeitsströme
+  poten    Potential, Potentialität, Potentialmeer, Potentialmeers, Potenziale
+  verha    Verhalten, Verhaltensmuster, Verhaltensprotokolle, Verhaltensschleifen, Verhaltensweisen
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widerstand, Widerstandsfähigkeit
+  zerle    Zerlegung, Zerlegungsanalyse, Zerlegungsansatz, Zerlegungslogik, Zerlegungsstrategie
+  bedro    Bedrohung, Bedrohungen, Bedrohungslevel, Bedrohungsreaktionen
+  exist    Existenz, Existenzform, Existenzielle, Existenzweise
+  grupp    Gruppe, Gruppen, Gruppentheorie, Gruppentheorien
+  kausa    Kausale, Kausalität, Kausalkette, Kausalmodelle
+  klass    Klasse, Klassifikationssysteme, Klassifizierungsalgorithmen, Klassifizierungsversuchen
+  konfl    Konflikt, Konflikte, Konflikten, Konflikts
+  kontr    Kontrast, Kontrolle, Kontrollverlusten, Kontrollversuche
+  model    Modell, Modelle, Modellen, Models
+
+# substring pairs -- never one term, often merged by accident
+  Bank < Datenbank
+  Blue < Blueprint
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Einen
+  Eine < Seine
+  Eine < Einerseits
+  Form < Forms
+  Form < Formal
+  Form < Formen
+  Form < Formation
+  Form < Information
+  Form < Konformität
+  Form < Existenzform
+  Form < Informationen
+  Form < Transformation
+  Form < Informationspakete
+  Form < Informationsstruktur

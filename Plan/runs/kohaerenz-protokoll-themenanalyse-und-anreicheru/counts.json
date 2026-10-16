@@ -1,0 +1,893 @@
+{
+  "document": "kohaerenz-protokoll-themenanalyse-und-anreicheru",
+  "drive_id": "1XBWap0Vk5onCm0JRXGL7ZuZgKpSQY7JAxABHp37uzQw",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 43,
+      "n_including_compounds": 83,
+      "lines": [
+        36,
+        42,
+        44,
+        62,
+        82,
+        86,
+        87,
+        88,
+        89,
+        93,
+        94,
+        95,
+        99,
+        100,
+        101,
+        113,
+        122,
+        123,
+        124,
+        125,
+        130,
+        131,
+        136,
+        137,
+        138,
+        149,
+        158,
+        159,
+        160,
+        162,
+        166,
+        167,
+        172,
+        173,
+        174,
+        183,
+        187,
+        191,
+        194,
+        195,
+        199,
+        201,
+        206,
+        216,
+        220,
+        225,
+        226,
+        227,
+        228,
+        233,
+        238,
+        239,
+        240,
+        249,
+        259,
+        260,
+        262,
+        264,
+        271,
+        272,
+        273,
+        281
+      ]
+    },
+    "AEGIS": {
+      "n": 81,
+      "n_including_compounds": 82,
+      "lines": [
+        36,
+        42,
+        43,
+        54,
+        63,
+        87,
+        89,
+        93,
+        94,
+        100,
+        101,
+        113,
+        117,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        130,
+        131,
+        136,
+        137,
+        138,
+        143,
+        148,
+        149,
+        158,
+        159,
+        160,
+        167,
+        173,
+        183,
+        191,
+        194,
+        195,
+        201,
+        206,
+        216,
+        220,
+        224,
+        225,
+        226,
+        227,
+        228,
+        232,
+        233,
+        239,
+        240,
+        244,
+        249,
+        259,
+        260,
+        261,
+        262,
+        271,
+        281
+      ]
+    },
+    "Juna/V": {
+      "n": 18,
+      "n_including_compounds": 25,
+      "lines": [
+        42,
+        53,
+        64,
+        87,
+        95,
+        113,
+        161,
+        168,
+        183,
+        187,
+        191,
+        192,
+        193,
+        194,
+        195,
+        199,
+        200,
+        201,
+        206,
+        216,
+        261,
+        262,
+        271
+      ]
+    },
+    "Kernwelten": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        60,
+        65,
+        74,
+        86,
+        122,
+        123,
+        143,
+        158,
+        159,
+        174,
+        244,
+        260,
+        272
+      ]
+    },
+    "Core Worlds": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Co₁": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        69,
+        72,
+        93,
+        105,
+        142,
+        178,
+        211,
+        272
+      ]
+    },
+    "McL": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        106
+      ]
+    },
+    "Ly": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        72,
+        93,
+        108,
+        144,
+        178,
+        211,
+        272
+      ]
+    },
+    "Guardians": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        234
+      ]
+    },
+    "Potentialmeer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        121,
+        178,
+        211,
+        262
+      ]
+    },
+    "Risse": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        33,
+        43,
+        51,
+        122,
+        143,
+        148,
+        259,
+        274
+      ]
+    },
+    "Mosaik-Herz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        274
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        65,
+        143,
+        178,
+        244,
+        270,
+        287
+      ]
+    },
+    "Innere Reise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        50,
+        262
+      ]
+    },
+    "Zyklischer Kampf": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        50,
+        262
+      ]
+    },
+    "Äußere Befreiung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        50
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        15,
+        157,
+        253,
+        279,
+        281
+      ]
+    },
+    "Sein & Wissen": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        36,
+        42,
+        43,
+        44,
+        51,
+        62,
+        64
+      ]
+    },
+    "Selbst & Subjektivität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        32,
+        36,
+        42,
+        43,
+        44,
+        52,
+        62
+      ]
+    },
+    "Ordnung & Interaktion": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        33,
+        36,
+        42,
+        43,
+        44,
+        53,
+        63,
+        64
+      ]
+    },
+    "Handlungsmacht & Moral": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        34,
+        36,
+        42,
+        43,
+        44,
+        54,
+        62,
+        63
+      ]
+    },
+    "Identität & Psyche": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        32,
+        80,
+        279
+      ]
+    },
+    "Systeme & Kontrolle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        33,
+        115,
+        279
+      ]
+    },
+    "Realität & Ontologie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        151,
+        279
+      ]
+    },
+    "Verbindung & Resonanz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        185,
+        279
+      ]
+    },
+    "Ethik & KI": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        34,
+        218,
+        279
+      ]
+    },
+    "Systemisches Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Strukturelle Dissoziation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        89,
+        107,
+        275,
+        281
+      ]
+    },
+    "Anscheinend Normalen Persönlichkeitsanteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteilen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "IFS": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        32,
+        86,
+        93,
+        113,
+        287
+      ]
+    },
+    "Emplotment": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        87,
+        89,
+        93,
+        106
+      ]
+    },
+    "Performativität": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        87,
+        89,
+        93,
+        259,
+        272
+      ]
+    },
+    "Spiegelstadium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Ideal-Ich": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        42,
+        52,
+        87,
+        89,
+        93,
+        99
+      ]
+    },
+    "Méconnaissance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Individuationsprozess": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Schatten": {
+      "n": 8,
+      "n_including_compounds": 16,
+      "lines": [
+        32,
+        42,
+        52,
+        62,
+        88,
+        89,
+        93,
+        100,
+        101,
+        112,
+        113,
+        262
+      ]
+    },
+    "Schattenarbeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        93,
+        101
+      ]
+    },
+    "Anima/Animus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Dialogischen Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        88
+      ]
+    },
+    "Ich-Positionen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        88,
+        93,
+        95
+      ]
+    },
+    "Allgemeine Systemtheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Autopoiesis": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        33,
+        53,
+        63,
+        121,
+        142,
+        148,
+        275,
+        281,
+        287
+      ]
+    },
+    "Komplexitätstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        122
+      ]
+    },
+    "Chaostheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        122
+      ]
+    },
+    "Emergenz": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        31,
+        33,
+        53,
+        63,
+        69,
+        72,
+        122,
+        130,
+        131,
+        137,
+        138,
+        149
+      ]
+    },
+    "Nichtlinearität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        63,
+        122,
+        130,
+        131,
+        142,
+        143,
+        157
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        122,
+        144
+      ]
+    },
+    "Schmetterlingseffekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Kybernetik zweiter Ordnung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        123
+      ]
+    },
+    "Beobachtereffekt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        70,
+        148
+      ]
+    },
+    "Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Entropie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        125,
+        138,
+        144
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        157,
+        162
+      ]
+    },
+    "Informationsontologie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        158
+      ]
+    },
+    "Ebenen der Abstraktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "Prozessphilosophie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        159
+      ]
+    },
+    "Schweren Problem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Qualia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        160,
+        167
+      ]
+    },
+    "Panpsychismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Quanten-Nichtlokalität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        161,
+        193
+      ]
+    },
+    "Intersubjektivität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        64,
+        187,
+        192
+      ]
+    },
+    "Bindungstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        194
+      ]
+    },
+    "Resonanztheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        191
+      ]
+    },
+    "Gaslighting": {
+      "n": 13,
+      "n_including_compounds": 17,
+      "lines": [
+        34,
+        43,
+        54,
+        63,
+        227,
+        232,
+        233,
+        238,
+        239,
+        244,
+        248,
+        249,
+        281,
+        287
+      ]
+    },
+    "KI-Kontrollproblem": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        44,
+        54,
+        63,
+        225
+      ]
+    },
+    "Value Alignment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        225
+      ]
+    },
+    "Wertausrichtung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        225
+      ]
+    },
+    "Maschinenethik": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        34,
+        220,
+        224,
+        281
+      ]
+    },
+    "Ethical Impact Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Moral Machines": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        224,
+        287
+      ]
+    },
+    "Chinesisches Zimmer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Reise des Helden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "Abstieg in die Unterwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "Feedback Loops": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        43,
+        53
+      ]
+    },
+    "Kaskadenfehler": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        138
+      ]
+    }
+  }
+}

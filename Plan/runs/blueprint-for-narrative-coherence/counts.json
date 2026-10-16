@@ -1,0 +1,183 @@
+{
+  "document": "blueprint-for-narrative-coherence",
+  "drive_id": "1KpldnyuDAmZK5uG7EpMAS3CUl-0TRxAizwqf5BHG9uw",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        19,
+        23,
+        25,
+        31,
+        53,
+        65
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        51
+      ]
+    },
+    "AEGIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        51
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Construct City": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        21
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "The Foundation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "child alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Coherence through Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Nothingness Noise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "flackerndes Licht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "central nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "maintenance drone": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "cognitive dissonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "freeze response": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "phobic avoidance response": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "quale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    }
+  }
+}

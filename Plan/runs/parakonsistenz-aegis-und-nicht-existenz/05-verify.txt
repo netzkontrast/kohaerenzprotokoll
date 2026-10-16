@@ -1,0 +1,12 @@
+# commands run (outputs pasted from read.py --count)
+read.py --count "Bericht": whole word 3 (stance_marker 1 of 3)
+read.py --count "hypothetischen Systems": whole word 1
+read.py --count "imaginierten": whole word 1
+stance_marker_count = 3 + 1 + 1 = 5
+read.py --count "Zugriff am": 63 (sixty-three references)
+read.py --count "Kap": 0
+read.py --count "Kapitel": 0
+read.py --count "Aegis": case-sensitive 70, case-insensitive 81, including compounds 84
+read.py --count "aegis": case-sensitive 11
+read.py --count "Grenzwächter": 1 (capture counts: 1 word)
+capture counts: Aegis-Systems x5 (L45, L53, L55, L299, L354); Grenzen x23; profile: U+200B x9, backslash escapes 53, glued ref numbers 72
