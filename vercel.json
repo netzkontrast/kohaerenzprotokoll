@@ -6,8 +6,12 @@
   "buildCommand": "python3 scripts/web.py",
   "outputDirectory": "Plan/derived/web",
   "cleanUrls": false,
+  "functions": {
+    "api/rag_server.py": { "includeFiles": "{scripts/**,Plan/derived/serve/serve.db}", "maxDuration": 60 }
+  },
   "rewrites": [
-    { "source": "/", "destination": "/Main.dc.html" }
+    { "source": "/", "destination": "/Main.dc.html" },
+    { "source": "/mcp", "destination": "/api/rag_server" }
   ],
   "headers": [
     {
