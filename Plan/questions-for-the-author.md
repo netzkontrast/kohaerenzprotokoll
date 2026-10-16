@@ -462,6 +462,10 @@ the author wants them (*Questions for the author*).
   for the team's scope — it is refused the deployments (403) and the toolbar comments, so no session can open a
   preview; (3) where the „letzten 5 Empfehlungen" of your message are — none reached the session.
 
+- **The retrieval tools as a FastMCP server on Vercel** (2026-10-16, decision 029, `Plan/concept/mcp-server_2026-10-16.md`).
+  Being built on the author's goal. Two questions: (1) who may hold the protection-bypass secret that lets a client
+  past the Vercel login; (2) whether a claude.ai connector is wanted, which needs OAuth.
+
 - **`account.py order` passes a `reconcile.json` with no census beside it**; it should not.
   Found when the Jules session's claimed reconciliation of the philosophischer Bericht passed green
   (decision 014). The document is now read and reconciled as document 31, so nothing rides on it
