@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-15",
+  "built": "2026-10-16",
   "by": "scripts/wiki_index.py",
   "pages": 106,
   "conflicts": 17,
@@ -88,10 +88,11 @@
         "dramatica-storyform-kohaerenz-protokoll",
         "aegis-seele-und-entropie",
         "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
-        "kohaerenz-protokoll-thematische-tiefenanalyse"
+        "kohaerenz-protokoll-thematische-tiefenanalyse",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 53,
-      "readings": 51,
+      "sources": 54,
+      "readings": 52,
       "conflict": "none"
     },
     "aegis": {
@@ -513,10 +514,17 @@
         "aegis-logik-und-narrative-implikationen",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
         "projekt-ockham-narrative-systemik-reduktion",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+        "kohaerenz-protokoll-system-realitaet-leser",
+        "roman-pitch-reduktion-auf-kern",
+        "kapitel-13-momente"
       ],
-      "sources": 409,
-      "readings": 409,
+      "sources": 416,
+      "readings": 416,
       "conflict": "C1, C3, C8, C14, C16"
     },
     "alex": {
@@ -644,10 +652,11 @@
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "roman-analyse-kohaerenz-protokoll-akt-i",
         "canonical-narrative-architecture-for-kohaerenz-protokoll",
-        "the-minds-behind-the-machine-a-psychological-guide-to-system"
+        "the-minds-behind-the-machine-a-psychological-guide-to-system",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 119,
-      "readings": 119,
+      "sources": 120,
+      "readings": 120,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -753,10 +762,13 @@
         "the-ontology-of-antagonism-the-function-of-paradox-in-kohaer",
         "an-introduction-to-the-coherence-protocol-the-war-for-realit",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
-        "dkt-fundament-kohaerenz-protokoll-md"
+        "dkt-fundament-kohaerenz-protokoll-md",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 97,
-      "readings": 97,
+      "sources": 100,
+      "readings": 100,
       "conflict": "none"
     },
     "alters": {
@@ -1108,10 +1120,11 @@
         "tropen-konzepte-fuer-kohaerenz-protokoll",
         "fragen-zu-existenz-agency-und-realitaet",
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
-        "narrative-entropie-existenzielle-bedrohung-des-romans"
+        "narrative-entropie-existenzielle-bedrohung-des-romans",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 94,
-      "readings": 94,
+      "sources": 95,
+      "readings": 95,
       "conflict": "none"
     },
     "ars": {
@@ -1348,10 +1361,12 @@
         "kapitel-17",
         "kapitel-18",
         "ki-antagonist-fragmentierte-gottheit-analyse",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "kapitel-13-momente"
       ],
-      "sources": 105,
-      "readings": 105,
+      "sources": 107,
+      "readings": 107,
       "conflict": "C4, C6"
     },
     "chaitin-konstante": {
@@ -1439,10 +1454,12 @@
         "the-coherence-protocol-the-hidden-rules-that-hold-reality-to",
         "understanding-kohaerenz-protokoll-the-art-of-sticking-togeth",
         "an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe",
-        "dkt-fundament-kohaerenz-protokoll-md"
+        "dkt-fundament-kohaerenz-protokoll-md",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 45,
+      "readings": 45,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -1688,10 +1705,16 @@
         "dramatica-dual-storyform-mapping-protokoll",
         "dkt-fundament-kohaerenz-protokoll-md",
         "projekt-ockham-narrative-systemik-reduktion",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+        "kohaerenz-protokoll-system-realitaet-leser",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 95,
-      "readings": 95,
+      "sources": 101,
+      "readings": 101,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -2067,10 +2090,13 @@
         "roman-kapitel-1-erstellung-analyse",
         "aegis-protokolle-kritische-evaluation-neukonzeption",
         "kohaerenz-protokoll-narrative-architekturanalyse",
-        "roman-als-transformativer-prozess-alchemie-der-erzaehlung"
+        "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+        "kohaerenz-protokoll-system-realitaet-leser",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 178,
-      "readings": 178,
+      "sources": 181,
+      "readings": 181,
       "conflict": "C2"
     },
     "erason": {
@@ -2097,10 +2123,11 @@
         "kohaerenz-protokoll-struktur-kanon-reset-2026-04-30-md",
         "kohaerenz-protokoll-master-integration-md",
         "kohaerenz-protokoll-epische-plot-anreicherung",
-        "dkt-fundament-kohaerenz-protokoll-md"
+        "dkt-fundament-kohaerenz-protokoll-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform"
       ],
-      "sources": 18,
-      "readings": 18,
+      "sources": 19,
+      "readings": 19,
       "conflict": "none"
     },
     "evaluierungseinheit": {
@@ -2406,10 +2433,11 @@
         "roman-kapitel-1-erstellung-analyse",
         "genesis-recherche-anleitung-umsetzung",
         "ontologie-des-gelesenen-traumas",
-        "genesis-krise-aegis-prosa-auftrag"
+        "genesis-krise-aegis-prosa-auftrag",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 122,
-      "readings": 122,
+      "sources": 123,
+      "readings": 123,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -2596,10 +2624,11 @@
         "kernwelten-und-fragmentierte-wahrnehmung",
         "report-plot-synthesis-and-final-outline-for-coherence-protoc",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
-        "kohaerenz-protokoll-analyse-und-loglines"
+        "kohaerenz-protokoll-analyse-und-loglines",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 57,
-      "readings": 57,
+      "sources": 58,
+      "readings": 58,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -2803,10 +2832,11 @@
         "plot-blueprint-methodik-kohaerenz-protokoll",
         "plot-exploration-kohaerenz-protokollkonzepte",
         "roman-kapitel-1-erstellung-analyse",
-        "kohaerenz-protokoll-narrative-architekturanalyse"
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 178,
-      "readings": 178,
+      "sources": 179,
+      "readings": 179,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -2942,10 +2972,12 @@
         "the-thematic-architecture-of-kohaerenz-protokoll-a-conceptua",
         "tsdp-analyse-kohaerenz-protokoll-charaktere",
         "narrative-architecture-dossier-coherence-protocol",
-        "a-guide-to-the-society-of-self-understanding-system-kael"
+        "a-guide-to-the-society-of-self-understanding-system-kael",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 82,
-      "readings": 82,
+      "sources": 84,
+      "readings": 84,
       "conflict": "C15"
     },
     "juna": {
@@ -3300,10 +3332,16 @@
         "aegis-logik-und-narrative-implikationen",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
         "projekt-ockham-narrative-systemik-reduktion",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+        "roman-pitch-reduktion-auf-kern",
+        "kapitel-13-momente"
       ],
-      "sources": 345,
-      "readings": 345,
+      "sources": 351,
+      "readings": 351,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -3768,10 +3806,17 @@
         "aegis-logik-und-narrative-implikationen",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
         "projekt-ockham-narrative-systemik-reduktion",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung",
+        "roman-pitch-reduktion-auf-kern",
+        "kapitel-13-momente"
       ],
-      "sources": 394,
-      "readings": 395,
+      "sources": 401,
+      "readings": 402,
       "conflict": "C10, C16"
     },
     "kaels-wohneinheit": {
@@ -3905,10 +3950,11 @@
         "kohaerenz-protokoll-detaillierter-plot-blueprint",
         "dramaturgical-precision-deconstructing-the-irreversible-conf",
         "roman-kohaerenz-protokoll",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 89,
-      "readings": 89,
+      "sources": 90,
+      "readings": 90,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -4186,10 +4232,12 @@
         "narrative-vertiefung-kohaerenz-protokoll",
         "aegis-genesis-krise-prosa-auftrag-formulieren",
         "kohaerenz-protokoll-narrative-architekturanalyse",
-        "aegis-logik-und-narrative-implikationen"
+        "aegis-logik-und-narrative-implikationen",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 268,
-      "readings": 267,
+      "sources": 270,
+      "readings": 269,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -4384,10 +4432,13 @@
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "kohaerenz-protokoll-narrative-architekturanalyse",
-        "roman-als-transformativer-prozess-alchemie-der-erzaehlung"
+        "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 186,
-      "readings": 187,
+      "sources": 189,
+      "readings": 190,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -4498,10 +4549,12 @@
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "projekt-ockham-narrative-systemik-reduktion"
+        "projekt-ockham-narrative-systemik-reduktion",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 60,
-      "readings": 60,
+      "sources": 62,
+      "readings": 62,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -4675,10 +4728,12 @@
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "dkt-fundament-kohaerenz-protokoll-md",
-        "projekt-ockham-narrative-systemik-reduktion"
+        "projekt-ockham-narrative-systemik-reduktion",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 56,
-      "readings": 56,
+      "sources": 58,
+      "readings": 58,
       "conflict": "none"
     },
     "komponente-734": {
@@ -4904,10 +4959,11 @@
         "kohaerenz-protokoll-plot-entwicklungsauftrag",
         "blueprint-for-narrative-coherence",
         "kohaerenz-protokoll-szene-der-stillstand-der-welt",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 131,
-      "readings": 131,
+      "sources": 132,
+      "readings": 132,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -5168,10 +5224,13 @@
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "kohaerenz-protokoll-narrative-architekturanalyse",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 202,
-      "readings": 203,
+      "sources": 205,
+      "readings": 206,
       "conflict": "none"
     },
     "lia": {
@@ -5286,10 +5345,12 @@
         "a-guide-to-the-society-of-self-understanding-system-kael",
         "heilung-der-verlust-von-superkraeften",
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
-        "the-true-coherence-protocol-architecting-kaels-journey-from"
+        "the-true-coherence-protocol-architecting-kaels-journey-from",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 106,
-      "readings": 106,
+      "sources": 108,
+      "readings": 108,
       "conflict": "C15"
     },
     "logos": {
@@ -5428,10 +5489,11 @@
         "narrative-physik-attraktoren-leserbewusstsein",
         "from-monolith-to-mosaic-a-strategic-proposal-for-restructuri",
         "plot-blueprint-methodik-kohaerenz-protokoll",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 130,
-      "readings": 130,
+      "sources": 131,
+      "readings": 131,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -5589,10 +5651,11 @@
         "kohaerenz-protokoll-kapitel-39-das-mosaik-herz",
         "kohaerenz-protokoll-master-outline",
         "plot-blueprint-methodik-kohaerenz-protokoll",
-        "roman-kapitel-1-erstellung-analyse"
+        "roman-kapitel-1-erstellung-analyse",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 131,
-      "readings": 131,
+      "sources": 132,
+      "readings": 132,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -5864,10 +5927,13 @@
         "report-the-transcendent-architecture-of-the-kohaerenz-protok",
         "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
         "narrative-vertiefung-kohaerenz-protokoll",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 191,
-      "readings": 191,
+      "sources": 194,
+      "readings": 194,
       "conflict": "none"
     },
     "moros": {
@@ -5997,10 +6063,12 @@
         "storyforms-system-mind-bewusstsein",
         "canonical-narrative-architecture-for-kohaerenz-protokoll",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
-        "the-minds-behind-the-machine-a-psychological-guide-to-system"
+        "the-minds-behind-the-machine-a-psychological-guide-to-system",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 121,
-      "readings": 121,
+      "sources": 123,
+      "readings": 123,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -6053,10 +6121,12 @@
         "dramatica-dual-storyform-mapping-protokoll",
         "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
         "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel",
-        "kohaerenz-protokoll-themenanalyse-und-anreicheru"
+        "kohaerenz-protokoll-themenanalyse-und-anreicheru",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 44,
-      "readings": 44,
+      "sources": 46,
+      "readings": 46,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -6240,10 +6310,12 @@
         "kohaerenz-protokoll-narrative-architekturanalyse",
         "aegis-logik-und-narrative-implikationen",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform"
       ],
-      "sources": 174,
-      "readings": 174,
+      "sources": 176,
+      "readings": 176,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -6506,10 +6578,15 @@
         "genesis-krise-aegis-prosa-auftrag",
         "aegis-genesis-krise-prosa-auftrag-formulieren",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "kohaerenz-protokoll-system-realitaet-leser",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 154,
-      "readings": 154,
+      "sources": 159,
+      "readings": 159,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -6733,10 +6810,13 @@
         "operationalizing-the-triple-helix-structure-as-a-trauma-prot",
         "the-minds-behind-the-machine-a-psychological-guide-to-system",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 202,
-      "readings": 203,
+      "sources": 205,
+      "readings": 206,
       "conflict": "C10"
     },
     "oblivion": {
@@ -6806,10 +6886,12 @@
         "the-coherence-protocol-a-world-bible",
         "an-architecture-of-the-self-a-psycho-systemic-analysis-of-ko",
         "kohaerenz-protokoll-comprehensive-project-state-narrative-au",
-        "konsolidierung-des-hard-canon-protokolls"
+        "konsolidierung-des-hard-canon-protokolls",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 61,
-      "readings": 61,
+      "sources": 63,
+      "readings": 63,
       "conflict": "C11"
     },
     "ouroboros-struktur": {
@@ -7086,10 +7168,11 @@
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kohaerenz-protokoll-plot-blueprint-erstellung",
-        "welten"
+        "welten",
+        "kapitel-13-momente"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "realitaetsebenen": {
@@ -7380,10 +7463,11 @@
         "canonical-narrative-architecture-for-kohaerenz-protokoll",
         "an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe",
         "operationalizing-the-coherence-protocol-a-narrative-stress-t",
-        "kohaerenz-protokoll-narrative-architekturanalyse"
+        "kohaerenz-protokoll-narrative-architekturanalyse",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 134,
-      "readings": 134,
+      "sources": 135,
+      "readings": 135,
       "conflict": "none"
     },
     "risse": {
@@ -7671,10 +7755,13 @@
         "kohaerenz-protokoll-narrative-architekturanalyse",
         "aegis-logik-und-narrative-implikationen",
         "roman-als-transformativer-prozess-alchemie-der-erzaehlung",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "research-prompt-kohaerenz-protokoll-dramatica-dual-storyform",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 277,
-      "readings": 277,
+      "sources": 280,
+      "readings": 280,
       "conflict": "C11, C15"
     },
     "rsa": {
@@ -7878,10 +7965,12 @@
         "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho",
         "kael-uberarbeitung-des-konzepts-unter-tsdp",
         "tsdp-analyse-kaels-innere-welt",
-        "ki-antagonist-fragmentierte-gottheit-analyse"
+        "ki-antagonist-fragmentierte-gottheit-analyse",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 141,
-      "readings": 141,
+      "sources": 143,
+      "readings": 143,
       "conflict": "none"
     },
     "silas": {
@@ -7960,10 +8049,12 @@
         "roman-kapitel-ausformulierung-kohaerenz-protokoll",
         "kapitel-17",
         "roman-kapitel-1-generierungsprozess",
-        "konsolidierung-des-hard-canon-protokolls"
+        "konsolidierung-des-hard-canon-protokolls",
+        "aegis-manifest-genesis-krise-reboot-2",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung"
       ],
-      "sources": 70,
-      "readings": 70,
+      "sources": 72,
+      "readings": 72,
       "conflict": "C11"
     },
     "snk": {
@@ -8235,10 +8326,11 @@
         "the-metaphysics-of-wholeness-an-analysis-of-juna-v-the-found",
         "welcome-to-the-coherence-protocol-a-beginner-s-guide",
         "storyforms-system-mind-bewusstsein",
-        "analyse-der-leere-und-existenz"
+        "analyse-der-leere-und-existenz",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 67,
-      "readings": 68,
+      "sources": 68,
+      "readings": 69,
       "conflict": "C12, C16"
     },
     "truth-rotation": {
@@ -8277,10 +8369,11 @@
         "research-prompt-dual-storyform-rebuild-kohaerenz-protokoll-m",
         "romanarchitektur-validierung-und-synthese",
         "dramatica-storyform-synthese-aegis-verortung",
-        "kohaerenz-protokoll-synthese"
+        "kohaerenz-protokoll-synthese",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md"
       ],
-      "sources": 30,
-      "readings": 30,
+      "sources": 31,
+      "readings": 31,
       "conflict": "none yet"
     },
     "tsdp": {
@@ -8505,10 +8598,15 @@
         "genesis-krise-aegis-prosa-auftrag",
         "aegis-genesis-krise-prosa-auftrag-formulieren",
         "projekt-ockham-narrative-systemik-reduktion",
-        "dramatica-storyform-kohaerenz-protokoll-analyse"
+        "dramatica-storyform-kohaerenz-protokoll-analyse",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md",
+        "kohaerenz-protokoll-system-realitaet-leser",
+        "cyberpunk-roman-kohaerenz-protokoll-ubersetzung",
+        "roman-pitch-reduktion-auf-kern"
       ],
-      "sources": 216,
-      "readings": 216,
+      "sources": 221,
+      "readings": 221,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -8682,10 +8780,11 @@
         "concept-document-the-nature-of-the-foundation-juna-v-and-the",
         "plot-blueprint-methodik-kohaerenz-protokoll",
         "roman-kapitel-1-erstellung-analyse",
-        "roman-entwicklung-ontologie-trauma-horror"
+        "roman-entwicklung-ontologie-trauma-horror",
+        "aegis-manifest-genesis-krise-reboot-2"
       ],
-      "sources": 148,
-      "readings": 148,
+      "sources": 149,
+      "readings": 149,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -8802,10 +8901,12 @@
         "dramatica-storyform-synthese-aegis-verortung",
         "kohaerenz-protokoll-synthese",
         "kohaerenz-protokoll-architecture-synthesis-2",
-        "dramatica-dual-storyform-mapping-protokoll"
+        "dramatica-dual-storyform-mapping-protokoll",
+        "research-prompt-kohaerenz-protokoll-verification-md",
+        "research-prompt-kohaerenz-protokoll-final-architecture-md"
       ],
-      "sources": 43,
-      "readings": 43,
+      "sources": 45,
+      "readings": 45,
       "conflict": "C7, C11, C14"
     },
     "ztv": {
