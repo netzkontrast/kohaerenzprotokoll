@@ -1,0 +1,57 @@
+# counts for 45 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aris Thorne                       1 word     1 in   [33]
+  Aris                             19 word    19 in   [33, 35, 37, 45, 47, 49]
+  Elara Vance                       1 word     1 in   [45]
+  Elara                            10 word    12 in   [45, 47, 49, 51, 67, 71]
+                                    2      as Elaras
+  Silus                            16 word    16 in   [67, 69, 71, 73, 81, 83]
+  Aethelred                         2 word     4 in   [49, 67, 71, 101]
+                                    2      as Aethelreds
+  Aethelreds                        2 word     2 in   [67, 71]
+  Glitch                            2 word     8 in   [25, 35, 37, 49, 71, 113]  <-- substring
+                                    6      as Glitches
+  Glitches                          6 word     6 in   [25, 49, 71, 113, 131, 148]
+  Kohärenz Protokoll                8 word     9 in   [13, 35, 51, 71, 115, 119]
+  Kohärenz Protokolls               1 word     1 in   [35]
+  Datenanomalie                     1 word     1 in   [33]
+  Rollin-Films                      1 word     1 in   [35]
+  Systemzerfall                     3 word     3 in   [71, 85, 131]
+  Datenkern                         2 word     2 in   [71]
+  Administrator                     2 word     2 in   [71, 130]
+  NPC                               1 word     1 in   [129]
+  Basisrealität                     3 word     3 in   [71, 73, 81]
+  Quantenpotentialität              3 word     3 in   [33, 35, 73]
+  Konsensrealität                   2 word     2 in   [21, 127]
+  Simulationshypothese              1 word     1 in   [71]
+  Open Source                       1 word     1 in   [105]
+  entklebt                          2 word     2 in   [45, 51]
+  Mandela-Effekt                    2 word     3 in   [45, 47, 81]
+                                    1      as Mandela-Effekte
+  Bindungsproblem                   1 word     1 in   [45]
+  Simultanagnosie                   2 word     2 in   [47, 85]
+  neuronalen Kohärenz               2 word     2 in   [47, 51]
+  Konfabulation                     1 word     1 in   [47]
+  Schemata                          1 word     1 in   [47]
+  Philosophenkönig                  2 word     3 in   [59, 67, 69]
+                                    1      as Philosophenkönigs
+  Philosophenkönigs                 1 word     1 in   [69]
+  heilsamen Lüge                    1 word     1 in   [69]
+  Technokratie                      1 word     1 in   [69]
+  Kohärenztheorie der Wahrheit      2 word     2 in   [59, 71]
+  Holographischen Prinzips          1 word     1 in   [71]
+  Haupteinwand                      1 word     2 in   [77, 85]
+                                    1      as Haupteinwands
+  Haupteinwands                     1 word     1 in   [85]
+  Master Objection                  2 word     2 in   [77, 85]
+  Erlebnismaschine                  1 word     1 in   [81]
+  It from Bit                       5 word     5 in   [89, 93, 101, 128, 184]
+  Heisenbergsche Unschärferelation    1 word     1 in   [113]
+  Superposition                     2 word     3 in   [33, 85, 113]
+                                    1      as Superpositionen
+  Quanten-Dekohärenz                3 word     3 in   [25, 33, 51]
+  Metaphysischer Realismus          1 word     1 in   [128]
+  Anti-Realismus                    2 word     2 in   [25, 128]

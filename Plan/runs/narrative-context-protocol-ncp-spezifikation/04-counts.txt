@@ -1,0 +1,116 @@
+# counts for 84 candidates
+# line numbers are FILE lines, as a citation writes them
+# 1 `- ` line(s) read as prose and not counted: fraktalen, verschachtelten psychologischen Architektur
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                6 word    11 in   [11, 15, 19, 30, 47, 67]
+  Theorie der Narrativen Systemik    1 word     1 in   [15]
+  Kael                              8 word     8 in   [30, 51, 71, 115, 117, 166]
+  AEGIS                             8 word     8 in   [30, 51, 71, 126, 165, 166]
+  Juna/V                            3 word     3 in   [30, 51, 190]
+  Das Fundament                     2 word     2 in   [30, 51]
+  JunaV                             1 word     1 in   [132]
+  DasFundament                      1 word     1 in   [137]
+  Story-Subsysteme                  1 word     1 in   [30]
+  System-Dirigent                   1 word     3 in   [77, 79, 162]  <-- substring
+                                    2      as System-Dirigenten
+  LLM-Dirigenten                    1 word     1 in   [32]
+  Narrative Context Protocol        3 word     3 in   [45, 103, 107]
+  NCP                               9 word     9 in   [45, 75, 103, 105, 107, 175]
+  Single Source of Truth            1 word     1 in   [105]
+  Story Mind                        2 word     2 in   [105, 223]
+  Prompt-Kaskade                    5 word     5 in   [89, 91, 160, 162, 203]
+  State Analysis Prompt             4 word     4 in   [96, 164, 189, 191]
+  Context Compression Prompt        2 word     2 in   [97, 165]
+  Narrative Generation Prompt       3 word     3 in   [98, 166, 189]
+  State Update Prompt               3 word     3 in   [99, 167, 175]
+  dynamische Kontext-Kompression    1 word     1 in   [101]
+  narrativ bewussten Zustandsabstraktion    1 word     1 in   [101]
+  narrativen Vektor                 2 word     3 in   [32, 101, 165]
+  Nicht-Fokal-Systeme               1 word     1 in   [97]
+  Fokal-System                      1 word     2 in   [97, 165]
+  activeFocalSystem                 2 word     2 in   [115, 190]
+  worldState                        9 word     9 in   [87, 96, 99, 101, 113, 164]
+  interferenceRules                 8 word     8 in   [67, 75, 112, 164, 167, 201]
+  userModel                         3 word     3 in   [144, 191]
+  narrativeLog                      2 word     2 in   [156, 181]
+  systemStates                      2 word     2 in   [116, 167]
+  thematicTension                   2 word     2 in   [119, 180]
+  plotProgress                      5 word     5 in   [118, 127, 133, 138, 180]
+  entropyLevel                      2 word     2 in   [128, 166]
+  compressedContext                 2 word     2 in   [166]
+  expressedContext                  1 word     1 in   [166]
+  narrativePotential                1 word     3 in   [180, 189, 191]  <-- substring
+                                    2      as narrativePotentials
+  narrativePotentials               2 word     2 in   [189, 191]
+  thematicAffinity                  2 word     2 in   [149, 191]
+  decisionHistory                   1 word     1 in   [146]
+  resonanceSignalStrength           1 word     1 in   [134]
+  Dramaturgische Aufseher           2 word     2 in   [173, 183]
+  Dramaturgischer Aufseher          1 word     1 in   [175]
+  Meta-Agent                        2 word     2 in   [175, 177]
+  Strukturelle Integritätsprüfung    1 word     1 in   [179]
+  Konvergenzprüfung                 1 word     1 in   [180]
+  Kontradiktionsprüfung             1 word     1 in   [181]
+  Dynamische Paar-Interferenz       1 word     1 in   [71]
+  Begleiter-Paar-Interferenz        1 word     1 in   [72]
+  Abhängige Paar-Interferenz        1 word     1 in   [73]
+  Kern-Storyforms                   1 word     1 in   [43]
+  Dramatica-Storyform               2 word     3 in   [30, 179, 201]
+                                    1      as Dramatica-Storyforms
+  Dramatica-Quads                   1 word     1 in   [67]
+  genetische Signatur               1 word     1 in   [45]
+  hybrides Modell                   1 word     1 in   [189]
+  Primäre Rolle                     1 word     1 in   [52]
+  Domäne                            4 word     6 in   [38, 39, 53, 63]
+                                    2      as Domänen
+  Anliegen                          3 word     3 in   [39, 54]
+  Thema                             5 word     5 in   [40, 41, 55, 191]
+                                    4      as thematische
+                                    3      as thematischen
+                                    2      as thematicTension
+                                    2      as thematicAffinity
+  Problem                           7 word     9 in   [19, 26, 41, 56, 63, 71]
+                                    4      as problematische
+                                    2      as Probleme
+                                    1      as problemlösenden
+  Lösung                            2 word     2 in   [57, 101]
+  Symptom                           1 word     1 in   [58]
+  Response                          1 word     1 in   [59]
+  Ziel                              4 word     5 in   [25, 60, 63, 101, 165]
+                                    1      as Ziele
+                                    1      as zielorientierten
+  Konsequenz                        2 word     2 in   [61, 63]
+  Faith                             5 word     5 in   [55, 71, 150, 191]
+  Disbelief                         3 word     3 in   [55, 71]
+  Doubt                             1 word     1 in   [56]
+  Control                           2 word     2 in   [56, 151]
+  Dramatica                        22 word    34 in   [17, 19, 23, 30, 36, 45]
+                                    2      as Dramatica-Theorie
+                                    2      as Dramatica-Storyform
+                                    1      as Dramatica-Modell
+                                    1      as Dramatica-Spezifikationen
+  Throughlines                      2 word     2 in   [23, 30]
+  Table of Story Elements           1 word     1 in   [36]
+  Storyform                         2 word     9 in   [30, 43, 47, 71, 75, 179]  <-- substring
+                                    1      as Storyform-Spezifikationen
+                                    1      as Storyforms
+                                    1      as storyforms
+                                    1      as Storyform-Authoring
+  Quad                              2 word     4 in   [67, 69, 71, 164]
+                                    1      as Quad-Beziehungen
+  Objective Story                   2 word     2 in   [25, 52]
+  Main Character                    3 word     3 in   [26, 27, 52]
+  Obstacle Character                4 word     4 in   [27, 28, 52]
+  Subjective Story                  2 word     2 in   [28, 52]
+  OODA-Loop                         0 word     1 in   [95]
+                                    1      as OODA-Loop-Phase
+  ReAct                             0 word     1 in   [95]
+                                    1      as Reaction
+                                    1      as ReAct-Framework-Phase
+  Standard-RAG                      1 word     1 in   [85]
+  Agentic RAG                       4 word     4 in   [86, 223]
+  LangGraph                         2 word     2 in   [87, 223]
+                                    1      as langgraph-a-framework-for-building-stateful-multi-agent-llm-applications-a51d5eb68d03
+  Few-Shot                          1 word     1 in   [164]

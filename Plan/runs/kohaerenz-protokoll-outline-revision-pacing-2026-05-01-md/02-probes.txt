@@ -1,0 +1,23 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      1
+  backslash escapes      42
+  typographic marks      3
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  kapit    Kapitel, Kapiteln, Kapitels
+  alter    Alter, Alternation
+  funkt    Funktion, Funktionale
+  multi    Multiplizität, Multiplizitäts
+  story    Storyform, Storyforms
+
+# substring pairs -- never one term, often merged by accident
+  Juna < Junas
+  Alter < Alternation
+  Gerade < Ungerade
+  Kapitel < Kapiteln
+  Kapitel < Kapitels
+  Funktion < Funktionale
+  Storyform < Storyforms
+  Multiplizität < Multiplizitäts

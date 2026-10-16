@@ -1,0 +1,14 @@
+# holographisches-prinzip-fuer-kohaerenz-protokoll
+  lines                383  (frontmatter ends at 9)
+  body words           7854
+  headings             2   bold-only lines 7
+  table rows           18   code fences 0
+  question marks       39
+  backslash escapes    116
+  typographic marks    41   ascii quotes 144
+  invisible characters U+200Bx16
+  math symbol lines    0
+  glued ref numbers    100
+  repeated labels      none
+  longest line         1862 chars
+

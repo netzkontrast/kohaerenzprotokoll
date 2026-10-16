@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a beat plan in three acts that rebuilds a plot around a corrected metaphor of a group. Figures and places come first, then the document's own terms, then the beat headings, then the borrowed concepts under lens. Chapter numbers appear only as Beat N, never as Kap or Kapitel with a number.
+
+- Kael
+- Juna
+- AEGIS
+- Alters
+- Guardians
+- Guardian-Avatar
+- Potentialmeer
+- Wächter-KI
+- Kontrollinstanz
+- Nexus
+- Simulationsblase
+- Simulationssubstrat
+- Stabilitätsdirektive
+- Eindämmungsprotokolle
+- K-J Signatur
+- K-J Verbindung
+- Moonshine-Signatur
+- M-Paradoxon
+- M-Paradox
+- M-Kohärenz
+- Monstergruppe
+- Baby-Monster
+- Baby Monster Gruppe
+- NZT-Ideal
+- Drei-Akt-Struktur
+- VOA-Substrat Analogie
+- Parakonsistenz-Grenzen
+- IFS für Kaels Reaktion
+- Parakonsistenz als Falle
+- Selbst-Partitionierung
+- Systemischer Kollaps
+- Erzwungene Transformation
+- Beat 1
+- Beat 2
+- Beat 5
+- Beat 8
+- Beat 12
+- Beat 15
+- Beat 18
+- Beat 21
+- Beat 24
+- Beat 26
+- Beat 28
+- Beat 31
+- Beat 34
+- Beat 37
+- Beat 39
+- Die kontrollierte Umgebung
+- Der Glitch
+- AEGIS Analyseprotokoll
+- Die irreduzible Anomalie
+- Eindämmungsversagen & Eskalation
+- Die VOA/CFT-Analogie wird explizit
+- Konfrontation mit dem M-Paradoxon
+- Kaels IFS-Reise beginnt
+- Moonshine-Signatur enthüllt Struktur
+- Punkt ohne Wiederkehr
+- Kael umarmt die Integration
+- Höhepunkt - Konzeptuelle Konfrontation
+- Moonshine-Modul
+- Self-Leadership
+- Self-Energy
+
+## lens
+- Internal Family Systems
+- Dissoziative Identitätsstörung
+- parakonsistente Logik
+- Vertex Operator Algebren
+- Konformen Feldtheorien
+- Monstrous Moonshine
+- Subquotienten
+- Zentralisator
+- Holomorphie
+- Symmetriebrechungsmuster
+- Operatorproduktentwicklung
+- Reduktionismus
+- Holismus
+- Cosmic Horror
+- Hard Sci-Fi

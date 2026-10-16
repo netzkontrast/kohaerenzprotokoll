@@ -1,0 +1,601 @@
+{
+  "document": "reality-s-isomorphic-architecture-explained",
+  "drive_id": "14vZGIMAl-fY_453ERPV209TL7eDH3B1YG1E-uMO-2Bc",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Isomorphism": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        18,
+        22,
+        121,
+        200,
+        265,
+        285,
+        411,
+        464,
+        483,
+        497
+      ]
+    },
+    "Coherence Protocol": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        13,
+        24,
+        50,
+        340,
+        344,
+        445,
+        462,
+        472,
+        480,
+        497
+      ]
+    },
+    "Dimensional Sequestration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Gravitational Leakage": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        107,
+        129,
+        450
+      ]
+    },
+    "Ontological Z-Fighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Vertex Explosion": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        249,
+        253,
+        453
+      ]
+    },
+    "Isomorphic Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        441
+      ]
+    },
+    "Mass Acquisition Isomorphism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        411
+      ]
+    },
+    "The Wormhole Strategy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        387
+      ]
+    },
+    "Bootstrapping Directive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        348
+      ]
+    },
+    "Inventory of Fragments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        356
+      ]
+    },
+    "Symmetry Restoration": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        329,
+        333,
+        423,
+        454
+      ]
+    },
+    "Energy Transduction": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        418
+      ]
+    },
+    "Unburdening": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        403,
+        418,
+        451
+      ]
+    },
+    "Horror-Glitch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Weighting Errors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "warp factor": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        119,
+        121,
+        397,
+        462
+      ]
+    },
+    "Apparently Normal Part (ANP)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        83,
+        87
+      ]
+    },
+    "Emotional Part (EP)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        102
+      ]
+    },
+    "ANP": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        36,
+        83,
+        87,
+        89,
+        90,
+        91,
+        121,
+        131,
+        133,
+        143,
+        219,
+        223,
+        235,
+        285,
+        311,
+        451,
+        480
+      ]
+    },
+    "EP": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        36,
+        95,
+        102,
+        103,
+        121,
+        131,
+        137,
+        141,
+        143,
+        285,
+        311,
+        379,
+        383,
+        391,
+        398,
+        407,
+        451
+      ]
+    },
+    "Protector Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        162
+      ]
+    },
+    "Managers": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        397
+      ]
+    },
+    "Firefighters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Exile": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        325,
+        375,
+        383
+      ]
+    },
+    "Burden": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        415,
+        417,
+        451
+      ]
+    },
+    "Self": {
+      "n": 16,
+      "n_including_compounds": 19,
+      "lines": [
+        49,
+        223,
+        236,
+        285,
+        289,
+        307,
+        311,
+        313,
+        314,
+        324,
+        325,
+        336,
+        435,
+        451,
+        454,
+        488,
+        492,
+        505
+      ]
+    },
+    "Freeze Response": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        200,
+        207
+      ]
+    },
+    "Hyperreality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        215,
+        223
+      ]
+    },
+    "Hyperreal": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        47,
+        211,
+        215,
+        223,
+        237
+      ]
+    },
+    "The Real": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        233
+      ]
+    },
+    "Confabulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        480
+      ]
+    },
+    "Grounding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        484
+      ]
+    },
+    "Truthmakers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Maps of Content (MOCs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        372
+      ]
+    },
+    "MOC": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        368,
+        372,
+        374,
+        375
+      ]
+    },
+    "Zettelkasten Agent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        436
+      ]
+    },
+    "Self-Reflecting Story Engine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        492,
+        505
+      ]
+    },
+    "Compassionate Critics": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        495
+      ]
+    },
+    "Planck-Brane": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        34,
+        95,
+        99,
+        101,
+        103,
+        119,
+        132,
+        450
+      ]
+    },
+    "TeV-Brane": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        34,
+        72,
+        76,
+        78,
+        87,
+        90,
+        119,
+        419
+      ]
+    },
+    "Bulk": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        34,
+        36,
+        72,
+        76,
+        79,
+        111,
+        119,
+        144,
+        450,
+        451,
+        462
+      ]
+    },
+    "Hierarchy Problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        450
+      ]
+    },
+    "Randall-Sundrum model": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        79,
+        119
+      ]
+    },
+    "Goldberger-Wise mechanism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "ER=EPR conjecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "ER=EPR": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        137,
+        141,
+        379,
+        391
+      ]
+    },
+    "Kaluza-Klein theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        415
+      ]
+    },
+    "Structural Dissociation": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        36,
+        52,
+        68,
+        87,
+        451
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        52,
+        162,
+        311
+      ]
+    },
+    "IFS": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        162,
+        307,
+        311,
+        415
+      ]
+    },
+    "window of tolerance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Z-Fighting": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        183,
+        187,
+        206,
+        452,
+        494
+      ]
+    },
+    "Z-buffer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        187
+      ]
+    },
+    "Spaghettification": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        277,
+        281
+      ]
+    },
+    "Event Horizon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "Monster Group": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        49,
+        289,
+        297,
+        301,
+        303,
+        314,
+        431,
+        435,
+        454
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Symmetry Breaking": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        318,
+        322,
+        454
+      ]
+    },
+    "Retrieval Augmented Generation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        484
+      ]
+    },
+    "RS-Warping": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        450
+      ]
+    },
+    "Radion field": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        450
+      ]
+    }
+  }
+}

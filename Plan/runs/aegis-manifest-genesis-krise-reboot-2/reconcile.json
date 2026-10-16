@@ -1,0 +1,325 @@
+{
+  "document": "aegis-manifest-genesis-krise-reboot-2",
+  "drive_id": "1KpB2P-wZLlkO0ipISHbrBx1HOJAQk2-ejQJC4Od7OEI",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "read afresh after the author retired its gold list (decision 028): candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-16, from the full-ingest task with no count before the list, blind to the retired list; the reader left the fourth Guardian's name off the list, taking it for an early name, and the sweep read it; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-523/brief.md, 2026-10-16",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 100,
+    "decisions": 102,
+    "decided_by_lookup": 91,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "AEGIS's initiation log: what it declares about AEGIS, the two kernels, the Überwelt, the four Kernwelten and the fragments assigned to them, and four Guardians went on existing pages; its own machinery stays unpromoted.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        103
+      ],
+      "attribution": "",
+      "note": "Zero-Trust parameters and Cognitive Firewall in the Überwelt"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        17,
+        33,
+        43,
+        55,
+        65,
+        109
+      ],
+      "attribution": "",
+      "note": "the system's own declaration of origin, axiom and role"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        135,
+        158
+      ],
+      "attribution": "",
+      "note": "the third Kernwelt, Relevance Logic, defensive labyrinth"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "the Dual-Kernel Theory as a strict relational ontology"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        15,
+        283
+      ],
+      "attribution": "",
+      "note": "the Genesis Crisis as the shock the log records"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        137
+      ],
+      "attribution": "",
+      "note": "the third world as the Border Fortress"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        163,
+        165,
+        167,
+        230
+      ],
+      "attribution": "",
+      "note": "four subsystems the Gatekeeper delegates to"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        193,
+        195,
+        197,
+        199
+      ],
+      "attribution": "",
+      "note": "Isabelle as a Guardian, the K1-Proxy Initializer"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        109,
+        147,
+        159
+      ],
+      "attribution": "",
+      "note": "Juna/V in two places, not reconciled"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        109,
+        120,
+        156
+      ],
+      "attribution": "",
+      "note": "Kael named as a fragment, and as logic in the first world"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        142,
+        148,
+        159
+      ],
+      "attribution": "",
+      "note": "KW4 Kairos-Potentialis, treated with suspicion"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        111,
+        113
+      ],
+      "attribution": "",
+      "note": "four isolated simulation environments"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        129,
+        157
+      ],
+      "attribution": "",
+      "note": "Kiko assigned to the second world"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        120,
+        156
+      ],
+      "attribution": "",
+      "note": "Lex assigned to the first world"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        171,
+        175,
+        206
+      ],
+      "attribution": "",
+      "note": "LogOS as a Guardian, not the first Kernwelt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        124,
+        126,
+        157
+      ],
+      "attribution": "",
+      "note": "KW2 as a quarantine zone of paraconsistent logic"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        129,
+        157
+      ],
+      "attribution": "",
+      "note": "Moros assigned to the second world"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        21,
+        45
+      ],
+      "attribution": "",
+      "note": "the antecedent state and the external void"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        138,
+        158
+      ],
+      "attribution": "",
+      "note": "Nyx assigned to the third world"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        179
+      ],
+      "attribution": "",
+      "note": "Oblivion as Hypervisor of Deletion Logic"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        147,
+        159
+      ],
+      "attribution": "",
+      "note": "Selene assigned to the fourth world"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "Silas as Hypervisor of Repair and Memory"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        25
+      ],
+      "attribution": "",
+      "note": "the Separation Protocol of the crisis"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        91,
+        93,
+        285
+      ],
+      "attribution": "",
+      "note": "the Überwelt as the matrix built by the Gatekeeper"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the manifesto speaks as AEGIS and its declarations are its own; `Juna/V` names Juna; Isabelle a Guardian here, as in the earlier manifesto; the Guardian LogOS kept apart from the Kernwelt Logos-Prime; `Hard Glitch Cut` and `Persona` occurrences; the trauma-symbol detail of L245 and the engineering practice of L255–L279 not read",
+  "sweep": [
+    {
+      "page": "cerberus",
+      "surface": "Cerberus",
+      "line": 158,
+      "decision": "reading",
+      "why": "KW3 in the Kernwelten table; read on the page"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "reading",
+      "why": "the Genesis Crisis; read on the page"
+    },
+    {
+      "page": "isabelle",
+      "surface": "Isabelle",
+      "line": 193,
+      "decision": "reading",
+      "why": "the fourth Guardian, the K1-Proxy Initializer; read on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 109,
+      "decision": "reading",
+      "why": "Juna/V among the shattered elements; read on the page"
+    },
+    {
+      "page": "kairos",
+      "surface": "Kairos",
+      "line": 159,
+      "decision": "reading",
+      "why": "KW4 in the Kernwelten table; read on the page"
+    },
+    {
+      "page": "mnemosyne",
+      "surface": "Mnemosyne",
+      "line": 157,
+      "decision": "reading",
+      "why": "KW2 in the Kernwelten table; read on the page"
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 197,
+      "decision": "occurrence",
+      "why": "inside the PRO-Framework's expansion, not the page's term"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 175,
+      "decision": "occurrence",
+      "why": "LogOS's Hard Glitch Cut, an intervention, not a Riss"
+    }
+  ],
+  "not_promoted": [
+    "Great Realignment, Ursprungs-Ich, Component 734, the kernel names, Logos-Prime as a surface, BPoF, RTSV, the Wächter-Zwiespalt, the intervention sequence's steps, the PRO-Framework, Digital Kintsugi, and the engineering practice of L255–L279"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

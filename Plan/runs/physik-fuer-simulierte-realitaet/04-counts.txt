@@ -1,0 +1,79 @@
+# counts for 52 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                4 word     4 in   [11, 19, 356, 581]
+  AEGIS                           103 word   107 in   [11, 19, 23, 27, 28, 29]
+                                    3      as AEGIS-Intervention
+                                    1      as AEGIS-beeinflusste
+  AEGIS/Überwelt                    1 word     1 in   [11]
+  Potentialmeer/Überwelt            4 word     4 in   [19, 23, 28, 83]
+  AEGIS/Potentialmeer               4 word     5 in   [125, 127, 390, 566, 567]
+                                    1      as AEGIS/Potentialmeer-Grenze
+  Potentialmeer                    24 word    32 in   [19, 23, 28, 71, 83, 85]
+                                    3      as Potentialmeer-Multiversum
+                                    3      as Potentialmeers
+                                    1      as Potentialmeer-Schnittstelle
+                                    1      as Potentialmeer-Grenze
+  Überwelt                          6 word     6 in   [11, 19, 23, 28, 83, 114]
+  Potentialmeer-Multiversum         3 word     3 in   [85, 380, 565]
+  Kernwelten                       19 word    20 in   [23, 29, 47, 91, 100, 104]
+                                    1      as Kernwelten-Simulation
+  Risse                            37 word    47 in   [23, 30, 47, 55, 63, 77]
+                                    9      as Rissen
+                                    1      as Risses
+  K-J Verbindung                   19 word    19 in   [23, 31, 190, 284, 317, 319]
+  M-Struktur                       10 word    12 in   [110, 127, 190, 232, 319, 328]
+                                    1      as M-Struktur-Extradimensionen
+                                    1      as M-Strukturen
+  Kael                              9 word    10 in   [19, 31, 55, 79, 96, 131]
+                                    1      as Kaels
+  Wächter-KI                        1 word     1 in   [27]
+  Meta-Realität                     2 word     2 in   [11, 28]
+  Rechensubstrat                    2 word     2 in   [108, 499]
+  Realitätsfilter                   1 word     1 in   [65]
+  Gärtner                           3 word     3 in   [342, 348, 577]
+  Entropie-Management               1 word     2 in   [272, 274]
+                                    1      as Entropie-Management-System
+  NZT-Ideal                         1 word     1 in   [21]
+  Simulationshypothese              3 word     3 in   [226, 232, 382]
+  Quantenflüstern                   1 word     1 in   [33]
+  Messproblem                       3 word     3 in   [39, 61, 562]
+  Kopenhagener Interpretation       2 word     2 in   [41, 421]
+  Viele-Welten-Interpretation       1 word     1 in   [45]
+  QBismus                           9 word    10 in   [53, 57, 358, 381, 402, 420]
+                                    1      as QBismus-Sicht
+  Dekohärenz                        9 word    14 in   [59, 61, 63, 65, 400, 427]
+                                    1      as Dekohärenz-Mechanismus
+                                    1      as Dekohärenz-Fehler
+  Verschränkung                     7 word    10 in   [61, 67, 73, 77, 323, 362]
+  Nichtlokalität                   10 word    10 in   [67, 69, 73, 317, 325, 328]
+  Feinabstimmung                   11 word    13 in   [85, 87, 89, 96, 131, 361]
+                                    1      as Feinabstimmungsproblem
+                                    1      as Feinabstimmungsargumente
+  Multiversum                       6 word    11 in   [85, 92, 96, 98, 361, 380]
+                                    1      as Multiversum-Erklärung
+                                    1      as Multiversum-Argument
+  Anthropisches Prinzip             1 word     1 in   [92]
+  Holographische Prinzip            4 word     4 in   [100, 489, 493, 508]
+  Digitale Physik                   7 word     7 in   [139, 141, 359, 436, 440, 547]
+  Planck-Skala                      7 word     7 in   [143, 157, 194, 213, 262, 391]
+  Stringtheorie                     8 word     8 in   [102, 168, 170, 213, 436, 451]
+  M-Theorie                         6 word     6 in   [168, 170, 324, 451, 570]
+  Branen                            7 word     7 in   [168, 170, 172, 188, 570]
+  Extradimensionen                 19 word    20 in   [23, 168, 170, 172, 176, 178]
+  Schleifenquantengravitation       2 word     2 in   [192, 194]
+  Spin-Netzwerke                    3 word     3 in   [194, 209, 571]
+  Spin-Schäume                      2 word     2 in   [194, 209]
+  It from Bit                       7 word     7 in   [141, 228, 230, 234, 371, 423]
+  Simulationsargument               3 word     3 in   [236, 238, 573]
+  Retrokausalität                   7 word     7 in   [306, 315, 362, 517, 549, 575]
+  Transaktionale Interpretation     2 word     2 in   [325, 549]
+  Chaostheorie                      1 word     1 in   [332]
+  Emergenz                          4 word     4 in   [330, 332, 348, 577]
+  Beobachtereffekt                  1 word     2 in   [77, 358]
+                                    1      as Beobachtereffekts
+  Dunkle Materie                    7 word     7 in   [114, 116, 118, 120, 127, 401]
+  Dunkle Energie                    6 word     6 in   [114, 116, 119, 120, 124, 127]
+  Pixelation                        2 word     2 in   [150, 161]

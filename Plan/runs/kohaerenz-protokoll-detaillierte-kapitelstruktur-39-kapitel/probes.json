@@ -1,0 +1,244 @@
+{
+  "document": "kohaerenz-protokoll-detaillierte-kapitelstruktur-39-kapitel",
+  "drive_id": "1YScIdFCupg1tHyQ04gucYKrairO62doSsqbZ3foaYOQ",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 46,
+  "backslash_escapes": 17,
+  "typographic_marks": 35,
+  "ascii_quotes": 34,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systems",
+      "Systemstörung"
+    ],
+    "integ": [
+      "INTEGRITY",
+      "Integrated",
+      "Integration",
+      "Integrator",
+      "Integrierender",
+      "Integriert"
+    ],
+    "inter": [
+      "INTERNAL",
+      "Interaction",
+      "Interaktion",
+      "Interface",
+      "Interference",
+      "Internal"
+    ],
+    "analy": [
+      "ANALYSIS",
+      "Analyse",
+      "Analysis",
+      "Analytical",
+      "Analyze"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektin",
+      "Architekturen",
+      "Archive"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungsdaten",
+      "Beziehungsebene"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählers",
+      "Erzählstil",
+      "Erzählung"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "isola": [
+      "Isolate",
+      "Isolated",
+      "Isolation",
+      "Isolationist"
+    ],
+    "monit": [
+      "MONITOR",
+      "MONITORING",
+      "Monitor",
+      "Monitoring"
+    ],
+    "obser": [
+      "OBSERVATION",
+      "Observation",
+      "Observe",
+      "Observing"
+    ],
+    "parad": [
+      "Paradigm",
+      "Paradoxical",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "proto": [
+      "PROTOCOL",
+      "Protocol",
+      "Protokoll",
+      "Protokolle"
+    ],
+    "verle": [
+      "Verletzliche",
+      "Verletzung",
+      "Verleugneten",
+      "Verleugnung"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "corre": [
+      "CORRELATE",
+      "CORRELATION",
+      "Correlates"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disso": [
+      "Dissociative",
+      "Dissonanzen",
+      "Dissoziation"
+    ],
+    "energ": [
+      "Energie",
+      "Energien",
+      "Energy"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionieren"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle",
+      "Gefühlige"
+    ],
+    "gleic": [
+      "Gleichgewicht",
+      "Gleichgewichts",
+      "Gleichgewichtszustände"
+    ],
+    "herau": [
+      "Herausforderer",
+      "Herausforderung",
+      "Herausforderungen"
+    ],
+    "initi": [
+      "INITIAL",
+      "INITIATION",
+      "Initiate"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "CORE",
+      "Core"
+    ],
+    [
+      "CORE",
+      "CoreWorld"
+    ],
+    [
+      "CORE",
+      "CoreWorlds"
+    ],
+    [
+      "Core",
+      "CoreWorld"
+    ],
+    [
+      "Core",
+      "CoreWorlds"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Form",
+      "Formeln"
+    ],
+    [
+      "Form",
+      "Conforming"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsflüsse"
+    ],
+    [
+      "Hand",
+      "Handeln"
+    ],
+    [
+      "Hand",
+      "Aushandeln"
+    ],
+    [
+      "Herz",
+      "Herzens"
+    ],
+    [
+      "Jede",
+      "Jeden"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ]
+  ]
+}

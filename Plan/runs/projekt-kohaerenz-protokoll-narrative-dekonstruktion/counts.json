@@ -1,0 +1,465 @@
+{
+  "document": "projekt-kohaerenz-protokoll-narrative-dekonstruktion",
+  "drive_id": "19-ax4FA2YTkEVj1k99otyL8F1TFUlX4UwHOYwtrppJc",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 8,
+      "lines": [
+        74,
+        75,
+        93,
+        118,
+        120,
+        141,
+        207
+      ]
+    },
+    "Morgrath": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        74,
+        93,
+        118,
+        120,
+        174,
+        209
+      ]
+    },
+    "Valerius": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        97,
+        101,
+        197
+      ]
+    },
+    "Gorn": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        144
+      ]
+    },
+    "Aegis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        66,
+        70,
+        140
+      ]
+    },
+    "Fundament": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        70,
+        87
+      ]
+    },
+    "Herz von Sol": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Bruchpunkt": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        47,
+        105,
+        109,
+        128,
+        136,
+        140,
+        189,
+        220
+      ]
+    },
+    "Risse im Fundament": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        87
+      ]
+    },
+    "Story-Manager": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Pfad des Schicksals": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Protokoll": {
+      "n": 3,
+      "n_including_compounds": 8,
+      "lines": [
+        13,
+        18,
+        27,
+        43,
+        62,
+        78,
+        217,
+        224
+      ]
+    },
+    "Kohärenz-Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Projekt Kohärenz-Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        217
+      ]
+    },
+    "Skript": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        105,
+        141,
+        145,
+        198
+      ]
+    },
+    "Autor": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        174,
+        222
+      ]
+    },
+    "Mentor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        97,
+        174
+      ]
+    },
+    "Tropen": {
+      "n": 7,
+      "n_including_compounds": 11,
+      "lines": [
+        56,
+        60,
+        78,
+        124,
+        128,
+        132,
+        136,
+        220,
+        224
+      ]
+    },
+    "Tropus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        128,
+        172
+      ]
+    },
+    "Plot Armor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        144
+      ]
+    },
+    "Der Auserwählte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        141
+      ]
+    },
+    "Der Dunkle Lord": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Die Trainings-Montage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Das starre Magiesystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Verbotenes Wissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Das MacGuffin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Finale Schlacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Das Schicksal ist unausweichlich": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "stoischen Krieger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Tropen-Dekonstruktionsmatrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "unvermeidlichen Überraschung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        183,
+        221
+      ]
+    },
+    "narrativen Grammatik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "narrative Bruchlinien": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Dreh- und Angelpunkts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Metafiktion": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        45,
+        93,
+        219
+      ]
+    },
+    "Dekonstruktion": {
+      "n": 20,
+      "n_including_compounds": 21,
+      "lines": [
+        27,
+        47,
+        62,
+        103,
+        109,
+        124,
+        128,
+        132,
+        136,
+        140,
+        170,
+        172,
+        199,
+        217,
+        219,
+        222
+      ]
+    },
+    "Rekonstruktion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        166,
+        172,
+        222
+      ]
+    },
+    "Formalismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        219
+      ]
+    },
+    "Strukturalismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        97,
+        219
+      ]
+    },
+    "Poststrukturalismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "semantisches Gleiten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        91
+      ]
+    },
+    "Metaphysik der Präsenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "binäre Opposition": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        75,
+        76,
+        140
+      ]
+    },
+    "binären Oppositionen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        47,
+        66,
+        70
+      ]
+    },
+    "gewaltsamen Hierarchie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Derrida'schen Dekonstruktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "narrativen Nihilismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        166,
+        170
+      ]
+    },
+    "Foreshadowing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Vorahnung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        189,
+        193,
+        221
+      ]
+    },
+    "vierten Wand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Allegorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        101
+      ]
+    },
+    "Tropen-Subversion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    }
+  }
+}

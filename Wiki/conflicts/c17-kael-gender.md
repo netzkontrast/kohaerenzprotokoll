@@ -142,3 +142,11 @@ Stands as one more position in the record: a proposal of 2025-11-03 that names t
 Its labelled core sentence is „die Reise eines fragmentierten Mannes, Kael“ ^[narrative-kernentwicklung-aegis-und-system-kael.md:L54]; the sentence goes on to call him the one whom AEGIS made in the image of its own trauma. The dossier does not remark on a gender or on any other family of documents writing it otherwise.
 
 Where it stands: a male Kael in a planning dossier, to be entered beside the existing rows of C17, which stays open.
+
+## 2026-10-14 — `canonical-narrative-architecture-for-kohaerenz-protokoll`, 2025-11-03, the canonical-architecture report
+
+**The canonical-architecture report declares Kael the male host of System Kael, on the evidence of male pronouns in cited documents.**
+
+It states the contradiction: „A core contradiction exists within prior documentation regarding the protagonist's definitive name and gender“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L23]. It declares: „The canonical resolution is hereby established: The protagonist is a male entity named“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L27] Kael. Its evidence is that the name and male pronouns are „consistently applied to the protagonist and his key alters—including Lex, Rhys, Nyx, Alex, and Moros—across pivotal documents such as“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L33]. The Heroine's Journey, it says, is „not a literal descriptor of his gender“ ^[canonical-narrative-architecture-for-kohaerenz-protokoll.md:L35].
+
+Where it stands in the record's own terms: a report that calls itself canonical; its own claim, recorded, not applied, and it settles nothing in the record.

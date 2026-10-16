@@ -1,0 +1,105 @@
+# every number the census and note state
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "AEGIS"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            60
+
+`AEGIS` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#31]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Kernphilosophie"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`Kernphilosophie` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#5]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Detaillierter Kritikpunkt"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Detaillierter Kritikpunkt` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#11]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Wissenschaftlicher Kontext"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Wissenschaftlicher Kontext` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#11]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "P-INIT"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`P-INIT` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#10]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "P-ENTROPY"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            9
+
+`P-ENTROPY` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#8]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "No-Trust / No-Control"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`No-Trust / No-Control` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#2]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Ontologische Exklusion"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Ontologische Exklusion` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#5]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Passive Nicht-Integration"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Passive Nicht-Integration` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#1]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "AFP v1.4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AFP v1.4` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#1]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "ZTEM"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`ZTEM` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#1]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "RTSV"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`RTSV` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#3]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "SVI"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`SVI` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#3]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#0]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#0]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#0]
+$ python3 scripts/read.py aegis-protokolle-kritische-evaluation-neukonzeption --count "BFT"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            7
+
+`BFT` ^[aegis-protokolle-kritische-evaluation-neukonzeption.md:#2]
+stance_marker_count 22 = 11 (Detaillierter Kritikpunkt) + 11 (Wissenschaftlicher Kontext), counts above
+thirteen sketches at L15: AFP v1.4, ZTEM, RTSV, BPoF, EIC, RCV, SVI, SIS, OA, RT, IFA, CVE, ETT (counted by eye from L15)

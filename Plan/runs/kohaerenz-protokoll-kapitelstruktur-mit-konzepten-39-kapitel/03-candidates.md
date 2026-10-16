@@ -1,0 +1,113 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a three-part outline of 39 chapters. Under every chapter it sets three labelled lines: Erzähler, AEGIS and Fundamentales Konzept. The first two speak about the novel's world; the third names a psychological or systems concept the chapter applies. The concepts go under the lens heading; the world names, the document's own labels and the chapter titles go in the main list. Chapter numbers are left to the count of Kapitel.
+
+## Main list
+
+- Kapitel
+- Erzähler
+- AEGIS
+- Fundamentales Konzept
+- Kael
+- Juna
+- M
+- Kael/M
+- Co₁-Welt
+- Co₁
+- McL
+- Ly
+- Ly-Welt
+- B-Welt
+- B-Welt-Simulation
+- Potentialmeer
+- Fragment Alpha
+- Alpha
+- Logik-Fragments
+- Controlled Fragmentation Protocol
+- K-J
+- K-J Vektor-Signatur
+- alternatives Kohärenzprotokoll
+- Kael-Self\_Integrator
+- Mosaik-Herz
+- Mosaik-Herzens
+- Inner Garden
+- Jetzt-Raum
+- Stress-Test
+- Delta-7
+- Kontrollvektoren
+- Kern-Trauma-Fragments
+- T-734
+- Kern-Selbst
+- Schatten
+- Wächterin
+- Wächter
+- Ordnungsinstanz
+- Heldinnenreise
+- Heldenreise
+- Zyklischer Erzählstil
+- Cache-Konflikte
+- Simulationsgrenze
+- Realitätsillusion
+- Instrumente der Ordnung
+- Der Riss im Spiegel
+- Die Festung der Logik
+- Echos im Fundament
+- Der Glanz der Oberfläche
+- Der Kollaps der Formeln
+- Die Resonanz der Tiefe
+- Der Frieden im Spiegel
+- Die Synthese der Welten
+- Die angewandte Harmonie
+- Das Mosaik des Selbst
+- Die Stille der Mitte
+- Der Tanz im Garten
+- Der Bruch des Gleichgewichts
+- Regression zur Festung
+- Begegnung im Schattenreich
+- Muster im Chaos erkennen
+- Die Stimme der Weisheit
+- Der Alltag der Fragmente
+- Sabotage im System
+- Spiel im Möglichkeitsraum
+- Der Blick in den Abgrund
+- Die Entschlüsselung des Wächters
+- Das Echo der Kernwunde
+- Die Wahl der Konfrontation
+- Infiltration des Labyrinths
+- Die Paradoxien der Wächter
+- Die Wahrheit im Kern
+- Metamorphose der Identität
+- Die Klarheit jenseits der Logik
+- Das Brechen der Fesseln
+- Die Geburt des Neuen
+- Der Fall des Titanen
+- Exodus ins Potential
+- Resonanz der Verbundenen
+- Die Freiheit des Seins
+- Wellen der Ordnung
+- Der unendliche Horizont
+- Echo der Kohärenz
+- Funktionale Multiplizität
+
+## lens
+
+- Internal Family Systems (IFS)
+- Monstrous Moonshine Analogie
+- Dialektik
+- Verkörperung (Embodiment)
+- Homöostase
+- Emergenz
+- Autopoiesis
+- Entropie
+- Negentropie
+- Posttraumatisches Wachstum (PTG)
+- Holismus
+- Reduktionismus
+- Epistemologie
+- Ontologie
+- Simulationstheorie
+- Systemtheorie
+- Narrative Therapie
+- Traumabindung
+- Cache Kohärenz
+- Achtsamkeit

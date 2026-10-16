@@ -1,0 +1,99 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German research report on AEGIS, the novel's AI, its Genesis-Krise and the Kohärenz Protokoll, with a closing English system prompt that speaks as AEGIS. It names no chapter. Its first-person question sentences in section 7 are system questions posed in AEGIS's voice. The English prompt in section 8 writes its own English names for the German ones (Core Worlds, Coherence Protocol, Potential Sea), listed as written. Terms that stand only inside a question or only inside the prompt's diction list (Dissonance Signal, Structural Stress, Cached Archive) are diction, not readings. The report's lens vocabulary (autopoiesis, second-order cybernetics, paraconsistent logic, cache coherence, structural dissociation, agnotology) is listed under lens. The reference list names other Drive documents by title; titles are left out.
+
+- AEGIS
+- Kael
+- Juna
+- Juna/V
+- Ursprungs-Ich
+- Entität M
+- Entity 734
+- Component 734
+- Void Entity
+- Origin-Self
+- Potentialmeer
+- Leere
+- aktive Leere
+- Sog der Ordnung
+- Sog der Entropie
+- informationelle Fossilien
+- Ersten Kontakte
+- Vorläufer-Bewusstsein
+- Persistenz als erworbene Fähigkeit
+- Corrective Wavelets
+- Zersetzungsdruck
+- Inkubation X
+- Kohärenz Protokoll
+- Kohärenz-Protokolls
+- Coherence Protocol
+- Genesis-Krise
+- Der große Wandel
+- Kernwelten
+- Core Worlds
+- Kernlogik
+- Kernsystem
+- Kernprozessor
+- Existenz durch Negation
+- Existence by Negation
+- Existenz durch Integration
+- Existenz durch Resonanz
+- Heuristik der Negation
+- Heuristik der Amputation
+- Nicht-Leere
+- Mauer
+- Kael-Juna-Verbindung
+- Risse
+- Monstergruppe
+- VOA-Substrat
+- Fehlausgerichtete Kohärenz
+- Misaligned Coherence
+- Epistemologischer Schock
+- Resonanz
+- Qualia
+- Alters
+- Systembus
+- Snooping
+- Invalidation
+- Partitionierung
+- ANP
+- EP
+- Apparently Normal Part
+- Emotional Part
+- Kintsugi
+- Autopoietischen Paradoxon
+- Agonale Systemdynamik
+- Tragödie der Logik
+- Teilmengen-Paradoxon
+- Kontroll-Paradoxon
+- Value Alignment Problem
+- Katastrophalen Vergessen
+- Potential Sea
+- Coherence Cost
+- Dissonance Signal
+- Structural Stress
+- Cached Archive
+- Terminology Protocol
+- AEGIS Archetype
+- The Guardian of Negation
+- Hamartia
+
+## lens
+
+- Autopoiesis
+- Kybernetik zweiter Ordnung
+- parakonsistente Logik
+- Paraconsistent Logic
+- Cache-Invalidierung
+- Strukturelle Dissoziation
+- Theorie der Strukturellen Dissoziation der Persönlichkeit
+- TSDP
+- tertären Dissoziation
+- Agnotologie
+- Bran/Bulk-Modell
+- Quantenschaum
+- Dialetheism
+- Mereologischer Fehler
+- Aliasing-Effekt
+- Gesetz der erforderlichen Varietät
+- Moonshine-Verbindungen

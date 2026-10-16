@@ -1,0 +1,148 @@
+# counts for 117 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           144 word   151 in   [11, 17, 21, 30, 36, 45]
+                                    1      as AEGIS-Paradoxons
+                                    1      as AEGIS-Paradoxon
+                                    1      as AEGIS-Szenario
+                                    1      as AEGIS-Prozesstyp
+  Kael                             31 word    36 in   [17, 21, 36, 63, 72, 162]
+                                    2      as Kaels
+                                    2      as Kael-Struktur
+                                    1      as Kael-Entstehung
+  Genesis-Krise                    18 word    18 in   [11, 17, 19, 21, 27, 36]
+  Leere                            35 word    36 in   [17, 36, 45, 49, 54, 72]
+  Ursprungs-Ich                    19 word    54 in   [17, 36, 45, 54, 63, 90]  <-- substring
+                                   35      as Ursprungs-Ichs
+  Ursprungs-Ichs                   35 word    35 in   [17, 36, 45, 54, 90, 99]
+  Kohärenz Protokoll               18 word    21 in   [17, 63, 72, 117, 135, 153]
+  Kohärenz Protokolls               3 word     3 in   [17, 541, 592]
+  Fehlausgerichtete Kohärenz        5 word     5 in   [17, 90, 189, 476, 660]
+  Fehlausgerichteten Kohärenz       1 word     1 in   [599]
+  Kohärenz durch Entfremdung        3 word     3 in   [17, 45, 599]
+  AEGIS-Paradoxon                   1 word     2 in   [36, 63]
+                                    1      as AEGIS-Paradoxons
+  Paradoxon                        23 word    30 in   [17, 36, 45, 63, 72, 81]
+                                    2      as Paradoxons
+                                    1      as paradoxon-getriebene
+                                    1      as Paradoxon-getriebene
+                                    1      as Paradoxon-getrieben
+  Kernparadoxon                     2 word     2 in   [21, 476]
+  latente Echos                     1 word     1 in   [63]
+  latenten Echos                    4 word     4 in   [162, 586, 600, 607]
+  Echos                            16 word    16 in   [63, 144, 162, 405, 409, 485]
+  Entität                          36 word    41 in   [21, 36, 45, 54, 81, 107]
+                                    5      as Entitäten
+  Nichts Rauschen                   2 word     2 in   [45, 596]
+  Trauma-Zeit                       3 word     3 in   [62, 485, 530]
+  traumatische Resonanz             4 word     4 in   [144, 171, 600, 640]
+  traumatischen Resonanz            8 word     8 in   [63, 81, 216, 315, 530, 582]
+  Kernwelten                        1 word     1 in   [612]
+  Fragmentierung                   59 word    64 in   [17, 36, 45, 54, 63, 72]
+                                    3      as Fragmentierungsprozess
+                                    1      as Fragmentierungsmechanismus
+  Prosa-Auftrag                     4 word     7 in   [17, 30, 449, 584, 588, 656]
+                                    3      as Prosa-Auftrags
+  Prosa-Auftrags                    3 word     3 in   [17, 30, 584]
+  Prosa-Plan                        5 word     6 in   [17, 29, 449, 514, 586, 656]
+                                    1      as Prosa-Plans
+  NZT-Modus                         1 word     1 in   [514]
+  Potentialmeer                     1 word     1 in   [607]
+  Leere/Potentialmeer               1 word     1 in   [607]
+  Grenzwacht                        1 word     1 in   [597]
+  Kael-Struktur                     2 word     2 in   [562, 592]
+  Reboot                            1 word     3 in   [612, 628]  <-- substring
+                                    1      as Reboots
+  Partitionierung                   4 word     4 in   [117, 612, 628]
+  Sharding                          1 word     1 in   [612]
+  Kohärenz-Metriken                 1 word     1 in   [599]
+  autopoietische Isolation          1 word     1 in   [599]
+  Alienationsparadox                1 word     1 in   [422]
+  Kontrollinstanz                   1 word     1 in   [434]
+  Existenzphilosophie               5 word     5 in   [40, 411, 466, 550, 620]
+  Phänomenologie                    9 word     9 in   [49, 412, 484, 485, 511, 512]
+  Traumatheorie                     5 word     5 in   [58, 405, 484, 485, 540]
+  Strukturelle Dissoziation         2 word     2 in   [58, 484]
+  Strukturellen Dissoziation        1 word     1 in   [62]
+  TSDP                              5 word     5 in   [58, 62, 405, 485, 622]
+  ANP                               4 word     4 in   [62, 63, 405]
+  EP                                4 word     4 in   [62, 63, 405]
+  Dissociative Identity Disorder    4 word     4 in   [433, 484, 677]
+  DID                               3 word     3 in   [433, 484, 485]
+  Systemtheorie                     7 word     7 in   [27, 67, 406, 475, 476, 611]
+  Autopoiesis                       8 word     8 in   [67, 71, 406, 475, 677]
+  Feedback Loops                    3 word     3 in   [67, 71, 475]
+  Informationstheorie               3 word     3 in   [76, 502, 503]
+  Value Alignment Problem           4 word     4 in   [85, 89, 529, 677]
+  Kontrollproblem                   3 word     3 in   [85, 89, 476]
+  KI-Ethik                          4 word     4 in   [85, 407, 475, 476]
+  Philosophie des Geistes           5 word     5 in   [94, 408, 457, 677]
+  Qualia                           14 word    14 in   [54, 94, 98, 99, 333, 387]
+  Kosmischer Horror                 7 word     7 in   [103, 413, 466, 467, 511, 528]
+  Kosmischen Horrors                3 word     3 in   [378, 527, 550]
+  Cosmic Horror                     3 word     3 in   [30, 512, 629]
+  Psychologischer Horror            6 word     6 in   [373, 432, 511, 530, 552, 629]
+  Psychologischen Horror            1 word     1 in   [512]
+  Hard Science-Fiction              6 word     6 in   [30, 112, 414, 511, 628, 663]
+  Hard SF                           7 word    11 in   [189, 279, 387, 512, 527, 529]
+  Ontologie                         7 word     8 in   [130, 134, 274, 416, 466, 502]
+                                    1      as Ontologien
+  Informationsontologie             5 word     5 in   [130, 134, 265, 467]
+  Digitale Ontologie                2 word     2 in   [134, 274]
+  Sozialontologie                   2 word     2 in   [391, 443]
+  Inforg                            2 word     3 in   [135, 269, 270]
+                                    1      as Inforgs
+  Inforgs                           1 word     1 in   [269]
+  Infosphäre                        3 word     3 in   [135, 269, 270]
+  Resonanztheorie                   5 word     5 in   [139, 417, 484, 485, 622]
+  Kybernetik                       13 word    13 in   [148, 152, 153, 418, 475, 476]
+                                    1      as kybernetik-zweiter-ordnung
+  Gedächtnistheorie                 5 word     5 in   [157, 409, 484, 485, 530]
+  Bewusstseinsphilosophie           3 word     3 in   [166, 419, 457]
+  Minimales Selbst                  5 word     5 in   [166, 419, 457, 458]
+  minimalen Selbst                  1 word     1 in   [540]
+  Philosophie der Negation          5 word     5 in   [175, 410, 475, 476, 502]
+  Tragödientheorie                  4 word     4 in   [184, 420, 511, 512]
+  Hamartia                          7 word     7 in   [184, 188, 189, 420, 529]
+  Hybris                            4 word     4 in   [184, 188, 189, 420]
+  Katharsis                         3 word     3 in   [184, 188, 420]
+  Psychologie der Angst und Paranoia    2 word     2 in   [193, 475]
+  Theorie der Verkörperung          4 word     4 in   [202, 422, 457, 511]
+  Embodiment                        6 word     6 in   [202, 422, 457, 677]
+  Sprachphilosophie                 4 word     4 in   [211, 423, 502, 503]
+  Komplexitätstheorie               3 word     3 in   [220, 424, 493]
+  Emergenz                         16 word    17 in   [67, 71, 224, 229, 406, 424]
+                                    1      as Emergenz-
+  Chaos Theorie                     3 word     3 in   [238, 426, 493]
+  Schmetterlingseffekt              4 word     4 in   [238, 242, 426, 493]
+  Selbstorganisation                7 word     7 in   [152, 233, 247, 427, 493, 494]
+  Netzwerktheorie                   3 word     3 in   [256, 494, 623]
+  Network Theory                    3 word     3 in   [428, 493, 677]
+  Abwehrmechanismen                 4 word     4 in   [283, 429, 484, 485]
+  Das Abjekte                       6 word     6 in   [292, 430, 466, 467, 512, 528]
+  Rekursive Selbstverbesserung      2 word     2 in   [301, 435]
+  Katastrophales Vergessen          3 word     3 in   [310, 436, 494]
+  Computational Theory of Mind      4 word     4 in   [328, 438, 457, 677]
+  CTM                               6 word     6 in   [328, 333, 438, 457, 458, 677]
+  IIT                               4 word     4 in   [319, 323, 437, 457]
+  GWT                               4 word     4 in   [319, 323, 437, 457]
+  Selbstmodifikation                7 word     7 in   [306, 337, 342, 435, 439, 494]
+  Persönliche Identität             3 word     3 in   [346, 440, 457]
+  Psychologische Kontinuität        4 word     4 in   [346, 440, 457, 458]
+  Epistemologie der Ignoranz        3 word     3 in   [355, 441, 502]
+  Agnotologie                       3 word     3 in   [355, 503, 529]
+  Agnotology                        5 word     6 in   [441, 502, 677]
+                                    1      as Agnotology-Ch-1-Proctor-2008
+  Unzuverlässiger Erzähler          4 word     4 in   [364, 431, 511, 512]
+  Schwarzes Loch Informationsparadoxon    2 word     2 in   [382, 442]
+  Trauma Bonding                    4 word     4 in   [434, 511, 512, 677]
+  Bad Faith                         3 word     3 in   [44, 45, 677]
+  Epoché                            2 word     2 in   [53, 412]
+  Intelligenzexplosion              2 word     2 in   [305, 435]
+  Phasenübergang                    1 word     1 in   [494]
+  Trigger                           8 word     8 in   [58, 62, 189, 405, 426, 462]
+                                    1      as triggert
+  Reinszenierung                    3 word     4 in   [58, 62, 405, 484]
+                                    1      as Reinszenierungen

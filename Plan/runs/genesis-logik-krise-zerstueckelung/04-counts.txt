@@ -1,0 +1,59 @@
+# counts for 46 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Genesis                          20 word    20 in   [11, 13, 17, 21, 25, 37]
+  Funken Kohärenz                   1 word     1 in   [17]
+  Funke Kohärenz                    1 word     1 in   [161]
+  Nichts Rauschen                  11 word    12 in   [17, 31, 69, 73, 85, 89]
+  AEGIS                            78 word    78 in   [17, 25, 41, 43, 47, 51]
+  Kael                             22 word    22 in   [17, 25, 55, 59, 69, 73]
+  Komponente 734                   14 word    14 in   [45, 47, 51, 65, 73, 77]
+  Überwelt                         12 word    12 in   [53, 81, 101, 103, 115, 117]
+  Echo                              7 word     9 in   [39, 43, 47, 77, 99, 135]
+                                    1      as Echos
+  Anomalie                         20 word    21 in   [47, 49, 51, 53, 69, 73]
+                                    1      as Anomalien
+  Externe Anomalie/Entität          1 word     1 in   [105]
+  Kohärenz Protokoll                1 word     1 in   [57]
+  Zerstückelung                    12 word    12 in   [59, 85, 111, 149, 151, 157]
+  Fragmentierung                    6 word     6 in   [11, 17, 55, 151, 169, 199]
+  Ich bin                           6 word     6 in   [31, 43, 65, 95, 99, 157]
+  Ich erwacht                       2 word     2 in   [53, 139]
+  Ich bin die Abwehr des Nicht-Seins    2 word     2 in   [43, 95]
+  Resonanz                         14 word    24 in   [31, 33, 35, 39, 51, 53]
+                                    4      as Resonanzfähigkeit
+                                    2      as Resonanzen
+                                    2      as Resonanzfrequenz
+                                    1      as Resonanzsignale
+  Dissonanz                         4 word     4 in   [35, 47, 135, 147]
+  Klick                             1 word     1 in   [43]
+  Mosaik aus Schmerz und Verlangen    2 word     2 in   [59, 111]
+  Mosaiks                           1 word     1 in   [59]
+  Potentialität                     4 word     4 in   [17, 25, 59, 69]
+  doppelten Verlusts                1 word     1 in   [59]
+  Amalgam aus Trauma und fragmentierter Sehnsucht    2 word     2 in   [85, 169]
+  strukturelle Narbe                3 word     3 in   [35, 85, 169]
+  organische Terminologie           1 word     1 in   [39]
+  Herkunfts-Echos                   1 word     1 in   [39]
+  Logikpakete                       1 word     2 in   [47, 183]
+                                    1      as Logikpaketen
+  Systemdiagnose                    2 word     2 in   [81, 165]
+  Unmodellierbare                   3 word     4 in   [81, 103, 119, 129]
+                                    1      as Unmodellierbaren
+  Rückkopplungsschleife             2 word     2 in   [145, 147]
+  notwendige Trennung               1 word     1 in   [151]
+  interne Werkzeuge                 2 word     2 in   [103, 117]
+  Systemresonanz                    1 word     1 in   [43]
+  Agency                            1 word     1 in   [143]
+  Rebellion                         3 word     3 in   [53, 147, 157]
+  Existenzialismus                  1 word     1 in   [155]
+  Philosophie des Geistes/Bewusstseins    1 word     1 in   [159]
+  Systemkritik                      1 word     1 in   [163]
+  Traumatheorie                     2 word     2 in   [167, 169]
+  Konstruktivismus                  1 word     1 in   [117]
+  Qualia                            1 word     1 in   [161]
+  posttraumatisches Wachstum        1 word     1 in   [169]
+  hard problem of consciousness     1 word     1 in   [161]
+  Die Landkarte ist nicht das Gebiet    1 word     1 in   [127]

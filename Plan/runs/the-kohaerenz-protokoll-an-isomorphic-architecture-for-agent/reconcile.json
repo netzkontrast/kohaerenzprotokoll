@@ -1,0 +1,159 @@
+{
+  "document": "the-kohaerenz-protokoll-an-isomorphic-architecture-for-agent",
+  "drive_id": "1KTOzz0YotlBS78uZotiCjF41B9i_uuyyXURhBvIIY0E",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-487/brief.md, 2026-10-14; the document was first held by the privacy screen on the word shadow and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 60,
+    "decisions": 62,
+    "decided_by_lookup": 53,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English white paper presenting NovelOS, a multi-agent fiction framework modelled as an isomorphism of the story: its new surfaces are its software terms (NovelOS, Epistemic Isolation, Environment Loop, the schema fields) and the borrowed concepts; what it restates of AEGIS, Kael, Juna, the Moonshine-Link, the Nichts Rauschen, the Risse, TSDP, the Genesis crisis and the two kernels went on existing pages. Its one chapter mention (L128) is a schema example, not a chapter plan.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        34,
+        74
+      ],
+      "attribution": "",
+      "note": "AEGIS as the embodiment of the Coherence Kernel in a software model"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        24,
+        116,
+        118
+      ],
+      "attribution": "",
+      "note": "Genesis Trauma and the Genesis Crisis event schema"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "Juna only in the Kael-Juna/V relation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        40,
+        54,
+        185
+      ],
+      "attribution": "",
+      "note": "System Kael as a character schema modelled on TSDP"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        21
+      ],
+      "attribution": "",
+      "note": "the Coherence Kernel as the force of order"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "the Collapse Kernel as entropy and the source of objective truth"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        80
+      ],
+      "attribution": "",
+      "note": "one sample intention of the System Kael schema"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        22
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as the Collapse Kernel's sea of potentiality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        66
+      ],
+      "attribution": "",
+      "note": "the Risse in two schema lines"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        22,
+        185
+      ],
+      "attribution": "",
+      "note": "TSDP as the psychological side of the isomorphism"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`System Kael` read on kael; `The Genesis Crisis` and `Genesis Trauma` read on genesis; K₁ and K₀ read on the kernel pages; `Logos-Prime` names KW1, an occurrence, not LogOS; `Kohärenz` the title; `Simulation` the general sense; no person's name written",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 24,
+      "decision": "reading",
+      "why": "AEGIS's Genesis Trauma in the mapping table; read on genesis"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 22,
+      "decision": "reading",
+      "why": "the psychological side modelled on TSDP; read on tsdp"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 195,
+      "decision": "occurrence",
+      "why": "complex-systems simulation in general, an application of the framework"
+    }
+  ],
+  "not_promoted": [
+    "NovelOS, Epistemic Isolation, Environment Loop, the schema field names, Grand Argument Story, Existence via Negation, Operational Closure, Logos-Prime, System Architect, and the borrowed concepts"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

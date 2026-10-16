@@ -1,0 +1,380 @@
+{
+  "document": "kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md",
+  "drive_id": "1o7A5djeqAQCbeguESp3sOqHVAIyHWThA",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        21
+      ]
+    },
+    "Alter": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        19,
+        21,
+        27,
+        32
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        23,
+        25,
+        27
+      ]
+    },
+    "AEGIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        21
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "System-Telemetrie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Storyform A POV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Storyform B POV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Storyforms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "POV-Alternation pro Kapitel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Dual-POV": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        32
+      ]
+    },
+    "Multiplizitäts-Schleier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Modi": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Echos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Drifts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Lücken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Fragment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "CFP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Juna seeding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Bilanz-Anomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "anomale Temperatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "langsam fallender Staub": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Telefon-Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Resonanzbruch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Schrein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Mosaik-Ahnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "taktische Polyphonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "praktizierter Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Garten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Witness-Funktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Alter-Surface-Timeline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Juna-Seeding-Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Pacing-Profil": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        32
+      ]
+    },
+    "Foreshadowing-Architektur": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        32
+      ]
+    },
+    "Akt I": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        25
+      ]
+    },
+    "Akt III": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Kap 1": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        23,
+        25
+      ]
+    },
+    "Kap 2": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "Kap 3": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        25
+      ]
+    },
+    "Kap 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kap 11": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Kap 13": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Kap 23": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Kap 27": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Kap 33": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25
+      ]
+    },
+    "Kapitel 13": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    }
+  }
+}

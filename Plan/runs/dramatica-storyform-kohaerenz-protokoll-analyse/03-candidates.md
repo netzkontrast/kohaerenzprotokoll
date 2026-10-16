@@ -1,0 +1,84 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German analysis report (with English Dramatica vocabulary) that applies the Dramatica storyform, the Dual Kernel Theory and TSDP to the project; its reference list (L159 to L205) is cited works and links, whose titles are left off the list. Quotation marks around Story Mind, System Mind, Moonshine Link and Kohärenz Protokoll mark the document's own terms. The escaped subscripts appear as K\_0 and K\_1 in the export; the subscripted form is never written. Persons named only as authors or discoverers are not listed.
+
+- Kael
+- AEGIS
+- Juna
+- Juna/V
+- System Kael
+- System AEGIS
+- Die Anomalie
+- Das Fundament
+- Fundament
+- Moonshine Link
+- Moonshine-Link
+- K\_0
+- K\_1
+- Kernel 1
+- Kernel 0
+- Risse
+- Nothing Noise
+- Nichts Rauschen
+- Exklusionäre Ordnung
+- Kohärenz Protokoll
+- Kohärenz-Prime
+- Lex
+- Nyx
+- System Mind
+- Story Mind
+- Existenz-Matrizen
+- Mosaik
+- Gödel-Gambit
+- Maximal-Plotter
+- Dual Kernel Theory
+- DKT
+- Isomorphen Architektur
+- Isomorphie
+- Seltsamer Attraktor
+- Monster-Gruppe
+- Monstrous Moonshine
+- Grand Argument Story
+- Funktionale Multiplizität
+- Interne Helfer
+- Trauma Time
+- Maxwellscher Dämon
+- Landauer-Prinzips
+- Edge of Coherence
+
+## lens
+
+- Dramatica
+- Storyform
+- Throughline
+- Main Character
+- Influence Character
+- Overall Story
+- Objective Story
+- Relationship Story
+- Diagonalen Opposition
+- Domain
+- Physics
+- Psychology
+- Universe
+- Fixed Attitude
+- Change Resolve
+- Control
+- Uncontrolled
+- Faith
+- Disbelief
+- Signposts
+- TSDP
+- ANP
+- EP
+- Tertiäre Dissoziation
+- Fusion
+- Parakonsistente Logik
+- Dialetheismus
+- Quantenverschränkung
+- Prehension
+- Mutuelle Information
+- Qualia
+- Gnosis
+- Episteme
+- Deus ex Machina

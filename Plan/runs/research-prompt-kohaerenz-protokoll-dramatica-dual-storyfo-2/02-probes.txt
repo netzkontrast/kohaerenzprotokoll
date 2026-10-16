@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      91
+  backslash escapes      328
+  typographic marks      299
+  ascii quotes           218
+
+# inflection families -- one term, several surfaces
+  struk    Struktur, Strukturangaben, Strukturaussage, Strukturelle, Strukturen, Strukturierte, Strukturierter, Strukturskelett, Strukturtheorie
+  gegen    GEGEN, Gegenanfrage, Gegenfolie, Gegenläufig, Gegenläufigkeit, Gegenläufigkeits, Gegenschule, Gegenüberstellung
+  vergl    Vergleich, Vergleichs, Vergleichsfall, Vergleichsfälle, Vergleichsfällen, Vergleichsmatrix, Vergleichsmaßstab
+  metho    METHODEN, Method, Methode, Methoden, Methodennamen, Methodology
+  origi    Original, Originalform, Originalmaterial, Originaltext, Originaltexte, Originalwerk
+  proje    Projekt, Projektion, Projektionen, Projektions, Projektnotizen, Projekts
+  story    STORYFORM, Story, Storyform, Storyforms, Storyweaver
+  analy    Analyse, Analysen, Analyst, Analyze
+  chara    Character, Charakter, Charakterisiere, Charakterisierung
+  check    Check, Checkliste, Checkpoint, Checkpoints
+  erwei    Erweitern, Erweiterte, Erweiterung, Erweiterungen
+  falsi    Falsification, Falsifikation, Falsifikations, Falsifizierbarkeits
+  grund    Grund, Grundkonflikt, Grundlage, Grundvoraussetzung
+  konze    Konzept, Konzepte, Konzeptpapier, Konzeptpapiere
+  refle    Reflection, Reflektions, Reflexion, Reflexions
+  schlu    Schluss, Schlussfolgerung, Schlussfolgerungen, Schlusswort
+  schri    Schriften, Schritt, Schritte, Schrittes
+  stütz    Stütze, Stützen, Stützt, Stützung
+  achse    Achse, Achsen, Achsenwahl
+  anwen    Anwendung, Anwendungen, Anwendungs
+  autor    Autor, Autorität, Autors
+  beleg    Beleg, Belege, Belegen
+  bewer    Bewertung, Bewertungen, Bewertungs
+  block    BLOCK, BLOCKS, Block
+  datie    Datierung, Datierungen, Datierungs
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Fakten
+  Akte < Charakter
+  Akte < Charakterisiere
+  Akte < Charakterisierung
+  Anti < Antithese
+  Bach < Beobachter
+  Bach < Beobachtung
+  Dies < Diese
+  Dies < Dieser
+  Eine < Deine
+  Eine < Keine
+  Ende < DENKENDE
+  Ende < Folgende
+  Ende < Verwende
+  Ende < Bestehende
+  Ende < Endergebnis
+  Erst < Erstelle
+  Erst < Erstellt
+  Erst < Erstklassig
+  Erst < Verständnis

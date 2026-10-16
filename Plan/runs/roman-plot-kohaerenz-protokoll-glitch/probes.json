@@ -1,0 +1,235 @@
+{
+  "document": "roman-plot-kohaerenz-protokoll-glitch",
+  "drive_id": "16bJG_2JmsijYFsGxO9jvAHRxfg-qBaZQJyyDe-LWaFw",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 60,
+  "backslash_escapes": 30,
+  "typographic_marks": 103,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "quant": [
+      "Quanten",
+      "Quantencomputers",
+      "Quanteninterferenz",
+      "Quantenmechanik",
+      "Quantenphänomene",
+      "Quantenphänomens",
+      "Quantenpotentialität",
+      "Quantenrealität",
+      "Quantensimulation",
+      "Quantum"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationshypothese",
+      "Simultanagnosia",
+      "Simultanagnosie"
+    ],
+    "syste": [
+      "System",
+      "Systemcodes",
+      "Systeme",
+      "Systems",
+      "Systemzerfall"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsakte",
+      "Bewusstseinsstrom"
+    ],
+    "daten": [
+      "Datenanomalie",
+      "Datenkern",
+      "Datenknoten",
+      "Datenströme"
+    ],
+    "inter": [
+      "Interbeing",
+      "Intercontinental",
+      "Interesting",
+      "Internet"
+    ],
+    "philo": [
+      "Philosophenkönig",
+      "Philosophenkönigs",
+      "Philosopher",
+      "Philosophy"
+    ],
+    "physi": [
+      "PHYSICS",
+      "Physics",
+      "Physik",
+      "Physikers"
+    ],
+    "unive": [
+      "Universe",
+      "University",
+      "Universum",
+      "Universums"
+    ],
+    "compu": [
+      "Computational",
+      "Computerphysiker",
+      "Computing"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungspunkt"
+    ],
+    "holog": [
+      "Holographic",
+      "Holographischen",
+      "Holography"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsinfrastruktur"
+    ],
+    "manif": [
+      "Manifestation",
+      "Manifestationen",
+      "Manifeste"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmen",
+      "Paradigmenwechsel"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problems"
+    ],
+    "reali": [
+      "Realismus",
+      "Realität",
+      "Realitätszusammenbruchs"
+    ],
+    "reche": [
+      "Rechenlast",
+      "Rechenleistung",
+      "Rechenoberfläche"
+    ],
+    "super": [
+      "Superfluid",
+      "Superposition",
+      "Superpositionen"
+    ],
+    "techn": [
+      "Technocracy",
+      "Technokratie",
+      "Technologiekonzern"
+    ],
+    "wahrn": [
+      "Wahrnehmung",
+      "Wahrnehmungsfehler",
+      "Wahrnehmungszusammenbruchs"
+    ],
+    "zusam": [
+      "Zusammenbruch",
+      "Zusammenbruchs",
+      "Zusammenfassung"
+    ],
+    "acade": [
+      "Academia",
+      "Academic"
+    ],
+    "aethe": [
+      "Aethelred",
+      "Aethelreds"
+    ],
+    "agnos": [
+      "Agnosia",
+      "Agnosie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Aktes"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Bewusstseinsakte"
+    ],
+    [
+      "Aris",
+      "Autoritarismus"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Code",
+      "Systemcodes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Unwissender"
+    ],
+    [
+      "Film",
+      "Films"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationsinfrastruktur"
+    ],
+    [
+      "Full",
+      "FULLTEXT"
+    ],
+    [
+      "Kern",
+      "Datenkern"
+    ],
+    [
+      "Kern",
+      "Kernphilosophie"
+    ],
+    [
+      "King",
+      "Breaking"
+    ]
+  ]
+}

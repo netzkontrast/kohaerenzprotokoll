@@ -1,0 +1,36 @@
+$ read.py primzahlen-als-metapher-in-kohaerenz-protokoll --count "Beschreibung"
+including compounds            8
+
+`Beschreibung` ^[primzahlen-als-metapher-in-kohaerenz-protokoll.md:#7]
+$ read.py primzahlen-als-metapher-in-kohaerenz-protokoll --count "Metaphorisches Potenzial"
+including compounds            6
+
+`Metaphorisches Potenzial` ^[primzahlen-als-metapher-in-kohaerenz-protokoll.md:#6]
+$ read.py primzahlen-als-metapher-in-kohaerenz-protokoll --count "Mögliche Auflösung"
+including compounds            2
+
+`Mögliche Auflösung` ^[primzahlen-als-metapher-in-kohaerenz-protokoll.md:#2]
+$ read.py primzahlen-als-metapher-in-kohaerenz-protokoll --count "Warnung"
+including compounds            1
+
+`Warnung` ^[primzahlen-als-metapher-in-kohaerenz-protokoll.md:#1]
+$ read.py primzahlen-als-metapher-in-kohaerenz-protokoll --count "Kap"
+including compounds            0
+
+`Kap` ^[primzahlen-als-metapher-in-kohaerenz-protokoll.md:#0]
+$ read.py primzahlen-als-metapher-in-kohaerenz-protokoll --count "Kapitel"
+including compounds            0
+
+`Kapitel` ^[primzahlen-als-metapher-in-kohaerenz-protokoll.md:#0]
+stance_marker_count 16 = 7 + 6 + 2 + 1 (Beschreibung, Metaphorisches Potenzial, Mögliche Auflösung, Warnung)
+question marks at L44 L54 L74 L162 L181: grep -n '?' Sources/drive/primzahlen-als-metapher-in-kohaerenz-protokoll.md (also URLs L269 ff.)
+44:  -
+54:  -
+74:  -
+162:  
+181:  
+269:21
+273:25
+278:30
+279:31
+straight quotes in body: L125 L133 L194 L202 (grep -n '"')

@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German survey of a story-theory framework and of a JSON protocol that extends it. I found no figure, place, object or event of the novel in it, and no chapter number. Every candidate is therefore a term of the framework or of the protocol, set as the document's own vocabulary (bold, quoted, defined, or heading a table). The export keeps footnote digits glued to words and escapes in two table cells.
+
+- Story Mind
+- System Mind
+- Story-Problem
+- Grand Argument Story
+- Throughlines
+- Throughline
+- Objective Story (OS) Throughline
+- Main Character (MC) Throughline
+- Influence Character (IC) Throughline
+- Relationship Story (RS) Throughline
+- Objective Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Hauptcharakter
+- Einflusscharakter
+- Table of Story Elements
+- Quad
+- Quads
+- dynamische Paare
+- Classes
+- Types
+- Variations
+- Elements
+- Universe
+- Physics
+- Mind
+- Psychology
+- Concerns
+- Issue
+- Counterpoint
+- Story Engine
+- Narrative Context Protocol
+- NCP
+- Universal Narrative Model
+- UNM
+- Model Context Protocol
+- MCP
+- Narrative First
+- Subtxt
+- Storyform
+- Dynamics
+- Storypoints
+- Storybeats
+- Resolve
+- Outcome
+- Judgment
+- Maintain
+- Relinquish
+- Release
+- Centered
+- Narrative Alignment
+- Dopamin
+- Serotonin
+- Pyrrhussieg
+- Story Driver
+- Signposts
+- External Framing
+- External Processing
+- Internal Processing
+- Internal Framing
+- Authorial Intent
+- Subtext
+- Storytelling
+- thematische Leitplanken
+- Blockchain für Subtext
+- Rosetta-Stein
+- multi-agentischen Erzählsystemen
+- Black Box
+- Kontextpersistenz
+- Contagonist
+- Preconditions
+- Induction
+- Non-acceptance
+- Heldenreise
+- Save the Cat
+- Drei-Akt-Struktur
+- Midpoint
+- Ruf zum Abenteuer

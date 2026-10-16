@@ -1,0 +1,63 @@
+# counts for 43 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Monstergruppe                    51 word    52 in   [11, 13, 15, 17, 19, 29]
+  Monstrous Moonshine              15 word    15 in   [17, 104, 106, 139, 306, 340]
+  Moonshine                        59 word    89 in   [17, 21, 104, 106, 122, 129]
+                                    6      as Moonshine-Phänomen
+                                    4      as Moonshine-Verbindung
+                                    4      as Moonshine-Phänomens
+                                    3      as Moonshine-Beweis
+  Moonshine-Modul                   2 word     3 in   [122, 129, 206]
+                                    1      as Moonshine-Moduls
+  Moonshine-Phänomen                6 word    12 in   [21, 139, 150, 152, 156, 200]
+                                    4      as Moonshine-Phänomens
+                                    1      as Moonshine-Phänomenen
+                                    1      as Moonshine-Phänomene
+  Umbral Moonshine                  4 word     4 in   [139, 329, 349, 425]
+  sporadische Gruppen               2 word     2 in   [160, 190]
+  Sporadizität                      9 word    10 in   [168, 174, 221, 252, 266, 288]
+                                    1      as Sporadizitäten
+  einfache Gruppe                   6 word     9 in   [33, 35, 45, 48, 229, 308]
+  Normalteiler                      6 word     8 in   [31, 33, 35, 37, 98, 164]
+                                    1      as Normalteilerstruktur
+                                    1      as Normalteilern
+  Kompositionsreihe                 1 word     1 in   [35]
+  Faktorgruppen                     1 word     1 in   [35]
+  Subquotienten                    10 word    10 in   [98, 102, 160, 190, 192, 194]
+  Subquotient                       1 word    12 in   [98, 102, 160, 190, 192, 194]  <-- substring
+                                   10      as Subquotienten
+                                    1      as Subquotient-Konzept
+  Klassifikationssatz der endlichen einfachen Gruppen    1 word     1 in   [43]
+  Enorme Theorem                    1 word     1 in   [43]
+  Happy Family                     24 word    24 in   [61, 62, 63, 64, 65, 67]
+  Parias                            4 word     4 in   [98, 102, 239, 301]
+  Pariah                            6 word     6 in   [66, 76, 77, 81, 82, 85]
+  Griess-Algebra                    4 word     4 in   [96, 100, 160, 308]
+  Leech-Gitter                      6 word     6 in   [98, 129, 206, 207, 213]
+  Jordan-Hölder-Theorem             2 word     2 in   [35, 39]
+  Conway-Norton-Vermutung           2 word     2 in   [122, 131]
+  McKay-Thompson-Reihe              1 word     4 in   [125, 131, 133, 208]  <-- substring
+                                    3      as McKay-Thompson-Reihen
+  Monster-Lie-Algebra               4 word     4 in   [130, 131]
+  No-Ghost-Theorem                  2 word     3 in   [131, 135]
+                                    1      as No-Ghost-Theorems
+  Vertexoperatoralgebren            2 word     2 in   [129, 204]
+  Orbifold-Konstruktion             1 word     2 in   [129, 206]
+  Friendly Giant                    1 word     1 in   [23]
+  Hyperintegration                  3 word     3 in   [164, 219, 294]
+  Interne Architektur               5 word     5 in   [188, 254, 268, 288, 297]
+  Intuition-Pumpe                   1 word     1 in   [289]
+  Meta-Metapher                     1 word     1 in   [90]
+  Rosetta-Steine                    1 word     1 in   [184]
+  Automorphismengruppe              6 word     6 in   [96, 129, 160, 251, 308]
+  Konjugationsklassen               3 word     3 in   [98, 196, 229]
+  Platonismus                       1 word     1 in   [143]
+  Formalismus                       2 word     2 in   [143, 184]
+  Holismus                          2 word     2 in   [231, 267]
+  Emergenz                          1 word     1 in   [219]
+  Modularität                       6 word     6 in   [164, 219, 251, 265, 278, 294]
+  Integrierte Informationstheorie    1 word     1 in   [220]
+  IIT                               3 word     3 in   [220, 265]

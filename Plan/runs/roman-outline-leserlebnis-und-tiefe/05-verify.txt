@@ -1,0 +1,107 @@
+# every number the census and note state, from python3 scripts/read.py roman-outline-leserlebnis-und-tiefe --count "<words>"
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Kohärenz Protokoll"
+whole word, case-sensitive     46
+whole word, case-insensitive   46
+including compounds            64
+
+`Kohärenz Protokoll` ^[roman-outline-leserlebnis-und-tiefe.md:#46]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Protokoll"
+whole word, case-sensitive     135
+whole word, case-insensitive   135
+including compounds            199
+
+`Protokoll` ^[roman-outline-leserlebnis-und-tiefe.md:#135]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Kohärenz"
+whole word, case-sensitive     127
+whole word, case-insensitive   127
+including compounds            129
+
+`Kohärenz` ^[roman-outline-leserlebnis-und-tiefe.md:#127]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Antagonist"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Antagonist` ^[roman-outline-leserlebnis-und-tiefe.md:#3]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Emergenz"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Emergenz` ^[roman-outline-leserlebnis-und-tiefe.md:#19]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Qualia"
+whole word, case-sensitive     29
+whole word, case-insensitive   31
+including compounds            29
+
+`Qualia` ^[roman-outline-leserlebnis-und-tiefe.md:#29]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Tropes"
+whole word, case-sensitive     49
+whole word, case-insensitive   55
+including compounds            65
+
+`Tropes` ^[roman-outline-leserlebnis-und-tiefe.md:#49]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Leseerlebnis"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            13
+
+`Leseerlebnis` ^[roman-outline-leserlebnis-und-tiefe.md:#10]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Inkohärenz"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            11
+
+`Inkohärenz` ^[roman-outline-leserlebnis-und-tiefe.md:#9]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Heldenreise"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Heldenreise` ^[roman-outline-leserlebnis-und-tiefe.md:#3]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Hard SF"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Hard SF` ^[roman-outline-leserlebnis-und-tiefe.md:#7]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Strategisch"
+whole word, case-sensitive     5
+whole word, case-insensitive   13
+including compounds            11
+
+`Strategisch` ^[roman-outline-leserlebnis-und-tiefe.md:#5]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Zentrale Empfehlungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zentrale Empfehlungen` ^[roman-outline-leserlebnis-und-tiefe.md:#1]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[roman-outline-leserlebnis-und-tiefe.md:#1]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Zugriff am"
+whole word, case-sensitive     298
+whole word, case-insensitive   298
+including compounds            298
+
+`Zugriff am` ^[roman-outline-leserlebnis-und-tiefe.md:#298]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            4
+
+`Kap` ^[roman-outline-leserlebnis-und-tiefe.md:#0]
+$ read.py roman-outline-leserlebnis-und-tiefe --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Kapitel` ^[roman-outline-leserlebnis-und-tiefe.md:#1]
+stance_marker_count: Strategisch (case-sensitive) 5 + Zentrale Empfehlungen 1 = 6
+census: 106 candidates, 0 zeros (04-counts.txt grep " 0 word" empty); profile numbers 24 escapes, 1 U+200B, 170 glued from 01-profile.txt
+$ grep -c "^- " 03-candidates.md
+106

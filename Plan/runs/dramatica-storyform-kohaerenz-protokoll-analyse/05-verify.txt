@@ -1,0 +1,96 @@
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Kritik:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kritik:` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Begründung & Kritik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Begründung & Kritik` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Fazit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Fazit` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#1]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "39"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`39` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#4]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kapitel` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#0]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#0]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "K0"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`K0` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#0]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "K\_0"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`K\_0` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#12]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "K\_1"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`K\_1` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#12]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#2]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Dual Kernel Theory"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Dual Kernel Theory` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#8]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Monster-Gruppe"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Monster-Gruppe` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#3]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Gödel-Gambit"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Gödel-Gambit` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#2]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Kohärenz-Prime"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz-Prime` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#3]
+$ python3 scripts/read.py dramatica-storyform-kohaerenz-protokoll-analyse --count "Kapiteln"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapiteln` ^[dramatica-storyform-kohaerenz-protokoll-analyse.md:#1]
+stance_marker_count 6 = 4 (Kritik:) + 1 (Begründung & Kritik) + 1 (Fazit)
+$ grep -nP (?<![\w-])39(?![\w-])
+17:Dieser Forschungsbericht di
+126:## **5. Das Mosaik und die
+128:Die Struktur des Romans al
+199:39. Zugriff am Januar 2, 2

@@ -1,0 +1,256 @@
+{
+  "document": "roman-entwicklung-ontologie-trauma-horror",
+  "drive_id": "15O1AQf7gvLkhtnz3h6o8xVGeiLyIm3gj9SCHx1enkhM",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 39,
+  "backslash_escapes": 56,
+  "typographic_marks": 28,
+  "ascii_quotes": 176,
+  "inflection_families": {
+    "neuro": [
+      "Neurobiologie",
+      "Neurobiologisch",
+      "Neurochemie",
+      "Neuroimaging",
+      "Neuropath",
+      "Neurophilosophie",
+      "Neuroscience",
+      "Neurowissenschaft"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstabgrenzung",
+      "Selbstbewusstsein",
+      "Selbstmodell",
+      "Selbstmodells",
+      "Selbstsetzung",
+      "Selbstwertgefühl"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissolving",
+      "Dissonanz",
+      "Dissoziation",
+      "Dissoziativen"
+    ],
+    "psych": [
+      "Psych",
+      "Psychiater",
+      "Psychiatrie",
+      "Psychology",
+      "Psychopathologie",
+      "Psychotherapy"
+    ],
+    "gedan": [
+      "Gedanke",
+      "Gedanken",
+      "Gedankenexperimente",
+      "Gedankenketten",
+      "Gedankenschweifens"
+    ],
+    "ident": [
+      "Identität",
+      "Identitäten",
+      "Identitätsgrenzen",
+      "Identitätsstruktur",
+      "Identitätszustände"
+    ],
+    "schla": [
+      "Schlaf",
+      "Schlafdruck",
+      "Schlafforschung",
+      "Schlaflähmung",
+      "Schlafs"
+    ],
+    "subst": [
+      "Substanz",
+      "Substanzontologien",
+      "Substrat",
+      "Substrats",
+      "Substratverlusts"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumafolgestörungen",
+      "Traumerinnerungen",
+      "Traumzustands",
+      "Traumzuständen"
+    ],
+    "besch": [
+      "Beschreiben",
+      "Beschreibung",
+      "Beschriebenen",
+      "Beschwörungen"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsmembranen",
+      "Bewusstseinsniveaus"
+    ],
+    "ficht": [
+      "Fichte",
+      "Fichteanische",
+      "Fichteanischen",
+      "Fichtes"
+    ],
+    "grenz": [
+      "Grenzauflösung",
+      "Grenze",
+      "Grenzen",
+      "Grenzziehung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeption",
+      "Konzepts",
+      "Konzeptualisierung"
+    ],
+    "mecha": [
+      "Mechanik",
+      "Mechanisierung",
+      "Mechanismen",
+      "Mechanistic"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modells"
+    ],
+    "seman": [
+      "Semantic",
+      "Semantik",
+      "Semantisch",
+      "Semantische"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturen"
+    ],
+    "syste": [
+      "System",
+      "Systematic",
+      "Systeme",
+      "Systemgrenze"
+    ],
+    "aufwa": [
+      "Aufwachen",
+      "Aufwachens",
+      "Aufwachprozess"
+    ],
+    "awake": [
+      "Awake",
+      "Awakening",
+      "Awakenings"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungsangebote",
+      "Bedeutungstod"
+    ],
+    "biolo": [
+      "Biologie",
+      "Biologin",
+      "Biologisch"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterbeschreibungen",
+      "Charaktere"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Aktes"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Exterminierungsaktes"
+    ],
+    [
+      "Akte",
+      "Charakterbeschreibungen"
+    ],
+    [
+      "Area",
+      "Areale"
+    ],
+    [
+      "Area",
+      "Arealen"
+    ],
+    [
+      "Denk",
+      "Denkschule"
+    ],
+    [
+      "Denk",
+      "Denkmaschine"
+    ],
+    [
+      "Dick",
+      "Dicks"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Ding",
+      "Stressbedingungen"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Host",
+      "Hosts"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Mark",
+      "Markov"
+    ]
+  ]
+}

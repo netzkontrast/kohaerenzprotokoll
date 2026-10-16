@@ -1,0 +1,32 @@
+$ python3 scripts/read.py kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md --count "HINWEIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`HINWEIS` ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md --count "Status"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Status` ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md --count "Kap"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            22
+
+`Kap` ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:#11]
+$ python3 scripts/read.py kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md --count "Kapitel"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            11
+
+`Kapitel` ^[kohaerenz-protokoll-outline-revision-pacing-2026-05-01-md.md:#6]
+
+# profile figures stated in the census (01-profile.txt)
+  headings             0   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    42
+# candidates: 50 (04-counts.txt / census-draft.md header)
+50

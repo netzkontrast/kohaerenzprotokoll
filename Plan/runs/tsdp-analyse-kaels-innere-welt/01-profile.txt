@@ -1,0 +1,14 @@
+# tsdp-analyse-kaels-innere-welt
+  lines                471  (frontmatter ends at 9)
+  body words           8847
+  headings             24   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       15
+  backslash escapes    38
+  typographic marks    20   ascii quotes 134
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    30
+  repeated labels      AEGIS x5, Bedürfnisse x5, Juna/V x5, Notwendige Schritte x5, Paradoxon X x5, Co₁ x4, Kai (ANP?) x4, Kiko (EP) x4, Lex (ANP) x4, McL x4, Nyx (EP) x4, Rhys (ANP) x4
+  longest line         1027 chars
+

@@ -1,0 +1,309 @@
+{
+  "document": "romanplot-kohaerenz-protokoll-entwicklung",
+  "drive_id": "1doE3uJL2hfh-mgeS1450pT8p903UUl8vv1gfsswkTGQ",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 144,
+  "backslash_escapes": 54,
+  "typographic_marks": 77,
+  "ascii_quotes": 154,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systeminstabilität",
+      "Systemisch",
+      "Systemische",
+      "Systemischer",
+      "Systemkrise",
+      "Systems",
+      "Systemstimme",
+      "Systemtheorie",
+      "Systemtransformation",
+      "Systemverhalten",
+      "Systemweit",
+      "Systemzusammenbruch"
+    ],
+    "inter": [
+      "Interagiert",
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Internal",
+      "InternalFamilySystems",
+      "Interne",
+      "Interner",
+      "Internet",
+      "Intervention"
+    ],
+    "integ": [
+      "Integral",
+      "Integration",
+      "Integrationen",
+      "Integrationsbogen",
+      "Integrationskarte",
+      "Integrationsstrategie",
+      "Integrierend",
+      "Integriert",
+      "Integrität"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeiten",
+      "Analysemethode",
+      "Analysemodellen",
+      "Analyseprotokoll",
+      "Analysierens",
+      "Analysiert",
+      "Analytiker"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchliche",
+      "Widerstand",
+      "Widerstands",
+      "Widerstandsfähigkeit"
+    ],
+    "chara": [
+      "Charakterbögen",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charaktererleben",
+      "Charakterisierung",
+      "Charakterkonstellation"
+    ],
+    "entla": [
+      "Entlasten",
+      "Entlastens",
+      "Entlastung",
+      "Entlastungsmomenten",
+      "Entlastungsprozess",
+      "Entlastungsprozesse",
+      "Entlastungsrituale"
+    ],
+    "grenz": [
+      "Grenzdefinition",
+      "Grenze",
+      "Grenzen",
+      "Grenzerhaltung",
+      "Grenzkontrollen",
+      "Grenzschutz",
+      "Grenzziehung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsentropie",
+      "Informationsfluss",
+      "Informationsquellen",
+      "Informationssprung",
+      "Informationstheorie"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollsystem",
+      "Kontrollverlust",
+      "Kontrollverlusts",
+      "Kontrollversuche"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenziell",
+      "Potenzielle"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbereinigungsprotokolle",
+      "Datenmuster",
+      "Datenpanne",
+      "Datenrauschen",
+      "Datenverarbeitung"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenphysik",
+      "Quantenschaum",
+      "Quantenverschränkung",
+      "Quantenverschränkungsphänomen",
+      "Quantum"
+    ],
+    "forsc": [
+      "Forschungskonzept",
+      "Forschungskonzepte",
+      "Forschungsschwerpunkte",
+      "Forschungsthemen",
+      "Forschungsziel"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikthaft",
+      "Konflikts"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle",
+      "Konzeptioneller"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxerweise",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokollarische",
+      "Protokollebene",
+      "Protokollen",
+      "Protokolliert"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstauflösung",
+      "Selbsterhalt",
+      "Selbsterhaltung",
+      "Selbsterhaltungstrieb"
+    ],
+    "verst": [
+      "Verstand",
+      "Versteht",
+      "Verständnis",
+      "Verstärkt",
+      "Verstärkte"
+    ],
+    "besch": [
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschützer",
+      "Beschützern"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionaler",
+      "Emotionen"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzangst",
+      "Existenzform",
+      "Existenzweise"
+    ],
+    "fragm": [
+      "Fragmentiert",
+      "Fragmentierung",
+      "Fragmentierungs",
+      "Fragmentierungsstrategie"
+    ],
+    "haupt": [
+      "Haupt",
+      "Hauptantrieb",
+      "Hauptbogen",
+      "Hauptquelle"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Akteur"
+    ],
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Abstrakte"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakteren"
+    ],
+    [
+      "Akte",
+      "Charakterbögen"
+    ],
+    [
+      "Akte",
+      "Nebencharaktere"
+    ],
+    [
+      "Akte",
+      "Charaktererleben"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Akte",
+      "Charakterkonstellation"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Aufeinanderprallen"
+    ],
+    [
+      "Bild",
+      "Bildes"
+    ],
+    [
+      "Bild",
+      "Bildern"
+    ],
+    [
+      "Bild",
+      "Bildschirmrisse"
+    ],
+    [
+      "Dame",
+      "Fundament"
+    ],
+    [
+      "Dame",
+      "Fundamentales"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ]
+  ]
+}

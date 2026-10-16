@@ -1,0 +1,113 @@
+{
+  "document": "kosmischer-horror-in-kohaerenz-protokoll",
+  "drive_id": "1MQyWy14WHTPkAXnhRIebWqfD9eIlK76-dkaFeMnQ2qs",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-456/brief.md, 2026-10-14; the document was first held by the privacy screen on the word Shadows (a reference title) and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 61,
+    "decided_by_lookup": 52,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis applying principles of cosmic horror: its new surfaces are the genre's principles, its labels, Kernkonflikt and Wissensgrenzen as its own headings, and borrowed concepts; what it proposes for AEGIS, the Potentialmeer, Kael, Juna and the Kernwelten went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        74,
+        97,
+        98,
+        177
+      ],
+      "attribution": "",
+      "note": "AEGIS as alien intelligence whose fragility is proposed as a source of dread"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        76,
+        111,
+        115,
+        116,
+        171
+      ],
+      "attribution": "",
+      "note": "Juna joined to Kael, the K-J connection as both disturbance and anchor"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        76,
+        115,
+        116,
+        171
+      ],
+      "attribution": "",
+      "note": "Kael as ground for body and mind horror, with a guideline that Kael keeps agency"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        78,
+        150
+      ],
+      "attribution": "",
+      "note": "the Kernwelten read as fragile simulations open to intrusion"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        73,
+        80,
+        88,
+        89,
+        166
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer as the unknown itself, to be left in part undefined"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Tonale Kohärenz` the document's own term; `Depersonalisation` a symptom word, not the personas; `Simulations-Horror` a genre label; `Kernwelt` and `Kernwelten` one page; genres and principles named after people never written",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 177,
+      "decision": "occurrence",
+      "why": "the simulated reality, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Kernkonflikt, Wissensgrenzen, Verstärkung, NZT-Direktive, Nutzeranfrage, Tonale Kohärenz, Simulations-Horror, the genre principles and the borrowed concepts"
+  ],
+  "internal_tension": "the K-J connection a source of disturbance (L116) and of resilience (L171); M an integrated coherence (L106) whose benevolence is to be questioned (L107) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,195 @@
+{
+  "document": "plot-blueprint-methodik-kohaerenz-protokoll",
+  "drive_id": "1K99o78cT8IvmlTOGkMqbN4nig2YdXgKvsLCW0tyEPBg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 77,
+    "decisions": 89,
+    "decided_by_lookup": 65,
+    "needs_judgement": 24
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        52,
+        173,
+        193,
+        194,
+        217
+      ],
+      "attribution": "",
+      "note": "AEGIS as the domain of the Überwelt, as the fight against information entropy, and as a paradox"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        31,
+        112,
+        114,
+        132,
+        152
+      ],
+      "attribution": "",
+      "note": "alters as mirrors in the environment, as coping functions, and as sources of shifting perspective"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        168,
+        173,
+        201
+      ],
+      "attribution": "",
+      "note": "entropy as an abstract idea to make concrete and as an active force"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        156,
+        176,
+        258
+      ],
+      "attribution": "",
+      "note": "the Guardians as doubters and as bearers of protocols"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        153,
+        173,
+        174,
+        214
+      ],
+      "attribution": "",
+      "note": "Juna in the K-Juna paradox and in Kael's core conflict"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        16,
+        112,
+        115,
+        132,
+        153,
+        217
+      ],
+      "attribution": "",
+      "note": "Kael's DIS, inner experience, integration arc and paradox"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        31,
+        38,
+        235
+      ],
+      "attribution": "",
+      "note": "the Kern-Welten as psychological landscapes"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        156
+      ],
+      "attribution": "",
+      "note": "LogOS among the doubting Guardians"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        156,
+        235
+      ],
+      "attribution": "",
+      "note": "Mnemosyne among the Guardians, and the name of KW2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        115
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as an alternative integration goal"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        196
+      ],
+      "attribution": "",
+      "note": "Negentropie as inner order"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        175,
+        195
+      ],
+      "attribution": "",
+      "note": "the Risse as embodied system instability and as glitches"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        16,
+        34,
+        52
+      ],
+      "attribution": "",
+      "note": "the Überwelt as AEGIS' domain, with a separate environmental approach"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 168,
+      "decision": "reading",
+      "why": "entropy among the abstract ideas to make concrete; read on entropie"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "funktionale Multiplizität",
+      "line": 106,
+      "decision": "reading",
+      "why": "integration or functional multiplicity as Kael's arc; read on multiplizitaet"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

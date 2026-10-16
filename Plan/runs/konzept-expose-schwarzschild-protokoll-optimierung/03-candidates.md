@@ -1,0 +1,91 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- Schwarzschild-Protokoll
+- Schwarzschild-Protokolls
+- Elara Vance
+- Elara
+- Elaras
+- Kael
+- Kaels
+- AEGIS
+- Juna/V
+- Juna
+- K-Probe
+- Primär-Datum
+- Archiv
+- Raumstation
+- Kernwelten
+- Potentialmeer
+- Überwelt
+- Risse
+- Kohärenten Lüge
+- Großen Faktum
+- unendlicher ontologischer Masse
+- Raw-Data-Packet
+- Schwarze Loch
+- Ereignishorizont
+- Logos
+- Eros
+- Abyssos
+- Funktionale Multiplizität
+- Skinner-Boxen
+- Dramaturgischer Aufseher
+- Dramaturgische Aufseher
+- Gravitations-Theorie der Wahrheit
+- Korrespondenz ist Gravitation
+- Schwerelosigkeit der Kohärenz
+- Flache Metrik
+- Metrische Tensor der Wahrheit
+- Gezeitenkräfte der Semantik
+- semantische Spaghettisierung
+- Spaghettisierung
+- Ontologische Lag
+- Narrative Physik
+- Narrativen Attraktoren
+- O-Paradoxon
+- Narrative Superposition
+- Kontrollparameter
+- Solipsismus
+- Governance-Kreislauf
+- Hybridarchitektur
+- Narrative DNA
+- Geisterdaten
+- Rechensubstrat
+- Manager-Anteile
+- Exilierte Anteile
+- Feuerlöscher
+- Das Selbst
+
+## lens
+
+- Landauer-Prinzip
+- Holographische Prinzip
+- Bekenstein-Grenze
+- Maxwellschen Dämon
+- Digitale Physik
+- Planck-Skalen-Artefakte
+- Lorentz-Invarianz
+- Dunkle Materie
+- Dunkle Energie
+- Vakuumzerfall
+- Boltzmann-Gehirne
+- Kohärenztheorie
+- Korrespondenztheorie
+- Operative Geschlossenheit
+- Konstatierungen
+- Protokollsätzen
+- Kopenhagener Deutung
+- seltsamen Attraktoren
+- Internal Family Systems
+- strukturellen Dissoziation
+- Gaslighting
+- Unzuverlässige Erzähler
+- Kognitiven Verfremdung
+- Kosmischer Horror
+- Hard Science Fiction
+- Answer Set Programming
+- Dramatica
+- Story Mind
+- Glitch-Art
+
+The document names no chapter; "Lektion" numbers (14, 15, 5 und 6) are lessons of cited research documents. Kael's counterpart Juna is written Juna/V. Observations: the report is a secondary analysis citing ten numbered research documents; numbered footnote digits are glued to words (export damage). Personal names of thinkers are left off by rule.

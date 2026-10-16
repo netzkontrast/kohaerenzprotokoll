@@ -1,0 +1,70 @@
+{
+  "document": "parakonsistenz-aegis-und-nicht-existenz",
+  "drive_id": "1fSnaZcWqHPoQ8a0IvyIwSF8L3WOik205SVaLKcgv0Qo",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list — one candidate, `Aegis-System`, counts 0 because the document writes only its genitive, explained in the census; rlm_ingest not run; a reading on aegis by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-420/brief.md; the document was first held back by a privacy screen on the word „Wächter“ and released when every hit proved to be the novel's own term",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 47,
+    "decided_by_lookup": 32,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report applying paraconsistent logic to a hypothetical Aegis: its new surfaces are its own labels and the borrowed logic vocabulary; what it argues of Aegis went on aegis.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        31,
+        33,
+        234,
+        268,
+        301,
+        308,
+        314,
+        322,
+        330,
+        331,
+        354,
+        356
+      ],
+      "attribution": "",
+      "note": "a hypothetical Aegis defined by a self-referring sentence, read as a guardian between existence and non-existence"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Aegis-System`, `Aegis-Definition`, `Aegis-Paradoxon`, `Wächter`, `Wächterfunktion` and `Grenzwächter` read on aegis; `Existenz`, `Grenze` and `Parakonsistente Kohärenz` the report's logical vocabulary, not K0-Existenz, the Archiv der Grenzen or the Große Mauer",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 41,
+      "decision": "occurrence",
+      "why": "coherence in the logical sense of the report"
+    }
+  ],
+  "not_promoted": [
+    "Aegis-Definition, Aegis-Paradoxon, Wächterfunktion, Grenzwächter, Parakonsistente Kohärenz, and the borrowed logic vocabulary"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

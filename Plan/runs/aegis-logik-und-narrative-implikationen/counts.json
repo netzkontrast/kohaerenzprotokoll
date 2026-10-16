@@ -1,0 +1,513 @@
+{
+  "document": "aegis-logik-und-narrative-implikationen",
+  "drive_id": "1UY7UiLgZscJLyFvfcPJj4vZVz_yulcWmICeYJCkv7LI",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 53,
+      "n_including_compounds": 53,
+      "lines": [
+        22,
+        32,
+        40,
+        42,
+        44,
+        52,
+        56,
+        58,
+        66,
+        70,
+        72,
+        80,
+        82,
+        84,
+        92,
+        102,
+        104,
+        116,
+        124,
+        126,
+        144,
+        146,
+        158,
+        160,
+        168,
+        172,
+        184,
+        192,
+        200,
+        202,
+        203,
+        211,
+        225,
+        229
+      ]
+    },
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 39,
+      "lines": [
+        22,
+        44,
+        58,
+        70,
+        82,
+        84,
+        88,
+        92,
+        100,
+        102,
+        104,
+        112,
+        116,
+        124,
+        128,
+        146,
+        158,
+        160,
+        168,
+        172,
+        176,
+        184,
+        192,
+        211,
+        225
+      ]
+    },
+    "Juna/V": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        70,
+        82,
+        140,
+        144,
+        146
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        70,
+        82,
+        144
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        213
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Kernwelt 4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        128
+      ]
+    },
+    "Das Fundament": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        150,
+        154,
+        156,
+        158
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        124
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "globale Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        58
+      ]
+    },
+    "Kohärenz durch Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        22,
+        239
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        76,
+        84,
+        192
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        82,
+        84,
+        146
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        176
+      ]
+    },
+    "Multiplizität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        58,
+        96,
+        100,
+        158,
+        176
+      ]
+    },
+    "Systemverantwortung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        231
+      ]
+    },
+    "Anteilen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        100,
+        211
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "DIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        100
+      ]
+    },
+    "RTSV": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "BPoF": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Verifizierer": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        58
+      ]
+    },
+    "Verifizierungsalgorithmus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        58
+      ]
+    },
+    "Verarbeitungskern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Pfad A": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Pfad B": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Unvermeidlicher Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Dialektische Synthese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        203,
+        231
+      ]
+    },
+    "Trivialisierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        196,
+        202,
+        231
+      ]
+    },
+    "Gaslighting": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Irritation": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "logische Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Inkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "kohärent/inkohärent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Autopoiesis": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        245,
+        247,
+        249,
+        251
+      ]
+    },
+    "Autopoiese": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        247
+      ]
+    },
+    "operativ geschlossen": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        44,
+        70,
+        227
+      ]
+    },
+    "Specification Gaming": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        62,
+        66,
+        68,
+        72,
+        260,
+        261
+      ]
+    },
+    "Frame-Problem": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        62,
+        68,
+        70,
+        72
+      ]
+    },
+    "P-versus-NP-Problem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        48,
+        52
+      ]
+    },
+    "Dialetheismus": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        58,
+        112,
+        279
+      ]
+    },
+    "dialetheische Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Lucas-Penrose-Argument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "IIT": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        164,
+        168,
+        172,
+        230
+      ]
+    },
+    "integrierte Information (Φ)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        168
+      ]
+    },
+    "Environmental Storytelling": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        124,
+        281,
+        282,
+        283,
+        284,
+        285
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        120,
+        126,
+        213
+      ]
+    },
+    "Narrativen Therapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        144,
+        290
+      ]
+    },
+    "Yin und Yang": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Dao": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        154,
+        239
+      ]
+    }
+  }
+}

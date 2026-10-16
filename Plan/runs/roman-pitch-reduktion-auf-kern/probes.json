@@ -1,0 +1,238 @@
+{
+  "document": "roman-pitch-reduktion-auf-kern",
+  "drive_id": "1KF6j0DF4HcRrAGygJc1QYeZf5lBZJKegNXLTBr0n718",
+  "step": "probes",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 27,
+  "backslash_escapes": 72,
+  "typographic_marks": 72,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "konze": [
+      "Konzept",
+      "Konzeptdokument",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptes",
+      "Konzeptionsphase"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischen",
+      "Psychotraumatologie"
+    ],
+    "dokum": [
+      "Dokumente",
+      "Dokumenten",
+      "Dokumentenanalyse",
+      "Dokumentenkorpus",
+      "Dokuments"
+    ],
+    "syste": [
+      "System",
+      "Systemadministrator",
+      "Systemarchitektur",
+      "Systemkollaps",
+      "Systemtheorie"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoremen",
+      "Theorie",
+      "Theoriegebäude",
+      "Theory"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlerfreiheit",
+      "Fehlerkorrekturprozess"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbedarf",
+      "Handlungssicherheit"
+    ],
+    "labyr": [
+      "LABYRINTHINE",
+      "Labyrinth",
+      "Labyrinthe",
+      "Labyrinthen"
+    ],
+    "narra": [
+      "NARRATION",
+      "Narration",
+      "Narrative",
+      "Narratives"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterarchitektur",
+      "Charakteren"
+    ],
+    "daten": [
+      "Datenkorruption",
+      "Datenmüll",
+      "Datenraums"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "geist": [
+      "Geist",
+      "Geiste",
+      "Geistes"
+    ],
+    "geset": [
+      "Gesetz",
+      "Gesetze",
+      "Gesetzen"
+    ],
+    "ident": [
+      "Identität",
+      "Identitäten",
+      "Identitätsstörung"
+    ],
+    "infor": [
+      "Informationen",
+      "Informations",
+      "Informationstheorie"
+    ],
+    "korre": [
+      "Korrespondenz",
+      "Korrespondenztheorie",
+      "Korrespondenzwahrheit"
+    ],
+    "liebe": [
+      "Liebe",
+      "Liebes",
+      "Liebesgeschichte"
+    ],
+    "limit": [
+      "Limitationen",
+      "Limitierung",
+      "Limits"
+    ],
+    "meist": [
+      "Meisterung",
+      "Meisterwerk",
+      "Meisterwerke"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphors",
+      "Metaphysik"
+    ],
+    "parad": [
+      "Paradigmenwechsel",
+      "Paradoxical",
+      "Paradoxon"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenologie"
+    ],
+    "prinz": [
+      "Prinzip",
+      "Prinzipien",
+      "Prinzips"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Dark",
+      "Grimdark"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Dual",
+      "Dualismus"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Ende",
+      "Umgreifende"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Exkludierende"
+    ],
+    [
+      "Ende",
+      "Lügendetektor"
+    ],
+    [
+      "Ende",
+      "Quantendekohärenz"
+    ],
+    [
+      "Enge",
+      "Menge"
+    ],
+    [
+      "Fall",
+      "Fallhöhe"
+    ],
+    [
+      "Fall",
+      "Druckabfall"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Informations"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Performativer"
+    ],
+    [
+      "Form",
+      "Ausformulierte"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ],
+    [
+      "Gott",
+      "Ligotti"
+    ]
+  ]
+}

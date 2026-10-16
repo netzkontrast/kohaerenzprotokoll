@@ -1,0 +1,564 @@
+{
+  "document": "monstergruppe-als-denkmodell-der-komplexitaet",
+  "drive_id": "1nQlfYyDUp2zKX_E5uOWDWOqn_9g7fEWNEa_1mCr7yyk",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Monstergruppe": {
+      "n": 51,
+      "n_including_compounds": 52,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        29,
+        37,
+        52,
+        79,
+        80,
+        92,
+        94,
+        96,
+        98,
+        106,
+        122,
+        150,
+        152,
+        156,
+        160,
+        162,
+        170,
+        172,
+        190,
+        200,
+        204,
+        206,
+        217,
+        220,
+        223,
+        227,
+        229,
+        236,
+        238,
+        239,
+        241,
+        245,
+        249,
+        256,
+        258,
+        272,
+        286,
+        289,
+        301,
+        306,
+        308,
+        314,
+        318,
+        354
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        17,
+        104,
+        106,
+        139,
+        306,
+        340,
+        342,
+        345,
+        346,
+        347,
+        348,
+        351,
+        380,
+        410,
+        416
+      ]
+    },
+    "Moonshine": {
+      "n": 59,
+      "n_including_compounds": 89,
+      "lines": [
+        17,
+        21,
+        104,
+        106,
+        122,
+        129,
+        133,
+        137,
+        139,
+        141,
+        143,
+        144,
+        148,
+        150,
+        152,
+        156,
+        178,
+        180,
+        182,
+        184,
+        186,
+        200,
+        204,
+        206,
+        208,
+        211,
+        222,
+        227,
+        231,
+        232,
+        236,
+        239,
+        240,
+        245,
+        253,
+        267,
+        272,
+        274,
+        276,
+        277,
+        279,
+        282,
+        288,
+        296,
+        306,
+        308,
+        328,
+        329,
+        330,
+        340,
+        342,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        351,
+        380,
+        405,
+        409,
+        410,
+        412,
+        413,
+        416,
+        419,
+        422,
+        423,
+        424,
+        425,
+        436
+      ]
+    },
+    "Moonshine-Modul": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        122,
+        129,
+        206
+      ]
+    },
+    "Moonshine-Phänomen": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        21,
+        139,
+        150,
+        152,
+        156,
+        200,
+        222,
+        227,
+        231,
+        239,
+        245,
+        308
+      ]
+    },
+    "Umbral Moonshine": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        139,
+        329,
+        349,
+        425
+      ]
+    },
+    "sporadische Gruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        160,
+        190
+      ]
+    },
+    "Sporadizität": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        168,
+        174,
+        221,
+        252,
+        266,
+        288,
+        295
+      ]
+    },
+    "einfache Gruppe": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        33,
+        35,
+        45,
+        48,
+        229,
+        308,
+        327,
+        376
+      ]
+    },
+    "Normalteiler": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        33,
+        35,
+        37,
+        98,
+        164
+      ]
+    },
+    "Kompositionsreihe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Faktorgruppen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Subquotienten": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        98,
+        102,
+        160,
+        190,
+        192,
+        194,
+        254,
+        268,
+        297
+      ]
+    },
+    "Subquotient": {
+      "n": 1,
+      "n_including_compounds": 12,
+      "lines": [
+        98,
+        102,
+        160,
+        190,
+        192,
+        194,
+        254,
+        268,
+        297
+      ]
+    },
+    "Klassifikationssatz der endlichen einfachen Gruppen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Enorme Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Happy Family": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        78,
+        79,
+        80,
+        83,
+        84,
+        86,
+        98,
+        102,
+        239,
+        301
+      ]
+    },
+    "Parias": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        98,
+        102,
+        239,
+        301
+      ]
+    },
+    "Pariah": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        66,
+        76,
+        77,
+        81,
+        82,
+        85
+      ]
+    },
+    "Griess-Algebra": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        96,
+        100,
+        160,
+        308
+      ]
+    },
+    "Leech-Gitter": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        98,
+        129,
+        206,
+        207,
+        213
+      ]
+    },
+    "Jordan-Hölder-Theorem": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        39
+      ]
+    },
+    "Conway-Norton-Vermutung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        131
+      ]
+    },
+    "McKay-Thompson-Reihe": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        125,
+        131,
+        133,
+        208
+      ]
+    },
+    "Monster-Lie-Algebra": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        130,
+        131
+      ]
+    },
+    "No-Ghost-Theorem": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        131,
+        135
+      ]
+    },
+    "Vertexoperatoralgebren": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        204
+      ]
+    },
+    "Orbifold-Konstruktion": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        206
+      ]
+    },
+    "Friendly Giant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Hyperintegration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        219,
+        294
+      ]
+    },
+    "Interne Architektur": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        188,
+        254,
+        268,
+        288,
+        297
+      ]
+    },
+    "Intuition-Pumpe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        289
+      ]
+    },
+    "Meta-Metapher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Rosetta-Steine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Automorphismengruppe": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        96,
+        129,
+        160,
+        251,
+        308
+      ]
+    },
+    "Konjugationsklassen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        98,
+        196,
+        229
+      ]
+    },
+    "Platonismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        143
+      ]
+    },
+    "Formalismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        143,
+        184
+      ]
+    },
+    "Holismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        231,
+        267
+      ]
+    },
+    "Emergenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Modularität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        164,
+        219,
+        251,
+        265,
+        278,
+        294
+      ]
+    },
+    "Integrierte Informationstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "IIT": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        265
+      ]
+    }
+  }
+}

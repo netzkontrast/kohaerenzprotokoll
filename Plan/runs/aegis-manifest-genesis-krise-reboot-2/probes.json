@@ -2,7 +2,7 @@
   "document": "aegis-manifest-genesis-krise-reboot-2",
   "drive_id": "1KpB2P-wZLlkO0ipISHbrBx1HOJAQk2-ejQJC4Od7OEI",
   "step": "probes",
-  "at": "2026-09-30",
+  "at": "2026-10-16",
   "by": "scripts/capture.py",
   "invisible_characters": {},
   "glued_ref_numbers": 8,

@@ -1,0 +1,31 @@
+{
+  "document": "dis-komorbiditaeten-und-alltagsbewaeltigung",
+  "drive_id": "1riTd4sg504T5CEt5EzrqUZT6h4oT7ICgVI_a_ESlm1g",
+  "step": "counts",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        192
+      ]
+    },
+    "Anteile": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        37,
+        71,
+        75
+      ]
+    }
+  }
+}

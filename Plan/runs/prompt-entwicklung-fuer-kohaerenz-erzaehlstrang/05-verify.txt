@@ -1,0 +1,8 @@
+Counts stated in the note and census (python3 scripts/read.py <slug> --count "<word>"):
+Empfohlen: 2   Beachte diese zwingend: 1   Beispiel: 3   hypothetische Rollen: 1  -> stance_marker_count 2+1+3+1 = 7
+Mapping: 6   Kap: 0   Kapitel: 0
+Kohärenz Protokoll: 6   Glitches: 4   Aris Thorne: 10   Silus: 13   Aethelred: 3   Elara Vance: 2
+Co₁: 1   McL: 1   Lex: 12   Rhys: 7   Kai: 2   Kiko: 4   Nyx: 7   Phobien: 5   TSDP: 2   AEGIS: 5
+partizipatorisches Universum: 1   Datenanomalie: 3
+Census prose: EP-Intrusion including compounds 2 (EPs 10 + 2 = 12 = EP in 15 minus word 3); Co1: 0
+(all counts are the marks printed in the note and census; every one checked by quotes.py --strict)

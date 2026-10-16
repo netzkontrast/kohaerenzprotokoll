@@ -1,0 +1,69 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                6 word     8 in   [24, 63, 135, 229, 247, 301]
+  Kohärenz Protokolls               2 word     2 in   [63, 135]
+  Kohärenz-Protokoll                1 word     3 in   [13, 22, 385]  <-- substring
+                                    2      as Kohärenz-Protokoll-Glitch
+  Glitch                            8 word    14 in   [22, 63, 158, 179, 227, 260]
+                                    4      as Glitches
+  Glitches                          4 word     4 in   [63, 158, 179, 309]
+  Kael                             15 word    23 in   [22, 89, 97, 108, 158, 166]
+                                    8      as Kaels
+  Aris Thorne                      10 word    12 in   [55, 158, 179, 200, 210, 225]
+  Elara Vance                       2 word     2 in   [261, 313]
+  Silus                            13 word    13 in   [71, 73, 81, 137, 158, 179]
+  Aethelred                         3 word     3 in   [71, 259, 311]
+  AEGIS                             5 word     5 in   [158, 226, 259, 311]
+  Lex                              12 word    13 in   [114, 137, 179, 257, 260, 261]
+  Rhys                              7 word     8 in   [115, 261, 313, 348, 361, 378]
+                                    1      as Rhys-Einfluss
+  Kai                               2 word     3 in   [116, 350, 379]
+  Kiko                              4 word     7 in   [124, 137, 260, 312, 349, 361]
+                                    2      as Kikos
+                                    1      as Kiko-Einfluss
+  Nyx                               7 word     8 in   [115, 125, 137, 260, 312, 347]
+  Co₁                               1 word     1 in   [360]
+  McL                               1 word     1 in   [361]
+  Kernwelt                          1 word     1 in   [360]
+  Simulation                       16 word    17 in   [81, 137, 158, 179, 200, 208]
+                                    1      as Simulations-Universums
+  Basisrealität                     3 word     3 in   [73, 137, 158]
+  Quellcode                         1 word     1 in   [71]
+  Mandela-Effekt                    2 word     3 in   [73, 137, 158]
+                                    1      as Mandela-Effekte
+  heilsame Lüge                     1 word     1 in   [73]
+  partizipatorisches Universum      1 word     1 in   [314]
+  Bindungsproblem                   2 word     2 in   [261, 313]
+  Datenanomalie                     3 word     3 in   [55, 258, 310]
+  Laborunfall                       5 word     5 in   [55, 200, 258, 310]
+  Verfolger-Anteil                  1 word     2 in   [179, 226]
+                                    1      as Verfolger-Anteils
+  Modell des vereinheitlichten Protagonisten    3 word     3 in   [247, 293, 303]
+  Der vereinheitlichte Protagonist    2 word     2 in   [191, 224]
+  Verschachtelte Realität           1 word     1 in   [224]
+  Nested Reality                    1 word     1 in   [149]
+  Metaphorische Manifestation       1 word     1 in   [224]
+  Narrative Synthese-Matrix         1 word     1 in   [216]
+  Primärdirektive                   3 word     3 in   [241, 273, 303]
+  Schlüssel-Mappings                4 word     4 in   [251, 273, 305, 326]
+  Spannungspunkte                   1 word     1 in   [358]
+  Ko-Bewusstsein                    1 word     1 in   [262]
+  TSDP                              2 word     9 in   [22, 89, 93, 97, 210, 257]  <-- substring
+                                    5      as TSDP-Analyse
+                                    1      as TSDP-Framework
+                                    1      as TSDP-Modell
+  Tertiären Strukturellen Dissoziation    1 word     1 in   [97]
+  Anscheinend Normalen Teilen       1 word     1 in   [99]
+  Anscheinend Normale Teil          2 word     2 in   [247, 303]
+  ANP                              14 word    22 in   [99, 110, 124, 133, 137, 179]
+  ANPs                              8 word     8 in   [110, 124, 133, 212, 311, 361]
+  Emotionalen Teilen                1 word     1 in   [100]
+  EP                                3 word    15 in   [100, 114, 120, 133, 179, 212]  <-- substring
+  EPs                              10 word    10 in   [100, 114, 120, 133, 179, 212]
+  Phobien                           5 word     5 in   [133, 212, 259, 262, 311]
+  Kohärenztheorie der Wahrheit      2 word     2 in   [26, 73]
+  Quanten-Dekohärenz                3 word     4 in   [27, 55, 210, 260]
+                                    1      as Quanten-Dekohärenz1

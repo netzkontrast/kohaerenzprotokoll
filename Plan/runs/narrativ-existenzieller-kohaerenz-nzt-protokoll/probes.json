@@ -1,0 +1,320 @@
+{
+  "document": "narrativ-existenzieller-kohaerenz-nzt-protokoll",
+  "drive_id": "1388ZMsf9BGuBjlKA1aThYTeXC1Z1uju2wxa5-jZHEBY",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 226,
+  "backslash_escapes": 127,
+  "typographic_marks": 31,
+  "ascii_quotes": 182,
+  "inflection_families": {
+    "reali": [
+      "Realisation",
+      "Realisierung",
+      "Realismus",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätserhaltung",
+      "Realitätsfacetten",
+      "Realitätsinstabilitäten",
+      "Realitätskonstrukten",
+      "Realitätsmodelle",
+      "Realitätsnatur",
+      "Realitätsschichten",
+      "Realitätssystems",
+      "Realitätsverschiebungen",
+      "Realitätsverständnisse",
+      "Realitätswahrnehmung"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationserzeugung",
+      "Informationsfelder",
+      "Informationsfeldern",
+      "Informationsfluss",
+      "Informationsflüssen",
+      "Informationsreduktion",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsübertragung"
+    ],
+    "syste": [
+      "System",
+      "Systembiologie",
+      "Systemdynamik",
+      "Systeme",
+      "Systemen",
+      "Systemfehlern",
+      "Systemgrenzen",
+      "Systemisch",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interdependenz",
+      "Interdisziplinäre",
+      "Interface",
+      "Intergroup",
+      "Interkonnektivitäten",
+      "Internet",
+      "Interpretation"
+    ],
+    "quant": [
+      "Quanten",
+      "Quantenmechanik",
+      "Quantenmessung",
+      "Quantenphysik",
+      "Quantenphänomene",
+      "Quantensystemen",
+      "Quantenvakuum",
+      "Quantenverschränkung",
+      "Quantum"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstanteile",
+      "Selbsterhaltung",
+      "Selbsterhaltungszyklus",
+      "Selbstgenügsamkeit",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstreferenz",
+      "Selbstverifikation"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptauswahl",
+      "Konzeptcluster",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzeptualisierung",
+      "Konzeptuelles"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeit",
+      "Analysefähigkeiten",
+      "Analysemethoden",
+      "Analysen",
+      "Analyseprozesse",
+      "Analysis"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsbildung",
+      "Identitätsfragmentierung",
+      "Identitätsmerkmalen"
+    ],
+    "schwe": [
+      "Schwelle",
+      "Schwellen",
+      "Schwellenerfahrungen",
+      "Schwellenkonzept",
+      "Schwellenkonzepte",
+      "Schwellenkonzepten",
+      "Schwellenzustand"
+    ],
+    "grenz": [
+      "Grenzbereich",
+      "Grenze",
+      "Grenzen",
+      "Grenzraum",
+      "Grenzraums",
+      "Grenzüberschreitung"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophien",
+      "Philosophies",
+      "Philosophisch",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "poten": [
+      "Potentiale",
+      "Potentialfeld",
+      "Potentialität",
+      "Potentialitäten",
+      "Potenzial",
+      "Potenzielle"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychedelika",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychology"
+    ],
+    "anwen": [
+      "Anwendbarkeit",
+      "Anwendung",
+      "Anwendungen",
+      "Anwendungsideen",
+      "Anwendungsmöglichkeiten"
+    ],
+    "arche": [
+      "Archetyp",
+      "Archetype",
+      "Archetypen",
+      "Archetypenlehre",
+      "Archetyps"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterdynamiken",
+      "Charakterentwicklung",
+      "Charakterisierung",
+      "Charakterisierungen"
+    ],
+    "entit": [
+      "Entität",
+      "Entitätsanalyse",
+      "Entitätslogik",
+      "Entitätsmethoden",
+      "Entitätsrealität"
+    ],
+    "kompl": [
+      "Komplexe",
+      "Komplexes",
+      "Komplexität",
+      "Komplexitäts",
+      "Komplexitätstheorie"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollmöglichkeiten",
+      "Kontrollparameter"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorik",
+      "Metaphorisch",
+      "Metaphysik"
+    ],
+    "model": [
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narrativen",
+      "Narratives",
+      "Narrativs"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisationsprinzip",
+      "Organization",
+      "Organizational",
+      "Organizing"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzfeldtheorie",
+      "Resonierende"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Anti",
+      "Semantic"
+    ],
+    [
+      "Bell",
+      "Tabelle"
+    ],
+    [
+      "Bild",
+      "Clusterbildung"
+    ],
+    [
+      "Bild",
+      "Identitätsbildung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dual",
+      "Duale"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Feld",
+      "Potentialfeld"
+    ],
+    [
+      "Feld",
+      "Informationsfelder"
+    ],
+    [
+      "Feld",
+      "Informationsfeldern"
+    ],
+    [
+      "Feld",
+      "Resonanzfeldtheorie"
+    ],
+    [
+      "Flow",
+      "MathOverflow"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ]
+  ]
+}

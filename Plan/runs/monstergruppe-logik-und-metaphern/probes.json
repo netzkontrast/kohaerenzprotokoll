@@ -1,0 +1,265 @@
+{
+  "document": "monstergruppe-logik-und-metaphern",
+  "drive_id": "19L8Y42PgZvGn_qKZVSvrFyakUIzMwC5tKQl9PRWzhBI",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 85
+  },
+  "glued_ref_numbers": 94,
+  "backslash_escapes": 72,
+  "typographic_marks": 110,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "unter": [
+      "Unter",
+      "Unteralgebra",
+      "Untergruppe",
+      "Untergruppen",
+      "Untergruppenstruktur",
+      "Untergruppenstrukturen",
+      "Unterraum",
+      "Unterraums",
+      "Untersuchung"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematicians",
+      "Mathematics",
+      "Mathematik",
+      "Mathematiker",
+      "Mathematikern",
+      "Mathematikers"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradox",
+      "Paradoxes",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterisierung",
+      "Charakters",
+      "Charaktertafel"
+    ],
+    "darst": [
+      "Darst",
+      "Darstellung",
+      "Darstellungen",
+      "Darstellungsdimension",
+      "Darstellungsdimensionen"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungen",
+      "Forschungsansatz",
+      "Forschungsfeld",
+      "Forschungsgebiete"
+    ],
+    "group": [
+      "GROUP",
+      "Group",
+      "GroupTheory",
+      "Groupprops",
+      "Groups"
+    ],
+    "monst": [
+      "MONSTER",
+      "Monster",
+      "Monstergruppe",
+      "Monsters",
+      "Monstrous"
+    ],
+    "quant": [
+      "Quanta",
+      "Quantengravitationstheorie",
+      "Quantenmechanik",
+      "Quantisierung",
+      "Quantum"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweise",
+      "Beweisführung",
+      "Beweistechniken"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppendarstellungen",
+      "Gruppentheorie"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identisch",
+      "Identität",
+      "Identitätselement"
+    ],
+    "klass": [
+      "Klasse",
+      "Klassifikation",
+      "Klassisch",
+      "Klassische"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstruktion",
+      "Konstruktionen",
+      "Konstruktionsopazität"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeptionellen",
+      "Konzeptuelle"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorischen",
+      "Metaphorisches"
+    ],
+    "modul": [
+      "Modul",
+      "Modulfunktion",
+      "Modulfunktionen",
+      "Moduls"
+    ],
+    "objek": [
+      "Objekt",
+      "Objekte",
+      "Objekten",
+      "Objekts"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungen",
+      "Ordnungsbetrachtungen",
+      "Ordnungsformel"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomene",
+      "Phänomenen",
+      "Phänomens"
+    ],
+    "strin": [
+      "String",
+      "Strings",
+      "Stringtheorie",
+      "Stringtheorien"
+    ],
+    "symme": [
+      "Symmetrie",
+      "Symmetriegruppe",
+      "Symmetrien",
+      "Symmetry"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systems"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerständigkeit"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "BABY",
+      "Baby"
+    ],
+    [
+      "BABY",
+      "BabyMonster"
+    ],
+    [
+      "BABY",
+      "FBabyMonster"
+    ],
+    [
+      "BABY",
+      "BabyMonsterGroup"
+    ],
+    [
+      "Baby",
+      "BabyMonster"
+    ],
+    [
+      "Baby",
+      "FBabyMonster"
+    ],
+    [
+      "Baby",
+      "BabyMonsterGroup"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Steiner"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Ende",
+      "Fortwährende"
+    ],
+    [
+      "Ende",
+      "Überwältigendes"
+    ],
+    [
+      "Erbe",
+      "Computerberechnungen"
+    ],
+    [
+      "Four",
+      "Fourier"
+    ],
+    [
+      "Grad",
+      "Grade"
+    ],
+    [
+      "Grad",
+      "Graduierte"
+    ],
+    [
+      "Hand",
+      "Behandlung"
+    ]
+  ]
+}

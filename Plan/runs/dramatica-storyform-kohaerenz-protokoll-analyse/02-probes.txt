@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      44
+  backslash escapes      99
+  typographic marks      141
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  inter    Interest, Interferenz, Internal, Interne, Interpretation, Intersubjektivität
+  syste    System, Systemarchitektur, Systeme, Systemische, Systems, Systemtheorie
+  infor    Information, Informationen, Informationserhaltung, Informationsfelder, Informationstheorie
+  quant    Quanta, Quantenmechanik, Quantenphysik, Quantenverschränkung, Quantum
+  funkt    Funktion, Funktionale, Funktionalen, Funktionieren
+  narra    Narrativ, Narrative, Narrativem, Narrativen
+  proto    Protokoll, Protokolle, Protokollen, Protokolls
+  psych    Psyche, Psychologie, Psychology, Psychosocial
+  reali    Reality, Realität, Realitäten, Realitäts
+  story    Story, Storyform, Storyforms, Storymind
+  theor    Theorems, Theoretische, Theorie, Theory
+  traum    Traum, Trauma, Traumas, Traumatische
+  unive    Universe, University, Universum, Universums
+  argum    Argument, Argumentationskette, Argumente
+  axiom    Axiom, Axiome, Axiomen
+  disso    Dissociation, Dissociative, Dissoziation
+  kriti    Kritik, Kritikpunkt, Kritische
+  metap    Metapher, Metaphernschleife, Metaphysik
+  model    Modell, Modelle, Modellen
+  ontol    Ontological, Ontologie, Ontologische
+  roman    Roman, Romananalyse, Romans
+  struk    Struktur, Strukturellen, Strukturen
+  throu    Through, Throughline, Throughlines
+  write    Write, Writer, Writers
+  alter    Alter, Alters
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Allegorie
+  Code < Quellcodes
+  Dies < Diese
+  Dies < Dieser
+  Form < Platform
+  Form < Storyform
+  Form < Storyforms
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsfelder
+  Form < Informationstheorie
+  Form < Informationserhaltung
+  Hard < Richard
+  Hart < Chart
+  Kael < Kaels
+  Kern < Kernel
+  Kern < Kernkonzepte
+  Kern < Kernmechanismus
+  Main < Domain

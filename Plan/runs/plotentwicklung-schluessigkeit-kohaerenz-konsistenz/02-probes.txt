@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      126
+  typographic marks      190
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  chara    Character, Characters, Charakter, Charakterbibel, Charakterbibeln, Charakterbild, Charakterbogen, Charakterbögen, Charaktere, Charaktereigenschaften, Charakteren, Charakterentscheidungen, Charakterentwicklung, Charakterentwicklungen, Charakterglaubwürdigkeit, Charakterhandlungen, Charakterinkonsistenz, Charakterinkonsistenzen, Charakterisierung, Charakterkonsistenz, Charaktermerkmale, Charakterprofile, Charakters, Charaktertypen, Charakterverhalten
+  erzäh    Erzählen, Erzählens, Erzählers, Erzählte, Erzähltextes, Erzählung, Erzählungen, Erzählwelt
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungsschritt, Handlungsstrukturen, Handlungsstränge, Handlungsverlaufs
+  motiv    Motivation, Motivationen, Motivationsanalyse, Motivationsarten, Motivationsquellen, Motivationsänderungen, Motives
+  roman    Roman, Romanen, Romanmanuskripten, Romanplot, Romanplotentwicklung, Romanplots, Romantik
+  schlü    Schlüssel, Schlüsselelemente, Schlüsselereignisse, Schlüsselfragen, Schlüsselkonzepte, Schlüsselwörter, Schlüssigkeit
+  gesch    Geschehnisse, Geschehnissen, Geschichte, Geschichten, Geschmacks, Geschwindigkeit
+  leser    Leser, Lesererwartung, Lesererwartungen, Lesern, Lesers, Leservertrauens
+  verst    Verstand, Verstehen, Verständlichkeit, Verständnis, Verstärkt, Verstöße
+  entwi    Entwickeln, Entwicklung, Entwicklungen, Entwicklungslektorat, Entwicklungsstadien
+  inter    Interaktion, Internal, Interne, Interpretationen, Intervention
+  plotl    Plotlisten, Plotloch, Plotlogik, Plotlöcher, Plotlöchern
+  publi    Publications, Publikationen, Publikum, Publish, Publishers
+  schre    Schreib, Schreiben, Schreibens, Schreibgruppe, Schreibprozesses
+  selbs    Selbst, Selbstbewertung, Selbstkorrektur, Selbstverwirklichung, Selbstwert
+  techn    Technik, Techniken, Technique, Techniques, Technologie
+  thema    Thema, Themas, Thematic, Thematische, Thematisierung
+  vertr    Vertrag, Vertrags, Vertrauen, Vertrauensfundament, Verträglichkeit
+  zeita    Zeitablauf, Zeitabläufe, Zeitabläufen, Zeitachse, Zeitangaben
+  übera    Überarbeiten, Überarbeitens, Überarbeitung, Überarbeitungsphase, Überarbeitungsprozesses
+  analo    Analogie, Analogien, Analogies, Analogy
+  autor    Autor, Autoren, Autorin, Autors
+  bedür    Bedürfnis, Bedürfnispyramide, Bedürfnisse, Bedürfnissen
+  berei    Bereiche, Bereichen, Bereits, Bereitschaft
+  besch    Beschreibung, Beschreibungen, Beschädigung, Beschäftigung
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Gebrauch
+  Auch < Auftauchen
+  Best < Bestandteil
+  Bild < Bilder
+  Bild < Bildern
+  Bild < Abbildung
+  Bild < Bildhafte
+  Bild < Ausbildung
+  Bild < Nachbildner
+  Bild < Charakterbild
+  Bild < Inferenzbildung
+  Bild < Schattenbildern
+  Book < Books
+  Book < Bookish
+  Copy < Copywriting
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Bausteine
+  Eine < Bausteinen

@@ -21,6 +21,7 @@ each, so the canvas shows every screen at once and each one is playable.
     python3 scripts/ui.py                # derive, run the invariants, write Plan/derived/ui/canvas/
     python3 scripts/ui.py --no-checks    # the same, without running the invariants
     python3 scripts/ui.py --check        # write, then check what was written; exit 1 on a defect
+    python3 scripts/ui.py --fresh-checks # run the invariants and self-tests even if this tree's are cached
     python3 scripts/ui.py selftest       # every check, proved able to fail
 
 The app's source is `scripts/ui.html` (the markup, with the macros below) and
@@ -74,10 +75,27 @@ sessions, `scripts/sessions.py` reading NOW.md § Half-done), `index.json` (ever
 its repository path and its address), `state.json` and `data.json` — the same snapshot,
 for an agent that reads the website instead of the screen. `web.py` serves them.
 `--check` writes `stamp.json`, which `scripts/appstamp.py verify` reads.
+
+## The invariants and self-tests, once per tree
+
+The rail's invariants and self-tests are the slow part of a build — the self-tests alone
+include this file's own, which builds the whole app again. Their answers depend only on the
+files, so they are kept in `Plan/derived/checks/<key>.json`, where the key is HEAD's tree
+plus the bytes of every changed and untracked file (`worktree_key`). A second build of the
+same files takes them from there, and the data says so (`meta.checks_from`); any change to
+any file is a new key. Without git (a Vercel build) nothing is cached. `--fresh-checks` runs
+them regardless.
+
+Measured on 2026-10-16 (under a profiler), the rest of a build's time is two things, cached the
+same way: `state.derive()` — the retrieval bench and the quotation tally inside it — once per
+tree (`<key>-state.json`), and the graph's force layout, which is seeded and so the same for the
+same graph, once per graph (`layout-<hash>-layout.json`, kept across commits that do not change it).
+Measured the same day: `ui.py --check` took 647 s on a new tree and 40 s on the same tree again, 0 defects both times.
 """
 
 from __future__ import annotations
 
+import hashlib
 import html
 import json
 import math
@@ -457,6 +475,53 @@ def run_invariants(measured: dict) -> list[list[str]]:
     return out
 
 
+CHECKS_CACHE = ROOT / "Plan" / "derived" / "checks"
+
+
+def worktree_key(root: Path = ROOT) -> str | None:
+    """HEAD's tree and the bytes of every changed or untracked file, hashed; None where git cannot say."""
+    try:
+        tree = subprocess.run(["git", "rev-parse", "HEAD^{tree}"], cwd=root, capture_output=True, text=True,
+                              check=True).stdout.strip()
+        status = subprocess.run(["git", "status", "--porcelain=v1", "-z", "--untracked-files=all"], cwd=root,
+                                capture_output=True, check=True).stdout
+    except (OSError, subprocess.CalledProcessError):
+        return None
+    h = hashlib.sha256(tree.encode() + b"\0" + status)
+    for entry in status.split(b"\0"):
+        path = root / entry[3:].decode("utf-8", "replace") if len(entry) > 3 else None
+        if path is not None and path.is_file():
+            h.update(path.read_bytes())
+    return h.hexdigest()[:24]
+
+
+def cached(name: str, key: str | None, compute, fresh: bool = False, cache: Path = CHECKS_CACHE):
+    """compute(), kept under `name` for `key`; without a key (no git) or with `fresh`, computed every time."""
+    path = cache / f"{key}-{name}.json" if key else None
+    if path is not None and path.exists() and not fresh:
+        return json.loads(path.read_text(encoding="utf-8"))
+    value = compute()
+    if path is not None:
+        cache.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(value, ensure_ascii=False), encoding="utf-8")
+    return value
+
+
+def checks_for_tree(measured: dict, fresh: bool = False, root: Path = ROOT,
+                    cache: Path = CHECKS_CACHE, key: str | None = None) -> tuple[list, list, str]:
+    """(invariants, self-tests, where they came from): from this tree's cache, or run and then cached."""
+    key = key or worktree_key(root)
+    path = cache / f"{key}.json" if key else None
+    if path is not None and path.exists() and not fresh:
+        kept = json.loads(path.read_text(encoding="utf-8"))
+        return kept["checks"], kept["selftests"], f"cache {key}"
+    checks, tests = run_invariants(measured), run_selftests()
+    if path is not None and worktree_key(root) == key:  # nothing changed while they ran
+        cache.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps({"checks": checks, "selftests": tests}, ensure_ascii=False), encoding="utf-8")
+    return checks, tests, f"run {key}" if key else "run"
+
+
 def run_selftests() -> list[list[str]]:
     """[held | FAILED | not run, suite, what it said last], one per suite, from selftests.run."""
     return [[status, name, said.strip()] for status, name, said in selftests.run()]
@@ -637,7 +702,7 @@ def novel_export(md: "Renderer", manuscript: list, pidx: dict) -> dict:
     return out
 
 
-def export(checks: bool = True) -> dict:
+def export(checks: bool = True, fresh: bool = False) -> dict:
     """Everything the app shows, as one JSON-able dict."""
     read = reading_order()
     manifest = subject.rows()
@@ -646,7 +711,9 @@ def export(checks: bool = True) -> dict:
     pidx = {s: i for i, s in enumerate(slugs)}
     md = Renderer(slugs, read)
     g = graph.build()
-    derived = state.derive()["measurements"]
+    tree = worktree_key()
+    # the measurements depend only on the files: once per tree (they are most of a build's time, 2026-10-16)
+    derived = cached("state", tree, lambda: state.derive()["measurements"], fresh)
     measured = {k: v["value"] for k, v in derived.items()}
 
     # pages
@@ -888,7 +955,11 @@ def export(checks: bool = True) -> dict:
         if key not in seen_edges:
             seen_edges.add(key)
             gedges.append(list(key))
-    _layout(gnodes, gedges)
+    # the layout is seeded, so the same graph lays out the same: kept by its input, across commits
+    shape = hashlib.sha256(json.dumps([[n["k"], n["ref"]] for n in gnodes] + gedges).encode()).hexdigest()[:24]
+    placed = cached("layout", f"layout-{shape}", lambda: _layout(gnodes, gedges) or [[n["x"], n["y"]] for n in gnodes], fresh)
+    for n, (x, y) in zip(gnodes, placed):
+        n["x"], n["y"] = x, y
     degree = Counter()
     for a, b, t in gedges:
         if t == 0:
@@ -907,11 +978,12 @@ def export(checks: bool = True) -> dict:
             for r in manifest]
     folded = measured["sources.folded"]
 
+    run_checks, run_tests, checks_from = checks_for_tree(measured, fresh, key=tree) if checks else ([], [], "")
     head = subprocess.run(["git", "log", "-1", "--format=%h %cs"], cwd=ROOT, capture_output=True, text=True).stdout.split()
     if not head and os.environ.get("VERCEL_GIT_COMMIT_SHA"):  # a Vercel build has no .git; it names the commit
         head = [os.environ["VERCEL_GIT_COMMIT_SHA"][:7], datetime.now(timezone.utc).strftime("%Y-%m-%d")]
     return {
-        "meta": {"commit": head[0] if head else "", "date": head[1] if len(head) > 1 else ""},
+        "meta": {"commit": head[0] if head else "", "date": head[1] if len(head) > 1 else "", "checks_from": checks_from},
         "state": {k: [v["value"], v["how"]] for k, v in derived.items()},
         "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "compare": compare,
         "agenda": agenda, "sessions": plan, "now": {"lede": now_lede, "sec": now_secs},
@@ -919,7 +991,7 @@ def export(checks: bool = True) -> dict:
         "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript, "novel": novel,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
         "phases": phases, "missing": missing,
-        "checks": run_invariants(measured) if checks else [], "selftests": run_selftests() if checks else [],
+        "checks": run_checks, "selftests": run_tests,
         "graph": {"nodes": gnodes, "edges": gedges, "types": types, "w": GRAPH_W, "h": GRAPH_H,
                   "unread": {"docs": sorted(n.split(":", 1)[1] for n in unread),
                              "edges": sum(1 for e in g["edges"]
@@ -1062,6 +1134,11 @@ container without the author's decision.
   sessions), each with its repository path and its address in this app.
 - [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
 - [data.json](agents/data.json): everything the app renders, as one document.
+- [static/](static/index.html): every wiki record as a plain HTML page — term pages, conflicts, questions, chapter
+  pages, reconciliation records, decisions — no JavaScript needed (`scripts/static_pages.py`).
+- `/mcp`: the retrieval tools as an MCP server (Streamable HTTP; decision 029) — `search`, `ask`, `read_lines`,
+  `verify_quote`, `item`, `list_items`, `document`, `state`, `sessions`; evidence with document and line, never prose.
+  Behind the same login: send `x-vercel-protection-bypass`.
 
 ## Addresses
 
@@ -1101,8 +1178,8 @@ def agent_files(data: dict, out: Path) -> list[str]:
     return ["llms.txt"] + [f"agents/{n}" for n in files]
 
 
-def build(out: Path = OUT, checks: bool = True) -> dict:
-    data = export(checks)
+def build(out: Path = OUT, checks: bool = True, fresh: bool = False) -> dict:
+    data = export(checks, fresh)
     project = out / "canvas" / "project"
     if project.exists():
         shutil.rmtree(project)
@@ -1503,11 +1580,53 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
 
 # ---------------------------------------------------------------- selftest
 
+def cache_selftest() -> list[str]:
+    """The tree key changes with any changed or untracked file and comes back with the same bytes; a cached
+    answer is taken only for its own key."""
+    bad = []
+    with tempfile.TemporaryDirectory() as tmp:
+        root = Path(tmp)
+        git = lambda *a: subprocess.run(["git", "-c", "user.email=t@t", "-c", "user.name=t", *a], cwd=root,  # noqa: E731
+                                        capture_output=True, check=True)
+        try:
+            git("init", "-q")
+            (root / "a.md").write_text("one\n")
+            git("add", "a.md")
+            git("commit", "-q", "-m", "a")
+        except (OSError, subprocess.CalledProcessError):
+            return []  # no git here: the cache is off, which worktree_key already returns as None
+        clean = worktree_key(root)
+        (root / "a.md").write_text("two\n")
+        edited = worktree_key(root)
+        (root / "a.md").write_text("one\n")
+        if not (clean and edited and clean != edited and worktree_key(root) == clean):
+            bad.append("cache: the tree key does not follow a file's bytes")
+        (root / "b.md").write_text("new\n")
+        if worktree_key(root) == clean:
+            bad.append("cache: an untracked file does not change the tree key")
+        (root / "b.md").unlink()
+        cache = Path(tempfile.mkdtemp())  # outside the work tree: a file inside it would change the key
+        (cache / f"{clean}.json").write_text(json.dumps({"checks": [["x", "held", "kept"]], "selftests": []}))
+        checks, _, where = checks_for_tree({}, root=root, cache=cache)
+        if checks != [["x", "held", "kept"]] or where != f"cache {clean}":
+            bad.append("cache: a cached answer for this tree is not taken")
+        calls = []
+        first = cached("x", "k", lambda: calls.append(1) or [1, 2], cache=cache)
+        again = cached("x", "k", lambda: calls.append(1) or [9], cache=cache)
+        if first != [1, 2] or again != [1, 2] or len(calls) != 1:
+            bad.append("cache: a kept value is computed again, or not returned")
+        if cached("x", "k", lambda: [9], fresh=True, cache=cache) != [9] or cached("x", None, lambda: [7], cache=cache) != [7]:
+            bad.append("cache: fresh or keyless does not compute")
+        shutil.rmtree(cache, ignore_errors=True)
+    return bad
+
+
 def selftest() -> tuple[list[str], list[str]]:
     """(failures, cases not run). Each check, handed the defect it exists to name. A
     case that passes for the wrong reason fails: the problem must be reported, and in
     the right words. A case that could not run is said to have not run (P15)."""
     failures, unrun = [], []
+    failures += cache_selftest()
     with tempfile.TemporaryDirectory() as tmp:
         out = Path(tmp)
         data = build(out, checks=False)
@@ -1619,14 +1738,15 @@ def main(argv: list[str]) -> int:
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
               "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor)")
         return 1 if failures else 0
-    data = build(OUT, checks="--no-checks" not in argv)
+    data = build(OUT, checks="--no-checks" not in argv, fresh="--fresh-checks" in argv)
     project = OUT / "canvas" / "project"
     size = (project / "Main.dc.html").stat().st_size
     print(f"wrote {project.relative_to(ROOT)}/ — {len(FRAMES)} artboards and canvas.json; "
           f"Main.dc.html {size / 1024:.0f} KB")
     print(f"  {len(data['pages'])} pages · {len(data['conflicts'])} conflicts · {len(data['questions'])} questions · "
           f"{len(data['compare'])} records · {len(data['docs'])} documents read · {len(data['corpus']['rows'])} manifest rows · "
-          f"{len(data['graph']['nodes'])} graph nodes")
+          f"{len(data['graph']['nodes'])} graph nodes"
+          + (f" · invariants and self-tests: {data['meta']['checks_from']}" if data["meta"].get("checks_from") else ""))
     if "--check" in argv:
         problems, notes = check(OUT, data)
         for p in problems:

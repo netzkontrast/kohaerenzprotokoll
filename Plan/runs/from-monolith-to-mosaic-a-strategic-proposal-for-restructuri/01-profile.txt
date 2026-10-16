@@ -1,0 +1,14 @@
+# from-monolith-to-mosaic-a-strategic-proposal-for-restructuri
+  lines                79  (frontmatter ends at 9)
+  body words           1663
+  headings             11   bold-only lines 0
+  table rows           8   code fences 0
+  question marks       0
+  backslash escapes    28
+  typographic marks    8   ascii quotes 88
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         980 chars
+

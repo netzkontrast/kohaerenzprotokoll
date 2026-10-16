@@ -1,0 +1,14 @@
+# dkt-fundament-kohaerenz-protokoll-md
+  lines                292  (frontmatter ends at 0)
+  body words           3075
+  headings             25   bold-only lines 14
+  table rows           33   code fences 4
+  question marks       8
+  backslash escapes    0
+  typographic marks    116   ascii quotes 26
+  invisible characters none
+  math symbol lines    14
+  glued ref numbers    11
+  repeated labels      Narrativ x5
+  longest line         538 chars
+

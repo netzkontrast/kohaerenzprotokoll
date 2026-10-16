@@ -1,0 +1,74 @@
+# counts for 53 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             12 word    33 in   [15, 26, 50, 73, 105, 123]  <-- substring
+                                   21      as Kaels
+  Juna                             16 word    21 in   [15, 50, 73, 105, 123, 125]
+                                    4      as Junas
+                                    1      as Juna-Struktur
+  Monstergruppe (M)                 4 word     4 in   [15, 19, 29, 82]
+  Babymonstergruppe (B)             4 word     4 in   [15, 45, 53, 82]
+  Monstergruppe                    10 word    10 in   [11, 15, 19, 22, 29, 71]
+  Babymonstergruppe                11 word    11 in   [11, 15, 28, 45, 48, 52]
+  Kernmetapher                      1 word     1 in   [174]
+  Entfernung                       21 word    21 in   [11, 15, 92, 95, 96, 97]
+  Fragmentierung                   18 word    18 in   [11, 15, 16, 26, 107, 111]
+  Kohärenz                          9 word     9 in   [11, 15, 16, 105, 107, 122]
+  Verlust von Juna                  5 word     5 in   [105, 123, 137, 181, 206]
+  Alter                             8 word    15 in   [117, 123, 142, 144, 156, 181]
+                                    2      as Alter-Zustände
+                                    2      as Alter-Zuständen
+                                    2      as Altern
+                                    1      as alternierenden
+  Alter-Zustände                    2 word     4 in   [117, 142, 144, 198]
+                                    2      as Alter-Zuständen
+  Nebenklassenraum                  4 word     9 in   [102, 105, 115, 183, 196, 205]  <-- substring
+                                    5      as Nebenklassenraums
+  Nebenklassenraum M/H              2 word     2 in   [115, 196]
+  M-Aktion                          5 word     5 in   [102, 117, 144, 183, 198]
+  M-Set                             1 word     2 in   [122, 137]
+                                    1      as M-Sets
+  doppelte Überlagerung             5 word     5 in   [50, 73, 86, 90, 205]
+  Happy Family                      6 word     6 in   [27, 28, 41, 75, 131, 154]
+  Pariahs                           1 word     1 in   [28]
+  Fischer-Griess Monster            1 word     1 in   [24]
+  Friendly Giant                    1 word     1 in   [24]
+  Kaels Innenwelt                   3 word     3 in   [179, 181, 201]
+  Kaels Psyche                      5 word     5 in   [149, 153, 155, 156, 200]
+  Proto-Identitäten                 1 word     1 in   [154]
+  Wechsel-Trigger                   1 word     1 in   [169]
+  Verlust der Kohärenz              1 word     1 in   [143]
+  Verlust der globalen Operation    1 word     1 in   [116]
+  wahrgenommene Kohärenz            1 word     1 in   [122]
+  Zentralisatoren als interne Perspektiven    1 word     1 in   [156]
+  Konkurrierende interne Strukturen    1 word     1 in   [199]
+  Multiple Identitäten              1 word     1 in   [142]
+  Amnesie/Gedächtnislücken          1 word     1 in   [144]
+  Trauma-Verbindung                 1 word     1 in   [145]
+  Verkörperung von Altern           1 word     1 in   [182]
+  Narrativer Bogen                  1 word     1 in   [183]
+  Zonen                             1 word     1 in   [181]
+  Monstrous Moonshine               2 word     3 in   [26, 52, 155]
+  Schur-Multiplikator               7 word     7 in   [24, 42, 50, 65, 86]
+  Subquotient                       3 word     8 in   [28, 41, 70, 71, 89, 101]  <-- substring
+                                    5      as Subquotienten
+  Zentralisator                    10 word    15 in   [72, 73, 75, 90, 95, 122]
+                                    5      as Zentralisatoren
+  Normalteiler                      7 word     7 in   [22, 28, 71, 95]
+  Quotientengruppe                  3 word     4 in   [95, 97, 116]
+                                    1      as Quotientengruppenbildung
+  einfache Gruppe                   6 word     7 in   [22, 48, 50, 84, 95, 122]
+  maximale Untergruppe              3 word     7 in   [73, 90, 123, 131, 182, 199]  <-- substring
+  Untergruppenverband               1 word     2 in   [154, 168]
+                                    1      as Untergruppenverbands
+  Involution                        2 word    17 in   [73, 75, 90, 95, 110, 123]  <-- substring
+                                    2      as Involutionen
+                                    1      as involutions
+  Linksnebenklassen                 1 word     1 in   [102]
+  Permutationsdarstellung           2 word     2 in   [26, 102]
+  Vertexoperatoralgebra             1 word     1 in   [52]
+  Kompartmentalisierung             1 word     1 in   [144]
+  Dissoziation                      1 word     1 in   [137]
+  DID                              12 word    16 in   [15, 105, 116, 117, 123, 125]

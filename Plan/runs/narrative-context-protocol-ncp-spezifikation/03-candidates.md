@@ -1,0 +1,96 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+---
+
+# Candidates — narrative-context-protocol-ncp-spezifikation
+
+Read whole (L11 to L223) before any count. The document is a German white paper that specifies a system around the novel's title; it names four story subsystems and their Dramatica storyform values in Table 1 (L49 to L61). It names no chapter. The schema block (L109 to L157) is JSON with field names in camelCase and export-damaged lists (`"storyforms":,`). Terms that stand only in the references list (L223) are left out.
+
+- Kohärenz Protokoll
+- Theorie der Narrativen Systemik
+- Kael
+- AEGIS
+- Juna/V
+- Das Fundament
+- JunaV
+- DasFundament
+- Story-Subsysteme
+- System-Dirigent
+- LLM-Dirigenten
+- Narrative Context Protocol
+- NCP
+- Single Source of Truth
+- Story Mind
+- Prompt-Kaskade
+- State Analysis Prompt
+- Context Compression Prompt
+- Narrative Generation Prompt
+- State Update Prompt
+- dynamische Kontext-Kompression
+- narrativ bewussten Zustandsabstraktion
+- narrativen Vektor
+- Nicht-Fokal-Systeme
+- Fokal-System
+- activeFocalSystem
+- worldState
+- interferenceRules
+- userModel
+- narrativeLog
+- systemStates
+- thematicTension
+- plotProgress
+- entropyLevel
+- compressedContext
+- expressedContext
+- narrativePotential
+- narrativePotentials
+- thematicAffinity
+- decisionHistory
+- resonanceSignalStrength
+- Dramaturgische Aufseher
+- Dramaturgischer Aufseher
+- Meta-Agent
+- Strukturelle Integritätsprüfung
+- Konvergenzprüfung
+- Kontradiktionsprüfung
+- Dynamische Paar-Interferenz
+- Begleiter-Paar-Interferenz
+- Abhängige Paar-Interferenz
+- Kern-Storyforms
+- Dramatica-Storyform
+- Dramatica-Quads
+- genetische Signatur
+- fraktalen, verschachtelten psychologischen Architektur
+- hybrides Modell
+- Primäre Rolle
+- Domäne
+- Anliegen
+- Thema
+- Problem
+- Lösung
+- Symptom
+- Response
+- Ziel
+- Konsequenz
+- Faith
+- Disbelief
+- Doubt
+- Control
+
+## lens
+
+- Dramatica
+- Throughlines
+- Table of Story Elements
+- Storyform
+- Quad
+- Objective Story
+- Main Character
+- Obstacle Character
+- Subjective Story
+- OODA-Loop
+- ReAct
+- Standard-RAG
+- Agentic RAG
+- LangGraph
+- Few-Shot

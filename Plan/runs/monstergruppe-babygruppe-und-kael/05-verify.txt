@@ -1,0 +1,54 @@
+$ read.py --count "Analogie:"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Analogie:` ^[monstergruppe-babygruppe-und-kael.md:#16]
+$ read.py --count "Narrative Verbindung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Narrative Verbindung` ^[monstergruppe-babygruppe-und-kael.md:#4]
+$ read.py --count "Visuelles Motiv"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Visuelles Motiv` ^[monstergruppe-babygruppe-und-kael.md:#4]
+$ read.py --count "Kernselbst"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kernselbst` ^[monstergruppe-babygruppe-und-kael.md:#4]
+$ read.py --count "Juna"
+whole word, case-sensitive     44
+whole word, case-insensitive   44
+including compounds            61
+
+`Juna` ^[monstergruppe-babygruppe-und-kael.md:#44]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[monstergruppe-babygruppe-und-kael.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[monstergruppe-babygruppe-und-kael.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[monstergruppe-babygruppe-und-kael.md:#0]
+$ read.py --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[monstergruppe-babygruppe-und-kael.md:#0]

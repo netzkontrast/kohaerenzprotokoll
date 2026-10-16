@@ -1,0 +1,630 @@
+{
+  "document": "projekt-ockham-narrative-systemik-reduktion",
+  "step": "reconcile-pre",
+  "at": "2026-10-14",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-14",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 110,
+  "decisions": 111,
+  "same_surface": {},
+  "decided_mechanically": 87,
+  "needs_judgement": 24,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 93
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie (DKT)",
+        "page": "dkt",
+        "readings": 93
+      },
+      {
+        "candidate": "Kohärenz-Kernel",
+        "page": "kohaerenz-kernel",
+        "readings": 59
+      },
+      {
+        "candidate": "Kollaps-Kernel",
+        "page": "kollaps-kernel",
+        "readings": 55
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 392
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 342
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 406
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 214
+      },
+      {
+        "candidate": "Gödel-Gambit",
+        "page": "goedel-gambit",
+        "readings": 106
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Projekt Ockham"
+      },
+      {
+        "candidate": "Epistemische Isolation"
+      },
+      {
+        "candidate": "Epistemischen Isolation"
+      },
+      {
+        "candidate": "Epistemische Kontamination"
+      },
+      {
+        "candidate": "Epistemische Konsistenz"
+      },
+      {
+        "candidate": "Coherence Protocol"
+      },
+      {
+        "candidate": "K\\_1"
+      },
+      {
+        "candidate": "K\\_0"
+      },
+      {
+        "candidate": "Kontext-Fäule"
+      },
+      {
+        "candidate": "Context Rot"
+      },
+      {
+        "candidate": "Context Engineering"
+      },
+      {
+        "candidate": "Aktives Vergessen"
+      },
+      {
+        "candidate": "Hard Canon"
+      },
+      {
+        "candidate": "Soft Canon"
+      },
+      {
+        "candidate": "Storyform"
+      },
+      {
+        "candidate": "Storytelling"
+      },
+      {
+        "candidate": "Muse"
+      },
+      {
+        "candidate": "Mediator"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Sensory Drafter"
+      },
+      {
+        "candidate": "System Architect"
+      },
+      {
+        "candidate": "Narrative Director"
+      },
+      {
+        "candidate": "Brainstormer"
+      },
+      {
+        "candidate": "Weaver"
+      },
+      {
+        "candidate": "Editor / Critic"
+      },
+      {
+        "candidate": "Character Bots"
+      },
+      {
+        "candidate": "Environment Loop"
+      },
+      {
+        "candidate": "Gemini CLI"
+      },
+      {
+        "candidate": "Telepathie-Verbot"
+      },
+      {
+        "candidate": "Agenten-Telepathie"
+      },
+      {
+        "candidate": "God Mode"
+      },
+      {
+        "candidate": "Externe Gehirn"
+      },
+      {
+        "candidate": "Narrativen Datenbank"
+      },
+      {
+        "candidate": "Wissens-Hypergraph"
+      },
+      {
+        "candidate": "Atomare Entität"
+      },
+      {
+        "candidate": "Atomic Entity"
+      },
+      {
+        "candidate": "BDI-Agent"
+      },
+      {
+        "candidate": "Scene Card"
+      },
+      {
+        "candidate": "Storybeat"
+      },
+      {
+        "candidate": "Skill Library"
+      },
+      {
+        "candidate": "Doppelt verkettete Liste der Kausalität"
+      },
+      {
+        "candidate": "Waisen-Events"
+      },
+      {
+        "candidate": "Kausalketten-Verifikation"
+      },
+      {
+        "candidate": "Semantisches Linting"
+      },
+      {
+        "candidate": "Semantischen Lintings"
+      },
+      {
+        "candidate": "Coherence Digest"
+      },
+      {
+        "candidate": "Shadow Git"
+      },
+      {
+        "candidate": "Thematische Resonanz"
+      },
+      {
+        "candidate": "Coherence Loop"
+      },
+      {
+        "candidate": "Obsidian Canvas"
+      },
+      {
+        "candidate": "Watchdog-Skript"
+      },
+      {
+        "candidate": "NCP"
+      },
+      {
+        "candidate": "Narrative Context Protocol"
+      },
+      {
+        "candidate": "Golden Source"
+      },
+      {
+        "candidate": "Sektor 4"
+      },
+      {
+        "candidate": "Keycard"
+      },
+      {
+        "candidate": "OntologyValidator"
+      },
+      {
+        "candidate": "Hallucination Drift"
+      },
+      {
+        "candidate": "Lost in the Middle"
+      },
+      {
+        "candidate": "Korrespondenztheorie der Wahrheit"
+      },
+      {
+        "candidate": "Dissoziativer Identitätsstruktur"
+      },
+      {
+        "candidate": "Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "Anscheinend Normale Persönlichkeitsanteile"
+      },
+      {
+        "candidate": "Emotionale Persönlichkeitsanteile"
+      },
+      {
+        "candidate": "Klassischer Logik"
+      },
+      {
+        "candidate": "Parakonsistenter Logik"
+      },
+      {
+        "candidate": "Fabula"
+      },
+      {
+        "candidate": "Syuzhet"
+      },
+      {
+        "candidate": "Zettelkasten"
+      },
+      {
+        "candidate": "GraphRAG"
+      },
+      {
+        "candidate": "Model Context Protocol"
+      },
+      {
+        "candidate": "Prompt Injection"
+      },
+      {
+        "candidate": "Garbage Collection"
+      },
+      {
+        "candidate": "Voyager"
+      },
+      {
+        "candidate": "LangGraph"
+      },
+      {
+        "candidate": "CrewAI"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "NovelOS  /  NovelOS 1.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "NovelOS  /  NovelOS 2.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie  /  Dual-Kernel-Theorie (DKT)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie  /  Dual Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie  /  Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie (DKT)  /  Dual Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie (DKT)  /  Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dual Kernel  /  Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Kernel  /  Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kollaps-Kernel  /  Kernel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "ARCHON  /  ARCHON Stack",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Narrative Reliability Engineer  /  Narrative Reliability Engineering",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Isomorphie-Prinzip  /  Isomorphie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Librarian  /  The Librarian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologist  /  Ontologist Agent",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "BDI-Modell  /  BDI-Modelle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual-Kernel-Theorie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Dual Kernel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          },
+          {
+            "surface": "kohaerenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernelk1",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "Narrative Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenztheorie der Wahrheit",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AutoGen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "rsarekursivesemantischeautogenese",
+            "page": "rsa"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 305,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "already_read": false
+    },
+    {
+      "page": "personas",
+      "surface": "Persona",
+      "line": 80,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 29,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

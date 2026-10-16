@@ -1,0 +1,730 @@
+{
+  "document": "physik-fuer-simulierte-realitaet",
+  "drive_id": "1rtVq7LDKPrpym9eFBDVe6PVrG-5vFKOUcpkujeaaBqg",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        19,
+        356,
+        581
+      ]
+    },
+    "AEGIS": {
+      "n": 103,
+      "n_including_compounds": 107,
+      "lines": [
+        11,
+        19,
+        23,
+        27,
+        28,
+        29,
+        43,
+        47,
+        51,
+        55,
+        57,
+        63,
+        65,
+        67,
+        71,
+        73,
+        77,
+        83,
+        85,
+        91,
+        96,
+        98,
+        108,
+        125,
+        127,
+        186,
+        187,
+        188,
+        209,
+        226,
+        232,
+        262,
+        266,
+        272,
+        274,
+        280,
+        314,
+        315,
+        326,
+        328,
+        338,
+        339,
+        340,
+        342,
+        348,
+        358,
+        360,
+        361,
+        370,
+        372,
+        380,
+        381,
+        390,
+        401,
+        402,
+        410,
+        416,
+        420,
+        421,
+        427,
+        431,
+        432,
+        473,
+        499,
+        525,
+        534,
+        539,
+        548,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        570,
+        572,
+        574,
+        575,
+        577
+      ]
+    },
+    "AEGIS/Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Potentialmeer/Überwelt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        23,
+        28,
+        83
+      ]
+    },
+    "AEGIS/Potentialmeer": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        125,
+        127,
+        390,
+        566,
+        567
+      ]
+    },
+    "Potentialmeer": {
+      "n": 24,
+      "n_including_compounds": 32,
+      "lines": [
+        19,
+        23,
+        28,
+        71,
+        83,
+        85,
+        96,
+        109,
+        125,
+        127,
+        187,
+        188,
+        339,
+        348,
+        360,
+        361,
+        380,
+        390,
+        411,
+        489,
+        498,
+        525,
+        535,
+        539,
+        564,
+        565,
+        566,
+        567
+      ]
+    },
+    "Überwelt": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        19,
+        23,
+        28,
+        83,
+        114
+      ]
+    },
+    "Potentialmeer-Multiversum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        380,
+        565
+      ]
+    },
+    "Kernwelten": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        23,
+        29,
+        47,
+        91,
+        100,
+        104,
+        127,
+        188,
+        234,
+        338,
+        348,
+        370,
+        390,
+        489,
+        497,
+        499,
+        500,
+        566
+      ]
+    },
+    "Risse": {
+      "n": 37,
+      "n_including_compounds": 47,
+      "lines": [
+        23,
+        30,
+        47,
+        55,
+        63,
+        77,
+        79,
+        110,
+        112,
+        131,
+        137,
+        157,
+        166,
+        187,
+        207,
+        209,
+        220,
+        222,
+        266,
+        272,
+        274,
+        278,
+        340,
+        342,
+        359,
+        371,
+        390,
+        400,
+        436,
+        447,
+        458,
+        472,
+        500,
+        508,
+        563,
+        568,
+        570,
+        571,
+        574,
+        577
+      ]
+    },
+    "K-J Verbindung": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        23,
+        31,
+        190,
+        284,
+        317,
+        319,
+        326,
+        328,
+        348,
+        362,
+        392,
+        504,
+        521,
+        570,
+        575,
+        576,
+        583
+      ]
+    },
+    "M-Struktur": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        110,
+        127,
+        190,
+        232,
+        319,
+        328,
+        392,
+        504,
+        521,
+        564
+      ]
+    },
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        19,
+        31,
+        55,
+        79,
+        96,
+        131,
+        328,
+        346,
+        371,
+        400
+      ]
+    },
+    "Wächter-KI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Meta-Realität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        28
+      ]
+    },
+    "Rechensubstrat": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        108,
+        499
+      ]
+    },
+    "Realitätsfilter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Gärtner": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        342,
+        348,
+        577
+      ]
+    },
+    "Entropie-Management": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        272,
+        274
+      ]
+    },
+    "NZT-Ideal": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        226,
+        232,
+        382
+      ]
+    },
+    "Quantenflüstern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Messproblem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        61,
+        562
+      ]
+    },
+    "Kopenhagener Interpretation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        421
+      ]
+    },
+    "Viele-Welten-Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "QBismus": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        53,
+        57,
+        358,
+        381,
+        402,
+        420,
+        432,
+        548,
+        562
+      ]
+    },
+    "Dekohärenz": {
+      "n": 9,
+      "n_including_compounds": 14,
+      "lines": [
+        59,
+        61,
+        63,
+        65,
+        400,
+        427,
+        431,
+        563
+      ]
+    },
+    "Verschränkung": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        61,
+        67,
+        73,
+        77,
+        323,
+        362,
+        504,
+        509,
+        564
+      ]
+    },
+    "Nichtlokalität": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        67,
+        69,
+        73,
+        317,
+        325,
+        328,
+        362,
+        564,
+        576,
+        583
+      ]
+    },
+    "Feinabstimmung": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        85,
+        87,
+        89,
+        96,
+        131,
+        361,
+        380,
+        525,
+        529,
+        535,
+        565,
+        583
+      ]
+    },
+    "Multiversum": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        85,
+        92,
+        96,
+        98,
+        361,
+        380,
+        525,
+        535,
+        565
+      ]
+    },
+    "Anthropisches Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Holographische Prinzip": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        100,
+        489,
+        493,
+        508
+      ]
+    },
+    "Digitale Physik": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        139,
+        141,
+        359,
+        436,
+        440,
+        547,
+        568
+      ]
+    },
+    "Planck-Skala": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        143,
+        157,
+        194,
+        213,
+        262,
+        391,
+        568
+      ]
+    },
+    "Stringtheorie": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        102,
+        168,
+        170,
+        213,
+        436,
+        451,
+        570
+      ]
+    },
+    "M-Theorie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        168,
+        170,
+        324,
+        451,
+        570
+      ]
+    },
+    "Branen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        168,
+        170,
+        172,
+        188,
+        570
+      ]
+    },
+    "Extradimensionen": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        23,
+        168,
+        170,
+        172,
+        176,
+        178,
+        186,
+        187,
+        190,
+        220,
+        324,
+        362,
+        392,
+        436,
+        451,
+        515,
+        521,
+        570
+      ]
+    },
+    "Schleifenquantengravitation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        192,
+        194
+      ]
+    },
+    "Spin-Netzwerke": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        194,
+        209,
+        571
+      ]
+    },
+    "Spin-Schäume": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        194,
+        209
+      ]
+    },
+    "It from Bit": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        141,
+        228,
+        230,
+        234,
+        371,
+        423,
+        572
+      ]
+    },
+    "Simulationsargument": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        236,
+        238,
+        573
+      ]
+    },
+    "Retrokausalität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        306,
+        315,
+        362,
+        517,
+        549,
+        575
+      ]
+    },
+    "Transaktionale Interpretation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        325,
+        549
+      ]
+    },
+    "Chaostheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        332
+      ]
+    },
+    "Emergenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        330,
+        332,
+        348,
+        577
+      ]
+    },
+    "Beobachtereffekt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        358
+      ]
+    },
+    "Dunkle Materie": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        114,
+        116,
+        118,
+        120,
+        127,
+        401,
+        567
+      ]
+    },
+    "Dunkle Energie": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        114,
+        116,
+        119,
+        120,
+        124,
+        127
+      ]
+    },
+    "Pixelation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        161
+      ]
+    }
+  }
+}

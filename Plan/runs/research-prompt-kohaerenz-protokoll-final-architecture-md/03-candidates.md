@@ -1,0 +1,87 @@
+written_by: document-reader subagent (Sonnet), 2026-10-16, while reading, before any count
+
+The document is an English research prompt with German terms, addressed to a deep-research agent; most of it is procedure (steps, blocks, checkpoints), and the novel's world appears in Section 1 and in the eight axes. It holds a section of personal biographical material (Section 1.4 and Constraint Blocks 4 and 5); that material is not listed. Early names for figures stand in that section and are not listed. The document writes the kernels with subscripts (K₁, K₀). Its method names (OSIRIS, ReAct, the M-numbered methods) are listed only where the document uses them as its own terms.
+
+- Kohärenz Protokoll
+- Dual-Kernel Theory
+- DKT
+- K₁
+- K₀
+- Coherence Kernel
+- Collapse / Erasure Kernel
+- Erasure Kernel
+- Landauer Principle
+- Landauer heat
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Kael
+- TSDP
+- Apparently Normal Parts
+- Emotional Parts
+- EPs
+- Juna
+- Moonshine-Link
+- Moonshine Link
+- K-J Vector
+- M-substrate
+- Witness Function
+- Quantum Entanglement Witness
+- Cryptographic Zero-Knowledge Verifier
+- Phenomenological Disinterested Spectator
+- Vortex Inversion
+- Truth Theories Axis
+- Coherence Theory of Truth
+- Correspondence Theory of Truth
+- Correspondence Check
+- Reader as Substrate
+- 5D-interference
+- Storyform A
+- Storyform B
+- Phönix Mode
+- Phönix-Mode
+- Symmetry Gates
+- Autobiographical Anchor
+- Foundation
+- Sea of Potentiality
+- Kael/M
+- Coheron
+- Risse
+- Nichts-Rauschen
+- Algorithmische Melancholie
+- Funktionale Multiplizität
+- Kohärenz-Kern
+- Kollaps-Kern
+- Zeuge-Funktion
+- Mosaik-Herz
+- Mosaic Heart
+- Wahrheits-Vortex
+- mosaic structure
+- OSIRIS
+- ReAct
+- Concept-as-Canon
+- Source-Privacy Firewall
+- Reflection Baseline
+- story-first
+- Plot-Outline-Ready
+
+## lens
+
+- Dramatica
+- Throughlines
+- Influence Character
+- Main Character
+- Overall Story
+- Relationship Story
+- Gödel-sentence
+- Chaitin constant
+- Bekenstein Bound
+- Monstrous Moonshine
+- Vertex Operator Algebras
+- prehension
+- Quantum Entanglement
+- Coherence Theory
+- Dialetheism
+- Madhyamaka
+- Pragmatism
+- Structural Dissociation Theory
+- Internal Family Systems

@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "kohaerenz-protokoll-master-integration-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kohaerenz-protokoll-philosophischer-bericht-md", "systemic-architecture-specification-the-coherence-protocol-w", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "kohaerenz-protokoll-master-integration-md", "dkt-fundament-kohaerenz-protokoll-md"]
 gathered: "2026-09-24"
 ---
 
@@ -16,6 +16,10 @@ it actually measures.**
 ## Reading — `kohaerenz-protokoll-master-integration-md`, 2026-03-26, the master integration — the equation, AEGIS computing it, Kael's decision, and the log's last line
 
 The master integration gives the equation its own section, „Die Persistenzgleichung“ ^[kohaerenz-protokoll-master-integration-md.md:L64], with the table of η as „Persistenz-Score (0–1)“ ^[kohaerenz-protokoll-master-integration-md.md:L72]. It states: „AEGIS berechnet diese Gleichung buchstäblich für jeden Bürger und jede Struktur der Stadt.“ ^[kohaerenz-protokoll-master-integration-md.md:L78] In Act III Kael decides: „Kaels Entscheidung an der Persistenzgleichung“ ^[kohaerenz-protokoll-master-integration-md.md:L284], with α=1, β=∞ as stasis and β=0 as death (L284). In the log of AEGIS the document writes „Die Gleichung hat keine Lösung.“ ^[kohaerenz-protokoll-master-integration-md.md:L354]
+
+## Reading — `dkt-fundament-kohaerenz-protokoll-md`, 2026-03-26, the DKT-Fundament memo — the central formula of the novel's world, computed by AEGIS
+
+The DKT-Fundament memo calls it „Die zentrale Formel der Romanwelt“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L55] and tabulates its parameters twice, as physics and as narrative level: a persistence score read as the „Überlebenswahrscheinlichkeit einer Struktur“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L63], with reversibility efficiency, mutual information, entropy-producing loss and buffer capacity. It says the equation is computable for every narrative state and that „AEGIS berechnet sie buchstäblich für jeden Bürger“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L70]; AEGIS is also described as a system that optimises „die Persistenzgleichung der gesamten Stadt“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L104]. In the foreshadowing proposal AEGIS can compute it for everything but itself. For the acts, Act II has „Die Persistenzgleichung wird sichtbar“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L191], Act III turns on „Kaels Entscheidung an der Persistenzgleichung“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L192], and „Kael entdeckt die Persistenzgleichung in Theta-9“ ^[dkt-fundament-kohaerenz-protokoll-md.md:L267] in the writing suggestions. Proposals; recorded, not applied.
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 

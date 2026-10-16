@@ -1,0 +1,14 @@
+# aieos-schema-fuer-ki-charaktere
+  lines                641  (frontmatter ends at 9)
+  body words           4210
+  headings             16   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    174
+  typographic marks    0   ascii quotes 1298
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    39
+  repeated labels      none
+  longest line         1374 chars
+

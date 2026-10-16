@@ -1,0 +1,642 @@
+{
+  "document": "monstergruppe-logik-und-metaphern",
+  "drive_id": "19L8Y42PgZvGn_qKZVSvrFyakUIzMwC5tKQl9PRWzhBI",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Monstergruppe": {
+      "n": 41,
+      "n_including_compounds": 46,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        26,
+        28,
+        30,
+        44,
+        46,
+        48,
+        50,
+        52,
+        56,
+        64,
+        73,
+        79,
+        85,
+        98,
+        100,
+        108,
+        112,
+        116,
+        128,
+        142,
+        148,
+        155,
+        162,
+        166,
+        195,
+        220,
+        235,
+        239,
+        243,
+        249,
+        262,
+        295,
+        297,
+        299,
+        306,
+        308,
+        310,
+        378,
+        384
+      ]
+    },
+    "sporadischen Gruppen": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        15,
+        44,
+        56,
+        58,
+        73,
+        160,
+        162,
+        167,
+        169,
+        177,
+        210,
+        220,
+        235,
+        378
+      ]
+    },
+    "Fischer-Griess-Monster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Freundlicher Riese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Baby-Monstergruppe": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        44,
+        64,
+        85,
+        166,
+        195
+      ]
+    },
+    "Happy Family": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        20,
+        54,
+        58,
+        60,
+        73,
+        167,
+        180,
+        191,
+        202,
+        233,
+        344,
+        378,
+        408
+      ]
+    },
+    "Pariahs": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        54,
+        58,
+        66,
+        73,
+        167,
+        215,
+        235,
+        344
+      ]
+    },
+    "Subquotienten": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        44,
+        54,
+        56,
+        58,
+        73,
+        167,
+        210,
+        344,
+        378
+      ]
+    },
+    "maximale Untergruppe": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        77,
+        83,
+        91,
+        92,
+        191,
+        202,
+        259
+      ]
+    },
+    "Griess-Algebra": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        46,
+        52,
+        96,
+        98,
+        100,
+        104,
+        134,
+        168,
+        232,
+        245,
+        251
+      ]
+    },
+    "Moonshine-Modul-VOA": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        21,
+        48,
+        104,
+        106,
+        108,
+        112,
+        120,
+        152,
+        301,
+        352,
+        380,
+        394,
+        397,
+        427,
+        430
+      ]
+    },
+    "Moonshine-Vermutungen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        110,
+        124,
+        144
+      ]
+    },
+    "Vertexoperatoralgebren": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        104,
+        108,
+        122,
+        380
+      ]
+    },
+    "VOAs": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        104,
+        108,
+        122,
+        138,
+        142,
+        156
+      ]
+    },
+    "Moonshine-Moduls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        134
+      ]
+    },
+    "Monster-Lie-Algebra": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        138,
+        146
+      ]
+    },
+    "Leech-Gitter": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        63,
+        132,
+        168,
+        190,
+        232,
+        260
+      ]
+    },
+    "Orbifold-Konstruktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Mathieu-Gruppen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        166,
+        168,
+        173
+      ]
+    },
+    "Conway-Gruppen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        168,
+        184
+      ]
+    },
+    "Golay-Code": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        62,
+        102,
+        179,
+        232,
+        260
+      ]
+    },
+    "Moufang-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "McKay-Thompson-Reihe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Hauptmodul": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        120,
+        130
+      ]
+    },
+    "Erklärungsrahmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Stringtheorie": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        48,
+        138,
+        140,
+        144,
+        148,
+        380
+      ]
+    },
+    "Steiner-Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Pariah-Gruppen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        206,
+        320
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        243,
+        268,
+        290
+      ]
+    },
+    "Ex Contradictione Quodlibet": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        243
+      ]
+    },
+    "ECQ": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        243,
+        268,
+        290,
+        291
+      ]
+    },
+    "klassischen Logik": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        241,
+        243,
+        256,
+        262,
+        279
+      ]
+    },
+    "klassische Logik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        239,
+        249,
+        382
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        23,
+        239,
+        264,
+        266,
+        279,
+        304,
+        382
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        268,
+        281,
+        283,
+        289,
+        302,
+        306
+      ]
+    },
+    "Dialetheismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        281
+      ]
+    },
+    "Konstruktionsopazität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        254
+      ]
+    },
+    "dekonstruktive Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "Parker-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Satz vom Widerspruch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        243,
+        291
+      ]
+    },
+    "Abstraktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        251,
+        382
+      ]
+    },
+    "Dimensionalität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        252,
+        368,
+        382
+      ]
+    },
+    "Komputationale Komplexität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        253
+      ]
+    },
+    "Moonshine": {
+      "n": 24,
+      "n_including_compounds": 37,
+      "lines": [
+        21,
+        48,
+        104,
+        106,
+        108,
+        110,
+        112,
+        120,
+        124,
+        134,
+        136,
+        142,
+        144,
+        148,
+        150,
+        152,
+        156,
+        157,
+        158,
+        301,
+        306,
+        352,
+        380,
+        382,
+        384,
+        394,
+        396,
+        397,
+        427,
+        430
+      ]
+    },
+    "Friendly Giant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        360
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        295,
+        303
+      ]
+    },
+    "Komplexität ohne Trivialität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        302
+      ]
+    },
+    "Grenzen der Zerlegung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Metaphorisches Werkzeug": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Denkrahmen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        266,
+        306
+      ]
+    },
+    "Unermessliche Skala und Macht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        312
+      ]
+    },
+    "Exzeptionalität und Isolation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        320
+      ]
+    },
+    "Verborgene Ordnung und Symmetrie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        328
+      ]
+    },
+    "Unverständlichkeit und Mysterium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        336
+      ]
+    },
+    "Interne Struktur (Happy Family / Pariahs)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        344
+      ]
+    },
+    "Hohe Dimensionalität (196.883+)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        368
+      ]
+    },
+    "Narrative Potenziale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        308
+      ]
+    },
+    "dekonstruierender Logiken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        303
+      ]
+    },
+    "Moonshine-Phänomens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        306
+      ]
+    }
+  }
+}

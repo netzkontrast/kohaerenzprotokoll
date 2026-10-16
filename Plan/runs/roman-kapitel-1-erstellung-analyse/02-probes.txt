@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      21
+  backslash escapes      32
+  typographic marks      40
+  ascii quotes           114
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, System, Systemcheck, Systeme, Systemfehler, Systeminterferenz, Systemische, Systems
+  daten    Daten, Datenknotenpunkt, Datenspitzen, Datenstrom, Datenströme
+  analy    Analyse, Analysebericht, Analytiker, Analytischer
+  entro    Entropic, Entropie, Entropische, Entropischen
+  spieg    Spiegel, Spiegelbild, Spiegelbilder, Spiegelszene
+  archi    Architecture, Architekt, Architektur
+  chara    Charakter, Charakterdynamik, Charakterkonzepte
+  diese    Diese, Dieser, Dieses
+  disso    Dissoziation, Dissoziationssymptome, Dissoziative
+  einhe    Einheit, Einheiten, Einheitsanzügen
+  gesch    Geschichte, Geschlossenheit, Geschmack
+  gesic    Gesicht, Gesichter, Gesichts
+  konfl    Konflikt, Konfliktlinie, Konflikts
+  niedr    Niedrig, Niedrige, Niedrigen
+  proto    Protokoll, Protokolle, Protokolls
+  roman    Roman, Romanprojekt, Romans
+  trans    TRANSFER, Transit, Transitröhre
+  unter    Unterdrücken, Unterdrückung, Unterströmung
+  verst    Verstand, Verstande, Verstandes
+  wider    Widerspruch, Widerstand, Widerstands
+  algor    Algorithmen, Algorithms
+  alter    Alter, Alters
+  anoma    Anomalie, Anomalien
+  aspek    Aspekte, Aspekten
+  atmos    Atmospheric, Atmosphäre
+
+# substring pairs -- never one term, often merged by accident
+  Bild < Nachbild
+  Bild < Bildschirms
+  Bild < Spiegelbild
+  Bild < Spiegelbilder
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Eine < Anscheinend
+  Eins < Einschub
+  Ende < Tausende
+  Ende < Folgenden
+  Ende < Rendering
+  Ende < Pulsierende
+  Ende < Bezeichnenden
+  Fall < Falle
+  Fall < Verfall
+  Fall < Zerfall
+  Form < Formen
+  Form < Information

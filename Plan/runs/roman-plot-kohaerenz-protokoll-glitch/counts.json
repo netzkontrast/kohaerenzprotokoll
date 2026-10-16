@@ -1,0 +1,413 @@
+{
+  "document": "roman-plot-kohaerenz-protokoll-glitch",
+  "drive_id": "16bJG_2JmsijYFsGxO9jvAHRxfg-qBaZQJyyDe-LWaFw",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Aris Thorne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Aris": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        33,
+        35,
+        37,
+        45,
+        47,
+        49,
+        67,
+        71,
+        81,
+        83,
+        101,
+        103,
+        105,
+        113,
+        115
+      ]
+    },
+    "Elara Vance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Elara": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        45,
+        47,
+        49,
+        51,
+        67,
+        71,
+        81,
+        83,
+        85,
+        115
+      ]
+    },
+    "Silus": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        67,
+        69,
+        71,
+        73,
+        81,
+        83,
+        85,
+        93,
+        101,
+        103,
+        105,
+        113,
+        127
+      ]
+    },
+    "Aethelred": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        67,
+        71,
+        101
+      ]
+    },
+    "Aethelreds": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        67,
+        71
+      ]
+    },
+    "Glitch": {
+      "n": 2,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        35,
+        37,
+        49,
+        71,
+        113,
+        131,
+        148
+      ]
+    },
+    "Glitches": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        49,
+        71,
+        113,
+        131,
+        148
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        35,
+        51,
+        71,
+        115,
+        119,
+        130,
+        135
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Datenanomalie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Rollin-Films": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "Systemzerfall": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        85,
+        131
+      ]
+    },
+    "Datenkern": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71
+      ]
+    },
+    "Administrator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        130
+      ]
+    },
+    "NPC": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Basisrealität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        71,
+        73,
+        81
+      ]
+    },
+    "Quantenpotentialität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        35,
+        73
+      ]
+    },
+    "Konsensrealität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        127
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Open Source": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "entklebt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        51
+      ]
+    },
+    "Mandela-Effekt": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        47,
+        81
+      ]
+    },
+    "Bindungsproblem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Simultanagnosie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        85
+      ]
+    },
+    "neuronalen Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        51
+      ]
+    },
+    "Konfabulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Schemata": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Philosophenkönig": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        59,
+        67,
+        69
+      ]
+    },
+    "Philosophenkönigs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "heilsamen Lüge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Technokratie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        71
+      ]
+    },
+    "Holographischen Prinzips": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Haupteinwand": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        85
+      ]
+    },
+    "Haupteinwands": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Master Objection": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        77,
+        85
+      ]
+    },
+    "Erlebnismaschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "It from Bit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        89,
+        93,
+        101,
+        128,
+        184
+      ]
+    },
+    "Heisenbergsche Unschärferelation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        113
+      ]
+    },
+    "Superposition": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        33,
+        85,
+        113
+      ]
+    },
+    "Quanten-Dekohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        33,
+        51
+      ]
+    },
+    "Metaphysischer Realismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Anti-Realismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        128
+      ]
+    }
+  }
+}

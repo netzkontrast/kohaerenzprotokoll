@@ -1,0 +1,44 @@
+# counts for 36 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                6 word     6 in   [11, 13, 19, 64, 196, 202]
+  KP                               12 word    19 in   [13, 68, 70, 78, 137, 166]
+  NZT-Direktive                     2 word     2 in   [13, 202]
+  Potentialmeer                    11 word    15 in   [79, 84, 86, 90, 104, 130]
+                                    4      as Potentialmeers
+  AEGIS                            27 word    27 in   [79, 80, 85, 94, 99, 103]
+  Monstergruppe M                   2 word     2 in   [81, 196]
+  Monstergruppe (M)                 1 word     1 in   [108]
+  Monstergruppe                     3 word     3 in   [81, 108, 196]
+  Kael                             11 word    19 in   [82, 113, 117, 121, 122, 145]
+                                    8      as Kaels
+  Kaels                             8 word     8 in   [121, 122, 147, 149, 153, 170]
+  Juna                              2 word     3 in   [82, 117, 121]
+                                    1      as Junas
+  Kael/Juna                         2 word     2 in   [82, 117]
+  K-J Verbindung                    4 word     4 in   [82, 83, 122, 181]
+  Kernwelten                        5 word     5 in   [84, 94, 141, 142, 186]
+  Kernkonflikt                      3 word     3 in   [85, 126, 130]
+  Wissensgrenzen                    2 word     2 in   [86, 126]
+  Einbrüche des Unmöglichen         1 word     1 in   [158]
+  Der Horror der Integration        1 word     1 in   [149]
+  Maschinen-Grauen                  1 word     1 in   [104]
+  Cosmic Horror                    33 word    41 in   [11, 13, 15, 19, 24, 30]
+  Kosmische Gleichgültigkeit        1 word     1 in   [21]
+  Verbotenes Wissen                 4 word     4 in   [33, 80, 82, 86]
+  Verbotenem Wissen                 1 word     1 in   [130]
+  Existenzielle Angst               3 word     3 in   [39, 86, 147]
+  Existenzieller Angst              1 word     1 in   [130]
+  Fragilität der Realität           3 word     3 in   [44, 141, 196]
+  Machtlosigkeit                    7 word     7 in   [59, 80, 82, 85, 121, 160]
+  Vergeblichkeit                    6 word     6 in   [59, 62, 85, 131, 160]
+  Fremde Intelligenz                1 word     1 in   [80]
+  Fremden Intelligenz               1 word     1 in   [103]
+  Uncanny Valley KI                 1 word     1 in   [148]
+  Dread                             8 word     8 in   [39, 41, 42, 81, 113, 219]
+  Agency                            2 word     2 in   [178, 180]
+  Tonale Kohärenz                   1 word     1 in   [189]
+  Atmosphäre & Suggestion           1 word     1 in   [54]
+  Körper-/Geist-Horror              2 word     2 in   [82, 121]

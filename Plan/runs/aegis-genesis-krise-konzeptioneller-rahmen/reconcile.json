@@ -1,0 +1,85 @@
+{
+  "document": "aegis-genesis-krise-konzeptioneller-rahmen",
+  "drive_id": "1NuXFjg4H-DoAhbkEqxq3On15QSkJ1bGNU4erZzb1Eq0",
+  "step": "reconcile",
+  "at": "2026-10-13",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-13, from the full-ingest task with no count before the list; rlm_ingest not run; light pass — a version of the AEGIS Genesis-Krise concept already read; a reading on kael and one C16 entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-418/brief.md, 2026-10-13; the document was first held back by a privacy screen on the abbreviation DIS and released when it proved to be a concept plan with no personal material",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 89,
+    "decided_by_lookup": 69,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A version of the AEGIS Genesis-Krise concept already read: its surfaces are its own labels and borrowed theory fields; what it adds — Kael emerging as a fragment of AEGIS's Ursprungs-Ich — went on kael and C16; the rest stands with the read versions.",
+  "new_readings": [
+    {
+      "page": "kael",
+      "lines": [
+        705,
+        752,
+        767,
+        799
+      ],
+      "attribution": "",
+      "note": "Kael emerging at the end of a six-stage arc"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C16"
+  ],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a light pass on a version of a concept already read: the read versions' decisions stand; `Kohärenz Protokoll(s)` the concept's protocol, read on aegis by the earlier versions",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 68,
+      "decision": "occurrence",
+      "why": "emergence in the theory section"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 33,
+      "decision": "occurrence",
+      "why": "coherence in the concept's general sense"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitches",
+      "line": 710,
+      "decision": "occurrence",
+      "why": "glitches in the Ursprungs-Ich's processing; light pass"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 185,
+      "decision": "occurrence",
+      "why": "simulation as a question about the Leere"
+    }
+  ],
+  "not_promoted": [
+    "Kael-Emergenz, Kael-Fragment, Ursprungs-Ich, Fehlausgerichtete Kohärenz, NZT-Modus, Gelenkte Fokalisierung, Das Frakturierte Selbst, and the borrowed concepts"
+  ],
+  "internal_tension": "none found",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

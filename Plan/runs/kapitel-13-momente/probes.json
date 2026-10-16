@@ -1,0 +1,163 @@
+{
+  "document": "kapitel-13-momente",
+  "drive_id": "1F2XxUquWRjB3DpHoRLx054Jp1Jg8eizkOjbc00Awubs",
+  "step": "probes",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 15,
+  "backslash_escapes": 0,
+  "typographic_marks": 6,
+  "ascii_quotes": 4,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemweite",
+      "Systemweiter"
+    ],
+    "momen": [
+      "Moment",
+      "Momente",
+      "Momenten"
+    ],
+    "abgru": [
+      "Abgrund",
+      "Abgrunds"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpartikel"
+    ],
+    "diese": [
+      "Diese",
+      "Dieses"
+    ],
+    "energ": [
+      "Energie",
+      "Energiefeld"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschlossenheit"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungsblitz"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitulation"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle"
+    ],
+    "reboo": [
+      "Reboot",
+      "Reboots"
+    ],
+    "schwa": [
+      "Schwachstelle",
+      "Schwarz"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmen"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbolische"
+    ],
+    "verän": [
+      "Veränderte",
+      "Veränderung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Lage",
+      "Niederlage"
+    ],
+    [
+      "Rand",
+      "Rande"
+    ],
+    [
+      "Daten",
+      "Datenpartikel"
+    ],
+    [
+      "Diese",
+      "Dieses"
+    ],
+    [
+      "Kraft",
+      "Willenskraft"
+    ],
+    [
+      "Logik",
+      "Kernlogik"
+    ],
+    [
+      "Punkt",
+      "Fixpunkt"
+    ],
+    [
+      "Punkt",
+      "Höhepunkt"
+    ],
+    [
+      "Punkt",
+      "Tiefpunkt"
+    ],
+    [
+      "Aktion",
+      "Reaktion"
+    ],
+    [
+      "Moment",
+      "Momente"
+    ],
+    [
+      "Moment",
+      "Momenten"
+    ],
+    [
+      "Reboot",
+      "Reboots"
+    ],
+    [
+      "Ränder",
+      "Veränderte"
+    ],
+    [
+      "Ränder",
+      "Veränderung"
+    ],
+    [
+      "Stimme",
+      "Stimmen"
+    ],
+    [
+      "Symbol",
+      "Symbolische"
+    ]
+  ]
+}

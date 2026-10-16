@@ -1,0 +1,686 @@
+{
+  "document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung",
+  "drive_id": "1Y35DZiDoShdiALFLNWVl5JbvzWeULb7ATbE-AAUmFUg",
+  "step": "counts",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        13,
+        15,
+        17,
+        33,
+        43,
+        47,
+        106,
+        127,
+        136,
+        150
+      ]
+    },
+    "Agency System Design Language": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "ASDLS": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        63,
+        74,
+        106,
+        115,
+        132
+      ]
+    },
+    "Spec-Driven Development": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "SDD": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Interface Brutalismus": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        17,
+        108,
+        150
+      ]
+    },
+    "Interface Brutalismus-Konzept": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Dual-Kernel-Logik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        138
+      ]
+    },
+    "Dual-Kernel-Paradigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Slow Kernel": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        83,
+        121,
+        131
+      ]
+    },
+    "Fast Kernel": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        94,
+        131,
+        140
+      ]
+    },
+    "Kohärenz-Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Kollaps-Maschine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Scheinbar Normalen Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        77,
+        83
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        77,
+        94
+      ]
+    },
+    "Wächterin": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        81,
+        87
+      ]
+    },
+    "Corporate Mimicry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Neural-Circuit Policies": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "NCP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Global Workspace Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "GWT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Hintergrund-Paradigma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Dutch Angles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Dutch Angle": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        98,
+        117,
+        130
+      ]
+    },
+    "Low Bandwidth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "High Bandwidth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Dropped Packets": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Vector Jitter": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        56,
+        130
+      ]
+    },
+    "Chromatic Aberration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        130
+      ]
+    },
+    "Data Moshing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        99,
+        131
+      ]
+    },
+    "Packet Loss": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        130
+      ]
+    },
+    "Micro-Jittering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        100
+      ]
+    },
+    "5%-Regel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        63
+      ]
+    },
+    "Color Clashes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Gesetz des Ausschlusses": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        123
+      ]
+    },
+    "Digital Kintsugi": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        102
+      ]
+    },
+    "Kintsugi Gold": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        132
+      ]
+    },
+    "Clean Ping": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        110
+      ]
+    },
+    "Signal Yellow": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        131
+      ]
+    },
+    "Flame Orange": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        73,
+        77,
+        131
+      ]
+    },
+    "System Blue": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Terminal Black": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        63
+      ]
+    },
+    "Deep Charcoal": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        63
+      ]
+    },
+    "Roster": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        81
+      ]
+    },
+    "Front-End-Protokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Hintergrund-Prozesse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        87,
+        121,
+        129
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        88,
+        121,
+        140
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 6,
+      "lines": [
+        81,
+        88,
+        89
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        121
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        92
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        98,
+        121,
+        140
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Oblivion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        100
+      ]
+    },
+    "Lia": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        73,
+        81,
+        101
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "Silas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102
+      ]
+    },
+    "Data Fissure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Latenz-Ring": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        109
+      ]
+    },
+    "Encrypted Payload": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        110
+      ]
+    },
+    "Black Mirror Terminals": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Master-Terminal-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        121
+      ]
+    },
+    "Split-Composition Cut": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Eskalationsmodul": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        127
+      ]
+    },
+    "Tier 0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129,
+        132
+      ]
+    },
+    "Tier 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Tier 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Tier 4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132
+      ]
+    },
+    "Window of Tolerance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Kernel Panic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "Safe Mode": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "NovelOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        136
+      ]
+    },
+    "Research Prompt Optimizer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        138
+      ]
+    },
+    "Inequity Validator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "Fractal Auditor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        140
+      ]
+    },
+    "SPECD-Prompt-Formel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Bunker": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        35,
+        63,
+        150
+      ]
+    },
+    "Sinking Vectors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Format C:": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    }
+  }
+}

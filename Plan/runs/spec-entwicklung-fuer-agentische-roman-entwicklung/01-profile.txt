@@ -1,0 +1,14 @@
+# spec-entwicklung-fuer-agentische-roman-entwicklung
+  lines                499  (frontmatter ends at 9)
+  body words           5524
+  headings             28   bold-only lines 7
+  table rows           34   code fences 0
+  question marks       6
+  backslash escapes    312
+  typographic marks    4   ascii quotes 126
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    114
+  repeated labels      Entscheidung x8, Status x8, Kontext x4, Erwogene Optionen x3
+  longest line         1141 chars
+

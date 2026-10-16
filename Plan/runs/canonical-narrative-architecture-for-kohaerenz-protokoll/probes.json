@@ -1,0 +1,129 @@
+{
+  "document": "canonical-narrative-architecture-for-kohaerenz-protokoll",
+  "drive_id": "1VGKU2Pq5cjsA_kIcekGOrx9m7iVNisv3ePqj6kmT-RQ",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 9,
+  "backslash_escapes": 50,
+  "typographic_marks": 10,
+  "ascii_quotes": 124,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemic",
+      "Systems"
+    ],
+    "canon": [
+      "Canon",
+      "Canonical"
+    ],
+    "chara": [
+      "Character",
+      "Charaktere"
+    ],
+    "estab": [
+      "Establishes",
+      "Establishing"
+    ],
+    "found": [
+      "Foundation",
+      "Foundational"
+    ],
+    "frame": [
+      "Framework",
+      "Frameworks"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "phobi": [
+      "Phobia",
+      "Phobias"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "resol": [
+      "Resolution",
+      "Resolutions"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Flaw",
+      "Flawed"
+    ],
+    [
+      "Role",
+      "Roles"
+    ],
+    [
+      "Canon",
+      "Canonical"
+    ],
+    [
+      "Phobia",
+      "Phobias"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Systemic"
+    ],
+    [
+      "Konzept",
+      "Kernkonzepte"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Solution",
+      "Resolution"
+    ],
+    [
+      "Solution",
+      "Resolutions"
+    ],
+    [
+      "Framework",
+      "Frameworks"
+    ],
+    [
+      "Foundation",
+      "Foundational"
+    ],
+    [
+      "Resolution",
+      "Resolutions"
+    ]
+  ]
+}

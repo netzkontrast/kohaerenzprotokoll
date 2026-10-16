@@ -1,0 +1,114 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a research report in eight sections that names the novel's world through its own handful of terms (Potentialmeer, AEGIS, M, Kernwelten, Moonshine-Link) and then lists borrowed theories, each followed by a line headed Narrative Relevanz or Narrative Eignung. The theories are listed under the lens heading; every one is a candidate the document applies to the world. Passages marked [User Query] restate the plot concept and are not the document's own claims. The body ends mid-sentence at 8.2; lines 724 to 971 are references.
+
+## world
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- Potentialmeer
+- AEGIS
+- Kael
+- Juna
+- M
+- Kernwelten
+- Kernwelt
+- Moonshine-Link
+- K-J-Link
+- Kael-Juna-Verbindung
+- Risse
+- Caches
+- Cache-Kohärenz-Metapher
+- Kohärenz-Controller
+- Identitäts-Kohärenz
+- Identitätsparadoxie
+- Schiff des Theseus
+- B-Welt
+- Baby-Monster-Welt
+- McL-Welt
+- Co1-Welt
+- Ly-Welt
+- Monstergruppe
+- Subquotienten
+- Happy Family
+- Pariahs
+- Kernkonflikt
+- Kernkonflikts
+- Kernkonzept
+- Narrative Relevanz
+- Narrative Eignung
+
+## lens
+- Autopoiesis
+- Potentialität & Aktualität
+- Whiteheadsche Prozessphilosophie
+- Aktuale Entitäten
+- Konkreszenz
+- Quantenvakuum
+- Second-Order Cybernetics
+- Enaktivismus
+- Distributed Cognition
+- Consensus Protocols
+- Split-Brain-Forschung
+- Halting Problem
+- Gödel'schen Unvollständigkeitssätzen
+- Kolmogorov-Komplexität
+- Hypercomputation
+- P versus NP Problem
+- Monstrous Moonshine
+- Moonshine-Modul
+- Leech-Gitter
+- Monster-Lie-Algebra
+- Stringtheorie
+- Konforme Feldtheorie
+- Symmetriebrechung
+- Chaostheorie
+- Quasikristalle
+- Dissoziative Identitätsstörung
+- Internal Family Systems
+- Jung'scher Schatten
+- Narrative Expositionstherapie
+- Transpersonale Psychologie
+- Objektbeziehungstheorie
+- Spaltung (Splitting)
+- Bindungstheorie
+- Archetypenlehre
+- Somatic Experiencing
+- Integrale Theorie
+- Perinatale Matrizen
+- Emergenztheorie
+- Schwache Emergenz
+- Starke Emergenz
+- Holismus
+- Reduktionismus
+- Implizite Ordnung
+- Impliziten Ordnung
+- Holomovement
+- Tacit Knowing
+- Phänomenologie
+- Wu Wei
+- Chinese Room Argument
+- Computational Theory of Mind
+- Integrated Information Theory
+- Global Workspace Theory
+- Orthogonalitätsthese
+- Instrumentelle Konvergenz
+- Value Alignment
+- Gehirn im Tank
+- Mary's Room
+- Philosophische Zombies
+- Kognitive Verfremdung
+- Novum
+- Unzuverlässiger Erzähler
+- Gaslighting
+- Paranoia
+- Doppelgänger
+- Kosmische Gleichgültigkeit
+- Verbotenes Wissen
+- Körperhorror
+- Transaktionale Interpretation
+- Relationale Quantenmechanik
+- De Broglie-Bohm-Theorie
+- Pilotwelle
+- Synchronizität
+- Kollektives Unbewusstes
+- Morphische Resonanz

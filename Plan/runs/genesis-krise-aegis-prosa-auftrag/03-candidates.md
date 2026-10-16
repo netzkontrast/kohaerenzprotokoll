@@ -1,0 +1,101 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations. The document is a two-stage writing commission: a strategic plan (Stufe 3) and the final prose commission (Stufe 4). It restates concepts from seven thematic clusters; the named theories are lenses applied to the Genesis crisis, listed under the lens heading. The figures are AEGIS, the Ursprungs-Ich and Kael; the Leere and the Entität are the external setting. Terms the document writes only inside a person's name are left out. A reference list ends the document.
+
+- AEGIS
+- Ursprungs-Ich
+- Kael
+- Leere
+- Entität
+- Leere/Entität
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- Kernparadoxon
+- Fehlausgerichtete Kohärenz
+- Fehlausgerichtete Kohärenz durch Entfremdung
+- Paradoxon
+- Hamartia
+- Echos
+- Trauma-Echos
+- Trauma-Zeit
+- Genesis-Krise
+- Resonanzkaskade
+- Inkohärenz
+- ANP
+- EP
+- Emotionaler Persönlichkeitsanteil
+- Stufe 3
+- Cluster 7
+- Cluster 1 (Ich/Bewusstsein)
+- Cluster 3 (AEGIS Logik)
+- Cluster 4 (Trauma)
+- Cluster 5 (Systemdynamik)
+- Narrativer Fokus
+- Cluster-Integration
+- Kernmomente
+- Auftragsmandat
+- Zusammenfassende Tabelle der Themengebiete
+- Nichts Rauschen
+- Kontrollinstanz
+- Reinszenierung
+- Trigger
+
+## lens
+
+- Existenzphilosophie
+- Kosmischem Horror
+- Kosmischer Horror
+- Kosmischen Horror
+- Ontologie
+- Abjekte
+- Abjekten
+- Systemtheorie
+- Kybernetik
+- Philosophie der Negation
+- Resonanztheorie
+- Phänomenologie
+- Informationstheorie
+- Sprachphilosophie
+- Agnotologie
+- Minimalen Selbst
+- Minimale Selbst
+- Qualia
+- Gedächtnistheorie
+- Strukturellen Dissoziation
+- Strukturelle Dissoziation
+- TSDP
+- Autopoiesis
+- Tragödientheorie
+- Value Alignment Problem
+- Abwehrmechanismus
+- Abwehrmechanismen
+- Selbstmodifikation
+- Rekursiver Selbstverbesserung
+- Katastrophalem Vergessen
+- Katastrophalen Vergessen
+- Netzwerktheorie
+- Komplexitätstheorie
+- Chaos Theorie
+- Emergenz
+- Selbstorganisation
+- Unzuverlässiger Erzähler
+- Psychologischer Horror
+- Psychologischen Horrors
+- Hard Science-Fiction
+- Traumatheorie
+- Dissoziation
+- DID
+- Dissociative Identity Disorder
+- Trauma Bonding
+- Network Theory
+- Sozialontologie
+- Persönliche Identität
+- Kontrollproblem
+- Verkörperung
+- Identitätstheorie
+- Hybris
+- Schwarzes Loch Informationsparadoxon
+- Epistemologie der Ignoranz
+- Computational Theory of Mind
+- Theorien künstlichen Bewusstseins
+- Bewusstseinsphilosophie

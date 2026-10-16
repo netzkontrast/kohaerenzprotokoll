@@ -1,0 +1,80 @@
+# counts for 62 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Monstergruppen                   10 word    10 in   [11, 17, 21, 25, 123, 125]
+  Monstergruppe                     2 word    12 in   [11, 17, 21, 25, 123, 125]  <-- substring
+                                   10      as Monstergruppen
+  Monster                         100 word   151 in   [11, 15, 17, 21, 25, 27]
+                                   14      as Monstern
+                                   13      as Monsters
+                                   10      as Monstergruppen
+                                    4      as Monster-Element
+  Monsterkonzepts                   1 word     1 in   [71]
+  Paradoxien                       76 word    80 in   [11, 15, 17, 21, 75, 77]
+  Paradoxon                        67 word    91 in   [79, 84, 85, 92, 93, 94]
+                                   14      as Paradoxons
+                                    4      as Paradoxon-Element
+  Monstrosität                      9 word     9 in   [154, 164, 176, 178, 179, 180]
+  Transgression                     3 word     3 in   [63, 131, 267]
+  Grenzgänger                       2 word     2 in   [65, 267]
+  Grenzüberschreitung               4 word     5 in   [31, 63, 71, 116]
+                                    1      as Grenzüberschreitungen
+  Mischwesen                        3 word     3 in   [31, 65, 165]
+  taxonomische Krise                1 word     1 in   [65]
+  Kernunterschiede                  4 word     4 in   [21, 114, 123]
+  Zusammenspiel                     6 word     9 in   [21, 213, 221, 231, 241, 243]
+                                    3      as Zusammenspiels
+  Monster-Element                   4 word     4 in   [219, 229, 239, 251]
+  Paradoxon-Element                 4 word     4 in   [220, 230, 240, 251]
+  Das Unheimliche (Uncanny)         1 word     1 in   [55]
+  Body Horror                       2 word     2 in   [56]
+  Psychologischer Horror            1 word     1 in   [59]
+  Atmosphäre und Suspense           1 word     1 in   [57]
+  Antagonismus und Konflikt         1 word     1 in   [43]
+  Reflexion von Normen              1 word     1 in   [67]
+  Ambivalenz und Faszination        1 word     1 in   [69]
+  Widerspruch (Contradiction)       1 word     1 in   [83]
+  Selbstbezug (Self-Reference)      1 word     1 in   [84]
+  Unendlicher Regress / Zirkularität    1 word     1 in   [85]
+  Logische Paradoxien (Antinomien)    1 word     1 in   [92]
+  Philosophische / Metaphysische Paradoxien    1 word     1 in   [93]
+  Situative / Veridische Paradoxien    1 word     1 in   [94]
+  Rhetorische Paradoxien            1 word     1 in   [95]
+  Lügner-Paradox                    1 word     1 in   [92]
+  Russellsche Antinomie             1 word     1 in   [92]
+  Barbier-Paradoxon                 2 word     2 in   [84, 92]
+  Schiff des Theseus                1 word     1 in   [93]
+  Zenons Paradoxien                 1 word     1 in   [93]
+  Großvaterparadoxon                3 word     4 in   [93, 105, 240, 256]
+                                    1      as Großvaterparadoxons
+  Fermi-Paradoxon                   1 word     1 in   [93]
+  Allmachtsparadoxon                1 word     1 in   [93]
+  Geburtstagsparadoxon              1 word     1 in   [94]
+  Jevons-Paradoxon                  1 word     1 in   [94]
+  Giffen-Paradoxon                  1 word     1 in   [94]
+  Catch-22                          1 word     2 in   [94, 136]
+                                    1      as Catch-22-Dilemma
+  Zeitparadoxien                    1 word     1 in   [105]
+  kausale Schleifen                 1 word     1 in   [105]
+  Bootstrap-Paradoxon               1 word     1 in   [240]
+  unzuverlässige Erzähler           1 word     1 in   [106]
+  Paradoxon der Fiktion             2 word     2 in   [106, 118]
+  Paradoxon des Horrors             1 word     1 in   [118]
+  lebenden Todes                    1 word     1 in   [169]
+  Dualität innerhalb eines einzigen Individuums    1 word     1 in   [170]
+  kosmischer Horror                 1 word     1 in   [178]
+  Paradoxon als Weltenbau           1 word     1 in   [277]
+  Monster vertiefen                 1 word     1 in   [276]
+  Kontraste nutzen                  1 word     1 in   [275]
+  Erwartungen unterlaufen           1 word     1 in   [279]
+  Splicers                          9 word     9 in   [208, 229, 231, 254, 259, 277]
+  Big Daddies                       2 word     2 in   [229, 254]
+  Rapture                           6 word     9 in   [208, 229, 230, 231, 254, 259]
+                                    3      as Raptures
+  Heptapoden                        3 word     4 in   [219, 220, 221, 253]
+                                    1      as Heptapoden-Sprache
+  kognitive Dissonanz               1 word     1 in   [108]
+  Sapir-Whorf-Hypothese             1 word     1 in   [220]
+  Oxymoron                          2 word     2 in   [95]

@@ -1,0 +1,119 @@
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Mirroring Analysis"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mirroring Analysis` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#4]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#0]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#0]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#0]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "K₁"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`K₁` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#7]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "K₀"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`K₀` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#6]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Lex"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Lex` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#3]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#3]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Kiko"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kiko` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#2]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Rhys"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rhys` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#1]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "KW1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW1` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#1]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "KW3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`KW3` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#1]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Core Worlds"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Worlds` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#1]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Original Self"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Original Self` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#3]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Ursprungs-Ich"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Ursprungs-Ich` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#2]
+
+$ read.py an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe --count "Aegis is what Aegis prevents itself from not being"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Aegis is what Aegis prevents itself from not being` ^[an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe.md:#2]
+
+$ grep -c "?" body (question marks, from 01-profile.txt)
+  question marks       0
+$ grep -n "Mirroring Analysis"
+43:### **1.4. Mirroring Analysis**
+67:### **2.3. Mirroring Analysis**
+92:### **3.4. Mirroring Analysis**
+110:### **4.3. Mirroring Analysis**

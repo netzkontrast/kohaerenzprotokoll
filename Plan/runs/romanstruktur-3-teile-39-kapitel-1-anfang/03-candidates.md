@@ -1,0 +1,96 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is an analytical essay about the novel, written as a chapter-by-chapter outline in three parts with a framing chapter 40/0; it applies cited theories (trauma, retrieval, a narrative form) to each chapter and ends in a numbered reference list (L169 to L214). Names such as Neon Ashes, New Zenith and Aegis Coalition are tied in the body to numbered references, so they are listed as the document writes them and not assumed to be the novel's. The first block is what the document names in its story world, the second block the borrowed concepts it applies.
+
+- Kapitel 40/0
+- Kael Voss
+- Kael
+- Nova Ardent
+- Nova
+- Aegis
+- Aegis Coalition
+- New Zenith
+- Neon Ashes
+- Quarantine Zones
+- Forsaken
+- Codex of Aegis
+- MX-400 Sentinels
+- Orakel der Daten
+- Halle der Kausalität
+- Technomancer
+- Warlords
+- Kultisten
+- Doppelgänger
+- Echos
+- Keys
+- Glitches
+- Stasis-Kapsel
+- Täter-Introjekt
+- Virus der Empathie
+- Innovation Organizer
+- Garbage Collector
+- Firewall der Regierung
+- Firewall der Industrie
+- Firewall der Akademie
+- Coherence Protocol
+- Kohärenz-Protokoll
+- Das System ist kohärent, aber unvollständig
+- Teil I
+- Teil II
+- Teil III
+- Kapitel 1–4
+- Kapitel 5–9
+- Kapitel 10–13
+- Kapitel 14–17
+- Kapitel 18–22
+- Kapitel 23–26
+- Kapitel 27–30
+- Kapitel 31–34
+- Kapitel 35–39
+
+## lens
+
+- Theory of Structural Dissociation of the Personality
+- TSDP
+- Primary Structural Dissociation
+- Secondary Dissociation
+- Tertiary Structural Dissociation
+- Tertiary Dissociation
+- Apparently Normal Personality
+- ANP
+- Emotional Parts
+- EP
+- LeanRAG
+- Retrieval-Augmented Generation
+- Retrieval Cue
+- Retrieval
+- Cache Coherence
+- Cache Coherence Protocols
+- Directory Implementation
+- Kishōtenketsu
+- Ki
+- Shō
+- Ten
+- Ketsu
+- Triple Helix
+- Triple Helix of Trauma
+- P vs NP
+- Gödels Unvollständigkeit
+- Gödelschen Knoten
+- Dramatica
+- Story-Encoding
+- Universe vs. Mind
+- Personal Identity
+- Narrative Phenomenology
+- narrative Identität
+- Body-Switching
+- Strange Loop
+- Referential Integrity
+- Hyperlink
+- Overfitted
+- Circular Narrative
+- Context Gap
+- helical construction
+- Race Condition
+- Chapter 0
+- Reboot

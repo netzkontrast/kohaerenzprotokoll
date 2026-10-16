@@ -1,0 +1,92 @@
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Synthesepotential"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Synthesepotential` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#1]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Hypothesen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Hypothesen` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#1]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Neue Fragen & Forschungsrichtungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Neue Fragen & Forschungsrichtungen` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#1]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Zukünftige Richtungen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zukünftige Richtungen` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#1]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Zugriff am"
+whole word, case-sensitive     142
+whole word, case-insensitive   142
+including compounds            142
+
+`Zugriff am` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#142]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Risse"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            23
+
+`Risse` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#21]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Entität"
+whole word, case-sensitive     70
+whole word, case-insensitive   70
+including compounds            78
+
+`Entität` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#70]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Protagonisten"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            33
+
+`Protagonisten` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#31]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#0]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#0]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#0]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#0]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Grenze"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            52
+
+`Grenze` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#23]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Grenzen"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            29
+
+`Grenzen` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#29]
+$ python3 scripts/read.py narrativ-existenzieller-kohaerenz-nzt-protokoll --count "Protagonist"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            46
+
+`Protagonist` ^[narrativ-existenzieller-kohaerenz-nzt-protokoll.md:#12]
+# stance_marker_count 4 = 1+1+1+1 (Synthesepotential, Hypothesen, Neue Fragen & Forschungsrichtungen, Zukünftige Richtungen)
+# census prose numbers 12 (Protagonist alone), 20 (standing alone fewer): from census-draft facts / 04-counts.txt

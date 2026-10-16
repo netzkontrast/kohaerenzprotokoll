@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      34
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  funkt    Funktion, Funktionalität, Funktionen, Funktionieren, Funktionsweise
+  struk    Struktur, Strukturelle, Strukturellen, Struktureller, Strukturen
+  allta    Alltagsbewältigung, Alltagsfassade, Alltagsfunktionieren, Alltagslebens
+  konfl    Konflikt, Konfliktdynamiken, Konflikte, Konflikten
+  syste    System, Systeme, Systems, Systemstruktur
+  bewus    Bewusstheit, Bewusstsein, Bewusstseinsmangel
+  kontr    Kontrolle, Kontrollen, Kontrollmethoden
+  reakt    Reaktion, Reaktionen, Reaktionsmuster
+  traum    Trauma, Traumas, Traumatisierung
+  versc    Verschiedene, Verschlimmerung, Verschmelzung
+  zusta    Zustand, Zustandswechsel, Zustandswechseln
+  bedür    Bedürfnisse, Bedürftigkeit
+  bindu    Bindung, Bindungsbedürfnissen
+  diese    Diese, Dieser
+  emoti    Emotionale, Emotionen
+  fluch    Flucht, Fluchtstrategie
+  forts    Fortschreiten, Fortschritt
+  fähig    Fähigkeit, Fähigkeiten
+  grenz    Grenzen, Grenzfeste
+  handl    Handlung, Handlungsfähigkeit
+  harmo    Harmonie, Harmoniestreben
+  integ    Integration, Integrationsziel
+  kompl    Komplexen, Komplexität
+  logik    Logik, Logiker
+  manif    Manifestation, Manifestationen
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Kael < Kaels
+  Sein < Seine
+  Sein < Bewusstsein
+  Sein < Bewusstseinsmangel
+  Teil < Teile
+  Teil < Anteil
+  Teil < Teilen
+  Teil < Aufteilung
+  Type < Archetypen
+  Welt < Kernwelten
+  Zeit < Langzeitperspektive
+  Ziel < Integrationsziel
+  Diese < Dieser
+  Folge < Schlussfolgerung
+  Logik < Logiker
+  Rolle < Rollen
+  Rolle < Kontrolle
+  Rolle < Kontrollen

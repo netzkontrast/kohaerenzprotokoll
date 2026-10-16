@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "dramatica-dual-storyform-mapping-protokoll"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "dramatica-storyform-synthese-aegis-analyse-2", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "kohaerenz-protokoll-39-kapitel-matrix", "roman-entwicklung-kohaerenz-protokoll-json", "kohaerenz-protokoll-kapitel-outline-generierung", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-detaillierter-plot-blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "dramatica-dual-storyform-mapping-protokoll", "kohaerenz-protokoll-szene-der-stillstand-der-welt"]
 gathered: "2026-09-24"
 ---
 
@@ -25,6 +25,10 @@ In Kapitel 4 (`Die unentscheidbare Zone`) the systemic level of the DKT synthesi
 The master blueprint plans Sektor 04 in Part I; it is a plan, not canon.
 
 The plan has Kael experience causal horizons there: regions of the city that seem to exist but that „niemals erreichbar sind“ ^[kohaerenz-protokoll-detaillierter-plot-blueprint.md:L31] for him because of the speed of light in the data transfer.
+
+## Reading — `kohaerenz-protokoll-szene-der-stillstand-der-welt`, 2026-02-25, the Stasis-Lücke scene — Sektor 04 as the place the world stops
+
+The Stasis-Lücke scene places its stoppage in one named sector: „Kael schritt durch den Sektor 04 der Konstrukt-Stadt“ ^[kohaerenz-protokoll-szene-der-stillstand-der-welt.md:L13]. The line names the place and sets it in the Konstrukt-Stadt. A draft, recorded, not applied.
 
 ## Reading — `roman-entwicklung-kohaerenz-protokoll-json`, 2026-02-26, the research report — Sektor 04 in Akt I
 

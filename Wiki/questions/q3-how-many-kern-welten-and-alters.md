@@ -1414,3 +1414,83 @@ Where it stands in the record's own terms: before and not against the author's a
 It says „Das System Kael besteht aus exakt“ ^[konsolidierung-des-hard-canon-protokolls.md:L13] thirteen alters, and „Dies spiegelt die mathematische Struktur der 39-Kapitel-Matrix“ ^[konsolidierung-des-hard-canon-protokolls.md:L13]. Of the Kernwelten it says only that the present level in them is broken by cuts: „Die aktuelle Zeitebene in den Kernwelten wird immer wieder durch harte Schnitte, Erinnerungs-Risse und Rückblenden in das Nichts-Rauschen und die Basisrealität durchbrochen.“ ^[konsolidierung-des-hard-canon-protokolls.md:L29]
 
 Stands: one more position on the number of alters, a declaration of the masterfile; recorded, not applied and not decided.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft
+
+**The detailed plot draft names four Kernwelten with a theme each, sets three in chapters and none in KW4, and gives no count of alters.**
+
+The four: „KW1: Logik, KW2: Emotion/Paralogik, KW3: Angst/Sicherheit, KW4: Potential“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L27] (L27). The chapters plan KW1 („transferiert Kael in die Kernwelt 1 (KW1)“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91], L91), KW2 („Kael betritt KW2“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L98], L98) and KW3 („vielleicht in KW3: Angst/Sicherheit“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L113], L113).
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
+
+## 2026-10-14 — `kohaerenz-protokoll-roman-ausarbeitung`, 2025-04-27, the elaboration report
+
+**The elaboration report counts twenty Kernwelten, four in focus, and gives no count of alters.**
+
+The count: „Jeder der 20 (fokussiert auf 4) Kernwelten“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L268] (L268). The other worlds are to be hinted at: „sollte subtil angedeutet werden“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L247] (L247), including „einer von zwanzig Realitäts-Caches“ ^[kohaerenz-protokoll-roman-ausarbeitung.md:L252] (L252).
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
+
+## 2026-10-14 — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept
+
+**The comprehensive concept plans twenty simulated Kernwelten, four in focus, and gives no count of alters.**
+
+The count: AEGIS fragments M/Kael „und in 20 simulierte“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L24] Kernwelten, and „Vier Welten stehen im Fokus“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L25].
+
+Where it stands in the record's own terms: before and not against the author's answers of 2026-10-05, which stand.
+
+## 2026-10-14 — `kohaerenz-protokoll-monster-plot-entwicklung`, 2025-04-23, the Monster plot blueprint
+
+**The Monster plot blueprint names six Kernwelten, each embodying a concept.**
+
+It opens the list with „Die Kernwelten sind nicht nur Schauplätze, sondern aktive Elemente der thematischen und narrativen Struktur“ ^[kohaerenz-protokoll-monster-plot-entwicklung.md:L166] and names Chaos-Welt, Quanten-Verschränkungs-Welt, Logik-Paradox-Welt, Autopoiesis-Welt, Liminalitäts-Welt and Gedächtnis-Welt (L168–L173). It gives no count of Alters; it speaks of Kaels Alters only as parts to integrate (L47, L122).
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-plot-entwicklungsauftrag`, 2025-04-23, the M/Kael plot blueprint
+
+**The M/Kael plot blueprint names four Kernwelten, KW1 to KW4.**
+
+It says „Zu diesem Zweck erschafft AEGIS vier distinkte simulierte Universen“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L23] and names them in the table as „KW1: Konstrukt-Stadt“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L37], „KW2: Resonanz-Nebel“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L45], „KW3: Schattenlabyrinth“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L53] and „KW4: Möglichkeitsstrom“ ^[kohaerenz-protokoll-plot-entwicklungsauftrag.md:L61].
+
+Where it stands in the record's own terms: a proposal, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint
+
+**The thematic blueprint maps four coded worlds, Co₁, McL, B and Ly, each to a part of Kael.**
+
+It writes „Aktiviert/spiegelt Kaels Logiker-Anteil“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L65] for the first, „Aktiviert/spiegelt Kaels Schatten- und Kind-Anteile“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L67] for the third and „Aktiviert/spiegelt Kaels kreativen Anteil“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L68] for the fourth; the second is tied to the need for connection and attachment patterns (L65–L68).
+
+Where it stands in the record's own terms: a proposal in a matrix labelled as an example (L56), recorded, not applied; the question stays open.
+
+## 2026-10-14 — `kohaerenz-protokoll-themenanalyse-und-anreicheru`, 2025-04-28, the theme enrichment report
+
+**The theme enrichment report assigns themes to four coded core worlds, Co₁, McL, B and Ly.**
+
+Co₁ stands for extreme order and control (L69), McL could explore knowledge and truth (L70), B could embody the cyclic struggle (L71) and Ly could represent emergence, chaos and liveliness (L72). In the words of one line: „Die Umgebung könnte fließend, unvorhersehbar, organisch oder ästhetisch reich im Kontrast zu Co₁ sein.“ ^[kohaerenz-protokoll-themenanalyse-und-anreicheru.md:L72]
+
+Where it stands in the record's own terms: a set of conditional suggestions, recorded, not applied; the question stays open.
+
+## 2026-10-14 — `concept-document-the-nature-of-the-foundation-juna-v-and-the`, 2025-10-15, the Foundation concept document
+
+**The Foundation concept document gives four Kernwelten, KW1 to KW4; recorded.**
+
+Its table lists four Kernwelten, each with a principle and a function, from `Logos-Prime` with „Formal Logic, Order, Control“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L54] to `Kairos-Potentialis` with „Emergence, Potential, Transcendence“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L57]. Each is „an externalized psychological landscape“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L49].
+
+Where it stands in the record's own terms: four Kernwelten in a concept document; recorded, not decided.
+
+## 2026-10-14 — `from-monolith-to-mosaic-a-strategic-proposal-for-restructuri`, 2025-11-03, the mosaic proposal
+
+**The mosaic proposal lists four Kernwelten, KW1 to KW4, in a table of story ideas; it states no count of alters.**
+
+The table (L66–L70) names KW1 Logos-Prime, KW2 Mnemosyne-Archipel, KW3 Cerberus-Labyrinth and KW4 Kairos-Potentialis. It glosses the Kernwelten as „the simulated realities that are direct externalizations“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L61] of Kael's inner landscape (L61). It names three alters for stories (Nyx, Kiko, Lex, L37–L39) and gives no number of parts.
+
+Where it stands in the record's own terms: four Kernwelten in a proposal; recorded, not decided.
+
+## 2026-10-14 — `narrative-vertiefung-kohaerenz-protokoll`, 2025-04-27, the deepening research report
+
+**The deepening report restates from the plot concept twenty Kernwelten, based metaphorically on the twenty sporadic subquotients of M; it gives no number of alters.**
+
+Under the restated-concept label the report writes: „Die 20 Kernwelten basieren metaphorisch auf den 20 sporadischen Subquotienten von M.“ ^[narrative-vertiefung-kohaerenz-protokoll.md:L145] The same line adds that the symmetry of each group defines the rules of its world. The report's description of alters is a general one for the disorder (L206) and names no count for the novel.
+
+Where it stands in the record's own terms: twenty Kernwelten restated from a plot concept in a research report; recorded, not applied and not decided; the question stays open.

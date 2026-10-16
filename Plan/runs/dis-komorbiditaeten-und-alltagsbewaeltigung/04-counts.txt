@@ -1,0 +1,8 @@
+# counts for 2 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz                          2 word     2 in   [15, 192]
+  Anteile                           3 word     4 in   [15, 37, 71, 75]
+                                    1      as Anteilen

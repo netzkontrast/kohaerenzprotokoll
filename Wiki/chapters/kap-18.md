@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 47
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "kapitel-18", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll"]
+sources: 54
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "duale-storyform-synthese-kohaerenz-protokoll", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "hard-sf-roman-outline-dkt-physik-cosmic-horror", "monstergruppe-primzahlen-plot-blueprint", "roman-konzept-dualitaet-kohaerenz-spannung", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "romanstruktur-und-philosophische-einleitung", "kohaerenz-protokoll-kapitel-outline-erstellung", "roman-plot-entwicklung-mit-kohaerenzprotokoll", "kohaerenz-protokoll-39-kapitel-matrix", "ai-assisted-narrative-coherence", "kohaerenz-protokoll-kapitel-outline-generierung-2", "kontext-outline", "2-kohaerenz-protokoll-konzeptentwicklung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "kohaerenz-protokoll-scene-by-scene-outline", "romanarchitektur-kael-aegis-entropie-docx", "kohaerenz-protokoll-kapitel-outline-generierung", "konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub", "roman-refactoring-kohaerenz-und-charakterentwicklung", "subplot-entwicklung-fuer-romanstruktur", "plot-generation-framework-for-the-coherence-protocol", "roman-plot-entwicklung-und-kohaerenz-analyse", "detaillierte-kapiteluebersicht", "kishotenketsu-fuer-meinen-roman-bitte-plane-ein", "als-ihr-narrativer-architekt-blicke-ich-auf-das-r", "analyse-und-uberarbeitung-des-gesamtplots-mit-subplots", "roman-synthese-mit-dual-kernel-theorie", "kael-s-dissociative-architecture-analysis", "kohaerenz-protokoll-detaillierter-plot-blueprint", "kapitelanreicherung-mit-fundamentalen-konzepten", "paradoxien-der-kohaerenz-protokoll-entwicklung", "tropen-konzepte-fuer-kohaerenz-protokoll", "kapitel-18", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "roman-outline-kohaerenz-protokoll", "kohaerenz-protokoll-detaillierter-plotentwurf", "kohaerenz-protokoll-plot-synthese-2", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-umfassendes-konzept", "kohaerenz-protokoll-analyse-und-loglines", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -34,6 +34,14 @@ Alle gelesenen Quellen stellen den Cache-Konflikt in den zyklischen Modus, laut 
 - It proposes that the failures of the Guardians read as „ein systemisches Paradoxon“ ^[kapitel-18.md:L31].
 - It proposes the ending „Das Kapitel endet, ohne dass LogOS seinen Konflikt gelöst hat“ ^[kapitel-18.md:L53], closing on „erste Risse“ ^[kapitel-18.md:L57] in the power of `AEGIS`. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft — `Informationsverlust & Entropie`
+
+- The detailed plot draft plans for Kap 18, `Informationsverlust & Entropie`: „Je mehr Daten AEGIS sammelt, desto weniger scheint es M zu verstehen“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L112] A plan, not the chapter.
+
+## Reading — `kohaerenz-protokoll-plot-synthese-2`, 2025-04-25, the Moonshine-Brücke blueprint — `Der Preis der Klarheit`
+
+- The Moonshine-Brücke blueprint plans for Kap 18, `Der Preis der Klarheit`: „Das wachsende Verständnis der Realität (AEGIS, Potentialmeer, M) löst tiefe existenzielle Angst aus.“ ^[kohaerenz-protokoll-plot-synthese-2.md:L80] A plan, not the chapter.
+
 ## Reading — `monstergruppe-primzahlen-plot-blueprint`, 2025-04-26, the Primzahl-Blueprint
 
 It calls itself „den finalen, detaillierten Plot-Blueprint“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15] and „verbindlich auf dem korrigierten konzeptuellen Rahmen“ ^[monstergruppe-primzahlen-plot-blueprint.md:L15], yet hedges inside nearly every chapter (`könnte`, `möglicherweise`, `vielleicht`). Recorded, not applied.
@@ -47,6 +55,10 @@ Title: „AEGIS' Eskalation: Reprogrammierung“ ^[monstergruppe-primzahlen-plot
 
 - The enriched plot concept's theme draft has for Kapitel 18, under the concept label `Wechsel zur Baby-Monster-Welt (B)`: „Ankunft in einer Umgebung, deren Physik von“ ^[angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere.md:L56] The number follows from Teil 2's range (Kapitel 11–25) and the entry's order, since the export restarts the numbering in each part. A plan, not the chapter.
 
+## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — `Die Stimme der Weisheit`
+
+- The concept chapter map plans for Kap 18: „Das Auftauchen einer integrierten, mitfühlenden inneren Instanz“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L189]; AEGIS „analysiert dessen stabilisierende Wirkung und Kommunikationsstrategien“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L190]. A plan, not the chapter.
+
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the intervention this document's own Kapitel 17 already calls past
 
 Title: „Systemantwort“ ^[kohaerenz-protokoll.md:L1864]
@@ -57,9 +69,17 @@ Position: „AEGIS' Risse / KI-Ethik (Grenzen der Kontrolle)“ ^[kohaerenz-prot
 - Sequence: this chapter narrates the averting of the very Beta-Rho-5 collapse that this document's Kapitel 17 — headed one cycle later, „Zyklus 2“ ^[kohaerenz-protokoll.md:L1758] — already treats as past. State it; the order does not reorder.
 - Voice: third person on Kael; the alarm stands in capitals, and the split Guardian speaks with two voices at once, „eine kalt und logisch, die andere chaotisch und emotional“ ^[kohaerenz-protokoll.md:L1910], both as dialogue.
 
+## Reading — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept — `Innere Führung (Wächterin/Selbst)`
+
+- The comprehensive concept's overview gives Kap 18 the label „Innere Führung (Wächterin/Selbst)“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L101] A plan, not the chapter.
+
 ## Reading — `kapitelanreicherung-mit-fundamentalen-konzepten`, 2025-04-28, the concept analysis — the chapter's fundamental concept
 
 - The concept analysis titles chapter 18 „Gartenpflege (Fortlaufende Arbeit)“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L49] in its second part, the system's everyday trials and assigns it the primary concept „Innere Arbeit / Emotionsregulation & Konfliktlösung“ ^[kapitelanreicherung-mit-fundamentalen-konzepten.md:L49]. A thematic key proposed for a 39-chapter plot draft, not the chapter as written.
+
+## Reading — `kohaerenz-protokoll-analyse-und-loglines`, 2025-04-28, the logline analysis — experiments with the Juna-Verbindung in the Möglichkeits-Garten
+
+- The logline analysis proposes for Kap 18: „Kael experimentiert im Möglichkeits-Garten, um die Juna-Verbindung bewusst zu nutzen“ ^[kohaerenz-protokoll-analyse-und-loglines.md:L240] A proposal, not the chapter.
 
 ## Reading — `konzept-und-story-fuer-den-roman-kohaerenz-protokoll-mit-sub`, 2025-05-02, the concept with subplots — Echos der Vergangenheit
 
@@ -345,6 +365,14 @@ A catalogue of the philosophical schools under the novel, labelled by section, n
 - Plot beats: „Kael erlebt, dass seine Sub-Anteile Qualia haben — und AEGIS kann sie nicht erfassen, weil AEGIS keine Qualia hat (nur funktionale Zustände).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L369]
 - Theory anchor: „Chalmers — Hartes Problem; Metzinger PSM“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L711] · function „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L712] (§14.3)
 - Genesis: „Genesis-Flashbacks (Kap 18–22)“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L59] (§1.2, in §1, marked `[K]`) — a range, which says where the flashbacks lie and not what this chapter holds of them.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10, the sensory drafting manual — an accumulation point of the self-refuting-logic strand
+
+The sensory drafting manual's foreshadowing table (§4.1) lists five strands, each with a first trace, an accumulation and a harvest. Under the strand of self-refuting logic, „Logik, die sich selbst widerlegt“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L446], it places Kap 18 in the accumulation column: „Kap 18 (Hartes Problem), Akt II generell“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L446]. The same row sets the harvest at a gambit the manual names after a logician. For Kap 18 the manual gives only this label, `Hartes Problem`, and the strand it belongs to; it says nothing further about the chapter here. A drafting-manual placement, recorded, not canon.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10, the terms-and-concepts companion — names Kap 18 for the self-model anchor in KW3
+
+The terms-and-concepts companion ends its self-model anchor with a pointer to Kap 18. For the KP it sets: „KW3-Strukturphysik, Kael als PSM-Träger, der die Modell-Natur seines Selbst durch die Risse erfährt.“ ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L744] The chapter number appears only at the end of the entry. Recorded, not canon.
 
 ## Where the sources differ
 

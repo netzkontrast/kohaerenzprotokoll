@@ -1,0 +1,119 @@
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "These"
+whole word, case-sensitive     4
+whole word, case-insensitive   5
+including compounds            4
+
+`These` ^[ontologie-des-gelesenen-traumas.md:#4]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Bericht"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Bericht` ^[ontologie-des-gelesenen-traumas.md:#2]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Framework"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            16
+
+`Framework` ^[ontologie-des-gelesenen-traumas.md:#14]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[ontologie-des-gelesenen-traumas.md:#0]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[ontologie-des-gelesenen-traumas.md:#0]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[ontologie-des-gelesenen-traumas.md:#0]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[ontologie-des-gelesenen-traumas.md:#0]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "fünf fundamentalen Konflikte"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            5
+
+`fünf fundamentalen Konflikte` ^[ontologie-des-gelesenen-traumas.md:#3]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Nichts Rauschens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschens` ^[ontologie-des-gelesenen-traumas.md:#1]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Dunamis"
+whole word, case-sensitive     3
+whole word, case-insensitive   13
+including compounds            3
+
+`Dunamis` ^[ontologie-des-gelesenen-traumas.md:#3]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Coincidentia Oppositorum"
+whole word, case-sensitive     2
+whole word, case-insensitive   4
+including compounds            2
+
+`Coincidentia Oppositorum` ^[ontologie-des-gelesenen-traumas.md:#2]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "AEGIS-Systems"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS-Systems` ^[ontologie-des-gelesenen-traumas.md:#1]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Ich-Erzähler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ich-Erzähler` ^[ontologie-des-gelesenen-traumas.md:#1]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Konflikten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Konflikten` ^[ontologie-des-gelesenen-traumas.md:#2]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Potentialitäten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Potentialitäten` ^[ontologie-des-gelesenen-traumas.md:#2]
+$ python3 scripts/read.py ontologie-des-gelesenen-traumas --count "Wiedererlebens"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Wiedererlebens` ^[ontologie-des-gelesenen-traumas.md:#2]
+stance_marker_count 20 = These 4 + Bericht 2 + Framework 14
+$ grep -c "?" (lines)
+220:3.  
+227:10. 
+228:11. 
+230:13. 
+233:16. 
+236:19. 
+$ python3 scripts/profile.py (backslash 48, glued 29, ascii quotes 8)
+# ontologie-des-gelesenen-traumas
+  lines                244  (frontmatter ends at 9)
+  body words           4588
+  headings             19   bold-only lines 1
+  table rows           11   code fences 0
+  question marks       7
+  backslash escapes    48
+  typographic marks    170   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    29
+  repeated labels      none
+  longest line         1363 chars
+

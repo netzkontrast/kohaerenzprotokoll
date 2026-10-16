@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      120
+  backslash escapes      98
+  typographic marks      133
+  ascii quotes           143
+
+# inflection families -- one term, several surfaces
+  speci    Special, Specific, Specifically, Specificity, Specified, Specify
+  check    CHECKLIST, Check, Checklist, Checkpoint, Checkpoints
+  const    CONSTRAINT, Constraint, Constraints, Construct, Constructivism
+  block    BLOCK, BLOCKS, Block, Blocks
+  inter    Interference, Intermediate, Internal, Internalize
+  verif    VERIFICATION, Verification, Verifier, Verify
+  agent    AGENT, Agent, Agentic
+  ancho    Anchor, Anchored, Anchoring
+  examp    EXAMPLE, Example, Examples
+  execu    EXECUTING, EXECUTION, Execute
+  inver    Inversion, Inverting, Inverts
+  pheno    Phenomenological, Phenomenologically, Phenomenology
+  steel    Steele, Steelmanned, Steelmanning
+  story    Story, Storyform, Storyforming
+  appen    Appendices, Appendix
+  archi    Architectural, Architecture
+  assem    ASSEMBLE, Assemble
+  axes     AXES, Axes
+  bilin    BILINGUAL, Bilingual
+  canon    Canon, Canonical
+  coher    Coherence, Coheron
+  compa    Compact, Compare
+  conce    Concept, Concern
+  conte    CONTEXT, Context
+  deliv    Deliver, Deliverable
+
+# substring pairs -- never one term, often merged by accident
+  AXES < Axes
+  Book < NotebookLM
+  Fail < Failure
+  Gate < Gates
+  Gate < Gatekeeper
+  Hard < Blanshard
+  Kern < Kernel
+  LOGS < Logs
+  META < Meta
+  MINI < Gemini
+  MINI < Minima
+  Main < Domain
+  Mark < Markdown
+  NOTE < Note
+  NOTE < NotebookLM
+  Name < Named
+  Name < Names
+  Note < NotebookLM
+  Part < Parts
+  Pass < Passes

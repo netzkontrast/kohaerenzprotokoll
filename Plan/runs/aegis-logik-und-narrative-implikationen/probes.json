@@ -1,0 +1,260 @@
+{
+  "document": "aegis-logik-und-narrative-implikationen",
+  "drive_id": "1UY7UiLgZscJLyFvfcPJj4vZVz_yulcWmICeYJCkv7LI",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 78,
+  "backslash_escapes": 52,
+  "typographic_marks": 146,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemen",
+      "Systemische",
+      "Systemkollaps",
+      "Systems",
+      "Systemtheorie",
+      "Systemverantwortung"
+    ],
+    "integ": [
+      "Integrated",
+      "Integrating",
+      "Integration",
+      "Integrativ",
+      "Integrierte",
+      "Integrierten",
+      "Integrität"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbsterkenntnis",
+      "Selbstmodifikation",
+      "Selbstreferentielle",
+      "Selbstvernichtung"
+    ],
+    "trans": [
+      "Transcendental",
+      "Transformation",
+      "Transformationen",
+      "Translational",
+      "Transzendenten",
+      "Transzendenz"
+    ],
+    "autop": [
+      "Autopoiese",
+      "Autopoiesis",
+      "Autopoietic",
+      "Autopoietische",
+      "Autopoietisches"
+    ],
+    "disso": [
+      "Dissociated",
+      "Dissociation",
+      "Dissociative",
+      "Dissonanz",
+      "Dissoziativen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungskniff",
+      "Handlungsreisenden"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts"
+    ],
+    "theor": [
+      "Theorem",
+      "Theorems",
+      "Theorie",
+      "Theorien",
+      "Theory"
+    ],
+    "verif": [
+      "Verifikation",
+      "Verifikationsprotokolle",
+      "Verifizierer",
+      "Verifizierers",
+      "Verifizierungsalgorithmus"
+    ],
+    "wider": [
+      "Widerlegung",
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widerstandsfähigkeit"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsmodell"
+    ],
+    "diale": [
+      "Dialektik",
+      "Dialektische",
+      "Dialetheisch",
+      "Dialetheismus"
+    ],
+    "erzäh": [
+      "Erzähllinie",
+      "Erzähllinien",
+      "Erzähltheorie",
+      "Erzählung"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlermeldungen",
+      "Fehlermodus",
+      "Fehlerschleife"
+    ],
+    "ident": [
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsstörung"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationstheorie"
+    ],
+    "philo": [
+      "Philosopher",
+      "Philosophical",
+      "Philosophie",
+      "Philosophy"
+    ],
+    "roman": [
+      "Roman",
+      "Romanprojekts",
+      "Romanrealität",
+      "Romans"
+    ],
+    "techn": [
+      "Techniken",
+      "Technologie",
+      "Technologist",
+      "Technology"
+    ],
+    "aussa": [
+      "Aussage",
+      "Aussagen",
+      "Aussagenlogik"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschreibung",
+      "Beschreibungen"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "entwi": [
+      "Entwicklers",
+      "Entwicklung",
+      "Entwicklungsbogen"
+    ],
+    "explo": [
+      "Exploit",
+      "Exploring",
+      "Explosion"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Hauptcharakter"
+    ],
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Valley"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Fall",
+      "Verfall"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Formalismus"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Transformationen"
+    ]
+  ]
+}

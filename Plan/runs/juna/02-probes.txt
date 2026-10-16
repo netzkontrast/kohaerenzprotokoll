@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      0
+  typographic marks      182
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  parad    Paradigmenwechsel, Paradoxien, Paradoxienauflösung, Paradoxon, Paradoxons
+  funkt    Funktion, Funktionen, Funktionsweise
+  gegen    Gegensatz, Gegensätze, Gegensätzen
+  grund    Grund, Grundes, Grundprämisse
+  inter    Interdependenz, Interkonnektivität, Intervention
+  kontr    Kontraste, Kontrolle, Kontrollmechanismen
+  konze    Konzept, Konzepte, Konzepten
+  quant    Quantenmodell, Quantensystems, Quantenverschränkung
+  symme    Symmetrie, Symmetriegruppe, Symmetrien
+  syste    System, Systemintegrität, Systems
+  archi    Architekt, Architekturen
+  aspek    Aspekt, Aspekte
+  baupl    Bauplan, Bauplans
+  bindu    Bindung, Bindungskonflikte
+  chaos    Chaos, Chaostheorie
+  daten    Daten, Datenübertragungen
+  defin    Definition, Definitionen
+  ebene    Ebene, Ebenen
+  entit    Entität, Entitäten
+  erklä    Erklärung, Erklärungskraft
+  erzäh    Erzählung, Erzählwelt
+  exist    Existenz, Existenzielle
+  frage    Frage, Fragen
+  fragm    Fragmente, Fragmentierung
+  funda    Fundament, Fundaments
+
+# substring pairs -- never one term, often merged by accident
+  Kael < Kaels
+  Link < Links
+  Satz < Gegensatz
+  Teil < Teile
+  Welt < Erzählwelt
+  Welt < Kernwelten
+  Chaos < Chaostheorie
+  Daten < Datenübertragungen
+  Ebene < Ebenen
+  Ebene < Organisationsebenen
+  Frage < Fragen
+  Frage < Realitätsfrage
+  Grund < Grundes
+  Grund < Urgrund
+  Grund < Grundprämisse
+  Ideen < Kernideen
+  Kraft < Erklärungskraft
+  Nicht < Nichtlokalität
+  Rolle < Rollen
+  Rolle < Kontrolle

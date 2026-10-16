@@ -1,0 +1,134 @@
+written_by: document-reader subagent (Sonnet 5.5), 2026-10-16, while reading, before any count
+
+A research prompt in German for a deep-research agent: two fixed Dramatica storyforms (A = K1, B = K0) and a fifth-dimension synthesis called interference. The list follows the written rule: the work's own names, the document's own method and template terms, and the borrowed concepts it applies (Dramatica vocabulary, consciousness theories, critical-thinking methods). Passages in the work-anchor table that hold personal material are not listed and not harvested; earlier names of figures that the document uses there are left out on purpose. Template labels that repeat under every method (Was sie ist, Warum sie hier ist, Anwendungs-Schritte, Stop-Kriterium) are the template and are not candidates. The bracketed fields of the output schema (the square-bracket placeholders) are template slots, not terms.
+
+- Kohärenz Protokoll
+- Kael
+- Juna
+- AEGIS
+- K1
+- K0
+- Coherence Kernel
+- Erasure Kernel
+- Erasure
+- Entropie-Kernel
+- Dual-Kernel-Theorie
+- DKT
+- Coherons
+- Coheron
+- Erasonen
+- Erason
+- Landauer-Wärme
+- Telefonat
+- Ouroboros
+- Ouroboros-Ending
+- Kernfrage
+- Kernparadoxon
+- DKT-Kernparadoxon
+- Funktionale Multiplizität
+- Genesis-Sequenz
+- Gödel-Gambit
+- Klimax
+- Reader = substrat
+- Werk-Anker
+- Fundament
+- Steinbruch
+- Story-first-Phase
+- Story-first-Pivot
+- Silas
+- Oblivion
+- Spiegel
+- ANP
+- EP
+- 13 Alter
+- Gardener's Axiom
+- Guardian's Dilemma
+- Dunkle-Körper-Theorie
+- Fragmentierung
+- Lesersteuerung
+- Mutual-Information-Loops
+- Mutual Information
+- Zeitpfeil
+- Storyform
+- Throughline
+- Main Character
+- Influence Character
+- Overall Story
+- Relationship Story
+- MC Resolve
+- MC Growth
+- MC Approach
+- Story Driver
+- Story Limit
+- Story Outcome
+- Story Judgment
+- Concern
+- Issue
+- Problem
+- Solution
+- Symptom
+- Response
+- Resolve
+- Growth
+- Approach
+- Style
+- Driver
+- Limit
+- Outcome
+- Judgment
+- MC-Quad
+- Story-Quad
+- Optionlock
+- Timelock
+- Do-er
+- Be-er
+- Holistic
+- Linear
+- Steadfast
+- Dramatica
+- Subtxt
+- Storyweaver
+- Dramatica Pro
+- Hard Problem of Consciousness
+- Hard-Problem-These
+- Property Dualism
+- Integrated Information Theory
+- Global Workspace Theory
+- Higher-Order Theories
+- Predictive Processing
+- Panpsychismus
+- Reduktiver Physikalismus
+- Phänomenologische Tradition
+- Bohr-Komplementarität
+- Erklärungs-Lücke
+- explanatory gap
+- qualia
+- Aufhebung
+- Interferenz
+- Interferenz-Struktur
+- Interferenz-Stellen
+- Interferenz-Zonen
+- 5D-Interferenz
+- fünfte Dimension
+- Bewusstseins-Topographie
+- Gegenläufigkeits-Achse
+- K1/K0-Achse
+- TRACE
+- ReAct
+- Falsification
+- Steelmanning
+- Contrast Classes
+- Dialectical Synthesis
+- Phenomenological Anchor
+- Bayesian Prior Surfacing
+- Source Triangulation
+- Adversarial Query Expansion
+- Storyform Half-Life Audit
+- Dramatica-Element-Matrix
+- Pre-Synthesis Integrity Check
+- Restatement Checkpoint
+- Query Expansion Log
+- Phänomenologische Probe
+- Verifikations-Anker
+- Storyform A
+- Storyform B

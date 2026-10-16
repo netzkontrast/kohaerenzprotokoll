@@ -1,0 +1,243 @@
+{
+  "document": "konzept-expose-schwarzschild-protokoll-optimierung",
+  "drive_id": "1rcwffbUWQvmOaesYFYTCwTj5_NHF1vw5IQDD94YkX2U",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 55,
+  "typographic_marks": 222,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "gravi": [
+      "Gravitation",
+      "Gravitations",
+      "Gravitationseffekte",
+      "Gravitationsfeld",
+      "Gravitationskraft",
+      "Gravitationsquelle",
+      "Gravitationstrichter",
+      "Gravitationswirkung"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemische",
+      "Systemkollaps",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemzustand"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsdichte",
+      "Informationslast",
+      "Informationsmasse",
+      "Informationstheorie"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls",
+      "Protokollsätzen"
+    ],
+    "psych": [
+      "Psychoanalytisch",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischen",
+      "Psychologischer"
+    ],
+    "archi": [
+      "Architektur",
+      "Archiv",
+      "Archivarin",
+      "Archivs"
+    ],
+    "drama": [
+      "Dramatica",
+      "Dramaturgie",
+      "Dramaturgische",
+      "Dramaturgischer"
+    ],
+    "kogni": [
+      "Kognition",
+      "Kognitionswissenschaft",
+      "Kognitive",
+      "Kognitiven"
+    ],
+    "schwa": [
+      "Schwankungen",
+      "Schwarze",
+      "Schwarzes",
+      "Schwarzschild"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheitsbegriffe",
+      "Wahrheitsmodellen"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseine",
+      "Bewusstseins"
+    ],
+    "chara": [
+      "Charakter",
+      "Charakterdynamik",
+      "Charakterpsychologie"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpunkt",
+      "Datensatz"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbruch",
+      "Durchbrüche"
+    ],
+    "energ": [
+      "Energie",
+      "Energien",
+      "Energiezustand"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungsdokumente",
+      "Forschungsdokumenten"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionsweise"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegenstände",
+      "Gegenwart"
+    ],
+    "geist": [
+      "Geist",
+      "Geister",
+      "Geisterdaten"
+    ],
+    "gener": [
+      "Generative",
+      "Generiert",
+      "Generierung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsprozess",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Internal",
+      "Interpretation"
+    ],
+    "kohär": [
+      "Kohärenten",
+      "Kohärenz",
+      "Kohärenztheorie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Abbild"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Bildschirm"
+    ],
+    [
+      "Bild",
+      "Bildwiederholrate"
+    ],
+    [
+      "Buch",
+      "Buchreihe"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Beine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Allgemeine"
+    ],
+    [
+      "Eine",
+      "Bewusstseine"
+    ],
+    [
+      "Esse",
+      "Prozesse"
+    ],
+    [
+      "Esse",
+      "Schreibprozesse"
+    ],
+    [
+      "Form",
+      "Uniform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Informationslast"
+    ],
+    [
+      "Form",
+      "Informationsmasse"
+    ],
+    [
+      "Form",
+      "Informationsdichte"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+# narrative-physik-attraktoren-leserbewusstsein
+  lines                295  (frontmatter ends at 9)
+  body words           4096
+  headings             19   bold-only lines 2
+  table rows           14   code fences 0
+  question marks       10
+  backslash escapes    66
+  typographic marks    126   ascii quotes 4
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    54
+  repeated labels      none
+  longest line         1121 chars
+

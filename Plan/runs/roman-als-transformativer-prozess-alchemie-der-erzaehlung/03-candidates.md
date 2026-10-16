@@ -1,0 +1,87 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a strategy report in three parts that reads the novel's plot through Jungian alchemy, narrative therapy and philosophy of fiction. The world terms come first, then the borrowed concepts it applies under a lens heading. Michael, Julia, Shadow and The Lost One do not occur as names of figures. References 1 to 3, 7, 9, 11, 12, 17 and 23 are titles of other texts, so words that stand only there are not listed.
+
+- Kael
+- AEGIS
+- Juna/V
+- Juna
+- Lex
+- Nyx
+- Kiko
+- 'O'
+- Gärtner
+- Narrative Entropie
+- Nichts Rauschen
+- Abyssos
+- Eros
+- Logos
+- narrativen Währung
+- Erwachte Narrative Entität
+- ENE
+- funktionalen Multiplizität
+- funktionale Multiplizität
+- tertiären strukturellen Dissoziation
+- traumatisierter Gott
+- Esse est percipi
+- Realitätswunden
+- Glitches
+- Kohärenz Protokoll
+- inneren Verbündeten
+- Was würde Kael tun?
+- stille Dialog
+- platonischen Raum der Fiktion
+- Resonanzkörper
+- psychologische Kriegsführung
+- Schmelztiegel
+- Epilog
+- Lesertransformation
+- Individuations-Maschine
+- Parallelreise
+- stellvertretenden Integration
+- Ist es schön?
+- Reicht das?
+- Radikale Akzeptanz
+- Aktive Sinnstiftung
+- Integratives Denken
+- Resilienz
+- Wabi-Sabi
+- Meta-Offenbarung
+
+## lens
+
+- Nigredo
+- Albedo
+- Citrinitas
+- Rubedo
+- prima materia
+- unio mentalis
+- Enantiodromie
+- Anima/Animus
+- Anima
+- Animus
+- Selbst
+- Schatten
+- Archetyp
+- Individuationsprozess
+- Narrative Therapie
+- Narrativen Therapie
+- externalisieren
+- Dekonstruktion
+- Re-Authoring Conversations
+- Unique Outcomes
+- Leerstellen
+- Sosein
+- Gegenstandstheorie
+- Gegenstand
+- parasoziale Beziehung
+- PSR
+- guten inneren Objekts
+- Introjektion
+- Objektbeziehungstheorie
+- Verfremdungseffekt
+- Negentropie
+- negentropischen
+- Dissoziation
+- Retraumatisierung
+- iatrogen

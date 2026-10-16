@@ -1,0 +1,71 @@
+{
+  "document": "aieos-schema-fuer-ki-charaktere",
+  "drive_id": "1Np6Ar4c63ZJbkPdX7qaDZ6u2DVyhwUMiyr8pJeIdODU",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; light pass, no readings — a software-architecture report that borrows the novel's names for its kernels",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 79,
+    "decided_by_lookup": 63,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An evaluation of an AI-character JSON schema for the two kernels of a software architecture that names its kernels AEGIS and Juna and says it derives from the Kohärenz Protokoll (L15): it describes software, not the novel, so its vocabulary stays in the census and nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the kernel names and `Kohärenz-Kernel`/`Kollaps-Kernel` the software report's own; `AEGIS-Doktrin`, `Kohärenz Digests` and `funktionalen Multiplizität` its own usage; borrowed theory concepts not promoted; names of people never written",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 43,
+      "decision": "occurrence",
+      "why": "a software-architecture report's own use of the word; light pass, not a reading of the novel's term"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "a software-architecture report's own use of the word; light pass, not a reading of the novel's term"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 35,
+      "decision": "occurrence",
+      "why": "a software-architecture report's own use of the word; light pass, not a reading of the novel's term"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 41,
+      "decision": "occurrence",
+      "why": "a software-architecture report's own use of the word; light pass, not a reading of the novel's term"
+    }
+  ],
+  "not_promoted": [
+    "JANUS, the AIEOS schema and its fields, the kernel nicknames, the compared runtimes and protocols, and the borrowed theory concepts (some named after people)"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      28
+  backslash escapes      228
+  typographic marks      47
+  ascii quotes           48
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitekten, Systeme, Systemen, Systemfehler, Systemfehlern, Systemgrenzen, Systeminstabilität, Systemkollaps, Systemkollapses, Systemkritik, Systemlogik, Systemoperationen, Systems, Systemtheorie, Systemversagen, Systemversagens, Systemwiderspruch, Systemwidersprüche
+  chara    Charakter, Charakterbogen, Charakterbögen, Charaktere, Charakterebene, Charakteren, Charakterentwicklung, Charakterfokus, Charaktertragfähigkeit
+  inter    Interaktion, Interdisziplinär, Interkonnektivität, Internal, Interpretation, Intersubjektivität, Intervention, Interventionen
+  kontr    Kontrapunkte, Kontrolle, Kontrollmechanismen, Kontrollprinzipien, Kontrollproblem, Kontrollsystem, Kontrollverlust, Kontrollversuche
+  innen    Innen, Innenleben, Innenperspektive, Innensicht, Innenwelt, Innenwelten
+  konze    Konzept, Konzepte, Konzepten, Konzeption, Konzepts, Konzeptvergleichsmatrix
+  poten    Potential, Potentialfeld, Potentialmeer, Potentialmeeres, Potenzial, Potenziale
+  handl    Handlung, Handlungen, Handlungs, Handlungselement, Handlungsfähigkeit
+  ident    Identifikation, Identität, Identitäten, Identitätsanteile, Identitätsstörung
+  konfl    Konflikt, Konfliktfokus, Konfliktmustern, Konflikts, Konflikttreiber
+  proje    Projekt, Projektprämissen, Projekts, Projekttitel, Projektuniversum
+  beoba    Beobachter, Beobachtereffekt, Beobachtung, Beobachtungen
+  bewus    Bewusstsein, Bewusstseinsebenen, Bewusstseinsforschung, Bewusstseinszuständen
+  bezie    Beziehung, Beziehungsdynamik, Beziehungsebene, Beziehungsfokus
+  emoti    Emotion, Emotionale, Emotionalität, Emotionswelt
+  haupt    Haupt, Hauptantrieb, Hauptfigur, Hauptfiguren
+  infor    Informationen, Informationsmuster, Informationssilos, Informationsverarbeitung
+  narra    Narrativ, Narrative, Narrativer, Narratives
+  organ    Organisation, Organisationen, Organisationspsychologie, Organisationsversagen
+  proze    Prozeduren, Prozess, Prozesse, Prozesses
+  reali    Realisierung, Realität, Realitätsdefinition, Realitätsverschiebungen
+  reche    Recherche, Rechercheanforderungen, Recherchebasis, Recherchefelder
+  traum    Trauma, Traumarbeit, Traumatherapie, Traumwelten
+  wider    Widerspruch, Widersprüchen, Widersprüchlichkeiten, Widerstands
+  zusam    Zusammenfassend, Zusammenfassung, Zusammenhänge, Zusammenspiel
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Parallel
+  Bias < Biases
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Bausteinen
+  Eine < Kernbausteine
+  Eine < Weltbausteine
+  Eine < Weltenbausteine
+  Feld < Felder
+  Feld < Potentialfeld
+  Feld < Recherchefelder
+  Form < Informationen
+  Form < Informationssilos
+  Form < Informationsmuster
+  Form < Informationsverarbeitung
+  Hoch < Hochstress
+  Hoch < Hochspezialisiert
+  Kael < Kaels

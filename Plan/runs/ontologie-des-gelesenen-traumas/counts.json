@@ -1,0 +1,455 @@
+{
+  "document": "ontologie-des-gelesenen-traumas",
+  "drive_id": "1XoeXlNY5_hgsOB2ZmOxAmBmG-Kegcwe86EVTsCyvm-M",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Genesis-Krise": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        22,
+        24,
+        30,
+        34,
+        44,
+        46,
+        56,
+        66,
+        110,
+        116,
+        128,
+        136,
+        160,
+        163,
+        193,
+        208,
+        210
+      ]
+    },
+    "Genesis-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "AEGIS": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        44,
+        56,
+        66,
+        96,
+        98,
+        114,
+        221
+      ]
+    },
+    "'O'": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        22,
+        24,
+        26,
+        56,
+        68,
+        72,
+        76,
+        86,
+        96,
+        98,
+        106,
+        128,
+        142,
+        161,
+        176,
+        196,
+        208,
+        210
+      ]
+    },
+    "Leere": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        44,
+        56,
+        96,
+        98,
+        114,
+        221
+      ]
+    },
+    "Ich": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        44,
+        56,
+        66,
+        96,
+        114,
+        136,
+        142,
+        221
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        98
+      ]
+    },
+    "Zersetzungsdruck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "Echos des Ursprungs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        142
+      ]
+    },
+    "operationaler Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "fünf fundamentalen Konflikte": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        44,
+        56,
+        66,
+        96,
+        160
+      ]
+    },
+    "Systemkohäsion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        44,
+        56
+      ]
+    },
+    "Fusionsentität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Leseakt": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        22,
+        56,
+        66,
+        128,
+        197,
+        210
+      ]
+    },
+    "fixierten Vergangenheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        204,
+        208
+      ]
+    },
+    "Potentialität": {
+      "n": 27,
+      "n_including_compounds": 29,
+      "lines": [
+        13,
+        24,
+        26,
+        30,
+        42,
+        46,
+        54,
+        56,
+        64,
+        68,
+        76,
+        96,
+        98,
+        142,
+        150,
+        154,
+        160,
+        161,
+        166,
+        193,
+        194,
+        210
+      ]
+    },
+    "Aktualisierung": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        24,
+        68,
+        106,
+        128,
+        136,
+        140,
+        162,
+        163,
+        212
+      ]
+    },
+    "Aktualität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        42,
+        46,
+        96,
+        154,
+        166,
+        210
+      ]
+    },
+    "Möglichkeitsraum": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        34,
+        160
+      ]
+    },
+    "Wiedererleben": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        26,
+        102,
+        106,
+        120,
+        128,
+        136,
+        140,
+        163,
+        164,
+        176,
+        198,
+        199,
+        212
+      ]
+    },
+    "Schrödingers Text": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        96
+      ]
+    },
+    "Beobachterinduzierter Kollaps": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Vergangenes Ereignis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        160
+      ]
+    },
+    "Quelldokument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        114
+      ]
+    },
+    "dunamis": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        26,
+        42,
+        46,
+        56,
+        86,
+        96,
+        98,
+        160,
+        162
+      ]
+    },
+    "energeia": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        42,
+        44,
+        96,
+        162
+      ]
+    },
+    "entelecheia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "hulê": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "eidos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        44
+      ]
+    },
+    "morphê": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "coincidentia oppositorum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        64,
+        66
+      ]
+    },
+    "Ineffabile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Summe über die Historien": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        26,
+        50,
+        54,
+        86,
+        96,
+        194
+      ]
+    },
+    "It from Bit": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        26,
+        80,
+        84,
+        98,
+        196,
+        225,
+        226,
+        228,
+        229
+      ]
+    },
+    "Superposition": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        30,
+        56,
+        94,
+        96,
+        98,
+        162,
+        194
+      ]
+    },
+    "Schrödingers Katze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        94
+      ]
+    },
+    "Zen-Koan": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        170,
+        174,
+        200
+      ]
+    },
+    "PTBS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Hippocampus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        124,
+        126
+      ]
+    },
+    "Amygdala": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Trauma-informierte Narratologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "unzuverlässiger Erzähler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    }
+  }
+}

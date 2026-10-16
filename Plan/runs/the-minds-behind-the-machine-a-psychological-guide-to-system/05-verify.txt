@@ -1,0 +1,106 @@
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Function:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Function:` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#2]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Relationship to Trauma:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Relationship to Trauma:` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#2]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Core Drive:"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Core Drive:` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#2]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#0]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Core Self"
+whole word, case-sensitive     0
+whole word, case-insensitive   1
+including compounds            0
+
+`Core Self` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#0]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "core Self"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`core Self` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#1]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Algorithmische Melancholie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Algorithmische Melancholie` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#1]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "AEGIS"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`AEGIS` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#7]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Kael"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Kael` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#14]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "alters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`alters` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#2]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Host"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Host` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#1]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Systems"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Systems` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#4]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Fight"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`Fight` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#2]
+
+$ read.py the-minds-behind-the-machine-a-psychological-guide-to-system --count "Fighter"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fighter` ^[the-minds-behind-the-machine-a-psychological-guide-to-system.md:#2]
+
+stance_marker_count 6 = 2+2+2 (Function:, Relationship to Trauma:, Core Drive:)
+$ grep -n -o 'ystemic[^ ]*\|Systems' Sources/drive/the-minds-behind-the-machine-a-psychological-guide-to-system.md
+15:Systems
+35:Systems
+37:Systems
+52:ystemic
+52:ystemic
+56:Systems

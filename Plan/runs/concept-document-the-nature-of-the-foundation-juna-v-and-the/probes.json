@@ -1,0 +1,159 @@
+{
+  "document": "concept-document-the-nature-of-the-foundation-juna-v-and-the",
+  "drive_id": "1h6SUGB--Oa5ks6_8WNtJ5PeM2Si_-3HfuvC4KVCqc_Y",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 16,
+  "typographic_marks": 19,
+  "ascii_quotes": 98,
+  "inflection_families": {
+    "poten": [
+      "Potential",
+      "Potentialis",
+      "Potentiality",
+      "Potentialmeer"
+    ],
+    "exter": [
+      "External",
+      "Externalized",
+      "Externe"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture"
+    ],
+    "conce": [
+      "Concept",
+      "Conceptual"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "epist": [
+      "Episteme",
+      "Epistemological"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "integ": [
+      "Integrated",
+      "Integration"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "logic": [
+      "Logic",
+      "Logical"
+    ],
+    "perpe": [
+      "Perpetration",
+      "Perpetrator"
+    ],
+    "psych": [
+      "Psychological",
+      "Psychologically"
+    ],
+    "trans": [
+      "Transcendence",
+      "Transcendent"
+    ],
+    "visua": [
+      "Visual",
+      "Visually"
+    ],
+    "world": [
+      "World",
+      "Worlds"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Each",
+      "Reaching"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Logic",
+      "Epistemological"
+    ],
+    [
+      "Logic",
+      "Psychologically"
+    ],
+    [
+      "World",
+      "Worlds"
+    ],
+    [
+      "World",
+      "Overworld"
+    ],
+    [
+      "Visual",
+      "Visually"
+    ],
+    [
+      "Concept",
+      "Conceptual"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "Logical",
+      "Epistemological"
+    ],
+    [
+      "Logical",
+      "Psychologically"
+    ],
+    [
+      "External",
+      "Externalized"
+    ],
+    [
+      "Function",
+      "Functional"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ],
+    [
+      "Potential",
+      "Potentiality"
+    ],
+    [
+      "Potential",
+      "Potentialmeer"
+    ]
+  ]
+}

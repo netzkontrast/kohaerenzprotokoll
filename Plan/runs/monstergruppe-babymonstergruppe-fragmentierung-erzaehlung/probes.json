@@ -1,0 +1,256 @@
+{
+  "document": "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung",
+  "drive_id": "1xtqVR0xPw1kRwRCHmq0lstgDxkrtsYq20Wp0jbIJgkM",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 23
+  },
+  "glued_ref_numbers": 76,
+  "backslash_escapes": 53,
+  "typographic_marks": 103,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "unter": [
+      "Untergruppe",
+      "Untergruppen",
+      "Untergruppenstruktur",
+      "Untergruppenstrukturen",
+      "Untergruppenverband",
+      "Untergruppenverbands",
+      "Unterschied",
+      "Unterschiedlichkeit",
+      "Untersuchung",
+      "Untersuchungspunkten"
+    ],
+    "ident": [
+      "IDENTITY",
+      "Identifikation",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätselement",
+      "Identitätsstörung",
+      "Identitätszustände"
+    ],
+    "fragm": [
+      "FRAGMENTATION",
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierte",
+      "Fragmentierung"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppenkohärenz",
+      "Gruppenlandschaft",
+      "Gruppenoperation",
+      "Gruppenstruktur",
+      "Gruppentheorie"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematisch",
+      "Mathematische",
+      "Mathematisches"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorisch",
+      "Metaphorische",
+      "Metaphorischer"
+    ],
+    "monst": [
+      "MONSTER",
+      "Monster",
+      "Monstergruppe",
+      "Monsters",
+      "Monstrous"
+    ],
+    "group": [
+      "GROUP",
+      "Group",
+      "GroupTheory",
+      "Groupprops"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptualisierung"
+    ],
+    "neben": [
+      "Nebenklasse",
+      "Nebenklassen",
+      "Nebenklassenraum",
+      "Nebenklassenraums"
+    ],
+    "quoti": [
+      "Quotient",
+      "Quotienten",
+      "Quotientengruppe",
+      "Quotientengruppenbildung"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturübersicht"
+    ],
+    "zentr": [
+      "Zentralisator",
+      "Zentralisatoren",
+      "Zentrum",
+      "Zentrums"
+    ],
+    "analo": [
+      "Analogie",
+      "Analogien",
+      "Analogon"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekte",
+      "Aspekten"
+    ],
+    "babym": [
+      "BabyMonster",
+      "BabyMonsterGroup",
+      "Babymonstergruppe"
+    ],
+    "chara": [
+      "Charakterisierung",
+      "Charakteristik",
+      "Charakteristika"
+    ],
+    "dimen": [
+      "Dimension",
+      "Dimensionalität",
+      "Dimensionen"
+    ],
+    "disso": [
+      "DISSOCIATIVE",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen"
+    ],
+    "erzeu": [
+      "Erzeuger",
+      "Erzeugern",
+      "Erzeugungsprozesse"
+    ],
+    "inter": [
+      "Interne",
+      "Interpretation",
+      "Interpretationen"
+    ],
+    "konju": [
+      "Konjugation",
+      "Konjugationsklasse",
+      "Konjugationsklassen"
+    ],
+    "multi": [
+      "Multiple",
+      "Multiplied",
+      "Multiplikator"
+    ],
+    "organ": [
+      "Organisation",
+      "Organisationsprinzipien",
+      "Organisationsstrukturen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "BABY",
+      "Baby"
+    ],
+    [
+      "BABY",
+      "BabyMonster"
+    ],
+    [
+      "BABY",
+      "FBabyMonster"
+    ],
+    [
+      "BABY",
+      "BabyMonsterGroup"
+    ],
+    [
+      "BABY",
+      "Babymonstergruppe"
+    ],
+    [
+      "Baby",
+      "BabyMonster"
+    ],
+    [
+      "Baby",
+      "FBabyMonster"
+    ],
+    [
+      "Baby",
+      "BabyMonsterGroup"
+    ],
+    [
+      "Baby",
+      "Babymonstergruppe"
+    ],
+    [
+      "Char",
+      "Charles"
+    ],
+    [
+      "Char",
+      "Charakteristik"
+    ],
+    [
+      "Char",
+      "Charakteristika"
+    ],
+    [
+      "Char",
+      "Charakterisierung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Bausteinen"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Loss",
+      "Abgeschlossenheit"
+    ]
+  ]
+}

@@ -462,11 +462,20 @@ the author wants them (*Questions for the author*).
   for the team's scope — it is refused the deployments (403) and the toolbar comments, so no session can open a
   preview; (3) where the „letzten 5 Empfehlungen" of your message are — none reached the session.
 
+- **The retrieval tools as a FastMCP server on Vercel** (2026-10-16, decision 029, `Plan/concept/mcp-server_2026-10-16.md`).
+  Being built on the author's goal. Two questions: (1) who may hold the protection-bypass secret that lets a client
+  past the Vercel login; (2) whether a claude.ai connector is wanted, which needs OAuth.
+
 - **`account.py order` passes a `reconcile.json` with no census beside it**; it should not.
   Found when the Jules session's claimed reconciliation of the philosophischer Bericht passed green
   (decision 014). The document is now read and reconciled as document 31, so nothing rides on it
   today; the gap in the check stays open.
 
+- **The 70 held documents — answered 2026-10-16 (decision 028).** The early names: read, never
+  written. The album and the DIS and personal material: a light pass, census and note only.
+  reboot-2: the gold list is retired and the document read afresh. **Still open:**
+  `kohaerenz-protokoll-plot-entwurf-finalisierung` landed empty (only a Drive link) and needs a
+  new export, which a landed source does not get without your yes.
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
   which sends the recording to a third party — the rule Jev and every model call

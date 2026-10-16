@@ -1,0 +1,14 @@
+# kohaerenz-direktive-narratives-protokoll
+  lines                94  (frontmatter ends at 9)
+  body words           555
+  headings             11   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       5
+  backslash escapes    3
+  typographic marks    22   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    3
+  repeated labels      Atmosphäre x3, Fixe Regel x3, Horror-Element x3, Plot-Anwendung x3, Sprachliche Regeln x3, Theorie x3
+  longest line         240 chars
+

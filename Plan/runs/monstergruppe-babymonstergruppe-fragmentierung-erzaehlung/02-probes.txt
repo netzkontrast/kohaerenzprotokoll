@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x23
+  glued ref numbers      76
+  backslash escapes      53
+  typographic marks      103
+  ascii quotes           6
+
+# inflection families -- one term, several surfaces
+  unter    Untergruppe, Untergruppen, Untergruppenstruktur, Untergruppenstrukturen, Untergruppenverband, Untergruppenverbands, Unterschied, Unterschiedlichkeit, Untersuchung, Untersuchungspunkten
+  ident    IDENTITY, Identifikation, Identity, Identität, Identitäten, Identitätselement, Identitätsstörung, Identitätszustände
+  fragm    FRAGMENTATION, Fragment, Fragmentation, Fragmente, Fragmenten, Fragmentierte, Fragmentierung
+  grupp    Gruppe, Gruppen, Gruppenkohärenz, Gruppenlandschaft, Gruppenoperation, Gruppenstruktur, Gruppentheorie
+  mathe    Mathematical, Mathematics, Mathematik, Mathematisch, Mathematische, Mathematisches
+  metap    Metapher, Metaphern, Metaphorisch, Metaphorische, Metaphorischer
+  monst    MONSTER, Monster, Monstergruppe, Monsters, Monstrous
+  group    GROUP, Group, GroupTheory, Groupprops
+  konze    Konzept, Konzepte, Konzepten, Konzeptualisierung
+  neben    Nebenklasse, Nebenklassen, Nebenklassenraum, Nebenklassenraums
+  quoti    Quotient, Quotienten, Quotientengruppe, Quotientengruppenbildung
+  struk    Struktur, Strukturelle, Strukturen, Strukturübersicht
+  zentr    Zentralisator, Zentralisatoren, Zentrum, Zentrums
+  analo    Analogie, Analogien, Analogon
+  aspek    Aspekt, Aspekte, Aspekten
+  babym    BabyMonster, BabyMonsterGroup, Babymonstergruppe
+  chara    Charakterisierung, Charakteristik, Charakteristika
+  dimen    Dimension, Dimensionalität, Dimensionen
+  disso    DISSOCIATIVE, Dissociative, Dissoziation
+  eleme    Element, Elemente, Elementen
+  erzeu    Erzeuger, Erzeugern, Erzeugungsprozesse
+  inter    Interne, Interpretation, Interpretationen
+  konju    Konjugation, Konjugationsklasse, Konjugationsklassen
+  multi    Multiple, Multiplied, Multiplikator
+  organ    Organisation, Organisationsprinzipien, Organisationsstrukturen
+
+# substring pairs -- never one term, often merged by accident
+  BABY < Baby
+  BABY < BabyMonster
+  BABY < FBabyMonster
+  BABY < BabyMonsterGroup
+  BABY < Babymonstergruppe
+  Baby < BabyMonster
+  Baby < FBabyMonster
+  Baby < BabyMonsterGroup
+  Baby < Babymonstergruppe
+  Char < Charles
+  Char < Charakteristik
+  Char < Charakteristika
+  Char < Charakterisierung
+  Dies < Diese
+  Dies < Dieser
+  Eine < Bausteine
+  Eine < Bausteinen
+  Juna < Junas
+  Kael < Kaels
+  Loss < Abgeschlossenheit

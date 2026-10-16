@@ -1,0 +1,74 @@
+# counts for 55 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               20 word    26 in   [11, 37, 45, 53, 69, 91]
+  Chrono-Weave                     10 word    11 in   [228, 232, 234, 240, 242, 247]
+                                    1      as Chrono-Weave-Technologie
+  Sentient Echo                     6 word     6 in   [261, 263, 271, 282, 304, 356]
+  Sentient Echo (KI)                1 word     1 in   [356]
+  AEGIS                            55 word    59 in   [17, 19, 26, 31, 37, 39]
+                                    1      as AEGIS-Vertreterin
+                                    1      as AEGIS-Figur
+                                    1      as AEGIS-Systems
+                                    1      as AEGIS-Netzwerks
+  Kael                             53 word    88 in   [16, 17, 18, 25, 36, 37]
+                                   35      as Kaels
+  Aris Thorne                       3 word     3 in   [59, 211, 368]
+  Jian Li                           6 word     6 in   [103, 105, 115, 158, 271, 369]
+  Protokoll                        35 word    51 in   [11, 37, 45, 53, 69, 71]
+                                   15      as Protokolls
+  Simulation                       17 word    18 in   [235, 278, 282, 283, 284, 285]
+                                    1      as Simulationsumgebung
+  Glitch                            7 word    11 in   [125, 128, 134, 136, 146, 156]
+                                    1      as Glitches
+                                    1      as Glitching-Realität
+  System-Glitch                     1 word     2 in   [232, 362]
+                                    1      as System-Glitches
+  System-Glitch / Exploit           1 word     1 in   [362]
+  Widerstandszelle                  5 word     5 in   [201, 251, 272, 315, 363]
+  Widerstandsgruppe                 3 word     3 in   [205, 261, 372]
+  Mysteriöse Nachricht              3 word     3 in   [49, 157, 370]
+  Kaels Vergangenheit               6 word     6 in   [71, 89, 93, 251, 338, 371]
+  Implizite Überwachung             3 word     3 in   [26, 135, 358]
+  Fragmentierte Erinnerung / Amnesie    2 word     2 in   [89, 293]
+  Fragmentierte Erinnerung          3 word     3 in   [89, 293, 360]
+  Amnesie                           4 word     5 in   [89, 97, 293, 371]
+                                    1      as Amnesie-Motiv
+  Implantierte Erinnerungen (Möglichkeit)    1 word     1 in   [90]
+  Ethische Konflikte in der Wissenschaft    2 word     2 in   [112, 222]
+  Desinformation / Honeypot         1 word     1 in   [154]
+  Honeypot                          1 word     2 in   [149, 154]
+                                    1      as Honeypots
+  Vertrauensdilemma                 2 word     2 in   [155, 179]
+  Freier Wille                      1 word     1 in   [336]
+  Determinismus                     1 word     1 in   [336]
+  Der verschwundene Schöpfer        1 word     1 in   [361]
+  Simulierte Realität               1 word     1 in   [364]
+  Das Flackern                      1 word     1 in   [13]
+  Die Stimme im Rauschen            1 word     1 in   [33]
+  Der Test                          1 word     1 in   [55]
+  Echos der Vergangenheit           2 word     2 in   [77, 330]
+  Der Architekt                     1 word     1 in   [99]
+  Risse im Fundament                1 word     1 in   [121]
+  Der Köder                         1 word     1 in   [142]
+  Die Allianz der Fragmente         1 word     1 in   [164]
+  Das Phantom-Protokoll             1 word     1 in   [186]
+  Aris' Perspektive                 1 word     1 in   [207]
+  Die Chrono-Weave Anomalie         1 word     1 in   [228]
+  Der Pakt mit dem Echo             1 word     1 in   [257]
+  Die Wahrheit der Simulation       1 word     1 in   [278]
+  Kollabierende Kohärenz            1 word     1 in   [300]
+  Das Offene Ende                   1 word     1 in   [323]
+  Prolog                            6 word     6 in   [13, 38, 353, 358, 366, 367]
+  Zusammenfassende Übersicht der Kernelemente    1 word     1 in   [347]
+  Konzepte                          3 word     3 in   [251, 352]
+  Tropes                            3 word     4 in   [26, 241, 270, 357]
+  Charaktere & Subplots             1 word     1 in   [365]
+  Subplot                           9 word    13 in   [49, 93, 115, 157, 158, 365]
+                                    4      as Subplots
+  Kognitive Dissonanz               4 word     4 in   [25, 48, 92, 353]
+  Unreliable Narrator               3 word     3 in   [46, 70, 359]
+  Foreshadowing                     3 word     3 in   [27, 71, 136]
+  Dead Drops                        1 word     1 in   [149]

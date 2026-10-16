@@ -1,0 +1,467 @@
+{
+  "document": "the-minds-behind-the-machine-a-psychological-guide-to-system",
+  "drive_id": "1LArbWnlvfJ9hgoVB5gCW4ujXYQ1l80Opnw2OhY5wiwQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "System Kael": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        15,
+        19,
+        29,
+        56
+      ]
+    },
+    "System": {
+      "n": 10,
+      "n_including_compounds": 16,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        29,
+        31,
+        35,
+        37,
+        52,
+        56
+      ]
+    },
+    "Society of Self": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        48
+      ]
+    },
+    "alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        48
+      ]
+    },
+    "parts": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        19,
+        23,
+        31,
+        37,
+        44,
+        50,
+        52
+      ]
+    },
+    "Kael": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        11,
+        15,
+        19,
+        29,
+        31,
+        43,
+        44,
+        48,
+        52,
+        56
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Alex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        37,
+        41,
+        43
+      ]
+    },
+    "Kiko": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        41,
+        44
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31
+      ]
+    },
+    "AEGIS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        23,
+        31,
+        52
+      ]
+    },
+    "Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Collapse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "K\\_1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "K\\_0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27
+      ]
+    },
+    "ANPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "Emotional Parts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27
+      ]
+    },
+    "EPs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "Trauma-Time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Fight": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        27,
+        31,
+        43
+      ]
+    },
+    "Flight": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Freeze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "Submit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Rationalist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Protector": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Fighter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        43
+      ]
+    },
+    "Persecutor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Fragile Child": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Guardian": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Chief of Security": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Playfulness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Intuition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Unburdening": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        41
+      ]
+    },
+    "Burdens": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        39,
+        41
+      ]
+    },
+    "Functional Multiplicity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        48
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Co-consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Kooperation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Cooperation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Systemische Verantwortungsübernahme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Systemic Responsibility": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "living refutation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        52
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Theory of Structural Dissociation of the Personality": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        23
+      ]
+    },
+    "TSDP": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        21,
+        23,
+        27,
+        31,
+        37,
+        56
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        35,
+        37,
+        56
+      ]
+    },
+    "IFS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        35,
+        37,
+        41,
+        56
+      ]
+    },
+    "Paraconsistent Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Principle of Explosion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "classical logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "isomorphism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "amnesic barriers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    }
+  }
+}

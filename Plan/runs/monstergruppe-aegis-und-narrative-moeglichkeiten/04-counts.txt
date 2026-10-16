@@ -1,0 +1,53 @@
+# counts for 40 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aegis                            66 word    66 in   [11, 15, 17, 19, 39, 41]
+  Kael                             15 word    39 in   [11, 15, 19, 40, 43, 60]  <-- substring
+                                   21      as Kaels
+                                    2      as Kael-Juna-Verbindung
+                                    1      as Kael-Juna-Bindung
+  Juna                             11 word    14 in   [11, 15, 19, 115, 117, 119]
+  Kernwelten                        9 word     9 in   [19, 86, 141, 147, 149, 198]
+  Welt der Reinen Logik             2 word     2 in   [143, 151]
+  Welt der Emotion/Paralogik        3 word     3 in   [163, 202, 228]
+  Welt der Angst/Sicherheit         3 word     3 in   [175, 202, 228]
+  Welt der Potentialität/Möglichkeiten    1 word     1 in   [186]
+  Welt der Logik                    2 word     2 in   [202, 228]
+  Welt der Potentialität            3 word     3 in   [186, 202, 228]
+  Reine Logik                       1 word     1 in   [151]
+  Emotion/Paralogik                 5 word     5 in   [19, 163, 202, 228]
+  Angst/Sicherheit                  6 word     6 in   [19, 175, 202, 207, 228]
+  Potentialität/Möglichkeiten       2 word     2 in   [186]
+  Potentialitätsraum                3 word     4 in   [41, 59, 120, 226]
+                                    1      as Potentialitätsraumes
+  dissoziative Identitätsstörung    1 word     1 in   [90]
+  DIS                               4 word     4 in   [15, 60, 142, 206]
+  innere Kohärenz                   1 word     1 in   [49]
+  Kael-Juna-Verbindung              2 word     2 in   [120, 226]
+  Kernidentitäten                   1 word     1 in   [225]
+  Quantenschaum                     1 word     1 in   [226]
+  Symmetriebruch                    2 word     2 in   [208, 227]
+  Widerstandsfähigkeit              3 word     3 in   [17, 217]
+  Monstergruppe                    28 word    28 in   [11, 15, 17, 19, 25, 47]
+  Monstrous Moonshine              11 word    12 in   [19, 96, 100, 117, 243, 267]
+  Moonshine-Modul                   3 word     3 in   [108, 113]
+  Griess-Algebra                   20 word    20 in   [19, 51, 126, 130, 132, 134]
+                                    1      as Griess-algebras-generated-by-the-Griess-algebras-of-two-3A
+  Happy Family                      5 word     5 in   [63, 92, 94, 196, 225]
+  Pariahs                           1 word     1 in   [63]
+  sporadischen einfachen Gruppen    2 word     2 in   [15, 55]
+  einfache Gruppe                   2 word     3 in   [47]
+  maximale Untergruppen             2 word     2 in   [86, 239]
+  Subquotienten                     3 word     3 in   [63, 92, 196]
+  Zentralisator                     3 word     4 in   [80, 81, 86, 225]
+                                    1      as Zentralisatoren
+  Normalisator                      3 word     4 in   [82, 83, 86, 225]
+                                    1      as Normalisatoren
+  Automorphismengruppe              5 word     5 in   [51, 110, 130, 132, 160]
+  Normalteiler                      5 word     6 in   [47, 49, 184]
+                                    1      as Normalteilern
+  Parakonsistenz                    1 word     1 in   [165]
+  VOA                               6 word     8 in   [108, 113, 120, 121, 226, 280]
+  Hauptmodul                        1 word     1 in   [106]

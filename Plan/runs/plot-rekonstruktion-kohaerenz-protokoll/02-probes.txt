@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      76
+  backslash escapes      10
+  typographic marks      38
+  ascii quotes           122
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemalarm, Systemalarme, Systemanalyse, Systeme, Systemeingriffe, Systemfehler, Systeminstabilität, Systemischer, Systemkollaps, Systems, Systemstabilität, Systemtheorie, Systemzusammenbruch
+  inter    Interaktion, Interaktionen, Interface, Interfaces, Intern, Internal, Interne, Interpretation, Interpretationen, Intervention, Interventionen
+  simul    Simulation, Simulationen, Simulationsblase, Simulationsinstanz, Simulationsphysik, Simulationsrealität, Simulationssubstrat, Simulationssubstrats, Simulationsumgebung, Simulationswelt
+  analy    Analyse, Analysefähigkeiten, Analysemethode, Analysemethoden, Analysemodelle, Analysen, Analyseprotokoll, Analyseprozess, Analysten
+  kontr    Kontrast, Kontrolle, Kontrollfähigkeiten, Kontrollinstanz, Kontrollmechanismen, Kontrollparameter, Kontrollverlust, Kontrollversuch, Kontrollversuche
+  daten    Daten, Datenanalyse, Datenmuster, Datenpunkt, Datenpunkten, Datenstruktur, Datenströme
+  reali    Realität, Realitäten, Realitätsbrüchen, Realitätsebenen, Realitätsfluktuationen, Realitätsgrundlagen, Realitätskontrolle
+  verst    Verstand, Verstehen, Verstehens, Versteht, Verständnis, Verständnisses, Verstärkter
+  konze    Konzept, Konzeptanwendung, Konzepte, Konzepten, Konzeptfokus, Konzeptuelle
+  unter    Unterdrückung, Untergrabung, Untergruppe, Untergruppen, Unterstützung, Untersuchung
+  infor    Information, Informationen, Informationsschnipsel, Informationstransfer, Informationsübertragung
+  integ    Integration, Integrationsprozess, Integrationsreise, Integrieren, Integrität
+  kernk    Kernkonflikt, Kernkonflikts, Kernkontext, Kernkonzept, Kernkonzepte
+  model    Modell, Modelle, Modellen, Modells, Modellversagen
+  monst    Monster, Monstergruppe, Monstergruppen, Monstern, Monstrous
+  stabi    Stabilisierung, Stabilität, Stabilitätsdirektive, Stabilitätsmodell, Stabilitätsstrategien
+  struk    Struktur, Strukturanalyse, Strukturelle, Strukturen, Strukturierungsprinzipien
+  symme    Symmetrie, Symmetriebrechungsmuster, Symmetrien, Symmetrieprinzipien, Symmetry
+  überl    Überlagerung, Überlastung, Überleben, Überlebensfrage, Überlegenheit
+  algeb    Algebra, Algebraische, Algebras, Algebren
+  chara    Charakterbögen, Charakterdrama, Charaktere, Charakterentwicklung
+  direk    Direkt, Direkte, Direkter, Direktive
+  disso    Dissonanz, Dissoziation, Dissoziative, Dissoziativer
+  eindä    Eindämmung, Eindämmungsbemühungen, Eindämmungsprotokolle, Eindämmungsversagen
+  erklä    Erklärt, Erklärung, Erklärungen, Erklärungsmodell
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charaktere
+  Akte < Charakterbögen
+  Akte < Charakterdrama
+  Akte < Nebencharakter
+  Akte < Nebencharaktere
+  Akte < Nebencharakteren
+  Akte < Charakterentwicklung
+  Beat < Beats
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Seine
+  Eine < Bausteine
+  Ende < Weiterführende
+  Fall < Falle
+  Fall < Zufall
+  Form < Forms
+  Form < Formen
+  Form < Konforme

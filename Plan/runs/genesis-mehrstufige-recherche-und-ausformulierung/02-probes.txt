@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      182
+  backslash escapes      184
+  typographic marks      28
+  ascii quotes           510
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systemberichte, Systemdiagnose, Systemdiagnosen, Systeme, Systemfehler, Systemgrenze, Systemgrenzen, Systeminstabilität, Systemintegrität, Systemische, Systemischer, Systemkohärenz, Systemlogik, Systemparameter, Systemperspektive, Systemprotokoll, Systemprotokolle, Systemprozesse, Systemreaktion, Systems, Systemstabilisierung, Systemstabilität, Systemtheorie, Systemtransformation, Systemzustand, Systemzustände, Systemzuständen
+  daten    Daten, Datenanomalie, Datenanomalien, Datenbank, Datenberichterstattung, Datenerfassung, Datenfluss, Datenflut, Datenpunkt, Datenpunkte, Datenstrom, Datenstruktur, Datenstrukturen, Datenströme, Datenverarbeitung
+  erzäh    Erzählbare, Erzählens, Erzähler, Erzählers, Erzählerstimme, Erzählperspektive, Erzählrhythmus, Erzählstil, Erzählstrategie, Erzähltempos, Erzählung
+  funkt    Funktion, Funktional, Funktionale, Funktionalisierung, Funktionalismus, Funktionalistische, Funktionalität, Funktionen, Funktionierens, Funktionseinheit
+  traum    Traum, Trauma, Traumageschichte, Traumas, Traumata, Traumatheorie, Traumatic, Traumatische, Traumatisches, Traumatisierung
+  schre    SCHREIBEN, SCHREIBSTIL, Schrei, Schreiben, Schreibphase, Schreibstil, Schreibstilen, Schreibstils, Schreie
+  senso    Sensor, Sensordaten, Sensoren, Sensorik, Sensorisch, Sensorische, Sensorischer, Sensorisches, Sensory
+  persp    Perspectives, Perspektive, Perspektiven, Perspektivenwechsel, Perspektivkontrasts, Perspektivwechsel, Perspektivwechseln, Perspektivübergänge
+  signa    Signal, Signale, Signalen, Signalisierung, Signatur, Signaturdaten, Signaturen, Signaturvarianz
+  proze    Prozedur, Prozess, Prozessbeschreibung, Prozesse, Prozessen, Prozesses, Prozessverben
+  reson    Resonanz, Resonanzen, Resonanzpfade, Resonanzspitze, Resonanzspitzen, Resonanztheorie, Resonanzverbindung
+  selbs    Selbst, Selbsterhaltung, Selbsterhaltungsprinzips, Selbstgenügsamkeit, Selbstorganisation, Selbstproduktion, Selbstüberwachung
+  techn    Technik, Techniken, Techniques, Technisch, Technische, Technischer, Technisches
+  diagn    Diagnose, Diagnosen, Diagnoseprotokoll, Diagnoseprozess, Diagnosesysteme, Diagnosezyklus
+  emoti    Emotion, Emotional, Emotionale, Emotionaler, Emotionen, Emotionslosigkeit
+  exist    Existentialism, Existentialist, Existenz, Existenzialismus, Existenzielle, Existenzielles
+  fehle    Fehleinschätzung, Fehlen, Fehlens, Fehler, Fehleranalyse, Fehlern
+  fragm    Fragment, Fragmentation, Fragmente, Fragmentierte, Fragmentierter, Fragmentierung
+  inter    Interaktion, Interaktionen, Interferenz, Interne, Internet, Interpretation
+  kontr    Kontrast, Kontraste, Kontrasts, Kontrollalgorithmen, Kontrolle, Kontrollversuchen
+  model    Modell, Modelle, Modellen, Modellierung, Modellierungsfähigkeit, Modells
+  unter    Unterdrückung, Unterfangen, Unterstutzung, Unterstützung, Untersuchung, Unterton
+  absat    Absatz, Absatzes, Absatzstruktur, Absatzumbrüche, Absatzwechsel
+  aktiv    Aktive, Aktiver, Aktives, Aktivierung, Aktivität
+  erleb    Erleben, Erlebend, Erlebens, Erlebte, Erlebtem
+
+# substring pairs -- never one term, often merged by accident
+  ABER < Aber
+  Akte < Abstrakte
+  Akte < Artefakte
+  Akte < Abstrakten
+  Akte < Artefakten
+  Akte < Charakters
+  Akte < Charakteristika
+  Akte < Charakterstimme
+  Alle < Alles
+  Alle < Falle
+  Alle < Allein
+  Alle < Abprallen
+  Alle < Kristalle
+  Alle < Zerfallen
+  Alle < Allerdings
+  Alle < Zerfallendes
+  Auch < Gebrauch
+  Auch < Eintauchen
+  Bias < Biases
+  Bild < Bilden

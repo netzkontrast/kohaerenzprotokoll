@@ -1,12 +1,21 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
+  "git": { "deploymentEnabled": { "**": false, "main": true } },
   "installCommand": "true",
   "buildCommand": "python3 scripts/web.py",
   "outputDirectory": "Plan/derived/web",
   "cleanUrls": false,
+  "functions": {
+    "api/rag_server.py": {
+      "includeFiles": "{scripts/**,Plan/derived/serve/serve.db}",
+      "excludeFiles": "{Sources/**,Wiki/**,Index/**,Legacy/**,Graph/**,Manuscript/**,Plan/runs/**,Plan/derived/ui/**,Plan/derived/web/**,novelgraph/**,docs/**}",
+      "maxDuration": 60
+    }
+  },
   "rewrites": [
-    { "source": "/", "destination": "/Main.dc.html" }
+    { "source": "/", "destination": "/Main.dc.html" },
+    { "source": "/mcp", "destination": "/api/rag_server" }
   ],
   "headers": [
     {

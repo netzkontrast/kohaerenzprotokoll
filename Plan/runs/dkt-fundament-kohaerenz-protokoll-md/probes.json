@@ -1,0 +1,230 @@
+{
+  "document": "dkt-fundament-kohaerenz-protokoll-md",
+  "drive_id": "1fvcg8G4u-1jq6agANujKDIXzlJsJ6Hyt",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 11,
+  "backslash_escapes": 0,
+  "typographic_marks": 116,
+  "ascii_quotes": 26,
+  "inflection_families": {
+    "lösch": [
+      "Löschprotokolle",
+      "Löscht",
+      "Löschung",
+      "Löschungen",
+      "Löschungsereignis",
+      "Löschungsereignisse"
+    ],
+    "roman": [
+      "Roman",
+      "Romanebene",
+      "Romans",
+      "Romanschauplatz",
+      "Romanwelt"
+    ],
+    "ident": [
+      "Identität",
+      "Identitätsfragmente",
+      "Identitätsstruktur",
+      "Identitätswechsel"
+    ],
+    "physi": [
+      "Physik",
+      "Physikalisch",
+      "Physiken",
+      "Physische"
+    ],
+    "sekto": [
+      "SEKTOR",
+      "Sektor",
+      "Sektoren",
+      "Sektorisierung"
+    ],
+    "stadt": [
+      "Stadt",
+      "Stadtnetzwerk",
+      "Stadttopologie",
+      "Stadtviertel"
+    ],
+    "syste": [
+      "System",
+      "Systematik",
+      "Systemik",
+      "Systems"
+    ],
+    "alter": [
+      "Alter",
+      "Alternative",
+      "Alters"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur",
+      "Archiv"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignisse",
+      "Ereignisses"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzangst",
+      "Existenzielle"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten"
+    ],
+    "gravi": [
+      "Gravitation",
+      "Gravitationsermüdung",
+      "Gravitationsfeld"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzfläche",
+      "Grenzquartiere"
+    ],
+    "inten": [
+      "Intensität",
+      "Intensivmediziner",
+      "Intensivstation"
+    ],
+    "narra": [
+      "Narrativ",
+      "Narrative",
+      "Narratives"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerke",
+      "Netzwerks"
+    ],
+    "phase": [
+      "Phase",
+      "Phasensymmetrie",
+      "Phasenzyklen"
+    ],
+    "puffe": [
+      "Puffer",
+      "Pufferkapazität",
+      "Pufferung"
+    ],
+    "quant": [
+      "Quantenkohärenz",
+      "Quantenmechanik",
+      "Quantenwellen"
+    ],
+    "rever": [
+      "Reversibilität",
+      "Reversibilitäts",
+      "Reversibilitätseffizienz"
+    ],
+    "verlu": [
+      "Verlust",
+      "Verluste",
+      "Verlusts"
+    ],
+    "volls": [
+      "Vollständige",
+      "Vollständiger",
+      "Vollständiges"
+    ],
+    "anoma": [
+      "Anomalie",
+      "Anomalien"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ende",
+      "Bestehende"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Jede",
+      "Jedes"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kein",
+      "Keine"
+    ],
+    [
+      "Kern",
+      "Kernel"
+    ],
+    [
+      "Kern",
+      "Kernzone"
+    ],
+    [
+      "Kern",
+      "Kernfrage"
+    ],
+    [
+      "Neue",
+      "Neuer"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Dasein"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Teil",
+      "Teilchen"
+    ],
+    [
+      "Teil",
+      "Teilaspekt"
+    ],
+    [
+      "Teil",
+      "Teilversion"
+    ],
+    [
+      "Teil",
+      "Austauschteilchen"
+    ],
+    [
+      "Teil",
+      "Persönlichkeitsanteile"
+    ],
+    [
+      "Welt",
+      "Romanwelt"
+    ],
+    [
+      "Zeit",
+      "Echtzeit"
+    ]
+  ]
+}

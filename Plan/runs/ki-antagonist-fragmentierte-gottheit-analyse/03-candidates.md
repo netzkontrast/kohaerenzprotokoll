@@ -1,0 +1,75 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a German psychological analysis of AEGIS in four sections, with two tables and a numbered reference list. It maps trauma-psychology models onto the novel's world, so the borrowed models are listed under lens, and the novel's own figures and places above. It names no chapter. Titles of cited works in the reference list are left out.
+
+- AEGIS
+- Kael
+- System Kael
+- Selene
+- Cerberus
+- Cerberus-Labyrinth
+- Wächter
+- Wächter der Kernwelten
+- Wächter-EPs
+- Guardians
+- Kernwelten
+- Leere
+- Ursprungs-Ich
+- Kohärenz Protokoll
+- Genesis-Konflikt
+- Genesis-Krise
+- Gott der Ordnung
+- Risse in der Simulation
+- Riss in der Simulation
+- Zersetzungsdrucks
+- Nichts Rauschens
+- Formwahrung
+- Kerndirektive
+- Eros
+- Logos
+- Abyssos
+- Anscheinend Normaler Persönlichkeitsanteil
+- Anscheinend Normaler Teil
+- ANP
+- Emotionalen Persönlichkeitsanteile
+- Emotionaler Teil
+- EPs
+- Exilanten
+- Geister im Code
+- Geister-Prozesse
+- Legacy-Code
+- Kernbetriebssystem
+- Core OS
+- kybernetisches Unbewusstes
+- System-interner Flashback
+- Systemzustands-Rollback
+- emergentem Verhalten
+- pathologisches emergentes Verhalten
+- Datenkorruption
+- Firewalls
+- Sandboxes
+- Trauma-geführtes
+- Selbst-geführten
+- funktionale Multiplizität
+- funktionaler Psychose
+- tragische Symmetrie
+- Resonanzfrequenz
+- Das Logbuch eines Geistes
+- Der Einbruch in die Sandbox
+- Resonanz mit dem Feind im Inneren
+- Erzwungene Integration
+- Opfer oder Synthese
+
+## lens
+
+- TSDP
+- Strukturellen Dissoziation der Persönlichkeit
+- IFS
+- Internal Family Systems
+- Manager
+- Autopoiesis
+- dissipative Struktur
+- Verdrängung
+- Projektion
+- Rationalisierung
+- Reaktionsbildung

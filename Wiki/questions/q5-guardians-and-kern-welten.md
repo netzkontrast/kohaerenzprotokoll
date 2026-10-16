@@ -845,3 +845,43 @@ Stands as a statement of one Guardian to each Kernwelt, without a count of Guard
 The character entry reads: „Verkörpern die überbetonten oder verzerrten Prinzipien ihrer jeweiligen Kernwelt“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L52]. Of the worlds it says: „Jede Welt überbetont bestimmte Prinzipien“ ^[kohaerenz-protokoll-umfassendes-konzept-mit-prin.md:L36]. The concept gives no number of Guardians and no Guardian by name.
 
 Stands: the concept pairs Guardians with worlds by a principle each, without count or names; nothing decided.
+
+## 2026-10-14 — `kohaerenz-protokoll-detaillierter-plotentwurf`, 2025-04-25, the detailed plot draft
+
+**The detailed plot draft places one guardian in a world, the logical guardian of KW1.**
+
+Kap 5 plans „Guardian von KW1“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91), „Eine logische Entität, die die Grundregeln von KW1 verkörpert“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L91] (L91). No other world gets one; the Kap 29 figure labelled „AEGIS Kern-Guardian“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L131] (L131) stands where „Dies ist keine der Kernwelten, sondern die fundamentale Struktur von AEGIS selbst“ ^[kohaerenz-protokoll-detaillierter-plotentwurf.md:L131] (L131).
+
+Stands as a plan placing one guardian in one world; recorded, not applied.
+
+## 2026-10-14 — `kohaerenz-protokoll-umfassendes-konzept`, 2025-04-27, the comprehensive concept
+
+**The comprehensive concept plans four Kernwelt-Guardians, one per focus world, not five.**
+
+The character list names „Kernwelt-Guardians: KI-Instanzen oder Manifestationen“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L73] as „Architekt, Netzweber, Chaos-Regulator, Möglichkeits-Weber“ ^[kohaerenz-protokoll-umfassendes-konzept.md:L73], and the world lines pair them to `Co₁`, `McL`, `B` and `Ly` in that order.
+
+Stands as a plan placing four Guardians in four focus worlds; recorded, not applied.
+
+## 2026-10-14 — `concept-document-the-nature-of-the-foundation-juna-v-and-the`, 2025-10-15, the Foundation concept document
+
+**The Foundation concept document names the four Kernwelten Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis; recorded, not resolved.**
+
+The table names `Logos-Prime` with „Formal Logic, Order, Control“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L54], `Mnemosyne-Archipel` with „Trauma-Time, Memory & Subjectivity“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L55], `Cerberus-Labyrinth` with „Defense, Paranoia & Dissociative Barriers“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L56] and `Kairos-Potentialis` with „Emergence, Potential, Transcendence“ ^[concept-document-the-nature-of-the-foundation-juna-v-and-the.md:L57]. Here the names stand for worlds.
+
+Where it stands in the record's own terms: the four names as Kernwelten in a concept document; recorded, not resolved.
+
+## 2026-10-14 — `from-monolith-to-mosaic-a-strategic-proposal-for-restructuri`, 2025-11-03, the mosaic proposal
+
+**The mosaic proposal names the four worlds Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis, with LogOS as the Guardian of KW1 and a Guardian of the bunker-fortress in KW3; recorded, not resolved.**
+
+The KW1 cell has „as LogOS, the Guardian,“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L67] act against an inhabitant's perception (L67), and the KW3 cell begins „From the paranoid POV of a Guardian of the bunker-fortress“ ^[from-monolith-to-mosaic-a-strategic-proposal-for-restructuri.md:L69] (L69). The KW2 and KW4 cells name no Guardian (L68, L70).
+
+Where it stands in the record's own terms: Guardians in two of four worlds in a proposal; recorded, not resolved.
+
+## 2026-10-14 — `kohaerenz-protokoll-narrative-architekturanalyse`, 2025-07-29, the narrative architecture analysis
+
+**The narrative architecture analysis names four Kernwelten — Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth and Kairos-Potentialis — and gives Guardians once, as an example of deadlocking subsystems; recorded, not resolved.**
+
+It lists „Logos-Prime (Rationalität/Host)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L114], „Mnemosyne-Archipel (Erinnerung/ANPs)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L115], „Cerberus-Labyrinth (Trauma/EPs)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L116] and „Kairos-Potentialis (Integration/Zukunft)“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L117]. Guardians stand in its table of algorithm failures: „Zwei Subsysteme (z.B. Guardians) fordern gegenseitig Ressourcen an, um Kael zu kontrollieren“ ^[kohaerenz-protokoll-narrative-architekturanalyse.md:L62]. It places no Guardian in a single world.
+
+Where it stands in the record's own terms: four named worlds and Guardians as an example in a strategy text; recorded, not resolved.

@@ -1,0 +1,79 @@
+{
+  "document": "ontologie-des-gelesenen-traumas",
+  "drive_id": "1XoeXlNY5_hgsOB2ZmOxAmBmG-Kegcwe86EVTsCyvm-M",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 42,
+    "decisions": 42,
+    "decided_by_lookup": 40,
+    "needs_judgement": 2
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        44,
+        98,
+        114
+      ],
+      "attribution": "",
+      "note": "AEGIS's genesis read as a traumatic event, and the reader placed above AEGIS"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        22,
+        24,
+        116
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as a field of possibilities and as the fundamental trauma"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        98
+      ],
+      "attribution": "",
+      "note": "the Nichts Rauschen as raw matter of potentiality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 26,
+      "decision": "reading",
+      "why": "the Genesis-Krise as the report frames it; read on the page from L22, L24, L116"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

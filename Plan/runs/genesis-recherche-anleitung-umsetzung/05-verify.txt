@@ -1,0 +1,124 @@
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Übergangsnotizen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Übergangsnotizen` ^[genesis-recherche-anleitung-umsetzung.md:#13]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Anwendungshinweis"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Anwendungshinweis` ^[genesis-recherche-anleitung-umsetzung.md:#3]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Szene"
+whole word, case-sensitive     106
+whole word, case-insensitive   106
+including compounds            115
+
+`Szene` ^[genesis-recherche-anleitung-umsetzung.md:#106]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Subjekt"
+whole word, case-sensitive     40
+whole word, case-insensitive   41
+including compounds            83
+
+`Subjekt` ^[genesis-recherche-anleitung-umsetzung.md:#40]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Subjekt 734"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Subjekt 734` ^[genesis-recherche-anleitung-umsetzung.md:#8]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Kammer"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Kammer` ^[genesis-recherche-anleitung-umsetzung.md:#4]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "AEGIS"
+whole word, case-sensitive     88
+whole word, case-insensitive   88
+including compounds            130
+
+`AEGIS` ^[genesis-recherche-anleitung-umsetzung.md:#88]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Genesis"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            27
+
+`Genesis` ^[genesis-recherche-anleitung-umsetzung.md:#24]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Zeitstempel"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Zeitstempel` ^[genesis-recherche-anleitung-umsetzung.md:#39]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Kapitel` ^[genesis-recherche-anleitung-umsetzung.md:#1]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[genesis-recherche-anleitung-umsetzung.md:#0]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[genesis-recherche-anleitung-umsetzung.md:#0]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[genesis-recherche-anleitung-umsetzung.md:#0]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "2084"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            32
+
+`2084` ^[genesis-recherche-anleitung-umsetzung.md:#0]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Diagnoseprotokoll Beta"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Diagnoseprotokoll Beta` ^[genesis-recherche-anleitung-umsetzung.md:#8]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Notfallprotokoll Gamma"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Notfallprotokoll Gamma` ^[genesis-recherche-anleitung-umsetzung.md:#4]
+
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "Sub-Protokoll Omega"
+whole word, case-sensitive     3
+whole word, case-insensitive   4
+including compounds            3
+
+`Sub-Protokoll Omega` ^[genesis-recherche-anleitung-umsetzung.md:#3]
+
+stance_marker_count 16 = Anwendungshinweis 3 + Übergangsnotizen 13 (case-sensitive whole word, above)
+13 blueprints / 135 references: grep -c '^\*\*Szene [0-9]*:' ; reference list L1407-L1541
+26
+16
+$ python3 scripts/read.py genesis-recherche-anleitung-umsetzung --count "2084" (compound count 32, whole word 0)

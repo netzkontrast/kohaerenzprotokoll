@@ -1,0 +1,89 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations. The document is a four-stage research report (survey of 40 topics, seven clusters, a prose plan in an "NZT-Modus", a final prose commission) about the genesis crisis of AEGIS; lines 701 to 841 are a numbered reference list of web sources and carry no world terms. The text marks borrowed material in the survey with a trailing marker `[Kontext]` where it restates supplied context. Several surfaces appear in an English form beside the German one (Cosmic Horror, Hard SF, Trauma Bonding, Dissociative Identity Disorder). Terms such as Ursprungs-Ich occur in nominative and genitive and are listed in both written forms. Person-named concepts of the survey are left to lens entries only where the concept, not the person, is the term.
+
+- AEGIS
+- Kael
+- Ursprungs-Ich
+- Ursprungs-Ichs
+- Leere
+- Entität
+- Genesis-Krise
+- Kohärenz Protokoll
+- Kohärenz Protokolls
+- Kohärenz
+- Paradoxon
+- AEGIS-Paradoxon
+- Kernparadoxon
+- Fehlausgerichtete Kohärenz
+- Kohärenz durch Entfremdung
+- latente Echos
+- latenten Echos
+- verblassenden Echos
+- Echos
+- Nichts Rauschen
+- Fragmentierung
+- Trauma-Zeit
+- Potentialmeer
+- Grenzwacht
+- Kernwelten
+- Reboot
+- Partitionierung
+- Sicht von außen
+- Erwachen von Kael
+- traumatische Resonanz
+- traumatischen Resonanz
+- Entfremdung
+- Selbst-Negation
+- Kontext
+- NZT-Modus
+- Prosa-Auftrag
+- Finaler Prosa-Auftrag
+- Finalen Prosa-Auftrags
+- Cluster
+- Stufe 1
+
+## lens
+
+- Traumatheorie
+- TSDP
+- ANP
+- EP
+- Strukturelle Dissoziation
+- Systemtheorie
+- Autopoiesis
+- Kybernetik
+- Informationstheorie
+- Existenzphilosophie
+- Phänomenologie
+- Kosmischer Horror
+- Kosmischen Horrors
+- Cosmic Horror
+- Psychologischer Horror
+- Hard Science-Fiction
+- Hard SF
+- Hamartia
+- Hybris
+- Katharsis
+- Qualia
+- Minimales Selbst
+- Resonanztheorie
+- Das Abjekte
+- Trauma Bonding
+- Dissociative Identity Disorder
+- DID
+- Emergenz
+- Selbstorganisation
+- Katastrophales Vergessen
+- Schmetterlingseffekt
+- Hawking-Strahlung
+- Inforg
+- Infosphäre
+- Value Alignment Problem
+- Bad Faith
+- Unzuverlässiger Erzähler
+- Philosophie der Negation
+- Agnotologie
+- IIT
+- GWT
+- CTM

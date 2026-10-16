@@ -1,0 +1,865 @@
+{
+  "document": "plot-blueprint-methodik-kohaerenz-protokoll",
+  "drive_id": "1K99o78cT8IvmlTOGkMqbN4nig2YdXgKvsLCW0tyEPBg",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 16,
+      "n_including_compounds": 58,
+      "lines": [
+        16,
+        31,
+        51,
+        58,
+        73,
+        74,
+        78,
+        93,
+        98,
+        111,
+        112,
+        114,
+        115,
+        119,
+        132,
+        134,
+        139,
+        152,
+        153,
+        154,
+        155,
+        160,
+        174,
+        176,
+        193,
+        194,
+        196,
+        197,
+        214,
+        217,
+        236,
+        237,
+        243,
+        256,
+        258,
+        272,
+        313,
+        329,
+        338,
+        343,
+        344,
+        346,
+        363
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 19,
+      "lines": [
+        33,
+        153,
+        156,
+        173,
+        174,
+        193,
+        194,
+        197,
+        201,
+        214,
+        222,
+        256,
+        272,
+        345,
+        371,
+        377
+      ]
+    },
+    "AEGIS": {
+      "n": 55,
+      "n_including_compounds": 60,
+      "lines": [
+        16,
+        32,
+        34,
+        38,
+        52,
+        58,
+        71,
+        74,
+        78,
+        133,
+        134,
+        139,
+        153,
+        156,
+        173,
+        174,
+        176,
+        193,
+        194,
+        195,
+        197,
+        201,
+        214,
+        217,
+        222,
+        236,
+        238,
+        239,
+        243,
+        256,
+        258,
+        272,
+        281,
+        283,
+        315,
+        329,
+        330,
+        338,
+        345,
+        363,
+        377
+      ]
+    },
+    "Kern-Welten": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        31,
+        38,
+        51,
+        58,
+        71,
+        72,
+        78,
+        91,
+        98,
+        133,
+        235,
+        256,
+        272
+      ]
+    },
+    "Kern-Welt": {
+      "n": 7,
+      "n_including_compounds": 21,
+      "lines": [
+        31,
+        34,
+        38,
+        51,
+        58,
+        71,
+        72,
+        78,
+        91,
+        98,
+        133,
+        235,
+        256,
+        272,
+        315,
+        354
+      ]
+    },
+    "KW1": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        53,
+        72,
+        91
+      ]
+    },
+    "KW2": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        53,
+        72,
+        91,
+        94,
+        235,
+        243,
+        283
+      ]
+    },
+    "KW3": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        51,
+        72,
+        91,
+        94,
+        235,
+        243,
+        283
+      ]
+    },
+    "KW4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        72,
+        91
+      ]
+    },
+    "Mnemosyne-Archipel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Cerberus-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Überwelt": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        34,
+        52,
+        71,
+        354
+      ]
+    },
+    "AEGIS-Kontrollebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        52
+      ]
+    },
+    "Alters": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        31,
+        51,
+        72,
+        78,
+        93,
+        106,
+        111,
+        113,
+        114,
+        119,
+        132,
+        134,
+        152,
+        153,
+        160,
+        236,
+        272,
+        299,
+        314,
+        338,
+        343,
+        344
+      ]
+    },
+    "Alter": {
+      "n": 5,
+      "n_including_compounds": 32,
+      "lines": [
+        31,
+        51,
+        72,
+        78,
+        93,
+        106,
+        111,
+        112,
+        113,
+        114,
+        119,
+        132,
+        133,
+        134,
+        152,
+        153,
+        155,
+        160,
+        236,
+        272,
+        299,
+        313,
+        314,
+        338,
+        343,
+        344
+      ]
+    },
+    "Nox": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        113,
+        133,
+        152
+      ]
+    },
+    "Praetor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Flicker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Guardians": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        156,
+        176,
+        258,
+        338,
+        344,
+        345
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        235
+      ]
+    },
+    "OBP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        71,
+        345
+      ]
+    },
+    "RIVE": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        32,
+        345
+      ]
+    },
+    "SARM": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        71,
+        345
+      ]
+    },
+    "PMAS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        345
+      ]
+    },
+    "CCPP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        345
+      ]
+    },
+    "K-Juna-Paradoxon": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        156,
+        174,
+        194,
+        201,
+        214,
+        222,
+        256,
+        345,
+        371,
+        377
+      ]
+    },
+    "K-Juna Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "K-Juna-Verbindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        173,
+        193,
+        194,
+        201
+      ]
+    },
+    "Risse": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        32,
+        54,
+        175,
+        194,
+        195,
+        259,
+        273
+      ]
+    },
+    "Welle von Unmöglichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Ufer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "Kohärenz-Insel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        259
+      ]
+    },
+    "Simulation": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        16,
+        38,
+        134,
+        139,
+        195,
+        237,
+        239,
+        328
+      ]
+    },
+    "Kipple": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        173,
+        195
+      ]
+    },
+    "Trauma-Loops": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        196
+      ]
+    },
+    "Datenfriedhöfe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        33
+      ]
+    },
+    "DIS": {
+      "n": 14,
+      "n_including_compounds": 18,
+      "lines": [
+        16,
+        38,
+        102,
+        106,
+        112,
+        119,
+        139,
+        153,
+        160,
+        237,
+        277,
+        343,
+        376
+      ]
+    },
+    "Plot-Punkte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        215,
+        288,
+        397
+      ]
+    },
+    "7-Punkte-Struktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        288
+      ]
+    },
+    "Environmental Storytelling (EST)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        350
+      ]
+    },
+    "EST": {
+      "n": 18,
+      "n_including_compounds": 22,
+      "lines": [
+        22,
+        26,
+        34,
+        38,
+        78,
+        98,
+        154,
+        175,
+        257,
+        264,
+        273,
+        280,
+        350,
+        359,
+        363
+      ]
+    },
+    "Setting als Charakter": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        42,
+        58,
+        98,
+        154,
+        274,
+        361
+      ]
+    },
+    "Architektur als Metapher": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        62,
+        275,
+        315,
+        362
+      ]
+    },
+    "Sensorische Details im Worldbuilding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "DIS-Darstellung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102,
+        277
+      ]
+    },
+    "Subjektive Wahrnehmungsnarration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Darstellung Innerer Konflikte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        143,
+        279,
+        314,
+        344
+      ]
+    },
+    "Verkörperung Abstrakter Konzepte": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        164,
+        280,
+        315,
+        328,
+        345
+      ]
+    },
+    "Entropie als Narratives Mittel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Paradoxien in Literatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Psychologischen Horrors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        226
+      ]
+    },
+    "Vermeidung von Didaktik": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        247,
+        284,
+        376,
+        391
+      ]
+    },
+    "Anwendungsmatrix Narrativer Techniken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        268
+      ]
+    },
+    "Angereicherte Plot-Punkt-Vorlage": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        286
+      ]
+    },
+    "Grundprinzipien": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        26,
+        46,
+        66,
+        86,
+        106,
+        127,
+        147,
+        168,
+        188,
+        209,
+        230,
+        251
+      ]
+    },
+    "Vertiefte Betrachtung": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        38,
+        58,
+        78,
+        98,
+        119,
+        139,
+        160,
+        180,
+        201,
+        222,
+        243,
+        264
+      ]
+    },
+    "Kapitel-Titel/Fokus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        289
+      ]
+    },
+    "Detaillierte Handlungssynopsis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        304
+      ]
+    },
+    "Konzeptionelle Einbettung & Klärung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        319
+      ]
+    },
+    "Charakter- & System-Entwicklung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        334
+      ]
+    },
+    "Theorie- & Paradox-Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        367
+      ]
+    },
+    "Thematischer Beitrag & Narrative Funktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        382
+      ]
+    },
+    "Kael/Alters Subjektivität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "AEGIS/Systemlogik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Kern-Welten Atmosphäre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Abstrakte Konzepte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Thematische Tiefe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        272
+      ]
+    },
+    "Informationsentropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Negentropie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Hitzetod": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        173,
+        188,
+        197
+      ]
+    },
+    "Plot-Blueprint": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        16
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Maxwells Dämon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        188
+      ]
+    },
+    "Lügner-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        209
+      ]
+    },
+    "Körperhorror": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        239
+      ]
+    }
+  }
+}

@@ -1,0 +1,280 @@
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Metapher für:"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Metapher für:` ^[monstergruppe-logik-und-metaphern.md:#8]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Nutzeranfrage"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nutzeranfrage` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Zugriff am April 25, 2025"
+whole word, case-sensitive     68
+whole word, case-insensitive   68
+including compounds            68
+
+`Zugriff am April 25, 2025` ^[monstergruppe-logik-und-metaphern.md:#68]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Subquotienten"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Subquotienten` ^[monstergruppe-logik-und-metaphern.md:#10]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Happy Family"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Happy Family` ^[monstergruppe-logik-und-metaphern.md:#15]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Pariahs"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Pariahs` ^[monstergruppe-logik-und-metaphern.md:#9]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Pariah-Gruppen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Pariah-Gruppen` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Dialetheismus"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Dialetheismus` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "dekonstruktive"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`dekonstruktive` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Denkrahmen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Denkrahmen` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Exzeptionalität und Isolation"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Exzeptionalität und Isolation` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Unverständlichkeit und Mysterium"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Unverständlichkeit und Mysterium` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Roman"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Roman` ^[monstergruppe-logik-und-metaphern.md:#3]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Romanprojekt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Romanprojekt` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[monstergruppe-logik-und-metaphern.md:#0]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[monstergruppe-logik-und-metaphern.md:#0]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[monstergruppe-logik-und-metaphern.md:#0]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Kohärenz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz` ^[monstergruppe-logik-und-metaphern.md:#0]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Protokoll` ^[monstergruppe-logik-und-metaphern.md:#0]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Baby-Monstergruppe"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Baby-Monstergruppe` ^[monstergruppe-logik-und-metaphern.md:#5]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "maximale Untergruppen"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`maximale Untergruppen` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Leech-Gitters"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Leech-Gitters` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Leech-Gitter-Automorphismen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Leech-Gitter-Automorphismen` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Golay-Codes"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Golay-Codes` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Stringtheorien"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Stringtheorien` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "parakonsistente Logiken"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`parakonsistente Logiken` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Parakonsistente Logiken"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Parakonsistente Logiken` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Moonshine-Vermutungen"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Moonshine-Vermutungen` ^[monstergruppe-logik-und-metaphern.md:#3]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Moonshine-Moduls"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Moduls` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Moonshine-Modul-VOA"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Modul-VOA` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Moonshine-Verbindungen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Verbindungen` ^[monstergruppe-logik-und-metaphern.md:#2]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Moonshine-Phänomens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Moonshine-Phänomens` ^[monstergruppe-logik-und-metaphern.md:#1]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Monstergruppe"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            46
+
+`Monstergruppe` ^[monstergruppe-logik-und-metaphern.md:#41]
+
+$ python3 scripts/read.py monstergruppe-logik-und-metaphern --count "Moonshine"
+whole word, case-sensitive     24
+whole word, case-insensitive   28
+including compounds            37
+
+`Moonshine` ^[monstergruppe-logik-und-metaphern.md:#24]
+
+stance_marker_count 11 = Metapher für: (8) + Nutzeranfrage (2) + Referenzen (1)
+$ grep -n -o "[^ ]*dekonstruktiv[a-z]*" (lines of dekonstruktive)
+23:dekonstruktiv
+256:„dekonstruktive
+256:„dekonstruktive
+382:dekonstruktiver
+$ grep -n "Roman" lines
+17:Roman
+304:Romanprojekt
+304:Roman
+310:Roman
+$ grep -n -o "196[.]*88[34][^ ]*" (dimension lines L46 L98 L100)
+46:196.883-dimensionalen
+98:196884.15
+100:196884-dimensionalen
+100:196883,
+114:196884q+21493760q2+864299970q3+…
+116:196884,
+$ grep -c "Metapher für" label lines: 316,324,332,340,348,356,364,372 = 8 lines
+316:  
+324:  
+332:  
+340:  
+348:  
+356:  
+364:  
+372:  
+$ grep -c "^[0-9]*\. " references 389..456
+68
+$ grep -o "Monstrous Moonshine[-a-zA-Z]*" compounds
+104:Monstrous Moonshine-Verbindungen
+301:Monstrous Moonshine-Verbindung
+profile: see 01-profile.txt: U+200B x85, backslash escapes 72, glued ref numbers 94, math symbol lines 5, candidates 60 in 04-counts.txt header
+$ grep -c "^  " 04-counts (zero rows)
+0

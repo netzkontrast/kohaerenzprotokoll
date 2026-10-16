@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      29
+  backslash escapes      48
+  typographic marks      170
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  narra    Narrating, Narration, Narrative, Narratives, Narratologie, Narrator
+  poten    Potential, Potentialfeld, Potentiality, Potentialität, Potentialitäten, Potentials
+  quant    Quanteninformationstheorie, Quantenmechanik, Quantenmöglichkeiten, Quantenphysik, Quantentheorie, Quantum
+  traum    Trauma, Traumaforschung, Traumas, Traumatic, Traumatische, Traumatisches
+  unter    Unterdrückung, Unterordnung, Unterscheidung, Unterscheidungen, Untersuchung
+  analo    Analog, Analogie, Analogien, Analogon
+  beoba    Beobachter, Beobachterinduzierter, Beobachtetem, Beobachtung
+  ereig    Ereignis, Ereignisse, Ereignissen, Ereignisses
+  gegen    Gegensatz, Gegensätze, Gegensätzen, Gegenwart
+  infor    Information, Informations, Informationsfluss, Informationsverarbeitung
+  inter    Interaktion, Interaktionen, Interferenz, Interpretation
+  reali    Realist, Reality, Realität, Realitätswerdens
+  roman    Roman, Romanrealität, Romans, Romanwelt
+  arist    Aristoteles, Aristotelische, Aristotle
+  besch    Beschreibt, Beschreibung, Beschreibungen
+  diese    Diese, Dieser, Dieses
+  entsc    Entscheidend, Entscheidung, Entscheidungen
+  erinn    Erinnern, Erinnerung, Erinnerungen
+  erzäh    Erzähler, Erzählers, Erzählung
+  fragm    Fragmenten, Fragmentierte, Fragmentierung
+  handl    Handlung, Handlungsmöglichkeit, Handlungsstrangs
+  histo    Historie, Historien, History
+  inhal    Inhalt, Inhalte, Inhalts
+  konfl    Konflikt, Konflikte, Konflikten
+  konst    Konstellation, Konstituenten, Konstitution
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Aktes
+  Akte < Akteur
+  Akte < Fakten
+  Akte < Akteurs
+  Akte < Charakterbogen
+  Alle < Parallel
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Ding < Dinges
+  Ding < Schrödingers
+  Ding < Understanding
+  Ding < Anfangsbedingungen
+  Eine < Seine
+  Eine < Bausteine
+  Feld < Felder
+  Feld < Feldes
+  Feld < Herkunftsfeld
+  Feld < Potentialfeld
+  Form < Information

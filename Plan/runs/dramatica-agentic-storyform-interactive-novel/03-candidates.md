@@ -1,0 +1,91 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The whole document (L1 to L555) was read. It is an English research report proposing an agentic architecture for interactive narrative built on a story theory; it names no figure, place or event of a novel's world, so the list holds the framework's own terms, its architecture components and tool names, and borrowed AI concepts under the lens heading. The reference list (L452 to L555) holds titles and web addresses only and contributes no candidate. There are no chapters and no Kap numbers. The table at L246 to L256 and L332 to L339 writes its cells with escaped asterisks, so terms that stand only there are left off.
+
+- Story Mind
+- Agent Mind
+- Grand Argument
+- quads
+- storyform
+- Story Problem
+- Story Goal
+- Story Solution
+- throughlines
+- Overall Story
+- Main Character
+- Impact Character
+- Subjective Story
+- Dramatica-native agent
+- Universal Narrative Model (UNM)
+- Universal Narrative Model
+- UNM
+- Narrative Context Protocol (NCP)
+- Narrative Context Protocol
+- NCP
+- Dynamics
+- Storypoints
+- Storybeats
+- Signposts
+- Main Character Resolve
+- Story Outcome
+- Story Judgment
+- Domain
+- Concern
+- Issue
+- Problem
+- narrative constitution
+- Narrative Director
+- Planner Module
+- Self-Reflection Module
+- Cognitive Layer
+- Memory Layer
+- Tool Invocation Layer
+- Orchestration Layer
+- Tool Layer
+- Overall Story Consequence
+- Static Memory (Knowledge Base)
+- Static Memory
+- Long-Term Memory
+- Semantic Memory
+- Procedural Memory
+- Short-Term Memory (Episodic)
+- Short-Term Memory
+- GenerateNarrative
+- GenerateDialogue
+- UpdateWorldState
+- RetrieveFromMemory
+- GetStoryformElement
+- Antagonist
+- Guardian
+- Skeptic
+- Contagonist
+- Context Engineering
+- structured narrative summary
+- UNM-RAG System
+- UNM Static Knowledge Base
+- contextual drift
+- sandbox paradox
+- curated agency
+- Storyforming
+- Storytelling
+- re-planning
+- Rosetta Stone
+- debiasing filter
+- NPC
+- OS
+- MC
+- IC
+- SS
+
+## lens
+
+- Belief-Desire-Intention (BDI)
+- Belief-Desire-Intention
+- BDI
+- Constitutional AI
+- Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation
+- RAG
+- drama manager
+- ReAct
+- Chain-of-Thought

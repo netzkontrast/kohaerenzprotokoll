@@ -1,0 +1,14 @@
+# isomorphe-architektur-der-realitaet-synthese-bericht
+  lines                342  (frontmatter ends at 9)
+  body words           3623
+  headings             21   bold-only lines 2
+  table rows           7   code fences 0
+  question marks       9
+  backslash escapes    41
+  typographic marks    93   ascii quotes 10
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    53
+  repeated labels      none
+  longest line         794 chars
+

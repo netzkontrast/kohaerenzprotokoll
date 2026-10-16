@@ -1,0 +1,97 @@
+# counts for 78 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             16 word    58 in   [16, 31, 51, 58, 73, 74]  <-- substring
+                                   42      as Kaels
+  Juna                              2 word    19 in   [33, 153, 156, 173, 174, 193]  <-- substring
+                                    1      as Junas
+  AEGIS                            55 word    60 in   [16, 32, 34, 38, 52, 58]
+                                    2      as AEGIS-Kontrollebene
+                                    1      as AEGIS-Domäne
+                                    1      as AEGIS-Räume
+                                    1      as AEGIS-kontrollierten
+  Kern-Welten                      14 word    14 in   [31, 38, 51, 58, 71, 72]
+  Kern-Welt                         7 word    21 in   [31, 34, 38, 51, 58, 71]  <-- substring
+                                   14      as Kern-Welten
+  KW1                               4 word     4 in   [31, 53, 72, 91]
+  KW2                               8 word     8 in   [31, 53, 72, 91, 94, 235]
+  KW3                               8 word     8 in   [31, 51, 72, 91, 94, 235]
+  KW4                               2 word     2 in   [72, 91]
+  Mnemosyne-Archipel                1 word     1 in   [235]
+  Cerberus-Labyrinth                1 word     1 in   [235]
+  Überwelt                          4 word     4 in   [34, 52, 71, 354]
+  AEGIS-Kontrollebene               2 word     2 in   [34, 52]
+  Alters                           26 word    26 in   [31, 51, 72, 78, 93, 106]
+  Alter                             5 word    32 in   [31, 51, 72, 78, 93, 106]  <-- substring
+                                   26      as Alters
+                                    1      as Alter-Funktionen
+  Nox                               3 word     3 in   [113, 133, 152]
+  Praetor                           1 word     1 in   [152]
+  Flicker                           1 word     1 in   [152]
+  Index                             1 word     1 in   [133]
+  Guardians                         7 word     7 in   [156, 176, 258, 338, 344, 345]
+  LogOS                             1 word     1 in   [156]
+  Mnemosyne                         1 word     2 in   [156, 235]
+                                    1      as Mnemosyne-Archipel
+  OBP                               3 word     3 in   [32, 71, 345]
+  RIVE                              2 word     2 in   [32, 345]
+  SARM                              3 word     3 in   [32, 71, 345]
+  PMAS                              1 word     1 in   [345]
+  CCPP                              1 word     1 in   [345]
+  K-Juna-Paradoxon                  9 word    11 in   [156, 174, 194, 201, 214, 222]
+                                    2      as K-Juna-Paradoxons
+  K-Juna Paradoxon                  1 word     1 in   [272]
+  K-Juna-Verbindung                 4 word     4 in   [173, 193, 194, 201]
+  Risse                             5 word     7 in   [32, 54, 175, 194, 195, 259]
+                                    2      as Rissen
+  Welle von Unmöglichkeit           1 word     1 in   [195]
+  Ufer                              1 word     1 in   [33]
+  Kohärenz-Insel                    1 word     1 in   [259]
+  Simulation                        8 word     9 in   [16, 38, 134, 139, 195, 237]
+                                    1      as Simulationssettings
+  Kipple                            2 word     2 in   [173, 195]
+  Trauma-Loops                      2 word     2 in   [53, 196]
+  Datenfriedhöfe                    1 word     1 in   [33]
+  DIS                              14 word    18 in   [16, 38, 102, 106, 112, 119]
+  Plot-Punkte                       4 word     4 in   [15, 215, 288, 397]
+  7-Punkte-Struktur                 1 word     1 in   [288]
+  Environmental Storytelling (EST)    2 word     2 in   [22, 350]
+  EST                              18 word    22 in   [22, 26, 34, 38, 78, 98]
+  Setting als Charakter             6 word     6 in   [42, 58, 98, 154, 274, 361]
+  Architektur als Metapher          4 word     4 in   [62, 275, 315, 362]
+  Sensorische Details im Worldbuilding    1 word     1 in   [82]
+  DIS-Darstellung                   2 word     2 in   [102, 277]
+  Subjektive Wahrnehmungsnarration    1 word     1 in   [123]
+  Darstellung Innerer Konflikte     4 word     4 in   [143, 279, 314, 344]
+  Verkörperung Abstrakter Konzepte    5 word     5 in   [164, 280, 315, 328, 345]
+  Entropie als Narratives Mittel    1 word     1 in   [184]
+  Paradoxien in Literatur           1 word     1 in   [205]
+  Psychologischen Horrors           1 word     1 in   [226]
+  Vermeidung von Didaktik           4 word     4 in   [247, 284, 376, 391]
+  Anwendungsmatrix Narrativer Techniken    1 word     1 in   [268]
+  Angereicherte Plot-Punkt-Vorlage    1 word     1 in   [286]
+  Grundprinzipien                  12 word    12 in   [26, 46, 66, 86, 106, 127]
+  Vertiefte Betrachtung            12 word    12 in   [38, 58, 78, 98, 119, 139]
+  Kapitel-Titel/Fokus               1 word     1 in   [289]
+  Detaillierte Handlungssynopsis    1 word     1 in   [304]
+  Konzeptionelle Einbettung & Klärung    1 word     1 in   [319]
+  Charakter- & System-Entwicklung    1 word     1 in   [334]
+  Theorie- & Paradox-Integration    1 word     1 in   [367]
+  Thematischer Beitrag & Narrative Funktion    1 word     1 in   [382]
+  Kael/Alters Subjektivität         1 word     1 in   [272]
+  AEGIS/Systemlogik                 1 word     1 in   [272]
+  Kern-Welten Atmosphäre            1 word     1 in   [272]
+  Abstrakte Konzepte                1 word     1 in   [272]
+  Thematische Tiefe                 1 word     1 in   [272]
+  Informationsentropie              1 word     1 in   [193]
+  Negentropie                       1 word     1 in   [196]
+  Hitzetod                          3 word     3 in   [173, 188, 197]
+  Plot-Blueprint                    1 word     2 in   [11, 16]
+                                    1      as Plot-Blueprints
+  Internal Family Systems           1 word     1 in   [119]
+  Dissoziative Identitätsstörung    1 word     1 in   [106]
+  Maxwells Dämon                    1 word     1 in   [188]
+  Lügner-Paradoxon                  1 word     1 in   [209]
+  Körperhorror                      2 word     2 in   [239]

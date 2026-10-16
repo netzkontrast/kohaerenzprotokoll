@@ -1,0 +1,185 @@
+{
+  "document": "an-analysis-of-thematic-axes-and-narrative-mirroring-in-cohe",
+  "drive_id": "15_qWP5TnAlxmoeil_KFgIreIRiinnLcm_scmOfhtXgg",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 58,
+    "decisions": 58,
+    "decided_by_lookup": 44,
+    "needs_judgement": 14
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        31,
+        33,
+        45,
+        79,
+        104,
+        112
+      ],
+      "attribution": "",
+      "note": "AEGIS read as the pathological case of one axis, isolated and bound to an idealised past"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Coherons as the means through which K₁ acts"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        87,
+        94
+      ],
+      "attribution": "",
+      "note": "Juna/V as the external entity of the link, a force that destroys the antagonist and heals the protagonist"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        37,
+        40,
+        45,
+        64,
+        108,
+        130
+      ],
+      "attribution": "",
+      "note": "System Kael read through the dissociation lens, its integration the key to defeating AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        57
+      ],
+      "attribution": "",
+      "note": "the Kernwelten read as conditioning environments"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        40,
+        90
+      ],
+      "attribution": "",
+      "note": "Kiko among the EPs and among the parts drawn to the link"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the K₁ kernel as the principle of structure"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the K₀ kernel as entropy and external pressure"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        39,
+        90
+      ],
+      "attribution": "",
+      "note": "Lex as the rationalist part among the ANPs"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        87
+      ],
+      "attribution": "",
+      "note": "the link with Juna/V as catalyst against isolation"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        40,
+        90
+      ],
+      "attribution": "",
+      "note": "Nyx among the EPs, threatened by the link"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "Rhys as the caregiver drawn to the link"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        64
+      ],
+      "attribution": "",
+      "note": "the Risse as situations in which internal control breaks down"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        37,
+        83
+      ],
+      "attribution": "",
+      "note": "TSDP as the lens that defines Kael's psychology"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "coheron",
+      "surface": "Coheron",
+      "line": 27,
+      "decision": "reading",
+      "why": "K₁ acts through Coherons; read on coheron"
+    },
+    {
+      "page": "juna",
+      "surface": "Juna",
+      "line": 33,
+      "decision": "reading",
+      "why": "read on juna via Juna/V"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

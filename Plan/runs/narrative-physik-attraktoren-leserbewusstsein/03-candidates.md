@@ -1,0 +1,93 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Observations, written while reading. The document is a long analysis in the voice of a framework text: it sets the reader ('O') as an observer outside the story-system, defines three forces named Logos, Abyssos and Eros as attractors, and ends with structural recommendations. It says outright that the three force names are not defined in the documents it was given and are synthesised here (L79). Numbers glued to words are dropped footnote marks. Tables are flattened with pipes and escaped asterisks. The references list at the end carries titles and web addresses; none of it goes on the list. The two source titles in the references that sound like novel documents are titles of cited works and stay out.
+
+- Kael
+- Juna/V
+- Juna
+- AEGIS
+- Kernwelt
+- Kernwelten
+- KW1
+- Logos-Prime
+- TSDP
+- Echo-Intrusion
+- Funktionalen Multiplizität
+- Kern-Selbst
+- Manager
+- Nichts
+- umgebende Nichtssein
+- Leser
+- Mitschöpfer
+- Glitches
+- Logos
+- Abyssos
+- Eros
+- Logos-Attraktor
+- Abyssos-Attraktor
+- Eros-Attraktor
+- narrativen Attraktoren
+- Anziehungsbecken
+- basin of attraction
+- Phasenraum
+- Phasenraums
+- Kontrollparameter
+- Trajektorie
+- Negentropie
+- Entropie
+- Informationsentropie
+- Lexikon des ontologischen Foreshadowing
+- Perzeptuelle Instabilität
+- Zeitliche Diskontinuität
+- Räumliches Paradoxon
+- Emotionale Resonanz
+- Hellseherei der Figuren
+- Narrative Transportation
+- transzendente Umwelt
+- solipsistische Maschine
+- Quanten-Metapher
+- Kollaps der Wellenfunktion
+- Wahrscheinlichkeitswelle
+- Superposition
+- Datenkorruption
+- psychologischen Kriegsführung
+- Gedankenreform
+- Frakturierte Untersuchung
+- Mosaik-Plot
+- multiple personale Erzähler
+- anachronistische Zeitgestaltung
+- unzuverlässigen Erzähler
+
+## lens
+
+- Luhmann-Berkeley-Synthese
+- Esse est percipi
+- Kopenhagener Deutung
+- strukturellen Kopplung
+- autopoietisches
+- operativ geschlossenes
+- Beobachtereffekt
+- seltsame Attraktoren
+- Schmetterlingseffekt
+- mythoi
+- Leerstellen
+- Verfremdungseffekt
+- Über-Ich
+- Realitätsprinzips
+- Lebenstrieb
+- Todestrieb
+- Thanatos
+- Skinner-Boxen
+- Internal Family Systems
+- ER=EPR
+- Einstein-Rosen-Brücke
+- Wurmloch
+- Das Schöne
+- Erhabene
+- Hard Science-Fiction
+- Kosmischen Horrors
+- Psychologischen Thrillers
+- Komödie
+- Romanze
+- Tragödie
+- Ironie/Satire

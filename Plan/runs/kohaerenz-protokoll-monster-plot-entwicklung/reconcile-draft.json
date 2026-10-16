@@ -1,0 +1,166 @@
+{
+  "document": "kohaerenz-protokoll-monster-plot-entwicklung",
+  "drive_id": "1D8MfQefAGFXGBsUQxkteUb3VLQWgbUPZWl1mqnXhBVU",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 104,
+    "decisions": 97,
+    "decided_by_lookup": 70,
+    "needs_judgement": 27
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        21,
+        29,
+        33,
+        192,
+        212,
+        223,
+        289
+      ],
+      "attribution": "",
+      "note": "AEGIS's directive of coherence by Abgrenzung, its tools and its failure, proposed as a plot"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        47,
+        122
+      ],
+      "attribution": "",
+      "note": "the Alters as the parts the connection could integrate"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        53
+      ],
+      "attribution": "",
+      "note": "the connection as a strongly emergent phenomenon"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        181,
+        210
+      ],
+      "attribution": "",
+      "note": "Guardians as witnesses of AEGIS's failure, loyalty crumbling"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        17,
+        19,
+        81,
+        139,
+        223
+      ],
+      "attribution": "",
+      "note": "Juna as one half of the connection, the role left open"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        47,
+        112,
+        123,
+        158,
+        222,
+        246
+      ],
+      "attribution": "",
+      "note": "Kael's integration as the counter-move to AEGIS's analysis"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        166,
+        179,
+        180,
+        186,
+        201
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as testing grounds and as metaphors of AEGIS's inner state"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        46,
+        69
+      ],
+      "attribution": "",
+      "note": "Monstrous Moonshine as the metaphor of the connection's non-locality"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        96,
+        181,
+        210
+      ],
+      "attribution": "",
+      "note": "the Risse as the visible form of feedback loops in AEGIS"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q8"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 69,
+      "decision": "occurrence",
+      "why": "a level of reality in a general sense, not the named Realitätsebenen"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "one of AEGIS's methods, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

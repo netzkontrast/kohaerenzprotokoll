@@ -1,0 +1,14 @@
+# roman-kapitel-1-erstellung-analyse
+  lines                275  (frontmatter ends at 9)
+  body words           3443
+  headings             16   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       7
+  backslash escapes    32
+  typographic marks    40   ascii quotes 114
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    21
+  repeated labels      none
+  longest line         833 chars
+

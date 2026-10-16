@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      85
+  backslash escapes      333
+  typographic marks      43
+  ascii quotes           126
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemdynamik, Systeme, Systemen, Systemfehler, Systemgrenzen, Systeminstabilität, Systeminstabilitäten, Systemisch, Systemische, Systemkollaps, Systemkontrolle, Systemkritik, Systemkämpfe, Systemmeldungen, Systemregeln, Systems, Systemtheorie, Systemumgebung, Systemversagen, Systemverständnis
+  kontr    Kontrapunkt, Kontrast, Kontrollanspruch, Kontrolle, Kontrolleur, Kontrollinstanz, Kontrollmechanismen, Kontrollmethoden, Kontrollmittel, Kontrollparadigma, Kontrollparadigmas, Kontrollparadoxon, Kontrollrahmen, Kontrollstrategie, Kontrollstrategien, Kontrollverlust, Kontrollversuche, Kontrollästhetik
+  inter    Interaktion, Interaktionen, Interdependenz, Interdisziplinarität, Internal, InternalFamilySystems, Internet, Interpretation, Interpretationen, Interpretations, Interpretiert, Interrelationen, Interventionen, Interventions
+  infor    Information, Informationen, Informations, Informationsaustausch, Informationsbasis, Informationstheorie, Informationsverarbeitung, Informationsübertragung
+  psych    Psyche, Psychedelic, Psychiatry, Psychisches, Psychologie, Psychologische, Psychology, Psychotraumatologie
+  selbs    Selbst, Selbsterhaltung, Selbstführung, Selbstgespräche, Selbstmodelle, Selbstorganisation, Selbstverletzung, Selbstverständnis
+  chara    Charakter, Charakterbögen, Charaktere, Charakterentwicklung, Charaktermerkmal, Charakterstimme, Charakterstudie
+  integ    Integrate, Integrating, Integration, Integrationsstrategie, Integrationsstrategien, Integrationsversuche, Integrität
+  wider    Widerspruch, Widersprüche, Widersprüchen, Widerstand, Widerstands, Widersteht, Widerstände
+  überw    Überwachung, Überwachungsarchitektur, Überwelt, Überwindet, Überwindung, Überwältigenden, Überwältigung
+  bindu    Bindung, Bindungen, Bindungsmuster, Bindungsstile, Bindungsstilen, Bindungstheorie
+  kommu    Kommunikation, Kommunikationskanäle, Kommunikationsmittel, Kommunikationsprotokollen, Kommunikationssysteme, Kommunikationstheorie
+  poten    Potentialität, Potentialmeer, Potentialmeers, Potenzial, Potenziale, Potenzials
+  reali    Realität, Realitätsdefinition, Realitätsebene, Realitätsebenen, Realitätskonstruktion, Realitätswahrnehmung
+  traum    Traum, Trauma, Traumafolgen, Traumaheilung, Traumamodellen, Traumata
+  beoba    Beobachter, Beobachtereffekt, Beobachtereffekts, Beobachters, Beobachtung
+  exist    Existential, Existenz, Existenzen, Existenziell, Existenzielle
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktrahmen, Konflikts
+  konst    Konstitution, Konstrukteur, Konstruktion, Konstruktionsprozess, Konstruktivismus
+  objek    Objekt, Objekte, Objekten, Objektive, Objektivität
+  parad    Paradebeispiel, Paradigma, Paradoxien, Paradoxon, Paradoxons
+  quant    QUANTUMLANDAUER, Quanten, Quantenverschränkung, Quantenzustand, Quantum
+  reson    Resonant, Resonanz, Resonanzmatrix, Resonanzmuster, Resonanzwellen
+  schat    Schatten, Schattenarbeit, Schattenkonfrontation, Schattenreich, Schattens
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturierung
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Alles
+  Blau < Blaupause
+  Blau < Blaupausen
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Seine
+  Eine < Allgemeine
+  Eine < Anscheinend
+  Form < Formal
+  Form < Formen
+  Form < Formaler
+  Form < Information
+  Form < Konformität
+  Form < Informations
+  Form < Informationen
+  Form < Transformation
+  Form < Informationsbasis
+  Form < Informationstheorie

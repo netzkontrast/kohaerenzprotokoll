@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      78
+  backslash escapes      52
+  typographic marks      146
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabsturz, Systeme, Systemen, Systemische, Systemkollaps, Systems, Systemtheorie, Systemverantwortung
+  integ    Integrated, Integrating, Integration, Integrativ, Integrierte, Integrierten, Integrität
+  selbs    Selbst, Selbsterhaltung, Selbsterkenntnis, Selbstmodifikation, Selbstreferentielle, Selbstvernichtung
+  trans    Transcendental, Transformation, Transformationen, Translational, Transzendenten, Transzendenz
+  autop    Autopoiese, Autopoiesis, Autopoietic, Autopoietische, Autopoietisches
+  disso    Dissociated, Dissociation, Dissociative, Dissonanz, Dissoziativen
+  handl    Handlung, Handlungen, Handlungsfähigkeit, Handlungskniff, Handlungsreisenden
+  konze    Konzentration, Konzept, Konzepte, Konzepten, Konzepts
+  theor    Theorem, Theorems, Theorie, Theorien, Theory
+  verif    Verifikation, Verifikationsprotokolle, Verifizierer, Verifizierers, Verifizierungsalgorithmus
+  wider    Widerlegung, Widerspruch, Widerspruchs, Widersprüche, Widerstandsfähigkeit
+  bewus    Bewusstheit, Bewusstsein, Bewusstseins, Bewusstseinsmodell
+  diale    Dialektik, Dialektische, Dialetheisch, Dialetheismus
+  erzäh    Erzähllinie, Erzähllinien, Erzähltheorie, Erzählung
+  fehle    Fehler, Fehlermeldungen, Fehlermodus, Fehlerschleife
+  ident    Identity, Identität, Identitäten, Identitätsstörung
+  infor    Informatik, Information, Informationen, Informationstheorie
+  philo    Philosopher, Philosophical, Philosophie, Philosophy
+  roman    Roman, Romanprojekts, Romanrealität, Romans
+  techn    Techniken, Technologie, Technologist, Technology
+  aussa    Aussage, Aussagen, Aussagenlogik
+  besch    Beschaffenheit, Beschreibung, Beschreibungen
+  diese    Diese, Dieser, Dieses
+  entwi    Entwicklers, Entwicklung, Entwicklungsbogen
+  explo    Exploit, Exploring, Explosion
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Fakten
+  Akte < Charakter
+  Akte < Charaktere
+  Akte < Hauptcharakter
+  Alle < Alles
+  Alle < Valley
+  Alle < Parallelen
+  Book < Books
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Seine
+  Fall < Verfall
+  Form < Formal
+  Form < Informatik
+  Form < Formalismus
+  Form < Information
+  Form < Informationen
+  Form < Transformation
+  Form < Transformationen

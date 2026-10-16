@@ -1,0 +1,289 @@
+{
+  "document": "monstergruppe-narrative-cluster-und-metaphern",
+  "drive_id": "1XYjHosCu9V2RDfBaNO0SeOG1SphYvEVFF14XlI3V5ew",
+  "step": "probes",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 61
+  },
+  "glued_ref_numbers": 151,
+  "backslash_escapes": 52,
+  "typographic_marks": 13,
+  "ascii_quotes": 198,
+  "inflection_families": {
+    "symme": [
+      "SYMMETRY",
+      "Symmetrie",
+      "Symmetrieatomen",
+      "Symmetrieebene",
+      "Symmetrieeigenschaften",
+      "Symmetriegesetzen",
+      "Symmetriegruppe",
+      "Symmetrien",
+      "Symmetrieoperation",
+      "Symmetrieoperationen",
+      "Symmetrieprinzipien",
+      "Symmetriestruktur",
+      "Symmetrietypen",
+      "Symmetry"
+    ],
+    "unter": [
+      "Untergruppe",
+      "Untergruppen",
+      "Untergruppenbeziehungen",
+      "Untergruppenhierarchie",
+      "Untergruppenlandschaft",
+      "Untergruppensymmetrien",
+      "Untergruppenüberlagerungen",
+      "Unterprogramme",
+      "Unterraum",
+      "Unterscheidung",
+      "Untersuchung"
+    ],
+    "inter": [
+      "Interagierende",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktive",
+      "Interaktives",
+      "Interaktivität",
+      "Interne",
+      "Interpretationen",
+      "Interpretiert"
+    ],
+    "monst": [
+      "MONSTER",
+      "Monster",
+      "Monstergruppe",
+      "Monsters",
+      "Monstrous",
+      "MonstrousMoonshine",
+      "Monströse"
+    ],
+    "grupp": [
+      "Gruppe",
+      "Gruppen",
+      "Gruppeneigenschaften",
+      "Gruppenname",
+      "Gruppentheorie",
+      "Gruppenverknüpfung"
+    ],
+    "haupt": [
+      "Hauptarchitekt",
+      "Hauptgruppen",
+      "Hauptkomponenten",
+      "Hauptmodul",
+      "Hauptmoduln",
+      "Hauptuntergruppen"
+    ],
+    "krist": [
+      "Kristalle",
+      "Kristallen",
+      "Kristallfacetten",
+      "Kristallformation",
+      "Kristallgitter",
+      "Kristallstruktur"
+    ],
+    "spora": [
+      "Sporadic",
+      "SporadicGroup",
+      "SporadicGroupsClass",
+      "Sporadics",
+      "Sporadische",
+      "Sporadizität"
+    ],
+    "darst": [
+      "Darstellung",
+      "Darstellungen",
+      "Darstellungsdimension",
+      "Darstellungsdimensionen",
+      "Darstellungsmatrizen"
+    ],
+    "eigen": [
+      "Eigenheit",
+      "Eigenheiten",
+      "Eigenschaft",
+      "Eigenschaften",
+      "Eigenverantwortung"
+    ],
+    "mathe": [
+      "Mathematical",
+      "Mathematics",
+      "Mathematik",
+      "Mathematiker",
+      "Mathematische"
+    ],
+    "modul": [
+      "Modul",
+      "Module",
+      "Modulformen",
+      "Modulfunktionen",
+      "Moduls"
+    ],
+    "permu": [
+      "Permutation",
+      "Permutationen",
+      "Permutations",
+      "Permutationsdarstellung",
+      "Permutationsgruppe"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselmerkmal",
+      "Schlüsselmerkmale",
+      "Schlüsselposition",
+      "Schlüsseluntergruppen"
+    ],
+    "trans": [
+      "Transformationen",
+      "Transitivität",
+      "Transpositionen",
+      "Transpositionsgruppe",
+      "Transpositionsgruppen"
+    ],
+    "unive": [
+      "Universe",
+      "Universen",
+      "University",
+      "Universität",
+      "Universum"
+    ],
+    "archi": [
+      "Architecture",
+      "Architekt",
+      "Architekten",
+      "Architektur"
+    ],
+    "betra": [
+      "Betrachtenden",
+      "Betrachter",
+      "Betrachters",
+      "Betrachtung"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ],
+    "entde": [
+      "Entdeckt",
+      "Entdeckung",
+      "Entdeckungen",
+      "Entdeckungsgeschichte"
+    ],
+    "famil": [
+      "Familie",
+      "Familien",
+      "Familienzweige",
+      "Family"
+    ],
+    "gitte": [
+      "Gitter",
+      "Gittern",
+      "Gitters",
+      "Gitterstruktur"
+    ],
+    "kompl": [
+      "Komplement",
+      "Komplex",
+      "Komplexität",
+      "Komplexitäten"
+    ],
+    "konst": [
+      "Konstruierbar",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktionen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepts",
+      "Konzeptuell"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Acht",
+      "Macht"
+    ],
+    [
+      "Acht",
+      "Betrachter"
+    ],
+    [
+      "Acht",
+      "Beobachtung"
+    ],
+    [
+      "Acht",
+      "Betrachters"
+    ],
+    [
+      "Acht",
+      "Betrachtung"
+    ],
+    [
+      "Acht",
+      "Betrachtenden"
+    ],
+    [
+      "Acht",
+      "Verschachtelte"
+    ],
+    [
+      "Acht",
+      "Verschachtelung"
+    ],
+    [
+      "Alle",
+      "Kristalle"
+    ],
+    [
+      "Alle",
+      "Kristallen"
+    ],
+    [
+      "Atom",
+      "Atome"
+    ],
+    [
+      "Atom",
+      "Symmetrieatomen"
+    ],
+    [
+      "Buch",
+      "Buchstaben"
+    ],
+    [
+      "Code",
+      "Codes"
+    ],
+    [
+      "Code",
+      "Quellcode"
+    ],
+    [
+      "Code",
+      "Codewörter"
+    ],
+    [
+      "Code",
+      "Fehlerkorrekturcode"
+    ],
+    [
+      "Code",
+      "Fehlerkorrekturcodes"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ]
+  ]
+}

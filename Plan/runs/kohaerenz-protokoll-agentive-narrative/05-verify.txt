@@ -1,0 +1,85 @@
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Aufgaben"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+`Aufgaben` ^[kohaerenz-protokoll-agentive-narrative.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Mitigation"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`Mitigation` ^[kohaerenz-protokoll-agentive-narrative.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Empfehlung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+`Empfehlung` ^[kohaerenz-protokoll-agentive-narrative.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kapitel` ^[kohaerenz-protokoll-agentive-narrative.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Kap` ^[kohaerenz-protokoll-agentive-narrative.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Nexus"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+`Nexus` ^[kohaerenz-protokoll-agentive-narrative.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Kaels"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+`Kaels` ^[kohaerenz-protokoll-agentive-narrative.md:#4]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "interferenceRules"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+`interferenceRules` ^[kohaerenz-protokoll-agentive-narrative.md:#9]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Fundaments"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Fundaments` ^[kohaerenz-protokoll-agentive-narrative.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "Aufsehers"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`Aufsehers` ^[kohaerenz-protokoll-agentive-narrative.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "dramaticaStoryform"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+`dramaticaStoryform` ^[kohaerenz-protokoll-agentive-narrative.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "kaelState"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`kaelState` ^[kohaerenz-protokoll-agentive-narrative.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-agentive-narrative --count "fundamentState"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+`fundamentState` ^[kohaerenz-protokoll-agentive-narrative.md:#2]
+$ sed -n 583,670p Sources/drive/kohaerenz-protokoll-agentive-narrative.md | grep -c '^[0-9]*\. '
+88
+# 4+3+2 = 9 = stance_marker_count
+$ python3 scripts/profile.py kohaerenz-protokoll-agentive-narrative  (193 backslash escapes, 108 glued ref numbers, 14 question marks)
+  question marks       14
+  backslash escapes    193
+  glued ref numbers    108
+$ grep -n "enum":,\|"required": Sources/drive/kohaerenz-protokoll-agentive-narrative.md
+171:          "enum":,
+182:          "required":
+185:      "required":
+218:      "required": \["userId", "decis
+221:  "required":,
+233:      "required": \["name", "domain"
+243:      "required": \["ruleId", "condi
+252:      "required": \["integrationProg
+261:      "required": \["entropyLevel", 
+269:      "required":
+276:      "required":
+286:      "required":

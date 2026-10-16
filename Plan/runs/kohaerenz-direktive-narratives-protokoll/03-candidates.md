@@ -1,0 +1,56 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidates as the document writes them. The document is a German plot directive with headed rules: three physics mechanics (Landauer, Gödel, black hole) each with Theorie / Plot-Anwendung / Fixe Regel, three narrative levels with Atmosphäre / Sprachliche Regeln / Horror-Element, and a four-item checklist. The real names Gödel, Landauer, Hawking, Metzinger stand only inside compounds or parentheses and are not listed bare. Fixed labels repeat under each block and are listed once each as template labels.
+
+- Narratives Kohärenz-Protokoll
+- Kohärenz Protokoll
+- Kern-Dilemma
+- Hard Sci-Fi
+- Philosophical Horror
+- Unvermeidliche
+- Informationsphysik
+- Entropie
+- Landauer-Limit
+- Quanten-Unitarität
+- Thermodynamik der Verdrängung
+- Landauer-Prinzip
+- Gödel-Gefängnis
+- Unvollständigkeitssatz
+- Holografische Trauma
+- Schwarze-Loch-Physik
+- Ereignishorizont
+- Hawking-Strahlung
+- Unitarität
+- AEGIS
+- Kael
+- Juna
+- LogOS
+- Wächter
+- Guardians
+- Syntaxfehler
+- Alter
+- Manager
+- Kind
+- Gatekeeper
+- Konstrukt-Stadt
+- Grenz-Zonen
+- Resonanz-Kontinuum
+- Wir-Form
+- Dissoziation
+- Transzendenz
+- Ordnung
+- Energie-Bilanz
+- Perspektiv-Logik
+- System-Reaktion
+- Grenz-Erfahrung
+- Kohärenz-Checkliste
+- Fixe Regel
+- Plot-Anwendung
+- Horror-Element
+- Sprachliche Regeln
+- Atmosphäre
+- Theorie
+- Stilistische Kohärenz
+- Inhaltliche Kohärenz
+- Echos
+- Strahlung

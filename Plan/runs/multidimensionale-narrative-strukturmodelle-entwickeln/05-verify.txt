@@ -1,0 +1,134 @@
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Fallstudie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Fallstudie` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#2]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Illustration"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Illustration` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#1]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Forschungsfragen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Forschungsfragen` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#4]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#0]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#0]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "System Kael"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`System Kael` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#11]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Kohärenz Protokoll"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kohärenz Protokoll` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#11]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "AEGIS"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            17
+
+`AEGIS` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#16]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Kernwelten"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kernwelten` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#6]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Storyform"
+whole word, case-sensitive     76
+whole word, case-insensitive   76
+including compounds            112
+
+`Storyform` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#76]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Storyforms"
+whole word, case-sensitive     36
+whole word, case-insensitive   36
+including compounds            36
+
+`Storyforms` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#36]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Kael"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            28
+
+`Kael` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#21]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "TSDP"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            6
+
+`TSDP` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#3]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Lex"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Lex` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#1]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#1]
+
+stance_marker_count 7 = Fallstudie 2 + Illustration 1 + Forschungsfragen 4
+$ grep -n TSDP (absence of an expansion)
+129:Die narrative Verschränkung erweist sich als besonders wertvolles Werkzeug zur Erzeug
+322:1 TSDP-Analyse: Kohärenz Protokoll Charaktere
+410:41 Fasse die zentralen Konzepte des narrativen Projekts 'Kohärenz Protokoll' zusammen
+414:42 Fasse die zentralen Konzepte des narrativen Projekts 'Kohärenz Protokoll' zusammen
+420:43 Gib eine detaillierte Analyse der Charakterprofile der elf Persönlichkeitsanteile 
+504:43. Zugriff am Januar 1, 1970, uploaded:TSDP-Analyse: Kohärenz Protokoll Charaktere
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Kanon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kanon` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#0]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "Canon"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Canon` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#0]
+
+$ python3 scripts/read.py multidimensionale-narrative-strukturmodelle-entwickeln --count "kanonisch"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`kanonisch` ^[multidimensionale-narrative-strukturmodelle-entwickeln.md:#0]
+

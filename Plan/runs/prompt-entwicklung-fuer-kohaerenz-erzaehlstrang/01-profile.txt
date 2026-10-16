@@ -1,0 +1,14 @@
+# prompt-entwicklung-fuer-kohaerenz-erzaehlstrang
+  lines                388  (frontmatter ends at 9)
+  body words           4921
+  headings             34   bold-only lines 1
+  table rows           8   code fences 0
+  question marks       1
+  backslash escapes    24
+  typographic marks    142   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    22
+  repeated labels      none
+  longest line         1266 chars
+

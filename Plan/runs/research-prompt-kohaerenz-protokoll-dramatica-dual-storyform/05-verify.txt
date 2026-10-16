@@ -1,0 +1,131 @@
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Was sie ist"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Was sie ist` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#8]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Warum sie hier ist"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Warum sie hier ist` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#8]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Stop-Kriterium"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Stop-Kriterium` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#8]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Anwendungs-Schritte"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            18
+
+`Anwendungs-Schritte` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#17]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "fixiert"
+whole word, case-sensitive     5
+whole word, case-insensitive   9
+including compounds            7
+
+`fixiert` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#5]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "FIXIERT"
+whole word, case-sensitive     4
+whole word, case-insensitive   9
+including compounds            4
+
+`FIXIERT` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#4]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "AEGIS"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            25
+
+`AEGIS` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#18]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Kael"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            13
+
+`Kael` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#12]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Juna"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            17
+
+`Juna` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#6]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Telefonat"
+whole word, case-sensitive     28
+whole word, case-insensitive   28
+including compounds            50
+
+`Telefonat` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#28]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Kapitel"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            12
+
+`Kapitel` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#8]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Genesis-Sequenz"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Genesis-Sequenz` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#7]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#0]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Steinbruch"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Steinbruch` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#2]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "dekanonisiert"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`dekanonisiert` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#3]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Reader = Substrat"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Reader = Substrat` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#1]
+
+$ read.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform --count "Reader = substrat"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Reader = substrat` ^[research-prompt-kohaerenz-protokoll-dramatica-dual-storyform.md:#1]
+
+stance_marker_count 24 = 8 + 8 + 8 (Was sie ist, Warum sie hier ist, Stop-Kriterium)
+
+$ head -1 04-counts.txt
+# counts for 130 candidates
+$ python3 scripts/profile.py research-prompt-kohaerenz-protokoll-dramatica-dual-storyform | backslash/glued
+  backslash escapes    416
+  glued ref numbers    117
+  repeated labels      Anwendungs-Schritte x8, Stop-Kriterium x8, Warum sie hier ist x8, Was sie ist x8
+$ grep -c '^- ' 03-candidates.md
+130
+$ grep -cP zero-check of every candidate: none at zero (see 04-counts.txt)
+0

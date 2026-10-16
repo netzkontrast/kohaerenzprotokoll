@@ -1,0 +1,95 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Das Dokument ist eine Darstellung der Dramatica-Theorie und des Narrative Context Protocol; es nennt keine Figur, keinen Ort und kein Kapitel des Romans. Die Kandidaten sind die Begriffe, die es selbst setzt (fett, definiert, als Tabellenkopf oder Überschrift). Die Namen von Plattformen und Software stehen am Ende der Liste.
+
+- Dramatica
+- Dramatica-Theorie
+- Story Mind
+- Grand Argument
+- Inquität
+- Throughlines
+- Throughline
+- Objective Story
+- Main Character
+- Influence Character
+- Relationship Story
+- Protagonist
+- Antagonist
+- Reason
+- Emotion
+- Sidekick
+- Skeptic
+- Guardian
+- Contagonist
+- Complex Characters
+- Quad
+- KTAD
+- Knowledge
+- Thought
+- Ability
+- Desire
+- Mass
+- Energy
+- Space
+- Time
+- Dynamic Pairs
+- Sliding Scale
+- Trust
+- Test
+- Class / Domain
+- Type
+- Variation
+- Element
+- Size of Mind Constant
+- Story Points
+- Story Goal
+- Story Requirements
+- Story Consequences
+- Story Costs
+- Story Dividends
+- Justification
+- Justifications
+- Storyform
+- Storyforms
+- Story-Engine
+- essenziellen Fragen
+- MC Resolve
+- MC Growth
+- MC Approach
+- MC Problem-Solving Style
+- Story Driver
+- Story Limit
+- Story Outcome
+- Story Judgment
+- Optionlock
+- Timelock
+- Do-er
+- Be-er
+- Slips
+- PRCO
+- SRCA
+- TKAD
+- Potential
+- Resistance
+- Current
+- Outcome
+- Narrative Context Protocol
+- NCP
+- Storyform Layer
+- Beat Layer
+- Author-Intent Layer
+- Version Layer
+- Semantic Drift
+- Guardrail
+- Signposts
+- Journeys
+- Beats
+- Subtext
+- Storytelling
+- Context Engineering
+- Single Source of Truth
+- Candidate Storyforms
+- Predictive Psychology
+- Subtxt
+- Narrova
+- DreamCodeVR

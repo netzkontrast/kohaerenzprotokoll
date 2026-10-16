@@ -31,6 +31,8 @@ KINDS = {
     "graphqlite": (ROOT / ".venv-graphqlite/bin/python", ROOT / ".venv-graphqlite/bin/python",
                    ".venv-graphqlite absent — scripts/install.sh graphqlite"),
     "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
+    "mcp": (ROOT / ".venv-mcp" / "bin" / "python", ROOT / ".venv-mcp" / "bin" / "python",
+            ".venv-mcp absent — scripts/install.sh mcp"),
     "typesafe": (ROOT / ".venv-typesafe" / "bin" / "python", ROOT / ".venv-typesafe" / "bin" / "python",
                  ".venv-typesafe absent — scripts/install.sh typesafe"),
     # the upstream package, only to hold the port to it (`hx.py parity`); no pipeline step needs it
@@ -69,6 +71,9 @@ SUITES = [
     ("graphqlite: real extension", "graphqlite", ["scripts/kg_selftest.py"]),
     ("graph atlas, live: Graph/ is what an export writes", "graphqlite", ["scripts/kg.py", "export", "--check"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
+    ("rag: serving index, search, windows, quotations, withheld lines", "std", ["scripts/rag.py", "selftest"]),
+    ("MCP server: every tool through FastMCP", "mcp", ["api/rag_server.py", "selftest"]),
+    ("static pages: render, withhold, incremental", "std", ["scripts/static_pages.py", "selftest"]),
     ("bench set: frozen, hashed, drift, clusters", "std", ["scripts/benchset.py", "selftest"]),
     ("bench set, live: integrity of the frozen cases", "std", ["scripts/benchset.py", "check"]),
     ("pack: hits, fit, status, the byte unit", "std", ["scripts/pack.py", "selftest"]),

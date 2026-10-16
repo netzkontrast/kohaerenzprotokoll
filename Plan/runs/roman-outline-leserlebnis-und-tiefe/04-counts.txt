@@ -1,0 +1,134 @@
+# counts for 106 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll               46 word    64 in   [11, 15, 17, 37, 41, 49]
+  Kohärenz                        127 word   129 in   [11, 15, 17, 19, 21, 23]
+                                    1      as Kohärenzthema
+                                    1      as Kohärenzfindung
+  Protokoll                       135 word   199 in   [11, 15, 17, 19, 21, 23]
+                                   60      as Protokolls
+                                    4      as Protokolle
+  Inkohärenz                        9 word    11 in   [31, 57, 115, 170, 249, 277]
+                                    2      as Inkohärenzpunkt
+  Leseerlebnis                     10 word    13 in   [25, 27, 31, 99, 153, 180]
+                                    3      as Leseerlebnisses
+  Kernkonflikt                      4 word     4 in   [23, 218, 241, 283]
+  World-Building                   19 word    21 in   [39, 135, 137, 139, 141, 155]
+                                    2      as World-Buildings
+                                    1      as world-building-101-crafting-immersive-fictional-worlds
+  Hard SF                           7 word     7 in   [135, 137, 139, 147, 365, 369]
+  Glitch                           18 word    19 in   [39, 57, 123, 141, 148, 164]
+                                    1      as glitch-in-the-matrix
+                                    1      as Glitches
+  Heldenreise                       3 word     3 in   [151, 178, 381]
+  Systemtheorie                     5 word     5 in   [17, 19, 171, 235]
+  Kybernetik                        5 word     5 in   [17, 19, 171, 235]
+  Second-Order Cybernetics          2 word     2 in   [19, 237]
+  Autopoiesis                       2 word     2 in   [171, 399]
+  Operational Closure               1 word     1 in   [171]
+  Second-Order Observation          1 word     1 in   [171]
+  Feedback Loops                    1 word     1 in   [171]
+  Ontologie                        11 word    11 in   [35, 37, 39, 41, 164, 223]
+  ontologische Verpflichtung        3 word     5 in   [37, 41, 261]
+  Qualia                           29 word    29 in   [23, 51, 53, 55, 57, 166]
+  Emergenz                         19 word    19 in   [21, 23, 59, 61, 65, 167]
+  Komplexität                      10 word    12 in   [23, 59, 63, 65, 111, 167]
+                                    1      as Komplexitätsforschung
+                                    1      as Komplexitätstheorie
+  Selbstorganisation                3 word     3 in   [61, 167, 281]
+  Nicht-Aggregativität              2 word     2 in   [65, 285]
+  Reduktionismus                    2 word     2 in   [61, 281]
+  Chaostheorie                      1 word     1 in   [61]
+  Persönliche Identität             3 word     3 in   [43, 165, 263]
+  Relation R                        2 word     2 in   [45, 265]
+  Bündeltheorie                     2 word     2 in   [45, 265]
+  Noumena                           8 word    13 in   [77, 81, 107, 133, 169, 257]
+                                    3      as Noumenalen
+                                    2      as noumenale
+                                    1      as Noumenalem
+                                    1      as Noumenale
+  Paradigmenwechsel                 5 word     5 in   [77, 81, 180, 196, 309]
+  Induktionsproblem                 4 word     4 in   [77, 79, 305, 307]
+  Deontologie                       5 word     5 in   [69, 73, 293, 301]
+  Konsequentialismus                7 word     7 in   [69, 73, 293, 301]
+  Tugendethik                       1 word     1 in   [69]
+  Fürsorgeethik                     7 word     8 in   [71, 73, 292, 299, 301]
+                                    1      as Fürsorgeethiker
+  Problem des Bösen                 2 word     2 in   [69, 294]
+  Prinzip des kleineren Übels       1 word     1 in   [297]
+  Bad Faith                         2 word     2 in   [172, 291]
+  Cosmic Horror                    16 word    16 in   [29, 91, 139, 147, 169, 172]
+  Cosmic Awe                        1 word     1 in   [247]
+  kognitive Dissonanz               5 word     5 in   [99, 224, 327]
+  Free-Choice Paradigm              1 word     1 in   [325]
+  Effort-Justification Paradigm     1 word     1 in   [325]
+  Experience-Taking                 6 word     6 in   [109, 111, 113, 337, 339, 341]
+  Immersion                        12 word    12 in   [29, 109, 111, 115, 155, 247]
+  Pacing                           21 word    24 in   [101, 103, 105, 107, 194, 196]
+                                    2      as Pacing-Bogen
+                                    1      as Pacings
+                                    1      as pacing-in-your-story-practical-tips-and-techniques
+  Ticking Clock                     2 word     2 in   [103, 331]
+  Cliffhanger                       2 word     4 in   [89, 103, 317, 331]
+                                    2      as Cliffhangern
+  Foreshadowing                     2 word     2 in   [89, 317]
+  Hypervigilanz                     5 word     5 in   [119, 121, 347, 351]
+  Dissoziation                      4 word     4 in   [119, 165, 347]
+  Flashbacks                       10 word    10 in   [47, 119, 121, 123, 267, 347]
+  unzuverlässige Erzähler           2 word     2 in   [99, 327]
+  Verantwortungslücke               2 word     2 in   [71, 299]
+  Tropes                           49 word    65 in   [39, 71, 121, 125, 145, 148]
+  Glitch in the Matrix             10 word    10 in   [39, 141, 148, 164, 259, 371]
+  The Glitch Becomes a Feature      4 word     4 in   [148, 167, 285, 378]
+  Cyberspace                        4 word     4 in   [148, 164, 378, 573]
+  Inside the Machine                2 word     2 in   [148, 378]
+  Logic Bomb                        6 word     6 in   [148, 155, 169, 378, 581, 582]
+  Defeating the Logical Guardian    2 word     2 in   [148, 378]
+  Thinking Outside the Box          4 word     4 in   [148, 378, 588, 589]
+  Unreliable Narrator               9 word    12 in   [149, 164, 165, 169, 377, 379]
+  Amnesia                           7 word     7 in   [149, 165, 170, 377, 379, 448]
+                                    1      as amnesia-modern-thriller
+                                    1      as amnesia-romance-trope
+  Paranoia                          3 word     3 in   [149, 377, 379]
+  Gaslighting                      10 word    10 in   [131, 133, 149, 361, 363, 377]
+  False Memory                      4 word     4 in   [149, 165, 379, 453]
+  Internal Conference Room          3 word     3 in   [149, 165, 379]
+  Multiple Personalities            2 word     2 in   [149, 379]
+  Facing Your Demons                5 word     5 in   [149, 155, 170, 188, 379]
+  Healing Old Wounds                5 word     5 in   [149, 170, 188, 353, 379]
+  The Body Keeps the Score          3 word     3 in   [149, 347, 379]
+  Protector/Caregiver               2 word     2 in   [150, 380]
+  Reluctant Hero                    2 word     2 in   [150, 380]
+  Tragic Villain                    3 word     3 in   [150, 168, 380]
+  Rules Lawyer                      3 word     3 in   [150, 168, 380]
+  Threshold Guardian                3 word     3 in   [151, 381, 616]
+  Origin Story                      2 word     2 in   [151, 381]
+  Getting the Team Together         2 word     2 in   [151, 381]
+  The Plan in Motion                2 word     2 in   [151, 381]
+  Storming the Castle               3 word     3 in   [151, 381, 624]
+  Final Battle                      2 word     2 in   [151, 381]
+  Hope Spot                         2 word     2 in   [151, 381]
+  Deus ex Machina                   2 word     2 in   [151, 381]
+  Hoist by His Own Petard           2 word     2 in   [151, 381]
+  The Reveal                        2 word     2 in   [151, 381]
+  Aftermath/The World After         2 word     2 in   [151, 381]
+  The Quiet After the Storm         2 word     2 in   [151, 381]
+  A New Beginning                   2 word     2 in   [151, 381]
+  Sequel Hook                       2 word     2 in   [151, 381]
+  Bittersweet Ending                3 word     4 in   [151, 381, 654, 655]
+  Open Ending                       2 word     2 in   [151, 381]
+  What Measure Is a Non-Human       3 word     3 in   [55, 166, 275]
+  Moralisches Dilemma               2 word     2 in   [71, 299]
+  Schwere Wahl                      2 word     2 in   [71, 299]
+  Moral Dilemma                     2 word     4 in   [168, 497, 498, 499]
+  Hard Choice                       1 word     2 in   [168, 500]
+  Lesser Evil                       1 word     1 in   [168]
+  Deal with the Devil               3 word     3 in   [155, 168, 659]
+  Time Loop                         1 word     3 in   [182, 673, 675]  <-- substring
+  Redemption Arc                    2 word     2 in   [188, 678]
+  Productive Navel-Gazing           2 word     2 in   [196, 681]
+  Crossing Threshold                1 word     1 in   [180]
+  Positiver Bogen                   1 word     1 in   [186]
+  Negativer Bogen                   1 word     1 in   [186]

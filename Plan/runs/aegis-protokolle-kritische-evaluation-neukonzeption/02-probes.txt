@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      165
+  backslash escapes      63
+  typographic marks      16
+  ascii quotes           140
+
+# inflection families -- one term, several surfaces
+  proto    Protocols, Protokoll, Protokollansätze, Protokolldefinitionen, Protokolldesigner, Protokolldesigns, Protokolle, Protokollen, Protokollfehlern, Protokollschritte, Protokollspezifikationen, Protokollsuite
+  fehle    Fehlende, Fehler, Fehlerbehandlung, Fehlerbehandlungslogiken, Fehlererkennungs, Fehlerkorrektur, Fehlermodell, Fehlermodelle, Fehlern, Fehlertoleranz
+  infor    Informatik, Information, Informationen, Informationsfluss, Informationsflussdynamik, Informationsflusses, Informationslöschung, Informationsmaschinen, Informationsspeicherung, Informationsverarbeitung
+  inter    Interaction, Interaktion, Interaktionen, Interaktionsregeln, Interdependent, Interdisziplinärer, Interface, Interne, Internes, Intervention
+  netzw    Netzwerk, Netzwerkbildung, Netzwerke, Netzwerkmodellen, Netzwerkrobustheit, Netzwerks, Netzwerkstabilität, Netzwerkstruktur, Netzwerktheorie, Netzwerkzusammenbruch
+  selbs    Selbst, Selbstbezug, Selbstbezüglichkeit, Selbstbezüglichkeitsparadoxien, Selbstkonsistenzbedingung, Selbstorganisation, Selbstorganisationsmodelle, Selbstorganisierende, Selbstorganisierte, Selbstverifikation
+  berec    Berechenbarkeitstheorie, Berechnung, Berechnungen, Berechnungs, Berechnungsmodelle, Berechnungsmodellen, Berechnungsprozess, Berechnungsrahmen, Berechnungsräume
+  entro    ENTROPY, Entropie, Entropieaustausch, Entropiequellen, Entropiereduktion, Entropiesenken, Entropiezunahmen, Entropisches, Entropy
+  konst    Konstanten, Konstrukt, Konstrukte, Konstruktion, Konstruktionen, Konstruktionsschritte, Konstruktiv, Konstruktive
+  stand    Standard, Standardannahmen, Standardansatz, Standardansätze, Standardmäßige, Standardparadigmen, Standardwerkzeugen, Standpunkt
+  syste    System, Systemdynamik, Systeme, Systemen, Systemkomponenten, Systemnatur, Systems, Systemstruktur
+  verif    Verification, Verifikation, Verifikationsaufgaben, Verifikationsprozess, Verifikationsschritt, Verifizierbarkeit, Verifizierer, Verifizierers
+  model    MODELING, Model, Modell, Modelle, Modellen, Modelling, Models
+  compu    Computation, Computational, Computer, Computerarchitekturen, Computing
+  desig    Design, Designer, Designern, Designers, Designprozess
+  emerg    Emergence, Emergent, Emergente, Emergenz, Emergenzen
+  fixpu    Fixpunkt, Fixpunktkonstruktionen, Fixpunkts, Fixpunktsemantik, Fixpunktsemantiken
+  forma    Formale, Formalisierung, Formalismen, Formalismus, Formalization
+  imple    Implementation, Implementierung, Implementierungen, Implementierungsbias, Implementierungskontexten
+  konse    Konsens, Konsensfindung, Konsensprotokolle, Konsequenz, Konsequenzen
+  kontr    Kontrast, Kontrolle, Kontrollinstanzen, Kontrollmechanismen, Kontrollsystem
+  kriti    Kritik, Kritikalität, Kritikpunkt, Kritikpunkte, Kritische
+  mecha    Mechanics, Mechanismen, Mechanisms, Mechanismus, Mechanized
+  opera    Operation, Operationalisierung, Operationen, Operative, Operator
+  physi    PHYSICAL, Physics, Physik, Physikkonzepte, Physikmodelle
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Parallel
+  Dies < Diese
+  Dies < Dieses
+  Dies < Studies
+  Edge < DynCompEdge
+  Eine < Verfeinerung
+  Fail < Failure
+  Fail < Failures
+  Flow < InfoFlow
+  Form < Formen
+  Form < Formale
+  Form < Passform
+  Form < Platform
+  Form < Informatik
+  Form < Formalismen
+  Form < Formalismus
+  Form < Formpassung
+  Form < Information
+  Form < Konformität
+  Form < Signalformen

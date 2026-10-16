@@ -1,0 +1,147 @@
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "proposes"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`proposes` ^[dramatica-agentic-storyform-interactive-novel.md:#1]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "proposed"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`proposed` ^[dramatica-agentic-storyform-interactive-novel.md:#2]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "recommended"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`recommended` ^[dramatica-agentic-storyform-interactive-novel.md:#1]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Universal Narrative Model"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Universal Narrative Model` ^[dramatica-agentic-storyform-interactive-novel.md:#5]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Narrative Context Protocol"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Narrative Context Protocol` ^[dramatica-agentic-storyform-interactive-novel.md:#2]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "UNM"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            42
+
+`UNM` ^[dramatica-agentic-storyform-interactive-novel.md:#40]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Narrative Director"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Narrative Director` ^[dramatica-agentic-storyform-interactive-novel.md:#16]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "curated agency"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`curated agency` ^[dramatica-agentic-storyform-interactive-novel.md:#1]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[dramatica-agentic-storyform-interactive-novel.md:#0]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[dramatica-agentic-storyform-interactive-novel.md:#0]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`chapter` ^[dramatica-agentic-storyform-interactive-novel.md:#0]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[dramatica-agentic-storyform-interactive-novel.md:#0]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[dramatica-agentic-storyform-interactive-novel.md:#0]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "Kohärenz"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz` ^[dramatica-agentic-storyform-interactive-novel.md:#0]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "NPCs"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`NPCs` ^[dramatica-agentic-storyform-interactive-novel.md:#6]
+
+$ python3 scripts/read.py dramatica-agentic-storyform-interactive-novel --count "storyform"
+whole word, case-sensitive     39
+whole word, case-insensitive   46
+including compounds            44
+
+`storyform` ^[dramatica-agentic-storyform-interactive-novel.md:#39]
+
+$ grep -c '^[0-9]*\. ' Sources/drive/dramatica-agentic-storyform-interactive-novel.md
+114
+
+$ sed -n '454p;555p' Sources/drive/dramatica-agentic-storyform-interactive-novel.md | cut -c1-30
+1.  Narrative Design 102: Inte
+102. Top AI Tools for Narrativ
+
+$ grep -n '^## \*\*Section' Sources/drive/dramatica-agentic-storyform-interactive-novel.md | cut -c1-50
+18:## **Section I: Conceptual Framework: The Story
+90:## **Section II: Encoding Authorial Intent: The
+156:## **Section III: The Dramatica-Driven Agentic
+260:## **Section IV: Context Engineering for a Liv
+343:## **Section V: Reconciling Authorial Control 
+396:## **Section VI: Implementation, Evaluation, a
+
+$ sed -n 5,16p Plan/runs/dramatica-agentic-storyform-interactive-novel/01-profile.txt
+  table rows           19   code fences 0
+  question marks       21
+  backslash escapes    116
+  typographic marks    31   ascii quotes 122
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    112
+  repeated labels      none
+  longest line         1120 chars
+
+
+$ grep -n 'NPCs' Sources/drive/dramatica-agentic-storyform-interactive-novel.md | cut -c1-6
+165:Th
+183:2.
+238:Wh
+242:  
+255:| 
+303:  
+

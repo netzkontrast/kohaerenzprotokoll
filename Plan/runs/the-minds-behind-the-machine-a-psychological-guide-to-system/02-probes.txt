@@ -1,0 +1,24 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      2
+  typographic marks      12
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemic, Systemische, Systems
+  funct    Function, Functional, Functionality
+  fight    Fight, Fighter
+  perso    Personality, Personifies
+
+# substring pairs -- never one term, often merged by accident
+  Face < Faced
+  Once < Concept
+  Fight < Fighter
+  Logic < Psychological
+  System < Systems
+  System < Systemic
+  System < Systemische
+  Function < Functional
+  Function < Functionality
+  Functional < Functionality

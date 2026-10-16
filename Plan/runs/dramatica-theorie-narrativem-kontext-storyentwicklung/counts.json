@@ -1,0 +1,934 @@
+{
+  "document": "dramatica-theorie-narrativem-kontext-storyentwicklung",
+  "drive_id": "1n-Xz_1ajd-ocNJGAyz_8achEXSfC1Ku97IIfMqXCQC0",
+  "step": "counts",
+  "at": "2026-10-13",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Dramatica": {
+      "n": 44,
+      "n_including_compounds": 60,
+      "lines": [
+        11,
+        13,
+        15,
+        19,
+        21,
+        37,
+        39,
+        55,
+        57,
+        59,
+        63,
+        65,
+        72,
+        76,
+        82,
+        88,
+        95,
+        99,
+        111,
+        113,
+        139,
+        148,
+        154,
+        158,
+        181,
+        205,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        221,
+        222,
+        223,
+        226,
+        227,
+        228,
+        229,
+        230,
+        232,
+        233,
+        234,
+        237,
+        238,
+        239,
+        240,
+        242,
+        243,
+        250,
+        252,
+        253,
+        254
+      ]
+    },
+    "Dramatica-Theorie": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        13,
+        15,
+        19,
+        37,
+        57,
+        72,
+        76,
+        154,
+        205
+      ]
+    },
+    "Story Mind": {
+      "n": 6,
+      "n_including_compounds": 15,
+      "lines": [
+        17,
+        19,
+        21,
+        27,
+        33,
+        37,
+        39,
+        48,
+        49,
+        78,
+        84,
+        95,
+        123,
+        201,
+        205
+      ]
+    },
+    "Grand Argument": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Inquität": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        13,
+        21,
+        29,
+        63,
+        78,
+        84,
+        95,
+        133,
+        150,
+        173,
+        201
+      ]
+    },
+    "Throughlines": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        109,
+        133,
+        173,
+        193
+      ]
+    },
+    "Throughline": {
+      "n": 3,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        27,
+        33,
+        109,
+        133,
+        164,
+        173,
+        193
+      ]
+    },
+    "Objective Story": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        28,
+        33,
+        37,
+        39,
+        45,
+        101,
+        103,
+        130,
+        133,
+        156
+      ]
+    },
+    "Main Character": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        29,
+        33,
+        37,
+        109,
+        124,
+        156,
+        173
+      ]
+    },
+    "Influence Character": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        133,
+        173
+      ]
+    },
+    "Relationship Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        133
+      ]
+    },
+    "Protagonist": {
+      "n": 4,
+      "n_including_compounds": 8,
+      "lines": [
+        28,
+        37,
+        46,
+        47,
+        50,
+        53,
+        55
+      ]
+    },
+    "Antagonist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        47
+      ]
+    },
+    "Reason": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        55,
+        222
+      ]
+    },
+    "Emotion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Sidekick": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Skeptic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        55
+      ]
+    },
+    "Guardian": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        55
+      ]
+    },
+    "Contagonist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Complex Characters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Quad": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        61,
+        63,
+        76,
+        82,
+        88,
+        205,
+        234
+      ]
+    },
+    "KTAD": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        88,
+        205
+      ]
+    },
+    "Knowledge": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        67,
+        150
+      ]
+    },
+    "Thought": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        68,
+        76,
+        150
+      ]
+    },
+    "Ability": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        69,
+        150
+      ]
+    },
+    "Desire": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        70,
+        150
+      ]
+    },
+    "Mass": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        65,
+        67,
+        68,
+        150
+      ]
+    },
+    "Energy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        68
+      ]
+    },
+    "Space": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        65,
+        69,
+        141
+      ]
+    },
+    "Time": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        65,
+        70,
+        129
+      ]
+    },
+    "Dynamic Pairs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Sliding Scale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Trust": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        84
+      ]
+    },
+    "Test": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        84
+      ]
+    },
+    "Class / Domain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Type": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        92
+      ]
+    },
+    "Variation": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        92,
+        93
+      ]
+    },
+    "Element": {
+      "n": 3,
+      "n_including_compounds": 20,
+      "lines": [
+        15,
+        28,
+        55,
+        63,
+        72,
+        82,
+        84,
+        88,
+        93,
+        95,
+        113,
+        135,
+        141
+      ]
+    },
+    "Size of Mind Constant": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Story Points": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        97,
+        99,
+        101,
+        205
+      ]
+    },
+    "Story Goal": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        105,
+        130
+      ]
+    },
+    "Story Requirements": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        104
+      ]
+    },
+    "Story Consequences": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Story Costs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Story Dividends": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Justification": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        233
+      ]
+    },
+    "Justifications": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        233
+      ]
+    },
+    "Storyform": {
+      "n": 15,
+      "n_including_compounds": 21,
+      "lines": [
+        113,
+        115,
+        150,
+        158,
+        164,
+        165,
+        183,
+        185,
+        187,
+        193,
+        195,
+        201,
+        240,
+        252,
+        253
+      ]
+    },
+    "Storyforms": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        113,
+        183
+      ]
+    },
+    "Story-Engine": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        111,
+        113,
+        133,
+        183
+      ]
+    },
+    "essenziellen Fragen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        115,
+        183
+      ]
+    },
+    "MC Resolve": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "MC Growth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "MC Approach": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        126,
+        133,
+        243
+      ]
+    },
+    "MC Problem-Solving Style": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        127
+      ]
+    },
+    "Story Driver": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Story Limit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Story Outcome": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        130,
+        135
+      ]
+    },
+    "Story Judgment": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        131,
+        164
+      ]
+    },
+    "Optionlock": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129
+      ]
+    },
+    "Timelock": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        129
+      ]
+    },
+    "Do-er": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        126,
+        133
+      ]
+    },
+    "Be-er": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        126
+      ]
+    },
+    "Slips": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "PRCO": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        137,
+        139,
+        148,
+        150,
+        165,
+        195,
+        233
+      ]
+    },
+    "SRCA": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        137,
+        148,
+        150
+      ]
+    },
+    "TKAD": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        137,
+        150
+      ]
+    },
+    "Potential": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        139,
+        143,
+        144,
+        145,
+        146,
+        235
+      ]
+    },
+    "Resistance": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        139,
+        144,
+        145,
+        235
+      ]
+    },
+    "Current": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        139,
+        145,
+        235
+      ]
+    },
+    "Outcome": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        130,
+        135,
+        139,
+        146,
+        235
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        11,
+        15,
+        152,
+        158,
+        177,
+        205,
+        218,
+        220,
+        225,
+        245,
+        246,
+        248
+      ]
+    },
+    "NCP": {
+      "n": 20,
+      "n_including_compounds": 23,
+      "lines": [
+        15,
+        152,
+        158,
+        160,
+        162,
+        164,
+        171,
+        173,
+        175,
+        177,
+        189,
+        195,
+        199,
+        201,
+        205,
+        207,
+        209,
+        218,
+        220
+      ]
+    },
+    "Storyform Layer": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        164,
+        165,
+        185,
+        187
+      ]
+    },
+    "Beat Layer": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        165,
+        193,
+        195
+      ]
+    },
+    "Author-Intent Layer": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        166,
+        195
+      ]
+    },
+    "Version Layer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Semantic Drift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "Guardrail": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        169,
+        171
+      ]
+    },
+    "Signposts": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        91,
+        165,
+        193,
+        237
+      ]
+    },
+    "Journeys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        165,
+        237
+      ]
+    },
+    "Beats": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        150,
+        173,
+        195
+      ]
+    },
+    "Subtext": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        158,
+        160,
+        162,
+        191,
+        199
+      ]
+    },
+    "Storytelling": {
+      "n": 11,
+      "n_including_compounds": 14,
+      "lines": [
+        13,
+        148,
+        156,
+        158,
+        160,
+        162,
+        195,
+        199,
+        205,
+        225,
+        245,
+        246,
+        248,
+        255
+      ]
+    },
+    "Context Engineering": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        177
+      ]
+    },
+    "Single Source of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Candidate Storyforms": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Predictive Psychology": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        154
+      ]
+    },
+    "Subtxt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        177,
+        219,
+        251
+      ]
+    },
+    "Narrova": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        177,
+        181,
+        217
+      ]
+    },
+    "DreamCodeVR": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    }
+  }
+}

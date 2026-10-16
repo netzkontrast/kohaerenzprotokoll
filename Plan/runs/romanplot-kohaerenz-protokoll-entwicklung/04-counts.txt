@@ -1,0 +1,112 @@
+# counts for 64 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           231 word   236 in   [17, 19, 20, 21, 22, 33]
+                                    2      as AEGIS-Subsystem
+                                    1      as AEGIS-Instanz
+                                    1      as AEGIS-System
+                                    1      as AEGIS-Subsystemen
+  Kael                            161 word   207 in   [17, 21, 22, 34, 35, 36]
+                                   44      as Kaels
+                                    1      as Kael-Juna-Verbindung
+                                    1      as Kael-Juna-Resonanz
+  Juna                             22 word    26 in   [22, 36, 89, 91, 94, 143]
+                                    2      as Junas
+  Monster (M)                       1 word     1 in   [34]
+  Kernwelten                       21 word    25 in   [17, 35, 39, 47, 48, 60]
+                                    1      as Kernwelten-Exposition
+                                    1      as Kernwelten-Herausforderungen
+                                    1      as Kernwelten-Integrationen
+                                    1      as Kernwelten-Interaktionen
+  Kernwelt                          9 word    41 in   [17, 35, 39, 47, 48, 59]  <-- substring
+                                   21      as Kernwelten
+                                    1      as Kernwelt-
+                                    1      as Kernwelten-Exposition
+                                    1      as Kernwelten-Herausforderungen
+  Potentialmeer                    29 word    38 in   [20, 38, 68, 85, 96, 118]
+                                    9      as Potentialmeers
+  Potentialmeers                    9 word     9 in   [20, 68, 96, 127, 149, 398]
+  Monstergruppe                     6 word     8 in   [20, 34, 94, 241, 327, 330]
+                                    1      as Monstergruppen-Mathematik
+                                    1      as Monstergruppen-Metaphern
+  Moonshine                        24 word    28 in   [20, 22, 36, 37, 89, 94]
+                                    1      as Moonshine-Aspekt
+                                    1      as Moonshine-Mathematik
+                                    1      as Moonshine-Metapher
+                                    1      as Moonshine-Metaphern
+  Sporadizität                      3 word     3 in   [20, 325, 330]
+  Parias                            3 word     3 in   [20, 396, 401]
+  Happy Family                      1 word     1 in   [398]
+  Friendly Giant                    1 word     1 in   [571]
+  K-J-Verbindung                   16 word    16 in   [36, 47, 48, 49, 68, 73]
+  K-J Verbindung                   25 word    25 in   [37, 61, 143, 146, 202, 206]
+  Kael-Juna-Verbindung              1 word     1 in   [22]
+  Kael-Juna-Resonanz                1 word     1 in   [89]
+  Risse                            17 word    19 in   [61, 74, 78, 87, 118, 128]
+                                    2      as Rissen
+  Riss                              6 word    25 in   [61, 74, 78, 87, 118, 128]  <-- substring
+                                   17      as Risse
+                                    2      as Rissen
+  Wächter                          11 word    14 in   [189, 191, 192, 193, 194, 196]
+                                    1      as Wächters
+                                    1      as Wächtern
+                                    1      as Wächter-Subsystemen
+  Guardians                         1 word     1 in   [103]
+  Alters                            4 word     4 in   [48, 102, 106, 145]
+  Beschützer                       12 word    25 in   [47, 48, 49, 60, 61, 62]  <-- substring
+                                    5      as Beschützern
+                                    4      as Beschützer-Teile
+                                    2      as Beschützer-Teil
+                                    1      as Beschützer-Konflikte
+  Verbannten                       13 word    13 in   [48, 49, 51, 60, 61, 62]
+  Verbannte                         0 word    13 in   [48, 49, 51, 60, 61, 62]  <-- substring
+                                   13      as Verbannten
+                                    2      as verbannter
+  Feuerlöscher                      8 word    10 in   [47, 102, 172, 212, 214, 262]
+                                    1      as Feuerlöscher-Teilen
+                                    1      as Feuerlöscher-Reaktionen
+  Manager                           8 word    10 in   [47, 102, 162, 167, 182, 184]
+                                    2      as Manager-Teil
+  Analytiker                        3 word     5 in   [162, 172, 271, 298, 303]
+                                    2      as Analytiker-Teil
+  Kern-Exile                        3 word     3 in   [315, 319, 445]
+  KW1                              10 word    11 in   [60, 104, 117, 142, 161, 171]
+  KW2                              10 word    10 in   [104, 117, 181, 185, 191, 195]
+  KW3                               9 word     9 in   [104, 211, 215, 221, 225, 315]
+  KW4                               6 word     6 in   [104, 231, 233, 235, 241, 245]
+  Akt I                             4 word    22 in   [47, 48, 49, 127, 128, 129]  <-- substring
+  Akt II                            8 word    18 in   [48, 49, 128, 129, 142, 144]  <-- substring
+  Akt III                          10 word    10 in   [49, 129, 142, 144, 146, 147]
+  Ruf zum Erwachen                  2 word     2 in   [60, 259]
+  Datenpanne                        1 word     1 in   [251]
+  Plot-Blueprint                    2 word     2 in   [11, 580]
+  Integrationskarte                 1 word     1 in   [133]
+  Systemstimme                      1 word     1 in   [161]
+  Selbst-Energie                    5 word     5 in   [49, 202, 204, 222, 318]
+  Selbst-Qualitäten                 3 word     3 in   [59, 272, 359]
+  Kernwelt-Manifestationen          1 word     1 in   [104]
+  Wächter-Subsysteme                0 word     1 in   [573]
+                                    1      as Wächter-Subsystemen
+  Autopoietische Paradoxon          1 word     1 in   [64]
+  Gödelsche Grenzen                 2 word     2 in   [69]
+  Operationale Geschlossenheit      1 word     1 in   [78]
+  Ontologische Intrusion            1 word     1 in   [96]
+  sub-protokollarisch               1 word     3 in   [93, 340, 572]  <-- substring
+                                    2      as sub-protokollarische
+                                    1      as Sub-Protokollarische
+  Datenbereinigungsprotokolle       1 word     1 in   [573]
+  Autopoiesis                      19 word    19 in   [33, 116, 127, 129, 144, 151]
+  Gödel'sche Theoreme               2 word     2 in   [142, 293]
+  Parakonsistenz                   10 word    10 in   [33, 116, 128, 129, 293, 310]
+  Parakonsistente Logik             1 word     1 in   [147]
+  Internal Family Systems          11 word    11 in   [21, 45, 602, 603, 613, 615]
+  IFS                              32 word    42 in   [21, 35, 43, 45, 51, 53]
+  Quantenverschränkung              1 word     2 in   [22, 93]
+                                    1      as Quantenverschränkungsphänomen
+  Nicht-Lokalität                  15 word    15 in   [37, 89, 116, 127, 128, 129]
+  Entropie                         12 word    12 in   [20, 38, 68, 118, 127, 149]
+  Monstrous Moonshine               1 word     1 in   [94]
+  Unblendings                       1 word     1 in   [222]
+  Befriendings                      1 word     1 in   [318]

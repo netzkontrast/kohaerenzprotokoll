@@ -1,0 +1,25 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      4
+  backslash escapes      28
+  typographic marks      14
+  ascii quotes           74
+
+# inflection families -- one term, several surfaces
+  integ    Integrated, Integration, Integrator
+  drama    Dramatize, Dramatizing
+  found    Foundation, Foundational
+  intro    Introduce, Introduction
+  kernw    Kernwelt, Kernwelten
+  mecha    Mechanic, Mechanics
+  opera    Operationalize, Operationalizing
+  proto    Protocol, Protokoll
+  stabi    Stability, Stabilization
+  struc    Structural, Structure
+
+# substring pairs -- never one term, often merged by accident
+  Hero < Heroine
+  Riss < Risse
+  Kernwelt < Kernwelten
+  Mechanic < Mechanics
+  Foundation < Foundational

@@ -1,0 +1,741 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2",
+  "drive_id": "1znfM2qDLlWXqJSQI3Wf5cPi1GEgBM6mH5BQFVWvYOOk",
+  "step": "counts",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        46,
+        58,
+        166,
+        204,
+        1235,
+        1561
+      ]
+    },
+    "Kael": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        172,
+        174,
+        177,
+        192,
+        367,
+        696,
+        708,
+        834
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        173,
+        175,
+        180,
+        192,
+        834
+      ]
+    },
+    "AEGIS": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        58,
+        174,
+        179,
+        180,
+        192,
+        366,
+        367,
+        834,
+        844
+      ]
+    },
+    "Ouroboros": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        171,
+        293,
+        843,
+        896,
+        1561
+      ]
+    },
+    "K1": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        179,
+        845
+      ]
+    },
+    "K0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        179,
+        845
+      ]
+    },
+    "Coherence Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        86,
+        181,
+        614,
+        735,
+        845,
+        1218,
+        1561
+      ]
+    },
+    "Kernparadoxon": {
+      "n": 4,
+      "n_including_compounds": 10,
+      "lines": [
+        178,
+        179,
+        614,
+        735,
+        845,
+        957,
+        1218,
+        1561
+      ]
+    },
+    "DKT-Kernparadoxon": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        179,
+        614,
+        735,
+        957,
+        1218,
+        1561
+      ]
+    },
+    "DKT": {
+      "n": 1,
+      "n_including_compounds": 11,
+      "lines": [
+        58,
+        86,
+        159,
+        179,
+        291,
+        614,
+        735,
+        844,
+        957,
+        1218,
+        1561
+      ]
+    },
+    "Dunkle-Körper-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        844
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        182,
+        835
+      ]
+    },
+    "Gödel-Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Coheron": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        844
+      ]
+    },
+    "Erason": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        844
+      ]
+    },
+    "Landauer-Wärme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Gardener's Axiom": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        847
+      ]
+    },
+    "Guardian's Dilemma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        847
+      ]
+    },
+    "Silas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        846
+      ]
+    },
+    "Oblivion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        846
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        846
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        846
+      ]
+    },
+    "Spiegel": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        366,
+        846
+      ]
+    },
+    "13 Alter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        846
+      ]
+    },
+    "Fragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        845
+      ]
+    },
+    "Fundament": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        192,
+        834
+      ]
+    },
+    "Kernfrage": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        170,
+        176,
+        614,
+        843,
+        1218
+      ]
+    },
+    "Schlüsselbild": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        176,
+        614
+      ]
+    },
+    "Telefonat": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        176,
+        614,
+        843
+      ]
+    },
+    "Ending-Form": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Werk-Anker": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        86,
+        157,
+        291,
+        519,
+        610,
+        614,
+        735,
+        739,
+        755,
+        923,
+        951,
+        1079,
+        1218,
+        1355
+      ]
+    },
+    "Steinbruch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        159,
+        184
+      ]
+    },
+    "Story-first": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        159,
+        186,
+        291,
+        307,
+        330,
+        340,
+        527,
+        559,
+        855,
+        938,
+        1515
+      ]
+    },
+    "Story-first-Pivot": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        186,
+        291,
+        307,
+        340
+      ]
+    },
+    "dekanonisiert": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        291,
+        855
+      ]
+    },
+    "Storyform A": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        133,
+        248,
+        364,
+        579,
+        593,
+        606,
+        719,
+        731,
+        755,
+        959,
+        961,
+        965,
+        974,
+        979,
+        983,
+        987,
+        991,
+        1025,
+        1057,
+        1299
+      ]
+    },
+    "Storyform B": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        133,
+        248,
+        364,
+        579,
+        593,
+        719,
+        731,
+        756,
+        961,
+        985,
+        987,
+        991,
+        1025,
+        1058,
+        1307
+      ]
+    },
+    "Gegenläufigkeits-Achse": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        391,
+        664,
+        735,
+        926,
+        945,
+        947,
+        979,
+        1076,
+        1243,
+        1287,
+        1343
+      ]
+    },
+    "Aufhebung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        719,
+        893,
+        1219
+      ]
+    },
+    "TRACE": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        137,
+        139,
+        917
+      ]
+    },
+    "Story-Mind": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        216,
+        592,
+        804
+      ]
+    },
+    "Storyform": {
+      "n": 93,
+      "n_including_compounds": 197,
+      "lines": [
+        15,
+        31,
+        32,
+        38,
+        39,
+        46,
+        59,
+        63,
+        75,
+        83,
+        84,
+        86,
+        87,
+        99,
+        101,
+        133,
+        135,
+        145,
+        146,
+        147,
+        159,
+        196,
+        204,
+        213,
+        214,
+        215,
+        216,
+        248,
+        249,
+        255,
+        279,
+        291,
+        292,
+        293,
+        319,
+        322,
+        330,
+        338,
+        342,
+        344,
+        348,
+        360,
+        364,
+        367,
+        375,
+        379,
+        383,
+        391,
+        463,
+        475,
+        479,
+        483,
+        485,
+        487,
+        495,
+        503,
+        511,
+        519,
+        527,
+        531,
+        563,
+        567,
+        579,
+        592,
+        593,
+        594,
+        602,
+        606,
+        622,
+        650,
+        654,
+        662,
+        665,
+        673,
+        685,
+        686,
+        687,
+        688,
+        692,
+        696,
+        708,
+        719,
+        731,
+        733,
+        735,
+        739,
+        747,
+        755,
+        756,
+        757,
+        758,
+        762,
+        804,
+        805,
+        806,
+        809,
+        829,
+        833,
+        884,
+        906,
+        907,
+        925,
+        930,
+        938,
+        939,
+        953,
+        959,
+        961,
+        965,
+        974,
+        979,
+        983,
+        985,
+        987,
+        991,
+        993,
+        995,
+        997,
+        1003,
+        1007,
+        1011,
+        1025,
+        1041,
+        1049,
+        1057,
+        1058,
+        1214,
+        1216,
+        1219,
+        1235,
+        1247,
+        1259,
+        1299,
+        1307,
+        1319,
+        1371,
+        1415,
+        1451,
+        1519,
+        1523,
+        1542,
+        1546,
+        1547,
+        1561,
+        1565,
+        1569,
+        1573
+      ]
+    },
+    "Throughline": {
+      "n": 13,
+      "n_including_compounds": 28,
+      "lines": [
+        31,
+        59,
+        63,
+        192,
+        213,
+        216,
+        352,
+        355,
+        356,
+        366,
+        395,
+        455,
+        591,
+        592,
+        833,
+        834,
+        939,
+        969,
+        972,
+        1007,
+        1049
+      ]
+    },
+    "Overall Story": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        352,
+        407
+      ]
+    },
+    "Impact Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Klimax": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        182,
+        835
+      ]
+    },
+    "Dramatica": {
+      "n": 21,
+      "n_including_compounds": 64,
+      "lines": [
+        15,
+        30,
+        31,
+        34,
+        35,
+        46,
+        58,
+        59,
+        146,
+        184,
+        204,
+        213,
+        220,
+        228,
+        292,
+        308,
+        321,
+        334,
+        344,
+        348,
+        352,
+        499,
+        503,
+        543,
+        685,
+        692,
+        770,
+        779,
+        780,
+        781,
+        805,
+        833,
+        857,
+        863,
+        864,
+        865,
+        866,
+        867,
+        868,
+        869,
+        870,
+        871,
+        872,
+        873,
+        881,
+        882,
+        883,
+        939,
+        952,
+        995,
+        1043,
+        1049,
+        1214,
+        1235,
+        1331,
+        1455,
+        1475,
+        1542
+      ]
+    },
+    "ReAct": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        25,
+        63,
+        93,
+        95,
+        965
+      ]
+    }
+  }
+}

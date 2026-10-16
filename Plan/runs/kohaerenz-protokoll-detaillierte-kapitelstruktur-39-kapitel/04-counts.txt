@@ -1,0 +1,94 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              5 word    89 in   [21, 24, 28, 30, 32, 34]  <-- substring
+                                   53      as Kael-Unit
+                                   21      as Kaels
+                                    4      as Kael-Fragment
+                                    3      as Kael-Self
+  Juna                              4 word     8 in   [27, 34, 52, 143, 160, 178]
+                                    2      as Junas
+                                    1      as Juna-Interface
+                                    1      as Juna-Verbindung
+  AEGIS                            67 word    69 in   [19, 20, 30, 40, 41, 45]
+                                    1      as AEGIS-Perspektiven
+  Juna-Interface                    1 word     1 in   [27]
+  Kael-Unit                        53 word    53 in   [24, 28, 30, 43, 45, 46]
+  Kael-Fragment\_Alpha              4 word     4 in   [60, 79, 96, 116]
+  Fragment Alpha                   14 word    14 in   [65, 66, 81, 83, 84, 99]
+  Kael-Fragments                    2 word     2 in   [67, 139]
+  Kael-Self\_Integrator             3 word     3 in   [153, 244, 281]
+  Kael-M                            1 word     1 in   [313]
+  M-Entity                         18 word    18 in   [26, 28, 44, 65, 81, 101]
+  Co1                              13 word    17 in   [22, 24, 26, 29, 44, 61]
+  Co₁                               4 word     5 in   [52, 71, 88, 124, 178]
+  McL                              12 word    15 in   [67, 97, 102, 103, 107, 115]
+  CoreWorld                         8 word    10 in   [22, 44, 47, 49, 61, 67]
+                                    2      as CoreWorlds
+  CoreWorlds                        2 word     2 in   [44, 67]
+  B-Welt                            1 word     1 in   [288]
+  B-World                           1 word     1 in   [281]
+  Controlled Fragmentation Protocol    1 word     1 in   [42]
+  CFP                               2 word     3 in   [42, 46, 62]
+  Subquotient Mapping Protocol      1 word     1 in   [44]
+  ZTEM                              1 word     1 in   [48]
+  AEGIS Directive Alpha             1 word     1 in   [45]
+  Logic Trial Gamma                 1 word     1 in   [80]
+  Gödel-Construct Simulation        1 word     1 in   [81]
+  K-J                              13 word    13 in   [82, 120, 129, 133, 136, 137]
+  K-J vector                        9 word     9 in   [120, 136, 137, 138, 139, 140]
+  K-J Vector                        1 word     1 in   [82]
+  K-J Verbindung                    1 word     1 in   [129]
+  Moonshine                         1 word     2 in   [129, 135]
+                                    1      as Moonshine-Link
+  Moonshine-Link                    1 word     1 in   [129]
+  Transitkorridor                   1 word     1 in   [34]
+  Riss                              4 word     5 in   [34, 36, 52, 213, 258]
+                                    1      as Risse
+  Bunker                            4 word     5 in   [71, 143, 232, 276, 281]
+                                    1      as Bunkers
+  Wächterin                         3 word     3 in   [148, 153, 160]
+  Mosaik-Herz                       1 word     2 in   [201, 206]
+                                    1      as Mosaik-Herzens
+  Jetzt-Raum                        2 word     2 in   [218, 224]
+  Inner Garden                      1 word     1 in   [241]
+  Garden Tending                    1 word     1 in   [243]
+  Logik-Anteil                      5 word     5 in   [70, 87, 106, 123, 142]
+  Kind-Anteil                       1 word     1 in   [249]
+  Stimulus Delta-7                  2 word     2 in   [263, 280]
+  AEGIS Defense Grid Gamma          1 word     1 in   [304]
+  AEGIS DEFCON 2 ALERT              1 word     1 in   [301]
+  Kael Trauma Archive T-734         1 word     1 in   [305]
+  Paradoxical Logic Fields          1 word     1 in   [305]
+  Personalized Fear Matrix Simulation    1 word     1 in   [305]
+  Social Cohesion Index             1 word     1 in   [189]
+  Cache-Konflikt                    1 word     1 in   [112]
+  Auge des Sturms                   1 word     1 in   [93]
+  Pforten der Verurteilung          1 word     1 in   [76]
+  Wächter der Schwelle              1 word     1 in   [299]
+  functional multiplicity           3 word     3 in   [208, 209, 244]
+  Erzählung des Erzählers          16 word    16 in   [17, 38, 56, 75, 92, 111]
+  Einblick in AEGIS                16 word    16 in   [19, 40, 58, 77, 94, 113]
+  Erzählung Kaels                  16 word    16 in   [32, 51, 70, 87, 106, 123]
+  Instrumente der Ordnung           1 word     1 in   [15]
+  Der Riss im Spiegel               1 word     1 in   [36]
+  Die Festung der Logik             1 word     1 in   [54]
+  Echos im Fundament                1 word     1 in   [73]
+  Der Glanz der Oberfläche          1 word     1 in   [90]
+  Der Kollaps der Formeln           1 word     1 in   [109]
+  Die Resonanz der Tiefe            1 word     1 in   [126]
+  Der Frieden im Spiegel            1 word     1 in   [145]
+  Die Synthese der Welten           1 word     1 in   [162]
+  Die angewandte Harmonie           1 word     1 in   [180]
+  Das Mosaik des Selbst             1 word     1 in   [198]
+  Die Stille der Mitte              1 word     1 in   [215]
+  Der Tanz im Garten                1 word     1 in   [234]
+  Der Spiegel der Welt              1 word     1 in   [255]
+  Schatten im Sonnenlicht           1 word     1 in   [273]
+  Die Logik des Krieges             1 word     1 in   [296]
+  Heldinnenreise                    3 word     3 in   [13, 148, 201]
+  Heldenreise                       1 word     1 in   [292]
+  Weiblichen                        3 word     3 in   [76, 93, 129]
+  Männlichen                        2 word     2 in   [57, 148]

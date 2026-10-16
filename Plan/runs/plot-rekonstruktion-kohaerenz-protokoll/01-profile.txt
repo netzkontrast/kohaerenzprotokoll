@@ -1,0 +1,14 @@
+# plot-rekonstruktion-kohaerenz-protokoll
+  lines                530  (frontmatter ends at 9)
+  body words           8942
+  headings             24   bold-only lines 2
+  table rows           5   code fences 0
+  question marks       17
+  backslash escapes    10
+  typographic marks    38   ascii quotes 122
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    76
+  repeated labels      AEGIS' Reaktion & Logikgrenzen x15, Dramatisierung M-Paradoxon x15, Genre-Integration x15, Inhalt x15, Kaels Erleben x15, Konflikt & Stakes x15, Konzeptfokus & Progression x15, Manifestation K-J Signatur x15, Nebencharaktere x15, Definition x5, Kernkonzept x5, Narrative Anwendung x5, Vertiefung und narrative Bedeutung x3
+  longest line         1136 chars
+

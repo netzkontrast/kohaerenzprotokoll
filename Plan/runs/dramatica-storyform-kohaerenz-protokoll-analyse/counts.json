@@ -1,0 +1,739 @@
+{
+  "document": "dramatica-storyform-kohaerenz-protokoll-analyse",
+  "drive_id": "18wEusYQumxPOghiA7rQYeeqDhthvszZXVrntr1vI4pQ",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 24,
+      "n_including_compounds": 28,
+      "lines": [
+        23,
+        36,
+        56,
+        66,
+        84,
+        85,
+        86,
+        92,
+        104,
+        106,
+        114,
+        115,
+        116,
+        124,
+        132,
+        145,
+        146,
+        147
+      ]
+    },
+    "AEGIS": {
+      "n": 27,
+      "n_including_compounds": 27,
+      "lines": [
+        24,
+        34,
+        46,
+        52,
+        60,
+        67,
+        68,
+        85,
+        92,
+        101,
+        103,
+        104,
+        106,
+        114,
+        115,
+        122,
+        124,
+        145,
+        147
+      ]
+    },
+    "Juna": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        25,
+        56,
+        60,
+        85,
+        86,
+        108,
+        110,
+        112,
+        115,
+        116,
+        174
+      ]
+    },
+    "Juna/V": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        85
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        84
+      ]
+    },
+    "System AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Die Anomalie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        110
+      ]
+    },
+    "Das Fundament": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        26,
+        108,
+        118,
+        120,
+        122,
+        123,
+        151
+      ]
+    },
+    "Fundament": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        26,
+        60,
+        108,
+        118,
+        120,
+        122,
+        123,
+        124,
+        146,
+        151
+      ]
+    },
+    "Moonshine Link": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        60,
+        86,
+        115
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        115
+      ]
+    },
+    "K\\_0": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        26,
+        36,
+        48,
+        50,
+        52,
+        67,
+        102,
+        123,
+        151
+      ]
+    },
+    "K\\_1": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        34,
+        44,
+        46,
+        50,
+        52,
+        101,
+        123,
+        146,
+        147,
+        151
+      ]
+    },
+    "Kernel 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Kernel 0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Nothing Noise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Exklusionäre Ordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        21,
+        28,
+        50,
+        68,
+        151,
+        153,
+        161,
+        174,
+        179
+      ]
+    },
+    "Kohärenz-Prime": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        72,
+        76,
+        95
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "System Mind": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        21,
+        68
+      ]
+    },
+    "Story Mind": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        21,
+        163
+      ]
+    },
+    "Existenz-Matrizen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Mosaik": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        126,
+        128,
+        130,
+        133,
+        137,
+        139
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        106
+      ]
+    },
+    "Maximal-Plotter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        32,
+        40,
+        42,
+        165,
+        169,
+        172,
+        173
+      ]
+    },
+    "DKT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        52
+      ]
+    },
+    "Isomorphen Architektur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    },
+    "Isomorphie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        32,
+        132,
+        151
+      ]
+    },
+    "Seltsamer Attraktor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Monster-Gruppe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        58,
+        60,
+        122
+      ]
+    },
+    "Monstrous Moonshine": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        54,
+        56,
+        58,
+        151,
+        177,
+        178,
+        180,
+        196
+      ]
+    },
+    "Grand Argument Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        62,
+        68
+      ]
+    },
+    "Interne Helfer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "Trauma Time": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Maxwellscher Dämon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        101
+      ]
+    },
+    "Landauer-Prinzips": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Edge of Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Dramatica": {
+      "n": 12,
+      "n_including_compounds": 18,
+      "lines": [
+        11,
+        17,
+        21,
+        70,
+        72,
+        90,
+        137,
+        151,
+        161,
+        162,
+        163,
+        188,
+        189,
+        190,
+        191,
+        192,
+        200,
+        201
+      ]
+    },
+    "Storyform": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        28,
+        70,
+        72,
+        161,
+        162,
+        188,
+        189,
+        201
+      ]
+    },
+    "Throughline": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        82
+      ]
+    },
+    "Main Character": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        36,
+        84
+      ]
+    },
+    "Influence Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        85
+      ]
+    },
+    "Overall Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Objective Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "Relationship Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Diagonalen Opposition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        88,
+        90
+      ]
+    },
+    "Domain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Physics": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        83,
+        86,
+        93,
+        180
+      ]
+    },
+    "Psychology": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        83,
+        86,
+        93
+      ]
+    },
+    "Universe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        92
+      ]
+    },
+    "Fixed Attitude": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Change Resolve": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Control": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        101,
+        151,
+        182
+      ]
+    },
+    "Uncontrolled": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        102,
+        151
+      ]
+    },
+    "Faith": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        106
+      ]
+    },
+    "Disbelief": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        106
+      ]
+    },
+    "Signposts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "TSDP": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        17,
+        34,
+        62,
+        64,
+        116,
+        139
+      ]
+    },
+    "ANP": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        34,
+        52,
+        66,
+        67,
+        116,
+        151
+      ]
+    },
+    "EP": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        36,
+        52,
+        66,
+        67,
+        116,
+        151
+      ]
+    },
+    "Tertiäre Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Fusion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        187
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        115
+      ]
+    },
+    "Prehension": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Mutuelle Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Qualia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        165
+      ]
+    },
+    "Gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Deus ex Machina": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    }
+  }
+}

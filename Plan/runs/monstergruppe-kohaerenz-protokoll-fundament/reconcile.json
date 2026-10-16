@@ -1,0 +1,155 @@
+{
+  "document": "monstergruppe-kohaerenz-protokoll-fundament",
+  "drive_id": "113tm4xDajVr7vljdCPRPx3YhldjDBpqTfdBNLWmUqN8",
+  "step": "reconcile",
+  "at": "2026-10-14",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-14, from the full-ingest task with no count before the list; rlm_ingest not run; readings and one record entry by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-454/brief.md, 2026-10-14; the document was first held by the privacy screen on the word Shadow (a section heading on the group in physics) and released",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 49,
+    "decisions": 62,
+    "decided_by_lookup": 37,
+    "needs_judgement": 25
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research report reading the Kael-Juna connection as a Kohärenz-Insel modelled on the Monster group: its new surfaces are the island and its acronym, the two principles of coherence, the failure labels and the mathematical concepts; what it proposes for AEGIS, Kael, Juna, the Potentialmeer, entropy, the Guardians, LogOS and the Moonshine-Link went on existing pages, and the Analyse-Guardians on Q1.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        51,
+        194,
+        218,
+        224,
+        225,
+        226,
+        235
+      ],
+      "attribution": "",
+      "note": "AEGIS as demarcation, set against the Kohärenz-Insel"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        218
+      ],
+      "attribution": "",
+      "note": "AEGIS must read the Kohärenz-Insel as entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        250
+      ],
+      "attribution": "",
+      "note": "conditional scenes of failing Analyse-Guardians"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        15,
+        119,
+        173
+      ],
+      "attribution": "",
+      "note": "Juna as the other end of the Kohärenz-Insel connection"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        119,
+        121,
+        171,
+        175
+      ],
+      "attribution": "",
+      "note": "Kael's connection to Juna as a Kohärenz-Insel"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        250
+      ],
+      "attribution": "",
+      "note": "LogOS named once"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        171,
+        173,
+        175
+      ],
+      "attribution": "",
+      "note": "Monstrous Moonshine as the primary metaphor of the connection"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        163,
+        179,
+        181
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Insel as a rare island of order in the Potentialmeer"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [
+    "Q1"
+  ],
+  "judgements": [],
+  "decided_by_existing_rules": "`Analyse-Guardians` read on guardians; `Moonshine` the connection's metaphor, read on moonshine-link; `Kohärenz-Insel` and `KJ/KI` the report's own names, not promoted; the mathematical concepts and people's names never written on a page",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "the report's outline; the reading is on L218"
+    },
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 250,
+      "decision": "reading",
+      "why": "AEGIS's Analyse-Guardians; read on guardians"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 51,
+      "decision": "occurrence",
+      "why": "an analysis method, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Kohärenz-Insel, KJ/KI, Sein / Kohärenz durch Abgrenzung, Kohärenz durch Integration, Happy Family, Classification / Reductionism Failure, Protocol Violation, EST, and the mathematical and physical concepts"
+  ],
+  "internal_tension": "none: it hedges its physical links (L151) and words the island as a possibility (L155) — recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

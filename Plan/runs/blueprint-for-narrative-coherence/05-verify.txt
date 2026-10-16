@@ -1,0 +1,78 @@
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Chapter"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Chapter` ^[blueprint-for-narrative-coherence.md:#1]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[blueprint-for-narrative-coherence.md:#1]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[blueprint-for-narrative-coherence.md:#0]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[blueprint-for-narrative-coherence.md:#0]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Kohärenz Protokoll"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kohärenz Protokoll` ^[blueprint-for-narrative-coherence.md:#3]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "ozone"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`ozone` ^[blueprint-for-narrative-coherence.md:#3]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Rain"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Rain` ^[blueprint-for-narrative-coherence.md:#1]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Kael"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Kael` ^[blueprint-for-narrative-coherence.md:#7]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Juna"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Juna` ^[blueprint-for-narrative-coherence.md:#1]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "AEGIS"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`AEGIS` ^[blueprint-for-narrative-coherence.md:#2]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "cognitive dissonance"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`cognitive dissonance` ^[blueprint-for-narrative-coherence.md:#1]
+$ python3 scripts/read.py blueprint-for-narrative-coherence --count "Nichts Rauschen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nichts Rauschen` ^[blueprint-for-narrative-coherence.md:#1]
+$ grep -n "Kohärenz Protokoll" Sources/drive/blueprint-for-narrative-coherence.md | cut -c1-30
+71:3.  An Inquiry into the Unr
+73:5.  An Architecture of the 
+74:6.  The Architecture of a F
+stance_marker_count 2 = Chapter (1) + Referenzen (1)
+profile: glued ref numbers 6; typographic marks 12; ascii quotes 8 (01-profile.txt)

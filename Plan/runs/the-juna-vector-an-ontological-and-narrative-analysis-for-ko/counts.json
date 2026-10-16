@@ -1,0 +1,485 @@
+{
+  "document": "the-juna-vector-an-ontological-and-narrative-analysis-for-ko",
+  "drive_id": "1PAlyn1xAerpwJGJhT1K9pf0udLg1jz4TMp4NSaRy2Lk",
+  "step": "counts",
+  "at": "2026-10-14",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Juna/V": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        17,
+        19,
+        23,
+        28,
+        31,
+        93,
+        100
+      ]
+    },
+    "Juna": {
+      "n": 49,
+      "n_including_compounds": 50,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        19,
+        23,
+        28,
+        30,
+        31,
+        37,
+        39,
+        41,
+        42,
+        43,
+        44,
+        46,
+        48,
+        50,
+        52,
+        53,
+        54,
+        57,
+        61,
+        67,
+        68,
+        74,
+        75,
+        76,
+        78,
+        80,
+        82,
+        86,
+        89,
+        93,
+        94,
+        96,
+        98,
+        100,
+        107,
+        108,
+        110,
+        115,
+        117
+      ]
+    },
+    "Kael": {
+      "n": 44,
+      "n_including_compounds": 44,
+      "lines": [
+        15,
+        28,
+        30,
+        31,
+        35,
+        37,
+        39,
+        41,
+        42,
+        43,
+        44,
+        46,
+        52,
+        53,
+        54,
+        61,
+        67,
+        68,
+        72,
+        74,
+        75,
+        76,
+        86,
+        87,
+        94,
+        96,
+        101,
+        103,
+        107,
+        108,
+        110,
+        114,
+        115,
+        117
+      ]
+    },
+    "AEGIS": {
+      "n": 52,
+      "n_including_compounds": 52,
+      "lines": [
+        15,
+        19,
+        28,
+        29,
+        30,
+        31,
+        35,
+        39,
+        41,
+        42,
+        43,
+        46,
+        48,
+        50,
+        52,
+        53,
+        54,
+        55,
+        57,
+        61,
+        65,
+        67,
+        68,
+        72,
+        76,
+        88,
+        89,
+        94,
+        95,
+        96,
+        101,
+        102,
+        103,
+        107,
+        109,
+        110,
+        114,
+        115,
+        116
+      ]
+    },
+    "Juna Vector": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        15,
+        37
+      ]
+    },
+    "Juna Anomaly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Moonshine-Link": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        52,
+        57,
+        59,
+        61,
+        67
+      ]
+    },
+    "Das Fundament": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        44
+      ]
+    },
+    "Potentialmeer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31
+      ]
+    },
+    "Torwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Gardener": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        115
+      ]
+    },
+    "Junas Hand": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Juna/V-Verbindung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54
+      ]
+    },
+    "Gödel-Gambit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        105
+      ]
+    },
+    "functional multiplicity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        39,
+        54,
+        107
+      ]
+    },
+    "coherence through negation": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        50,
+        54,
+        110
+      ]
+    },
+    "loving interconnectedness": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        41,
+        115
+      ]
+    },
+    "Zero-Trust Execution": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Real-time Self-Verification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Entropic Management Protocols": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "algorithmic melancholy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        109
+      ]
+    },
+    "pathological transformation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        109
+      ]
+    },
+    "fatal checkmate": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        109
+      ]
+    },
+    "epistemological victory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "operational closure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "External Plane": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Independent Transcendent Entity": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Principle of Interconnectedness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Synesthetic Resonance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Shared Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Intuitive Gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "tertiary structural dissociation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "ANP-EP phobias": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "toxic bind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "externalized perpetrator introject": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Wendung/Turn": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Prehension": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        67,
+        68
+      ]
+    },
+    "Quantum Entanglement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "paraconsistent": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        116
+      ]
+    },
+    "autopoietic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "episteme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "gnosis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Impact Character": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        96
+      ]
+    },
+    "Kishōtenketsu": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    }
+  }
+}
