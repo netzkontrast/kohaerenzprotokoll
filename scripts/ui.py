@@ -1110,6 +1110,11 @@ container without the author's decision.
   sessions), each with its repository path and its address in this app.
 - [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
 - [data.json](agents/data.json): everything the app renders, as one document.
+- [static/](static/index.html): every wiki record as a plain HTML page — term pages, conflicts, questions, chapter
+  pages, reconciliation records, decisions — no JavaScript needed (`scripts/static_pages.py`).
+- `/mcp`: the retrieval tools as an MCP server (Streamable HTTP; decision 029) — `search`, `ask`, `read_lines`,
+  `verify_quote`, `item`, `list_items`, `document`, `state`, `sessions`; evidence with document and line, never prose.
+  Behind the same login: send `x-vercel-protection-bypass`.
 
 ## Addresses
 
