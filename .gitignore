@@ -67,3 +67,6 @@ Index/.building
 Index/**/.publish-*
 Index/**/*.tmp.npy
 Index/**/*.tmp
+
+# Lean for the AEGIS-log proofs (scripts/install.sh lean), ~2 GB
+.lean/

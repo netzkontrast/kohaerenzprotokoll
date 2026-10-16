@@ -1,7 +1,7 @@
 ---
 name: AEGIS
 kind: figur
-kanon: []
+kanon: [C8, C14, W10-B, W12, Q8]
 match: ["AEGIS"]
 wiki: aegis
 ---
@@ -12,7 +12,14 @@ Das System, das die Welt rechnet und hält. In den Quellen tragisch unschuldig, 
 
 ## Kanon
 
-Nichts entschieden.
+- **C8:** In Storyform B ist AEGIS ein Do-er.
+- **C14:** AEGIS spricht in eigenen Kapiteln als Ich: Kap 0, 6, 16, 22, 28. Was das Ich wissen darf und wie es klingt,
+  ist nicht entschieden.
+- **W10-B:** AEGIS ist Protagonist und Reason von B; die Guardians sind sein Ensemble.
+- **W12, Q8:** AEGIS stammt aus Komponente 734; nach dem Vortex erlischt AEGIS-monolithisch, und in Kap 39 entsteht
+  AEGIS-plural.
+- Korrigiert am 2026-10-07: Die Karte sagte „Nichts entschieden“, obwohl `kanon.md` diese fünf Zeilen über AEGIS hält.
+  Den Namen hast du nicht eigens entschieden.
 
 ## Arbeitsstand
 
@@ -23,9 +30,15 @@ Nichts entschieden.
 - **Entwurf I** (`kap-01/entwurf-i-grauzone.md`): das, was die Stadt rechnet.
 - **Plot-Entwurf 1** (`plot/plot-entwurf-01-die-rueckgabe.md`): löscht nicht mehr wirklich, sondern verschiebt das Gelöschte ins Archiv.
 - **Plot-Entwurf 2** (`plot/plot-entwurf-02-die-mauer.md`): spricht durch die fünf Guardians.
+- **Logs & Beweise** ([aegis-logs/README.md](../aegis-logs/README.md), 2026-10-07), ein Pilot, kein Kanon: AEGIS
+  legitimiert Handlungen durch Ableitungen, die Lean prüft. AL-01 Kühlreserve (Kap 6, eine überzeugende
+  Schutzmaßnahme), AL-02 Umverteilung (Kap 13, eine umverteilte Löschung mit menschlichem Preis), AL-03 Offenlassen
+  (Kap 28, eine erkannte, verweigerte Alternative). Die Kapitelstellen sind Vorschläge.
 
 ## Offen
 
 - Wie AEGIS auf der Seite erscheint: W6 ist mit C beantwortet (C14, ein Ich in Kap 0, 6, 16, 22, 28); was das Ich wissen darf, ist offen.
 - Was nach dem Vortex aus ihm wird: Weiche W13, Q8.
 - Ob die Karte aus dem Interview Kanon wird: nur mit deinem Ja.
+- Ob AEGIS' Logs Beweise tragen sollen, und wie viel davon auf der Seite steht (Bewertung:
+  `Plan/runs/writing/aegis-logs/lean-pilot_2026-10-07.md`).

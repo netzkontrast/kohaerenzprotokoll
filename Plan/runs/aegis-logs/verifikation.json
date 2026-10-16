@@ -1,0 +1,190 @@
+{
+ "toolchain": "leanprover/lean4:v4.24.0",
+ "lean": "Lean (version 4.24.0, x86_64-unknown-linux-gnu, commit 797c613eb9b6d4ec95db23e3e00af9ac6657f24b, Release)",
+ "date": "2026-10-07T09:57:28Z",
+ "allowed_axioms": [
+  "Classical.choice",
+  "Quot.sound",
+  "propext"
+ ],
+ "logs": {
+  "AL-01": {
+   "ok": true,
+   "sha256": "f59b18d758dd212bf2abe14c1b9f1c53457807257cdfda175162f06a25897351",
+   "parts": {
+    "lean": "f7845ce3cf05c65f95fde79bfdd717996ff980169d14737544d6cb973b687838",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434",
+    "Formale Behauptung": "aba8cfc3bdea14e79bd8497c8ca491a1e417ad341e713c23f6e0ac25bc5396c4",
+    "Definitionen und Voraussetzungen": "7cc6cab44c93e3ab5aec54d0ac11dac743b916fa2f4507cec836dbce88ec337a"
+   },
+   "lean": "lean/AL01.lean",
+   "axioms": {
+    "korrektur_schont_bewohner": [
+     "propext"
+    ],
+    "ohne_eingriff_schaden": [],
+    "ohne_eingriff_trifft_0415": [],
+    "mit_eingriff_kein_ueberlauf": [],
+    "mit_eingriff_kein_schaden": [],
+    "entfernt_genau_die_alte_fassung": [],
+    "entfernt_ist_duplikat": [],
+    "begruendung_verloren": []
+   },
+   "problems": []
+  },
+  "AL-02": {
+   "ok": true,
+   "sha256": "497c473db63dba6c622f9466ee8391e42655f9804d1873b9187297875ff0a472",
+   "parts": {
+    "lean": "c867cb6ed8a5e54c6c205b3b0a203cbfff20df1945ca5149a7a2028b77ce05c0",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434",
+    "Formale Behauptung": "870ad9368c37ed62b92388e292937ebca2fd58393a66e133e90e6c763b3deec5",
+    "Definitionen und Voraussetzungen": "02774302d0a44ef7e8423e85f0b82633a7c2c2d93a0d6312428925f51d2c5c59"
+   },
+   "lean": "lean/AL02.lean",
+   "axioms": {
+    "summe_le": [
+     "propext",
+     "Quot.sound"
+    ],
+    "mindestens_betroffen": [
+     "propext",
+     "Quot.sound"
+    ],
+    "urspruenglich_unzulaessig": [
+     "propext"
+    ],
+    "umverteilung_zulaessig": [],
+    "jeder_zulaessige_plan_trifft_sechs": [
+     "propext",
+     "Quot.sound"
+    ],
+    "preis": []
+   },
+   "problems": []
+  },
+  "AL-03": {
+   "ok": true,
+   "sha256": "64231a1fe3b524c6292b7880173a2e965120e8e82851e03e3e79aed0237f8cec",
+   "parts": {
+    "lean": "7f9c19d1147679c2fa261dd229c3c90d87b8895049fb1f2a2169c24bbf77f2a0",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434",
+    "Formale Behauptung": "66330347826d541e2cffed08dd59668a7fada585ad6b00267b26f0f48849e5ed",
+    "Definitionen und Voraussetzungen": "176a96fab33bd3ef13235a705a17ba29f85743089802c316c5a4e0422eede731"
+   },
+   "lean": "lean/AL03.lean",
+   "axioms": {
+    "regel_werte": [
+     "Quot.sound"
+    ],
+    "offenlassen_regel": [],
+    "purge_regel": [],
+    "offenlassen_zulaessig_gdw": [
+     "Quot.sound"
+    ],
+    "purge_zulaessig_gdw": [
+     "Quot.sound"
+    ],
+    "aegis_waehlt_purge": [],
+    "offenlassen_erkannt": [],
+    "offenlassen_verworfen": [],
+    "andere_regel_andere_wahl": [],
+    "widerspruchsfrei_durch_auslassung": [],
+    "purge_schadensfrei_und_trifft_vektor": []
+   },
+   "problems": []
+  }
+ },
+ "tutorial": {
+  "LT-01": {
+   "ok": true,
+   "sha256": "22e5229c3c0f5b851b2a080c5430ca3a51552429bcff53335dd8da3111d8f96c",
+   "parts": {
+    "lean": "25aaa38467d1302c357c56daac72e72466bc8a9d0f5e62aa5997c644bddf0e2a",
+    "uebung": "dd0a4e09eb0eab5741ecf6d5e707b2c7ee03831ff8879ab5db23d5f91be618c5",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434"
+   },
+   "lean": "K01.lean",
+   "uebung": "K01_Uebung.lean",
+   "axioms": {
+    "anschluss_ohne_typ": [],
+    "sieben_milliarden": [],
+    "kap1_nicht_richtig": [],
+    "es_fehlen_37": [],
+    "rueckfrage_aendert_nichts": [],
+    "messreihe_joule": [],
+    "bank_hat_typ": [],
+    "anschluss_joule": [],
+    "zwei_rueckfragen": [],
+    "ohne_hand_richtig": []
+   },
+   "problems": []
+  },
+  "LT-02": {
+   "ok": true,
+   "sha256": "40c07c79a973b20e5b7b6a3a850f8af07b7d263dfe30494dd5d619cc73a6cbd6",
+   "parts": {
+    "lean": "ff56fc6555f585bd59905264b1a59662055a5610b5343f4f14ddf238741c9b55",
+    "uebung": "dfd9bafc63e7ce14ac50cd045a55bd76b5f2a88ea70e20c19ffffbd6ff61e1d7",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434"
+   },
+   "lean": "K02.lean",
+   "uebung": "K02_Uebung.lean",
+   "axioms": {
+    "frist_in_stunden": [],
+    "frist_am_abend": [],
+    "rueckfrage_hat_ursache": [],
+    "zeuge_belastet_tamm": [],
+    "wartung_schliesst_nicht": [
+     "propext"
+    ],
+    "zwoelf_minuten_ohne_zeugen": [],
+    "nichts_schliesst": [],
+    "korrigiere_idempotent": [],
+    "fehler_der_wartet": [],
+    "neun_zehntel": [],
+    "hand_erklaert_rueckfrage": [],
+    "ausgang_hat_ursache": [],
+    "und_tauschen": [],
+    "ehrlich_schliesst_auch_nicht": []
+   },
+   "problems": []
+  },
+  "LT-03": {
+   "ok": true,
+   "sha256": "7c4aa95e661f2470adf9ee289ac37123934018c28209638e96c5a81c24b8aa66",
+   "parts": {
+    "lean": "64ce0afbb53588c993686796e15674f152482db4ca72e014e57e48e0e5c26328",
+    "uebung": "089bb1255476c8e3693fe87eb513275d7f391464067ff3590007e192b65de8af",
+    "toolchain": "42779d67b81608af8a12aa4328d2ab47ca201925b3b2bd68369587b5340bb434"
+   },
+   "lean": "K03.lean",
+   "uebung": "K03_Uebung.lean",
+   "axioms": {
+    "fuss_gleich_kopf": [
+     "propext"
+    ],
+    "ein_stueck_ein_schritt": [
+     "propext"
+    ],
+    "zweihundertneun": [
+     "propext"
+    ],
+    "nach_abgleich_kein_beleg": [
+     "propext"
+    ],
+    "vorher_ein_beleg": [],
+    "nur_er_weiss": [],
+    "fuss_append": [
+     "propext",
+     "Quot.sound"
+    ],
+    "konsole_unveraendert": [],
+    "zwei_stuecke": [
+     "propext"
+    ]
+   },
+   "problems": []
+  }
+ }
+}
