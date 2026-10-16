@@ -1834,3 +1834,8 @@
 {"document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung", "page": "risse", "surface": "Risse", "line": 31, "decision": "occurrence", "why": "the bunker's cracks in the source concept", "at": "2026-10-16"}
 {"document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung", "page": "ueberwelt", "surface": "Simulation", "line": 56, "decision": "occurrence", "why": "a table cell, not the page's term", "at": "2026-10-16"}
 {"document": "dis-komorbiditaeten-und-alltagsbewaeltigung", "page": "ueberwelt", "surface": "Simulation", "line": 174, "decision": "occurrence", "why": "an ordinary word in research on a real diagnosis; light pass", "at": "2026-10-16"}
+{"document": "roman-pitch-reduktion-auf-kern", "page": "did", "surface": "DID", "line": 28, "decision": "occurrence", "why": "an inventory row that names earlier names; not read", "at": "2026-10-16"}
+{"document": "roman-pitch-reduktion-auf-kern", "page": "entropie", "surface": "Entropie", "line": 39, "decision": "reading", "why": "the final chapter's resolution in the inventory; read on the page", "at": "2026-10-16"}
+{"document": "roman-pitch-reduktion-auf-kern", "page": "goedel-gambit", "surface": "Gödel-Gambit", "line": 38, "decision": "occurrence", "why": "the page's term carries a person's name; not read", "at": "2026-10-16"}
+{"document": "roman-pitch-reduktion-auf-kern", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-16"}
+{"document": "roman-pitch-reduktion-auf-kern", "page": "ueberwelt", "surface": "Simulation", "line": 28, "decision": "occurrence", "why": "an inventory row that names earlier names; not read", "at": "2026-10-16"}

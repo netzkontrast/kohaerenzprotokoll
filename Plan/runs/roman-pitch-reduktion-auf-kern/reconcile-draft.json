@@ -1,0 +1,219 @@
+{
+  "document": "roman-pitch-reduktion-auf-kern",
+  "drive_id": "1KF6j0DF4HcRrAGygJc1QYeZf5lBZJKegNXLTBr0n718",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 76,
+    "decided_by_lookup": 61,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        51,
+        53,
+        69,
+        81
+      ],
+      "attribution": "",
+      "note": "AEGIS as the one-axiom controller of the reduced pitch"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        33,
+        101
+      ],
+      "attribution": "",
+      "note": "listed in the inventory, named in a cut-list proposal"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        29,
+        51
+      ],
+      "attribution": "",
+      "note": "the DKT judged the strongest worldbuilding element, to be strengthened"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        39,
+        51
+      ],
+      "attribution": "",
+      "note": "entropy in the inventory and in the DKT analysis"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        71,
+        85,
+        98,
+        122
+      ],
+      "attribution": "",
+      "note": "the exiled origin-self as the anomaly AEGIS cannot capture"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        51,
+        53,
+        81,
+        83,
+        101,
+        118
+      ],
+      "attribution": "",
+      "note": "waking in the Konstrukt-Stadt; rational and emotional parts; the cut list's climax"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        34,
+        71
+      ],
+      "attribution": "",
+      "note": "Kernwelten in the inventory and in the comparison"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        13,
+        51
+      ],
+      "attribution": "",
+      "note": "the Kohärenz-Kernel as the DKT's side of order"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        13,
+        51
+      ],
+      "attribution": "",
+      "note": "the Kollaps-Kernel as the DKT's side of dissolution"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        81
+      ],
+      "attribution": "",
+      "note": "the Konstrukt-Stadt in the reduced pitch"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        34,
+        99
+      ],
+      "attribution": "",
+      "note": "listed in the inventory; the cut list on the bond"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "the final chapter in the inventory"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        51
+      ],
+      "attribution": "",
+      "note": "the Nichts-Rauschen as embodiment of the Kollaps-Kernel"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        53,
+        59
+      ],
+      "attribution": "",
+      "note": "Risse as heat damage to the simulated spacetime"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        13,
+        31
+      ],
+      "attribution": "",
+      "note": "TSDP in the opening and the inventory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 28,
+      "decision": "occurrence",
+      "why": "an inventory row that names earlier names; not read"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 39,
+      "decision": "reading",
+      "why": "the final chapter's resolution in the inventory; read on the page"
+    },
+    {
+      "page": "goedel-gambit",
+      "surface": "Gödel-Gambit",
+      "line": 38,
+      "decision": "occurrence",
+      "why": "the page's term carries a person's name; not read"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 28,
+      "decision": "occurrence",
+      "why": "an inventory row that names earlier names; not read"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
