@@ -85,6 +85,11 @@ plus the bytes of every changed and untracked file (`worktree_key`). A second bu
 same files takes them from there, and the data says so (`meta.checks_from`); any change to
 any file is a new key. Without git (a Vercel build) nothing is cached. `--fresh-checks` runs
 them regardless.
+
+Measured on 2026-10-16 (under a profiler), the rest of a build's time is two things, cached the
+same way: `state.derive()` — the retrieval bench and the quotation tally inside it — once per
+tree (`<key>-state.json`), and the graph's force layout, which is seeded and so the same for the
+same graph, once per graph (`layout-<hash>-layout.json`, kept across commits that do not change it).
 """
 
 from __future__ import annotations
@@ -489,10 +494,22 @@ def worktree_key(root: Path = ROOT) -> str | None:
     return h.hexdigest()[:24]
 
 
+def cached(name: str, key: str | None, compute, fresh: bool = False, cache: Path = CHECKS_CACHE):
+    """compute(), kept under `name` for `key`; without a key (no git) or with `fresh`, computed every time."""
+    path = cache / f"{key}-{name}.json" if key else None
+    if path is not None and path.exists() and not fresh:
+        return json.loads(path.read_text(encoding="utf-8"))
+    value = compute()
+    if path is not None:
+        cache.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(value, ensure_ascii=False), encoding="utf-8")
+    return value
+
+
 def checks_for_tree(measured: dict, fresh: bool = False, root: Path = ROOT,
-                    cache: Path = CHECKS_CACHE) -> tuple[list, list, str]:
+                    cache: Path = CHECKS_CACHE, key: str | None = None) -> tuple[list, list, str]:
     """(invariants, self-tests, where they came from): from this tree's cache, or run and then cached."""
-    key = worktree_key(root)
+    key = key or worktree_key(root)
     path = cache / f"{key}.json" if key else None
     if path is not None and path.exists() and not fresh:
         kept = json.loads(path.read_text(encoding="utf-8"))
@@ -693,7 +710,9 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
     pidx = {s: i for i, s in enumerate(slugs)}
     md = Renderer(slugs, read)
     g = graph.build()
-    derived = state.derive()["measurements"]
+    tree = worktree_key()
+    # the measurements depend only on the files: once per tree (they are most of a build's time, 2026-10-16)
+    derived = cached("state", tree, lambda: state.derive()["measurements"], fresh)
     measured = {k: v["value"] for k, v in derived.items()}
 
     # pages
@@ -935,7 +954,11 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
         if key not in seen_edges:
             seen_edges.add(key)
             gedges.append(list(key))
-    _layout(gnodes, gedges)
+    # the layout is seeded, so the same graph lays out the same: kept by its input, across commits
+    shape = hashlib.sha256(json.dumps([[n["k"], n["ref"]] for n in gnodes] + gedges).encode()).hexdigest()[:24]
+    placed = cached("layout", f"layout-{shape}", lambda: _layout(gnodes, gedges) or [[n["x"], n["y"]] for n in gnodes], fresh)
+    for n, (x, y) in zip(gnodes, placed):
+        n["x"], n["y"] = x, y
     degree = Counter()
     for a, b, t in gedges:
         if t == 0:
@@ -954,7 +977,7 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
             for r in manifest]
     folded = measured["sources.folded"]
 
-    run_checks, run_tests, checks_from = checks_for_tree(measured, fresh) if checks else ([], [], "")
+    run_checks, run_tests, checks_from = checks_for_tree(measured, fresh, key=tree) if checks else ([], [], "")
     head = subprocess.run(["git", "log", "-1", "--format=%h %cs"], cwd=ROOT, capture_output=True, text=True).stdout.split()
     if not head and os.environ.get("VERCEL_GIT_COMMIT_SHA"):  # a Vercel build has no .git; it names the commit
         head = [os.environ["VERCEL_GIT_COMMIT_SHA"][:7], datetime.now(timezone.utc).strftime("%Y-%m-%d")]
@@ -1586,6 +1609,13 @@ def cache_selftest() -> list[str]:
         checks, _, where = checks_for_tree({}, root=root, cache=cache)
         if checks != [["x", "held", "kept"]] or where != f"cache {clean}":
             bad.append("cache: a cached answer for this tree is not taken")
+        calls = []
+        first = cached("x", "k", lambda: calls.append(1) or [1, 2], cache=cache)
+        again = cached("x", "k", lambda: calls.append(1) or [9], cache=cache)
+        if first != [1, 2] or again != [1, 2] or len(calls) != 1:
+            bad.append("cache: a kept value is computed again, or not returned")
+        if cached("x", "k", lambda: [9], fresh=True, cache=cache) != [9] or cached("x", None, lambda: [7], cache=cache) != [7]:
+            bad.append("cache: fresh or keyless does not compute")
         shutil.rmtree(cache, ignore_errors=True)
     return bad
 
