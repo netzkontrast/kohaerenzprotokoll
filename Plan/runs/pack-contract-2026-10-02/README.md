@@ -1,5 +1,13 @@
 # The pack contract, step 4 of SPEC.md — fidelity and measurement, 2026-10-02
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 `fidelity.py` builds the `ask` pack of each of the 24 frozen cases (`Plan/eval/retrieval-cases-v1.json`, each case's
 own record removed from the graph as `ask.py bench` does) and records the text's sha256, its size and which documents
 and lines it sent. No model, no corpus reading.

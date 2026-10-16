@@ -1,5 +1,13 @@
 # Architecture session, 2026-10-01 — baseline, ownership, self-evaluation
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 The session `Plan/briefings/architecture-session.md` asks for (PR #139). This file holds parts A and B: the baseline
 as measured, the map of who owns what, and the evaluation of the repository's own claims. It was written **before**
 the architecture was chosen. The architecture is `SPEC.md`; the first migration step is `scripts/benchset.py`.

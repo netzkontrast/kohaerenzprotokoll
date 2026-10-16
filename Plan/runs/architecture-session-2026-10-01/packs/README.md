@@ -1,5 +1,13 @@
 # How the `ask` pack spends its budget — 2026-10-01
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../../README.md) · [Current work](../../../../NOW.md) · [Plan guide](../../../README.md)
+<!-- readme-context:end -->
+
 On the author's „Überlege wie die ask packs optimiert werden können". Three offline measurements on the frozen
 cases (`Plan/eval/retrieval-cases-v1.json`, sha256 `b37d8010…`), each case's own record removed from the graph as
 `ask.py bench` does. No model, no corpus reading. Gold is the records' cited lines (circular, evaluation audit §0):

@@ -1,5 +1,13 @@
 # Quality sample — documents 32–51, 2026-09-29
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 On the author's „Bitte prüfe auch die Qualität stichprobenartig". How much of
 what the last twenty runs wrote onto the wiki holds against the source lines
 **after** the session's review had already corrected what it caught.

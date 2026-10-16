@@ -1,5 +1,13 @@
 # The testbed's results, one file per contract
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../../README.md) · [Current work](../../../../NOW.md) · [Plan guide](../../../README.md)
+<!-- readme-context:end -->
+
 Every contract in `Plan/hyperextract/` on `kohaerenz-protokoll-meta-foreshadowing-beobachter-logik` (A, 4.2 KB) and `2026-09-14-kap25-vertiefung-md` (B, 10.4 KB), Sonnet. *rows* — what the model returned; *cand.* — rows staging admitted; *ref.* — refused (the reasons are in each file); *n.s.* — rows of a run staging does not take, shown as given. Written by `results.py`.
 
 | contract | A rows | A cand. | A ref. | A n.s. | B rows | B cand. | B ref. | B n.s. | cost | file |

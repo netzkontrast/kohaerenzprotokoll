@@ -1,5 +1,12 @@
 # Plan/worldbuilding — Kernwelt builds, DKT substrate notes, world decisions
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md)
+<!-- readme-context:end -->
+
 Working notes for the world layer. The facts themselves live in `Graph/`
 (World, WorldAxiom, CodexEntry records) and render into `Codex/`; these files
 are the derivation behind them.

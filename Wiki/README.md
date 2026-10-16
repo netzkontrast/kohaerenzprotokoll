@@ -1,5 +1,12 @@
 # Wiki — what the sources say, attributed and unmerged
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../README.md) · [Current work](../NOW.md)
+<!-- readme-context:end -->
+
 One page per term. A page collects **every source's reading of that term**, each
 with its source, its date, and the kind of statement it is. Where the sources
 disagree, the page says so and stops.
@@ -12,7 +19,7 @@ source says what, and when.
 
 | path | what | who writes it |
 |---|---|---|
-| `candidates/` | one page per term, gathered from the notes, not yet reviewed | a person, one commit per page naming its source document |
+| `candidates/` | one page per research term, including reviewed candidates retained in place | a person, one commit per page naming its source document |
 | `conflicts/` | one record per disagreement, append-only | a person |
 | `questions/` | one page per question more than one term page raises; its README says when a question earns a page | a person |
 | `chapters/` | one page per chapter of the planned novel, collecting what every read source says about it (decision 013) | a person, one commit per source document |
@@ -29,8 +36,8 @@ is pinned by sha256 in `Plan/runs/promotions.jsonl` with the author's words, and
 under the page's `## Since review` until the author looks again.
 `python3 scripts/promote.py sheet <page>` is the review sheet;
 `Plan/concept/promotion_2026-10-08.md` has the reasons, the alternatives and the
-author's open questions. The schema still follows the pages: the sheet's checks
-are what 106 candidates showed a review needs. A reviewed candidate can then get a
+author's open questions. The schema still follows the pages: the sheet’s checks
+come from the candidate pages and their review needs. A reviewed candidate can then get a
 term page in `terms/` (`scripts/terms.py`, `Plan/concept/wiki-terms_2026-10-08.md`).
 
 ## What is here
@@ -42,7 +49,8 @@ one document at a time: a frozen census is reconciled against the current
 pages, and the record of each reconciliation is in `compare/`. The first three
 files there are the full re-comparisons made before reconciling by lookup; each
 superseded the last, which is how the step showed it did not scale.
-`CLAUDE.md`, *State*, has what each document added and why.
+The per-document records in `compare/` show what each reconciliation added;
+`NOW.md` holds current priorities, not a reading history.
 
 Pages link to each other as `[[slug]]`: 745 <!--state:wiki.relations--> links,
 none inferred — each marks a term the prose already wrote (decision 005).

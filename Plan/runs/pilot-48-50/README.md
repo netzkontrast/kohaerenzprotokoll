@@ -1,5 +1,13 @@
 # Pilot of the readings step — documents 48–50, 2026-09-29
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 Plan step 4 (`Plan/concept/pipeline-optimization_2026-09-29.md`, decision 015),
 run on documents already read, so no new document was started.
 

@@ -1,5 +1,13 @@
 # novelgraph as an `ask` finder — gate G2, step 6 of SPEC.md, 2026-10-02
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 `ask.route` has a finder `novelgraph` (off by default). It takes novelgraph's hybrid `heading@v1` chunks, 8 per
 question, and turns every line of each chunk into a hit for the pack. It runs in novelgraph's own venv through
 `novelgraph search --batch`, one subprocess that loads the model once. A finder that was asked for and cannot run

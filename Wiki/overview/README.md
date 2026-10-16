@@ -1,5 +1,12 @@
 # Overview — pages that place, never define
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Wiki guide](../README.md)
+<!-- readme-context:end -->
+
 A term page says what one term is in each source, and a chapter page what one
 chapter is. An overview page lays many of them side by side, so a question
 about the whole — how many chapters, which act a chapter falls in, what each

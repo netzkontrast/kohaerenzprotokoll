@@ -1,5 +1,13 @@
 # E4 — fixed pack, bounded expansion, RLM: which controller reaches more read evidence at equal cost
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 **Design, written before any call. Status: not run.** Step 8 of `SPEC.md` §9. Decision 021 approves it: Claude only
 (`claude -p`, decision 011), serial, **$20 for the whole experiment**. It runs only after the author has seen this
 design (2026-10-02, „Ja bitte" to: design first, then show). Nothing below has been measured yet; every number in

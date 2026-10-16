@@ -1,5 +1,12 @@
 # lit-critic reports
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../README.md) · [Current work](../../NOW.md)
+<!-- readme-context:end -->
+
 `scripts/lit_critic_gate.py` writes one report per chapter here:
 
 - `kap-NN.md` — the readable report: every finding with severity, lens, the

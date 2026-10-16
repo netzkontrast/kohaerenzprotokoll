@@ -1,10 +1,47 @@
 # The ingest pipeline, in steps — and its new first step
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../README.md) · [Current work](../NOW.md)
+<!-- readme-context:end -->
+
 **2026-10-01 · A plan, not a description.** On the author's „Lass uns strategisch vorgehen… und die rag Pipeline mal in
 klaren steps planen … erkläre in einer readme.md die neue ingest Pipeline - fokussierend auf dem aller ersten Schritt".
 Every step below carries a status: **exists** (a command runs it today, named), **partly** (some of it runs, the rest is
 named as missing) or **proposed** (nothing runs it yet). `CLAUDE.md` describes only what exists; this page is where the
 plan lives until a step exists, and then the step's line here is changed to name its command.
+
+## Current operating path — 2026-10-16
+
+[SPEC.md](../SPEC.md) is the adopted architecture; the detailed schema and master-file
+design below remains a proposal wherever no implementation is named. Ingest is
+active again, in sequential batches under [NOW.md](../NOW.md); the held-document
+release is decision 028. The HyperExtract backfill remains stopped (decision 019).
+
+```bash
+python3 scripts/knowledge.py init --profile reader
+python3 scripts/derive.py
+python3 scripts/account.py order --summary
+python3 scripts/reading_questions.py check
+python3 scripts/web.py
+```
+
+The website builder also creates the filtered serving index and static HTML
+records. `python3 scripts/rag.py --help` lists offline retrieval commands. For
+local MCP serving, install the `mcp` component with `bash scripts/install.sh mcp`,
+then run `.venv-mcp/bin/python api/rag_server.py`; its `selftest` uses the
+in-memory FastMCP client. The server needs a serving index built by `web.py`
+or `rag.py build`. See [the adapter](../api/rag_server.py) for arguments and
+[vercel.json](../vercel.json) for `/mcp` routing.
+
+Vercel project authentication is configured outside the repository. When it is
+enabled, clients use `x-vercel-protection-bypass`; if `RAG_MCP_TOKEN` is set,
+they also need `Authorization: Bearer <token>`. A local build does not verify
+the deployed protection settings. Branch previews are disabled in the tracked
+configuration. The serving filter withholds unread/personal source bodies and
+restricted lines; it is a retrieval policy, not an author decision about canon.
 
 ## 0. Why a new first step
 
@@ -35,7 +72,7 @@ built from it, not around it. It is the step that turns a text file into somethi
 | 0 | **land** | Drive → `Sources/drive/<slug>.md`, a manifest row with `sha256` | exists | `sources.py next`, `sources.py land` |
 | 1 | **prepare** — the document schema | one landed file → `Plan/derived/<slug>.json`, every fact with its lines | **partly**: four rules run | `derive.py` |
 | 1b | **propose** — the model's layer of the schema | the schema + a contract → proposal rows, each placed on a line by code | partly: 32 contracts, one run at a time; the model rotates (`modelpick.py`: a fifth of runs explore, the rest take the best-labelled model) | `he_claude.py run` (on `hx.py`) |
-| 2 | **read** — a census and a note | the document (and its schema) → `Sources/terms/`, `Sources/notes/` | exists, paused by the author | skill `ingest`, `census.py draft` |
+| 2 | **read** — a census and a note | the document (and its schema) → `Sources/terms/`, `Sources/notes/` | exists, active in bounded batches under NOW.md | skill `ingest`, `census.py draft` |
 | 3 | **reconcile** — readings onto the pages | census + note → `Wiki/compare/`, `Wiki/candidates/`, `Wiki/chapters/` | exists | `reconcile.py`, `readings.py` |
 | 4 | **graph** — the store | schemas + wiki → `Plan/derived/ask.db` | exists, reads the text, not a schema | `askdb.py build`, `kg.py index` |
 | 5 | **retrieve** — a context pack | a question → verified lines, records, documents | exists | `ask.py`, `graphrag.py ask`, `kg.py context` |

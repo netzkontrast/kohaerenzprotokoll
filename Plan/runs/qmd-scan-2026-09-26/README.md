@@ -1,5 +1,13 @@
 # qmd over the unread sources — 2026-09-26
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 The author asked on 2026-09-26: „Update qmd - and make a Search in ovet the uninfeszed sources".
 
 **A search places a document to look at. It measures nothing** (the `qmd` skill; `CLAUDE.md`). Every count below is a count of *search hits*, not of occurrences, and is not a number about the corpus.

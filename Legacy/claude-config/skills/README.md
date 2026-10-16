@@ -1,5 +1,12 @@
 # Repo-local skills — Kohärenz Protokoll
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md)
+<!-- readme-context:end -->
+
 Five skills carry the craft of writing this novel and keeping its wiki usable. They point at live repo
 data and are meant to be read before novel architecture, chapter planning,
 prose drafting, Dramatica analysis or NCP changes.

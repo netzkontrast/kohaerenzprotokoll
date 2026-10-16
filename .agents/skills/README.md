@@ -1,5 +1,12 @@
 # `.agents/skills/` — this project's own skills
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md)
+<!-- readme-context:end -->
+
 A skill is a `SKILL.md` an agent loads by its `description` when the task at hand
 matches it. The ones here are this project's; `.claude/skills/<name>` is a
 symlink to each (P6: one copy), and `python3 scripts/check_skills.py` holds both
@@ -33,7 +40,9 @@ carries the licence), adapted on 2026-09-29 to the German manuscript and this
 repository's rules. Adapted means they are this project's to edit, so they live
 here and not with the vendored skills. `writing-skills/SKILL.md` is their entry
 point: which one to use when, the rules they share, and what was changed from
-upstream. None of them writes or rewrites the author's prose.
+upstream. Their review workflows do not rewrite the author’s prose. The coordinator may
+perform a separate drafting task explicitly authorized by the author; review
+restrictions do not remove that authorization (`CLAUDE.md`).
 
 | skill | use it to |
 |---|---|

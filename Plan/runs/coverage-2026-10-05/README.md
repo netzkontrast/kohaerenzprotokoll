@@ -1,5 +1,13 @@
 # Where the graph is thin — 2026-10-05
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 `python3 scripts/crossdoc.py coverage`: for every term page, the landed documents that write one of its surfaces as a whole word (`corpus.py`, a count), against the documents read onto the page (its `ingested:`). A document that writes a name may say nothing about the thing, so every number here is an upper bound on what reading could add.
 
 **106 pages, 99 documents with a census.** On average a page is read from 110% of the documents that write its names.

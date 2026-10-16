@@ -1,5 +1,12 @@
 # scripts/ — what does what
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../README.md) · [Current work](../NOW.md)
+<!-- readme-context:end -->
+
 Every tool the wiki is built with. Each runs from the repository root:
 
     python3 scripts/<name>.py …
@@ -17,7 +24,9 @@ It is not the manual:
 - **`.agents/skills/tools/SKILL.md`** has the order they run in, and what a red
   check means.
 
-A script not listed as writing only prints, and is safe to run at any time.
+Read the command’s help before running it: model, network and deployment commands
+can have external effects even when they do not write repository files. A README
+entry does not grant approval for a model call or corpus transfer.
 
 **This page is checked, not remembered.** 0 <!--state:readme.scripts_drift-->
 files in `scripts/` are missing from it or listed here without existing, and
@@ -33,7 +42,7 @@ files in `scripts/` are missing from it or listed here without existing, and
 | `hx.py` | HyperExtract, ported (decision 020): loads a template (a YAML subset, refused outside it), builds its prompt and JSON schema, cuts a document into LangChain's chunks, checks a reply as pydantic would, merges as upstream merges (list append; set and graph by identifiers, never with a model). `parity` compares every template and every landed document's chunks with the upstream package when it is installed; `selftest` holds the same on a pinned record of it. | — |
 | `reading_extract.py` | Runs offline template smoke fixtures on `hx.py` and stages HyperExtract passage/relation candidates with source/template hashes, quotation placement and refusals. A name stands when a quotation of it does, or, under four characters, when it is a word on its own on some line (`Lex`, `Nyx`, `KW1`); a contract's word for no name (`unlabelled`) needs no line. | `Plan/runs/<slug>/hyperextract/<new-run>/`; no Sources/wiki/database writes |
 | `hegraph.py` | HyperExtract candidates in the shared store, and the report on what each contract yielded. Loads staged rows as `P_HE_<KIND>` edges (never in the core) from the line the quotation is on to its contract node and to each page or entity its names, or its quotation, contain — on two footings, *names* (every name stands in the document) and *quote* (a slot is the model's own wording; the pages are found by code); an alias without an alias word and an order without an order word are not admitted. Grades by code and reports, per contract, the yield, refusals, cost, the precision of the rows a reader labelled, the agreement with the lines the pages cite, and what each document's contracts together find. `gate` keeps the paragraphs a contract's cue words are in. Standard library. | `Plan/runs/hyperextract-templates-2026-09-30/yield.md`; the store's one build |
-| `install.sh` | Installs everything a fresh container lacks — `Plan/derived/`, every venv, the uv tools, qmd's package — one named component at a time; skips what is present. `--check` reports and changes nothing; `--list` names the components. The cloud session-start hook runs it. | the venvs, the tools, `Plan/derived/`, `.install.log` |
+| `install.sh` | Installs everything a fresh container lacks — `Plan/derived/`, every venv, the uv tools, qmd's package — one named component at a time; skips what is present. `--check` reports and changes nothing; `--list` names the components. The knowledge initializer selects the profile; Codex follows `AGENTS.md`, while Claude has a SessionStart hook. | the venvs, the tools, `Plan/derived/`, `.install.log` |
 | `setup_qmd.sh` | qmd alone: the package and a shim on the path, then its models, index and embeddings, which `install.sh` leaves out by default. `--package` stops after the shim; `--check` changes nothing. | `.tools-node/`, qmd's index, `/usr/local/bin/qmd` |
 
 ## Shared modules

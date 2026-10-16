@@ -1,5 +1,13 @@
 # Reader lab — step 6's ten remaining documents, one at a time, 2026-09-30
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 The author, 2026-09-30, after ten of twelve parallel readers had been stopped by the
 session's usage limit:
 

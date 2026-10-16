@@ -1,5 +1,13 @@
 # The HyperExtract backfill, 2026-09-30 — stopped after 14 of 137 runs
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md) · [Plan guide](../../README.md)
+<!-- readme-context:end -->
+
 The author: „Use Haiku agents to Backpoet hyperextract for all allready Read sources“. A source is *read* when it has a census
 in `Sources/terms/`: 58 of the 586 landed. The three contracts the graph laboratory measured — `TermDefinitions`,
 `TermContrasts`, `CausalLinks`, the ones whose lines the `he-lines` finder answers from — had run on twelve of them

@@ -1,5 +1,13 @@
 # Zwei vorläufige NCP-Dateien — Storyform A und B
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../../README.md) · [Current work](../../../../NOW.md) · [Plan guide](../../../README.md)
+<!-- readme-context:end -->
+
 **Stand 2026-09-30. Forschungsposition, kein Kanon, keine Entscheidung des Autors.** Erzeugt von `build.py` aus einer Tabelle; jeder Wert ist der Tabelle des Status-Berichts vom 2026-05-07 entnommen (`Sources/drive/dramatica-dual-storyform-status-2026-05-07-md.md`, §II.1), und jede Datei sagt das in ihrem `storytelling`-Feld. Nichts hier ist Prosa.
 
 ```bash

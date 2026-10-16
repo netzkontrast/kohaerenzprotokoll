@@ -1,18 +1,25 @@
-# Sources — the only layer that is true
+# Sources — immutable research and attributed readings
+
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../README.md) · [Current work](../NOW.md)
+<!-- readme-context:end -->
 
 The research documents exported from Google Drive, the manifest that indexes
 them — 587 <!--state:sources.total--> rows, 586 <!--state:sources.landed--> of
 them landed — and, beside each document that has been read, its term census and
-its note. Everything else in this repository is derived from the documents in
-`drive/`.
+its note. These records support the research wiki; author decisions and approved
+storyforms have their own authority in `Manuscript/` and `Plan/storyform/`.
 
 **Documents are immutable once landed.** They are written by
 `scripts/sources.py` and by nothing else — `.claude/settings.json` denies the
 Write and Edit tools on `Sources/drive/**` so that a hand cannot edit a source
 while a checksum claims it is untouched.
 
-None of it is canon. A source says what someone wrote on a particular day; what
-that *means* is decided in `Wiki/`, by a person.
+None of it is canon. A source says what someone wrote on a particular day; its readings are recorded in `Wiki/`, attributed and unmerged. Novel canon is
+recorded separately in `Manuscript/kanon.md`, on the author’s decision.
 
 ## Layout
 
@@ -21,7 +28,7 @@ that *means* is decided in `Wiki/`, by a person.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, exhaustive — 525 <!--state:documents.with_census--> | a reader |
+| `terms/<slug>.md` | the term census of one document, selected by the written reading rule — 525 <!--state:documents.with_census--> | a reader |
 | `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 525 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,

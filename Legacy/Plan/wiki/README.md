@@ -1,5 +1,12 @@
 # Plan/wiki — the knowledge system (research wiki, process, safety skills)
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../../README.md) · [Current work](../../../NOW.md)
+<!-- readme-context:end -->
+
 Started 2026-09-15 after the Drive source index landed (680 non-canon
 documents). Engineering language is English; canon prose stays German.
 

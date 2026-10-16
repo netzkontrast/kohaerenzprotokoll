@@ -1,5 +1,12 @@
 # `Plan/decisions/` — one file per decision, kept for good
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Plan guide](../README.md)
+<!-- readme-context:end -->
+
 One short file per decision, permanently — what was chosen, what was rejected,
 what would change our mind (`CLAUDE.md`, *Tracking work*, which also says where
 decisions sit beside `NOW.md` and git).

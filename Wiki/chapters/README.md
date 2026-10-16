@@ -1,5 +1,12 @@
 # Chapters — what each source says a chapter is
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Wiki guide](../README.md)
+<!-- readme-context:end -->
+
 One page per chapter of the planned novel, `kap-00.md` to `kap-40.md`. A page
 collects **what every read source says about that chapter**: one
 `## Reading — \`slug\`, date` per document, in the order the documents are

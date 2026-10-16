@@ -1,5 +1,12 @@
 # Canon — current Kohärenz Protokoll source documents (imported)
 
+<!-- readme-context:start -->
+Archived pre-reset material. The content below records the former layout and
+commands; it is not current canon, runtime input or a manuscript voice reference.
+
+[Project](../../README.md) · [Current work](../../NOW.md)
+<!-- readme-context:end -->
+
 The latest canon working documents for the *Kohärenz Protokoll* novel,
 fetched from Google Drive. Unlike `Legacy/` (a historical snapshot), this
 folder tracks the **current** authoritative drafting corpus.

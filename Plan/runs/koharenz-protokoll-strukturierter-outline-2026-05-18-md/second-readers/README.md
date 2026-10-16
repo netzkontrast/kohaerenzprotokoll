@@ -1,5 +1,13 @@
 # Second readers — document 14, 2026-09-24
 
+<!-- readme-context:start -->
+Dated run/design record. Results and commands below refer to its recorded inputs
+and environment, not current test status. Use NOW.md for authorized next work and
+SPEC.md for the adopted architecture. Preserved measurements are not re-run by this refresh.
+
+[Project](../../../../README.md) · [Current work](../../../../NOW.md) · [Plan guide](../../../README.md)
+<!-- readme-context:end -->
+
 Three of the tools installed on 2026-09-24 read
 `koharenz-protokoll-strukturierter-outline-2026-05-18-md` after its reader's
 candidate list was committed (`a5d32e2`, 19:58:09 UTC). Each started at 19:59 in

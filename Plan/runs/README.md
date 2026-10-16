@@ -1,5 +1,12 @@
 # Runs — every artifact of every extraction
 
+<!-- readme-context:start -->
+Directory guide. Current work is in NOW.md; CLAUDE.md defines the session
+contract. Counts with state markers are checked by `python3 scripts/state.py --prose`.
+
+[Project](../../README.md) · [Current work](../../NOW.md) · [Plan guide](../README.md)
+<!-- readme-context:end -->
+
 A census is the *output* of six steps. Five of them used to run in a terminal and
 vanish, which made the process impossible to study: you could not tell how a
 census was arrived at, could not compare a model against a person, and could not
@@ -78,8 +85,9 @@ to be for.
 **Which lists are gold is decided by `scripts/gold.py`** (decision 009): a
 list written while reading, counted, unchanged since its count, and of its
 document. 521 <!--state:trainset.gold_candidate_lists--> are gold today:
-documents 5 to 51, and the twelve lists of step 6's sample („documents 5 to 14"
-stood here until 2026-09-30). Documents 5 and 6 say a reader wrote them; from
+the eligible documents are enumerated by `python3 scripts/gold.py`, not by a
+fixed document range. Historically, documents 5–51 and the twelve lists of step 6’s
+sample formed the early baseline. Documents 5 and 6 say a reader wrote them; from
 document 7 on, the session reading the document wrote the list before any count;
 the twelve of 2026-09-29 were written by `document-reader` subagents, each before
 its count. Every `written_by:` line says which. `python3 scripts/gold.py` prints
