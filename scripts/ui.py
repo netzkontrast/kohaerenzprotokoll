@@ -90,6 +90,7 @@ Measured on 2026-10-16 (under a profiler), the rest of a build's time is two thi
 same way: `state.derive()` — the retrieval bench and the quotation tally inside it — once per
 tree (`<key>-state.json`), and the graph's force layout, which is seeded and so the same for the
 same graph, once per graph (`layout-<hash>-layout.json`, kept across commits that do not change it).
+Measured the same day: `ui.py --check` took 647 s on a new tree and 40 s on the same tree again, 0 defects both times.
 """
 
 from __future__ import annotations

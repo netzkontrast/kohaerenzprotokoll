@@ -1,6 +1,6 @@
 # 029 — The project's retrieval tools as a FastMCP server on Vercel
 
-**Date:** 2026-10-16 · **Decided by:** the author (what), the session (how) · **Status:** building
+**Date:** 2026-10-16 · **Decided by:** the author (what), the session (how) · **Status:** built, first deployment waits on the merge of PR #191
 
 ## What was asked
 
@@ -25,9 +25,14 @@ The concept is `Plan/concept/mcp-server_2026-10-16.md`.
 3. **The landed documents' lines go to Vercel.** A full RAG system searches the sources, so their text is in the
    index the function reads. That is more than decision 022 sent (the wiki's quotations); the author's goal is the
    decision to send it. It stays behind Vercel Authentication.
-4. **Access by Vercel's protection-bypass secret** in a request header, which the author creates in Vercel and gives
-   to the clients the author names; never in the repository or a chat. A claude.ai connector needs OAuth and is
-   built only if the author asks for it.
+4. **First without a login** — the author, 2026-10-16, asked how the first test on Vercel gets its access: „Ohne Login
+   zunächst“. Vercel's protection is set per deployment, not per path, so turning it off for production opens the
+   whole site — the app, `agents/data.json`, the static pages and `/mcp` — to anyone who has the address
+   (`noindex` keeps search engines off, not readers). That change is the author's, in the Vercel project's settings;
+   nothing in the repository turns it off. The server still withholds what §3 and the concept's §7 name, and
+   `RAG_MCP_TOKEN`, set in Vercel, puts a bearer token in front of `/mcp` alone whenever the author wants it back
+   behind a key. The protection-bypass secret stays the way in while the login is on; a claude.ai connector needs
+   OAuth and is built only if the author asks for it.
 
 ## What was rejected
 
@@ -42,6 +47,7 @@ The concept is `Plan/concept/mcp-server_2026-10-16.md`.
 ## What would change our mind
 
 - The author wants the wiki in claude.ai → OAuth (concept §4).
+- The open site is read by someone it was not meant for → the Vercel login back on, or `RAG_MCP_TOKEN` for `/mcp`.
 - The function cannot read the build's index within Vercel's limits → bundle a smaller index or move search to a
   hosted database.
 - A measured retrieval gap that only vectors close → add static vectors to the index.

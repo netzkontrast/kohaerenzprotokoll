@@ -34,7 +34,11 @@ model can answer from them and every claim stays checkable.
 
 ## 4 · Access
 
-Vercel Authentication covers the function too. A client sends `x-vercel-protection-bypass: <secret>` (Vercel's
+**First test without a login** (the author, 2026-10-16; decision 029 §4): the author turns Vercel's protection off for
+production in the project's settings, which opens the whole site, not only `/mcp`. Then a client needs no header at
+all, and `RAG_MCP_TOKEN` (set in Vercel) puts a bearer token in front of `/mcp` alone when wanted.
+
+While the login is on, Vercel Authentication covers the function too. A client sends `x-vercel-protection-bypass: <secret>` (Vercel's
 *Protection Bypass for Automation*); Claude Code takes headers in its MCP configuration. A claude.ai connector would
 need OAuth — built only on the author's word.
 
@@ -54,7 +58,7 @@ behind its login (decision 029 §3), less what §7 withholds. Nothing is sent to
    `git archive` with no `.git`, as Vercel builds, took 6 min and wrote everything.
 4. *[built]* Called over HTTP with FastMCP's client, both with the host sending the ASGI lifespan (as Vercel's runtime
    does) and without; `RAG_MCP_TOKEN` refuses a request without the bearer token (401).
-5. *[next]* After the merge: call the production deployment with the bypass header. Branches build no preview
+5. *[next]* After the merge (and, for the first test, with the login off): call `https://kohaerenzprotokoll.vercel.app/mcp`. Branches build no preview
    (since 2026-10-16), so this is the first moment the function runs on Vercel.
 
 ## 7 · What is withheld
@@ -73,7 +77,7 @@ Bypass for Automation*, kept in the environment, never in a file that is committ
   "headers": {"x-vercel-protection-bypass": "${VERCEL_BYPASS}"}}}}
 ```
 
-Locally, with no Vercel at all: `scripts/install.sh mcp`, `python3 scripts/rag.py build`, then
+With the login off, the same without `headers`. Locally, with no Vercel at all: `scripts/install.sh mcp`, `python3 scripts/rag.py build`, then
 `.venv-mcp/bin/python api/rag_server.py` serves `http://127.0.0.1:8000/mcp`.
 
 ```yaml
