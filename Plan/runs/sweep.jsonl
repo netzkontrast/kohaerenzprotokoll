@@ -1829,3 +1829,7 @@
 {"document": "kohaerenz-protokoll-system-realitaet-leser", "page": "entropie", "surface": "Entropie", "line": 19, "decision": "reading", "why": "entropy in the DKT reading; read on the page if the line fits", "at": "2026-10-16"}
 {"document": "kohaerenz-protokoll-system-realitaet-leser", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-16"}
 {"document": "kohaerenz-protokoll-system-realitaet-leser", "page": "ueberwelt", "surface": "Simulation", "line": 13, "decision": "occurrence", "why": "literary simulation, not the page's term", "at": "2026-10-16"}
+{"document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung", "page": "juna", "surface": "(an earlier name)", "line": 11, "decision": "occurrence", "why": "an earlier name in the title; Juna is not named", "at": "2026-10-16"}
+{"document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung", "page": "kohaerenz", "surface": "Kohärenz", "line": 81, "decision": "occurrence", "why": "an occurrence", "at": "2026-10-16"}
+{"document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung", "page": "risse", "surface": "Risse", "line": 31, "decision": "occurrence", "why": "the bunker's cracks in the source concept", "at": "2026-10-16"}
+{"document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung", "page": "ueberwelt", "surface": "Simulation", "line": 56, "decision": "occurrence", "why": "a table cell, not the page's term", "at": "2026-10-16"}

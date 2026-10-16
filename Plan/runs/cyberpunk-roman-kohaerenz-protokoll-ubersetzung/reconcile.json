@@ -1,0 +1,189 @@
+{
+  "document": "cyberpunk-roman-kohaerenz-protokoll-ubersetzung",
+  "drive_id": "1Y35DZiDoShdiALFLNWVl5JbvzWeULb7ATbE-AAUmFUg",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-16, from the full-ingest task with no count before the list; rlm_ingest not run; a trauma-symbol word in the list's prose and a note quotation from the yellow palette were removed before commit; readings by one wiki-reader subagent (Sonnet) from Plan/runs/ingest-528/brief.md, 2026-10-16",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 86,
+    "decisions": 84,
+    "decided_by_lookup": 80,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A design translation that maps an earlier figure-and-image concept onto the novel's thirteen parts: each part's proposed identity went on its existing page; the kernels, palette, line grammar and escalation tiers stay unpromoted.",
+  "new_readings": [
+    {
+      "page": "alex",
+      "lines": [
+        89
+      ],
+      "attribution": "",
+      "note": "number 03 as the boundary detector"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        92
+      ],
+      "attribution": "",
+      "note": "number 11 as the meta-cognition"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        90
+      ],
+      "attribution": "",
+      "note": "number 09 as the elitist facade"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        87,
+        121
+      ],
+      "attribution": "",
+      "note": "number 01 and a dominant instance"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        100
+      ],
+      "attribution": "",
+      "note": "number 07 as the freeze state"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        88,
+        121,
+        140
+      ],
+      "attribution": "",
+      "note": "number 02 as pure logic"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        101
+      ],
+      "attribution": "",
+      "note": "number 08 as the flickering paradox"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "number 10 as gravitational collapse"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        98,
+        121
+      ],
+      "attribution": "",
+      "note": "number 06 as the destructive error protocol"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        99
+      ],
+      "attribution": "",
+      "note": "number 13 as the deleting algorithm"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "number 04 as thermal overload"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        91,
+        121
+      ],
+      "attribution": "",
+      "note": "number 05 as the buffer protocol"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        102
+      ],
+      "attribution": "",
+      "note": "number 12 as the non-local resonance space"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "claimed isomorphism with the trauma model"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "each part's entry is the translation's proposed visual identity, never canon; spans naming an earlier name or another first name are never quoted; the yellow palette not read; the juna hit an earlier name in the title, not a reading; occurrences of `Kohärenz`, `Risse` and `Simulation`",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "an earlier name in the title; Juna is not named"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 81,
+      "decision": "occurrence",
+      "why": "an occurrence"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "the bunker's cracks in the source concept"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 56,
+      "decision": "occurrence",
+      "why": "a table cell, not the page's term"
+    }
+  ],
+  "not_promoted": [
+    "Slow Kernel, Fast Kernel, Kohärenz-Maschine, Kollaps-Maschine, the colour palette, the line grammar, the escalation tiers, the master-terminal principle, NovelOS and the writing tools, Interface Brutalismus, and the source concept"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
