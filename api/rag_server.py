@@ -13,8 +13,8 @@ The file is not called `mcp.py`: run as a script, that name would shadow the `mc
 On Vercel the module-level `app` is the ASGI application; `vercel.json` rewrites `/mcp` to it, and it answers on any
 path it is given, and the serving index is the
 `Plan/derived/serve/serve.db` that `scripts/web.py` builds in the same deployment. Access is Vercel Authentication;
-a client sends `x-vercel-protection-bypass: <secret>`. If `RAG_MCP_TOKEN` is set, a request must also carry
-`Authorization: Bearer <that token>`.
+the project's own login (`middleware.js`) asks for `Authorization: Bearer <RAG_MCP_TOKEN>`, and this app checks it
+again; on Vercel (`VERCEL` set) it refuses every request while the token is unset. Locally the token is optional.
 """
 
 from __future__ import annotations
@@ -153,6 +153,12 @@ class App:
             # a rewrite may hand over `/mcp` or `/api/rag_server`: the MCP route is the one route this app has
             scope = {**scope, "path": PATH, "raw_path": PATH.encode()}
             token = os.environ.get("RAG_MCP_TOKEN")
+            if not token and os.environ.get("VERCEL"):
+                # on Vercel the server never runs open: middleware.js and this both need the token (decision 029 §4)
+                await send({"type": "http.response.start", "status": 503,
+                            "headers": [(b"content-type", b"text/plain")]})
+                await send({"type": "http.response.body", "body": b"RAG_MCP_TOKEN is not set: the server stays closed"})
+                return
             if token:
                 got = dict(scope.get("headers") or []).get(b"authorization", b"").decode()
                 if not hmac.compare_digest(got, f"Bearer {token}"):

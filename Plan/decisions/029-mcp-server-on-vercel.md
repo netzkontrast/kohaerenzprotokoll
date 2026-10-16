@@ -33,6 +33,12 @@ The concept is `Plan/concept/mcp-server_2026-10-16.md`.
    `RAG_MCP_TOKEN`, set in Vercel, puts a bearer token in front of `/mcp` alone whenever the author wants it back
    behind a key. The protection-bypass secret stays the way in while the login is on; a claude.ai connector needs
    OAuth and is built only if the author asks for it.
+5. **The project's own login instead of Vercel's** — the author, 2026-10-16, when Vercel's login still stood in front
+   of the first test: „Build your own Auth“. `middleware.js` (Vercel Routing Middleware, no dependency) runs before
+   every path: the site asks for a password (HTTP Basic, `SITE_PASSWORD`), `/mcp` and `/api/*` for
+   `Authorization: Bearer <RAG_MCP_TOKEN>`, and `api/rag_server.py` checks the token again. **It fails closed**: a
+   path whose variable is unset answers 503, so turning Vercel's login off before setting the variables exposes
+   nothing. This replaces §4's open site: with Vercel's login off, the project's own login is what stands in front.
 
 ## What was rejected
 
