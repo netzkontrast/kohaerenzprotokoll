@@ -39,5 +39,5 @@ partition.
 | [sensorik](sensorik/README.md) | 2 |  |
 | [technology](technology/README.md) | 1 |  |
 | [faction](faction/README.md) | 2 |  |
-| [artefact](artefact/README.md) | 0 |  |
-| [minor-character](minor-character/README.md) | 0 |  |
+| artefact (archived index target absent) | 0 |  |
+| minor-character (archived index target absent) | 0 |  |
