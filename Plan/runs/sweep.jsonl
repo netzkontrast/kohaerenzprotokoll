@@ -1826,3 +1826,6 @@
 {"document": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2", "page": "kohaerenz", "surface": "Kohärenz", "line": 15, "decision": "occurrence", "why": "the title", "at": "2026-10-16"}
 {"document": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2", "page": "partnerin", "surface": "Partnerin", "line": 173, "decision": "occurrence", "why": "personal material in the anchor table; not read", "at": "2026-10-16"}
 {"document": "research-prompt-kohaerenz-protokoll-dramatica-dual-storyfo-2", "page": "risse", "surface": "Risse", "line": 180, "decision": "occurrence", "why": "in the anchor table, partly personal material; light pass", "at": "2026-10-16"}
+{"document": "kohaerenz-protokoll-system-realitaet-leser", "page": "entropie", "surface": "Entropie", "line": 19, "decision": "reading", "why": "entropy in the DKT reading; read on the page if the line fits", "at": "2026-10-16"}
+{"document": "kohaerenz-protokoll-system-realitaet-leser", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-16"}
+{"document": "kohaerenz-protokoll-system-realitaet-leser", "page": "ueberwelt", "surface": "Simulation", "line": 13, "decision": "occurrence", "why": "literary simulation, not the page's term", "at": "2026-10-16"}

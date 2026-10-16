@@ -1,0 +1,593 @@
+{
+  "document": "kohaerenz-protokoll-system-realitaet-leser",
+  "drive_id": "1Z8dB3n_DpFEMqufDIdGCtuyOIidWhREsAY-3XDqzYcM",
+  "step": "counts",
+  "at": "2026-10-16",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 9,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        13,
+        17,
+        27,
+        41,
+        62,
+        74,
+        90,
+        97,
+        103,
+        130,
+        136,
+        142,
+        152
+      ]
+    },
+    "Aegis": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        27,
+        43,
+        45,
+        47,
+        49,
+        51,
+        58,
+        70,
+        82,
+        84,
+        91,
+        105,
+        117,
+        118,
+        120,
+        122,
+        132,
+        146,
+        148,
+        150
+      ]
+    },
+    "nichts Rauschen": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        43,
+        45,
+        51,
+        70,
+        82,
+        118,
+        132,
+        148
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58,
+        92
+      ]
+    },
+    "Nichts-Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "K₁": {
+      "n": 14,
+      "n_including_compounds": 22,
+      "lines": [
+        17,
+        19,
+        21,
+        23,
+        45,
+        51,
+        55,
+        103,
+        111,
+        117,
+        120,
+        132,
+        146,
+        150
+      ]
+    },
+    "K₀": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        19,
+        21,
+        23,
+        43,
+        49,
+        51,
+        55,
+        68,
+        70,
+        103,
+        111,
+        132,
+        146,
+        148
+      ]
+    },
+    "K₁-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Kernel": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        15,
+        17,
+        19,
+        43,
+        117,
+        142,
+        150,
+        157,
+        159,
+        160,
+        161
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        17,
+        43,
+        117,
+        142,
+        159,
+        160,
+        161
+      ]
+    },
+    "DKT": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        21,
+        23,
+        49,
+        56,
+        68,
+        103,
+        130
+      ]
+    },
+    "Dateileser": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "File Reader": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Zeugenfunktion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        49,
+        152
+      ]
+    },
+    "Witness Function": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        49,
+        56
+      ]
+    },
+    "Zeugeninstanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Quittungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        152
+      ]
+    },
+    "Receipts": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        152
+      ]
+    },
+    "Löschung": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        17,
+        19,
+        21,
+        23,
+        56,
+        105,
+        107,
+        113,
+        115,
+        130,
+        148
+      ]
+    },
+    "Erasure": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        21,
+        119
+      ]
+    },
+    "Mutual Information": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        23,
+        56,
+        146
+      ]
+    },
+    "Wärmetod": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Heat Death": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Zeitpfeil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Ereignishorizont der Nachverfolgbarkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Aegis Cortex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        150
+      ]
+    },
+    "Agency-System": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        25,
+        27,
+        29,
+        39,
+        41,
+        43,
+        45,
+        57,
+        74,
+        82,
+        90,
+        118,
+        132,
+        148
+      ]
+    },
+    "Sensory Cortex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Amygdala": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        43,
+        76,
+        92,
+        142
+      ]
+    },
+    "Prefrontal Cortex": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        33,
+        43,
+        45,
+        57,
+        82,
+        91,
+        105
+      ]
+    },
+    "Hypothalamus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        45,
+        57
+      ]
+    },
+    "Hippocampus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35
+      ]
+    },
+    "ACC": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35
+      ]
+    },
+    "Streaming Interception": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        105
+      ]
+    },
+    "Circuit-Breaking": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        132
+      ]
+    },
+    "Interface Brutalism": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        95,
+        97,
+        99,
+        103,
+        105
+      ]
+    },
+    "isomorphen Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        128
+      ]
+    },
+    "Selbst-Löschung": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        107,
+        113,
+        115
+      ]
+    },
+    "Selbst-Erasure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Protokoll der Exzision": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        119
+      ]
+    },
+    "Autopoietische Schließung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "Story Mind": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        62,
+        64,
+        70,
+        74,
+        84,
+        118,
+        150,
+        167
+      ]
+    },
+    "Inequity": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        64,
+        66,
+        68,
+        70,
+        130,
+        150
+      ]
+    },
+    "Equity": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        130
+      ]
+    },
+    "Dramatica-Theorie": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        60,
+        62,
+        64,
+        68,
+        70,
+        142
+      ]
+    },
+    "TSDP": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        72,
+        74,
+        82,
+        90,
+        103,
+        130,
+        142
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        91
+      ]
+    },
+    "ANP": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        74,
+        76,
+        82,
+        84,
+        91,
+        105,
+        130
+      ]
+    },
+    "Emotional Part": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        74,
+        92
+      ]
+    },
+    "EP": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        74,
+        76,
+        82,
+        84,
+        92,
+        119,
+        130,
+        132
+      ]
+    },
+    "tertiäre Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Dissoziationsbarriere": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        84,
+        105
+      ]
+    },
+    "Maxwellschen Dämons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Quantendekohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        142
+      ]
+    },
+    "Kopenhagener Deutung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Viele-Welten-Interpretation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    }
+  }
+}
