@@ -467,27 +467,11 @@ the author wants them (*Questions for the author*).
   (decision 014). The document is now read and reconciled as document 31, so nothing rides on it
   today; the gap in the check stays open.
 
-- **70 landed documents stay unread, each held by a rule (2026-10-15).** Every other landed
-  document is read (515 with a census). A screen in context, hit by hit, released every
-  document whose hits were harmless (real authors in reference lists, „shadow“ as an English
-  word, „DIS“ naming Kael's condition, „autobiographical“ in a reference title). What is left
-  needs a yes or a no from you, one group at a time:
-  1. **The early names** — documents that call Kael, Juna or two of the parts by their earlier
-     names, or name a part „Isabella“. Read them, and if so, how are those names written on
-     pages (never, as „the early name of …“, or as written)?
-  2. **The album** — song cycles and concepts that map the plot onto songs. Read as sources of
-     the novel, or not at all?
-  3. **DIS material about a real diagnosis** — legal, clinical and social-law research, and
-     documents about your own person, writing process or a relationship. These stay unread
-     unless you say otherwise.
-  4. **`aegis-manifest-genesis-krise-reboot-2`**: its frozen gold candidate list counts
-     `Überwelt (Overworld)` 0 while the joined form stands once in capitals, and `quotes.py`
-     refuses that 0 as „zero only by case“. Either the checker accepts a case-only zero on a
-     gold list, or the gold list is retired for this document and it is read afresh. Five
-     other documents with the same refusal were reader errors and are read (504, 505, 510,
-     519, 521).
-  5. **`kohaerenz-protokoll-plot-entwurf-finalisierung`** landed empty (only a Drive link);
-     it needs a new export, which a landed source does not get without your yes.
+- **The 70 held documents — answered 2026-10-16 (decision 028).** The early names: read, never
+  written. The album and the DIS and personal material: a light pass, census and note only.
+  reboot-2: the gold list is retired and the document read afresh. **Still open:**
+  `kohaerenz-protokoll-plot-entwurf-finalisierung` landed empty (only a Drive link) and needs a
+  new export, which a landed source does not get without your yes.
 - **`Coherence Protocol.mp3` is the one row not landed.** markitdown turns audio
   into text only through a speech-recognition service outside this container,
   which sends the recording to a third party — the rule Jev and every model call
