@@ -8,7 +8,7 @@
 
 Read first, for each: `Sources/notes/<slug>.md`, the end of `Sources/terms/<slug>.md` and `Plan/runs/<slug>/05-verify.txt`; then the document with `python3 scripts/read.py <slug>` (304 lines for `aegis-manifest-genesis-krise-r`). For each page, its digest: `python3 scripts/digest.py <page> --doc <slug>`. Ask for several quotations in one Bash call.
 
-**Stance — record, never apply.** AEGIS's self-description: write „the manifesto (speaking as AEGIS) declares/assigns …“ — it is the system's view, which denies the fragments any subjectivity (L109); record it, never apply it. The Corrupted Entity paragraph (L245) carries a trauma-symbol detail: never quote L245, and write nothing of its colour. L255–L279 is engineering practice: not read. Never write the names Michael, Julia, Shadow, „The Lost One“ or Isabella; `Isabelle` (with a final e) is the current name and is read normally. No gendered pronoun for Kael, Juna, AEGIS, the Guardians or the parts in our own prose.
+**Stance — record, never apply.** AEGIS's self-description: write „the manifesto (speaking as AEGIS) declares/assigns …“ — it is the system's view, which denies the fragments any subjectivity (L109); record it, never apply it. The Corrupted Entity paragraph (L245) carries a trauma-symbol detail: never quote L245, and write nothing of its colour. L255–L279 is engineering practice: not read. Never write a figure's earlier name; `Isabelle` is a current name and is read normally. No gendered pronoun for Kael, Juna, AEGIS, the Guardians or the parts in our own prose.
 
 ## Pages — document 523, `aegis-manifest-genesis-krise-reboot-2`
 
