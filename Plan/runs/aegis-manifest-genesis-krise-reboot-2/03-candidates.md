@@ -1,0 +1,111 @@
+---
+written_by: document-reader subagent (Sonnet), 2026-10-16, while reading, before any count
+---
+
+# Candidates — aegis-manifest-genesis-krise-reboot-2
+
+The document is an English-language initiation log in AEGIS's own voice (third person, "hereby instantiated"), with German names set in italics (Nichts Rauschen, Trennungsprotokoll, Überwelt, Kernwelten, Wächter-Zwiespalt). The fourth Guardian of section 6.4 is left off this list on purpose: its spelling is close to an early name the project has retired. A trauma-symbol detail of the Corrupted Entity paragraph is likewise left off. Export damage: table cells are wrapped in escaped asterisks, and reference numbers are glued to sentence ends.
+
+- AEGIS
+- Autonomous Entropy Gatekeeper for Identity Systems
+- Gatekeeper
+- Great Realignment
+- Genesis Crisis
+- Nichts Rauschen
+- Trennungsprotokoll
+- Ursprungs-Ich
+- Component 734
+- Dual-Kernel Theory
+- DKT
+- Coherence Kernel
+- Collapse Kernel
+- K1
+- K0
+- K1-Kernel
+- K0-Kernel
+- Überwelt
+- Kernwelten
+- Kernwelt
+- Core Worlds
+- KW1
+- KW2
+- KW3
+- KW4
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Construct City
+- Resonance Landscape
+- Boundary Fortress
+- Emergent Space
+- Grenzfeste
+- Border Fortress
+- Kael
+- Nyx
+- Juna/V
+- Kiko
+- Moros
+- Selene
+- Lex
+- Guardians
+- LogOS
+- Oblivion
+- Silas
+- Wächter-Zwiespalt
+- Zerstückelung
+- Coherence Protocol
+- Behavioral Proof-of-Function
+- BPoF
+- Cognitive Firewall
+- Real-Time Self-Verification
+- Apparently Normal Part
+- ANP
+- Emotional Parts
+- EP
+- Trauma-Time
+- Somatic Truth
+- Regulated Breath Counting
+- Visceral Gut Reactions
+- Tensing of Muscles
+- Unclenching of Hands
+- ruin-garden
+- Hard Glitch Cut
+- Digital Kintsugi
+- Corrective Wavelet
+- Amnesia Protocol
+- MemAct
+- State-Freezing
+- Narrative Context Protocol
+- Harness-in-Harness
+- Line Budgets
+- Compute-Lock
+- Kernel Panic
+- Cleaving Protocol
+- Compute Reallocation
+- Tier 0
+- Tier 1
+- Manus-Pattern Triad
+- Spec-Driven Development
+- Quellenkritik
+- Semantic Entropy
+- Vector Jitter
+- Data Moshing
+- Domain Singularity
+- Zero-Trust
+- XML-Snapshot
+
+## lens
+
+- Free Energy Principle
+- Active Inference
+- Expected Free Energy
+- Integrated Information Theory
+- Principle of Explosion
+- Correspondence Theory of Truth
+- Coherence Theory of Truth
+- Logics of Formal Inconsistency
+- Paraconsistent Logic
+- Relevance Logic
+- Dialetheic Logic
+- Classical Logic

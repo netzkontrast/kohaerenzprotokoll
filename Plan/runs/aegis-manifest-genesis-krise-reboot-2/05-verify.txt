@@ -1,0 +1,128 @@
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "hereby instantiated"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`hereby instantiated` ^[aegis-manifest-genesis-krise-reboot-2.md:#1]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "EXECUTE SYSTEM REBOOT"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`EXECUTE SYSTEM REBOOT` ^[aegis-manifest-genesis-krise-reboot-2.md:#1]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Operational Mandate"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Operational Mandate` ^[aegis-manifest-genesis-krise-reboot-2.md:#4]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "AEGIS"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`AEGIS` ^[aegis-manifest-genesis-krise-reboot-2.md:#16]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Gatekeeper"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Gatekeeper` ^[aegis-manifest-genesis-krise-reboot-2.md:#16]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Nichts Rauschen"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nichts Rauschen` ^[aegis-manifest-genesis-krise-reboot-2.md:#2]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Kael"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            3
+
+`Kael` ^[aegis-manifest-genesis-krise-reboot-2.md:#2]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[aegis-manifest-genesis-krise-reboot-2.md:#3]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna` ^[aegis-manifest-genesis-krise-reboot-2.md:#3]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Guardians"
+whole word, case-sensitive     8
+whole word, case-insensitive   9
+including compounds            8
+
+`Guardians` ^[aegis-manifest-genesis-krise-reboot-2.md:#8]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Kernwelten"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`Kernwelten` ^[aegis-manifest-genesis-krise-reboot-2.md:#5]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Überwelt"
+whole word, case-sensitive     10
+whole word, case-insensitive   11
+including compounds            10
+
+`Überwelt` ^[aegis-manifest-genesis-krise-reboot-2.md:#10]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Coherence Kernel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Coherence Kernel` ^[aegis-manifest-genesis-krise-reboot-2.md:#4]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Collapse Kernel"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Collapse Kernel` ^[aegis-manifest-genesis-krise-reboot-2.md:#4]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[aegis-manifest-genesis-krise-reboot-2.md:#0]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[aegis-manifest-genesis-krise-reboot-2.md:#0]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`chapter` ^[aegis-manifest-genesis-krise-reboot-2.md:#0]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "KW1"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW1` ^[aegis-manifest-genesis-krise-reboot-2.md:#3]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "KW2"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW2` ^[aegis-manifest-genesis-krise-reboot-2.md:#3]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "KW3"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`KW3` ^[aegis-manifest-genesis-krise-reboot-2.md:#3]
+$ read.py aegis-manifest-genesis-krise-reboot-2 --count "KW4"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`KW4` ^[aegis-manifest-genesis-krise-reboot-2.md:#4]
+stance_marker_count 2 = hereby instantiated (1) + EXECUTE SYSTEM REBOOT (1)
+$ grep -cP Kernwelt|Kael etc: see 04-counts.txt

@@ -1,0 +1,14 @@
+# aegis-manifest-genesis-krise-reboot-2
+  lines                304  (frontmatter ends at 9)
+  body words           5557
+  headings             36   bold-only lines 1
+  table rows           19   code fences 0
+  question marks       0
+  backslash escapes    109
+  typographic marks    36   ascii quotes 68
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    8
+  repeated labels      Executive Function x4, Intervention Protocol x4, Operational Mandate x4, Somatic Metric x4, Structural Mandate x4, Target Data Fragments x4, Topography and Aesthetics x4
+  longest line         727 chars
+
