@@ -1,0 +1,46 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      15
+  backslash escapes      0
+  typographic marks      6
+  ascii quotes           4
+
+# inflection families -- one term, several surfaces
+  syste    System, Systeme, Systemweite, Systemweiter
+  momen    Moment, Momente, Momenten
+  abgru    Abgrund, Abgrunds
+  bedro    Bedrohung, Bedrohungen
+  daten    Daten, Datenpartikel
+  diese    Diese, Dieses
+  energ    Energie, Energiefeld
+  entsc    Entscheidung, Entschlossenheit
+  erinn    Erinnerung, Erinnerungsblitz
+  kapit    Kapitel, Kapitulation
+  proto    Protokoll, Protokolle
+  reboo    Reboot, Reboots
+  schwa    Schwachstelle, Schwarz
+  stimm    Stimme, Stimmen
+  symbo    Symbol, Symbolische
+  verän    Veränderte, Veränderung
+
+# substring pairs -- never one term, often merged by accident
+  Eine < Keine
+  Eine < Seine
+  Kael < Kaels
+  Lage < Niederlage
+  Rand < Rande
+  Daten < Datenpartikel
+  Diese < Dieses
+  Kraft < Willenskraft
+  Logik < Kernlogik
+  Punkt < Fixpunkt
+  Punkt < Höhepunkt
+  Punkt < Tiefpunkt
+  Aktion < Reaktion
+  Moment < Momente
+  Moment < Momenten
+  Reboot < Reboots
+  Ränder < Veränderte
+  Ränder < Veränderung
+  Stimme < Stimmen
+  Symbol < Symbolische

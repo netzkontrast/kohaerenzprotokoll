@@ -1839,3 +1839,6 @@
 {"document": "roman-pitch-reduktion-auf-kern", "page": "goedel-gambit", "surface": "Gödel-Gambit", "line": 38, "decision": "occurrence", "why": "the page's term carries a person's name; not read", "at": "2026-10-16"}
 {"document": "roman-pitch-reduktion-auf-kern", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title", "at": "2026-10-16"}
 {"document": "roman-pitch-reduktion-auf-kern", "page": "ueberwelt", "surface": "Simulation", "line": 28, "decision": "occurrence", "why": "an inventory row that names earlier names; not read", "at": "2026-10-16"}
+{"document": "kapitel-13-momente", "page": "juna", "surface": "(an earlier name)", "line": 30, "decision": "occurrence", "why": "an earlier name; Juna is read from the compounds", "at": "2026-10-16"}
+{"document": "kapitel-13-momente", "page": "kohaerenz", "surface": "Kohärenz", "line": 31, "decision": "occurrence", "why": "a moment of inner coherence, not the page's term", "at": "2026-10-16"}
+{"document": "kapitel-13-momente", "page": "protokoll-v14", "surface": "Protokoll v1.4", "line": 44, "decision": "reading", "why": "the failed protocol before the reboot; read on the page", "at": "2026-10-16"}
