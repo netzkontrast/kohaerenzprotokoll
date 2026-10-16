@@ -1,0 +1,177 @@
+{
+  "document": "research-prompt-kohaerenz-protokoll-verification-md",
+  "drive_id": "16NBS_PWcAMhHjNzS5q8w9Yhm709Ur_ut_AOsgbSt-OI",
+  "step": "reconcile",
+  "at": "2026-10-16",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 62,
+    "decisions": 61,
+    "decided_by_lookup": 55,
+    "needs_judgement": 6
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        342,
+        1053,
+        1074,
+        1078
+      ],
+      "attribution": "",
+      "note": "AEGIS in the claims the prompt reports"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        1047,
+        1074,
+        1078
+      ],
+      "attribution": "",
+      "note": "named in a Phase 6 heading"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        245,
+        362,
+        640,
+        644
+      ],
+      "attribution": "",
+      "note": "a seed axis the prompt would test against published work"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        538,
+        875
+      ],
+      "attribution": "",
+      "note": "Juna in the reported claims"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        656,
+        1053
+      ],
+      "attribution": "",
+      "note": "Kael in the reported claims"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        724,
+        728,
+        1053
+      ],
+      "attribution": "",
+      "note": "Kiko among four alters the prompt reports"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        724,
+        728,
+        1053
+      ],
+      "attribution": "",
+      "note": "Lex among four alters the prompt reports"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        724,
+        728,
+        1053
+      ],
+      "attribution": "",
+      "note": "Lia among four alters the prompt reports"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        849,
+        1173
+      ],
+      "attribution": "",
+      "note": "the Moonshine-Link as a claim to verify"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        990
+      ],
+      "attribution": "",
+      "note": "the reader's effort as repair energy, as reported"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        724,
+        728,
+        1053
+      ],
+      "attribution": "",
+      "note": "Nyx among four alters the prompt reports"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        362,
+        370,
+        728,
+        1173
+      ],
+      "attribution": "",
+      "note": "TSDP as a seed axis and an assumption to falsify"
+    },
+    {
+      "page": "vortex",
+      "lines": [
+        1049
+      ],
+      "attribution": "",
+      "note": "a step heading on Vortex Inversion"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 1049,
+      "decision": "reading",
+      "why": "the step heading on the Vortex Inversion, the climax the framework is reported to claim; read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
