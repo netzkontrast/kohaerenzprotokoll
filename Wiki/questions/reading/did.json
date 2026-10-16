@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "did",
+ "title": "DID — dissoziative Identitätsstruktur",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Trennung klinischer Begriffe und Weltmetapher",
+  "Alltag mit Erinnerungslücken",
+  "Darstellung von Handlungsfähigkeit",
+  "Fehldeutung von Vielfalt als Chaos",
+  "Grenze zwischen Heilung und Normalisierung"
+ ],
+ "basis": {
+  "did": {
+   "title": "DID — dissoziative Identitätsstruktur",
+   "path": "Wiki/candidates/did.md",
+   "hash": "3e4dbef89c60c8206972740f586bc1cab3ab4d96d5e71074e213f334b6b879a7"
+  },
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "therapie-schnittstelle-alpha": {
+   "title": "Therapie-Schnittstelle Alpha",
+   "path": "Wiki/candidates/therapie-schnittstelle-alpha.md",
+   "hash": "faccacafbfc67cf4707461249417750ffac4e0a84a3c31fd22d5186952a6d76c"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-did-001",
+   "question": "Wie kann die Prosa Kaels Erinnerungslücken und Handlungsfähigkeit zeigen, ohne DID mit destruktiver Entropie gleichzusetzen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-002",
+   "question": "Welche Lesarten auf der Seite zu DID — dissoziative Identitätsstruktur stützen oder begrenzen „Trennung klinischer Begriffe und Weltmetapher“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-003",
+   "question": "Welcher Grenzfall würde bei DID — dissoziative Identitätsstruktur die Annahmen über „Trennung klinischer Begriffe und Weltmetapher“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-004",
+   "question": "Wer könnte innerhalb des Romans bei DID — dissoziative Identitätsstruktur etwas über „Trennung klinischer Begriffe und Weltmetapher“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-005",
+   "question": "Welche konkrete Entscheidung könnte „Trennung klinischer Begriffe und Weltmetapher“ bei DID — dissoziative Identitätsstruktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Trennung klinischer Begriffe und Weltmetapher“ bei DID — dissoziative Identitätsstruktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-007",
+   "question": "Wie lässt sich „Trennung klinischer Begriffe und Weltmetapher“ bei DID — dissoziative Identitätsstruktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-008",
+   "question": "Welche Alternativen sollte der Autor bei DID — dissoziative Identitätsstruktur für „Trennung klinischer Begriffe und Weltmetapher“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-009",
+   "question": "Was bedeutet bei DID — dissoziative Identitätsstruktur der Themenpunkt „Alltag mit Erinnerungslücken“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-010",
+   "question": "Welche Lesarten auf der Seite zu DID — dissoziative Identitätsstruktur stützen oder begrenzen „Alltag mit Erinnerungslücken“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-011",
+   "question": "Welcher Grenzfall würde bei DID — dissoziative Identitätsstruktur die Annahmen über „Alltag mit Erinnerungslücken“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-012",
+   "question": "Wer könnte innerhalb des Romans bei DID — dissoziative Identitätsstruktur etwas über „Alltag mit Erinnerungslücken“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-013",
+   "question": "Welche konkrete Entscheidung könnte „Alltag mit Erinnerungslücken“ bei DID — dissoziative Identitätsstruktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Alltag mit Erinnerungslücken“ bei DID — dissoziative Identitätsstruktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-015",
+   "question": "Wie lässt sich „Alltag mit Erinnerungslücken“ bei DID — dissoziative Identitätsstruktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-016",
+   "question": "Welche Alternativen sollte der Autor bei DID — dissoziative Identitätsstruktur für „Alltag mit Erinnerungslücken“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-017",
+   "question": "Was bedeutet bei DID — dissoziative Identitätsstruktur der Themenpunkt „Darstellung von Handlungsfähigkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-018",
+   "question": "Welche Lesarten auf der Seite zu DID — dissoziative Identitätsstruktur stützen oder begrenzen „Darstellung von Handlungsfähigkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-019",
+   "question": "Welcher Grenzfall würde bei DID — dissoziative Identitätsstruktur die Annahmen über „Darstellung von Handlungsfähigkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-020",
+   "question": "Wer könnte innerhalb des Romans bei DID — dissoziative Identitätsstruktur etwas über „Darstellung von Handlungsfähigkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-021",
+   "question": "Welche konkrete Entscheidung könnte „Darstellung von Handlungsfähigkeit“ bei DID — dissoziative Identitätsstruktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Darstellung von Handlungsfähigkeit“ bei DID — dissoziative Identitätsstruktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-023",
+   "question": "Wie lässt sich „Darstellung von Handlungsfähigkeit“ bei DID — dissoziative Identitätsstruktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-024",
+   "question": "Welche Alternativen sollte der Autor bei DID — dissoziative Identitätsstruktur für „Darstellung von Handlungsfähigkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-025",
+   "question": "Was bedeutet bei DID — dissoziative Identitätsstruktur der Themenpunkt „Fehldeutung von Vielfalt als Chaos“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-026",
+   "question": "Welche Lesarten auf der Seite zu DID — dissoziative Identitätsstruktur stützen oder begrenzen „Fehldeutung von Vielfalt als Chaos“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-027",
+   "question": "Welcher Grenzfall würde bei DID — dissoziative Identitätsstruktur die Annahmen über „Fehldeutung von Vielfalt als Chaos“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-028",
+   "question": "Wer könnte innerhalb des Romans bei DID — dissoziative Identitätsstruktur etwas über „Fehldeutung von Vielfalt als Chaos“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-029",
+   "question": "Welche konkrete Entscheidung könnte „Fehldeutung von Vielfalt als Chaos“ bei DID — dissoziative Identitätsstruktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fehldeutung von Vielfalt als Chaos“ bei DID — dissoziative Identitätsstruktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-031",
+   "question": "Wie lässt sich „Fehldeutung von Vielfalt als Chaos“ bei DID — dissoziative Identitätsstruktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-032",
+   "question": "Welche Alternativen sollte der Autor bei DID — dissoziative Identitätsstruktur für „Fehldeutung von Vielfalt als Chaos“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-033",
+   "question": "Was bedeutet bei DID — dissoziative Identitätsstruktur der Themenpunkt „Grenze zwischen Heilung und Normalisierung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-034",
+   "question": "Welche Lesarten auf der Seite zu DID — dissoziative Identitätsstruktur stützen oder begrenzen „Grenze zwischen Heilung und Normalisierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-035",
+   "question": "Welcher Grenzfall würde bei DID — dissoziative Identitätsstruktur die Annahmen über „Grenze zwischen Heilung und Normalisierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-036",
+   "question": "Wer könnte innerhalb des Romans bei DID — dissoziative Identitätsstruktur etwas über „Grenze zwischen Heilung und Normalisierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Heilung und Normalisierung“ bei DID — dissoziative Identitätsstruktur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Heilung und Normalisierung“ bei DID — dissoziative Identitätsstruktur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-039",
+   "question": "Wie lässt sich „Grenze zwischen Heilung und Normalisierung“ bei DID — dissoziative Identitätsstruktur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-040",
+   "question": "Welche Alternativen sollte der Autor bei DID — dissoziative Identitätsstruktur für „Grenze zwischen Heilung und Normalisierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-did-041",
+   "question": "Wo unterscheiden sich DID — dissoziative Identitätsstruktur und TSDP, wenn man sie unter dem Gesichtspunkt „Trennung klinischer Begriffe und Weltmetapher“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-042",
+   "question": "Welche Quelle verbindet DID — dissoziative Identitätsstruktur mit TSDP in Bezug auf „Trennung klinischer Begriffe und Weltmetapher“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-043",
+   "question": "Welche Grenzen aus der Seite zu TSDP müsste eine Deutung von DID — dissoziative Identitätsstruktur unter „Trennung klinischer Begriffe und Weltmetapher“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-044",
+   "question": "Wie könnte sich das Wissen über DID — dissoziative Identitätsstruktur vom Wissen über TSDP unterscheiden, wenn „Trennung klinischer Begriffe und Weltmetapher“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen DID — dissoziative Identitätsstruktur und TSDP bei „Trennung klinischer Begriffe und Weltmetapher“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-046",
+   "question": "Falls DID — dissoziative Identitätsstruktur im Hinblick auf „Trennung klinischer Begriffe und Weltmetapher“ anders festgelegt wird: Welche Aussagen über TSDP müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten DID — dissoziative Identitätsstruktur und TSDP bei „Trennung klinischer Begriffe und Weltmetapher“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-048",
+   "question": "Braucht der Roman eine Verbindung von DID — dissoziative Identitätsstruktur und TSDP bei „Trennung klinischer Begriffe und Weltmetapher“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-049",
+   "question": "In welchem denkbaren Fall könnte DID — dissoziative Identitätsstruktur bestehen, ohne dass TSDP dieselbe Funktion übernimmt, und was würde das für „Trennung klinischer Begriffe und Weltmetapher“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-050",
+   "question": "Welche Kosten könnte eine Verbindung von DID — dissoziative Identitätsstruktur und TSDP in Bezug auf „Trennung klinischer Begriffe und Weltmetapher“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-051",
+   "question": "Welche ältere Lesart von DID — dissoziative Identitätsstruktur oder TSDP könnte die Gegenüberstellung unter „Trennung klinischer Begriffe und Weltmetapher“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von DID — dissoziative Identitätsstruktur und TSDP unter „Trennung klinischer Begriffe und Weltmetapher“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "did",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-did-053",
+   "question": "Wo unterscheiden sich DID — dissoziative Identitätsstruktur und Alters, wenn man sie unter dem Gesichtspunkt „Alltag mit Erinnerungslücken“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-054",
+   "question": "Welche Quelle verbindet DID — dissoziative Identitätsstruktur mit Alters in Bezug auf „Alltag mit Erinnerungslücken“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-055",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von DID — dissoziative Identitätsstruktur unter „Alltag mit Erinnerungslücken“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-056",
+   "question": "Wie könnte sich das Wissen über DID — dissoziative Identitätsstruktur vom Wissen über Alters unterscheiden, wenn „Alltag mit Erinnerungslücken“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen DID — dissoziative Identitätsstruktur und Alters bei „Alltag mit Erinnerungslücken“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-058",
+   "question": "Falls DID — dissoziative Identitätsstruktur im Hinblick auf „Alltag mit Erinnerungslücken“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten DID — dissoziative Identitätsstruktur und Alters bei „Alltag mit Erinnerungslücken“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-060",
+   "question": "Braucht der Roman eine Verbindung von DID — dissoziative Identitätsstruktur und Alters bei „Alltag mit Erinnerungslücken“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-061",
+   "question": "In welchem denkbaren Fall könnte DID — dissoziative Identitätsstruktur bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Alltag mit Erinnerungslücken“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-062",
+   "question": "Welche Kosten könnte eine Verbindung von DID — dissoziative Identitätsstruktur und Alters in Bezug auf „Alltag mit Erinnerungslücken“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-063",
+   "question": "Welche ältere Lesart von DID — dissoziative Identitätsstruktur oder Alters könnte die Gegenüberstellung unter „Alltag mit Erinnerungslücken“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von DID — dissoziative Identitätsstruktur und Alters unter „Alltag mit Erinnerungslücken“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "did",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-did-065",
+   "question": "Wo unterscheiden sich DID — dissoziative Identitätsstruktur und Multiplizität, wenn man sie unter dem Gesichtspunkt „Darstellung von Handlungsfähigkeit“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-066",
+   "question": "Welche Quelle verbindet DID — dissoziative Identitätsstruktur mit Multiplizität in Bezug auf „Darstellung von Handlungsfähigkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-067",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von DID — dissoziative Identitätsstruktur unter „Darstellung von Handlungsfähigkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-068",
+   "question": "Wie könnte sich das Wissen über DID — dissoziative Identitätsstruktur vom Wissen über Multiplizität unterscheiden, wenn „Darstellung von Handlungsfähigkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen DID — dissoziative Identitätsstruktur und Multiplizität bei „Darstellung von Handlungsfähigkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-070",
+   "question": "Falls DID — dissoziative Identitätsstruktur im Hinblick auf „Darstellung von Handlungsfähigkeit“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten DID — dissoziative Identitätsstruktur und Multiplizität bei „Darstellung von Handlungsfähigkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-072",
+   "question": "Braucht der Roman eine Verbindung von DID — dissoziative Identitätsstruktur und Multiplizität bei „Darstellung von Handlungsfähigkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-073",
+   "question": "In welchem denkbaren Fall könnte DID — dissoziative Identitätsstruktur bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Darstellung von Handlungsfähigkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-074",
+   "question": "Welche Kosten könnte eine Verbindung von DID — dissoziative Identitätsstruktur und Multiplizität in Bezug auf „Darstellung von Handlungsfähigkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-075",
+   "question": "Welche ältere Lesart von DID — dissoziative Identitätsstruktur oder Multiplizität könnte die Gegenüberstellung unter „Darstellung von Handlungsfähigkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von DID — dissoziative Identitätsstruktur und Multiplizität unter „Darstellung von Handlungsfähigkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "did",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-did-077",
+   "question": "Wo unterscheiden sich DID — dissoziative Identitätsstruktur und Kael, wenn man sie unter dem Gesichtspunkt „Fehldeutung von Vielfalt als Chaos“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-078",
+   "question": "Welche Quelle verbindet DID — dissoziative Identitätsstruktur mit Kael in Bezug auf „Fehldeutung von Vielfalt als Chaos“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von DID — dissoziative Identitätsstruktur unter „Fehldeutung von Vielfalt als Chaos“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-080",
+   "question": "Wie könnte sich das Wissen über DID — dissoziative Identitätsstruktur vom Wissen über Kael unterscheiden, wenn „Fehldeutung von Vielfalt als Chaos“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen DID — dissoziative Identitätsstruktur und Kael bei „Fehldeutung von Vielfalt als Chaos“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-082",
+   "question": "Falls DID — dissoziative Identitätsstruktur im Hinblick auf „Fehldeutung von Vielfalt als Chaos“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten DID — dissoziative Identitätsstruktur und Kael bei „Fehldeutung von Vielfalt als Chaos“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-084",
+   "question": "Braucht der Roman eine Verbindung von DID — dissoziative Identitätsstruktur und Kael bei „Fehldeutung von Vielfalt als Chaos“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-085",
+   "question": "In welchem denkbaren Fall könnte DID — dissoziative Identitätsstruktur bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Fehldeutung von Vielfalt als Chaos“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-086",
+   "question": "Welche Kosten könnte eine Verbindung von DID — dissoziative Identitätsstruktur und Kael in Bezug auf „Fehldeutung von Vielfalt als Chaos“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-087",
+   "question": "Welche ältere Lesart von DID — dissoziative Identitätsstruktur oder Kael könnte die Gegenüberstellung unter „Fehldeutung von Vielfalt als Chaos“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von DID — dissoziative Identitätsstruktur und Kael unter „Fehldeutung von Vielfalt als Chaos“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "did",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-did-089",
+   "question": "Wo unterscheiden sich DID — dissoziative Identitätsstruktur und Therapie-Schnittstelle Alpha, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Heilung und Normalisierung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-090",
+   "question": "Welche Quelle verbindet DID — dissoziative Identitätsstruktur mit Therapie-Schnittstelle Alpha in Bezug auf „Grenze zwischen Heilung und Normalisierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-091",
+   "question": "Welche Grenzen aus der Seite zu Therapie-Schnittstelle Alpha müsste eine Deutung von DID — dissoziative Identitätsstruktur unter „Grenze zwischen Heilung und Normalisierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-092",
+   "question": "Wie könnte sich das Wissen über DID — dissoziative Identitätsstruktur vom Wissen über Therapie-Schnittstelle Alpha unterscheiden, wenn „Grenze zwischen Heilung und Normalisierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen DID — dissoziative Identitätsstruktur und Therapie-Schnittstelle Alpha bei „Grenze zwischen Heilung und Normalisierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-094",
+   "question": "Falls DID — dissoziative Identitätsstruktur im Hinblick auf „Grenze zwischen Heilung und Normalisierung“ anders festgelegt wird: Welche Aussagen über Therapie-Schnittstelle Alpha müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten DID — dissoziative Identitätsstruktur und Therapie-Schnittstelle Alpha bei „Grenze zwischen Heilung und Normalisierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-096",
+   "question": "Braucht der Roman eine Verbindung von DID — dissoziative Identitätsstruktur und Therapie-Schnittstelle Alpha bei „Grenze zwischen Heilung und Normalisierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-097",
+   "question": "In welchem denkbaren Fall könnte DID — dissoziative Identitätsstruktur bestehen, ohne dass Therapie-Schnittstelle Alpha dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Heilung und Normalisierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-098",
+   "question": "Welche Kosten könnte eine Verbindung von DID — dissoziative Identitätsstruktur und Therapie-Schnittstelle Alpha in Bezug auf „Grenze zwischen Heilung und Normalisierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-099",
+   "question": "Welche ältere Lesart von DID — dissoziative Identitätsstruktur oder Therapie-Schnittstelle Alpha könnte die Gegenüberstellung unter „Grenze zwischen Heilung und Normalisierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  },
+  {
+   "id": "RQ-did-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von DID — dissoziative Identitätsstruktur und Therapie-Schnittstelle Alpha unter „Grenze zwischen Heilung und Normalisierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "did",
+    "therapie-schnittstelle-alpha"
+   ]
+  }
+ ]
+}

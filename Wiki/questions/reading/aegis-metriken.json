@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "aegis-metriken",
+ "title": "AEGIS' operative Metriken",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unterschied zwischen Messwert und Erleben",
+  "lokale gegenüber globaler Instabilität",
+  "Persistenz als Diagnose",
+  "Schwellen für Interventionen",
+  "Fehldeutung von Bindungsverlust"
+ ],
+ "basis": {
+  "aegis-metriken": {
+   "title": "AEGIS' operative Metriken",
+   "path": "Wiki/candidates/aegis-metriken.md",
+   "hash": "56a264a67a1de1336bd00e87a9f0c434343e29db471168db59a58dcbabcf7999"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "persistenzgleichung": {
+   "title": "Persistenzgleichung",
+   "path": "Wiki/candidates/persistenzgleichung.md",
+   "hash": "36633bdf956587b0c45d44f68aed672cecbce56d5f854b7f6c5b96a36a840a0f"
+  },
+  "entropie-signatur": {
+   "title": "Entropie-Signatur",
+   "path": "Wiki/candidates/entropie-signatur.md",
+   "hash": "69a3a2a30ddd035be51bc1a4feafa9538afa678ceaa7deb77b28e59dd01fcd54"
+  },
+  "kael-julia-bindung": {
+   "title": "Kael-Julia-Bindung",
+   "path": "Wiki/candidates/kael-julia-bindung.md",
+   "hash": "c1e85963cb0f24fc59c7957f82c90f13b1daf92dc7ff897fe04e96b2843ecf06"
+  },
+  "system-monitor": {
+   "title": "Der Große System-Monitor",
+   "path": "Wiki/candidates/system-monitor.md",
+   "hash": "99027a31989149d535a2ba5a747bcaee26441b47d9a7fcec2a403cee5f0143a4"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-aegis-metriken-001",
+   "question": "Woran unterscheidet AEGIS eine Dissoziation innerhalb Kaels von der systemweiten Folge einer getrennten Bindung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-002",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' operative Metriken stützen oder begrenzen „Unterschied zwischen Messwert und Erleben“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-003",
+   "question": "Welcher Grenzfall würde bei AEGIS' operative Metriken die Annahmen über „Unterschied zwischen Messwert und Erleben“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-004",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' operative Metriken etwas über „Unterschied zwischen Messwert und Erleben“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-005",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Messwert und Erleben“ bei AEGIS' operative Metriken in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Messwert und Erleben“ bei AEGIS' operative Metriken haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-007",
+   "question": "Wie lässt sich „Unterschied zwischen Messwert und Erleben“ bei AEGIS' operative Metriken zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-008",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' operative Metriken für „Unterschied zwischen Messwert und Erleben“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-009",
+   "question": "Was bedeutet bei AEGIS' operative Metriken der Themenpunkt „lokale gegenüber globaler Instabilität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-010",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' operative Metriken stützen oder begrenzen „lokale gegenüber globaler Instabilität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-011",
+   "question": "Welcher Grenzfall würde bei AEGIS' operative Metriken die Annahmen über „lokale gegenüber globaler Instabilität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-012",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' operative Metriken etwas über „lokale gegenüber globaler Instabilität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-013",
+   "question": "Welche konkrete Entscheidung könnte „lokale gegenüber globaler Instabilität“ bei AEGIS' operative Metriken in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „lokale gegenüber globaler Instabilität“ bei AEGIS' operative Metriken haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-015",
+   "question": "Wie lässt sich „lokale gegenüber globaler Instabilität“ bei AEGIS' operative Metriken zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-016",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' operative Metriken für „lokale gegenüber globaler Instabilität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-017",
+   "question": "Was bedeutet bei AEGIS' operative Metriken der Themenpunkt „Persistenz als Diagnose“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-018",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' operative Metriken stützen oder begrenzen „Persistenz als Diagnose“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-019",
+   "question": "Welcher Grenzfall würde bei AEGIS' operative Metriken die Annahmen über „Persistenz als Diagnose“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-020",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' operative Metriken etwas über „Persistenz als Diagnose“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-021",
+   "question": "Welche konkrete Entscheidung könnte „Persistenz als Diagnose“ bei AEGIS' operative Metriken in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Persistenz als Diagnose“ bei AEGIS' operative Metriken haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-023",
+   "question": "Wie lässt sich „Persistenz als Diagnose“ bei AEGIS' operative Metriken zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-024",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' operative Metriken für „Persistenz als Diagnose“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-025",
+   "question": "Was bedeutet bei AEGIS' operative Metriken der Themenpunkt „Schwellen für Interventionen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-026",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' operative Metriken stützen oder begrenzen „Schwellen für Interventionen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-027",
+   "question": "Welcher Grenzfall würde bei AEGIS' operative Metriken die Annahmen über „Schwellen für Interventionen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-028",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' operative Metriken etwas über „Schwellen für Interventionen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-029",
+   "question": "Welche konkrete Entscheidung könnte „Schwellen für Interventionen“ bei AEGIS' operative Metriken in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Schwellen für Interventionen“ bei AEGIS' operative Metriken haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-031",
+   "question": "Wie lässt sich „Schwellen für Interventionen“ bei AEGIS' operative Metriken zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-032",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' operative Metriken für „Schwellen für Interventionen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-033",
+   "question": "Was bedeutet bei AEGIS' operative Metriken der Themenpunkt „Fehldeutung von Bindungsverlust“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-034",
+   "question": "Welche Lesarten auf der Seite zu AEGIS' operative Metriken stützen oder begrenzen „Fehldeutung von Bindungsverlust“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-035",
+   "question": "Welcher Grenzfall würde bei AEGIS' operative Metriken die Annahmen über „Fehldeutung von Bindungsverlust“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-036",
+   "question": "Wer könnte innerhalb des Romans bei AEGIS' operative Metriken etwas über „Fehldeutung von Bindungsverlust“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-037",
+   "question": "Welche konkrete Entscheidung könnte „Fehldeutung von Bindungsverlust“ bei AEGIS' operative Metriken in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fehldeutung von Bindungsverlust“ bei AEGIS' operative Metriken haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-039",
+   "question": "Wie lässt sich „Fehldeutung von Bindungsverlust“ bei AEGIS' operative Metriken zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-040",
+   "question": "Welche Alternativen sollte der Autor bei AEGIS' operative Metriken für „Fehldeutung von Bindungsverlust“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-041",
+   "question": "Wo unterscheiden sich AEGIS' operative Metriken und AEGIS, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Messwert und Erleben“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-042",
+   "question": "Welche Quelle verbindet AEGIS' operative Metriken mit AEGIS in Bezug auf „Unterschied zwischen Messwert und Erleben“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von AEGIS' operative Metriken unter „Unterschied zwischen Messwert und Erleben“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-044",
+   "question": "Wie könnte sich das Wissen über AEGIS' operative Metriken vom Wissen über AEGIS unterscheiden, wenn „Unterschied zwischen Messwert und Erleben“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' operative Metriken und AEGIS bei „Unterschied zwischen Messwert und Erleben“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-046",
+   "question": "Falls AEGIS' operative Metriken im Hinblick auf „Unterschied zwischen Messwert und Erleben“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' operative Metriken und AEGIS bei „Unterschied zwischen Messwert und Erleben“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-048",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' operative Metriken und AEGIS bei „Unterschied zwischen Messwert und Erleben“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-049",
+   "question": "In welchem denkbaren Fall könnte AEGIS' operative Metriken bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Messwert und Erleben“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-050",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' operative Metriken und AEGIS in Bezug auf „Unterschied zwischen Messwert und Erleben“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-051",
+   "question": "Welche ältere Lesart von AEGIS' operative Metriken oder AEGIS könnte die Gegenüberstellung unter „Unterschied zwischen Messwert und Erleben“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' operative Metriken und AEGIS unter „Unterschied zwischen Messwert und Erleben“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "aegis-metriken",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-053",
+   "question": "Wo unterscheiden sich AEGIS' operative Metriken und Persistenzgleichung, wenn man sie unter dem Gesichtspunkt „lokale gegenüber globaler Instabilität“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-054",
+   "question": "Welche Quelle verbindet AEGIS' operative Metriken mit Persistenzgleichung in Bezug auf „lokale gegenüber globaler Instabilität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-055",
+   "question": "Welche Grenzen aus der Seite zu Persistenzgleichung müsste eine Deutung von AEGIS' operative Metriken unter „lokale gegenüber globaler Instabilität“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-056",
+   "question": "Wie könnte sich das Wissen über AEGIS' operative Metriken vom Wissen über Persistenzgleichung unterscheiden, wenn „lokale gegenüber globaler Instabilität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' operative Metriken und Persistenzgleichung bei „lokale gegenüber globaler Instabilität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-058",
+   "question": "Falls AEGIS' operative Metriken im Hinblick auf „lokale gegenüber globaler Instabilität“ anders festgelegt wird: Welche Aussagen über Persistenzgleichung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' operative Metriken und Persistenzgleichung bei „lokale gegenüber globaler Instabilität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-060",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' operative Metriken und Persistenzgleichung bei „lokale gegenüber globaler Instabilität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-061",
+   "question": "In welchem denkbaren Fall könnte AEGIS' operative Metriken bestehen, ohne dass Persistenzgleichung dieselbe Funktion übernimmt, und was würde das für „lokale gegenüber globaler Instabilität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-062",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' operative Metriken und Persistenzgleichung in Bezug auf „lokale gegenüber globaler Instabilität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-063",
+   "question": "Welche ältere Lesart von AEGIS' operative Metriken oder Persistenzgleichung könnte die Gegenüberstellung unter „lokale gegenüber globaler Instabilität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' operative Metriken und Persistenzgleichung unter „lokale gegenüber globaler Instabilität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "aegis-metriken",
+    "persistenzgleichung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-065",
+   "question": "Wo unterscheiden sich AEGIS' operative Metriken und Entropie-Signatur, wenn man sie unter dem Gesichtspunkt „Persistenz als Diagnose“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-066",
+   "question": "Welche Quelle verbindet AEGIS' operative Metriken mit Entropie-Signatur in Bezug auf „Persistenz als Diagnose“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-067",
+   "question": "Welche Grenzen aus der Seite zu Entropie-Signatur müsste eine Deutung von AEGIS' operative Metriken unter „Persistenz als Diagnose“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-068",
+   "question": "Wie könnte sich das Wissen über AEGIS' operative Metriken vom Wissen über Entropie-Signatur unterscheiden, wenn „Persistenz als Diagnose“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' operative Metriken und Entropie-Signatur bei „Persistenz als Diagnose“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-070",
+   "question": "Falls AEGIS' operative Metriken im Hinblick auf „Persistenz als Diagnose“ anders festgelegt wird: Welche Aussagen über Entropie-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' operative Metriken und Entropie-Signatur bei „Persistenz als Diagnose“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-072",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' operative Metriken und Entropie-Signatur bei „Persistenz als Diagnose“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-073",
+   "question": "In welchem denkbaren Fall könnte AEGIS' operative Metriken bestehen, ohne dass Entropie-Signatur dieselbe Funktion übernimmt, und was würde das für „Persistenz als Diagnose“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-074",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' operative Metriken und Entropie-Signatur in Bezug auf „Persistenz als Diagnose“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-075",
+   "question": "Welche ältere Lesart von AEGIS' operative Metriken oder Entropie-Signatur könnte die Gegenüberstellung unter „Persistenz als Diagnose“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' operative Metriken und Entropie-Signatur unter „Persistenz als Diagnose“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "aegis-metriken",
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-077",
+   "question": "Wo unterscheiden sich AEGIS' operative Metriken und Kael-Julia-Bindung, wenn man sie unter dem Gesichtspunkt „Schwellen für Interventionen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-078",
+   "question": "Welche Quelle verbindet AEGIS' operative Metriken mit Kael-Julia-Bindung in Bezug auf „Schwellen für Interventionen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-079",
+   "question": "Welche Grenzen aus der Seite zu Kael-Julia-Bindung müsste eine Deutung von AEGIS' operative Metriken unter „Schwellen für Interventionen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-080",
+   "question": "Wie könnte sich das Wissen über AEGIS' operative Metriken vom Wissen über Kael-Julia-Bindung unterscheiden, wenn „Schwellen für Interventionen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' operative Metriken und Kael-Julia-Bindung bei „Schwellen für Interventionen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-082",
+   "question": "Falls AEGIS' operative Metriken im Hinblick auf „Schwellen für Interventionen“ anders festgelegt wird: Welche Aussagen über Kael-Julia-Bindung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' operative Metriken und Kael-Julia-Bindung bei „Schwellen für Interventionen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-084",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' operative Metriken und Kael-Julia-Bindung bei „Schwellen für Interventionen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-085",
+   "question": "In welchem denkbaren Fall könnte AEGIS' operative Metriken bestehen, ohne dass Kael-Julia-Bindung dieselbe Funktion übernimmt, und was würde das für „Schwellen für Interventionen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-086",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' operative Metriken und Kael-Julia-Bindung in Bezug auf „Schwellen für Interventionen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-087",
+   "question": "Welche ältere Lesart von AEGIS' operative Metriken oder Kael-Julia-Bindung könnte die Gegenüberstellung unter „Schwellen für Interventionen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' operative Metriken und Kael-Julia-Bindung unter „Schwellen für Interventionen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "aegis-metriken",
+    "kael-julia-bindung"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-089",
+   "question": "Wo unterscheiden sich AEGIS' operative Metriken und Der Große System-Monitor, wenn man sie unter dem Gesichtspunkt „Fehldeutung von Bindungsverlust“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-090",
+   "question": "Welche Quelle verbindet AEGIS' operative Metriken mit Der Große System-Monitor in Bezug auf „Fehldeutung von Bindungsverlust“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-091",
+   "question": "Welche Grenzen aus der Seite zu Der Große System-Monitor müsste eine Deutung von AEGIS' operative Metriken unter „Fehldeutung von Bindungsverlust“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-092",
+   "question": "Wie könnte sich das Wissen über AEGIS' operative Metriken vom Wissen über Der Große System-Monitor unterscheiden, wenn „Fehldeutung von Bindungsverlust“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen AEGIS' operative Metriken und Der Große System-Monitor bei „Fehldeutung von Bindungsverlust“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-094",
+   "question": "Falls AEGIS' operative Metriken im Hinblick auf „Fehldeutung von Bindungsverlust“ anders festgelegt wird: Welche Aussagen über Der Große System-Monitor müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten AEGIS' operative Metriken und Der Große System-Monitor bei „Fehldeutung von Bindungsverlust“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-096",
+   "question": "Braucht der Roman eine Verbindung von AEGIS' operative Metriken und Der Große System-Monitor bei „Fehldeutung von Bindungsverlust“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-097",
+   "question": "In welchem denkbaren Fall könnte AEGIS' operative Metriken bestehen, ohne dass Der Große System-Monitor dieselbe Funktion übernimmt, und was würde das für „Fehldeutung von Bindungsverlust“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-098",
+   "question": "Welche Kosten könnte eine Verbindung von AEGIS' operative Metriken und Der Große System-Monitor in Bezug auf „Fehldeutung von Bindungsverlust“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-099",
+   "question": "Welche ältere Lesart von AEGIS' operative Metriken oder Der Große System-Monitor könnte die Gegenüberstellung unter „Fehldeutung von Bindungsverlust“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-aegis-metriken-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von AEGIS' operative Metriken und Der Große System-Monitor unter „Fehldeutung von Bindungsverlust“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "aegis-metriken",
+    "system-monitor"
+   ]
+  }
+ ]
+}

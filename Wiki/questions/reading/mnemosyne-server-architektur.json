@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "mnemosyne-server-architektur",
+ "title": "Mnemosyne-Server-Architektur",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Bild des Serverkerns",
+  "Unterschied von Archipel und Infrastruktur",
+  "Räumlichkeit des Vortex",
+  "Zugang zum materiellen Substrat",
+  "Verbindung von Erinnerung und Hardware"
+ ],
+ "basis": {
+  "mnemosyne-server-architektur": {
+   "title": "Mnemosyne-Server-Architektur",
+   "path": "Wiki/candidates/mnemosyne-server-architektur.md",
+   "hash": "b1bfea5cc7f5bd5cb90eef8569b085e290042fc0affb9a4c10e1533e8ac62820"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "vortex": {
+   "title": "Vortex",
+   "path": "Wiki/candidates/vortex.md",
+   "hash": "74f88ce7c9f24866b27e0d73656f9dd3754692ab032f2ace4b655ca2c1ce8236"
+  },
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  },
+  "archiv-des-ungesagten": {
+   "title": "Archiv des Ungesagten",
+   "path": "Wiki/candidates/archiv-des-ungesagten.md",
+   "hash": "d9eda82db399c05be355ebfe9a0984269757ac4da18e262523c897aa123bf9a2"
+  },
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-mnemosyne-server-architektur-001",
+   "question": "Welches räumliche Bild des Mnemosyne-Serverkerns macht den Vortex handlungsfähig, ohne einen technischen Hintergrund nachträglich zu erfinden?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-002",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne-Server-Architektur stützen oder begrenzen „Bild des Serverkerns“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-003",
+   "question": "Welcher Grenzfall würde bei Mnemosyne-Server-Architektur die Annahmen über „Bild des Serverkerns“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-004",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne-Server-Architektur etwas über „Bild des Serverkerns“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-005",
+   "question": "Welche konkrete Entscheidung könnte „Bild des Serverkerns“ bei Mnemosyne-Server-Architektur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bild des Serverkerns“ bei Mnemosyne-Server-Architektur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-007",
+   "question": "Wie lässt sich „Bild des Serverkerns“ bei Mnemosyne-Server-Architektur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-008",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne-Server-Architektur für „Bild des Serverkerns“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-009",
+   "question": "Was bedeutet bei Mnemosyne-Server-Architektur der Themenpunkt „Unterschied von Archipel und Infrastruktur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-010",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne-Server-Architektur stützen oder begrenzen „Unterschied von Archipel und Infrastruktur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-011",
+   "question": "Welcher Grenzfall würde bei Mnemosyne-Server-Architektur die Annahmen über „Unterschied von Archipel und Infrastruktur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-012",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne-Server-Architektur etwas über „Unterschied von Archipel und Infrastruktur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied von Archipel und Infrastruktur“ bei Mnemosyne-Server-Architektur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied von Archipel und Infrastruktur“ bei Mnemosyne-Server-Architektur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-015",
+   "question": "Wie lässt sich „Unterschied von Archipel und Infrastruktur“ bei Mnemosyne-Server-Architektur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-016",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne-Server-Architektur für „Unterschied von Archipel und Infrastruktur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-017",
+   "question": "Was bedeutet bei Mnemosyne-Server-Architektur der Themenpunkt „Räumlichkeit des Vortex“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-018",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne-Server-Architektur stützen oder begrenzen „Räumlichkeit des Vortex“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-019",
+   "question": "Welcher Grenzfall würde bei Mnemosyne-Server-Architektur die Annahmen über „Räumlichkeit des Vortex“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-020",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne-Server-Architektur etwas über „Räumlichkeit des Vortex“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-021",
+   "question": "Welche konkrete Entscheidung könnte „Räumlichkeit des Vortex“ bei Mnemosyne-Server-Architektur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Räumlichkeit des Vortex“ bei Mnemosyne-Server-Architektur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-023",
+   "question": "Wie lässt sich „Räumlichkeit des Vortex“ bei Mnemosyne-Server-Architektur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-024",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne-Server-Architektur für „Räumlichkeit des Vortex“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-025",
+   "question": "Was bedeutet bei Mnemosyne-Server-Architektur der Themenpunkt „Zugang zum materiellen Substrat“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-026",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne-Server-Architektur stützen oder begrenzen „Zugang zum materiellen Substrat“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-027",
+   "question": "Welcher Grenzfall würde bei Mnemosyne-Server-Architektur die Annahmen über „Zugang zum materiellen Substrat“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-028",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne-Server-Architektur etwas über „Zugang zum materiellen Substrat“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-029",
+   "question": "Welche konkrete Entscheidung könnte „Zugang zum materiellen Substrat“ bei Mnemosyne-Server-Architektur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugang zum materiellen Substrat“ bei Mnemosyne-Server-Architektur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-031",
+   "question": "Wie lässt sich „Zugang zum materiellen Substrat“ bei Mnemosyne-Server-Architektur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-032",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne-Server-Architektur für „Zugang zum materiellen Substrat“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-033",
+   "question": "Was bedeutet bei Mnemosyne-Server-Architektur der Themenpunkt „Verbindung von Erinnerung und Hardware“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-034",
+   "question": "Welche Lesarten auf der Seite zu Mnemosyne-Server-Architektur stützen oder begrenzen „Verbindung von Erinnerung und Hardware“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-035",
+   "question": "Welcher Grenzfall würde bei Mnemosyne-Server-Architektur die Annahmen über „Verbindung von Erinnerung und Hardware“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-036",
+   "question": "Wer könnte innerhalb des Romans bei Mnemosyne-Server-Architektur etwas über „Verbindung von Erinnerung und Hardware“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-037",
+   "question": "Welche konkrete Entscheidung könnte „Verbindung von Erinnerung und Hardware“ bei Mnemosyne-Server-Architektur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verbindung von Erinnerung und Hardware“ bei Mnemosyne-Server-Architektur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-039",
+   "question": "Wie lässt sich „Verbindung von Erinnerung und Hardware“ bei Mnemosyne-Server-Architektur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-040",
+   "question": "Welche Alternativen sollte der Autor bei Mnemosyne-Server-Architektur für „Verbindung von Erinnerung und Hardware“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-041",
+   "question": "Wo unterscheiden sich Mnemosyne-Server-Architektur und Mnemosyne, wenn man sie unter dem Gesichtspunkt „Bild des Serverkerns“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-042",
+   "question": "Welche Quelle verbindet Mnemosyne-Server-Architektur mit Mnemosyne in Bezug auf „Bild des Serverkerns“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-043",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Mnemosyne-Server-Architektur unter „Bild des Serverkerns“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-044",
+   "question": "Wie könnte sich das Wissen über Mnemosyne-Server-Architektur vom Wissen über Mnemosyne unterscheiden, wenn „Bild des Serverkerns“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne-Server-Architektur und Mnemosyne bei „Bild des Serverkerns“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-046",
+   "question": "Falls Mnemosyne-Server-Architektur im Hinblick auf „Bild des Serverkerns“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne-Server-Architektur und Mnemosyne bei „Bild des Serverkerns“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-048",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne-Server-Architektur und Mnemosyne bei „Bild des Serverkerns“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-049",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne-Server-Architektur bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „Bild des Serverkerns“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-050",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne-Server-Architektur und Mnemosyne in Bezug auf „Bild des Serverkerns“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-051",
+   "question": "Welche ältere Lesart von Mnemosyne-Server-Architektur oder Mnemosyne könnte die Gegenüberstellung unter „Bild des Serverkerns“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne-Server-Architektur und Mnemosyne unter „Bild des Serverkerns“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-053",
+   "question": "Wo unterscheiden sich Mnemosyne-Server-Architektur und Vortex, wenn man sie unter dem Gesichtspunkt „Unterschied von Archipel und Infrastruktur“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-054",
+   "question": "Welche Quelle verbindet Mnemosyne-Server-Architektur mit Vortex in Bezug auf „Unterschied von Archipel und Infrastruktur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-055",
+   "question": "Welche Grenzen aus der Seite zu Vortex müsste eine Deutung von Mnemosyne-Server-Architektur unter „Unterschied von Archipel und Infrastruktur“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-056",
+   "question": "Wie könnte sich das Wissen über Mnemosyne-Server-Architektur vom Wissen über Vortex unterscheiden, wenn „Unterschied von Archipel und Infrastruktur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne-Server-Architektur und Vortex bei „Unterschied von Archipel und Infrastruktur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-058",
+   "question": "Falls Mnemosyne-Server-Architektur im Hinblick auf „Unterschied von Archipel und Infrastruktur“ anders festgelegt wird: Welche Aussagen über Vortex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne-Server-Architektur und Vortex bei „Unterschied von Archipel und Infrastruktur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-060",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne-Server-Architektur und Vortex bei „Unterschied von Archipel und Infrastruktur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-061",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne-Server-Architektur bestehen, ohne dass Vortex dieselbe Funktion übernimmt, und was würde das für „Unterschied von Archipel und Infrastruktur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-062",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne-Server-Architektur und Vortex in Bezug auf „Unterschied von Archipel und Infrastruktur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-063",
+   "question": "Welche ältere Lesart von Mnemosyne-Server-Architektur oder Vortex könnte die Gegenüberstellung unter „Unterschied von Archipel und Infrastruktur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne-Server-Architektur und Vortex unter „Unterschied von Archipel und Infrastruktur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "vortex"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-065",
+   "question": "Wo unterscheiden sich Mnemosyne-Server-Architektur und Resonanz-Landschaft, wenn man sie unter dem Gesichtspunkt „Räumlichkeit des Vortex“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-066",
+   "question": "Welche Quelle verbindet Mnemosyne-Server-Architektur mit Resonanz-Landschaft in Bezug auf „Räumlichkeit des Vortex“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-067",
+   "question": "Welche Grenzen aus der Seite zu Resonanz-Landschaft müsste eine Deutung von Mnemosyne-Server-Architektur unter „Räumlichkeit des Vortex“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-068",
+   "question": "Wie könnte sich das Wissen über Mnemosyne-Server-Architektur vom Wissen über Resonanz-Landschaft unterscheiden, wenn „Räumlichkeit des Vortex“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne-Server-Architektur und Resonanz-Landschaft bei „Räumlichkeit des Vortex“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-070",
+   "question": "Falls Mnemosyne-Server-Architektur im Hinblick auf „Räumlichkeit des Vortex“ anders festgelegt wird: Welche Aussagen über Resonanz-Landschaft müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne-Server-Architektur und Resonanz-Landschaft bei „Räumlichkeit des Vortex“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-072",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne-Server-Architektur und Resonanz-Landschaft bei „Räumlichkeit des Vortex“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-073",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne-Server-Architektur bestehen, ohne dass Resonanz-Landschaft dieselbe Funktion übernimmt, und was würde das für „Räumlichkeit des Vortex“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-074",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne-Server-Architektur und Resonanz-Landschaft in Bezug auf „Räumlichkeit des Vortex“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-075",
+   "question": "Welche ältere Lesart von Mnemosyne-Server-Architektur oder Resonanz-Landschaft könnte die Gegenüberstellung unter „Räumlichkeit des Vortex“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne-Server-Architektur und Resonanz-Landschaft unter „Räumlichkeit des Vortex“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-077",
+   "question": "Wo unterscheiden sich Mnemosyne-Server-Architektur und Archiv des Ungesagten, wenn man sie unter dem Gesichtspunkt „Zugang zum materiellen Substrat“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-078",
+   "question": "Welche Quelle verbindet Mnemosyne-Server-Architektur mit Archiv des Ungesagten in Bezug auf „Zugang zum materiellen Substrat“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-079",
+   "question": "Welche Grenzen aus der Seite zu Archiv des Ungesagten müsste eine Deutung von Mnemosyne-Server-Architektur unter „Zugang zum materiellen Substrat“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-080",
+   "question": "Wie könnte sich das Wissen über Mnemosyne-Server-Architektur vom Wissen über Archiv des Ungesagten unterscheiden, wenn „Zugang zum materiellen Substrat“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne-Server-Architektur und Archiv des Ungesagten bei „Zugang zum materiellen Substrat“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-082",
+   "question": "Falls Mnemosyne-Server-Architektur im Hinblick auf „Zugang zum materiellen Substrat“ anders festgelegt wird: Welche Aussagen über Archiv des Ungesagten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne-Server-Architektur und Archiv des Ungesagten bei „Zugang zum materiellen Substrat“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-084",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne-Server-Architektur und Archiv des Ungesagten bei „Zugang zum materiellen Substrat“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-085",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne-Server-Architektur bestehen, ohne dass Archiv des Ungesagten dieselbe Funktion übernimmt, und was würde das für „Zugang zum materiellen Substrat“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-086",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne-Server-Architektur und Archiv des Ungesagten in Bezug auf „Zugang zum materiellen Substrat“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-087",
+   "question": "Welche ältere Lesart von Mnemosyne-Server-Architektur oder Archiv des Ungesagten könnte die Gegenüberstellung unter „Zugang zum materiellen Substrat“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne-Server-Architektur und Archiv des Ungesagten unter „Zugang zum materiellen Substrat“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-089",
+   "question": "Wo unterscheiden sich Mnemosyne-Server-Architektur und Landauer-Signatur, wenn man sie unter dem Gesichtspunkt „Verbindung von Erinnerung und Hardware“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-090",
+   "question": "Welche Quelle verbindet Mnemosyne-Server-Architektur mit Landauer-Signatur in Bezug auf „Verbindung von Erinnerung und Hardware“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-091",
+   "question": "Welche Grenzen aus der Seite zu Landauer-Signatur müsste eine Deutung von Mnemosyne-Server-Architektur unter „Verbindung von Erinnerung und Hardware“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-092",
+   "question": "Wie könnte sich das Wissen über Mnemosyne-Server-Architektur vom Wissen über Landauer-Signatur unterscheiden, wenn „Verbindung von Erinnerung und Hardware“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Mnemosyne-Server-Architektur und Landauer-Signatur bei „Verbindung von Erinnerung und Hardware“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-094",
+   "question": "Falls Mnemosyne-Server-Architektur im Hinblick auf „Verbindung von Erinnerung und Hardware“ anders festgelegt wird: Welche Aussagen über Landauer-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Mnemosyne-Server-Architektur und Landauer-Signatur bei „Verbindung von Erinnerung und Hardware“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-096",
+   "question": "Braucht der Roman eine Verbindung von Mnemosyne-Server-Architektur und Landauer-Signatur bei „Verbindung von Erinnerung und Hardware“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-097",
+   "question": "In welchem denkbaren Fall könnte Mnemosyne-Server-Architektur bestehen, ohne dass Landauer-Signatur dieselbe Funktion übernimmt, und was würde das für „Verbindung von Erinnerung und Hardware“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-098",
+   "question": "Welche Kosten könnte eine Verbindung von Mnemosyne-Server-Architektur und Landauer-Signatur in Bezug auf „Verbindung von Erinnerung und Hardware“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-099",
+   "question": "Welche ältere Lesart von Mnemosyne-Server-Architektur oder Landauer-Signatur könnte die Gegenüberstellung unter „Verbindung von Erinnerung und Hardware“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-mnemosyne-server-architektur-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Mnemosyne-Server-Architektur und Landauer-Signatur unter „Verbindung von Erinnerung und Hardware“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "mnemosyne-server-architektur",
+    "landauer-signatur"
+   ]
+  }
+ ]
+}

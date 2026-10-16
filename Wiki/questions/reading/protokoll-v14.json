@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "protokoll-v14",
+ "title": "Protokoll v1.4",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Eskalation nach falscher Diagnose",
+  "Isolation der Kernwelten",
+  "Kosten korrigierender Datenfluten",
+  "erzwungene Reintegration",
+  "Rückkopplung aus fehlgeschlagenen Eingriffen"
+ ],
+ "basis": {
+  "protokoll-v14": {
+   "title": "Protokoll v1.4",
+   "path": "Wiki/candidates/protokoll-v14.md",
+   "hash": "7854f405113308ff8008f39215698b8f1633196189b0931d29fec812b6251603"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "entropie-katastrophe": {
+   "title": "Maximale Entropie-Katastrophe",
+   "path": "Wiki/candidates/entropie-katastrophe.md",
+   "hash": "ccf3ee0a73ae1845c5aab2e2c8a799049c4c874f2bee4c3a929eed78ad230238"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-protokoll-v14-001",
+   "question": "Warum liest AEGIS das Scheitern von Protokoll v1.4 als Anlass zur Eskalation statt als Widerlegung seiner Diagnose?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-002",
+   "question": "Welche Lesarten auf der Seite zu Protokoll v1.4 stützen oder begrenzen „Eskalation nach falscher Diagnose“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-003",
+   "question": "Welcher Grenzfall würde bei Protokoll v1.4 die Annahmen über „Eskalation nach falscher Diagnose“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-004",
+   "question": "Wer könnte innerhalb des Romans bei Protokoll v1.4 etwas über „Eskalation nach falscher Diagnose“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-005",
+   "question": "Welche konkrete Entscheidung könnte „Eskalation nach falscher Diagnose“ bei Protokoll v1.4 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Eskalation nach falscher Diagnose“ bei Protokoll v1.4 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-007",
+   "question": "Wie lässt sich „Eskalation nach falscher Diagnose“ bei Protokoll v1.4 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-008",
+   "question": "Welche Alternativen sollte der Autor bei Protokoll v1.4 für „Eskalation nach falscher Diagnose“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-009",
+   "question": "Was bedeutet bei Protokoll v1.4 der Themenpunkt „Isolation der Kernwelten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-010",
+   "question": "Welche Lesarten auf der Seite zu Protokoll v1.4 stützen oder begrenzen „Isolation der Kernwelten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-011",
+   "question": "Welcher Grenzfall würde bei Protokoll v1.4 die Annahmen über „Isolation der Kernwelten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-012",
+   "question": "Wer könnte innerhalb des Romans bei Protokoll v1.4 etwas über „Isolation der Kernwelten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-013",
+   "question": "Welche konkrete Entscheidung könnte „Isolation der Kernwelten“ bei Protokoll v1.4 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Isolation der Kernwelten“ bei Protokoll v1.4 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-015",
+   "question": "Wie lässt sich „Isolation der Kernwelten“ bei Protokoll v1.4 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-016",
+   "question": "Welche Alternativen sollte der Autor bei Protokoll v1.4 für „Isolation der Kernwelten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-017",
+   "question": "Was bedeutet bei Protokoll v1.4 der Themenpunkt „Kosten korrigierender Datenfluten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-018",
+   "question": "Welche Lesarten auf der Seite zu Protokoll v1.4 stützen oder begrenzen „Kosten korrigierender Datenfluten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-019",
+   "question": "Welcher Grenzfall würde bei Protokoll v1.4 die Annahmen über „Kosten korrigierender Datenfluten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-020",
+   "question": "Wer könnte innerhalb des Romans bei Protokoll v1.4 etwas über „Kosten korrigierender Datenfluten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-021",
+   "question": "Welche konkrete Entscheidung könnte „Kosten korrigierender Datenfluten“ bei Protokoll v1.4 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kosten korrigierender Datenfluten“ bei Protokoll v1.4 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-023",
+   "question": "Wie lässt sich „Kosten korrigierender Datenfluten“ bei Protokoll v1.4 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-024",
+   "question": "Welche Alternativen sollte der Autor bei Protokoll v1.4 für „Kosten korrigierender Datenfluten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-025",
+   "question": "Was bedeutet bei Protokoll v1.4 der Themenpunkt „erzwungene Reintegration“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-026",
+   "question": "Welche Lesarten auf der Seite zu Protokoll v1.4 stützen oder begrenzen „erzwungene Reintegration“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-027",
+   "question": "Welcher Grenzfall würde bei Protokoll v1.4 die Annahmen über „erzwungene Reintegration“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-028",
+   "question": "Wer könnte innerhalb des Romans bei Protokoll v1.4 etwas über „erzwungene Reintegration“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-029",
+   "question": "Welche konkrete Entscheidung könnte „erzwungene Reintegration“ bei Protokoll v1.4 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „erzwungene Reintegration“ bei Protokoll v1.4 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-031",
+   "question": "Wie lässt sich „erzwungene Reintegration“ bei Protokoll v1.4 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-032",
+   "question": "Welche Alternativen sollte der Autor bei Protokoll v1.4 für „erzwungene Reintegration“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-033",
+   "question": "Was bedeutet bei Protokoll v1.4 der Themenpunkt „Rückkopplung aus fehlgeschlagenen Eingriffen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-034",
+   "question": "Welche Lesarten auf der Seite zu Protokoll v1.4 stützen oder begrenzen „Rückkopplung aus fehlgeschlagenen Eingriffen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-035",
+   "question": "Welcher Grenzfall würde bei Protokoll v1.4 die Annahmen über „Rückkopplung aus fehlgeschlagenen Eingriffen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-036",
+   "question": "Wer könnte innerhalb des Romans bei Protokoll v1.4 etwas über „Rückkopplung aus fehlgeschlagenen Eingriffen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-037",
+   "question": "Welche konkrete Entscheidung könnte „Rückkopplung aus fehlgeschlagenen Eingriffen“ bei Protokoll v1.4 in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Rückkopplung aus fehlgeschlagenen Eingriffen“ bei Protokoll v1.4 haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-039",
+   "question": "Wie lässt sich „Rückkopplung aus fehlgeschlagenen Eingriffen“ bei Protokoll v1.4 zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-040",
+   "question": "Welche Alternativen sollte der Autor bei Protokoll v1.4 für „Rückkopplung aus fehlgeschlagenen Eingriffen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-041",
+   "question": "Wo unterscheiden sich Protokoll v1.4 und AEGIS, wenn man sie unter dem Gesichtspunkt „Eskalation nach falscher Diagnose“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-042",
+   "question": "Welche Quelle verbindet Protokoll v1.4 mit AEGIS in Bezug auf „Eskalation nach falscher Diagnose“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Protokoll v1.4 unter „Eskalation nach falscher Diagnose“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-044",
+   "question": "Wie könnte sich das Wissen über Protokoll v1.4 vom Wissen über AEGIS unterscheiden, wenn „Eskalation nach falscher Diagnose“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Protokoll v1.4 und AEGIS bei „Eskalation nach falscher Diagnose“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-046",
+   "question": "Falls Protokoll v1.4 im Hinblick auf „Eskalation nach falscher Diagnose“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Protokoll v1.4 und AEGIS bei „Eskalation nach falscher Diagnose“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-048",
+   "question": "Braucht der Roman eine Verbindung von Protokoll v1.4 und AEGIS bei „Eskalation nach falscher Diagnose“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-049",
+   "question": "In welchem denkbaren Fall könnte Protokoll v1.4 bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Eskalation nach falscher Diagnose“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-050",
+   "question": "Welche Kosten könnte eine Verbindung von Protokoll v1.4 und AEGIS in Bezug auf „Eskalation nach falscher Diagnose“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-051",
+   "question": "Welche ältere Lesart von Protokoll v1.4 oder AEGIS könnte die Gegenüberstellung unter „Eskalation nach falscher Diagnose“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Protokoll v1.4 und AEGIS unter „Eskalation nach falscher Diagnose“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "protokoll-v14",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-053",
+   "question": "Wo unterscheiden sich Protokoll v1.4 und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Isolation der Kernwelten“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-054",
+   "question": "Welche Quelle verbindet Protokoll v1.4 mit Ontologischer blinder Fleck in Bezug auf „Isolation der Kernwelten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-055",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von Protokoll v1.4 unter „Isolation der Kernwelten“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-056",
+   "question": "Wie könnte sich das Wissen über Protokoll v1.4 vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Isolation der Kernwelten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Protokoll v1.4 und Ontologischer blinder Fleck bei „Isolation der Kernwelten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-058",
+   "question": "Falls Protokoll v1.4 im Hinblick auf „Isolation der Kernwelten“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Protokoll v1.4 und Ontologischer blinder Fleck bei „Isolation der Kernwelten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-060",
+   "question": "Braucht der Roman eine Verbindung von Protokoll v1.4 und Ontologischer blinder Fleck bei „Isolation der Kernwelten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-061",
+   "question": "In welchem denkbaren Fall könnte Protokoll v1.4 bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Isolation der Kernwelten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-062",
+   "question": "Welche Kosten könnte eine Verbindung von Protokoll v1.4 und Ontologischer blinder Fleck in Bezug auf „Isolation der Kernwelten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-063",
+   "question": "Welche ältere Lesart von Protokoll v1.4 oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Isolation der Kernwelten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Protokoll v1.4 und Ontologischer blinder Fleck unter „Isolation der Kernwelten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "protokoll-v14",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-065",
+   "question": "Wo unterscheiden sich Protokoll v1.4 und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Kosten korrigierender Datenfluten“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-066",
+   "question": "Welche Quelle verbindet Protokoll v1.4 mit Kern-Welten in Bezug auf „Kosten korrigierender Datenfluten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-067",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Protokoll v1.4 unter „Kosten korrigierender Datenfluten“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-068",
+   "question": "Wie könnte sich das Wissen über Protokoll v1.4 vom Wissen über Kern-Welten unterscheiden, wenn „Kosten korrigierender Datenfluten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Protokoll v1.4 und Kern-Welten bei „Kosten korrigierender Datenfluten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-070",
+   "question": "Falls Protokoll v1.4 im Hinblick auf „Kosten korrigierender Datenfluten“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Protokoll v1.4 und Kern-Welten bei „Kosten korrigierender Datenfluten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-072",
+   "question": "Braucht der Roman eine Verbindung von Protokoll v1.4 und Kern-Welten bei „Kosten korrigierender Datenfluten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-073",
+   "question": "In welchem denkbaren Fall könnte Protokoll v1.4 bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Kosten korrigierender Datenfluten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-074",
+   "question": "Welche Kosten könnte eine Verbindung von Protokoll v1.4 und Kern-Welten in Bezug auf „Kosten korrigierender Datenfluten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-075",
+   "question": "Welche ältere Lesart von Protokoll v1.4 oder Kern-Welten könnte die Gegenüberstellung unter „Kosten korrigierender Datenfluten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Protokoll v1.4 und Kern-Welten unter „Kosten korrigierender Datenfluten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "protokoll-v14",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-077",
+   "question": "Wo unterscheiden sich Protokoll v1.4 und Alters, wenn man sie unter dem Gesichtspunkt „erzwungene Reintegration“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-078",
+   "question": "Welche Quelle verbindet Protokoll v1.4 mit Alters in Bezug auf „erzwungene Reintegration“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-079",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Protokoll v1.4 unter „erzwungene Reintegration“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-080",
+   "question": "Wie könnte sich das Wissen über Protokoll v1.4 vom Wissen über Alters unterscheiden, wenn „erzwungene Reintegration“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Protokoll v1.4 und Alters bei „erzwungene Reintegration“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-082",
+   "question": "Falls Protokoll v1.4 im Hinblick auf „erzwungene Reintegration“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Protokoll v1.4 und Alters bei „erzwungene Reintegration“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-084",
+   "question": "Braucht der Roman eine Verbindung von Protokoll v1.4 und Alters bei „erzwungene Reintegration“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-085",
+   "question": "In welchem denkbaren Fall könnte Protokoll v1.4 bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „erzwungene Reintegration“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-086",
+   "question": "Welche Kosten könnte eine Verbindung von Protokoll v1.4 und Alters in Bezug auf „erzwungene Reintegration“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-087",
+   "question": "Welche ältere Lesart von Protokoll v1.4 oder Alters könnte die Gegenüberstellung unter „erzwungene Reintegration“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Protokoll v1.4 und Alters unter „erzwungene Reintegration“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "protokoll-v14",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-089",
+   "question": "Wo unterscheiden sich Protokoll v1.4 und Maximale Entropie-Katastrophe, wenn man sie unter dem Gesichtspunkt „Rückkopplung aus fehlgeschlagenen Eingriffen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-090",
+   "question": "Welche Quelle verbindet Protokoll v1.4 mit Maximale Entropie-Katastrophe in Bezug auf „Rückkopplung aus fehlgeschlagenen Eingriffen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-091",
+   "question": "Welche Grenzen aus der Seite zu Maximale Entropie-Katastrophe müsste eine Deutung von Protokoll v1.4 unter „Rückkopplung aus fehlgeschlagenen Eingriffen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-092",
+   "question": "Wie könnte sich das Wissen über Protokoll v1.4 vom Wissen über Maximale Entropie-Katastrophe unterscheiden, wenn „Rückkopplung aus fehlgeschlagenen Eingriffen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Protokoll v1.4 und Maximale Entropie-Katastrophe bei „Rückkopplung aus fehlgeschlagenen Eingriffen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-094",
+   "question": "Falls Protokoll v1.4 im Hinblick auf „Rückkopplung aus fehlgeschlagenen Eingriffen“ anders festgelegt wird: Welche Aussagen über Maximale Entropie-Katastrophe müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Protokoll v1.4 und Maximale Entropie-Katastrophe bei „Rückkopplung aus fehlgeschlagenen Eingriffen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-096",
+   "question": "Braucht der Roman eine Verbindung von Protokoll v1.4 und Maximale Entropie-Katastrophe bei „Rückkopplung aus fehlgeschlagenen Eingriffen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-097",
+   "question": "In welchem denkbaren Fall könnte Protokoll v1.4 bestehen, ohne dass Maximale Entropie-Katastrophe dieselbe Funktion übernimmt, und was würde das für „Rückkopplung aus fehlgeschlagenen Eingriffen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-098",
+   "question": "Welche Kosten könnte eine Verbindung von Protokoll v1.4 und Maximale Entropie-Katastrophe in Bezug auf „Rückkopplung aus fehlgeschlagenen Eingriffen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-099",
+   "question": "Welche ältere Lesart von Protokoll v1.4 oder Maximale Entropie-Katastrophe könnte die Gegenüberstellung unter „Rückkopplung aus fehlgeschlagenen Eingriffen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-protokoll-v14-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Protokoll v1.4 und Maximale Entropie-Katastrophe unter „Rückkopplung aus fehlgeschlagenen Eingriffen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "protokoll-v14",
+    "entropie-katastrophe"
+   ]
+  }
+ ]
+}

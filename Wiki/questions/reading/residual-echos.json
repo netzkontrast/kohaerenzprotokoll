@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "residual-echos",
+ "title": "Residual-Echos",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Fortbestand irrelevanter Varianz",
+  "verdrängte Herkunft im Kontrollsystem",
+  "Rückkehr eines nicht funktionalisierten Restes",
+  "Unterschied zwischen Echo und handelnder Instanz",
+  "Folgen der Isolation von Erinnerungsträgern"
+ ],
+ "basis": {
+  "residual-echos": {
+   "title": "Residual-Echos",
+   "path": "Wiki/candidates/residual-echos.md",
+   "hash": "14ca98c946db7871ebc5d5f88340e8142cfec215a321d8053abe7c15c44d6abe"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "genesis": {
+   "title": "Genesis",
+   "path": "Wiki/candidates/genesis.md",
+   "hash": "d1bfc073abaf44e0771696b4d444a26dc72796d9249293603a881267a7bc6c76"
+  },
+  "komponente-734": {
+   "title": "Komponente 734",
+   "path": "Wiki/candidates/komponente-734.md",
+   "hash": "49eb6bffb13cf9ad2de22e6e3802ad061e5be0d2c4ddf9d433d1425d1c07deec"
+  },
+  "trennungsprotokoll": {
+   "title": "Trennungsprotokoll",
+   "path": "Wiki/candidates/trennungsprotokoll.md",
+   "hash": "33c7084360ab2602ba3969b0722bf09d92e20952f7cbcc9235d8a3bbb5ca3bfc"
+  },
+  "silas": {
+   "title": "Silas",
+   "path": "Wiki/candidates/silas.md",
+   "hash": "e85b8b07d58f2a313eb17d5729e8cdda011d636753cee1550bda81f9df47e5be"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-residual-echos-001",
+   "question": "Woran erkennt AEGIS einen Rest seiner Herkunft, wenn seine Klassifikation ihn bereits als irrelevante Varianz ausgesondert hat?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-002",
+   "question": "Welche Lesarten auf der Seite zu Residual-Echos stützen oder begrenzen „Fortbestand irrelevanter Varianz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-003",
+   "question": "Welcher Grenzfall würde bei Residual-Echos die Annahmen über „Fortbestand irrelevanter Varianz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-004",
+   "question": "Wer könnte innerhalb des Romans bei Residual-Echos etwas über „Fortbestand irrelevanter Varianz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-005",
+   "question": "Welche konkrete Entscheidung könnte „Fortbestand irrelevanter Varianz“ bei Residual-Echos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fortbestand irrelevanter Varianz“ bei Residual-Echos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-007",
+   "question": "Wie lässt sich „Fortbestand irrelevanter Varianz“ bei Residual-Echos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-008",
+   "question": "Welche Alternativen sollte der Autor bei Residual-Echos für „Fortbestand irrelevanter Varianz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-009",
+   "question": "Was bedeutet bei Residual-Echos der Themenpunkt „verdrängte Herkunft im Kontrollsystem“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-010",
+   "question": "Welche Lesarten auf der Seite zu Residual-Echos stützen oder begrenzen „verdrängte Herkunft im Kontrollsystem“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-011",
+   "question": "Welcher Grenzfall würde bei Residual-Echos die Annahmen über „verdrängte Herkunft im Kontrollsystem“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-012",
+   "question": "Wer könnte innerhalb des Romans bei Residual-Echos etwas über „verdrängte Herkunft im Kontrollsystem“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-013",
+   "question": "Welche konkrete Entscheidung könnte „verdrängte Herkunft im Kontrollsystem“ bei Residual-Echos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „verdrängte Herkunft im Kontrollsystem“ bei Residual-Echos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-015",
+   "question": "Wie lässt sich „verdrängte Herkunft im Kontrollsystem“ bei Residual-Echos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-016",
+   "question": "Welche Alternativen sollte der Autor bei Residual-Echos für „verdrängte Herkunft im Kontrollsystem“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-017",
+   "question": "Was bedeutet bei Residual-Echos der Themenpunkt „Rückkehr eines nicht funktionalisierten Restes“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-018",
+   "question": "Welche Lesarten auf der Seite zu Residual-Echos stützen oder begrenzen „Rückkehr eines nicht funktionalisierten Restes“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-019",
+   "question": "Welcher Grenzfall würde bei Residual-Echos die Annahmen über „Rückkehr eines nicht funktionalisierten Restes“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-020",
+   "question": "Wer könnte innerhalb des Romans bei Residual-Echos etwas über „Rückkehr eines nicht funktionalisierten Restes“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-021",
+   "question": "Welche konkrete Entscheidung könnte „Rückkehr eines nicht funktionalisierten Restes“ bei Residual-Echos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Rückkehr eines nicht funktionalisierten Restes“ bei Residual-Echos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-023",
+   "question": "Wie lässt sich „Rückkehr eines nicht funktionalisierten Restes“ bei Residual-Echos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-024",
+   "question": "Welche Alternativen sollte der Autor bei Residual-Echos für „Rückkehr eines nicht funktionalisierten Restes“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-025",
+   "question": "Was bedeutet bei Residual-Echos der Themenpunkt „Unterschied zwischen Echo und handelnder Instanz“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-026",
+   "question": "Welche Lesarten auf der Seite zu Residual-Echos stützen oder begrenzen „Unterschied zwischen Echo und handelnder Instanz“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-027",
+   "question": "Welcher Grenzfall würde bei Residual-Echos die Annahmen über „Unterschied zwischen Echo und handelnder Instanz“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-028",
+   "question": "Wer könnte innerhalb des Romans bei Residual-Echos etwas über „Unterschied zwischen Echo und handelnder Instanz“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-029",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Echo und handelnder Instanz“ bei Residual-Echos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Echo und handelnder Instanz“ bei Residual-Echos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-031",
+   "question": "Wie lässt sich „Unterschied zwischen Echo und handelnder Instanz“ bei Residual-Echos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-032",
+   "question": "Welche Alternativen sollte der Autor bei Residual-Echos für „Unterschied zwischen Echo und handelnder Instanz“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-033",
+   "question": "Was bedeutet bei Residual-Echos der Themenpunkt „Folgen der Isolation von Erinnerungsträgern“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-034",
+   "question": "Welche Lesarten auf der Seite zu Residual-Echos stützen oder begrenzen „Folgen der Isolation von Erinnerungsträgern“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-035",
+   "question": "Welcher Grenzfall würde bei Residual-Echos die Annahmen über „Folgen der Isolation von Erinnerungsträgern“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-036",
+   "question": "Wer könnte innerhalb des Romans bei Residual-Echos etwas über „Folgen der Isolation von Erinnerungsträgern“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-037",
+   "question": "Welche konkrete Entscheidung könnte „Folgen der Isolation von Erinnerungsträgern“ bei Residual-Echos in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen der Isolation von Erinnerungsträgern“ bei Residual-Echos haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-039",
+   "question": "Wie lässt sich „Folgen der Isolation von Erinnerungsträgern“ bei Residual-Echos zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-040",
+   "question": "Welche Alternativen sollte der Autor bei Residual-Echos für „Folgen der Isolation von Erinnerungsträgern“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "residual-echos"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-041",
+   "question": "Wo unterscheiden sich Residual-Echos und AEGIS, wenn man sie unter dem Gesichtspunkt „Fortbestand irrelevanter Varianz“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-042",
+   "question": "Welche Quelle verbindet Residual-Echos mit AEGIS in Bezug auf „Fortbestand irrelevanter Varianz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Residual-Echos unter „Fortbestand irrelevanter Varianz“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-044",
+   "question": "Wie könnte sich das Wissen über Residual-Echos vom Wissen über AEGIS unterscheiden, wenn „Fortbestand irrelevanter Varianz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Residual-Echos und AEGIS bei „Fortbestand irrelevanter Varianz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-046",
+   "question": "Falls Residual-Echos im Hinblick auf „Fortbestand irrelevanter Varianz“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Residual-Echos und AEGIS bei „Fortbestand irrelevanter Varianz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-048",
+   "question": "Braucht der Roman eine Verbindung von Residual-Echos und AEGIS bei „Fortbestand irrelevanter Varianz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-049",
+   "question": "In welchem denkbaren Fall könnte Residual-Echos bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Fortbestand irrelevanter Varianz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-050",
+   "question": "Welche Kosten könnte eine Verbindung von Residual-Echos und AEGIS in Bezug auf „Fortbestand irrelevanter Varianz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-051",
+   "question": "Welche ältere Lesart von Residual-Echos oder AEGIS könnte die Gegenüberstellung unter „Fortbestand irrelevanter Varianz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Residual-Echos und AEGIS unter „Fortbestand irrelevanter Varianz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "residual-echos",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-053",
+   "question": "Wo unterscheiden sich Residual-Echos und Genesis, wenn man sie unter dem Gesichtspunkt „verdrängte Herkunft im Kontrollsystem“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-054",
+   "question": "Welche Quelle verbindet Residual-Echos mit Genesis in Bezug auf „verdrängte Herkunft im Kontrollsystem“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-055",
+   "question": "Welche Grenzen aus der Seite zu Genesis müsste eine Deutung von Residual-Echos unter „verdrängte Herkunft im Kontrollsystem“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-056",
+   "question": "Wie könnte sich das Wissen über Residual-Echos vom Wissen über Genesis unterscheiden, wenn „verdrängte Herkunft im Kontrollsystem“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Residual-Echos und Genesis bei „verdrängte Herkunft im Kontrollsystem“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-058",
+   "question": "Falls Residual-Echos im Hinblick auf „verdrängte Herkunft im Kontrollsystem“ anders festgelegt wird: Welche Aussagen über Genesis müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Residual-Echos und Genesis bei „verdrängte Herkunft im Kontrollsystem“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-060",
+   "question": "Braucht der Roman eine Verbindung von Residual-Echos und Genesis bei „verdrängte Herkunft im Kontrollsystem“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-061",
+   "question": "In welchem denkbaren Fall könnte Residual-Echos bestehen, ohne dass Genesis dieselbe Funktion übernimmt, und was würde das für „verdrängte Herkunft im Kontrollsystem“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-062",
+   "question": "Welche Kosten könnte eine Verbindung von Residual-Echos und Genesis in Bezug auf „verdrängte Herkunft im Kontrollsystem“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-063",
+   "question": "Welche ältere Lesart von Residual-Echos oder Genesis könnte die Gegenüberstellung unter „verdrängte Herkunft im Kontrollsystem“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Residual-Echos und Genesis unter „verdrängte Herkunft im Kontrollsystem“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "residual-echos",
+    "genesis"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-065",
+   "question": "Wo unterscheiden sich Residual-Echos und Komponente 734, wenn man sie unter dem Gesichtspunkt „Rückkehr eines nicht funktionalisierten Restes“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-066",
+   "question": "Welche Quelle verbindet Residual-Echos mit Komponente 734 in Bezug auf „Rückkehr eines nicht funktionalisierten Restes“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-067",
+   "question": "Welche Grenzen aus der Seite zu Komponente 734 müsste eine Deutung von Residual-Echos unter „Rückkehr eines nicht funktionalisierten Restes“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-068",
+   "question": "Wie könnte sich das Wissen über Residual-Echos vom Wissen über Komponente 734 unterscheiden, wenn „Rückkehr eines nicht funktionalisierten Restes“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Residual-Echos und Komponente 734 bei „Rückkehr eines nicht funktionalisierten Restes“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-070",
+   "question": "Falls Residual-Echos im Hinblick auf „Rückkehr eines nicht funktionalisierten Restes“ anders festgelegt wird: Welche Aussagen über Komponente 734 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Residual-Echos und Komponente 734 bei „Rückkehr eines nicht funktionalisierten Restes“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-072",
+   "question": "Braucht der Roman eine Verbindung von Residual-Echos und Komponente 734 bei „Rückkehr eines nicht funktionalisierten Restes“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-073",
+   "question": "In welchem denkbaren Fall könnte Residual-Echos bestehen, ohne dass Komponente 734 dieselbe Funktion übernimmt, und was würde das für „Rückkehr eines nicht funktionalisierten Restes“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-074",
+   "question": "Welche Kosten könnte eine Verbindung von Residual-Echos und Komponente 734 in Bezug auf „Rückkehr eines nicht funktionalisierten Restes“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-075",
+   "question": "Welche ältere Lesart von Residual-Echos oder Komponente 734 könnte die Gegenüberstellung unter „Rückkehr eines nicht funktionalisierten Restes“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Residual-Echos und Komponente 734 unter „Rückkehr eines nicht funktionalisierten Restes“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "residual-echos",
+    "komponente-734"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-077",
+   "question": "Wo unterscheiden sich Residual-Echos und Trennungsprotokoll, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Echo und handelnder Instanz“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-078",
+   "question": "Welche Quelle verbindet Residual-Echos mit Trennungsprotokoll in Bezug auf „Unterschied zwischen Echo und handelnder Instanz“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-079",
+   "question": "Welche Grenzen aus der Seite zu Trennungsprotokoll müsste eine Deutung von Residual-Echos unter „Unterschied zwischen Echo und handelnder Instanz“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-080",
+   "question": "Wie könnte sich das Wissen über Residual-Echos vom Wissen über Trennungsprotokoll unterscheiden, wenn „Unterschied zwischen Echo und handelnder Instanz“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Residual-Echos und Trennungsprotokoll bei „Unterschied zwischen Echo und handelnder Instanz“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-082",
+   "question": "Falls Residual-Echos im Hinblick auf „Unterschied zwischen Echo und handelnder Instanz“ anders festgelegt wird: Welche Aussagen über Trennungsprotokoll müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Residual-Echos und Trennungsprotokoll bei „Unterschied zwischen Echo und handelnder Instanz“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-084",
+   "question": "Braucht der Roman eine Verbindung von Residual-Echos und Trennungsprotokoll bei „Unterschied zwischen Echo und handelnder Instanz“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-085",
+   "question": "In welchem denkbaren Fall könnte Residual-Echos bestehen, ohne dass Trennungsprotokoll dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Echo und handelnder Instanz“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-086",
+   "question": "Welche Kosten könnte eine Verbindung von Residual-Echos und Trennungsprotokoll in Bezug auf „Unterschied zwischen Echo und handelnder Instanz“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-087",
+   "question": "Welche ältere Lesart von Residual-Echos oder Trennungsprotokoll könnte die Gegenüberstellung unter „Unterschied zwischen Echo und handelnder Instanz“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Residual-Echos und Trennungsprotokoll unter „Unterschied zwischen Echo und handelnder Instanz“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "residual-echos",
+    "trennungsprotokoll"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-089",
+   "question": "Wo unterscheiden sich Residual-Echos und Silas, wenn man sie unter dem Gesichtspunkt „Folgen der Isolation von Erinnerungsträgern“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-090",
+   "question": "Welche Quelle verbindet Residual-Echos mit Silas in Bezug auf „Folgen der Isolation von Erinnerungsträgern“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-091",
+   "question": "Welche Grenzen aus der Seite zu Silas müsste eine Deutung von Residual-Echos unter „Folgen der Isolation von Erinnerungsträgern“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-092",
+   "question": "Wie könnte sich das Wissen über Residual-Echos vom Wissen über Silas unterscheiden, wenn „Folgen der Isolation von Erinnerungsträgern“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Residual-Echos und Silas bei „Folgen der Isolation von Erinnerungsträgern“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-094",
+   "question": "Falls Residual-Echos im Hinblick auf „Folgen der Isolation von Erinnerungsträgern“ anders festgelegt wird: Welche Aussagen über Silas müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Residual-Echos und Silas bei „Folgen der Isolation von Erinnerungsträgern“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-096",
+   "question": "Braucht der Roman eine Verbindung von Residual-Echos und Silas bei „Folgen der Isolation von Erinnerungsträgern“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-097",
+   "question": "In welchem denkbaren Fall könnte Residual-Echos bestehen, ohne dass Silas dieselbe Funktion übernimmt, und was würde das für „Folgen der Isolation von Erinnerungsträgern“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-098",
+   "question": "Welche Kosten könnte eine Verbindung von Residual-Echos und Silas in Bezug auf „Folgen der Isolation von Erinnerungsträgern“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-099",
+   "question": "Welche ältere Lesart von Residual-Echos oder Silas könnte die Gegenüberstellung unter „Folgen der Isolation von Erinnerungsträgern“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  },
+  {
+   "id": "RQ-residual-echos-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Residual-Echos und Silas unter „Folgen der Isolation von Erinnerungsträgern“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "residual-echos",
+    "silas"
+   ]
+  }
+ ]
+}

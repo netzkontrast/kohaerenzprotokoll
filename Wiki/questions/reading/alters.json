@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "alters",
+ "title": "Alters",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "wechselnde Figurenanzahl",
+  "Unterscheidbarkeit innerer Stimmen",
+  "Kommunikation trotz Amnesie",
+  "Handeln ohne diagnostische Etiketten",
+  "Integration ohne Auslöschung"
+ ],
+ "basis": {
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "did": {
+   "title": "DID — dissoziative Identitätsstruktur",
+   "path": "Wiki/candidates/did.md",
+   "hash": "3e4dbef89c60c8206972740f586bc1cab3ab4d96d5e71074e213f334b6b879a7"
+  },
+  "tsdp": {
+   "title": "TSDP",
+   "path": "Wiki/candidates/tsdp.md",
+   "hash": "43783df592c9290fb9821607ecd80eedfa62363f64b1c90c73ccefe91c4ee0ac"
+  },
+  "personas": {
+   "title": "Personas",
+   "path": "Wiki/candidates/personas.md",
+   "hash": "20409819c088b8262ce1049d3e4058e89825fd5e5e3f6d022a52af01c15956b8"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-alters-001",
+   "question": "Welche Unterschiede zwischen den wechselnden Alter-Listen sind ältere Planung, und welche verändern die heutige Figurenführung?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-002",
+   "question": "Welche Lesarten auf der Seite zu Alters stützen oder begrenzen „wechselnde Figurenanzahl“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-003",
+   "question": "Welcher Grenzfall würde bei Alters die Annahmen über „wechselnde Figurenanzahl“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-004",
+   "question": "Wer könnte innerhalb des Romans bei Alters etwas über „wechselnde Figurenanzahl“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-005",
+   "question": "Welche konkrete Entscheidung könnte „wechselnde Figurenanzahl“ bei Alters in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „wechselnde Figurenanzahl“ bei Alters haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-007",
+   "question": "Wie lässt sich „wechselnde Figurenanzahl“ bei Alters zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-008",
+   "question": "Welche Alternativen sollte der Autor bei Alters für „wechselnde Figurenanzahl“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-009",
+   "question": "Was bedeutet bei Alters der Themenpunkt „Unterscheidbarkeit innerer Stimmen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-010",
+   "question": "Welche Lesarten auf der Seite zu Alters stützen oder begrenzen „Unterscheidbarkeit innerer Stimmen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-011",
+   "question": "Welcher Grenzfall würde bei Alters die Annahmen über „Unterscheidbarkeit innerer Stimmen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-012",
+   "question": "Wer könnte innerhalb des Romans bei Alters etwas über „Unterscheidbarkeit innerer Stimmen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterscheidbarkeit innerer Stimmen“ bei Alters in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterscheidbarkeit innerer Stimmen“ bei Alters haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-015",
+   "question": "Wie lässt sich „Unterscheidbarkeit innerer Stimmen“ bei Alters zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-016",
+   "question": "Welche Alternativen sollte der Autor bei Alters für „Unterscheidbarkeit innerer Stimmen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-017",
+   "question": "Was bedeutet bei Alters der Themenpunkt „Kommunikation trotz Amnesie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-018",
+   "question": "Welche Lesarten auf der Seite zu Alters stützen oder begrenzen „Kommunikation trotz Amnesie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-019",
+   "question": "Welcher Grenzfall würde bei Alters die Annahmen über „Kommunikation trotz Amnesie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-020",
+   "question": "Wer könnte innerhalb des Romans bei Alters etwas über „Kommunikation trotz Amnesie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-021",
+   "question": "Welche konkrete Entscheidung könnte „Kommunikation trotz Amnesie“ bei Alters in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kommunikation trotz Amnesie“ bei Alters haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-023",
+   "question": "Wie lässt sich „Kommunikation trotz Amnesie“ bei Alters zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-024",
+   "question": "Welche Alternativen sollte der Autor bei Alters für „Kommunikation trotz Amnesie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-025",
+   "question": "Was bedeutet bei Alters der Themenpunkt „Handeln ohne diagnostische Etiketten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-026",
+   "question": "Welche Lesarten auf der Seite zu Alters stützen oder begrenzen „Handeln ohne diagnostische Etiketten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-027",
+   "question": "Welcher Grenzfall würde bei Alters die Annahmen über „Handeln ohne diagnostische Etiketten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-028",
+   "question": "Wer könnte innerhalb des Romans bei Alters etwas über „Handeln ohne diagnostische Etiketten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-029",
+   "question": "Welche konkrete Entscheidung könnte „Handeln ohne diagnostische Etiketten“ bei Alters in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handeln ohne diagnostische Etiketten“ bei Alters haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-031",
+   "question": "Wie lässt sich „Handeln ohne diagnostische Etiketten“ bei Alters zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-032",
+   "question": "Welche Alternativen sollte der Autor bei Alters für „Handeln ohne diagnostische Etiketten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-033",
+   "question": "Was bedeutet bei Alters der Themenpunkt „Integration ohne Auslöschung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-034",
+   "question": "Welche Lesarten auf der Seite zu Alters stützen oder begrenzen „Integration ohne Auslöschung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-035",
+   "question": "Welcher Grenzfall würde bei Alters die Annahmen über „Integration ohne Auslöschung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-036",
+   "question": "Wer könnte innerhalb des Romans bei Alters etwas über „Integration ohne Auslöschung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-037",
+   "question": "Welche konkrete Entscheidung könnte „Integration ohne Auslöschung“ bei Alters in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Integration ohne Auslöschung“ bei Alters haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-039",
+   "question": "Wie lässt sich „Integration ohne Auslöschung“ bei Alters zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-040",
+   "question": "Welche Alternativen sollte der Autor bei Alters für „Integration ohne Auslöschung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-alters-041",
+   "question": "Wo unterscheiden sich Alters und DID — dissoziative Identitätsstruktur, wenn man sie unter dem Gesichtspunkt „wechselnde Figurenanzahl“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-042",
+   "question": "Welche Quelle verbindet Alters mit DID — dissoziative Identitätsstruktur in Bezug auf „wechselnde Figurenanzahl“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-043",
+   "question": "Welche Grenzen aus der Seite zu DID — dissoziative Identitätsstruktur müsste eine Deutung von Alters unter „wechselnde Figurenanzahl“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-044",
+   "question": "Wie könnte sich das Wissen über Alters vom Wissen über DID — dissoziative Identitätsstruktur unterscheiden, wenn „wechselnde Figurenanzahl“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alters und DID — dissoziative Identitätsstruktur bei „wechselnde Figurenanzahl“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-046",
+   "question": "Falls Alters im Hinblick auf „wechselnde Figurenanzahl“ anders festgelegt wird: Welche Aussagen über DID — dissoziative Identitätsstruktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alters und DID — dissoziative Identitätsstruktur bei „wechselnde Figurenanzahl“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-048",
+   "question": "Braucht der Roman eine Verbindung von Alters und DID — dissoziative Identitätsstruktur bei „wechselnde Figurenanzahl“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-049",
+   "question": "In welchem denkbaren Fall könnte Alters bestehen, ohne dass DID — dissoziative Identitätsstruktur dieselbe Funktion übernimmt, und was würde das für „wechselnde Figurenanzahl“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-050",
+   "question": "Welche Kosten könnte eine Verbindung von Alters und DID — dissoziative Identitätsstruktur in Bezug auf „wechselnde Figurenanzahl“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-051",
+   "question": "Welche ältere Lesart von Alters oder DID — dissoziative Identitätsstruktur könnte die Gegenüberstellung unter „wechselnde Figurenanzahl“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alters und DID — dissoziative Identitätsstruktur unter „wechselnde Figurenanzahl“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "alters",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-alters-053",
+   "question": "Wo unterscheiden sich Alters und TSDP, wenn man sie unter dem Gesichtspunkt „Unterscheidbarkeit innerer Stimmen“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-054",
+   "question": "Welche Quelle verbindet Alters mit TSDP in Bezug auf „Unterscheidbarkeit innerer Stimmen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-055",
+   "question": "Welche Grenzen aus der Seite zu TSDP müsste eine Deutung von Alters unter „Unterscheidbarkeit innerer Stimmen“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-056",
+   "question": "Wie könnte sich das Wissen über Alters vom Wissen über TSDP unterscheiden, wenn „Unterscheidbarkeit innerer Stimmen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alters und TSDP bei „Unterscheidbarkeit innerer Stimmen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-058",
+   "question": "Falls Alters im Hinblick auf „Unterscheidbarkeit innerer Stimmen“ anders festgelegt wird: Welche Aussagen über TSDP müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alters und TSDP bei „Unterscheidbarkeit innerer Stimmen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-060",
+   "question": "Braucht der Roman eine Verbindung von Alters und TSDP bei „Unterscheidbarkeit innerer Stimmen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-061",
+   "question": "In welchem denkbaren Fall könnte Alters bestehen, ohne dass TSDP dieselbe Funktion übernimmt, und was würde das für „Unterscheidbarkeit innerer Stimmen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-062",
+   "question": "Welche Kosten könnte eine Verbindung von Alters und TSDP in Bezug auf „Unterscheidbarkeit innerer Stimmen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-063",
+   "question": "Welche ältere Lesart von Alters oder TSDP könnte die Gegenüberstellung unter „Unterscheidbarkeit innerer Stimmen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alters und TSDP unter „Unterscheidbarkeit innerer Stimmen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "alters",
+    "tsdp"
+   ]
+  },
+  {
+   "id": "RQ-alters-065",
+   "question": "Wo unterscheiden sich Alters und Personas, wenn man sie unter dem Gesichtspunkt „Kommunikation trotz Amnesie“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-066",
+   "question": "Welche Quelle verbindet Alters mit Personas in Bezug auf „Kommunikation trotz Amnesie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-067",
+   "question": "Welche Grenzen aus der Seite zu Personas müsste eine Deutung von Alters unter „Kommunikation trotz Amnesie“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-068",
+   "question": "Wie könnte sich das Wissen über Alters vom Wissen über Personas unterscheiden, wenn „Kommunikation trotz Amnesie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alters und Personas bei „Kommunikation trotz Amnesie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-070",
+   "question": "Falls Alters im Hinblick auf „Kommunikation trotz Amnesie“ anders festgelegt wird: Welche Aussagen über Personas müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alters und Personas bei „Kommunikation trotz Amnesie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-072",
+   "question": "Braucht der Roman eine Verbindung von Alters und Personas bei „Kommunikation trotz Amnesie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-073",
+   "question": "In welchem denkbaren Fall könnte Alters bestehen, ohne dass Personas dieselbe Funktion übernimmt, und was würde das für „Kommunikation trotz Amnesie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-074",
+   "question": "Welche Kosten könnte eine Verbindung von Alters und Personas in Bezug auf „Kommunikation trotz Amnesie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-075",
+   "question": "Welche ältere Lesart von Alters oder Personas könnte die Gegenüberstellung unter „Kommunikation trotz Amnesie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alters und Personas unter „Kommunikation trotz Amnesie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "alters",
+    "personas"
+   ]
+  },
+  {
+   "id": "RQ-alters-077",
+   "question": "Wo unterscheiden sich Alters und Multiplizität, wenn man sie unter dem Gesichtspunkt „Handeln ohne diagnostische Etiketten“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-078",
+   "question": "Welche Quelle verbindet Alters mit Multiplizität in Bezug auf „Handeln ohne diagnostische Etiketten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-079",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Alters unter „Handeln ohne diagnostische Etiketten“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-080",
+   "question": "Wie könnte sich das Wissen über Alters vom Wissen über Multiplizität unterscheiden, wenn „Handeln ohne diagnostische Etiketten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alters und Multiplizität bei „Handeln ohne diagnostische Etiketten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-082",
+   "question": "Falls Alters im Hinblick auf „Handeln ohne diagnostische Etiketten“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alters und Multiplizität bei „Handeln ohne diagnostische Etiketten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-084",
+   "question": "Braucht der Roman eine Verbindung von Alters und Multiplizität bei „Handeln ohne diagnostische Etiketten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-085",
+   "question": "In welchem denkbaren Fall könnte Alters bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Handeln ohne diagnostische Etiketten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-086",
+   "question": "Welche Kosten könnte eine Verbindung von Alters und Multiplizität in Bezug auf „Handeln ohne diagnostische Etiketten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-087",
+   "question": "Welche ältere Lesart von Alters oder Multiplizität könnte die Gegenüberstellung unter „Handeln ohne diagnostische Etiketten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alters und Multiplizität unter „Handeln ohne diagnostische Etiketten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "alters",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-alters-089",
+   "question": "Wo unterscheiden sich Alters und Kael, wenn man sie unter dem Gesichtspunkt „Integration ohne Auslöschung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-090",
+   "question": "Welche Quelle verbindet Alters mit Kael in Bezug auf „Integration ohne Auslöschung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-091",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Alters unter „Integration ohne Auslöschung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-092",
+   "question": "Wie könnte sich das Wissen über Alters vom Wissen über Kael unterscheiden, wenn „Integration ohne Auslöschung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Alters und Kael bei „Integration ohne Auslöschung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-094",
+   "question": "Falls Alters im Hinblick auf „Integration ohne Auslöschung“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Alters und Kael bei „Integration ohne Auslöschung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-096",
+   "question": "Braucht der Roman eine Verbindung von Alters und Kael bei „Integration ohne Auslöschung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-097",
+   "question": "In welchem denkbaren Fall könnte Alters bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Integration ohne Auslöschung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-098",
+   "question": "Welche Kosten könnte eine Verbindung von Alters und Kael in Bezug auf „Integration ohne Auslöschung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-099",
+   "question": "Welche ältere Lesart von Alters oder Kael könnte die Gegenüberstellung unter „Integration ohne Auslöschung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-alters-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Alters und Kael unter „Integration ohne Auslöschung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "alters",
+    "kael"
+   ]
+  }
+ ]
+}

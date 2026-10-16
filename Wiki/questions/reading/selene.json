@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "selene",
+ "title": "Selene",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Regulation gegenüber Integration",
+  "Status zwischen ANP und EP",
+  "Unterschied zwischen innerer Hilfe und Gatekeeping",
+  "Grenzen des vorausgesetzten Wissens",
+  "Handlungsfähigkeit als eigene Figur"
+ ],
+ "basis": {
+  "selene": {
+   "title": "Selene",
+   "path": "Wiki/candidates/selene.md",
+   "hash": "497002fd8ab927142bbd81479a8a8fbfbb634c66ce014beff4240db8cc858d72"
+  },
+  "argus": {
+   "title": "Argus",
+   "path": "Wiki/candidates/argus.md",
+   "hash": "5b06faf1f335d6121d350f2d0a0d6fae0ade3ec8b9c4480556998e47e37ed032"
+  },
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-selene-001",
+   "question": "Was unterscheidet Selenes Integrationshilfe von Gatekeeping, wenn sie über Zugang und Kommunikation mitentscheidet?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-002",
+   "question": "Welche Lesarten auf der Seite zu Selene stützen oder begrenzen „Regulation gegenüber Integration“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-003",
+   "question": "Welcher Grenzfall würde bei Selene die Annahmen über „Regulation gegenüber Integration“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-004",
+   "question": "Wer könnte innerhalb des Romans bei Selene etwas über „Regulation gegenüber Integration“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-005",
+   "question": "Welche konkrete Entscheidung könnte „Regulation gegenüber Integration“ bei Selene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Regulation gegenüber Integration“ bei Selene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-007",
+   "question": "Wie lässt sich „Regulation gegenüber Integration“ bei Selene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-008",
+   "question": "Welche Alternativen sollte der Autor bei Selene für „Regulation gegenüber Integration“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-009",
+   "question": "Was bedeutet bei Selene der Themenpunkt „Status zwischen ANP und EP“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-010",
+   "question": "Welche Lesarten auf der Seite zu Selene stützen oder begrenzen „Status zwischen ANP und EP“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-011",
+   "question": "Welcher Grenzfall würde bei Selene die Annahmen über „Status zwischen ANP und EP“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-012",
+   "question": "Wer könnte innerhalb des Romans bei Selene etwas über „Status zwischen ANP und EP“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-013",
+   "question": "Welche konkrete Entscheidung könnte „Status zwischen ANP und EP“ bei Selene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status zwischen ANP und EP“ bei Selene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-015",
+   "question": "Wie lässt sich „Status zwischen ANP und EP“ bei Selene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-016",
+   "question": "Welche Alternativen sollte der Autor bei Selene für „Status zwischen ANP und EP“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-017",
+   "question": "Was bedeutet bei Selene der Themenpunkt „Unterschied zwischen innerer Hilfe und Gatekeeping“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-018",
+   "question": "Welche Lesarten auf der Seite zu Selene stützen oder begrenzen „Unterschied zwischen innerer Hilfe und Gatekeeping“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-019",
+   "question": "Welcher Grenzfall würde bei Selene die Annahmen über „Unterschied zwischen innerer Hilfe und Gatekeeping“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-020",
+   "question": "Wer könnte innerhalb des Romans bei Selene etwas über „Unterschied zwischen innerer Hilfe und Gatekeeping“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen innerer Hilfe und Gatekeeping“ bei Selene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen innerer Hilfe und Gatekeeping“ bei Selene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-023",
+   "question": "Wie lässt sich „Unterschied zwischen innerer Hilfe und Gatekeeping“ bei Selene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-024",
+   "question": "Welche Alternativen sollte der Autor bei Selene für „Unterschied zwischen innerer Hilfe und Gatekeeping“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-025",
+   "question": "Was bedeutet bei Selene der Themenpunkt „Grenzen des vorausgesetzten Wissens“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-026",
+   "question": "Welche Lesarten auf der Seite zu Selene stützen oder begrenzen „Grenzen des vorausgesetzten Wissens“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-027",
+   "question": "Welcher Grenzfall würde bei Selene die Annahmen über „Grenzen des vorausgesetzten Wissens“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-028",
+   "question": "Wer könnte innerhalb des Romans bei Selene etwas über „Grenzen des vorausgesetzten Wissens“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen des vorausgesetzten Wissens“ bei Selene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen des vorausgesetzten Wissens“ bei Selene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-031",
+   "question": "Wie lässt sich „Grenzen des vorausgesetzten Wissens“ bei Selene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-032",
+   "question": "Welche Alternativen sollte der Autor bei Selene für „Grenzen des vorausgesetzten Wissens“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-033",
+   "question": "Was bedeutet bei Selene der Themenpunkt „Handlungsfähigkeit als eigene Figur“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-034",
+   "question": "Welche Lesarten auf der Seite zu Selene stützen oder begrenzen „Handlungsfähigkeit als eigene Figur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-035",
+   "question": "Welcher Grenzfall würde bei Selene die Annahmen über „Handlungsfähigkeit als eigene Figur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-036",
+   "question": "Wer könnte innerhalb des Romans bei Selene etwas über „Handlungsfähigkeit als eigene Figur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-037",
+   "question": "Welche konkrete Entscheidung könnte „Handlungsfähigkeit als eigene Figur“ bei Selene in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlungsfähigkeit als eigene Figur“ bei Selene haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-039",
+   "question": "Wie lässt sich „Handlungsfähigkeit als eigene Figur“ bei Selene zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-040",
+   "question": "Welche Alternativen sollte der Autor bei Selene für „Handlungsfähigkeit als eigene Figur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "selene"
+   ]
+  },
+  {
+   "id": "RQ-selene-041",
+   "question": "Wo unterscheiden sich Selene und Argus, wenn man sie unter dem Gesichtspunkt „Regulation gegenüber Integration“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-042",
+   "question": "Welche Quelle verbindet Selene mit Argus in Bezug auf „Regulation gegenüber Integration“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-043",
+   "question": "Welche Grenzen aus der Seite zu Argus müsste eine Deutung von Selene unter „Regulation gegenüber Integration“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-044",
+   "question": "Wie könnte sich das Wissen über Selene vom Wissen über Argus unterscheiden, wenn „Regulation gegenüber Integration“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Selene und Argus bei „Regulation gegenüber Integration“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-046",
+   "question": "Falls Selene im Hinblick auf „Regulation gegenüber Integration“ anders festgelegt wird: Welche Aussagen über Argus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Selene und Argus bei „Regulation gegenüber Integration“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-048",
+   "question": "Braucht der Roman eine Verbindung von Selene und Argus bei „Regulation gegenüber Integration“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-049",
+   "question": "In welchem denkbaren Fall könnte Selene bestehen, ohne dass Argus dieselbe Funktion übernimmt, und was würde das für „Regulation gegenüber Integration“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-050",
+   "question": "Welche Kosten könnte eine Verbindung von Selene und Argus in Bezug auf „Regulation gegenüber Integration“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-051",
+   "question": "Welche ältere Lesart von Selene oder Argus könnte die Gegenüberstellung unter „Regulation gegenüber Integration“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Selene und Argus unter „Regulation gegenüber Integration“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "selene",
+    "argus"
+   ]
+  },
+  {
+   "id": "RQ-selene-053",
+   "question": "Wo unterscheiden sich Selene und Rhys, wenn man sie unter dem Gesichtspunkt „Status zwischen ANP und EP“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-054",
+   "question": "Welche Quelle verbindet Selene mit Rhys in Bezug auf „Status zwischen ANP und EP“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-055",
+   "question": "Welche Grenzen aus der Seite zu Rhys müsste eine Deutung von Selene unter „Status zwischen ANP und EP“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-056",
+   "question": "Wie könnte sich das Wissen über Selene vom Wissen über Rhys unterscheiden, wenn „Status zwischen ANP und EP“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Selene und Rhys bei „Status zwischen ANP und EP“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-058",
+   "question": "Falls Selene im Hinblick auf „Status zwischen ANP und EP“ anders festgelegt wird: Welche Aussagen über Rhys müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Selene und Rhys bei „Status zwischen ANP und EP“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-060",
+   "question": "Braucht der Roman eine Verbindung von Selene und Rhys bei „Status zwischen ANP und EP“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-061",
+   "question": "In welchem denkbaren Fall könnte Selene bestehen, ohne dass Rhys dieselbe Funktion übernimmt, und was würde das für „Status zwischen ANP und EP“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-062",
+   "question": "Welche Kosten könnte eine Verbindung von Selene und Rhys in Bezug auf „Status zwischen ANP und EP“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-063",
+   "question": "Welche ältere Lesart von Selene oder Rhys könnte die Gegenüberstellung unter „Status zwischen ANP und EP“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Selene und Rhys unter „Status zwischen ANP und EP“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "selene",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-selene-065",
+   "question": "Wo unterscheiden sich Selene und Alters, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen innerer Hilfe und Gatekeeping“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-066",
+   "question": "Welche Quelle verbindet Selene mit Alters in Bezug auf „Unterschied zwischen innerer Hilfe und Gatekeeping“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-067",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Selene unter „Unterschied zwischen innerer Hilfe und Gatekeeping“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-068",
+   "question": "Wie könnte sich das Wissen über Selene vom Wissen über Alters unterscheiden, wenn „Unterschied zwischen innerer Hilfe und Gatekeeping“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Selene und Alters bei „Unterschied zwischen innerer Hilfe und Gatekeeping“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-070",
+   "question": "Falls Selene im Hinblick auf „Unterschied zwischen innerer Hilfe und Gatekeeping“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Selene und Alters bei „Unterschied zwischen innerer Hilfe und Gatekeeping“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-072",
+   "question": "Braucht der Roman eine Verbindung von Selene und Alters bei „Unterschied zwischen innerer Hilfe und Gatekeeping“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-073",
+   "question": "In welchem denkbaren Fall könnte Selene bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen innerer Hilfe und Gatekeeping“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-074",
+   "question": "Welche Kosten könnte eine Verbindung von Selene und Alters in Bezug auf „Unterschied zwischen innerer Hilfe und Gatekeeping“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-075",
+   "question": "Welche ältere Lesart von Selene oder Alters könnte die Gegenüberstellung unter „Unterschied zwischen innerer Hilfe und Gatekeeping“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Selene und Alters unter „Unterschied zwischen innerer Hilfe und Gatekeeping“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "selene",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-selene-077",
+   "question": "Wo unterscheiden sich Selene und Kael, wenn man sie unter dem Gesichtspunkt „Grenzen des vorausgesetzten Wissens“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-078",
+   "question": "Welche Quelle verbindet Selene mit Kael in Bezug auf „Grenzen des vorausgesetzten Wissens“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Selene unter „Grenzen des vorausgesetzten Wissens“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-080",
+   "question": "Wie könnte sich das Wissen über Selene vom Wissen über Kael unterscheiden, wenn „Grenzen des vorausgesetzten Wissens“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Selene und Kael bei „Grenzen des vorausgesetzten Wissens“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-082",
+   "question": "Falls Selene im Hinblick auf „Grenzen des vorausgesetzten Wissens“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Selene und Kael bei „Grenzen des vorausgesetzten Wissens“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-084",
+   "question": "Braucht der Roman eine Verbindung von Selene und Kael bei „Grenzen des vorausgesetzten Wissens“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-085",
+   "question": "In welchem denkbaren Fall könnte Selene bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Grenzen des vorausgesetzten Wissens“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-086",
+   "question": "Welche Kosten könnte eine Verbindung von Selene und Kael in Bezug auf „Grenzen des vorausgesetzten Wissens“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-087",
+   "question": "Welche ältere Lesart von Selene oder Kael könnte die Gegenüberstellung unter „Grenzen des vorausgesetzten Wissens“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Selene und Kael unter „Grenzen des vorausgesetzten Wissens“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "selene",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-selene-089",
+   "question": "Wo unterscheiden sich Selene und Multiplizität, wenn man sie unter dem Gesichtspunkt „Handlungsfähigkeit als eigene Figur“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-090",
+   "question": "Welche Quelle verbindet Selene mit Multiplizität in Bezug auf „Handlungsfähigkeit als eigene Figur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-091",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Selene unter „Handlungsfähigkeit als eigene Figur“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-092",
+   "question": "Wie könnte sich das Wissen über Selene vom Wissen über Multiplizität unterscheiden, wenn „Handlungsfähigkeit als eigene Figur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Selene und Multiplizität bei „Handlungsfähigkeit als eigene Figur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-094",
+   "question": "Falls Selene im Hinblick auf „Handlungsfähigkeit als eigene Figur“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Selene und Multiplizität bei „Handlungsfähigkeit als eigene Figur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-096",
+   "question": "Braucht der Roman eine Verbindung von Selene und Multiplizität bei „Handlungsfähigkeit als eigene Figur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-097",
+   "question": "In welchem denkbaren Fall könnte Selene bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Handlungsfähigkeit als eigene Figur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-098",
+   "question": "Welche Kosten könnte eine Verbindung von Selene und Multiplizität in Bezug auf „Handlungsfähigkeit als eigene Figur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-099",
+   "question": "Welche ältere Lesart von Selene oder Multiplizität könnte die Gegenüberstellung unter „Handlungsfähigkeit als eigene Figur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-selene-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Selene und Multiplizität unter „Handlungsfähigkeit als eigene Figur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "selene",
+    "multiplizitaet"
+   ]
+  }
+ ]
+}

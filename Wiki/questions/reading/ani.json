@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ani",
+ "title": "ANI — Äußere Nicht-Identifikation",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "unterschiedliche Auflösungen des Kürzels",
+  "Zuschreibung von Absicht",
+  "Nichtidentifikation des Außen",
+  "Status als kritisiertes Postulat",
+  "Grenzen interner Validierung"
+ ],
+ "basis": {
+  "ani": {
+   "title": "ANI — Äußere Nicht-Identifikation",
+   "path": "Wiki/candidates/ani.md",
+   "hash": "626a0d92812e0a67660438f5761e6fc59c4a8e9d3a8e017dd9b199027834af19"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "ztv": {
+   "title": "ZTV — Vertrauenlose Validierung",
+   "path": "Wiki/candidates/ztv.md",
+   "hash": "ebe6b679678889449e0e08574ef904b486bf135ea2882f0746e327816483ecd8"
+  },
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  },
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "entropie-resonanz": {
+   "title": "Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+   "path": "Wiki/candidates/entropie-resonanz.md",
+   "hash": "10aec1a863eb4d141c19bfcbdf69b1619003d9a9c224872f1319b32e71271132"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ani-001",
+   "question": "Meint ANI die Nichtidentifikation eines Außen oder die Annahme fehlender Absicht, und wie verändern diese Lesarten AEGIS' Handeln?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-002",
+   "question": "Welche Lesarten auf der Seite zu ANI — Äußere Nicht-Identifikation stützen oder begrenzen „unterschiedliche Auflösungen des Kürzels“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-003",
+   "question": "Welcher Grenzfall würde bei ANI — Äußere Nicht-Identifikation die Annahmen über „unterschiedliche Auflösungen des Kürzels“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-004",
+   "question": "Wer könnte innerhalb des Romans bei ANI — Äußere Nicht-Identifikation etwas über „unterschiedliche Auflösungen des Kürzels“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-005",
+   "question": "Welche konkrete Entscheidung könnte „unterschiedliche Auflösungen des Kürzels“ bei ANI — Äußere Nicht-Identifikation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „unterschiedliche Auflösungen des Kürzels“ bei ANI — Äußere Nicht-Identifikation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-007",
+   "question": "Wie lässt sich „unterschiedliche Auflösungen des Kürzels“ bei ANI — Äußere Nicht-Identifikation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-008",
+   "question": "Welche Alternativen sollte der Autor bei ANI — Äußere Nicht-Identifikation für „unterschiedliche Auflösungen des Kürzels“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-009",
+   "question": "Was bedeutet bei ANI — Äußere Nicht-Identifikation der Themenpunkt „Zuschreibung von Absicht“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-010",
+   "question": "Welche Lesarten auf der Seite zu ANI — Äußere Nicht-Identifikation stützen oder begrenzen „Zuschreibung von Absicht“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-011",
+   "question": "Welcher Grenzfall würde bei ANI — Äußere Nicht-Identifikation die Annahmen über „Zuschreibung von Absicht“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-012",
+   "question": "Wer könnte innerhalb des Romans bei ANI — Äußere Nicht-Identifikation etwas über „Zuschreibung von Absicht“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-013",
+   "question": "Welche konkrete Entscheidung könnte „Zuschreibung von Absicht“ bei ANI — Äußere Nicht-Identifikation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zuschreibung von Absicht“ bei ANI — Äußere Nicht-Identifikation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-015",
+   "question": "Wie lässt sich „Zuschreibung von Absicht“ bei ANI — Äußere Nicht-Identifikation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-016",
+   "question": "Welche Alternativen sollte der Autor bei ANI — Äußere Nicht-Identifikation für „Zuschreibung von Absicht“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-017",
+   "question": "Was bedeutet bei ANI — Äußere Nicht-Identifikation der Themenpunkt „Nichtidentifikation des Außen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-018",
+   "question": "Welche Lesarten auf der Seite zu ANI — Äußere Nicht-Identifikation stützen oder begrenzen „Nichtidentifikation des Außen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-019",
+   "question": "Welcher Grenzfall würde bei ANI — Äußere Nicht-Identifikation die Annahmen über „Nichtidentifikation des Außen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-020",
+   "question": "Wer könnte innerhalb des Romans bei ANI — Äußere Nicht-Identifikation etwas über „Nichtidentifikation des Außen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-021",
+   "question": "Welche konkrete Entscheidung könnte „Nichtidentifikation des Außen“ bei ANI — Äußere Nicht-Identifikation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Nichtidentifikation des Außen“ bei ANI — Äußere Nicht-Identifikation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-023",
+   "question": "Wie lässt sich „Nichtidentifikation des Außen“ bei ANI — Äußere Nicht-Identifikation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-024",
+   "question": "Welche Alternativen sollte der Autor bei ANI — Äußere Nicht-Identifikation für „Nichtidentifikation des Außen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-025",
+   "question": "Was bedeutet bei ANI — Äußere Nicht-Identifikation der Themenpunkt „Status als kritisiertes Postulat“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-026",
+   "question": "Welche Lesarten auf der Seite zu ANI — Äußere Nicht-Identifikation stützen oder begrenzen „Status als kritisiertes Postulat“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-027",
+   "question": "Welcher Grenzfall würde bei ANI — Äußere Nicht-Identifikation die Annahmen über „Status als kritisiertes Postulat“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-028",
+   "question": "Wer könnte innerhalb des Romans bei ANI — Äußere Nicht-Identifikation etwas über „Status als kritisiertes Postulat“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-029",
+   "question": "Welche konkrete Entscheidung könnte „Status als kritisiertes Postulat“ bei ANI — Äußere Nicht-Identifikation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als kritisiertes Postulat“ bei ANI — Äußere Nicht-Identifikation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-031",
+   "question": "Wie lässt sich „Status als kritisiertes Postulat“ bei ANI — Äußere Nicht-Identifikation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-032",
+   "question": "Welche Alternativen sollte der Autor bei ANI — Äußere Nicht-Identifikation für „Status als kritisiertes Postulat“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-033",
+   "question": "Was bedeutet bei ANI — Äußere Nicht-Identifikation der Themenpunkt „Grenzen interner Validierung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-034",
+   "question": "Welche Lesarten auf der Seite zu ANI — Äußere Nicht-Identifikation stützen oder begrenzen „Grenzen interner Validierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-035",
+   "question": "Welcher Grenzfall würde bei ANI — Äußere Nicht-Identifikation die Annahmen über „Grenzen interner Validierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-036",
+   "question": "Wer könnte innerhalb des Romans bei ANI — Äußere Nicht-Identifikation etwas über „Grenzen interner Validierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen interner Validierung“ bei ANI — Äußere Nicht-Identifikation in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen interner Validierung“ bei ANI — Äußere Nicht-Identifikation haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-039",
+   "question": "Wie lässt sich „Grenzen interner Validierung“ bei ANI — Äußere Nicht-Identifikation zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-040",
+   "question": "Welche Alternativen sollte der Autor bei ANI — Äußere Nicht-Identifikation für „Grenzen interner Validierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ani"
+   ]
+  },
+  {
+   "id": "RQ-ani-041",
+   "question": "Wo unterscheiden sich ANI — Äußere Nicht-Identifikation und AEGIS, wenn man sie unter dem Gesichtspunkt „unterschiedliche Auflösungen des Kürzels“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-042",
+   "question": "Welche Quelle verbindet ANI — Äußere Nicht-Identifikation mit AEGIS in Bezug auf „unterschiedliche Auflösungen des Kürzels“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von ANI — Äußere Nicht-Identifikation unter „unterschiedliche Auflösungen des Kürzels“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-044",
+   "question": "Wie könnte sich das Wissen über ANI — Äußere Nicht-Identifikation vom Wissen über AEGIS unterscheiden, wenn „unterschiedliche Auflösungen des Kürzels“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ANI — Äußere Nicht-Identifikation und AEGIS bei „unterschiedliche Auflösungen des Kürzels“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-046",
+   "question": "Falls ANI — Äußere Nicht-Identifikation im Hinblick auf „unterschiedliche Auflösungen des Kürzels“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ANI — Äußere Nicht-Identifikation und AEGIS bei „unterschiedliche Auflösungen des Kürzels“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-048",
+   "question": "Braucht der Roman eine Verbindung von ANI — Äußere Nicht-Identifikation und AEGIS bei „unterschiedliche Auflösungen des Kürzels“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-049",
+   "question": "In welchem denkbaren Fall könnte ANI — Äußere Nicht-Identifikation bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „unterschiedliche Auflösungen des Kürzels“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-050",
+   "question": "Welche Kosten könnte eine Verbindung von ANI — Äußere Nicht-Identifikation und AEGIS in Bezug auf „unterschiedliche Auflösungen des Kürzels“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-051",
+   "question": "Welche ältere Lesart von ANI — Äußere Nicht-Identifikation oder AEGIS könnte die Gegenüberstellung unter „unterschiedliche Auflösungen des Kürzels“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ANI — Äußere Nicht-Identifikation und AEGIS unter „unterschiedliche Auflösungen des Kürzels“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ani",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ani-053",
+   "question": "Wo unterscheiden sich ANI — Äußere Nicht-Identifikation und ZTV — Vertrauenlose Validierung, wenn man sie unter dem Gesichtspunkt „Zuschreibung von Absicht“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-054",
+   "question": "Welche Quelle verbindet ANI — Äußere Nicht-Identifikation mit ZTV — Vertrauenlose Validierung in Bezug auf „Zuschreibung von Absicht“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-055",
+   "question": "Welche Grenzen aus der Seite zu ZTV — Vertrauenlose Validierung müsste eine Deutung von ANI — Äußere Nicht-Identifikation unter „Zuschreibung von Absicht“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-056",
+   "question": "Wie könnte sich das Wissen über ANI — Äußere Nicht-Identifikation vom Wissen über ZTV — Vertrauenlose Validierung unterscheiden, wenn „Zuschreibung von Absicht“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ANI — Äußere Nicht-Identifikation und ZTV — Vertrauenlose Validierung bei „Zuschreibung von Absicht“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-058",
+   "question": "Falls ANI — Äußere Nicht-Identifikation im Hinblick auf „Zuschreibung von Absicht“ anders festgelegt wird: Welche Aussagen über ZTV — Vertrauenlose Validierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ANI — Äußere Nicht-Identifikation und ZTV — Vertrauenlose Validierung bei „Zuschreibung von Absicht“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-060",
+   "question": "Braucht der Roman eine Verbindung von ANI — Äußere Nicht-Identifikation und ZTV — Vertrauenlose Validierung bei „Zuschreibung von Absicht“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-061",
+   "question": "In welchem denkbaren Fall könnte ANI — Äußere Nicht-Identifikation bestehen, ohne dass ZTV — Vertrauenlose Validierung dieselbe Funktion übernimmt, und was würde das für „Zuschreibung von Absicht“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-062",
+   "question": "Welche Kosten könnte eine Verbindung von ANI — Äußere Nicht-Identifikation und ZTV — Vertrauenlose Validierung in Bezug auf „Zuschreibung von Absicht“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-063",
+   "question": "Welche ältere Lesart von ANI — Äußere Nicht-Identifikation oder ZTV — Vertrauenlose Validierung könnte die Gegenüberstellung unter „Zuschreibung von Absicht“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ANI — Äußere Nicht-Identifikation und ZTV — Vertrauenlose Validierung unter „Zuschreibung von Absicht“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ani",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-ani-065",
+   "question": "Wo unterscheiden sich ANI — Äußere Nicht-Identifikation und Externe Ebene, wenn man sie unter dem Gesichtspunkt „Nichtidentifikation des Außen“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-066",
+   "question": "Welche Quelle verbindet ANI — Äußere Nicht-Identifikation mit Externe Ebene in Bezug auf „Nichtidentifikation des Außen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-067",
+   "question": "Welche Grenzen aus der Seite zu Externe Ebene müsste eine Deutung von ANI — Äußere Nicht-Identifikation unter „Nichtidentifikation des Außen“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-068",
+   "question": "Wie könnte sich das Wissen über ANI — Äußere Nicht-Identifikation vom Wissen über Externe Ebene unterscheiden, wenn „Nichtidentifikation des Außen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ANI — Äußere Nicht-Identifikation und Externe Ebene bei „Nichtidentifikation des Außen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-070",
+   "question": "Falls ANI — Äußere Nicht-Identifikation im Hinblick auf „Nichtidentifikation des Außen“ anders festgelegt wird: Welche Aussagen über Externe Ebene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ANI — Äußere Nicht-Identifikation und Externe Ebene bei „Nichtidentifikation des Außen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-072",
+   "question": "Braucht der Roman eine Verbindung von ANI — Äußere Nicht-Identifikation und Externe Ebene bei „Nichtidentifikation des Außen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-073",
+   "question": "In welchem denkbaren Fall könnte ANI — Äußere Nicht-Identifikation bestehen, ohne dass Externe Ebene dieselbe Funktion übernimmt, und was würde das für „Nichtidentifikation des Außen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-074",
+   "question": "Welche Kosten könnte eine Verbindung von ANI — Äußere Nicht-Identifikation und Externe Ebene in Bezug auf „Nichtidentifikation des Außen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-075",
+   "question": "Welche ältere Lesart von ANI — Äußere Nicht-Identifikation oder Externe Ebene könnte die Gegenüberstellung unter „Nichtidentifikation des Außen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ANI — Äußere Nicht-Identifikation und Externe Ebene unter „Nichtidentifikation des Außen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ani",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ani-077",
+   "question": "Wo unterscheiden sich ANI — Äußere Nicht-Identifikation und Ontologischer blinder Fleck, wenn man sie unter dem Gesichtspunkt „Status als kritisiertes Postulat“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-078",
+   "question": "Welche Quelle verbindet ANI — Äußere Nicht-Identifikation mit Ontologischer blinder Fleck in Bezug auf „Status als kritisiertes Postulat“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-079",
+   "question": "Welche Grenzen aus der Seite zu Ontologischer blinder Fleck müsste eine Deutung von ANI — Äußere Nicht-Identifikation unter „Status als kritisiertes Postulat“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-080",
+   "question": "Wie könnte sich das Wissen über ANI — Äußere Nicht-Identifikation vom Wissen über Ontologischer blinder Fleck unterscheiden, wenn „Status als kritisiertes Postulat“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ANI — Äußere Nicht-Identifikation und Ontologischer blinder Fleck bei „Status als kritisiertes Postulat“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-082",
+   "question": "Falls ANI — Äußere Nicht-Identifikation im Hinblick auf „Status als kritisiertes Postulat“ anders festgelegt wird: Welche Aussagen über Ontologischer blinder Fleck müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ANI — Äußere Nicht-Identifikation und Ontologischer blinder Fleck bei „Status als kritisiertes Postulat“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-084",
+   "question": "Braucht der Roman eine Verbindung von ANI — Äußere Nicht-Identifikation und Ontologischer blinder Fleck bei „Status als kritisiertes Postulat“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-085",
+   "question": "In welchem denkbaren Fall könnte ANI — Äußere Nicht-Identifikation bestehen, ohne dass Ontologischer blinder Fleck dieselbe Funktion übernimmt, und was würde das für „Status als kritisiertes Postulat“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-086",
+   "question": "Welche Kosten könnte eine Verbindung von ANI — Äußere Nicht-Identifikation und Ontologischer blinder Fleck in Bezug auf „Status als kritisiertes Postulat“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-087",
+   "question": "Welche ältere Lesart von ANI — Äußere Nicht-Identifikation oder Ontologischer blinder Fleck könnte die Gegenüberstellung unter „Status als kritisiertes Postulat“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ANI — Äußere Nicht-Identifikation und Ontologischer blinder Fleck unter „Status als kritisiertes Postulat“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ani",
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-ani-089",
+   "question": "Wo unterscheiden sich ANI — Äußere Nicht-Identifikation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP), wenn man sie unter dem Gesichtspunkt „Grenzen interner Validierung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-090",
+   "question": "Welche Quelle verbindet ANI — Äußere Nicht-Identifikation mit Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in Bezug auf „Grenzen interner Validierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-091",
+   "question": "Welche Grenzen aus der Seite zu Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) müsste eine Deutung von ANI — Äußere Nicht-Identifikation unter „Grenzen interner Validierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-092",
+   "question": "Wie könnte sich das Wissen über ANI — Äußere Nicht-Identifikation vom Wissen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unterscheiden, wenn „Grenzen interner Validierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen ANI — Äußere Nicht-Identifikation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bei „Grenzen interner Validierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-094",
+   "question": "Falls ANI — Äußere Nicht-Identifikation im Hinblick auf „Grenzen interner Validierung“ anders festgelegt wird: Welche Aussagen über Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten ANI — Äußere Nicht-Identifikation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bei „Grenzen interner Validierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-096",
+   "question": "Braucht der Roman eine Verbindung von ANI — Äußere Nicht-Identifikation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) bei „Grenzen interner Validierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-097",
+   "question": "In welchem denkbaren Fall könnte ANI — Äußere Nicht-Identifikation bestehen, ohne dass Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) dieselbe Funktion übernimmt, und was würde das für „Grenzen interner Validierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-098",
+   "question": "Welche Kosten könnte eine Verbindung von ANI — Äußere Nicht-Identifikation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) in Bezug auf „Grenzen interner Validierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-099",
+   "question": "Welche ältere Lesart von ANI — Äußere Nicht-Identifikation oder Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) könnte die Gegenüberstellung unter „Grenzen interner Validierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  },
+  {
+   "id": "RQ-ani-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von ANI — Äußere Nicht-Identifikation und Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP) unter „Grenzen interner Validierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ani",
+    "entropie-resonanz"
+   ]
+  }
+ ]
+}

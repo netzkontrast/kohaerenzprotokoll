@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "verschraenkungs-insel",
+ "title": "Verschränkungs-Insel",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "kausale Isolation vom Gesamtsystem",
+  "Status als Nexus oder eigener Ort",
+  "Schutz vor dem Löschbefehl",
+  "Grenze zwischen Quantenmetapher und Weltregel",
+  "Kontakt in einer unmessbaren Zuflucht"
+ ],
+ "basis": {
+  "verschraenkungs-insel": {
+   "title": "Verschränkungs-Insel",
+   "path": "Wiki/candidates/verschraenkungs-insel.md",
+   "hash": "75cfd1a128debe5e93f4e4ccd54408eb571cde0fcb55dbf44192b52fbc096f1e"
+  },
+  "nexus": {
+   "title": "Nexus",
+   "path": "Wiki/candidates/nexus.md",
+   "hash": "2c8839ab4082b2f72d9df1267685dacd4c2870d69c3c15afbf866825d87bb40f"
+  },
+  "moonshine-link": {
+   "title": "Moonshine-Link",
+   "path": "Wiki/candidates/moonshine-link.md",
+   "hash": "e6ab0b6c7cfc8a4c58868776a3887a6bfeae86e3a2f81204d7738cc24460cca6"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "atemporalitaet": {
+   "title": "Atemporalität",
+   "path": "Wiki/candidates/atemporalitaet.md",
+   "hash": "14b4b5f52007a37646a202ac97f2543e4ad19fca8a3d5d317831e1102305b681"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-verschraenkungs-insel-001",
+   "question": "Was verliert Kael durch die kausale Isolation einer Verschränkungs-Insel, während sie Juna vor dem Löschbefehl schützt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-002",
+   "question": "Welche Lesarten auf der Seite zu Verschränkungs-Insel stützen oder begrenzen „kausale Isolation vom Gesamtsystem“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-003",
+   "question": "Welcher Grenzfall würde bei Verschränkungs-Insel die Annahmen über „kausale Isolation vom Gesamtsystem“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-004",
+   "question": "Wer könnte innerhalb des Romans bei Verschränkungs-Insel etwas über „kausale Isolation vom Gesamtsystem“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-005",
+   "question": "Welche konkrete Entscheidung könnte „kausale Isolation vom Gesamtsystem“ bei Verschränkungs-Insel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „kausale Isolation vom Gesamtsystem“ bei Verschränkungs-Insel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-007",
+   "question": "Wie lässt sich „kausale Isolation vom Gesamtsystem“ bei Verschränkungs-Insel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-008",
+   "question": "Welche Alternativen sollte der Autor bei Verschränkungs-Insel für „kausale Isolation vom Gesamtsystem“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-009",
+   "question": "Was bedeutet bei Verschränkungs-Insel der Themenpunkt „Status als Nexus oder eigener Ort“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-010",
+   "question": "Welche Lesarten auf der Seite zu Verschränkungs-Insel stützen oder begrenzen „Status als Nexus oder eigener Ort“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-011",
+   "question": "Welcher Grenzfall würde bei Verschränkungs-Insel die Annahmen über „Status als Nexus oder eigener Ort“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-012",
+   "question": "Wer könnte innerhalb des Romans bei Verschränkungs-Insel etwas über „Status als Nexus oder eigener Ort“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-013",
+   "question": "Welche konkrete Entscheidung könnte „Status als Nexus oder eigener Ort“ bei Verschränkungs-Insel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status als Nexus oder eigener Ort“ bei Verschränkungs-Insel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-015",
+   "question": "Wie lässt sich „Status als Nexus oder eigener Ort“ bei Verschränkungs-Insel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-016",
+   "question": "Welche Alternativen sollte der Autor bei Verschränkungs-Insel für „Status als Nexus oder eigener Ort“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-017",
+   "question": "Was bedeutet bei Verschränkungs-Insel der Themenpunkt „Schutz vor dem Löschbefehl“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-018",
+   "question": "Welche Lesarten auf der Seite zu Verschränkungs-Insel stützen oder begrenzen „Schutz vor dem Löschbefehl“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-019",
+   "question": "Welcher Grenzfall würde bei Verschränkungs-Insel die Annahmen über „Schutz vor dem Löschbefehl“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-020",
+   "question": "Wer könnte innerhalb des Romans bei Verschränkungs-Insel etwas über „Schutz vor dem Löschbefehl“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-021",
+   "question": "Welche konkrete Entscheidung könnte „Schutz vor dem Löschbefehl“ bei Verschränkungs-Insel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Schutz vor dem Löschbefehl“ bei Verschränkungs-Insel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-023",
+   "question": "Wie lässt sich „Schutz vor dem Löschbefehl“ bei Verschränkungs-Insel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-024",
+   "question": "Welche Alternativen sollte der Autor bei Verschränkungs-Insel für „Schutz vor dem Löschbefehl“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-025",
+   "question": "Was bedeutet bei Verschränkungs-Insel der Themenpunkt „Grenze zwischen Quantenmetapher und Weltregel“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-026",
+   "question": "Welche Lesarten auf der Seite zu Verschränkungs-Insel stützen oder begrenzen „Grenze zwischen Quantenmetapher und Weltregel“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-027",
+   "question": "Welcher Grenzfall würde bei Verschränkungs-Insel die Annahmen über „Grenze zwischen Quantenmetapher und Weltregel“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-028",
+   "question": "Wer könnte innerhalb des Romans bei Verschränkungs-Insel etwas über „Grenze zwischen Quantenmetapher und Weltregel“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-029",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Quantenmetapher und Weltregel“ bei Verschränkungs-Insel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Quantenmetapher und Weltregel“ bei Verschränkungs-Insel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-031",
+   "question": "Wie lässt sich „Grenze zwischen Quantenmetapher und Weltregel“ bei Verschränkungs-Insel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-032",
+   "question": "Welche Alternativen sollte der Autor bei Verschränkungs-Insel für „Grenze zwischen Quantenmetapher und Weltregel“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-033",
+   "question": "Was bedeutet bei Verschränkungs-Insel der Themenpunkt „Kontakt in einer unmessbaren Zuflucht“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-034",
+   "question": "Welche Lesarten auf der Seite zu Verschränkungs-Insel stützen oder begrenzen „Kontakt in einer unmessbaren Zuflucht“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-035",
+   "question": "Welcher Grenzfall würde bei Verschränkungs-Insel die Annahmen über „Kontakt in einer unmessbaren Zuflucht“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-036",
+   "question": "Wer könnte innerhalb des Romans bei Verschränkungs-Insel etwas über „Kontakt in einer unmessbaren Zuflucht“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-037",
+   "question": "Welche konkrete Entscheidung könnte „Kontakt in einer unmessbaren Zuflucht“ bei Verschränkungs-Insel in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kontakt in einer unmessbaren Zuflucht“ bei Verschränkungs-Insel haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-039",
+   "question": "Wie lässt sich „Kontakt in einer unmessbaren Zuflucht“ bei Verschränkungs-Insel zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-040",
+   "question": "Welche Alternativen sollte der Autor bei Verschränkungs-Insel für „Kontakt in einer unmessbaren Zuflucht“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-041",
+   "question": "Wo unterscheiden sich Verschränkungs-Insel und Nexus, wenn man sie unter dem Gesichtspunkt „kausale Isolation vom Gesamtsystem“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-042",
+   "question": "Welche Quelle verbindet Verschränkungs-Insel mit Nexus in Bezug auf „kausale Isolation vom Gesamtsystem“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-043",
+   "question": "Welche Grenzen aus der Seite zu Nexus müsste eine Deutung von Verschränkungs-Insel unter „kausale Isolation vom Gesamtsystem“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-044",
+   "question": "Wie könnte sich das Wissen über Verschränkungs-Insel vom Wissen über Nexus unterscheiden, wenn „kausale Isolation vom Gesamtsystem“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Verschränkungs-Insel und Nexus bei „kausale Isolation vom Gesamtsystem“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-046",
+   "question": "Falls Verschränkungs-Insel im Hinblick auf „kausale Isolation vom Gesamtsystem“ anders festgelegt wird: Welche Aussagen über Nexus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Verschränkungs-Insel und Nexus bei „kausale Isolation vom Gesamtsystem“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-048",
+   "question": "Braucht der Roman eine Verbindung von Verschränkungs-Insel und Nexus bei „kausale Isolation vom Gesamtsystem“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-049",
+   "question": "In welchem denkbaren Fall könnte Verschränkungs-Insel bestehen, ohne dass Nexus dieselbe Funktion übernimmt, und was würde das für „kausale Isolation vom Gesamtsystem“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-050",
+   "question": "Welche Kosten könnte eine Verbindung von Verschränkungs-Insel und Nexus in Bezug auf „kausale Isolation vom Gesamtsystem“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-051",
+   "question": "Welche ältere Lesart von Verschränkungs-Insel oder Nexus könnte die Gegenüberstellung unter „kausale Isolation vom Gesamtsystem“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Verschränkungs-Insel und Nexus unter „kausale Isolation vom Gesamtsystem“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "verschraenkungs-insel",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-053",
+   "question": "Wo unterscheiden sich Verschränkungs-Insel und Moonshine-Link, wenn man sie unter dem Gesichtspunkt „Status als Nexus oder eigener Ort“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-054",
+   "question": "Welche Quelle verbindet Verschränkungs-Insel mit Moonshine-Link in Bezug auf „Status als Nexus oder eigener Ort“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-055",
+   "question": "Welche Grenzen aus der Seite zu Moonshine-Link müsste eine Deutung von Verschränkungs-Insel unter „Status als Nexus oder eigener Ort“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-056",
+   "question": "Wie könnte sich das Wissen über Verschränkungs-Insel vom Wissen über Moonshine-Link unterscheiden, wenn „Status als Nexus oder eigener Ort“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Verschränkungs-Insel und Moonshine-Link bei „Status als Nexus oder eigener Ort“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-058",
+   "question": "Falls Verschränkungs-Insel im Hinblick auf „Status als Nexus oder eigener Ort“ anders festgelegt wird: Welche Aussagen über Moonshine-Link müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Verschränkungs-Insel und Moonshine-Link bei „Status als Nexus oder eigener Ort“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-060",
+   "question": "Braucht der Roman eine Verbindung von Verschränkungs-Insel und Moonshine-Link bei „Status als Nexus oder eigener Ort“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-061",
+   "question": "In welchem denkbaren Fall könnte Verschränkungs-Insel bestehen, ohne dass Moonshine-Link dieselbe Funktion übernimmt, und was würde das für „Status als Nexus oder eigener Ort“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-062",
+   "question": "Welche Kosten könnte eine Verbindung von Verschränkungs-Insel und Moonshine-Link in Bezug auf „Status als Nexus oder eigener Ort“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-063",
+   "question": "Welche ältere Lesart von Verschränkungs-Insel oder Moonshine-Link könnte die Gegenüberstellung unter „Status als Nexus oder eigener Ort“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Verschränkungs-Insel und Moonshine-Link unter „Status als Nexus oder eigener Ort“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "verschraenkungs-insel",
+    "moonshine-link"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-065",
+   "question": "Wo unterscheiden sich Verschränkungs-Insel und Juna, wenn man sie unter dem Gesichtspunkt „Schutz vor dem Löschbefehl“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-066",
+   "question": "Welche Quelle verbindet Verschränkungs-Insel mit Juna in Bezug auf „Schutz vor dem Löschbefehl“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-067",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Verschränkungs-Insel unter „Schutz vor dem Löschbefehl“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-068",
+   "question": "Wie könnte sich das Wissen über Verschränkungs-Insel vom Wissen über Juna unterscheiden, wenn „Schutz vor dem Löschbefehl“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Verschränkungs-Insel und Juna bei „Schutz vor dem Löschbefehl“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-070",
+   "question": "Falls Verschränkungs-Insel im Hinblick auf „Schutz vor dem Löschbefehl“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Verschränkungs-Insel und Juna bei „Schutz vor dem Löschbefehl“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-072",
+   "question": "Braucht der Roman eine Verbindung von Verschränkungs-Insel und Juna bei „Schutz vor dem Löschbefehl“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-073",
+   "question": "In welchem denkbaren Fall könnte Verschränkungs-Insel bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Schutz vor dem Löschbefehl“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-074",
+   "question": "Welche Kosten könnte eine Verbindung von Verschränkungs-Insel und Juna in Bezug auf „Schutz vor dem Löschbefehl“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-075",
+   "question": "Welche ältere Lesart von Verschränkungs-Insel oder Juna könnte die Gegenüberstellung unter „Schutz vor dem Löschbefehl“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Verschränkungs-Insel und Juna unter „Schutz vor dem Löschbefehl“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "verschraenkungs-insel",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-077",
+   "question": "Wo unterscheiden sich Verschränkungs-Insel und Kael, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Quantenmetapher und Weltregel“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-078",
+   "question": "Welche Quelle verbindet Verschränkungs-Insel mit Kael in Bezug auf „Grenze zwischen Quantenmetapher und Weltregel“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Verschränkungs-Insel unter „Grenze zwischen Quantenmetapher und Weltregel“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-080",
+   "question": "Wie könnte sich das Wissen über Verschränkungs-Insel vom Wissen über Kael unterscheiden, wenn „Grenze zwischen Quantenmetapher und Weltregel“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Verschränkungs-Insel und Kael bei „Grenze zwischen Quantenmetapher und Weltregel“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-082",
+   "question": "Falls Verschränkungs-Insel im Hinblick auf „Grenze zwischen Quantenmetapher und Weltregel“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Verschränkungs-Insel und Kael bei „Grenze zwischen Quantenmetapher und Weltregel“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-084",
+   "question": "Braucht der Roman eine Verbindung von Verschränkungs-Insel und Kael bei „Grenze zwischen Quantenmetapher und Weltregel“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-085",
+   "question": "In welchem denkbaren Fall könnte Verschränkungs-Insel bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Quantenmetapher und Weltregel“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-086",
+   "question": "Welche Kosten könnte eine Verbindung von Verschränkungs-Insel und Kael in Bezug auf „Grenze zwischen Quantenmetapher und Weltregel“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-087",
+   "question": "Welche ältere Lesart von Verschränkungs-Insel oder Kael könnte die Gegenüberstellung unter „Grenze zwischen Quantenmetapher und Weltregel“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Verschränkungs-Insel und Kael unter „Grenze zwischen Quantenmetapher und Weltregel“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "verschraenkungs-insel",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-089",
+   "question": "Wo unterscheiden sich Verschränkungs-Insel und Atemporalität, wenn man sie unter dem Gesichtspunkt „Kontakt in einer unmessbaren Zuflucht“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-090",
+   "question": "Welche Quelle verbindet Verschränkungs-Insel mit Atemporalität in Bezug auf „Kontakt in einer unmessbaren Zuflucht“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-091",
+   "question": "Welche Grenzen aus der Seite zu Atemporalität müsste eine Deutung von Verschränkungs-Insel unter „Kontakt in einer unmessbaren Zuflucht“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-092",
+   "question": "Wie könnte sich das Wissen über Verschränkungs-Insel vom Wissen über Atemporalität unterscheiden, wenn „Kontakt in einer unmessbaren Zuflucht“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Verschränkungs-Insel und Atemporalität bei „Kontakt in einer unmessbaren Zuflucht“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-094",
+   "question": "Falls Verschränkungs-Insel im Hinblick auf „Kontakt in einer unmessbaren Zuflucht“ anders festgelegt wird: Welche Aussagen über Atemporalität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Verschränkungs-Insel und Atemporalität bei „Kontakt in einer unmessbaren Zuflucht“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-096",
+   "question": "Braucht der Roman eine Verbindung von Verschränkungs-Insel und Atemporalität bei „Kontakt in einer unmessbaren Zuflucht“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-097",
+   "question": "In welchem denkbaren Fall könnte Verschränkungs-Insel bestehen, ohne dass Atemporalität dieselbe Funktion übernimmt, und was würde das für „Kontakt in einer unmessbaren Zuflucht“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-098",
+   "question": "Welche Kosten könnte eine Verbindung von Verschränkungs-Insel und Atemporalität in Bezug auf „Kontakt in einer unmessbaren Zuflucht“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-099",
+   "question": "Welche ältere Lesart von Verschränkungs-Insel oder Atemporalität könnte die Gegenüberstellung unter „Kontakt in einer unmessbaren Zuflucht“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  },
+  {
+   "id": "RQ-verschraenkungs-insel-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Verschränkungs-Insel und Atemporalität unter „Kontakt in einer unmessbaren Zuflucht“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "verschraenkungs-insel",
+    "atemporalitaet"
+   ]
+  }
+ ]
+}

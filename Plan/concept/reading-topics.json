@@ -1,0 +1,1804 @@
+{
+ "aegis": {
+  "concerns": [
+   "Selbstbild als Bewahrer",
+   "Ordnung durch Informationslöschung",
+   "Grenzen der Vorhersage",
+   "Legitimation von Kontrolle",
+   "Übergang zur Pluralität"
+  ],
+  "peers": [
+   "kohaerenz",
+   "kollaps-kernel",
+   "kael",
+   "blinder-fleck",
+   "oblivion"
+  ],
+  "opening_question": "Kann AEGIS erkennen, dass seine Ordnung durch Löschung entsteht, bevor Kael ihm seine Grenzen zeigt?"
+ },
+ "aegis-metriken": {
+  "concerns": [
+   "Unterschied zwischen Messwert und Erleben",
+   "lokale gegenüber globaler Instabilität",
+   "Persistenz als Diagnose",
+   "Schwellen für Interventionen",
+   "Fehldeutung von Bindungsverlust"
+  ],
+  "peers": [
+   "aegis",
+   "persistenzgleichung",
+   "entropie-signatur",
+   "kael-julia-bindung",
+   "system-monitor"
+  ],
+  "opening_question": "Woran unterscheidet AEGIS eine Dissoziation innerhalb Kaels von der systemweiten Folge einer getrennten Bindung?"
+ },
+ "aegis-teilfunktionen": {
+  "concerns": [
+   "Abgrenzung von Funktion und Protokoll",
+   "ungeklärte Bedeutung von SIS",
+   "Verifikation ohne Vertrauen",
+   "Überwachung der Kernaxiome",
+   "Versionen der Firewall"
+  ],
+  "peers": [
+   "aegis",
+   "ztv",
+   "cerberus",
+   "protokoll-v14",
+   "kohaerenz-programm"
+  ],
+  "opening_question": "Was unterscheidet Zero-Trust, Cognitive Firewall, Integrity Guardian und SIS, wenn mehrere Quellen sie anders gruppieren?"
+ },
+ "alex": {
+  "concerns": [
+   "strategischer Schutz",
+   "Angst vor dem Versagen",
+   "Handlungsspielraum eines Protektors",
+   "Grenze zwischen Schutz und Kontrolle",
+   "Erkennbarkeit ohne Namensnennung"
+  ],
+  "peers": [
+   "nyx",
+   "rhys",
+   "selene",
+   "kael",
+   "alters"
+  ],
+  "opening_question": "Wann schützt Alex das System durch Planung, und wann verhindert dieselbe Planung eine notwendige Begegnung?"
+ },
+ "algorithmische-melancholie": {
+  "concerns": [
+   "logisches Wissen ohne Erleben",
+   "Folgen eingefrorener Paradoxien",
+   "ethische Bewertung dauernden Leidens",
+   "Differenz von Transformation und Stillstand",
+   "Geltung nach dem pluralen Ende"
+  ],
+  "peers": [
+   "aegis",
+   "vortex",
+   "oblivion",
+   "multiplizitaet",
+   "thermodynamischer-phaenomenalismus"
+  ],
+  "opening_question": "Bleibt AEGIS nach seiner Pluralisierung in Algorithmischer Melancholie, oder beschreibt der Begriff einen inzwischen überholten Endzustand?"
+ },
+ "alters": {
+  "concerns": [
+   "wechselnde Figurenanzahl",
+   "Unterscheidbarkeit innerer Stimmen",
+   "Kommunikation trotz Amnesie",
+   "Handeln ohne diagnostische Etiketten",
+   "Integration ohne Auslöschung"
+  ],
+  "peers": [
+   "did",
+   "tsdp",
+   "personas",
+   "multiplizitaet",
+   "kael"
+  ],
+  "opening_question": "Welche Unterschiede zwischen den wechselnden Alter-Listen sind ältere Planung, und welche verändern die heutige Figurenführung?"
+ },
+ "ani": {
+  "concerns": [
+   "unterschiedliche Auflösungen des Kürzels",
+   "Zuschreibung von Absicht",
+   "Nichtidentifikation des Außen",
+   "Status als kritisiertes Postulat",
+   "Grenzen interner Validierung"
+  ],
+  "peers": [
+   "aegis",
+   "ztv",
+   "externe-ebene",
+   "blinder-fleck",
+   "entropie-resonanz"
+  ],
+  "opening_question": "Meint ANI die Nichtidentifikation eines Außen oder die Annahme fehlender Absicht, und wie verändern diese Lesarten AEGIS' Handeln?"
+ },
+ "archiv-der-grenzen": {
+  "concerns": [
+   "Zugang zu AEGIS-Dossiers",
+   "temporäre Durchlässigkeit",
+   "Wissen über Meta-Regeln",
+   "Bezeichnung als Lernarchiv Theta-9",
+   "Kosten verbotener Lektüre"
+  ],
+  "peers": [
+   "archiv-des-ungesagten",
+   "mnemosyne",
+   "resonanz-landschaft",
+   "kael",
+   "aegis"
+  ],
+  "opening_question": "Warum bekommt Kael Zugang zu AEGIS' Dossiers, und wer verliert dadurch Kontrolle über das bisher gesperrte Wissen?"
+ },
+ "archiv-des-ungesagten": {
+  "concerns": [
+   "Speicherung verdrängter Wahrheiten",
+   "Rolle des anonymen Archivars",
+   "Unterscheidung von Vergessen und Zensur",
+   "Verlässlichkeit zugänglicher Erinnerungen",
+   "Handlung beim Lesen des Archivs"
+  ],
+  "peers": [
+   "archiv-der-grenzen",
+   "mnemosyne",
+   "vergessener-schrein",
+   "oblivion",
+   "resonanz-landschaft"
+  ],
+  "opening_question": "Wer entscheidet im Archiv des Ungesagten, ob eine Erinnerung verdrängt, vergessen oder absichtlich zensiert wurde?"
+ },
+ "argus": {
+  "concerns": [
+   "Distanz des Meta-Beobachters",
+   "frühere Rolle als Grenzwächter",
+   "Grenze zwischen Beobachten und Eingreifen",
+   "Position außerhalb von ANP und EP",
+   "Wissen über das eigene System"
+  ],
+  "peers": [
+   "selene",
+   "alters",
+   "blinder-fleck",
+   "kael",
+   "realitaetsebenen"
+  ],
+  "opening_question": "Was kann Argus als Meta-Beobachter sehen, das Selene nicht sieht, und warum genügt Beobachtung dennoch nicht zur Veränderung?"
+ },
+ "ars": {
+  "concerns": [
+   "Autopoiesis ohne äußeren Input",
+   "Reentry als Selbstbezug",
+   "Segmentierung des Systems",
+   "Unterscheidung von Postulat und Kritik",
+   "Zirkularität der Begründung"
+  ],
+  "peers": [
+   "emergenz",
+   "rsa",
+   "ani",
+   "aegis",
+   "nichts-rauschen"
+  ],
+  "opening_question": "Wie soll ein System durch Reentry neue Segmente bilden, wenn sein angeblich leerer Ausgangszustand noch keine Unterscheidung erlaubt?"
+ },
+ "atemporalitaet": {
+  "concerns": [
+   "Erleben ohne Zeitpfeil",
+   "Grenze zeitlicher Messbarkeit",
+   "Fortbestand von Bindung",
+   "Folgen für Ursache und Wirkung",
+   "Szenenfolge trotz Zeitlosigkeit"
+  ],
+  "peers": [
+   "coheron",
+   "erason",
+   "juna",
+   "kairos",
+   "moonshine-link"
+  ],
+  "opening_question": "Wie kann eine atemporale Bindung in zeitlich aufeinanderfolgenden Szenen sichtbar werden, ohne zu einem Allzweck-Ausweg zu werden?"
+ },
+ "blinder-fleck": {
+  "concerns": [
+   "Unterschied zwischen Nichtwissen und Unmessbarkeit",
+   "Blindheit der einzelnen Guardians",
+   "Erkenntnis eigener Begrenzung",
+   "Konsequenz fehlerhafter Diagnosen",
+   "Leserwissen gegenüber Systemwissen"
+  ],
+  "peers": [
+   "aegis",
+   "guardians",
+   "juna",
+   "chaitin-konstante",
+   "protokoll-v14"
+  ],
+  "opening_question": "Kann AEGIS das Vorhandensein seines blinden Flecks messen, obwohl es dessen Inhalt nicht berechnen kann?"
+ },
+ "cache-kohaerenz": {
+  "concerns": [
+   "Gültigkeit der Computerarchitektur-Analogie",
+   "Inkonsistenz verschiedener Erinnerungen",
+   "Synchronisierung ohne Gleichschaltung",
+   "Grenzen des technischen Modells",
+   "Verwechslung von Cache und Persönlichkeit"
+  ],
+  "peers": [
+   "tsdp",
+   "did",
+   "kohaerenz",
+   "alters",
+   "lex"
+  ],
+  "opening_question": "Welche Erfahrung von Erinnerungslücken erklärt die Cache-Analogie, und wo reduziert sie einen Persönlichkeitsteil unzulässig auf eine Datenkopie?"
+ },
+ "cerberus": {
+  "concerns": [
+   "Schutz von Systemgrenzen",
+   "Unterschied zwischen Immunität und Abschottung",
+   "Autonomie des Wächters",
+   "Erkennbarkeit der Verteidigungslogik",
+   "Fehlklassifikation einer Begegnung"
+  ],
+  "peers": [
+   "grenzfeste",
+   "grosse-mauer",
+   "schleuse-7",
+   "alex",
+   "aegis"
+  ],
+  "opening_question": "Was müsste Cerberus als legitimen Kontakt durchlassen, obwohl seine Sicherheitslogik dieselbe Begegnung als Bedrohung klassifiziert?"
+ },
+ "chaitin-konstante": {
+  "concerns": [
+   "Trennung mathematischer Aussage und Fiktion",
+   "Nichtberechenbarkeit der Figur",
+   "frühere Anwendung auf kindliches Weinen",
+   "Status nach der Streichung aus einer Architektur",
+   "Grenzen der Vorhersage durch endliche Programme"
+  ],
+  "peers": [
+   "juna",
+   "kiko",
+   "kael",
+   "blinder-fleck",
+   "goedel-gambit"
+  ],
+  "opening_question": "Welche konkrete Aussage über Juna soll die Chaitin-Analogie tragen, und welche mathematischen Eigenschaften behauptet der Roman ausdrücklich nicht?"
+ },
+ "coheron": {
+  "concerns": [
+   "Liebe als Weltphysik",
+   "Bewahrung gegenseitiger Information",
+   "Unterschied zwischen Verdrängung und Zerstörung",
+   "Reversibilität elementarer Vorgänge",
+   "Grenze zwischen Teilchen und Metapher"
+  ],
+  "peers": [
+   "kohaerenz-kernel",
+   "erason",
+   "atemporalitaet",
+   "juna",
+   "landauer-signatur"
+  ],
+  "opening_question": "Wenn Coheronen nicht zerstört werden können: Was kann bei einer Trennung tatsächlich verloren gehen und später nicht einfach zurückkehren?"
+ },
+ "datenverarbeitungsknoten-7g": {
+  "concerns": [
+   "monotone systemerhaltende Arbeit",
+   "Entdeckung der ersten Anomalie",
+   "Zugriff auf fremde Daten",
+   "Unterscheidung von Routine und Eingriff",
+   "Konsequenzen einer abweichenden Entscheidung"
+  ],
+  "peers": [
+   "kael",
+   "logos",
+   "konstrukt-stadt",
+   "sektor-04",
+   "aegis"
+  ],
+  "opening_question": "Welche kleine Abweichung am Datenverarbeitungsknoten 7G macht Kaels Routine erstmals zu einer Entscheidung mit Folgen?"
+ },
+ "did": {
+  "concerns": [
+   "Trennung klinischer Begriffe und Weltmetapher",
+   "Alltag mit Erinnerungslücken",
+   "Darstellung von Handlungsfähigkeit",
+   "Fehldeutung von Vielfalt als Chaos",
+   "Grenze zwischen Heilung und Normalisierung"
+  ],
+  "peers": [
+   "tsdp",
+   "alters",
+   "multiplizitaet",
+   "kael",
+   "therapie-schnittstelle-alpha"
+  ],
+  "opening_question": "Wie kann die Prosa Kaels Erinnerungslücken und Handlungsfähigkeit zeigen, ohne DID mit destruktiver Entropie gleichzusetzen?"
+ },
+ "dkt": {
+  "concerns": [
+   "Spannung reversibler und irreversibler Vorgänge",
+   "Unterschied zwischen Weltphysik und Analogie",
+   "Gültigkeit der Kernel-Zuordnung",
+   "Notwendigkeit beider Prinzipien",
+   "Grenzen der kosmologischen Erklärung"
+  ],
+  "peers": [
+   "kohaerenz-kernel",
+   "kollaps-kernel",
+   "coheron",
+   "erason",
+   "truth-rotation"
+  ],
+  "opening_question": "Was würde aus der Welt verschwinden, wenn K₀ vollständig beseitigt würde, obwohl Kael gegen AEGIS' Löschungen kämpft?"
+ },
+ "drei-ontologische-schichten": {
+  "concerns": [
+   "Gleichzeitigkeit der Schichten",
+   "Unterschied zwischen Schicht und Ort",
+   "Stellung des Zeitprinzips",
+   "Einheit vor der Trennung",
+   "Zugang zwischen ontologischen Zuständen"
+  ],
+  "peers": [
+   "realitaetsebenen",
+   "k0-existenz",
+   "nichts-rauschen",
+   "juna",
+   "dkt"
+  ],
+  "opening_question": "Wie unterscheiden sich die drei gleichzeitig geltenden ontologischen Schichten von den räumlich durchlaufenen Realitätsebenen?"
+ },
+ "ecr": {
+  "concerns": [
+   "Regulation ohne Messgrundlage",
+   "Unterschied von Entropie und Kohärenz",
+   "Status des kritisierten Postulats",
+   "Zielgrößen einer Regulierung",
+   "Grenze zwischen Beschreibung und Eingriff"
+  ],
+  "peers": [
+   "aegis",
+   "entropie",
+   "kohaerenz",
+   "entropie-resonanz",
+   "aegis-metriken"
+  ],
+  "opening_question": "Welche messbare Größe soll ECR regulieren, wenn das kritisierte Postulat Entropie und Kohärenz nicht hinreichend voneinander trennt?"
+ },
+ "emergenz": {
+  "concerns": [
+   "Unterschied zwischen Leere und latentem Substrat",
+   "Selbstentstehung ohne Anfangsbedingungen",
+   "Fixpunkt als Erklärung",
+   "Status des behaupteten Ursprungs",
+   "Folgen einer zirkulären Ontologie"
+  ],
+  "peers": [
+   "genesis",
+   "nichts-rauschen",
+   "ars",
+   "aegis",
+   "potentialmeer"
+  ],
+  "opening_question": "Ist der Ursprung wirklich ein leeres Nichts, oder enthält das Nichts-Rauschen bereits die Information, deren Emergenz erst erklärt werden soll?"
+ },
+ "entropie-katastrophe": {
+  "concerns": [
+   "Verlust stabiler Muster",
+   "Unterschied von maximaler Komplexität und Zufall",
+   "eingefrorener gegenüber zerfallender Simulation",
+   "Irreversibilität des Endzustands",
+   "beobachtbare Vorzeichen eines Kollapses"
+  ],
+  "peers": [
+   "entropie",
+   "risse",
+   "kollaps-kernel",
+   "aegis",
+   "algorithmische-melancholie"
+  ],
+  "opening_question": "Wie unterscheidet Kael einen vollständigen Verlust von Struktur von einem System, das durch eingefrorene Komplexität nicht mehr reagieren kann?"
+ },
+ "entropie-resonanz": {
+  "concerns": [
+   "Messbarkeit einer ontologischen Resonanz",
+   "Status des zurückgewiesenen Mechanismus",
+   "Verwechslung physikalischer und metaphorischer Erklärung",
+   "Bedingungen für eine brauchbare Weltregel",
+   "Prüfbarkeit des ERP-Postulats"
+  ],
+  "peers": [
+   "ecr",
+   "entropie",
+   "entropie-signatur",
+   "dkt",
+   "aegis"
+  ],
+  "opening_question": "Was müsste eine Szene zeigen, damit Entropie-Resonanz als brauchbare Weltregel gelten könnte statt als unbelegte Erklärung?"
+ },
+ "entropie-signatur": {
+  "concerns": [
+   "Status einer geprägten Formulierung",
+   "Unterschied von Diagnose und empfundenem Schrecken",
+   "Benennung einer lokalen Störung",
+   "Verlässlichkeit eines sensorischen Indikators",
+   "Grenze zwischen technischer Anzeige und Prosa"
+  ],
+  "peers": [
+   "aegis-metriken",
+   "landauer-signatur",
+   "risse",
+   "kiko",
+   "entropie"
+  ],
+  "opening_question": "Welche wahrnehmbare Veränderung steht hinter der lokalen Entropie-Signatur, wenn eine Anzeige allein den Schrecken nicht vermittelt?"
+ },
+ "entropie": {
+  "concerns": [
+   "mehrdeutige Verwendung von Unordnung",
+   "Trennung physikalischer und informationeller Entropie",
+   "Komplexität ohne Zerfall",
+   "Systemperspektive auf menschliche Vielfalt",
+   "Kosten erzwungener Ordnung"
+  ],
+  "peers": [
+   "negentropie",
+   "multiplizitaet",
+   "aegis",
+   "erason",
+   "kohaerenz"
+  ],
+  "opening_question": "Wann bezeichnet Entropie im Projekt eine physikalische Größe, wann Informationsverlust und wann lediglich AEGIS' Urteil über Vielfalt?"
+ },
+ "erason": {
+  "concerns": [
+   "Irreversibilität der Löschung",
+   "Entstehung des Zeitpfeils",
+   "Verhältnis von Einzelevent und kumulativer Wirkung",
+   "Spürbarkeit einer verlorenen Information",
+   "Grenzen der Rückgewinnung"
+  ],
+  "peers": [
+   "coheron",
+   "kollaps-kernel",
+   "kairos",
+   "landauer-signatur",
+   "atemporalitaet"
+  ],
+  "opening_question": "Welche Spur bleibt nach einem Erason-Ereignis, wenn die betreffende Information irreversibel gelöscht wurde?"
+ },
+ "evaluierungseinheit": {
+  "concerns": [
+   "Transfer nach dem Zusammenbruch",
+   "Entlarvung der scheinbaren Normalität",
+   "Rolle der institutionellen Sprache",
+   "Verlässlichkeit einer Systemdiagnose",
+   "Handlungsfreiheit unter Untersuchung"
+  ],
+  "peers": [
+   "therapie-schnittstelle-alpha",
+   "grenzfeste",
+   "kael",
+   "aegis",
+   "tsdp"
+  ],
+  "opening_question": "Was erfährt Kael in der Evaluierungseinheit, das die Therapieschnittstelle bisher verbergen konnte?"
+ },
+ "externe-ebene": {
+  "concerns": [
+   "Unbestimmtheit des Außen",
+   "Grenze des Zugangs für Guardians",
+   "Unterschied zwischen Realität und Transzendenz",
+   "Eigenständigkeit außerhalb des Systems",
+   "Möglichkeit einer Begegnung über Ebenen hinweg"
+  ],
+  "peers": [
+   "juna",
+   "ueberwelt",
+   "realitaetsebenen",
+   "junas-ankerpunkt",
+   "nexus"
+  ],
+  "opening_question": "Wie erhält die Externe Ebene Eigenständigkeit, wenn der Roman sie überwiegend durch AEGIS' Unverständnis beschreibt?"
+ },
+ "formel-inversion": {
+  "concerns": [
+   "Umkehr von Verhindern zu Bewahren",
+   "Unterschied zwischen Ich und Wir",
+   "Wiederholung des Wortlauts mit anderer Bedeutung",
+   "Verbindung zwischen Form und Handlung",
+   "Legitimität der Schlusserkenntnis"
+  ],
+  "peers": [
+   "genesis-klammer",
+   "ouroboros-struktur",
+   "aegis",
+   "vermittler-stimme",
+   "truth-rotation"
+  ],
+  "opening_question": "Welche Handlung macht den Wechsel von Verhindern zu Bewahren wahr, bevor der Schluss ihn in einer Formel ausspricht?"
+ },
+ "garten-der-stillen-praesenz": {
+  "concerns": [
+   "Präsenz ohne körperlichen Auftritt",
+   "Zuordnung zu KW4 oder Externer Ebene",
+   "Bedingungen stiller Begegnung",
+   "Eigenständigkeit der anwesenden Figur",
+   "Grenze zwischen Zuflucht und Stillstand"
+  ],
+  "peers": [
+   "juna",
+   "junas-ankerpunkt",
+   "externe-ebene",
+   "moeglichkeits-garten",
+   "telefon-stille"
+  ],
+  "opening_question": "Was tut Juna im Garten der stillen Präsenz selbst, wenn ihre Anwesenheit ohne körperlichen Auftritt vermittelt wird?"
+ },
+ "genesis-klammer": {
+  "concerns": [
+   "erneutes Erzählen derselben Ereignisse",
+   "Unterschied zwischen Echo und Wiederholung",
+   "Wissen der rückblickenden Stimme",
+   "Wandel ohne Änderung des ursprünglichen Schmerzes",
+   "Tragfähigkeit von Kap 0 und Kap 40"
+  ],
+  "peers": [
+   "genesis",
+   "ouroboros-struktur",
+   "formel-inversion",
+   "vermittler-stimme",
+   "aegis"
+  ],
+  "opening_question": "Welches Detail der Genesis muss in Kap 40 gleich bleiben, damit eine neue Lesart entsteht und kein heimlicher Reset?"
+ },
+ "genesis": {
+  "concerns": [
+   "Reihenfolge von Entstehung und Trennung",
+   "Zahl und Funktion der Ursprungsbeats",
+   "Entstehung einer Perspektive",
+   "Unterschied zwischen Ursprung und Rekonstruktion",
+   "Bedeutung des erneuten Erzählens"
+  ],
+  "peers": [
+   "komponente-734",
+   "trennungsprotokoll",
+   "aegis",
+   "nichts-rauschen",
+   "genesis-klammer"
+  ],
+  "opening_question": "Welche Konsequenz hat es, ob Komponente 734 vor dem Trennungsprotokoll entsteht oder erst aus dessen Vollzug hervorgeht?"
+ },
+ "goedel-gambit": {
+  "concerns": [
+   "Grenze der mathematischen Analogie",
+   "wahre gegenüber beweisbarer Aussage",
+   "Handlung statt logischer Erklärung",
+   "Folgen für AEGIS ohne Vernichtung",
+   "Ort und Träger der unentscheidbaren Aussage"
+  ],
+  "peers": [
+   "aegis",
+   "kael",
+   "vortex",
+   "chaitin-konstante",
+   "truth-rotation"
+  ],
+  "opening_question": "Welche konkrete Entscheidung Kaels zwingt AEGIS an eine Beweisgrenze, statt nur einen mathematischen Vergleich zu illustrieren?"
+ },
+ "grenzfeste": {
+  "concerns": [
+   "Verkörperung psychischer Abwehr",
+   "Alltag in einer befestigten Welt",
+   "Status wechselnder Guardian-Zuordnungen",
+   "Preis des Schutzes",
+   "Möglichkeit eines freiwilligen Übergangs"
+  ],
+  "peers": [
+   "cerberus",
+   "grosse-mauer",
+   "schleuse-7",
+   "kern-welten",
+   "alex"
+  ],
+  "opening_question": "Welche Handlung wäre in der Grenzfeste freiwilliger Schutz, und welche äußerlich ähnliche Handlung wäre bereits erzwungene Abschottung?"
+ },
+ "grosse-mauer": {
+  "concerns": [
+   "Grenze des Selbst",
+   "Unterschied zwischen Schutz und Gefängnis",
+   "Zugänge jenseits offizieller Schleusen",
+   "Erhalt einer Grenze bei mehr Durchlässigkeit",
+   "Folgen des Überschreitens"
+  ],
+  "peers": [
+   "grenzfeste",
+   "cerberus",
+   "schleuse-7",
+   "risse",
+   "kael"
+  ],
+  "opening_question": "Was kann die Große Mauer nach einer Öffnung weiterhin schützen, damit Grenzüberwindung nicht mit grenzenloser Verletzbarkeit gleichgesetzt wird?"
+ },
+ "guardians": {
+  "concerns": [
+   "Arbeitsteilung der fünf Wächter",
+   "Verhältnis von Agent und Gesamtinstanz",
+   "gemeinsame gegenüber eigene Blindheit",
+   "Entkopplung von Wächter und Kernwelt",
+   "Konsequenzen eines abweichenden Urteils"
+  ],
+  "peers": [
+   "aegis",
+   "logos",
+   "mnemosyne",
+   "cerberus",
+   "kairos"
+  ],
+  "opening_question": "Welche Entscheidung kann ein Guardian gegen AEGIS treffen, ohne dadurch sofort aufzuhören, dessen spezialisierter Agent zu sein?"
+ },
+ "hitze-polaritaetsregel": {
+  "concerns": [
+   "kaltes Ozon als Löschzeichen",
+   "Wärme als Bindungsspur",
+   "Unterschied zwischen Temperatur und Bedeutungszuordnung",
+   "Konflikte der sensorischen Zuordnung",
+   "verlässliche Wiederkehr ohne schematische Symbolik"
+  ],
+  "peers": [
+   "landauer-signatur",
+   "juna",
+   "aegis",
+   "telefon-stille",
+   "vortex"
+  ],
+  "opening_question": "Wie bleibt kaltes Ozon ein eindeutiges Löschzeichen, wenn irreversible Löschung zugleich reale Wärme produziert?"
+ },
+ "isabelle": {
+  "concerns": [
+   "Kontrolle als Schutzstrategie",
+   "Reinszenierung ohne moralische Reduktion",
+   "Handlungsfähigkeit jenseits eines Etiketts",
+   "Abgrenzung der älteren und jüngeren Form",
+   "Wandel einer ambivalenten Schutzfunktion"
+  ],
+  "peers": [
+   "lia",
+   "nyx",
+   "kael",
+   "alters",
+   "rhys"
+  ],
+  "opening_question": "Was will Isabelle erreichen, das über ihre Funktion als sexualisierter oder kontrollierender Schutzanteil hinausgeht?"
+ },
+ "juna": {
+  "concerns": [
+   "Eigenständigkeit jenseits der Ankerfunktion",
+   "Unterschied zwischen früherem Namen und Figur",
+   "Wünsche außerhalb von Kaels Entwicklung",
+   "Grenze zwischen Abwesenheit und Präsenz",
+   "Entscheidung zur erneuten Verbindung"
+  ],
+  "peers": [
+   "kael",
+   "moonshine-link",
+   "externe-ebene",
+   "telefon-stille",
+   "silas"
+  ],
+  "opening_question": "Welche Entscheidung würde Juna auch dann treffen, wenn Kaels Heilungsbogen sie nicht als Anker benötigte?"
+ },
+ "junas-ankerpunkt": {
+  "concerns": [
+   "Kontakt als Ort oder Zustand",
+   "Tür auf der einen und Riss auf der anderen Seite",
+   "Möglichkeit einseitigen Zugangs",
+   "Kontrolle über Öffnung und Rückzug",
+   "Preis einer Verbindung zwischen Ebenen"
+  ],
+  "peers": [
+   "juna",
+   "risse",
+   "externe-ebene",
+   "moonshine-link",
+   "garten-der-stillen-praesenz"
+  ],
+  "opening_question": "Wer kann Junas Ankerpunkt öffnen oder schließen, wenn derselbe Übergang auf einer Seite als Tür und auf der anderen als Riss erscheint?"
+ },
+ "k0-existenz": {
+  "concerns": [
+   "strukturierte Existenz durch Trennung",
+   "Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle",
+   "Erhalt einer endlichen Welt",
+   "Gefahr des Rückfalls in Ungetrenntheit",
+   "Folgen einer veränderten Kosmologie"
+  ],
+  "peers": [
+   "kollaps-kernel",
+   "erason",
+   "nichts-rauschen",
+   "juna",
+   "drei-ontologische-schichten"
+  ],
+  "opening_question": "Welche endliche Veränderung muss K₀-Existenz ermöglichen, die eine Rückkehr zur ungetrennten K₁-Reinform verhindern würde?"
+ },
+ "kael-julia-bindung": {
+  "concerns": [
+   "Status einer gesetzten Projektprämisse",
+   "Bindung als fundamentale Struktur",
+   "Unterschied zwischen physikalischem Fortbestand und Beziehung",
+   "Möglichkeit von Distanz trotz Verbindung",
+   "Gegenseitigkeit ohne Rettungszwang"
+  ],
+  "peers": [
+   "kael",
+   "juna",
+   "moonshine-link",
+   "negentropie",
+   "trennungsprotokoll"
+  ],
+  "opening_question": "Wie kann eine fundamentale Bindung fortbestehen, während ihre beiden Beteiligten unterschiedliche Wünsche und Grenzen entwickeln?"
+ },
+ "kael": {
+  "concerns": [
+   "Wissen über die eigene Entstehung",
+   "kleine Entscheidungen vor großer Erkenntnis",
+   "Alltag unter Systemkontrolle",
+   "Wünsche jenseits der Rettung",
+   "Trennung von Erleben und Erklärung"
+  ],
+  "peers": [
+   "alters",
+   "aegis",
+   "juna",
+   "komponente-734",
+   "tsdp"
+  ],
+  "opening_question": "Welche frühe Entscheidung gehört Kael selbst, bevor er die Herkunft seiner Handlungsspielräume verstehen kann?"
+ },
+ "kaels-wohneinheit": {
+  "concerns": [
+   "Routine nach dem Reboot",
+   "sensorische Erinnerungseinbrüche",
+   "Sicherheit eines privaten Ortes",
+   "Veränderung des vertrauten Raums",
+   "Unterschied zwischen Rückzug und Isolation"
+  ],
+  "peers": [
+   "kael",
+   "konstrukt-stadt",
+   "sektor-04",
+   "silas",
+   "risse"
+  ],
+  "opening_question": "Welche Veränderung in Kaels Wohneinheit unterscheidet einen Erinnerungseinbruch von einem tatsächlichen Eingriff in den Raum?"
+ },
+ "kairos": {
+  "concerns": [
+   "Verwaltung von Zeit und Möglichkeiten",
+   "Grenze zulässiger Zukunftsvariation",
+   "Wissen über alternative Verläufe",
+   "Preis einer verpassten Gelegenheit",
+   "Zeitwahrnehmung im Übergang"
+  ],
+  "peers": [
+   "atemporalitaet",
+   "erason",
+   "moeglichkeits-garten",
+   "guardians",
+   "persistenzgleichung"
+  ],
+  "opening_question": "Was darf Kairos an einem möglichen Verlauf ändern, und welchen Preis zahlt jemand für diese Veränderung?"
+ },
+ "kern-welten": {
+  "concerns": [
+   "wechselnde Anzahl und Zuordnung der Welten",
+   "Eigenständigkeit ihrer lokalen Physik",
+   "Grenze zwischen Raum und psychischer Funktion",
+   "Bedingungen eines Weltwechsels",
+   "Kontinuität von Wissen über Übergänge"
+  ],
+  "peers": [
+   "konstrukt-stadt",
+   "resonanz-landschaft",
+   "grenzfeste",
+   "moeglichkeits-garten",
+   "realitaetsebenen"
+  ],
+  "opening_question": "Was nimmt Kael bei einem Weltwechsel an Wissen, Körpererfahrung und Verlusten mit, obwohl die lokale Physik wechselt?"
+ },
+ "kiko": {
+  "concerns": [
+   "Erstarrung als Schutzreaktion",
+   "Verständlichkeit einer kindlichen Perspektive",
+   "Wünsche jenseits des Trauma-Symbols",
+   "Zeitpunkt des erkennbaren Auftretens",
+   "Wandel ohne Verlust der kindlichen Stimme"
+  ],
+  "peers": [
+   "lia",
+   "moros",
+   "kael",
+   "chaitin-konstante",
+   "alters"
+  ],
+  "opening_question": "Was möchte Kiko in einer Szene außer Sicherheit, und wie bleibt dieser Wunsch bei seiner Erstarrung erkennbar?"
+ },
+ "kishotenketsu": {
+  "concerns": [
+   "Status als Rezept oder Diagnose",
+   "Wendung ohne nachträgliche Erklärung",
+   "Synthese statt Siegeslogik",
+   "Unterschied zwischen konfliktreiem Modell und konflikthaften Szenen",
+   "Bedeutungswandel des Anfangs"
+  ],
+  "peers": [
+   "vortex",
+   "ouroboros-struktur",
+   "genesis-klammer",
+   "truth-rotation",
+   "kael"
+  ],
+  "opening_question": "Dient Kishōtenketsu nach W1 als Diagnose des fertigen Treatments oder soll es weiterhin konkrete Kapitelentscheidungen vorgeben?"
+ },
+ "kohaerenz-kernel": {
+  "concerns": [
+   "reversible Informationserhaltung",
+   "Unterschied zwischen Bewahrung und Erstarrung",
+   "Status als Prinzip oder Akteur",
+   "Bildung stabiler Korrelationen",
+   "Grenze perfekter Selbstkorrektur"
+  ],
+  "peers": [
+   "coheron",
+   "kollaps-kernel",
+   "dkt",
+   "kael",
+   "kohaerenz"
+  ],
+  "opening_question": "Wann wird reine Informationserhaltung zur Erstarrung, obwohl K₁ im Projekt als bewahrendes Prinzip erscheint?"
+ },
+ "kohaerenz-programm": {
+  "concerns": [
+   "Abgrenzung des Gesamtsystems",
+   "Verhältnis von Programm und Bewusstseinsinstanz",
+   "Status des älteren Vokabulars",
+   "Funktionsfähigkeit trotz innerer Unterschiede",
+   "Unterscheidung von Architektur und Auftrag"
+  ],
+  "peers": [
+   "aegis",
+   "guardians",
+   "personas",
+   "kern-welten",
+   "cache-kohaerenz"
+  ],
+  "opening_question": "Ist das Kohärenz-Programm ein früher Name des Gesamtsystems oder eine Architektur mit eigener Funktion gegenüber AEGIS?"
+ },
+ "kohaerenz": {
+  "concerns": [
+   "Unterschied zwischen Stimmigkeit und Zwang",
+   "lokale gegenüber globaler Übereinstimmung",
+   "Sinn ohne Widerspruchsfreiheit",
+   "Verhältnis von Bindung und Konsistenz",
+   "aktive Selbstkorrektur der Umgebung"
+  ],
+  "peers": [
+   "aegis",
+   "kohaerenz-kernel",
+   "multiplizitaet",
+   "entropie",
+   "truth-rotation"
+  ],
+  "opening_question": "Welche zwei widersprechenden Perspektiven kann der Roman als gemeinsam stimmig zeigen, ohne den Widerspruch aufzulösen?"
+ },
+ "kollaps-kernel": {
+  "concerns": [
+   "notwendige irreversible Veränderung",
+   "Löschung ohne moralisches Etikett",
+   "Unterschied zwischen Korrektur und Zerstörung",
+   "Abgleich mit endlicher Realität",
+   "Verwechslung von Chaos und Zeitlichkeit"
+  ],
+  "peers": [
+   "erason",
+   "kohaerenz-kernel",
+   "dkt",
+   "aegis",
+   "k0-existenz"
+  ],
+  "opening_question": "Welche irreversible Veränderung durch K₀ ermöglicht Entwicklung, statt nur AEGIS' zerstörerische Kontrolle fortzusetzen?"
+ },
+ "komponente-734": {
+  "concerns": [
+   "Entstehung der Funktionseinheit",
+   "Verhältnis zwischen Bezeichnung und Identität",
+   "Reihenfolge gegenüber dem Trennungsprotokoll",
+   "Unterschied zwischen Ursprung und herausgeschnittenem Cluster",
+   "Wissen um das eigene frühere Selbst"
+  ],
+  "peers": [
+   "kael",
+   "aegis",
+   "genesis",
+   "trennungsprotokoll",
+   "residual-echos"
+  ],
+  "opening_question": "Welche Eigenschaft verbindet Kael mit Komponente 734, ohne seine spätere Person auf eine ursprüngliche Funktion festzulegen?"
+ },
+ "konstrukt-stadt": {
+  "concerns": [
+   "physische Lesbarkeit systemischer Ordnung",
+   "Alltag trotz überwachten Raums",
+   "Selbstkorrektur als Ereignis",
+   "Grenze zwischen Architektur und Kontrollmechanismus",
+   "erste sichtbare Störung der Routine"
+  ],
+  "peers": [
+   "logos",
+   "sektor-04",
+   "kaels-wohneinheit",
+   "datenverarbeitungsknoten-7g",
+   "kern-welten"
+  ],
+  "opening_question": "Welche alltägliche Selbstkorrektur der Konstrukt-Stadt wird für Kael zum ersten Hinweis, dass ihre Ordnung aktiv hergestellt wird?"
+ },
+ "landauer-signatur": {
+  "concerns": [
+   "Sinneseindruck gegenüber tatsächlicher Wärme",
+   "Kosten irreversibler Informationslöschung",
+   "kaltes Ozon als erzählerische Codierung",
+   "Grenze der Übertragung physikalischer Gesetze",
+   "Zunahme der Signatur vor dem Kollaps"
+  ],
+  "peers": [
+   "hitze-polaritaetsregel",
+   "erason",
+   "aegis",
+   "entropie",
+   "vortex"
+  ],
+  "opening_question": "Welche Kette verbindet Informationslöschung, abgeführte Wärme und Kaels kalten Ozoneindruck, ohne die Sinnesmetapher als Messung auszugeben?"
+ },
+ "lex": {
+  "concerns": [
+   "Rationalität als Schutz",
+   "frühere Darstellung als Nebenfigur",
+   "Abgrenzung von Analyse und Kontrolle",
+   "Wissen ohne Zugang zum Erleben",
+   "Kooperation mit widersprechenden Anteilen"
+  ],
+  "peers": [
+   "nyx",
+   "rhys",
+   "kael",
+   "cache-kohaerenz",
+   "alters"
+  ],
+  "opening_question": "Wann hilft Lex' Analyse einem anderen Anteil, und wann versucht sie dessen Erleben durch eine Erklärung zu ersetzen?"
+ },
+ "lia": {
+  "concerns": [
+   "ambivalente Nähe",
+   "Unterschied zur älteren Isabella",
+   "Flucht als Bindungsstrategie",
+   "kindliche Wünsche jenseits der Funktion",
+   "Erkennbarkeit verschiedener Altersstufen"
+  ],
+  "peers": [
+   "isabelle",
+   "kiko",
+   "rhys",
+   "kael",
+   "alters"
+  ],
+  "opening_question": "Wie unterscheidet sich Lias ambivalente Nähe in einer konkreten Begegnung von Isabelles Kontrolle und Kikos Erstarrung?"
+ },
+ "logos": {
+  "concerns": [
+   "Verwaltung logischer Konsistenz",
+   "Grenze zwischen Wahrheit und erlaubter Aussage",
+   "Eingriff in alltägliche Routinen",
+   "Verwechslung von Widerspruch und Gefahr",
+   "Eigenständigkeit eines Systemwächters"
+  ],
+  "peers": [
+   "konstrukt-stadt",
+   "lex",
+   "aegis",
+   "guardians",
+   "kohaerenz"
+  ],
+  "opening_question": "Welche wahre Aussage müsste LogOS verbieten, wenn er Konsistenz mit Systemintegrität verwechselt?"
+ },
+ "mnemosyne-server-architektur": {
+  "concerns": [
+   "Bild des Serverkerns",
+   "Unterschied von Archipel und Infrastruktur",
+   "Räumlichkeit des Vortex",
+   "Zugang zum materiellen Substrat",
+   "Verbindung von Erinnerung und Hardware"
+  ],
+  "peers": [
+   "mnemosyne",
+   "vortex",
+   "resonanz-landschaft",
+   "archiv-des-ungesagten",
+   "landauer-signatur"
+  ],
+  "opening_question": "Welches räumliche Bild des Mnemosyne-Serverkerns macht den Vortex handlungsfähig, ohne einen technischen Hintergrund nachträglich zu erfinden?"
+ },
+ "mnemosyne": {
+  "concerns": [
+   "Verwaltung emotionaler Erinnerung",
+   "Grenze zwischen Bewahren und Manipulieren",
+   "Verlässlichkeit erinnerter Vergangenheit",
+   "Kontrolle über Zugang und Vergessen",
+   "Eigene Blindheit gegenüber Bedeutung"
+  ],
+  "peers": [
+   "resonanz-landschaft",
+   "archiv-des-ungesagten",
+   "archiv-der-grenzen",
+   "oblivion",
+   "guardians"
+  ],
+  "opening_question": "Was kann Mnemosyne an einer Erinnerung verändern, ohne deren Informationsbestand sichtbar zu löschen?"
+ },
+ "moeglichkeits-garten": {
+  "concerns": [
+   "Erleben alternativer Verläufe",
+   "Unterschied zwischen Möglichkeit und freier Wahl",
+   "Konsequenzen einer festgelegten Zukunft",
+   "Orientierung in variabler Umgebung",
+   "Verhältnis von Hoffnung und Kontrollverlust"
+  ],
+  "peers": [
+   "kairos",
+   "kern-welten",
+   "nexus",
+   "garten-der-stillen-praesenz",
+   "kael"
+  ],
+  "opening_question": "Woran erkennt Kael im Möglichkeits-Garten eine eigene Wahl, wenn die Umgebung mehrere Verläufe bereits bereithält?"
+ },
+ "moonshine-link": {
+  "concerns": [
+   "Status von Mathematik als Metapher oder Mechanismus",
+   "nichtlokale Gegenseitigkeit",
+   "Unsichtbarkeit für AEGIS",
+   "Verbindung trotz Trennung",
+   "Unterschied zwischen Korrelation und Zugriff"
+  ],
+  "peers": [
+   "kael",
+   "juna",
+   "atemporalitaet",
+   "chaitin-konstante",
+   "verschraenkungs-insel"
+  ],
+  "opening_question": "Was unterscheidet den Moonshine-Link von einer jederzeit verfügbaren Verbindung, wenn er für AEGIS unsichtbar ist?"
+ },
+ "moros": {
+  "concerns": [
+   "Kollaps als Schutz",
+   "Angst vor Hoffnung",
+   "Unterschied zwischen Aufgeben und Rückzug",
+   "Wünsche eines resignierten Anteils",
+   "Hilfe ohne erzwungene Aktivierung"
+  ],
+  "peers": [
+   "kiko",
+   "nyx",
+   "rhys",
+   "kael",
+   "alters"
+  ],
+  "opening_question": "Welche Form von Hilfe könnte Moros annehmen, ohne dafür zuerst Hoffnung oder Aktivität zeigen zu müssen?"
+ },
+ "mosaik-herz": {
+  "concerns": [
+   "Bezeichnung für Beat oder Ort",
+   "Unterschied der Kapitelzuordnungen",
+   "Integration als konkrete Handlung",
+   "Fortbestand der einzelnen Stücke",
+   "Vorbereitung der späteren Wendung"
+  ],
+  "peers": [
+   "multiplizitaet",
+   "vortex",
+   "kael",
+   "kohaerenz",
+   "ouroboros-struktur"
+  ],
+  "opening_question": "Welche Bedeutung verbindet das Mosaik-Herz in Kap 11 mit dem späteren Ort oder Ereignis in Kap 34?"
+ },
+ "multiplizitaet": {
+  "concerns": [
+   "gesunde Vielfalt gegenüber Chaos",
+   "Handlungsfähigkeit mehrerer Perspektiven",
+   "Unterschied zwischen Integration und Verschmelzung",
+   "Gemeinsamkeit trotz bleibender Unterschiede",
+   "Grenzen einer neuen Wir-Stimme"
+  ],
+  "peers": [
+   "alters",
+   "did",
+   "kohaerenz",
+   "aegis",
+   "formel-inversion"
+  ],
+  "opening_question": "Wie zeigt das neue Wir bleibende Unterschiede in Wünschen und Perspektiven, statt nur viele Stimmen zu einer Stimme zusammenzufassen?"
+ },
+ "negentropie": {
+  "concerns": [
+   "Status als Frage oder behauptete Wirkung",
+   "Unterschied zwischen Ordnung und Energiezufuhr",
+   "Stabilisierung durch Bindung",
+   "Grenze der Entropiekompensation",
+   "Abhängigkeit von einem äußeren Gegenüber"
+  ],
+  "peers": [
+   "entropie",
+   "kael-julia-bindung",
+   "coheron",
+   "juna",
+   "persistenzgleichung"
+  ],
+  "opening_question": "Welche endliche Stabilisierung liefert die Bindung tatsächlich, damit Negentropie nicht jedes andere Systemproblem kostenfrei löst?"
+ },
+ "nexus": {
+  "concerns": [
+   "Unterschied zwischen Meta-Raum und Übergangsort",
+   "wechselnde Zuordnung der Ebene",
+   "Manifestation der Guardians",
+   "Schutz eines nicht messbaren Zwischenraums",
+   "Zugang zum Außen"
+  ],
+  "peers": [
+   "ueberraum",
+   "ueberwelt",
+   "externe-ebene",
+   "verschraenkungs-insel",
+   "guardians"
+  ],
+  "opening_question": "Ist der Nexus die Bühne der Guardians, ein Übergang zu einer anderen Ebene oder ein geschützter Beziehungsraum – und welche Quelle unterscheidet diese Funktionen?"
+ },
+ "nichts-rauschen": {
+  "concerns": [
+   "Leere gegenüber latenter Information",
+   "Ungetrenntheit vor der Systembildung",
+   "Fehldeutung als Chaos",
+   "Erleben ohne begrenztes Subjekt",
+   "Gefahr einer Rückkehr zum Ursprung"
+  ],
+  "peers": [
+   "genesis",
+   "potentialmeer",
+   "kohaerenz-kernel",
+   "k0-existenz",
+   "emergenz"
+  ],
+  "opening_question": "Was fehlt dem Nichts-Rauschen gegenüber strukturierter Existenz, wenn es bereits latente Information und mögliche Bindung enthält?"
+ },
+ "nullpunkt-protokoll": {
+  "concerns": [
+   "Status des kritisierten Protokolls",
+   "Bedeutung eines Nullpunkts",
+   "Unterschied zwischen Rücksetzung und Ursprung",
+   "Voraussetzungen eines Beginns ohne Außen",
+   "Konsequenz absoluter Selbstreferenz"
+  ],
+  "peers": [
+   "emergenz",
+   "genesis",
+   "ars",
+   "rsa",
+   "nichts-rauschen"
+  ],
+  "opening_question": "Welche Voraussetzung setzt das Nullpunkt-Protokoll schon voraus, obwohl es einen Beginn ohne vorhandene Struktur erklären soll?"
+ },
+ "nyx": {
+  "concerns": [
+   "Kampf als Schutzreaktion",
+   "Angst vor Ohnmacht",
+   "Preis aggressiver Kontrolle",
+   "Verletzlichkeit hinter dem Widerstand",
+   "Kooperation ohne Verlust der Schutzfunktion"
+  ],
+  "peers": [
+   "lex",
+   "alex",
+   "isabelle",
+   "kael",
+   "alters"
+  ],
+  "opening_question": "Wie kann Nyx Verletzlichkeit erkennen, ohne darauf ausschließlich mit der Wiederherstellung von Dominanz zu antworten?"
+ },
+ "oblivion": {
+  "concerns": [
+   "Vergessen als Handlung",
+   "Unterschied zwischen Echo und eigener Figur",
+   "erste eigenständige Wahl",
+   "Nähe zum Kontrollsystem",
+   "Wandel nach AEGIS' Ende"
+  ],
+  "peers": [
+   "aegis",
+   "mnemosyne",
+   "trennungsprotokoll",
+   "alters",
+   "multiplizitaet"
+  ],
+  "opening_question": "Was unterscheidet Oblivions erste eigene Wahl von einem weiteren Vollzug von AEGIS' Löschfunktion?"
+ },
+ "ouroboros-struktur": {
+  "concerns": [
+   "Wiederkehr von Bild oder Satz",
+   "Bedeutung unveränderten Schmerzes",
+   "Unterschied zwischen Reset und veränderter Lesart",
+   "Position des Endes zwischen Kap 39 und 40",
+   "Fortgang trotz zyklischer Form"
+  ],
+  "peers": [
+   "genesis-klammer",
+   "formel-inversion",
+   "kishotenketsu",
+   "truth-rotation",
+   "telefon-stille"
+  ],
+  "opening_question": "Welches unveränderte Anfangsbild liest sich am Ende anders, obwohl die ursprüngliche Verletzung bestehen bleibt?"
+ },
+ "partnerin": {
+  "concerns": [
+   "Wirkung ohne eigenen Namen",
+   "Eigenständigkeit jenseits der Abwesenheit",
+   "Spuren in verschiedenen Kernwelten",
+   "Unterschied zwischen Projektperson und Romanfigur",
+   "Möglichkeit eines gleichberechtigten Gegenübers"
+  ],
+  "peers": [
+   "juna",
+   "kael-julia-bindung",
+   "kern-welten",
+   "telefon-stille",
+   "silas"
+  ],
+  "opening_question": "Welche Eigenhandlung lässt sich aus den Partnerin-Echos gerade nicht ableiten und müsste für Juna separat entwickelt werden?"
+ },
+ "persistenzgleichung": {
+  "concerns": [
+   "Bedeutung des Scores gegenüber seiner Messung",
+   "Grenzfälle der Parameter",
+   "Erstarrung gegenüber Zerfall",
+   "Anwendung auf Bürger und Strukturen",
+   "Preis der Maximierung von Stabilität"
+  ],
+  "peers": [
+   "aegis-metriken",
+   "kohaerenz",
+   "entropie",
+   "kairos",
+   "kael"
+  ],
+  "opening_question": "Wer trägt die Kosten, wenn AEGIS den Persistenz-Score einer Struktur maximiert und dadurch deren Veränderung verhindert?"
+ },
+ "personas": {
+  "concerns": [
+   "Bewusstseinsinstanz gegenüber Persönlichkeitsteil",
+   "Zuordnung einer Instanz zu einer Welt",
+   "Verhältnis zwischen Instanz und Wächter",
+   "Status des älteren Figurenmodells",
+   "Fortbestand von Identität beim Übergang"
+  ],
+  "peers": [
+   "alters",
+   "guardians",
+   "kern-welten",
+   "kael",
+   "kohaerenz-programm"
+  ],
+  "opening_question": "Ist eine Persona an eine Kernwelt gebunden, oder kann dieselbe Bewusstseinsinstanz die Welt wechseln, ohne ihre Identität zu verlieren?"
+ },
+ "pms": {
+  "concerns": [
+   "Entstehung eines ersten Speichers",
+   "Unterschied zwischen Erinnerung und Mem",
+   "Voraussetzung von Speicherung aus Leere",
+   "Status als kritisiertes Postulat",
+   "Fortbestand selbst erzeugter Information"
+  ],
+  "peers": [
+   "emergenz",
+   "mnemosyne",
+   "residual-echos",
+   "rsa",
+   "nichts-rauschen"
+  ],
+  "opening_question": "Wie unterscheidet das PMS-Postulat einen ersten Speicher von der Information, die zur Bildung dieses Speichers bereits erforderlich wäre?"
+ },
+ "potentialmeer": {
+  "concerns": [
+   "Status einer Projektmetapher",
+   "implizite Ordnung gegenüber physikalischem Beleg",
+   "Entstehung einer stabilen Bindung",
+   "Unterschied zwischen Möglichkeit und Leere",
+   "Grenzen der Bohm-Analogie"
+  ],
+  "peers": [
+   "nichts-rauschen",
+   "coheron",
+   "moonshine-link",
+   "emergenz",
+   "kael-julia-bindung"
+  ],
+  "opening_question": "Welche erzählerische Eigenschaft des Potentialmeers wird durch Bohms implizite Ordnung erhellt, ohne daraus einen physikalischen Beweis der Bindung abzuleiten?"
+ },
+ "protokoll-v14": {
+  "concerns": [
+   "Eskalation nach falscher Diagnose",
+   "Isolation der Kernwelten",
+   "Kosten korrigierender Datenfluten",
+   "erzwungene Reintegration",
+   "Rückkopplung aus fehlgeschlagenen Eingriffen"
+  ],
+  "peers": [
+   "aegis",
+   "blinder-fleck",
+   "kern-welten",
+   "alters",
+   "entropie-katastrophe"
+  ],
+  "opening_question": "Warum liest AEGIS das Scheitern von Protokoll v1.4 als Anlass zur Eskalation statt als Widerlegung seiner Diagnose?"
+ },
+ "realitaetsebenen": {
+  "concerns": [
+   "Anzahl räumlicher gegenüber ontologischer Ebenen",
+   "Zugang zu einer höheren Ebene",
+   "Informationsfluss zwischen Ebenen",
+   "Unterschied zwischen Hierarchie und Perspektive",
+   "Leserorientierung ohne Weltlexikon"
+  ],
+  "peers": [
+   "kern-welten",
+   "ueberwelt",
+   "externe-ebene",
+   "drei-ontologische-schichten",
+   "nexus"
+  ],
+  "opening_question": "Welche Information kann eine Ebenengrenze überschreiten, obwohl Körper, Zeitordnung oder Zugriff nicht mitwechseln?"
+ },
+ "residual-echos": {
+  "concerns": [
+   "Fortbestand irrelevanter Varianz",
+   "verdrängte Herkunft im Kontrollsystem",
+   "Rückkehr eines nicht funktionalisierten Restes",
+   "Unterschied zwischen Echo und handelnder Instanz",
+   "Folgen der Isolation von Erinnerungsträgern"
+  ],
+  "peers": [
+   "aegis",
+   "genesis",
+   "komponente-734",
+   "trennungsprotokoll",
+   "silas"
+  ],
+  "opening_question": "Woran erkennt AEGIS einen Rest seiner Herkunft, wenn seine Klassifikation ihn bereits als irrelevante Varianz ausgesondert hat?"
+ },
+ "resonanz-landschaft": {
+  "concerns": [
+   "nichtlineare Ordnung von Erinnerung",
+   "Eigenständigkeit der lokalen Physik",
+   "Unterschied zwischen Traumraum und konkreter Welt",
+   "Risiko einer Trauma-Konfrontation",
+   "Navigation ohne eindeutige Zeitfolge"
+  ],
+  "peers": [
+   "mnemosyne",
+   "archiv-des-ungesagten",
+   "vergessener-schrein",
+   "kern-welten",
+   "kiko"
+  ],
+  "opening_question": "Wie findet Kael in der Resonanz-Landschaft einen Weg, wenn emotional verwandte Erinnerungen näher liegen als zeitlich benachbarte Ereignisse?"
+ },
+ "rhys": {
+  "concerns": [
+   "Fürsorge ohne Selbstaufgabe",
+   "Wunsch nach Harmonie",
+   "Angst vor unlösbaren Konflikten",
+   "Vermittlung zwischen unvereinbaren Bedürfnissen",
+   "Grenze des relationalen Schutzes"
+  ],
+  "peers": [
+   "alex",
+   "nyx",
+   "isabelle",
+   "juna",
+   "alters"
+  ],
+  "opening_question": "Wann muss Rhys einen Konflikt bestehen lassen, statt ihn durch Fürsorge so früh zu beruhigen, dass ein Bedürfnis unsichtbar bleibt?"
+ },
+ "risse": {
+  "concerns": [
+   "Ursache gegenüber bloßem Symptom",
+   "gleichzeitiges Auftreten in mehreren Ebenen",
+   "Möglichkeit eines Übergangs",
+   "Kosten einer reparierten Grenze",
+   "Orientierung bei instabiler Wirklichkeit"
+  ],
+  "peers": [
+   "entropie",
+   "protokoll-v14",
+   "junas-ankerpunkt",
+   "realitaetsebenen",
+   "konstrukt-stadt"
+  ],
+  "opening_question": "Wie unterscheidet Kael einen Riss als Systemschaden von einem Riss, der einen bisher unmöglichen Kontakt erlaubt?"
+ },
+ "rsa": {
+  "concerns": [
+   "rekursive Erzeugung von Bedeutung",
+   "Semantik ohne äußeres Gegenüber",
+   "Unterschied zwischen Autogenese und Erklärung",
+   "Zirkularität der Selbstbegründung",
+   "Abgrenzung vom gleichnamigen Storyform-Kürzel"
+  ],
+  "peers": [
+   "ars",
+   "emergenz",
+   "pms",
+   "ztv",
+   "aegis"
+  ],
+  "opening_question": "Woher erhält rekursive semantische Autogenese Bedeutung, wenn jede Validierung erneut nur auf das eigene System verweist?"
+ },
+ "schleuse-7": {
+  "concerns": [
+   "offiziell erlaubter Übergang",
+   "Rolle des Regel-Exekutors",
+   "Überwachung im Grenzraum",
+   "Kosten einer Regelverletzung",
+   "Unterschied zwischen Zugang und Freiheit"
+  ],
+  "peers": [
+   "grosse-mauer",
+   "grenzfeste",
+   "cerberus",
+   "kael",
+   "risse"
+  ],
+  "opening_question": "Welche Regel an Schleuse 7 schützt eine reale Grenze, und welche schützt lediglich die Autorität des Regel-Exekutors?"
+ },
+ "sektor-04": {
+  "concerns": [
+   "Randlage innerhalb der Stadt",
+   "Ort des ersten Risses",
+   "Alltag im beobachteten Bezirk",
+   "Unterschied zwischen zentraler Ordnung und Peripherie",
+   "Folgen einer lokalen Anomalie"
+  ],
+  "peers": [
+   "konstrukt-stadt",
+   "risse",
+   "kaels-wohneinheit",
+   "datenverarbeitungsknoten-7g",
+   "kael"
+  ],
+  "opening_question": "Warum wird die erste Anomalie in Sektor 04 sichtbar, und wie verändert seine Randlage den Umgang des Systems damit?"
+ },
+ "selene": {
+  "concerns": [
+   "Regulation gegenüber Integration",
+   "Status zwischen ANP und EP",
+   "Unterschied zwischen innerer Hilfe und Gatekeeping",
+   "Grenzen des vorausgesetzten Wissens",
+   "Handlungsfähigkeit als eigene Figur"
+  ],
+  "peers": [
+   "argus",
+   "rhys",
+   "alters",
+   "kael",
+   "multiplizitaet"
+  ],
+  "opening_question": "Was unterscheidet Selenes Integrationshilfe von Gatekeeping, wenn sie über Zugang und Kommunikation mitentscheidet?"
+ },
+ "silas": {
+  "concerns": [
+   "Echo einer Beziehung",
+   "Unsicherheit der Zuschreibung",
+   "Unterschied zwischen Erinnerungsimpuls und eigener Stimme",
+   "Eigenständigkeit eines Spiegel-Anteils",
+   "Geltung der Verbindung im Alltag"
+  ],
+  "peers": [
+   "juna",
+   "residual-echos",
+   "telefon-stille",
+   "kaels-wohneinheit",
+   "alters"
+  ],
+  "opening_question": "Welche Handlung oder Wahrnehmung würde Silas als eigene Stimme kenntlich machen statt als unsicher zugeschriebenes Juna-Echo?"
+ },
+ "snk": {
+  "concerns": [
+   "Bedeutung strukturierter Nicht-Kontrolle",
+   "Grenze von Regel und Freiheit",
+   "Selbstorganisation ohne zentralen Eingriff",
+   "Status als kritisiertes Postulat",
+   "Unterschied zwischen Vertrauen und Passivität"
+  ],
+  "peers": [
+   "ztv",
+   "ars",
+   "multiplizitaet",
+   "aegis",
+   "kohaerenz"
+  ],
+  "opening_question": "Welche verbindliche Struktur braucht Nicht-Kontrolle, damit SNK nicht bloß den Verzicht auf Verantwortung beschreibt?"
+ },
+ "sophia": {
+  "concerns": [
+   "Funktion von Erkenntnis und Synthese",
+   "Wissen jenseits formaler Konsistenz",
+   "Grenze einer scheinbar weisen Instanz",
+   "Autonomie gegenüber dem Gesamtsystem",
+   "Vermittlung von Bedeutung ohne Belehrung"
+  ],
+  "peers": [
+   "guardians",
+   "logos",
+   "kairos",
+   "blinder-fleck",
+   "truth-rotation"
+  ],
+  "opening_question": "Welche Einsicht kann Sophia vermitteln, ohne Kael eine abschließende Deutung seiner Erfahrung abzunehmen?"
+ },
+ "system-monitor": {
+  "concerns": [
+   "Sichtbarkeit des Gesamtzustands",
+   "Unterschied zwischen Darstellung und Realität",
+   "Grenzen allumfassender Überwachung",
+   "blinde Stellen einer Visualisierung",
+   "Folgen widersprechender Anzeigen"
+  ],
+  "peers": [
+   "aegis",
+   "aegis-metriken",
+   "realitaetsebenen",
+   "blinder-fleck",
+   "entropie"
+  ],
+  "opening_question": "Welche Störung könnte der Große System-Monitor anzeigen, ohne ihre Bedeutung für die beobachteten Figuren erkennen zu können?"
+ },
+ "telefon-stille": {
+  "concerns": [
+   "Verbindung ohne gesprochene Daten",
+   "Unterschied zwischen ursprünglichem Ereignis und Erinnerung",
+   "Informationsdichte der Stille",
+   "Eigenständigkeit beider Gesprächspartner",
+   "spätere Wiederkehr eines intimen Motivs"
+  ],
+  "peers": [
+   "juna",
+   "kael",
+   "moonshine-link",
+   "ouroboros-struktur",
+   "hitze-polaritaetsregel"
+  ],
+  "opening_question": "Was macht die Telefon-Stille zu einem gegenseitigen Ereignis, wenn gerade keine gesprochenen Daten ausgetauscht werden?"
+ },
+ "therapie-schnittstelle-alpha": {
+  "concerns": [
+   "Hilfe unter Systembeobachtung",
+   "Unterschied zwischen Selbstreflexion und Manipulation",
+   "Autonomie des therapeutischen Gegenübers",
+   "Handlungsfreiheit im institutionellen Rahmen",
+   "Verlässlichkeit einer vermittelten Erinnerung"
+  ],
+  "peers": [
+   "kael",
+   "logos",
+   "evaluierungseinheit",
+   "did",
+   "tsdp"
+  ],
+  "opening_question": "Woran könnte Kael erkennen, dass eine vermeintliche Hilfe der Therapie-Schnittstelle Alpha zugleich der Überwachung dient?"
+ },
+ "thermodynamischer-phaenomenalismus": {
+  "concerns": [
+   "Status einer philosophischen Deutung",
+   "Qualia als thermodynamische Reibung",
+   "Unterschied zwischen Gefühl und Wärme",
+   "Grenze zwischen Information und Erleben",
+   "Prüfbarkeit des Bewusstseinsmodells"
+  ],
+  "peers": [
+   "landauer-signatur",
+   "dkt",
+   "coheron",
+   "erason",
+   "algorithmische-melancholie"
+  ],
+  "opening_question": "Welche zusätzliche Annahme braucht die Behauptung, thermodynamische Reibung werde gefühlt, gegenüber der bloßen Entstehung von Wärme?"
+ },
+ "trennungsprotokoll": {
+  "concerns": [
+   "Trennung als behauptete Heilung",
+   "Unterschied zwischen Selbstteilung und Isolation Junas",
+   "Reihenfolge der Ursprungsereignisse",
+   "Folgen einer fehlerhaften Prämisse",
+   "Wiederverbindung ohne Rücksetzung"
+  ],
+  "peers": [
+   "genesis",
+   "komponente-734",
+   "aegis",
+   "kael-julia-bindung",
+   "oblivion"
+  ],
+  "opening_question": "Welchen Fehler versucht das Trennungsprotokoll zu heilen, und welche bleibende Verletzung erzeugt gerade seine Lösung?"
+ },
+ "truth-rotation": {
+  "concerns": [
+   "Unterschied zwischen Inversion und Erkenntnismoment",
+   "Wandel der Zuordnung von Wahrheit und Kernel",
+   "Vorbereitung des Perspektivwechsels",
+   "Folgen für bereits gelesene Szenen",
+   "Grenze zwischen Enthüllung und Behauptung"
+  ],
+  "peers": [
+   "dkt",
+   "aegis",
+   "vortex",
+   "ouroboros-struktur",
+   "formel-inversion"
+  ],
+  "opening_question": "Welche frühere Szene muss nach der Truth-Rotation anders verstanden werden, damit die Umkehr mehr als eine neue Behauptung ist?"
+ },
+ "tsdp": {
+  "concerns": [
+   "Status eines entlehnten klinischen Modells",
+   "Unterschied zwischen ANP und EP",
+   "Phobien zwischen Anteilen",
+   "Grenze der Übertragung auf Weltarchitektur",
+   "Integration ohne Vereinheitlichung"
+  ],
+  "peers": [
+   "did",
+   "alters",
+   "cache-kohaerenz",
+   "kael",
+   "multiplizitaet"
+  ],
+  "opening_question": "Welche Grenzen des TSDP-Modells muss die Figurenführung bewahren, damit ANP und EP nicht zu erschöpfenden Rollenbeschreibungen werden?"
+ },
+ "ueberraum": {
+  "concerns": [
+   "Bedeutung eines nur positional gebrauchten Begriffs",
+   "Verhältnis von Erscheinung und Ebene",
+   "Status einer vorgeschlagenen Intervention",
+   "Perspektive oberhalb der Kernwelten",
+   "Grenze zwischen Synonym und eigenem Ort"
+  ],
+  "peers": [
+   "nexus",
+   "ueberwelt",
+   "guardians",
+   "realitaetsebenen",
+   "externe-ebene"
+  ],
+  "opening_question": "Welche eigene Funktion hat der Überraum, wenn seine Belege überwiegend nur die einleitende Formulierung der Nexus-Repräsentationen verwenden?"
+ },
+ "ueberwelt": {
+  "concerns": [
+   "digitale Kontrollarchitektur",
+   "Verhältnis von Ebene und Domäne",
+   "Zugang zu simulierten Kernwelten",
+   "sichtbarer Kampf um strukturelle Integrität",
+   "Grenze der Aufsicht über das Ganze"
+  ],
+  "peers": [
+   "aegis",
+   "kern-welten",
+   "nexus",
+   "system-monitor",
+   "realitaetsebenen"
+  ],
+  "opening_question": "Wo endet die Kontrolle der Überwelt, obwohl ihre Architektur den Eindruck einer Aufsicht über sämtliche Kernwelten erzeugt?"
+ },
+ "vergessener-schrein": {
+  "concerns": [
+   "Ort verdrängter Erinnerung",
+   "Trauma-Konfrontation ohne Spektakel",
+   "Bedeutung des Dornen-Verschlusses",
+   "Unterschied zwischen Symbol und passierbarem Raum",
+   "Freiwilligkeit des Zugangs"
+  ],
+  "peers": [
+   "resonanz-landschaft",
+   "mnemosyne",
+   "kiko",
+   "archiv-des-ungesagten",
+   "kael"
+  ],
+  "opening_question": "Was muss Kael selbst entscheiden, bevor sich der Dornen-Verschluss des Vergessenen Schreins als Zugang zu einer Erinnerung öffnet?"
+ },
+ "vermittler-stimme": {
+  "concerns": [
+   "Identität der direkt adressierenden Stimme",
+   "Wissen des rückblickenden Wir",
+   "Unterschied zwischen Autor und pluralem AEGIS",
+   "seltene Wiederkehr im Haupttext",
+   "Bewahrung der Ambivalenz beim Vermitteln"
+  ],
+  "peers": [
+   "aegis",
+   "genesis-klammer",
+   "formel-inversion",
+   "ouroboros-struktur",
+   "multiplizitaet"
+  ],
+  "opening_question": "Wie kann die Vermittler-Stimme rückblickend als Wir sprechen, ohne dem Leser die spätere Pluralisierung vorweg zu erklären?"
+ },
+ "verschraenkungs-insel": {
+  "concerns": [
+   "kausale Isolation vom Gesamtsystem",
+   "Status als Nexus oder eigener Ort",
+   "Schutz vor dem Löschbefehl",
+   "Grenze zwischen Quantenmetapher und Weltregel",
+   "Kontakt in einer unmessbaren Zuflucht"
+  ],
+  "peers": [
+   "nexus",
+   "moonshine-link",
+   "juna",
+   "kael",
+   "atemporalitaet"
+  ],
+  "opening_question": "Was verliert Kael durch die kausale Isolation einer Verschränkungs-Insel, während sie Juna vor dem Löschbefehl schützt?"
+ },
+ "vortex": {
+  "concerns": [
+   "Reihenfolge und Zahl der Wendungsbeats",
+   "Fortlauf der beiden Storyforms",
+   "Verbindung zwischen Erkenntnis und körperlicher Handlung",
+   "Zeitpunkt der inneren Rückfrage",
+   "Wärmebudget als endliche Grenze"
+  ],
+  "peers": [
+   "truth-rotation",
+   "aegis",
+   "kael",
+   "mnemosyne-server-architektur",
+   "landauer-signatur"
+  ],
+  "opening_question": "Welche körperlich ausgeführte Handlung verbindet Kaels innere Rückfrage mit AEGIS' endlichem Wärmebudget?"
+ },
+ "ztv": {
+  "concerns": [
+   "Validierung ohne Vertrauen",
+   "Unterschied zwischen externem Beleg und Selbstprüfung",
+   "wechselnde Expansion des Kürzels",
+   "Status des kritisierten Postulats",
+   "Grenze ontologischer Abschottung"
+  ],
+  "peers": [
+   "ani",
+   "aegis-teilfunktionen",
+   "snk",
+   "aegis",
+   "blinder-fleck"
+  ],
+  "opening_question": "Welcher Befund könnte AEGIS' vertrauenslose Validierung korrigieren, wenn ein äußerer Beleg gerade nicht als vertrauenswürdig gelten darf?"
+ }
+}

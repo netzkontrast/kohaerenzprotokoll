@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "vermittler-stimme",
+ "title": "Vermittler-Stimme",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Identität der direkt adressierenden Stimme",
+  "Wissen des rückblickenden Wir",
+  "Unterschied zwischen Autor und pluralem AEGIS",
+  "seltene Wiederkehr im Haupttext",
+  "Bewahrung der Ambivalenz beim Vermitteln"
+ ],
+ "basis": {
+  "vermittler-stimme": {
+   "title": "Vermittler-Stimme",
+   "path": "Wiki/candidates/vermittler-stimme.md",
+   "hash": "7978045e549b6ee232628e5846d5b0b0becdccf4d709d72fd78ee1be6bb73c5a"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "genesis-klammer": {
+   "title": "Genesis-Klammer",
+   "path": "Wiki/candidates/genesis-klammer.md",
+   "hash": "cb0c2af03ef01a3757eb1dfc38211430ec0f4325958224c3a7f38ff120afe1db"
+  },
+  "formel-inversion": {
+   "title": "Formel-Inversion",
+   "path": "Wiki/candidates/formel-inversion.md",
+   "hash": "dc66354ebd196afc9ce831cf9a83f9ad516f3ca65e773f27ca3f8475d00ca000"
+  },
+  "ouroboros-struktur": {
+   "title": "Ouroboros-Struktur",
+   "path": "Wiki/candidates/ouroboros-struktur.md",
+   "hash": "13a7e6d34afe7db3b2a18e55bc1789e62bd46ef26e6efdd7a5d9a5917dbeac6b"
+  },
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-vermittler-stimme-001",
+   "question": "Wie kann die Vermittler-Stimme rückblickend als Wir sprechen, ohne dem Leser die spätere Pluralisierung vorweg zu erklären?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-002",
+   "question": "Welche Lesarten auf der Seite zu Vermittler-Stimme stützen oder begrenzen „Identität der direkt adressierenden Stimme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-003",
+   "question": "Welcher Grenzfall würde bei Vermittler-Stimme die Annahmen über „Identität der direkt adressierenden Stimme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-004",
+   "question": "Wer könnte innerhalb des Romans bei Vermittler-Stimme etwas über „Identität der direkt adressierenden Stimme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-005",
+   "question": "Welche konkrete Entscheidung könnte „Identität der direkt adressierenden Stimme“ bei Vermittler-Stimme in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Identität der direkt adressierenden Stimme“ bei Vermittler-Stimme haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-007",
+   "question": "Wie lässt sich „Identität der direkt adressierenden Stimme“ bei Vermittler-Stimme zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-008",
+   "question": "Welche Alternativen sollte der Autor bei Vermittler-Stimme für „Identität der direkt adressierenden Stimme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-009",
+   "question": "Was bedeutet bei Vermittler-Stimme der Themenpunkt „Wissen des rückblickenden Wir“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-010",
+   "question": "Welche Lesarten auf der Seite zu Vermittler-Stimme stützen oder begrenzen „Wissen des rückblickenden Wir“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-011",
+   "question": "Welcher Grenzfall würde bei Vermittler-Stimme die Annahmen über „Wissen des rückblickenden Wir“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-012",
+   "question": "Wer könnte innerhalb des Romans bei Vermittler-Stimme etwas über „Wissen des rückblickenden Wir“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-013",
+   "question": "Welche konkrete Entscheidung könnte „Wissen des rückblickenden Wir“ bei Vermittler-Stimme in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen des rückblickenden Wir“ bei Vermittler-Stimme haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-015",
+   "question": "Wie lässt sich „Wissen des rückblickenden Wir“ bei Vermittler-Stimme zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-016",
+   "question": "Welche Alternativen sollte der Autor bei Vermittler-Stimme für „Wissen des rückblickenden Wir“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-017",
+   "question": "Was bedeutet bei Vermittler-Stimme der Themenpunkt „Unterschied zwischen Autor und pluralem AEGIS“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-018",
+   "question": "Welche Lesarten auf der Seite zu Vermittler-Stimme stützen oder begrenzen „Unterschied zwischen Autor und pluralem AEGIS“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-019",
+   "question": "Welcher Grenzfall würde bei Vermittler-Stimme die Annahmen über „Unterschied zwischen Autor und pluralem AEGIS“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-020",
+   "question": "Wer könnte innerhalb des Romans bei Vermittler-Stimme etwas über „Unterschied zwischen Autor und pluralem AEGIS“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Autor und pluralem AEGIS“ bei Vermittler-Stimme in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Autor und pluralem AEGIS“ bei Vermittler-Stimme haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-023",
+   "question": "Wie lässt sich „Unterschied zwischen Autor und pluralem AEGIS“ bei Vermittler-Stimme zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-024",
+   "question": "Welche Alternativen sollte der Autor bei Vermittler-Stimme für „Unterschied zwischen Autor und pluralem AEGIS“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-025",
+   "question": "Was bedeutet bei Vermittler-Stimme der Themenpunkt „seltene Wiederkehr im Haupttext“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-026",
+   "question": "Welche Lesarten auf der Seite zu Vermittler-Stimme stützen oder begrenzen „seltene Wiederkehr im Haupttext“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-027",
+   "question": "Welcher Grenzfall würde bei Vermittler-Stimme die Annahmen über „seltene Wiederkehr im Haupttext“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-028",
+   "question": "Wer könnte innerhalb des Romans bei Vermittler-Stimme etwas über „seltene Wiederkehr im Haupttext“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-029",
+   "question": "Welche konkrete Entscheidung könnte „seltene Wiederkehr im Haupttext“ bei Vermittler-Stimme in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „seltene Wiederkehr im Haupttext“ bei Vermittler-Stimme haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-031",
+   "question": "Wie lässt sich „seltene Wiederkehr im Haupttext“ bei Vermittler-Stimme zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-032",
+   "question": "Welche Alternativen sollte der Autor bei Vermittler-Stimme für „seltene Wiederkehr im Haupttext“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-033",
+   "question": "Was bedeutet bei Vermittler-Stimme der Themenpunkt „Bewahrung der Ambivalenz beim Vermitteln“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-034",
+   "question": "Welche Lesarten auf der Seite zu Vermittler-Stimme stützen oder begrenzen „Bewahrung der Ambivalenz beim Vermitteln“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-035",
+   "question": "Welcher Grenzfall würde bei Vermittler-Stimme die Annahmen über „Bewahrung der Ambivalenz beim Vermitteln“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-036",
+   "question": "Wer könnte innerhalb des Romans bei Vermittler-Stimme etwas über „Bewahrung der Ambivalenz beim Vermitteln“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-037",
+   "question": "Welche konkrete Entscheidung könnte „Bewahrung der Ambivalenz beim Vermitteln“ bei Vermittler-Stimme in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bewahrung der Ambivalenz beim Vermitteln“ bei Vermittler-Stimme haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-039",
+   "question": "Wie lässt sich „Bewahrung der Ambivalenz beim Vermitteln“ bei Vermittler-Stimme zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-040",
+   "question": "Welche Alternativen sollte der Autor bei Vermittler-Stimme für „Bewahrung der Ambivalenz beim Vermitteln“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-041",
+   "question": "Wo unterscheiden sich Vermittler-Stimme und AEGIS, wenn man sie unter dem Gesichtspunkt „Identität der direkt adressierenden Stimme“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-042",
+   "question": "Welche Quelle verbindet Vermittler-Stimme mit AEGIS in Bezug auf „Identität der direkt adressierenden Stimme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Vermittler-Stimme unter „Identität der direkt adressierenden Stimme“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-044",
+   "question": "Wie könnte sich das Wissen über Vermittler-Stimme vom Wissen über AEGIS unterscheiden, wenn „Identität der direkt adressierenden Stimme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vermittler-Stimme und AEGIS bei „Identität der direkt adressierenden Stimme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-046",
+   "question": "Falls Vermittler-Stimme im Hinblick auf „Identität der direkt adressierenden Stimme“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vermittler-Stimme und AEGIS bei „Identität der direkt adressierenden Stimme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-048",
+   "question": "Braucht der Roman eine Verbindung von Vermittler-Stimme und AEGIS bei „Identität der direkt adressierenden Stimme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-049",
+   "question": "In welchem denkbaren Fall könnte Vermittler-Stimme bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Identität der direkt adressierenden Stimme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-050",
+   "question": "Welche Kosten könnte eine Verbindung von Vermittler-Stimme und AEGIS in Bezug auf „Identität der direkt adressierenden Stimme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-051",
+   "question": "Welche ältere Lesart von Vermittler-Stimme oder AEGIS könnte die Gegenüberstellung unter „Identität der direkt adressierenden Stimme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vermittler-Stimme und AEGIS unter „Identität der direkt adressierenden Stimme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "vermittler-stimme",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-053",
+   "question": "Wo unterscheiden sich Vermittler-Stimme und Genesis-Klammer, wenn man sie unter dem Gesichtspunkt „Wissen des rückblickenden Wir“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-054",
+   "question": "Welche Quelle verbindet Vermittler-Stimme mit Genesis-Klammer in Bezug auf „Wissen des rückblickenden Wir“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-055",
+   "question": "Welche Grenzen aus der Seite zu Genesis-Klammer müsste eine Deutung von Vermittler-Stimme unter „Wissen des rückblickenden Wir“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-056",
+   "question": "Wie könnte sich das Wissen über Vermittler-Stimme vom Wissen über Genesis-Klammer unterscheiden, wenn „Wissen des rückblickenden Wir“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vermittler-Stimme und Genesis-Klammer bei „Wissen des rückblickenden Wir“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-058",
+   "question": "Falls Vermittler-Stimme im Hinblick auf „Wissen des rückblickenden Wir“ anders festgelegt wird: Welche Aussagen über Genesis-Klammer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vermittler-Stimme und Genesis-Klammer bei „Wissen des rückblickenden Wir“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-060",
+   "question": "Braucht der Roman eine Verbindung von Vermittler-Stimme und Genesis-Klammer bei „Wissen des rückblickenden Wir“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-061",
+   "question": "In welchem denkbaren Fall könnte Vermittler-Stimme bestehen, ohne dass Genesis-Klammer dieselbe Funktion übernimmt, und was würde das für „Wissen des rückblickenden Wir“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-062",
+   "question": "Welche Kosten könnte eine Verbindung von Vermittler-Stimme und Genesis-Klammer in Bezug auf „Wissen des rückblickenden Wir“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-063",
+   "question": "Welche ältere Lesart von Vermittler-Stimme oder Genesis-Klammer könnte die Gegenüberstellung unter „Wissen des rückblickenden Wir“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vermittler-Stimme und Genesis-Klammer unter „Wissen des rückblickenden Wir“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "vermittler-stimme",
+    "genesis-klammer"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-065",
+   "question": "Wo unterscheiden sich Vermittler-Stimme und Formel-Inversion, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Autor und pluralem AEGIS“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-066",
+   "question": "Welche Quelle verbindet Vermittler-Stimme mit Formel-Inversion in Bezug auf „Unterschied zwischen Autor und pluralem AEGIS“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-067",
+   "question": "Welche Grenzen aus der Seite zu Formel-Inversion müsste eine Deutung von Vermittler-Stimme unter „Unterschied zwischen Autor und pluralem AEGIS“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-068",
+   "question": "Wie könnte sich das Wissen über Vermittler-Stimme vom Wissen über Formel-Inversion unterscheiden, wenn „Unterschied zwischen Autor und pluralem AEGIS“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vermittler-Stimme und Formel-Inversion bei „Unterschied zwischen Autor und pluralem AEGIS“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-070",
+   "question": "Falls Vermittler-Stimme im Hinblick auf „Unterschied zwischen Autor und pluralem AEGIS“ anders festgelegt wird: Welche Aussagen über Formel-Inversion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vermittler-Stimme und Formel-Inversion bei „Unterschied zwischen Autor und pluralem AEGIS“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-072",
+   "question": "Braucht der Roman eine Verbindung von Vermittler-Stimme und Formel-Inversion bei „Unterschied zwischen Autor und pluralem AEGIS“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-073",
+   "question": "In welchem denkbaren Fall könnte Vermittler-Stimme bestehen, ohne dass Formel-Inversion dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Autor und pluralem AEGIS“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-074",
+   "question": "Welche Kosten könnte eine Verbindung von Vermittler-Stimme und Formel-Inversion in Bezug auf „Unterschied zwischen Autor und pluralem AEGIS“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-075",
+   "question": "Welche ältere Lesart von Vermittler-Stimme oder Formel-Inversion könnte die Gegenüberstellung unter „Unterschied zwischen Autor und pluralem AEGIS“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vermittler-Stimme und Formel-Inversion unter „Unterschied zwischen Autor und pluralem AEGIS“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "vermittler-stimme",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-077",
+   "question": "Wo unterscheiden sich Vermittler-Stimme und Ouroboros-Struktur, wenn man sie unter dem Gesichtspunkt „seltene Wiederkehr im Haupttext“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-078",
+   "question": "Welche Quelle verbindet Vermittler-Stimme mit Ouroboros-Struktur in Bezug auf „seltene Wiederkehr im Haupttext“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-079",
+   "question": "Welche Grenzen aus der Seite zu Ouroboros-Struktur müsste eine Deutung von Vermittler-Stimme unter „seltene Wiederkehr im Haupttext“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-080",
+   "question": "Wie könnte sich das Wissen über Vermittler-Stimme vom Wissen über Ouroboros-Struktur unterscheiden, wenn „seltene Wiederkehr im Haupttext“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vermittler-Stimme und Ouroboros-Struktur bei „seltene Wiederkehr im Haupttext“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-082",
+   "question": "Falls Vermittler-Stimme im Hinblick auf „seltene Wiederkehr im Haupttext“ anders festgelegt wird: Welche Aussagen über Ouroboros-Struktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vermittler-Stimme und Ouroboros-Struktur bei „seltene Wiederkehr im Haupttext“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-084",
+   "question": "Braucht der Roman eine Verbindung von Vermittler-Stimme und Ouroboros-Struktur bei „seltene Wiederkehr im Haupttext“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-085",
+   "question": "In welchem denkbaren Fall könnte Vermittler-Stimme bestehen, ohne dass Ouroboros-Struktur dieselbe Funktion übernimmt, und was würde das für „seltene Wiederkehr im Haupttext“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-086",
+   "question": "Welche Kosten könnte eine Verbindung von Vermittler-Stimme und Ouroboros-Struktur in Bezug auf „seltene Wiederkehr im Haupttext“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-087",
+   "question": "Welche ältere Lesart von Vermittler-Stimme oder Ouroboros-Struktur könnte die Gegenüberstellung unter „seltene Wiederkehr im Haupttext“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vermittler-Stimme und Ouroboros-Struktur unter „seltene Wiederkehr im Haupttext“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "vermittler-stimme",
+    "ouroboros-struktur"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-089",
+   "question": "Wo unterscheiden sich Vermittler-Stimme und Multiplizität, wenn man sie unter dem Gesichtspunkt „Bewahrung der Ambivalenz beim Vermitteln“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-090",
+   "question": "Welche Quelle verbindet Vermittler-Stimme mit Multiplizität in Bezug auf „Bewahrung der Ambivalenz beim Vermitteln“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-091",
+   "question": "Welche Grenzen aus der Seite zu Multiplizität müsste eine Deutung von Vermittler-Stimme unter „Bewahrung der Ambivalenz beim Vermitteln“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-092",
+   "question": "Wie könnte sich das Wissen über Vermittler-Stimme vom Wissen über Multiplizität unterscheiden, wenn „Bewahrung der Ambivalenz beim Vermitteln“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Vermittler-Stimme und Multiplizität bei „Bewahrung der Ambivalenz beim Vermitteln“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-094",
+   "question": "Falls Vermittler-Stimme im Hinblick auf „Bewahrung der Ambivalenz beim Vermitteln“ anders festgelegt wird: Welche Aussagen über Multiplizität müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Vermittler-Stimme und Multiplizität bei „Bewahrung der Ambivalenz beim Vermitteln“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-096",
+   "question": "Braucht der Roman eine Verbindung von Vermittler-Stimme und Multiplizität bei „Bewahrung der Ambivalenz beim Vermitteln“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-097",
+   "question": "In welchem denkbaren Fall könnte Vermittler-Stimme bestehen, ohne dass Multiplizität dieselbe Funktion übernimmt, und was würde das für „Bewahrung der Ambivalenz beim Vermitteln“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-098",
+   "question": "Welche Kosten könnte eine Verbindung von Vermittler-Stimme und Multiplizität in Bezug auf „Bewahrung der Ambivalenz beim Vermitteln“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-099",
+   "question": "Welche ältere Lesart von Vermittler-Stimme oder Multiplizität könnte die Gegenüberstellung unter „Bewahrung der Ambivalenz beim Vermitteln“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-vermittler-stimme-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Vermittler-Stimme und Multiplizität unter „Bewahrung der Ambivalenz beim Vermitteln“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "vermittler-stimme",
+    "multiplizitaet"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "k0-existenz",
+ "title": "K0-Existenz",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "strukturierte Existenz durch Trennung",
+  "Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle",
+  "Erhalt einer endlichen Welt",
+  "Gefahr des Rückfalls in Ungetrenntheit",
+  "Folgen einer veränderten Kosmologie"
+ ],
+ "basis": {
+  "k0-existenz": {
+   "title": "K0-Existenz",
+   "path": "Wiki/candidates/k0-existenz.md",
+   "hash": "c3a340bb3d310fc40c5f29c873588d250c4b8a4ce73918ddf6c5698ff157f0da"
+  },
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "nichts-rauschen": {
+   "title": "Nichts-Rauschen",
+   "path": "Wiki/candidates/nichts-rauschen.md",
+   "hash": "9c71bbc641ec6f0584e14c10976274e0379a666affe5938e7e551cdfd58d625d"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "drei-ontologische-schichten": {
+   "title": "Drei ontologische Schichten",
+   "path": "Wiki/candidates/drei-ontologische-schichten.md",
+   "hash": "7a502c21f77d057073e5aa20358987b8e6ef4a3269781606cb5a5ec8ffb67c8d"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-k0-existenz-001",
+   "question": "Welche endliche Veränderung muss K₀-Existenz ermöglichen, die eine Rückkehr zur ungetrennten K₁-Reinform verhindern würde?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-002",
+   "question": "Welche Lesarten auf der Seite zu K0-Existenz stützen oder begrenzen „strukturierte Existenz durch Trennung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-003",
+   "question": "Welcher Grenzfall würde bei K0-Existenz die Annahmen über „strukturierte Existenz durch Trennung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-004",
+   "question": "Wer könnte innerhalb des Romans bei K0-Existenz etwas über „strukturierte Existenz durch Trennung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-005",
+   "question": "Welche konkrete Entscheidung könnte „strukturierte Existenz durch Trennung“ bei K0-Existenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „strukturierte Existenz durch Trennung“ bei K0-Existenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-007",
+   "question": "Wie lässt sich „strukturierte Existenz durch Trennung“ bei K0-Existenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-008",
+   "question": "Welche Alternativen sollte der Autor bei K0-Existenz für „strukturierte Existenz durch Trennung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-009",
+   "question": "Was bedeutet bei K0-Existenz der Themenpunkt „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-010",
+   "question": "Welche Lesarten auf der Seite zu K0-Existenz stützen oder begrenzen „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-011",
+   "question": "Welcher Grenzfall würde bei K0-Existenz die Annahmen über „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-012",
+   "question": "Wer könnte innerhalb des Romans bei K0-Existenz etwas über „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ bei K0-Existenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ bei K0-Existenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-015",
+   "question": "Wie lässt sich „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ bei K0-Existenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-016",
+   "question": "Welche Alternativen sollte der Autor bei K0-Existenz für „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-017",
+   "question": "Was bedeutet bei K0-Existenz der Themenpunkt „Erhalt einer endlichen Welt“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-018",
+   "question": "Welche Lesarten auf der Seite zu K0-Existenz stützen oder begrenzen „Erhalt einer endlichen Welt“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-019",
+   "question": "Welcher Grenzfall würde bei K0-Existenz die Annahmen über „Erhalt einer endlichen Welt“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-020",
+   "question": "Wer könnte innerhalb des Romans bei K0-Existenz etwas über „Erhalt einer endlichen Welt“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-021",
+   "question": "Welche konkrete Entscheidung könnte „Erhalt einer endlichen Welt“ bei K0-Existenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erhalt einer endlichen Welt“ bei K0-Existenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-023",
+   "question": "Wie lässt sich „Erhalt einer endlichen Welt“ bei K0-Existenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-024",
+   "question": "Welche Alternativen sollte der Autor bei K0-Existenz für „Erhalt einer endlichen Welt“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-025",
+   "question": "Was bedeutet bei K0-Existenz der Themenpunkt „Gefahr des Rückfalls in Ungetrenntheit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-026",
+   "question": "Welche Lesarten auf der Seite zu K0-Existenz stützen oder begrenzen „Gefahr des Rückfalls in Ungetrenntheit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-027",
+   "question": "Welcher Grenzfall würde bei K0-Existenz die Annahmen über „Gefahr des Rückfalls in Ungetrenntheit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-028",
+   "question": "Wer könnte innerhalb des Romans bei K0-Existenz etwas über „Gefahr des Rückfalls in Ungetrenntheit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-029",
+   "question": "Welche konkrete Entscheidung könnte „Gefahr des Rückfalls in Ungetrenntheit“ bei K0-Existenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gefahr des Rückfalls in Ungetrenntheit“ bei K0-Existenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-031",
+   "question": "Wie lässt sich „Gefahr des Rückfalls in Ungetrenntheit“ bei K0-Existenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-032",
+   "question": "Welche Alternativen sollte der Autor bei K0-Existenz für „Gefahr des Rückfalls in Ungetrenntheit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-033",
+   "question": "Was bedeutet bei K0-Existenz der Themenpunkt „Folgen einer veränderten Kosmologie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-034",
+   "question": "Welche Lesarten auf der Seite zu K0-Existenz stützen oder begrenzen „Folgen einer veränderten Kosmologie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-035",
+   "question": "Welcher Grenzfall würde bei K0-Existenz die Annahmen über „Folgen einer veränderten Kosmologie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-036",
+   "question": "Wer könnte innerhalb des Romans bei K0-Existenz etwas über „Folgen einer veränderten Kosmologie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-037",
+   "question": "Welche konkrete Entscheidung könnte „Folgen einer veränderten Kosmologie“ bei K0-Existenz in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Folgen einer veränderten Kosmologie“ bei K0-Existenz haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-039",
+   "question": "Wie lässt sich „Folgen einer veränderten Kosmologie“ bei K0-Existenz zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-040",
+   "question": "Welche Alternativen sollte der Autor bei K0-Existenz für „Folgen einer veränderten Kosmologie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-041",
+   "question": "Wo unterscheiden sich K0-Existenz und Kollaps-Kernel (K₀), wenn man sie unter dem Gesichtspunkt „strukturierte Existenz durch Trennung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-042",
+   "question": "Welche Quelle verbindet K0-Existenz mit Kollaps-Kernel (K₀) in Bezug auf „strukturierte Existenz durch Trennung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-043",
+   "question": "Welche Grenzen aus der Seite zu Kollaps-Kernel (K₀) müsste eine Deutung von K0-Existenz unter „strukturierte Existenz durch Trennung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-044",
+   "question": "Wie könnte sich das Wissen über K0-Existenz vom Wissen über Kollaps-Kernel (K₀) unterscheiden, wenn „strukturierte Existenz durch Trennung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen K0-Existenz und Kollaps-Kernel (K₀) bei „strukturierte Existenz durch Trennung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-046",
+   "question": "Falls K0-Existenz im Hinblick auf „strukturierte Existenz durch Trennung“ anders festgelegt wird: Welche Aussagen über Kollaps-Kernel (K₀) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten K0-Existenz und Kollaps-Kernel (K₀) bei „strukturierte Existenz durch Trennung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-048",
+   "question": "Braucht der Roman eine Verbindung von K0-Existenz und Kollaps-Kernel (K₀) bei „strukturierte Existenz durch Trennung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-049",
+   "question": "In welchem denkbaren Fall könnte K0-Existenz bestehen, ohne dass Kollaps-Kernel (K₀) dieselbe Funktion übernimmt, und was würde das für „strukturierte Existenz durch Trennung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-050",
+   "question": "Welche Kosten könnte eine Verbindung von K0-Existenz und Kollaps-Kernel (K₀) in Bezug auf „strukturierte Existenz durch Trennung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-051",
+   "question": "Welche ältere Lesart von K0-Existenz oder Kollaps-Kernel (K₀) könnte die Gegenüberstellung unter „strukturierte Existenz durch Trennung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von K0-Existenz und Kollaps-Kernel (K₀) unter „strukturierte Existenz durch Trennung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "k0-existenz",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-053",
+   "question": "Wo unterscheiden sich K0-Existenz und Erason, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-054",
+   "question": "Welche Quelle verbindet K0-Existenz mit Erason in Bezug auf „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-055",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von K0-Existenz unter „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-056",
+   "question": "Wie könnte sich das Wissen über K0-Existenz vom Wissen über Erason unterscheiden, wenn „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen K0-Existenz und Erason bei „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-058",
+   "question": "Falls K0-Existenz im Hinblick auf „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten K0-Existenz und Erason bei „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-060",
+   "question": "Braucht der Roman eine Verbindung von K0-Existenz und Erason bei „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-061",
+   "question": "In welchem denkbaren Fall könnte K0-Existenz bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-062",
+   "question": "Welche Kosten könnte eine Verbindung von K0-Existenz und Erason in Bezug auf „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-063",
+   "question": "Welche ältere Lesart von K0-Existenz oder Erason könnte die Gegenüberstellung unter „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von K0-Existenz und Erason unter „Unterschied zwischen notwendiger Zeit und schädlicher Kontrolle“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "k0-existenz",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-065",
+   "question": "Wo unterscheiden sich K0-Existenz und Nichts-Rauschen, wenn man sie unter dem Gesichtspunkt „Erhalt einer endlichen Welt“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-066",
+   "question": "Welche Quelle verbindet K0-Existenz mit Nichts-Rauschen in Bezug auf „Erhalt einer endlichen Welt“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-067",
+   "question": "Welche Grenzen aus der Seite zu Nichts-Rauschen müsste eine Deutung von K0-Existenz unter „Erhalt einer endlichen Welt“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-068",
+   "question": "Wie könnte sich das Wissen über K0-Existenz vom Wissen über Nichts-Rauschen unterscheiden, wenn „Erhalt einer endlichen Welt“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen K0-Existenz und Nichts-Rauschen bei „Erhalt einer endlichen Welt“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-070",
+   "question": "Falls K0-Existenz im Hinblick auf „Erhalt einer endlichen Welt“ anders festgelegt wird: Welche Aussagen über Nichts-Rauschen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten K0-Existenz und Nichts-Rauschen bei „Erhalt einer endlichen Welt“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-072",
+   "question": "Braucht der Roman eine Verbindung von K0-Existenz und Nichts-Rauschen bei „Erhalt einer endlichen Welt“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-073",
+   "question": "In welchem denkbaren Fall könnte K0-Existenz bestehen, ohne dass Nichts-Rauschen dieselbe Funktion übernimmt, und was würde das für „Erhalt einer endlichen Welt“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-074",
+   "question": "Welche Kosten könnte eine Verbindung von K0-Existenz und Nichts-Rauschen in Bezug auf „Erhalt einer endlichen Welt“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-075",
+   "question": "Welche ältere Lesart von K0-Existenz oder Nichts-Rauschen könnte die Gegenüberstellung unter „Erhalt einer endlichen Welt“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von K0-Existenz und Nichts-Rauschen unter „Erhalt einer endlichen Welt“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "k0-existenz",
+    "nichts-rauschen"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-077",
+   "question": "Wo unterscheiden sich K0-Existenz und Juna, wenn man sie unter dem Gesichtspunkt „Gefahr des Rückfalls in Ungetrenntheit“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-078",
+   "question": "Welche Quelle verbindet K0-Existenz mit Juna in Bezug auf „Gefahr des Rückfalls in Ungetrenntheit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-079",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von K0-Existenz unter „Gefahr des Rückfalls in Ungetrenntheit“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-080",
+   "question": "Wie könnte sich das Wissen über K0-Existenz vom Wissen über Juna unterscheiden, wenn „Gefahr des Rückfalls in Ungetrenntheit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen K0-Existenz und Juna bei „Gefahr des Rückfalls in Ungetrenntheit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-082",
+   "question": "Falls K0-Existenz im Hinblick auf „Gefahr des Rückfalls in Ungetrenntheit“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten K0-Existenz und Juna bei „Gefahr des Rückfalls in Ungetrenntheit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-084",
+   "question": "Braucht der Roman eine Verbindung von K0-Existenz und Juna bei „Gefahr des Rückfalls in Ungetrenntheit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-085",
+   "question": "In welchem denkbaren Fall könnte K0-Existenz bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Gefahr des Rückfalls in Ungetrenntheit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-086",
+   "question": "Welche Kosten könnte eine Verbindung von K0-Existenz und Juna in Bezug auf „Gefahr des Rückfalls in Ungetrenntheit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-087",
+   "question": "Welche ältere Lesart von K0-Existenz oder Juna könnte die Gegenüberstellung unter „Gefahr des Rückfalls in Ungetrenntheit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von K0-Existenz und Juna unter „Gefahr des Rückfalls in Ungetrenntheit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "k0-existenz",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-089",
+   "question": "Wo unterscheiden sich K0-Existenz und Drei ontologische Schichten, wenn man sie unter dem Gesichtspunkt „Folgen einer veränderten Kosmologie“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-090",
+   "question": "Welche Quelle verbindet K0-Existenz mit Drei ontologische Schichten in Bezug auf „Folgen einer veränderten Kosmologie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-091",
+   "question": "Welche Grenzen aus der Seite zu Drei ontologische Schichten müsste eine Deutung von K0-Existenz unter „Folgen einer veränderten Kosmologie“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-092",
+   "question": "Wie könnte sich das Wissen über K0-Existenz vom Wissen über Drei ontologische Schichten unterscheiden, wenn „Folgen einer veränderten Kosmologie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen K0-Existenz und Drei ontologische Schichten bei „Folgen einer veränderten Kosmologie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-094",
+   "question": "Falls K0-Existenz im Hinblick auf „Folgen einer veränderten Kosmologie“ anders festgelegt wird: Welche Aussagen über Drei ontologische Schichten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten K0-Existenz und Drei ontologische Schichten bei „Folgen einer veränderten Kosmologie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-096",
+   "question": "Braucht der Roman eine Verbindung von K0-Existenz und Drei ontologische Schichten bei „Folgen einer veränderten Kosmologie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-097",
+   "question": "In welchem denkbaren Fall könnte K0-Existenz bestehen, ohne dass Drei ontologische Schichten dieselbe Funktion übernimmt, und was würde das für „Folgen einer veränderten Kosmologie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-098",
+   "question": "Welche Kosten könnte eine Verbindung von K0-Existenz und Drei ontologische Schichten in Bezug auf „Folgen einer veränderten Kosmologie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-099",
+   "question": "Welche ältere Lesart von K0-Existenz oder Drei ontologische Schichten könnte die Gegenüberstellung unter „Folgen einer veränderten Kosmologie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  },
+  {
+   "id": "RQ-k0-existenz-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von K0-Existenz und Drei ontologische Schichten unter „Folgen einer veränderten Kosmologie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "k0-existenz",
+    "drei-ontologische-schichten"
+   ]
+  }
+ ]
+}

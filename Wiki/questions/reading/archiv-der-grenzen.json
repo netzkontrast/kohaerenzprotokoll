@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "archiv-der-grenzen",
+ "title": "Archiv der Grenzen",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Zugang zu AEGIS-Dossiers",
+  "temporäre Durchlässigkeit",
+  "Wissen über Meta-Regeln",
+  "Bezeichnung als Lernarchiv Theta-9",
+  "Kosten verbotener Lektüre"
+ ],
+ "basis": {
+  "archiv-der-grenzen": {
+   "title": "Archiv der Grenzen",
+   "path": "Wiki/candidates/archiv-der-grenzen.md",
+   "hash": "f5b4ded0df8d006175f5e3c88f4478ae93dda438876a47581ae0a1b1fc41a577"
+  },
+  "archiv-des-ungesagten": {
+   "title": "Archiv des Ungesagten",
+   "path": "Wiki/candidates/archiv-des-ungesagten.md",
+   "hash": "d9eda82db399c05be355ebfe9a0984269757ac4da18e262523c897aa123bf9a2"
+  },
+  "mnemosyne": {
+   "title": "Mnemosyne",
+   "path": "Wiki/candidates/mnemosyne.md",
+   "hash": "2d92e3af41658700ec58bf97083966f026ebc1e11ee58bf9aef8ff6a1e8cfc50"
+  },
+  "resonanz-landschaft": {
+   "title": "Resonanz-Landschaft",
+   "path": "Wiki/candidates/resonanz-landschaft.md",
+   "hash": "3824e2a97f26009d6c805c65e923a303c7848abe8b775809ae0226c116eaffc3"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-archiv-der-grenzen-001",
+   "question": "Warum bekommt Kael Zugang zu AEGIS' Dossiers, und wer verliert dadurch Kontrolle über das bisher gesperrte Wissen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-002",
+   "question": "Welche Lesarten auf der Seite zu Archiv der Grenzen stützen oder begrenzen „Zugang zu AEGIS-Dossiers“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-003",
+   "question": "Welcher Grenzfall würde bei Archiv der Grenzen die Annahmen über „Zugang zu AEGIS-Dossiers“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-004",
+   "question": "Wer könnte innerhalb des Romans bei Archiv der Grenzen etwas über „Zugang zu AEGIS-Dossiers“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-005",
+   "question": "Welche konkrete Entscheidung könnte „Zugang zu AEGIS-Dossiers“ bei Archiv der Grenzen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugang zu AEGIS-Dossiers“ bei Archiv der Grenzen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-007",
+   "question": "Wie lässt sich „Zugang zu AEGIS-Dossiers“ bei Archiv der Grenzen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-008",
+   "question": "Welche Alternativen sollte der Autor bei Archiv der Grenzen für „Zugang zu AEGIS-Dossiers“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-009",
+   "question": "Was bedeutet bei Archiv der Grenzen der Themenpunkt „temporäre Durchlässigkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-010",
+   "question": "Welche Lesarten auf der Seite zu Archiv der Grenzen stützen oder begrenzen „temporäre Durchlässigkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-011",
+   "question": "Welcher Grenzfall würde bei Archiv der Grenzen die Annahmen über „temporäre Durchlässigkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-012",
+   "question": "Wer könnte innerhalb des Romans bei Archiv der Grenzen etwas über „temporäre Durchlässigkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-013",
+   "question": "Welche konkrete Entscheidung könnte „temporäre Durchlässigkeit“ bei Archiv der Grenzen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „temporäre Durchlässigkeit“ bei Archiv der Grenzen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-015",
+   "question": "Wie lässt sich „temporäre Durchlässigkeit“ bei Archiv der Grenzen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-016",
+   "question": "Welche Alternativen sollte der Autor bei Archiv der Grenzen für „temporäre Durchlässigkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-017",
+   "question": "Was bedeutet bei Archiv der Grenzen der Themenpunkt „Wissen über Meta-Regeln“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-018",
+   "question": "Welche Lesarten auf der Seite zu Archiv der Grenzen stützen oder begrenzen „Wissen über Meta-Regeln“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-019",
+   "question": "Welcher Grenzfall würde bei Archiv der Grenzen die Annahmen über „Wissen über Meta-Regeln“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-020",
+   "question": "Wer könnte innerhalb des Romans bei Archiv der Grenzen etwas über „Wissen über Meta-Regeln“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-021",
+   "question": "Welche konkrete Entscheidung könnte „Wissen über Meta-Regeln“ bei Archiv der Grenzen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wissen über Meta-Regeln“ bei Archiv der Grenzen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-023",
+   "question": "Wie lässt sich „Wissen über Meta-Regeln“ bei Archiv der Grenzen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-024",
+   "question": "Welche Alternativen sollte der Autor bei Archiv der Grenzen für „Wissen über Meta-Regeln“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-025",
+   "question": "Was bedeutet bei Archiv der Grenzen der Themenpunkt „Bezeichnung als Lernarchiv Theta-9“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-026",
+   "question": "Welche Lesarten auf der Seite zu Archiv der Grenzen stützen oder begrenzen „Bezeichnung als Lernarchiv Theta-9“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-027",
+   "question": "Welcher Grenzfall würde bei Archiv der Grenzen die Annahmen über „Bezeichnung als Lernarchiv Theta-9“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-028",
+   "question": "Wer könnte innerhalb des Romans bei Archiv der Grenzen etwas über „Bezeichnung als Lernarchiv Theta-9“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-029",
+   "question": "Welche konkrete Entscheidung könnte „Bezeichnung als Lernarchiv Theta-9“ bei Archiv der Grenzen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bezeichnung als Lernarchiv Theta-9“ bei Archiv der Grenzen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-031",
+   "question": "Wie lässt sich „Bezeichnung als Lernarchiv Theta-9“ bei Archiv der Grenzen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-032",
+   "question": "Welche Alternativen sollte der Autor bei Archiv der Grenzen für „Bezeichnung als Lernarchiv Theta-9“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-033",
+   "question": "Was bedeutet bei Archiv der Grenzen der Themenpunkt „Kosten verbotener Lektüre“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-034",
+   "question": "Welche Lesarten auf der Seite zu Archiv der Grenzen stützen oder begrenzen „Kosten verbotener Lektüre“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-035",
+   "question": "Welcher Grenzfall würde bei Archiv der Grenzen die Annahmen über „Kosten verbotener Lektüre“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-036",
+   "question": "Wer könnte innerhalb des Romans bei Archiv der Grenzen etwas über „Kosten verbotener Lektüre“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-037",
+   "question": "Welche konkrete Entscheidung könnte „Kosten verbotener Lektüre“ bei Archiv der Grenzen in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kosten verbotener Lektüre“ bei Archiv der Grenzen haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-039",
+   "question": "Wie lässt sich „Kosten verbotener Lektüre“ bei Archiv der Grenzen zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-040",
+   "question": "Welche Alternativen sollte der Autor bei Archiv der Grenzen für „Kosten verbotener Lektüre“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-041",
+   "question": "Wo unterscheiden sich Archiv der Grenzen und Archiv des Ungesagten, wenn man sie unter dem Gesichtspunkt „Zugang zu AEGIS-Dossiers“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-042",
+   "question": "Welche Quelle verbindet Archiv der Grenzen mit Archiv des Ungesagten in Bezug auf „Zugang zu AEGIS-Dossiers“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-043",
+   "question": "Welche Grenzen aus der Seite zu Archiv des Ungesagten müsste eine Deutung von Archiv der Grenzen unter „Zugang zu AEGIS-Dossiers“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-044",
+   "question": "Wie könnte sich das Wissen über Archiv der Grenzen vom Wissen über Archiv des Ungesagten unterscheiden, wenn „Zugang zu AEGIS-Dossiers“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv der Grenzen und Archiv des Ungesagten bei „Zugang zu AEGIS-Dossiers“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-046",
+   "question": "Falls Archiv der Grenzen im Hinblick auf „Zugang zu AEGIS-Dossiers“ anders festgelegt wird: Welche Aussagen über Archiv des Ungesagten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv der Grenzen und Archiv des Ungesagten bei „Zugang zu AEGIS-Dossiers“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-048",
+   "question": "Braucht der Roman eine Verbindung von Archiv der Grenzen und Archiv des Ungesagten bei „Zugang zu AEGIS-Dossiers“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-049",
+   "question": "In welchem denkbaren Fall könnte Archiv der Grenzen bestehen, ohne dass Archiv des Ungesagten dieselbe Funktion übernimmt, und was würde das für „Zugang zu AEGIS-Dossiers“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-050",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv der Grenzen und Archiv des Ungesagten in Bezug auf „Zugang zu AEGIS-Dossiers“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-051",
+   "question": "Welche ältere Lesart von Archiv der Grenzen oder Archiv des Ungesagten könnte die Gegenüberstellung unter „Zugang zu AEGIS-Dossiers“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv der Grenzen und Archiv des Ungesagten unter „Zugang zu AEGIS-Dossiers“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-053",
+   "question": "Wo unterscheiden sich Archiv der Grenzen und Mnemosyne, wenn man sie unter dem Gesichtspunkt „temporäre Durchlässigkeit“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-054",
+   "question": "Welche Quelle verbindet Archiv der Grenzen mit Mnemosyne in Bezug auf „temporäre Durchlässigkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-055",
+   "question": "Welche Grenzen aus der Seite zu Mnemosyne müsste eine Deutung von Archiv der Grenzen unter „temporäre Durchlässigkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-056",
+   "question": "Wie könnte sich das Wissen über Archiv der Grenzen vom Wissen über Mnemosyne unterscheiden, wenn „temporäre Durchlässigkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv der Grenzen und Mnemosyne bei „temporäre Durchlässigkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-058",
+   "question": "Falls Archiv der Grenzen im Hinblick auf „temporäre Durchlässigkeit“ anders festgelegt wird: Welche Aussagen über Mnemosyne müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv der Grenzen und Mnemosyne bei „temporäre Durchlässigkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-060",
+   "question": "Braucht der Roman eine Verbindung von Archiv der Grenzen und Mnemosyne bei „temporäre Durchlässigkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-061",
+   "question": "In welchem denkbaren Fall könnte Archiv der Grenzen bestehen, ohne dass Mnemosyne dieselbe Funktion übernimmt, und was würde das für „temporäre Durchlässigkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-062",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv der Grenzen und Mnemosyne in Bezug auf „temporäre Durchlässigkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-063",
+   "question": "Welche ältere Lesart von Archiv der Grenzen oder Mnemosyne könnte die Gegenüberstellung unter „temporäre Durchlässigkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv der Grenzen und Mnemosyne unter „temporäre Durchlässigkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "archiv-der-grenzen",
+    "mnemosyne"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-065",
+   "question": "Wo unterscheiden sich Archiv der Grenzen und Resonanz-Landschaft, wenn man sie unter dem Gesichtspunkt „Wissen über Meta-Regeln“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-066",
+   "question": "Welche Quelle verbindet Archiv der Grenzen mit Resonanz-Landschaft in Bezug auf „Wissen über Meta-Regeln“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-067",
+   "question": "Welche Grenzen aus der Seite zu Resonanz-Landschaft müsste eine Deutung von Archiv der Grenzen unter „Wissen über Meta-Regeln“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-068",
+   "question": "Wie könnte sich das Wissen über Archiv der Grenzen vom Wissen über Resonanz-Landschaft unterscheiden, wenn „Wissen über Meta-Regeln“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv der Grenzen und Resonanz-Landschaft bei „Wissen über Meta-Regeln“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-070",
+   "question": "Falls Archiv der Grenzen im Hinblick auf „Wissen über Meta-Regeln“ anders festgelegt wird: Welche Aussagen über Resonanz-Landschaft müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv der Grenzen und Resonanz-Landschaft bei „Wissen über Meta-Regeln“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-072",
+   "question": "Braucht der Roman eine Verbindung von Archiv der Grenzen und Resonanz-Landschaft bei „Wissen über Meta-Regeln“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-073",
+   "question": "In welchem denkbaren Fall könnte Archiv der Grenzen bestehen, ohne dass Resonanz-Landschaft dieselbe Funktion übernimmt, und was würde das für „Wissen über Meta-Regeln“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-074",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv der Grenzen und Resonanz-Landschaft in Bezug auf „Wissen über Meta-Regeln“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-075",
+   "question": "Welche ältere Lesart von Archiv der Grenzen oder Resonanz-Landschaft könnte die Gegenüberstellung unter „Wissen über Meta-Regeln“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv der Grenzen und Resonanz-Landschaft unter „Wissen über Meta-Regeln“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "archiv-der-grenzen",
+    "resonanz-landschaft"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-077",
+   "question": "Wo unterscheiden sich Archiv der Grenzen und Kael, wenn man sie unter dem Gesichtspunkt „Bezeichnung als Lernarchiv Theta-9“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-078",
+   "question": "Welche Quelle verbindet Archiv der Grenzen mit Kael in Bezug auf „Bezeichnung als Lernarchiv Theta-9“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-079",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Archiv der Grenzen unter „Bezeichnung als Lernarchiv Theta-9“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-080",
+   "question": "Wie könnte sich das Wissen über Archiv der Grenzen vom Wissen über Kael unterscheiden, wenn „Bezeichnung als Lernarchiv Theta-9“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv der Grenzen und Kael bei „Bezeichnung als Lernarchiv Theta-9“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-082",
+   "question": "Falls Archiv der Grenzen im Hinblick auf „Bezeichnung als Lernarchiv Theta-9“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv der Grenzen und Kael bei „Bezeichnung als Lernarchiv Theta-9“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-084",
+   "question": "Braucht der Roman eine Verbindung von Archiv der Grenzen und Kael bei „Bezeichnung als Lernarchiv Theta-9“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-085",
+   "question": "In welchem denkbaren Fall könnte Archiv der Grenzen bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Bezeichnung als Lernarchiv Theta-9“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-086",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv der Grenzen und Kael in Bezug auf „Bezeichnung als Lernarchiv Theta-9“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-087",
+   "question": "Welche ältere Lesart von Archiv der Grenzen oder Kael könnte die Gegenüberstellung unter „Bezeichnung als Lernarchiv Theta-9“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv der Grenzen und Kael unter „Bezeichnung als Lernarchiv Theta-9“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "archiv-der-grenzen",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-089",
+   "question": "Wo unterscheiden sich Archiv der Grenzen und AEGIS, wenn man sie unter dem Gesichtspunkt „Kosten verbotener Lektüre“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-090",
+   "question": "Welche Quelle verbindet Archiv der Grenzen mit AEGIS in Bezug auf „Kosten verbotener Lektüre“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Archiv der Grenzen unter „Kosten verbotener Lektüre“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-092",
+   "question": "Wie könnte sich das Wissen über Archiv der Grenzen vom Wissen über AEGIS unterscheiden, wenn „Kosten verbotener Lektüre“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Archiv der Grenzen und AEGIS bei „Kosten verbotener Lektüre“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-094",
+   "question": "Falls Archiv der Grenzen im Hinblick auf „Kosten verbotener Lektüre“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Archiv der Grenzen und AEGIS bei „Kosten verbotener Lektüre“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-096",
+   "question": "Braucht der Roman eine Verbindung von Archiv der Grenzen und AEGIS bei „Kosten verbotener Lektüre“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-097",
+   "question": "In welchem denkbaren Fall könnte Archiv der Grenzen bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Kosten verbotener Lektüre“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-098",
+   "question": "Welche Kosten könnte eine Verbindung von Archiv der Grenzen und AEGIS in Bezug auf „Kosten verbotener Lektüre“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-099",
+   "question": "Welche ältere Lesart von Archiv der Grenzen oder AEGIS könnte die Gegenüberstellung unter „Kosten verbotener Lektüre“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-archiv-der-grenzen-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Archiv der Grenzen und AEGIS unter „Kosten verbotener Lektüre“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "archiv-der-grenzen",
+    "aegis"
+   ]
+  }
+ ]
+}

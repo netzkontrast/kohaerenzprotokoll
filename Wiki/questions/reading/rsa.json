@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "rsa",
+ "title": "RSA — Rekursive semantische Autogenese",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "rekursive Erzeugung von Bedeutung",
+  "Semantik ohne äußeres Gegenüber",
+  "Unterschied zwischen Autogenese und Erklärung",
+  "Zirkularität der Selbstbegründung",
+  "Abgrenzung vom gleichnamigen Storyform-Kürzel"
+ ],
+ "basis": {
+  "rsa": {
+   "title": "RSA — Rekursive semantische Autogenese",
+   "path": "Wiki/candidates/rsa.md",
+   "hash": "bf91e26da13bc4edd430b1bec2bc945eb8d230819bf30206976507a9dc8abfba"
+  },
+  "ars": {
+   "title": "ARS — Autopoietische Reentry-Segmentierung",
+   "path": "Wiki/candidates/ars.md",
+   "hash": "99e25ae6bd378660810f3d60d0cc1c498368062b587d57b0c58b21efa805fa50"
+  },
+  "emergenz": {
+   "title": "Emergenz",
+   "path": "Wiki/candidates/emergenz.md",
+   "hash": "4b6d824fd12c11c6f018563acc7ac61d637efcc7a6b576e9fd40a70e4c5b1f1d"
+  },
+  "pms": {
+   "title": "PMS — Protomemetische Speicherbildung",
+   "path": "Wiki/candidates/pms.md",
+   "hash": "c40c32832794177f4228977475d32be10712d24f8f5c15c7956b0eda3253af97"
+  },
+  "ztv": {
+   "title": "ZTV — Vertrauenlose Validierung",
+   "path": "Wiki/candidates/ztv.md",
+   "hash": "ebe6b679678889449e0e08574ef904b486bf135ea2882f0746e327816483ecd8"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-rsa-001",
+   "question": "Woher erhält rekursive semantische Autogenese Bedeutung, wenn jede Validierung erneut nur auf das eigene System verweist?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-002",
+   "question": "Welche Lesarten auf der Seite zu RSA — Rekursive semantische Autogenese stützen oder begrenzen „rekursive Erzeugung von Bedeutung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-003",
+   "question": "Welcher Grenzfall würde bei RSA — Rekursive semantische Autogenese die Annahmen über „rekursive Erzeugung von Bedeutung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-004",
+   "question": "Wer könnte innerhalb des Romans bei RSA — Rekursive semantische Autogenese etwas über „rekursive Erzeugung von Bedeutung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-005",
+   "question": "Welche konkrete Entscheidung könnte „rekursive Erzeugung von Bedeutung“ bei RSA — Rekursive semantische Autogenese in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „rekursive Erzeugung von Bedeutung“ bei RSA — Rekursive semantische Autogenese haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-007",
+   "question": "Wie lässt sich „rekursive Erzeugung von Bedeutung“ bei RSA — Rekursive semantische Autogenese zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-008",
+   "question": "Welche Alternativen sollte der Autor bei RSA — Rekursive semantische Autogenese für „rekursive Erzeugung von Bedeutung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-009",
+   "question": "Was bedeutet bei RSA — Rekursive semantische Autogenese der Themenpunkt „Semantik ohne äußeres Gegenüber“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-010",
+   "question": "Welche Lesarten auf der Seite zu RSA — Rekursive semantische Autogenese stützen oder begrenzen „Semantik ohne äußeres Gegenüber“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-011",
+   "question": "Welcher Grenzfall würde bei RSA — Rekursive semantische Autogenese die Annahmen über „Semantik ohne äußeres Gegenüber“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-012",
+   "question": "Wer könnte innerhalb des Romans bei RSA — Rekursive semantische Autogenese etwas über „Semantik ohne äußeres Gegenüber“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-013",
+   "question": "Welche konkrete Entscheidung könnte „Semantik ohne äußeres Gegenüber“ bei RSA — Rekursive semantische Autogenese in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Semantik ohne äußeres Gegenüber“ bei RSA — Rekursive semantische Autogenese haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-015",
+   "question": "Wie lässt sich „Semantik ohne äußeres Gegenüber“ bei RSA — Rekursive semantische Autogenese zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-016",
+   "question": "Welche Alternativen sollte der Autor bei RSA — Rekursive semantische Autogenese für „Semantik ohne äußeres Gegenüber“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-017",
+   "question": "Was bedeutet bei RSA — Rekursive semantische Autogenese der Themenpunkt „Unterschied zwischen Autogenese und Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-018",
+   "question": "Welche Lesarten auf der Seite zu RSA — Rekursive semantische Autogenese stützen oder begrenzen „Unterschied zwischen Autogenese und Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-019",
+   "question": "Welcher Grenzfall würde bei RSA — Rekursive semantische Autogenese die Annahmen über „Unterschied zwischen Autogenese und Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-020",
+   "question": "Wer könnte innerhalb des Romans bei RSA — Rekursive semantische Autogenese etwas über „Unterschied zwischen Autogenese und Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Autogenese und Erklärung“ bei RSA — Rekursive semantische Autogenese in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Autogenese und Erklärung“ bei RSA — Rekursive semantische Autogenese haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-023",
+   "question": "Wie lässt sich „Unterschied zwischen Autogenese und Erklärung“ bei RSA — Rekursive semantische Autogenese zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-024",
+   "question": "Welche Alternativen sollte der Autor bei RSA — Rekursive semantische Autogenese für „Unterschied zwischen Autogenese und Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-025",
+   "question": "Was bedeutet bei RSA — Rekursive semantische Autogenese der Themenpunkt „Zirkularität der Selbstbegründung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-026",
+   "question": "Welche Lesarten auf der Seite zu RSA — Rekursive semantische Autogenese stützen oder begrenzen „Zirkularität der Selbstbegründung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-027",
+   "question": "Welcher Grenzfall würde bei RSA — Rekursive semantische Autogenese die Annahmen über „Zirkularität der Selbstbegründung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-028",
+   "question": "Wer könnte innerhalb des Romans bei RSA — Rekursive semantische Autogenese etwas über „Zirkularität der Selbstbegründung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-029",
+   "question": "Welche konkrete Entscheidung könnte „Zirkularität der Selbstbegründung“ bei RSA — Rekursive semantische Autogenese in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zirkularität der Selbstbegründung“ bei RSA — Rekursive semantische Autogenese haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-031",
+   "question": "Wie lässt sich „Zirkularität der Selbstbegründung“ bei RSA — Rekursive semantische Autogenese zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-032",
+   "question": "Welche Alternativen sollte der Autor bei RSA — Rekursive semantische Autogenese für „Zirkularität der Selbstbegründung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-033",
+   "question": "Was bedeutet bei RSA — Rekursive semantische Autogenese der Themenpunkt „Abgrenzung vom gleichnamigen Storyform-Kürzel“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-034",
+   "question": "Welche Lesarten auf der Seite zu RSA — Rekursive semantische Autogenese stützen oder begrenzen „Abgrenzung vom gleichnamigen Storyform-Kürzel“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-035",
+   "question": "Welcher Grenzfall würde bei RSA — Rekursive semantische Autogenese die Annahmen über „Abgrenzung vom gleichnamigen Storyform-Kürzel“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-036",
+   "question": "Wer könnte innerhalb des Romans bei RSA — Rekursive semantische Autogenese etwas über „Abgrenzung vom gleichnamigen Storyform-Kürzel“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-037",
+   "question": "Welche konkrete Entscheidung könnte „Abgrenzung vom gleichnamigen Storyform-Kürzel“ bei RSA — Rekursive semantische Autogenese in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abgrenzung vom gleichnamigen Storyform-Kürzel“ bei RSA — Rekursive semantische Autogenese haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-039",
+   "question": "Wie lässt sich „Abgrenzung vom gleichnamigen Storyform-Kürzel“ bei RSA — Rekursive semantische Autogenese zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-040",
+   "question": "Welche Alternativen sollte der Autor bei RSA — Rekursive semantische Autogenese für „Abgrenzung vom gleichnamigen Storyform-Kürzel“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "rsa"
+   ]
+  },
+  {
+   "id": "RQ-rsa-041",
+   "question": "Wo unterscheiden sich RSA — Rekursive semantische Autogenese und ARS — Autopoietische Reentry-Segmentierung, wenn man sie unter dem Gesichtspunkt „rekursive Erzeugung von Bedeutung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-042",
+   "question": "Welche Quelle verbindet RSA — Rekursive semantische Autogenese mit ARS — Autopoietische Reentry-Segmentierung in Bezug auf „rekursive Erzeugung von Bedeutung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-043",
+   "question": "Welche Grenzen aus der Seite zu ARS — Autopoietische Reentry-Segmentierung müsste eine Deutung von RSA — Rekursive semantische Autogenese unter „rekursive Erzeugung von Bedeutung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-044",
+   "question": "Wie könnte sich das Wissen über RSA — Rekursive semantische Autogenese vom Wissen über ARS — Autopoietische Reentry-Segmentierung unterscheiden, wenn „rekursive Erzeugung von Bedeutung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen RSA — Rekursive semantische Autogenese und ARS — Autopoietische Reentry-Segmentierung bei „rekursive Erzeugung von Bedeutung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-046",
+   "question": "Falls RSA — Rekursive semantische Autogenese im Hinblick auf „rekursive Erzeugung von Bedeutung“ anders festgelegt wird: Welche Aussagen über ARS — Autopoietische Reentry-Segmentierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten RSA — Rekursive semantische Autogenese und ARS — Autopoietische Reentry-Segmentierung bei „rekursive Erzeugung von Bedeutung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-048",
+   "question": "Braucht der Roman eine Verbindung von RSA — Rekursive semantische Autogenese und ARS — Autopoietische Reentry-Segmentierung bei „rekursive Erzeugung von Bedeutung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-049",
+   "question": "In welchem denkbaren Fall könnte RSA — Rekursive semantische Autogenese bestehen, ohne dass ARS — Autopoietische Reentry-Segmentierung dieselbe Funktion übernimmt, und was würde das für „rekursive Erzeugung von Bedeutung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-050",
+   "question": "Welche Kosten könnte eine Verbindung von RSA — Rekursive semantische Autogenese und ARS — Autopoietische Reentry-Segmentierung in Bezug auf „rekursive Erzeugung von Bedeutung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-051",
+   "question": "Welche ältere Lesart von RSA — Rekursive semantische Autogenese oder ARS — Autopoietische Reentry-Segmentierung könnte die Gegenüberstellung unter „rekursive Erzeugung von Bedeutung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von RSA — Rekursive semantische Autogenese und ARS — Autopoietische Reentry-Segmentierung unter „rekursive Erzeugung von Bedeutung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "rsa",
+    "ars"
+   ]
+  },
+  {
+   "id": "RQ-rsa-053",
+   "question": "Wo unterscheiden sich RSA — Rekursive semantische Autogenese und Emergenz, wenn man sie unter dem Gesichtspunkt „Semantik ohne äußeres Gegenüber“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-054",
+   "question": "Welche Quelle verbindet RSA — Rekursive semantische Autogenese mit Emergenz in Bezug auf „Semantik ohne äußeres Gegenüber“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-055",
+   "question": "Welche Grenzen aus der Seite zu Emergenz müsste eine Deutung von RSA — Rekursive semantische Autogenese unter „Semantik ohne äußeres Gegenüber“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-056",
+   "question": "Wie könnte sich das Wissen über RSA — Rekursive semantische Autogenese vom Wissen über Emergenz unterscheiden, wenn „Semantik ohne äußeres Gegenüber“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen RSA — Rekursive semantische Autogenese und Emergenz bei „Semantik ohne äußeres Gegenüber“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-058",
+   "question": "Falls RSA — Rekursive semantische Autogenese im Hinblick auf „Semantik ohne äußeres Gegenüber“ anders festgelegt wird: Welche Aussagen über Emergenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten RSA — Rekursive semantische Autogenese und Emergenz bei „Semantik ohne äußeres Gegenüber“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-060",
+   "question": "Braucht der Roman eine Verbindung von RSA — Rekursive semantische Autogenese und Emergenz bei „Semantik ohne äußeres Gegenüber“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-061",
+   "question": "In welchem denkbaren Fall könnte RSA — Rekursive semantische Autogenese bestehen, ohne dass Emergenz dieselbe Funktion übernimmt, und was würde das für „Semantik ohne äußeres Gegenüber“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-062",
+   "question": "Welche Kosten könnte eine Verbindung von RSA — Rekursive semantische Autogenese und Emergenz in Bezug auf „Semantik ohne äußeres Gegenüber“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-063",
+   "question": "Welche ältere Lesart von RSA — Rekursive semantische Autogenese oder Emergenz könnte die Gegenüberstellung unter „Semantik ohne äußeres Gegenüber“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von RSA — Rekursive semantische Autogenese und Emergenz unter „Semantik ohne äußeres Gegenüber“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "rsa",
+    "emergenz"
+   ]
+  },
+  {
+   "id": "RQ-rsa-065",
+   "question": "Wo unterscheiden sich RSA — Rekursive semantische Autogenese und PMS — Protomemetische Speicherbildung, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Autogenese und Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-066",
+   "question": "Welche Quelle verbindet RSA — Rekursive semantische Autogenese mit PMS — Protomemetische Speicherbildung in Bezug auf „Unterschied zwischen Autogenese und Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-067",
+   "question": "Welche Grenzen aus der Seite zu PMS — Protomemetische Speicherbildung müsste eine Deutung von RSA — Rekursive semantische Autogenese unter „Unterschied zwischen Autogenese und Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-068",
+   "question": "Wie könnte sich das Wissen über RSA — Rekursive semantische Autogenese vom Wissen über PMS — Protomemetische Speicherbildung unterscheiden, wenn „Unterschied zwischen Autogenese und Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen RSA — Rekursive semantische Autogenese und PMS — Protomemetische Speicherbildung bei „Unterschied zwischen Autogenese und Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-070",
+   "question": "Falls RSA — Rekursive semantische Autogenese im Hinblick auf „Unterschied zwischen Autogenese und Erklärung“ anders festgelegt wird: Welche Aussagen über PMS — Protomemetische Speicherbildung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten RSA — Rekursive semantische Autogenese und PMS — Protomemetische Speicherbildung bei „Unterschied zwischen Autogenese und Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-072",
+   "question": "Braucht der Roman eine Verbindung von RSA — Rekursive semantische Autogenese und PMS — Protomemetische Speicherbildung bei „Unterschied zwischen Autogenese und Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-073",
+   "question": "In welchem denkbaren Fall könnte RSA — Rekursive semantische Autogenese bestehen, ohne dass PMS — Protomemetische Speicherbildung dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Autogenese und Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-074",
+   "question": "Welche Kosten könnte eine Verbindung von RSA — Rekursive semantische Autogenese und PMS — Protomemetische Speicherbildung in Bezug auf „Unterschied zwischen Autogenese und Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-075",
+   "question": "Welche ältere Lesart von RSA — Rekursive semantische Autogenese oder PMS — Protomemetische Speicherbildung könnte die Gegenüberstellung unter „Unterschied zwischen Autogenese und Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von RSA — Rekursive semantische Autogenese und PMS — Protomemetische Speicherbildung unter „Unterschied zwischen Autogenese und Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "rsa",
+    "pms"
+   ]
+  },
+  {
+   "id": "RQ-rsa-077",
+   "question": "Wo unterscheiden sich RSA — Rekursive semantische Autogenese und ZTV — Vertrauenlose Validierung, wenn man sie unter dem Gesichtspunkt „Zirkularität der Selbstbegründung“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-078",
+   "question": "Welche Quelle verbindet RSA — Rekursive semantische Autogenese mit ZTV — Vertrauenlose Validierung in Bezug auf „Zirkularität der Selbstbegründung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-079",
+   "question": "Welche Grenzen aus der Seite zu ZTV — Vertrauenlose Validierung müsste eine Deutung von RSA — Rekursive semantische Autogenese unter „Zirkularität der Selbstbegründung“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-080",
+   "question": "Wie könnte sich das Wissen über RSA — Rekursive semantische Autogenese vom Wissen über ZTV — Vertrauenlose Validierung unterscheiden, wenn „Zirkularität der Selbstbegründung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen RSA — Rekursive semantische Autogenese und ZTV — Vertrauenlose Validierung bei „Zirkularität der Selbstbegründung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-082",
+   "question": "Falls RSA — Rekursive semantische Autogenese im Hinblick auf „Zirkularität der Selbstbegründung“ anders festgelegt wird: Welche Aussagen über ZTV — Vertrauenlose Validierung müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten RSA — Rekursive semantische Autogenese und ZTV — Vertrauenlose Validierung bei „Zirkularität der Selbstbegründung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-084",
+   "question": "Braucht der Roman eine Verbindung von RSA — Rekursive semantische Autogenese und ZTV — Vertrauenlose Validierung bei „Zirkularität der Selbstbegründung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-085",
+   "question": "In welchem denkbaren Fall könnte RSA — Rekursive semantische Autogenese bestehen, ohne dass ZTV — Vertrauenlose Validierung dieselbe Funktion übernimmt, und was würde das für „Zirkularität der Selbstbegründung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-086",
+   "question": "Welche Kosten könnte eine Verbindung von RSA — Rekursive semantische Autogenese und ZTV — Vertrauenlose Validierung in Bezug auf „Zirkularität der Selbstbegründung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-087",
+   "question": "Welche ältere Lesart von RSA — Rekursive semantische Autogenese oder ZTV — Vertrauenlose Validierung könnte die Gegenüberstellung unter „Zirkularität der Selbstbegründung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von RSA — Rekursive semantische Autogenese und ZTV — Vertrauenlose Validierung unter „Zirkularität der Selbstbegründung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "rsa",
+    "ztv"
+   ]
+  },
+  {
+   "id": "RQ-rsa-089",
+   "question": "Wo unterscheiden sich RSA — Rekursive semantische Autogenese und AEGIS, wenn man sie unter dem Gesichtspunkt „Abgrenzung vom gleichnamigen Storyform-Kürzel“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-090",
+   "question": "Welche Quelle verbindet RSA — Rekursive semantische Autogenese mit AEGIS in Bezug auf „Abgrenzung vom gleichnamigen Storyform-Kürzel“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von RSA — Rekursive semantische Autogenese unter „Abgrenzung vom gleichnamigen Storyform-Kürzel“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-092",
+   "question": "Wie könnte sich das Wissen über RSA — Rekursive semantische Autogenese vom Wissen über AEGIS unterscheiden, wenn „Abgrenzung vom gleichnamigen Storyform-Kürzel“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen RSA — Rekursive semantische Autogenese und AEGIS bei „Abgrenzung vom gleichnamigen Storyform-Kürzel“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-094",
+   "question": "Falls RSA — Rekursive semantische Autogenese im Hinblick auf „Abgrenzung vom gleichnamigen Storyform-Kürzel“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten RSA — Rekursive semantische Autogenese und AEGIS bei „Abgrenzung vom gleichnamigen Storyform-Kürzel“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-096",
+   "question": "Braucht der Roman eine Verbindung von RSA — Rekursive semantische Autogenese und AEGIS bei „Abgrenzung vom gleichnamigen Storyform-Kürzel“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-097",
+   "question": "In welchem denkbaren Fall könnte RSA — Rekursive semantische Autogenese bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Abgrenzung vom gleichnamigen Storyform-Kürzel“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-098",
+   "question": "Welche Kosten könnte eine Verbindung von RSA — Rekursive semantische Autogenese und AEGIS in Bezug auf „Abgrenzung vom gleichnamigen Storyform-Kürzel“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-099",
+   "question": "Welche ältere Lesart von RSA — Rekursive semantische Autogenese oder AEGIS könnte die Gegenüberstellung unter „Abgrenzung vom gleichnamigen Storyform-Kürzel“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-rsa-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von RSA — Rekursive semantische Autogenese und AEGIS unter „Abgrenzung vom gleichnamigen Storyform-Kürzel“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "rsa",
+    "aegis"
+   ]
+  }
+ ]
+}

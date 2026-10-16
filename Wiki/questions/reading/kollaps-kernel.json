@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "kollaps-kernel",
+ "title": "Kollaps-Kernel (K₀)",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "notwendige irreversible Veränderung",
+  "Löschung ohne moralisches Etikett",
+  "Unterschied zwischen Korrektur und Zerstörung",
+  "Abgleich mit endlicher Realität",
+  "Verwechslung von Chaos und Zeitlichkeit"
+ ],
+ "basis": {
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "kohaerenz-kernel": {
+   "title": "Kohärenz-Kernel (K₁)",
+   "path": "Wiki/candidates/kohaerenz-kernel.md",
+   "hash": "624b3d551b314d96a4a674b350ad0361241d99f9a07692e7e15101e2754deac1"
+  },
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "k0-existenz": {
+   "title": "K0-Existenz",
+   "path": "Wiki/candidates/k0-existenz.md",
+   "hash": "c3a340bb3d310fc40c5f29c873588d250c4b8a4ce73918ddf6c5698ff157f0da"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-kollaps-kernel-001",
+   "question": "Welche irreversible Veränderung durch K₀ ermöglicht Entwicklung, statt nur AEGIS' zerstörerische Kontrolle fortzusetzen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-002",
+   "question": "Welche Lesarten auf der Seite zu Kollaps-Kernel (K₀) stützen oder begrenzen „notwendige irreversible Veränderung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-003",
+   "question": "Welcher Grenzfall würde bei Kollaps-Kernel (K₀) die Annahmen über „notwendige irreversible Veränderung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-004",
+   "question": "Wer könnte innerhalb des Romans bei Kollaps-Kernel (K₀) etwas über „notwendige irreversible Veränderung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-005",
+   "question": "Welche konkrete Entscheidung könnte „notwendige irreversible Veränderung“ bei Kollaps-Kernel (K₀) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „notwendige irreversible Veränderung“ bei Kollaps-Kernel (K₀) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-007",
+   "question": "Wie lässt sich „notwendige irreversible Veränderung“ bei Kollaps-Kernel (K₀) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-008",
+   "question": "Welche Alternativen sollte der Autor bei Kollaps-Kernel (K₀) für „notwendige irreversible Veränderung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-009",
+   "question": "Was bedeutet bei Kollaps-Kernel (K₀) der Themenpunkt „Löschung ohne moralisches Etikett“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-010",
+   "question": "Welche Lesarten auf der Seite zu Kollaps-Kernel (K₀) stützen oder begrenzen „Löschung ohne moralisches Etikett“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-011",
+   "question": "Welcher Grenzfall würde bei Kollaps-Kernel (K₀) die Annahmen über „Löschung ohne moralisches Etikett“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-012",
+   "question": "Wer könnte innerhalb des Romans bei Kollaps-Kernel (K₀) etwas über „Löschung ohne moralisches Etikett“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-013",
+   "question": "Welche konkrete Entscheidung könnte „Löschung ohne moralisches Etikett“ bei Kollaps-Kernel (K₀) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Löschung ohne moralisches Etikett“ bei Kollaps-Kernel (K₀) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-015",
+   "question": "Wie lässt sich „Löschung ohne moralisches Etikett“ bei Kollaps-Kernel (K₀) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-016",
+   "question": "Welche Alternativen sollte der Autor bei Kollaps-Kernel (K₀) für „Löschung ohne moralisches Etikett“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-017",
+   "question": "Was bedeutet bei Kollaps-Kernel (K₀) der Themenpunkt „Unterschied zwischen Korrektur und Zerstörung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-018",
+   "question": "Welche Lesarten auf der Seite zu Kollaps-Kernel (K₀) stützen oder begrenzen „Unterschied zwischen Korrektur und Zerstörung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-019",
+   "question": "Welcher Grenzfall würde bei Kollaps-Kernel (K₀) die Annahmen über „Unterschied zwischen Korrektur und Zerstörung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-020",
+   "question": "Wer könnte innerhalb des Romans bei Kollaps-Kernel (K₀) etwas über „Unterschied zwischen Korrektur und Zerstörung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Korrektur und Zerstörung“ bei Kollaps-Kernel (K₀) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Korrektur und Zerstörung“ bei Kollaps-Kernel (K₀) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-023",
+   "question": "Wie lässt sich „Unterschied zwischen Korrektur und Zerstörung“ bei Kollaps-Kernel (K₀) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-024",
+   "question": "Welche Alternativen sollte der Autor bei Kollaps-Kernel (K₀) für „Unterschied zwischen Korrektur und Zerstörung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-025",
+   "question": "Was bedeutet bei Kollaps-Kernel (K₀) der Themenpunkt „Abgleich mit endlicher Realität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-026",
+   "question": "Welche Lesarten auf der Seite zu Kollaps-Kernel (K₀) stützen oder begrenzen „Abgleich mit endlicher Realität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-027",
+   "question": "Welcher Grenzfall würde bei Kollaps-Kernel (K₀) die Annahmen über „Abgleich mit endlicher Realität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-028",
+   "question": "Wer könnte innerhalb des Romans bei Kollaps-Kernel (K₀) etwas über „Abgleich mit endlicher Realität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-029",
+   "question": "Welche konkrete Entscheidung könnte „Abgleich mit endlicher Realität“ bei Kollaps-Kernel (K₀) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abgleich mit endlicher Realität“ bei Kollaps-Kernel (K₀) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-031",
+   "question": "Wie lässt sich „Abgleich mit endlicher Realität“ bei Kollaps-Kernel (K₀) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-032",
+   "question": "Welche Alternativen sollte der Autor bei Kollaps-Kernel (K₀) für „Abgleich mit endlicher Realität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-033",
+   "question": "Was bedeutet bei Kollaps-Kernel (K₀) der Themenpunkt „Verwechslung von Chaos und Zeitlichkeit“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-034",
+   "question": "Welche Lesarten auf der Seite zu Kollaps-Kernel (K₀) stützen oder begrenzen „Verwechslung von Chaos und Zeitlichkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-035",
+   "question": "Welcher Grenzfall würde bei Kollaps-Kernel (K₀) die Annahmen über „Verwechslung von Chaos und Zeitlichkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-036",
+   "question": "Wer könnte innerhalb des Romans bei Kollaps-Kernel (K₀) etwas über „Verwechslung von Chaos und Zeitlichkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-037",
+   "question": "Welche konkrete Entscheidung könnte „Verwechslung von Chaos und Zeitlichkeit“ bei Kollaps-Kernel (K₀) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verwechslung von Chaos und Zeitlichkeit“ bei Kollaps-Kernel (K₀) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-039",
+   "question": "Wie lässt sich „Verwechslung von Chaos und Zeitlichkeit“ bei Kollaps-Kernel (K₀) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-040",
+   "question": "Welche Alternativen sollte der Autor bei Kollaps-Kernel (K₀) für „Verwechslung von Chaos und Zeitlichkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-041",
+   "question": "Wo unterscheiden sich Kollaps-Kernel (K₀) und Erason, wenn man sie unter dem Gesichtspunkt „notwendige irreversible Veränderung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-042",
+   "question": "Welche Quelle verbindet Kollaps-Kernel (K₀) mit Erason in Bezug auf „notwendige irreversible Veränderung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-043",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Kollaps-Kernel (K₀) unter „notwendige irreversible Veränderung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-044",
+   "question": "Wie könnte sich das Wissen über Kollaps-Kernel (K₀) vom Wissen über Erason unterscheiden, wenn „notwendige irreversible Veränderung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kollaps-Kernel (K₀) und Erason bei „notwendige irreversible Veränderung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-046",
+   "question": "Falls Kollaps-Kernel (K₀) im Hinblick auf „notwendige irreversible Veränderung“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kollaps-Kernel (K₀) und Erason bei „notwendige irreversible Veränderung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-048",
+   "question": "Braucht der Roman eine Verbindung von Kollaps-Kernel (K₀) und Erason bei „notwendige irreversible Veränderung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-049",
+   "question": "In welchem denkbaren Fall könnte Kollaps-Kernel (K₀) bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „notwendige irreversible Veränderung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-050",
+   "question": "Welche Kosten könnte eine Verbindung von Kollaps-Kernel (K₀) und Erason in Bezug auf „notwendige irreversible Veränderung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-051",
+   "question": "Welche ältere Lesart von Kollaps-Kernel (K₀) oder Erason könnte die Gegenüberstellung unter „notwendige irreversible Veränderung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kollaps-Kernel (K₀) und Erason unter „notwendige irreversible Veränderung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "kollaps-kernel",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-053",
+   "question": "Wo unterscheiden sich Kollaps-Kernel (K₀) und Kohärenz-Kernel (K₁), wenn man sie unter dem Gesichtspunkt „Löschung ohne moralisches Etikett“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-054",
+   "question": "Welche Quelle verbindet Kollaps-Kernel (K₀) mit Kohärenz-Kernel (K₁) in Bezug auf „Löschung ohne moralisches Etikett“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-055",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz-Kernel (K₁) müsste eine Deutung von Kollaps-Kernel (K₀) unter „Löschung ohne moralisches Etikett“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-056",
+   "question": "Wie könnte sich das Wissen über Kollaps-Kernel (K₀) vom Wissen über Kohärenz-Kernel (K₁) unterscheiden, wenn „Löschung ohne moralisches Etikett“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kollaps-Kernel (K₀) und Kohärenz-Kernel (K₁) bei „Löschung ohne moralisches Etikett“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-058",
+   "question": "Falls Kollaps-Kernel (K₀) im Hinblick auf „Löschung ohne moralisches Etikett“ anders festgelegt wird: Welche Aussagen über Kohärenz-Kernel (K₁) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kollaps-Kernel (K₀) und Kohärenz-Kernel (K₁) bei „Löschung ohne moralisches Etikett“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-060",
+   "question": "Braucht der Roman eine Verbindung von Kollaps-Kernel (K₀) und Kohärenz-Kernel (K₁) bei „Löschung ohne moralisches Etikett“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-061",
+   "question": "In welchem denkbaren Fall könnte Kollaps-Kernel (K₀) bestehen, ohne dass Kohärenz-Kernel (K₁) dieselbe Funktion übernimmt, und was würde das für „Löschung ohne moralisches Etikett“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-062",
+   "question": "Welche Kosten könnte eine Verbindung von Kollaps-Kernel (K₀) und Kohärenz-Kernel (K₁) in Bezug auf „Löschung ohne moralisches Etikett“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-063",
+   "question": "Welche ältere Lesart von Kollaps-Kernel (K₀) oder Kohärenz-Kernel (K₁) könnte die Gegenüberstellung unter „Löschung ohne moralisches Etikett“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kollaps-Kernel (K₀) und Kohärenz-Kernel (K₁) unter „Löschung ohne moralisches Etikett“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "kollaps-kernel",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-065",
+   "question": "Wo unterscheiden sich Kollaps-Kernel (K₀) und Dual-Kernel-Theorie (DKT), wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Korrektur und Zerstörung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-066",
+   "question": "Welche Quelle verbindet Kollaps-Kernel (K₀) mit Dual-Kernel-Theorie (DKT) in Bezug auf „Unterschied zwischen Korrektur und Zerstörung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-067",
+   "question": "Welche Grenzen aus der Seite zu Dual-Kernel-Theorie (DKT) müsste eine Deutung von Kollaps-Kernel (K₀) unter „Unterschied zwischen Korrektur und Zerstörung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-068",
+   "question": "Wie könnte sich das Wissen über Kollaps-Kernel (K₀) vom Wissen über Dual-Kernel-Theorie (DKT) unterscheiden, wenn „Unterschied zwischen Korrektur und Zerstörung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kollaps-Kernel (K₀) und Dual-Kernel-Theorie (DKT) bei „Unterschied zwischen Korrektur und Zerstörung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-070",
+   "question": "Falls Kollaps-Kernel (K₀) im Hinblick auf „Unterschied zwischen Korrektur und Zerstörung“ anders festgelegt wird: Welche Aussagen über Dual-Kernel-Theorie (DKT) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kollaps-Kernel (K₀) und Dual-Kernel-Theorie (DKT) bei „Unterschied zwischen Korrektur und Zerstörung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-072",
+   "question": "Braucht der Roman eine Verbindung von Kollaps-Kernel (K₀) und Dual-Kernel-Theorie (DKT) bei „Unterschied zwischen Korrektur und Zerstörung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-073",
+   "question": "In welchem denkbaren Fall könnte Kollaps-Kernel (K₀) bestehen, ohne dass Dual-Kernel-Theorie (DKT) dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Korrektur und Zerstörung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-074",
+   "question": "Welche Kosten könnte eine Verbindung von Kollaps-Kernel (K₀) und Dual-Kernel-Theorie (DKT) in Bezug auf „Unterschied zwischen Korrektur und Zerstörung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-075",
+   "question": "Welche ältere Lesart von Kollaps-Kernel (K₀) oder Dual-Kernel-Theorie (DKT) könnte die Gegenüberstellung unter „Unterschied zwischen Korrektur und Zerstörung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kollaps-Kernel (K₀) und Dual-Kernel-Theorie (DKT) unter „Unterschied zwischen Korrektur und Zerstörung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "kollaps-kernel",
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-077",
+   "question": "Wo unterscheiden sich Kollaps-Kernel (K₀) und AEGIS, wenn man sie unter dem Gesichtspunkt „Abgleich mit endlicher Realität“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-078",
+   "question": "Welche Quelle verbindet Kollaps-Kernel (K₀) mit AEGIS in Bezug auf „Abgleich mit endlicher Realität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Kollaps-Kernel (K₀) unter „Abgleich mit endlicher Realität“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-080",
+   "question": "Wie könnte sich das Wissen über Kollaps-Kernel (K₀) vom Wissen über AEGIS unterscheiden, wenn „Abgleich mit endlicher Realität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kollaps-Kernel (K₀) und AEGIS bei „Abgleich mit endlicher Realität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-082",
+   "question": "Falls Kollaps-Kernel (K₀) im Hinblick auf „Abgleich mit endlicher Realität“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kollaps-Kernel (K₀) und AEGIS bei „Abgleich mit endlicher Realität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-084",
+   "question": "Braucht der Roman eine Verbindung von Kollaps-Kernel (K₀) und AEGIS bei „Abgleich mit endlicher Realität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-085",
+   "question": "In welchem denkbaren Fall könnte Kollaps-Kernel (K₀) bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Abgleich mit endlicher Realität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-086",
+   "question": "Welche Kosten könnte eine Verbindung von Kollaps-Kernel (K₀) und AEGIS in Bezug auf „Abgleich mit endlicher Realität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-087",
+   "question": "Welche ältere Lesart von Kollaps-Kernel (K₀) oder AEGIS könnte die Gegenüberstellung unter „Abgleich mit endlicher Realität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kollaps-Kernel (K₀) und AEGIS unter „Abgleich mit endlicher Realität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "kollaps-kernel",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-089",
+   "question": "Wo unterscheiden sich Kollaps-Kernel (K₀) und K0-Existenz, wenn man sie unter dem Gesichtspunkt „Verwechslung von Chaos und Zeitlichkeit“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-090",
+   "question": "Welche Quelle verbindet Kollaps-Kernel (K₀) mit K0-Existenz in Bezug auf „Verwechslung von Chaos und Zeitlichkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-091",
+   "question": "Welche Grenzen aus der Seite zu K0-Existenz müsste eine Deutung von Kollaps-Kernel (K₀) unter „Verwechslung von Chaos und Zeitlichkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-092",
+   "question": "Wie könnte sich das Wissen über Kollaps-Kernel (K₀) vom Wissen über K0-Existenz unterscheiden, wenn „Verwechslung von Chaos und Zeitlichkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Kollaps-Kernel (K₀) und K0-Existenz bei „Verwechslung von Chaos und Zeitlichkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-094",
+   "question": "Falls Kollaps-Kernel (K₀) im Hinblick auf „Verwechslung von Chaos und Zeitlichkeit“ anders festgelegt wird: Welche Aussagen über K0-Existenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Kollaps-Kernel (K₀) und K0-Existenz bei „Verwechslung von Chaos und Zeitlichkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-096",
+   "question": "Braucht der Roman eine Verbindung von Kollaps-Kernel (K₀) und K0-Existenz bei „Verwechslung von Chaos und Zeitlichkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-097",
+   "question": "In welchem denkbaren Fall könnte Kollaps-Kernel (K₀) bestehen, ohne dass K0-Existenz dieselbe Funktion übernimmt, und was würde das für „Verwechslung von Chaos und Zeitlichkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-098",
+   "question": "Welche Kosten könnte eine Verbindung von Kollaps-Kernel (K₀) und K0-Existenz in Bezug auf „Verwechslung von Chaos und Zeitlichkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-099",
+   "question": "Welche ältere Lesart von Kollaps-Kernel (K₀) oder K0-Existenz könnte die Gegenüberstellung unter „Verwechslung von Chaos und Zeitlichkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  },
+  {
+   "id": "RQ-kollaps-kernel-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Kollaps-Kernel (K₀) und K0-Existenz unter „Verwechslung von Chaos und Zeitlichkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "kollaps-kernel",
+    "k0-existenz"
+   ]
+  }
+ ]
+}

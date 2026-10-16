@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ueberwelt",
+ "title": "Überwelt",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "digitale Kontrollarchitektur",
+  "Verhältnis von Ebene und Domäne",
+  "Zugang zu simulierten Kernwelten",
+  "sichtbarer Kampf um strukturelle Integrität",
+  "Grenze der Aufsicht über das Ganze"
+ ],
+ "basis": {
+  "ueberwelt": {
+   "title": "Überwelt",
+   "path": "Wiki/candidates/ueberwelt.md",
+   "hash": "5b0376c5488a6266c9ac1396245c5a00f1851ec5d7b03cfc8b4790171abef5a6"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "kern-welten": {
+   "title": "Kern-Welten",
+   "path": "Wiki/candidates/kern-welten.md",
+   "hash": "c742284dbc09026133eb97b4f05a0e600d2ae944505af06570cce23ab0cc0fe4"
+  },
+  "nexus": {
+   "title": "Nexus",
+   "path": "Wiki/candidates/nexus.md",
+   "hash": "2c8839ab4082b2f72d9df1267685dacd4c2870d69c3c15afbf866825d87bb40f"
+  },
+  "system-monitor": {
+   "title": "Der Große System-Monitor",
+   "path": "Wiki/candidates/system-monitor.md",
+   "hash": "99027a31989149d535a2ba5a747bcaee26441b47d9a7fcec2a403cee5f0143a4"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ueberwelt-001",
+   "question": "Wo endet die Kontrolle der Überwelt, obwohl ihre Architektur den Eindruck einer Aufsicht über sämtliche Kernwelten erzeugt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-002",
+   "question": "Welche Lesarten auf der Seite zu Überwelt stützen oder begrenzen „digitale Kontrollarchitektur“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-003",
+   "question": "Welcher Grenzfall würde bei Überwelt die Annahmen über „digitale Kontrollarchitektur“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-004",
+   "question": "Wer könnte innerhalb des Romans bei Überwelt etwas über „digitale Kontrollarchitektur“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-005",
+   "question": "Welche konkrete Entscheidung könnte „digitale Kontrollarchitektur“ bei Überwelt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „digitale Kontrollarchitektur“ bei Überwelt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-007",
+   "question": "Wie lässt sich „digitale Kontrollarchitektur“ bei Überwelt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-008",
+   "question": "Welche Alternativen sollte der Autor bei Überwelt für „digitale Kontrollarchitektur“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-009",
+   "question": "Was bedeutet bei Überwelt der Themenpunkt „Verhältnis von Ebene und Domäne“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-010",
+   "question": "Welche Lesarten auf der Seite zu Überwelt stützen oder begrenzen „Verhältnis von Ebene und Domäne“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-011",
+   "question": "Welcher Grenzfall würde bei Überwelt die Annahmen über „Verhältnis von Ebene und Domäne“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-012",
+   "question": "Wer könnte innerhalb des Romans bei Überwelt etwas über „Verhältnis von Ebene und Domäne“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-013",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Ebene und Domäne“ bei Überwelt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Ebene und Domäne“ bei Überwelt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-015",
+   "question": "Wie lässt sich „Verhältnis von Ebene und Domäne“ bei Überwelt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-016",
+   "question": "Welche Alternativen sollte der Autor bei Überwelt für „Verhältnis von Ebene und Domäne“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-017",
+   "question": "Was bedeutet bei Überwelt der Themenpunkt „Zugang zu simulierten Kernwelten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-018",
+   "question": "Welche Lesarten auf der Seite zu Überwelt stützen oder begrenzen „Zugang zu simulierten Kernwelten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-019",
+   "question": "Welcher Grenzfall würde bei Überwelt die Annahmen über „Zugang zu simulierten Kernwelten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-020",
+   "question": "Wer könnte innerhalb des Romans bei Überwelt etwas über „Zugang zu simulierten Kernwelten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-021",
+   "question": "Welche konkrete Entscheidung könnte „Zugang zu simulierten Kernwelten“ bei Überwelt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Zugang zu simulierten Kernwelten“ bei Überwelt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-023",
+   "question": "Wie lässt sich „Zugang zu simulierten Kernwelten“ bei Überwelt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-024",
+   "question": "Welche Alternativen sollte der Autor bei Überwelt für „Zugang zu simulierten Kernwelten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-025",
+   "question": "Was bedeutet bei Überwelt der Themenpunkt „sichtbarer Kampf um strukturelle Integrität“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-026",
+   "question": "Welche Lesarten auf der Seite zu Überwelt stützen oder begrenzen „sichtbarer Kampf um strukturelle Integrität“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-027",
+   "question": "Welcher Grenzfall würde bei Überwelt die Annahmen über „sichtbarer Kampf um strukturelle Integrität“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-028",
+   "question": "Wer könnte innerhalb des Romans bei Überwelt etwas über „sichtbarer Kampf um strukturelle Integrität“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-029",
+   "question": "Welche konkrete Entscheidung könnte „sichtbarer Kampf um strukturelle Integrität“ bei Überwelt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „sichtbarer Kampf um strukturelle Integrität“ bei Überwelt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-031",
+   "question": "Wie lässt sich „sichtbarer Kampf um strukturelle Integrität“ bei Überwelt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-032",
+   "question": "Welche Alternativen sollte der Autor bei Überwelt für „sichtbarer Kampf um strukturelle Integrität“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-033",
+   "question": "Was bedeutet bei Überwelt der Themenpunkt „Grenze der Aufsicht über das Ganze“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-034",
+   "question": "Welche Lesarten auf der Seite zu Überwelt stützen oder begrenzen „Grenze der Aufsicht über das Ganze“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-035",
+   "question": "Welcher Grenzfall würde bei Überwelt die Annahmen über „Grenze der Aufsicht über das Ganze“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-036",
+   "question": "Wer könnte innerhalb des Romans bei Überwelt etwas über „Grenze der Aufsicht über das Ganze“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze der Aufsicht über das Ganze“ bei Überwelt in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze der Aufsicht über das Ganze“ bei Überwelt haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-039",
+   "question": "Wie lässt sich „Grenze der Aufsicht über das Ganze“ bei Überwelt zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-040",
+   "question": "Welche Alternativen sollte der Autor bei Überwelt für „Grenze der Aufsicht über das Ganze“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-041",
+   "question": "Wo unterscheiden sich Überwelt und AEGIS, wenn man sie unter dem Gesichtspunkt „digitale Kontrollarchitektur“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-042",
+   "question": "Welche Quelle verbindet Überwelt mit AEGIS in Bezug auf „digitale Kontrollarchitektur“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Überwelt unter „digitale Kontrollarchitektur“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-044",
+   "question": "Wie könnte sich das Wissen über Überwelt vom Wissen über AEGIS unterscheiden, wenn „digitale Kontrollarchitektur“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überwelt und AEGIS bei „digitale Kontrollarchitektur“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-046",
+   "question": "Falls Überwelt im Hinblick auf „digitale Kontrollarchitektur“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überwelt und AEGIS bei „digitale Kontrollarchitektur“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-048",
+   "question": "Braucht der Roman eine Verbindung von Überwelt und AEGIS bei „digitale Kontrollarchitektur“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-049",
+   "question": "In welchem denkbaren Fall könnte Überwelt bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „digitale Kontrollarchitektur“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-050",
+   "question": "Welche Kosten könnte eine Verbindung von Überwelt und AEGIS in Bezug auf „digitale Kontrollarchitektur“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-051",
+   "question": "Welche ältere Lesart von Überwelt oder AEGIS könnte die Gegenüberstellung unter „digitale Kontrollarchitektur“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überwelt und AEGIS unter „digitale Kontrollarchitektur“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ueberwelt",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-053",
+   "question": "Wo unterscheiden sich Überwelt und Kern-Welten, wenn man sie unter dem Gesichtspunkt „Verhältnis von Ebene und Domäne“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-054",
+   "question": "Welche Quelle verbindet Überwelt mit Kern-Welten in Bezug auf „Verhältnis von Ebene und Domäne“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-055",
+   "question": "Welche Grenzen aus der Seite zu Kern-Welten müsste eine Deutung von Überwelt unter „Verhältnis von Ebene und Domäne“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-056",
+   "question": "Wie könnte sich das Wissen über Überwelt vom Wissen über Kern-Welten unterscheiden, wenn „Verhältnis von Ebene und Domäne“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überwelt und Kern-Welten bei „Verhältnis von Ebene und Domäne“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-058",
+   "question": "Falls Überwelt im Hinblick auf „Verhältnis von Ebene und Domäne“ anders festgelegt wird: Welche Aussagen über Kern-Welten müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überwelt und Kern-Welten bei „Verhältnis von Ebene und Domäne“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-060",
+   "question": "Braucht der Roman eine Verbindung von Überwelt und Kern-Welten bei „Verhältnis von Ebene und Domäne“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-061",
+   "question": "In welchem denkbaren Fall könnte Überwelt bestehen, ohne dass Kern-Welten dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Ebene und Domäne“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-062",
+   "question": "Welche Kosten könnte eine Verbindung von Überwelt und Kern-Welten in Bezug auf „Verhältnis von Ebene und Domäne“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-063",
+   "question": "Welche ältere Lesart von Überwelt oder Kern-Welten könnte die Gegenüberstellung unter „Verhältnis von Ebene und Domäne“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überwelt und Kern-Welten unter „Verhältnis von Ebene und Domäne“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ueberwelt",
+    "kern-welten"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-065",
+   "question": "Wo unterscheiden sich Überwelt und Nexus, wenn man sie unter dem Gesichtspunkt „Zugang zu simulierten Kernwelten“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-066",
+   "question": "Welche Quelle verbindet Überwelt mit Nexus in Bezug auf „Zugang zu simulierten Kernwelten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-067",
+   "question": "Welche Grenzen aus der Seite zu Nexus müsste eine Deutung von Überwelt unter „Zugang zu simulierten Kernwelten“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-068",
+   "question": "Wie könnte sich das Wissen über Überwelt vom Wissen über Nexus unterscheiden, wenn „Zugang zu simulierten Kernwelten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überwelt und Nexus bei „Zugang zu simulierten Kernwelten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-070",
+   "question": "Falls Überwelt im Hinblick auf „Zugang zu simulierten Kernwelten“ anders festgelegt wird: Welche Aussagen über Nexus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überwelt und Nexus bei „Zugang zu simulierten Kernwelten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-072",
+   "question": "Braucht der Roman eine Verbindung von Überwelt und Nexus bei „Zugang zu simulierten Kernwelten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-073",
+   "question": "In welchem denkbaren Fall könnte Überwelt bestehen, ohne dass Nexus dieselbe Funktion übernimmt, und was würde das für „Zugang zu simulierten Kernwelten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-074",
+   "question": "Welche Kosten könnte eine Verbindung von Überwelt und Nexus in Bezug auf „Zugang zu simulierten Kernwelten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-075",
+   "question": "Welche ältere Lesart von Überwelt oder Nexus könnte die Gegenüberstellung unter „Zugang zu simulierten Kernwelten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überwelt und Nexus unter „Zugang zu simulierten Kernwelten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ueberwelt",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-077",
+   "question": "Wo unterscheiden sich Überwelt und Der Große System-Monitor, wenn man sie unter dem Gesichtspunkt „sichtbarer Kampf um strukturelle Integrität“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-078",
+   "question": "Welche Quelle verbindet Überwelt mit Der Große System-Monitor in Bezug auf „sichtbarer Kampf um strukturelle Integrität“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-079",
+   "question": "Welche Grenzen aus der Seite zu Der Große System-Monitor müsste eine Deutung von Überwelt unter „sichtbarer Kampf um strukturelle Integrität“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-080",
+   "question": "Wie könnte sich das Wissen über Überwelt vom Wissen über Der Große System-Monitor unterscheiden, wenn „sichtbarer Kampf um strukturelle Integrität“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überwelt und Der Große System-Monitor bei „sichtbarer Kampf um strukturelle Integrität“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-082",
+   "question": "Falls Überwelt im Hinblick auf „sichtbarer Kampf um strukturelle Integrität“ anders festgelegt wird: Welche Aussagen über Der Große System-Monitor müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überwelt und Der Große System-Monitor bei „sichtbarer Kampf um strukturelle Integrität“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-084",
+   "question": "Braucht der Roman eine Verbindung von Überwelt und Der Große System-Monitor bei „sichtbarer Kampf um strukturelle Integrität“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-085",
+   "question": "In welchem denkbaren Fall könnte Überwelt bestehen, ohne dass Der Große System-Monitor dieselbe Funktion übernimmt, und was würde das für „sichtbarer Kampf um strukturelle Integrität“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-086",
+   "question": "Welche Kosten könnte eine Verbindung von Überwelt und Der Große System-Monitor in Bezug auf „sichtbarer Kampf um strukturelle Integrität“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-087",
+   "question": "Welche ältere Lesart von Überwelt oder Der Große System-Monitor könnte die Gegenüberstellung unter „sichtbarer Kampf um strukturelle Integrität“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überwelt und Der Große System-Monitor unter „sichtbarer Kampf um strukturelle Integrität“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ueberwelt",
+    "system-monitor"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-089",
+   "question": "Wo unterscheiden sich Überwelt und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Grenze der Aufsicht über das Ganze“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-090",
+   "question": "Welche Quelle verbindet Überwelt mit Realitätsebenen in Bezug auf „Grenze der Aufsicht über das Ganze“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-091",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Überwelt unter „Grenze der Aufsicht über das Ganze“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-092",
+   "question": "Wie könnte sich das Wissen über Überwelt vom Wissen über Realitätsebenen unterscheiden, wenn „Grenze der Aufsicht über das Ganze“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überwelt und Realitätsebenen bei „Grenze der Aufsicht über das Ganze“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-094",
+   "question": "Falls Überwelt im Hinblick auf „Grenze der Aufsicht über das Ganze“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überwelt und Realitätsebenen bei „Grenze der Aufsicht über das Ganze“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-096",
+   "question": "Braucht der Roman eine Verbindung von Überwelt und Realitätsebenen bei „Grenze der Aufsicht über das Ganze“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-097",
+   "question": "In welchem denkbaren Fall könnte Überwelt bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Grenze der Aufsicht über das Ganze“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-098",
+   "question": "Welche Kosten könnte eine Verbindung von Überwelt und Realitätsebenen in Bezug auf „Grenze der Aufsicht über das Ganze“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-099",
+   "question": "Welche ältere Lesart von Überwelt oder Realitätsebenen könnte die Gegenüberstellung unter „Grenze der Aufsicht über das Ganze“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberwelt-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überwelt und Realitätsebenen unter „Grenze der Aufsicht über das Ganze“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ueberwelt",
+    "realitaetsebenen"
+   ]
+  }
+ ]
+}

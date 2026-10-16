@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "rhys",
+ "title": "Rhys",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Fürsorge ohne Selbstaufgabe",
+  "Wunsch nach Harmonie",
+  "Angst vor unlösbaren Konflikten",
+  "Vermittlung zwischen unvereinbaren Bedürfnissen",
+  "Grenze des relationalen Schutzes"
+ ],
+ "basis": {
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  },
+  "alex": {
+   "title": "Alex",
+   "path": "Wiki/candidates/alex.md",
+   "hash": "6538e2812c49740b4f41298d6f960d97b2a61a3920710e00f930f4a7ded901d2"
+  },
+  "nyx": {
+   "title": "Nyx",
+   "path": "Wiki/candidates/nyx.md",
+   "hash": "aa8229d8a97c26a7de00405ae622849723762c4d13b598d13466ea7a98add48c"
+  },
+  "isabelle": {
+   "title": "Isabelle",
+   "path": "Wiki/candidates/isabelle.md",
+   "hash": "9108fdc9f8103430fead050e32571903834f16310b76321dd72a5941384e60f0"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-rhys-001",
+   "question": "Wann muss Rhys einen Konflikt bestehen lassen, statt ihn durch Fürsorge so früh zu beruhigen, dass ein Bedürfnis unsichtbar bleibt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-002",
+   "question": "Welche Lesarten auf der Seite zu Rhys stützen oder begrenzen „Fürsorge ohne Selbstaufgabe“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-003",
+   "question": "Welcher Grenzfall würde bei Rhys die Annahmen über „Fürsorge ohne Selbstaufgabe“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-004",
+   "question": "Wer könnte innerhalb des Romans bei Rhys etwas über „Fürsorge ohne Selbstaufgabe“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-005",
+   "question": "Welche konkrete Entscheidung könnte „Fürsorge ohne Selbstaufgabe“ bei Rhys in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fürsorge ohne Selbstaufgabe“ bei Rhys haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-007",
+   "question": "Wie lässt sich „Fürsorge ohne Selbstaufgabe“ bei Rhys zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-008",
+   "question": "Welche Alternativen sollte der Autor bei Rhys für „Fürsorge ohne Selbstaufgabe“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-009",
+   "question": "Was bedeutet bei Rhys der Themenpunkt „Wunsch nach Harmonie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-010",
+   "question": "Welche Lesarten auf der Seite zu Rhys stützen oder begrenzen „Wunsch nach Harmonie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-011",
+   "question": "Welcher Grenzfall würde bei Rhys die Annahmen über „Wunsch nach Harmonie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-012",
+   "question": "Wer könnte innerhalb des Romans bei Rhys etwas über „Wunsch nach Harmonie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-013",
+   "question": "Welche konkrete Entscheidung könnte „Wunsch nach Harmonie“ bei Rhys in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wunsch nach Harmonie“ bei Rhys haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-015",
+   "question": "Wie lässt sich „Wunsch nach Harmonie“ bei Rhys zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-016",
+   "question": "Welche Alternativen sollte der Autor bei Rhys für „Wunsch nach Harmonie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-017",
+   "question": "Was bedeutet bei Rhys der Themenpunkt „Angst vor unlösbaren Konflikten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-018",
+   "question": "Welche Lesarten auf der Seite zu Rhys stützen oder begrenzen „Angst vor unlösbaren Konflikten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-019",
+   "question": "Welcher Grenzfall würde bei Rhys die Annahmen über „Angst vor unlösbaren Konflikten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-020",
+   "question": "Wer könnte innerhalb des Romans bei Rhys etwas über „Angst vor unlösbaren Konflikten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-021",
+   "question": "Welche konkrete Entscheidung könnte „Angst vor unlösbaren Konflikten“ bei Rhys in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Angst vor unlösbaren Konflikten“ bei Rhys haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-023",
+   "question": "Wie lässt sich „Angst vor unlösbaren Konflikten“ bei Rhys zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-024",
+   "question": "Welche Alternativen sollte der Autor bei Rhys für „Angst vor unlösbaren Konflikten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-025",
+   "question": "Was bedeutet bei Rhys der Themenpunkt „Vermittlung zwischen unvereinbaren Bedürfnissen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-026",
+   "question": "Welche Lesarten auf der Seite zu Rhys stützen oder begrenzen „Vermittlung zwischen unvereinbaren Bedürfnissen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-027",
+   "question": "Welcher Grenzfall würde bei Rhys die Annahmen über „Vermittlung zwischen unvereinbaren Bedürfnissen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-028",
+   "question": "Wer könnte innerhalb des Romans bei Rhys etwas über „Vermittlung zwischen unvereinbaren Bedürfnissen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-029",
+   "question": "Welche konkrete Entscheidung könnte „Vermittlung zwischen unvereinbaren Bedürfnissen“ bei Rhys in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Vermittlung zwischen unvereinbaren Bedürfnissen“ bei Rhys haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-031",
+   "question": "Wie lässt sich „Vermittlung zwischen unvereinbaren Bedürfnissen“ bei Rhys zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-032",
+   "question": "Welche Alternativen sollte der Autor bei Rhys für „Vermittlung zwischen unvereinbaren Bedürfnissen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-033",
+   "question": "Was bedeutet bei Rhys der Themenpunkt „Grenze des relationalen Schutzes“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-034",
+   "question": "Welche Lesarten auf der Seite zu Rhys stützen oder begrenzen „Grenze des relationalen Schutzes“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-035",
+   "question": "Welcher Grenzfall würde bei Rhys die Annahmen über „Grenze des relationalen Schutzes“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-036",
+   "question": "Wer könnte innerhalb des Romans bei Rhys etwas über „Grenze des relationalen Schutzes“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze des relationalen Schutzes“ bei Rhys in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze des relationalen Schutzes“ bei Rhys haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-039",
+   "question": "Wie lässt sich „Grenze des relationalen Schutzes“ bei Rhys zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-040",
+   "question": "Welche Alternativen sollte der Autor bei Rhys für „Grenze des relationalen Schutzes“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-rhys-041",
+   "question": "Wo unterscheiden sich Rhys und Alex, wenn man sie unter dem Gesichtspunkt „Fürsorge ohne Selbstaufgabe“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-042",
+   "question": "Welche Quelle verbindet Rhys mit Alex in Bezug auf „Fürsorge ohne Selbstaufgabe“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-043",
+   "question": "Welche Grenzen aus der Seite zu Alex müsste eine Deutung von Rhys unter „Fürsorge ohne Selbstaufgabe“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-044",
+   "question": "Wie könnte sich das Wissen über Rhys vom Wissen über Alex unterscheiden, wenn „Fürsorge ohne Selbstaufgabe“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Rhys und Alex bei „Fürsorge ohne Selbstaufgabe“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-046",
+   "question": "Falls Rhys im Hinblick auf „Fürsorge ohne Selbstaufgabe“ anders festgelegt wird: Welche Aussagen über Alex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Rhys und Alex bei „Fürsorge ohne Selbstaufgabe“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-048",
+   "question": "Braucht der Roman eine Verbindung von Rhys und Alex bei „Fürsorge ohne Selbstaufgabe“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-049",
+   "question": "In welchem denkbaren Fall könnte Rhys bestehen, ohne dass Alex dieselbe Funktion übernimmt, und was würde das für „Fürsorge ohne Selbstaufgabe“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-050",
+   "question": "Welche Kosten könnte eine Verbindung von Rhys und Alex in Bezug auf „Fürsorge ohne Selbstaufgabe“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-051",
+   "question": "Welche ältere Lesart von Rhys oder Alex könnte die Gegenüberstellung unter „Fürsorge ohne Selbstaufgabe“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Rhys und Alex unter „Fürsorge ohne Selbstaufgabe“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "rhys",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-rhys-053",
+   "question": "Wo unterscheiden sich Rhys und Nyx, wenn man sie unter dem Gesichtspunkt „Wunsch nach Harmonie“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-054",
+   "question": "Welche Quelle verbindet Rhys mit Nyx in Bezug auf „Wunsch nach Harmonie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-055",
+   "question": "Welche Grenzen aus der Seite zu Nyx müsste eine Deutung von Rhys unter „Wunsch nach Harmonie“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-056",
+   "question": "Wie könnte sich das Wissen über Rhys vom Wissen über Nyx unterscheiden, wenn „Wunsch nach Harmonie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Rhys und Nyx bei „Wunsch nach Harmonie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-058",
+   "question": "Falls Rhys im Hinblick auf „Wunsch nach Harmonie“ anders festgelegt wird: Welche Aussagen über Nyx müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Rhys und Nyx bei „Wunsch nach Harmonie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-060",
+   "question": "Braucht der Roman eine Verbindung von Rhys und Nyx bei „Wunsch nach Harmonie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-061",
+   "question": "In welchem denkbaren Fall könnte Rhys bestehen, ohne dass Nyx dieselbe Funktion übernimmt, und was würde das für „Wunsch nach Harmonie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-062",
+   "question": "Welche Kosten könnte eine Verbindung von Rhys und Nyx in Bezug auf „Wunsch nach Harmonie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-063",
+   "question": "Welche ältere Lesart von Rhys oder Nyx könnte die Gegenüberstellung unter „Wunsch nach Harmonie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Rhys und Nyx unter „Wunsch nach Harmonie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "rhys",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-rhys-065",
+   "question": "Wo unterscheiden sich Rhys und Isabelle, wenn man sie unter dem Gesichtspunkt „Angst vor unlösbaren Konflikten“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-066",
+   "question": "Welche Quelle verbindet Rhys mit Isabelle in Bezug auf „Angst vor unlösbaren Konflikten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-067",
+   "question": "Welche Grenzen aus der Seite zu Isabelle müsste eine Deutung von Rhys unter „Angst vor unlösbaren Konflikten“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-068",
+   "question": "Wie könnte sich das Wissen über Rhys vom Wissen über Isabelle unterscheiden, wenn „Angst vor unlösbaren Konflikten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Rhys und Isabelle bei „Angst vor unlösbaren Konflikten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-070",
+   "question": "Falls Rhys im Hinblick auf „Angst vor unlösbaren Konflikten“ anders festgelegt wird: Welche Aussagen über Isabelle müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Rhys und Isabelle bei „Angst vor unlösbaren Konflikten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-072",
+   "question": "Braucht der Roman eine Verbindung von Rhys und Isabelle bei „Angst vor unlösbaren Konflikten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-073",
+   "question": "In welchem denkbaren Fall könnte Rhys bestehen, ohne dass Isabelle dieselbe Funktion übernimmt, und was würde das für „Angst vor unlösbaren Konflikten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-074",
+   "question": "Welche Kosten könnte eine Verbindung von Rhys und Isabelle in Bezug auf „Angst vor unlösbaren Konflikten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-075",
+   "question": "Welche ältere Lesart von Rhys oder Isabelle könnte die Gegenüberstellung unter „Angst vor unlösbaren Konflikten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Rhys und Isabelle unter „Angst vor unlösbaren Konflikten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "rhys",
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-rhys-077",
+   "question": "Wo unterscheiden sich Rhys und Juna, wenn man sie unter dem Gesichtspunkt „Vermittlung zwischen unvereinbaren Bedürfnissen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-078",
+   "question": "Welche Quelle verbindet Rhys mit Juna in Bezug auf „Vermittlung zwischen unvereinbaren Bedürfnissen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-079",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Rhys unter „Vermittlung zwischen unvereinbaren Bedürfnissen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-080",
+   "question": "Wie könnte sich das Wissen über Rhys vom Wissen über Juna unterscheiden, wenn „Vermittlung zwischen unvereinbaren Bedürfnissen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Rhys und Juna bei „Vermittlung zwischen unvereinbaren Bedürfnissen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-082",
+   "question": "Falls Rhys im Hinblick auf „Vermittlung zwischen unvereinbaren Bedürfnissen“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Rhys und Juna bei „Vermittlung zwischen unvereinbaren Bedürfnissen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-084",
+   "question": "Braucht der Roman eine Verbindung von Rhys und Juna bei „Vermittlung zwischen unvereinbaren Bedürfnissen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-085",
+   "question": "In welchem denkbaren Fall könnte Rhys bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Vermittlung zwischen unvereinbaren Bedürfnissen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-086",
+   "question": "Welche Kosten könnte eine Verbindung von Rhys und Juna in Bezug auf „Vermittlung zwischen unvereinbaren Bedürfnissen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-087",
+   "question": "Welche ältere Lesart von Rhys oder Juna könnte die Gegenüberstellung unter „Vermittlung zwischen unvereinbaren Bedürfnissen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Rhys und Juna unter „Vermittlung zwischen unvereinbaren Bedürfnissen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "rhys",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-rhys-089",
+   "question": "Wo unterscheiden sich Rhys und Alters, wenn man sie unter dem Gesichtspunkt „Grenze des relationalen Schutzes“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-090",
+   "question": "Welche Quelle verbindet Rhys mit Alters in Bezug auf „Grenze des relationalen Schutzes“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-091",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Rhys unter „Grenze des relationalen Schutzes“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-092",
+   "question": "Wie könnte sich das Wissen über Rhys vom Wissen über Alters unterscheiden, wenn „Grenze des relationalen Schutzes“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Rhys und Alters bei „Grenze des relationalen Schutzes“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-094",
+   "question": "Falls Rhys im Hinblick auf „Grenze des relationalen Schutzes“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Rhys und Alters bei „Grenze des relationalen Schutzes“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-096",
+   "question": "Braucht der Roman eine Verbindung von Rhys und Alters bei „Grenze des relationalen Schutzes“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-097",
+   "question": "In welchem denkbaren Fall könnte Rhys bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Grenze des relationalen Schutzes“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-098",
+   "question": "Welche Kosten könnte eine Verbindung von Rhys und Alters in Bezug auf „Grenze des relationalen Schutzes“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-099",
+   "question": "Welche ältere Lesart von Rhys oder Alters könnte die Gegenüberstellung unter „Grenze des relationalen Schutzes“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-rhys-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Rhys und Alters unter „Grenze des relationalen Schutzes“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "rhys",
+    "alters"
+   ]
+  }
+ ]
+}

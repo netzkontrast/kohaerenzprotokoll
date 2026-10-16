@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "entropie-signatur",
+ "title": "Entropie-Signatur",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Status einer geprägten Formulierung",
+  "Unterschied von Diagnose und empfundenem Schrecken",
+  "Benennung einer lokalen Störung",
+  "Verlässlichkeit eines sensorischen Indikators",
+  "Grenze zwischen technischer Anzeige und Prosa"
+ ],
+ "basis": {
+  "entropie-signatur": {
+   "title": "Entropie-Signatur",
+   "path": "Wiki/candidates/entropie-signatur.md",
+   "hash": "69a3a2a30ddd035be51bc1a4feafa9538afa678ceaa7deb77b28e59dd01fcd54"
+  },
+  "aegis-metriken": {
+   "title": "AEGIS' operative Metriken",
+   "path": "Wiki/candidates/aegis-metriken.md",
+   "hash": "56a264a67a1de1336bd00e87a9f0c434343e29db471168db59a58dcbabcf7999"
+  },
+  "landauer-signatur": {
+   "title": "Landauer-Signatur",
+   "path": "Wiki/candidates/landauer-signatur.md",
+   "hash": "ac5a447f1eb0046e42ebe9c3eb3c7dde01ba6b5ca4adce3d15b27c3048edd8a6"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  },
+  "kiko": {
+   "title": "Kiko",
+   "path": "Wiki/candidates/kiko.md",
+   "hash": "11708bbc4277bd09c799b4500086efdbea846f0e7fac942446130ab6e2e1753f"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-entropie-signatur-001",
+   "question": "Welche wahrnehmbare Veränderung steht hinter der lokalen Entropie-Signatur, wenn eine Anzeige allein den Schrecken nicht vermittelt?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-002",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Signatur stützen oder begrenzen „Status einer geprägten Formulierung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-003",
+   "question": "Welcher Grenzfall würde bei Entropie-Signatur die Annahmen über „Status einer geprägten Formulierung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-004",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Signatur etwas über „Status einer geprägten Formulierung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-005",
+   "question": "Welche konkrete Entscheidung könnte „Status einer geprägten Formulierung“ bei Entropie-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status einer geprägten Formulierung“ bei Entropie-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-007",
+   "question": "Wie lässt sich „Status einer geprägten Formulierung“ bei Entropie-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-008",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Signatur für „Status einer geprägten Formulierung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-009",
+   "question": "Was bedeutet bei Entropie-Signatur der Themenpunkt „Unterschied von Diagnose und empfundenem Schrecken“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-010",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Signatur stützen oder begrenzen „Unterschied von Diagnose und empfundenem Schrecken“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-011",
+   "question": "Welcher Grenzfall würde bei Entropie-Signatur die Annahmen über „Unterschied von Diagnose und empfundenem Schrecken“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-012",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Signatur etwas über „Unterschied von Diagnose und empfundenem Schrecken“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied von Diagnose und empfundenem Schrecken“ bei Entropie-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied von Diagnose und empfundenem Schrecken“ bei Entropie-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-015",
+   "question": "Wie lässt sich „Unterschied von Diagnose und empfundenem Schrecken“ bei Entropie-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-016",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Signatur für „Unterschied von Diagnose und empfundenem Schrecken“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-017",
+   "question": "Was bedeutet bei Entropie-Signatur der Themenpunkt „Benennung einer lokalen Störung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-018",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Signatur stützen oder begrenzen „Benennung einer lokalen Störung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-019",
+   "question": "Welcher Grenzfall würde bei Entropie-Signatur die Annahmen über „Benennung einer lokalen Störung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-020",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Signatur etwas über „Benennung einer lokalen Störung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-021",
+   "question": "Welche konkrete Entscheidung könnte „Benennung einer lokalen Störung“ bei Entropie-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Benennung einer lokalen Störung“ bei Entropie-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-023",
+   "question": "Wie lässt sich „Benennung einer lokalen Störung“ bei Entropie-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-024",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Signatur für „Benennung einer lokalen Störung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-025",
+   "question": "Was bedeutet bei Entropie-Signatur der Themenpunkt „Verlässlichkeit eines sensorischen Indikators“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-026",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Signatur stützen oder begrenzen „Verlässlichkeit eines sensorischen Indikators“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-027",
+   "question": "Welcher Grenzfall würde bei Entropie-Signatur die Annahmen über „Verlässlichkeit eines sensorischen Indikators“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-028",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Signatur etwas über „Verlässlichkeit eines sensorischen Indikators“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-029",
+   "question": "Welche konkrete Entscheidung könnte „Verlässlichkeit eines sensorischen Indikators“ bei Entropie-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verlässlichkeit eines sensorischen Indikators“ bei Entropie-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-031",
+   "question": "Wie lässt sich „Verlässlichkeit eines sensorischen Indikators“ bei Entropie-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-032",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Signatur für „Verlässlichkeit eines sensorischen Indikators“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-033",
+   "question": "Was bedeutet bei Entropie-Signatur der Themenpunkt „Grenze zwischen technischer Anzeige und Prosa“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-034",
+   "question": "Welche Lesarten auf der Seite zu Entropie-Signatur stützen oder begrenzen „Grenze zwischen technischer Anzeige und Prosa“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-035",
+   "question": "Welcher Grenzfall würde bei Entropie-Signatur die Annahmen über „Grenze zwischen technischer Anzeige und Prosa“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-036",
+   "question": "Wer könnte innerhalb des Romans bei Entropie-Signatur etwas über „Grenze zwischen technischer Anzeige und Prosa“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen technischer Anzeige und Prosa“ bei Entropie-Signatur in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen technischer Anzeige und Prosa“ bei Entropie-Signatur haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-039",
+   "question": "Wie lässt sich „Grenze zwischen technischer Anzeige und Prosa“ bei Entropie-Signatur zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-040",
+   "question": "Welche Alternativen sollte der Autor bei Entropie-Signatur für „Grenze zwischen technischer Anzeige und Prosa“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-041",
+   "question": "Wo unterscheiden sich Entropie-Signatur und AEGIS' operative Metriken, wenn man sie unter dem Gesichtspunkt „Status einer geprägten Formulierung“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-042",
+   "question": "Welche Quelle verbindet Entropie-Signatur mit AEGIS' operative Metriken in Bezug auf „Status einer geprägten Formulierung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS' operative Metriken müsste eine Deutung von Entropie-Signatur unter „Status einer geprägten Formulierung“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-044",
+   "question": "Wie könnte sich das Wissen über Entropie-Signatur vom Wissen über AEGIS' operative Metriken unterscheiden, wenn „Status einer geprägten Formulierung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Signatur und AEGIS' operative Metriken bei „Status einer geprägten Formulierung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-046",
+   "question": "Falls Entropie-Signatur im Hinblick auf „Status einer geprägten Formulierung“ anders festgelegt wird: Welche Aussagen über AEGIS' operative Metriken müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Signatur und AEGIS' operative Metriken bei „Status einer geprägten Formulierung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-048",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Signatur und AEGIS' operative Metriken bei „Status einer geprägten Formulierung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-049",
+   "question": "In welchem denkbaren Fall könnte Entropie-Signatur bestehen, ohne dass AEGIS' operative Metriken dieselbe Funktion übernimmt, und was würde das für „Status einer geprägten Formulierung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-050",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Signatur und AEGIS' operative Metriken in Bezug auf „Status einer geprägten Formulierung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-051",
+   "question": "Welche ältere Lesart von Entropie-Signatur oder AEGIS' operative Metriken könnte die Gegenüberstellung unter „Status einer geprägten Formulierung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Signatur und AEGIS' operative Metriken unter „Status einer geprägten Formulierung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-signatur",
+    "aegis-metriken"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-053",
+   "question": "Wo unterscheiden sich Entropie-Signatur und Landauer-Signatur, wenn man sie unter dem Gesichtspunkt „Unterschied von Diagnose und empfundenem Schrecken“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-054",
+   "question": "Welche Quelle verbindet Entropie-Signatur mit Landauer-Signatur in Bezug auf „Unterschied von Diagnose und empfundenem Schrecken“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-055",
+   "question": "Welche Grenzen aus der Seite zu Landauer-Signatur müsste eine Deutung von Entropie-Signatur unter „Unterschied von Diagnose und empfundenem Schrecken“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-056",
+   "question": "Wie könnte sich das Wissen über Entropie-Signatur vom Wissen über Landauer-Signatur unterscheiden, wenn „Unterschied von Diagnose und empfundenem Schrecken“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Signatur und Landauer-Signatur bei „Unterschied von Diagnose und empfundenem Schrecken“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-058",
+   "question": "Falls Entropie-Signatur im Hinblick auf „Unterschied von Diagnose und empfundenem Schrecken“ anders festgelegt wird: Welche Aussagen über Landauer-Signatur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Signatur und Landauer-Signatur bei „Unterschied von Diagnose und empfundenem Schrecken“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-060",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Signatur und Landauer-Signatur bei „Unterschied von Diagnose und empfundenem Schrecken“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-061",
+   "question": "In welchem denkbaren Fall könnte Entropie-Signatur bestehen, ohne dass Landauer-Signatur dieselbe Funktion übernimmt, und was würde das für „Unterschied von Diagnose und empfundenem Schrecken“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-062",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Signatur und Landauer-Signatur in Bezug auf „Unterschied von Diagnose und empfundenem Schrecken“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-063",
+   "question": "Welche ältere Lesart von Entropie-Signatur oder Landauer-Signatur könnte die Gegenüberstellung unter „Unterschied von Diagnose und empfundenem Schrecken“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Signatur und Landauer-Signatur unter „Unterschied von Diagnose und empfundenem Schrecken“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-signatur",
+    "landauer-signatur"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-065",
+   "question": "Wo unterscheiden sich Entropie-Signatur und Risse, wenn man sie unter dem Gesichtspunkt „Benennung einer lokalen Störung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-066",
+   "question": "Welche Quelle verbindet Entropie-Signatur mit Risse in Bezug auf „Benennung einer lokalen Störung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-067",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Entropie-Signatur unter „Benennung einer lokalen Störung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-068",
+   "question": "Wie könnte sich das Wissen über Entropie-Signatur vom Wissen über Risse unterscheiden, wenn „Benennung einer lokalen Störung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Signatur und Risse bei „Benennung einer lokalen Störung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-070",
+   "question": "Falls Entropie-Signatur im Hinblick auf „Benennung einer lokalen Störung“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Signatur und Risse bei „Benennung einer lokalen Störung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-072",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Signatur und Risse bei „Benennung einer lokalen Störung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-073",
+   "question": "In welchem denkbaren Fall könnte Entropie-Signatur bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Benennung einer lokalen Störung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-074",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Signatur und Risse in Bezug auf „Benennung einer lokalen Störung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-075",
+   "question": "Welche ältere Lesart von Entropie-Signatur oder Risse könnte die Gegenüberstellung unter „Benennung einer lokalen Störung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Signatur und Risse unter „Benennung einer lokalen Störung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-signatur",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-077",
+   "question": "Wo unterscheiden sich Entropie-Signatur und Kiko, wenn man sie unter dem Gesichtspunkt „Verlässlichkeit eines sensorischen Indikators“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-078",
+   "question": "Welche Quelle verbindet Entropie-Signatur mit Kiko in Bezug auf „Verlässlichkeit eines sensorischen Indikators“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-079",
+   "question": "Welche Grenzen aus der Seite zu Kiko müsste eine Deutung von Entropie-Signatur unter „Verlässlichkeit eines sensorischen Indikators“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-080",
+   "question": "Wie könnte sich das Wissen über Entropie-Signatur vom Wissen über Kiko unterscheiden, wenn „Verlässlichkeit eines sensorischen Indikators“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Signatur und Kiko bei „Verlässlichkeit eines sensorischen Indikators“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-082",
+   "question": "Falls Entropie-Signatur im Hinblick auf „Verlässlichkeit eines sensorischen Indikators“ anders festgelegt wird: Welche Aussagen über Kiko müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Signatur und Kiko bei „Verlässlichkeit eines sensorischen Indikators“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-084",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Signatur und Kiko bei „Verlässlichkeit eines sensorischen Indikators“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-085",
+   "question": "In welchem denkbaren Fall könnte Entropie-Signatur bestehen, ohne dass Kiko dieselbe Funktion übernimmt, und was würde das für „Verlässlichkeit eines sensorischen Indikators“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-086",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Signatur und Kiko in Bezug auf „Verlässlichkeit eines sensorischen Indikators“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-087",
+   "question": "Welche ältere Lesart von Entropie-Signatur oder Kiko könnte die Gegenüberstellung unter „Verlässlichkeit eines sensorischen Indikators“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Signatur und Kiko unter „Verlässlichkeit eines sensorischen Indikators“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-signatur",
+    "kiko"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-089",
+   "question": "Wo unterscheiden sich Entropie-Signatur und Entropie, wenn man sie unter dem Gesichtspunkt „Grenze zwischen technischer Anzeige und Prosa“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-090",
+   "question": "Welche Quelle verbindet Entropie-Signatur mit Entropie in Bezug auf „Grenze zwischen technischer Anzeige und Prosa“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-091",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Entropie-Signatur unter „Grenze zwischen technischer Anzeige und Prosa“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-092",
+   "question": "Wie könnte sich das Wissen über Entropie-Signatur vom Wissen über Entropie unterscheiden, wenn „Grenze zwischen technischer Anzeige und Prosa“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Entropie-Signatur und Entropie bei „Grenze zwischen technischer Anzeige und Prosa“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-094",
+   "question": "Falls Entropie-Signatur im Hinblick auf „Grenze zwischen technischer Anzeige und Prosa“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Entropie-Signatur und Entropie bei „Grenze zwischen technischer Anzeige und Prosa“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-096",
+   "question": "Braucht der Roman eine Verbindung von Entropie-Signatur und Entropie bei „Grenze zwischen technischer Anzeige und Prosa“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-097",
+   "question": "In welchem denkbaren Fall könnte Entropie-Signatur bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen technischer Anzeige und Prosa“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-098",
+   "question": "Welche Kosten könnte eine Verbindung von Entropie-Signatur und Entropie in Bezug auf „Grenze zwischen technischer Anzeige und Prosa“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-099",
+   "question": "Welche ältere Lesart von Entropie-Signatur oder Entropie könnte die Gegenüberstellung unter „Grenze zwischen technischer Anzeige und Prosa“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-signatur-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Entropie-Signatur und Entropie unter „Grenze zwischen technischer Anzeige und Prosa“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-signatur",
+    "entropie"
+   ]
+  }
+ ]
+}

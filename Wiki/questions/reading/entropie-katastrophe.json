@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "entropie-katastrophe",
+ "title": "Maximale Entropie-Katastrophe",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Verlust stabiler Muster",
+  "Unterschied von maximaler Komplexität und Zufall",
+  "eingefrorener gegenüber zerfallender Simulation",
+  "Irreversibilität des Endzustands",
+  "beobachtbare Vorzeichen eines Kollapses"
+ ],
+ "basis": {
+  "entropie-katastrophe": {
+   "title": "Maximale Entropie-Katastrophe",
+   "path": "Wiki/candidates/entropie-katastrophe.md",
+   "hash": "ccf3ee0a73ae1845c5aab2e2c8a799049c4c874f2bee4c3a929eed78ad230238"
+  },
+  "entropie": {
+   "title": "Entropie",
+   "path": "Wiki/candidates/entropie.md",
+   "hash": "2c6122586a1aa0cdb86e3be16ba1a5fdb9f7e181f3c9c02505069ab564fcd490"
+  },
+  "risse": {
+   "title": "Risse",
+   "path": "Wiki/candidates/risse.md",
+   "hash": "c31e65ad6aa4efb8df68ad5ca6da07b531b1b326ca44afe2890a63574a2bbf70"
+  },
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "algorithmische-melancholie": {
+   "title": "Algorithmische Melancholie",
+   "path": "Wiki/candidates/algorithmische-melancholie.md",
+   "hash": "773d92353d03e8bfe6d5c18a7c9681048e3f78130ecbf238c07a06e0f9ce1b8f"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-entropie-katastrophe-001",
+   "question": "Wie unterscheidet Kael einen vollständigen Verlust von Struktur von einem System, das durch eingefrorene Komplexität nicht mehr reagieren kann?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-002",
+   "question": "Welche Lesarten auf der Seite zu Maximale Entropie-Katastrophe stützen oder begrenzen „Verlust stabiler Muster“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-003",
+   "question": "Welcher Grenzfall würde bei Maximale Entropie-Katastrophe die Annahmen über „Verlust stabiler Muster“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-004",
+   "question": "Wer könnte innerhalb des Romans bei Maximale Entropie-Katastrophe etwas über „Verlust stabiler Muster“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-005",
+   "question": "Welche konkrete Entscheidung könnte „Verlust stabiler Muster“ bei Maximale Entropie-Katastrophe in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verlust stabiler Muster“ bei Maximale Entropie-Katastrophe haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-007",
+   "question": "Wie lässt sich „Verlust stabiler Muster“ bei Maximale Entropie-Katastrophe zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-008",
+   "question": "Welche Alternativen sollte der Autor bei Maximale Entropie-Katastrophe für „Verlust stabiler Muster“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-009",
+   "question": "Was bedeutet bei Maximale Entropie-Katastrophe der Themenpunkt „Unterschied von maximaler Komplexität und Zufall“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-010",
+   "question": "Welche Lesarten auf der Seite zu Maximale Entropie-Katastrophe stützen oder begrenzen „Unterschied von maximaler Komplexität und Zufall“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-011",
+   "question": "Welcher Grenzfall würde bei Maximale Entropie-Katastrophe die Annahmen über „Unterschied von maximaler Komplexität und Zufall“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-012",
+   "question": "Wer könnte innerhalb des Romans bei Maximale Entropie-Katastrophe etwas über „Unterschied von maximaler Komplexität und Zufall“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied von maximaler Komplexität und Zufall“ bei Maximale Entropie-Katastrophe in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied von maximaler Komplexität und Zufall“ bei Maximale Entropie-Katastrophe haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-015",
+   "question": "Wie lässt sich „Unterschied von maximaler Komplexität und Zufall“ bei Maximale Entropie-Katastrophe zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-016",
+   "question": "Welche Alternativen sollte der Autor bei Maximale Entropie-Katastrophe für „Unterschied von maximaler Komplexität und Zufall“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-017",
+   "question": "Was bedeutet bei Maximale Entropie-Katastrophe der Themenpunkt „eingefrorener gegenüber zerfallender Simulation“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-018",
+   "question": "Welche Lesarten auf der Seite zu Maximale Entropie-Katastrophe stützen oder begrenzen „eingefrorener gegenüber zerfallender Simulation“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-019",
+   "question": "Welcher Grenzfall würde bei Maximale Entropie-Katastrophe die Annahmen über „eingefrorener gegenüber zerfallender Simulation“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-020",
+   "question": "Wer könnte innerhalb des Romans bei Maximale Entropie-Katastrophe etwas über „eingefrorener gegenüber zerfallender Simulation“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-021",
+   "question": "Welche konkrete Entscheidung könnte „eingefrorener gegenüber zerfallender Simulation“ bei Maximale Entropie-Katastrophe in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „eingefrorener gegenüber zerfallender Simulation“ bei Maximale Entropie-Katastrophe haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-023",
+   "question": "Wie lässt sich „eingefrorener gegenüber zerfallender Simulation“ bei Maximale Entropie-Katastrophe zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-024",
+   "question": "Welche Alternativen sollte der Autor bei Maximale Entropie-Katastrophe für „eingefrorener gegenüber zerfallender Simulation“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-025",
+   "question": "Was bedeutet bei Maximale Entropie-Katastrophe der Themenpunkt „Irreversibilität des Endzustands“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-026",
+   "question": "Welche Lesarten auf der Seite zu Maximale Entropie-Katastrophe stützen oder begrenzen „Irreversibilität des Endzustands“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-027",
+   "question": "Welcher Grenzfall würde bei Maximale Entropie-Katastrophe die Annahmen über „Irreversibilität des Endzustands“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-028",
+   "question": "Wer könnte innerhalb des Romans bei Maximale Entropie-Katastrophe etwas über „Irreversibilität des Endzustands“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-029",
+   "question": "Welche konkrete Entscheidung könnte „Irreversibilität des Endzustands“ bei Maximale Entropie-Katastrophe in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Irreversibilität des Endzustands“ bei Maximale Entropie-Katastrophe haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-031",
+   "question": "Wie lässt sich „Irreversibilität des Endzustands“ bei Maximale Entropie-Katastrophe zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-032",
+   "question": "Welche Alternativen sollte der Autor bei Maximale Entropie-Katastrophe für „Irreversibilität des Endzustands“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-033",
+   "question": "Was bedeutet bei Maximale Entropie-Katastrophe der Themenpunkt „beobachtbare Vorzeichen eines Kollapses“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-034",
+   "question": "Welche Lesarten auf der Seite zu Maximale Entropie-Katastrophe stützen oder begrenzen „beobachtbare Vorzeichen eines Kollapses“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-035",
+   "question": "Welcher Grenzfall würde bei Maximale Entropie-Katastrophe die Annahmen über „beobachtbare Vorzeichen eines Kollapses“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-036",
+   "question": "Wer könnte innerhalb des Romans bei Maximale Entropie-Katastrophe etwas über „beobachtbare Vorzeichen eines Kollapses“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-037",
+   "question": "Welche konkrete Entscheidung könnte „beobachtbare Vorzeichen eines Kollapses“ bei Maximale Entropie-Katastrophe in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „beobachtbare Vorzeichen eines Kollapses“ bei Maximale Entropie-Katastrophe haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-039",
+   "question": "Wie lässt sich „beobachtbare Vorzeichen eines Kollapses“ bei Maximale Entropie-Katastrophe zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-040",
+   "question": "Welche Alternativen sollte der Autor bei Maximale Entropie-Katastrophe für „beobachtbare Vorzeichen eines Kollapses“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-041",
+   "question": "Wo unterscheiden sich Maximale Entropie-Katastrophe und Entropie, wenn man sie unter dem Gesichtspunkt „Verlust stabiler Muster“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-042",
+   "question": "Welche Quelle verbindet Maximale Entropie-Katastrophe mit Entropie in Bezug auf „Verlust stabiler Muster“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-043",
+   "question": "Welche Grenzen aus der Seite zu Entropie müsste eine Deutung von Maximale Entropie-Katastrophe unter „Verlust stabiler Muster“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-044",
+   "question": "Wie könnte sich das Wissen über Maximale Entropie-Katastrophe vom Wissen über Entropie unterscheiden, wenn „Verlust stabiler Muster“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Maximale Entropie-Katastrophe und Entropie bei „Verlust stabiler Muster“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-046",
+   "question": "Falls Maximale Entropie-Katastrophe im Hinblick auf „Verlust stabiler Muster“ anders festgelegt wird: Welche Aussagen über Entropie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Maximale Entropie-Katastrophe und Entropie bei „Verlust stabiler Muster“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-048",
+   "question": "Braucht der Roman eine Verbindung von Maximale Entropie-Katastrophe und Entropie bei „Verlust stabiler Muster“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-049",
+   "question": "In welchem denkbaren Fall könnte Maximale Entropie-Katastrophe bestehen, ohne dass Entropie dieselbe Funktion übernimmt, und was würde das für „Verlust stabiler Muster“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-050",
+   "question": "Welche Kosten könnte eine Verbindung von Maximale Entropie-Katastrophe und Entropie in Bezug auf „Verlust stabiler Muster“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-051",
+   "question": "Welche ältere Lesart von Maximale Entropie-Katastrophe oder Entropie könnte die Gegenüberstellung unter „Verlust stabiler Muster“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Maximale Entropie-Katastrophe und Entropie unter „Verlust stabiler Muster“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "entropie-katastrophe",
+    "entropie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-053",
+   "question": "Wo unterscheiden sich Maximale Entropie-Katastrophe und Risse, wenn man sie unter dem Gesichtspunkt „Unterschied von maximaler Komplexität und Zufall“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-054",
+   "question": "Welche Quelle verbindet Maximale Entropie-Katastrophe mit Risse in Bezug auf „Unterschied von maximaler Komplexität und Zufall“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-055",
+   "question": "Welche Grenzen aus der Seite zu Risse müsste eine Deutung von Maximale Entropie-Katastrophe unter „Unterschied von maximaler Komplexität und Zufall“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-056",
+   "question": "Wie könnte sich das Wissen über Maximale Entropie-Katastrophe vom Wissen über Risse unterscheiden, wenn „Unterschied von maximaler Komplexität und Zufall“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Maximale Entropie-Katastrophe und Risse bei „Unterschied von maximaler Komplexität und Zufall“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-058",
+   "question": "Falls Maximale Entropie-Katastrophe im Hinblick auf „Unterschied von maximaler Komplexität und Zufall“ anders festgelegt wird: Welche Aussagen über Risse müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Maximale Entropie-Katastrophe und Risse bei „Unterschied von maximaler Komplexität und Zufall“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-060",
+   "question": "Braucht der Roman eine Verbindung von Maximale Entropie-Katastrophe und Risse bei „Unterschied von maximaler Komplexität und Zufall“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-061",
+   "question": "In welchem denkbaren Fall könnte Maximale Entropie-Katastrophe bestehen, ohne dass Risse dieselbe Funktion übernimmt, und was würde das für „Unterschied von maximaler Komplexität und Zufall“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-062",
+   "question": "Welche Kosten könnte eine Verbindung von Maximale Entropie-Katastrophe und Risse in Bezug auf „Unterschied von maximaler Komplexität und Zufall“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-063",
+   "question": "Welche ältere Lesart von Maximale Entropie-Katastrophe oder Risse könnte die Gegenüberstellung unter „Unterschied von maximaler Komplexität und Zufall“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Maximale Entropie-Katastrophe und Risse unter „Unterschied von maximaler Komplexität und Zufall“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "entropie-katastrophe",
+    "risse"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-065",
+   "question": "Wo unterscheiden sich Maximale Entropie-Katastrophe und Kollaps-Kernel (K₀), wenn man sie unter dem Gesichtspunkt „eingefrorener gegenüber zerfallender Simulation“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-066",
+   "question": "Welche Quelle verbindet Maximale Entropie-Katastrophe mit Kollaps-Kernel (K₀) in Bezug auf „eingefrorener gegenüber zerfallender Simulation“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-067",
+   "question": "Welche Grenzen aus der Seite zu Kollaps-Kernel (K₀) müsste eine Deutung von Maximale Entropie-Katastrophe unter „eingefrorener gegenüber zerfallender Simulation“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-068",
+   "question": "Wie könnte sich das Wissen über Maximale Entropie-Katastrophe vom Wissen über Kollaps-Kernel (K₀) unterscheiden, wenn „eingefrorener gegenüber zerfallender Simulation“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Maximale Entropie-Katastrophe und Kollaps-Kernel (K₀) bei „eingefrorener gegenüber zerfallender Simulation“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-070",
+   "question": "Falls Maximale Entropie-Katastrophe im Hinblick auf „eingefrorener gegenüber zerfallender Simulation“ anders festgelegt wird: Welche Aussagen über Kollaps-Kernel (K₀) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Maximale Entropie-Katastrophe und Kollaps-Kernel (K₀) bei „eingefrorener gegenüber zerfallender Simulation“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-072",
+   "question": "Braucht der Roman eine Verbindung von Maximale Entropie-Katastrophe und Kollaps-Kernel (K₀) bei „eingefrorener gegenüber zerfallender Simulation“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-073",
+   "question": "In welchem denkbaren Fall könnte Maximale Entropie-Katastrophe bestehen, ohne dass Kollaps-Kernel (K₀) dieselbe Funktion übernimmt, und was würde das für „eingefrorener gegenüber zerfallender Simulation“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-074",
+   "question": "Welche Kosten könnte eine Verbindung von Maximale Entropie-Katastrophe und Kollaps-Kernel (K₀) in Bezug auf „eingefrorener gegenüber zerfallender Simulation“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-075",
+   "question": "Welche ältere Lesart von Maximale Entropie-Katastrophe oder Kollaps-Kernel (K₀) könnte die Gegenüberstellung unter „eingefrorener gegenüber zerfallender Simulation“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Maximale Entropie-Katastrophe und Kollaps-Kernel (K₀) unter „eingefrorener gegenüber zerfallender Simulation“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "entropie-katastrophe",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-077",
+   "question": "Wo unterscheiden sich Maximale Entropie-Katastrophe und AEGIS, wenn man sie unter dem Gesichtspunkt „Irreversibilität des Endzustands“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-078",
+   "question": "Welche Quelle verbindet Maximale Entropie-Katastrophe mit AEGIS in Bezug auf „Irreversibilität des Endzustands“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Maximale Entropie-Katastrophe unter „Irreversibilität des Endzustands“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-080",
+   "question": "Wie könnte sich das Wissen über Maximale Entropie-Katastrophe vom Wissen über AEGIS unterscheiden, wenn „Irreversibilität des Endzustands“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Maximale Entropie-Katastrophe und AEGIS bei „Irreversibilität des Endzustands“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-082",
+   "question": "Falls Maximale Entropie-Katastrophe im Hinblick auf „Irreversibilität des Endzustands“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Maximale Entropie-Katastrophe und AEGIS bei „Irreversibilität des Endzustands“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-084",
+   "question": "Braucht der Roman eine Verbindung von Maximale Entropie-Katastrophe und AEGIS bei „Irreversibilität des Endzustands“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-085",
+   "question": "In welchem denkbaren Fall könnte Maximale Entropie-Katastrophe bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Irreversibilität des Endzustands“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-086",
+   "question": "Welche Kosten könnte eine Verbindung von Maximale Entropie-Katastrophe und AEGIS in Bezug auf „Irreversibilität des Endzustands“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-087",
+   "question": "Welche ältere Lesart von Maximale Entropie-Katastrophe oder AEGIS könnte die Gegenüberstellung unter „Irreversibilität des Endzustands“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Maximale Entropie-Katastrophe und AEGIS unter „Irreversibilität des Endzustands“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "entropie-katastrophe",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-089",
+   "question": "Wo unterscheiden sich Maximale Entropie-Katastrophe und Algorithmische Melancholie, wenn man sie unter dem Gesichtspunkt „beobachtbare Vorzeichen eines Kollapses“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-090",
+   "question": "Welche Quelle verbindet Maximale Entropie-Katastrophe mit Algorithmische Melancholie in Bezug auf „beobachtbare Vorzeichen eines Kollapses“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-091",
+   "question": "Welche Grenzen aus der Seite zu Algorithmische Melancholie müsste eine Deutung von Maximale Entropie-Katastrophe unter „beobachtbare Vorzeichen eines Kollapses“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-092",
+   "question": "Wie könnte sich das Wissen über Maximale Entropie-Katastrophe vom Wissen über Algorithmische Melancholie unterscheiden, wenn „beobachtbare Vorzeichen eines Kollapses“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Maximale Entropie-Katastrophe und Algorithmische Melancholie bei „beobachtbare Vorzeichen eines Kollapses“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-094",
+   "question": "Falls Maximale Entropie-Katastrophe im Hinblick auf „beobachtbare Vorzeichen eines Kollapses“ anders festgelegt wird: Welche Aussagen über Algorithmische Melancholie müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Maximale Entropie-Katastrophe und Algorithmische Melancholie bei „beobachtbare Vorzeichen eines Kollapses“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-096",
+   "question": "Braucht der Roman eine Verbindung von Maximale Entropie-Katastrophe und Algorithmische Melancholie bei „beobachtbare Vorzeichen eines Kollapses“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-097",
+   "question": "In welchem denkbaren Fall könnte Maximale Entropie-Katastrophe bestehen, ohne dass Algorithmische Melancholie dieselbe Funktion übernimmt, und was würde das für „beobachtbare Vorzeichen eines Kollapses“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-098",
+   "question": "Welche Kosten könnte eine Verbindung von Maximale Entropie-Katastrophe und Algorithmische Melancholie in Bezug auf „beobachtbare Vorzeichen eines Kollapses“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-099",
+   "question": "Welche ältere Lesart von Maximale Entropie-Katastrophe oder Algorithmische Melancholie könnte die Gegenüberstellung unter „beobachtbare Vorzeichen eines Kollapses“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  },
+  {
+   "id": "RQ-entropie-katastrophe-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Maximale Entropie-Katastrophe und Algorithmische Melancholie unter „beobachtbare Vorzeichen eines Kollapses“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "entropie-katastrophe",
+    "algorithmische-melancholie"
+   ]
+  }
+ ]
+}

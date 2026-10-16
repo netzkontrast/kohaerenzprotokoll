@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "dkt",
+ "title": "Dual-Kernel-Theorie (DKT)",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Spannung reversibler und irreversibler Vorgänge",
+  "Unterschied zwischen Weltphysik und Analogie",
+  "Gültigkeit der Kernel-Zuordnung",
+  "Notwendigkeit beider Prinzipien",
+  "Grenzen der kosmologischen Erklärung"
+ ],
+ "basis": {
+  "dkt": {
+   "title": "Dual-Kernel-Theorie (DKT)",
+   "path": "Wiki/candidates/dkt.md",
+   "hash": "ddcd621d7c731601e8f39d353a17e7d84befef1cbb7610c424f8bc46dc6938a4"
+  },
+  "kohaerenz-kernel": {
+   "title": "Kohärenz-Kernel (K₁)",
+   "path": "Wiki/candidates/kohaerenz-kernel.md",
+   "hash": "624b3d551b314d96a4a674b350ad0361241d99f9a07692e7e15101e2754deac1"
+  },
+  "kollaps-kernel": {
+   "title": "Kollaps-Kernel (K₀)",
+   "path": "Wiki/candidates/kollaps-kernel.md",
+   "hash": "498e237d8733d6107c9d656f0e4ea400025484bd7a91455d900a61e2921bbf83"
+  },
+  "coheron": {
+   "title": "Coheron",
+   "path": "Wiki/candidates/coheron.md",
+   "hash": "1ddb0456d023097cbce9062fccb7cb5ea55efceb7dc77b46fe611091b9b863ae"
+  },
+  "erason": {
+   "title": "Erason",
+   "path": "Wiki/candidates/erason.md",
+   "hash": "d789f186223bd524a6d748b754132270aa6dee8b4c0f36047d842fc2d4842001"
+  },
+  "truth-rotation": {
+   "title": "Truth-Rotation",
+   "path": "Wiki/candidates/truth-rotation.md",
+   "hash": "9a3a3b7af328f710f442c77b53e40ee16415f8c6741a5257fbac8a9f550e9c82"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-dkt-001",
+   "question": "Was würde aus der Welt verschwinden, wenn K₀ vollständig beseitigt würde, obwohl Kael gegen AEGIS' Löschungen kämpft?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-002",
+   "question": "Welche Lesarten auf der Seite zu Dual-Kernel-Theorie (DKT) stützen oder begrenzen „Spannung reversibler und irreversibler Vorgänge“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-003",
+   "question": "Welcher Grenzfall würde bei Dual-Kernel-Theorie (DKT) die Annahmen über „Spannung reversibler und irreversibler Vorgänge“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-004",
+   "question": "Wer könnte innerhalb des Romans bei Dual-Kernel-Theorie (DKT) etwas über „Spannung reversibler und irreversibler Vorgänge“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-005",
+   "question": "Welche konkrete Entscheidung könnte „Spannung reversibler und irreversibler Vorgänge“ bei Dual-Kernel-Theorie (DKT) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Spannung reversibler und irreversibler Vorgänge“ bei Dual-Kernel-Theorie (DKT) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-007",
+   "question": "Wie lässt sich „Spannung reversibler und irreversibler Vorgänge“ bei Dual-Kernel-Theorie (DKT) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-008",
+   "question": "Welche Alternativen sollte der Autor bei Dual-Kernel-Theorie (DKT) für „Spannung reversibler und irreversibler Vorgänge“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-009",
+   "question": "Was bedeutet bei Dual-Kernel-Theorie (DKT) der Themenpunkt „Unterschied zwischen Weltphysik und Analogie“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-010",
+   "question": "Welche Lesarten auf der Seite zu Dual-Kernel-Theorie (DKT) stützen oder begrenzen „Unterschied zwischen Weltphysik und Analogie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-011",
+   "question": "Welcher Grenzfall würde bei Dual-Kernel-Theorie (DKT) die Annahmen über „Unterschied zwischen Weltphysik und Analogie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-012",
+   "question": "Wer könnte innerhalb des Romans bei Dual-Kernel-Theorie (DKT) etwas über „Unterschied zwischen Weltphysik und Analogie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Weltphysik und Analogie“ bei Dual-Kernel-Theorie (DKT) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Weltphysik und Analogie“ bei Dual-Kernel-Theorie (DKT) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-015",
+   "question": "Wie lässt sich „Unterschied zwischen Weltphysik und Analogie“ bei Dual-Kernel-Theorie (DKT) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-016",
+   "question": "Welche Alternativen sollte der Autor bei Dual-Kernel-Theorie (DKT) für „Unterschied zwischen Weltphysik und Analogie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-017",
+   "question": "Was bedeutet bei Dual-Kernel-Theorie (DKT) der Themenpunkt „Gültigkeit der Kernel-Zuordnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-018",
+   "question": "Welche Lesarten auf der Seite zu Dual-Kernel-Theorie (DKT) stützen oder begrenzen „Gültigkeit der Kernel-Zuordnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-019",
+   "question": "Welcher Grenzfall würde bei Dual-Kernel-Theorie (DKT) die Annahmen über „Gültigkeit der Kernel-Zuordnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-020",
+   "question": "Wer könnte innerhalb des Romans bei Dual-Kernel-Theorie (DKT) etwas über „Gültigkeit der Kernel-Zuordnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-021",
+   "question": "Welche konkrete Entscheidung könnte „Gültigkeit der Kernel-Zuordnung“ bei Dual-Kernel-Theorie (DKT) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gültigkeit der Kernel-Zuordnung“ bei Dual-Kernel-Theorie (DKT) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-023",
+   "question": "Wie lässt sich „Gültigkeit der Kernel-Zuordnung“ bei Dual-Kernel-Theorie (DKT) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-024",
+   "question": "Welche Alternativen sollte der Autor bei Dual-Kernel-Theorie (DKT) für „Gültigkeit der Kernel-Zuordnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-025",
+   "question": "Was bedeutet bei Dual-Kernel-Theorie (DKT) der Themenpunkt „Notwendigkeit beider Prinzipien“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-026",
+   "question": "Welche Lesarten auf der Seite zu Dual-Kernel-Theorie (DKT) stützen oder begrenzen „Notwendigkeit beider Prinzipien“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-027",
+   "question": "Welcher Grenzfall würde bei Dual-Kernel-Theorie (DKT) die Annahmen über „Notwendigkeit beider Prinzipien“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-028",
+   "question": "Wer könnte innerhalb des Romans bei Dual-Kernel-Theorie (DKT) etwas über „Notwendigkeit beider Prinzipien“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-029",
+   "question": "Welche konkrete Entscheidung könnte „Notwendigkeit beider Prinzipien“ bei Dual-Kernel-Theorie (DKT) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Notwendigkeit beider Prinzipien“ bei Dual-Kernel-Theorie (DKT) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-031",
+   "question": "Wie lässt sich „Notwendigkeit beider Prinzipien“ bei Dual-Kernel-Theorie (DKT) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-032",
+   "question": "Welche Alternativen sollte der Autor bei Dual-Kernel-Theorie (DKT) für „Notwendigkeit beider Prinzipien“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-033",
+   "question": "Was bedeutet bei Dual-Kernel-Theorie (DKT) der Themenpunkt „Grenzen der kosmologischen Erklärung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-034",
+   "question": "Welche Lesarten auf der Seite zu Dual-Kernel-Theorie (DKT) stützen oder begrenzen „Grenzen der kosmologischen Erklärung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-035",
+   "question": "Welcher Grenzfall würde bei Dual-Kernel-Theorie (DKT) die Annahmen über „Grenzen der kosmologischen Erklärung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-036",
+   "question": "Wer könnte innerhalb des Romans bei Dual-Kernel-Theorie (DKT) etwas über „Grenzen der kosmologischen Erklärung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen der kosmologischen Erklärung“ bei Dual-Kernel-Theorie (DKT) in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen der kosmologischen Erklärung“ bei Dual-Kernel-Theorie (DKT) haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-039",
+   "question": "Wie lässt sich „Grenzen der kosmologischen Erklärung“ bei Dual-Kernel-Theorie (DKT) zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-040",
+   "question": "Welche Alternativen sollte der Autor bei Dual-Kernel-Theorie (DKT) für „Grenzen der kosmologischen Erklärung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "dkt"
+   ]
+  },
+  {
+   "id": "RQ-dkt-041",
+   "question": "Wo unterscheiden sich Dual-Kernel-Theorie (DKT) und Kohärenz-Kernel (K₁), wenn man sie unter dem Gesichtspunkt „Spannung reversibler und irreversibler Vorgänge“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-042",
+   "question": "Welche Quelle verbindet Dual-Kernel-Theorie (DKT) mit Kohärenz-Kernel (K₁) in Bezug auf „Spannung reversibler und irreversibler Vorgänge“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-043",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz-Kernel (K₁) müsste eine Deutung von Dual-Kernel-Theorie (DKT) unter „Spannung reversibler und irreversibler Vorgänge“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-044",
+   "question": "Wie könnte sich das Wissen über Dual-Kernel-Theorie (DKT) vom Wissen über Kohärenz-Kernel (K₁) unterscheiden, wenn „Spannung reversibler und irreversibler Vorgänge“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Dual-Kernel-Theorie (DKT) und Kohärenz-Kernel (K₁) bei „Spannung reversibler und irreversibler Vorgänge“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-046",
+   "question": "Falls Dual-Kernel-Theorie (DKT) im Hinblick auf „Spannung reversibler und irreversibler Vorgänge“ anders festgelegt wird: Welche Aussagen über Kohärenz-Kernel (K₁) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Dual-Kernel-Theorie (DKT) und Kohärenz-Kernel (K₁) bei „Spannung reversibler und irreversibler Vorgänge“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-048",
+   "question": "Braucht der Roman eine Verbindung von Dual-Kernel-Theorie (DKT) und Kohärenz-Kernel (K₁) bei „Spannung reversibler und irreversibler Vorgänge“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-049",
+   "question": "In welchem denkbaren Fall könnte Dual-Kernel-Theorie (DKT) bestehen, ohne dass Kohärenz-Kernel (K₁) dieselbe Funktion übernimmt, und was würde das für „Spannung reversibler und irreversibler Vorgänge“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-050",
+   "question": "Welche Kosten könnte eine Verbindung von Dual-Kernel-Theorie (DKT) und Kohärenz-Kernel (K₁) in Bezug auf „Spannung reversibler und irreversibler Vorgänge“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-051",
+   "question": "Welche ältere Lesart von Dual-Kernel-Theorie (DKT) oder Kohärenz-Kernel (K₁) könnte die Gegenüberstellung unter „Spannung reversibler und irreversibler Vorgänge“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Dual-Kernel-Theorie (DKT) und Kohärenz-Kernel (K₁) unter „Spannung reversibler und irreversibler Vorgänge“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "dkt",
+    "kohaerenz-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-053",
+   "question": "Wo unterscheiden sich Dual-Kernel-Theorie (DKT) und Kollaps-Kernel (K₀), wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Weltphysik und Analogie“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-054",
+   "question": "Welche Quelle verbindet Dual-Kernel-Theorie (DKT) mit Kollaps-Kernel (K₀) in Bezug auf „Unterschied zwischen Weltphysik und Analogie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-055",
+   "question": "Welche Grenzen aus der Seite zu Kollaps-Kernel (K₀) müsste eine Deutung von Dual-Kernel-Theorie (DKT) unter „Unterschied zwischen Weltphysik und Analogie“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-056",
+   "question": "Wie könnte sich das Wissen über Dual-Kernel-Theorie (DKT) vom Wissen über Kollaps-Kernel (K₀) unterscheiden, wenn „Unterschied zwischen Weltphysik und Analogie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Dual-Kernel-Theorie (DKT) und Kollaps-Kernel (K₀) bei „Unterschied zwischen Weltphysik und Analogie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-058",
+   "question": "Falls Dual-Kernel-Theorie (DKT) im Hinblick auf „Unterschied zwischen Weltphysik und Analogie“ anders festgelegt wird: Welche Aussagen über Kollaps-Kernel (K₀) müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Dual-Kernel-Theorie (DKT) und Kollaps-Kernel (K₀) bei „Unterschied zwischen Weltphysik und Analogie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-060",
+   "question": "Braucht der Roman eine Verbindung von Dual-Kernel-Theorie (DKT) und Kollaps-Kernel (K₀) bei „Unterschied zwischen Weltphysik und Analogie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-061",
+   "question": "In welchem denkbaren Fall könnte Dual-Kernel-Theorie (DKT) bestehen, ohne dass Kollaps-Kernel (K₀) dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Weltphysik und Analogie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-062",
+   "question": "Welche Kosten könnte eine Verbindung von Dual-Kernel-Theorie (DKT) und Kollaps-Kernel (K₀) in Bezug auf „Unterschied zwischen Weltphysik und Analogie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-063",
+   "question": "Welche ältere Lesart von Dual-Kernel-Theorie (DKT) oder Kollaps-Kernel (K₀) könnte die Gegenüberstellung unter „Unterschied zwischen Weltphysik und Analogie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Dual-Kernel-Theorie (DKT) und Kollaps-Kernel (K₀) unter „Unterschied zwischen Weltphysik und Analogie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "dkt",
+    "kollaps-kernel"
+   ]
+  },
+  {
+   "id": "RQ-dkt-065",
+   "question": "Wo unterscheiden sich Dual-Kernel-Theorie (DKT) und Coheron, wenn man sie unter dem Gesichtspunkt „Gültigkeit der Kernel-Zuordnung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-066",
+   "question": "Welche Quelle verbindet Dual-Kernel-Theorie (DKT) mit Coheron in Bezug auf „Gültigkeit der Kernel-Zuordnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-067",
+   "question": "Welche Grenzen aus der Seite zu Coheron müsste eine Deutung von Dual-Kernel-Theorie (DKT) unter „Gültigkeit der Kernel-Zuordnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-068",
+   "question": "Wie könnte sich das Wissen über Dual-Kernel-Theorie (DKT) vom Wissen über Coheron unterscheiden, wenn „Gültigkeit der Kernel-Zuordnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Dual-Kernel-Theorie (DKT) und Coheron bei „Gültigkeit der Kernel-Zuordnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-070",
+   "question": "Falls Dual-Kernel-Theorie (DKT) im Hinblick auf „Gültigkeit der Kernel-Zuordnung“ anders festgelegt wird: Welche Aussagen über Coheron müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Dual-Kernel-Theorie (DKT) und Coheron bei „Gültigkeit der Kernel-Zuordnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-072",
+   "question": "Braucht der Roman eine Verbindung von Dual-Kernel-Theorie (DKT) und Coheron bei „Gültigkeit der Kernel-Zuordnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-073",
+   "question": "In welchem denkbaren Fall könnte Dual-Kernel-Theorie (DKT) bestehen, ohne dass Coheron dieselbe Funktion übernimmt, und was würde das für „Gültigkeit der Kernel-Zuordnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-074",
+   "question": "Welche Kosten könnte eine Verbindung von Dual-Kernel-Theorie (DKT) und Coheron in Bezug auf „Gültigkeit der Kernel-Zuordnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-075",
+   "question": "Welche ältere Lesart von Dual-Kernel-Theorie (DKT) oder Coheron könnte die Gegenüberstellung unter „Gültigkeit der Kernel-Zuordnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Dual-Kernel-Theorie (DKT) und Coheron unter „Gültigkeit der Kernel-Zuordnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "dkt",
+    "coheron"
+   ]
+  },
+  {
+   "id": "RQ-dkt-077",
+   "question": "Wo unterscheiden sich Dual-Kernel-Theorie (DKT) und Erason, wenn man sie unter dem Gesichtspunkt „Notwendigkeit beider Prinzipien“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-078",
+   "question": "Welche Quelle verbindet Dual-Kernel-Theorie (DKT) mit Erason in Bezug auf „Notwendigkeit beider Prinzipien“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-079",
+   "question": "Welche Grenzen aus der Seite zu Erason müsste eine Deutung von Dual-Kernel-Theorie (DKT) unter „Notwendigkeit beider Prinzipien“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-080",
+   "question": "Wie könnte sich das Wissen über Dual-Kernel-Theorie (DKT) vom Wissen über Erason unterscheiden, wenn „Notwendigkeit beider Prinzipien“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Dual-Kernel-Theorie (DKT) und Erason bei „Notwendigkeit beider Prinzipien“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-082",
+   "question": "Falls Dual-Kernel-Theorie (DKT) im Hinblick auf „Notwendigkeit beider Prinzipien“ anders festgelegt wird: Welche Aussagen über Erason müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Dual-Kernel-Theorie (DKT) und Erason bei „Notwendigkeit beider Prinzipien“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-084",
+   "question": "Braucht der Roman eine Verbindung von Dual-Kernel-Theorie (DKT) und Erason bei „Notwendigkeit beider Prinzipien“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-085",
+   "question": "In welchem denkbaren Fall könnte Dual-Kernel-Theorie (DKT) bestehen, ohne dass Erason dieselbe Funktion übernimmt, und was würde das für „Notwendigkeit beider Prinzipien“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-086",
+   "question": "Welche Kosten könnte eine Verbindung von Dual-Kernel-Theorie (DKT) und Erason in Bezug auf „Notwendigkeit beider Prinzipien“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-087",
+   "question": "Welche ältere Lesart von Dual-Kernel-Theorie (DKT) oder Erason könnte die Gegenüberstellung unter „Notwendigkeit beider Prinzipien“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Dual-Kernel-Theorie (DKT) und Erason unter „Notwendigkeit beider Prinzipien“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "dkt",
+    "erason"
+   ]
+  },
+  {
+   "id": "RQ-dkt-089",
+   "question": "Wo unterscheiden sich Dual-Kernel-Theorie (DKT) und Truth-Rotation, wenn man sie unter dem Gesichtspunkt „Grenzen der kosmologischen Erklärung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-090",
+   "question": "Welche Quelle verbindet Dual-Kernel-Theorie (DKT) mit Truth-Rotation in Bezug auf „Grenzen der kosmologischen Erklärung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-091",
+   "question": "Welche Grenzen aus der Seite zu Truth-Rotation müsste eine Deutung von Dual-Kernel-Theorie (DKT) unter „Grenzen der kosmologischen Erklärung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-092",
+   "question": "Wie könnte sich das Wissen über Dual-Kernel-Theorie (DKT) vom Wissen über Truth-Rotation unterscheiden, wenn „Grenzen der kosmologischen Erklärung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Dual-Kernel-Theorie (DKT) und Truth-Rotation bei „Grenzen der kosmologischen Erklärung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-094",
+   "question": "Falls Dual-Kernel-Theorie (DKT) im Hinblick auf „Grenzen der kosmologischen Erklärung“ anders festgelegt wird: Welche Aussagen über Truth-Rotation müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Dual-Kernel-Theorie (DKT) und Truth-Rotation bei „Grenzen der kosmologischen Erklärung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-096",
+   "question": "Braucht der Roman eine Verbindung von Dual-Kernel-Theorie (DKT) und Truth-Rotation bei „Grenzen der kosmologischen Erklärung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-097",
+   "question": "In welchem denkbaren Fall könnte Dual-Kernel-Theorie (DKT) bestehen, ohne dass Truth-Rotation dieselbe Funktion übernimmt, und was würde das für „Grenzen der kosmologischen Erklärung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-098",
+   "question": "Welche Kosten könnte eine Verbindung von Dual-Kernel-Theorie (DKT) und Truth-Rotation in Bezug auf „Grenzen der kosmologischen Erklärung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-099",
+   "question": "Welche ältere Lesart von Dual-Kernel-Theorie (DKT) oder Truth-Rotation könnte die Gegenüberstellung unter „Grenzen der kosmologischen Erklärung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  },
+  {
+   "id": "RQ-dkt-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Dual-Kernel-Theorie (DKT) und Truth-Rotation unter „Grenzen der kosmologischen Erklärung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "dkt",
+    "truth-rotation"
+   ]
+  }
+ ]
+}

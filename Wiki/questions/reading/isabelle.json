@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "isabelle",
+ "title": "Isabelle",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Kontrolle als Schutzstrategie",
+  "Reinszenierung ohne moralische Reduktion",
+  "Handlungsfähigkeit jenseits eines Etiketts",
+  "Abgrenzung der älteren und jüngeren Form",
+  "Wandel einer ambivalenten Schutzfunktion"
+ ],
+ "basis": {
+  "isabelle": {
+   "title": "Isabelle",
+   "path": "Wiki/candidates/isabelle.md",
+   "hash": "9108fdc9f8103430fead050e32571903834f16310b76321dd72a5941384e60f0"
+  },
+  "lia": {
+   "title": "Lia",
+   "path": "Wiki/candidates/lia.md",
+   "hash": "fe3c6497a56a97dc22976b6049a7b2262a0d6d55f6ba40dad6ce609c6e492614"
+  },
+  "nyx": {
+   "title": "Nyx",
+   "path": "Wiki/candidates/nyx.md",
+   "hash": "aa8229d8a97c26a7de00405ae622849723762c4d13b598d13466ea7a98add48c"
+  },
+  "kael": {
+   "title": "Kael",
+   "path": "Wiki/candidates/kael.md",
+   "hash": "f4d95caa3579d2625b01635cf1f4f1e95dfd328c2aaaf885eea0e72c6d1acaf1"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "rhys": {
+   "title": "Rhys",
+   "path": "Wiki/candidates/rhys.md",
+   "hash": "01c71ce22ab1354a736e01dcbe38e66aef7678dfbdf4a248d9e713f54405d257"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-isabelle-001",
+   "question": "Was will Isabelle erreichen, das über ihre Funktion als sexualisierter oder kontrollierender Schutzanteil hinausgeht?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-002",
+   "question": "Welche Lesarten auf der Seite zu Isabelle stützen oder begrenzen „Kontrolle als Schutzstrategie“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-003",
+   "question": "Welcher Grenzfall würde bei Isabelle die Annahmen über „Kontrolle als Schutzstrategie“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-004",
+   "question": "Wer könnte innerhalb des Romans bei Isabelle etwas über „Kontrolle als Schutzstrategie“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-005",
+   "question": "Welche konkrete Entscheidung könnte „Kontrolle als Schutzstrategie“ bei Isabelle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Kontrolle als Schutzstrategie“ bei Isabelle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-007",
+   "question": "Wie lässt sich „Kontrolle als Schutzstrategie“ bei Isabelle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-008",
+   "question": "Welche Alternativen sollte der Autor bei Isabelle für „Kontrolle als Schutzstrategie“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-009",
+   "question": "Was bedeutet bei Isabelle der Themenpunkt „Reinszenierung ohne moralische Reduktion“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-010",
+   "question": "Welche Lesarten auf der Seite zu Isabelle stützen oder begrenzen „Reinszenierung ohne moralische Reduktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-011",
+   "question": "Welcher Grenzfall würde bei Isabelle die Annahmen über „Reinszenierung ohne moralische Reduktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-012",
+   "question": "Wer könnte innerhalb des Romans bei Isabelle etwas über „Reinszenierung ohne moralische Reduktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-013",
+   "question": "Welche konkrete Entscheidung könnte „Reinszenierung ohne moralische Reduktion“ bei Isabelle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Reinszenierung ohne moralische Reduktion“ bei Isabelle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-015",
+   "question": "Wie lässt sich „Reinszenierung ohne moralische Reduktion“ bei Isabelle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-016",
+   "question": "Welche Alternativen sollte der Autor bei Isabelle für „Reinszenierung ohne moralische Reduktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-017",
+   "question": "Was bedeutet bei Isabelle der Themenpunkt „Handlungsfähigkeit jenseits eines Etiketts“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-018",
+   "question": "Welche Lesarten auf der Seite zu Isabelle stützen oder begrenzen „Handlungsfähigkeit jenseits eines Etiketts“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-019",
+   "question": "Welcher Grenzfall würde bei Isabelle die Annahmen über „Handlungsfähigkeit jenseits eines Etiketts“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-020",
+   "question": "Wer könnte innerhalb des Romans bei Isabelle etwas über „Handlungsfähigkeit jenseits eines Etiketts“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-021",
+   "question": "Welche konkrete Entscheidung könnte „Handlungsfähigkeit jenseits eines Etiketts“ bei Isabelle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlungsfähigkeit jenseits eines Etiketts“ bei Isabelle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-023",
+   "question": "Wie lässt sich „Handlungsfähigkeit jenseits eines Etiketts“ bei Isabelle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-024",
+   "question": "Welche Alternativen sollte der Autor bei Isabelle für „Handlungsfähigkeit jenseits eines Etiketts“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-025",
+   "question": "Was bedeutet bei Isabelle der Themenpunkt „Abgrenzung der älteren und jüngeren Form“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-026",
+   "question": "Welche Lesarten auf der Seite zu Isabelle stützen oder begrenzen „Abgrenzung der älteren und jüngeren Form“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-027",
+   "question": "Welcher Grenzfall würde bei Isabelle die Annahmen über „Abgrenzung der älteren und jüngeren Form“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-028",
+   "question": "Wer könnte innerhalb des Romans bei Isabelle etwas über „Abgrenzung der älteren und jüngeren Form“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-029",
+   "question": "Welche konkrete Entscheidung könnte „Abgrenzung der älteren und jüngeren Form“ bei Isabelle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Abgrenzung der älteren und jüngeren Form“ bei Isabelle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-031",
+   "question": "Wie lässt sich „Abgrenzung der älteren und jüngeren Form“ bei Isabelle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-032",
+   "question": "Welche Alternativen sollte der Autor bei Isabelle für „Abgrenzung der älteren und jüngeren Form“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-033",
+   "question": "Was bedeutet bei Isabelle der Themenpunkt „Wandel einer ambivalenten Schutzfunktion“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-034",
+   "question": "Welche Lesarten auf der Seite zu Isabelle stützen oder begrenzen „Wandel einer ambivalenten Schutzfunktion“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-035",
+   "question": "Welcher Grenzfall würde bei Isabelle die Annahmen über „Wandel einer ambivalenten Schutzfunktion“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-036",
+   "question": "Wer könnte innerhalb des Romans bei Isabelle etwas über „Wandel einer ambivalenten Schutzfunktion“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-037",
+   "question": "Welche konkrete Entscheidung könnte „Wandel einer ambivalenten Schutzfunktion“ bei Isabelle in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Wandel einer ambivalenten Schutzfunktion“ bei Isabelle haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-039",
+   "question": "Wie lässt sich „Wandel einer ambivalenten Schutzfunktion“ bei Isabelle zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-040",
+   "question": "Welche Alternativen sollte der Autor bei Isabelle für „Wandel einer ambivalenten Schutzfunktion“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "isabelle"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-041",
+   "question": "Wo unterscheiden sich Isabelle und Lia, wenn man sie unter dem Gesichtspunkt „Kontrolle als Schutzstrategie“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-042",
+   "question": "Welche Quelle verbindet Isabelle mit Lia in Bezug auf „Kontrolle als Schutzstrategie“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-043",
+   "question": "Welche Grenzen aus der Seite zu Lia müsste eine Deutung von Isabelle unter „Kontrolle als Schutzstrategie“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-044",
+   "question": "Wie könnte sich das Wissen über Isabelle vom Wissen über Lia unterscheiden, wenn „Kontrolle als Schutzstrategie“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Isabelle und Lia bei „Kontrolle als Schutzstrategie“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-046",
+   "question": "Falls Isabelle im Hinblick auf „Kontrolle als Schutzstrategie“ anders festgelegt wird: Welche Aussagen über Lia müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Isabelle und Lia bei „Kontrolle als Schutzstrategie“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-048",
+   "question": "Braucht der Roman eine Verbindung von Isabelle und Lia bei „Kontrolle als Schutzstrategie“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-049",
+   "question": "In welchem denkbaren Fall könnte Isabelle bestehen, ohne dass Lia dieselbe Funktion übernimmt, und was würde das für „Kontrolle als Schutzstrategie“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-050",
+   "question": "Welche Kosten könnte eine Verbindung von Isabelle und Lia in Bezug auf „Kontrolle als Schutzstrategie“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-051",
+   "question": "Welche ältere Lesart von Isabelle oder Lia könnte die Gegenüberstellung unter „Kontrolle als Schutzstrategie“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Isabelle und Lia unter „Kontrolle als Schutzstrategie“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "isabelle",
+    "lia"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-053",
+   "question": "Wo unterscheiden sich Isabelle und Nyx, wenn man sie unter dem Gesichtspunkt „Reinszenierung ohne moralische Reduktion“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-054",
+   "question": "Welche Quelle verbindet Isabelle mit Nyx in Bezug auf „Reinszenierung ohne moralische Reduktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-055",
+   "question": "Welche Grenzen aus der Seite zu Nyx müsste eine Deutung von Isabelle unter „Reinszenierung ohne moralische Reduktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-056",
+   "question": "Wie könnte sich das Wissen über Isabelle vom Wissen über Nyx unterscheiden, wenn „Reinszenierung ohne moralische Reduktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Isabelle und Nyx bei „Reinszenierung ohne moralische Reduktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-058",
+   "question": "Falls Isabelle im Hinblick auf „Reinszenierung ohne moralische Reduktion“ anders festgelegt wird: Welche Aussagen über Nyx müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Isabelle und Nyx bei „Reinszenierung ohne moralische Reduktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-060",
+   "question": "Braucht der Roman eine Verbindung von Isabelle und Nyx bei „Reinszenierung ohne moralische Reduktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-061",
+   "question": "In welchem denkbaren Fall könnte Isabelle bestehen, ohne dass Nyx dieselbe Funktion übernimmt, und was würde das für „Reinszenierung ohne moralische Reduktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-062",
+   "question": "Welche Kosten könnte eine Verbindung von Isabelle und Nyx in Bezug auf „Reinszenierung ohne moralische Reduktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-063",
+   "question": "Welche ältere Lesart von Isabelle oder Nyx könnte die Gegenüberstellung unter „Reinszenierung ohne moralische Reduktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Isabelle und Nyx unter „Reinszenierung ohne moralische Reduktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "isabelle",
+    "nyx"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-065",
+   "question": "Wo unterscheiden sich Isabelle und Kael, wenn man sie unter dem Gesichtspunkt „Handlungsfähigkeit jenseits eines Etiketts“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-066",
+   "question": "Welche Quelle verbindet Isabelle mit Kael in Bezug auf „Handlungsfähigkeit jenseits eines Etiketts“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-067",
+   "question": "Welche Grenzen aus der Seite zu Kael müsste eine Deutung von Isabelle unter „Handlungsfähigkeit jenseits eines Etiketts“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-068",
+   "question": "Wie könnte sich das Wissen über Isabelle vom Wissen über Kael unterscheiden, wenn „Handlungsfähigkeit jenseits eines Etiketts“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Isabelle und Kael bei „Handlungsfähigkeit jenseits eines Etiketts“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-070",
+   "question": "Falls Isabelle im Hinblick auf „Handlungsfähigkeit jenseits eines Etiketts“ anders festgelegt wird: Welche Aussagen über Kael müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Isabelle und Kael bei „Handlungsfähigkeit jenseits eines Etiketts“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-072",
+   "question": "Braucht der Roman eine Verbindung von Isabelle und Kael bei „Handlungsfähigkeit jenseits eines Etiketts“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-073",
+   "question": "In welchem denkbaren Fall könnte Isabelle bestehen, ohne dass Kael dieselbe Funktion übernimmt, und was würde das für „Handlungsfähigkeit jenseits eines Etiketts“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-074",
+   "question": "Welche Kosten könnte eine Verbindung von Isabelle und Kael in Bezug auf „Handlungsfähigkeit jenseits eines Etiketts“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-075",
+   "question": "Welche ältere Lesart von Isabelle oder Kael könnte die Gegenüberstellung unter „Handlungsfähigkeit jenseits eines Etiketts“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Isabelle und Kael unter „Handlungsfähigkeit jenseits eines Etiketts“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "isabelle",
+    "kael"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-077",
+   "question": "Wo unterscheiden sich Isabelle und Alters, wenn man sie unter dem Gesichtspunkt „Abgrenzung der älteren und jüngeren Form“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-078",
+   "question": "Welche Quelle verbindet Isabelle mit Alters in Bezug auf „Abgrenzung der älteren und jüngeren Form“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-079",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Isabelle unter „Abgrenzung der älteren und jüngeren Form“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-080",
+   "question": "Wie könnte sich das Wissen über Isabelle vom Wissen über Alters unterscheiden, wenn „Abgrenzung der älteren und jüngeren Form“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Isabelle und Alters bei „Abgrenzung der älteren und jüngeren Form“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-082",
+   "question": "Falls Isabelle im Hinblick auf „Abgrenzung der älteren und jüngeren Form“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Isabelle und Alters bei „Abgrenzung der älteren und jüngeren Form“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-084",
+   "question": "Braucht der Roman eine Verbindung von Isabelle und Alters bei „Abgrenzung der älteren und jüngeren Form“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-085",
+   "question": "In welchem denkbaren Fall könnte Isabelle bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „Abgrenzung der älteren und jüngeren Form“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-086",
+   "question": "Welche Kosten könnte eine Verbindung von Isabelle und Alters in Bezug auf „Abgrenzung der älteren und jüngeren Form“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-087",
+   "question": "Welche ältere Lesart von Isabelle oder Alters könnte die Gegenüberstellung unter „Abgrenzung der älteren und jüngeren Form“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Isabelle und Alters unter „Abgrenzung der älteren und jüngeren Form“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "isabelle",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-089",
+   "question": "Wo unterscheiden sich Isabelle und Rhys, wenn man sie unter dem Gesichtspunkt „Wandel einer ambivalenten Schutzfunktion“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-090",
+   "question": "Welche Quelle verbindet Isabelle mit Rhys in Bezug auf „Wandel einer ambivalenten Schutzfunktion“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-091",
+   "question": "Welche Grenzen aus der Seite zu Rhys müsste eine Deutung von Isabelle unter „Wandel einer ambivalenten Schutzfunktion“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-092",
+   "question": "Wie könnte sich das Wissen über Isabelle vom Wissen über Rhys unterscheiden, wenn „Wandel einer ambivalenten Schutzfunktion“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Isabelle und Rhys bei „Wandel einer ambivalenten Schutzfunktion“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-094",
+   "question": "Falls Isabelle im Hinblick auf „Wandel einer ambivalenten Schutzfunktion“ anders festgelegt wird: Welche Aussagen über Rhys müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Isabelle und Rhys bei „Wandel einer ambivalenten Schutzfunktion“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-096",
+   "question": "Braucht der Roman eine Verbindung von Isabelle und Rhys bei „Wandel einer ambivalenten Schutzfunktion“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-097",
+   "question": "In welchem denkbaren Fall könnte Isabelle bestehen, ohne dass Rhys dieselbe Funktion übernimmt, und was würde das für „Wandel einer ambivalenten Schutzfunktion“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-098",
+   "question": "Welche Kosten könnte eine Verbindung von Isabelle und Rhys in Bezug auf „Wandel einer ambivalenten Schutzfunktion“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-099",
+   "question": "Welche ältere Lesart von Isabelle oder Rhys könnte die Gegenüberstellung unter „Wandel einer ambivalenten Schutzfunktion“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  },
+  {
+   "id": "RQ-isabelle-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Isabelle und Rhys unter „Wandel einer ambivalenten Schutzfunktion“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "isabelle",
+    "rhys"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "multiplizitaet",
+ "title": "Multiplizität",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "gesunde Vielfalt gegenüber Chaos",
+  "Handlungsfähigkeit mehrerer Perspektiven",
+  "Unterschied zwischen Integration und Verschmelzung",
+  "Gemeinsamkeit trotz bleibender Unterschiede",
+  "Grenzen einer neuen Wir-Stimme"
+ ],
+ "basis": {
+  "multiplizitaet": {
+   "title": "Multiplizität",
+   "path": "Wiki/candidates/multiplizitaet.md",
+   "hash": "61277268f6371fec1da2e5dc1b5f127ebc156b1d06e787e1f718bb7f3124ad87"
+  },
+  "alters": {
+   "title": "Alters",
+   "path": "Wiki/candidates/alters.md",
+   "hash": "340261c78b3bd6ce6cfefedb9f3a9d13e5ac00fd5ddb19e60555788c9689a09a"
+  },
+  "did": {
+   "title": "DID — dissoziative Identitätsstruktur",
+   "path": "Wiki/candidates/did.md",
+   "hash": "3e4dbef89c60c8206972740f586bc1cab3ab4d96d5e71074e213f334b6b879a7"
+  },
+  "kohaerenz": {
+   "title": "Kohärenz",
+   "path": "Wiki/candidates/kohaerenz.md",
+   "hash": "af048e1a6562461821aa7196561366d27a89351754b74433408bfc0438073f65"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "formel-inversion": {
+   "title": "Formel-Inversion",
+   "path": "Wiki/candidates/formel-inversion.md",
+   "hash": "dc66354ebd196afc9ce831cf9a83f9ad516f3ca65e773f27ca3f8475d00ca000"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-multiplizitaet-001",
+   "question": "Wie zeigt das neue Wir bleibende Unterschiede in Wünschen und Perspektiven, statt nur viele Stimmen zu einer Stimme zusammenzufassen?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-002",
+   "question": "Welche Lesarten auf der Seite zu Multiplizität stützen oder begrenzen „gesunde Vielfalt gegenüber Chaos“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-003",
+   "question": "Welcher Grenzfall würde bei Multiplizität die Annahmen über „gesunde Vielfalt gegenüber Chaos“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-004",
+   "question": "Wer könnte innerhalb des Romans bei Multiplizität etwas über „gesunde Vielfalt gegenüber Chaos“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-005",
+   "question": "Welche konkrete Entscheidung könnte „gesunde Vielfalt gegenüber Chaos“ bei Multiplizität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „gesunde Vielfalt gegenüber Chaos“ bei Multiplizität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-007",
+   "question": "Wie lässt sich „gesunde Vielfalt gegenüber Chaos“ bei Multiplizität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-008",
+   "question": "Welche Alternativen sollte der Autor bei Multiplizität für „gesunde Vielfalt gegenüber Chaos“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-009",
+   "question": "Was bedeutet bei Multiplizität der Themenpunkt „Handlungsfähigkeit mehrerer Perspektiven“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-010",
+   "question": "Welche Lesarten auf der Seite zu Multiplizität stützen oder begrenzen „Handlungsfähigkeit mehrerer Perspektiven“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-011",
+   "question": "Welcher Grenzfall würde bei Multiplizität die Annahmen über „Handlungsfähigkeit mehrerer Perspektiven“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-012",
+   "question": "Wer könnte innerhalb des Romans bei Multiplizität etwas über „Handlungsfähigkeit mehrerer Perspektiven“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-013",
+   "question": "Welche konkrete Entscheidung könnte „Handlungsfähigkeit mehrerer Perspektiven“ bei Multiplizität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Handlungsfähigkeit mehrerer Perspektiven“ bei Multiplizität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-015",
+   "question": "Wie lässt sich „Handlungsfähigkeit mehrerer Perspektiven“ bei Multiplizität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-016",
+   "question": "Welche Alternativen sollte der Autor bei Multiplizität für „Handlungsfähigkeit mehrerer Perspektiven“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-017",
+   "question": "Was bedeutet bei Multiplizität der Themenpunkt „Unterschied zwischen Integration und Verschmelzung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-018",
+   "question": "Welche Lesarten auf der Seite zu Multiplizität stützen oder begrenzen „Unterschied zwischen Integration und Verschmelzung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-019",
+   "question": "Welcher Grenzfall würde bei Multiplizität die Annahmen über „Unterschied zwischen Integration und Verschmelzung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-020",
+   "question": "Wer könnte innerhalb des Romans bei Multiplizität etwas über „Unterschied zwischen Integration und Verschmelzung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-021",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Integration und Verschmelzung“ bei Multiplizität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Integration und Verschmelzung“ bei Multiplizität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-023",
+   "question": "Wie lässt sich „Unterschied zwischen Integration und Verschmelzung“ bei Multiplizität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-024",
+   "question": "Welche Alternativen sollte der Autor bei Multiplizität für „Unterschied zwischen Integration und Verschmelzung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-025",
+   "question": "Was bedeutet bei Multiplizität der Themenpunkt „Gemeinsamkeit trotz bleibender Unterschiede“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-026",
+   "question": "Welche Lesarten auf der Seite zu Multiplizität stützen oder begrenzen „Gemeinsamkeit trotz bleibender Unterschiede“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-027",
+   "question": "Welcher Grenzfall würde bei Multiplizität die Annahmen über „Gemeinsamkeit trotz bleibender Unterschiede“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-028",
+   "question": "Wer könnte innerhalb des Romans bei Multiplizität etwas über „Gemeinsamkeit trotz bleibender Unterschiede“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-029",
+   "question": "Welche konkrete Entscheidung könnte „Gemeinsamkeit trotz bleibender Unterschiede“ bei Multiplizität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Gemeinsamkeit trotz bleibender Unterschiede“ bei Multiplizität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-031",
+   "question": "Wie lässt sich „Gemeinsamkeit trotz bleibender Unterschiede“ bei Multiplizität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-032",
+   "question": "Welche Alternativen sollte der Autor bei Multiplizität für „Gemeinsamkeit trotz bleibender Unterschiede“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-033",
+   "question": "Was bedeutet bei Multiplizität der Themenpunkt „Grenzen einer neuen Wir-Stimme“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-034",
+   "question": "Welche Lesarten auf der Seite zu Multiplizität stützen oder begrenzen „Grenzen einer neuen Wir-Stimme“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-035",
+   "question": "Welcher Grenzfall würde bei Multiplizität die Annahmen über „Grenzen einer neuen Wir-Stimme“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-036",
+   "question": "Wer könnte innerhalb des Romans bei Multiplizität etwas über „Grenzen einer neuen Wir-Stimme“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenzen einer neuen Wir-Stimme“ bei Multiplizität in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenzen einer neuen Wir-Stimme“ bei Multiplizität haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-039",
+   "question": "Wie lässt sich „Grenzen einer neuen Wir-Stimme“ bei Multiplizität zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-040",
+   "question": "Welche Alternativen sollte der Autor bei Multiplizität für „Grenzen einer neuen Wir-Stimme“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-041",
+   "question": "Wo unterscheiden sich Multiplizität und Alters, wenn man sie unter dem Gesichtspunkt „gesunde Vielfalt gegenüber Chaos“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-042",
+   "question": "Welche Quelle verbindet Multiplizität mit Alters in Bezug auf „gesunde Vielfalt gegenüber Chaos“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-043",
+   "question": "Welche Grenzen aus der Seite zu Alters müsste eine Deutung von Multiplizität unter „gesunde Vielfalt gegenüber Chaos“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-044",
+   "question": "Wie könnte sich das Wissen über Multiplizität vom Wissen über Alters unterscheiden, wenn „gesunde Vielfalt gegenüber Chaos“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Multiplizität und Alters bei „gesunde Vielfalt gegenüber Chaos“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-046",
+   "question": "Falls Multiplizität im Hinblick auf „gesunde Vielfalt gegenüber Chaos“ anders festgelegt wird: Welche Aussagen über Alters müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Multiplizität und Alters bei „gesunde Vielfalt gegenüber Chaos“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-048",
+   "question": "Braucht der Roman eine Verbindung von Multiplizität und Alters bei „gesunde Vielfalt gegenüber Chaos“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-049",
+   "question": "In welchem denkbaren Fall könnte Multiplizität bestehen, ohne dass Alters dieselbe Funktion übernimmt, und was würde das für „gesunde Vielfalt gegenüber Chaos“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-050",
+   "question": "Welche Kosten könnte eine Verbindung von Multiplizität und Alters in Bezug auf „gesunde Vielfalt gegenüber Chaos“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-051",
+   "question": "Welche ältere Lesart von Multiplizität oder Alters könnte die Gegenüberstellung unter „gesunde Vielfalt gegenüber Chaos“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Multiplizität und Alters unter „gesunde Vielfalt gegenüber Chaos“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "multiplizitaet",
+    "alters"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-053",
+   "question": "Wo unterscheiden sich Multiplizität und DID — dissoziative Identitätsstruktur, wenn man sie unter dem Gesichtspunkt „Handlungsfähigkeit mehrerer Perspektiven“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-054",
+   "question": "Welche Quelle verbindet Multiplizität mit DID — dissoziative Identitätsstruktur in Bezug auf „Handlungsfähigkeit mehrerer Perspektiven“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-055",
+   "question": "Welche Grenzen aus der Seite zu DID — dissoziative Identitätsstruktur müsste eine Deutung von Multiplizität unter „Handlungsfähigkeit mehrerer Perspektiven“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-056",
+   "question": "Wie könnte sich das Wissen über Multiplizität vom Wissen über DID — dissoziative Identitätsstruktur unterscheiden, wenn „Handlungsfähigkeit mehrerer Perspektiven“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Multiplizität und DID — dissoziative Identitätsstruktur bei „Handlungsfähigkeit mehrerer Perspektiven“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-058",
+   "question": "Falls Multiplizität im Hinblick auf „Handlungsfähigkeit mehrerer Perspektiven“ anders festgelegt wird: Welche Aussagen über DID — dissoziative Identitätsstruktur müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Multiplizität und DID — dissoziative Identitätsstruktur bei „Handlungsfähigkeit mehrerer Perspektiven“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-060",
+   "question": "Braucht der Roman eine Verbindung von Multiplizität und DID — dissoziative Identitätsstruktur bei „Handlungsfähigkeit mehrerer Perspektiven“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-061",
+   "question": "In welchem denkbaren Fall könnte Multiplizität bestehen, ohne dass DID — dissoziative Identitätsstruktur dieselbe Funktion übernimmt, und was würde das für „Handlungsfähigkeit mehrerer Perspektiven“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-062",
+   "question": "Welche Kosten könnte eine Verbindung von Multiplizität und DID — dissoziative Identitätsstruktur in Bezug auf „Handlungsfähigkeit mehrerer Perspektiven“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-063",
+   "question": "Welche ältere Lesart von Multiplizität oder DID — dissoziative Identitätsstruktur könnte die Gegenüberstellung unter „Handlungsfähigkeit mehrerer Perspektiven“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Multiplizität und DID — dissoziative Identitätsstruktur unter „Handlungsfähigkeit mehrerer Perspektiven“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "multiplizitaet",
+    "did"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-065",
+   "question": "Wo unterscheiden sich Multiplizität und Kohärenz, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Integration und Verschmelzung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-066",
+   "question": "Welche Quelle verbindet Multiplizität mit Kohärenz in Bezug auf „Unterschied zwischen Integration und Verschmelzung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-067",
+   "question": "Welche Grenzen aus der Seite zu Kohärenz müsste eine Deutung von Multiplizität unter „Unterschied zwischen Integration und Verschmelzung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-068",
+   "question": "Wie könnte sich das Wissen über Multiplizität vom Wissen über Kohärenz unterscheiden, wenn „Unterschied zwischen Integration und Verschmelzung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Multiplizität und Kohärenz bei „Unterschied zwischen Integration und Verschmelzung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-070",
+   "question": "Falls Multiplizität im Hinblick auf „Unterschied zwischen Integration und Verschmelzung“ anders festgelegt wird: Welche Aussagen über Kohärenz müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Multiplizität und Kohärenz bei „Unterschied zwischen Integration und Verschmelzung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-072",
+   "question": "Braucht der Roman eine Verbindung von Multiplizität und Kohärenz bei „Unterschied zwischen Integration und Verschmelzung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-073",
+   "question": "In welchem denkbaren Fall könnte Multiplizität bestehen, ohne dass Kohärenz dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Integration und Verschmelzung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-074",
+   "question": "Welche Kosten könnte eine Verbindung von Multiplizität und Kohärenz in Bezug auf „Unterschied zwischen Integration und Verschmelzung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-075",
+   "question": "Welche ältere Lesart von Multiplizität oder Kohärenz könnte die Gegenüberstellung unter „Unterschied zwischen Integration und Verschmelzung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Multiplizität und Kohärenz unter „Unterschied zwischen Integration und Verschmelzung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "multiplizitaet",
+    "kohaerenz"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-077",
+   "question": "Wo unterscheiden sich Multiplizität und AEGIS, wenn man sie unter dem Gesichtspunkt „Gemeinsamkeit trotz bleibender Unterschiede“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-078",
+   "question": "Welche Quelle verbindet Multiplizität mit AEGIS in Bezug auf „Gemeinsamkeit trotz bleibender Unterschiede“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-079",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Multiplizität unter „Gemeinsamkeit trotz bleibender Unterschiede“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-080",
+   "question": "Wie könnte sich das Wissen über Multiplizität vom Wissen über AEGIS unterscheiden, wenn „Gemeinsamkeit trotz bleibender Unterschiede“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Multiplizität und AEGIS bei „Gemeinsamkeit trotz bleibender Unterschiede“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-082",
+   "question": "Falls Multiplizität im Hinblick auf „Gemeinsamkeit trotz bleibender Unterschiede“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Multiplizität und AEGIS bei „Gemeinsamkeit trotz bleibender Unterschiede“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-084",
+   "question": "Braucht der Roman eine Verbindung von Multiplizität und AEGIS bei „Gemeinsamkeit trotz bleibender Unterschiede“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-085",
+   "question": "In welchem denkbaren Fall könnte Multiplizität bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Gemeinsamkeit trotz bleibender Unterschiede“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-086",
+   "question": "Welche Kosten könnte eine Verbindung von Multiplizität und AEGIS in Bezug auf „Gemeinsamkeit trotz bleibender Unterschiede“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-087",
+   "question": "Welche ältere Lesart von Multiplizität oder AEGIS könnte die Gegenüberstellung unter „Gemeinsamkeit trotz bleibender Unterschiede“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Multiplizität und AEGIS unter „Gemeinsamkeit trotz bleibender Unterschiede“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "multiplizitaet",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-089",
+   "question": "Wo unterscheiden sich Multiplizität und Formel-Inversion, wenn man sie unter dem Gesichtspunkt „Grenzen einer neuen Wir-Stimme“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-090",
+   "question": "Welche Quelle verbindet Multiplizität mit Formel-Inversion in Bezug auf „Grenzen einer neuen Wir-Stimme“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-091",
+   "question": "Welche Grenzen aus der Seite zu Formel-Inversion müsste eine Deutung von Multiplizität unter „Grenzen einer neuen Wir-Stimme“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-092",
+   "question": "Wie könnte sich das Wissen über Multiplizität vom Wissen über Formel-Inversion unterscheiden, wenn „Grenzen einer neuen Wir-Stimme“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Multiplizität und Formel-Inversion bei „Grenzen einer neuen Wir-Stimme“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-094",
+   "question": "Falls Multiplizität im Hinblick auf „Grenzen einer neuen Wir-Stimme“ anders festgelegt wird: Welche Aussagen über Formel-Inversion müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Multiplizität und Formel-Inversion bei „Grenzen einer neuen Wir-Stimme“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-096",
+   "question": "Braucht der Roman eine Verbindung von Multiplizität und Formel-Inversion bei „Grenzen einer neuen Wir-Stimme“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-097",
+   "question": "In welchem denkbaren Fall könnte Multiplizität bestehen, ohne dass Formel-Inversion dieselbe Funktion übernimmt, und was würde das für „Grenzen einer neuen Wir-Stimme“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-098",
+   "question": "Welche Kosten könnte eine Verbindung von Multiplizität und Formel-Inversion in Bezug auf „Grenzen einer neuen Wir-Stimme“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-099",
+   "question": "Welche ältere Lesart von Multiplizität oder Formel-Inversion könnte die Gegenüberstellung unter „Grenzen einer neuen Wir-Stimme“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  },
+  {
+   "id": "RQ-multiplizitaet-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Multiplizität und Formel-Inversion unter „Grenzen einer neuen Wir-Stimme“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "multiplizitaet",
+    "formel-inversion"
+   ]
+  }
+ ]
+}

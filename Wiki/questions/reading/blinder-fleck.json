@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "blinder-fleck",
+ "title": "Ontologischer blinder Fleck",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Unterschied zwischen Nichtwissen und Unmessbarkeit",
+  "Blindheit der einzelnen Guardians",
+  "Erkenntnis eigener Begrenzung",
+  "Konsequenz fehlerhafter Diagnosen",
+  "Leserwissen gegenüber Systemwissen"
+ ],
+ "basis": {
+  "blinder-fleck": {
+   "title": "Ontologischer blinder Fleck",
+   "path": "Wiki/candidates/blinder-fleck.md",
+   "hash": "bcdfd7472dac5ba2629791311c22f57a68e61e9dec6865c3708a5508416b63ec"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "juna": {
+   "title": "Juna",
+   "path": "Wiki/candidates/juna.md",
+   "hash": "238e6863c3bddb8c3e39c06c681fdbbb2bdd4c2ecad3dcdf860998bd27a4bab7"
+  },
+  "chaitin-konstante": {
+   "title": "Chaitin-Konstante",
+   "path": "Wiki/candidates/chaitin-konstante.md",
+   "hash": "a25371d3cedc288db9e3e8e9c70f8e482370e0391f208cf1b722b283f6fefe21"
+  },
+  "protokoll-v14": {
+   "title": "Protokoll v1.4",
+   "path": "Wiki/candidates/protokoll-v14.md",
+   "hash": "7854f405113308ff8008f39215698b8f1633196189b0931d29fec812b6251603"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-blinder-fleck-001",
+   "question": "Kann AEGIS das Vorhandensein seines blinden Flecks messen, obwohl es dessen Inhalt nicht berechnen kann?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-002",
+   "question": "Welche Lesarten auf der Seite zu Ontologischer blinder Fleck stützen oder begrenzen „Unterschied zwischen Nichtwissen und Unmessbarkeit“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-003",
+   "question": "Welcher Grenzfall würde bei Ontologischer blinder Fleck die Annahmen über „Unterschied zwischen Nichtwissen und Unmessbarkeit“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-004",
+   "question": "Wer könnte innerhalb des Romans bei Ontologischer blinder Fleck etwas über „Unterschied zwischen Nichtwissen und Unmessbarkeit“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-005",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Nichtwissen und Unmessbarkeit“ bei Ontologischer blinder Fleck in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Nichtwissen und Unmessbarkeit“ bei Ontologischer blinder Fleck haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-007",
+   "question": "Wie lässt sich „Unterschied zwischen Nichtwissen und Unmessbarkeit“ bei Ontologischer blinder Fleck zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-008",
+   "question": "Welche Alternativen sollte der Autor bei Ontologischer blinder Fleck für „Unterschied zwischen Nichtwissen und Unmessbarkeit“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-009",
+   "question": "Was bedeutet bei Ontologischer blinder Fleck der Themenpunkt „Blindheit der einzelnen Guardians“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-010",
+   "question": "Welche Lesarten auf der Seite zu Ontologischer blinder Fleck stützen oder begrenzen „Blindheit der einzelnen Guardians“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-011",
+   "question": "Welcher Grenzfall würde bei Ontologischer blinder Fleck die Annahmen über „Blindheit der einzelnen Guardians“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-012",
+   "question": "Wer könnte innerhalb des Romans bei Ontologischer blinder Fleck etwas über „Blindheit der einzelnen Guardians“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-013",
+   "question": "Welche konkrete Entscheidung könnte „Blindheit der einzelnen Guardians“ bei Ontologischer blinder Fleck in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Blindheit der einzelnen Guardians“ bei Ontologischer blinder Fleck haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-015",
+   "question": "Wie lässt sich „Blindheit der einzelnen Guardians“ bei Ontologischer blinder Fleck zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-016",
+   "question": "Welche Alternativen sollte der Autor bei Ontologischer blinder Fleck für „Blindheit der einzelnen Guardians“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-017",
+   "question": "Was bedeutet bei Ontologischer blinder Fleck der Themenpunkt „Erkenntnis eigener Begrenzung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-018",
+   "question": "Welche Lesarten auf der Seite zu Ontologischer blinder Fleck stützen oder begrenzen „Erkenntnis eigener Begrenzung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-019",
+   "question": "Welcher Grenzfall würde bei Ontologischer blinder Fleck die Annahmen über „Erkenntnis eigener Begrenzung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-020",
+   "question": "Wer könnte innerhalb des Romans bei Ontologischer blinder Fleck etwas über „Erkenntnis eigener Begrenzung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-021",
+   "question": "Welche konkrete Entscheidung könnte „Erkenntnis eigener Begrenzung“ bei Ontologischer blinder Fleck in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erkenntnis eigener Begrenzung“ bei Ontologischer blinder Fleck haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-023",
+   "question": "Wie lässt sich „Erkenntnis eigener Begrenzung“ bei Ontologischer blinder Fleck zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-024",
+   "question": "Welche Alternativen sollte der Autor bei Ontologischer blinder Fleck für „Erkenntnis eigener Begrenzung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-025",
+   "question": "Was bedeutet bei Ontologischer blinder Fleck der Themenpunkt „Konsequenz fehlerhafter Diagnosen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-026",
+   "question": "Welche Lesarten auf der Seite zu Ontologischer blinder Fleck stützen oder begrenzen „Konsequenz fehlerhafter Diagnosen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-027",
+   "question": "Welcher Grenzfall würde bei Ontologischer blinder Fleck die Annahmen über „Konsequenz fehlerhafter Diagnosen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-028",
+   "question": "Wer könnte innerhalb des Romans bei Ontologischer blinder Fleck etwas über „Konsequenz fehlerhafter Diagnosen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-029",
+   "question": "Welche konkrete Entscheidung könnte „Konsequenz fehlerhafter Diagnosen“ bei Ontologischer blinder Fleck in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Konsequenz fehlerhafter Diagnosen“ bei Ontologischer blinder Fleck haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-031",
+   "question": "Wie lässt sich „Konsequenz fehlerhafter Diagnosen“ bei Ontologischer blinder Fleck zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-032",
+   "question": "Welche Alternativen sollte der Autor bei Ontologischer blinder Fleck für „Konsequenz fehlerhafter Diagnosen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-033",
+   "question": "Was bedeutet bei Ontologischer blinder Fleck der Themenpunkt „Leserwissen gegenüber Systemwissen“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-034",
+   "question": "Welche Lesarten auf der Seite zu Ontologischer blinder Fleck stützen oder begrenzen „Leserwissen gegenüber Systemwissen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-035",
+   "question": "Welcher Grenzfall würde bei Ontologischer blinder Fleck die Annahmen über „Leserwissen gegenüber Systemwissen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-036",
+   "question": "Wer könnte innerhalb des Romans bei Ontologischer blinder Fleck etwas über „Leserwissen gegenüber Systemwissen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-037",
+   "question": "Welche konkrete Entscheidung könnte „Leserwissen gegenüber Systemwissen“ bei Ontologischer blinder Fleck in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Leserwissen gegenüber Systemwissen“ bei Ontologischer blinder Fleck haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-039",
+   "question": "Wie lässt sich „Leserwissen gegenüber Systemwissen“ bei Ontologischer blinder Fleck zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-040",
+   "question": "Welche Alternativen sollte der Autor bei Ontologischer blinder Fleck für „Leserwissen gegenüber Systemwissen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-041",
+   "question": "Wo unterscheiden sich Ontologischer blinder Fleck und AEGIS, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Nichtwissen und Unmessbarkeit“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-042",
+   "question": "Welche Quelle verbindet Ontologischer blinder Fleck mit AEGIS in Bezug auf „Unterschied zwischen Nichtwissen und Unmessbarkeit“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-043",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Ontologischer blinder Fleck unter „Unterschied zwischen Nichtwissen und Unmessbarkeit“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-044",
+   "question": "Wie könnte sich das Wissen über Ontologischer blinder Fleck vom Wissen über AEGIS unterscheiden, wenn „Unterschied zwischen Nichtwissen und Unmessbarkeit“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ontologischer blinder Fleck und AEGIS bei „Unterschied zwischen Nichtwissen und Unmessbarkeit“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-046",
+   "question": "Falls Ontologischer blinder Fleck im Hinblick auf „Unterschied zwischen Nichtwissen und Unmessbarkeit“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ontologischer blinder Fleck und AEGIS bei „Unterschied zwischen Nichtwissen und Unmessbarkeit“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-048",
+   "question": "Braucht der Roman eine Verbindung von Ontologischer blinder Fleck und AEGIS bei „Unterschied zwischen Nichtwissen und Unmessbarkeit“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-049",
+   "question": "In welchem denkbaren Fall könnte Ontologischer blinder Fleck bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Nichtwissen und Unmessbarkeit“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-050",
+   "question": "Welche Kosten könnte eine Verbindung von Ontologischer blinder Fleck und AEGIS in Bezug auf „Unterschied zwischen Nichtwissen und Unmessbarkeit“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-051",
+   "question": "Welche ältere Lesart von Ontologischer blinder Fleck oder AEGIS könnte die Gegenüberstellung unter „Unterschied zwischen Nichtwissen und Unmessbarkeit“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ontologischer blinder Fleck und AEGIS unter „Unterschied zwischen Nichtwissen und Unmessbarkeit“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "blinder-fleck",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-053",
+   "question": "Wo unterscheiden sich Ontologischer blinder Fleck und Guardians, wenn man sie unter dem Gesichtspunkt „Blindheit der einzelnen Guardians“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-054",
+   "question": "Welche Quelle verbindet Ontologischer blinder Fleck mit Guardians in Bezug auf „Blindheit der einzelnen Guardians“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-055",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Ontologischer blinder Fleck unter „Blindheit der einzelnen Guardians“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-056",
+   "question": "Wie könnte sich das Wissen über Ontologischer blinder Fleck vom Wissen über Guardians unterscheiden, wenn „Blindheit der einzelnen Guardians“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ontologischer blinder Fleck und Guardians bei „Blindheit der einzelnen Guardians“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-058",
+   "question": "Falls Ontologischer blinder Fleck im Hinblick auf „Blindheit der einzelnen Guardians“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ontologischer blinder Fleck und Guardians bei „Blindheit der einzelnen Guardians“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-060",
+   "question": "Braucht der Roman eine Verbindung von Ontologischer blinder Fleck und Guardians bei „Blindheit der einzelnen Guardians“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-061",
+   "question": "In welchem denkbaren Fall könnte Ontologischer blinder Fleck bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Blindheit der einzelnen Guardians“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-062",
+   "question": "Welche Kosten könnte eine Verbindung von Ontologischer blinder Fleck und Guardians in Bezug auf „Blindheit der einzelnen Guardians“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-063",
+   "question": "Welche ältere Lesart von Ontologischer blinder Fleck oder Guardians könnte die Gegenüberstellung unter „Blindheit der einzelnen Guardians“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ontologischer blinder Fleck und Guardians unter „Blindheit der einzelnen Guardians“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "blinder-fleck",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-065",
+   "question": "Wo unterscheiden sich Ontologischer blinder Fleck und Juna, wenn man sie unter dem Gesichtspunkt „Erkenntnis eigener Begrenzung“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-066",
+   "question": "Welche Quelle verbindet Ontologischer blinder Fleck mit Juna in Bezug auf „Erkenntnis eigener Begrenzung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-067",
+   "question": "Welche Grenzen aus der Seite zu Juna müsste eine Deutung von Ontologischer blinder Fleck unter „Erkenntnis eigener Begrenzung“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-068",
+   "question": "Wie könnte sich das Wissen über Ontologischer blinder Fleck vom Wissen über Juna unterscheiden, wenn „Erkenntnis eigener Begrenzung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ontologischer blinder Fleck und Juna bei „Erkenntnis eigener Begrenzung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-070",
+   "question": "Falls Ontologischer blinder Fleck im Hinblick auf „Erkenntnis eigener Begrenzung“ anders festgelegt wird: Welche Aussagen über Juna müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ontologischer blinder Fleck und Juna bei „Erkenntnis eigener Begrenzung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-072",
+   "question": "Braucht der Roman eine Verbindung von Ontologischer blinder Fleck und Juna bei „Erkenntnis eigener Begrenzung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-073",
+   "question": "In welchem denkbaren Fall könnte Ontologischer blinder Fleck bestehen, ohne dass Juna dieselbe Funktion übernimmt, und was würde das für „Erkenntnis eigener Begrenzung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-074",
+   "question": "Welche Kosten könnte eine Verbindung von Ontologischer blinder Fleck und Juna in Bezug auf „Erkenntnis eigener Begrenzung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-075",
+   "question": "Welche ältere Lesart von Ontologischer blinder Fleck oder Juna könnte die Gegenüberstellung unter „Erkenntnis eigener Begrenzung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ontologischer blinder Fleck und Juna unter „Erkenntnis eigener Begrenzung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "blinder-fleck",
+    "juna"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-077",
+   "question": "Wo unterscheiden sich Ontologischer blinder Fleck und Chaitin-Konstante, wenn man sie unter dem Gesichtspunkt „Konsequenz fehlerhafter Diagnosen“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-078",
+   "question": "Welche Quelle verbindet Ontologischer blinder Fleck mit Chaitin-Konstante in Bezug auf „Konsequenz fehlerhafter Diagnosen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-079",
+   "question": "Welche Grenzen aus der Seite zu Chaitin-Konstante müsste eine Deutung von Ontologischer blinder Fleck unter „Konsequenz fehlerhafter Diagnosen“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-080",
+   "question": "Wie könnte sich das Wissen über Ontologischer blinder Fleck vom Wissen über Chaitin-Konstante unterscheiden, wenn „Konsequenz fehlerhafter Diagnosen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ontologischer blinder Fleck und Chaitin-Konstante bei „Konsequenz fehlerhafter Diagnosen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-082",
+   "question": "Falls Ontologischer blinder Fleck im Hinblick auf „Konsequenz fehlerhafter Diagnosen“ anders festgelegt wird: Welche Aussagen über Chaitin-Konstante müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ontologischer blinder Fleck und Chaitin-Konstante bei „Konsequenz fehlerhafter Diagnosen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-084",
+   "question": "Braucht der Roman eine Verbindung von Ontologischer blinder Fleck und Chaitin-Konstante bei „Konsequenz fehlerhafter Diagnosen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-085",
+   "question": "In welchem denkbaren Fall könnte Ontologischer blinder Fleck bestehen, ohne dass Chaitin-Konstante dieselbe Funktion übernimmt, und was würde das für „Konsequenz fehlerhafter Diagnosen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-086",
+   "question": "Welche Kosten könnte eine Verbindung von Ontologischer blinder Fleck und Chaitin-Konstante in Bezug auf „Konsequenz fehlerhafter Diagnosen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-087",
+   "question": "Welche ältere Lesart von Ontologischer blinder Fleck oder Chaitin-Konstante könnte die Gegenüberstellung unter „Konsequenz fehlerhafter Diagnosen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ontologischer blinder Fleck und Chaitin-Konstante unter „Konsequenz fehlerhafter Diagnosen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "blinder-fleck",
+    "chaitin-konstante"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-089",
+   "question": "Wo unterscheiden sich Ontologischer blinder Fleck und Protokoll v1.4, wenn man sie unter dem Gesichtspunkt „Leserwissen gegenüber Systemwissen“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-090",
+   "question": "Welche Quelle verbindet Ontologischer blinder Fleck mit Protokoll v1.4 in Bezug auf „Leserwissen gegenüber Systemwissen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-091",
+   "question": "Welche Grenzen aus der Seite zu Protokoll v1.4 müsste eine Deutung von Ontologischer blinder Fleck unter „Leserwissen gegenüber Systemwissen“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-092",
+   "question": "Wie könnte sich das Wissen über Ontologischer blinder Fleck vom Wissen über Protokoll v1.4 unterscheiden, wenn „Leserwissen gegenüber Systemwissen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Ontologischer blinder Fleck und Protokoll v1.4 bei „Leserwissen gegenüber Systemwissen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-094",
+   "question": "Falls Ontologischer blinder Fleck im Hinblick auf „Leserwissen gegenüber Systemwissen“ anders festgelegt wird: Welche Aussagen über Protokoll v1.4 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Ontologischer blinder Fleck und Protokoll v1.4 bei „Leserwissen gegenüber Systemwissen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-096",
+   "question": "Braucht der Roman eine Verbindung von Ontologischer blinder Fleck und Protokoll v1.4 bei „Leserwissen gegenüber Systemwissen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-097",
+   "question": "In welchem denkbaren Fall könnte Ontologischer blinder Fleck bestehen, ohne dass Protokoll v1.4 dieselbe Funktion übernimmt, und was würde das für „Leserwissen gegenüber Systemwissen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-098",
+   "question": "Welche Kosten könnte eine Verbindung von Ontologischer blinder Fleck und Protokoll v1.4 in Bezug auf „Leserwissen gegenüber Systemwissen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-099",
+   "question": "Welche ältere Lesart von Ontologischer blinder Fleck oder Protokoll v1.4 könnte die Gegenüberstellung unter „Leserwissen gegenüber Systemwissen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  },
+  {
+   "id": "RQ-blinder-fleck-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Ontologischer blinder Fleck und Protokoll v1.4 unter „Leserwissen gegenüber Systemwissen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "blinder-fleck",
+    "protokoll-v14"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "ueberraum",
+ "title": "Überraum",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Bedeutung eines nur positional gebrauchten Begriffs",
+  "Verhältnis von Erscheinung und Ebene",
+  "Status einer vorgeschlagenen Intervention",
+  "Perspektive oberhalb der Kernwelten",
+  "Grenze zwischen Synonym und eigenem Ort"
+ ],
+ "basis": {
+  "ueberraum": {
+   "title": "Überraum",
+   "path": "Wiki/candidates/ueberraum.md",
+   "hash": "9c0fdcdb83308a2cb5257ec2382286f9894e9dd2151a31417c71b3f73486c0d9"
+  },
+  "nexus": {
+   "title": "Nexus",
+   "path": "Wiki/candidates/nexus.md",
+   "hash": "2c8839ab4082b2f72d9df1267685dacd4c2870d69c3c15afbf866825d87bb40f"
+  },
+  "ueberwelt": {
+   "title": "Überwelt",
+   "path": "Wiki/candidates/ueberwelt.md",
+   "hash": "5b0376c5488a6266c9ac1396245c5a00f1851ec5d7b03cfc8b4790171abef5a6"
+  },
+  "guardians": {
+   "title": "Guardians",
+   "path": "Wiki/candidates/guardians.md",
+   "hash": "17d3e6db30076cce8c3cc29e582ddc7d55cef8080cf5cd5967886a0425cd2ae3"
+  },
+  "realitaetsebenen": {
+   "title": "Realitätsebenen",
+   "path": "Wiki/candidates/realitaetsebenen.md",
+   "hash": "8069f450bb8e4e0dddb39ac8d22ce747dec399fbe34d1c4c9b083222980c5c60"
+  },
+  "externe-ebene": {
+   "title": "Externe Ebene",
+   "path": "Wiki/candidates/externe-ebene.md",
+   "hash": "bf450c32b1f5f7701ef8c2dff3b3ffd0db9661a7e92e257f3095ac793b388fb9"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-ueberraum-001",
+   "question": "Welche eigene Funktion hat der Überraum, wenn seine Belege überwiegend nur die einleitende Formulierung der Nexus-Repräsentationen verwenden?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-002",
+   "question": "Welche Lesarten auf der Seite zu Überraum stützen oder begrenzen „Bedeutung eines nur positional gebrauchten Begriffs“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-003",
+   "question": "Welcher Grenzfall würde bei Überraum die Annahmen über „Bedeutung eines nur positional gebrauchten Begriffs“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-004",
+   "question": "Wer könnte innerhalb des Romans bei Überraum etwas über „Bedeutung eines nur positional gebrauchten Begriffs“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-005",
+   "question": "Welche konkrete Entscheidung könnte „Bedeutung eines nur positional gebrauchten Begriffs“ bei Überraum in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Bedeutung eines nur positional gebrauchten Begriffs“ bei Überraum haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-007",
+   "question": "Wie lässt sich „Bedeutung eines nur positional gebrauchten Begriffs“ bei Überraum zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-008",
+   "question": "Welche Alternativen sollte der Autor bei Überraum für „Bedeutung eines nur positional gebrauchten Begriffs“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-009",
+   "question": "Was bedeutet bei Überraum der Themenpunkt „Verhältnis von Erscheinung und Ebene“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-010",
+   "question": "Welche Lesarten auf der Seite zu Überraum stützen oder begrenzen „Verhältnis von Erscheinung und Ebene“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-011",
+   "question": "Welcher Grenzfall würde bei Überraum die Annahmen über „Verhältnis von Erscheinung und Ebene“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-012",
+   "question": "Wer könnte innerhalb des Romans bei Überraum etwas über „Verhältnis von Erscheinung und Ebene“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-013",
+   "question": "Welche konkrete Entscheidung könnte „Verhältnis von Erscheinung und Ebene“ bei Überraum in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Verhältnis von Erscheinung und Ebene“ bei Überraum haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-015",
+   "question": "Wie lässt sich „Verhältnis von Erscheinung und Ebene“ bei Überraum zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-016",
+   "question": "Welche Alternativen sollte der Autor bei Überraum für „Verhältnis von Erscheinung und Ebene“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-017",
+   "question": "Was bedeutet bei Überraum der Themenpunkt „Status einer vorgeschlagenen Intervention“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-018",
+   "question": "Welche Lesarten auf der Seite zu Überraum stützen oder begrenzen „Status einer vorgeschlagenen Intervention“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-019",
+   "question": "Welcher Grenzfall würde bei Überraum die Annahmen über „Status einer vorgeschlagenen Intervention“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-020",
+   "question": "Wer könnte innerhalb des Romans bei Überraum etwas über „Status einer vorgeschlagenen Intervention“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-021",
+   "question": "Welche konkrete Entscheidung könnte „Status einer vorgeschlagenen Intervention“ bei Überraum in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Status einer vorgeschlagenen Intervention“ bei Überraum haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-023",
+   "question": "Wie lässt sich „Status einer vorgeschlagenen Intervention“ bei Überraum zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-024",
+   "question": "Welche Alternativen sollte der Autor bei Überraum für „Status einer vorgeschlagenen Intervention“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-025",
+   "question": "Was bedeutet bei Überraum der Themenpunkt „Perspektive oberhalb der Kernwelten“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-026",
+   "question": "Welche Lesarten auf der Seite zu Überraum stützen oder begrenzen „Perspektive oberhalb der Kernwelten“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-027",
+   "question": "Welcher Grenzfall würde bei Überraum die Annahmen über „Perspektive oberhalb der Kernwelten“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-028",
+   "question": "Wer könnte innerhalb des Romans bei Überraum etwas über „Perspektive oberhalb der Kernwelten“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-029",
+   "question": "Welche konkrete Entscheidung könnte „Perspektive oberhalb der Kernwelten“ bei Überraum in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Perspektive oberhalb der Kernwelten“ bei Überraum haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-031",
+   "question": "Wie lässt sich „Perspektive oberhalb der Kernwelten“ bei Überraum zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-032",
+   "question": "Welche Alternativen sollte der Autor bei Überraum für „Perspektive oberhalb der Kernwelten“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-033",
+   "question": "Was bedeutet bei Überraum der Themenpunkt „Grenze zwischen Synonym und eigenem Ort“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-034",
+   "question": "Welche Lesarten auf der Seite zu Überraum stützen oder begrenzen „Grenze zwischen Synonym und eigenem Ort“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-035",
+   "question": "Welcher Grenzfall würde bei Überraum die Annahmen über „Grenze zwischen Synonym und eigenem Ort“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-036",
+   "question": "Wer könnte innerhalb des Romans bei Überraum etwas über „Grenze zwischen Synonym und eigenem Ort“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-037",
+   "question": "Welche konkrete Entscheidung könnte „Grenze zwischen Synonym und eigenem Ort“ bei Überraum in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Grenze zwischen Synonym und eigenem Ort“ bei Überraum haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-039",
+   "question": "Wie lässt sich „Grenze zwischen Synonym und eigenem Ort“ bei Überraum zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-040",
+   "question": "Welche Alternativen sollte der Autor bei Überraum für „Grenze zwischen Synonym und eigenem Ort“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ueberraum"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-041",
+   "question": "Wo unterscheiden sich Überraum und Nexus, wenn man sie unter dem Gesichtspunkt „Bedeutung eines nur positional gebrauchten Begriffs“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-042",
+   "question": "Welche Quelle verbindet Überraum mit Nexus in Bezug auf „Bedeutung eines nur positional gebrauchten Begriffs“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-043",
+   "question": "Welche Grenzen aus der Seite zu Nexus müsste eine Deutung von Überraum unter „Bedeutung eines nur positional gebrauchten Begriffs“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-044",
+   "question": "Wie könnte sich das Wissen über Überraum vom Wissen über Nexus unterscheiden, wenn „Bedeutung eines nur positional gebrauchten Begriffs“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überraum und Nexus bei „Bedeutung eines nur positional gebrauchten Begriffs“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-046",
+   "question": "Falls Überraum im Hinblick auf „Bedeutung eines nur positional gebrauchten Begriffs“ anders festgelegt wird: Welche Aussagen über Nexus müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überraum und Nexus bei „Bedeutung eines nur positional gebrauchten Begriffs“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-048",
+   "question": "Braucht der Roman eine Verbindung von Überraum und Nexus bei „Bedeutung eines nur positional gebrauchten Begriffs“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-049",
+   "question": "In welchem denkbaren Fall könnte Überraum bestehen, ohne dass Nexus dieselbe Funktion übernimmt, und was würde das für „Bedeutung eines nur positional gebrauchten Begriffs“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-050",
+   "question": "Welche Kosten könnte eine Verbindung von Überraum und Nexus in Bezug auf „Bedeutung eines nur positional gebrauchten Begriffs“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-051",
+   "question": "Welche ältere Lesart von Überraum oder Nexus könnte die Gegenüberstellung unter „Bedeutung eines nur positional gebrauchten Begriffs“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überraum und Nexus unter „Bedeutung eines nur positional gebrauchten Begriffs“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "ueberraum",
+    "nexus"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-053",
+   "question": "Wo unterscheiden sich Überraum und Überwelt, wenn man sie unter dem Gesichtspunkt „Verhältnis von Erscheinung und Ebene“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-054",
+   "question": "Welche Quelle verbindet Überraum mit Überwelt in Bezug auf „Verhältnis von Erscheinung und Ebene“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-055",
+   "question": "Welche Grenzen aus der Seite zu Überwelt müsste eine Deutung von Überraum unter „Verhältnis von Erscheinung und Ebene“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-056",
+   "question": "Wie könnte sich das Wissen über Überraum vom Wissen über Überwelt unterscheiden, wenn „Verhältnis von Erscheinung und Ebene“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überraum und Überwelt bei „Verhältnis von Erscheinung und Ebene“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-058",
+   "question": "Falls Überraum im Hinblick auf „Verhältnis von Erscheinung und Ebene“ anders festgelegt wird: Welche Aussagen über Überwelt müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überraum und Überwelt bei „Verhältnis von Erscheinung und Ebene“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-060",
+   "question": "Braucht der Roman eine Verbindung von Überraum und Überwelt bei „Verhältnis von Erscheinung und Ebene“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-061",
+   "question": "In welchem denkbaren Fall könnte Überraum bestehen, ohne dass Überwelt dieselbe Funktion übernimmt, und was würde das für „Verhältnis von Erscheinung und Ebene“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-062",
+   "question": "Welche Kosten könnte eine Verbindung von Überraum und Überwelt in Bezug auf „Verhältnis von Erscheinung und Ebene“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-063",
+   "question": "Welche ältere Lesart von Überraum oder Überwelt könnte die Gegenüberstellung unter „Verhältnis von Erscheinung und Ebene“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überraum und Überwelt unter „Verhältnis von Erscheinung und Ebene“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "ueberraum",
+    "ueberwelt"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-065",
+   "question": "Wo unterscheiden sich Überraum und Guardians, wenn man sie unter dem Gesichtspunkt „Status einer vorgeschlagenen Intervention“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-066",
+   "question": "Welche Quelle verbindet Überraum mit Guardians in Bezug auf „Status einer vorgeschlagenen Intervention“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-067",
+   "question": "Welche Grenzen aus der Seite zu Guardians müsste eine Deutung von Überraum unter „Status einer vorgeschlagenen Intervention“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-068",
+   "question": "Wie könnte sich das Wissen über Überraum vom Wissen über Guardians unterscheiden, wenn „Status einer vorgeschlagenen Intervention“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überraum und Guardians bei „Status einer vorgeschlagenen Intervention“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-070",
+   "question": "Falls Überraum im Hinblick auf „Status einer vorgeschlagenen Intervention“ anders festgelegt wird: Welche Aussagen über Guardians müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überraum und Guardians bei „Status einer vorgeschlagenen Intervention“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-072",
+   "question": "Braucht der Roman eine Verbindung von Überraum und Guardians bei „Status einer vorgeschlagenen Intervention“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-073",
+   "question": "In welchem denkbaren Fall könnte Überraum bestehen, ohne dass Guardians dieselbe Funktion übernimmt, und was würde das für „Status einer vorgeschlagenen Intervention“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-074",
+   "question": "Welche Kosten könnte eine Verbindung von Überraum und Guardians in Bezug auf „Status einer vorgeschlagenen Intervention“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-075",
+   "question": "Welche ältere Lesart von Überraum oder Guardians könnte die Gegenüberstellung unter „Status einer vorgeschlagenen Intervention“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überraum und Guardians unter „Status einer vorgeschlagenen Intervention“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "ueberraum",
+    "guardians"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-077",
+   "question": "Wo unterscheiden sich Überraum und Realitätsebenen, wenn man sie unter dem Gesichtspunkt „Perspektive oberhalb der Kernwelten“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-078",
+   "question": "Welche Quelle verbindet Überraum mit Realitätsebenen in Bezug auf „Perspektive oberhalb der Kernwelten“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-079",
+   "question": "Welche Grenzen aus der Seite zu Realitätsebenen müsste eine Deutung von Überraum unter „Perspektive oberhalb der Kernwelten“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-080",
+   "question": "Wie könnte sich das Wissen über Überraum vom Wissen über Realitätsebenen unterscheiden, wenn „Perspektive oberhalb der Kernwelten“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überraum und Realitätsebenen bei „Perspektive oberhalb der Kernwelten“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-082",
+   "question": "Falls Überraum im Hinblick auf „Perspektive oberhalb der Kernwelten“ anders festgelegt wird: Welche Aussagen über Realitätsebenen müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überraum und Realitätsebenen bei „Perspektive oberhalb der Kernwelten“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-084",
+   "question": "Braucht der Roman eine Verbindung von Überraum und Realitätsebenen bei „Perspektive oberhalb der Kernwelten“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-085",
+   "question": "In welchem denkbaren Fall könnte Überraum bestehen, ohne dass Realitätsebenen dieselbe Funktion übernimmt, und was würde das für „Perspektive oberhalb der Kernwelten“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-086",
+   "question": "Welche Kosten könnte eine Verbindung von Überraum und Realitätsebenen in Bezug auf „Perspektive oberhalb der Kernwelten“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-087",
+   "question": "Welche ältere Lesart von Überraum oder Realitätsebenen könnte die Gegenüberstellung unter „Perspektive oberhalb der Kernwelten“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überraum und Realitätsebenen unter „Perspektive oberhalb der Kernwelten“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "ueberraum",
+    "realitaetsebenen"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-089",
+   "question": "Wo unterscheiden sich Überraum und Externe Ebene, wenn man sie unter dem Gesichtspunkt „Grenze zwischen Synonym und eigenem Ort“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-090",
+   "question": "Welche Quelle verbindet Überraum mit Externe Ebene in Bezug auf „Grenze zwischen Synonym und eigenem Ort“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-091",
+   "question": "Welche Grenzen aus der Seite zu Externe Ebene müsste eine Deutung von Überraum unter „Grenze zwischen Synonym und eigenem Ort“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-092",
+   "question": "Wie könnte sich das Wissen über Überraum vom Wissen über Externe Ebene unterscheiden, wenn „Grenze zwischen Synonym und eigenem Ort“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Überraum und Externe Ebene bei „Grenze zwischen Synonym und eigenem Ort“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-094",
+   "question": "Falls Überraum im Hinblick auf „Grenze zwischen Synonym und eigenem Ort“ anders festgelegt wird: Welche Aussagen über Externe Ebene müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Überraum und Externe Ebene bei „Grenze zwischen Synonym und eigenem Ort“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-096",
+   "question": "Braucht der Roman eine Verbindung von Überraum und Externe Ebene bei „Grenze zwischen Synonym und eigenem Ort“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-097",
+   "question": "In welchem denkbaren Fall könnte Überraum bestehen, ohne dass Externe Ebene dieselbe Funktion übernimmt, und was würde das für „Grenze zwischen Synonym und eigenem Ort“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-098",
+   "question": "Welche Kosten könnte eine Verbindung von Überraum und Externe Ebene in Bezug auf „Grenze zwischen Synonym und eigenem Ort“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-099",
+   "question": "Welche ältere Lesart von Überraum oder Externe Ebene könnte die Gegenüberstellung unter „Grenze zwischen Synonym und eigenem Ort“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  },
+  {
+   "id": "RQ-ueberraum-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Überraum und Externe Ebene unter „Grenze zwischen Synonym und eigenem Ort“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "ueberraum",
+    "externe-ebene"
+   ]
+  }
+ ]
+}

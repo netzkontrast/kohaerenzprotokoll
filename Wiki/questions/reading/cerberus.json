@@ -1,0 +1,1010 @@
+{
+ "version": 1,
+ "term": "cerberus",
+ "title": "Cerberus",
+ "written": "2026-10-14",
+ "status": "proposed",
+ "answer_status": "unchecked",
+ "method": "editorial concerns and comparison partners; deterministic exploration lenses",
+ "concerns": [
+  "Schutz von Systemgrenzen",
+  "Unterschied zwischen Immunität und Abschottung",
+  "Autonomie des Wächters",
+  "Erkennbarkeit der Verteidigungslogik",
+  "Fehlklassifikation einer Begegnung"
+ ],
+ "basis": {
+  "cerberus": {
+   "title": "Cerberus",
+   "path": "Wiki/candidates/cerberus.md",
+   "hash": "49c8604dd7260ec941debb7617dfaf07d3e3546b8f44dc6311dc81173e78b753"
+  },
+  "grenzfeste": {
+   "title": "Grenzfeste",
+   "path": "Wiki/candidates/grenzfeste.md",
+   "hash": "6f5d61cb867320ac02514a09f01dad6c72901f5e6873a02a04830f3fb396de75"
+  },
+  "grosse-mauer": {
+   "title": "Die Große Mauer",
+   "path": "Wiki/candidates/grosse-mauer.md",
+   "hash": "3c904ccef5118cf80a309cd9b4906178da7d8a21d9676d206e73c4e3ec7ca0c2"
+  },
+  "schleuse-7": {
+   "title": "Schleuse 7",
+   "path": "Wiki/candidates/schleuse-7.md",
+   "hash": "f21abed2c3a7aa64f88e2a3ba14fba54d9bf4301917551299f63923ef49d4ada"
+  },
+  "alex": {
+   "title": "Alex",
+   "path": "Wiki/candidates/alex.md",
+   "hash": "6538e2812c49740b4f41298d6f960d97b2a61a3920710e00f930f4a7ded901d2"
+  },
+  "aegis": {
+   "title": "AEGIS",
+   "path": "Wiki/candidates/aegis.md",
+   "hash": "16e3d0eeda7a3b891b424c08d1ac31e16a8ae18f9a45face19f4b0effe435374"
+  }
+ },
+ "questions": [
+  {
+   "id": "RQ-cerberus-001",
+   "question": "Was müsste Cerberus als legitimen Kontakt durchlassen, obwohl seine Sicherheitslogik dieselbe Begegnung als Bedrohung klassifiziert?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-002",
+   "question": "Welche Lesarten auf der Seite zu Cerberus stützen oder begrenzen „Schutz von Systemgrenzen“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-003",
+   "question": "Welcher Grenzfall würde bei Cerberus die Annahmen über „Schutz von Systemgrenzen“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-004",
+   "question": "Wer könnte innerhalb des Romans bei Cerberus etwas über „Schutz von Systemgrenzen“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-005",
+   "question": "Welche konkrete Entscheidung könnte „Schutz von Systemgrenzen“ bei Cerberus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-006",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Schutz von Systemgrenzen“ bei Cerberus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-007",
+   "question": "Wie lässt sich „Schutz von Systemgrenzen“ bei Cerberus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-008",
+   "question": "Welche Alternativen sollte der Autor bei Cerberus für „Schutz von Systemgrenzen“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-009",
+   "question": "Was bedeutet bei Cerberus der Themenpunkt „Unterschied zwischen Immunität und Abschottung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-010",
+   "question": "Welche Lesarten auf der Seite zu Cerberus stützen oder begrenzen „Unterschied zwischen Immunität und Abschottung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-011",
+   "question": "Welcher Grenzfall würde bei Cerberus die Annahmen über „Unterschied zwischen Immunität und Abschottung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-012",
+   "question": "Wer könnte innerhalb des Romans bei Cerberus etwas über „Unterschied zwischen Immunität und Abschottung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-013",
+   "question": "Welche konkrete Entscheidung könnte „Unterschied zwischen Immunität und Abschottung“ bei Cerberus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-014",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Unterschied zwischen Immunität und Abschottung“ bei Cerberus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-015",
+   "question": "Wie lässt sich „Unterschied zwischen Immunität und Abschottung“ bei Cerberus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-016",
+   "question": "Welche Alternativen sollte der Autor bei Cerberus für „Unterschied zwischen Immunität und Abschottung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-017",
+   "question": "Was bedeutet bei Cerberus der Themenpunkt „Autonomie des Wächters“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-018",
+   "question": "Welche Lesarten auf der Seite zu Cerberus stützen oder begrenzen „Autonomie des Wächters“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-019",
+   "question": "Welcher Grenzfall würde bei Cerberus die Annahmen über „Autonomie des Wächters“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-020",
+   "question": "Wer könnte innerhalb des Romans bei Cerberus etwas über „Autonomie des Wächters“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-021",
+   "question": "Welche konkrete Entscheidung könnte „Autonomie des Wächters“ bei Cerberus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-022",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Autonomie des Wächters“ bei Cerberus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-023",
+   "question": "Wie lässt sich „Autonomie des Wächters“ bei Cerberus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-024",
+   "question": "Welche Alternativen sollte der Autor bei Cerberus für „Autonomie des Wächters“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-025",
+   "question": "Was bedeutet bei Cerberus der Themenpunkt „Erkennbarkeit der Verteidigungslogik“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-026",
+   "question": "Welche Lesarten auf der Seite zu Cerberus stützen oder begrenzen „Erkennbarkeit der Verteidigungslogik“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-027",
+   "question": "Welcher Grenzfall würde bei Cerberus die Annahmen über „Erkennbarkeit der Verteidigungslogik“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-028",
+   "question": "Wer könnte innerhalb des Romans bei Cerberus etwas über „Erkennbarkeit der Verteidigungslogik“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-029",
+   "question": "Welche konkrete Entscheidung könnte „Erkennbarkeit der Verteidigungslogik“ bei Cerberus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-030",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Erkennbarkeit der Verteidigungslogik“ bei Cerberus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-031",
+   "question": "Wie lässt sich „Erkennbarkeit der Verteidigungslogik“ bei Cerberus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-032",
+   "question": "Welche Alternativen sollte der Autor bei Cerberus für „Erkennbarkeit der Verteidigungslogik“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-033",
+   "question": "Was bedeutet bei Cerberus der Themenpunkt „Fehlklassifikation einer Begegnung“ konkret, und welche Deutung ist lediglich vorgeschlagen?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-034",
+   "question": "Welche Lesarten auf der Seite zu Cerberus stützen oder begrenzen „Fehlklassifikation einer Begegnung“, und was ist noch unbelegt?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-035",
+   "question": "Welcher Grenzfall würde bei Cerberus die Annahmen über „Fehlklassifikation einer Begegnung“ infrage stellen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-036",
+   "question": "Wer könnte innerhalb des Romans bei Cerberus etwas über „Fehlklassifikation einer Begegnung“ wissen, und woran wäre dieses Wissen begrenzt?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-037",
+   "question": "Welche konkrete Entscheidung könnte „Fehlklassifikation einer Begegnung“ bei Cerberus in einer Szene erfahrbar machen?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-038",
+   "question": "Welche spätere Folge müsste eine Festlegung zu „Fehlklassifikation einer Begegnung“ bei Cerberus haben, damit sie nicht folgenlos bleibt?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-039",
+   "question": "Wie lässt sich „Fehlklassifikation einer Begegnung“ bei Cerberus zeigen, ohne den Begriff durch einen erklärenden Absatz einzuführen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-040",
+   "question": "Welche Alternativen sollte der Autor bei Cerberus für „Fehlklassifikation einer Begegnung“ vergleichen, und welche Frage ist bereits entschieden?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "cerberus"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-041",
+   "question": "Wo unterscheiden sich Cerberus und Grenzfeste, wenn man sie unter dem Gesichtspunkt „Schutz von Systemgrenzen“ liest?",
+   "category": "Begriff",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-042",
+   "question": "Welche Quelle verbindet Cerberus mit Grenzfeste in Bezug auf „Schutz von Systemgrenzen“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-043",
+   "question": "Welche Grenzen aus der Seite zu Grenzfeste müsste eine Deutung von Cerberus unter „Schutz von Systemgrenzen“ beachten?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-044",
+   "question": "Wie könnte sich das Wissen über Cerberus vom Wissen über Grenzfeste unterscheiden, wenn „Schutz von Systemgrenzen“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-045",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cerberus und Grenzfeste bei „Schutz von Systemgrenzen“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-046",
+   "question": "Falls Cerberus im Hinblick auf „Schutz von Systemgrenzen“ anders festgelegt wird: Welche Aussagen über Grenzfeste müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-047",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cerberus und Grenzfeste bei „Schutz von Systemgrenzen“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-048",
+   "question": "Braucht der Roman eine Verbindung von Cerberus und Grenzfeste bei „Schutz von Systemgrenzen“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-049",
+   "question": "In welchem denkbaren Fall könnte Cerberus bestehen, ohne dass Grenzfeste dieselbe Funktion übernimmt, und was würde das für „Schutz von Systemgrenzen“ zeigen?",
+   "category": "Grenzen",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-050",
+   "question": "Welche Kosten könnte eine Verbindung von Cerberus und Grenzfeste in Bezug auf „Schutz von Systemgrenzen“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-051",
+   "question": "Welche ältere Lesart von Cerberus oder Grenzfeste könnte die Gegenüberstellung unter „Schutz von Systemgrenzen“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-052",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cerberus und Grenzfeste unter „Schutz von Systemgrenzen“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 0,
+   "terms": [
+    "cerberus",
+    "grenzfeste"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-053",
+   "question": "Wo unterscheiden sich Cerberus und Die Große Mauer, wenn man sie unter dem Gesichtspunkt „Unterschied zwischen Immunität und Abschottung“ liest?",
+   "category": "Begriff",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-054",
+   "question": "Welche Quelle verbindet Cerberus mit Die Große Mauer in Bezug auf „Unterschied zwischen Immunität und Abschottung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-055",
+   "question": "Welche Grenzen aus der Seite zu Die Große Mauer müsste eine Deutung von Cerberus unter „Unterschied zwischen Immunität und Abschottung“ beachten?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-056",
+   "question": "Wie könnte sich das Wissen über Cerberus vom Wissen über Die Große Mauer unterscheiden, wenn „Unterschied zwischen Immunität und Abschottung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-057",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cerberus und Die Große Mauer bei „Unterschied zwischen Immunität und Abschottung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-058",
+   "question": "Falls Cerberus im Hinblick auf „Unterschied zwischen Immunität und Abschottung“ anders festgelegt wird: Welche Aussagen über Die Große Mauer müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-059",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cerberus und Die Große Mauer bei „Unterschied zwischen Immunität und Abschottung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-060",
+   "question": "Braucht der Roman eine Verbindung von Cerberus und Die Große Mauer bei „Unterschied zwischen Immunität und Abschottung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-061",
+   "question": "In welchem denkbaren Fall könnte Cerberus bestehen, ohne dass Die Große Mauer dieselbe Funktion übernimmt, und was würde das für „Unterschied zwischen Immunität und Abschottung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-062",
+   "question": "Welche Kosten könnte eine Verbindung von Cerberus und Die Große Mauer in Bezug auf „Unterschied zwischen Immunität und Abschottung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-063",
+   "question": "Welche ältere Lesart von Cerberus oder Die Große Mauer könnte die Gegenüberstellung unter „Unterschied zwischen Immunität und Abschottung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-064",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cerberus und Die Große Mauer unter „Unterschied zwischen Immunität und Abschottung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 1,
+   "terms": [
+    "cerberus",
+    "grosse-mauer"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-065",
+   "question": "Wo unterscheiden sich Cerberus und Schleuse 7, wenn man sie unter dem Gesichtspunkt „Autonomie des Wächters“ liest?",
+   "category": "Begriff",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-066",
+   "question": "Welche Quelle verbindet Cerberus mit Schleuse 7 in Bezug auf „Autonomie des Wächters“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-067",
+   "question": "Welche Grenzen aus der Seite zu Schleuse 7 müsste eine Deutung von Cerberus unter „Autonomie des Wächters“ beachten?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-068",
+   "question": "Wie könnte sich das Wissen über Cerberus vom Wissen über Schleuse 7 unterscheiden, wenn „Autonomie des Wächters“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-069",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cerberus und Schleuse 7 bei „Autonomie des Wächters“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-070",
+   "question": "Falls Cerberus im Hinblick auf „Autonomie des Wächters“ anders festgelegt wird: Welche Aussagen über Schleuse 7 müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-071",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cerberus und Schleuse 7 bei „Autonomie des Wächters“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-072",
+   "question": "Braucht der Roman eine Verbindung von Cerberus und Schleuse 7 bei „Autonomie des Wächters“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-073",
+   "question": "In welchem denkbaren Fall könnte Cerberus bestehen, ohne dass Schleuse 7 dieselbe Funktion übernimmt, und was würde das für „Autonomie des Wächters“ zeigen?",
+   "category": "Grenzen",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-074",
+   "question": "Welche Kosten könnte eine Verbindung von Cerberus und Schleuse 7 in Bezug auf „Autonomie des Wächters“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-075",
+   "question": "Welche ältere Lesart von Cerberus oder Schleuse 7 könnte die Gegenüberstellung unter „Autonomie des Wächters“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-076",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cerberus und Schleuse 7 unter „Autonomie des Wächters“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 2,
+   "terms": [
+    "cerberus",
+    "schleuse-7"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-077",
+   "question": "Wo unterscheiden sich Cerberus und Alex, wenn man sie unter dem Gesichtspunkt „Erkennbarkeit der Verteidigungslogik“ liest?",
+   "category": "Begriff",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-078",
+   "question": "Welche Quelle verbindet Cerberus mit Alex in Bezug auf „Erkennbarkeit der Verteidigungslogik“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-079",
+   "question": "Welche Grenzen aus der Seite zu Alex müsste eine Deutung von Cerberus unter „Erkennbarkeit der Verteidigungslogik“ beachten?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-080",
+   "question": "Wie könnte sich das Wissen über Cerberus vom Wissen über Alex unterscheiden, wenn „Erkennbarkeit der Verteidigungslogik“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-081",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cerberus und Alex bei „Erkennbarkeit der Verteidigungslogik“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-082",
+   "question": "Falls Cerberus im Hinblick auf „Erkennbarkeit der Verteidigungslogik“ anders festgelegt wird: Welche Aussagen über Alex müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-083",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cerberus und Alex bei „Erkennbarkeit der Verteidigungslogik“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-084",
+   "question": "Braucht der Roman eine Verbindung von Cerberus und Alex bei „Erkennbarkeit der Verteidigungslogik“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-085",
+   "question": "In welchem denkbaren Fall könnte Cerberus bestehen, ohne dass Alex dieselbe Funktion übernimmt, und was würde das für „Erkennbarkeit der Verteidigungslogik“ zeigen?",
+   "category": "Grenzen",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-086",
+   "question": "Welche Kosten könnte eine Verbindung von Cerberus und Alex in Bezug auf „Erkennbarkeit der Verteidigungslogik“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-087",
+   "question": "Welche ältere Lesart von Cerberus oder Alex könnte die Gegenüberstellung unter „Erkennbarkeit der Verteidigungslogik“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-088",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cerberus und Alex unter „Erkennbarkeit der Verteidigungslogik“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 3,
+   "terms": [
+    "cerberus",
+    "alex"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-089",
+   "question": "Wo unterscheiden sich Cerberus und AEGIS, wenn man sie unter dem Gesichtspunkt „Fehlklassifikation einer Begegnung“ liest?",
+   "category": "Begriff",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-090",
+   "question": "Welche Quelle verbindet Cerberus mit AEGIS in Bezug auf „Fehlklassifikation einer Begegnung“ ausdrücklich, und wo wäre die Verbindung erst ein Vorschlag?",
+   "category": "Belege",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-091",
+   "question": "Welche Grenzen aus der Seite zu AEGIS müsste eine Deutung von Cerberus unter „Fehlklassifikation einer Begegnung“ beachten?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-092",
+   "question": "Wie könnte sich das Wissen über Cerberus vom Wissen über AEGIS unterscheiden, wenn „Fehlklassifikation einer Begegnung“ in einer Szene wichtig wird?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-093",
+   "question": "Welche Handlung könnte einen möglichen Zusammenhang zwischen Cerberus und AEGIS bei „Fehlklassifikation einer Begegnung“ prüfen, statt ihn nur zu behaupten?",
+   "category": "Handlung",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-094",
+   "question": "Falls Cerberus im Hinblick auf „Fehlklassifikation einer Begegnung“ anders festgelegt wird: Welche Aussagen über AEGIS müssten erneut geprüft werden?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-095",
+   "question": "Welche unterschiedlichen Sinneseindrücke könnten Cerberus und AEGIS bei „Fehlklassifikation einer Begegnung“ unterscheidbar halten?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-096",
+   "question": "Braucht der Roman eine Verbindung von Cerberus und AEGIS bei „Fehlklassifikation einer Begegnung“, oder wäre eine ausdrücklich benannte Trennung hilfreicher?",
+   "category": "Autorentscheidung",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-097",
+   "question": "In welchem denkbaren Fall könnte Cerberus bestehen, ohne dass AEGIS dieselbe Funktion übernimmt, und was würde das für „Fehlklassifikation einer Begegnung“ zeigen?",
+   "category": "Grenzen",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-098",
+   "question": "Welche Kosten könnte eine Verbindung von Cerberus und AEGIS in Bezug auf „Fehlklassifikation einer Begegnung“ erzeugen, und wer müsste sie tragen?",
+   "category": "Konsequenzen",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-099",
+   "question": "Welche ältere Lesart von Cerberus oder AEGIS könnte die Gegenüberstellung unter „Fehlklassifikation einer Begegnung“ verfälschen?",
+   "category": "Perspektive",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  },
+  {
+   "id": "RQ-cerberus-100",
+   "question": "Welche spätere Szene könnte eine frühe Gegenüberstellung von Cerberus und AEGIS unter „Fehlklassifikation einer Begegnung“ neu lesbar machen?",
+   "category": "Darstellung",
+   "focus": 4,
+   "terms": [
+    "cerberus",
+    "aegis"
+   ]
+  }
+ ]
+}
