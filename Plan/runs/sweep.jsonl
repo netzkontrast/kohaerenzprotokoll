@@ -1915,3 +1915,6 @@
 {"document": "kohaerenz-prozess", "page": "did", "surface": "DID", "line": 334, "decision": "occurrence", "why": "album concept mixed with personal material, light pass (decision 028)", "at": "2026-10-19"}
 {"document": "kohaerenz-prozess", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "album concept mixed with personal material, light pass (decision 028)", "at": "2026-10-19"}
 {"document": "kohaerenz-prozess", "page": "risse", "surface": "Risse", "line": 194, "decision": "occurrence", "why": "album concept mixed with personal material, light pass (decision 028)", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-im-seelen-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 77, "decision": "occurrence", "why": "another sense (J9)", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-im-seelen-protokoll", "page": "multiplizitaet", "surface": "Multiplizität", "line": 40, "decision": "occurrence", "why": "another sense", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-im-seelen-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 17, "decision": "occurrence", "why": "the simulation is not named Überwelt", "at": "2026-10-19"}
