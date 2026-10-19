@@ -41,8 +41,7 @@ The document also holds a framework taken from real clinical practice (TSDP and 
 
 - The document says „is not a monolithic individual but a complex, fragmented system“ ^[L79] of Kael.
 - Kael's system is modelled on two clinical frameworks, named by the lens terms `TSDP` and `IFS` ^[L79]; their use as diagnostic and operational protocol is the document's statement.
-- The first roster is of the Apparently Normal Parts; Kael is listed as „The primary front-runner“ ^[L83], with the function „Manages social camouflage and the illusion of unity“ ^[L83].
-- Of Lex the table says „obsessed with logic and patterns“ ^[L83]; of the Sentinel it says „An ANP-based vigilance system“ ^[L83].
+- The first roster, of the Apparently Normal Parts, stands in one table line that also holds an earlier name (decision 028); nothing from it is quoted here.
 - A further row of this table names a part by an earlier name and is not harvested.
 - The second roster is of the Emotional Parts. Nyx: „Holds the system's rage“ ^[L85]. Kiko: „An Exile who holds the core trauma, fear, and pain of abandonment“ ^[L85]. Moros: „hopelessness, despair, and existential dread“ ^[L85].
 - The climax ruling: „psycho-ontological confrontation“ ^[L43].
@@ -76,7 +75,7 @@ The document also holds a framework taken from real clinical practice (TSDP and 
 
 **Observed:** the Kernwelten are described twice: in L97 as externalisations of a facet of the protagonist's psyche and of the AEGIS logic, and in L87 as worlds „designed by AEGIS“ ^[L87]. The document puts the two side by side and does not reconcile them.
 
-**Observed:** the part tables assign each part a narrative domain (L83, L85): four parts stand under the worlds KW1, KW2 and KW3 (L83, L85), and no part stands under KW4 (L97 is the only line naming it).
+**Observed:** the part tables assign each part a narrative domain (L85, and the ANP table line, which holds an earlier name and is not cited): four parts stand under the worlds KW1, KW2 and KW3, and no part stands under KW4 (L97 is the only line naming it).
 
 **Observed:** L127 announces a model passage with the words „The following is the definitive model to be emulated“ ^[L127] and the export holds nothing after that line; whether the passage existed in the original is not decidable from this file.
 
