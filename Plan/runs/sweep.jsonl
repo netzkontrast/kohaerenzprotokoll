@@ -1939,3 +1939,5 @@
 {"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "kael", "surface": "Kael", "line": 23, "decision": "reading", "why": "read from L181 and L311", "at": "2026-10-19"}
 {"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the document's title", "at": "2026-10-19"}
 {"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 157, "decision": "occurrence", "why": "the simulation in passing", "at": "2026-10-19"}
+{"document": "uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert", "page": "alex", "surface": "Alex", "line": 113, "decision": "reading", "why": "read from entry 8's fields (L115, L124); the heading L113 holds an earlier name and is not cited", "at": "2026-10-19"}
+{"document": "uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the project's name", "at": "2026-10-19"}
