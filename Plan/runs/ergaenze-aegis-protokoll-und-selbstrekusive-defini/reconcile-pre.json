@@ -1,0 +1,377 @@
+{
+  "document": "ergaenze-aegis-protokoll-und-selbstrekusive-defini",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 51,
+  "decisions": 51,
+  "same_surface": {},
+  "decided_mechanically": 39,
+  "needs_judgement": 12,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 422
+      },
+      {
+        "candidate": "Entropic Gatekeeper",
+        "page": "aegis",
+        "readings": 422
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 153
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 184
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 290
+      },
+      {
+        "candidate": "Integrity Guardian",
+        "page": "aegis-teilfunktionen",
+        "readings": 54
+      },
+      {
+        "candidate": "Cognitive Firewall",
+        "page": "aegis-teilfunktionen",
+        "readings": 54
+      },
+      {
+        "candidate": "SIS",
+        "page": "aegis-teilfunktionen",
+        "readings": 54
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "universal reboot"
+      },
+      {
+        "candidate": "Kontrollkern"
+      },
+      {
+        "candidate": "nützliche Komplexität"
+      },
+      {
+        "candidate": "nicht-lokale Nicht-Existenz"
+      },
+      {
+        "candidate": "System Identity Layer"
+      },
+      {
+        "candidate": "Encrypted Intent Channels (EIC)"
+      },
+      {
+        "candidate": "EIC"
+      },
+      {
+        "candidate": "Role in System Topology"
+      },
+      {
+        "candidate": "Consensus Enforcer"
+      },
+      {
+        "candidate": "Self-Verification Interface (SVI)"
+      },
+      {
+        "candidate": "SVI"
+      },
+      {
+        "candidate": "Logische Konsistenzanalyse (LCA)"
+      },
+      {
+        "candidate": "LCA"
+      },
+      {
+        "candidate": "Redundanzfreie Informationskapselung (RIK)"
+      },
+      {
+        "candidate": "RIK"
+      },
+      {
+        "candidate": "Dynamic Role Instancing (DRI)"
+      },
+      {
+        "candidate": "DRI"
+      },
+      {
+        "candidate": "Failover & Recovery"
+      },
+      {
+        "candidate": "Secure Isolation State (SIS)"
+      },
+      {
+        "candidate": "External Interface Constraints"
+      },
+      {
+        "candidate": "Rekursive Signatur"
+      },
+      {
+        "candidate": "Rekursionssperre"
+      },
+      {
+        "candidate": "Autoverifikation"
+      },
+      {
+        "candidate": "Nicht-Adressierbarkeit"
+      },
+      {
+        "candidate": "Nullantwortparadigma"
+      },
+      {
+        "candidate": "Kommunikationsprotokoll"
+      },
+      {
+        "candidate": "Regelverletzungsschranke"
+      },
+      {
+        "candidate": "Handlungsträger"
+      },
+      {
+        "candidate": "Funktionsbasierte Existenz"
+      },
+      {
+        "candidate": "Meta-Erzähler"
+      },
+      {
+        "candidate": "Gedankenreise"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  AEGIS Functional Protocol v1.4",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems  /  Entropic Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Zero-Trust Execution Model (ZTEM)  /  Zero-Trust Execution Model",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Zero-Trust Execution Model (ZTEM)  /  ZTEM",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Real-time self-verification (RTSV)  /  RTSV",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Behavioral Proof-of-Function (BPoF)  /  BPoF",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologische Positionierung  /  Ontologische Position",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Systemkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS Functional Protocol v1.4",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust Execution Model (ZTEM)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust Execution Model",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 27,
+      "already_read": false
+    },
+    {
+      "page": "kael",
+      "surface": "(an earlier name)",
+      "line": 27,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 87,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
