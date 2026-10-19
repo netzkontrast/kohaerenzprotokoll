@@ -1,0 +1,14 @@
+# zurueck-zu-deinen-fragen-also-aegis-die-exter
+  lines                107  (frontmatter ends at 9)
+  body words           1073
+  headings             0   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       21
+  backslash escapes    2
+  typographic marks    6   ascii quotes 56
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    13
+  repeated labels      Benötigt Input/Entscheidung x4, Benötigt Klärung x3
+  longest line         557 chars
+

@@ -1,0 +1,78 @@
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Benötigt"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`Benötigt` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#8]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Benötigt Klärung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Benötigt Klärung` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#3]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Benötigt Input/Entscheidung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Benötigt Input/Entscheidung` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#4]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Benötigt Input/Beispiele"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Benötigt Input/Beispiele` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#1]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#1]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#1]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "EP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`EP` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#2]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "ANP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANP` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#2]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Lex"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lex` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#2]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "parakonsistente Logik"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`parakonsistente Logik` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#2]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Agency System"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Agency System` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#3]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#0]
+$ python3 scripts/read.py zurueck-zu-deinen-fragen-also-aegis-die-exter --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[zurueck-zu-deinen-fragen-also-aegis-die-exter.md:#0]

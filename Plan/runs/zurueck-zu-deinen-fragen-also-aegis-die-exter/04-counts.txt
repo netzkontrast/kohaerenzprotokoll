@@ -1,0 +1,73 @@
+# counts for 58 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Metaalbums                        3 word     3 in   [11, 32, 106]
+  Metaalbum-Konzepts                1 word     1 in   [15]
+  Kael-Systems                      2 word     2 in   [17, 32]
+  Kael                              3 word     7 in   [17, 19, 32, 59, 90, 103]  <-- substring
+                                    2      as Kael-Systems
+                                    1      as Kael-Juna
+  Juna                              7 word    17 in   [17, 18, 19, 31, 32, 63]  <-- substring
+                                    8      as Junas
+                                    1      as Juna-Kael-System
+  AEGIS                             1 word     1 in   [17]
+  Kernwelten                        1 word     1 in   [17]
+  Anteile                          10 word    10 in   [17, 19, 25, 30, 32, 49]
+  Anteil                            2 word    17 in   [17, 19, 25, 30, 31, 32]  <-- substring
+                                   10      as Anteile
+                                    2      as Anteils
+                                    1      as Anteilswelten
+  Anteilswelten                     1 word     1 in   [17]
+  DIS                               1 word     1 in   [19]
+  EP                                2 word     2 in   [24, 40]
+  ANP                               2 word     2 in   [24, 40]
+  Heldenreise                       7 word     8 in   [24, 36, 40, 41, 59, 63]
+  heldenreise                       1 word     1 in   [40]
+  Heldinnenreise                    1 word     1 in   [68]
+  heldinnenreise                    1 word     1 in   [40]
+  Heldenreise pro Song              2 word     2 in   [36, 41]
+  Spiegelsongs                      2 word     2 in   [49, 50]
+  Spiegelsong-Begegnungen           1 word     1 in   [25]
+  Spiegelsong-Transformation        1 word     1 in   [45]
+  Gast                              2 word     2 in   [50]
+  Agency System                     3 word     4 in   [31, 59, 72, 77]
+  Agency Systems                    1 word     1 in   [77]
+  Album 12                          3 word     3 in   [63, 67, 68]
+  Album 13                          8 word     8 in   [31, 32, 68, 72, 76, 81]
+  Album 13.13                       2 word     2 in   [68, 81]
+  Lex                               2 word     2 in   [30, 58]
+  parakonsistente Logik             2 word     2 in   [30, 58]
+  Alex                              1 word     1 in   [59]
+  Rhys                              2 word     2 in   [59]
+  Nyx                               1 word     1 in   [59]
+  Kiko                              2 word     2 in   [59, 77]
+  Lia                               1 word     1 in   [59]
+  Isabelle                          1 word     1 in   [59]
+  Moros                             2 word     2 in   [59]
+  Selene                            1 word     1 in   [59]
+  Argus                             1 word     1 in   [59]
+  Sunyata                           1 word     1 in   [59]
+  Resonanzkonzept                   1 word     1 in   [59]
+  Kennenlernphase                   2 word     2 in   [19, 67]
+  Wiedererkennen                    1 word     1 in   [19]
+  Urvertrauen                       1 word     1 in   [19]
+  Retraumatisierung                 2 word     2 in   [18, 94]
+  Kernkonflikt                      1 word     1 in   [18]
+  Paradoxon                         2 word     3 in   [18, 90, 95]
+  Krisen-Paradoxons                 1 word     1 in   [90]
+  Kael-Juna Krisen-Paradoxons       1 word     1 in   [90]
+  offenen Ruf                       2 word     3 in   [31, 68, 81]
+  offenen Rufs                      1 word     1 in   [81]
+  Hoffnungsträger                   1 word     1 in   [19]
+  Meta-Plot                         1 word     1 in   [20]
+  System-Umbau                      1 word     2 in   [99, 103]
+                                    1      as System-Umbaus
+  Selbstliebe                       2 word     2 in   [99, 103]
+  Kohärenz                          2 word     2 in   [103, 104]
+  Sicherheitsprotokolle             1 word     1 in   [103]
+  Songs                             6 word     6 in   [40, 41, 76, 95, 104, 106]
+  Song                              6 word    13 in   [24, 36, 40, 41, 59, 76]  <-- substring
+                                    6      as Songs
+                                    1      as Song-Heldenreisen
