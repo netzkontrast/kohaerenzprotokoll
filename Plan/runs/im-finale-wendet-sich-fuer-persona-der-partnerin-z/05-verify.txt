@@ -1,0 +1,78 @@
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#0]
+$ read.py --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#0]
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#0]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#0]
+$ read.py --count "Ausführliche Plot-Zusammenfassung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ausführliche Plot-Zusammenfassung` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#1]
+$ read.py --count "eventuell"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`eventuell` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#1]
+$ read.py --count "irrigen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`irrigen` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#1]
+$ read.py --count "Partnerin"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`Partnerin` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#10]
+$ read.py --count "Guardians"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Guardians` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#10]
+$ read.py --count "Personas"
+whole word, case-sensitive     16
+whole word, case-insensitive   16
+including compounds            16
+
+`Personas` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#16]
+$ read.py --count "Kairos"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kairos` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#1]
+$ read.py --count "Sophia"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Sophia` ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:#1]

@@ -1,0 +1,372 @@
+{
+  "document": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+  "drive_id": "1R76-PUw9a4KpNSyIvAeEiUq2dv3NTRqzIHzBdCD8wik",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Detailkonzept V4": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        15
+      ]
+    },
+    "Seelen-Kohärenz-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Seelen-Kohärenz-Programm": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        27
+      ]
+    },
+    "Kern-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Personas": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        11,
+        19,
+        23,
+        27,
+        31
+      ]
+    },
+    "Persona": {
+      "n": 2,
+      "n_including_compounds": 20,
+      "lines": [
+        11,
+        19,
+        23,
+        27,
+        31
+      ]
+    },
+    "logische Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "emotionale Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "paranoide Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "kreative Funke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "suchende Sucher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Guardians": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        19,
+        23,
+        27,
+        31
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        27
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        27
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        27
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Überraum": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        19,
+        23,
+        25,
+        27
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Schaltzentrale": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Partnerin": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        19,
+        23,
+        27,
+        31
+      ]
+    },
+    "Meta-Narrator": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Seele als Information": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        31
+      ]
+    },
+    "Integrations-Werkzeugen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Bruch der Realitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Realitäts-Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Risse": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        23,
+        27,
+        31
+      ]
+    },
+    "Intrusionen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23
+      ]
+    },
+    "Systemalarm": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Jagd nach der Realität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        31
+      ]
+    },
+    "Feuerprobe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Klarheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        31
+      ]
+    },
+    "Fragmentierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        27
+      ]
+    },
+    "Simulation": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        11,
+        19,
+        27,
+        31
+      ]
+    },
+    "glitchhaftes Kind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "stiller Beobachter im Mantel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "roter Vogel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Echos im Zersplitterten Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Intervention aus dem Überraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Die Naht im Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Teil 1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        23,
+        27
+      ]
+    },
+    "Teil 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Teil 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Kurzgeschichten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    }
+  }
+}

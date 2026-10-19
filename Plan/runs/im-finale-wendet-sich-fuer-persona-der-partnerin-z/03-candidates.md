@@ -1,0 +1,50 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+- Detailkonzept V4
+- Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Programm
+- Kern-Bewusstsein
+- Personas
+- Persona
+- logische Architekt
+- emotionale Echo
+- paranoide Wächter
+- kreative Funke
+- suchende Sucher
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Überraum
+- Nexus
+- Schaltzentrale
+- Partnerin
+- Meta-Narrator
+- Seele als Information
+- Integrations-Werkzeugen
+- Bruch der Realitäten
+- Realitäts-Glitches
+- Risse
+- Intrusionen
+- Systemalarm
+- Jagd nach der Realität
+- Feuerprobe
+- Klarheit
+- funktionale Multiplizität
+- Multiplizität
+- Fragmentierung
+- Simulation
+- glitchhaftes Kind
+- stiller Beobachter im Mantel
+- roter Vogel
+- Echos im Zersplitterten Spiegel
+- Intervention aus dem Überraum
+- Die Naht im Selbst
+- Teil 1
+- Teil 2
+- Teil 3
+- Kurzgeschichten
+
+The document is one continuous summary of a plot concept in German, with a conversational opening sentence. Its parts are headed by plain lines, not markdown headings. The inner quotation marks are straight ASCII and mark the document's own coined terms. No passage of personal or autobiographical material was met.
