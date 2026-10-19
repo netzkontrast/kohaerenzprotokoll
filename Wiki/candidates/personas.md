@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -54,6 +54,10 @@ In Teil 2 the Guardians' consensus is „Die Personas werden als einzige Hoffnun
 The narrative-solutions report, a craft report, describes the Personas as „den internen psychologischen Entitäten (Personas)“ ^[narrative-loesungen-fuer-romanprojekt.md:L25], one of three layers beside the modes of the Meta-Erzähler and the Meta-Realität. It proposes techniques that make their mutual influence felt; as one, „Personas können den Meta-Erzähler oder seine spezifischen Modi direkt ansprechen“ ^[narrative-loesungen-fuer-romanprojekt.md:L29], question his depictions or resist him. Another technique borrows Dialogical Self Theory: „Personas können als verschiedene“ ^[narrative-loesungen-fuer-romanprojekt.md:L32] I-positions in a society of the mind be conceived. For integration, the report's example of changed interaction patterns is that „Zwei zuvor im Konflikt stehende Personas werden gezeigt“ ^[narrative-loesungen-fuer-romanprojekt.md:L57] working together on a problem.
 
 On agency the report names a risk and a design question. It says: „Die Balance der Handlungsmacht (Agency) zwischen Personas und Meta-Erzähler erfordert sorgfältige Kalibrierung“ ^[narrative-loesungen-fuer-romanprojekt.md:L46]. Among the points still to clarify it writes „Das Machtverhältnis zwischen den Personas und dem Meta-Erzähler muss präzise kalibriert werden“ ^[narrative-loesungen-fuer-romanprojekt.md:L275] and asks „Haben sie die Fähigkeit zur Selbstorganisation oder gar zur Beeinflussung des Erzählers“ ^[narrative-loesungen-fuer-romanprojekt.md:L275]. The report records these as questions for the project to decide; it settles none of them.
+
+## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the five core personas of a fragmented core consciousness
+
+The plot summary (V4) builds its earlier plot idea on a fragmented consciousness: „Das Kern-Bewusstsein eines nicht näher definierten Protagonisten ist fragmentiert ("Personas").“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L17] Part 1 tells each episode from one of „der Kern-Personas (Architekt, Echo, Wächter, Funke, Sucher)“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L21]; each persona experiences „**Intrusionen** aus den Realitäten *anderer* Personas“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L22]. In Part 2 „Die Personas werden mit ihrer fragmentierten Natur, der Simulation und der globalen Gefahr konfrontiert.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L37] In Part 3 „Die Personas versuchen kooperativ“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L48] to close the cracks, then seek the outside, and finally „Die Personas wenden sich nach innen.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L54] The protagonist is left undefined; the summary proposes, it is not canon.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
