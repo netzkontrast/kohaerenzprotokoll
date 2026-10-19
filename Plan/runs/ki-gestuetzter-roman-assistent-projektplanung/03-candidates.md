@@ -14,7 +14,6 @@ Observations. The document is a specification for a web console around the novel
 - Lia
 - Selene
 - Lex
-- Die Wächterin
 - AEGIS
 - Kernwelt
 - Kernwelten

@@ -5,7 +5,7 @@ title: "KI-gestützter Roman-Assistent: Projektplanung"
 category: plot-outline
 index_date: "2026-02-27"
 extracted: "2026-10-19"
-candidates: 77    # the terms capture.py counted
+candidates: 76    # the terms capture.py counted
 ---
 
 # Term census — KI-gestützter Roman-Assistent: Projektplanung
@@ -42,7 +42,7 @@ The document calls itself „definitive Blaupause und erschöpfendes Implementie
 
 ## Candidates and counts
 
-77 candidates, written while reading and frozen by the count (`Plan/runs/ki-gestuetzter-roman-assistent-projektplanung/03-candidates.md`, counted by `capture.py --count`). `word` is the term standing alone (no letter, digit or hyphen on either side, case-sensitive) and is also a count mark that `quotes.py` checks against the body; `in` is anywhere, compounds included; `lines` are the file lines that hold the term as a substring. The list is in order of first appearance. `ki-gestuetzter-roman-assistent-projektplanung.md` in a mark is this document. Rows written by `census.py draft`.
+76 candidates, written while reading and frozen by the count (`Plan/runs/ki-gestuetzter-roman-assistent-projektplanung/03-candidates.md`, counted by `capture.py --count`). `word` is the term standing alone (no letter, digit or hyphen on either side, case-sensitive) and is also a count mark that `quotes.py` checks against the body; `in` is anywhere, compounds included; `lines` are the file lines that hold the term as a substring. The list is in order of first appearance. `ki-gestuetzter-roman-assistent-projektplanung.md` in a mark is this document. Rows written by `census.py draft`.
 
 ### As the document names them
 
@@ -60,7 +60,6 @@ The document calls itself „definitive Blaupause und erschöpfendes Implementie
 | `Lia` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2] | 2 | 2 | 62, 76 |  |
 | `Selene` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2] | 2 | 2 | 43, 80 |  |
 | `Lex` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1] | 1 | 1 | 31 |  |
-| `Die Wächterin` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2] | 2 | 2 | 80, 143 |  |
 | `AEGIS` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#5] | 5 | 6 | 156, 221, 225, 232, 233 | `AEGIS-Kontrolle` ×1 |
 | `Kernwelt` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1] | 1 | 2 | 42, 156 | `Kernwelten` ×1 |
 | `Kernwelten` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1] | 1 | 1 | 156 |  |
