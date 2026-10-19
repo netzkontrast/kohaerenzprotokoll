@@ -61,7 +61,7 @@ through [FastMCP](api/rag_server.py). Local setup and access controls are in the
 ## Measured state and verification
 
 **586 <!--state:sources.landed--> of 587 <!--state:sources.total--> documents
-are landed; 535 <!--state:documents.reconciled--> are reconciled.** The wiki has
+are landed; 538 <!--state:documents.reconciled--> are reconciled.** The wiki has
 106 <!--state:wiki.pages--> candidates, 17 <!--state:wiki.conflicts--> conflict
 records and 9 <!--state:wiki.questions--> shared question records. Reading
 question banks are a separate proposal collection.
