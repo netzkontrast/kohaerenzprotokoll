@@ -1935,3 +1935,7 @@
 {"document": "dialetheismus-im-kohaerenz-protokoll", "page": "juna", "surface": "(an earlier name)", "line": 15, "decision": "occurrence", "why": "an earlier name; the line is not cited", "at": "2026-10-19"}
 {"document": "dialetheismus-im-kohaerenz-protokoll", "page": "kael", "surface": "Kael", "line": 15, "decision": "reading", "why": "read from L204 and L206; L15 holds an earlier name and is not cited", "at": "2026-10-19"}
 {"document": "dialetheismus-im-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the document's title", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "juna", "surface": "(an earlier name)", "line": 171, "decision": "occurrence", "why": "an earlier name; the line is not cited", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "kael", "surface": "Kael", "line": 23, "decision": "reading", "why": "read from L181 and L311", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the document's title", "at": "2026-10-19"}
+{"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 157, "decision": "occurrence", "why": "the simulation in passing", "at": "2026-10-19"}

@@ -1,0 +1,14 @@
+# parakonsistente-logik-fuer-kohaerenz-protokoll
+  lines                454  (frontmatter ends at 9)
+  body words           8754
+  headings             28   bold-only lines 6
+  table rows           18   code fences 0
+  question marks       25
+  backslash escapes    133
+  typographic marks    16   ascii quotes 140
+  invisible characters U+200Bx9
+  math symbol lines    20
+  glued ref numbers    57
+  repeated labels      Manifestationen x6
+  longest line         1153 chars
+

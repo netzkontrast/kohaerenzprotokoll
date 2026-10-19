@@ -1,0 +1,295 @@
+{
+  "document": "parakonsistente-logik-fuer-kohaerenz-protokoll",
+  "drive_id": "1IMEJ_QQGzV0FxtoXLAaDUP-29F59nCAHK2NPjVs9dGY",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 9
+  },
+  "glued_ref_numbers": 57,
+  "backslash_escapes": 133,
+  "typographic_marks": 16,
+  "ascii_quotes": 140,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabstürzen",
+      "Systembereiche",
+      "Systeme",
+      "Systemen",
+      "Systemfehlern",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemrelevanz",
+      "Systems",
+      "Systemversagen",
+      "Systemzusammenbruch",
+      "Systemzustände"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Internalisierung",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Interpretationsmöglichkeit",
+      "Interventionen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbanken",
+      "Datenbasen",
+      "Dateneingabe",
+      "Datenkorruption",
+      "Datensätze",
+      "Datenverarbeitung"
+    ],
+    "fehle": [
+      "Fehlens",
+      "Fehler",
+      "Fehlerhafte",
+      "Fehlermeldungen",
+      "Fehlermodus",
+      "Fehlern",
+      "Fehlerunterdrückung"
+    ],
+    "infor": [
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationsflut",
+      "Informationslücke",
+      "Informationslücken",
+      "Informationszustände"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxa",
+      "Paradoxe",
+      "Paradoxen",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "relev": [
+      "Relevance",
+      "Relevant",
+      "Relevanz",
+      "Relevanzkriterien",
+      "Relevanzlogik",
+      "Relevanzlogiken",
+      "Relevanzprinzip"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheits",
+      "Wahrheitsordnung",
+      "Wahrheitstabellen",
+      "Wahrheitswert",
+      "Wahrheitswerte",
+      "Wahrheitswerten"
+    ],
+    "explo": [
+      "Exploration",
+      "Explorativ",
+      "Explosion",
+      "Explosionen",
+      "Explosionsregel",
+      "Explosiv"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastfolie",
+      "Kontrastieren",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollsystem"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchliche"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklung",
+      "Charakterisierung",
+      "Charakterperspektiven"
+    ],
+    "klass": [
+      "Klassifizierung",
+      "Klassisch",
+      "Klassische",
+      "Klassischen",
+      "Klassisches"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktlösung",
+      "Konfliktpotenzial",
+      "Konflikts"
+    ],
+    "konsi": [
+      "Konsistenz",
+      "Konsistenzoperator",
+      "Konsistenzoperatoren",
+      "Konsistenzoperators",
+      "Konsistenzstatus"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzeption",
+      "Konzeptioneller",
+      "Konzeptuelle"
+    ],
+    "parac": [
+      "PARACONSISTENCY",
+      "ParacLogic",
+      "Paracon",
+      "Paraconsistency",
+      "Paraconsistent"
+    ],
+    "parak": [
+      "Parakonsistent",
+      "Parakonsistente",
+      "Parakonsistenter",
+      "Parakonsistentes",
+      "Parakonsistenz"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial",
+      "Potenzials"
+    ],
+    "schlu": [
+      "Schlussfolgerung",
+      "Schlussfolgerungen",
+      "Schlussfolgerungsmechanismen",
+      "Schlussregeln",
+      "Schlussweisen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterscheidung",
+      "Unterschied",
+      "Unterschiede",
+      "Untersuchung"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungserkennung",
+      "Bedrohungsfokussiert"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheische",
+      "Dialetheism",
+      "Dialetheismus"
+    ],
+    "disju": [
+      "Disjunktion",
+      "Disjunktionseinführung",
+      "Disjunktive",
+      "Disjunktiver"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Allerdings"
+    ],
+    [
+      "Alle",
+      "Missfallen"
+    ],
+    [
+      "BOTH",
+      "Both"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Einengend"
+    ],
+    [
+      "Eine",
+      "Keinerlei"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Eine",
+      "Verallgemeinerung"
+    ],
+    [
+      "FALL",
+      "Zerfall"
+    ],
+    [
+      "FALL",
+      "Missfallen"
+    ],
+    [
+      "Form",
+      "FORMAL"
+    ],
+    [
+      "Form",
+      "Formal"
+    ],
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Formen"
+    ]
+  ]
+}
