@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Programm
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -52,6 +52,10 @@ The plot-points list (V4) has LogOS explain „logische/strukturelle Fehler des 
 ## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — the Seelen-Kohärenz-Programm that fails at the break
 
 The plot blueprint (V3) builds its premise on cracks „in einem übergeordneten "Seelen-Kohärenz-Programm" einer Simulation“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L21]. At the break „Das "Seelen-Kohärenz-Programm" versagt.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L146] The Guardians' analysis names „fundamentale Risse im Kohärenz-Programm“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L162]. The plan's name for the system, not canon.
+
+## Reading — `roman-blueprint-seelen-kohaerenz-protokoll`, 2025-04-17, the soul blueprint (V5) — the Seelen-Kohärenz-Protokoll as the simulation's failing control element
+
+The soul blueprint (V5) describes „Das "Seelen-Kohärenz-Protokoll" ist ein zentrales Steuerungselement dieser Simulation, das versucht, Kohärenz zu erzwingen, aber aufgrund des Grundfehlers versagt.“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L166] Under this name the plan places the system the page describes. A plan's proposal, not canon.
 
 ## Open
 
