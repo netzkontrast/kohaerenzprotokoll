@@ -1,0 +1,285 @@
+{
+  "document": "dialetheismus-im-kohaerenz-protokoll",
+  "drive_id": "155nU_zQ0D8zeXCapHBjQ1mUDRIR2ny-6ANDiJQQeB6k",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 100,
+  "backslash_escapes": 82,
+  "typographic_marks": 24,
+  "ascii_quotes": 98,
+  "inflection_families": {
+    "diale": [
+      "DIALETHEISM",
+      "Dialectic",
+      "Dialectical",
+      "Dialectics",
+      "Dialektik",
+      "Dialetheia",
+      "Dialetheien",
+      "Dialetheisch",
+      "Dialetheische",
+      "Dialetheischer",
+      "Dialetheisches",
+      "Dialetheism",
+      "Dialetheismus",
+      "Dialetheist",
+      "Dialetheisten",
+      "Dialetheists"
+    ],
+    "syste": [
+      "System",
+      "Systemabsturz",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemisch",
+      "Systemkollaps",
+      "Systems",
+      "Systemschäden",
+      "Systemstörung",
+      "Systemversagen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Untergang",
+      "Unterscheidung",
+      "Unterscheidungskraft",
+      "Unterschied",
+      "Untersuchung",
+      "Untersuchungsphasen"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzfälle",
+      "Grenzfällen",
+      "Grenzkontrolle",
+      "Grenzüberschreitung"
+    ],
+    "parad": [
+      "Paradebeispiel",
+      "Paradox",
+      "Paradoxes",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "philo": [
+      "PHILOSOPHICAL",
+      "Philosophen",
+      "Philosophical",
+      "Philosophien",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheitsfunktionen",
+      "Wahrheitskonzeptionen",
+      "Wahrheitstheorien",
+      "Wahrheitswert",
+      "Wahrheitswerte"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charaktererfahrungen",
+      "Charakterisierung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbanken",
+      "Datenfehler",
+      "Datenfusion",
+      "Datenpunkte"
+    ],
+    "hegel": [
+      "Hegel",
+      "Hegelian",
+      "Hegels",
+      "Hegelsche",
+      "Hegelschen"
+    ],
+    "inter": [
+      "INTERPRETATIONS",
+      "Interaktion",
+      "Interaktionen",
+      "Internet",
+      "Interpretation"
+    ],
+    "model": [
+      "Model",
+      "Modell",
+      "Modelle",
+      "Modellierung",
+      "Models"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer",
+      "Potentielle",
+      "Potenzial",
+      "Potenzmenge"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychologisch",
+      "Psychologische",
+      "Psychology"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchs",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widersprüchliche"
+    ],
+    "ander": [
+      "Andere",
+      "Andererseits",
+      "Anders",
+      "Andersartigkeit"
+    ],
+    "archi": [
+      "ARCHIVES",
+      "Architekt",
+      "Architekturen",
+      "Archive"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungs",
+      "Bedrohungsanalyse"
+    ],
+    "contr": [
+      "Contradiction",
+      "Contradictione",
+      "Contradictions",
+      "Control"
+    ],
+    "disju": [
+      "Disjunkte",
+      "Disjunktion",
+      "Disjunktiven",
+      "Disjunktiver"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehlerbehandlung",
+      "Fehlermodi",
+      "Fehlern"
+    ],
+    "forsc": [
+      "Forschung",
+      "Forschungsauftrag",
+      "Forschungsauftrags",
+      "Forschungsfeld"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegensätze",
+      "Gegensätzen",
+      "Gegenteil"
+    ],
+    "haupt": [
+      "Hauptargumente",
+      "Hauptkritikpunkt",
+      "Hauptmotivation",
+      "Hauptziel"
+    ],
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logically",
+      "Logics"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Sprechakten"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Akte",
+      "Charakterentwicklung"
+    ],
+    [
+      "Akte",
+      "Charaktererfahrungen"
+    ],
+    [
+      "Anti",
+      "Semantic"
+    ],
+    [
+      "Anti",
+      "Semantik"
+    ],
+    [
+      "Anti",
+      "Antithese"
+    ],
+    [
+      "Anti",
+      "Semantics"
+    ],
+    [
+      "Anti",
+      "Antilogicalism"
+    ],
+    [
+      "CASE",
+      "Case"
+    ],
+    [
+      "Dame",
+      "Fundament"
+    ],
+    [
+      "Dame",
+      "Fundamente"
+    ],
+    [
+      "Data",
+      "Acceldata"
+    ],
+    [
+      "Data",
+      "Databases"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ]
+  ]
+}
