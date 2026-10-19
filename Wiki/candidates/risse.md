@@ -194,7 +194,7 @@ The plot concept proposes that the Überwelt experiences „weit verbreitete "Ri
 
 ## Reading — `parakonsistente-logik-im-seelen-protokoll`, 2025-04-21, the paraconsistent-logic report — glitches and cracks the system survives
 
-The paraconsistent-logic report proposes that in the Konstrukt-Stadt contradictions show as „Glitches“ ^[parakonsistente-logik-im-seelen-protokoll.md:L101], and that Aegis does not collapse „trotz der Risse“ ^[parakonsistente-logik-im-seelen-protokoll.md:L227]. A report's proposal, not canon.
+The paraconsistent-logic report proposes that everyday „Glitches“ ^[parakonsistente-logik-im-seelen-protokoll.md:L101] could be simple contradictions the base logic handles, and that Aegis does not collapse „trotz der Risse“ ^[parakonsistente-logik-im-seelen-protokoll.md:L227]. A report's proposal, not canon.
 
 ## Reading — `plotanalyse-kohaerenz-protokoll-szenario`, 2025-04-23, the Plotanalyse — the `Risse` as AEGIS's destabilisation under its analysis of M
 
