@@ -1,10 +1,10 @@
 ---
 term: Überraum
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "erstelle-eine-liste-mit-allen-plot-points-formu"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
 gathered: "2026-09-17"
 ---
 
@@ -45,6 +45,10 @@ The refined blueprint titles its second part „Intervention aus dem Überraum�
 ## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the Überraum as meta-reality where the alarm sounds
 
 The plot summary (V4) ends its Part 1 at a system failure that „löst einen Alarm im Überraum aus“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L26]. Part 2 is a „Perspektivwechsel zum "Überraum"“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L30], the place where the Guardians analyse the crisis. Proposed, not canon.
+
+## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — the system alarm in the Überraum ends Part 1
+
+The plot-points list (V4) ends Part 1 with „System-Alarm im Überraum.“ ^[plotpunkte-liste.md:L25] and names Part 2 „Intervention aus dem Überraum“ ^[plotpunkte-liste.md:L27]. A plan's plot points, not canon.
 
 ## Open
 
