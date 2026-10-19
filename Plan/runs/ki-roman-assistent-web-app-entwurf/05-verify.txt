@@ -1,0 +1,49 @@
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Verhaltensregeln und Methodik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Verhaltensregeln und Methodik` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Phase 1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase 1` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Phase 2"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase 2` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Phase 3"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase 3` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Phase 4"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Phase 4` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Zusammenfassung und Schlussfolgerung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zusammenfassung und Schlussfolgerung` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Chapter 14"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Chapter 14` ^[ki-roman-assistent-web-app-entwurf.md:#1]
+$ python3 scripts/read.py ki-roman-assistent-web-app-entwurf --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[ki-roman-assistent-web-app-entwurf.md:#0]
+stance_marker_count: 6 = the first six marker counts above, one each
