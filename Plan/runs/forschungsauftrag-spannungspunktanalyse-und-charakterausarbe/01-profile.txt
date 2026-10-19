@@ -1,0 +1,14 @@
+# forschungsauftrag-spannungspunktanalyse-und-charakterausarbe
+  lines                246  (frontmatter ends at 9)
+  body words           1538
+  headings             0   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       4
+  backslash escapes    0
+  typographic marks    44   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      Aktionssystem x11, Bedürfnisse x11, Notizen x11, Probleme x11, Rolle x11, Schwächen x11, Selbstbild x11, Stärken x11, Trigger x11, Typ x11, Wünsche x11
+  longest line         438 chars
+
