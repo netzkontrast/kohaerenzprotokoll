@@ -1,10 +1,10 @@
 ---
 term: Protokoll v1.4
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung", "welten", "kapitel-13-momente", "kohaerenz-protokoll-finaler-plot-blueprint"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-plot-blueprint-erstellung", "welten", "kapitel-13-momente", "kohaerenz-protokoll-finaler-plot-blueprint", "roman-plot-konzept-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -56,3 +56,7 @@ In the group on AEGIS's reaction the chapter-13 moments plan states: „Protokol
 ## Reading — `kohaerenz-protokoll-finaler-plot-blueprint`, 2025-04-20, the final plot blueprint — the v1.4 protocols' failure and the Reboot
 
 The final plot blueprint triggers the Reboot by „das katastrophale Versagen der v1.4-Protokolle“ ^[kohaerenz-protokoll-finaler-plot-blueprint.md:L41]. Version 1.5's faster threat response is „basierend auf der Analyse des v1.4-Versagens“ ^[kohaerenz-protokoll-finaler-plot-blueprint.md:L52], and before the Welle „Das System (v1.4) gerät zunehmend an seine Grenzen.“ ^[kohaerenz-protokoll-finaler-plot-blueprint.md:L200] A plan's proposals, not canon.
+
+## Reading — `roman-plot-konzept-kohaerenz-protokoll`, 2025-04-20, the plot concept — AEGIS's established protocols in Part 1
+
+The plot concept's table names „AEGIS Kohärenz (v1.4/v1.5)“ ^[roman-plot-konzept-kohaerenz-protokoll.md:L201], and in Part 1 AEGIS applies „seine etablierten Protokolle (v1.4)“ ^[roman-plot-konzept-kohaerenz-protokoll.md:L226]. Hedged proposals, not canon.
