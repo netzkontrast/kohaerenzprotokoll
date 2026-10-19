@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -62,6 +62,10 @@ The plot summary (V4) builds its earlier plot idea on a fragmented consciousness
 ## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — episodes headed by the five personas, then repair as a team and the turn inward
 
 The plot-points list (V4) heads its Part-1 episodes with personas — Architekt, Echo, Wächter, Sucher, Funke — each disturbed by another's intrusion, as in „Erlebt Logikfehler in seiner Welt & emotionale Störung (Echo-Intrusion)“ ^[plotpunkte-liste.md:L17]. Episode 1.13 brings the „Kompletter Kollaps und chaotische Überlagerung der Persona-Realitäten“ ^[plotpunkte-liste.md:L25]. In Part 3 the first repair is made „durch Persona-Team mit Werkzeugen“ ^[plotpunkte-liste.md:L39]; „Personas verbessern Kooperation“ ^[plotpunkte-liste.md:L41]; then „Personas beschließen, das "Außen"“ ^[plotpunkte-liste.md:L43] to seek. In the finale „Personas wenden sich nach innen“ ^[plotpunkte-liste.md:L46]. A plan's plot points, not canon.
+
+## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — five personas, each the focus of an episode and the intruder in others
+
+The plot blueprint (V3) names a fragmented identity, „(Personas: Architekt, Echo, Wächter, Funke, Sucher)“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L22]. Its Part-1 focus is the „Vorstellung Persona-Realitäten, Intrusionen anderer Personas als "gleiche Person"“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L53]. Each episode has one focus persona and others intruding — in the fortress, „**Funke** (Intrusion: als unerklärliches, farbiges Lichtmuster an der Wand, wird als Eindringling interpretiert)“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L94]. In episodes 1.6–1.12 „**jede Persona erneut im Fokus**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L135]. At the break: „Direkte, chaotische Konfrontation aller Kern-Personas.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L143] In Part 2 the Guardians speak with „**Protagonisten-System (den nun langsam bewusster werdenden Personas)**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L171]. A plan's proposals, not canon.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
