@@ -1,0 +1,42 @@
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "Subtext"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Subtext` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#2]
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "Storytelling"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Storytelling` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#2]
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#1]
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "Minimal Being"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Minimal Being` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#2]
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "Kael"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kael` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#2]
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#0]
+$ read.py comprehensive-systemic-architectural-and-psychological-conte --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[comprehensive-systemic-architectural-and-psychological-conte.md:#0]

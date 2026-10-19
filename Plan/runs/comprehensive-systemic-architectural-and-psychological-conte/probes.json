@@ -1,0 +1,208 @@
+{
+  "document": "comprehensive-systemic-architectural-and-psychological-conte",
+  "drive_id": "1RMHzmZy84biJmKn7pQ4RyqFxXGMXtSbS2gfbhBtaoLI",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 11,
+  "backslash_escapes": 83,
+  "typographic_marks": 14,
+  "ascii_quotes": 126,
+  "inflection_families": {
+    "story": [
+      "Story",
+      "Storybeat",
+      "Storybeats",
+      "Storypoint",
+      "Storypoints",
+      "Storytelling"
+    ],
+    "syste": [
+      "System",
+      "Systemic",
+      "Systemische",
+      "Systems"
+    ],
+    "agent": [
+      "Agent",
+      "Agentic",
+      "Agents"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analyze"
+    ],
+    "conse": [
+      "Consensual",
+      "Consequence",
+      "Consequently"
+    ],
+    "direc": [
+      "Directed",
+      "Directives",
+      "Director"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll"
+    ],
+    "trans": [
+      "Transformers",
+      "Transit",
+      "Translating"
+    ],
+    "adapt": [
+      "Adaptations",
+      "Adapters"
+    ],
+    "apply": [
+      "Apply",
+      "Applying"
+    ],
+    "archi": [
+      "Architectural",
+      "Architecture"
+    ],
+    "chron": [
+      "Chronic",
+      "Chronically"
+    ],
+    "claud": [
+      "CLAUDE",
+      "Claude"
+    ],
+    "compu": [
+      "Computational",
+      "Computer"
+    ],
+    "const": [
+      "Constitution",
+      "Constraint"
+    ],
+    "conve": [
+      "Conversational",
+      "Conversely"
+    ],
+    "creat": [
+      "Create",
+      "Creatively"
+    ],
+    "deter": [
+      "Determination",
+      "Deterministic"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "enfor": [
+      "Enforcement",
+      "Enforces"
+    ],
+    "execu": [
+      "Execution",
+      "Executors"
+    ],
+    "exist": [
+      "Existential",
+      "Existenz"
+    ],
+    "funct": [
+      "Function",
+      "Functions"
+    ],
+    "gemin": [
+      "GEMINI",
+      "Gemini"
+    ],
+    "hyper": [
+      "Hyperactivity",
+      "Hypergraph"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Code",
+      "Encodes"
+    ],
+    [
+      "Data",
+      "Database"
+    ],
+    [
+      "JSON",
+      "JSONL"
+    ],
+    [
+      "Main",
+      "Domain"
+    ],
+    [
+      "Main",
+      "Maintenance"
+    ],
+    [
+      "Post",
+      "PostToolUse"
+    ],
+    [
+      "Spec",
+      "Perspectives"
+    ],
+    [
+      "Tool",
+      "Tools"
+    ],
+    [
+      "Tool",
+      "PreToolUse"
+    ],
+    [
+      "Tool",
+      "PostToolUse"
+    ],
+    [
+      "Agent",
+      "Agents"
+    ],
+    [
+      "Agent",
+      "Agentic"
+    ],
+    [
+      "Agent",
+      "Subagent"
+    ],
+    [
+      "Apply",
+      "Applying"
+    ],
+    [
+      "Graph",
+      "Hypergraph"
+    ],
+    [
+      "Layer",
+      "Players"
+    ],
+    [
+      "Model",
+      "Models"
+    ],
+    [
+      "Novel",
+      "NovelOS"
+    ],
+    [
+      "SKILL",
+      "Skills"
+    ],
+    [
+      "Story",
+      "Storybeat"
+    ]
+  ]
+}

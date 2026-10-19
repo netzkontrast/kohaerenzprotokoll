@@ -1,0 +1,32 @@
+# counts for 27 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                             1 word     1 in   [57]
+  Minimal Being                     2 word     2 in   [55, 57]
+  NovelOS                           3 word     3 in   [61, 63, 78]
+  Narrative Triad Architecture      1 word     1 in   [65]
+  Narrative Director                1 word     1 in   [72]
+  Knowledge Hypergraph              1 word     1 in   [71]
+  context rot                       3 word     3 in   [7, 63, 71]
+  Narrative Context Protocol        3 word     3 in   [70, 76, 78]
+  NCP                               5 word     5 in   [70, 76, 78, 87]
+  Universal Narrative Model         1 word     1 in   [70]
+  UNM                               1 word     1 in   [70]
+  Subtext                           2 word     2 in   [78, 80]
+  Storytelling                      2 word     2 in   [78, 87]
+  Perspectives                      1 word     1 in   [82]
+  Dynamics                          3 word     3 in   [49, 83, 87]
+  Players                           1 word     1 in   [84]
+  Storypoints                       1 word     1 in   [85]
+  Storybeats                        2 word     2 in   [85]
+  Overviews                         1 word     1 in   [87]
+  Moments                           1 word     1 in   [87]
+  Dramatica Theory                  1 word     1 in   [74]
+  Story Mind                        1 word     1 in   [74]
+  Ghost                             1 word     1 in   [74]
+  Objective Story Throughline       1 word     1 in   [74]
+  Main Character                    3 word     3 in   [82, 84, 85]
+  Obstacle Character                1 word     1 in   [82]
+  Story Outcome                     1 word     1 in   [83]
