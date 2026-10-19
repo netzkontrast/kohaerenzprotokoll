@@ -1,0 +1,14 @@
+# digitale-uberwelt
+  lines                195  (frontmatter ends at 9)
+  body words           8487
+  headings             4   bold-only lines 7
+  table rows           0   code fences 0
+  question marks       39
+  backslash escapes    545
+  typographic marks    16   ascii quotes 190
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    173
+  repeated labels      none
+  longest line         35626 chars
+

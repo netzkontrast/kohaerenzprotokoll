@@ -1,0 +1,55 @@
+$ read.py digitale-uberwelt --count "Kontext 1"
+`Kontext 1` ^[digitale-uberwelt.md:#34]
+$ read.py digitale-uberwelt --count "Kontext 2"
+`Kontext 2` ^[digitale-uberwelt.md:#3]
+$ read.py digitale-uberwelt --count "Verfeinert"
+`Verfeinert` ^[digitale-uberwelt.md:#8]
+$ read.py digitale-uberwelt --count "Finaler Entwurf"
+`Finaler Entwurf` ^[digitale-uberwelt.md:#1]
+$ read.py digitale-uberwelt --count "Digitale Überwelt"
+`Digitale Überwelt` ^[digitale-uberwelt.md:#1]
+$ read.py digitale-uberwelt --count "Überwelt"
+`Überwelt` ^[digitale-uberwelt.md:#40]
+$ read.py digitale-uberwelt --count "AEGIS Functional Protocol v1.4"
+`AEGIS Functional Protocol v1.4` ^[digitale-uberwelt.md:#1]
+$ read.py digitale-uberwelt --count "AEGIS-Protokoll"
+`AEGIS-Protokoll` ^[digitale-uberwelt.md:#5]
+$ read.py digitale-uberwelt --count "Guardians"
+`Guardians` ^[digitale-uberwelt.md:#49]
+$ read.py digitale-uberwelt --count "ZTEM"
+`ZTEM` ^[digitale-uberwelt.md:#8]
+$ read.py digitale-uberwelt --count "Behavioral Proof-of-Function (BPoF)"
+`Behavioral Proof-of-Function (BPoF)` ^[digitale-uberwelt.md:#2]
+$ read.py digitale-uberwelt --count "BPoF"
+`BPoF` ^[digitale-uberwelt.md:#21]
+$ read.py digitale-uberwelt --count "Encrypted Intent Channels (EIC)"
+`Encrypted Intent Channels (EIC)` ^[digitale-uberwelt.md:#2]
+$ read.py digitale-uberwelt --count "EICs"
+`EICs` ^[digitale-uberwelt.md:#6]
+$ read.py digitale-uberwelt --count "Consensus Enforcer"
+`Consensus Enforcer` ^[digitale-uberwelt.md:#6]
+$ read.py digitale-uberwelt --count "Secure Isolation State (SIS)"
+`Secure Isolation State (SIS)` ^[digitale-uberwelt.md:#4]
+$ read.py digitale-uberwelt --count "Risse"
+`Risse` ^[digitale-uberwelt.md:#9]
+$ read.py digitale-uberwelt --count "Externe Ebene"
+`Externe Ebene` ^[digitale-uberwelt.md:#8]
+$ read.py digitale-uberwelt --count "Externen Ebene"
+`Externen Ebene` ^[digitale-uberwelt.md:#8]
+$ read.py digitale-uberwelt --count "Kern-Welten"
+`Kern-Welten` ^[digitale-uberwelt.md:#2]
+$ read.py digitale-uberwelt --count "Kael"
+`Kael` ^[digitale-uberwelt.md:#0]
+$ read.py digitale-uberwelt --count "Juna"
+`Juna` ^[digitale-uberwelt.md:#0]
+$ read.py digitale-uberwelt --count "Nyx"
+`Nyx` ^[digitale-uberwelt.md:#0]
+$ read.py digitale-uberwelt --count "Kap"
+`Kap` ^[digitale-uberwelt.md:#0]
+$ read.py digitale-uberwelt --count "Kapitel"
+`Kapitel` ^[digitale-uberwelt.md:#0]
+$ read.py digitale-uberwelt --count "Kernwelt"
+`Kernwelt` ^[digitale-uberwelt.md:#0]
+stance_marker_count = 34 + 3 + 8 + 1 = 46 (Kontext 1, Kontext 2, Verfeinert, Finaler Entwurf)
+$ awk line length of L49 (about 36000 chars)
+36026
