@@ -1,0 +1,14 @@
+# kohaerenz-prozess
+  lines                342  (frontmatter ends at 9)
+  body words           8071
+  headings             2   bold-only lines 24
+  table rows           15   code fences 0
+  question marks       14
+  backslash escapes    144
+  typographic marks    28   ascii quotes 156
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    73
+  repeated labels      none
+  longest line         1275 chars
+
