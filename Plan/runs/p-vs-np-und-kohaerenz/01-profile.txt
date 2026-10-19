@@ -1,0 +1,14 @@
+# p-vs-np-und-kohaerenz
+  lines                530  (frontmatter ends at 9)
+  body words           9744
+  headings             37   bold-only lines 0
+  table rows           18   code fences 0
+  question marks       38
+  backslash escapes    152
+  typographic marks    30   ascii quotes 160
+  invisible characters U+200Bx13
+  math symbol lines    2
+  glued ref numbers    127
+  repeated labels      Guardian-Operation x4, Herausforderungen & Limitationen x4, Kaels Erfahrung x4, Metapher x4, Umgebung (EST) & Regeln x4
+  longest line         1773 chars
+

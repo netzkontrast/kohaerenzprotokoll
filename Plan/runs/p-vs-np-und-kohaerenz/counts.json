@@ -1,0 +1,1189 @@
+{
+  "document": "p-vs-np-und-kohaerenz",
+  "drive_id": "1XVSXGOPY7kb4vwEnEcD47OPed-TqcVASFLUKyCwD4dQ",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 64,
+      "n_including_compounds": 69,
+      "lines": [
+        11,
+        19,
+        21,
+        25,
+        29,
+        148,
+        152,
+        155,
+        157,
+        177,
+        179,
+        183,
+        185,
+        187,
+        189,
+        193,
+        195,
+        205,
+        207,
+        209,
+        214,
+        216,
+        218,
+        220,
+        228,
+        230,
+        232,
+        236,
+        259,
+        308,
+        314,
+        320,
+        326,
+        327,
+        328,
+        332,
+        338,
+        344,
+        354,
+        358,
+        364,
+        368,
+        379,
+        389,
+        398,
+        399,
+        400,
+        404,
+        412,
+        418
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        185
+      ]
+    },
+    "Kernwelten": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        11,
+        19,
+        21,
+        25,
+        185,
+        234,
+        236,
+        298,
+        300,
+        314,
+        321,
+        344,
+        354,
+        374,
+        404,
+        413,
+        418
+      ]
+    },
+    "Kernwelt 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "KW1": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        238,
+        243,
+        298,
+        307,
+        378
+      ]
+    },
+    "KW2": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        246,
+        298,
+        308,
+        326,
+        379,
+        404
+      ]
+    },
+    "KW3": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        263,
+        285,
+        298,
+        309,
+        380
+      ]
+    },
+    "KW4": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        288,
+        293,
+        298,
+        310,
+        381,
+        404
+      ]
+    },
+    "Guardian": {
+      "n": 6,
+      "n_including_compounds": 19,
+      "lines": [
+        236,
+        242,
+        244,
+        259,
+        261,
+        276,
+        286,
+        292,
+        294,
+        306,
+        307,
+        308,
+        309,
+        310,
+        358,
+        389,
+        390
+      ]
+    },
+    "Guardians": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        236,
+        358,
+        389,
+        390
+      ]
+    },
+    "Architekt": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        234,
+        238,
+        242,
+        244,
+        307,
+        378,
+        390
+      ]
+    },
+    "Echo": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        246,
+        252,
+        259,
+        261,
+        308,
+        390
+      ]
+    },
+    "Wächter": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        177,
+        263,
+        270,
+        276,
+        309
+      ]
+    },
+    "Sucher": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        288,
+        292,
+        293,
+        294,
+        310,
+        381,
+        390
+      ]
+    },
+    "Cerberus": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        276,
+        286,
+        344,
+        380,
+        390
+      ]
+    },
+    "Kael": {
+      "n": 18,
+      "n_including_compounds": 25,
+      "lines": [
+        212,
+        220,
+        236,
+        243,
+        260,
+        285,
+        293,
+        326,
+        327,
+        354,
+        358,
+        379,
+        380,
+        381,
+        389,
+        399,
+        402,
+        404,
+        418
+      ]
+    },
+    "EST": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        236,
+        241,
+        258,
+        275,
+        291,
+        307,
+        308,
+        309,
+        310,
+        379
+      ]
+    },
+    "SARM": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        151,
+        221,
+        370
+      ]
+    },
+    "RIVE": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        211,
+        214,
+        369
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        204
+      ]
+    },
+    "Reboot": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        155,
+        222,
+        228,
+        398
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        220,
+        332,
+        398
+      ]
+    },
+    "Kernparadoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        332
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        13,
+        21,
+        25,
+        29,
+        33,
+        179,
+        232,
+        314,
+        406,
+        410,
+        422
+      ]
+    },
+    "Kohärenz-Patching-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        368
+      ]
+    },
+    "Potential": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        288,
+        292,
+        381
+      ]
+    },
+    "Paradoxien": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        187,
+        232,
+        332
+      ]
+    },
+    "Kohärenz": {
+      "n": 26,
+      "n_including_compounds": 32,
+      "lines": [
+        11,
+        13,
+        19,
+        21,
+        25,
+        29,
+        33,
+        155,
+        179,
+        181,
+        183,
+        185,
+        189,
+        195,
+        204,
+        214,
+        221,
+        232,
+        314,
+        368,
+        398,
+        400,
+        406,
+        410,
+        412,
+        422
+      ]
+    },
+    "Entropie": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        21,
+        29,
+        181,
+        183,
+        185,
+        186,
+        195,
+        232
+      ]
+    },
+    "Rechenlandschaften": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Rechenlandschaft": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        236,
+        413
+      ]
+    },
+    "Komplexität als Weltphysik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        296
+      ]
+    },
+    "komputationale Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        389
+      ]
+    },
+    "degradierten Modus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "P-Maschine": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        230,
+        404,
+        418
+      ]
+    },
+    "Logik/Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        238
+      ]
+    },
+    "Emotion/Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "Abwehr/Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Potential/Sucher/Funke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        288
+      ]
+    },
+    "Jenseits von NP / Qualia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        308
+      ]
+    },
+    "Jenseits von NP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        112,
+        308
+      ]
+    },
+    "NP-Suche": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        290,
+        310,
+        381,
+        413
+      ]
+    },
+    "Hybrider Ansatz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        358
+      ]
+    },
+    "nicht-deterministischer Löser": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        402
+      ]
+    },
+    "polynomialer Kreativität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Intraktabilität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        220,
+        222
+      ]
+    },
+    "Zustandsvalidierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "P vs NP": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        29,
+        60,
+        209,
+        354,
+        404,
+        428,
+        444,
+        446,
+        463
+      ]
+    },
+    "P versus NP": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        17,
+        25,
+        410,
+        427,
+        430,
+        472
+      ]
+    },
+    "P=NP": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        87,
+        93,
+        95,
+        97,
+        103,
+        140,
+        172,
+        429,
+        467,
+        471
+      ]
+    },
+    "Klasse P": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        35,
+        39,
+        41,
+        186,
+        195,
+        232,
+        240
+      ]
+    },
+    "NP": {
+      "n": 124,
+      "n_including_compounds": 266,
+      "lines": [
+        11,
+        15,
+        17,
+        25,
+        29,
+        31,
+        33,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        70,
+        72,
+        74,
+        78,
+        80,
+        82,
+        83,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        100,
+        101,
+        102,
+        103,
+        105,
+        107,
+        108,
+        109,
+        112,
+        114,
+        116,
+        117,
+        121,
+        122,
+        126,
+        136,
+        140,
+        141,
+        142,
+        146,
+        148,
+        157,
+        169,
+        170,
+        171,
+        172,
+        173,
+        177,
+        179,
+        185,
+        186,
+        189,
+        193,
+        195,
+        209,
+        211,
+        212,
+        214,
+        218,
+        220,
+        221,
+        230,
+        232,
+        242,
+        248,
+        253,
+        263,
+        265,
+        269,
+        270,
+        271,
+        275,
+        276,
+        286,
+        290,
+        294,
+        298,
+        307,
+        308,
+        309,
+        310,
+        318,
+        320,
+        326,
+        327,
+        328,
+        332,
+        354,
+        358,
+        369,
+        370,
+        378,
+        379,
+        380,
+        381,
+        404,
+        406,
+        410,
+        412,
+        413,
+        418,
+        422,
+        427,
+        428,
+        429,
+        430,
+        431,
+        438,
+        440,
+        441,
+        444,
+        446,
+        447,
+        448,
+        449,
+        455,
+        456,
+        457,
+        459,
+        460,
+        462,
+        463,
+        467,
+        468,
+        471,
+        472,
+        474,
+        476,
+        477,
+        479,
+        480,
+        483,
+        487,
+        496,
+        497,
+        498,
+        504,
+        520,
+        522
+      ]
+    },
+    "NP-vollständig": {
+      "n": 13,
+      "n_including_compounds": 29,
+      "lines": [
+        25,
+        33,
+        62,
+        80,
+        85,
+        87,
+        89,
+        95,
+        107,
+        117,
+        121,
+        122,
+        157,
+        172,
+        173,
+        263,
+        265,
+        269,
+        275,
+        276,
+        298,
+        309,
+        380,
+        413
+      ]
+    },
+    "NP-schwer": {
+      "n": 12,
+      "n_including_compounds": 31,
+      "lines": [
+        29,
+        33,
+        78,
+        83,
+        100,
+        101,
+        107,
+        108,
+        148,
+        171,
+        172,
+        185,
+        189,
+        195,
+        212,
+        214,
+        220,
+        221,
+        232,
+        242,
+        270,
+        271,
+        326,
+        369,
+        378,
+        412
+      ]
+    },
+    "NP-intermediär": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        95,
+        117,
+        157,
+        173
+      ]
+    },
+    "NP-Intermediär": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Co-NP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        116
+      ]
+    },
+    "co-NP": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        116,
+        121,
+        170
+      ]
+    },
+    "EXPTIME": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        130,
+        174,
+        253,
+        482
+      ]
+    },
+    "EXPSPACE": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        131,
+        484
+      ]
+    },
+    "PSPACE": {
+      "n": 2,
+      "n_including_compounds": 8,
+      "lines": [
+        131,
+        484
+      ]
+    },
+    "Haltingproblem": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        78,
+        135,
+        171,
+        175,
+        187
+      ]
+    },
+    "Turingmaschine": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        37,
+        56,
+        58,
+        130,
+        168,
+        252,
+        404
+      ]
+    },
+    "Zertifikat": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        58,
+        116,
+        122,
+        211
+      ]
+    },
+    "Verifizierer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        58
+      ]
+    },
+    "Heuristiken": {
+      "n": 16,
+      "n_including_compounds": 19,
+      "lines": [
+        108,
+        152,
+        155,
+        191,
+        195,
+        199,
+        204,
+        220,
+        228,
+        232,
+        276,
+        281,
+        294,
+        298,
+        309,
+        344,
+        380,
+        404,
+        412
+      ]
+    },
+    "Approximationsalgorithmen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        108,
+        153,
+        195,
+        200,
+        276
+      ]
+    },
+    "Qualia": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        252,
+        298,
+        308,
+        327,
+        413,
+        517,
+        518,
+        519
+      ]
+    },
+    "Cobham-Edmonds-These": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Cook-Levin-Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Ladner's Theorem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Gödels Unvollständigkeitssätzen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        135
+      ]
+    },
+    "Subgraph-Isomorphismus": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        269
+      ]
+    },
+    "Constraint Satisfaction Problems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        185,
+        493
+      ]
+    },
+    "CSPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    },
+    "Exploration": {
+      "n": 6,
+      "n_including_compounds": 11,
+      "lines": [
+        290,
+        292,
+        294,
+        298,
+        310,
+        413,
+        523,
+        524,
+        525
+      ]
+    },
+    "Exploitation": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        290,
+        292,
+        294,
+        310,
+        523,
+        524,
+        525
+      ]
+    },
+    "Polynomzeit": {
+      "n": 21,
+      "n_including_compounds": 25,
+      "lines": [
+        37,
+        39,
+        54,
+        56,
+        58,
+        70,
+        76,
+        78,
+        83,
+        87,
+        107,
+        168,
+        169,
+        170,
+        171,
+        204,
+        241
+      ]
+    },
+    "Polynomialzeit": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        74,
+        121,
+        307
+      ]
+    },
+    "Unentscheidbar": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        135,
+        175
+      ]
+    },
+    "Millennium-Preis-Probleme": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "SAT": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        64,
+        87,
+        89,
+        169,
+        172
+      ]
+    },
+    "3SAT": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        64,
+        89,
+        172
+      ]
+    },
+    "TSP": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        65,
+        78,
+        89,
+        100,
+        169,
+        171,
+        172
+      ]
+    },
+    "Graphenisomorphismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        173
+      ]
+    },
+    "Primfaktorzerlegung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        60,
+        99,
+        121,
+        173
+      ]
+    },
+    "Faktorisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        109,
+        157
+      ]
+    },
+    "Falsch-Positiv": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        280,
+        309
+      ]
+    },
+    "Komplexitätsklassen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        25,
+        33,
+        126,
+        159,
+        161,
+        298,
+        321
+      ]
+    }
+  }
+}

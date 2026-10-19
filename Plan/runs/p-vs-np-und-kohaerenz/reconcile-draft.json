@@ -1,0 +1,124 @@
+{
+  "document": "p-vs-np-und-kohaerenz",
+  "drive_id": "1XVSXGOPY7kb4vwEnEcD47OPed-TqcVASFLUKyCwD4dQ",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 87,
+    "decisions": 87,
+    "decided_by_lookup": 67,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        21,
+        205,
+        230,
+        328
+      ],
+      "attribution": "",
+      "note": "a P-machine in an NP-world"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        276,
+        286
+      ],
+      "attribution": "",
+      "note": "the KW3 guardian, fast but inexact"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "predicting entropy as a hard problem"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        390
+      ],
+      "attribution": "",
+      "note": "each with its world's computational limits"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        243,
+        389,
+        402
+      ],
+      "attribution": "",
+      "note": "a non-deterministic solver, as a question"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        238,
+        246,
+        263,
+        288
+      ],
+      "attribution": "",
+      "note": "four worlds as four complexity landscapes"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        214
+      ],
+      "attribution": "",
+      "note": "global coherence as an NP-hard goal"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        204
+      ],
+      "attribution": "",
+      "note": "cracks as the cost of heuristics"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        185
+      ],
+      "attribution": "",
+      "note": "one layer of the coherence problem"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}
