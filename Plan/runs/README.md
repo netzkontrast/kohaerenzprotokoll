@@ -84,7 +84,7 @@ to be for.
 
 **Which lists are gold is decided by `scripts/gold.py`** (decision 009): a
 list written while reading, counted, unchanged since its count, and of its
-document. 537 <!--state:trainset.gold_candidate_lists--> are gold today:
+document. 541 <!--state:trainset.gold_candidate_lists--> are gold today:
 the eligible documents are enumerated by `python3 scripts/gold.py`, not by a
 fixed document range. Historically, documents 5–51 and the twelve lists of step 6’s
 sample formed the early baseline. Documents 5 and 6 say a reader wrote them; from
