@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Programm
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf"]
 gathered: "2026-09-17"
 ---
 
@@ -48,6 +48,10 @@ The plot summary (V4) places the cracks in „einem übergeordneten "Seelen-Koh�
 ## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — LogOS on the errors of the Seelen-Kohärenz-Programm
 
 The plot-points list (V4) has LogOS explain „logische/strukturelle Fehler des "Seelen-Kohärenz-Programms"“ ^[plotpunkte-liste.md:L30]. A plan's plot point, not canon.
+
+## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — the Seelen-Kohärenz-Programm that fails at the break
+
+The plot blueprint (V3) builds its premise on cracks „in einem übergeordneten "Seelen-Kohärenz-Programm" einer Simulation“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L21]. At the break „Das "Seelen-Kohärenz-Programm" versagt.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L146] The Guardians' analysis names „fundamentale Risse im Kohärenz-Programm“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L162]. The plan's name for the system, not canon.
 
 ## Open
 
