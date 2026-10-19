@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Programm
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
 gathered: "2026-09-17"
 ---
 
@@ -44,6 +44,10 @@ The Seelen-Kohärenz blueprint, an early proposal, states in its overall concept
 ## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the Seelen-Kohärenz-Programm destabilised by the fragmentation
 
 The plot summary (V4) places the cracks in „einem übergeordneten "Seelen-Kohärenz-Programm", das die Stabilität simulierter Existenzen gewährleisten soll“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L17]. The Guardians name the fragmentation as cause of „die Instabilität des "Seelen-Kohärenz-Programms"“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L35]. The plan's name for the system, not canon.
+
+## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — LogOS on the errors of the Seelen-Kohärenz-Programm
+
+The plot-points list (V4) has LogOS explain „logische/strukturelle Fehler des "Seelen-Kohärenz-Programms"“ ^[plotpunkte-liste.md:L30]. A plan's plot point, not canon.
 
 ## Open
 
