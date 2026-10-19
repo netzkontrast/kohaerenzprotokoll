@@ -1,0 +1,83 @@
+written_by: document-reader subagent (Sonnet 5.5), 2026-10-19, while reading, before any count
+
+The document is a German plot blueprint in three parts: answers to core questions (Teil 1), a 39-step plot outline in three parts with repeated field labels (Teil 2), a synthesis of arcs, themes and world logic (Teil 3). Early-name figures occur in the text; none is listed, and compounds that carry one are left out. Hyphenated K-J compounds are the document's own terms and are listed as written, unexpanded. Parts of the outline are given only as ranges ("Schritt 4 - 7", "Schritt 9 - 12") and as examples. The document contains no passage of personal or autobiographical material about real people; the diagnosis named is the fictional figure's own. Quotation marks in the document mark invented terms; labels in the outline are template fields.
+
+## world
+- AEGIS
+- Kael
+- Guardians
+- Guardian
+- Überwelt
+- Kernwelten
+- Kernwelt
+- Potentialmeer
+- Kohärenz-Inseln
+- Kohärenz-Insel
+- Gleichzeitigkeit
+- Einsamkeit
+- Welle von Unmöglichkeit
+- Instrumente der Ordnung
+- Instrument
+- Protokoll v1.5
+- OBP v1.5
+- OBP
+- Ontological Boundary Policing
+- Cognitive Firewall
+- PMAS
+- PMAS v1.5
+- Predictive Modeling and Adaptive Simulation
+- RIVE
+- RIVE v1.5
+- SARM
+- SARM v1.5
+- Boundary Management
+- Entropic Gatekeeper
+- Verhindert sein Nicht-Sein
+- Reboot
+- Anteile
+- Alter
+- DID
+- Dissoziativer Identitätsstörung
+- funktionale Multiplizität
+- Glitches
+- Risse
+- Jagd
+- Entropie-Infektion
+- System-Dekohärenz
+- qualitative Kohärenz
+- K-J-Verbindung
+- K-J-Bindung
+- K-J-Einheit
+- K-J-Paradoxon
+- K-J-Paradoxons
+- K-J-Essenz
+- K-J-Resonanz
+- Spiegel der Akzeptanz
+- Schlüssel zur Erinnerung
+- Band der Kooperation
+- Kommunikationsbrücken
+- Harmonisierungswerkzeuge
+- Verankerungspunkte
+- Stimmgabel
+- Resonanz und nicht-lokale Korrelation
+- Kategoriale Blindheit
+- Aktive Datenfilterung
+- Switch
+- Plot-Ereignis(se)
+- Konzeptionelle Klärung
+- Charakter-/System-Entwicklung
+- Welt-Interaktion
+- Thematischer Fokus
+- Narrative Funktion
+
+## lens
+- Heldinnenreise
+- Heldenreise
+- Metaebene
+- Inciting Incident
+- Midpoint
+- Kognitive Dissonanz
+- kognitiver Dissonanz
+- morphischer Resonanz
+- Entropie
+- Paradigmenwechsel
