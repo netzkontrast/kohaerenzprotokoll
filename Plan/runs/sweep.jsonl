@@ -1869,3 +1869,11 @@
 {"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "kael", "surface": "Kael", "line": 15, "decision": "reading", "why": "read on kael from lines without an earlier name", "at": "2026-10-19"}
 {"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title (J9)", "at": "2026-10-19"}
 {"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 96, "decision": "occurrence", "why": "on a line with an earlier name; not cited", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "alters", "surface": "Alters", "line": 74, "decision": "occurrence", "why": "craft research on a diagnosis, on a line with an earlier name; not cited", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "did", "surface": "DID", "line": 74, "decision": "occurrence", "why": "craft research on a diagnosis; not cited", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "emergenz", "surface": "Emergenz", "line": 443, "decision": "occurrence", "why": "on a line with an earlier name; not cited", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "juna", "surface": "(an earlier name)", "line": 15, "decision": "occurrence", "why": "an earlier name; the draft does not make the identity plain", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "kael", "surface": "(an earlier name)", "line": 15, "decision": "occurrence", "why": "an earlier name; the draft does not make the identity plain", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "kern-welten", "surface": "Kern-Welt", "line": 27, "decision": "reading", "why": "Kern-Welt 2 as the chapter's setting; read on the page", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title (J9)", "at": "2026-10-19"}
+{"document": "romanentwurf-ruf-des-abenteuers", "page": "ueberwelt", "surface": "Simulation", "line": 22, "decision": "occurrence", "why": "on a line with an earlier name; not cited", "at": "2026-10-19"}

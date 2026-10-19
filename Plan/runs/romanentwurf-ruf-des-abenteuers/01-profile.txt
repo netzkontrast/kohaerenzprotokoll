@@ -1,0 +1,14 @@
+# romanentwurf-ruf-des-abenteuers
+  lines                483  (frontmatter ends at 9)
+  body words           9191
+  headings             2   bold-only lines 25
+  table rows           12   code fences 0
+  question marks       78
+  backslash escapes    74
+  typographic marks    35   ascii quotes 142
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    100
+  repeated labels      Thematischer Fokus x21, Charaktere x20, Handlung x20, Innerer Konflikt x20, Plot-Fortschritt x20, Setting x20, Äußere Manifestation x20
+  longest line         1753 chars
+

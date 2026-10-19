@@ -1,0 +1,258 @@
+{
+  "document": "romanentwurf-ruf-des-abenteuers",
+  "drive_id": "1NoQAHpOUXcVq4s66GDatvxKBbyzszSNRnfrR6OCWSys",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 100,
+  "backslash_escapes": 74,
+  "typographic_marks": 35,
+  "ascii_quotes": 142,
+  "inflection_families": {
+    "chara": [
+      "Character",
+      "Characters",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterisierung",
+      "Charakteristika",
+      "Charakters",
+      "Charakterzustände"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionale",
+      "Emotionalen",
+      "Emotionaler",
+      "Emotionalität",
+      "Emotionen",
+      "Emotions"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierte",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfetzen",
+      "Erinnerungsfragmenten",
+      "Erinnerungsverzerrungen"
+    ],
+    "inner": [
+      "Inner",
+      "Inneren",
+      "Innerer",
+      "Inneres",
+      "Innerhalb"
+    ],
+    "reali": [
+      "Realistic",
+      "Realität",
+      "Realitätsbruch",
+      "Realitätsverlust",
+      "Realitätsverlusts"
+    ],
+    "schla": [
+      "Schlafstörungen",
+      "Schlafzustand",
+      "Schlag",
+      "Schlaglichter",
+      "Schlamm"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchen",
+      "Versucht",
+      "Versus"
+    ],
+    "ersch": [
+      "Erscheinungen",
+      "Erscheinungsform",
+      "Erschöpft",
+      "Erschöpfung"
+    ],
+    "grund": [
+      "Grund",
+      "Grundfesten",
+      "Grundkonzept",
+      "Grundlage"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelentwurf",
+      "Kapitels",
+      "Kapitulation"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "nebel": [
+      "Nebel",
+      "Nebels",
+      "Nebelschwaden",
+      "Nebelwand"
+    ],
+    "schme": [
+      "Schmerz",
+      "Schmerzen",
+      "Schmerzes",
+      "Schmerzhafte"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmen",
+      "Stimmenfetzen",
+      "Stimmung"
+    ],
+    "szene": [
+      "Szene",
+      "Szenen",
+      "Szenenstruktur",
+      "Szenerie"
+    ],
+    "thema": [
+      "Thema",
+      "Themas",
+      "Thematik",
+      "Thematischer"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumas",
+      "Traumgleich",
+      "Traumlogik"
+    ],
+    "unter": [
+      "Unterbewussten",
+      "Unterdrückt",
+      "Unterschied",
+      "Unterschiede"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstecken",
+      "Verstärker",
+      "Verstärkt"
+    ],
+    "welte": [
+      "Welten",
+      "Weltenmechanik",
+      "Weltenregel",
+      "Weltenwechsel"
+    ],
+    "wider": [
+      "Widersprüche",
+      "Widersprüchliches",
+      "Widerstand",
+      "Widerständigem"
+    ],
+    "alter": [
+      "Alter",
+      "Alternativen",
+      "Alters"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteilen",
+      "Anteils"
+    ],
+    "bewäl": [
+      "Bewältigungsmechanismen",
+      "Bewältigungsstrategie",
+      "Bewältigungsstrategien"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Aber",
+      "Wabernde"
+    ],
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Halle"
+    ],
+    [
+      "Alle",
+      "Allein"
+    ],
+    [
+      "Alle",
+      "Fallens"
+    ],
+    [
+      "Arch",
+      "Architekt"
+    ],
+    [
+      "Arch",
+      "Architekten"
+    ],
+    [
+      "Arch",
+      "Archäologie"
+    ],
+    [
+      "Atem",
+      "Atemlos"
+    ],
+    [
+      "Atem",
+      "Atemnot"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Einbildung"
+    ],
+    [
+      "Bild",
+      "Spiegelbild"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ]
+  ]
+}
