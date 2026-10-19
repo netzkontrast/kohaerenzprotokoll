@@ -324,7 +324,7 @@ The System-Kael guide's roster assigns Alex the TSDP role of an apparently norma
 
 ## Reading — `kohaerenz-protokoll-the-official-project-handbook`, 2026-01-02, the project handbook — the Protector-ANP of external conflict
 
-The project handbook's table of the Apparently Normal Parts lists „**Alex** | The Protector-ANP | A strategic defender who handles intellectual and social threats to the system.“ ^[kohaerenz-protokoll-the-official-project-handbook.md:L83] A table row the handbook calls canonical, recorded, not applied.
+The project handbook's table of the Apparently Normal Parts lists Alex as the Protector-ANP, a strategic defender against intellectual and social threats; the table line also holds an earlier name (decision 028) and is not cited. A table row the handbook calls canonical, recorded, not applied.
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — a protector Alter in Kap 6 and Kap 19
 
