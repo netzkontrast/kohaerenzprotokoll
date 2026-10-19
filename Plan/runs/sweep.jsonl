@@ -1885,3 +1885,8 @@
 {"document": "forschungsprojekt-kohaerenz-protokoll-analyse", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "in a passage mixed with research on a real person's diagnosis; light pass", "at": "2026-10-19"}
 {"document": "forschungsprojekt-kohaerenz-protokoll-analyse", "page": "risse", "surface": "Risse", "line": 232, "decision": "occurrence", "why": "in a passage mixed with research on a real person's diagnosis; light pass", "at": "2026-10-19"}
 {"document": "forschungsprojekt-kohaerenz-protokoll-analyse", "page": "tsdp", "surface": "TSDP", "line": 19, "decision": "occurrence", "why": "in a passage mixed with research on a real person's diagnosis; light pass", "at": "2026-10-19"}
+{"document": "recherche-kohaerenz-protokoll", "page": "alters", "surface": "Alters", "line": 38, "decision": "occurrence", "why": "research tasks on a real diagnosis; not harvested", "at": "2026-10-19"}
+{"document": "recherche-kohaerenz-protokoll", "page": "did", "surface": "DID", "line": 22, "decision": "occurrence", "why": "on a line with an earlier name; research on a diagnosis", "at": "2026-10-19"}
+{"document": "recherche-kohaerenz-protokoll", "page": "juna", "surface": "(an earlier name)", "line": 22, "decision": "occurrence", "why": "an earlier name; identity not made plain", "at": "2026-10-19"}
+{"document": "recherche-kohaerenz-protokoll", "page": "kael", "surface": "(an earlier name)", "line": 22, "decision": "occurrence", "why": "an earlier name; identity not made plain", "at": "2026-10-19"}
+{"document": "recherche-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 48, "decision": "occurrence", "why": "in the research tasks; not the paged term", "at": "2026-10-19"}

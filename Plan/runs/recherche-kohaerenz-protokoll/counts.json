@@ -1,0 +1,409 @@
+{
+  "document": "recherche-kohaerenz-protokoll",
+  "drive_id": "1aFTP-B5Hb3OBIaGpgFa4KMP0S1cyKRlvUsR-ld9LCtA",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Seelen-Kohärenz-Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        133
+      ]
+    },
+    "Roman-Blueprint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Blueprint V5": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        17,
+        78,
+        137,
+        141,
+        165
+      ]
+    },
+    "Kernbewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Partnerin": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        141
+      ]
+    },
+    "Personas": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        137
+      ]
+    },
+    "Architekt-Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Echo-Emotion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Wächter-Paranoia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Funke-Kreativität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Sucher-Wissen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        91,
+        137
+      ]
+    },
+    "Echo": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        137,
+        141
+      ]
+    },
+    "Guardians": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        17,
+        23,
+        29,
+        30,
+        59,
+        67,
+        69,
+        70,
+        79,
+        97,
+        141,
+        143,
+        151,
+        153,
+        155,
+        163,
+        169,
+        178
+      ]
+    },
+    "Systemhüter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Systemadministratoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Mnemosyne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Cerberus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kairos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Sophia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kern-Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "simulierten Welten": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        23,
+        49,
+        107,
+        147
+      ]
+    },
+    "Überwelt": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        28,
+        29,
+        108,
+        119,
+        155
+      ]
+    },
+    "Guardian-Dimension": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        108
+      ]
+    },
+    "externe Ebene": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        71,
+        78,
+        109,
+        121,
+        167
+      ]
+    },
+    "externen Ebene": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        30,
+        69,
+        87,
+        96,
+        141,
+        143,
+        163
+      ]
+    },
+    "Risse": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        28,
+        30,
+        66,
+        85,
+        107,
+        110,
+        119,
+        149
+      ]
+    },
+    "Rissen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        107
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Guardian-Eingriffe": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        28,
+        66,
+        85
+      ]
+    },
+    "Guardian-Werkzeuge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Integrations-Werkzeuge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Seele=Info": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        30,
+        67,
+        70,
+        97
+      ]
+    },
+    "Seele = Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "systemische Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "funktionalen Multiplizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        139,
+        165
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        165
+      ]
+    },
+    "Jagd auf Anteile": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        68
+      ]
+    },
+    "Suche nach der Realität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Systemfehler": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        28,
+        110
+      ]
+    },
+    "Zerbrechen der Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        155
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        28,
+        58,
+        65,
+        114,
+        119,
+        159
+      ]
+    },
+    "Heldenreise": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        30,
+        65,
+        68,
+        115,
+        121,
+        157,
+        161,
+        181
+      ]
+    },
+    "Qualia": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        69,
+        143
+      ]
+    }
+  }
+}

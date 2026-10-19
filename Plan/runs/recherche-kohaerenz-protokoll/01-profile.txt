@@ -1,0 +1,14 @@
+# recherche-kohaerenz-protokoll
+  lines                184  (frontmatter ends at 9)
+  body words           2184
+  headings             0   bold-only lines 12
+  table rows           0   code fences 0
+  question marks       31
+  backslash escapes    0
+  typographic marks    1   ascii quotes 68
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    16
+  repeated labels      Implikation für Recherche x7
+  longest line         899 chars
+

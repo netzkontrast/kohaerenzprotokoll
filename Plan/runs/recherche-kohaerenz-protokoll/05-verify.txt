@@ -1,0 +1,28 @@
+$ read.py recherche-kohaerenz-protokoll --count "Implikation für Recherche"
+`Implikation für Recherche` ^[recherche-kohaerenz-protokoll.md:#7]
+$ read.py recherche-kohaerenz-protokoll --count "Spezifische Rechercheaufgaben"
+`Spezifische Rechercheaufgaben` ^[recherche-kohaerenz-protokoll.md:#1]
+$ read.py recherche-kohaerenz-protokoll --count "Weitreichende Recherchefragen"
+`Weitreichende Recherchefragen` ^[recherche-kohaerenz-protokoll.md:#1]
+$ read.py recherche-kohaerenz-protokoll --count "Angeforderte Struktur"
+`Angeforderte Struktur` ^[recherche-kohaerenz-protokoll.md:#1]
+$ read.py recherche-kohaerenz-protokoll --count "Rechercheauftrag"
+`Rechercheauftrag` ^[recherche-kohaerenz-protokoll.md:#2]
+$ read.py recherche-kohaerenz-protokoll --count "Kapitel"
+`Kapitel` ^[recherche-kohaerenz-protokoll.md:#2]
+$ read.py recherche-kohaerenz-protokoll --count "Kap"
+`Kap` ^[recherche-kohaerenz-protokoll.md:#0]
+$ read.py recherche-kohaerenz-protokoll --count "AEGIS"
+`AEGIS` ^[recherche-kohaerenz-protokoll.md:#0]
+$ read.py recherche-kohaerenz-protokoll --count "Kael"
+`Kael` ^[recherche-kohaerenz-protokoll.md:#0]
+$ read.py recherche-kohaerenz-protokoll --count "Juna"
+`Juna` ^[recherche-kohaerenz-protokoll.md:#0]
+$ read.py recherche-kohaerenz-protokoll --count "Nyx"
+`Nyx` ^[recherche-kohaerenz-protokoll.md:#0]
+$ stance_marker_count 7+1+1+1 = 10
+$ grep -c "?" (profile: question marks 31)
+31
+$ profile: glued ref numbers 16; ascii quotes 68 (01-profile.txt)
+$ census: sections I-X
+10

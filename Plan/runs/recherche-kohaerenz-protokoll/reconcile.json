@@ -1,0 +1,187 @@
+{
+  "document": "recherche-kohaerenz-protokoll",
+  "drive_id": "1aFTP-B5Hb3OBIaGpgFa4KMP0S1cyKRlvUsR-ld9LCtA",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-543/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 45,
+    "decisions": 46,
+    "decided_by_lookup": 35,
+    "needs_judgement": 11
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research commission that restates the V5 blueprint and asks for a changed concept: its restatement of the Guardians, personas, Partnerin, cracks, Kern-Welten and multiplicity, the Überwelt as the Guardians' dimension and the external level went on existing pages.",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Cerberus among the Guardians of the restated blueprint"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        71,
+        167,
+        169
+      ],
+      "attribution": "",
+      "note": "the unknown beyond the system"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        17,
+        151,
+        169
+      ],
+      "attribution": "",
+      "note": "system keepers blind to the true cause, framed as misguided therapists"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Kairos among the Guardians of the restated blueprint"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "four worlds as persona aspects"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "LogOS among the Guardians of the restated blueprint"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Mnemosyne among the Guardians of the restated blueprint"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "reintegration of the Partnerin to functional multiplicity"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "the split-off part whose absence the Guardians do not understand"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "five personas by function"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "a flawed simulation with cracks and glitches"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "Sophia among the Guardians of the restated blueprint"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        108
+      ],
+      "attribution": "",
+      "note": "the Guardians' dimension"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the five Guardians read by name; the persona compounds and the singular `Wächter` are no paged terms; the two main figures stand only under earlier names and the commission does not make the identity plain, so kael and juna get no reading; the research tasks on a real diagnosis are not harvested, so alters and did get none; the 37 lines holding an earlier name are not cited",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 38,
+      "decision": "occurrence",
+      "why": "research tasks on a real diagnosis; not harvested"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "on a line with an earlier name; research on a diagnosis"
+    },
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "an earlier name; identity not made plain"
+    },
+    {
+      "page": "kael",
+      "surface": "(an earlier name)",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "an earlier name; identity not made plain"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 48,
+      "decision": "occurrence",
+      "why": "in the research tasks; not the paged term"
+    }
+  ],
+  "not_promoted": [
+    "the six levels, the persona compounds, Seele=Info, Integrations-Werkzeuge, the commission's sections, the lenses"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
