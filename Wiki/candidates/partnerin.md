@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 20
-readings: 20
+sources: 21
+readings: 21
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll", "im-finale-wendet-sich-fuer-persona-der-partnerin-z"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll", "im-finale-wendet-sich-fuer-persona-der-partnerin-z", "parakonsistente-logik-im-seelen-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -72,6 +72,10 @@ The narrative plot summary (V4) calls the Partnerin „Eine mysteriöse Konstant
 The reply gives `Partnerin` as the name for Julia in the frame of its premise (L29) and ties it to the connection AEGIS cannot grasp: „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46], written with the word in parentheses and straight quotes (L46). It writes of `Partnerin-Echos`, which it calls „subtile Manifestationen der Präsenz/Abwesenheit Julias“ ^[welten.md:L77] or of the K-J connection.
 
 In the Guardians' list it makes the Partnerin the missing piece of Sophia's picture: she synthesises the other Guardians' data, but „ohne das entscheidende fehlende Puzzlestück“ ^[welten.md:L69] (the true nature of the Partnerin or K-J connection) she reaches an incomplete or wrong overall picture, „kommt sie dennoch zu einem unvollständigen oder falschen Gesamtbild“ ^[welten.md:L69].
+
+## Reading — `parakonsistente-logik-im-seelen-protokoll`, 2025-04-21, the paraconsistent-logic report — the anomaly the system cannot classify
+
+The paraconsistent-logic report proposes an explanation for „das Unvermögen der Guardians, die Partnerin zu erkennen oder zu verarbeiten“ ^[parakonsistente-logik-im-seelen-protokoll.md:L228]. In the C-system view, „Die Partnerin könnte einen Widerspruch A∧¬A verkörpern“ ^[parakonsistente-logik-im-seelen-protokoll.md:L233]. A report's proposal, not canon.
 
 ## Reading — `monstergruppe-babygruppe-und-kael`, 2025-04-23, the Monster-group analogy report — Juna named as Kael's Partnerin
 
