@@ -1,6 +1,6 @@
 ---
 source: Sources/drive/sf-roman-eroeffnung-fesselnde-techniken-analysiert.md
-read: "2026-10-19, the whole document (L1 to L250) through read.py with line numbers; a document-reader subagent (Sonnet 5.5)"
+read: "2026-10-19, the whole document (L1 to L250) through read.py with line numbers; a document-reader subagent (Sonnet)"
 stance_markers: ["Anti-Muster", "Was passieren muss", "Ein konkreter Vorschlag", "Anwendung auf den Roman"]
 stance_marker_count: 7
 reads_as: "an analysis of opening techniques of other works, with an application to the novel's concept document and a drafted sample opening scene"

@@ -1,5 +1,5 @@
 ---
-written_by: document-reader subagent (Sonnet 5.5), 2026-10-19, while reading, before any count
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
 ---
 
 # Candidates — written while reading

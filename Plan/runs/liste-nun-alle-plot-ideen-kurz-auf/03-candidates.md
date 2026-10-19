@@ -1,4 +1,4 @@
-written_by: document-reader subagent (Sonnet 5.5), 2026-10-19, while reading, before any count
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
 
 Observations. The document is a plot blueprint in three parts (L17 to L206), written in the voice of an assistant presenting a concept; no personal or autobiographical material is present. Personas are named by role (Architekt, Echo, Wächter, Funke, Sucher) and the document does not give them the names of the novel's figures; no identity with Kael, Juna or Nyx is made plain. The recurring helper, called Partnerin, is named by role only.
 

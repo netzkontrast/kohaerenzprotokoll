@@ -1,6 +1,6 @@
 ---
 source: Sources/drive/kohaerenz-protokoll-plot-entwurf.md
-read: "2026-10-19, the whole document (L10 to L483) through read.py with line numbers; a document-reader subagent (Sonnet 5.5)"
+read: "2026-10-19, the whole document (L10 to L483) through read.py with line numbers; a document-reader subagent (Sonnet)"
 stance_markers: ["Plot-Ereignis(se)", "Konzeptionelle Klärung", "Charakter-/System-Entwicklung", "Welt-Interaktion", "Thematischer Fokus", "Narrative Funktion"]
 stance_marker_count: 97
 reads_as: "a German plot blueprint for the novel: answers to numbered core questions, an outline of 39 plot steps in three parts filled with six repeated fields, and a synthesis of arcs, themes and world logic; the outline is partly given as examples and condensed ranges"

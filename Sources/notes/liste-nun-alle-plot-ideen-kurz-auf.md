@@ -1,6 +1,6 @@
 ---
 source: Sources/drive/liste-nun-alle-plot-ideen-kurz-auf.md
-read: "2026-10-19, the whole document (L1 to L207) through read.py with line numbers; by a document-reader subagent (Sonnet 5.5)"
+read: "2026-10-19, the whole document (L1 to L207) through read.py with line numbers; by a document-reader subagent (Sonnet)"
 stance_markers: ["Plot", "Narrative Aufgabe", "Metaphorik", "Akteure"]
 stance_marker_count: 35
 reads_as: "a plot blueprint in three parts, written as a proposal with provisional title, field labels under every episode, and open guesses marked with question marks"
