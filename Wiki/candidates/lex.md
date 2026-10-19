@@ -617,7 +617,7 @@ The storyform exegesis reads tertiary dissociation in Kael's system as consistin
 
 ## Reading — `kohaerenz-protokoll-the-official-project-handbook`, 2026-01-02, the project handbook — the Rationalist, mirror of AEGIS, in KW1
 
-The project handbook's table of the Apparently Normal Parts lists „**Lex** | The Rationalist | The "System Administrator," obsessed with logic and patterns.“ ^[kohaerenz-protokoll-the-official-project-handbook.md:L83] A table row the handbook calls canonical, recorded, not applied.
+The project handbook's table of the Apparently Normal Parts lists Lex as the Rationalist, the system administrator, obsessed with logic and patterns; the table line also holds an earlier name (decision 028) and is not cited. A table row the handbook calls canonical, recorded, not applied.
 
 ## Reading — `roman-plot-entwicklung-mit-kohaerenzprotokoll`, 2026-02-23, the master blueprint — the analyst Alter and where he acts in the plan
 
