@@ -390,7 +390,7 @@ The complexity report describes „ein hochentwickeltes System namens AEGIS“ ^
 
 ## Reading — `dialetheismus-im-kohaerenz-protokoll`, 2025-04-21, the dialetheism report — two hypotheses on contradiction
 
-The dialetheism report frames two hypotheses: „Hypothese A: AEGIS operiert dialetheisch/parakonsistent.“ ^[dialetheismus-im-kohaerenz-protokoll.md:L177] and „Hypothese B: AEGIS als anti-dialetheisches (klassisches) System unter Stress“ ^[dialetheismus-im-kohaerenz-protokoll.md:L187]. Under B „AEGIS wird zu einer potenziell tragischen Figur“ ^[dialetheismus-im-kohaerenz-protokoll.md:L193]. It reads the core directive „"Sein durch Abgrenzung/Nicht-Widerspruch"“ ^[dialetheismus-im-kohaerenz-protokoll.md:L191] both ways, and leaves the choice open, preferring A or a hybrid if AEGIS's inner complexity is to lead. Hypotheses, not canon.
+The dialetheism report frames two hypotheses: „Hypothese A: AEGIS operiert dialetheisch/parakonsistent.“ ^[dialetheismus-im-kohaerenz-protokoll.md:L177] and „Hypothese B: AEGIS als anti-dialetheisches (klassisches) System unter Stress“ ^[dialetheismus-im-kohaerenz-protokoll.md:L187]. Under B „AEGIS wird zu einer potenziell tragischen Figur“ ^[dialetheismus-im-kohaerenz-protokoll.md:L193]. It reads the core directive — „Die Kerndirektive "Sein durch Abgrenzung/Nicht-Widerspruch" ist ein zentraler Ankerpunkt“ ^[dialetheismus-im-kohaerenz-protokoll.md:L197] — both ways, and leaves the choice open, preferring A or a hybrid if AEGIS's inner complexity is to lead. Hypotheses, not canon.
 
 ## Reading — `parakonsistente-logik-fuer-kohaerenz-protokoll`, 2025-04-21, the paraconsistency report — a paraconsistent system, or a classical one under stress
 
