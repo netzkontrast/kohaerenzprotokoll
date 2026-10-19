@@ -1929,3 +1929,5 @@
 {"document": "ki-roman-assistent-web-app-entwurf", "page": "multiplizitaet", "surface": "Multiplizität", "line": 147, "decision": "occurrence", "why": "interface vocabulary of a software design, or a barred line", "at": "2026-10-19"}
 {"document": "ki-roman-assistent-web-app-entwurf", "page": "risse", "surface": "Risse", "line": 63, "decision": "occurrence", "why": "interface vocabulary of a software design, or a barred line", "at": "2026-10-19"}
 {"document": "ki-roman-assistent-web-app-entwurf", "page": "ueberwelt", "surface": "Simulation", "line": 29, "decision": "occurrence", "why": "interface vocabulary of a software design, or a barred line", "at": "2026-10-19"}
+{"document": "projekt-kohaerenz-protokoll-tiefenanalyse", "page": "did", "surface": "DID", "line": 935, "decision": "occurrence", "why": "the reference list, not harvested", "at": "2026-10-19"}
+{"document": "projekt-kohaerenz-protokoll-tiefenanalyse", "page": "kohaerenz", "surface": "Kohärenz", "line": 3, "decision": "occurrence", "why": "the document's title", "at": "2026-10-19"}
