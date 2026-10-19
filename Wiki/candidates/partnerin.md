@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu"]
 gathered: "2026-09-17"
 ---
 
@@ -42,6 +42,10 @@ requiring reintegration — which is precisely what Mnemosyne cannot see ^[guard
 
 This is the document's stated purpose ^[guardians-und-kern-welten-konzept.md:L17] and its closing claim ^[guardians-und-kern-welten-konzept.md:L137]. The
 five blindnesses are five different failures to perceive one thing.
+
+## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the partner figure as anchor, mystery and the bond the ending lives
+
+The plot summary (V4) makes the partner figure the thread of its earlier plot idea. In every Part-1 episode „ist auch die **Partnerin** präsent, angepasst an die jeweilige Realität“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L23], and „Sie fungiert als emotionaler Anker“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L23]. At the end of Part 1 „Die Verbindung zur Partnerin wird dabei scheinbar getrennt oder massiv gestört.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L26] In Part 2 the Guardians find no data and treat her „als irrelevante Anomalie oder subjektive Projektion“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L38]. In Part 3 „Die Partnerin taucht wieder auf, aber die Verbindung ist gestört.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L49]; after the revelation „Die Partnerin scheint dieser Logik nicht zu unterliegen.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L50] The final integration finds a way „die **transzendente Verbindung zur Partnerin bewusst zu leben und zu integrieren**“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L54]. The closing line calls her „die Partnerin-Figur als durchgehender roter Faden und Katalysator“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L59]. Proposals of a plan, not canon.
 
 ## Reading — `welten`, 2025-04-20, the world-concept reply — the Partnerin as Julia, and the piece Sophia lacks
 
