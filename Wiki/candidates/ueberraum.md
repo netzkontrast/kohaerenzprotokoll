@@ -1,10 +1,10 @@
 ---
 term: Überraum
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf"]
 gathered: "2026-09-17"
 ---
 
@@ -49,6 +49,10 @@ The plot summary (V4) ends its Part 1 at a system failure that „löst einen Al
 ## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — the system alarm in the Überraum ends Part 1
 
 The plot-points list (V4) ends Part 1 with „System-Alarm im Überraum.“ ^[plotpunkte-liste.md:L25] and names Part 2 „Intervention aus dem Überraum“ ^[plotpunkte-liste.md:L27]. A plan's plot points, not canon.
+
+## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — the meta-reality where the alarm sounds and the Guardians act
+
+The plot blueprint (V3) names a „Meta-Realität ("Überraum")“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L22]. Its Meta-Narrator „agiert ggf. als Interface zum Überraum“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L26]. At the break: „Alarm im Überraum.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L146] Part 2 is titled „Intervention aus dem Überraum“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L152]. A plan's proposals, not canon.
 
 ## Open
 
