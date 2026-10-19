@@ -1,0 +1,295 @@
+{
+  "document": "roman-plot-konzept-kohaerenz-protokoll",
+  "drive_id": "1T1wN6pLkvn50-3e2Wh0fiXME6sHNLHKVlEXJYZlmnx0",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 61,
+  "backslash_escapes": 110,
+  "typographic_marks": 21,
+  "ascii_quotes": 240,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdegradation",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systemintegrität",
+      "Systemische",
+      "Systemkrise",
+      "Systems",
+      "Systemtheorie",
+      "Systemversagen",
+      "Systemversagens",
+      "Systemverwalter"
+    ],
+    "grenz": [
+      "Grenzanpassungen",
+      "Grenze",
+      "Grenzen",
+      "Grenzerhaltung",
+      "Grenzfilter",
+      "Grenzingrität",
+      "Grenzkontrolle",
+      "Grenzverhandlungen",
+      "Grenzverteidigung",
+      "Grenzziehung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbesitz",
+      "Selbstdefinition",
+      "Selbsterhaltung",
+      "Selbsterhaltungsinstinkten",
+      "Selbstkohärenz",
+      "Selbstkonservierung",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbsttranszendenz"
+    ],
+    "infor": [
+      "Informanten",
+      "Informationen",
+      "Informationsfluss",
+      "Informationsflüsse",
+      "Informationslöschung",
+      "Informationsstrukturen",
+      "Informationstheorie",
+      "Informationsverarbeitung"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrolle",
+      "Kontrollfähigkeiten",
+      "Kontrollmaßnahmen",
+      "Kontrollmethoden",
+      "Kontrollsystem",
+      "Kontrollsystems",
+      "Kontrollversuche"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmas",
+      "Paradigmen",
+      "Paradoxal",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsprozess",
+      "Integrationsreise",
+      "Integrationsschritt",
+      "Integrationsversuche",
+      "Integrierte"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmuster",
+      "Interpretationen",
+      "Interpretiert",
+      "Interventionen"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsdefinition",
+      "Realitätsdegradation",
+      "Realitätsebene",
+      "Realitätsgraden",
+      "Realitätsmodell"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchsfreiheit",
+      "Widersprüche",
+      "Widersprüchen",
+      "Widerstand",
+      "Widerstandsfähigkeit"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysebarkeit",
+      "Analysefähigkeit",
+      "Analysefähigkeiten",
+      "Analysewerkzeuge"
+    ],
+    "beoba": [
+      "Beobachtern",
+      "Beobachtet",
+      "Beobachtung",
+      "Beobachtungen",
+      "Beobachtungsprotokolle"
+    ],
+    "chara": [
+      "Charakterbögen",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterentwicklungsbögen",
+      "Charakteristika"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle",
+      "Konzeptionelles"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzielle"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolls",
+      "Protokollschichten"
+    ],
+    "verst": [
+      "Verstehen",
+      "Verständnis",
+      "Verständnisse",
+      "Verständnisses",
+      "Verstärkung"
+    ],
+    "ander": [
+      "Andere",
+      "Anderem",
+      "Anderen",
+      "Anderes"
+    ],
+    "aspek": [
+      "Aspekt",
+      "Aspekte",
+      "Aspekten",
+      "Aspekts"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsweise"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsdynamik",
+      "Handlungsfähigkeit"
+    ],
+    "kernp": [
+      "Kernparadigma",
+      "Kernplot",
+      "Kernprinzip",
+      "Kernprinzipien"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikten",
+      "Konflikts"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungsformen",
+      "Ordnungsmuster",
+      "Ordnungsprinzipien"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesse",
+      "Prozesses",
+      "Prozessphilosophie"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Ende",
+      "Wachsendes"
+    ],
+    [
+      "Ende",
+      "Definierende"
+    ],
+    [
+      "Ende",
+      "Transzendent"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Hilfesuchenden"
+    ],
+    [
+      "Ende",
+      "Selbsttranszendenz"
+    ],
+    [
+      "Erde",
+      "Werden"
+    ],
+    [
+      "Erde",
+      "Verdeutlichung"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Informanten"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Kohärenzformen"
+    ],
+    [
+      "Form",
+      "Ordnungsformen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Informationsfluss"
+    ],
+    [
+      "Form",
+      "Informationsflüsse"
+    ],
+    [
+      "Form",
+      "Informationstheorie"
+    ]
+  ]
+}

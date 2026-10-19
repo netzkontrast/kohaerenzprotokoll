@@ -1,0 +1,94 @@
+# counts for 77 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           171 word   177 in   [15, 19, 20, 21, 23, 27]
+                                    1      as AEGIS-Kontrollsystems
+                                    1      as AEGIS-Erzählung
+                                    1      as AEGIS-Sein
+                                    1      as AEGIS-Werkzeuge
+  Kaels                            44 word    44 in   [15, 19, 21, 27, 29, 30]
+  Kael-Problem                      1 word     1 in   [39]
+  Guardians                        20 word    20 in   [20, 27, 30, 32, 33, 37]
+  Guardian                          3 word    25 in   [20, 27, 29, 30, 31, 32]  <-- substring
+                                   20      as Guardians
+  Logik-Guardian                    1 word     1 in   [41]
+  Gedächtnis-Guardian               1 word     1 in   [41]
+  Überwelt                         17 word    17 in   [23, 31, 39, 43, 50, 65]
+  Kernwelten                       20 word    20 in   [23, 27, 29, 31, 32, 33]
+  Potentialmeer                    20 word    23 in   [15, 39, 53, 61, 65, 66]
+                                    3      as Potentialmeers
+  Kohärenz-Inseln                   5 word     5 in   [61, 66, 96, 205, 208]
+  Insel massiver Kohärenz           1 word     1 in   [15]
+  Risse                            15 word    18 in   [19, 27, 31, 32, 39, 41]
+                                    2      as Rissen
+                                    1      as Risses
+  Welle von Unmöglichkeit           3 word     3 in   [37, 39, 100]
+  Welle der Unmöglichkeit           3 word     3 in   [88, 227, 248]
+  Welle                            17 word    17 in   [37, 39, 40, 41, 88, 100]
+  Reinitialisierung                 5 word     6 in   [40, 42, 110, 227]
+  Protokoll v1.5                   12 word    12 in   [15, 30, 47, 50, 85, 98]
+  v1.5                             33 word    33 in   [15, 21, 30, 47, 50, 51]
+  v1.4                              2 word     2 in   [201, 226]
+  Beobachtungsprotokolle            2 word     2 in   [30, 85]
+  OBP                               2 word     2 in   [30, 39]
+  Cognitive Firewall                2 word     2 in   [30, 39]
+  PMAS                              1 word     1 in   [40]
+  Instrumente der Ordnung           2 word     2 in   [49, 142]
+  Gleichzeitigkeit                 15 word    15 in   [15, 47, 52, 53, 186, 190]
+  Einsamkeit                       13 word    13 in   [47, 51, 52, 133, 152, 180]
+  Heldinnenreise                    3 word     3 in   [19, 25]
+  Heldenreise                       3 word     3 in   [21, 45, 47]
+  Metaebene                         2 word     2 in   [20, 35]
+  Anteile                           2 word     6 in   [29, 49, 50, 123, 142, 172]  <-- substring
+                                    4      as Anteilen
+  Alters                            2 word     2 in   [29, 31]
+  DID                               3 word     4 in   [29, 51, 77, 202]
+  Dissoziative Identitätsstruktur    1 word     1 in   [77]
+  K-J-Verbindung                    9 word     9 in   [30, 31, 51, 52, 76, 105]
+  K-J-Paradoxon                     3 word     4 in   [31, 39, 42, 104]
+                                    1      as K-J-Paradoxons
+  K-J-Bindung                       3 word     3 in   [39, 68]
+  K-J-Kohärenz                      3 word     3 in   [51, 153]
+  K-J-Anomalie                      1 word     1 in   [171]
+  Externe Ebene                     1 word     1 in   [92]
+  Bibliothek der Kohärenz           1 word     1 in   [67]
+  informationale Topologie          1 word     1 in   [106]
+  Kern-Triade                       2 word     2 in   [13, 264]
+  Zerlegung in Teilsysteme          1 word     1 in   [29]
+  Kaskade von Inkohärenz            1 word     1 in   [104]
+  externe Suche                     2 word     2 in   [42]
+  Entropie                         15 word    15 in   [15, 29, 30, 39, 52, 67]
+  Inhärente Entropie                1 word     1 in   [72]
+  Wandel zu Hilfesuchenden          1 word     1 in   [41]
+  wertvolles Strukturvorgehen der selbst-Kohärenz    1 word     1 in   [50]
+  Kohärenz-Typ                      1 word     2 in   [194, 200]
+                                    1      as Kohärenz-Typen
+  konstruierte Realität             1 word     1 in   [39]
+  informationelle Filterung         1 word     1 in   [258]
+  hierarchischen Protokollschichten    1 word     1 in   [258]
+  hierarchischer Kontrolle          1 word     1 in   [41]
+  informationalen Chaos             1 word     1 in   [39]
+  Punkt ohne Wiederkehr             1 word     1 in   [33]
+  Ontologie                         4 word     4 in   [59, 87, 202, 266]
+  Autopoiesis                       6 word     6 in   [23, 39, 40, 106, 201, 266]
+  Komplexen Adaptiven Systemen      1 word     1 in   [23]
+  Komplexes Adaptives System        1 word     1 in   [40]
+  CAS                               4 word     5 in   [23, 40, 50, 124]
+  Informationstheorie               2 word     2 in   [23, 266]
+  Kolmogorov-Komplexität            1 word     1 in   [23]
+  Landauer-Prinzip                  4 word     5 in   [23, 31, 171, 260]
+                                    1      as Landauer-Prinzips
+  Kybernetik zweiter Ordnung        1 word     1 in   [23]
+  Environmental Storytelling        5 word     5 in   [23, 29, 240, 254, 266]
+  EST                               6 word     7 in   [23, 29, 31, 39, 191, 240]
+  It from Bit                       2 word     2 in   [65, 206]
+  Prozessphilosophie                2 word     2 in   [65, 204]
+  dissipativen Strukturen           1 word     1 in   [66]
+  Attraktoren                       2 word     2 in   [66, 205]
+  informationalen Phasenübergang    1 word     1 in   [65]
+  kognitive Dissonanz               2 word     2 in   [41, 161]
+  Selbstorganisation                3 word     3 in   [76, 203]
+  Dunamis                           3 word     3 in   [65, 190, 206]
+  Relationale Ontologie             1 word     1 in   [202]

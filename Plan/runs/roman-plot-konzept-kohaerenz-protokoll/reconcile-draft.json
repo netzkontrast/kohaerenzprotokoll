@@ -1,0 +1,200 @@
+{
+  "document": "roman-plot-konzept-kohaerenz-protokoll",
+  "drive_id": "1T1wN6pLkvn50-3e2Wh0fiXME6sHNLHKVlEXJYZlmnx0",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 77,
+    "decisions": 77,
+    "decided_by_lookup": 59,
+    "needs_judgement": 18
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "the boundary filters overwhelmed by the Welle"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        40,
+        50,
+        114,
+        181,
+        226
+      ],
+      "attribution": "",
+      "note": "reinitialisation in the crisis, pattern learning for v1.5, purpose only self-preservation"
+    },
+    {
+      "page": "did",
+      "lines": [
+        51,
+        77
+      ],
+      "attribution": "",
+      "note": "DID symptoms receding with integration; the structure as a symptom"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        65
+      ],
+      "attribution": "",
+      "note": "the Potentialmeer's rules as flow and emergence"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        76,
+        201
+      ],
+      "attribution": "",
+      "note": "Kael's entropy as qualitative complexity"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        20,
+        32,
+        172
+      ],
+      "attribution": "",
+      "note": "enforcers and doubters for whom the cracks prove failure"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        32,
+        47,
+        51,
+        52
+      ],
+      "attribution": "",
+      "note": "taking control of integration, then loneliness and the confrontation with v1.5"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        248
+      ],
+      "attribution": "",
+      "note": "oppressive constructs that crack and are devastated by the Welle"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        65,
+        66,
+        106,
+        250
+      ],
+      "attribution": "",
+      "note": "a plenum of contradictory possibilities, threat and final goal"
+    },
+    {
+      "page": "protokoll-v14",
+      "lines": [
+        201,
+        226
+      ],
+      "attribution": "",
+      "note": "AEGIS's established protocols in Part 1"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        170,
+        259
+      ],
+      "attribution": "",
+      "note": "fractures that reveal the world's artificiality"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        132,
+        249
+      ],
+      "attribution": "",
+      "note": "AEGIS's ordered domain, flooded in the Welle"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 65,
+      "decision": "reading",
+      "why": "the Potentialmeer's rules as flow and emergence; read on the page"
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "a tag citing an outside text"
+    },
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 68,
+      "decision": "occurrence",
+      "why": "an earlier name; the concept does not make the identity plain"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 15,
+      "decision": "reading",
+      "why": "read on kael from lines without an earlier name"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 96,
+      "decision": "occurrence",
+      "why": "on a line with an earlier name; not cited"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

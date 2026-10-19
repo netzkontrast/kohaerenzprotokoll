@@ -1,0 +1,93 @@
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "vielleicht"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`vielleicht` ^[roman-plot-konzept-kohaerenz-protokoll.md:#17]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "möglicherweise"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`möglicherweise` ^[roman-plot-konzept-kohaerenz-protokoll.md:#15]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "wahrscheinlich"
+whole word, case-sensitive     5
+whole word, case-insensitive   6
+including compounds            5
+
+`wahrscheinlich` ^[roman-plot-konzept-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "könnte"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            23
+
+`könnte` ^[roman-plot-konzept-kohaerenz-protokoll.md:#18]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[roman-plot-konzept-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[roman-plot-konzept-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[roman-plot-konzept-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[roman-plot-konzept-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[roman-plot-konzept-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[roman-plot-konzept-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Schritte"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            23
+
+`Schritte` ^[roman-plot-konzept-kohaerenz-protokoll.md:#22]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Blueprint"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Blueprint` ^[roman-plot-konzept-kohaerenz-protokoll.md:#1]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Kernwelten"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Kernwelten` ^[roman-plot-konzept-kohaerenz-protokoll.md:#20]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Guardians` ^[roman-plot-konzept-kohaerenz-protokoll.md:#20]
+$ python3 scripts/read.py roman-plot-konzept-kohaerenz-protokoll --count "Teil"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            52
+
+`Teil` ^[roman-plot-konzept-kohaerenz-protokoll.md:#41]
+$ stance_marker_count = 17 + 15 + 5 + 18 (vielleicht, möglicherweise, wahrscheinlich, könnte; case-sensitive whole word) = 55
+$ grep -oP -- "(?<![\w-])Kael(?![\w-])" document | wc -l   (bare name, deliberately not a candidate: compounds with an earlier name would print)
+57

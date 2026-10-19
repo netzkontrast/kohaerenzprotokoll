@@ -1863,3 +1863,9 @@
 {"document": "kohaerenz-protokoll-plot-entwurf", "page": "juna", "surface": "(an earlier name)", "line": 31, "decision": "occurrence", "why": "an earlier name; the draft does not make the identity plain", "at": "2026-10-19"}
 {"document": "kohaerenz-protokoll-plot-entwurf", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title (J9)", "at": "2026-10-19"}
 {"document": "kohaerenz-protokoll-plot-entwurf", "page": "realitaetsebenen", "surface": "Realitätsebenen", "line": 15, "decision": "occurrence", "why": "on a line with an earlier name; not cited", "at": "2026-10-19"}
+{"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "emergenz", "surface": "Emergenz", "line": 65, "decision": "reading", "why": "the Potentialmeer's rules as flow and emergence; read on the page", "at": "2026-10-19"}
+{"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "genesis", "surface": "Genesis", "line": 15, "decision": "occurrence", "why": "a tag citing an outside text", "at": "2026-10-19"}
+{"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "juna", "surface": "(an earlier name)", "line": 68, "decision": "occurrence", "why": "an earlier name; the concept does not make the identity plain", "at": "2026-10-19"}
+{"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "kael", "surface": "Kael", "line": 15, "decision": "reading", "why": "read on kael from lines without an earlier name", "at": "2026-10-19"}
+{"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title (J9)", "at": "2026-10-19"}
+{"document": "roman-plot-konzept-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 96, "decision": "occurrence", "why": "on a line with an earlier name; not cited", "at": "2026-10-19"}
