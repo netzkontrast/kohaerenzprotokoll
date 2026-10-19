@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll", "im-finale-wendet-sich-fuer-persona-der-partnerin-z"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -74,6 +74,10 @@ The soul blueprint (V5) requires that „Die fünf Kern-Personas (Architekt, Ech
 ## Reading — `recherche-kohaerenz-protokoll`, 2025-04-17, the research commission — five personas by function
 
 The research commission restates multiple „"Personas" (Architekt-Logik, Echo-Emotion, Wächter-Paranoia, Funke-Kreativität, Sucher-Wissen)“ ^[recherche-kohaerenz-protokoll.md:L17]. A restated plan, not canon.
+
+## Reading — `im-finale-wendet-sich-fuer-persona-der-partnerin-z`, 2025-04-17, the narrative plot summary (V4) — facets of one core consciousness who turn inward
+
+The narrative plot summary (V4) describes a core consciousness fragmented into „die "Personas" (wie der logische Architekt, das emotionale Echo, der paranoide Wächter, der kreative Funke, der suchende Sucher)“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L19]. In Part 1 „die Personas erkennen nicht, dass sie Facetten derselben "Person" sind“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L23]. In Part 2 they learn „Sie sind Teile eines fragmentierten Kerns in einer Simulation“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L27]. In the finale „wenden sich die Personas nach innen“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L31]. A summary of a plan, not canon.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
