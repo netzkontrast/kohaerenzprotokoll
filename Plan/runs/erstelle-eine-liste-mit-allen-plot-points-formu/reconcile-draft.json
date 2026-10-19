@@ -1,0 +1,190 @@
+{
+  "document": "erstelle-eine-liste-mit-allen-plot-points-formu",
+  "drive_id": "1kSyY4U4DkPHoYfpHzr6REwfBCCFBbc0CVh6Oq80L5C8",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 41,
+    "decisions": 47,
+    "decided_by_lookup": 28,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        24,
+        36
+      ],
+      "attribution": "",
+      "note": "Cerberus among the five Guardians of an earlier plot idea"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        30,
+        35,
+        38,
+        39,
+        51
+      ],
+      "attribution": "",
+      "note": "the Guardians analyse the crisis from the Überraum and equip the personas"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        24,
+        36
+      ],
+      "attribution": "",
+      "note": "Kairos among the five Guardians of an earlier plot idea"
+    },
+    {
+      "page": "kohaerenz-programm",
+      "lines": [
+        17,
+        35
+      ],
+      "attribution": "",
+      "note": "the Seelen-Kohärenz-Programm destabilised by the fragmentation"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        24,
+        36
+      ],
+      "attribution": "",
+      "note": "LogOS among the five Guardians of an earlier plot idea"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        24,
+        36
+      ],
+      "attribution": "",
+      "note": "Mnemosyne among the five Guardians of an earlier plot idea"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        30,
+        54,
+        55
+      ],
+      "attribution": "",
+      "note": "the plan's ending as stable, functional multiplicity"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "the Überraum glossed as Nexus"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        23,
+        26,
+        38,
+        49,
+        50,
+        54,
+        59
+      ],
+      "attribution": "",
+      "note": "the partner figure as anchor, mystery and the bond the ending lives"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        17,
+        21,
+        22,
+        37,
+        48,
+        54
+      ],
+      "attribution": "",
+      "note": "the five core personas of a fragmented core consciousness"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        17,
+        25,
+        35,
+        52,
+        53
+      ],
+      "attribution": "",
+      "note": "cracks caused by the fragmentation, and by the hunt for the outside"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        24,
+        36
+      ],
+      "attribution": "",
+      "note": "Sophia among the five Guardians of an earlier plot idea"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        26,
+        30
+      ],
+      "attribution": "",
+      "note": "the Überraum as meta-reality where the alarm sounds"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 39,
+      "decision": "occurrence",
+      "why": "„interne Kohärenz“ of the Guardians' tools, not the page's term (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the summary's address line; the premise's simulation is not named Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

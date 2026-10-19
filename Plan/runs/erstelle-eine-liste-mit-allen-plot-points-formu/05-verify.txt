@@ -1,0 +1,22 @@
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Konzept` ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:#3]
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Handlung` ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:#2]
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Guardians` ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:#13]
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            20
+
+`Partnerin` ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:#18]
+
+stance_marker_count = Konzept (3) + Handlung (2) = 5 (sum of the two counts above)

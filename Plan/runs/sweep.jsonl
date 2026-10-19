@@ -1842,3 +1842,5 @@
 {"document": "kapitel-13-momente", "page": "juna", "surface": "(an earlier name)", "line": 30, "decision": "occurrence", "why": "an earlier name; Juna is read from the compounds", "at": "2026-10-16"}
 {"document": "kapitel-13-momente", "page": "kohaerenz", "surface": "Kohärenz", "line": 31, "decision": "occurrence", "why": "a moment of inner coherence, not the page's term", "at": "2026-10-16"}
 {"document": "kapitel-13-momente", "page": "protokoll-v14", "surface": "Protokoll v1.4", "line": 44, "decision": "reading", "why": "the failed protocol before the reboot; read on the page", "at": "2026-10-16"}
+{"document": "erstelle-eine-liste-mit-allen-plot-points-formu", "page": "kohaerenz", "surface": "Kohärenz", "line": 39, "decision": "occurrence", "why": "„interne Kohärenz“ of the Guardians' tools, not the page's term (J9)", "at": "2026-10-19"}
+{"document": "erstelle-eine-liste-mit-allen-plot-points-formu", "page": "ueberwelt", "surface": "Simulation", "line": 11, "decision": "occurrence", "why": "the summary's address line; the premise's simulation is not named Überwelt", "at": "2026-10-19"}
