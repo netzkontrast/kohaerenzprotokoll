@@ -1,10 +1,10 @@
 ---
 term: Überraum
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "im-finale-wendet-sich-fuer-persona-der-partnerin-z"]
 gathered: "2026-09-17"
 ---
 
@@ -57,6 +57,10 @@ The plot blueprint (V3) names a „Meta-Realität ("Überraum")“ ^[liste-nun-a
 ## Reading — `roman-blueprint-seelen-kohaerenz-protokoll`, 2025-04-17, the soul blueprint (V5) — the Überraum as the Guardians' domain
 
 The soul blueprint (V5) places the Guardians in „Nexus / Überraum“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L152] and Part 2 in the „*Teil 2: Analyse im Überraum (Nexus):*“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L130], „Eine Ebene "hinter" oder "über" den Kern-Welten.“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L168] A plan's proposals, not canon.
+
+## Reading — `im-finale-wendet-sich-fuer-persona-der-partnerin-z`, 2025-04-17, the narrative plot summary (V4) — the Guardians' vantage and the scene of Part 2
+
+The narrative plot summary (V4) has the assigned Guardians observe „aus dem Überraum“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L23]; at the break „im Überraum wird Systemalarm ausgelöst“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L23]. A summary of a plan, not canon.
 
 ## Open
 
