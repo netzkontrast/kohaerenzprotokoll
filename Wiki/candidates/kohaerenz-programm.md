@@ -1,10 +1,10 @@
 ---
 term: Kohärenz-Programm
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz"]
+ingested: ["guardians-und-kern-welten-konzept", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "erstelle-eine-liste-mit-allen-plot-points-formu"]
 gathered: "2026-09-17"
 ---
 
@@ -40,6 +40,10 @@ The third is not a term of the fiction at all.
 ## Reading — `entwickle-einen-neuen-plot-der-sich-ueber-13-kurz`, 2025-04-17, the Seelen-Kohärenz blueprint — a higher program whose errors come from fragmentation
 
 The Seelen-Kohärenz blueprint, an early proposal, states in its overall concept that „Die Fragmentierung eines simulierten Bewusstseins“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] „verursacht kritische Fehler in einem übergeordneten“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] `Seelen-Kohärenz-Programm`, and that this leads to „Rissen in der Struktur der simulierten“ ^[entwickle-einen-neuen-plot-der-sich-ueber-13-kurz.md:L38] reality. The program is the blueprint's own figure.
+
+## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the Seelen-Kohärenz-Programm destabilised by the fragmentation
+
+The plot summary (V4) places the cracks in „einem übergeordneten "Seelen-Kohärenz-Programm", das die Stabilität simulierter Existenzen gewährleisten soll“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L17]. The Guardians name the fragmentation as cause of „die Instabilität des "Seelen-Kohärenz-Programms"“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L35]. The plan's name for the system, not canon.
 
 ## Open
 
