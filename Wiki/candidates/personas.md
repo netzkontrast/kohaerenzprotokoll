@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -58,6 +58,10 @@ On agency the report names a risk and a design question. It says: „Die Balance
 ## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the five core personas of a fragmented core consciousness
 
 The plot summary (V4) builds its earlier plot idea on a fragmented consciousness: „Das Kern-Bewusstsein eines nicht näher definierten Protagonisten ist fragmentiert ("Personas").“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L17] Part 1 tells each episode from one of „der Kern-Personas (Architekt, Echo, Wächter, Funke, Sucher)“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L21]; each persona experiences „**Intrusionen** aus den Realitäten *anderer* Personas“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L22]. In Part 2 „Die Personas werden mit ihrer fragmentierten Natur, der Simulation und der globalen Gefahr konfrontiert.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L37] In Part 3 „Die Personas versuchen kooperativ“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L48] to close the cracks, then seek the outside, and finally „Die Personas wenden sich nach innen.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L54] The protagonist is left undefined; the summary proposes, it is not canon.
+
+## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — episodes headed by the five personas, then repair as a team and the turn inward
+
+The plot-points list (V4) heads its Part-1 episodes with personas — Architekt, Echo, Wächter, Sucher, Funke — each disturbed by another's intrusion, as in „Erlebt Logikfehler in seiner Welt & emotionale Störung (Echo-Intrusion)“ ^[plotpunkte-liste.md:L17]. Episode 1.13 brings the „Kompletter Kollaps und chaotische Überlagerung der Persona-Realitäten“ ^[plotpunkte-liste.md:L25]. In Part 3 the first repair is made „durch Persona-Team mit Werkzeugen“ ^[plotpunkte-liste.md:L39]; „Personas verbessern Kooperation“ ^[plotpunkte-liste.md:L41]; then „Personas beschließen, das "Außen"“ ^[plotpunkte-liste.md:L43] to seek. In the finale „Personas wenden sich nach innen“ ^[plotpunkte-liste.md:L46]. A plan's plot points, not canon.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
