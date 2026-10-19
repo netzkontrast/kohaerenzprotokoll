@@ -1,0 +1,109 @@
+$ read.py --count "Plot"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            19
+
+`Plot` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#17]
+$ read.py --count "Narrative Aufgabe"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Narrative Aufgabe` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#9]
+$ read.py --count "Metaphorik"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Metaphorik` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#6]
+$ read.py --count "Akteure"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Akteure` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#3]
+$ read.py --count "LogOS"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`LogOS` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Mnemosyne"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mnemosyne` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Cerberus"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Cerberus` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Kairos"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Kairos` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Sophia"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Sophia` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Guardians"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Guardians` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#21]
+$ read.py --count "Partnerin"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            23
+
+`Partnerin` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#17]
+$ read.py --count "Meta-Narrator"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Meta-Narrator` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Meta-Erzähler"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Meta-Erzähler` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#1]
+$ read.py --count "Seelen-Kohärenz-Programm"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Seelen-Kohärenz-Programm` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#2]
+$ read.py --count "Kohärenz-Programm"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            3
+
+`Kohärenz-Programm` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#1]
+$ read.py --count "Seele=Info"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Seele=Info` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#4]
+$ read.py --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[liste-nun-alle-plot-ideen-kurz-auf.md:#1]
+35 = 17+9+6+3 (Plot, Narrative Aufgabe, Metaphorik, Akteure; whole word)

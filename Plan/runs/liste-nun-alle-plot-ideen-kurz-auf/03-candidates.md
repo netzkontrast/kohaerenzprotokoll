@@ -1,0 +1,66 @@
+written_by: document-reader subagent (Sonnet 5.5), 2026-10-19, while reading, before any count
+
+Observations. The document is a plot blueprint in three parts (L17 to L206), written in the voice of an assistant presenting a concept; no personal or autobiographical material is present. Personas are named by role (Architekt, Echo, Wächter, Funke, Sucher) and the document does not give them the names of the novel's figures; no identity with Kael, Juna or Nyx is made plain. The recurring helper, called Partnerin, is named by role only.
+
+- Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Programm
+- Kohärenz-Programm
+- Risse
+- Riss
+- Guardians
+- Guardian
+- Wissende Hüter
+- Hüter
+- Simulation
+- Überraum
+- Meta-Narrator
+- Meta-Erzähler
+- M/R/P
+- Architekt
+- Echo
+- Wächter
+- Funke
+- Sucher
+- Das Glitch-Kind
+- Glitch-Kind
+- Der Beobachter im Mantel
+- Der Rote Vogel
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kognitive Stadt
+- Nexus
+- Partnerin
+- Integrations-Werkzeuge
+- Protagonisten-System
+- funktionaler Multiplizität
+- Klarheit
+- Seele=Info
+- Jagd nach der Realität
+- HJ
+- Personas
+- Intrusion
+- Intrusionen
+- Meta-Realität
+- Archetypen
+- Persona-Realitäten
+- Glitches
+- Blueprint V3
+- Blueprint V4
+- Echos im Zersplitterten Spiegel
+- Intervention aus dem Überraum
+- Die Naht im Selbst
+- Die Stadt der Unvollendeten Brücken
+- Der Nebelsee der Wiederkehr
+- Die Festung der Flüsternden Wände
+- Die Bibliothek der Widersprüchlichen Karten
+- Der Garten der Metamorphen Skulpturen
+- Roter Alarm im Nexus
+- Bruch der Realitäten
+- Archipel
+- System-Admin
+
+## lens
+- Heldenreise
