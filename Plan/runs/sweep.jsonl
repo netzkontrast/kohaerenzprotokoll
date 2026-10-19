@@ -1844,3 +1844,5 @@
 {"document": "kapitel-13-momente", "page": "protokoll-v14", "surface": "Protokoll v1.4", "line": 44, "decision": "reading", "why": "the failed protocol before the reboot; read on the page", "at": "2026-10-16"}
 {"document": "erstelle-eine-liste-mit-allen-plot-points-formu", "page": "kohaerenz", "surface": "Kohärenz", "line": 39, "decision": "occurrence", "why": "„interne Kohärenz“ of the Guardians' tools, not the page's term (J9)", "at": "2026-10-19"}
 {"document": "erstelle-eine-liste-mit-allen-plot-points-formu", "page": "ueberwelt", "surface": "Simulation", "line": 11, "decision": "occurrence", "why": "the summary's address line; the premise's simulation is not named Überwelt", "at": "2026-10-19"}
+{"document": "plotpunkte-liste", "page": "kohaerenz", "surface": "Kohärenz", "line": 45, "decision": "occurrence", "why": "„innerer Kohärenz“ as the twist's solution, not the page's term (J9)", "at": "2026-10-19"}
+{"document": "plotpunkte-liste", "page": "ueberwelt", "surface": "Simulation", "line": 43, "decision": "occurrence", "why": "the simulation's origin sought outside, not the Überwelt", "at": "2026-10-19"}
