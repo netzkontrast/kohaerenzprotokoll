@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -70,6 +70,10 @@ The plot blueprint (V3) names a fragmented identity, „(Personas: Architekt, Ec
 ## Reading — `roman-blueprint-seelen-kohaerenz-protokoll`, 2025-04-17, the soul blueprint (V5) — five core personas who must stay distinct
 
 The soul blueprint (V5) requires that „Die fünf Kern-Personas (Architekt, Echo, Wächter, Funke, Sucher) müssen über den gesamten Roman hinweg klar unterscheidbar bleiben“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L27]. Its logline: „In einer fehlerhaften Simulation kämpfen fragmentierte Aspekte eines Kernbewusstseins (Personas) gegen System-"Risse"“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L80]. The table calls them „\*\*Personas (Die Fragmentierten)\*\*“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L145]. A plan's proposals, not canon.
+
+## Reading — `recherche-kohaerenz-protokoll`, 2025-04-17, the research commission — five personas by function
+
+The research commission restates multiple „"Personas" (Architekt-Logik, Echo-Emotion, Wächter-Paranoia, Funke-Kreativität, Sucher-Wissen)“ ^[recherche-kohaerenz-protokoll.md:L17]. A restated plan, not canon.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 
