@@ -1,0 +1,42 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Observation: the document is a cycle of six song texts (Suno prompts in English, lyrics in German) with a German "Conceptual Reflection" after each. A collective voice ("Wir") speaks as a system; no figure of the novel is named. Terms are the document's own coinages and bolded titles.
+
+- Manifest der Handlungsfähigkeit
+- Nachhall
+- Resonanzraum
+- Ein Protokoll des Bleibens
+- Handlungsfähigkeit
+- Agency
+- Multiplizität
+- Vielheit
+- Kohärenz
+- Zersplitterung
+- Rekursion
+- Kern
+- Konstellation
+- Präsenz
+- Verpflichtung
+- Weigerung
+- Protokoll der Präsenz
+- Funktion der Verpflichtung
+- Architektur der Weigerung
+- Funktion ist keine Maske
+- Wegen der Unterschiede
+- Resonanzboden
+- Illusion von Einheit
+- Verantwortung
+- Integrität
+- Struktur in Bewegung
+- Katharsis
+- Gleichgewicht
+- Symmetrie
+- Narrator
+- Suno
+- Conceptual Reflection
+- Music Style Description
+- We Begin Here
+- We Do Not Owe You Coherence
+- Function Is Not Mask
+- You Will See Yourself
+- Toward a Shared Future

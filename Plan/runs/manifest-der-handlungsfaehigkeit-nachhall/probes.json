@@ -1,0 +1,201 @@
+{
+  "document": "manifest-der-handlungsfaehigkeit-nachhall",
+  "drive_id": "1EWKIrpjMrxmY56ULXANyiUT9cLASjf63Khlm61GZe8w",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 15,
+  "backslash_escapes": 224,
+  "typographic_marks": 10,
+  "ascii_quotes": 78,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstdefinition",
+      "Selbstkonfrontation",
+      "Selbstreflexion",
+      "Selbstvertrauen"
+    ],
+    "syste": [
+      "System",
+      "Systemabsturzes",
+      "Systeme",
+      "Systems"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschnitt"
+    ],
+    "atmos": [
+      "Atmospheric",
+      "Atmosphärische"
+    ],
+    "betra": [
+      "Betrachter",
+      "Betrachters"
+    ],
+    "bleib": [
+      "Bleiben",
+      "Bleibens"
+    ],
+    "bruch": [
+      "Bruch",
+      "Bruchstück"
+    ],
+    "entsc": [
+      "Entscheidend",
+      "Entscheidung"
+    ],
+    "erfah": [
+      "Erfahrung",
+      "Erfahrungen"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität"
+    ],
+    "gemei": [
+      "Gemeinsam",
+      "Gemeinschaft"
+    ],
+    "germa": [
+      "GERMAN",
+      "German"
+    ],
+    "gleic": [
+      "Gleichgewicht",
+      "Gleichheit"
+    ],
+    "integ": [
+      "Integration",
+      "Integrität"
+    ],
+    "kampf": [
+      "Kampf",
+      "Kampfes"
+    ],
+    "kerns": [
+      "Kerns",
+      "Kernsatz"
+    ],
+    "manif": [
+      "Manifest",
+      "Manifests"
+    ],
+    "multi": [
+      "Multipel",
+      "Multiplizität"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokolle"
+    ],
+    "proze": [
+      "Prozess",
+      "Prozesses"
+    ],
+    "refle": [
+      "Reflection",
+      "Reflexionen"
+    ],
+    "refra": [
+      "Refrain",
+      "Refrains"
+    ],
+    "reson": [
+      "Resonanzboden",
+      "Resonanzraum"
+    ],
+    "schme": [
+      "Schmerz",
+      "Schmerzes"
+    ],
+    "schwi": [
+      "Schwierigkeiten",
+      "Schwingung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Form",
+      "Seinsform"
+    ],
+    [
+      "Here",
+      "Coherence"
+    ],
+    [
+      "Hier",
+      "Hiersein"
+    ],
+    [
+      "Kern",
+      "Kerns"
+    ],
+    [
+      "Kern",
+      "Kernsatz"
+    ],
+    [
+      "Kern",
+      "Kernbotschaften"
+    ],
+    [
+      "Mask",
+      "Maske"
+    ],
+    [
+      "Nach",
+      "Nachhall"
+    ],
+    [
+      "Raum",
+      "Resonanzraum"
+    ],
+    [
+      "Text",
+      "Kontext"
+    ],
+    [
+      "Bruch",
+      "Bruchstück"
+    ],
+    [
+      "Kampf",
+      "Kampfes"
+    ],
+    [
+      "Kerns",
+      "Kernsatz"
+    ],
+    [
+      "Teile",
+      "Anteile"
+    ],
+    [
+      "Unser",
+      "Unsere"
+    ],
+    [
+      "Verse",
+      "Verses"
+    ],
+    [
+      "Wesen",
+      "Abwesenheit"
+    ],
+    [
+      "GERMAN",
+      "German"
+    ]
+  ]
+}
