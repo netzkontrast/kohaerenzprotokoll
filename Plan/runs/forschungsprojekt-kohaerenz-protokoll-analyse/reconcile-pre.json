@@ -1,0 +1,340 @@
+{
+  "document": "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 38,
+  "decisions": 39,
+  "same_surface": {},
+  "decided_mechanically": 34,
+  "needs_judgement": 5,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 407
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 352
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 421
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 207
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 191
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 124
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 208
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 192
+      },
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 103
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 102
+      },
+      {
+        "candidate": "Funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 184
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Dual Kernel Theory"
+      },
+      {
+        "candidate": "K\\_1"
+      },
+      {
+        "candidate": "K\\_0"
+      },
+      {
+        "candidate": "Buffering Capacity"
+      },
+      {
+        "candidate": "Dead Universe Theory"
+      },
+      {
+        "candidate": "DUT"
+      },
+      {
+        "candidate": "Monolith to Mosaic"
+      },
+      {
+        "candidate": "Gravitationsarchitektur"
+      },
+      {
+        "candidate": "Ergosphäre"
+      },
+      {
+        "candidate": "Ereignishorizont"
+      },
+      {
+        "candidate": "Singularität"
+      },
+      {
+        "candidate": "Photon Sphere"
+      },
+      {
+        "candidate": "Maximal-Plotter"
+      },
+      {
+        "candidate": "Writer's Bible"
+      },
+      {
+        "candidate": "Golden Sources"
+      },
+      {
+        "candidate": "Agentive Narrative"
+      },
+      {
+        "candidate": "Final Fusion"
+      },
+      {
+        "candidate": "Resonanz-Kodex"
+      },
+      {
+        "candidate": "Dialetheism-Engine"
+      },
+      {
+        "candidate": "Agential Realism"
+      },
+      {
+        "candidate": "Agential Cut"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Strange Attractor"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kohärenz Protokoll  /  Kohärenz Protokolls",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokolls",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Mosaik",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mosaikherz",
+            "page": "mosaik-herz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 267,
+      "already_read": false
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 37,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 232,
+      "already_read": false
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 19,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
