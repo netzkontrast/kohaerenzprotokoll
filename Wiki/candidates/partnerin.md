@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf"]
 gathered: "2026-09-17"
 ---
 
@@ -50,6 +50,10 @@ The plot summary (V4) makes the partner figure the thread of its earlier plot id
 ## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — one guise per episode, the anomaly, and the transcendent partner of the finale
 
 The plot-points list (V4) gives the partner figure a guise in each early episode: „Partnerin als Kollegin präsent.“ ^[plotpunkte-liste.md:L17], „Partnerin als stabiler Anker am Ufer.“ ^[plotpunkte-liste.md:L18], „Partnerin als rätselhafte Bibliothekarin.“ ^[plotpunkte-liste.md:L20]. In one episode a persona „wird in Realitätssturm von Partnerin gerettet/unterstützt“ ^[plotpunkte-liste.md:L23]. At the collapse comes „scheinbare Trennung von/Destabilisierung der Partnerin“ ^[plotpunkte-liste.md:L25]. In Part 3 „**Partnerin taucht wieder auf**, Beziehung ist in Krise.“ ^[plotpunkte-liste.md:L40]; the „Partnerin-Mysterium vertieft sich“ ^[plotpunkte-liste.md:L41], and after the revelation „Partnerin scheint eine Ausnahme zu sein.“ ^[plotpunkte-liste.md:L42] The finale makes possible „eine **bewusste, akzeptierende Beziehung zur transzendenten Partnerin**“ ^[plotpunkte-liste.md:L46]. Plot points of a plan, not canon.
+
+## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — missing from the Guardians' data, reappearing in crisis, the central thread
+
+The plot blueprint (V3) makes Part 2's focus include „fehlende Daten zur Partnerin“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L154] and the „**Etablierung Partnerin-Mysterium auf Meta-Ebene**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L174]. When the Guardians hand out tools, „Die Partnerin wird als irrelevant für die Systemstabilität ignoriert.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L184] In Part 3 „**Die Partnerin taucht in dieser Welt wieder auf**, verändert, distanziert.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L194], with the first signs of the „**Beziehungskrise**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L191]. The hunt endangers the „**Verbindung zur Partnerin**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L195]. The closing note says the blueprint „integriert nun auch die Partnerin-Idee als zentralen Faden.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L206] A plan's proposals, not canon.
 
 ## Reading — `welten`, 2025-04-20, the world-concept reply — the Partnerin as Julia, and the piece Sophia lacks
 
