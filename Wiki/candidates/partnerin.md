@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -54,6 +54,10 @@ The plot-points list (V4) gives the partner figure a guise in each early episode
 ## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — missing from the Guardians' data, reappearing in crisis, the central thread
 
 The plot blueprint (V3) makes Part 2's focus include „fehlende Daten zur Partnerin“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L154] and the „**Etablierung Partnerin-Mysterium auf Meta-Ebene**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L174]. When the Guardians hand out tools, „Die Partnerin wird als irrelevant für die Systemstabilität ignoriert.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L184] In Part 3 „**Die Partnerin taucht in dieser Welt wieder auf**, verändert, distanziert.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L194], with the first signs of the „**Beziehungskrise**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L191]. The hunt endangers the „**Verbindung zur Partnerin**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L195]. The closing note says the blueprint „integriert nun auch die Partnerin-Idee als zentralen Faden.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L206] A plan's proposals, not canon.
+
+## Reading — `roman-blueprint-seelen-kohaerenz-protokoll`, 2025-04-17, the soul blueprint (V5) — a split-off core soul part whose reintegration is the solution
+
+The soul blueprint (V5) makes the Partnerin the cause the Guardians cannot see: „die Abspaltung der Partnerin“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L35]. „Die Partnerin repräsentiert das fundamentale Prinzip der "Verbindung/Ganzheit".“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L47] Its character table gives „\*\*Die Partnerin\*\* | Abgespaltener Kern-Seelenanteil; Verbindung/Ganzheit“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L158] and „ihre Reintegration ist die Lösung (T3)“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L158]. The twist: „Die Partnerin ist kein externes Ziel, sondern der fehlende Kern des eigenen fragmentierten Selbst.“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L742] A plan's proposals, not canon.
 
 ## Reading — `welten`, 2025-04-20, the world-concept reply — the Partnerin as Julia, and the piece Sophia lacks
 
