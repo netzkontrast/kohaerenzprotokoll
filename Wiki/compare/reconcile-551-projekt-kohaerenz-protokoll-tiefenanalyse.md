@@ -18,11 +18,11 @@ new_readings: 10
 
 ## No new page
 
-A plan for thirteen figures of the Kael system under TSDP, with a typography proposal and a reader-currency plan: its premises on Kael, Juna, AEGIS, Lia/Kiko and Argus, and its uses of TSDP, cracks, entropy and the Nichts Rauschen went on existing pages. Not promoted: PKP, ANP/EP, the five PKP levels, the triadic currency, the observer 'O', K₁/K₀, the typography rules, Grauer Verfall, the figures Wächterin, Alexander, Stefan and Data.
+A plan for thirteen figures of the Kael system under TSDP, with a typography proposal and a reader-currency plan: its premises on Kael, Juna, AEGIS, Lia/Kiko and Argus, and its uses of TSDP, cracks, entropy and the Nichts Rauschen went on existing pages. Not promoted: PKP, ANP/EP, the five PKP levels, the triadic currency, the observer 'O', K₁/K₀, the typography rules, Grauer Verfall, the figures under earlier names.
 
 ## Judgements
 
-No new judgement. Every near match was decided by an existing rule: a plan read as a plan; the four figures under earlier names are not read; every line with an earlier name, the trauma symbol or a real person's name, and the reference list L921–L1007, is not cited; the Wächterin, Alexander, Stefan and Data blocks are not promoted.
+No new judgement. Every near match was decided by an existing rule: a plan read as a plan; the eight figures under earlier names are not read; every line with an earlier name, the trauma symbol or a real person's name, and the reference list L921–L1007, is not cited.
 
 ## Readings — 10 pages
 

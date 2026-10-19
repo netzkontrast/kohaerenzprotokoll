@@ -124,8 +124,8 @@
       "Juna / V"
     ],
     "wachterin": [
-      "Die Wächterin",
-      "Wächterin"
+      "(an earlier name)",
+      "(an earlier name)"
     ]
   },
   "decided_mechanically": 88,
@@ -186,16 +186,16 @@
     ],
     "new_term": [
       {
-        "candidate": "Die Wächterin"
+        "candidate": "(an earlier name)"
       },
       {
         "candidate": "Lichtinstanz"
       },
       {
-        "candidate": "Stefan"
+        "candidate": "(an earlier name)"
       },
       {
-        "candidate": "Data"
+        "candidate": "(an earlier name)"
       },
       {
         "candidate": "Beschützer-Anteil"
@@ -517,7 +517,7 @@
         ]
       },
       {
-        "candidate": "Alexander",
+        "candidate": "(an earlier name)",
         "question": "same term under another surface, or a different term?",
         "near": [
           {

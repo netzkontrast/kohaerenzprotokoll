@@ -27,7 +27,7 @@ Read first, for each: `Sources/notes/<slug>.md`, the end of `Sources/terms/<slug
 
 **Decided as occurrences or readings by the sentence — the candidates near a page's surface that no candidate names:**
 
-- `alex`: `Alexander` (near `alex`). <brief: an occurrence, and why — or a reading, and its lines>
+- `alex`: `(an earlier name)` (near `alex`). <brief: an occurrence, and why — or a reading, and its lines>
 - `kohaerenz`: `Phänotyp-Kohärenz-Protokolle` (near `koharenz`), `Sünde gegen die Kohärenz` (near `koharenz`), `Kohärenz Protokoll` (near `koharenz`). <brief: an occurrence, and why — or a reading, and its lines>
 - `kollaps-kernel`: `Kollaps` (near `kollapskernel`), `Kollaps` (near `kollapskernelk0`). <brief: an occurrence, and why — or a reading, and its lines>
 

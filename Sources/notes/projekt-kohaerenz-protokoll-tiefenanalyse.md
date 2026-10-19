@@ -45,10 +45,11 @@ What this document says about the terms that matter in it. Every quotation carri
 
 ## 5 · The other figures, by function
 
-- **Wächterin:** the document assigns the observer role: „Klar, objektiv, meta-beschreibend“ ^[L226]. It labels this figure `ISH` and `Lichtinstanz` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2] and also, in one line, „Sie ist eine ANP“ ^[L218], whereas the table row gives „Internal Self-Helper“ ^[L50].
-- **Alexander:** „Proaktiver Schutz des Gesamtsystems“ ^[L262].
-- **Stefan:** „Interne Konfliktvermeidung; Harmonie-Protokoll“ ^[L56].
-- **Data:** „Hyper-Rationalisierung; Dissoziation von Emotionen“ ^[L550].
+- **Four further figures** carry names that are treated as earlier names under decision 028 and are not written here; they are described by function:
+  - an observer part: „Klar, objektiv, meta-beschreibend“ ^[L226], labelled `ISH` and `Lichtinstanz` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2], with the mapping „"Internal Self-Helper" (ISH)“ ^[L216] but also, in one line, „Sie ist eine ANP“ ^[L218];
+  - a Protector part: „Proaktiver Schutz des Gesamtsystems“ ^[L262];
+  - a Caretaker/Mediator part: „"Caretaker"-Anteil (EP/Mediator)“ ^[L504];
+  - an ANP fragment: „ANP-Fragment“ ^[L549].
 - **Argus:** „Internalisierter Täter (Introjekt)“ ^[L58].
 - **Lia/Kiko:** „Lia/Kiko ist ein Hybrid-Protokoll“ ^[L403], with the child part's role split between a trauma response and a resource of hope.
 - **Four figures under earlier names** (a Fight part, a Sublimation part, a masking ANP, a core-trauma part) are described in blocks of the same shape. Of them the document says of the Sublimation part's function: „EP-Funktion der Sublimation“ ^[L355]; and of the core-trauma part: „Hält das prä-verbale, nicht-narrative Kerntrauma“ ^[L642]. The masking part's origin: „Entstanden als Reaktion auf die Notwendigkeit“ ^[L453]. Their names are not written here.
@@ -65,7 +66,7 @@ What this document says about the terms that matter in it. Every quotation carri
 
 ## 7 · Said two ways, or left open — recorded, not resolved
 
-- The Wächterin is `ISH` in the table row, a `Lichtinstanz`, and in one line an ANP („Sie ist eine ANP“ ^[L218]); the document does not reconcile the labels.
+- The observer part is `ISH` in its mapping, a `Lichtinstanz`, and in one line an ANP („Sie ist eine ANP“ ^[L218]); the document does not reconcile the labels.
 - Kael is the whole system in L24 and a host part in L68; the heading carries both.
 
 ## 8 · Absent, counted

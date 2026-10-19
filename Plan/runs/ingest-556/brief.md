@@ -8,7 +8,7 @@
 
 Read first, for each: `Sources/notes/<slug>.md`, the end of `Sources/terms/<slug>.md` and `Plan/runs/<slug>/05-verify.txt`; then the document with `python3 scripts/read.py <slug>` (1008 lines for `projekt-kohaerenz-protokoll-ti`). For each page, its digest: `python3 scripts/digest.py <page> --doc <slug>`. Ask for several quotations in one Bash call.
 
-**Stance — record, never apply.** A plan: write „the figure deep analysis plans/proposes …“; never canon. **Never cite** a line with an earlier name, the trauma symbol or a real person's name (L126 and the reference list L921–L1007 among them); the four figures under earlier names are not read. Quote no gendered pronoun.
+**Stance — record, never apply.** A plan: write „the figure deep analysis plans/proposes …“; never canon. **Never cite** a line with an earlier name, the trauma symbol or a real person's name (L126 and the reference list L921–L1007 among them); the eight figures under earlier names are not read. Quote no gendered pronoun.
 
 ## Pages — document 556, `projekt-kohaerenz-protokoll-tiefenanalyse`
 
@@ -27,13 +27,13 @@ Read first, for each: `Sources/notes/<slug>.md`, the end of `Sources/terms/<slug
 
 **Decided as occurrences or readings by the sentence — the candidates near a page's surface that no candidate names:**
 
-- `alex`: `Alexander` (near `alex`). an occurrence: the plan's `Alexander` is a Protector part; whether it is the figure on `alex` is a surface question this document does not settle, so nothing goes on the page.
+- `alex`: `(an earlier name)` (near `alex`). an occurrence: the candidate is an earlier name under decision 028 and is not read.
 - `kohaerenz`: `Phänotyp-Kohärenz-Protokolle` (near `koharenz`), `Sünde gegen die Kohärenz` (near `koharenz`), `Kohärenz Protokoll` (near `koharenz`). an occurrence: compounds and the title phrase, not the term.
 - `kollaps-kernel`: `Kollaps` (near `kollapskernel`), `Kollaps` (near `kollapskernelk0`). an occurrence: `Kollaps` is the general collapse state K₀ here, not the kernel.
 
 
 **Record entries:** none.
 
-**Not promoted:** PKP, ANP/EP, the five PKP levels, the triadic currency, 'O', K₁/K₀, the typography rules, Grauer Verfall, the figures Wächterin, Alexander, Stefan and Data.
+**Not promoted:** PKP, ANP/EP, the five PKP levels, the triadic currency, 'O', K₁/K₀, the typography rules, Grauer Verfall, the figures under earlier names.
 
 **One reader**: every page above.

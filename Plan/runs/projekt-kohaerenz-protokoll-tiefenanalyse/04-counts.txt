@@ -1,4 +1,4 @@
-# counts for 117 candidates
+# counts for 112 candidates
 # line numbers are FILE lines, as a citation writes them
 
 #   word = the term standing alone; in = anywhere, compounds included
@@ -17,18 +17,10 @@
                                     1      as AEGIS-Protokoll
                                     1      as AEGIS-Präsenz
                                     1      as AEGIS-Intrusionen
-  Die Wächterin                     8 word     8 in   [50, 206, 245, 721, 859, 915]
-  Wächterin                        11 word    12 in   [50, 206, 217, 245, 721, 787]
-                                    1      as Wächterin-Courier
   Lichtinstanz                      2 word     2 in   [206, 218]
-  Alexander                        12 word    13 in   [51, 99, 251, 263, 264, 292]
-                                    1      as Alexanders
   Lia                              26 word    28 in   [28, 54, 256, 262, 282, 392]
   Kiko                              9 word     9 in   [54, 262, 392, 403, 412, 430]
   Lia/Kiko                          7 word     7 in   [262, 403, 412, 430, 846, 858]
-  Stefan                            6 word     8 in   [56, 494, 505, 506, 533, 534]
-                                    2      as Stefans
-  Data                              9 word     9 in   [28, 57, 81, 539, 550, 551]
   Argus                            22 word    22 in   [58, 264, 499, 505, 531, 534]
   Beschützer-Anteil                 1 word     1 in   [251]
   Gesamtsystem                      2 word     5 in   [24, 30, 68, 262, 919]  <-- substring

@@ -5,7 +5,7 @@ title: "Projekt Kohärenz Protokoll: Tiefenanalyse"
 category: audit
 index_date: "2025-11-05"
 extracted: "2026-10-19"
-candidates: 117    # the terms capture.py counted
+candidates: 112    # the terms capture.py counted
 ---
 
 # Term census — Projekt Kohärenz Protokoll: Tiefenanalyse
@@ -52,7 +52,7 @@ The document labels no passage as canon, lock or sync, and it holds no question 
 
 ## Candidates and counts
 
-117 candidates, written while reading and frozen by the count (`Plan/runs/projekt-kohaerenz-protokoll-tiefenanalyse/03-candidates.md`, counted by `capture.py --count`). `word` is the term standing alone (no letter, digit or hyphen on either side, case-sensitive) and is also a count mark that `quotes.py` checks against the body; `in` is anywhere, compounds included; `lines` are the file lines that hold the term as a substring. The list is in order of first appearance. `projekt-kohaerenz-protokoll-tiefenanalyse.md` in a mark is this document. Rows written by `census.py draft`.
+112 candidates, written while reading and frozen by the count (`Plan/runs/projekt-kohaerenz-protokoll-tiefenanalyse/03-candidates.md`, counted by `capture.py --count`). `word` is the term standing alone (no letter, digit or hyphen on either side, case-sensitive) and is also a count mark that `quotes.py` checks against the body; `in` is anywhere, compounds included; `lines` are the file lines that hold the term as a substring. The list is in order of first appearance. `projekt-kohaerenz-protokoll-tiefenanalyse.md` in a mark is this document. Rows written by `census.py draft`.
 
 ### As the document names them
 
@@ -63,15 +63,10 @@ The document labels no passage as canon, lock or sync, and it holds no question 
 | `Juna/V` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#15] | 15 | 15 | 81, 108, 126, 154, 264, 340, 443, 489, 506, 624, 720, 856 … |  |
 | `Juna / V` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2] | 2 | 2 | 48, 116 |  |
 | `AEGIS` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#30] | 30 | 37 | 49, 136, 160, 170, 171, 172, 190, 200, 201, 202, 264, 290 … | `AEGIS-Taktik` ×1, `AEGIS-Protokoll` ×1, `AEGIS-Präsenz` ×1, `AEGIS-Intrusionen` ×1 |
-| `Die Wächterin` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#8] | 8 | 8 | 50, 206, 245, 721, 859, 915 |  |
-| `Wächterin` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#11] | 11 | 12 | 50, 206, 217, 245, 721, 787, 818, 859, 883, 915 | `Wächterin-Courier` ×1 |
 | `Lichtinstanz` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2] | 2 | 2 | 206, 218 |  |
-| `Alexander` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#12] | 12 | 13 | 51, 99, 251, 263, 264, 292, 293, 412, 442, 490, 671, 858 | `Alexanders` ×1 |
 | `Lia` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#26] | 26 | 28 | 28, 54, 256, 262, 282, 392, 403, 412, 430, 431, 440, 441 … |  |
 | `Kiko` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#9] | 9 | 9 | 54, 262, 392, 403, 412, 430, 846, 858, 918 |  |
 | `Lia/Kiko` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#7] | 7 | 7 | 262, 403, 412, 430, 846, 858, 918 |  |
-| `Stefan` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#6] | 6 | 8 | 56, 494, 505, 506, 533, 534, 535, 847 | `Stefans` ×2 |
-| `Data` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#9] | 9 | 9 | 28, 57, 81, 539, 550, 551, 578, 579, 848 |  |
 | `Argus` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#22] | 22 | 22 | 58, 264, 499, 505, 531, 534, 535, 584, 595, 596, 615, 625 … |  |
 | `Beschützer-Anteil` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#1] | 1 | 1 | 251 |  |
 | `Gesamtsystem` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2] | 2 | 5 | 24, 30, 68, 262, 919 | `Gesamtsystems` ×1 |
@@ -185,9 +180,9 @@ Borrowed concepts the document applies to its world, set apart by the list under
 
 ## What the extraction ran into
 
-**Zeros: none.** All 117 candidates stand at least once as written. The word `Kernwunde` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#0] was tested before the count and does not stand in the document, so it was never listed.
+**Zeros: none.** All 112 candidates stand at least once as written. The word `Kernwunde` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#0] was tested before the count and does not stand in the document, so it was never listed.
 
-**The 35 terms that stand alone less often than with compounds** are inflections or hyphen compounds, not damage. The figure names take the genitive or a hyphen: `Kael` stands alone 50 times and 82 times in all (`Kaels` ×20, `Kael-System` ×4, `Kael-Host` ×2, `Kael-Gesamtsystem` ×1, in the surfaces column); `AEGIS` stands in `AEGIS-Taktik`, `AEGIS-Protokoll` and others; `Alexander` has `Alexanders`; `Gesamtsystem` has `Gesamtsystems`. The clinical abbreviations show the widest gap because they head compounds: `TSDP` stands alone 5 times and 27 times in all, since `TSDP-Mapping` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#12] is a candidate of its own, with `TSDP-Struktur` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2] and others; `ANP` (16 of 34) and `EP` (13 of 45) have their plurals `ANPs` and `EPs` and compounds such as `EP-Fight` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#4]. `Akt I` stands alone 5 times of 13 because `Akt II` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#5] and `Akt III` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#3] begin with the same letters; that is a substring, not a second sense. `Riss` (7 of 14) is joined by its plural `Risse` and by `Rissen`; `Entropie` (4 of 10) stands inside `Anti-Entropie-Protokoll` and `Entropie-Visualisierung` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#1]. `'O'` (40 of 42) also stands in the genitive `'O's`. None of these compounds is a different term from its base.
+**The 32 terms that stand alone less often than with compounds** are inflections or hyphen compounds, not damage. The figure names take the genitive or a hyphen: `Kael` stands alone 50 times and 82 times in all (`Kaels` ×20, `Kael-System` ×4, `Kael-Host` ×2, `Kael-Gesamtsystem` ×1, in the surfaces column); `AEGIS` stands in `AEGIS-Taktik`, `AEGIS-Protokoll` and others; `Gesamtsystem` has `Gesamtsystems`. The clinical abbreviations show the widest gap because they head compounds: `TSDP` stands alone 5 times and 27 times in all, since `TSDP-Mapping` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#12] is a candidate of its own, with `TSDP-Struktur` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2] and others; `ANP` (16 of 34) and `EP` (13 of 45) have their plurals `ANPs` and `EPs` and compounds such as `EP-Fight` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#4]. `Akt I` stands alone 5 times of 13 because `Akt II` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#5] and `Akt III` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#3] begin with the same letters; that is a substring, not a second sense. `Riss` (7 of 14) is joined by its plural `Risse` and by `Rissen`; `Entropie` (4 of 10) stands inside `Anti-Entropie-Protokoll` and `Entropie-Visualisierung` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#1]. `'O'` (40 of 42) also stands in the genitive `'O's`. None of these compounds is a different term from its base. Five figure names were dropped from the list after the count, because they are treated as earlier names under decision 028; the list was counted again.
 
 **Surface pairs listed on purpose.** The document writes the catalyst figure as `Juna/V` (15 standing alone) and `Juna / V` (2), beside `Juna` (19); the child part as `Lia/Kiko` beside the two names; and the phrase for the grey decay as `Grauer Verfall` and, inflected, `Grauen Verfall`. Each form is listed because it is written, not because it is claimed to be one thing or two.
 
@@ -201,4 +196,4 @@ Borrowed concepts the document applies to its world, set apart by the list under
 
 **Zeros:** 0.
 
-**Standing alone less often than with compounds:** 35 — `Kael` 50/82, `Juna` 19/20, `AEGIS` 30/37, `Wächterin` 11/12, `Alexander` 12/13, `Lia` 26/28, `Stefan` 6/8, `Gesamtsystem` 2/5, `Kael-Gesamtsystem` 1/2, `Host` 25/27, `Katalysator` 8/9, `Maske` 4/6, `PKP` 82/101, `TSDP` 5/27, `ANP` 16/34, `EP` 13/45, `ISH` 6/8, `Kerntrauma` 5/6, `'O'` 40/42, `Riss` 7/14, `Risse` 6/7, `Stasis` 8/9, `Kohärenz Protokoll` 4/5, `Spot-Farbe` 5/6, `Intrusion` 11/17, `Akt I` 5/13, `Hoffnung` 12/13, `Kollaps` 7/10, `Introjekt` 3/4, `Fight` 7/11, `Freeze` 7/9, `Apparently Normal Part` 2/3, `Sublimation` 4/5, `Gaslighting` 13/15, `Entropie` 4/10.
+**Standing alone less often than with compounds:** 32 — `Kael` 50/82, `Juna` 19/20, `AEGIS` 30/37, `Lia` 26/28, `Gesamtsystem` 2/5, `Kael-Gesamtsystem` 1/2, `Host` 25/27, `Katalysator` 8/9, `Maske` 4/6, `PKP` 82/101, `TSDP` 5/27, `ANP` 16/34, `EP` 13/45, `ISH` 6/8, `Kerntrauma` 5/6, `'O'` 40/42, `Riss` 7/14, `Risse` 6/7, `Stasis` 8/9, `Kohärenz Protokoll` 4/5, `Spot-Farbe` 5/6, `Intrusion` 11/17, `Akt I` 5/13, `Hoffnung` 12/13, `Kollaps` 7/10, `Introjekt` 3/4, `Fight` 7/11, `Freeze` 7/9, `Apparently Normal Part` 2/3, `Sublimation` 4/5, `Gaslighting` 13/15, `Entropie` 4/10.

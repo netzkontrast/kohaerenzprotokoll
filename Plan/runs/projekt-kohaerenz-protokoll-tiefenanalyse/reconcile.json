@@ -134,7 +134,7 @@
   "conflicts_changed": [],
   "questions_changed": [],
   "judgements": [],
-  "decided_by_existing_rules": "a plan read as a plan; the four figures under earlier names are not read; every line with an earlier name, the trauma symbol or a real person's name, and the reference list L921–L1007, is not cited; the Wächterin, Alexander, Stefan and Data blocks are not promoted",
+  "decided_by_existing_rules": "a plan read as a plan; the eight figures under earlier names are not read; every line with an earlier name, the trauma symbol or a real person's name, and the reference list L921–L1007, is not cited",
   "sweep": [
     {
       "page": "did",
@@ -152,7 +152,7 @@
     }
   ],
   "not_promoted": [
-    "PKP, ANP/EP, the five PKP levels, the triadic currency, the observer 'O', K₁/K₀, the typography rules, Grauer Verfall, the figures Wächterin, Alexander, Stefan and Data"
+    "PKP, ANP/EP, the five PKP levels, the triadic currency, the observer 'O', K₁/K₀, the typography rules, Grauer Verfall, the figures under earlier names"
   ],
   "internal_tension": "none recorded in the note",
   "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
