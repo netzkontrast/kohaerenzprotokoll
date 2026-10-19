@@ -1,0 +1,639 @@
+{
+  "document": "ki-gestuetzter-roman-assistent-projektplanung",
+  "drive_id": "1CYbdQ1DEsM_VwqANJ021N4umgt5UiODxowoRun3r35Q",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        13,
+        15,
+        25,
+        33,
+        88,
+        110,
+        114,
+        267
+      ]
+    },
+    "Kohärenz-Protokolls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        114
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        168,
+        271
+      ]
+    },
+    "Kohärenz-Konsole": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        156,
+        265
+      ]
+    },
+    "Kael": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        156,
+        226,
+        236,
+        265,
+        272
+      ]
+    },
+    "Juna": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        142,
+        220
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        56,
+        82,
+        140
+      ]
+    },
+    "Kiko": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        56,
+        76,
+        139,
+        158
+      ]
+    },
+    "Lia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        76
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        80
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Die Wächterin": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        143
+      ]
+    },
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        156,
+        221,
+        225,
+        232,
+        233
+      ]
+    },
+    "Kernwelt": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        156
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "KW1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "KW2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "KW4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        80
+      ]
+    },
+    "Digitalen Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Mnemosyne-Archipels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        156
+      ]
+    },
+    "K1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "K0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Coherence Kernel / Order": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        190
+      ]
+    },
+    "Collapse Kernel / Chaos": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        148,
+        191
+      ]
+    },
+    "EP": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        158,
+        197
+      ]
+    },
+    "Apparently Normal Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Emotional Part": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Die Leere / The Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Die Leere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "The Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Das Fundament": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Moonshine-Links": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        142
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Perverse Learning Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Discursive Logic": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "LFI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        235
+      ]
+    },
+    "Fissures": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Risse": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        44,
+        56,
+        199
+      ]
+    },
+    "FissureAlert": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        44,
+        77,
+        120,
+        257
+      ]
+    },
+    "FissureAlerts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "EntityProfile": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        121,
+        149
+      ]
+    },
+    "CoreWorldView": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "renderCoreWorld": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "displayEntityProfile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "triggerFissureAlert": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "renderDialogueSurface": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "invokeMoonshineLink": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Story.ncp.json": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        147,
+        154,
+        156
+      ]
+    },
+    "coherence-console-architect": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        110
+      ]
+    },
+    "Kugelschreiber-Stil": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        56,
+        98,
+        110,
+        130,
+        261
+      ]
+    },
+    "Mut zur Lücke": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        46,
+        58,
+        60,
+        131
+      ]
+    },
+    "Liniengrammatik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        52,
+        56
+      ]
+    },
+    "Raues Papier": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        129
+      ]
+    },
+    "rauem Papier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Silhouetten": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        43,
+        58,
+        62,
+        76,
+        132
+      ]
+    },
+    "Negative Space": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        46,
+        60
+      ]
+    },
+    "Kristallblau": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        80,
+        261
+      ]
+    },
+    "Theorie der strukturellen Dissoziation der Persönlichkeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Tertiaren Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "A2UI": {
+      "n": 11,
+      "n_including_compounds": 13,
+      "lines": [
+        21,
+        23,
+        29,
+        41,
+        100,
+        116,
+        118,
+        278,
+        280,
+        281,
+        282
+      ]
+    },
+    "Agent-to-User Interface": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        23,
+        118,
+        282
+      ]
+    },
+    "Server-Driven UI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        114,
+        274
+      ]
+    },
+    "SDUI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "GenUI": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        29,
+        116
+      ]
+    },
+    "Novel Writing Assistant": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        35
+      ]
+    },
+    "Web-Konsole": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        50,
+        110,
+        114,
+        249,
+        267
+      ]
+    },
+    "Algorithmic Horror": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Existenz durch Negation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        233
+      ]
+    },
+    "Gödel-Satz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Strange Attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "13 Entitäten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        156
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        158
+      ]
+    }
+  }
+}

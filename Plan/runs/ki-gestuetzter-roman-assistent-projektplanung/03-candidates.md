@@ -1,0 +1,84 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Observations. The document is a specification for a web console around the novel; its world terms are mostly stated inside a table, a skill text and a JSON block. The colour typology table names several colour terms for figures and for the core wound; they are left off this list on purpose. Some lines of the table and the skill text also carry names the project no longer uses; they are neither listed nor cited. The reference list at the end holds titles of works and web pages, which stay off the list.
+
+- Kohärenz-Protokoll
+- Kohärenz-Protokolls
+- Kohärenz Protokoll
+- Kohärenz-Konsole
+- System Kael
+- Kael
+- Juna
+- Nyx
+- Kiko
+- Lia
+- Selene
+- Lex
+- Die Wächterin
+- AEGIS
+- Kernwelt
+- Kernwelten
+- KW1
+- KW2
+- KW4
+- Digitalen Überwelt
+- Mnemosyne-Archipels
+- Dual Kernel Theory
+- K1
+- K0
+- Coherence Kernel / Order
+- Collapse Kernel / Chaos
+- ANP
+- EP
+- Apparently Normal Part
+- Emotional Part
+- Nichts Rauschen
+- Die Leere / The Void
+- Die Leere
+- The Void
+- Das Fundament
+- Moonshine-Links
+- Paradoxon X
+- Perverse Learning Loop
+- Discursive Logic
+- Logics of Formal Inconsistency
+- LFI
+- Fissures
+- Risse
+- FissureAlert
+- FissureAlerts
+- EntityProfile
+- CoreWorldView
+- renderCoreWorld
+- displayEntityProfile
+- triggerFissureAlert
+- renderDialogueSurface
+- invokeMoonshineLink
+- Story.ncp.json
+- coherence-console-architect
+- Kugelschreiber-Stil
+- Mut zur Lücke
+- Liniengrammatik
+- Raues Papier
+- rauem Papier
+- Silhouetten
+- Negative Space
+- Kristallblau
+- Theorie der strukturellen Dissoziation der Persönlichkeit
+- Tertiaren Strukturellen Dissoziation
+- A2UI
+- Agent-to-User Interface
+- Server-Driven UI
+- SDUI
+- GenUI
+- Novel Writing Assistant
+- Web-Konsole
+- Algorithmic Horror
+- Existenz durch Negation
+- Gödel-Satz
+- Strange Attractor
+- 13 Entitäten
+
+## lens
+
+- TSDP

@@ -1,0 +1,210 @@
+{
+  "document": "ki-gestuetzter-roman-assistent-projektplanung",
+  "drive_id": "1CYbdQ1DEsM_VwqANJ021N4umgt5UiODxowoRun3r35Q",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; two probe lines naming the trauma symbol redacted by the session; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-554/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 76,
+    "decided_by_lookup": 60,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A build specification for a web console around the novel: its JSON sketch of the world — AEGIS, the dual kernel theory and its kernels, the void as Nichts Rauschen and Potentialmeer, the moonshine link, Kael's 13 entities — went on existing pages as a software document's sketch.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        225,
+        232,
+        233,
+        239,
+        240
+      ],
+      "attribution": "",
+      "note": "the antagonist system of the world sketch"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        236
+      ],
+      "attribution": "",
+      "note": "separate speakers to AEGIS"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        187
+      ],
+      "attribution": "",
+      "note": "the dual kernel theory as cosmological backbone"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        199,
+        239
+      ],
+      "attribution": "",
+      "note": "K0's entropy and Paradoxon X"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        43,
+        226
+      ],
+      "attribution": "",
+      "note": "a system of 13 entities, catalysed by the moonshine link"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "Kernwelt 1-4 as rendered landscapes"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        190,
+        191,
+        193
+      ],
+      "attribution": "",
+      "note": "K1, order, the ANP"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        196,
+        197
+      ],
+      "attribution": "",
+      "note": "K0, chaos, the EP"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        221,
+        226
+      ],
+      "attribution": "",
+      "note": "a transcendent link outside AEGIS's control"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        199,
+        205,
+        206
+      ],
+      "attribution": "",
+      "note": "K0's manifestation and the void"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        206
+      ],
+      "attribution": "",
+      "note": "the void as a high-entropy Potentialmeer"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        199
+      ],
+      "attribution": "",
+      "note": "cracks as fissures of K0"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        43
+      ],
+      "attribution": "",
+      "note": "a TSDP type per entity profile"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        42
+      ],
+      "attribution": "",
+      "note": "the digital Überwelt as a rendered world"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the world sketch L167–L243 and L42–L43 read; the moonshine link, the DKT and both kernels read on their pages by the sentence; the project title is an occurrence of `Kohärenz` (J9); the colour table L72–L82 and L138, L142, L220, L222, L224, L283, L287 (earlier names, the trauma symbol, a person's name, a person-named concept) are not cited, so juna, moros, nyx, lia, selene get no reading; Kiko and Lex appear only as examples of the software's rules",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 236,
+      "decision": "reading",
+      "why": "AEGIS treats the alters as single speakers; read on the page"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 199,
+      "decision": "reading",
+      "why": "K0's manifestation; read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 168,
+      "decision": "occurrence",
+      "why": "the project title (J9)"
+    },
+    {
+      "page": "moros",
+      "surface": "Moros",
+      "line": 138,
+      "decision": "occurrence",
+      "why": "on a barred line; not cited"
+    },
+    {
+      "page": "potentialmeer",
+      "surface": "Potentialmeer",
+      "line": 206,
+      "decision": "reading",
+      "why": "the void as a high-entropy Potentialmeer; read on the page"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Überwelt",
+      "line": 42,
+      "decision": "reading",
+      "why": "the digital Überwelt as a rendered world; read on the page"
+    }
+  ],
+  "not_promoted": [
+    "the API functions, A2UI, Story.ncp.json, the triad, Das Fundament, LFI, Perverse Learning Loop, Paradoxon X, Algorithmic Horror, the deployment plan"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

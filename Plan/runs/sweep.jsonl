@@ -1918,3 +1918,9 @@
 {"document": "parakonsistente-logik-im-seelen-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 77, "decision": "occurrence", "why": "another sense (J9)", "at": "2026-10-19"}
 {"document": "parakonsistente-logik-im-seelen-protokoll", "page": "multiplizitaet", "surface": "Multiplizität", "line": 40, "decision": "occurrence", "why": "another sense", "at": "2026-10-19"}
 {"document": "parakonsistente-logik-im-seelen-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 17, "decision": "occurrence", "why": "the simulation is not named Überwelt", "at": "2026-10-19"}
+{"document": "ki-gestuetzter-roman-assistent-projektplanung", "page": "alters", "surface": "Alters", "line": 236, "decision": "reading", "why": "AEGIS treats the alters as single speakers; read on the page", "at": "2026-10-19"}
+{"document": "ki-gestuetzter-roman-assistent-projektplanung", "page": "entropie", "surface": "Entropie", "line": 199, "decision": "reading", "why": "K0's manifestation; read on the page", "at": "2026-10-19"}
+{"document": "ki-gestuetzter-roman-assistent-projektplanung", "page": "kohaerenz", "surface": "Kohärenz", "line": 168, "decision": "occurrence", "why": "the project title (J9)", "at": "2026-10-19"}
+{"document": "ki-gestuetzter-roman-assistent-projektplanung", "page": "moros", "surface": "Moros", "line": 138, "decision": "occurrence", "why": "on a barred line; not cited", "at": "2026-10-19"}
+{"document": "ki-gestuetzter-roman-assistent-projektplanung", "page": "potentialmeer", "surface": "Potentialmeer", "line": 206, "decision": "reading", "why": "the void as a high-entropy Potentialmeer; read on the page", "at": "2026-10-19"}
+{"document": "ki-gestuetzter-roman-assistent-projektplanung", "page": "ueberwelt", "surface": "Überwelt", "line": 42, "decision": "reading", "why": "the digital Überwelt as a rendered world; read on the page", "at": "2026-10-19"}
