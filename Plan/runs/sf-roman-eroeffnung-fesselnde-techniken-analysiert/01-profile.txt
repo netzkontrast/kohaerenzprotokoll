@@ -1,0 +1,14 @@
+# sf-roman-eroeffnung-fesselnde-techniken-analysiert
+  lines                251  (frontmatter ends at 9)
+  body words           5029
+  headings             20   bold-only lines 0
+  table rows           11   code fences 0
+  question marks       5
+  backslash escapes    82
+  typographic marks    155   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    58
+  repeated labels      none
+  longest line         1264 chars
+
