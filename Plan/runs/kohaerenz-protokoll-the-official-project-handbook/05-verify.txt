@@ -1,0 +1,83 @@
+# 05-verify — numbers stated in census and note
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "canonical"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`canonical` ^[kohaerenz-protokoll-the-official-project-handbook.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "Canonical"
+whole word, case-sensitive     3
+whole word, case-insensitive   6
+including compounds            3
+
+`Canonical` ^[kohaerenz-protokoll-the-official-project-handbook.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "unchallengeable"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`unchallengeable` ^[kohaerenz-protokoll-the-official-project-handbook.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "mandated"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`mandated` ^[kohaerenz-protokoll-the-official-project-handbook.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "non-negotiable"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`non-negotiable` ^[kohaerenz-protokoll-the-official-project-handbook.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "39"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`39` ^[kohaerenz-protokoll-the-official-project-handbook.md:#2]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[kohaerenz-protokoll-the-official-project-handbook.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-protokoll-the-official-project-handbook.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[kohaerenz-protokoll-the-official-project-handbook.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`chapter` ^[kohaerenz-protokoll-the-official-project-handbook.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "chapters"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`chapters` ^[kohaerenz-protokoll-the-official-project-handbook.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "Chapter"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Chapter` ^[kohaerenz-protokoll-the-official-project-handbook.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-the-official-project-handbook --count "Guardians"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Guardians` ^[kohaerenz-protokoll-the-official-project-handbook.md:#1]
+stance_marker_count 9 = canonical 3 + Canonical 3 + unchallengeable 1 + mandated 1 + non-negotiable 1 (case-sensitive counts above)
+75 candidates: census.py draft
+$ grep -cP candidates: Plan/runs/kohaerenz-protokoll-the-official-project-handbook/03-candidates.md lines '- '
+75

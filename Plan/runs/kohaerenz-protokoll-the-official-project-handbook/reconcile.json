@@ -1,0 +1,219 @@
+{
+  "document": "kohaerenz-protokoll-the-official-project-handbook",
+  "drive_id": "1hqGEJKMjcLcterBG42SLW9ZlTEhEdpZxkI5IPsrK6RQ",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-535/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 79,
+    "decided_by_lookup": 57,
+    "needs_judgement": 22
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An English handbook that declares itself canonical: its rulings on AEGIS, Kael, the parts, the DKT and its kernels, the Kernwelten, the Überwelt and the Guardians went on existing pages as its claims, not applied.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        21,
+        23,
+        41,
+        55,
+        67,
+        73,
+        75,
+        115
+      ],
+      "attribution": "",
+      "note": "a tragic autopoietic system, transformed not destroyed"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "the Protector-ANP of external conflict"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "AEGIS's fate as permanent algorithmic melancholy"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        74,
+        126
+      ],
+      "attribution": "",
+      "note": "each alter a separate speaker to AEGIS's logic"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        51,
+        55
+      ],
+      "attribution": "",
+      "note": "the Dual Kernel Theory as the engine of existence"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        41
+      ],
+      "attribution": "",
+      "note": "the Genesis-Krise as AEGIS's tragic origin"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        45
+      ],
+      "attribution": "",
+      "note": "the Wächter-Zwiespalt ruled canonical"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        21,
+        23,
+        43,
+        79,
+        83,
+        127
+      ],
+      "attribution": "",
+      "note": "a fragmented system whose integration drives the climax"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        87,
+        97
+      ],
+      "attribution": "",
+      "note": "four Kernwelten inside the Überwelt, externalised psychological landscapes"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "the Wounded Child holding the core trauma, in KW2"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the Coherence Kernel (K₁) and AEGIS"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        55
+      ],
+      "attribution": "",
+      "note": "the Collapse Kernel (K₀) as erosive correspondence check"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        83
+      ],
+      "attribution": "",
+      "note": "the Rationalist, mirror of AEGIS, in KW1"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "the Apothecary of Freeze/Shutdown, in KW2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        39
+      ],
+      "attribution": "",
+      "note": "a character arc toward functional multiplicity"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        85
+      ],
+      "attribution": "",
+      "note": "the Avenger holding the system's rage, in KW3"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        39,
+        79
+      ],
+      "attribution": "",
+      "note": "TSDP as the diagnostic framework of Kael's fragmentation"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        97
+      ],
+      "attribution": "",
+      "note": "the information-based control plane holding the Kernwelten"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the Kernwelten named after Guardians (KW1–KW4) are read on kern-welten, not on the Guardian pages; English names for paged terms read on their pages by the sentence (J100): algorithmic melancholy, the Coherence and Collapse Kernels, functional multiplicity; `Rauschen` as AEGIS's word for noise is not the Nichts-Rauschen; the title is an occurrence of `Kohärenz` (J9); the table row with an earlier name and every person-named concept are not cited",
+  "sweep": [
+    {
+      "page": "guardians",
+      "surface": "Guardians",
+      "line": 45,
+      "decision": "reading",
+      "why": "the ruling on the Guardians' role (Wächter-Zwiespalt); read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the handbook's title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "Exclusionary and Emergent Order, Self-Referential and Integrative Logic, Correspondence-Based Truth, ANP-EP Phobia, Wächter-Zwiespalt, the person-named protocol and its terms, ontological mass, Semantic Tidal Forces, Great Fact, LFI, Discursive Logic, Paradox of Misaligned Coherence, The Sentinel, Mosaic-Structure, slots, Gravitational Architecture and its three phases, Algorithmic Horror, Dual-Voice Strategy, choric 'we', titration, Performative Prose, IFS, dialetheism, gnosis, episteme"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

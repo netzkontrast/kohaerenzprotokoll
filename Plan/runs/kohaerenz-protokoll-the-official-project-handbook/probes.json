@@ -1,0 +1,160 @@
+{
+  "document": "kohaerenz-protokoll-the-official-project-handbook",
+  "drive_id": "1hqGEJKMjcLcterBG42SLW9ZlTEhEdpZxkI5IPsrK6RQ",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 2,
+  "backslash_escapes": 0,
+  "typographic_marks": 10,
+  "ascii_quotes": 126,
+  "inflection_families": {
+    "integ": [
+      "Integrated",
+      "Integration",
+      "Integrative",
+      "Integrator"
+    ],
+    "archi": [
+      "Archipel",
+      "Architecture",
+      "Archives"
+    ],
+    "logic": [
+      "Logic",
+      "Logical",
+      "Logics"
+    ],
+    "contr": [
+      "Contradiction",
+      "Control"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent"
+    ],
+    "exter": [
+      "External",
+      "Externalized"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "incon": [
+      "Inconsistency",
+      "Inconsistent"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialis"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll"
+    ],
+    "psych": [
+      "Psycho",
+      "Psychological"
+    ],
+    "ratio": [
+      "Rationale",
+      "Rationalist"
+    ],
+    "seman": [
+      "Semantic",
+      "Semantik"
+    ],
+    "struc": [
+      "Structural",
+      "Structure"
+    ],
+    "subje": [
+      "Subjective",
+      "Subjectivity"
+    ],
+    "syste": [
+      "System",
+      "Systems"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dual",
+      "Duality"
+    ],
+    [
+      "Child",
+      "Schwarzschild"
+    ],
+    [
+      "Logic",
+      "Logics"
+    ],
+    [
+      "Logic",
+      "Logical"
+    ],
+    [
+      "Logic",
+      "Ontological"
+    ],
+    [
+      "Logic",
+      "Psychological"
+    ],
+    [
+      "Entity",
+      "Identity"
+    ],
+    [
+      "Forces",
+      "Reinforces"
+    ],
+    [
+      "Psycho",
+      "Psychological"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "Diction",
+      "Contradiction"
+    ],
+    [
+      "Logical",
+      "Ontological"
+    ],
+    [
+      "Logical",
+      "Psychological"
+    ],
+    [
+      "External",
+      "Externalized"
+    ],
+    [
+      "Guardian",
+      "Guardians"
+    ],
+    [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    [
+      "Potential",
+      "Potentialis"
+    ]
+  ]
+}

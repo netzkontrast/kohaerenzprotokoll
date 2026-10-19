@@ -1848,3 +1848,5 @@
 {"document": "plotpunkte-liste", "page": "ueberwelt", "surface": "Simulation", "line": 43, "decision": "occurrence", "why": "the simulation's origin sought outside, not the Überwelt", "at": "2026-10-19"}
 {"document": "liste-nun-alle-plot-ideen-kurz-auf", "page": "kohaerenz", "surface": "Kohärenz", "line": 184, "decision": "occurrence", "why": "„interne Kohärenz“ of the tools, not the page's term (J9)", "at": "2026-10-19"}
 {"document": "liste-nun-alle-plot-ideen-kurz-auf", "page": "multiplizitaet", "surface": "Multiplizität", "line": 173, "decision": "reading", "why": "the Guardians confront the personas with their multiplicity; read on the page", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-the-official-project-handbook", "page": "guardians", "surface": "Guardians", "line": 45, "decision": "reading", "why": "the ruling on the Guardians' role (Wächter-Zwiespalt); read on the page", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-the-official-project-handbook", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the handbook's title (J9)", "at": "2026-10-19"}
