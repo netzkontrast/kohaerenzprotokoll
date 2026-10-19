@@ -1877,3 +1877,6 @@
 {"document": "romanentwurf-ruf-des-abenteuers", "page": "kern-welten", "surface": "Kern-Welt", "line": 27, "decision": "reading", "why": "Kern-Welt 2 as the chapter's setting; read on the page", "at": "2026-10-19"}
 {"document": "romanentwurf-ruf-des-abenteuers", "page": "kohaerenz", "surface": "Kohärenz", "line": 11, "decision": "occurrence", "why": "the title (J9)", "at": "2026-10-19"}
 {"document": "romanentwurf-ruf-des-abenteuers", "page": "ueberwelt", "surface": "Simulation", "line": 22, "decision": "occurrence", "why": "on a line with an earlier name; not cited", "at": "2026-10-19"}
+{"document": "roman-blueprint-seelen-kohaerenz-protokoll", "page": "emergenz", "surface": "Emergenz", "line": 807, "decision": "occurrence", "why": "a theme word in a plot point's focus", "at": "2026-10-19"}
+{"document": "roman-blueprint-seelen-kohaerenz-protokoll", "page": "kohaerenz", "surface": "Kohärenz", "line": 47, "decision": "occurrence", "why": "the fragmented logic's collision with wholeness; not the page's term (J9)", "at": "2026-10-19"}
+{"document": "roman-blueprint-seelen-kohaerenz-protokoll", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 691, "decision": "occurrence", "why": "the personas' false hypothesis of a higher plane, not the paged term", "at": "2026-10-19"}

@@ -1,0 +1,14 @@
+# roman-blueprint-seelen-kohaerenz-protokoll
+  lines                882  (frontmatter ends at 9)
+  body words           12062
+  headings             1   bold-only lines 22
+  table rows           28   code fences 0
+  question marks       108
+  backslash escapes    80
+  typographic marks    19   ascii quotes 166
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    70
+  repeated labels      none
+  longest line         810 chars
+

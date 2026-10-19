@@ -1,0 +1,314 @@
+{
+  "document": "roman-blueprint-seelen-kohaerenz-protokoll",
+  "drive_id": "1Q0_EYvmBgr9qDE_0jls5FCSwDyDSXzRx5zZeeOpGZjw",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 70,
+  "backslash_escapes": 80,
+  "typographic_marks": 19,
+  "ascii_quotes": 166,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanalyse",
+      "Systembereichen",
+      "Systemchecks",
+      "Systemdaten",
+      "Systeme",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemlimits",
+      "Systemlogik",
+      "Systemrauschen",
+      "Systems",
+      "Systemstabilisierung",
+      "Systemstabilität",
+      "Systemversagen",
+      "Systemweite"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informations",
+      "Informationsgesellschaft",
+      "Informationskollapse",
+      "Informationsmanagement",
+      "Informationsmuster",
+      "Informationsnetz",
+      "Informationspfade",
+      "Informationssperren",
+      "Informationssuche",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationsüberflutung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenarchiv",
+      "Datenbildschirm",
+      "Datenfehler",
+      "Datenfragment",
+      "Datenkonstrukt",
+      "Datenlogs",
+      "Datenpunkte",
+      "Datensphären",
+      "Datenströme"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interesse",
+      "Interface",
+      "Interne",
+      "Interner",
+      "Interpretation",
+      "Interpretationsspielräume",
+      "Intervention"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrationsprozess",
+      "Integrationsprozesses",
+      "Integrationsversuch",
+      "Integrationsversuche",
+      "Integrationswerkzeuge",
+      "Integrität"
+    ],
+    "analy": [
+      "Analyse",
+      "Analyseebene",
+      "Analysemodelle",
+      "Analysen",
+      "Analysewerkzeuge",
+      "Analysezentrum",
+      "Analysiert"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierte",
+      "Fragmentierten",
+      "Fragmentiertes",
+      "Fragmentierung"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsbrüche",
+      "Realitätsebene",
+      "Realitätsriss",
+      "Realitätsstörung",
+      "Realitätsverlust"
+    ],
+    "grund": [
+      "Grundannahme",
+      "Grundfehlers",
+      "Grundierung",
+      "Grundlage",
+      "Grundstimmung",
+      "Grundtönungen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsbogen",
+      "Handlungsebene",
+      "Handlungsmittel",
+      "Handlungsphase"
+    ],
+    "kontr": [
+      "Kontrapunkt",
+      "Kontroll",
+      "Kontrollbedürfnis",
+      "Kontrolle",
+      "Kontrollstrategie",
+      "Kontrollverlust"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzepts"
+    ],
+    "kreat": [
+      "Kreationen",
+      "Kreativ",
+      "Kreative",
+      "Kreativität",
+      "Kreativitäts",
+      "Kreativitätsausbrüche"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstakzeptanz",
+      "Selbstheilung",
+      "Selbsthilfe",
+      "Selbstoptimierung",
+      "Selbstorganisation"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsbemühungen",
+      "Sicherheitslevel",
+      "Sicherheitslücke",
+      "Sicherheitslücken",
+      "Sicherheitsrisiko"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsdaten",
+      "Erinnerungsfetzen",
+      "Erinnerungsfragmente"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbolbild",
+      "Symbole",
+      "Symbolik",
+      "Symbolische"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchs",
+      "Versucht",
+      "Versunkenheit"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissens",
+      "Wissenschaft",
+      "Wissensdurst",
+      "Wissenslücken"
+    ],
+    "zusam": [
+      "Zusammenarbeit",
+      "Zusammenbruch",
+      "Zusammenfassung",
+      "Zusammenhang",
+      "Zusammenhänge"
+    ],
+    "ander": [
+      "Andere",
+      "Anderen",
+      "Anderes",
+      "Andernfalls"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsanalyse",
+      "Bedrohungswahrnehmung"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionen",
+      "Emotionsregulatoren"
+    ],
+    "erklä": [
+      "Erklärung",
+      "Erklärungen",
+      "Erklärungsebene",
+      "Erklärungsmodell"
+    ],
+    "ersch": [
+      "Erschaffung",
+      "Erscheint",
+      "Erscheinung",
+      "Erscheinungsbild"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alte",
+      "Verhalten"
+    ],
+    [
+      "Alte",
+      "Verwaltet"
+    ],
+    [
+      "Alte",
+      "Festhalten"
+    ],
+    [
+      "Alte",
+      "Alternativen"
+    ],
+    [
+      "Alte",
+      "Abgespaltener"
+    ],
+    [
+      "Alte",
+      "Verhaltensmuster"
+    ],
+    [
+      "Bild",
+      "Bildet"
+    ],
+    [
+      "Bild",
+      "Weltbild"
+    ],
+    [
+      "Bild",
+      "Symbolbild"
+    ],
+    [
+      "Bild",
+      "Weltbildes"
+    ],
+    [
+      "Bild",
+      "Datenbildschirm"
+    ],
+    [
+      "Bild",
+      "Erscheinungsbild"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Endet"
+    ],
+    [
+      "Ende",
+      "Beendet"
+    ]
+  ]
+}
