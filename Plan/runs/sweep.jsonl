@@ -1941,3 +1941,11 @@
 {"document": "parakonsistente-logik-fuer-kohaerenz-protokoll", "page": "ueberwelt", "surface": "Simulation", "line": 157, "decision": "occurrence", "why": "the simulation in passing", "at": "2026-10-19"}
 {"document": "uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert", "page": "alex", "surface": "Alex", "line": 113, "decision": "reading", "why": "read from entry 8's fields (L115, L124); the heading L113 holds an earlier name and is not cited", "at": "2026-10-19"}
 {"document": "uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert", "page": "kohaerenz", "surface": "Kohärenz", "line": 13, "decision": "occurrence", "why": "the project's name", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "juna", "surface": "(an earlier name)", "line": 19, "decision": "occurrence", "why": "an earlier name; no identity made plain", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "kael", "surface": "(an earlier name)", "line": 17, "decision": "occurrence", "why": "an earlier name; no identity made plain", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "kairos", "surface": "Kairos", "line": 141, "decision": "occurrence", "why": "on a line with an earlier name, not cited (decision 028)", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "kohaerenz", "surface": "Kohärenz", "line": 17, "decision": "occurrence", "why": "on a line with an earlier name, not cited (decision 028)", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "partnerin", "surface": "Partnerin", "line": 31, "decision": "occurrence", "why": "on a line with an earlier name, not cited (decision 028)", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "personas", "surface": "Personas", "line": 31, "decision": "occurrence", "why": "on a line with an earlier name, not cited (decision 028)", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "realitaetsebenen", "surface": "Realitätsebene", "line": 38, "decision": "occurrence", "why": "on a line with an earlier name, not cited (decision 028)", "at": "2026-10-19"}
+{"document": "kohaerenz-protokoll-konzept", "page": "sophia", "surface": "Sophia", "line": 141, "decision": "occurrence", "why": "on a line with an earlier name, not cited (decision 028)", "at": "2026-10-19"}
