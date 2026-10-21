@@ -1,0 +1,52 @@
+# every number the census and note state
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Integration von Forschung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Integration von Forschung` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#4]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Szenario"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Szenario` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#6]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "AEGIS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`AEGIS` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#1]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#0]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Phase 0"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Phase 0` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#5]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Phase 4"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Phase 4` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#3]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Offenhalten der Trennung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Offenhalten der Trennung` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#3]
+$ python3 scripts/read.py juna-kael-system-krisenanalyse-und-rettungsplan --count "Hoffnung auf Transzendenz"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Hoffnung auf Transzendenz` ^[juna-kael-system-krisenanalyse-und-rettungsplan.md:#4]
+stance_marker_count 10 = 4 (Integration von Forschung) + 6 (Szenario)
+$ grep -c "Kohärenz Protokoll Charaktere"
+1
