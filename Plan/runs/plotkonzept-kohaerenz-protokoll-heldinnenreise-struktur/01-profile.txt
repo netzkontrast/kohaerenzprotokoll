@@ -1,0 +1,14 @@
+# plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur
+  lines                78  (frontmatter ends at 9)
+  body words           1525
+  headings             2   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    2   ascii quotes 28
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    56
+  repeated labels      none
+  longest line         820 chars
+
