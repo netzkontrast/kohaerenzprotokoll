@@ -1,0 +1,405 @@
+{
+  "document": "sozialrechtliche-begutachtung-komplexer-traumafolgestoerunge",
+  "drive_id": "1OuxYhpWyB9xtCosn_f8yIVCM900Ghby2ZXj_zAdxV7M",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 41,
+  "backslash_escapes": 38,
+  "typographic_marks": 35,
+  "ascii_quotes": 172,
+  "inflection_families": {
+    "unter": [
+      "Untergrenze",
+      "Unterlagen",
+      "Unterscheidung",
+      "Unterscheidungsmerkmale",
+      "Unterschiede",
+      "Unterschreitung",
+      "Unterschätzung",
+      "Unterschätzungen",
+      "Unterstützung",
+      "Untersuchung",
+      "Untersuchungen",
+      "Untersuchungsatmosphäre",
+      "Untersuchungsbedingungen",
+      "Untersuchungsdauer",
+      "Untersuchungsführung",
+      "Untersuchungssituation",
+      "Untersuchungsstil",
+      "Untersuchungszeit",
+      "Untersuchungszeiten"
+    ],
+    "begut": [
+      "Begutachtung",
+      "Begutachtungen",
+      "Begutachtungsanleitung",
+      "Begutachtungsgrundlagen",
+      "Begutachtungsleitfaden",
+      "Begutachtungsleitfäden",
+      "Begutachtungspraxis",
+      "Begutachtungsprozess",
+      "Begutachtungsrichtlinien",
+      "Begutachtungsschwierigkeiten",
+      "Begutachtungssituation",
+      "Begutachtungssituationen",
+      "Begutachtungswissenschaften"
+    ],
+    "gesam": [
+      "Gesamt",
+      "Gesamtbeeinträchtigung",
+      "Gesamtbehinderung",
+      "Gesamtbelastung",
+      "Gesamtbetrachtung",
+      "Gesamtfolgen",
+      "Gesamtheit",
+      "Gesamtkontextes",
+      "Gesamtkrankheitsbild",
+      "Gesamtschau",
+      "Gesamtsituation",
+      "Gesamtverlauf"
+    ],
+    "krank": [
+      "Krankenversicherung",
+      "Krankheiten",
+      "Krankheitsaktivität",
+      "Krankheitsaspekte",
+      "Krankheitsbild",
+      "Krankheitsbilder",
+      "Krankheitsbildern",
+      "Krankheitsphasen",
+      "Krankheitsverlauf",
+      "Krankheitsverlaufs",
+      "Krankheitsverständnis",
+      "Krankheitsverständnisses"
+    ],
+    "schwe": [
+      "Schweizer",
+      "Schweizerisches",
+      "Schwerbehinderte",
+      "Schwerbehindertenausweis",
+      "Schwerbehinderteneigenschaft",
+      "Schwerbehindertenrecht",
+      "Schwerbehindertenvertretungen",
+      "Schwere",
+      "Schweregrad",
+      "Schweregrade",
+      "Schweregraden",
+      "Schwerpunktversorgungen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbestimmung",
+      "Selbstbild",
+      "Selbstbildes",
+      "Selbsterlebens",
+      "Selbstfürsorge",
+      "Selbstkonzept",
+      "Selbstkonzepts",
+      "Selbstorganisation",
+      "Selbstverletzungen",
+      "Selbstwahrnehmung",
+      "Selbstzweifel"
+    ],
+    "sozia": [
+      "Sozialdatenschutz",
+      "Soziale",
+      "Sozialgericht",
+      "Sozialgerichtsbarkeit",
+      "Sozialgerichtsgesetz",
+      "Sozialgerichtsverfahren",
+      "Sozialgesetzbuch",
+      "Sozialmedizinische",
+      "Sozialmedizinischen",
+      "Sozialrecht",
+      "Sozialrechts",
+      "Sozialverwaltungsverfahren"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interdisziplinarität",
+      "Interesse",
+      "International",
+      "Internationale",
+      "Internationalen",
+      "Interne",
+      "Internet",
+      "Intervalle",
+      "Intervallen",
+      "Interventionen"
+    ],
+    "langz": [
+      "Langzeitbehandler",
+      "Langzeitbehandlern",
+      "Langzeitbehandlers",
+      "Langzeitbeobachtung",
+      "Langzeitbeobachtungen",
+      "Langzeitberichte",
+      "Langzeitdokumentation",
+      "Langzeitdokumentationen",
+      "Langzeitprognose",
+      "Langzeitverlauf",
+      "Langzeitverlaufs"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeiten",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteils",
+      "Persönlichkeitsstruktur",
+      "Persönlichkeitsstörung",
+      "Persönlichkeitsstörungen",
+      "Persönlichkeitszustand",
+      "Persönlichkeitszustände",
+      "Persönlichkeitszuständen",
+      "Persönlichkeitsänderung"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaerinnerungen",
+      "Traumafolgen",
+      "Traumafolgestörung",
+      "Traumafolgestörungen",
+      "Traumata",
+      "Traumatic",
+      "Traumatisch",
+      "Traumatisierung",
+      "Traumatisierungen",
+      "Traumen"
+    ],
+    "argum": [
+      "Argument",
+      "Argumentation",
+      "Argumentationsachsen",
+      "Argumentationsansätze",
+      "Argumentationsbeispiel",
+      "Argumentationsfokus",
+      "Argumentationslinien",
+      "Argumentationsmuster",
+      "Argumentationsstruktur",
+      "Argumente"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweiserhebung",
+      "Beweiskraft",
+      "Beweismittel",
+      "Beweismittelhierarchie",
+      "Beweismitteln",
+      "Beweiswert",
+      "Beweiswerts",
+      "Beweiswurdigung",
+      "Beweiswürdigung"
+    ],
+    "sympt": [
+      "Symptomatik",
+      "Symptomausprägung",
+      "Symptome",
+      "Symptomen",
+      "Symptomfluktuation",
+      "Symptomintensität",
+      "Symptomkomplexe",
+      "Symptoms",
+      "Symptomverschlechterungen",
+      "Symptomüberzeichnung"
+    ],
+    "gutac": [
+      "Gutachten",
+      "Gutachtenerstellung",
+      "Gutachtenmethodik",
+      "Gutachtenqualität",
+      "Gutachtens",
+      "Gutachter",
+      "Gutachtern",
+      "Gutachters",
+      "Gutachtliche"
+    ],
+    "psych": [
+      "Psychiatrie",
+      "Psychologen",
+      "Psychologie",
+      "Psychologinnen",
+      "Psychosomatik",
+      "Psychotherapeuten",
+      "Psychotherapeutenjournal",
+      "Psychotherapie",
+      "Psychotraumatologie"
+    ],
+    "recht": [
+      "Recht",
+      "Rechte",
+      "Rechtsanwalt",
+      "Rechtsanwälte",
+      "Rechtsgebiet",
+      "Rechtsgrundlagen",
+      "Rechtsprechung",
+      "Rechtsprinzipien",
+      "Rechtssinne"
+    ],
+    "schme": [
+      "Schmerzbegutachtung",
+      "Schmerzen",
+      "Schmerzstörung",
+      "Schmerzstörungen",
+      "Schmerzsymptomatik",
+      "Schmerzsyndrome",
+      "Schmerzsyndromen",
+      "Schmerzwahrnehmung",
+      "Schmerzzustände"
+    ],
+    "thera": [
+      "Therapeuten",
+      "Therapeutenbrille",
+      "Therapie",
+      "Therapieabbrüche",
+      "Therapieberichte",
+      "Therapieberichten",
+      "Therapien",
+      "Therapieresistenz",
+      "Therapieversuche"
+    ],
+    "bunde": [
+      "Bundesausschusses",
+      "Bundesgericht",
+      "Bundesrepublik",
+      "Bundessozialgericht",
+      "Bundessozialgerichts",
+      "Bundesversorgungsgesetzes",
+      "Bundesverwaltungsgericht",
+      "Bundesärztekammer"
+    ],
+    "einze": [
+      "Einzel",
+      "Einzelbeeinträchtigungen",
+      "Einzelfall",
+      "Einzelfallanalysen",
+      "Einzelfalles",
+      "Einzelfalls",
+      "Einzelimportierte",
+      "Einzelwert"
+    ],
+    "funkt": [
+      "Funktionalität",
+      "Funktionen",
+      "Funktionsbeeinträchtigung",
+      "Funktionsbeeinträchtigungen",
+      "Funktionseinbußen",
+      "Funktionsfähigkeit",
+      "Funktionsniveau",
+      "Funktionsstörungen"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensbereiche",
+      "Lebensbereichen",
+      "Lebensführung",
+      "Lebensqualität",
+      "Lebenssituation",
+      "Lebensstils"
+    ],
+    "sachv": [
+      "Sachverhalten",
+      "Sachverhalts",
+      "Sachverhaltsaufklärung",
+      "Sachverstaendigengutachten",
+      "Sachverständigen",
+      "Sachverständigengutachten",
+      "Sachverständigengutachtens",
+      "Sachverständiger"
+    ],
+    "vergl": [
+      "Vergleich",
+      "Vergleichbarkeit",
+      "Vergleiche",
+      "Vergleichs",
+      "Vergleichsgruppe",
+      "Vergleichsleidens",
+      "Vergleichswege",
+      "Vergleichsüberlegungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falles"
+    ],
+    [
+      "Alle",
+      "Intervalle"
+    ],
+    [
+      "Alle",
+      "Parallelen"
+    ],
+    [
+      "Alle",
+      "Intervallen"
+    ],
+    [
+      "Alle",
+      "Einzelfalles"
+    ],
+    [
+      "Arzt",
+      "Nervenarzt"
+    ],
+    [
+      "Arzt",
+      "Arzthaftungsrecht"
+    ],
+    [
+      "Auch",
+      "Substanzmissbrauch"
+    ],
+    [
+      "Auch",
+      "Substanzgebrauchsstörung"
+    ],
+    [
+      "Auch",
+      "Substanzgebrauchsstörungen"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Selbstbild"
+    ],
+    [
+      "Bild",
+      "Fortbildung"
+    ],
+    [
+      "Bild",
+      "Rückbildung"
+    ],
+    [
+      "Bild",
+      "Selbstbildes"
+    ],
+    [
+      "Bild",
+      "Störungsbild"
+    ],
+    [
+      "Bild",
+      "Krankheitsbild"
+    ],
+    [
+      "Bild",
+      "Störungsbilder"
+    ],
+    [
+      "Bild",
+      "Zustandsbildes"
+    ],
+    [
+      "Bild",
+      "Erscheinungsbild"
+    ]
+  ]
+}
