@@ -1,0 +1,48 @@
+# counts for 26 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  DIS                              62 word    71 in   [15, 17, 19, 21, 23, 27]
+  Dissoziative Identitätsstörung   11 word    11 in   [11, 23, 29, 41, 198, 221]
+  Anteile                           5 word     5 in   [29, 104, 182, 209, 210]
+  Innenpersonen                     1 word     1 in   [65]
+  Wir-Sprache                       5 word     5 in   [63, 65, 180, 182, 210]
+  Persönlichkeitszustände           8 word    10 in   [29, 42, 43, 198, 202, 221]
+                                    2      as Persönlichkeitszuständen
+  Amnesie                           6 word    13 in   [31, 44, 59, 61, 79, 87]  <-- substring
+                                    6      as Amnesien
+                                    1      as Amnesie-Episoden
+  Amnesien                          6 word     6 in   [31, 61, 87, 117, 208, 236]
+  Depersonalisation                 5 word     8 in   [55, 79, 87, 104, 208, 222]
+                                    1      as Depersonalisationserleben
+                                    1      as Depersonalisations-
+                                    1      as Depersonalisations-Derealisationsstörung
+  Derealisation                     4 word     6 in   [55, 79, 208, 222, 301]
+                                    1      as Derealisationserfahrungen
+  Identitätsverwirrung              1 word     1 in   [79]
+  Identitätsalteration              1 word     1 in   [79]
+  SCID-D                           10 word    11 in   [79, 81, 94, 117, 139, 202]
+                                    1      as SCID-D-Interview
+  ISSTD                             3 word    12 in   [65, 77, 85, 89, 91, 117]  <-- substring
+                                    9      as ISSTD-Leitlinien
+  Facharztstandard                  3 word     5 in   [87, 113, 117, 203, 242]
+                                    2      as Facharztstandards
+  Sorgfaltspflicht                  8 word    10 in   [11, 87, 109, 111, 113, 117]
+                                    2      as Sorgfaltspflichten
+  Dokumentationspflicht             7 word     8 in   [17, 119, 125, 129, 164, 208]
+                                    1      as Dokumentationspflichten
+  Patientenakte                    14 word    15 in   [121, 133, 141, 143, 147, 149]
+  Berichtigung                      8 word    12 in   [133, 145, 147, 151, 164, 165]
+                                    1      as Berichtigungen
+                                    1      as Berichtigungsansprüche
+                                    1      as Berichtigungsforderungen
+                                    1      as Berichtigungsersuchens
+  Goldstandard                      1 word     1 in   [79]
+  Retraumatisierung                 1 word     1 in   [96]
+  Exploration                      10 word    12 in   [57, 61, 73, 75, 77, 81]
+                                    1      as Explorationen
+  Beanstandungen                    5 word     5 in   [188, 192, 215, 219, 248]
+  Forderungen                       5 word     5 in   [188, 213, 215, 217, 252]
+  verdeckte Symptomatik             2 word     2 in   [73, 85]
+  Non-Malefizienz                   2 word     2 in   [172, 174]
