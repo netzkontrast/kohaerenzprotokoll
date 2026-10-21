@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      51
+  backslash escapes      26
+  typographic marks      41
+  ascii quotes           130
+
+# inflection families -- one term, several surfaces
+  begut    Begutachtung, Begutachtungen, Begutachtungs, Begutachtungsanleitung, Begutachtungsanleitungen, Begutachtungsantrags, Begutachtungsassessment, Begutachtungsbedingungen, Begutachtungsfähigkeiten, Begutachtungsgrundlagen, Begutachtungskompetenz, Begutachtungsleitfaden, Begutachtungsmethodik, Begutachtungssituation, Begutachtungssituationen, Begutachtungsstandards, Begutachtungswissenschaften
+  krank    Kranke, Krankengeld, Krankengeldanspruch, Krankengeschichte, Krankenversicherung, Kranker, Krankheit, Krankheiten, Krankheitsaktivität, Krankheitsbewältigung, Krankheitsbild, Krankheitsbilder, Krankheitsbildern, Krankheitsbildes, Krankheitskombinationen, Krankheitsmodells, Krankheitsverlaufs
+  psych    PSYCHISCHE, Psych, Psyche, Psychiatrische, Psychisch, Psychische, PsychischeGesundheit, Psychisches, Psychologie, Psychosomatisch, Psychotherapeuten, Psychotherapeutenjournal, Psychotherapeutische, Psychotherapie, Psychotraumatologie
+  unter    Untergrenze, Unterlagen, Unterscheidung, Unterschied, Unterschiede, Unterschätzung, Unterstützungsangebote, Untersuchung, Untersuchungen, Untersuchungsdauer, Untersuchungstag, Untersuchungstiefe, Untersuchungszeit, Untersuchungszeiten
+  gutac    Gutachten, Gutachtenmethodik, Gutachtens, Gutachter, Gutachterin, Gutachterkommission, Gutachterkompetenz, Gutachtern, Gutachterqualifikation, Gutachters, Gutachtertätigkeit, Gutachtliche
+  grund    Grundbeeinträchtigung, Grunderkrankung, Grundkenntnisse, Grundlage, Grundlagen, Grundsaetze, Grundsatz, Grundstörung, Grundsätze, Grundsätzen, Grundvoraussetzungen
+  arbei    Arbeit, Arbeiterkammer, Arbeitsanweisungen, Arbeitsfähigkeit, Arbeitsgemeinschaften, Arbeitshilfe, Arbeitsleistungen, Arbeitsskript, Arbeitsunfall, Arbeitsunfähigkeit
+  bunde    Bundesamt, Bundesarbeitsgemeinschaft, Bundesministerium, Bundesregierung, Bundesrepublik, Bundessozialgericht, Bundessozialgerichts, Bundestag, Bundesverfassungsgericht, Bundesärztekammer
+  ident    Identifizieren, Identisch, Identität, Identitäten, Identitätsalteration, Identitätsfragmentierung, Identitätsstörung, Identitätsstörungen, Identitätswechsel, Identitätswechseln
+  sozia    SOZIALE, Sozialgericht, Sozialgerichts, Sozialgerichtsbarkeit, Sozialgerichtsgesetz, Sozialmedizin, Sozialmedizinische, Sozialministerium, Sozialrecht, Sozialverband
+  sympt    Symptom, Symptomatik, Symptombelastung, Symptome, Symptomen, Symptomfluktuation, Symptomintensität, Symptomlast, Symptomstörung, Symptomtagebücher
+  argum    Argument, Argumentation, Argumentationsbasis, Argumentationshilfe, Argumentationslinien, Argumentationsmuster, Argumentationsstrategie, Argumentationsstrategien, Argumentieren
+  recht    Recht, Rechte, Rechtsanwälte, Rechtsanwältin, Rechtsfolge, Rechtsgrundlagen, Rechtsprechung, Rechtsprinzipien, Rechtsstreit
+  schme    Schmerzbegutachtung, Schmerzen, Schmerzensgeld, Schmerzerkrankung, Schmerzstörung, Schmerzsymptomatik, Schmerzsyndrom, Schmerzsyndrome, Schmerzzustände
+  selbs    Selbst, Selbstbild, Selbsterlebens, Selbsthilfe, Selbsthilfeverbänden, Selbstkonzept, Selbstorganisation, Selbstständigkeit, Selbstwahrnehmung
+  behan    Behandelnder, Behandler, Behandlerberichte, Behandlerberichten, Behandlern, Behandlung, Behandlungsbedürftigkeit, Behandlungsfehler
+  besch    BESCH, Beschaeftigte, Bescheide, Beschluss, Beschreibung, Beschwerden, Beschwerdenvalidierung, Beschäftigte
+  gesam    Gesamt, Gesamtbeeinträchtigung, Gesamtbetrachtung, Gesamtbewertung, Gesamtbild, Gesamtheit, Gesamtschau, Gesamtwürdigung
+  langz    Langzeitbehandler, Langzeitbehandlerberichten, Langzeitbehandlern, Langzeitbeobachtungen, Langzeitberichte, Langzeitfolgen, Langzeitperspektive, Langzeitverlaufs
+  geric    Gericht, Gerichte, Gerichten, Gerichtlich, Gerichtsentscheidungen, Gerichtsgutachten, Gerichtsverfahren
+  persö    Persönlichkeitsanteile, Persönlichkeitsfunktion, Persönlichkeitsstruktur, Persönlichkeitsstörung, Persönlichkeitsstörungen, Persönlichkeitszustände, Persönlichkeitszuständen
+  stand    Stand, Standard, Standardausbildung, Standardisierte, Standards, Standarduntersuchungen, Stands
+  allta    Alltag, Alltagsanteil, Alltagsbewältigung, Alltagsfunktionalität, Alltagsorganisation, Alltagsstrukturierung
+  belas    Belastbarkeit, Belastung, Belastungsbezogene, Belastungsstoerung, Belastungsstorung, Belastungsstörung
+  bewei    Beweisanforderungen, Beweisanträge, Beweisfigur, Beweiswert, Beweiswerts, Beweiswürdigung
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Falles
+  Amts < Gesamtschau
+  Auch < Substanzmissbrauch
+  Auch < Substanzgebrauchsstörungen
+  Bahn < KnappschaftBahnSee
+  Band < Tagungsband
+  Band < Sozialverband
+  Band < Spitzenverband
+  Band < Spitzenverbandes
+  Bund < Bundesamt
+  Bund < Bundestag
+  Bund < Bundesrepublik
+  Bund < Bundesregierung
+  Bund < Bundesministerium
+  Bund < Bundesärztekammer
+  Bund < Bundessozialgericht
+  Bund < Bundessozialgerichts
+  Bund < Bundesverfassungsgericht
+  Bund < Bundesarbeitsgemeinschaft
+  Dies < Diese
