@@ -1,0 +1,256 @@
+{
+  "document": "tattoo-konzept-symbolik-trauma-heilung",
+  "drive_id": "13Pp58agvvj1Hv10qvsnjogopUn6eCbGNsHXG0v0i1AE",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 85,
+  "backslash_escapes": 68,
+  "typographic_marks": 71,
+  "ascii_quotes": 2,
+  "inflection_families": {
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolen",
+      "Symbolic",
+      "Symbolik",
+      "Symbolische",
+      "Symbolism",
+      "Symbolize",
+      "Symbols"
+    ],
+    "archi": [
+      "Architect",
+      "Architectural",
+      "Architecture",
+      "Architekt",
+      "Architektur",
+      "Architekturen",
+      "Architizer"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbild",
+      "Selbstermächtigung",
+      "Selbstlosigkeit",
+      "Selbstreflexion",
+      "Selbstwahrnehmung",
+      "Selbstwerts"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionalen",
+      "Emotionalität",
+      "Emotionen",
+      "Emotions"
+    ],
+    "arche": [
+      "ARCHETYPE",
+      "Archetyp",
+      "Archetypal",
+      "Archetype",
+      "Archetypes"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmented",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragments"
+    ],
+    "integ": [
+      "Integration",
+      "Integrative",
+      "Integratives",
+      "Integratorin",
+      "Integriert"
+    ],
+    "leben": [
+      "Leben",
+      "Lebendige",
+      "Lebens",
+      "Lebensenergie",
+      "Lebensfreude"
+    ],
+    "mytho": [
+      "Mythologie",
+      "Mythologisch",
+      "Mythologische",
+      "Mythology",
+      "Mythos"
+    ],
+    "psych": [
+      "Psychoanalytic",
+      "Psychoanalytische",
+      "Psychological",
+      "Psychologie",
+      "Psychology"
+    ],
+    "traum": [
+      "Traum",
+      "Trauma",
+      "Traumas",
+      "Traumata",
+      "Traumatisiert"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "berei": [
+      "Bereich",
+      "Bereiche",
+      "Bereichen",
+      "Bereitschaft"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsbedürfnisse",
+      "Bindungsruf",
+      "Bindungsverhalten"
+    ],
+    "kunst": [
+      "Kunst",
+      "Kunstbewegung",
+      "Kunsttherapie",
+      "Kunstwerk"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseins"
+    ],
+    "chrom": [
+      "Chromatic",
+      "Chromatische",
+      "Chromatischen"
+    ],
+    "compa": [
+      "Compass",
+      "Compassion",
+      "Compassionate"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "empat": [
+      "Empathetic",
+      "Empathie",
+      "Empathy"
+    ],
+    "ersta": [
+      "Erstarr",
+      "Erstarrung",
+      "Erstarrungs"
+    ],
+    "fürso": [
+      "Fürsorge",
+      "Fürsorger",
+      "Fürsorgers"
+    ],
+    "gegen": [
+      "Gegensatz",
+      "Gegenwart",
+      "Gegenüberstellung"
+    ],
+    "harmo": [
+      "Harmonisierer",
+      "Harmonisierung",
+      "Harmonizer"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Arme",
+      "Warmes"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Axis",
+      "Praxis"
+    ],
+    [
+      "Bind",
+      "Bindung"
+    ],
+    [
+      "Bind",
+      "Verbindung"
+    ],
+    [
+      "Bind",
+      "Bindungsruf"
+    ],
+    [
+      "Bind",
+      "Verbindungen"
+    ],
+    [
+      "Bind",
+      "Bindungsverhalten"
+    ],
+    [
+      "Bind",
+      "Bindungsbedürfnisse"
+    ],
+    [
+      "Blau",
+      "Himmelblau"
+    ],
+    [
+      "Blau",
+      "Kobaltblau"
+    ],
+    [
+      "Blau",
+      "Saphirblau"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Beine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Erde",
+      "Herdes"
+    ]
+  ]
+}
