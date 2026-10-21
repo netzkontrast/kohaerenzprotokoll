@@ -1,0 +1,284 @@
+{
+  "document": "gutachten-grad-der-behinderung-bei-dis",
+  "drive_id": "1-SgRZAxgeHo8c_wDU6prvQgCOaYm8rxSyel9EGlSVCw",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 36,
+  "backslash_escapes": 82,
+  "typographic_marks": 159,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "arbei": [
+      "Arbeit",
+      "Arbeitgebers",
+      "Arbeitsaufträge",
+      "Arbeitsgemeinschaft",
+      "Arbeitskompendium",
+      "Arbeitsleben",
+      "Arbeitsleistung",
+      "Arbeitsmarkt",
+      "Arbeitsplatz",
+      "Arbeitsplatzes",
+      "Arbeitsplatzverlust"
+    ],
+    "gutac": [
+      "Gutachten",
+      "Gutachtens",
+      "Gutachtensantr",
+      "Gutachtensanträge",
+      "Gutachter",
+      "Gutachtergespräch",
+      "Gutachtern",
+      "Gutachters",
+      "Gutachtliche"
+    ],
+    "traum": [
+      "Traumafolge",
+      "Traumafolgestörung",
+      "Traumafolgestörungen",
+      "Traumagen",
+      "Traumapatienten",
+      "Traumatic",
+      "Traumatisierung",
+      "Traumatologie",
+      "Traumen"
+    ],
+    "verso": [
+      "VERSORGUNGSMEDIZINISCHE",
+      "Versorgungsamt",
+      "Versorgungsmedizin",
+      "Versorgungsmedizinische",
+      "Versorgungsmedizinischen",
+      "Versorgungsmedizinischer",
+      "Versorgungsrechtlich",
+      "Versorgungsrechtliche",
+      "Versorgungsämter"
+    ],
+    "schwe": [
+      "Schwerbehinderteneigenschaft",
+      "Schwerbehindertenrecht",
+      "Schwerbehinderung",
+      "Schwere",
+      "Schweregrad",
+      "Schweregrade",
+      "Schwerstarbeit",
+      "Schwerste"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptomaufzählung",
+      "Symptome",
+      "Symptomlast",
+      "Symptommanagement",
+      "Symptomverstärkung"
+    ],
+    "unter": [
+      "Unterbewertung",
+      "Unterbrechung",
+      "Unterdrückung",
+      "Unterstützung",
+      "Unterstützungsbedarf",
+      "Untersuchung",
+      "Untersuchungssituation"
+    ],
+    "funkt": [
+      "Funktionieren",
+      "Funktionsausfall",
+      "Funktionsbeeinträchtigung",
+      "Funktionsbeeinträchtigungen",
+      "Funktionseinschränkungen",
+      "Funktionsverlust"
+    ],
+    "recht": [
+      "RECHT",
+      "Recht",
+      "Rechte",
+      "Rechtliche",
+      "Rechtsanwalt",
+      "Rechtsverfolgung"
+    ],
+    "antra": [
+      "Antraege",
+      "Antrag",
+      "Antragsteller",
+      "Antragstellern",
+      "Antragsverfahren"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziationen",
+      "Dissoziative",
+      "Dissoziativen",
+      "Dissoziativer"
+    ],
+    "ident": [
+      "Identität",
+      "Identitätsfragmentierung",
+      "Identitätsorganisation",
+      "Identitätsspaltung",
+      "Identitätsstörung"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsstörungen",
+      "Persönlichkeitszustände",
+      "Persönlichkeitsänderung"
+    ],
+    "psych": [
+      "Psychiatrie",
+      "Psychiatrische",
+      "Psychische",
+      "Psychostatus",
+      "Psychotraumatologie"
+    ],
+    "argum": [
+      "Argument",
+      "Argumentation",
+      "Argumentationsfaktoren",
+      "Argumentieren"
+    ],
+    "erstg": [
+      "Erstgutachten",
+      "Erstgutachtens",
+      "Erstgutachter",
+      "Erstgutachters"
+    ],
+    "grund": [
+      "GRUNDS",
+      "Grundsatz",
+      "Grundsätze",
+      "Grundsätzen"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsplanung",
+      "Handlungsunfähigkeit"
+    ],
+    "konve": [
+      "Konversionsstoerungen",
+      "Konversionsstörung",
+      "Konversionsstörungen",
+      "Konversionssymptome"
+    ],
+    "sozia": [
+      "Soziale",
+      "Sozialen",
+      "Sozialgerichtsgesetz",
+      "Sozialrecht"
+    ],
+    "thera": [
+      "Therapeuten",
+      "Therapie",
+      "Therapieresistenz",
+      "Therapieziel"
+    ],
+    "wider": [
+      "WIDERSPRUCHS",
+      "Widerlegung",
+      "Widerspruch",
+      "Widerspruchs"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltags",
+      "Alltagsereignisse"
+    ],
+    "anpas": [
+      "Anpassung",
+      "Anpassungsschwierigkeiten",
+      "Anpassungsstörung"
+    ],
+    "berei": [
+      "Bereich",
+      "Bereiten",
+      "Bereitschaft"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Aktenlage"
+    ],
+    [
+      "Akte",
+      "Kontakten"
+    ],
+    [
+      "Arzt",
+      "Arztbrief"
+    ],
+    [
+      "Bett",
+      "Bettlägerigkeit"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Fall",
+      "Falls"
+    ],
+    [
+      "Fall",
+      "Fallen"
+    ],
+    [
+      "Fall",
+      "Trauerfall"
+    ],
+    [
+      "Fall",
+      "Unfallopfer"
+    ],
+    [
+      "Fall",
+      "Totalausfall"
+    ],
+    [
+      "Fall",
+      "Funktionsausfall"
+    ],
+    [
+      "Habe",
+      "Teilhabe"
+    ],
+    [
+      "Habe",
+      "Teilhabebeeinträchtigung"
+    ],
+    [
+      "Habe",
+      "Teilhabebeeinträchtigungen"
+    ],
+    [
+      "Haus",
+      "Haushaltshilfe"
+    ]
+  ]
+}
