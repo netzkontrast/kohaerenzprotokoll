@@ -1,0 +1,8 @@
+# counts for 3 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Dissoziative Identitätsstörung    3 word     3 in   [11, 62, 165]
+  DIS                              64 word    67 in   [15, 19, 30, 47, 58, 62]
+  Wir-Sprache                       3 word     3 in   [19, 365, 386]
