@@ -1,0 +1,54 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      5
+  backslash escapes      92
+  typographic marks      122
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  unter    Unterbrechungen, Unterdiagnostizierung, Untergewichtung, Unterlagen, Unterlassen, Unterlassung, Unterlassungen, Unternehmungen, Unterschiede, Unterschätzung, Unterstützungsleistungen, Unterstützungssystemen, Untersuchung, Untersuchungen, Untersuchungsergebnisse
+  selbs    Selbst, Selbstaspekten, Selbstbericht, Selbstberichts, Selbstberichtsfragebögen, Selbstbeschreibungen, Selbstbestimmung, Selbstbestimmungsrecht, Selbsterleben, Selbsterlebens, Selbstoffenbarungen, Selbstwertgef, Selbstwirksamkeit
+  patie    Patient, Patienten, Patientenakte, Patientenrechte, PatientenrechteG, Patientenrechtegesetz, Patientensprache, Patientenversion, Patientenwohl, Patientin, Patientinnen
+  klini    Klinik, Klinikaufenthalts, Klinikbericht, Klinikberichts, Kliniken, Klinikentlassungsbericht, Kliniker, Klinikerin, Klinikerinnen, Klinisch
+  behan    Behandler, Behandlerinnen, Behandlung, Behandlungen, Behandlungsalternativen, Behandlungsansätze, Behandlungsfehler, Behandlungsleitlinien, Behandlungsstrategien
+  ident    Identifizierung, Identit, Identität, Identitäten, Identitätsalteration, Identitätsfragmentierung, Identitätsstruktur, Identitätsstörung, Identitätsunsicherheit
+  persö    Persönlichkeit, Persönlichkeitsfunktionen, Persönlichkeitsfunktionsstörungen, Persönlichkeitsstörung, Persönlichkeitsstörungen, Persönlichkeitszustand, Persönlichkeitszustände, Persönlichkeitszuständen
+  psych    Psych, Psychiatric, Psychiatrie, Psychiatrische, Psychische, Psychischer, Psychotherapie, Psychotherapien
+  traum    Trauma, Traumafolgestörung, Traumafolgestörungen, Traumagenic, Traumageschichte, Traumata, Traumatisierungen, Traumavorgeschichte
+  diagn    Diagnose, Diagnosekriterien, Diagnosen, Diagnosis, Diagnostik, Diagnostiker, Diagnostische
+  inter    Interesse, International, Internationale, Internet, Interview, Interviews
+  stand    Stand, Standard, Standardinterviews, Standards, Standarduntersuchungen, Standes
+  verso    Versorgung, Versorgungsamt, Versorgungsdefizit, Versorgungsmedizin, Versorgungsstandard, Versorgungsämter
+  beric    Bericht, Berichte, Berichten, Berichterstattung, Berichts
+  bunde    Bundesministerium, Bundesregierung, Bundesrepublik, Bundesteilhabegesetz, Bundesvereinigung
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziative, Dissoziativen
+  entsc    Entscheidend, Entscheidungen, Entscheidungsfindung, Entscheidungsträgern, Entschuldigung
+  exper    Experiences, Experten, Expertenempfehlung, Expertinnen, Expertise
+  gutac    Gutachten, Gutachtens, Gutachter, Gutachterinnen, Gutachtern
+  mediz    Mediziner, Medizinerinnen, Medizinethik, Medizinio, Medizinrecht
+  sympt    Symptom, Symptomatik, Symptombereichen, Symptome, Symptomen
+  affek    Affekte, Affekten, Affektlage, Affekts
+  aufkl    Aufklärung, Aufklärungen, Aufklärungs, Aufklärungspflicht
+  basis    Basis, Basisdiagnostik, Basisuntersuchung, Basisuntersuchungen
+  befun    Befund, Befunde, Befunderhebung, Befundes
+
+# substring pairs -- never one term, often merged by accident
+  Bund < Bundesrepublik
+  Bund < Bundesregierung
+  Bund < Bundesministerium
+  Bund < Bundesvereinigung
+  Bund < Bundesteilhabegesetz
+  Dank < Gedanken
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  EINE < Eine
+  EINE < Textbausteine
+  Eine < Textbausteine
+  Grad < Grades
+  Kern < Kernproblem
+  Kern < Kernbereiche
+  Kern < Kernmerkmale
+  Kern < Kernsymptome
+  Kern < Kernkriterien
+  Lage < Vorlagen

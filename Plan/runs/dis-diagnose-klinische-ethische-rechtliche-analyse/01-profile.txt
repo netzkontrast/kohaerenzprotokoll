@@ -1,0 +1,14 @@
+# dis-diagnose-klinische-ethische-rechtliche-analyse
+  lines                352  (frontmatter ends at 9)
+  body words           6938
+  headings             2   bold-only lines 48
+  table rows           18   code fences 0
+  question marks       13
+  backslash escapes    92
+  typographic marks    122   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         1270 chars
+
