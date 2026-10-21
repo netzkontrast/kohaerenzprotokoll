@@ -48,7 +48,7 @@ For claim correction, provisional constructs and source-named wiki commits, read
 Project skills live in `.agents/skills/`; `.claude/skills/` links to them. Do not edit two copies or rewrite pinned vendored skills. The coding coordinator implements software; editorial skills critique prose; fictional agents act only inside their scenario. A review skill's no-rewrite rule does not ban an explicitly authorized separate drafting task.
 
 ## AEGIS implementation mandate
-**583 <!--state:documents.with_census--> documents have a term census** in `Sources/terms/`, 583 <!--state:documents.with_note--> a note in `Sources/notes/`, 583 <!--state:documents.reconciled--> a reconciliation in `Wiki/compare/`.
+**584 <!--state:documents.with_census--> documents have a term census** in `Sources/terms/`, 584 <!--state:documents.with_note--> a note in `Sources/notes/`, 584 <!--state:documents.reconciled--> a reconciliation in `Wiki/compare/`.
 `python3 scripts/account.py order` holds — `true` <!--state:order.holds--> — when every document with a census has a note and a reconciliation, each ran against the state the previous one left, and the wiki
 matches what the newest run recorded leaving; when it does not, it says so with exit status 1. What each document added is in its reconciliation record `Wiki/compare/reconcile-NN-<slug>.md` and, up to document 51,
 in `Plan/runs/reading-log.md`. `Plan/runs/judgements.jsonl` holds 121 <!--state:judgements.total--> judgements about near matches, 8 <!--state:judgements.mechanised--> mechanised and replaying green,
@@ -111,7 +111,7 @@ Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ So
   wiki is consulted, so the accumulated state cannot decide in advance what a new document is allowed to say — that independence is what makes reconciliation safe.
 - **Reconciliation never reads the wiki.** `scripts/wiki_index.py` derives `Wiki/index.json` from page frontmatter and `scripts/reconcile.py` answers by lookup, printing only what no lookup settles: cost per document
   is `O(census) + O(judgement)`, not `O(wiki)` (`Plan/concept/reconciliation-by-lookup_2026-09-17.md`). It also **sweeps the text for everything the wiki already knows** (decision 012): each page the text names without a
-  matching candidate is decided as a reading, which goes on the page, or an occurrence (a title, a reference, another sense) — recorded in `Plan/runs/sweep.jsonl`: 2004 <!--state:sweep.decided--> decided,
+  matching candidate is decided as a reading, which goes on the page, or an occurrence (a title, a reference, another sense) — recorded in `Plan/runs/sweep.jsonl`: 2005 <!--state:sweep.decided--> decided,
   869 <!--state:sweep.readings--> of them readings the lookup had missed, 0 <!--state:sweep.open--> open (`reconcile.py --sweep-open`).
 - **A reference on a wiki page names its document.** A bare `^[Lnn]` resolves against the page's single `ingested:` entry and stops being checked when a second arrives — adding one document's readings to seventeen
   pages once moved 95 verified quotations into the unchecked bucket silently. A census and a note carry `source:` and may use the bare form; a page may not.

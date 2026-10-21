@@ -28,8 +28,8 @@ recorded separately in `Manuscript/kanon.md`, on the author’s decision.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, selected by the written reading rule — 583 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 583 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, selected by the written reading rule — 584 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 584 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -862,7 +862,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Kael's Dissociative Architecture Analysis](drive/kael-s-dissociative-architecture-analysis.md) | 2026-01-02 | 3,812 | **read** | Silas 3, Nyx 27, AEGIS' four sub-functions 2, Kiko 17, Lex 17, Dual-Kernel-Theorie† 3, Moonshine-Link 5, Gödel-Gambit 2 | Unburdening 8, DUT 2, Dead Universe Theory 2, Tertiary Dissociation 2, Singularity 3 |
 | [Roman-Entwicklung: Ontologie, Trauma, Horror](drive/roman-entwicklung-ontologie-trauma-horror.md) | 2026-04-16 | 5,038 | **read** | DID 13, Juna 6, Alters 3, Kohärenz 3, AEGIS 20, Überwelt 2 | Ego Tunnel 10, DMN 6, Scott 6, Metzinger 9, Ligotti 6 |
 | [DIS: Komorbiditäten und Alltagsbewältigung](drive/dis-komorbiditaeten-und-alltagsbewaeltigung.md) | 2026-04-20 | 6,870 | **read** | Kohärenz 2 | K-PTBS 17, Versorgungsmedizinische Grundsätze 7, VersMedV 7, BGH 3, Bundesteilhabegesetz 3 |
-| [Angst und Vermeidung in DIS-Systemen](drive/angst-und-vermeidung-in-dis-systemen.md) | 2026-04-23 | 7,537 |  | DID 8, TSDP 7, Alters 2 | Perpetrator Introjects 4, Täterintrojekte 7, Introjekt 4, Therapeut 8, ST 3 |
+| [Angst und Vermeidung in DIS-Systemen](drive/angst-und-vermeidung-in-dis-systemen.md) | 2026-04-23 | 7,537 | **read** | DID 8, TSDP 7, Alters 2 | Perpetrator Introjects 4, Täterintrojekte 7, Introjekt 4, Therapeut 8, ST 3 |
 | [Flow-Zustände und dissoziative Identität](drive/flow-zustaende-und-dissoziative-identitaet.md) | 2026-04-23 | 6,477 | **read** | DID 8, Alters 8, Entropie 8 | PITT 7, Flow 100, Transiente Hypofrontalität 4, LC-NE 3, Psychodynamisch Imaginative Traumatherapie 3 |
 | [Angst bei komplexen Traumafolgen](drive/angst-bei-komplexen-traumafolgen.md) | 2026-04-24 | 6,355 | **read** | — | Compassion-Focused Therapy 7, Shattered Assumptions 6, Window of Tolerance 10, K-PTBS 29, Hyperarousal 14 |
 | [kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md](drive/kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md) | 2026-06-10 | 6,399 | **read** | Oblivion 30, Silas 26, Isabelle 19, Telefon-Stille 3, Vortex 5, Lia 28, Argus 19, Erason 2 | OQ-E 3, Akt II 15, Coheron-Spur 2, Compassion Fatigue 2, Akt I 10 |
@@ -977,7 +977,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Partnerin](../Wiki/candidates/partnerin.md) | — |
 | [Persistenzgleichung](../Wiki/candidates/persistenzgleichung.md) | — |
 | [Personas](../Wiki/candidates/personas.md) | — |
-| [PMS](../Wiki/candidates/pms.md) | [angst-und-vermeidung-in-dis-systemen](drive/angst-und-vermeidung-in-dis-systemen.md) |
+| [PMS](../Wiki/candidates/pms.md) | — |
 | [Potentialmeer](../Wiki/candidates/potentialmeer.md) | — |
 | [Protokoll v1.4](../Wiki/candidates/protokoll-v14.md) | — |
 | [Realitätsebenen](../Wiki/candidates/realitaetsebenen.md) | — |
