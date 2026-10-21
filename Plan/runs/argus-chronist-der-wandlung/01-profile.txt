@@ -1,0 +1,14 @@
+# argus-chronist-der-wandlung
+  lines                855  (frontmatter ends at 9)
+  body words           9945
+  headings             1   bold-only lines 26
+  table rows           22   code fences 0
+  question marks       24
+  backslash escapes    332
+  typographic marks    33   ascii quotes 250
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    35
+  repeated labels      none
+  longest line         2408 chars
+

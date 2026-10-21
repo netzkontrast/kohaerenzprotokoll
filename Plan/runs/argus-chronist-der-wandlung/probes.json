@@ -1,0 +1,258 @@
+{
+  "document": "argus-chronist-der-wandlung",
+  "drive_id": "1lIkkiTypWN6kHZIQwnVMhw287eo1r-_hmpa8kMsquvo",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 35,
+  "backslash_escapes": 332,
+  "typographic_marks": 33,
+  "ascii_quotes": 250,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemanteilen",
+      "Systemfehler",
+      "Systemfluss",
+      "Systemgeschichte",
+      "Systemheilung",
+      "Systemische",
+      "Systemlandschaft",
+      "Systems",
+      "Systemwohlbefinden"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehleranalyse",
+      "Fehleranfälligkeit",
+      "Fehlerfixierung",
+      "Fehlerfokussierung",
+      "Fehlerquellen"
+    ],
+    "trans": [
+      "Transformation",
+      "Transformed",
+      "Transformierte",
+      "Transgenerationale",
+      "Transitorische",
+      "Transparenz"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstanden",
+      "Verstehen",
+      "Verstehens",
+      "Versteht",
+      "Verständnis"
+    ],
+    "beoba": [
+      "Beobachten",
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung",
+      "Beobachtungsgabe"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpunkt",
+      "Datenstrom",
+      "Datenströmen",
+      "Datentier"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzaktionen",
+      "Schutzes",
+      "Schutzfunktion",
+      "Schutzmechanismen"
+    ],
+    "wunde": [
+      "Wunde",
+      "Wunden",
+      "Wundensammlung",
+      "Wunder",
+      "Wunderwerk"
+    ],
+    "überl": [
+      "Überlebenskraft",
+      "Überlebensmut",
+      "Überlebensstrategie",
+      "Überlebensstrategien",
+      "Überlebenswillen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "atmos": [
+      "Atmosphere",
+      "Atmospheric",
+      "Atmosphäre",
+      "Atmosphärische"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionale",
+      "Emotionen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsmuster",
+      "Intervention"
+    ],
+    "klang": [
+      "Klang",
+      "Klangbilder",
+      "Klanglandschaften",
+      "Klangpalette"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstellationen",
+      "Konstrukt",
+      "Konstruktive"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensmut",
+      "Lebensstart"
+    ],
+    "schlü": [
+      "Schlüssel",
+      "Schlüsselbegegnung",
+      "Schlüsselprinzip",
+      "Schlüsselrolle"
+    ],
+    "stern": [
+      "Stern",
+      "Sternbild",
+      "Sterne",
+      "Sternengucker"
+    ],
+    "synth": [
+      "Synth",
+      "Synthese",
+      "Synthesizer",
+      "Synthwave"
+    ],
+    "arche": [
+      "Archetypen",
+      "Archetypes",
+      "Archetypus"
+    ],
+    "archi": [
+      "Archiv",
+      "Archivar",
+      "Archivars"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "ganze": [
+      "Ganze",
+      "Ganzen",
+      "Ganzes"
+    ],
+    "gleic": [
+      "Gleichgewicht",
+      "Gleichung",
+      "Gleichungen"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungspotenzial",
+      "Heilungsprozesses"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "Charakterzüge"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Bahn",
+      "Bahnen"
+    ],
+    [
+      "Dark",
+      "Darklands"
+    ],
+    [
+      "Dein",
+      "Deine"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Scheinen"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Transformed"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Form",
+      "Transformierte"
+    ],
+    [
+      "Form",
+      "Informationsquelle"
+    ]
+  ]
+}
