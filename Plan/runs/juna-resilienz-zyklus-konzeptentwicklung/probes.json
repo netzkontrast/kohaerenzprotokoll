@@ -1,0 +1,220 @@
+{
+  "document": "juna-resilienz-zyklus-konzeptentwicklung",
+  "drive_id": "1JE70PKSMXGaupLHG1aBxliC6ara1wQW_38K6Kyg4LiQ",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 36,
+  "backslash_escapes": 519,
+  "typographic_marks": 17,
+  "ascii_quotes": 138,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstachtung",
+      "Selbstbestimmung",
+      "Selbstbildes",
+      "Selbstermächtigung",
+      "Selbstfindung",
+      "Selbstgespräch",
+      "Selbstkenntnis",
+      "Selbstrespekt",
+      "Selbstschutz",
+      "Selbstwertgefühls"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstanden",
+      "Verstrickung",
+      "Verständnis",
+      "Verstärkung"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzsetzung",
+      "Grenzverletzungen"
+    ],
+    "augen": [
+      "Augen",
+      "Augenblick",
+      "Augenhöhe"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "eigen": [
+      "Eigen",
+      "Eigenes",
+      "Eigenständigkeit"
+    ],
+    "hoffn": [
+      "Hoffnung",
+      "Hoffnungsfunke",
+      "Hoffnungsschimmer"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensdoms"
+    ],
+    "schat": [
+      "Schatten",
+      "Schattenbühne",
+      "Schattenseiten"
+    ],
+    "spiel": [
+      "Spiel",
+      "Spielball",
+      "Spiele"
+    ],
+    "syste": [
+      "System",
+      "Systemintegrität",
+      "Systems"
+    ],
+    "verla": [
+      "Verlassen",
+      "Verlassenes",
+      "Verlassenheitsängste"
+    ],
+    "vertr": [
+      "Vertrauen",
+      "Vertrauensbruchs",
+      "Vertrauensverlust"
+    ],
+    "abgru": [
+      "Abgrund",
+      "Abgrundtraum"
+    ],
+    "ambiv": [
+      "Ambivalence",
+      "Ambivalenz"
+    ],
+    "begin": [
+      "Beginn",
+      "Beginnings"
+    ],
+    "begle": [
+      "Begleiter",
+      "Begleitung"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen"
+    ],
+    "bindu": [
+      "Bindungsstil",
+      "Bindungsstils"
+    ],
+    "daten": [
+      "Daten",
+      "Datenpunkt"
+    ],
+    "dream": [
+      "Dream",
+      "Dreaming"
+    ],
+    "dunke": [
+      "Dunkel",
+      "Dunkelheit"
+    ],
+    "elixi": [
+      "Elixier",
+      "Elixiers"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmentierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alls",
+      "Widerhalls"
+    ],
+    [
+      "Auch",
+      "Hauch"
+    ],
+    [
+      "Auch",
+      "Rauch"
+    ],
+    [
+      "Dein",
+      "Deine"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dies",
+      "Studies"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Echo",
+      "Echokammer"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Erbe",
+      "Scherben"
+    ],
+    [
+      "Erbe",
+      "Scherbenlandschaft"
+    ],
+    [
+      "Fels",
+      "Zweifels"
+    ],
+    [
+      "Form",
+      "Transformed"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}

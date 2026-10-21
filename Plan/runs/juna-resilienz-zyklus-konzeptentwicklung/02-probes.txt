@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      36
+  backslash escapes      519
+  typographic marks      17
+  ascii quotes           138
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstachtung, Selbstbestimmung, Selbstbildes, Selbstermächtigung, Selbstfindung, Selbstgespräch, Selbstkenntnis, Selbstrespekt, Selbstschutz, Selbstwertgefühls
+  verst    Verstand, Verstanden, Verstrickung, Verständnis, Verstärkung
+  grenz    Grenze, Grenzen, Grenzsetzung, Grenzverletzungen
+  augen    Augen, Augenblick, Augenhöhe
+  diese    Diese, Dieser, Dieses
+  eigen    Eigen, Eigenes, Eigenständigkeit
+  hoffn    Hoffnung, Hoffnungsfunke, Hoffnungsschimmer
+  leben    Leben, Lebens, Lebensdoms
+  schat    Schatten, Schattenbühne, Schattenseiten
+  spiel    Spiel, Spielball, Spiele
+  syste    System, Systemintegrität, Systems
+  verla    Verlassen, Verlassenes, Verlassenheitsängste
+  vertr    Vertrauen, Vertrauensbruchs, Vertrauensverlust
+  abgru    Abgrund, Abgrundtraum
+  ambiv    Ambivalence, Ambivalenz
+  begin    Beginn, Beginnings
+  begle    Begleiter, Begleitung
+  bezie    Beziehung, Beziehungen
+  bindu    Bindungsstil, Bindungsstils
+  daten    Daten, Datenpunkt
+  dream    Dream, Dreaming
+  dunke    Dunkel, Dunkelheit
+  elixi    Elixier, Elixiers
+  erinn    Erinnerung, Erinnerungen
+  fragm    Fragmente, Fragmentierung
+
+# substring pairs -- never one term, often merged by accident
+  Alls < Widerhalls
+  Auch < Hauch
+  Auch < Rauch
+  Dein < Deine
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Echo < Echos
+  Echo < Echokammer
+  Eine < Deine
+  Eine < Meine
+  Eine < Seine
+  Ende < Wendepunkt
+  Erbe < Scherben
+  Erbe < Scherbenlandschaft
+  Fels < Zweifels
+  Form < Transformed
+  Form < Formulierung
+  Form < Transformation

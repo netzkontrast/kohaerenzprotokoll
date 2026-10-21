@@ -1,0 +1,752 @@
+{
+  "document": "juna-resilienz-zyklus-konzeptentwicklung",
+  "drive_id": "1JE70PKSMXGaupLHG1aBxliC6ara1wQW_38K6Kyg4LiQ",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Juna": {
+      "n": 102,
+      "n_including_compounds": 121,
+      "lines": [
+        15,
+        17,
+        19,
+        28,
+        79,
+        80,
+        93,
+        97,
+        103,
+        105,
+        122,
+        127,
+        140,
+        152,
+        153,
+        162,
+        170,
+        175,
+        177,
+        194,
+        201,
+        214,
+        226,
+        227,
+        236,
+        244,
+        249,
+        251,
+        268,
+        275,
+        288,
+        301,
+        302,
+        311,
+        319,
+        324,
+        326,
+        343,
+        350,
+        364,
+        377,
+        378,
+        387,
+        395,
+        400,
+        402,
+        419,
+        424,
+        426,
+        440,
+        453,
+        454,
+        463,
+        471,
+        476,
+        478,
+        495,
+        500,
+        502,
+        516,
+        529,
+        530,
+        539,
+        547,
+        552,
+        554,
+        571,
+        576,
+        578,
+        592,
+        605,
+        606,
+        615,
+        623,
+        629,
+        631,
+        648,
+        653,
+        655,
+        669,
+        682,
+        683,
+        758,
+        759,
+        781,
+        805,
+        834,
+        835,
+        857,
+        881,
+        899,
+        910,
+        911,
+        913,
+        915,
+        979,
+        980
+      ]
+    },
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 13,
+      "lines": [
+        15,
+        17,
+        82,
+        84,
+        106,
+        124,
+        152,
+        153,
+        911
+      ]
+    },
+    "Lex": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        155,
+        157,
+        178,
+        188,
+        210,
+        226,
+        227
+      ]
+    },
+    "Alex": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        229,
+        231,
+        252,
+        301,
+        302
+      ]
+    },
+    "Rhys": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        304,
+        306,
+        327,
+        337,
+        360,
+        377,
+        378
+      ]
+    },
+    "Nyx": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        380,
+        382,
+        394,
+        403,
+        445,
+        453,
+        454
+      ]
+    },
+    "Kiko": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        456,
+        458,
+        470,
+        479,
+        503,
+        529,
+        530
+      ]
+    },
+    "Lia": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        532,
+        534,
+        546,
+        555,
+        605,
+        606
+      ]
+    },
+    "Isabelle": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        608,
+        610,
+        622,
+        682,
+        683
+      ]
+    },
+    "Moros": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        685,
+        687,
+        699,
+        726,
+        758,
+        759
+      ]
+    },
+    "Selene": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        761,
+        763,
+        775,
+        834,
+        835
+      ]
+    },
+    "Argus": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        837,
+        839,
+        851,
+        879,
+        910,
+        911
+      ]
+    },
+    "Kael-Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        17
+      ]
+    },
+    "Kael-System": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        17,
+        911
+      ]
+    },
+    "Spiegel der Resilienz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    "zerbrochene Spiegel": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        80,
+        108,
+        153,
+        927
+      ]
+    },
+    "Zerbrochener Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Echokammer": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        129,
+        152,
+        153,
+        189,
+        211,
+        227,
+        302,
+        930
+      ]
+    },
+    "Labyrinth der Erinnerung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        302,
+        378
+      ]
+    },
+    "Labyrinth der Zeit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        261,
+        283,
+        931
+      ]
+    },
+    "Schatten des Verlusts": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        442,
+        454,
+        490,
+        513,
+        530,
+        932
+      ]
+    },
+    "Schwert der Eigenständigkeit": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        606,
+        683,
+        702,
+        759,
+        944
+      ]
+    },
+    "Berggipfel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        759,
+        834,
+        835
+      ]
+    },
+    "Blick vom Berggipfel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        759
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        80,
+        153
+      ]
+    },
+    "Etappe": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        80,
+        153,
+        227,
+        302,
+        378,
+        454,
+        530,
+        606,
+        683,
+        759,
+        835,
+        911,
+        980
+      ]
+    },
+    "Verlassenes Ufer": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        21,
+        23,
+        45,
+        61,
+        980
+      ]
+    },
+    "Mein Eigenes Ufer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        913,
+        915,
+        980
+      ]
+    },
+    "Elixiers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        980
+      ]
+    },
+    "Elixier-Teil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        952
+      ]
+    },
+    "Externe Inkonsistenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        227
+      ]
+    },
+    "Externe Variable": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        246,
+        302
+      ]
+    },
+    "Stille Leitung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        82,
+        84,
+        113,
+        133
+      ]
+    },
+    "Kalte Analyse": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        155,
+        157,
+        186,
+        208
+      ]
+    },
+    "Argwöhnischer Blick": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        229,
+        231,
+        260,
+        282
+      ]
+    },
+    "Tiefe Resonanz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        304,
+        306,
+        335,
+        358
+      ]
+    },
+    "Gefährliche Intensität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        380,
+        382,
+        411,
+        434
+      ]
+    },
+    "Kindliche Sehnsucht": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        456,
+        458,
+        487,
+        510
+      ]
+    },
+    "Widersprüchliche Signale": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        532,
+        534,
+        563,
+        586
+      ]
+    },
+    "Eisige Abwehr": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        608,
+        610,
+        640,
+        663
+      ]
+    },
+    "Unergründliche Tiefe": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        685,
+        687,
+        716,
+        739
+      ]
+    },
+    "Spirituelle Verbindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        761,
+        763,
+        792,
+        815
+      ]
+    },
+    "Veränderte Signatur": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        837,
+        839,
+        868,
+        891
+      ]
+    },
+    "Spiegelbild der Ablehnung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        625,
+        683
+      ]
+    },
+    "Junas Stille": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        153
+      ]
+    },
+    "Junas Flaschenpost": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        606
+      ]
+    },
+    "Flaschenpost": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        542,
+        606
+      ]
+    },
+    "Urvertrauen": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        116,
+        135
+      ]
+    },
+    "Suno": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        79,
+        152,
+        226,
+        301,
+        377,
+        453,
+        529,
+        605,
+        682,
+        758,
+        834,
+        910,
+        979
+      ]
+    },
+    "Gast": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        152,
+        226,
+        301,
+        377,
+        453,
+        529,
+        605,
+        682,
+        758,
+        834,
+        910
+      ]
+    },
+    "Juna Female Voice": {
+      "n": 49,
+      "n_including_compounds": 49,
+      "lines": [
+        28,
+        93,
+        97,
+        105,
+        122,
+        127,
+        140,
+        162,
+        170,
+        177,
+        194,
+        201,
+        214,
+        236,
+        244,
+        251,
+        268,
+        275,
+        288,
+        311,
+        319,
+        326,
+        343,
+        350,
+        364,
+        387,
+        395,
+        402,
+        419,
+        426,
+        440,
+        463,
+        471,
+        478,
+        495,
+        502,
+        516,
+        539,
+        547,
+        554,
+        571,
+        578,
+        592,
+        615,
+        623,
+        631,
+        648,
+        655,
+        669
+      ]
+    },
+    "Vocal Hint": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        79,
+        152,
+        226,
+        301,
+        377,
+        453,
+        529,
+        605,
+        682,
+        758,
+        834,
+        910,
+        979
+      ]
+    },
+    "Transformed": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        152,
+        226,
+        301,
+        377,
+        453,
+        529,
+        605,
+        682,
+        758,
+        834,
+        910,
+        979
+      ]
+    },
+    "Selbstgespräch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        913,
+        915
+      ]
+    },
+    "Bindungsstil": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        80,
+        683
+      ]
+    },
+    "Resilienz": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        13,
+        15,
+        17,
+        199
+      ]
+    }
+  }
+}
