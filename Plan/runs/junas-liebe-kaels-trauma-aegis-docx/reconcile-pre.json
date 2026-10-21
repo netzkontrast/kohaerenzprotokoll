@@ -1,0 +1,495 @@
+{
+  "document": "junas-liebe-kaels-trauma-aegis-docx",
+  "step": "reconcile-pre",
+  "at": "2026-10-21",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-21",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 58,
+  "decisions": 63,
+  "same_surface": {
+    "aegis": [
+      "AEGIS",
+      "AEGIS'"
+    ],
+    "echo": [
+      "Echo",
+      "Das Echo"
+    ],
+    "anker": [
+      "Anker",
+      "Der Anker"
+    ]
+  },
+  "decided_mechanically": 44,
+  "needs_judgement": 19,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 357
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 417
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 434
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 74
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 159
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 285
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 159
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 196
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 188
+      },
+      {
+        "candidate": "Negentropie",
+        "page": "negentropie",
+        "readings": 34
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Externen Ebene"
+      },
+      {
+        "candidate": "Reboot"
+      },
+      {
+        "candidate": "Anteile"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "Dissoziativen Identitätsstörung"
+      },
+      {
+        "candidate": "Katalysatorin"
+      },
+      {
+        "candidate": "Leuchtfeuer"
+      },
+      {
+        "candidate": "Die Brücke zwischen den Welten"
+      },
+      {
+        "candidate": "Der rote Faden"
+      },
+      {
+        "candidate": "Static on the Line"
+      },
+      {
+        "candidate": "Niemandsland"
+      },
+      {
+        "candidate": "Zeugin"
+      },
+      {
+        "candidate": "Raum halten"
+      },
+      {
+        "candidate": "Narrative Phase"
+      },
+      {
+        "candidate": "Kernemotion/Atmosphäre"
+      },
+      {
+        "candidate": "Zentrale Metaphern/Motive"
+      },
+      {
+        "candidate": "Musikalische/Stilistische Anregungen"
+      },
+      {
+        "candidate": "Lyrische Kernideen/Fragestellungen"
+      },
+      {
+        "candidate": "Wo die Stille Namen trägt"
+      },
+      {
+        "candidate": "Penelope"
+      },
+      {
+        "candidate": "Orpheus"
+      },
+      {
+        "candidate": "Eurydike"
+      },
+      {
+        "candidate": "Psyche und Eros"
+      },
+      {
+        "candidate": "negentropisch"
+      },
+      {
+        "candidate": "Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "ängstlichen Bindungsstil"
+      },
+      {
+        "candidate": "Co-Abhängigkeit"
+      },
+      {
+        "candidate": "Ich-Du-Beziehung"
+      },
+      {
+        "candidate": "Quantenverschränkung"
+      },
+      {
+        "candidate": "Panpsychismus"
+      },
+      {
+        "candidate": "Phänomenologie"
+      },
+      {
+        "candidate": "Dialektik"
+      },
+      {
+        "candidate": "Witnessing"
+      },
+      {
+        "candidate": "Holding Space"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Juna  /  Junas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kaels",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Bezug zu Kaels System/AEGIS/Externe Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kaels  /  Bezug zu Kaels System/AEGIS/Externe Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Bezug zu Kaels System/AEGIS/Externe Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Externe Ebene  /  Bezug zu Kaels System/AEGIS/Externe Ebene",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Schleier  /  Der Garten jenseits des Schleiers",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Das unendliche Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echoismus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leuchtturm  /  Der Leuchtturm in der Dunkelheit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Negentropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Junas",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "junasankerpunkt",
+            "page": "junas-ankerpunkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Kaels",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Anker",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "junasankerpunkt",
+            "page": "junas-ankerpunkt"
+          }
+        ]
+      },
+      {
+        "candidate": "Trauma",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "traumalokus",
+            "page": "vergessener-schrein"
+          },
+          {
+            "surface": "vergessenerschreintraumalokus",
+            "page": "vergessener-schrein"
+          }
+        ]
+      },
+      {
+        "candidate": "Bezug zu Kaels System/AEGIS/Externe Ebene",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          },
+          {
+            "surface": "externeebene",
+            "page": "externe-ebene"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "dissoziative Identitätsstruktur",
+      "line": 55,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 21,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 159,
+      "already_read": false
+    },
+    {
+      "page": "partnerin",
+      "surface": "Partnerin",
+      "line": 45,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 75,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
