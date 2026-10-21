@@ -1,0 +1,24 @@
+# counts for 19 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Aegis Entity Mapping              1 word     1 in   [13]
+  Existence                         2 word     2 in   [11, 13]
+  Experience                        2 word     2 in   [11, 13]
+  Structure                         2 word     2 in   [13, 59]
+  Flow                              2 word     2 in   [13, 59]
+  Host (Organic Core)               2 word     2 in   [15, 29]
+  Host                              2 word     2 in   [15, 29]
+  Organic Core                      2 word     2 in   [15, 29]
+  Aegis (Machine Core)              2 word     2 in   [29, 69]
+  Aegis                             3 word     3 in   [13, 29, 69]
+  Machine Core                      2 word     2 in   [29, 69]
+  Creative Alter                    2 word     2 in   [21, 35]
+  Child Alter                       2 word     2 in   [23, 31]
+  Protector Alter                   2 word     2 in   [27, 33]
+  Gatekeeper                        2 word     2 in   [33, 49]
+  Logic/Analyst Alter               2 word     2 in   [35, 65]
+  Trauma Holder                     2 word     2 in   [35, 41]
+  Al Agent (LLM)                    2 word     2 in   [37, 61]
+  Integrated Self (Ideal)           2 word     2 in   [37, 57]
