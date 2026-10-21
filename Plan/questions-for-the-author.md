@@ -453,6 +453,18 @@ the author wants them (*Questions for the author*).
 
 ## Part 2 — the pipeline and its tools
 
+### Raised by the ingest of 2026-10-21 (documents 532–590)
+
+- **Two manifest rows are Drive shortcuts, and their targets are not landed.** `kohaerenz-protokoll-plot-entwurf-finalisierung`
+  and `beziehungsheilung-nach-trauma-konzeptpapier` landed as stubs because Drive stores them as shortcuts. A title search finds
+  two documents „Kohärenz Protokoll: Plot-Entwurf-Finalisierung" (29908 bytes each, 2025-04-20) and one „Beziehungsheilung nach
+  Trauma: Konzeptpapier für Musik-Prelude" that no manifest row holds. Should these be added to the manifest and read, or do the
+  shortcuts stay as they are? Detail in `Plan/learnings/fetch.md`.
+- **More earlier names than decision 028 lists.** The corpus gives `Alexander`, `Stefan`, `Data`, „Die Wächterin“, „Der Kleine“
+  and „Beobachter/Kritiker“ after „ehem.“; the ingest now treats them as earlier names. `rag.py`'s withholding regex knows only
+  the five, and `Wiki/candidates/alex.md` carries `Alexander` from an older reconciliation. Should the withheld list grow, and
+  may the session redact the alex page's heading and quotation?
+
 ### The process — the author's call, with the detail under *Open decisions*
 
 - **Planning agent sessions from the website** (2026-10-05, `Plan/concept/agent-sessions_2026-10-05.md`). The app

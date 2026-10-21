@@ -388,6 +388,10 @@ stays.
 `beziehungsheilung-nach-trauma-konzeptpapier` (`1-9IShqRiQMHdQ_BEofNKl7IC40-YuvBJ`) landed as 422 and 261
 bytes: a JSON stub and `{}`. Drive's metadata names both `application/vnd.google-apps.shortcut` — a
 pointer with no content of its own — so a re-fetch, forced or not, lands the same stub. Neither gets a
-census. What a shortcut points to is not in the metadata the connector returns; whether its target is a
-document already landed under another slug is unmeasured. A fetch that lands fewer than ~500 bytes is
+census. What a shortcut points to is not in the metadata the connector returns, but a title search finds the
+candidates. For `beziehungsheilung-nach-trauma-konzeptpapier` Drive holds three documents of that title:
+two are landed and read (`-2`, `-3`), the third („… für Musik-Prelude“, `14yvnVvMC62g…`) is in no manifest
+row. For `kohaerenz-protokoll-plot-entwurf-finalisierung` Drive holds two documents of that title, 29908
+bytes each (`1cDf9Mp95dlj…`, `1dwobNyCg0Xu…`), and neither is in the manifest. Adding a row widens the
+corpus, so it waits for the author (Plan/questions-for-the-author.md). A fetch that lands fewer than ~500 bytes is
 worth a metadata look before it is called a failed export.
