@@ -1,0 +1,77 @@
+# counts for 58 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Sinn Suche                       24 word    24 in   [11, 13, 16, 18, 25, 27]
+  Sinnsuche                         4 word     4 in   [69, 70, 181, 225]
+  Sinnfindung                      10 word    10 in   [11, 16, 64, 74, 81, 85]
+  Kern der Wahrheit                 9 word     9 in   [24, 25, 27, 67, 178, 193]
+  All is Lost                       6 word     6 in   [22, 67, 119, 179, 193, 224]
+  All is lost                       1 word     1 in   [25]
+  Moment der Klarheit               4 word     4 in   [24, 97, 231]
+  Together We Confide               1 word     1 in   [22]
+  Together in Klarheit              1 word     1 in   [23]
+  Freiheit zu sein                  4 word     4 in   [24, 25, 27, 214]
+  Scherben der Erkenntnis           1 word     1 in   [24]
+  Unsere neue Welt                  1 word     1 in   [24]
+  Feuerprobe                        2 word     2 in   [24, 25]
+  Weg zurück                        2 word     2 in   [24, 27]
+  Album 1                           3 word     3 in   [22, 25, 67]
+  Album 2                          10 word    10 in   [24, 25, 27, 90, 231]
+  Album 3                           3 word     3 in   [224, 230, 231]
+  Heldenreise                       2 word     2 in   [22, 24]
+  Bunker                            1 word     1 in   [22]
+  Kern-Selbst                       8 word     8 in   [24, 85, 90, 97, 181, 183]
+  ICH                               2 word     2 in   [24, 97]
+  Kerntrauma                        2 word     2 in   [25, 67]
+  Kern-Traumaerinnerung             1 word     1 in   [24]
+  Host                             11 word    11 in   [42, 127, 149, 179, 182, 183]
+  Kind-Anteil                       4 word     6 in   [42, 90, 142, 182, 198]
+                                    1      as Kind-Anteile
+                                    1      as Kind-Anteils
+  Verletzter Anteil                 3 word     3 in   [125, 180, 194]
+  Zynischer Beschützer              5 word     5 in   [126, 148, 180, 195, 201]
+  Hoffnungsvoller Anteil            2 word     2 in   [147, 200]
+  System Chor                       2 word     2 in   [181, 197]
+  Guardian                          4 word     4 in   [181, 183, 196, 202]
+  Persecutor                        3 word     3 in   [126, 195]
+  Samens im Gift                    1 word     1 in   [76]
+  Neu-Licht                         3 word     3 in   [75, 135, 154]
+  Reframing                         7 word     9 in   [75, 97, 135, 154, 182, 183]
+                                    1      as Reframings
+                                    1      as Reframing-Prozesses
+  Anteile                          12 word    19 in   [22, 24, 30, 41, 43, 62]
+                                    5      as Anteilen
+  Alters                            2 word     2 in   [30, 85]
+  Ko-Bewusstsein                    6 word     9 in   [30, 43, 62, 95, 97, 181]
+                                    3      as Ko-Bewusstseins
+  Switching                         1 word     1 in   [30]
+  Gartenpflege                      1 word     1 in   [230]
+  Suno                              7 word    13 in   [11, 16, 32, 58, 59, 62]
+                                    2      as Suno-Prompting
+                                    1      as Suno-Promptings
+                                    1      as Suno-Prompts
+                                    1      as Suno-Prompt-Vorschlägen
+  DIS                              17 word    22 in   [11, 16, 22, 29, 30, 35]
+  Dissoziativen Identitätsstörung    1 word     1 in   [30]
+  IFS                              10 word    10 in   [86, 90, 102, 194, 195, 196]
+  Internal Family Systems           1 word     1 in   [90]
+  Exile                             6 word     7 in   [90, 125, 142, 194, 198]
+                                    1      as Exiles
+  Exiles                            1 word     1 in   [90]
+  Firefighter                       2 word     2 in   [90, 195]
+  Manager                           2 word     4 in   [90, 179, 193, 195]
+                                    1      as Managern
+                                    1      as Manager-Anteil
+  Managern                          1 word     1 in   [90]
+  ST                                3 word     7 in   [86, 91, 126, 195, 198, 202]  <-- substring
+  Schematherapie                    1 word     1 in   [91]
+  Verletzliches Kind                1 word     1 in   [198]
+  Gesunder Erwachsener              1 word     1 in   [202]
+  Dissoziation                      3 word     3 in   [30, 54, 233]
+  Depersonalisation                 2 word     2 in   [22, 30]
+  Derealisation                     1 word     1 in   [30]
+  Amnesie                           2 word     3 in   [24, 30, 67]
+                                    1      as Amnesien
+  Nachwirkungen                     4 word     4 in   [16, 64, 66, 239]
