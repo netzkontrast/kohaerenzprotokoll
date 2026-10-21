@@ -28,8 +28,8 @@ recorded separately in `Manuscript/kanon.md`, on the author’s decision.
 | `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
 | `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
 | `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
-| `terms/<slug>.md` | the term census of one document, selected by the written reading rule — 575 <!--state:documents.with_census--> | a reader |
-| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 575 <!--state:documents.with_note--> | a reader |
+| `terms/<slug>.md` | the term census of one document, selected by the written reading rule — 583 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 583 <!--state:documents.with_note--> | a reader |
 
 A census and a note describe their one document and nothing else: no count,
 comparison or expectation from another source (`CLAUDE.md`, *The process*).
@@ -268,7 +268,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [AEGIS Philosophische Analyse und Manifest .docx](drive/aegis-philosophische-analyse-und-manifest-docx.md) | 2025-08-05 | 4,619 | **read** | Negentropie 2, DID 2, Entropie 18, Juna 4, Emergenz 4, Kohärenz 26, AEGIS 61, Kael 4 | AEGIS-Philosophie 5, No-Trust 4, AEGIS-Manifest 2, Negentropie-Fehlinterpretation 2, Vertrauen 12 |
 | [AEGIS Philosophische und Systemtheoretische Analyse .docx](drive/aegis-philosophische-und-systemtheoretische-analyse-docx.md) | 2025-08-05 | 7,197 | **read** | AEGIS' four sub-functions 6, Emergenz 10, Entropie† 12, Kohärenz 20, Überwelt 10, AEGIS 85 | Ontologischer Einschluss 3, Verifizierbare Berechnung 2, Beobachterproblem 4, Quine 3, Maturana/Varela 6 |
 | [AEGIS-Subplots Kapitelweise System-Exploration .docx](drive/aegis-subplots-kapitelweise-system-exploration-docx.md) | 2025-08-05 | 13,947 | **read** | Guardians 30, LogOS 13, Mnemosyne 6, Cerberus 4, Alters 6, Entropie† 36, Überwelt 17, Kern-Welten 3 | Behavioral AI 5, Realitätsformung 5, Gegnermodellierung 4, Defense in Depth 3, Verhaltensdatenerfassung 3 |
-| [aegis](drive/aegis-2.md) | 2025-08-21 | 88 |  | AEGIS 3 | Machine Core 2, Child Alter 2, Flow 2, Gatekeeper 2, LLM 2 |
+| [aegis](drive/aegis-2.md) | 2025-08-21 | 88 | **read** | AEGIS 3 | Machine Core 2, Child Alter 2, Flow 2, Gatekeeper 2, LLM 2 |
 | [Character Dossier: The Opposing Logics of Kael and AEGIS](drive/character-dossier-the-opposing-logics-of-kael-and-aegis.md) | 2025-10-15 | 1,730 | **read** | Kael 22, AEGIS 35 | QUARANTINE 2, Integrated Information Theory 2, IIT 2, Paraconsistent 3, functional multiplicity 2 |
 | [AEGIS-Eingriff: Angriff oder Rettung?](drive/aegis-eingriff-angriff-oder-rettung.md) | 2025-10-16 | 3,162 | **read** | LogOS 6, Selene 3, Genesis 2, Rhys 2, Nyx 3, Lex 3, AEGIS 48, Kael 11 | Abyssos 5, Eros 6, Lebenstrieb 3, Thanatos 2, Todestrieb 2 |
 | [AEGIS: Psychologische Kriegsführung & Narrative Eskalation](drive/aegis-psychologische-kriegsfuehrung-narrative-eskalation.md) | 2025-10-16 | 5,296 | **read** | Lex 24, Nyx 17, Rhys 4, Kern-Welten 29, Selene 3, Kiko 3, TSDP 4, AEGIS 59 | Lifton 12, Doktrin 6, Milieukontrolle 3, Informationskontrolle 4, Robert 5 |
@@ -765,7 +765,7 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Optimierte Plotline: Genesis der Existenz](drive/optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 2,640 | **read** | Komponente 734 21, Genesis 6, Überwelt 11, Kern-Welten 2, Kohärenz 5, AEGIS 25, Kael 3 | Resonanz-Kaskade 3, Echo 5, Rauschen 7, Qualia 2, Protokoll 2 |
 | [Überarbeitete Optimierte Plotline (13 Szenen): Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-13-szenen-genesis-der-exis.md) | 2025-04-29 | 1,788 | **read** | Komponente 734 9, Überwelt 27, AEGIS 37, Kohärenz 3, Kael 4 | 734s 2, Echo 4, AEGIS-Logik 2, Rauschen 2, Analyse 10 |
 | [Überarbeitete Optimierte Plotline: Genesis der Existenz](drive/uberarbeitete-optimierte-plotline-genesis-der-existenz.md) | 2025-04-29 | 1,792 | **read** | Komponente 734 9, Kern-Welten 2, Kohärenz 8, Überwelt 3, AEGIS 30, Kael 6 | AEGIS-Logik 5, Echo 4, Rauschen 3, Schmerz 2, Analyse 5 |
-| [Protokoll der Offenbarung](drive/protokoll-der-offenbarung.md) | 2025-05-20 | 7,458 |  | Argus 13, Lia 7, Juna 16, Kiko 3, Risse 7, Kael 25 | Data-Kollektiv 8, Stefan 25, Argus-Kollektiv 6, Michaels Protokoll 4, Isabella 12 |
+| [Protokoll der Offenbarung](drive/protokoll-der-offenbarung.md) | 2025-05-20 | 7,458 | **read** | Argus 13, Lia 7, Juna 16, Kiko 3, Risse 7, Kael 25 | Data-Kollektiv 8, Stefan 25, Argus-Kollektiv 6, Michaels Protokoll 4, Isabella 12 |
 | [Existenzforschung für Roman: Kohärenz Protokoll](drive/existenzforschung-fuer-roman-kohaerenz-protokoll.md) | 2025-10-15 | 9,525 | **read** | Kohärenz 40, Überwelt 16, Emergenz 2, Entropie 2, Risse 3 | RNA 13, Abiogenese 11, RNA-Welt 7, NCC 3, Allgemeine Relativitätstheorie 5 |
 | [Roman-Finale: Ethik, Existenz, Schöpfer-Geschöpf-Beziehung](drive/roman-finale-ethik-existenz-schoepfer-geschoepf-beziehung.md) | 2025-10-16 | 3,906 | **read** | Negentropie 5, Multiplizität 3, Nyx 2, Lex 2, Entropie† 5, Kael 35, AEGIS 14 | Logotherapie 22, Frankl 14, Wabi-Sabi 6, Albert Camus 6, Camus 6 |
 | [An Ontological and Systemic Overview of the 'Coherence Protocol' Narrative](drive/an-ontological-and-systemic-overview-of-the-coherence-protoc.md) | 2025-11-03 | 2,299 | **read** | AEGIS' four sub-functions 2, Externe Ebene† 2, Gödel-Gambit 2, Sophia 2, Kairos 2, Guardians 4, Genesis 2, Moonshine-Link 3 | Zero Trust Architecture 2, Core World 5, Classical Logic 4, Paradox of Misaligned Coherence 2, Gödel-sentence 2 |
@@ -838,21 +838,21 @@ Not landed: Coherence Protocol.mp3 (`mp3`).
 | [Gutachterprofil und Alternativen: PTBS/DIS](drive/gutachterprofil-und-alternativen-ptbs-dis.md) | 2025-05-25 | 4,406 | **read** | Kael 4 | DGNB 12, DeGPT 16, K-PTBS 31, DRV 5, PTK NRW 3 |
 | [Dissoziative Identität: Invalidierung im Gesundheitssystem](drive/dissoziative-identitaet-invalidierung-im-gesundheitssystem.md) | 2025-05-26 | 8,873 | **read** | DID 4, Alters 2, Überwelt 5 | DeGPT 10, ICD-11 11, AWMF 9, DSM-5 9, Multiple Personality Disorder 3 |
 | [Juristische Recherche zu kPTBS/DIS](drive/juristische-recherche-zu-kptbs-dis.md) | 2025-05-26 | 14,223 | **read** | Überwelt 4 | LSG 78, Deutsche Rentenversicherung 39, ICD-11 50, K-PTBS 82, DSO 17 |
-| [Sozialrechtliche Begutachtung komplexer Traumafolgestörungen](drive/sozialrechtliche-begutachtung-komplexer-traumafolgestoerunge.md) | 2025-05-26 | 13,575 |  | DID 2, Alters 3 | K-PTBS 97, LSG 22, ICD-11 44, DSO 19, ICF 8 |
-| [Sozialrechtliche Strategien bei Traumafolgestörungen](drive/sozialrechtliche-strategien-bei-traumafolgestoerungen.md) | 2025-05-26 | 9,242 |  | — | VMV 40, DSO 30, ICD-11 45, K-PTBS 62, DeGPT 9 |
+| [Sozialrechtliche Begutachtung komplexer Traumafolgestörungen](drive/sozialrechtliche-begutachtung-komplexer-traumafolgestoerunge.md) | 2025-05-26 | 13,575 | **read** | DID 2, Alters 3 | K-PTBS 97, LSG 22, ICD-11 44, DSO 19, ICF 8 |
+| [Sozialrechtliche Strategien bei Traumafolgestörungen](drive/sozialrechtliche-strategien-bei-traumafolgestoerungen.md) | 2025-05-26 | 9,242 | **read** | — | VMV 40, DSO 30, ICD-11 45, K-PTBS 62, DeGPT 9 |
 | [DIS-Berichtigung: Umfassende Recherche und Schreiben](drive/dis-berichtigung-umfassende-recherche-und-schreiben.md) | 2025-05-29 | 6,706 | **read** | — | SCID-D 11, ISSTD-Leitlinien 9, DSGVO 3, ICD-11 7, DSM-5 6 |
 | [DIS-Diagnose: Klinische, ethische Bewertung](drive/dis-diagnose-klinische-ethische-bewertung.md) | 2025-05-29 | 8,512 | **read** | — | ICD-11 10, DSM-5 9, ISSTD 17, FDS 4, S2k-Leitlinie 3 |
 | [DIS-Diagnose: Klinische, ethische, rechtliche Analyse](drive/dis-diagnose-klinische-ethische-rechtliche-analyse.md) | 2025-05-29 | 6,938 | **read** | — | SCID-D 8, S3-Leitlinie 10, S3 7, DSM 6, ISSTD 14 |
 | [Dissoziative Identitätsstörung: Unsichtbare Diagnose](drive/dissoziative-identitaetsstoerung-unsichtbare-diagnose.md) | 2025-05-29 | 6,433 | **read** | Überwelt 3 | SCID-D 7, Deutsche Rentenversicherung 7, HPA-Achse 4, FDS 4, Stressachse 2 |
-| [Rechtliche Analyse: Entlassungsbericht und DIS](drive/rechtliche-analyse-entlassungsbericht-und-dis.md) | 2025-05-29 | 11,052 |  | Überwelt 2 | DSGVO 27, LSG 13, BGH 8, VersMedV 15, Versorgungsmedizin-Verordnung 7 |
+| [Rechtliche Analyse: Entlassungsbericht und DIS](drive/rechtliche-analyse-entlassungsbericht-und-dis.md) | 2025-05-29 | 11,052 | **read** | Überwelt 2 | DSGVO 27, LSG 13, BGH 8, VersMedV 15, Versorgungsmedizin-Verordnung 7 |
 | [Junas Liebe, Kaels Trauma, AEGIS .docx](drive/junas-liebe-kaels-trauma-aegis-docx.md) | 2025-06-03 | 10,300 | **read** | Externe Ebene 50, Negentropie 4, Partnerin 2, Juna 67, Überwelt 34, Entropie† 11, Alters 2, Kael 82 | Penelope 10, Beatrice Portinari 3, Album 15, Eros 4, Liebe 106 |
 | [Trauma-Archäologie Interdisziplinäre Konzeptentwicklung .docx](drive/trauma-archaeologie-interdisziplinaere-konzeptentwicklung-do.md) | 2025-08-05 | 12,658 | **read** | Sophia 8, Genesis 7, Emergenz† 31, DID 2, Überwelt 31, Entropie† 9, Alters 2, Risse 6 | Frankenstein 9, Gnosticism 9, Exil 13, Derealization Disorder 7, Neoplatonismus 4 |
 | [Heilung: Hirnchemie, Kunst, Trauma](drive/heilung-hirnchemie-kunst-trauma.md) | 2025-08-07 | 4,557 | **read** | Kairos 14 | PFC 14, Chronos 9, Polyvagal 7, DMN 6, Dorsal 4 |
-| [Traumaheilung: Neurochemie, ADHS, DIS, Kunst](drive/traumaheilung-neurochemie-adhs-dis-kunst.md) | 2025-08-07 | 8,592 |  | DID 2, Alters 2 | PFC 24, Reconsolidation 13, HHN-Achse 8, Oxytocin 9, Frankl 13 |
+| [Traumaheilung: Neurochemie, ADHS, DIS, Kunst](drive/traumaheilung-neurochemie-adhs-dis-kunst.md) | 2025-08-07 | 8,592 | **read** | DID 2, Alters 2 | PFC 24, Reconsolidation 13, HHN-Achse 8, Oxytocin 9, Frankl 13 |
 | [Heilung: Der Verlust von Superkräften](drive/heilung-der-verlust-von-superkraeften.md) | 2025-10-16 | 4,077 | **read** | Lex 19, Nyx 17, Rhys 2, Kiko 3, Kern-Welten 2, AEGIS 27 | Wabi-Sabi 16, Flow 8, Trauma Bonding 2, PTG 2, Friedenweiler 2 |
 | [Ontologie des Gelesenen Traumas](drive/ontologie-des-gelesenen-traumas.md) | 2025-10-16 | 4,588 | **read** | Genesis 7, AEGIS 11 | Dunamis 13, Archibald 7, Wheeler 11, Energeia 5, Quanteninformationstheorie 3 |
-| [Tattoo-Konzept: Archetypen, Heilung, Rebellion](drive/tattoo-konzept-archetypen-heilung-rebellion.md) | 2025-10-30 | 5,484 |  | Vortex 3, Isabelle 4, Selene 9, Moros 6, TSDP 17, Nyx 10, Lex 10, Kiko 6 | Wabi-Sabi 9, Kintsugi-Linien 3, Axis Mundi 3, Maurice Merleau-Ponty 3, Phänomenologie des Leibes 2 |
-| [Tattoo-Konzept: Symbolik, Trauma & Heilung](drive/tattoo-konzept-symbolik-trauma-heilung.md) | 2025-10-30 | 6,421 |  | Isabelle 5, Argus 6, Lia 5, Rhys 6, Alex 5, Moros 5, Selene 5, Kiko 6 | Axis Mundi 5, Trickster 9, Sekundärer ANP 6, Verwundete Aphrodite 2, Verspielte 3 |
+| [Tattoo-Konzept: Archetypen, Heilung, Rebellion](drive/tattoo-konzept-archetypen-heilung-rebellion.md) | 2025-10-30 | 5,484 | **read** | Vortex 3, Isabelle 4, Selene 9, Moros 6, TSDP 17, Nyx 10, Lex 10, Kiko 6 | Wabi-Sabi 9, Kintsugi-Linien 3, Axis Mundi 3, Maurice Merleau-Ponty 3, Phänomenologie des Leibes 2 |
+| [Tattoo-Konzept: Symbolik, Trauma & Heilung](drive/tattoo-konzept-symbolik-trauma-heilung.md) | 2025-10-30 | 6,421 | **read** | Isabelle 5, Argus 6, Lia 5, Rhys 6, Alex 5, Moros 5, Selene 5, Kiko 6 | Axis Mundi 5, Trickster 9, Sekundärer ANP 6, Verwundete Aphrodite 2, Verspielte 3 |
 | [Causal Linkage: A Report on TSDP, Cache Incoherence, and the Mechanics of "Risse"](drive/causal-linkage-a-report-on-tsdp-cache-incoherence-and-the-me.md) | 2025-11-03 | 2,671 | **read** | Kohärenz-Kernel 3, Trennungsprotokoll† 2, Kollaps-Kernel 2, Moros 4, TSDP 10, Nyx 7, Lex 7, Kiko 4 | Cache Incoherence 2, Shutdown 3, Correspondence-Check 2, Worlds 5, Correspondence 3 |
 | [Operationalizing the "Triple Helix" Structure as a Trauma-Protocol](drive/operationalizing-the-triple-helix-structure-as-a-trauma-prot.md) | 2025-11-03 | 2,120 | **read** | Moonshine-Link 2, Alters 4, Kern-Welten 5, Nyx 2, Lex 2, Kael 26, Risse 2, AEGIS 16 | "living Gödel-Satz" 2, Paradoxon X 2, Protocol 6, Foundation 3, System Kael 6 |
 | [The Psychological Mechanics: From Tertiary Structural Dissociation to Organic Alter-Dynamics](drive/the-psychological-mechanics-from-tertiary-structural-dissoci.md) | 2025-11-03 | 2,163 | **read** | Alters 12, Rhys 2, Selene 2, Nyx 4, Kiko 3, Lex 3, TSDP 2, Kael 26 | Tertiary Structural Dissociation 4, Introject 2, functional multiplicity 9, Core Worlds 3, Coherence Protocol 3 |
@@ -905,12 +905,12 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [AEGIS' four sub-functions](../Wiki/candidates/aegis-teilfunktionen.md) | — |
 | [Alex](../Wiki/candidates/alex.md) | — |
 | [Algorithmische Melancholie](../Wiki/candidates/algorithmische-melancholie.md) | — |
-| [Alters](../Wiki/candidates/alters.md) | [aegis-2](drive/aegis-2.md) |
+| [Alters](../Wiki/candidates/alters.md) | — |
 | [ANI](../Wiki/candidates/ani.md) | — |
 | [Archiv der Grenzen](../Wiki/candidates/archiv-der-grenzen.md) | — |
-| [Archiv des Ungesagten](../Wiki/candidates/archiv-des-ungesagten.md) | [protokoll-der-offenbarung](drive/protokoll-der-offenbarung.md) |
-| [Argus](../Wiki/candidates/argus.md) | [sozialrechtliche-begutachtung-komplexer-traumafolgestoerunge](drive/sozialrechtliche-begutachtung-komplexer-traumafolgestoerunge.md) |
-| [ARS](../Wiki/candidates/ars.md) | [rechtliche-analyse-entlassungsbericht-und-dis](drive/rechtliche-analyse-entlassungsbericht-und-dis.md), [tattoo-konzept-symbolik-trauma-heilung](drive/tattoo-konzept-symbolik-trauma-heilung.md) |
+| [Archiv des Ungesagten](../Wiki/candidates/archiv-des-ungesagten.md) | — |
+| [Argus](../Wiki/candidates/argus.md) | — |
+| [ARS](../Wiki/candidates/ars.md) | — |
 | [Atemporalität](../Wiki/candidates/atemporalitaet.md) | — |
 | [Ontologischer blinder Fleck](../Wiki/candidates/blinder-fleck.md) | — |
 | [Cache-Kohärenz](../Wiki/candidates/cache-kohaerenz.md) | — |
@@ -939,7 +939,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Die Große Mauer](../Wiki/candidates/grosse-mauer.md) | — |
 | [Guardians](../Wiki/candidates/guardians.md) | — |
 | [Hitze-Polaritätsregel](../Wiki/candidates/hitze-polaritaetsregel.md) | — |
-| [Isabelle](../Wiki/candidates/isabelle.md) | [protokoll-der-offenbarung](drive/protokoll-der-offenbarung.md) |
+| [Isabelle](../Wiki/candidates/isabelle.md) | — |
 | [Juna](../Wiki/candidates/juna.md) | — |
 | [Junas Ankerpunkt](../Wiki/candidates/junas-ankerpunkt.md) | — |
 | [K0-Existenz](../Wiki/candidates/k0-existenz.md) | — |
@@ -977,7 +977,7 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Partnerin](../Wiki/candidates/partnerin.md) | — |
 | [Persistenzgleichung](../Wiki/candidates/persistenzgleichung.md) | — |
 | [Personas](../Wiki/candidates/personas.md) | — |
-| [PMS](../Wiki/candidates/pms.md) | [traumaheilung-neurochemie-adhs-dis-kunst](drive/traumaheilung-neurochemie-adhs-dis-kunst.md), [angst-und-vermeidung-in-dis-systemen](drive/angst-und-vermeidung-in-dis-systemen.md) |
+| [PMS](../Wiki/candidates/pms.md) | [angst-und-vermeidung-in-dis-systemen](drive/angst-und-vermeidung-in-dis-systemen.md) |
 | [Potentialmeer](../Wiki/candidates/potentialmeer.md) | — |
 | [Protokoll v1.4](../Wiki/candidates/protokoll-v14.md) | — |
 | [Realitätsebenen](../Wiki/candidates/realitaetsebenen.md) | — |
@@ -986,9 +986,9 @@ The qmd first scan of 2026-09-26: `qmd search <name> -c sources -n 10` for each 
 | [Rhys](../Wiki/candidates/rhys.md) | — |
 | [Risse](../Wiki/candidates/risse.md) | — |
 | [RSA](../Wiki/candidates/rsa.md) | — |
-| [Schleuse 7](../Wiki/candidates/schleuse-7.md) | [protokoll-der-offenbarung](drive/protokoll-der-offenbarung.md) |
+| [Schleuse 7](../Wiki/candidates/schleuse-7.md) | — |
 | [Sektor 04](../Wiki/candidates/sektor-04.md) | — |
-| [Selene](../Wiki/candidates/selene.md) | [tattoo-konzept-archetypen-heilung-rebellion](drive/tattoo-konzept-archetypen-heilung-rebellion.md) |
+| [Selene](../Wiki/candidates/selene.md) | — |
 | [Silas](../Wiki/candidates/silas.md) | — |
 | [SNK](../Wiki/candidates/snk.md) | — |
 | [Sophia](../Wiki/candidates/sophia.md) | — |
