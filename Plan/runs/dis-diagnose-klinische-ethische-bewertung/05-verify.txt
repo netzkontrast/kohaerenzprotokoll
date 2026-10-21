@@ -1,0 +1,52 @@
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "Gutachten"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            11
+
+`Gutachten` ^[dis-diagnose-klinische-ethische-bewertung.md:#8]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[dis-diagnose-klinische-ethische-bewertung.md:#0]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[dis-diagnose-klinische-ethische-bewertung.md:#0]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "Kapitel"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kapitel` ^[dis-diagnose-klinische-ethische-bewertung.md:#1]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "ICD-11"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`ICD-11` ^[dis-diagnose-klinische-ethische-bewertung.md:#10]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "DSM-5-TR"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`DSM-5-TR` ^[dis-diagnose-klinische-ethische-bewertung.md:#9]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "ISSTD"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            17
+
+`ISSTD` ^[dis-diagnose-klinische-ethische-bewertung.md:#11]
+$ read.py dis-diagnose-klinische-ethische-bewertung --count "Tabelle"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Tabelle` ^[dis-diagnose-klinische-ethische-bewertung.md:#7]
+$ grep -c "^[0-9]*\. " references (L289-L329)
+41
+$ profile: glued ref numbers 12 (01-profile.txt)
+  glued ref numbers    12
