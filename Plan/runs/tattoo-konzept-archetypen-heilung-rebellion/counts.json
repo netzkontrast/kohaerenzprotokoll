@@ -1,0 +1,509 @@
+{
+  "document": "tattoo-konzept-archetypen-heilung-rebellion",
+  "drive_id": "1Vo-ByUwZaxXHrlUXJ-6WQaLwHHzkJ6lQ_Z0DisyyFtA",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        83,
+        254,
+        296,
+        303
+      ]
+    },
+    "Nyx": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        92,
+        121,
+        125,
+        126,
+        132,
+        137,
+        177,
+        264,
+        270,
+        283
+      ]
+    },
+    "AEGIS": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        213,
+        250,
+        254,
+        256
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        97,
+        221,
+        225
+      ]
+    },
+    "Isabelle": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        94,
+        161,
+        165,
+        264
+      ]
+    },
+    "Kiko": {
+      "n": 6,
+      "n_including_compounds": 8,
+      "lines": [
+        93,
+        125,
+        141,
+        145,
+        157,
+        264,
+        284,
+        298
+      ]
+    },
+    "Moros": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        95,
+        181,
+        185,
+        192,
+        271,
+        284
+      ]
+    },
+    "Selene": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        96,
+        201,
+        205,
+        206,
+        207,
+        208,
+        212,
+        213,
+        217,
+        264,
+        285,
+        298
+      ]
+    },
+    "Lex": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        66,
+        91,
+        101,
+        105,
+        106,
+        107,
+        108,
+        117,
+        264,
+        270,
+        283,
+        325
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        254,
+        302
+      ]
+    },
+    "Paradoxon X": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        133
+      ]
+    },
+    "Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        296
+      ]
+    },
+    "Der Architekt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        101
+      ]
+    },
+    "Der Wächter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        121
+      ]
+    },
+    "Das Innere Kind": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        93,
+        141
+      ]
+    },
+    "Die Verkörperung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        161
+      ]
+    },
+    "Die Leere": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        95,
+        181
+      ]
+    },
+    "Der Integrator": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        96,
+        201
+      ]
+    },
+    "Der Externe Anker": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        221
+      ]
+    },
+    "Wachsende Landkarte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        256
+      ]
+    },
+    "Ausbruch": {
+      "n": 20,
+      "n_including_compounds": 22,
+      "lines": [
+        28,
+        62,
+        66,
+        90,
+        108,
+        128,
+        148,
+        153,
+        168,
+        172,
+        173,
+        188,
+        208,
+        212,
+        237,
+        242,
+        270,
+        283
+      ]
+    },
+    "Anteile": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        27,
+        30,
+        48,
+        92,
+        137,
+        193,
+        217,
+        242,
+        271,
+        283
+      ]
+    },
+    "Inseln": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        79,
+        265
+      ]
+    },
+    "Kintsugi-Linien": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        58,
+        294
+      ]
+    },
+    "Kintsugi-Netzwerk": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        265,
+        282
+      ]
+    },
+    "Obsidian-Rüstung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        127
+      ]
+    },
+    "Systemfehler": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        113,
+        117
+      ]
+    },
+    "Kintsugi": {
+      "n": 13,
+      "n_including_compounds": 27,
+      "lines": [
+        26,
+        42,
+        46,
+        48,
+        58,
+        94,
+        96,
+        127,
+        137,
+        157,
+        168,
+        207,
+        212,
+        256,
+        265,
+        282,
+        294,
+        305,
+        308,
+        309,
+        310,
+        311,
+        312
+      ]
+    },
+    "Wabi-Sabi": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        42,
+        46,
+        256
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 17,
+      "lines": [
+        30,
+        48,
+        56,
+        79,
+        90,
+        105,
+        125,
+        145,
+        165,
+        185,
+        205,
+        225,
+        302,
+        303
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        185,
+        206
+      ]
+    },
+    "EPs": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        48,
+        105,
+        106,
+        206
+      ]
+    },
+    "IFS": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        205,
+        285,
+        351
+      ]
+    },
+    "Axis Mundi": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        201,
+        206
+      ]
+    },
+    "Kundalini": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        96,
+        206,
+        348,
+        349,
+        350
+      ]
+    },
+    "Ensō": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        95,
+        187,
+        344,
+        345
+      ]
+    },
+    "Bindungstheorie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        97,
+        226,
+        352,
+        355
+      ]
+    },
+    "Heilige Geometrie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        107
+      ]
+    },
+    "Dionysischen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        106
+      ]
+    },
+    "Sicheren Basis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        146
+      ]
+    },
+    "Bindungsruf": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        93,
+        145,
+        152
+      ]
+    },
+    "Personifizierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Realisierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Weltenbaum": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        96,
+        206
+      ]
+    },
+    "Gargoyles": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        126
+      ]
+    },
+    "Intrusion": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        69,
+        71,
+        90,
+        92,
+        94,
+        133
+      ]
+    },
+    "Phänomenologie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        94,
+        161,
+        166
+      ]
+    }
+  }
+}

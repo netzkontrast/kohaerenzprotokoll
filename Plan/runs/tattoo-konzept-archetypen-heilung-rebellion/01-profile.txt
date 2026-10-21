@@ -1,0 +1,14 @@
+# tattoo-konzept-archetypen-heilung-rebellion
+  lines                361  (frontmatter ends at 9)
+  body words           5484
+  headings             20   bold-only lines 0
+  table rows           10   code fences 0
+  question marks       31
+  backslash escapes    56
+  typographic marks    31   ascii quotes 201
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    64
+  repeated labels      TSDP-Analyse x7, Weiterführende Fragen x7, Konflikt x6, Heilung x4, Philosophische Vertiefung x3
+  longest line         1056 chars
+
