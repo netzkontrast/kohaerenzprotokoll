@@ -381,3 +381,13 @@ full order and `Plan/runs/dedupe.json` has the decision per group.
 A count over files is now a count over documents — AEGIS is in 269 of the 346 —
 but the distinction was real while it lasted and the script that measures it
 stays.
+
+## Two rows are shortcuts, not documents (2026-10-21)
+
+`kohaerenz-protokoll-plot-entwurf-finalisierung` (drive id `1INOMuwSy53mFRKDXukcNnLHcjnMl_iPR`) and
+`beziehungsheilung-nach-trauma-konzeptpapier` (`1-9IShqRiQMHdQ_BEofNKl7IC40-YuvBJ`) landed as 422 and 261
+bytes: a JSON stub and `{}`. Drive's metadata names both `application/vnd.google-apps.shortcut` — a
+pointer with no content of its own — so a re-fetch, forced or not, lands the same stub. Neither gets a
+census. What a shortcut points to is not in the metadata the connector returns; whether its target is a
+document already landed under another slug is unmeasured. A fetch that lands fewer than ~500 bytes is
+worth a metadata look before it is called a failed export.
