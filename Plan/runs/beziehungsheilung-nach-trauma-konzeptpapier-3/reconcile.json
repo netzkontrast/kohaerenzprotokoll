@@ -1,0 +1,57 @@
+{
+  "document": "beziehungsheilung-nach-trauma-konzeptpapier-3",
+  "drive_id": "1rqc1C9d8uD-Eahys_pzAqx29Sp81vnmm2Culsthu57A",
+  "step": "reconcile",
+  "at": "2026-10-21",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-21, from the full-ingest task with no count before the list; light pass at reconciliation; no readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 63,
+    "decisions": 60,
+    "decided_by_lookup": 56,
+    "needs_judgement": 4
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An album concept with personal material (decision 028): a concept paper for a music prelude on couples after trauma; read as a light pass, nothing harvested.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "light pass (decision 028): an album document with personal material (decision 028); not harvested; every term is an occurrence only; nothing harvested",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 277,
+      "decision": "occurrence",
+      "why": "an album document with personal material (decision 028); not harvested"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "an album document with personal material (decision 028); not harvested"
+    }
+  ],
+  "not_promoted": [
+    "everything: a light pass"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}
