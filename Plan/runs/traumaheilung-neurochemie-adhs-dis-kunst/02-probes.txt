@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      200
+  backslash escapes      16
+  typographic marks      97
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  neuro    Neuroarchitektur, Neurobildgebende, Neurobildgebung, Neurobiological, Neurobiologie, Neurobiologisch, Neurobiologische, Neurobiology, Neurochemikalien, Neurochemisch, Neurochemische, Neurodegeneration, Neurodivergenz, Neuroentwicklungsbedingte, Neurofeedback, Neurogenese, Neuroimaging, Neuroinflammation, Neuron, Neuronen, Neurons, Neuropeptid, Neuroplasticity, Neuroplastizität, Neuropsychotherapy, Neuroscience, Neuroscientific, Neurotransmission, Neurotransmitter, Neurotransmittern, Neurotransmitters, Neurotrophic, Neurowissenschaft
+  psych    Psych, Psychedelic, Psychedelika, Psychiatry, Psychobiology, Psychobiotika, Psychological, Psychologisch, Psychology, Psychoneuroimmunological, Psychoneuroimmunologie, Psychotherapeutic, Psychotherapie, Psychotherapien, Psychotherapy
+  angst    Angst, Angsterinnerung, Angsterinnerungen, Angstlöschung, Angstlöschungsaufgaben, Angstlöschungskreislauf, Angstlöschungslernen, Angstreaktionen, Angstschaltkreis, Angstschaltkreise, Angstschaltkreisen, Angstschaltkreises, Angstverarbeitung
+  traum    Trauma, Traumaarbeit, Traumabedingter, Traumaenergie, Traumaexposition, Traumafokussierte, Traumareaktion, Traumas, Traumata, Traumatherapie, Traumatherapien, Traumatic, Traumaverarbeitung
+  gedäc    Gedächtnis, Gedächtnisabruf, Gedächtniskonsolidierung, Gedächtnislücken, Gedächtnisrekonsolidierung, Gedächtnisses, Gedächtnisstörung, Gedächtnissystem, Gedächtnisverarbeitung
+  gehir    Gehirn, Gehirnaktivierung, Gehirnchemie, Gehirngesundheit, Gehirns, Gehirnschaltkreise, Gehirnstrukturveränderungen, Gehirnwellenaktivität
+  selbs    Selbst, Selbstberuhigung, Selbstgefühl, Selbstgefühle, Selbstreflexion, Selbstregulation, Selbstsein, Selbstüberwindung
+  stres    Stress, Stresses, Stressreaktion, Stressreaktionssystem, Stressreaktionssysteme, Stresssignale, Stresssystemen
+  überl    Überlebenden, Überlebender, Überlebens, Überlebensmechanismus, Überlebensreaktionen, Überlebensstrategie, Überlegungen
+  dopam    Dopamin, Dopamine, Dopaminfreisetzung, Dopaminspiegel, Dopaminsystem, Dopamintransporter
+  hyper    Hyperactivity, Hyperaktivität, Hyperarousal, Hyperkonnektivität, Hypervigilance, Hypervigilanz
+  leben    Leben, Lebens, Lebensereignissen, Lebensfunktionen, Lebensgeschichte, Lebenswelt
+  syste    System, Systematic, Systeme, Systemen, Systemische, Systems
+  thera    Therapeutic, Therapeutische, Therapie, Therapien, Therapieraum, Therapy
+  bedro    Bedrohung, Bedrohungen, Bedrohungsdetektor, Bedrohungserkennung, Bedrohungsreizen
+  corti    Cortisol, Cortisolreaktion, Cortisols, Cortisolspiegel, Cortisolspiegeln
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziative
+  inter    Interaktion, InternalFamilySystems, Internet, Interozeption, Interventionen
+  rezep    Rezeptor, Rezeptorempfindlichkeit, Rezeptoren, Rezeptors, Rezeptorsystems
+  aktiv    Aktivierung, Aktivität, Aktivitätsabhängige, Aktivitätsmuster
+  diese    Diese, Dieselbe, Dieser, Dieses
+  ident    Identity, Identität, Identitätsstörung, Identitätszuständen
+  körpe    Körper, Körperreaktionen, Körpers, Körpersysteme
+  risik    Risiko, Risikobereitschaft, Risikofaktor, Risikopersonen
+  schlü    Schlüsselmechanismus, Schlüsselrolle, Schlüsselwort, Schlüsselwörter
+
+# substring pairs -- never one term, often merged by accident
+  Area < Traumareaktion
+  Darm < Darmdysbiose
+  Darm < Darmmikrobiota
+  Darm < Darmpermeabilität
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  Dies < Dieselbe
+  Dive < Neurodivergenz
+  Down < Shutdown
+  Down < Shutdowns
+  Eine < Seine
+  Find < Finding
+  Find < Sinnfindung
+  Find < Empfindlichkeit
+  Find < Rezeptorempfindlichkeit
+  Form < Formen
+  Form < Formation
+  Form < Transforms
