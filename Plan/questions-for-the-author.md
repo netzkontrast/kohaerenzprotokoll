@@ -465,6 +465,8 @@ the questions, each with a recommendation:
 5. **Which page first** — `genesis-klammer`, `kishotenketsu`, `nexus`, then `entropie`, or a term the next chapters need.
 6. **The graph** — thoughts in the core graph (recommended) or beside it until a thought page is reviewed.
 
+**Answered 2026-10-23:** 1 before promotion, 2 one act, 4 yes, up to two Sonnet readers, 5 `genesis-klammer` first. 3 and 6 are open; the work proceeds on the recommendations.
+
 ### Raised by the ingest of 2026-10-21 (documents 532–590)
 
 - **Two manifest rows are Drive shortcuts, and their targets are not landed.** `kohaerenz-protokoll-plot-entwurf-finalisierung`

@@ -279,6 +279,11 @@ Stand*; `Plan/concept/term-questions-ui_2026-10-14.md`). The full read adds:
 6. **The graph.** Thoughts as nodes in the core graph (recommended, they are written and checked like readings), or beside it like
    the proposal layer until you have reviewed a thought page.
 
+**Answered 2026-10-23** (the author, through the session's question form): 1 — **before promotion**, the thought page is what
+the author reviews; 2 — **one act**, one word promotes the candidate and approves the thought page; 4 — **yes, up to two** Sonnet
+subagents read chunks, the session groups and commits; 5 — **`genesis-klammer` first**. Questions 3 (language) and 6 (the graph)
+are not answered; the plan proceeds on its recommendations (German; thoughts in the core graph), both provisional.
+
 ## 12. What gets built, in order
 
 1. `scripts/digest.py`: `plan`, `status`, `check`, `write`, `selftest` — standard library, offline fixture first (a three-document
