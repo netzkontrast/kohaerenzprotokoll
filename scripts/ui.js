@@ -994,7 +994,7 @@ class Component extends DCLogic {
           'Promotion bestätigt die Prüfung der Quellenlesarten. Sie macht keine Lesart zum Romankanon.',
           'Kanonentscheidungen stehen in Manuscript/kanon.md, den Entscheidungen und beantworteten Weichen.',
         ];
-        rd.secs = this.secs(null, [[['Prüfung und Bestätigung'], -1, '', [['ul', text.map((x) => [x])]]], [['Nächster Arbeitsschritt'], -1, '', [['p', [p.st === 'reviewed' ? (p.tp ? 'Die Begriffsseite lesen, neue Lesarten vergleichen und eine Empfehlung zur Bestätigung vorbereiten.' : 'Aus den geprüften Lesarten eine deutsche Begriffsseite ausarbeiten.') : 'Quellen und offene Konflikte prüfen; anschließend die Promotion dem Autor vorlegen.']], ['p', ['Prüfbogen: python3 scripts/promote.py sheet ' + p.s]], ['p', ['Begriffsseite: python3 scripts/terms.py finds ' + p.s]]]]], uid + '-promotion-' + sel);
+        rd.secs = this.secs(null, [[['Prüfung und Bestätigung'], -1, '', [['ul', text.map((x) => [x])]]], [['Nächster Arbeitsschritt'], -1, '', [['p', [p.th.length && p.st !== 'reviewed' ? 'Die Gedankenseite lesen (Ansicht Gedanken) und dem Autor vorlegen; sein Wort promoviert die Kandidatenseite und bestätigt die Gedankenseite.' : p.st === 'reviewed' ? (p.tp ? 'Die Begriffsseite lesen, neue Lesarten vergleichen und eine Empfehlung zur Bestätigung vorbereiten.' : 'Aus den geprüften Lesarten eine deutsche Begriffsseite ausarbeiten.') : 'Die Kandidatenseite ganz lesen (python3 scripts/fullread.py plan ' + p.s + ', Skill full-read) und die Gedankenseite dem Autor vorlegen.']], ['p', ['Prüfbogen: python3 scripts/promote.py sheet ' + p.s]], ['p', ['Begriffsseite: python3 scripts/terms.py finds ' + p.s]]]]], uid + '-promotion-' + sel);
         rd.key += ':promotion';
       } else if (view === 'gedanken' && p.th.length) {
         rd.secs = this.secs(null, this.thoughtSecs(p, s.wth), uid + '-th-' + sel);
@@ -1006,7 +1006,7 @@ class Component extends DCLogic {
       if (view === 'promotion') rd.kicker = 'Promotionsstand · ' + p.t;
       if (view === 'gedanken') rd.kicker = 'Gedankenseite · Wiki/terms/' + p.s + '.md · vollständige Lektüre';
       rd.hasSub = true;
-      rd.sub = view === 'gedanken' ? 'Jeder Gedanke einmal, mit allen Quellen, die ihn tragen, und ihrer Haltung. Ein Klick auf die Kennung gibt dem Gedanken seine Adresse.' : view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? 'Zwei Schritte: Quellenlesarten prüfen, anschließend die Begriffsseite bestätigen.' : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
+      rd.sub = view === 'gedanken' ? 'Jeder Gedanke einmal, mit allen Quellen, die ihn tragen, und ihrer Haltung. Ein Klick auf die Kennung gibt dem Gedanken seine Adresse.' : view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? (p.th.length ? 'Ein Akt: Der Autor prüft die Gedankenseite; sein Wort promoviert die Kandidatenseite und bestätigt die Gedankenseite zugleich.' : 'Die Kandidatenseite wird ganz gelesen; die Gedankenseite ist, was der Autor prüft.') : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
       wr.toc = rd.secs.filter((x) => x.hasHead).map((x) => {
         let label = x.label;
         if (x.hasSig) {
