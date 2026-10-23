@@ -65,9 +65,9 @@ jobs:
       - name: term pages (terms.py check)
         if: always()
         run: python3 scripts/terms.py check
-      - name: full reads (digest.py check)
+      - name: full reads (fullread.py check)
         if: always()
-        run: python3 scripts/digest.py check
+        run: python3 scripts/fullread.py check
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open

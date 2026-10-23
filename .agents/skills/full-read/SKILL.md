@@ -1,5 +1,5 @@
 ---
-name: digest
+name: full-read
 description: Read one wiki candidate page whole — every line it cites, opened with its context, plus the project's records and the other wiki pages that name the term — and write a German thought page (Wiki/terms/<slug>.md, form gedanken) holding every thought about the term once, with all its sources and stances, and a ledger proving every citation was accounted for. Use when asked to fully read, digest or prepare a term for promotion; never to decide a reading, merge readings or enter canon.
 allowed-tools: Bash(python3 scripts/*), Bash(git:*)
 ---
@@ -8,18 +8,18 @@ allowed-tools: Bash(python3 scripts/*), Bash(git:*)
 
 The plan and its reasons: `Plan/concept/term-digest_2026-10-23.md`. The author's answers of 2026-10-23: the
 full read comes **before** promotion and its thought page is what the author reviews; one word of the author's
-promotes the candidate and approves the page; up to two Sonnet readers (`term-digester`) may read chunks; the
-session groups, writes and commits. The script is `scripts/digest.py`; run `selftest` once before a run.
+promotes the candidate and approves the page; up to two Sonnet readers (`full-reader`) may read chunks; the
+session groups, writes and commits. The script is `scripts/fullread.py`; run `selftest` once before a run.
 
 ```
-digest.py plan <slug>              packet.json: every distinct citation, its window, barred lines, chunks
+fullread.py plan <slug>              packet.json: every distinct citation, its window, barred lines, chunks
    │
-   ▼ digest.py show <slug> NN       a reader per chunk (and one for `records`): chunks/NN.ledger.jsonl + NN.thoughts.jsonl
+   ▼ fullread.py show <slug> NN       a reader per chunk (and one for `records`): chunks/NN.ledger.jsonl + NN.thoughts.jsonl
    ▼ defects                        each fixed on the candidate first, one commit naming its source document
    ▼ group                          the session: thoughts.jsonl (`from` names the chunk thoughts), groupings.jsonl
-   ▼ digest.py join <slug>          ledger.jsonl, chunk ids mapped to final ids
-   ▼ digest.py write <slug>         Wiki/terms/<slug>.md
-   ▼ digest.py check <slug> · quotes.py · terms.py check
+   ▼ fullread.py join <slug>          ledger.jsonl, chunk ids mapped to final ids
+   ▼ fullread.py write <slug>         Wiki/terms/<slug>.md
+   ▼ fullread.py check <slug> · quotes.py · terms.py check
    ▼ commit „terms/<slug>: full read of the candidate as of <date>, <n> citations“
 ```
 
@@ -43,7 +43,7 @@ gets a row in `groupings.jsonl`: `{"thought", "docs", "why"}`.
 
 Every distinct citation of the candidate, and every record and wiki line in the packet, gets exactly one row:
 `used` (with `thoughts`), `same-as` (with `note`: which ref says it), `context`, `occurrence`, `barred`,
-`defect` (with `note`: what the reading claims and the line does not). `digest.py check` refuses a reference
+`defect` (with `note`: what the reading claims and the line does not). `fullread.py check` refuses a reference
 without a row, a `used` row naming no thought, a thought citing a barred line, a joining thought without its
 grouping, a page that is not the rendering of the run.
 
@@ -61,14 +61,14 @@ grouping, a page that is not the rendering of the run.
 
 ## 4 · After the read
 
-Record the numbers in `Plan/learnings/digest.md`: minutes and citations per chunk, thoughts per citation, rows per
-state, defects, groupings. The author's review: `promote.py sheet <slug>` plus `digest.py status <slug>`; on the
+Record the numbers in `Plan/learnings/fullread.md`: minutes and citations per chunk, thoughts per citation, rows per
+state, defects, groupings. The author's review: `promote.py sheet <slug>` plus `fullread.py status <slug>`; on the
 author's words, `promote.py apply` and `terms.py approve` with the same words (one act).
 
 ## Provisional
 
 ```yaml
-name: digest            # provisional — written 2026-10-23 before the first full read
+name: full-read         # provisional — written 2026-10-23 before the first full read
 # may not: decide which reading is right, merge readings, create a conflict record without the session's
 #          reconciliation rule (decision 003), approve or promote anything
 # retire when: three full reads show the author reviews by source rather than by thought

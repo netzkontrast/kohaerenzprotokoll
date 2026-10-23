@@ -78,7 +78,7 @@ for the term, and each one ends in exactly one of these states:
 | `barred` | the line holds an early name, a real person's name, the trauma symbol or a world code's expansion | decision 028 and the standing rules: read, never quoted |
 | `defect` | the reading's prose says something its line does not say | goes to §5, a fix on the candidate |
 
-The **ledger** `Plan/runs/digest/<slug>/ledger.jsonl` has one row per distinct citation of the candidate page, with its state,
+The **ledger** `Plan/runs/fullread/<slug>/ledger.jsonl` has one row per distinct citation of the candidate page, with its state,
 the thoughts that use it, and the context window the writer opened (`read.py <slug> --from a --to b`). The mechanical claim of
 wholeness is: **every distinct citation on the candidate has a row, no row is empty, and every `used` row names a thought that
 exists.** The reverse also holds: every citation on the thought page is either on the candidate or added by the full read from
@@ -110,16 +110,16 @@ evidence of where a source spoke, never a reading of their own.
 ```
 candidate page (ledger of readings)
   │
-  ▼ digest.py plan <slug>        the packet: every distinct citation, grouped by document, with its context window,
+  ▼ fullread.py plan <slug>        the packet: every distinct citation, grouped by document, with its context window,
   │                              barred lines marked, sizes; chunks of at most ~150 citations or ~1,500 source lines
   ▼ read, chunk by chunk          the writer opens every window, writes thoughts and one ledger row per citation
   │                              (chunks-NN/thoughts.jsonl, chunks-NN/ledger.jsonl, chunks-NN/defects.md)
   ▼ fix the candidate first       each defect is a commit on the candidate page naming the source document (§5)
   ▼ group                         the session joins the chunks: same thought → one, recorded in groupings.jsonl;
   │                              different → two thoughts and a difference; a new contradiction → a conflict record (decision 003)
-  ▼ digest.py write <slug>        renders Wiki/terms/<slug>.md from thoughts.jsonl: sections by kind, [S]/[K]/[L]/[D] bullets,
+  ▼ fullread.py write <slug>        renders Wiki/terms/<slug>.md from thoughts.jsonl: sections by kind, [S]/[K]/[L]/[D] bullets,
   │                              citations, the coverage block; the author's block kept
-  ▼ digest.py check <slug>        §6, and quotes.py, terms.py check
+  ▼ fullread.py check <slug>        §6, and quotes.py, terms.py check
   ▼ commit                        „terms/<slug>: full read of the candidate as of <date>, <n> citations“
   ▼ the author reviews the thought page, not the ledger (§7)
 ```
@@ -129,15 +129,15 @@ is a new version of the term page of decision 027, written from the full read ra
 what the review then covers, and §11.1 asks the author whether this order — full read *before* promotion — is the one meant.
 
 **Who writes.** The session writes, chunk by chunk, in order. A chunk is the same kind of work as an ingest reading, so a
-Sonnet subagent (`term-digester`, write access to its run directory only) can read a chunk, and the session groups and commits.
+Sonnet subagent (`full-reader`, write access to its run directory only) can read a chunk, and the session groups and commits.
 Model calls are serial except the two Sonnet ingest readers NOW.md allows; whether that allowance extends to full-read chunks
 is the author's call (§11.4). Until then: one chunk at a time.
 
-**Stopping and resuming.** The ledger is the progress: `digest.py status <slug>` counts rows per state and the citations still
+**Stopping and resuming.** The ledger is the progress: `fullread.py status <slug>` counts rows per state and the citations still
 without one. A full read of `aegis` spans sessions, and a session continues at the first chunk with an incomplete ledger.
 
 **When the candidate moves.** A source reconciled after the full read adds readings to the candidate (under `## Since review`
-if the page is promoted). `digest.py check` names the citations without a ledger row as **behind**, the same word `terms.py`
+if the page is promoted). `fullread.py check` names the citations without a ledger row as **behind**, the same word `terms.py`
 uses. The update is a small full read of those citations only.
 
 ## 5. What the full read finds on the candidate
@@ -150,7 +150,7 @@ difference line, a stale provenance note (decision 026's first promotion), a rea
 PR #195), an English paraphrase that hardens a source's hedge into a claim. A defect in a reviewed part of a promoted page
 is not fixed in place: it is a question to the author with the fix proposed (decision 026, §3).
 
-## 6. What `digest.py check` refuses
+## 6. What `fullread.py check` refuses
 
 | check | refuses? |
 |---|---|
@@ -166,7 +166,7 @@ is not fixed in place: it is a question to the author with the fix proposed (dec
 | set-aside share per state, thoughts per kind, documents per thought | noted, in the coverage block |
 
 A `selftest` has one fixture per refusing row, each failing on the defect it names (`selftests.py --only std`), and CI runs
-`digest.py check` beside `terms.py check`.
+`fullread.py check` beside `terms.py check`.
 
 ## 7. Promotion after a full read
 
@@ -251,7 +251,7 @@ Stand*; `Plan/concept/term-questions-ui_2026-10-14.md`). The full read adds:
   the verified quotation on its line — from data `ui.py` already builds for evidence. Filters: kind, stance, document, date,
   „has a difference“. A difference shows both thoughts side by side.
 - **A coverage panel** on *Promotion & Stand*: citations by ledger state, documents covered, defects fixed, behind or not, the
-  command that continues the read (`python3 scripts/digest.py status <slug>`).
+  command that continues the read (`python3 scripts/fullread.py status <slug>`).
 - **A review mode for the author.** Per thought: „passt“, „Frage“, „falsch“, with a note, kept in the browser and exported as one
   text the author pastes into a session. No button reviews or approves anything: approval stays the author's words in the
   repository (P0; the decision inbox of the 2026-10-14 concept is the same idea).
@@ -260,7 +260,7 @@ Stand*; `Plan/concept/term-questions-ui_2026-10-14.md`). The full read adds:
 - **Addresses and agents** (the app-refresh rule for anything new): `#/wiki/<slug>/g/<id>` for a thought, in `route()`/`unroute()`
   and `ROUTE_HARNESS`; every thought in `agents/index.json` with its file and address; `agents/data.json` carries the thoughts;
   `ui.py --check` fails on a thought without an address, a thought citing no evidence, or a coverage panel that disagrees with
-  `digest.py status`.
+  `fullread.py status`.
 - **The graph view, term first:** the selected term, its thoughts as a ring, `involves` and `differs_from` as the edges, the rest
   of the graph behind a toggle — the „term-first graph“ the 2026-10-14 concept listed as its fourth next change.
 - **Now:** a full read in progress is a NOW.md § Half-done entry, so it appears as a session with its prompt and claim line.
@@ -286,11 +286,11 @@ are not answered; the plan proceeds on its recommendations (German; thoughts in 
 
 ## 12. What gets built, in order
 
-1. `scripts/digest.py`: `plan`, `status`, `check`, `write`, `selftest` — standard library, offline fixture first (a three-document
+1. `scripts/fullread.py`: `plan`, `status`, `check`, `write`, `selftest` — standard library, offline fixture first (a three-document
    fixture page with every ledger state and every refusal).
-2. `.agents/skills/digest/SKILL.md` (the procedure above, with its refusals) and `.claude/agents/term-digester.md` (one chunk,
+2. `.agents/skills/full-read/SKILL.md` (the procedure above, with its refusals) and `.claude/agents/full-reader.md` (one chunk,
    its run directory only, no wiki writes).
-3. The first full read, `genesis-klammer`, by the session, with the blind second reader; numbers into `Plan/learnings/digest.md`.
+3. The first full read, `genesis-klammer`, by the session, with the blind second reader; numbers into `Plan/learnings/fullread.md`.
 4. `terms.py` and `promote.py`: the thought format, the sheet's new numbers, one review if the author says so.
 5. `graph.py`, `kg.py`, `rag.py`: the thought node and its five edges, selftests; bench run before any ranking change.
 6. `ui.py`, `ui.js`, `ui.html`: §10, with `ui.py --check` cases and a look at 1440 and 390 pixels.
