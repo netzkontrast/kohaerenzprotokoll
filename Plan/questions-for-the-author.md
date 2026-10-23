@@ -460,6 +460,8 @@ the author wants them (*Questions for the author*).
   two documents „Kohärenz Protokoll: Plot-Entwurf-Finalisierung" (29908 bytes each, 2025-04-20) and one „Beziehungsheilung nach
   Trauma: Konzeptpapier für Musik-Prelude" that no manifest row holds. Should these be added to the manifest and read, or do the
   shortcuts stay as they are? Detail in `Plan/learnings/fetch.md`.
+  **Answered 2026-10-23: no.** The author ended the ingest here; the shortcuts stay as they are and the three documents are
+  not added to the manifest.
 - **More earlier names than decision 028 lists.** The corpus gives `Alexander`, `Stefan`, `Data`, „Die Wächterin“, „Der Kleine“
   and „Beobachter/Kritiker“ after „ehem.“; the ingest now treats them as earlier names. `rag.py`'s withholding regex knows only
   the five, and `Wiki/candidates/alex.md` carries `Alexander` from an older reconciliation. Should the withheld list grow, and
