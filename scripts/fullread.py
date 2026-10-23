@@ -404,6 +404,47 @@ def write(slug: str, today: str | None = None, runs: Path | None = None, terms_d
     return target
 
 
+# --- reading a thought page back (graph.py, ui.py, rag.py) ----------------------------
+
+THOUGHT_LINE = re.compile(r"^- \[(?P<tag>[A-Z])\] \((?P<id>g-\d{3,})\) (?P<rest>.*)$")
+STANCE_AFTER = re.compile(r"\^\[(?P<ref>[^\]]+)\](?: \((?P<stance>" + "|".join(map(re.escape, STANCES.values())) + r")\))?")
+WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
+MDLINK = re.compile(r"\]\(([^)\s]+)\)")
+DIFFERS = re.compile(r"anders als ((?:g-\d{3,}(?:, )?)+)")
+FROM = re.compile(r"\(aus ((?:g-\d{3,}(?:, )?)+)\)")
+
+
+def thoughts_of(text: str) -> list[dict]:
+    """Every thought on a thought page, from its own line: what graph.py and the app derive from.
+
+    The page is the authority once written (its run directory is the provenance); each thought carries the file
+    line that states it, as every edge of the graph does (decision 005)."""
+    kind_of = {title: kind for kind, title in KINDS}
+    stance_of = {v: k for k, v in STANCES.items()}
+    out, kind = [], None
+    for no, line in enumerate(text.split("\n"), 1):
+        if line.startswith("## "):
+            kind = kind_of.get(line[3:].strip())
+            continue
+        m = THOUGHT_LINE.match(line)
+        if not m or kind is None:
+            continue
+        rest = m.group("rest")
+        sources = []
+        for c in STANCE_AFTER.finditer(rest):
+            ref = REF.match("^[" + c.group("ref") + "]")
+            if ref:
+                sources.append({"ref": c.group("ref"), "doc": ref.group("doc"), "line": int(ref.group("first")),
+                                "stance": stance_of.get(c.group("stance") or "", "asserts")})
+        text_part = rest.split(" — ", 1)[0] if sources else re.split(r" \(aus | · Bezug: | · anders als | \(\[", rest, 1)[0]
+        out.append({"id": m.group("id"), "tag": m.group("tag"), "kind": kind, "line": no, "text": text_part.strip(),
+                    "sources": sources, "involves": WIKILINK.findall(rest),
+                    "differs_from": [x.strip() for g in DIFFERS.findall(rest) for x in g.split(",") if x.strip()],
+                    "refs": [x.strip() for g in FROM.findall(rest) for x in g.split(",") if x.strip()],
+                    "links": [t for t in MDLINK.findall(rest) if not t.startswith("http")]})
+    return out
+
+
 # --- the check -----------------------------------------------------------------------
 
 def problems_of(slug: str, runs: Path | None = None, terms_dir: Path | None = None,
@@ -584,6 +625,11 @@ def selftest() -> int:
         results.append(("write puts every section in order", [l[3:] for l in page.split("\n") if l.startswith("## ")] == SECTIONS))
         results.append(("write renders a stance that is not asserts", "(schlägt vor)" in page))
         results.append(("an empty kind gets an [L] line", "- [L] Die vollständige Lektüre hat hierzu keinen Gedanken gefunden." in page))
+        back = {t["id"]: t for t in thoughts_of(page)}
+        results.append(("thoughts_of reads every thought back with its kind, sources and stances",
+                        set(back) == {"g-001", "g-002", "g-003"} and back["g-001"]["kind"] == "definition"
+                        and [x["stance"] for x in back["g-001"]["sources"]] == ["asserts", "proposes"]
+                        and back["g-003"]["refs"] == ["g-001", "g-002"] and back["g-001"]["text"] == "Der Begriff ist x."))
         f, _ = run(chunk_rows=chunk[:3])
         results.append(("a reference without a ledger row fails", any("without a ledger row" in x for x in f)))
         f, _ = run(chunk_rows=chunk + [chunk[0]])
