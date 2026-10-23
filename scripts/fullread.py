@@ -91,6 +91,7 @@ TAIL = ["Vollständigkeit", "Autor-Notizen", "Herkunft"]
 SECTIONS = [title for _, title in KINDS] + TAIL
 AUTHOR_OPEN, AUTHOR_CLOSE = "<!-- autor:anfang -->", "<!-- autor:ende -->"
 
+GENERATED = ("What this chapter is about", "Questions for this chapter", "Candidate sources", "Raw qmd answers")
 MAX_REFS, MAX_LINES, WINDOW = 150, 1500, 3
 REF = re.compile(r"\^\[(?P<ref>(?P<doc>[a-z0-9][a-z0-9-]*)\.md:L(?P<first>\d+)(?:[–-]L?(?P<last>\d+))?)\]")
 BARE = re.compile(r"\^\[L\d+")
@@ -186,8 +187,13 @@ def inbound(slug: str) -> list[dict]:
         for path in sorted((ROOT / "Wiki" / folder).glob("*.md")):
             if folder == "candidates" and path.stem == slug:
                 continue
+            generated = False
             for no, line in enumerate(path.read_text(encoding="utf-8").split("\n"), 1):
-                if line.startswith(("---", "ingested:", "aliases:", "term:")):
+                if line.startswith("## "):
+                    # A chapter page's navigation is written by chapter_sources.py from a qmd run: no citation, no
+                    # reading (CLAUDE.md, *Committing a wiki page*), so it is not evidence of what a source thinks.
+                    generated = line[3:].strip().startswith(GENERATED)
+                if generated or line.startswith(("---", "ingested:", "aliases:", "term:")):
                     continue
                 if link.search(line) or (name and name.search(promote.fold(line))):
                     out.append({"ref": f"{path.relative_to(ROOT)}:{no}", "doc": None, "origin": folder,
@@ -297,7 +303,7 @@ def join(slug: str, runs: Path | None = None) -> list[dict]:
             if row.get("state") == "used" and not mapped:
                 problems.append(f"chunk {chunk['id']}: {row['ref']} is used by {row.get('thoughts')}, which no final thought joins")
             rows.append({**row, "thoughts": mapped, "chunk": chunk["id"]})
-    for row in read_jsonl(d / "records.ledger.jsonl"):
+    for row in read_jsonl(d / "chunks" / "records.ledger.jsonl"):
         mapped = sorted({f for local in row.get("thoughts", []) for f in final_of.get(local, [local] if local.startswith("g-") else [])})
         rows.append({**row, "thoughts": mapped, "chunk": "records"})
     if problems:
@@ -318,7 +324,7 @@ def status(slug: str, runs: Path | None = None) -> dict:
         seen.update(rows)
         if all(rows.get(ref) in STATES for ref in chunk["refs"]):
             done.append(chunk["id"])
-    for r in read_jsonl(d / "records.ledger.jsonl"):
+    for r in read_jsonl(d / "chunks" / "records.ledger.jsonl"):
         seen[r["ref"]] = r.get("state")
     wanted = [r["ref"] for r in packet["refs"]] + [r["ref"] for r in packet.get("records", [])]
     counts = {s: sum(1 for ref in wanted if seen.get(ref) == s) for s in STATES}
@@ -335,8 +341,25 @@ def cite_text(src: dict) -> str:
     return f"{quote}^[{src['ref']}]{stance}"
 
 
-def bullet(t: dict) -> str:
+IN_TEXT = re.compile(r"„([^“]+)“")
+
+
+def placed(t: dict, verify) -> list[tuple[str, str | None]]:
+    """Each „…“ in a thought's own text, with the source of the thought whose line holds it (None: on none)."""
+    out = []
+    for m in IN_TEXT.finditer(t.get("text", "")):
+        home = next((s["ref"] for s in t.get("sources", []) if verify and verify(s["ref"], m.group(1))), None)
+        out.append((m.group(1), home))
+    return out
+
+
+def bullet(t: dict, verify=None) -> str:
     text = t["text"].strip()
+    # A quotation in the thought's own words carries the citation of the line it stands on, so quotes.py checks
+    # it like every other; one that stands on none of the thought's lines is left bare, and check refuses it.
+    for quote, home in placed(t, verify):
+        if home:
+            text = text.replace(f"„{quote}“", f"„{quote}“ ^[{home}]", 1)
     parts = [f"- [{t['tag']}] ({t['id']}) {text}"]
     if t.get("sources"):
         parts.append(" — " + " · ".join(cite_text(s) for s in t["sources"]))
@@ -352,6 +375,8 @@ def bullet(t: dict) -> str:
 
 
 def coverage_lines(slug: str, ledger: list[dict], thoughts: list[dict], packet: dict) -> list[str]:
+    wanted = {r["ref"] for r in packet["refs"]} | {r["ref"] for r in packet.get("records", [])}
+    ledger = [r for r in ledger if r["ref"] in wanted]  # rows of references a later plan dropped are not counted
     counts = {s: sum(1 for r in ledger if r.get("state") == s) for s in STATES}
     docs = sorted({r["doc"] for r in packet["refs"]})
     used_docs = sorted({s["ref"].split(".md:")[0] for t in thoughts for s in t.get("sources", [])})
@@ -366,7 +391,7 @@ def coverage_lines(slug: str, ledger: list[dict], thoughts: list[dict], packet: 
 
 
 def write(slug: str, today: str | None = None, runs: Path | None = None, terms_dir: Path | None = None,
-          candidates: Path | None = None) -> Path:
+          candidates: Path | None = None, verify=None) -> Path:
     d = run_dir(slug, runs)
     packet = json.loads((d / "packet.json").read_text(encoding="utf-8"))
     thoughts = read_jsonl(d / "thoughts.jsonl")
@@ -391,7 +416,7 @@ def write(slug: str, today: str | None = None, runs: Path | None = None, terms_d
     for kind, title in KINDS:
         out += [f"## {title}", ""]
         mine = [t for t in thoughts if t["kind"] == kind]
-        out += [bullet(t) for t in mine] or ["- [L] Die vollständige Lektüre hat hierzu keinen Gedanken gefunden."]
+        out += [bullet(t, verify) for t in mine] or ["- [L] Die vollständige Lektüre hat hierzu keinen Gedanken gefunden."]
         out.append("")
     out += ["## Vollständigkeit", ""] + coverage_lines(slug, ledger, thoughts, packet) + [""]
     out += ["## Autor-Notizen", "", author, ""]
@@ -487,7 +512,7 @@ def problems_of(slug: str, runs: Path | None = None, terms_dir: Path | None = No
 
     # Every thought is cited, tagged, of a known kind; a joining thought has its grouping.
     groupings = {g["thought"] for g in read_jsonl(d / "groupings.jsonl")}
-    barred_refs = {r["ref"] for r in packet["refs"] if r.get("barred")}
+    barred_refs = {r["ref"] for r in packet["refs"] if r.get("barred")} | {r["ref"] for r in ledger if r.get("state") == "barred"}
     for t in thoughts:
         where = t.get("id", "?")
         if t.get("kind") not in dict(KINDS):
@@ -511,6 +536,10 @@ def problems_of(slug: str, runs: Path | None = None, terms_dir: Path | None = No
                 fail.append(f"{where}: cites {s['ref']}, a barred line")
             if s.get("quote") and verify and not verify(s["ref"], s["quote"]):
                 fail.append(f"{where}: the quotation is not on {s['ref']}: {s['quote'][:50]!r}")
+        if verify and t.get("tag") in ("S", "V"):
+            for quote, home in placed(t, verify):
+                if not home:
+                    fail.append(f"{where}: „{quote[:40]}“ in its text stands on none of its cited lines")
         if BARRED.search(t.get("text", "")) or any(BARRED.search(s.get("quote", "")) for s in srcs):
             fail.append(f"{where}: writes a name that is read and never written")
         docs = {s["ref"].split(".md:")[0] for s in srcs}
@@ -613,7 +642,7 @@ def selftest() -> int:
                 join("t", runs)
             except SystemExit as e:
                 return [str(e)], []
-            write("t", "2026-10-23", runs, terms_dir, cands)
+            write("t", "2026-10-23", runs, terms_dir, cands, verify)
             if page_edit:
                 p = terms_dir / "t.md"
                 p.write_text(page_edit(p.read_text(encoding="utf-8")), encoding="utf-8")
@@ -646,6 +675,8 @@ def selftest() -> int:
         results.append(("joining two documents without a grouping fails", any("groupings.jsonl" in x for x in f)))
         f, _ = run(thought_rows=[{**thoughts[0], "sources": thoughts[0]["sources"] + [{"ref": "b.md:L9"}]}] + thoughts[1:])
         results.append(("citing a barred line fails", any("a barred line" in x for x in f)))
+        f, _ = run(chunk_rows=chunk[:1] + [{**chunk[1], "state": "barred", "thoughts": [], "note": "a real name"}] + chunk[2:])
+        results.append(("citing a line the ledger set barred fails", any("a barred line" in x for x in f)))
         early = "Mich" "ael"
         f, _ = run(thought_rows=[{**thoughts[1], "text": f"{early} sagt y."}] + [thoughts[0], thoughts[2]])
         results.append(("writing an early name fails", any("read and never written" in x for x in f)))
@@ -655,6 +686,13 @@ def selftest() -> int:
         results.append(("an unknown kind fails", any("kind 'misc'" in x for x in f)))
         f, _ = run(thought_rows=thoughts + [{"id": "g-004", "kind": "decided", "tag": "K", "text": "Entschieden."}])
         results.append(("[K] without a decision fails", any("[K] links no decision" in x for x in f)))
+        f, _ = run(thought_rows=[{**thoughts[1], "text": "Er wirkt als „y“."}] + [thoughts[0], thoughts[2]],
+                   verify=lambda ref, quote: quote in ("x", "y") and (quote == "x" or ref == "a.md:L5"))
+        results.append(("a quotation in the text gets the citation of its line", f == []
+                        and "„y“ ^[a.md:L5]" in (terms_dir / "t.md").read_text(encoding="utf-8")))
+        f, _ = run(thought_rows=[{**thoughts[1], "text": "Er wirkt als „z“."}] + [thoughts[0], thoughts[2]],
+                   verify=lambda ref, quote: quote == "x")
+        results.append(("a quotation in the text on none of its lines fails", any("on none of its cited lines" in x for x in f)))
         f, _ = run(verify=lambda ref, quote: False)
         results.append(("a quotation not on its line fails", any("not on" in x for x in f)))
         f, _ = run(page_edit=lambda p: p.replace("- [S] (g-002) ", "- [S] "))
@@ -724,7 +762,7 @@ def main(argv: list[str]) -> int:
         print(f"{len(rows)} ledger rows → {run_dir(rest[0]).relative_to(ROOT)}/ledger.jsonl")
         return 0
     if verb == "write" and rest:
-        print(f"wrote {write(rest[0]).relative_to(ROOT)}")
+        print(f"wrote {write(rest[0], verify=verifier()).relative_to(ROOT)}")
         return 0
     if verb == "check":
         fails, notes = check(rest[0] if rest else None)
