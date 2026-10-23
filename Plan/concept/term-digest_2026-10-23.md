@@ -79,7 +79,7 @@ for the term, and each one ends in exactly one of these states:
 | `defect` | the reading's prose says something its line does not say | goes to §5, a fix on the candidate |
 
 The **ledger** `Plan/runs/digest/<slug>/ledger.jsonl` has one row per distinct citation of the candidate page, with its state,
-the thoughts that use it, and the context window the writer opened (`read.py <slug> --lines a-b`). The mechanical claim of
+the thoughts that use it, and the context window the writer opened (`read.py <slug> --from a --to b`). The mechanical claim of
 wholeness is: **every distinct citation on the candidate has a row, no row is empty, and every `used` row names a thought that
 exists.** The reverse also holds: every citation on the thought page is either on the candidate or added by the full read from
 a line the writer opened (`added`, with its reason, e.g. the next line completes the cited sentence).

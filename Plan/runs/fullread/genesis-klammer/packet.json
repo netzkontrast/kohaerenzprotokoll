@@ -1,0 +1,2036 @@
+{
+ "slug": "genesis-klammer",
+ "planned": "2026-10-23",
+ "candidate_hash": "2e24bead6fb3c2c03f2bbb07a08149ba03d498fe7e9d5497e57d7e0639f24417",
+ "refs": [
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L41",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 41,
+   "last": 41,
+   "page_lines": [
+    26
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    32,
+    50
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L930",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 930,
+   "last": 930,
+   "page_lines": [
+    27
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    925,
+    939
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L933",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 933,
+   "last": 933,
+   "page_lines": [
+    28
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    928,
+    940
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L945",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 945,
+   "last": 945,
+   "page_lines": [
+    29
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    940,
+    950
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1229",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 1229,
+   "last": 1229,
+   "page_lines": [
+    30
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    1226,
+    1232
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1230",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 1230,
+   "last": 1230,
+   "page_lines": [
+    31
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    1227,
+    1233
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040",
+   "doc": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+   "first": 1040,
+   "last": 1040,
+   "page_lines": [
+    33
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+   ],
+   "window": [
+    1037,
+    1047
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-iteration-genesis-md.md:L457",
+   "doc": "koharenz-protokoll-konzept-iteration-genesis-md",
+   "first": 457,
+   "last": 457,
+   "page_lines": [
+    37
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-iteration-genesis-md"
+   ],
+   "window": [
+    449,
+    469
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-iteration-genesis-md.md:L488",
+   "doc": "koharenz-protokoll-konzept-iteration-genesis-md",
+   "first": 488,
+   "last": 488,
+   "page_lines": [
+    38,
+    164
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-iteration-genesis-md"
+   ],
+   "window": [
+    485,
+    498
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-konzept-iteration-genesis-md.md:L818",
+   "doc": "koharenz-protokoll-konzept-iteration-genesis-md",
+   "first": 818,
+   "last": 818,
+   "page_lines": [
+    39
+   ],
+   "readings": [
+    "koharenz-protokoll-konzept-iteration-genesis-md"
+   ],
+   "window": [
+    808,
+    830
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L11",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 11,
+   "last": 11,
+   "page_lines": [
+    44
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    10,
+    21
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L13",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 13,
+   "last": 13,
+   "page_lines": [
+    44
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    10,
+    23
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L25",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 25,
+   "last": 25,
+   "page_lines": [
+    45,
+    46
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    17,
+    37
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L29",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 29,
+   "last": 29,
+   "page_lines": [
+    47
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    21,
+    39
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L108",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 108,
+   "last": 108,
+   "page_lines": [
+    48
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    96,
+    116
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 173,
+   "last": 173,
+   "page_lines": [
+    49
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    161,
+    181
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L275",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 275,
+   "last": 275,
+   "page_lines": [
+    51
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    267,
+    281
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L277",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 277,
+   "last": 277,
+   "page_lines": [
+    55
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    271,
+    283
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L281",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 281,
+   "last": 281,
+   "page_lines": [
+    56
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    275,
+    291
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L299",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 299,
+   "last": 299,
+   "page_lines": [
+    56
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    287,
+    307
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L305",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 305,
+   "last": 305,
+   "page_lines": [
+    57
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    295,
+    315
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L311",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 311,
+   "last": 311,
+   "page_lines": [
+    57
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    303,
+    321
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L321",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 321,
+   "last": 321,
+   "page_lines": [
+    58
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    311,
+    331
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 327,
+   "last": 327,
+   "page_lines": [
+    58
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    319,
+    337
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L337",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 337,
+   "last": 337,
+   "page_lines": [
+    59
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    327,
+    344
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L343",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 343,
+   "last": 343,
+   "page_lines": [
+    59,
+    182
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    335,
+    352
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 344,
+   "last": 344,
+   "page_lines": [
+    59
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    337,
+    356
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L358",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 358,
+   "last": 358,
+   "page_lines": [
+    60
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    348,
+    368
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L376",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 376,
+   "last": 376,
+   "page_lines": [
+    60
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    364,
+    388
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L390",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 390,
+   "last": 390,
+   "page_lines": [
+    61
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    380,
+    400
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L408",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 408,
+   "last": 408,
+   "page_lines": [
+    61
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    396,
+    416
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 348,
+   "last": 348,
+   "page_lines": [
+    63
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    339,
+    358
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L380",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 380,
+   "last": 380,
+   "page_lines": [
+    64
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    368,
+    390
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L368",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 368,
+   "last": 368,
+   "page_lines": [
+    65
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    358,
+    380
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L372",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 372,
+   "last": 372,
+   "page_lines": [
+    66,
+    162
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    360,
+    384
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L496",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 496,
+   "last": 496,
+   "page_lines": [
+    68
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    488,
+    508
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L532",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 532,
+   "last": 532,
+   "page_lines": [
+    69
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    523,
+    540
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L584",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 584,
+   "last": 584,
+   "page_lines": [
+    70
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    576,
+    596
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L592",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 592,
+   "last": 592,
+   "page_lines": [
+    71
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    582,
+    604
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L608",
+   "doc": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+   "first": 608,
+   "last": 608,
+   "page_lines": [
+    72
+   ],
+   "readings": [
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
+   ],
+   "window": [
+    596,
+    617
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-v1-annotiert-md.md:L389",
+   "doc": "kap0-v1-annotiert-md",
+   "first": 389,
+   "last": 389,
+   "page_lines": [
+    78
+   ],
+   "readings": [
+    "kap0-v1-annotiert-md"
+   ],
+   "window": [
+    377,
+    401
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-v1-annotiert-md.md:L393",
+   "doc": "kap0-v1-annotiert-md",
+   "first": 393,
+   "last": 393,
+   "page_lines": [
+    79
+   ],
+   "readings": [
+    "kap0-v1-annotiert-md"
+   ],
+   "window": [
+    381,
+    405
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-v1-annotiert-md.md:L1189",
+   "doc": "kap0-v1-annotiert-md",
+   "first": 1189,
+   "last": 1189,
+   "page_lines": [
+    81
+   ],
+   "readings": [
+    "kap0-v1-annotiert-md"
+   ],
+   "window": [
+    1181,
+    1197
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kap0-v1-annotiert-md.md:L1201",
+   "doc": "kap0-v1-annotiert-md",
+   "first": 1201,
+   "last": 1201,
+   "page_lines": [
+    82
+   ],
+   "readings": [
+    "kap0-v1-annotiert-md"
+   ],
+   "window": [
+    1193,
+    1213
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L88",
+   "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+   "first": 88,
+   "last": 88,
+   "page_lines": [
+    86
+   ],
+   "readings": [
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+   ],
+   "window": [
+    83,
+    94
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1228",
+   "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+   "first": 1228,
+   "last": 1228,
+   "page_lines": [
+    87,
+    159
+   ],
+   "readings": [
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+   ],
+   "window": [
+    1220,
+    1240
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1232",
+   "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+   "first": 1232,
+   "last": 1232,
+   "page_lines": [
+    88
+   ],
+   "readings": [
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+   ],
+   "window": [
+    1224,
+    1241
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1236",
+   "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+   "first": 1236,
+   "last": 1236,
+   "page_lines": [
+    89
+   ],
+   "readings": [
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+   ],
+   "window": [
+    1226,
+    1242
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1340",
+   "doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+   "first": 1340,
+   "last": 1340,
+   "page_lines": [
+    91
+   ],
+   "readings": [
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+   ],
+   "window": [
+    1335,
+    1344
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kapitel-kompendium-gather-2026-05-31-md.md:L92",
+   "doc": "kapitel-kompendium-gather-2026-05-31-md",
+   "first": 92,
+   "last": 92,
+   "page_lines": [
+    95,
+    96,
+    97
+   ],
+   "readings": [
+    "kapitel-kompendium-gather-2026-05-31-md"
+   ],
+   "window": [
+    86,
+    100
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kapitel-kompendium-gather-2026-05-31-md.md:L56",
+   "doc": "kapitel-kompendium-gather-2026-05-31-md",
+   "first": 56,
+   "last": 56,
+   "page_lines": [
+    98,
+    99
+   ],
+   "readings": [
+    "kapitel-kompendium-gather-2026-05-31-md"
+   ],
+   "window": [
+    44,
+    64
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L622",
+   "doc": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+   "first": 622,
+   "last": 622,
+   "page_lines": [
+    103,
+    104,
+    105,
+    106
+   ],
+   "readings": [
+    "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+   ],
+   "window": [
+    615,
+    631
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L88",
+   "doc": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+   "first": 88,
+   "last": 88,
+   "page_lines": [
+    107
+   ],
+   "readings": [
+    "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+   ],
+   "window": [
+    81,
+    95
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 464,
+   "last": 464,
+   "page_lines": [
+    111,
+    114
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    459,
+    471
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 470,
+   "last": 470,
+   "page_lines": [
+    112
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    461,
+    475
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 739,
+   "last": 739,
+   "page_lines": [
+    113,
+    176
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    736,
+    746
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L460",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 460,
+   "last": 460,
+   "page_lines": [
+    114
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    453,
+    467
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 688,
+   "last": 688,
+   "page_lines": [
+    115
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    685,
+    691
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 693,
+   "last": 693,
+   "page_lines": [
+    115
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    690,
+    696
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L694",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 694,
+   "last": 694,
+   "page_lines": [
+    115
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    691,
+    697
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 738,
+   "last": 738,
+   "page_lines": [
+    115
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    735,
+    745
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L85",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 85,
+   "last": 85,
+   "page_lines": [
+    116
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    78,
+    90
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L88",
+   "doc": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+   "first": 88,
+   "last": 88,
+   "page_lines": [
+    116
+   ],
+   "readings": [
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+   ],
+   "window": [
+    79,
+    93
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125",
+   "doc": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+   "first": 125,
+   "last": 125,
+   "page_lines": [
+    122
+   ],
+   "readings": [
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+   ],
+   "window": [
+    116,
+    131
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426",
+   "doc": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+   "first": 426,
+   "last": 426,
+   "page_lines": [
+    123
+   ],
+   "readings": [
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+   ],
+   "window": [
+    423,
+    434
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L616",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 616,
+   "last": 616,
+   "page_lines": [
+    127
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    608,
+    623
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 618,
+   "last": 618,
+   "page_lines": [
+    128,
+    129
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    612,
+    624
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L625",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 625,
+   "last": 625,
+   "page_lines": [
+    131
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    622,
+    628
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L626",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 626,
+   "last": 626,
+   "page_lines": [
+    132
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    623,
+    629
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 627,
+   "last": 627,
+   "page_lines": [
+    133
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    624,
+    631
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L628",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 628,
+   "last": 628,
+   "page_lines": [
+    134
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    625,
+    633
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 629,
+   "last": 629,
+   "page_lines": [
+    135,
+    136,
+    168
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    626,
+    637
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1176",
+   "doc": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+   "first": 1176,
+   "last": 1176,
+   "page_lines": [
+    137
+   ],
+   "readings": [
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+   ],
+   "window": [
+    1173,
+    1181
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L17",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 17,
+   "last": 17,
+   "page_lines": [
+    141
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    10,
+    25
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L25",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 25,
+   "last": 25,
+   "page_lines": [
+    142
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    17,
+    35
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L49",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 49,
+   "last": 49,
+   "page_lines": [
+    142
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    39,
+    59
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L73",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 73,
+   "last": 73,
+   "page_lines": [
+    142
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    63,
+    83
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L97",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 97,
+   "last": 97,
+   "page_lines": [
+    142
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    87,
+    107
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L121",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 121,
+   "last": 121,
+   "page_lines": [
+    142
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    111,
+    131
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 401,
+   "last": 401,
+   "page_lines": [
+    143
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    391,
+    413
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L75",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 75,
+   "last": 75,
+   "page_lines": [
+    143
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    67,
+    87
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 513,
+   "last": 513,
+   "page_lines": [
+    143
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    501,
+    514
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 123,
+   "last": 123,
+   "page_lines": [
+    143,
+    144
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    115,
+    135
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147",
+   "doc": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+   "first": 147,
+   "last": 147,
+   "page_lines": [
+    144
+   ],
+   "readings": [
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"
+   ],
+   "window": [
+    135,
+    159
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L23",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 23,
+   "last": 23,
+   "page_lines": [
+    149
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    15,
+    35
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L39",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 39,
+   "last": 39,
+   "page_lines": [
+    149
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    27,
+    51
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L47",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 47,
+   "last": 47,
+   "page_lines": [
+    150
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    35,
+    57
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L283",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 283,
+   "last": 283,
+   "page_lines": [
+    150
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    271,
+    293
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L123",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 123,
+   "last": 123,
+   "page_lines": [
+    151
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    111,
+    135
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L627",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 627,
+   "last": 627,
+   "page_lines": [
+    152
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    615,
+    639
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L635",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 635,
+   "last": 635,
+   "page_lines": [
+    153,
+    153
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    623,
+    640
+   ],
+   "barred": false,
+   "landed": true
+  },
+  {
+   "ref": "koharenz-protokoll-kapitel-0-v2-md.md:L639",
+   "doc": "koharenz-protokoll-kapitel-0-v2-md",
+   "first": 639,
+   "last": 639,
+   "page_lines": [
+    153
+   ],
+   "readings": [
+    "koharenz-protokoll-kapitel-0-v2-md"
+   ],
+   "window": [
+    627,
+    640
+   ],
+   "barred": false,
+   "landed": true
+  }
+ ],
+ "records": [
+  {
+   "ref": "Plan/weichen/w14-kap40.md:26",
+   "doc": null,
+   "origin": "records",
+   "line": "das Mosaik sind, das die Welt hält“ (strukturierter Outline, Storyform-Outline, Doppel-Klammer-Abhandlung)?"
+  },
+  {
+   "ref": "Wiki/conflicts/c11-landauer-warmth-or-cold-ozone.md:215",
+   "doc": null,
+   "origin": "records",
+   "line": "No Landauer and no heat stand in it (`Plan/runs/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md/05-verify.txt`). The warm half the "
+  },
+  {
+   "ref": "Wiki/conflicts/c12-genesis-beats.md:219",
+   "doc": null,
+   "origin": "records",
+   "line": "„Genesis-4-Beat: was als Trauma erscheint, ist die Bedingung von Werdung.\" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L764"
+  },
+  {
+   "ref": "Wiki/candidates/aegis.md:3119",
+   "doc": null,
+   "origin": "candidates",
+   "line": "The Abhandlung argues the frame of Kap 0 and Kap 40 ([[genesis-klammer|Doppel-Klammer]]) and asks for three decisions it does not make (L616)."
+  },
+  {
+   "ref": "Wiki/candidates/formel-inversion.md:35",
+   "doc": null,
+   "origin": "candidates",
+   "line": "Of the [[genesis-klammer|Doppel-Klammer]] it is one of seven mirror points (L275)."
+  },
+  {
+   "ref": "Wiki/candidates/formel-inversion.md:158",
+   "doc": null,
+   "origin": "candidates",
+   "line": "(Doppel-Klammer Abhandlung). Two sources give it both a place in the Vortex and the turn"
+  },
+  {
+   "ref": "Wiki/candidates/genesis.md:624",
+   "doc": null,
+   "origin": "candidates",
+   "line": "The frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.\" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]"
+  },
+  {
+   "ref": "Wiki/candidates/komponente-734.md:449",
+   "doc": null,
+   "origin": "candidates",
+   "line": "konsolidiertes Konzept (L72), the Konzept-Iteration Genesis, the Doppel-Klammer"
+  },
+  {
+   "ref": "Wiki/candidates/nichts-rauschen.md:710",
+   "doc": null,
+   "origin": "candidates",
+   "line": "And where it is reached, past Kant: „Der Roman geht weiter: die K₁-Reinform kann erreicht werden (in Vortex 2).\" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L127] „Diese Setzung verlä"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:106",
+   "doc": null,
+   "origin": "candidates",
+   "line": "Only Kap 1 ↔ Kap 39: it has no Kap 0 and no Kap 40, no Genesis-Klammer, and no Ouroboros the Wir decides to go into (`Kap 0` 0, `Kap 40` 0, `Genesis-Klammer` 0 in `05-verify.txt`; `ins Ouroboros` 0 an"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:168",
+   "doc": null,
+   "origin": "candidates",
+   "line": "A glossary section, „12 · Genesis-Klammer und Ouroboros-Struktur\" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L621], with an entry marked `[K]`:"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:172",
+   "doc": null,
+   "origin": "candidates",
+   "line": "Kap 0 ↔ Kap 40 is the [[genesis-klammer|Genesis-Klammer]], a separate entry (L622). Of Kap 40's two readings, the conflict-grammar one takes the [[truth-rotation|Truth-Rotation]] as a restart:"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:189",
+   "doc": null,
+   "origin": "candidates",
+   "line": "„Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.\" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464]"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:192",
+   "doc": null,
+   "origin": "candidates",
+   "line": "Where, and what repeats between Kap 1 and Kap 39: a word, the „Lexem-Echo\" ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] of `da`; the outer pair is „Kap 0↔40 (Genesis-Klammer).\" ^"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:210",
+   "doc": null,
+   "origin": "candidates",
+   "line": "Kap 0 ↔ Kap 40 is headed Genesis-Klammer, „Echo, nicht Wiederholung.\" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618]"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:253",
+   "doc": null,
+   "origin": "candidates",
+   "line": "L464, which calls the outer pair the Genesis-Klammer within it, L470, and writes"
+  },
+  {
+   "ref": "Wiki/candidates/ouroboros-struktur.md:257",
+   "doc": null,
+   "origin": "candidates",
+   "line": "storyform outline call Kap 0 ↔ 40 the Genesis-Klammer and keep the Ouroboros"
+  },
+  {
+   "ref": "Wiki/candidates/residual-echos.md:19",
+   "doc": null,
+   "origin": "candidates",
+   "line": "Doppel-Klammer Abhandlung, nine days earlier, describes echoes of the"
+  },
+  {
+   "ref": "Wiki/candidates/vermittler-stimme.md:45",
+   "doc": null,
+   "origin": "candidates",
+   "line": "says breaks the [[genesis-klammer|Klammer]]; „Alternative 2: Kael nach der Heilung.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L239], who"
+  },
+  {
+   "ref": "Wiki/candidates/vermittler-stimme.md:143",
+   "doc": null,
+   "origin": "candidates",
+   "line": "**Who speaks.** The Doppel-Klammer Abhandlung makes the voice Wir-AEGIS-plural"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:23",
+   "doc": null,
+   "origin": "chapters",
+   "line": "Der Genesis-Prolog erzählt, darin sind sich die gelesenen Pläne einig, AEGIS' Werdung und das Trennungsprotokoll als ontologische Grundlegung, vor allen Welten: ein Funken-Ich clustert sich aus dem Ra"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:203",
+   "doc": null,
+   "origin": "chapters",
+   "line": "Position: „Genesis-Klammer: Kap 0 ↔ Kap 40“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125] (marked `[K]`)"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:230",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- Frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „Anfang und Ende fallen zusammen, aber das Sehen hat sich verände"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:231",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- Frame: „Kap 1↔39 (Lexem-Echo „da\"), Kap 0↔40 (Genesis-Klammer).“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470] (§9.4, marked `[K]`)"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:252",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L78"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:253",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:271",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **B3** *Veränderung* — Was ist am Ende des Genesis-Prologs anders, wenn AEGIS sich im Trennungsprotokoll zerteilt und in unzählige Scherben fällt – entsteht, wie die Doppel-Klammer-Abhandlung sagt, "
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:272",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **B4** *Perspektive und Stimme* — Wer erzählt den Genesis-Prolog – eine Vermittler-Stimme, die den Leser direkt anspricht und laut Doppel-Klammer-Abhandlung das plurale Wir-AEGIS sein soll, das Funk"
+  },
+  {
+   "ref": "Wiki/chapters/kap-00.md:286",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **S5** *Storyform* — Ist in Kapitel 0 nur Storyform B aktiv, mit MC-Signpost Past und A als Phantomgefühl, oder entsteht nach der Doppel-Klammer Abhandlung auch B erst mit dem Klick – und welche Sto"
+  },
+  {
+   "ref": "Wiki/chapters/kap-01.md:641",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- Frame: „das Bild, das in Kap 1 stand, steht in Kap 39 wieder — aber Kael steht jetzt anders darin.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L467] · „Kap 1↔39 (Lexem-Echo „da\"), "
+  },
+  {
+   "ref": "Wiki/chapters/kap-39.md:497",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- Frame: „Kap 1 und Kap 39 spiegeln sich im Erstsatz-Lock: erster Satz = letzter Satz, den Kael schreibt.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „das Bild, das in Kap 1 "
+  },
+  {
+   "ref": "Wiki/chapters/kap-39.md:547",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **S5** *Konflikt* — Wird in Kapitel 39 ein vierter Genesis-Beat, Wir gleich AEGIS-plural, vollzogen, wie konsolidiertes Konzept und Doppel-Klammer Abhandlung sagen, oder hat die Genesis nach Charakt"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:23",
+   "doc": null,
+   "origin": "chapters",
+   "line": "Die Coda steht laut der Storyform-Outline außerhalb der Zählung der Heldenreise, ist laut strukturierter Outline und Kapitel-Kompendium das Ketsu und schließt die Genesis-Klammer, die das Kapitel-Komp"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:182",
+   "doc": null,
+   "origin": "chapters",
+   "line": "## Reading — `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md`, 2026-06-10, the philosophy catalogue — the Coda: Habermas' two layers, the Genesis-Klammer"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:188",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- Frame: „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ ^[kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464] · „Kap 0↔40 (Genesis-Klammer).“ ^[kohaerenz-protokoll-philosophie-i"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:201",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **Last image.** „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L664] (Konzept-Iteration Genesis) · „Letz"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:214",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **B4** *Perspektive und Stimme* — Wer erzählt die Coda, das Wir-AEGIS-plural oder laut der Doppel-Klammer Abhandlung die Vermittler-Stimme, die jetzt als Wir auftreten darf, mit den Echos als Stimme"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:215",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **B5** *Ort, Zeit, Körper* — Wo spielt die Coda, wenn Kernwelten vollständig alle Welten oder keine setzt, und welche Sinneseindrücke tragen sie: laut der Plot-Konkretisierung genau ein Klick ohne O"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:217",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **B7** *Funktion im Ganzen* — Welche Aufgabe hat die geheilte Genesis als Ketsu und als äußere Genesis-Klammer zum Anfang, außerhalb der Zählung der Heldenreise, wenn sie laut der Doppel-Klammer nic"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:227",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **S4** *Storyform* — Wie macht Kapitel 40 A-Outcome Success und B-Dividend gleichzeitig wahr, und trägt es, wie die Doppel-Klammer Abhandlung vorschlägt, den Akzent Driver Decision und Approach Be-e"
+  },
+  {
+   "ref": "Wiki/chapters/kap-40.md:231",
+   "doc": null,
+   "origin": "chapters",
+   "line": "- **S8** *Figur* — Wer spricht in Kapitel 40 – die Vermittler-Stimme des Vorworts, jetzt als Wir-AEGIS-plural mit den Stimmen Lex, Nyx, Kiko und Mira laut Doppel-Klammer Abhandlung –, und verträgt sic"
+  }
+ ],
+ "chunks": [
+  {
+   "id": "01",
+   "refs": [
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L41",
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L930",
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L933",
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L945",
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1229",
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1230",
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040",
+    "koharenz-protokoll-konzept-iteration-genesis-md.md:L457",
+    "koharenz-protokoll-konzept-iteration-genesis-md.md:L488",
+    "koharenz-protokoll-konzept-iteration-genesis-md.md:L818",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L11",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L13",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L25",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L29",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L108",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L275",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L277",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L281",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L299",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L305",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L311",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L321",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L337",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L343",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L358",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L376",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L390",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L408",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L380",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L368",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L372",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L496",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L532",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L584",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L592",
+    "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L608",
+    "kap0-v1-annotiert-md.md:L389",
+    "kap0-v1-annotiert-md.md:L393",
+    "kap0-v1-annotiert-md.md:L1189",
+    "kap0-v1-annotiert-md.md:L1201",
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L88",
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1228",
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1232",
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1236",
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1340",
+    "kapitel-kompendium-gather-2026-05-31-md.md:L92",
+    "kapitel-kompendium-gather-2026-05-31-md.md:L56",
+    "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L622",
+    "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L88",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L739",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L460",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L688",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L693",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L694",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L738",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L85",
+    "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L88",
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125",
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L616",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L625",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L626",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L628",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629",
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1176",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L17",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L25",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L49",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L73",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L97",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L121",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L75",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123",
+    "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L23",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L39",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L47"
+   ],
+   "lines": 1484
+  },
+  {
+   "id": "02",
+   "refs": [
+    "koharenz-protokoll-kapitel-0-v2-md.md:L283",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L123",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L627",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L635",
+    "koharenz-protokoll-kapitel-0-v2-md.md:L639"
+   ],
+   "lines": 105
+  }
+ ],
+ "unlanded": []
+}
