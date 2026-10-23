@@ -1,0 +1,93 @@
+# every number the census and note state (python3 scripts/read.py kohaerenz-prozess --count "<words>")
+$ read.py kohaerenz-prozess --count "Hohe Priorität"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Hohe Priorität` ^[kohaerenz-prozess.md:#5]
+$ read.py kohaerenz-prozess --count "Mittlere Priorität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Mittlere Priorität` ^[kohaerenz-prozess.md:#1]
+$ read.py kohaerenz-prozess --count "Hinweis:"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Hinweis:` ^[kohaerenz-prozess.md:#5]
+$ read.py kohaerenz-prozess --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[kohaerenz-prozess.md:#0]
+$ read.py kohaerenz-prozess --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[kohaerenz-prozess.md:#0]
+$ read.py kohaerenz-prozess --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[kohaerenz-prozess.md:#0]
+$ read.py kohaerenz-prozess --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[kohaerenz-prozess.md:#0]
+$ read.py kohaerenz-prozess --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[kohaerenz-prozess.md:#0]
+$ read.py kohaerenz-prozess --count "Kohärenz Prozesses"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Prozesses` ^[kohaerenz-prozess.md:#2]
+$ read.py kohaerenz-prozess --count "Lexikon"
+whole word, case-sensitive     2
+whole word, case-insensitive   3
+including compounds            2
+
+`Lexikon` ^[kohaerenz-prozess.md:#2]
+$ read.py kohaerenz-prozess --count "Diagnose-Tools"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Diagnose-Tools` ^[kohaerenz-prozess.md:#1]
+$ read.py kohaerenz-prozess --count "Webens"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Webens` ^[kohaerenz-prozess.md:#1]
+$ read.py kohaerenz-prozess --count "Dystopian-Clear"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dystopian-Clear` ^[kohaerenz-prozess.md:#1]
+$ read.py kohaerenz-prozess --count "TSDP-Therapie"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`TSDP-Therapie` ^[kohaerenz-prozess.md:#2]
+$ read.py kohaerenz-prozess --count "Kollaps-Impulses"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kollaps-Impulses` ^[kohaerenz-prozess.md:#1]
+$ stance markers: 5 + 1 + 5 = 11
+$ grep -cP -- "(?<![\w-])Kernwunde(?![\w-])" => 0

@@ -1,0 +1,7 @@
+python3 scripts/read.py aegis-2 --count "Image labels"  -> 1  `Image labels` ^[aegis-2.md:#1]
+python3 scripts/read.py aegis-2 --count "Alter"  -> 8  `Alter` ^[aegis-2.md:#8]
+python3 scripts/read.py aegis-2 --count "Aegis"  -> 3  `Aegis` ^[aegis-2.md:#3]
+python3 scripts/read.py aegis-2 --count "Existence"/"Experience"/"Structure"/"Flow" -> 2 each
+python3 scripts/read.py aegis-2 --count "Al Agent"  -> 2
+python3 scripts/read.py aegis-2 --count "Kael"/"Juna"/"Nyx"/"Kap" -> 0 each
+stance_marker_count 1 = Image labels

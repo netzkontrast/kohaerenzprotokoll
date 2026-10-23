@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      11
+  backslash escapes      13
+  typographic marks      58
+  ascii quotes           252
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstachtung, Selbstakzeptanz, Selbstaufgabe, Selbstaufopferung, Selbstbehauptung, Selbstbewahrung, Selbstfindung, Selbstfürsorge, Selbstreflexion, Selbstschutz, Selbstvernachlässigung, Selbstverwirklichung, Selbstwertgefühl, Selbstwertgefühls
+  inter    Interaktion, Interaktionen, Interaktionsmuster, Interdisziplinäre, Interface, Intersubjectivity, Intersubjektivität, Intervention, Interventionen
+  metap    Metapher, Metaphern, Metaphor, Metaphorische, Metaphors, Metaphysical, Metaphysics, Metaphysik
+  psych    Psych, Psyche, Psychoanalysis, Psychological, Psychologisch, Psychologische, Psychology
+  konze    Konzept, Konzeptalbum, Konzepte, Konzeptgrundlagen, Konzeption, Konzeptualisierung
+  bezie    Beziehung, Beziehungen, Beziehungsdynamik, Beziehungstipps, Beziehungsweisen
+  bindu    Bindung, Bindungsangst, Bindungsstil, Bindungsstils, Bindungsverhalten
+  disso    Dissociative, Dissoziation, Dissoziative, Dissoziativen, Dissoziativer
+  grenz    Grenze, Grenzen, Grenzerfahrung, Grenzsetzungen, Grenzüberschreitung
+  kontr    Kontrast, Kontraste, Kontrollbestrebungen, Kontrolle, Kontrollmechanismen
+  philo    Philosopher, Philosophical, Philosophisch, Philosophische, Philosophy
+  traum    Traum, Trauma, Traumas, Traumata, Traumatic
+  unter    Unterbrechung, Unterscheidung, Unterschied, Unterstützung, Unterwelt
+  verst    Verstehen, Verstehens, Verstrickung, Verständnis, Verständnisses
+  album    Album, Albumkonzept, Albums, Albumsongs
+  entro    Entropic, Entropie, Entropieverständnis, Entropy
+  entwi    Entwicklung, Entwicklungsachse, Entwicklungspotenzial, Entwicklungsschritte
+  extre    Extrembedingungen, Extremen, Extremsituation, Extremsituationen
+  heilu    Heilung, Heilungs, Heilungsprozess, Heilungsprozesses
+  ident    Identität, Identitäten, Identitätsstruktur, Identitätsstörung
+  leben    Leben, Lebendigkeit, Lebens, Lebenserhaltung
+  liebe    LIEBE, Liebe, Liebenden, Liebesbeziehung
+  mytho    Mythological, Mythologie, Mythologische, Mythos
+  partn    Partner, Partnerin, Partners, Partnerschaft
+  reali    Reality, Realität, Realitäten, Realitätsebene
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Auftauchen
+  Auch < Kältehauch
+  Auge < Augenpaare
+  Bild < Bilder
+  Bild < Abbildung
+  Care < Caregiver
+  Code < Codependent
+  Deep < DeepThoughts
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Echo < Echoism
+  Echo < Echoist
+  Echo < Echoismus
+  Eine < Deine
+  Eine < Meine
+  Ende < Tendenz
+  Ende < Fließende
+  Ende < Leidenden

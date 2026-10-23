@@ -1,0 +1,325 @@
+{
+  "document": "dis-diagnose-klinische-ethische-bewertung",
+  "drive_id": "1pdtcj1IUI_WxucgOtFrjT0SEh3rQumdwnaiFLv3G1dU",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 12,
+  "backslash_escapes": 85,
+  "typographic_marks": 87,
+  "ascii_quotes": 84,
+  "inflection_families": {
+    "unter": [
+      "Unterbrüche",
+      "Unterdiagnostizierung",
+      "Unterlage",
+      "Unterlagen",
+      "Unterlassen",
+      "Unterlassung",
+      "Unterlassungen",
+      "Unterschied",
+      "Untersucher",
+      "Untersuchung",
+      "Untersuchungen",
+      "Untersuchungsergebnisse",
+      "Untersuchungssituationen"
+    ],
+    "behan": [
+      "Behandelnde",
+      "Behandelnden",
+      "Behandler",
+      "Behandlern",
+      "Behandlers",
+      "Behandlung",
+      "Behandlungen",
+      "Behandlungskontext",
+      "Behandlungskonzepts",
+      "Behandlungsleitlinien",
+      "Behandlungsverlaufs",
+      "Behandlungsvertrag"
+    ],
+    "selbs": [
+      "Selbstbericht",
+      "Selbstbeschreibung",
+      "Selbstbeschreibungen",
+      "Selbstbestimmung",
+      "Selbsterleben",
+      "Selbsterlebens",
+      "Selbstfürsorge",
+      "Selbstgefühls",
+      "Selbstwertgefühl",
+      "Selbstwirksamkeit",
+      "Selbstzustände"
+    ],
+    "patie": [
+      "Patient",
+      "Patienten",
+      "Patientenakte",
+      "Patientenerfahrung",
+      "Patientenorganisation",
+      "Patientenrechte",
+      "Patientenrechtegesetz",
+      "Patientensicht",
+      "Patientensprache",
+      "Patientenwohl"
+    ],
+    "traum": [
+      "TRAUMATOLOGIE",
+      "Traum",
+      "Trauma",
+      "Traumaanamnese",
+      "Traumafolgestörungen",
+      "Traumainhalten",
+      "Traumata",
+      "Traumatic",
+      "Traumatisierungen",
+      "Traumazentrum"
+    ],
+    "ident": [
+      "IDENTIT",
+      "Identifizierung",
+      "Identität",
+      "Identitäten",
+      "Identitätsalteration",
+      "Identitätserleben",
+      "Identitätsstörung",
+      "Identitätsunterbrechung",
+      "Identitätsverwirrung"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interdisziplinäre",
+      "International",
+      "Internationale",
+      "Internet",
+      "Interventionen",
+      "Interview",
+      "Interviewinhalte",
+      "Interviews"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeiten",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteils",
+      "Persönlichkeitsstörung",
+      "Persönlichkeitsstörungen",
+      "Persönlichkeitszustände",
+      "Persönlichkeitszuständen"
+    ],
+    "klini": [
+      "Klinik",
+      "Klinikbericht",
+      "Kliniken",
+      "Kliniker",
+      "Klinikern",
+      "Klinikers",
+      "Klinikleitung",
+      "Klinische"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweise",
+      "Beweisen",
+      "Beweiserleichterungen",
+      "Beweisfunktion",
+      "Beweislastumkehr",
+      "Beweiswert"
+    ],
+    "diagn": [
+      "Diagnose",
+      "Diagnosekriterien",
+      "Diagnosen",
+      "Diagnosestellung",
+      "Diagnostic",
+      "Diagnostik",
+      "Diagnostische"
+    ],
+    "disso": [
+      "DISSOZIATIVE",
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziationsinventar",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "stand": [
+      "Standard",
+      "Standarddiagnostik",
+      "Standardinterviews",
+      "Standardisierte",
+      "Standards",
+      "Standardsettings",
+      "Standes"
+    ],
+    "grund": [
+      "Grund",
+      "Grunde",
+      "Grundlage",
+      "Grundlagen",
+      "Grundpfeiler",
+      "Grundsatz"
+    ],
+    "befun": [
+      "Befund",
+      "Befunde",
+      "Befunden",
+      "Befunderhebungen",
+      "Befundes"
+    ],
+    "beric": [
+      "Bericht",
+      "Berichte",
+      "Berichten",
+      "Berichtigungen",
+      "Berichts"
+    ],
+    "fehle": [
+      "Fehleinschätzung",
+      "Fehlen",
+      "Fehlende",
+      "Fehlendes",
+      "Fehler"
+    ],
+    "frage": [
+      "Frage",
+      "Fragebogen",
+      "Fragebögen",
+      "Fragen",
+      "Fragestellung"
+    ],
+    "funkt": [
+      "Funktionsbeeinträchtigungen",
+      "Funktionsbereichen",
+      "Funktionsfähigkeit",
+      "Funktionsniveau",
+      "Funktionsweise"
+    ],
+    "psych": [
+      "PSYCHO",
+      "Psychiatrische",
+      "Psychische",
+      "Psychotherapeutenkammer",
+      "Psychotherapeutenkammern"
+    ],
+    "störu": [
+      "Störung",
+      "Störungen",
+      "Störungsbilder",
+      "Störungsdefinition",
+      "Störungsnatur"
+    ],
+    "sympt": [
+      "Symptomatik",
+      "Symptombereiche",
+      "Symptome",
+      "Symptomen",
+      "Symptomhinweise"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltensbeobachtung",
+      "Verhaltensbeobachtungen",
+      "Verhaltensmanifestationen",
+      "Verhaltensweisen"
+    ],
+    "vertr": [
+      "Vertrauen",
+      "Vertrauens",
+      "Vertrauensbrüchen",
+      "Vertrauensverhältnis",
+      "Vertrauensverlust"
+    ],
+    "aussc": [
+      "Ausschließen",
+      "Ausschluss",
+      "Ausschlusses",
+      "Ausschöpfung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "FAKTENBLATT"
+    ],
+    [
+      "Akte",
+      "Patientenakte"
+    ],
+    [
+      "Akte",
+      "Charakteristisch"
+    ],
+    [
+      "Best",
+      "Bestehen"
+    ],
+    [
+      "Best",
+      "Bestandteil"
+    ],
+    [
+      "Best",
+      "Selbstbestimmung"
+    ],
+    [
+      "Buch",
+      "Gesetzbuch"
+    ],
+    [
+      "Buch",
+      "Sozialgesetzbuch"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Fall",
+      "Tonfall"
+    ],
+    [
+      "Fall",
+      "Streitfall"
+    ],
+    [
+      "Fall",
+      "Einzelfalls"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Formulierungen"
+    ]
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "document": "projekt-kohaerenz-protokoll-tiefenanalyse",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 115,
+  "decisions": 118,
+  "same_surface": {
+    "junav": [
+      "Juna/V",
+      "Juna / V"
+    ],
+    "wachterin": [
+      "(an earlier name)",
+      "(an earlier name)"
+    ]
+  },
+  "decided_mechanically": 88,
+  "needs_judgement": 30,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 410
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 354
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 427
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 110
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 192
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 96
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 226
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 294
+      },
+      {
+        "candidate": "Nichts Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 160
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 186
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "(an earlier name)"
+      },
+      {
+        "candidate": "Lichtinstanz"
+      },
+      {
+        "candidate": "(an earlier name)"
+      },
+      {
+        "candidate": "(an earlier name)"
+      },
+      {
+        "candidate": "Beschützer-Anteil"
+      },
+      {
+        "candidate": "Maske"
+      },
+      {
+        "candidate": "PKP"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "ISH"
+      },
+      {
+        "candidate": "Kerntrauma"
+      },
+      {
+        "candidate": "Ontologische Prägung"
+      },
+      {
+        "candidate": "Kognitives Betriebssystem"
+      },
+      {
+        "candidate": "Phänotypische Schnittstelle"
+      },
+      {
+        "candidate": "Existenzielle Resonanz"
+      },
+      {
+        "candidate": "Kern-Direktive"
+      },
+      {
+        "candidate": "Verbale Signatur"
+      },
+      {
+        "candidate": "Textuelle Signatur"
+      },
+      {
+        "candidate": "Somatische Signatur"
+      },
+      {
+        "candidate": "Farbpalette"
+      },
+      {
+        "candidate": "Narrative Währung"
+      },
+      {
+        "candidate": "Triadische Währung"
+      },
+      {
+        "candidate": "Währungs-Verlauf"
+      },
+      {
+        "candidate": "Empathie"
+      },
+      {
+        "candidate": "Neugier"
+      },
+      {
+        "candidate": "Spannung"
+      },
+      {
+        "candidate": "'O'"
+      },
+      {
+        "candidate": "K\\_₁"
+      },
+      {
+        "candidate": "K\\_₀"
+      },
+      {
+        "candidate": "Overhead"
+      },
+      {
+        "candidate": "Grauer Verfall"
+      },
+      {
+        "candidate": "Grauen Verfall"
+      },
+      {
+        "candidate": "Stasis"
+      },
+      {
+        "candidate": "Vagheit"
+      },
+      {
+        "candidate": "Expressive Typografie"
+      },
+      {
+        "candidate": "Typografische Anker"
+      },
+      {
+        "candidate": "Baseline-Schrift"
+      },
+      {
+        "candidate": "Anker-Raster"
+      },
+      {
+        "candidate": "80/20-Regel"
+      },
+      {
+        "candidate": "Spot-Farbe"
+      },
+      {
+        "candidate": "Überlappender Text"
+      },
+      {
+        "candidate": "Layout-Fragmentierung"
+      },
+      {
+        "candidate": "Weißraum"
+      },
+      {
+        "candidate": "Intrusion"
+      },
+      {
+        "candidate": "Amnesie-Schranke"
+      },
+      {
+        "candidate": "Vermeidungsprotokolle"
+      },
+      {
+        "candidate": "Harmonie-Protokoll"
+      },
+      {
+        "candidate": "Selbst-Protokoll"
+      },
+      {
+        "candidate": "Going on with Normal Life"
+      },
+      {
+        "candidate": "Boss-Phase"
+      },
+      {
+        "candidate": "Zersplitterung"
+      },
+      {
+        "candidate": "Metaebene"
+      },
+      {
+        "candidate": "Integration & Transzendenz"
+      },
+      {
+        "candidate": "Lore"
+      },
+      {
+        "candidate": "Hoffnung"
+      },
+      {
+        "candidate": "Introjekt"
+      },
+      {
+        "candidate": "Protector"
+      },
+      {
+        "candidate": "Persecutor"
+      },
+      {
+        "candidate": "Caretaker"
+      },
+      {
+        "candidate": "Flight"
+      },
+      {
+        "candidate": "Freeze"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "Internal Self-Helper"
+      },
+      {
+        "candidate": "Defense Cascade"
+      },
+      {
+        "candidate": "Masking"
+      },
+      {
+        "candidate": "Sublimation"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "Synchronizität"
+      },
+      {
+        "candidate": "sinnvolle Koinzidenz"
+      },
+      {
+        "candidate": "autopoietisches System"
+      },
+      {
+        "candidate": "allopoietisches System"
+      },
+      {
+        "candidate": "narrative Transportation"
+      },
+      {
+        "candidate": "Ergodic literature"
+      },
+      {
+        "candidate": "Ergodisches Design"
+      },
+      {
+        "candidate": "Color Foregrounding"
+      },
+      {
+        "candidate": "Katharsis"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael  /  Kael-Gesamtsystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Host",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna/V",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kiko  /  Lia/Kiko",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Gesamtsystem  /  Kael-Gesamtsystem",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Host  /  Kael-Host",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Katalysator  /  Externer Katalysator",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "EP-Fight  /  Fight",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Phänotyp-Kohärenz-Protokolle  /  Kohärenz Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "TSDP  /  TSDP-Mapping",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Interaktions-Matrix  /  Akt I",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anti-Entropie-Protokoll  /  Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation  /  Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Strukturellen Dissoziation  /  Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sekundären Dissoziation  /  Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Apparently Normal Part  /  Apparently Normal Parts",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "(an earlier name)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alex",
+            "page": "alex"
+          }
+        ]
+      },
+      {
+        "candidate": "Lia/Kiko",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kiko",
+            "page": "kiko"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Gesamtsystem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Host",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Phänotyp-Kohärenz-Protokolle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "TSDP-Mapping",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "tsdp",
+            "page": "tsdp"
+          }
+        ]
+      },
+      {
+        "candidate": "Sünde gegen die Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Anti-Entropie-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitch Text",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Kollaps",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 935,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 3,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

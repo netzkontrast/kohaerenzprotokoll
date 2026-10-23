@@ -1,0 +1,102 @@
+# counts for 74 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              9 word   108 in   [11, 15, 19, 21, 22, 23]  <-- substring
+                                   48      as Kael-System
+                                   32      as Kael-Systems
+                                   11      as Kaels
+                                    1      as Kael-Anteils
+  Juna                             60 word   101 in   [11, 15, 19, 21, 22, 24]
+                                   34      as Junas
+                                    4      as Juna-Kael-System
+                                    1      as Juna-Kael-System-Dynamik
+                                    1      as Juna-Kael-Systems
+  Kael-System                      48 word    86 in   [11, 15, 19, 21, 22, 23]
+                                   32      as Kael-Systems
+  Juna-Kael-System                  4 word     6 in   [11, 19, 24, 33, 35, 269]
+                                    1      as Juna-Kael-System-Dynamik
+                                    1      as Juna-Kael-Systems
+  Lex                               1 word     1 in   [71]
+  Rhys                              1 word     1 in   [73]
+  Nyx                               1 word     1 in   [74]
+  Kiko                              1 word     1 in   [75]
+  Lia                               1 word     1 in   [76]
+  Isabelle                          1 word     1 in   [77]
+  Moros                             1 word     1 in   [78]
+  Selene                            1 word     1 in   [79]
+  Argus                             2 word     2 in   [80, 105]
+  AEGIS                             1 word     1 in   [102]
+  externen kontrollierenden Entität    6 word     6 in   [22, 39, 100, 102, 238, 271]
+  Entität                          21 word    21 in   [22, 28, 31, 39, 100, 102]
+  Anteile                          37 word    61 in   [21, 22, 23, 28, 37, 39]
+                                   24      as Anteilen
+  Anteilen                         24 word    24 in   [22, 28, 39, 43, 51, 85]
+  Anteil                            7 word    73 in   [21, 22, 23, 28, 37, 39]  <-- substring
+                                   37      as Anteile
+                                   24      as Anteilen
+                                    3      as Anteils
+  Host                              2 word     2 in   [70, 207]
+  Zwänge                           21 word    21 in   [15, 28, 49, 51, 53, 55]
+  Zwang                             9 word     9 in   [57, 58, 59, 85]
+                                    1      as zwanghaft
+  Wiedererkennen                    7 word     8 in   [29, 57, 135, 139, 201, 220]
+                                    1      as Wiedererkennens
+  bis allerspätestens               6 word     6 in   [29, 135, 139, 201]
+  Transzendenz                     17 word    17 in   [15, 79, 134, 135, 185, 191]
+  Hoffnung auf Transzendenz         4 word     4 in   [135, 191, 209, 248]
+  Rettungsplan                      6 word     9 in   [118, 122, 126, 207, 209, 213]
+                                    3      as Rettungsplans
+  Paradoxon                        11 word    15 in   [108, 110, 116, 134, 174, 176]
+                                    4      as Paradoxons
+  Beziehungsparadoxon               2 word     2 in   [134, 247]
+  Systemkohärenz                    2 word     2 in   [23, 47]
+  Kohärenz                          8 word     8 in   [47, 63, 122, 209, 216, 242]
+  Krisenstabs                       2 word     2 in   [132, 149]
+  Rates der Anteile                 1 word     1 in   [149]
+  Meta-Perspektive                  4 word     4 in   [207, 255]
+  internen Beobachters              1 word     1 in   [207]
+  Safe Place                        2 word     2 in   [132, 150]
+  Schatzkarte                       2 word     2 in   [132, 151]
+  Verantwortungserklärung           2 word     2 in   [133, 168]
+  Verantwortungsübernahme           7 word     7 in   [15, 23, 47, 133, 168, 200]
+  Systemgeschichte                  2 word     2 in   [133, 166]
+  Co-Präsenz                        1 word     2 in   [133, 165]
+                                    1      as Co-Präsenz-Techniken
+  dissoziativer Barrieren           6 word     6 in   [23, 133, 157, 159, 246]
+  Offenhalten der Trennung          3 word     3 in   [135, 191, 248]
+  systemischer Weckruf              1 word     1 in   [45]
+  Kernkonflikt                      2 word     3 in   [116]
+                                    1      as Kernkonflikts
+  Vertrauensfrage                   2 word     2 in   [59]
+  Phase 0                           5 word     5 in   [17, 131, 137, 139, 244]
+  Phase 1                           3 word     3 in   [132, 141, 245]
+  Phase 2                           4 word     4 in   [133, 157, 172, 246]
+  Phase 3                           3 word     3 in   [134, 174, 247]
+  Phase 4                           3 word     3 in   [135, 191, 248]
+  Szenario 1                        1 word     1 in   [215]
+  Szenario 3                        1 word     1 in   [219]
+  Tabelle 1                         1 word     1 in   [65]
+  Tabelle 2                         1 word     1 in   [126]
+  TSDP                              4 word     5 in   [22, 63, 89, 155, 172]
+                                    1      as TSDP-Analyse
+  ANP                               1 word     2 in   [22, 89]
+  ANPs                              1 word     1 in   [89]
+  EP                                1 word     2 in   [22, 89]
+  DIS                               4 word     5 in   [22, 132, 172, 254]
+  Homöostase                        3 word     3 in   [22, 37, 45]
+  Compassion Fatigue                2 word     2 in   [21, 41]
+  Sunk Cost Fallacy                 1 word     1 in   [57]
+  Wiederholungszwang                1 word     1 in   [89]
+  Introjekte                        1 word     1 in   [86]
+  Grounding                         1 word     3 in   [23, 184, 256]  <-- substring
+                                    2      as Grounding-Techniken
+  Sekundärtraumatisierung           2 word     2 in   [21, 41]
+  Helfererschöpfung                 2 word     2 in   [21, 41]
+  Psychoedukation                   2 word     2 in   [132, 148]
+  Kommunikationsquadrat             1 word     1 in   [98]
+  Mehr-desselben-Prinzip            1 word     1 in   [112]
+  GFK                               3 word     3 in   [182, 189]
+  DBT                               1 word     1 in   [189]
+  Posttraumatic Growth              1 word     1 in   [205]

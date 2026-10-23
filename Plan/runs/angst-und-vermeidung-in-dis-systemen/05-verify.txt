@@ -1,0 +1,5 @@
+# numbers stated in census and note
+64 profile: "glued ref numbers 64" -> 01-profile.txt
+nine ## headings (L13,21,33,41,59,80,111,127,196): grep -n '^## ' Sources/drive/angst-und-vermeidung-in-dis-systemen.md
+Täterintrojekte 7 + Täterintrojekten 5 = 12 in: 04-counts.txt
+candidates 129: 04-counts.txt header

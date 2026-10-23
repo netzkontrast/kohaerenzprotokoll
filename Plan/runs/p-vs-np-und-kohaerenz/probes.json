@@ -1,0 +1,325 @@
+{
+  "document": "p-vs-np-und-kohaerenz",
+  "drive_id": "1XVSXGOPY7kb4vwEnEcD47OPed-TqcVASFLUKyCwD4dQ",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 13
+  },
+  "glued_ref_numbers": 127,
+  "backslash_escapes": 152,
+  "typographic_marks": 30,
+  "ascii_quotes": 160,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemkomponenten",
+      "Systemkonfigurationen",
+      "Systemneustart",
+      "Systemprotokolle",
+      "Systems",
+      "Systemstillstand",
+      "Systemstress",
+      "Systemverhalten",
+      "Systemzustand",
+      "Systemzustands",
+      "Systemzuständen"
+    ],
+    "optim": [
+      "Optima",
+      "Optimal",
+      "Optimalität",
+      "Optimierung",
+      "Optimierungs",
+      "Optimierungsaufgaben",
+      "Optimierungsproblem",
+      "Optimierungsprobleme",
+      "Optimierungsversion",
+      "Optimization",
+      "Optimum",
+      "Optimums"
+    ],
+    "resso": [
+      "Ressourcen",
+      "Ressourcenanfragen",
+      "Ressourcenengpässen",
+      "Ressourcenerschöpfung",
+      "Ressourcenknappheit",
+      "Ressourcenlimits",
+      "Ressourcenmanagements",
+      "Ressourcenprobleme",
+      "Ressourcenverbrauch",
+      "Ressourcenzuweisung",
+      "Ressourcenzuweisungs",
+      "Ressourcenzuweisungsalgorithmen"
+    ],
+    "kompl": [
+      "Komplement",
+      "Komplementbildung",
+      "Komplexe",
+      "Komplexität",
+      "Komplexitäten",
+      "Komplexitätsengpässe",
+      "Komplexitätsklasse",
+      "Komplexitätsklassen",
+      "Komplexitätslandschaften",
+      "Komplexitätsmaße",
+      "Komplexitätstheorie"
+    ],
+    "polyn": [
+      "Polynom",
+      "Polynomgrad",
+      "Polynomial",
+      "Polynomialzeit",
+      "Polynomialzeithierarchie",
+      "Polynomialzeitreduktion",
+      "Polynoms",
+      "Polynomzeit",
+      "Polynomzeitalgorithmen",
+      "Polynomzeitalgorithmus"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problemen",
+      "Probleminstanz",
+      "Probleminstanzen",
+      "Problemlösungskompetenz",
+      "Problems",
+      "Problemsituation",
+      "Problemtypen"
+    ],
+    "reche": [
+      "Rechenaufwand",
+      "Rechenlandschaft",
+      "Rechenlandschaften",
+      "Rechenleistung",
+      "Rechenmaschine",
+      "Rechenressourcen",
+      "Rechenschritte",
+      "Rechensystemen",
+      "Rechenweg"
+    ],
+    "verif": [
+      "Verification",
+      "Verifikation",
+      "Verifikationsaufgabe",
+      "Verifikationsprozesse",
+      "Verifizierbarkeit",
+      "Verifizieren",
+      "Verifizierens",
+      "Verifizierer",
+      "Verifying"
+    ],
+    "inter": [
+      "Interactive",
+      "Interaktionen",
+      "Interaktions",
+      "Interaktionsmustern",
+      "Interesse",
+      "Intermediär",
+      "International",
+      "Internet"
+    ],
+    "kohär": [
+      "Kohärente",
+      "Kohärenz",
+      "Kohärenzaufgaben",
+      "Kohärenzgrad",
+      "Kohärenzherstellung",
+      "Kohärenzoptimierung",
+      "Kohärenzproblems"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustands",
+      "Zustandserzeugung",
+      "Zustandsraum",
+      "Zustandsraumgraph",
+      "Zustandsvalidierung",
+      "Zustandsverifikation"
+    ],
+    "berec": [
+      "Berechenbarkeit",
+      "Berechnung",
+      "Berechnungen",
+      "Berechnungsmodellen",
+      "Berechnungspfade",
+      "Berechnungstypen"
+    ],
+    "compu": [
+      "Computation",
+      "Computational",
+      "Computationally",
+      "Compute",
+      "Computer",
+      "Computers"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropielevel",
+      "Entropiemanagement",
+      "Entropiequellen",
+      "Entropievorhersage",
+      "Entropy"
+    ],
+    "lösun": [
+      "Lösung",
+      "Lösungen",
+      "Lösungsansätze",
+      "Lösungspfad",
+      "Lösungsraum",
+      "Lösungszustand"
+    ],
+    "chara": [
+      "Charaktere",
+      "Charakterinteraktionen",
+      "Charakteristik",
+      "Charakteristika",
+      "Charakters"
+    ],
+    "explo": [
+      "Exploitation",
+      "Exploration",
+      "Explorationsdilemma",
+      "Explorationsherausforderungen",
+      "Explore"
+    ],
+    "graph": [
+      "Graph",
+      "Graphen",
+      "Graphenfärbung",
+      "Graphenisomorphismus",
+      "Graphentheorie"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstanten",
+      "Konstruierbarkeit",
+      "Konstruktion",
+      "Konstruktionen"
+    ],
+    "muste": [
+      "Muster",
+      "Mustererkennung",
+      "Mustererkennungsheuristiken",
+      "Mustern",
+      "Musterprüfungen"
+    ],
+    "algor": [
+      "Algorithm",
+      "Algorithmen",
+      "Algorithms",
+      "Algorithmus"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweisbarkeit",
+      "Beweisen",
+      "Beweises"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrüche",
+      "Durchsuchen",
+      "Durchsuchung"
+    ],
+    "einga": [
+      "Eingabe",
+      "Eingabegröße",
+      "Eingabegrößen",
+      "Eingaben"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen",
+      "Elements"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Ressourcenverbrauch"
+    ],
+    [
+      "Bild",
+      "Komplementbildung"
+    ],
+    [
+      "Case",
+      "Cases"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Down",
+      "Buttondown"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Kleine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Eine",
+      "Verallgemeinerte"
+    ],
+    [
+      "Fail",
+      "Failure"
+    ],
+    [
+      "Fall",
+      "Ausfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Leistungsabfall"
+    ],
+    [
+      "Find",
+      "Finden"
+    ],
+    [
+      "Find",
+      "Findens"
+    ],
+    [
+      "Find",
+      "Finding"
+    ]
+  ]
+}

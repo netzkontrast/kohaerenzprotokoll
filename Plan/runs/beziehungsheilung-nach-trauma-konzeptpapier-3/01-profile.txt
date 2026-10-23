@@ -1,0 +1,14 @@
+# beziehungsheilung-nach-trauma-konzeptpapier-3
+  lines                484  (frontmatter ends at 9)
+  body words           11270
+  headings             29   bold-only lines 3
+  table rows           24   code fences 0
+  question marks       13
+  backslash escapes    108
+  typographic marks    38   ascii quotes 126
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    207
+  repeated labels      Konflikt x4, Wendepunkt (Positiv) x3
+  longest line         1484 chars
+

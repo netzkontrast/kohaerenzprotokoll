@@ -1,0 +1,48 @@
+# counts for 38 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             10 word    11 in   [15, 43, 92, 99, 146, 172]
+  Juna                              1 word     2 in   [148, 175]
+                                    1      as Juna-Kael-System
+  AEGIS                             8 word     8 in   [76, 91, 146, 172, 206, 216]
+  Nyx                               3 word     4 in   [43, 76, 127, 197]
+  Kiko                              2 word     3 in   [43, 76, 127]
+                                    1      as Kiko-Szenen
+  Moros                             1 word     1 in   [76]
+  Lex                               3 word     5 in   [37, 43, 76, 126, 196]
+  Logos-Prime                       1 word     1 in   [76]
+  Alters                            4 word     4 in   [63, 91, 99, 146]
+  Kohärenz Protokoll                8 word    11 in   [11, 15, 25, 71, 109, 145]
+  Kohärenz Protokolls               3 word     3 in   [11, 25, 109]
+  Dual Kernel Theory                9 word    10 in   [15, 19, 25, 27, 245, 246]
+  DKT                               8 word     8 in   [19, 25, 27, 29, 47, 53]
+  K\_1                             16 word    16 in   [29, 31, 33, 35, 37, 41]
+  K\_0                             15 word    15 in   [29, 39, 41, 43, 47, 49]
+  Buffering Capacity                3 word     3 in   [45, 47, 49]
+  Dead Universe Theory              3 word     3 in   [51, 53, 257]
+  DUT                               5 word     6 in   [51, 53, 57, 257]
+  Mosaik                            2 word     4 in   [83, 111, 197, 230]
+                                    1      as Mosaik-Struktur
+                                    1      as Mosaik-Methode
+  Monolith to Mosaic                2 word     2 in   [113, 155]
+  Gravitationsarchitektur           3 word     3 in   [111, 117, 163]
+  Ergosphäre                        1 word     1 in   [117]
+  Ereignishorizont                  2 word     3 in   [117, 220]
+                                    1      as Ereignishorizonts
+  Singularität                      1 word     1 in   [117]
+  Photon Sphere                     1 word     1 in   [216]
+  Algorithmische Melancholie        1 word     1 in   [91]
+  Maximal-Plotter                   3 word     3 in   [49, 103, 232]
+  Writer's Bible                    3 word     3 in   [49, 145, 232]
+  Golden Sources                    6 word     6 in   [17, 49, 137, 187, 215, 240]
+  Agentive Narrative                5 word     5 in   [96, 131, 135, 164, 196]
+  Funktionale Multiplizität         2 word     2 in   [85, 87]
+  Final Fusion                      3 word     3 in   [85, 87, 91]
+  Resonanz-Kodex                    8 word     8 in   [21, 105, 181, 185, 187, 189]
+  Dialetheism-Engine                1 word     1 in   [201]
+  Agential Realism                  2 word     2 in   [19, 59]
+  Agential Cut                      2 word     3 in   [19, 61, 63]
+  Autopoiesis                       4 word     4 in   [11, 35, 81, 230]
+  Strange Attractor                 1 word     1 in   [117]

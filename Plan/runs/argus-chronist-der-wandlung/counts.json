@@ -1,0 +1,1088 @@
+{
+  "document": "argus-chronist-der-wandlung",
+  "drive_id": "1lIkkiTypWN6kHZIQwnVMhw287eo1r-_hmpa8kMsquvo",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Argus": {
+      "n": 170,
+      "n_including_compounds": 170,
+      "lines": [
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31,
+        40,
+        42,
+        44,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        60,
+        62,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        88,
+        137,
+        138,
+        145,
+        147,
+        154,
+        162,
+        168,
+        176,
+        184,
+        190,
+        192,
+        194,
+        195,
+        202,
+        204,
+        211,
+        219,
+        225,
+        233,
+        241,
+        247,
+        251,
+        252,
+        261,
+        268,
+        276,
+        282,
+        290,
+        298,
+        304,
+        308,
+        309,
+        318,
+        326,
+        334,
+        340,
+        348,
+        356,
+        362,
+        366,
+        367,
+        376,
+        383,
+        391,
+        397,
+        405,
+        413,
+        418,
+        422,
+        423,
+        430,
+        432,
+        439,
+        453,
+        461,
+        469,
+        475,
+        479,
+        480,
+        489,
+        497,
+        505,
+        512,
+        520,
+        528,
+        534,
+        536,
+        538,
+        539,
+        546,
+        548,
+        556,
+        564,
+        568,
+        576,
+        584,
+        589,
+        593,
+        594,
+        610,
+        622,
+        665,
+        666,
+        673,
+        690,
+        712,
+        722,
+        723,
+        776,
+        777,
+        829,
+        830,
+        832,
+        834,
+        836,
+        840,
+        842,
+        844,
+        846,
+        848,
+        850
+      ]
+    },
+    "Kael": {
+      "n": 12,
+      "n_including_compounds": 19,
+      "lines": [
+        17,
+        19,
+        23,
+        77,
+        634,
+        668,
+        670,
+        673,
+        676,
+        683,
+        722,
+        723,
+        794,
+        818,
+        830,
+        846,
+        848,
+        850
+      ]
+    },
+    "Kael-System": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        19,
+        23,
+        830,
+        846,
+        848,
+        850
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 12,
+      "lines": [
+        79,
+        779,
+        781,
+        789,
+        794,
+        802,
+        818,
+        826,
+        830,
+        846,
+        850
+      ]
+    },
+    "Selene": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        19,
+        25,
+        56,
+        76,
+        122,
+        596,
+        598,
+        606,
+        665,
+        666,
+        838
+      ]
+    },
+    "Lex": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        68,
+        140,
+        142,
+        145,
+        149,
+        155,
+        178,
+        187,
+        194,
+        195,
+        634
+      ]
+    },
+    "Alex": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        69,
+        197,
+        199,
+        202,
+        205,
+        212,
+        228,
+        244,
+        251,
+        252,
+        634
+      ]
+    },
+    "Rhys": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        70,
+        254,
+        256,
+        262,
+        269,
+        308,
+        309,
+        636
+      ]
+    },
+    "Nyx": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        71,
+        311,
+        313,
+        319,
+        327,
+        366,
+        367,
+        636
+      ]
+    },
+    "Kiko": {
+      "n": 8,
+      "n_including_compounds": 12,
+      "lines": [
+        72,
+        369,
+        371,
+        374,
+        377,
+        384,
+        422,
+        423,
+        637
+      ]
+    },
+    "Lia": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        73,
+        425,
+        427,
+        430,
+        433,
+        440,
+        479,
+        480,
+        637
+      ]
+    },
+    "Isabelle": {
+      "n": 9,
+      "n_including_compounds": 12,
+      "lines": [
+        74,
+        482,
+        484,
+        487,
+        490,
+        498,
+        536,
+        538,
+        539,
+        638
+      ]
+    },
+    "Moros": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        75,
+        541,
+        543,
+        549,
+        557,
+        578,
+        593,
+        594,
+        638,
+        838
+      ]
+    },
+    "Panoptikum des Systems": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        17,
+        67,
+        81,
+        83,
+        93
+      ]
+    },
+    "Panoptikum": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        15,
+        17,
+        19,
+        52,
+        67,
+        81,
+        83,
+        93,
+        109,
+        134,
+        138,
+        171,
+        456,
+        551,
+        629,
+        647,
+        666,
+        735,
+        777
+      ]
+    },
+    "Leuchtturmwärter": {
+      "n": 10,
+      "n_including_compounds": 12,
+      "lines": [
+        29,
+        36,
+        40,
+        46,
+        138,
+        423,
+        666,
+        687,
+        723,
+        777,
+        813,
+        842
+      ]
+    },
+    "Archivar der Narben": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        29,
+        37,
+        42,
+        98,
+        138
+      ]
+    },
+    "Astronom innerer Konstellationen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        38
+      ]
+    },
+    "Astronom": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        29,
+        38,
+        44,
+        114,
+        138,
+        173,
+        195,
+        273,
+        309,
+        410,
+        444,
+        480,
+        561,
+        594,
+        630,
+        648,
+        666,
+        701,
+        753,
+        777,
+        797,
+        842
+      ]
+    },
+    "Chronist der Wandlung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        23,
+        50,
+        700,
+        761,
+        850
+      ]
+    },
+    "Chronist": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        23,
+        42,
+        50,
+        78,
+        610,
+        641,
+        661,
+        700,
+        761,
+        777,
+        806,
+        830,
+        840,
+        850
+      ]
+    },
+    "Junas Gleichung": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        79,
+        779,
+        781,
+        802,
+        826,
+        830,
+        846,
+        850
+      ]
+    },
+    "Elixier": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        25,
+        56,
+        76,
+        78,
+        723,
+        749,
+        777,
+        832,
+        836,
+        838
+      ]
+    },
+    "Host": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        77,
+        668,
+        670,
+        676,
+        697
+      ]
+    },
+    "Album 10": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Kohärenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        122,
+        464,
+        848
+      ]
+    },
+    "Illusion der perfekten Beobachtung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        67
+      ]
+    },
+    "Weg der Prüfungen": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        23,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        252,
+        309,
+        367,
+        423,
+        480,
+        539
+      ]
+    },
+    "Abstieg": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        23,
+        71,
+        72,
+        73,
+        74,
+        323,
+        367,
+        423,
+        480,
+        539
+      ]
+    },
+    "spirituelle Dürre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Tod des Alten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Beobachtung mit Urteil trennt; Bezeugen mit Mitgefühl integriert": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        25,
+        777,
+        834,
+        836
+      ]
+    },
+    "Bezeugen mit Mitgefühl": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        656,
+        723,
+        777,
+        834,
+        836,
+        838
+      ]
+    },
+    "Beobachtung mit Urteil trennt": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        655,
+        750,
+        777,
+        834,
+        836
+      ]
+    },
+    "Kollateralschaden-Report": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        69,
+        197,
+        199,
+        207,
+        252
+      ]
+    },
+    "Logikfehler aufgedeckt": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        68,
+        140,
+        142
+      ]
+    },
+    "Emotionale Landkarte": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        70,
+        254,
+        256,
+        283
+      ]
+    },
+    "Ursachenforschung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        71,
+        311,
+        313,
+        341,
+        367
+      ]
+    },
+    "Validierung der Angst": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        72,
+        369,
+        371,
+        398
+      ]
+    },
+    "Muster im Chaos": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        73,
+        425,
+        427,
+        454
+      ]
+    },
+    "Die Funktion der Fassade": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        482,
+        484,
+        513
+      ]
+    },
+    "Beschreibung der Leere": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        75,
+        541,
+        543,
+        569
+      ]
+    },
+    "Dialog der Weisen": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        76,
+        596,
+        598,
+        626,
+        645
+      ]
+    },
+    "Feedback für den Host": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        77,
+        668,
+        670,
+        697
+      ]
+    },
+    "Der mitfühlende Blick": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        78,
+        725,
+        727,
+        749,
+        773
+      ]
+    },
+    "Systemwohlbefinden": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        163,
+        195
+      ]
+    },
+    "Systemfluss": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        158,
+        214
+      ]
+    },
+    "Effizienz-Index": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        150
+      ]
+    },
+    "Sektor L": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        148,
+        433
+      ]
+    },
+    "Datentier": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        170
+      ]
+    },
+    "Mandala": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        606,
+        661
+      ]
+    },
+    "Tempel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        629,
+        647,
+        666
+      ]
+    },
+    "Systemheilung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Suno AI": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        137,
+        194,
+        251,
+        308,
+        366,
+        422,
+        479,
+        538,
+        593,
+        665,
+        722,
+        776,
+        829
+      ]
+    },
+    "Synth Goth": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        48,
+        50,
+        137,
+        194,
+        308,
+        422,
+        538,
+        665
+      ]
+    },
+    "Dystopian Future Synth": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        48,
+        50,
+        52,
+        137,
+        194,
+        251,
+        308,
+        366,
+        479,
+        593,
+        665,
+        722
+      ]
+    },
+    "IDM": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        50,
+        52,
+        56,
+        137,
+        194,
+        251
+      ]
+    },
+    "Progressive Electronic": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        50,
+        54,
+        194,
+        776,
+        854
+      ]
+    },
+    "weisen Narren": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        777,
+        842
+      ]
+    },
+    "Argus Male Voice": {
+      "n": 41,
+      "n_including_compounds": 41,
+      "lines": [
+        88,
+        147,
+        154,
+        168,
+        176,
+        190,
+        204,
+        211,
+        225,
+        233,
+        247,
+        261,
+        268,
+        282,
+        290,
+        304,
+        318,
+        326,
+        340,
+        348,
+        362,
+        376,
+        383,
+        397,
+        405,
+        418,
+        432,
+        439,
+        453,
+        461,
+        475,
+        489,
+        497,
+        512,
+        520,
+        534,
+        548,
+        556,
+        568,
+        576,
+        589
+      ]
+    },
+    "Schutzfunktion": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        74,
+        523,
+        535,
+        539
+      ]
+    },
+    "Kritiker": {
+      "n": 13,
+      "n_including_compounds": 14,
+      "lines": [
+        17,
+        40,
+        52,
+        67,
+        138,
+        699,
+        760,
+        777,
+        838,
+        840,
+        850,
+        854
+      ]
+    },
+    "systemische Verantwortung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        830
+      ]
+    },
+    "Ko-Bewusstseins": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        21,
+        23,
+        60,
+        62,
+        66,
+        138,
+        195,
+        252,
+        309,
+        367,
+        423,
+        480,
+        539,
+        594,
+        666,
+        723,
+        777,
+        830
+      ]
+    },
+    "ANP": {
+      "n": 15,
+      "n_including_compounds": 29,
+      "lines": [
+        17,
+        19,
+        25,
+        29,
+        40,
+        46,
+        138,
+        195,
+        252,
+        309,
+        367,
+        423,
+        480,
+        539,
+        594,
+        666,
+        777,
+        836,
+        838,
+        848,
+        850
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 19,
+      "lines": [
+        19,
+        25,
+        29,
+        46,
+        138,
+        367,
+        666,
+        777,
+        836,
+        838,
+        848
+      ]
+    },
+    "EP-Anteile": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        19,
+        25,
+        29,
+        46,
+        138,
+        836,
+        838,
+        848
+      ]
+    },
+    "TSDP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        836
+      ]
+    },
+    "Theorie der strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Metakognition": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        844,
+        854
+      ]
+    }
+  }
+}

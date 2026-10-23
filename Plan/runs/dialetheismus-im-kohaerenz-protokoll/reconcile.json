@@ -1,0 +1,113 @@
+{
+  "document": "dialetheismus-im-kohaerenz-protokoll",
+  "drive_id": "155nU_zQ0D8zeXCapHBjQ1mUDRIR2ny-6ANDiJQQeB6k",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; Kael left off the candidate list because its compounds hold an earlier name, and read through the sweep; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-558/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 73,
+    "decided_by_lookup": 64,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report applying dialetheism and paraconsistent logic to AEGIS and the four core worlds: its two hypotheses on AEGIS, its reading of Kael's upgrade, its logic per core world and its reading of the cracks went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        177,
+        187,
+        193,
+        197
+      ],
+      "attribution": "",
+      "note": "two hypotheses on contradiction"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        204,
+        206
+      ],
+      "attribution": "",
+      "note": "an upgrade that brings the paradox"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        213,
+        215,
+        222,
+        229,
+        236
+      ],
+      "attribution": "",
+      "note": "four worlds, four stances on contradiction"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        183,
+        185
+      ],
+      "attribution": "",
+      "note": "a state both present and repaired"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a research report read as open hypotheses; L15, L21, L178, L182, L189, L191, L192, L209, L219, L268, L282, L307, L309, L313 and L317 (earlier names) are not cited, so Potentialmeer is not read; the logic vocabulary is not promoted",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 240,
+      "decision": "occurrence",
+      "why": "the word in its general sense"
+    },
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "an earlier name; the line is not cited"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 15,
+      "decision": "reading",
+      "why": "read from L204 and L206; L15 holds an earlier name and is not cited"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title"
+    }
+  ],
+  "not_promoted": [
+    "Hypothese A/B, the core directive, LP and every logic term, the logic table of the core worlds, EST"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

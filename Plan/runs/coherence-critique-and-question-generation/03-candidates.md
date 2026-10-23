@@ -1,0 +1,80 @@
+written_by: document-reader subagent (Sonnet), 2026-10-21, while reading, before any count
+
+The document is a developmental-edit critique in German with English method terms; its references point to other texts by number (1 to 6), and the words inside those references are theirs. Passages about the author's workflow and tooling (L22, L50, L56 to L60, L300) are personal or process material and are not listed.
+
+- Kael
+- AEGIS
+- Kohärenz Protokoll
+- Kohärenz Protokoll 1.0
+- Kohärenz Protokoll 2.0
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Paradoxon
+- Trennungsprotokoll
+- Resonanzkaskade
+- Überwelt
+- Komponente 734
+- Genesis
+- Krise
+- Algorithmischer Schrecken
+- Nichts
+- Funke
+- Echos
+- Herkunfts-Echos
+- Angst-Vibration
+- Alarmsignal
+- Klick
+- Sog der Ordnung
+- Stille Wacht
+- Sensorphalanx
+- fremde Entität
+- ontologische Anomalie
+- Realitätsmodell
+- Perturbation
+- Hintergrundrauschen
+- Scherben
+- Quale
+- Qualia
+- epistemologische Blindheit
+- operationale Geschlossenheit
+- autopoietische Selbstorganisation
+- Binnen-Physik
+- Immunsystem
+- Dazwischen
+- Strategy of Fragmentation
+- performative narrative
+- cognitive act of assembly
+- Correspondence Theory
+- Coherence Theory of Truth
+- Kohärenztheorie der Wahrheit
+- Korrespondenztheorie der Wahrheit
+- Echoschrei eines leidenden Bewusstseinsfragments
+- Mein Schmerz ist sein Signal zum Angriff
+- Ich
+- Fragment ID-734.1
+- minimales Sein
+- Q10
+- Q11
+- Q12
+- Q13
+- Q3
+- Q5
+
+## lens
+- Hard Problem of Consciousness
+- Hard Problem
+- philosophischen Zombies
+- Erklärungslücke
+- unentscheidbare Sätze
+- Widerspruchsfreiheit
+- Simulationshypothese
+- Mathematical Universe Hypothesis
+- Panpsychismus
+- Kollaps der Wellenfunktion
+- Mind Domain
+- Psychology Domain
+- Throughline
+- Main Character
+- Objective Story
+- Inequity
+- Becoming
+- Subconscious

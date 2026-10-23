@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      6
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           36
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemen, Systemfehler, Systemreparatur, Systems
+  reali    Realität, Realitäten, Realitätsrisse, Realitätsrissen
+  erken    Erkenntnis, Erkenntnisse, Erkenntnissen
+  gesch    Geschehen, Geschichte, Geschichten
+  lösun    Lösung, Lösungsversuch, Lösungsversuche
+  perso    Person, Persona, Personas
+  repar    Reparatur, Reparaturversuche, Reparaturversuchen
+  simul    Simulation, Simulationsgrenzen, Simulationsstruktur
+  beoba    Beobachter, Beobachtung
+  bewus    Bewusstsein, Bewusstseins
+  diese    Diese, Dieser
+  entsc    Entscheidend, Entscheidung
+  erinn    Erinnerung, Erinnerungslandschaft
+  exist    Existenz, Existenzen
+  figur    Figur, Figuren
+  guard    Guardian, Guardians
+  infor    Information, Informationseinheiten
+  insta    Instabilität, Instabilitäten
+  integ    Integration, Integrations
+  inter    Interface, Intervention
+  kontr    Kontrolle, Kontrollebene
+  persp    Perspektive, Perspektivwechsel
+  progr    Programm, Programms
+  risse    Risse, Risses
+  rätse    Rätsel, Rätsels
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Echo < Echos
+  Form < Information
+  Form < Informationseinheiten
+  Idee < Ideen
+  Kern < Kernproblem
+  Plot < Plots
+  Über < Überraum
+  Über < Übergänge
+  Diese < Dieser
+  Figur < Figuren
+  Figur < Randfiguren
+  Reise < Heldenreise
+  Risse < Risses
+  Risse < Realitätsrisse
+  Risse < Realitätsrissen
+  Seele < Seelen
+  Seins < Bewusstseins
+  Sicht < Einsicht

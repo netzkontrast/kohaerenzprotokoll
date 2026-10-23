@@ -1,0 +1,20 @@
+$ grep -cP -- '(?<![\w-])Kael(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -cP -- '(?<![\w-])Juna(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -cP -- '(?<![\w-])Nyx(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -cP -- '(?<![\w-])AEGIS(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -cP -- '(?<![\w-])Kapitel(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -cP -- '(?<![\w-])Roman(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -cP -- '(?<![\w-])Album(?![\w-])' Sources/drive/dis-berichtigung-umfassende-recherche-und-schreiben.md
+0
+$ grep -c "^[0-9]*\. " reference lines 260-332 -> 73 entries
+73
+$ profile: question marks 9, lines in reference titles only (8 lines)
+8
+$ census candidates
+26

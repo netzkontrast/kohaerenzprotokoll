@@ -1,0 +1,87 @@
+# counts for 74 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            59 word    60 in   [11, 15, 21, 26, 173, 175]
+                                    1      as AEGIS-Modelle
+  Potentialmeer                     4 word     4 in   [178, 182, 189, 268]
+  Kernwelten                       14 word    14 in   [11, 15, 21, 27, 82, 211]
+  Kernwelt                          3 word    17 in   [11, 15, 21, 27, 55, 82]  <-- substring
+                                   14      as Kernwelten
+  KW1                              10 word    10 in   [213, 215, 233, 245, 252, 259]
+  KW2                              10 word    10 in   [222, 238, 245, 253, 259, 280]
+  KW3                               2 word     2 in   [229, 254]
+  KW4                               6 word     7 in   [213, 236, 245, 255, 296, 309]
+  Kerndirektive                     5 word     5 in   [191, 195, 197, 268, 300]
+  Sein durch Abgrenzung/Nicht-Widerspruch    2 word     2 in   [191, 197]
+  Risse                             5 word     6 in   [185, 192, 193, 220, 267, 281]
+                                    1      as Rissen
+  Riss                              1 word     7 in   [183, 185, 192, 193, 220, 267]  <-- substring
+                                    5      as Risse
+                                    1      as Rissen
+  Upgrade                           3 word     5 in   [202, 204, 207, 270, 300]
+  EST                               2 word     2 in   [220, 257]
+  Anteile                           1 word     1 in   [213]
+  Guardians                         1 word     1 in   [243]
+  Forschungsauftrag                14 word    15 in   [175, 182, 183, 189, 191, 192]
+                                    1      as Forschungsauftrags
+  Hypothese A                      15 word    15 in   [177, 180, 200, 207, 209, 245]
+  Hypothese B                      12 word    12 in   [178, 187, 199, 206, 209, 245]
+  Logik/Architekt                   1 word     1 in   [215]
+  Emotion/Echo                      1 word     1 in   [222]
+  Abwehr/Wächter                    1 word     1 in   [229]
+  Potential/Sucher/Funke            1 word     1 in   [236]
+  Die Festung Klassischer Konsistenz    1 word     1 in   [215]
+  Das Reich Dialetheischer Koexistenz    1 word     1 in   [222]
+  paradox-sichere                   1 word     1 in   [296]
+  Systemfehler                      2 word     2 in   [171, 185]
+  Kernkonzept                       1 word     1 in   [251]
+  Atmosphäre                        7 word     7 in   [213, 218, 225, 232, 239, 251]
+  Logik                            50 word    60 in   [11, 17, 19, 21, 23, 25]
+                                   10      as Logiken
+  Manifestation                     5 word     6 in   [220, 227, 234, 241, 251, 301]
+                                    1      as Manifestationen
+  Umgang mit Widerspruch            4 word     4 in   [219, 226, 233, 240]
+  Kohärenz Protokoll                7 word     7 in   [11, 13, 15, 21, 82, 317]
+  Dialetheismus                    31 word    31 in   [19, 21, 23, 25, 27, 32]
+  Dialetheia                       13 word    13 in   [19, 34, 36, 46, 48, 55]
+  Dialetheien                       2 word     2 in   [19, 36]
+  Dialetheische Logik               1 word     2 in   [11, 19]
+  Trivialismus                      5 word     5 in   [59, 61, 71]
+  parakonsistente Logik             4 word     5 in   [63, 71, 100, 182, 267]
+  Parakonsistente Logik             1 word     3 in   [86, 94, 100]  <-- substring
+  Parakonsistenz                    5 word     5 in   [92, 96, 134, 209]
+  Logic of Paradox                  8 word     8 in   [19, 102, 104, 224, 317, 339]
+  LP                               39 word    48 in   [19, 23, 25, 102, 104, 106]
+  LNC                              10 word    10 in   [17, 19, 36, 84, 178, 189]
+  ECQ                               9 word     9 in   [17, 63, 88, 90, 134, 163]
+  LEM                               7 word     7 in   [135, 153, 154, 164, 165, 169]
+  DS                                5 word     5 in   [141, 165, 171, 292]
+  MP                                8 word     9 in   [140, 165, 167]
+  FDE                               8 word     8 in   [126, 128, 147, 151, 152, 153]
+  K3                                5 word     5 in   [108, 151, 152, 153, 160]
+  CL                                6 word     7 in   [126, 130, 134, 135, 160, 165]
+  Disjunktiver Syllogismus          1 word     1 in   [141]
+  Disjunktiven Syllogismus          5 word     5 in   [115, 169, 171, 185, 292]
+  Modus Ponens                      3 word     3 in   [48, 115, 140]
+  Prinzip der Explosion             7 word     7 in   [17, 63, 88, 90, 94, 183]
+  Satz vom ausgeschlossenen Widerspruch    3 word     3 in   [17, 36, 217]
+  Logics of Formal Inconsistency    1 word     1 in   [184]
+  LFIs                              1 word     1 in   [184]
+  Hegelsche Dialektik               2 word     2 in   [200, 238]
+  Ambivalenz                        6 word     6 in   [55, 200, 225, 226, 280, 319]
+  Wahrheitswert-Glut                1 word     1 in   [36]
+  Wahrheitswert-Lücke               1 word     1 in   [36]
+  Tetralemma                        1 word     1 in   [57]
+  Anekantavada                      1 word     1 in   [57]
+  Lügner-Paradox                    1 word     1 in   [46]
+  Currys Paradox                    1 word     1 in   [48]
+  Russells Paradox                  1 word     1 in   [47]
+  Cantors Paradox                   1 word     1 in   [47]
+  Vagheit                           2 word     2 in   [52, 82]
+  kognitive Dissonanz               1 word     1 in   [71]
+  Russell'sche Fallacy              1 word     1 in   [78]
+  metaphysischen Dialetheismus      2 word     2 in   [70, 78]
+  semantischen Dialetheismus        1 word     1 in   [70]
+  modest dialetheism                1 word     1 in   [82]

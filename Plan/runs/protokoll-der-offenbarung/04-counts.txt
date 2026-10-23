@@ -1,0 +1,61 @@
+# counts for 44 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Bunker                           10 word    22 in   [15, 21, 50, 257, 290, 300]  <-- substring
+                                   12      as Bunkers
+  Bunkers                          12 word    12 in   [21, 257, 311, 338, 579, 659]
+  Eingangsraum                      7 word     7 in   [21, 67, 497, 813, 907, 988]
+  Kontrollraum                      3 word     4 in   [98, 140, 160, 179]
+                                    1      as Kontrollraums
+  Vestibül                          1 word     1 in   [38]
+  Riss                              4 word     6 in   [94, 100, 116, 273, 579, 595]
+                                    2      as Risse
+                                    2      as RISSE
+  Risse                             2 word     2 in   [94, 100]
+  Speicherbank                      2 word     2 in   [59, 79]
+  Systemkerne                       1 word     1 in   [21]
+  Matrix                            2 word     2 in   [56, 76]
+  Siegel                            3 word     3 in   [21, 148, 988]
+  Das System                       18 word    18 in   [11, 98, 179, 257, 338, 416]
+  Systemstimme                     14 word    15 in   [29, 75, 106, 187, 265, 346]
+                                    1      as Systemstimmen
+  Systemstimmen                     1 word     1 in   [75]
+  Kollektivstimme                   5 word     5 in   [1066, 1073, 1078, 1101, 1128]
+  Anteile                          13 word    15 in   [35, 173, 303, 410, 497, 511]
+                                    1      as Anteilen
+  Anteilen                          1 word     2 in   [35, 1128]
+  KERN-EINHEIT                      2 word     2 in   [589, 645]
+  KERNFRAGMENT                      1 word     1 in   [267]
+  Kael-System-Core                  1 word     1 in   [36]
+  Argus                             6 word    19 in   [64, 66, 111, 113, 126, 144]  <-- substring
+                                    6      as Argus-Kollektiv
+                                    5      as Argus-Anteil
+                                    1      as Argus-Echo
+                                    1      as Argus-Stimme
+  Kiko                              2 word     6 in   [659, 672, 677, 682, 730, 760]  <-- substring
+                                    3      as Kikos
+                                    1      as Kiko-Stimme
+  Lia                               5 word     8 in   [659, 672, 702, 730, 868, 869]
+  Protokollbeginn                   2 word     2 in   [17, 23]
+  Logbucheintrag                    5 word     5 in   [15, 94, 100, 141, 161]
+  Kernschmelze                      2 word     2 in   [253, 259]
+  Abstiegsprotokoll                 2 word     2 in   [575, 581]
+  Systemfehler                      3 word     3 in   [412, 416, 418]
+  Weichenstellung                   3 word     3 in   [412, 416, 418]
+  SWITCH-PROTOKOLL                  1 word     1 in   [427]
+  Direktive                         4 word     4 in   [21, 493, 497, 499]
+  Übermittlung                      3 word     3 in   [1049, 1053, 1055]
+  Kinderstimmen-Archiv              2 word     2 in   [655, 661]
+  Materielle Zeugen                 2 word     2 in   [809, 815]
+  Mosaik der Stimmen                2 word     2 in   [984, 990]
+  Logik der Emotion                 2 word     2 in   [732, 738]
+  Sektion Trauma                    2 word     2 in   [253, 259]
+  Chronik der Entfremdung           2 word     2 in   [334, 340]
+  Erste Risse                       2 word     2 in   [94, 100]
+  Dystopian Future Synth           15 word    15 in   [15, 55, 92, 173, 332, 410]
+  Clear Twist                       2 word     2 in   [92, 807]
+  Schutzmechanismen                 1 word     1 in   [152]
+  Dissoziationsstruktur             1 word     1 in   [145]
+  Latenz                            1 word     1 in   [45]

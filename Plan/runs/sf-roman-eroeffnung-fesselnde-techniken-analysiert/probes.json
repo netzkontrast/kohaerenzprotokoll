@@ -1,0 +1,235 @@
+{
+  "document": "sf-roman-eroeffnung-fesselnde-techniken-analysiert",
+  "drive_id": "1MUsQQfEJRSOUzmlHcFozf-8S6LHFzLibRD1vx0651Oc",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 58,
+  "backslash_escapes": 82,
+  "typographic_marks": 155,
+  "ascii_quotes": 6,
+  "inflection_families": {
+    "spann": [
+      "Spannung",
+      "Spannungs",
+      "Spannungsbogen",
+      "Spannungsmechanik",
+      "Spannungsmotorik",
+      "Spannungswerkzeug",
+      "Spannungswerkzeuge"
+    ],
+    "erzäh": [
+      "Erzählebenen",
+      "Erzählen",
+      "Erzähler",
+      "Erzählers",
+      "Erzählwelt"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptdokukment",
+      "Konzeptdokument",
+      "Konzepte",
+      "Konzepten"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychologen",
+      "Psychological",
+      "Psychotraumatologie"
+    ],
+    "infor": [
+      "Informatik",
+      "Informationslöschung",
+      "Informationsrestriktion",
+      "Informationsökonomie"
+    ],
+    "leser": [
+      "Leser",
+      "Lesers",
+      "Lesersteuerung",
+      "Leserverlust"
+    ],
+    "revie": [
+      "REVIEW",
+      "Review",
+      "Reviewer",
+      "Reviews"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstandes",
+      "Verstecke",
+      "Verständnis"
+    ],
+    "algor": [
+      "Algorithmen",
+      "Algorithmischen",
+      "Algorithmus"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysis",
+      "Analyzing"
+    ],
+    "bewei": [
+      "Beweis",
+      "Beweise",
+      "Beweisverfahren"
+    ],
+    "biolo": [
+      "Biologe",
+      "Biologie",
+      "Biologin"
+    ],
+    "erwar": [
+      "Erwartung",
+      "Erwartungsdruck",
+      "Erwartungshaltung"
+    ],
+    "eröff": [
+      "Eröffnung",
+      "Eröffnungsstrategien",
+      "Eröffnungsszene"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlern"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzsituationen"
+    ],
+    "liter": [
+      "Literarische",
+      "Literatur",
+      "Literature"
+    ],
+    "masch": [
+      "Maschine",
+      "Maschinen",
+      "Maschinerie"
+    ],
+    "physi": [
+      "Physik",
+      "Physikalisches",
+      "Physiken"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenologie",
+      "Phänomenologische"
+    ],
+    "regel": [
+      "Regel",
+      "Regeln",
+      "Regelwerk"
+    ],
+    "roman": [
+      "Roman",
+      "Romane",
+      "Romans"
+    ],
+    "schic": [
+      "Schicht",
+      "Schichten",
+      "Schicksal"
+    ],
+    "schri": [
+      "Schrift",
+      "Schriftarten",
+      "Schritt"
+    ],
+    "sicht": [
+      "Sichtbar",
+      "Sichtbarer",
+      "Sichtbarkeit"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Book",
+      "Books"
+    ],
+    [
+      "Book",
+      "Bookish"
+    ],
+    [
+      "Book",
+      "Bookworm"
+    ],
+    [
+      "Book",
+      "Rulebooks"
+    ],
+    [
+      "Buch",
+      "Buches"
+    ],
+    [
+      "Dark",
+      "Grimdark"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ],
+    [
+      "Ende",
+      "Dutzende"
+    ],
+    [
+      "Film",
+      "Films"
+    ],
+    [
+      "Form",
+      "Informatik"
+    ],
+    [
+      "Form",
+      "Formspielerei"
+    ],
+    [
+      "Form",
+      "Informationslöschung"
+    ],
+    [
+      "Form",
+      "Informationsökonomie"
+    ],
+    [
+      "Form",
+      "Informationsrestriktion"
+    ],
+    [
+      "Gott",
+      "Ligotti"
+    ],
+    [
+      "Gott",
+      "Ligottis"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ]
+  ]
+}

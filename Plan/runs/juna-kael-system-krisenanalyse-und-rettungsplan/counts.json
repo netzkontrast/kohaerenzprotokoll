@@ -1,0 +1,951 @@
+{
+  "document": "juna-kael-system-krisenanalyse-und-rettungsplan",
+  "drive_id": "1ejW5C1rzlREO_z6HPlfKekkYvP94NZ8n9umt47ev-MQ",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 9,
+      "n_including_compounds": 108,
+      "lines": [
+        11,
+        15,
+        19,
+        21,
+        22,
+        23,
+        24,
+        28,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        51,
+        57,
+        58,
+        59,
+        61,
+        63,
+        65,
+        70,
+        82,
+        93,
+        98,
+        102,
+        104,
+        105,
+        106,
+        110,
+        114,
+        116,
+        118,
+        122,
+        130,
+        139,
+        143,
+        185,
+        193,
+        199,
+        207,
+        209,
+        213,
+        216,
+        218,
+        220,
+        224,
+        230,
+        232,
+        238,
+        242,
+        250,
+        252,
+        255,
+        257,
+        261,
+        263,
+        269,
+        271
+      ]
+    },
+    "Juna": {
+      "n": 60,
+      "n_including_compounds": 101,
+      "lines": [
+        11,
+        15,
+        19,
+        21,
+        22,
+        24,
+        28,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        51,
+        53,
+        55,
+        57,
+        58,
+        59,
+        63,
+        65,
+        69,
+        73,
+        84,
+        86,
+        93,
+        102,
+        104,
+        106,
+        110,
+        114,
+        116,
+        122,
+        133,
+        135,
+        143,
+        159,
+        167,
+        176,
+        181,
+        193,
+        198,
+        200,
+        209,
+        211,
+        213,
+        216,
+        218,
+        220,
+        222,
+        224,
+        230,
+        238,
+        248,
+        259,
+        261,
+        263,
+        264,
+        265,
+        269
+      ]
+    },
+    "Kael-System": {
+      "n": 48,
+      "n_including_compounds": 86,
+      "lines": [
+        11,
+        15,
+        19,
+        21,
+        22,
+        23,
+        24,
+        28,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        51,
+        58,
+        59,
+        61,
+        63,
+        65,
+        82,
+        93,
+        102,
+        105,
+        110,
+        114,
+        116,
+        118,
+        122,
+        130,
+        139,
+        143,
+        185,
+        193,
+        199,
+        207,
+        209,
+        213,
+        216,
+        218,
+        220,
+        224,
+        230,
+        238,
+        242,
+        250,
+        252,
+        255,
+        257,
+        261,
+        263,
+        269,
+        271
+      ]
+    },
+    "Juna-Kael-System": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        11,
+        19,
+        24,
+        33,
+        35,
+        269
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        79
+      ]
+    },
+    "Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        80,
+        105
+      ]
+    },
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        102
+      ]
+    },
+    "externen kontrollierenden Entität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        22,
+        39,
+        100,
+        102,
+        238,
+        271
+      ]
+    },
+    "Entität": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        22,
+        28,
+        31,
+        39,
+        100,
+        102,
+        104,
+        106,
+        114,
+        116,
+        143,
+        238,
+        271
+      ]
+    },
+    "Anteile": {
+      "n": 37,
+      "n_including_compounds": 61,
+      "lines": [
+        21,
+        22,
+        23,
+        28,
+        37,
+        39,
+        43,
+        47,
+        51,
+        63,
+        65,
+        76,
+        84,
+        85,
+        86,
+        87,
+        89,
+        104,
+        105,
+        110,
+        122,
+        132,
+        133,
+        143,
+        148,
+        149,
+        150,
+        159,
+        164,
+        165,
+        166,
+        167,
+        168,
+        176,
+        182,
+        207,
+        238,
+        254,
+        255,
+        256,
+        257
+      ]
+    },
+    "Anteilen": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        22,
+        28,
+        39,
+        43,
+        51,
+        85,
+        86,
+        104,
+        132,
+        133,
+        143,
+        148,
+        159,
+        165,
+        166,
+        182,
+        238,
+        255,
+        256,
+        257
+      ]
+    },
+    "Anteil": {
+      "n": 7,
+      "n_including_compounds": 73,
+      "lines": [
+        21,
+        22,
+        23,
+        28,
+        37,
+        39,
+        43,
+        47,
+        51,
+        63,
+        65,
+        69,
+        76,
+        84,
+        85,
+        86,
+        87,
+        89,
+        96,
+        104,
+        105,
+        110,
+        114,
+        122,
+        132,
+        133,
+        143,
+        148,
+        149,
+        150,
+        151,
+        159,
+        164,
+        165,
+        166,
+        167,
+        168,
+        176,
+        182,
+        207,
+        238,
+        254,
+        255,
+        256,
+        257
+      ]
+    },
+    "Host": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        207
+      ]
+    },
+    "Zwänge": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        15,
+        28,
+        49,
+        51,
+        53,
+        55,
+        61,
+        63,
+        82,
+        89,
+        91,
+        93,
+        104,
+        114,
+        139,
+        238
+      ]
+    },
+    "Zwang": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        57,
+        58,
+        59,
+        85
+      ]
+    },
+    "Wiedererkennen": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        29,
+        57,
+        135,
+        139,
+        201,
+        220
+      ]
+    },
+    "bis allerspätestens": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        29,
+        135,
+        139,
+        201
+      ]
+    },
+    "Transzendenz": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        79,
+        134,
+        135,
+        185,
+        191,
+        193,
+        209,
+        218,
+        219,
+        232,
+        248
+      ]
+    },
+    "Hoffnung auf Transzendenz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        135,
+        191,
+        209,
+        248
+      ]
+    },
+    "Rettungsplan": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        118,
+        122,
+        126,
+        207,
+        209,
+        213,
+        232,
+        242,
+        271
+      ]
+    },
+    "Paradoxon": {
+      "n": 11,
+      "n_including_compounds": 15,
+      "lines": [
+        108,
+        110,
+        116,
+        134,
+        174,
+        176,
+        181,
+        238,
+        247
+      ]
+    },
+    "Beziehungsparadoxon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        247
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        47
+      ]
+    },
+    "Kohärenz": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        47,
+        63,
+        122,
+        209,
+        216,
+        242,
+        269,
+        271
+      ]
+    },
+    "Krisenstabs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        149
+      ]
+    },
+    "Rates der Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "Meta-Perspektive": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        207,
+        255
+      ]
+    },
+    "internen Beobachters": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        207
+      ]
+    },
+    "Safe Place": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        150
+      ]
+    },
+    "Schatzkarte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        151
+      ]
+    },
+    "Verantwortungserklärung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        133,
+        168
+      ]
+    },
+    "Verantwortungsübernahme": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        23,
+        47,
+        133,
+        168,
+        200,
+        246
+      ]
+    },
+    "Systemgeschichte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        133,
+        166
+      ]
+    },
+    "Co-Präsenz": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        133,
+        165
+      ]
+    },
+    "dissoziativer Barrieren": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        23,
+        133,
+        157,
+        159,
+        246
+      ]
+    },
+    "Offenhalten der Trennung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        135,
+        191,
+        248
+      ]
+    },
+    "systemischer Weckruf": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        116
+      ]
+    },
+    "Vertrauensfrage": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59
+      ]
+    },
+    "Phase 0": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        131,
+        137,
+        139,
+        244
+      ]
+    },
+    "Phase 1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        132,
+        141,
+        245
+      ]
+    },
+    "Phase 2": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        133,
+        157,
+        172,
+        246
+      ]
+    },
+    "Phase 3": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        134,
+        174,
+        247
+      ]
+    },
+    "Phase 4": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        135,
+        191,
+        248
+      ]
+    },
+    "Szenario 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Szenario 3": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        219
+      ]
+    },
+    "Tabelle 1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Tabelle 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "TSDP": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        22,
+        63,
+        89,
+        155,
+        172
+      ]
+    },
+    "ANP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        89
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "EP": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        89
+      ]
+    },
+    "DIS": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        22,
+        132,
+        172,
+        254
+      ]
+    },
+    "Homöostase": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        37,
+        45
+      ]
+    },
+    "Compassion Fatigue": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        41
+      ]
+    },
+    "Sunk Cost Fallacy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Wiederholungszwang": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        89
+      ]
+    },
+    "Introjekte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "Grounding": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        23,
+        184,
+        256
+      ]
+    },
+    "Sekundärtraumatisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        41
+      ]
+    },
+    "Helfererschöpfung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        41
+      ]
+    },
+    "Psychoedukation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        132,
+        148
+      ]
+    },
+    "Kommunikationsquadrat": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        98
+      ]
+    },
+    "Mehr-desselben-Prinzip": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "GFK": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        182,
+        189
+      ]
+    },
+    "DBT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Posttraumatic Growth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    }
+  }
+}

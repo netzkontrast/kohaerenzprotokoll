@@ -1,0 +1,79 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+The document is a research report in German on paraconsistent logic, applied in its sections II to IV to the system AEGIS and to the four Kernwelten. Its references (L408 to L453) are web sources and are not listed. The figure Kael is deliberately not listed as a bare surface: the document joins it with an earlier name in hyphen and slash compounds, so only the inflected and compound surfaces without that name are listed. Real people's names in the argument are not listed. The wrapped bold labels such as T (True) are listed by their English half only where it stands alone. Cω carries an invisible character in the export and is left out.
+
+- AEGIS
+- AEGIS'
+- Kaels
+- Kael-Simulation
+- Kernwelten
+- Kernwelt
+- KW
+- KW1
+- KW2
+- KW3
+- KW4
+- Guardians
+- Guardian
+- Alter Egos
+- Alters
+- Alter
+- Architekt-Alter
+- Echo-Alter
+- Wächter-Alter
+- Sucher/Funke-Alter
+- Risse
+- Rissen
+- Potentialmeer
+- Nicht-Sein
+- Kern-Direktive
+- Protokoll v1.5
+- Protokoll Omega
+- Quarantäne-Protokoll
+- Konsistenz-Level
+- Konsistenz-Assertion
+- DID
+- Traumaschleifen
+- Kohärenz Protokoll
+- Reparatur
+- Szenario A
+- Szenario B
+- Manifestationen
+- EST
+- Environmental Storytelling
+- Kernwelten-Konzeption
+- Meta-Logik
+- Konsistenzoperator
+- Konsistenzoperators
+- Prinzip der sanften Explosion
+- Principle of Gentle Explosion
+- vierwertige Semantik
+- Both
+- Neither
+
+## lens
+
+- Parakonsistenz
+- Explosion
+- ECQ
+- LNC
+- Trivialisierung
+- Trivialismus
+- FDE
+- First Degree Entailment
+- LFI
+- LFIs
+- Logics of Formal Inconsistency
+- C-Systeme
+- C-System
+- Cn
+- C1
+- Dialetheismus
+- Dialetheia
+- dialetheische Logik
+- Relevanzlogik
+- Variable Sharing Property
+- Belnap-Dunn-Logik
+- designiert
+- Law of Non-Contradiction
+- Ex Contradictione Quodlibet

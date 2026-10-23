@@ -1,0 +1,428 @@
+{
+  "document": "erstelle-eine-liste-mit-allen-plot-points-formu",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 41,
+  "decisions": 47,
+  "same_surface": {},
+  "decided_mechanically": 28,
+  "needs_judgement": 19,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Personas",
+        "page": "personas",
+        "readings": 12
+      },
+      {
+        "candidate": "Persona",
+        "page": "personas",
+        "readings": 12
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 280
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 280
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 179
+      },
+      {
+        "candidate": "Überraum",
+        "page": "ueberraum",
+        "readings": 3
+      },
+      {
+        "candidate": "Nexus",
+        "page": "nexus",
+        "readings": 40
+      },
+      {
+        "candidate": "Partnerin",
+        "page": "partnerin",
+        "readings": 14
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 131
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 132
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 107
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 90
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 77
+      },
+      {
+        "candidate": "Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 176
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Kern-Bewusstsein"
+      },
+      {
+        "candidate": "Funke"
+      },
+      {
+        "candidate": "Sucher"
+      },
+      {
+        "candidate": "Intrusionen"
+      },
+      {
+        "candidate": "Hüter"
+      },
+      {
+        "candidate": "Meta-Narrator"
+      },
+      {
+        "candidate": "Bruch der Realitäten"
+      },
+      {
+        "candidate": "Integrations-Werkzeugen"
+      },
+      {
+        "candidate": "Seele = Information"
+      },
+      {
+        "candidate": "Jagd nach der Realität"
+      },
+      {
+        "candidate": "Die Naht im Selbst"
+      },
+      {
+        "candidate": "Klarheit"
+      },
+      {
+        "candidate": "Protagonisten-System"
+      },
+      {
+        "candidate": "Heldenreise"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Personas  /  Persona",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Personas  /  Kern-Personas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persona  /  Kern-Personas",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echos im Zersplitterten Spiegel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Realitätsrisse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Überraum  /  Intervention aus dem Überraum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Partnerin  /  Das Partnerin-Mysterium",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Seelen-Kohärenz-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Seelen-Kohärenz-Programm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          },
+          {
+            "surface": "koharenzprogramm",
+            "page": "kohaerenz-programm"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Personas",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          },
+          {
+            "surface": "personas",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Realitätsrisse",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Partnerin-Mysterium",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "partnerin",
+            "page": "partnerin"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Außen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "ztvvertrauenlosevalidierung",
+            "page": "ztv"
+          }
+        ]
+      },
+      {
+        "candidate": "Intervention aus dem Überraum",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "uberraum",
+            "page": "ueberraum"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionale Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 39,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

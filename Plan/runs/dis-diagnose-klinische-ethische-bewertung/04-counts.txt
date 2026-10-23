@@ -1,0 +1,55 @@
+# counts for 41 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Dissoziative Identitätsstörung   16 word    16 in   [11, 15, 25, 33, 110, 207]
+  Dissoziativen Identitätsstörung    5 word     5 in   [27, 260, 261, 262, 283]
+  DIS                              77 word   101 in   [11, 15, 17, 19, 25, 27]
+  ANP                               2 word     2 in   [86]
+  EPs                               1 word     1 in   [86]
+  Switch                            1 word     1 in   [46]
+  Depersonalisation                 5 word     7 in   [58, 73, 92, 100, 122, 146]
+                                    2      as Depersonalisations-
+  Derealisation                     5 word     7 in   [58, 73, 92, 100, 122, 146]
+                                    2      as Derealisationserleben
+  Intrusionen                       3 word     3 in   [59, 146]
+  Dissoziative Amnesie              1 word     1 in   [56]
+  Amnesie                          10 word    15 in   [34, 45, 56, 64, 73, 81]
+                                    5      as Amnesien
+  SKID-D                           11 word    11 in   [73, 92, 102, 106, 147, 169]
+  ISSTD                            11 word    17 in   [21, 31, 35, 39, 48, 72]
+                                    3      as ISSTD-Richtlinien
+                                    2      as ISSTD-Guidelines
+                                    1      as ISSTD-Leitlinien
+  FDS                               4 word     4 in   [92, 151]
+  HDI                               1 word     1 in   [73]
+  DES                               1 word     1 in   [92]
+  ICD-11                           10 word    10 in   [21, 31, 33, 35, 39, 46]
+  DSM-5-TR                          9 word     9 in   [21, 31, 34, 35, 39, 47]
+  Anteile                           2 word     3 in   [57, 126, 148]
+                                    1      as Anteilen
+  Persönlichkeitszuständen          8 word     8 in   [34, 35, 46, 47, 48, 57]
+  Persönlichkeitszustände           6 word    14 in   [33, 34, 35, 46, 47, 48]  <-- substring
+                                    8      as Persönlichkeitszuständen
+  Selbstzustände                    4 word     4 in   [57, 99, 130, 133]
+  innere Personen                   1 word     1 in   [57]
+  kPTBS                             1 word     1 in   [62]
+  PTBS                              4 word     6 in   [35, 62, 83, 104, 306]
+  Komorbiditäten                    4 word     4 in   [62, 83, 281]
+  Identitätsalteration              3 word     3 in   [73, 81, 146]
+  Pluralpronomen                    2 word     2 in   [99, 130]
+  Invalidierung                     7 word     7 in   [135, 173, 198, 241, 245, 281]
+  testimonial smothering            1 word     1 in   [245]
+  absence of evidence               1 word     1 in   [116]
+  evidence of absence               1 word     1 in   [116]
+  Leitlinien-Lücke                  1 word     1 in   [104]
+  S3-Leitlinien                     4 word     4 in   [21, 35, 104]
+  Patientenrechtegesetz             7 word     7 in   [21, 170, 171, 172, 174, 180]
+  Sorgfaltspflicht                  4 word     4 in   [169, 176, 178, 281]
+  Dokumentationspflicht             9 word     9 in   [172, 189, 191, 198, 260, 281]
+  GdB                               9 word    11 in   [23, 204, 206, 207, 208, 211]
+  SGB IX                            7 word     7 in   [21, 204, 209, 326]
+  Exploration                      33 word    34 in   [11, 15, 19, 64, 66, 77]
+                                    1      as Explorationen
+  Verheimlichung                    2 word     2 in   [60, 64]

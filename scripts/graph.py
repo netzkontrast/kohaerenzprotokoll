@@ -15,6 +15,8 @@ Nodes:
 | `doc:<slug>` | `Sources/manifest.jsonl`, for every document a page reads or cites | title, category, date |
 | `conflict:<Cn>` | `Wiki/conflicts/*.md` | subject, kind, status |
 | `question:<Qn>` | `Wiki/questions/*.md` | question, status |
+| `thought:<slug>/<g-nnn>` | a thought page `Wiki/terms/<slug>.md` (`form: gedanken`, the full read) | kind, tag, text, status |
+| `record:<path>` | a decision a `[K]` thought links | path |
 
 Edges (`source -type-> target`, each with `via: file:line`):
 
@@ -27,6 +29,12 @@ Edges (`source -type-> target`, each with `via: file:line`):
 | `raised_by` | a question's `raised_by:` — question → the page that asks it |
 | `asks` | a question's `documents:` |
 | `concerns` | a question's `conflict:` |
+| `about` | a thought → the term its page is for |
+| `supports` | a thought's citation → the document, with `line` and `stance` (asserts, proposes, questions, rejects, reports) |
+| `involves` | a `[[link]]` inside a thought — a term–term relation whose predicate is the thought's text |
+| `differs_from` | „anders als g-nnn“ on a thought — a difference the page states, never one a program guessed |
+| `decided_by` | a `[K]` thought's link to the author's decision |
+| `raises` | a thought's link to a conflict record or a question page |
 
 And **evidence**: every quotation on a page with its citation, its section
 heading, and whether `quotes.py`'s own comparison resolves it against the
@@ -61,6 +69,8 @@ sys.path.insert(0, str(ROOT / "scripts"))
 import quotes  # noqa: E402
 import wiki_index  # noqa: E402
 from subject import CONFLICTS, PAGES, QUESTIONS, read_jsonl  # noqa: E402
+
+TERMS = ROOT / "Wiki" / "terms"
 from subject import rows as manifest_rows  # noqa: E402
 
 LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
@@ -192,6 +202,45 @@ def build() -> dict:
         # Matching the whole value as one id kept one edge of three.
         for conflict in wiki_index.conflict_ids(meta.get("conflict", "")):
             edge(key, "concerns", f"conflict:{conflict}", f"{_rel(path)}:{_line_of(text, 'conflict:')}")
+
+    # Thought pages (Wiki/terms/<slug>.md, form: gedanken — the full read, fullread.py): one node per thought,
+    # every edge stated on the thought's own line. A thought is what sources think, attributed; it is never a
+    # fact about the novel, and `status` says whether the author has reviewed the page it stands on.
+    import fullread
+    for path in sorted(TERMS.glob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        meta = wiki_index.frontmatter(text)
+        if meta.get("form") != "gedanken":
+            continue
+        slug = meta.get("candidate", path.stem)
+        if f"term:{slug}" in nodes:
+            nodes[f"term:{slug}"]["layer"] = "approved" if meta.get("status") == "approved" else "read whole"
+        for t in fullread.thoughts_of(text):
+            key = f"thought:{slug}/{t['id']}"
+            via = f"{_rel(path)}:{t['line']}"
+            nodes[key] = {"id": key, "type": "thought", "slug": slug, "thought": t["id"], "kind": t["kind"],
+                          "tag": t["tag"], "text": t["text"], "status": meta.get("status"), "path": _rel(path)}
+            edge(key, "about", f"term:{slug}", via)
+            for src in t["sources"]:
+                edge(key, "supports", doc_node(src["doc"]), via, line=src["line"], stance=src["stance"])
+            for other in t["involves"]:
+                if other != slug:
+                    edge(key, "involves", f"term:{other.strip()}", via)
+            for other in t["differs_from"]:
+                edge(key, "differs_from", f"thought:{slug}/{other}", via)
+            for target in t["links"]:
+                rel = (path.parent / target.split("#")[0]).resolve()
+                rel = str(rel.relative_to(ROOT)) if rel.is_relative_to(ROOT) else target
+                if rel.startswith("Wiki/conflicts/") or rel.startswith("Wiki/questions/"):
+                    folder = "conflict" if "conflicts" in rel else "question"
+                    meta2 = wiki_index.frontmatter((ROOT / rel).read_text(encoding="utf-8")) if (ROOT / rel).exists() else {}
+                    edge(key, "raises", f"{folder}:{meta2.get('id', Path(rel).stem)}", via)
+                elif t["tag"] == "K":
+                    nodes.setdefault(f"record:{rel}", {"id": f"record:{rel}", "type": "record", "path": rel})
+                    edge(key, "decided_by", f"record:{rel}", via)
+    for key, node in nodes.items():
+        if node["type"] == "term" and "layer" not in node:
+            node["layer"] = "reviewed" if node.get("status") == "reviewed" else "candidate"
 
     return {"nodes": nodes, "edges": edges, "evidence": evidence}
 

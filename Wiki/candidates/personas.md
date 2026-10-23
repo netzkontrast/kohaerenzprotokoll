@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 12
-readings: 12
+sources: 19
+readings: 19
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-narrative-architektur-2", "kael-charakterarchitektur-und-konfliktdynamik", "roman-synthese-mit-dual-kernel-theorie", "kohaerenz-protokoll-spannungsfelder-vertiefen", "roman-konzeptentwicklung-kohaerenz-protokoll", "entwickle-einen-neuen-plot-der-sich-ueber-13-kurz", "in-teil-2-werden-die-persona-von-ihren-spezifis", "narrative-loesungen-fuer-romanprojekt", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll", "im-finale-wendet-sich-fuer-persona-der-partnerin-z", "parakonsistente-logik-im-seelen-protokoll"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -54,6 +54,34 @@ In Teil 2 the Guardians' consensus is „Die Personas werden als einzige Hoffnun
 The narrative-solutions report, a craft report, describes the Personas as „den internen psychologischen Entitäten (Personas)“ ^[narrative-loesungen-fuer-romanprojekt.md:L25], one of three layers beside the modes of the Meta-Erzähler and the Meta-Realität. It proposes techniques that make their mutual influence felt; as one, „Personas können den Meta-Erzähler oder seine spezifischen Modi direkt ansprechen“ ^[narrative-loesungen-fuer-romanprojekt.md:L29], question his depictions or resist him. Another technique borrows Dialogical Self Theory: „Personas können als verschiedene“ ^[narrative-loesungen-fuer-romanprojekt.md:L32] I-positions in a society of the mind be conceived. For integration, the report's example of changed interaction patterns is that „Zwei zuvor im Konflikt stehende Personas werden gezeigt“ ^[narrative-loesungen-fuer-romanprojekt.md:L57] working together on a problem.
 
 On agency the report names a risk and a design question. It says: „Die Balance der Handlungsmacht (Agency) zwischen Personas und Meta-Erzähler erfordert sorgfältige Kalibrierung“ ^[narrative-loesungen-fuer-romanprojekt.md:L46]. Among the points still to clarify it writes „Das Machtverhältnis zwischen den Personas und dem Meta-Erzähler muss präzise kalibriert werden“ ^[narrative-loesungen-fuer-romanprojekt.md:L275] and asks „Haben sie die Fähigkeit zur Selbstorganisation oder gar zur Beeinflussung des Erzählers“ ^[narrative-loesungen-fuer-romanprojekt.md:L275]. The report records these as questions for the project to decide; it settles none of them.
+
+## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the five core personas of a fragmented core consciousness
+
+The plot summary (V4) builds its earlier plot idea on a fragmented consciousness: „Das Kern-Bewusstsein eines nicht näher definierten Protagonisten ist fragmentiert ("Personas").“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L17] Part 1 tells each episode from one of „der Kern-Personas (Architekt, Echo, Wächter, Funke, Sucher)“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L21]; each persona experiences „**Intrusionen** aus den Realitäten *anderer* Personas“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L22]. In Part 2 „Die Personas werden mit ihrer fragmentierten Natur, der Simulation und der globalen Gefahr konfrontiert.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L37] In Part 3 „Die Personas versuchen kooperativ“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L48] to close the cracks, then seek the outside, and finally „Die Personas wenden sich nach innen.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L54] The protagonist is left undefined; the summary proposes, it is not canon.
+
+## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — episodes headed by the five personas, then repair as a team and the turn inward
+
+The plot-points list (V4) heads its Part-1 episodes with personas — Architekt, Echo, Wächter, Sucher, Funke — each disturbed by another's intrusion, as in „Erlebt Logikfehler in seiner Welt & emotionale Störung (Echo-Intrusion)“ ^[plotpunkte-liste.md:L17]. Episode 1.13 brings the „Kompletter Kollaps und chaotische Überlagerung der Persona-Realitäten“ ^[plotpunkte-liste.md:L25]. In Part 3 the first repair is made „durch Persona-Team mit Werkzeugen“ ^[plotpunkte-liste.md:L39]; „Personas verbessern Kooperation“ ^[plotpunkte-liste.md:L41]; then „Personas beschließen, das "Außen"“ ^[plotpunkte-liste.md:L43] to seek. In the finale „Personas wenden sich nach innen“ ^[plotpunkte-liste.md:L46]. A plan's plot points, not canon.
+
+## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — five personas, each the focus of an episode and the intruder in others
+
+The plot blueprint (V3) names a fragmented identity, „(Personas: Architekt, Echo, Wächter, Funke, Sucher)“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L22]. Its Part-1 focus is the „Vorstellung Persona-Realitäten, Intrusionen anderer Personas als "gleiche Person"“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L53]. Each episode has one focus persona and others intruding — in the fortress, „**Funke** (Intrusion: als unerklärliches, farbiges Lichtmuster an der Wand, wird als Eindringling interpretiert)“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L94]. In episodes 1.6–1.12 „**jede Persona erneut im Fokus**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L135]. At the break: „Direkte, chaotische Konfrontation aller Kern-Personas.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L143] In Part 2 the Guardians speak with „**Protagonisten-System (den nun langsam bewusster werdenden Personas)**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L171]. A plan's proposals, not canon.
+
+## Reading — `roman-blueprint-seelen-kohaerenz-protokoll`, 2025-04-17, the soul blueprint (V5) — five core personas who must stay distinct
+
+The soul blueprint (V5) requires that „Die fünf Kern-Personas (Architekt, Echo, Wächter, Funke, Sucher) müssen über den gesamten Roman hinweg klar unterscheidbar bleiben“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L27]. Its logline: „In einer fehlerhaften Simulation kämpfen fragmentierte Aspekte eines Kernbewusstseins (Personas) gegen System-"Risse"“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L80]. The table calls them „\*\*Personas (Die Fragmentierten)\*\*“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L145]. A plan's proposals, not canon.
+
+## Reading — `recherche-kohaerenz-protokoll`, 2025-04-17, the research commission — five personas by function
+
+The research commission restates multiple „"Personas" (Architekt-Logik, Echo-Emotion, Wächter-Paranoia, Funke-Kreativität, Sucher-Wissen)“ ^[recherche-kohaerenz-protokoll.md:L17]. A restated plan, not canon.
+
+## Reading — `im-finale-wendet-sich-fuer-persona-der-partnerin-z`, 2025-04-17, the narrative plot summary (V4) — facets of one core consciousness who turn inward
+
+The narrative plot summary (V4) describes a core consciousness fragmented into „die "Personas" (wie der logische Architekt, das emotionale Echo, der paranoide Wächter, der kreative Funke, der suchende Sucher)“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L19]. In Part 1 „die Personas erkennen nicht, dass sie Facetten derselben "Person" sind“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L23]. In Part 2 they learn „Sie sind Teile eines fragmentierten Kerns in einer Simulation“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L27]. In the finale „wenden sich die Personas nach innen“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L31]. A summary of a plan, not canon.
+
+## Reading — `parakonsistente-logik-im-seelen-protokoll`, 2025-04-21, the paraconsistent-logic report — the Architekt persona with LogOS
+
+The paraconsistent-logic report places the Konstrukt-Stadt „assoziiert mit LogOS und dem Architekten-Persona“ ^[parakonsistente-logik-im-seelen-protokoll.md:L170]. A report's proposal, not canon.
 
 ## Reading — `kael-charakterarchitektur-und-konfliktdynamik`, 2025-04-28, the character architecture — Personas as Kael's inner parts
 

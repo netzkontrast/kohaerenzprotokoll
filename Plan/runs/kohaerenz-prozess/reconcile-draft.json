@@ -1,0 +1,64 @@
+{
+  "document": "kohaerenz-prozess",
+  "drive_id": "1jJk5Wuo2wyQC5Eh4wrKMwHRc7xEsoYVcL5rinWPh8r4",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 73,
+    "decisions": 73,
+    "decided_by_lookup": 64,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 334,
+      "decision": "occurrence",
+      "why": "album concept mixed with personal material, light pass (decision 028)"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "album concept mixed with personal material, light pass (decision 028)"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 194,
+      "decision": "occurrence",
+      "why": "album concept mixed with personal material, light pass (decision 028)"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

@@ -1,0 +1,53 @@
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "AEGIS"
+`AEGIS` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#0]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Kael"
+`Kael` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#0]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Juna"
+`Juna` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#0]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Kapitel"
+`Kapitel` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#0]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Überarbeiteter Entwurf"
+`Überarbeiteter Entwurf` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#1]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Hypothetisch/Allgemein"
+`Hypothetisch/Allgemein` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#1]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Ethische Überlegungen"
+`Ethische Überlegungen` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#1]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Kontext"
+`Kontext` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#32]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Sinn Suche"
+`Sinn Suche` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#24]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Album 1"
+`Album 1` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#3]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Album 2"
+`Album 2` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#10]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Album 3"
+`Album 3` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#3]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Anteile"
+`Anteile` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#12]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Alters"
+`Alters` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#2]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Host"
+`Host` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#11]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Kern-Selbst"
+`Kern-Selbst` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#8]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Guardian"
+`Guardian` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#4]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Kind-Anteil"
+`Kind-Anteil` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#4]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Verletzter Anteil"
+`Verletzter Anteil` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#3]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Zynischer Beschützer"
+`Zynischer Beschützer` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#5]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "System Chor"
+`System Chor` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#2]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Ko-Bewusstsein"
+`Ko-Bewusstsein` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#6]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "IFS"
+`IFS` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#10]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Schematherapie"
+`Schematherapie` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#1]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Gartenpflege"
+`Gartenpflege` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#1]
+$ read.py dissoziative-identitaet-sinnsuche-im-trauma --count "Kern der Wahrheit"
+`Kern der Wahrheit` ^[dissoziative-identitaet-sinnsuche-im-trauma.md:#9]
+$ stance_marker_count 3 = 1+1+1 (the three markers above)

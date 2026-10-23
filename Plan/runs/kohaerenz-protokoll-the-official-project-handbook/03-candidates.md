@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Candidates listed in reading order. The document is English prose with a few German terms in quotation marks; each name is written as the document writes it. Concepts named after people stand only as candidates. One table row names a part by an earlier name and is left off the list by rule. The export flattens both part tables and the Kernwelt table into single lines. Section 6.2.2 ends on an announcement of a model passage that the export does not hold.
+
+- Kohärenz Protokoll
+- AEGIS
+- Kael
+- Exclusionary Order
+- Emergent Order
+- Self-Referential Logic
+- Integrative Logic
+- Operational Closure
+- Correspondence-Based Truth
+- Rauschen
+- ANP-EP Phobia
+- Genesis-Krise
+- Gödel-Satz
+- algorithmic melancholy
+- Wächter-Zwiespalt
+- functional multiplicity
+- Dual Kernel Theory (DKT)
+- DKT
+- The Collapse Kernel (K₀)
+- The Coherence Kernel (K₁)
+- K₀
+- K₁
+- Schwarzschild-Protokoll
+- The Schwarzschild Protocol
+- ontological mass
+- Semantic Tidal Forces
+- gezeitenkräfte der Semantik
+- Great Fact
+- Autopoiesis & Operational Closure
+- Logics of Formal Inconsistency (LFI)
+- LFI
+- Discursive Logic
+- Paradox of Misaligned Coherence
+- Apparently Normal Parts (ANPs)
+- ANPs
+- Emotional Parts (EPs)
+- EPs
+- parts
+- alters
+- Lex
+- Alex
+- The Sentinel
+- Nyx
+- Kiko
+- Moros
+- Mosaic-Structure
+- slots
+- Gravitational Architecture
+- Ergosphere
+- Event Horizon
+- Singularity
+- Kernwelten
+- Kernwelt
+- Überwelt
+- KW1: Logos-Prime
+- KW2: Mnemosyne-Archipel
+- KW3: Cerberus-Labyrinth
+- KW4: Kairos-Potentialis
+- Logos-Prime
+- Mnemosyne-Archipel
+- Cerberus-Labyrinth
+- Kairos-Potentialis
+- Algorithmic Horror
+- Dual-Voice Strategy
+- choric 'we'
+- titration
+- Performative Prose
+
+## lens
+
+- Theory of Structural Dissociation of the Personality (TSDP)
+- TSDP
+- Internal Family Systems (IFS)
+- IFS
+- dialetheism
+- autopoietic
+- gnosis
+- episteme

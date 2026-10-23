@@ -1,0 +1,256 @@
+{
+  "document": "tattoo-konzept-archetypen-heilung-rebellion",
+  "drive_id": "1Vo-ByUwZaxXHrlUXJ-6WQaLwHHzkJ6lQ_Z0DisyyFtA",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 64,
+  "backslash_escapes": 56,
+  "typographic_marks": 31,
+  "ascii_quotes": 201,
+  "inflection_families": {
+    "symbo": [
+      "Symbol",
+      "Symbolbedeutung",
+      "Symbole",
+      "Symbolen",
+      "Symbolik",
+      "Symbolische",
+      "Symbolischer",
+      "Symbolisiert",
+      "Symbols",
+      "Symbolsprache"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionspartner",
+      "Interface",
+      "Intern",
+      "Internal",
+      "Interpretation"
+    ],
+    "leuch": [
+      "Leuchten",
+      "Leuchtend",
+      "Leuchtfeuer",
+      "Leuchtkraft",
+      "Leuchtturm",
+      "Leuchtturms"
+    ],
+    "psych": [
+      "Psyche",
+      "Psycho",
+      "Psychologische",
+      "Psychology",
+      "Psychosomatik",
+      "Psychotherapie"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsfigur",
+      "Bindungsruf",
+      "Bindungsrufs",
+      "Bindungstheorie"
+    ],
+    "struk": [
+      "STRUKTURELLE",
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "apoll": [
+      "Apollinisch",
+      "Apollinische",
+      "Apollinischen",
+      "Apollonian"
+    ],
+    "disso": [
+      "DISSOZIATION",
+      "Dissonante",
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotionalen",
+      "Emotionen",
+      "Emotionskontrolle"
+    ],
+    "integ": [
+      "Integration",
+      "Integrator",
+      "Integratorin",
+      "Integrators"
+    ],
+    "kinde": [
+      "Kinder",
+      "Kinderanteile",
+      "Kindern",
+      "Kindes"
+    ],
+    "kompa": [
+      "KOMPASS",
+      "Kompass",
+      "Kompasses",
+      "Kompassrose"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtpunkt",
+      "Lichts",
+      "Lichtstrahlen"
+    ],
+    "linie": [
+      "Linie",
+      "Linien",
+      "Linienknäuel",
+      "Linienmuster"
+    ],
+    "perso": [
+      "Persoenlichkeit",
+      "Person",
+      "Personal",
+      "Personifizierung"
+    ],
+    "philo": [
+      "Philosophie",
+      "Philosophisch",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "schil": [
+      "Schild",
+      "Schilde",
+      "Schildes",
+      "Schiller"
+    ],
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systems",
+      "Systemtheorie"
+    ],
+    "unter": [
+      "Unterarm",
+      "Unterfangen",
+      "Unterwelt",
+      "Unterwerfung"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungen",
+      "Verteidigungssystem",
+      "Verteidigungssysteme"
+    ],
+    "abstr": [
+      "Abstract",
+      "Abstrakter",
+      "Abstraktes"
+    ],
+    "arche": [
+      "Archetyp",
+      "Archetypen",
+      "Archetyps"
+    ],
+    "ausbr": [
+      "Ausbruch",
+      "Ausbruchs",
+      "Ausbrüche"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Axis",
+      "Praxis"
+    ],
+    [
+      "Baum",
+      "Baumes"
+    ],
+    [
+      "Baum",
+      "Baumstamm"
+    ],
+    [
+      "Baum",
+      "Weltenbaum"
+    ],
+    [
+      "Baum",
+      "Weltenbaums"
+    ],
+    [
+      "Best",
+      "Bestrafung"
+    ],
+    [
+      "Bild",
+      "Bilder"
+    ],
+    [
+      "Bild",
+      "Leitbild"
+    ],
+    [
+      "Bild",
+      "Bildenden"
+    ],
+    [
+      "Blau",
+      "Blaue"
+    ],
+    [
+      "Blau",
+      "Hellblau"
+    ],
+    [
+      "Blau",
+      "Blaupause"
+    ],
+    [
+      "Blau",
+      "Eisblauer"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eden",
+      "Friedens"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Anscheinend"
+    ]
+  ]
+}

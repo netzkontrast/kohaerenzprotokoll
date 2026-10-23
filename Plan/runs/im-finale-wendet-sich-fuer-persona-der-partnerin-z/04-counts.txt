@@ -1,0 +1,55 @@
+# counts for 46 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Detailkonzept V4                  2 word     2 in   [11, 15]
+  Seelen-Kohärenz-Protokoll         1 word     1 in   [11]
+  Seelen-Kohärenz-Programm          1 word     2 in   [19, 27]
+                                    1      as Seelen-Kohärenz-Programms
+  Kern-Bewusstsein                  1 word     1 in   [19]
+  Personas                         16 word    16 in   [11, 19, 23, 27, 31]
+  Persona                           2 word    20 in   [11, 19, 23, 27, 31]  <-- substring
+                                   16      as Personas
+                                    1      as Persona-Welten
+  logische Architekt                1 word     1 in   [19]
+  emotionale Echo                   1 word     1 in   [19]
+  paranoide Wächter                 1 word     1 in   [19]
+  kreative Funke                    1 word     1 in   [19]
+  suchende Sucher                   1 word     1 in   [19]
+  Guardians                        10 word    10 in   [11, 19, 23, 27, 31]
+  LogOS                             2 word     2 in   [19, 27]
+  Mnemosyne                         2 word     2 in   [19, 27]
+  Cerberus                          2 word     2 in   [19, 27]
+  Kairos                            1 word     1 in   [27]
+  Sophia                            1 word     1 in   [27]
+  Überraum                          6 word     6 in   [11, 19, 23, 25, 27]
+  Nexus                             1 word     1 in   [27]
+  Schaltzentrale                    1 word     1 in   [27]
+  Partnerin                        10 word    11 in   [11, 19, 23, 27, 31]
+                                    1      as Partnerin-Mysterium
+  Meta-Narrator                     1 word     1 in   [23]
+  Seele als Information             2 word     2 in   [27, 31]
+  Integrations-Werkzeugen           1 word     1 in   [27]
+  Bruch der Realitäten              1 word     1 in   [23]
+  Realitäts-Glitches                1 word     1 in   [23]
+  Risse                             6 word     6 in   [19, 23, 27, 31]
+  Intrusionen                       2 word     2 in   [23]
+  Systemalarm                       1 word     1 in   [23]
+  Jagd nach der Realität            2 word     2 in   [29, 31]
+  Feuerprobe                        1 word     1 in   [31]
+  Klarheit                          1 word     1 in   [31]
+  funktionale Multiplizität         1 word     1 in   [31]
+  Multiplizität                     2 word     2 in   [19, 31]
+  Fragmentierung                    2 word     2 in   [19, 27]
+  Simulation                        8 word     8 in   [11, 19, 27, 31]
+  glitchhaftes Kind                 1 word     1 in   [23]
+  stiller Beobachter im Mantel      1 word     1 in   [23]
+  roter Vogel                       1 word     1 in   [23]
+  Echos im Zersplitterten Spiegel    1 word     1 in   [21]
+  Intervention aus dem Überraum     1 word     1 in   [25]
+  Die Naht im Selbst                1 word     1 in   [29]
+  Teil 1                            3 word     3 in   [21, 23, 27]
+  Teil 2                            1 word     1 in   [25]
+  Teil 3                            1 word     1 in   [29]
+  Kurzgeschichten                   1 word     1 in   [23]

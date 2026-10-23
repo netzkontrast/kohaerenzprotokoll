@@ -1,0 +1,200 @@
+{
+  "document": "parakonsistente-logik-im-seelen-protokoll",
+  "drive_id": "1adQIJ9XmBBV9tUg7QzUqBJ_FD4atjrzer1BsA_ZenlM",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 68,
+    "decided_by_lookup": 49,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        212,
+        227,
+        291
+      ],
+      "attribution": "",
+      "note": "resilient despite the cracks because it rejects explosion"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        228,
+        233
+      ],
+      "attribution": "",
+      "note": "the blind spot as unclassifiable inconsistency"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "a hybrid of filtering and rigid rules"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "general paraconsistent principles for threat reports"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        215,
+        223,
+        243
+      ],
+      "attribution": "",
+      "note": "embodiments of different logics, in conflict"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        222
+      ],
+      "attribution": "",
+      "note": "FDE and potentiality"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        291
+      ],
+      "attribution": "",
+      "note": "FDE for the worlds' paradoxical nature"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "C-system logic and glitches"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        219
+      ],
+      "attribution": "",
+      "note": "a C-system philosophy"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        220
+      ],
+      "attribution": "",
+      "note": "near FDE"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        194
+      ],
+      "attribution": "",
+      "note": "FDE values N and B"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        228,
+        233
+      ],
+      "attribution": "",
+      "note": "the anomaly the system cannot classify"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "the Architekt persona with LogOS"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        178
+      ],
+      "attribution": "",
+      "note": "FDE semantics of memory"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        101,
+        227
+      ],
+      "attribution": "",
+      "note": "glitches and cracks the system survives"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        222
+      ],
+      "attribution": "",
+      "note": "FDE and potentiality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 77,
+      "decision": "occurrence",
+      "why": "another sense (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 40,
+      "decision": "occurrence",
+      "why": "another sense"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the simulation is not named Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

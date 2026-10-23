@@ -1,0 +1,489 @@
+{
+  "document": "tattoo-konzept-symbolik-trauma-heilung",
+  "drive_id": "13Pp58agvvj1Hv10qvsnjogopUn6eCbGNsHXG0v0i1AE",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        90,
+        106,
+        216,
+        260,
+        309,
+        322,
+        350
+      ]
+    },
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        122,
+        128,
+        135,
+        154,
+        158,
+        159,
+        311,
+        382
+      ]
+    },
+    "System Kael": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        122,
+        128
+      ]
+    },
+    "Selene": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        136,
+        165,
+        169,
+        170,
+        289,
+        298
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        137,
+        176,
+        180,
+        181,
+        236,
+        307,
+        360
+      ]
+    },
+    "Kiko": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        138,
+        180,
+        187,
+        191,
+        192,
+        298
+      ]
+    },
+    "Lia": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        139,
+        180,
+        198,
+        202,
+        203,
+        298
+      ]
+    },
+    "Isabelle": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        140,
+        209,
+        213,
+        214,
+        309
+      ]
+    },
+    "Moros": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        141,
+        220,
+        224,
+        225,
+        289
+      ]
+    },
+    "Rhys": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        143,
+        242,
+        246,
+        247,
+        307,
+        360
+      ]
+    },
+    "Lex": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        144,
+        253,
+        257,
+        258,
+        320
+      ]
+    },
+    "Argus": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        145,
+        264,
+        268,
+        269,
+        320
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        158
+      ]
+    },
+    "ANP": {
+      "n": 17,
+      "n_including_compounds": 21,
+      "lines": [
+        82,
+        106,
+        135,
+        136,
+        142,
+        143,
+        144,
+        145,
+        154,
+        165,
+        169,
+        231,
+        235,
+        242,
+        246,
+        253,
+        257,
+        264
+      ]
+    },
+    "ANPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        82,
+        106
+      ]
+    },
+    "EP": {
+      "n": 12,
+      "n_including_compounds": 22,
+      "lines": [
+        82,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        145,
+        158,
+        165,
+        169,
+        176,
+        187,
+        191,
+        198,
+        202,
+        209,
+        213,
+        220,
+        257,
+        264
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        158,
+        257
+      ]
+    },
+    "Primärer ANP": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        135,
+        144,
+        154,
+        253
+      ]
+    },
+    "Sekundärer ANP": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        142,
+        143,
+        231,
+        242
+      ]
+    },
+    "TSDP": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        40,
+        66,
+        106,
+        122,
+        134,
+        381,
+        382
+      ]
+    },
+    "Die Wachsende Landkarte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        22
+      ]
+    },
+    "Archetypal Matrix": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Chromatische Signatur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        134
+      ]
+    },
+    "Formensprache": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        82,
+        124,
+        134,
+        260
+      ]
+    },
+    "Schlüsselsymbol": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        134,
+        159,
+        170,
+        181,
+        192,
+        203,
+        214,
+        225,
+        236,
+        247,
+        258,
+        269
+      ]
+    },
+    "Kerntrauma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Anteile": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        50,
+        90,
+        122,
+        124,
+        180,
+        235,
+        238,
+        246,
+        298,
+        340,
+        350,
+        358
+      ]
+    },
+    "Anteil": {
+      "n": 6,
+      "n_including_compounds": 21,
+      "lines": [
+        50,
+        82,
+        90,
+        114,
+        122,
+        124,
+        134,
+        180,
+        235,
+        238,
+        246,
+        268,
+        298,
+        340,
+        350,
+        358,
+        360
+      ]
+    },
+    "Pantheon": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        118,
+        122
+      ]
+    },
+    "Axis Mundi": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        28,
+        32,
+        50,
+        287
+      ]
+    },
+    "Kintsugi": {
+      "n": 21,
+      "n_including_compounds": 21,
+      "lines": [
+        36,
+        40,
+        50,
+        171,
+        172,
+        226,
+        227,
+        289,
+        298,
+        311,
+        334,
+        338,
+        350,
+        377,
+        378,
+        379,
+        380
+      ]
+    },
+    "Labyrinth": {
+      "n": 7,
+      "n_including_compounds": 13,
+      "lines": [
+        44,
+        48,
+        50,
+        145,
+        269,
+        283,
+        289,
+        311,
+        340,
+        383
+      ]
+    },
+    "Negativraum": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        106,
+        141,
+        161,
+        227
+      ]
+    },
+    "Surrealismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        114
+      ]
+    },
+    "co-consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        358
+      ]
+    },
+    "Dissoziation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        40,
+        58,
+        114
+      ]
+    },
+    "Fragmentierung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        40,
+        58,
+        66,
+        74,
+        90,
+        348
+      ]
+    },
+    "Archetyp": {
+      "n": 6,
+      "n_including_compounds": 29,
+      "lines": [
+        118,
+        128,
+        134,
+        149,
+        159,
+        170,
+        181,
+        192,
+        203,
+        214,
+        225,
+        236,
+        247,
+        258,
+        269,
+        394,
+        417,
+        418,
+        424,
+        426,
+        437,
+        438
+      ]
+    }
+  }
+}

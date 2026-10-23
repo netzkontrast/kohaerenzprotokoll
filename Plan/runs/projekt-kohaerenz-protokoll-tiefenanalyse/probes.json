@@ -1,0 +1,263 @@
+{
+  "document": "projekt-kohaerenz-protokoll-tiefenanalyse",
+  "drive_id": "1Afepl_qhw7cQsk02oPVe9_y2OvIwHblEH1RO7t2zMDw",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 1
+  },
+  "glued_ref_numbers": 151,
+  "backslash_escapes": 212,
+  "typographic_marks": 19,
+  "ascii_quotes": 464,
+  "inflection_families": {
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktions",
+      "Intergration",
+      "Intern",
+      "Internal",
+      "InternalFamilySystems",
+      "Internalisierter",
+      "Internalisierung",
+      "Interne",
+      "Interner",
+      "Intervention"
+    ],
+    "syste": [
+      "System",
+      "SystemTheory",
+      "Systemdiagnose",
+      "Systemdynamik",
+      "Systeme",
+      "Systemisches",
+      "Systemkollapses",
+      "Systemregeln",
+      "Systems",
+      "Systemwissen",
+      "Systemzustand"
+    ],
+    "psych": [
+      "PSYCHOLOGIE",
+      "PSYCHOLOGY",
+      "Psychoanalytiker",
+      "Psychologische",
+      "Psychologischen",
+      "Psychology"
+    ],
+    "typog": [
+      "TYPOGRAFISCHE",
+      "Typografie",
+      "Typografische",
+      "Typografisches",
+      "Typographic",
+      "Typography"
+    ],
+    "ergod": [
+      "Ergodic",
+      "Ergodik",
+      "Ergodisch",
+      "Ergodische",
+      "Ergodisches"
+    ],
+    "narra": [
+      "NARRATIVE",
+      "Narrative",
+      "Narrativen",
+      "Narrativer",
+      "Narratives"
+    ],
+    "antag": [
+      "Antagonismus",
+      "Antagonist",
+      "Antagonistische",
+      "Antagonistisches"
+    ],
+    "archi": [
+      "ARCHITEKTUR",
+      "Architekt",
+      "Architektur",
+      "Archive"
+    ],
+    "chara": [
+      "CHARAKTER",
+      "Character",
+      "Charakter",
+      "Charakterisierung"
+    ],
+    "expre": [
+      "EXPRESSION",
+      "Expressing",
+      "Expression",
+      "Expressive"
+    ],
+    "imple": [
+      "IMPLEMENTIERUNG",
+      "Implementierung",
+      "Implementierungen",
+      "Implementierungs"
+    ],
+    "katal": [
+      "Katalysator",
+      "Katalysatoren",
+      "Katalyse",
+      "Katalytische"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konflikts",
+      "Konfliktvermeidung"
+    ],
+    "leser": [
+      "LESER",
+      "Leser",
+      "Leserführung",
+      "Lesern"
+    ],
+    "schri": [
+      "Schrift",
+      "Schriftarten",
+      "Schriftfamilien",
+      "Schriftgröße"
+    ],
+    "serif": [
+      "Serif",
+      "Serife",
+      "Serifenschrift",
+      "Serifenschriften"
+    ],
+    "verme": [
+      "Vermeidung",
+      "Vermeidungsprotokoll",
+      "Vermeidungsprotokolle",
+      "Vermeidungsstrategie"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungen",
+      "Verteidigungsreaktionen",
+      "Verteilung"
+    ],
+    "währu": [
+      "Währung",
+      "Währungs",
+      "Währungserzeugung",
+      "Währungsströme"
+    ],
+    "aufme": [
+      "Aufmerksamkeit",
+      "Aufmerksamkeits",
+      "Aufmerksamkeitswirkung"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachters",
+      "Beobachtung"
+    ],
+    "buchs": [
+      "Buchstaben",
+      "Buchstabenabstand",
+      "Buchstabens"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation"
+    ],
+    "effec": [
+      "Effect",
+      "Effectiveness",
+      "Effects"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "ATTN",
+      "Pattnaik"
+    ],
+    [
+      "ATTN",
+      "MandiraPattnaik"
+    ],
+    [
+      "Akte",
+      "Fakten"
+    ],
+    [
+      "Akte",
+      "CHARAKTER"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charakterisierung"
+    ],
+    [
+      "Alle",
+      "ChallengingSystemsThinkers"
+    ],
+    [
+      "Blau",
+      "Tiefblau"
+    ],
+    [
+      "Blau",
+      "Blaupause"
+    ],
+    [
+      "Buch",
+      "Buchstaben"
+    ],
+    [
+      "Buch",
+      "Buchstabens"
+    ],
+    [
+      "Buch",
+      "Buchstabenabstand"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Eine",
+      "Deine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Weinen"
+    ],
+    [
+      "Face",
+      "Typefaces"
+    ],
+    [
+      "Fall",
+      "Zufall"
+    ],
+    [
+      "Fall",
+      "Verfall"
+    ]
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "document": "parakonsistente-logik-im-seelen-protokoll",
+  "drive_id": "1adQIJ9XmBBV9tUg7QzUqBJ_FD4atjrzer1BsA_ZenlM",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-553/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 65,
+    "decisions": 68,
+    "decided_by_lookup": 49,
+    "needs_judgement": 19
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report weighing paraconsistent logics as a basis for the earlier plot idea's worlds, Aegis and Guardians: its proposals for Aegis's resilience, each Guardian's logic, each world's semantics, the Partnerin and the blind spot went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        212,
+        227,
+        291
+      ],
+      "attribution": "",
+      "note": "resilient despite the cracks because it rejects explosion"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        228,
+        233
+      ],
+      "attribution": "",
+      "note": "the blind spot as unclassifiable inconsistency"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        221
+      ],
+      "attribution": "",
+      "note": "a hybrid of filtering and rigid rules"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        186
+      ],
+      "attribution": "",
+      "note": "general paraconsistent principles for threat reports"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        215,
+        223,
+        243
+      ],
+      "attribution": "",
+      "note": "embodiments of different logics, in conflict"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        222
+      ],
+      "attribution": "",
+      "note": "FDE and potentiality"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        291
+      ],
+      "attribution": "",
+      "note": "FDE for the worlds' paradoxical nature"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "C-system logic and glitches"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        219
+      ],
+      "attribution": "",
+      "note": "a C-system philosophy"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        220
+      ],
+      "attribution": "",
+      "note": "near FDE"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        194
+      ],
+      "attribution": "",
+      "note": "FDE values N and B"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        228,
+        233
+      ],
+      "attribution": "",
+      "note": "the anomaly the system cannot classify"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        170
+      ],
+      "attribution": "",
+      "note": "the Architekt persona with LogOS"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        178
+      ],
+      "attribution": "",
+      "note": "FDE semantics of memory"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        101,
+        227
+      ],
+      "attribution": "",
+      "note": "glitches and cracks the system survives"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        222
+      ],
+      "attribution": "",
+      "note": "FDE and potentiality"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Aegis` read on aegis; the five Guardians and the four worlds read by name; the blind spot read on blinder-fleck by the sentence; the Architekt persona read on personas; `Kohärenz` and `Multiplizität` in other senses and the simulation are occurrences; lines naming real persons (L15, L33, L34, L44, L81, L93) and the reference list are not cited",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 77,
+      "decision": "occurrence",
+      "why": "another sense (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 40,
+      "decision": "occurrence",
+      "why": "another sense"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "the simulation is not named Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "FDE, C-Systeme, the consistency operator, ECQ, T/F/B/N, Inkonsistenz, the hybrid recommendation, the lenses"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

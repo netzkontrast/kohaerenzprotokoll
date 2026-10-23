@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll", "welten", "roman-synthese-mit-dual-kernel-theorie", "genesis-und-krise-ausfuehrliche-darstellung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "koharenz-protokoll-kapitel-0-v2-md", "kohaerenz-protokoll-philosophischer-bericht-md", "mining-report-kohaerenz-protokoll-narrative-building-blocks", "systemic-architecture-specification-the-coherence-protocol-w", "companion-guide-to-the-coherence-protocol-understanding-love", "the-architecture-of-fracture-a-compendium-of-the-kael-system", "editorial-style-dossier-somatic-and-linguistic-implementatio", "the-physics-of-heartbreak-5-surprising-takeaways-from-the-ko", "roman-konzept-dualitaet-kohaerenz-spannung", "roman-entwicklung-kohaerenz-und-leitfragen", "finales-kausales-plot-geruest", "charakterkonzepte-fuer-kohaerenz-protokoll", "welten", "roman-synthese-mit-dual-kernel-theorie", "genesis-und-krise-ausfuehrliche-darstellung", "parakonsistente-logik-im-seelen-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -49,6 +49,10 @@ The world-concept reply gives AEGIS its own entry, headed `Zentrales Paradoxon &
 It then gives each of the five Guardians a `Blinder Fleck` of its own. `LogOS`: „sieht nur Struktur, nicht Essenz“ ^[welten.md:L65]. `Mnemosyne`: „interpretiert zugehörige Emotionen falsch“ ^[welten.md:L66]. `Cerberus`: „neigt dazu, Unbekanntes als feindlich zu klassifizieren“ ^[welten.md:L67]. `Kairos`: „übersieht die qualitative Essenz der Möglichkeiten“ ^[welten.md:L68]. `Sophia`: „kommt sie dennoch zu einem unvollständigen oder falschen Gesamtbild“ ^[welten.md:L69].
 
 Together they act as a limit: „Ihre individuellen Blinden Flecken führen“ ^[welten.md:L73] AEGIS to misread the central anomaly. The reply reports this as drawn from another project document.
+
+## Reading — `parakonsistente-logik-im-seelen-protokoll`, 2025-04-21, the paraconsistent-logic report — the blind spot as unclassifiable inconsistency
+
+The paraconsistent-logic report explains the blind spot of the „(Partnerin-Anomalie)“ ^[parakonsistente-logik-im-seelen-protokoll.md:L228]; of the C-system view it says „Diese Erklärung erscheint besonders stark.“ ^[parakonsistente-logik-im-seelen-protokoll.md:L233] A report's proposal, not canon.
 
 ## Reading — `genesis-und-krise-ausfuehrliche-darstellung`, 2025-04-29, the Genesis narrative — a further blind spot after the simulation's limit
 

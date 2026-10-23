@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      173
+  backslash escapes      545
+  typographic marks      16
+  ascii quotes           190
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenarchive, Datenaustausch, Datenfeldern, Datenfluss, Datenflüsse, Datenflüssen, Datenherkunft, Dateninputs, Datenintegrität, Datenknotens, Datenkonstrukte, Datenkorruption, Datenlandschaften, Datenmuster, Datenrepräsentation, Datenstrukturen, Datenströme, Datenströmen, Datentypen, Datenvisualisierung, Datenvisualisierungen, Datenzonen, Datenänderungen, Datenübertragungen
+  syste    System, Systemadaption, Systematic, Systeme, Systemen, Systemfehler, Systemforschung, Systeminstabilität, Systeminstabilitäten, Systemkarten, Systemkohärenz, Systemkohärenzmetrik, Systemkohärenzmetriken, Systemmodelle, Systemnutzen, Systemnützlichkeit, Systemparadigma, Systems, Systemstabilitätsmetriken, Systemziel, Systemzustände, Systemzuständen
+  inter    Interaction, Interactive, Interaktion, Interaktionen, Interaktionsauslöser, Interaktionsmechanismen, Interaktionsprotokolle, Interaktionsvisualisierung, Interdependenzen, Interface, Interfaces, Interferenz, Interferenzmuster, Internet, Interpret, Interpretationen, Interpretations, Intervention, Interventionen, Interventionsmethoden
+  proto    Protocol, Protokoll, Protokollausführung, Protokolldurchsetzung, Protokolle, Protokollen, Protokollfehler, Protokollierung, Protokollkonflikte, Protokolls, Protokollschicht, Protokollverletzungen
+  visua    VISUALIZATION, Visual, Visualisation, Visualisiert, Visualisierte, Visualisierung, Visualisierungen, Visualisierungstechniken, Visualization, Visualizations, Visualize, Visualizing
+  infor    Information, Informationen, Informationsarchive, Informationsaustausch, Informationserhalt, Informationsfluss, Informationskonstrukte, Informationsraums, Informationsrepräsentation, Informationsräume, Informationsräumen
+  valid    Valid, Validating, Validation, Validierung, Validierungsanforderung, Validierungsprozesse, Validierungsprüfungen, Validierungsstatus, Validities
+  funkt    Funktion, Funktionale, Funktionales, Funktionalität, Funktionen, Funktionsbasierte, Funktionsweise, Funktionswesen
+  emoti    Emotion, Emotional, Emotionale, Emotionally, Emotionen, Emotions, Emotionserkennung
+  ident    Identifiers, Identifikatoren, Identity, Identitäten, Identitäts, Identitätsmodelle, Identitätssysteme
+  konze    Konzentrationen, Konzept, Konzepte, Konzepten, Konzepts, Konzeptuelle, Konzeptvervollständigung
+  netzw    Netzwerkdiagramme, Netzwerke, Netzwerken, Netzwerkknoten, Netzwerkprotokoll, Netzwerkprotokolle, Netzwerksicherheit
+  siche    Sichere, Sicherheit, Sicherheitsgrenzen, Sicherheitskonzept, Sicherheitsschicht, Sicherstellung, Sicherung
+  spiel    Spiel, Spiele, Spielregeln, Spieltheoretische, Spieltheorie, Spielumgebungen, Spielwelten
+  vertr    Vertrauen, Vertrauens, Vertrauensanker, Vertrauensankern, Vertrauenskette, Vertrauensniveaus, Vertrauenswürdigkeit
+  integ    Integrating, Integration, Integrity, Integritätsprotokolle, Integritätsprüfungen, Integritätsverletzung
+  model    Model, Modell, Modelle, Modellen, Modellierung, Models
+  psych    Psyche, Psychological, Psychometric, Psychometrics, Psychometrie, Psychosis
+  selbs    Selbst, Selbstdefinition, Selbsterhaltungsfunktionen, Selbstkenntnis, Selbstregulation, Selbstüberwachung
+  grenz    Grenze, Grenzen, Grenzknoten, Grenzkontrukte, Grenzsicherung
+  kontr    Kontrapunkt, Kontrast, Kontrolle, Kontrollkern, Kontrollmechanismen
+  poten    Potential, Potenzial, Potenzialfelder, Potenzialfeldern, Potenzielle
+  quant    Quantenschaum, Quantification, Quantifizierung, Quantifying, Quantum
+  simul    Simulated, Simulation, Simulationen, Simulationsparametern, Simulierten
+  techn    TECHNIQUES, Technical, Technik, Techniken, Techniques
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Valley
+  Alle < Parallele
+  Alle < Challenges
+  Auge < Kameraauge
+  Best < Bestandteil
+  Best < Eingabestrom
+  Code < SkoolOfCode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Reine
+  Eine < Seine
+  Eine < Verfeinert
+  Film < Filmen
+  Fire < Firewall
+  Fire < Firewalls
+  Form < Formen
+  Form < Information
+  Form < Konformität

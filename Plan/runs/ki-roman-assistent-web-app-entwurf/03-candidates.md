@@ -1,0 +1,84 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+The document is a design specification for a web console that applies the Kohärenz-Protokoll to a manuscript. Its world terms sit in the module descriptions, one tool table, a skill definition and a colour-token table. Each candidate below was tested for standing alone with a word-boundary grep before listing. The colour-token table ties the palette to a trauma symbol; those tokens are left off the list and the note says only "Kernwunde". The reference list at the end holds titles of other texts and is not listed. Technical product names (A2UI, Vercel AI SDK) are the document's own terms for the console and are listed as written.
+
+- Kohärenz-Protokoll
+- Kohärenz Protokoll
+- Kohärenz-Protokolls
+- Kael
+- Kaels
+- Juna
+- Nyx
+- Lex
+- Selene
+- Lia
+- Moros
+- AEGIS
+- System Kael
+- Dual-Kernel-Theorie
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kernwelten
+- Welt-Bibel
+- TSDP
+- ANPs
+- EPs
+- Alters
+- Anteilen
+- Anscheinend Normalen Persönlichkeitsanteile
+- Emotionalen Persönlichkeitsanteile
+- Funktionalen Multiplizität
+- Axis Mundi
+- Axis Mundi Dashboard
+- Charakter-Nexus und das TSDP-Geflecht
+- Metaphysische und Physikalische Constraint-Engine
+- Kintsugi-Integrationswerkstatt
+- Kintsugi
+- Kintsugi-UI
+- Kintsugi-Impulsen
+- Bruchlinien
+- Nichts Rauschen
+- Cache-Inkohärenz
+- Charged Void
+- Architectural Storytelling
+- Wachsende Landkarte
+- Generative UI
+- GenUI
+- A2UI
+- AG-UI
+- Vercel AI SDK
+- novel-architect
+- Novel Writing Assistent
+- renderCharacterNode
+- analyzePlotCoherence
+- summonWorldConstraint
+- proposeKintsugiResolution
+- updateMetaphysicalState
+- Rifts
+- Neobruralismus
+- Biomorphismus
+- Negativraum
+- Landauer-Prinzip
+- Planck-Skala
+- Planck-Barrieren
+- Bekenstein-Schranke
+- Turing-Mechanik
+- Informationsparadoxon
+- Gödels Unvollständigkeitssätze
+- Protektor
+- Integratorin
+- Kollaps
+- Kernangst
+- Evokationstaktik
+- Dual-Kernel-Evaluierung
+- Systemwächter
+- Chat+
+- Co-Creator Workspace
+- Eintrübung
+- Kontamination
+- --color-selene-whitegold
+- isMeta
+- Think before Rendering
+- Tool Calling
+- AI Slop
+- Trickster-Kind-EP

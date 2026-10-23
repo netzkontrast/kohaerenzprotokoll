@@ -1,0 +1,14 @@
+# rechtliche-analyse-entlassungsbericht-und-dis
+  lines                460  (frontmatter ends at 9)
+  body words           11052
+  headings             1   bold-only lines 30
+  table rows           29   code fences 0
+  question marks       28
+  backslash escapes    122
+  typographic marks    87   ascii quotes 61
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    26
+  repeated labels      Rechtsgrundlage x4, Voraussetzungen x4, Zweck x4
+  longest line         17329 chars
+

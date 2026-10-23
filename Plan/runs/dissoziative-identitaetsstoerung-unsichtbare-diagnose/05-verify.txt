@@ -1,0 +1,30 @@
+$ read.py dissoziative-identitaetsstoerung-unsichtbare-diagnose --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[dissoziative-identitaetsstoerung-unsichtbare-diagnose.md:#0]
+$ read.py dissoziative-identitaetsstoerung-unsichtbare-diagnose --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[dissoziative-identitaetsstoerung-unsichtbare-diagnose.md:#0]
+$ read.py dissoziative-identitaetsstoerung-unsichtbare-diagnose --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[dissoziative-identitaetsstoerung-unsichtbare-diagnose.md:#0]
+$ read.py dissoziative-identitaetsstoerung-unsichtbare-diagnose --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[dissoziative-identitaetsstoerung-unsichtbare-diagnose.md:#0]
+$ read.py dissoziative-identitaetsstoerung-unsichtbare-diagnose --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[dissoziative-identitaetsstoerung-unsichtbare-diagnose.md:#0]

@@ -1,0 +1,411 @@
+{
+  "document": "neurochemische-lyrik-transzendenz-durch-klang",
+  "drive_id": "124sS7ztAn6kTctZ8X3LVTVZesL4UcXtc1JyXZHwqUo4",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        55,
+        65,
+        267,
+        292,
+        293,
+        296,
+        297
+      ]
+    },
+    "Kael-System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Nyx": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        66,
+        78,
+        234,
+        255,
+        266,
+        292,
+        296
+      ]
+    },
+    "Isabelle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        81
+      ]
+    },
+    "Moros": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        68,
+        82,
+        121,
+        232,
+        291
+      ]
+    },
+    "Selene": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        90,
+        121,
+        294,
+        297
+      ]
+    },
+    "Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        121
+      ]
+    },
+    "Kiko": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        80,
+        267,
+        291
+      ]
+    },
+    "Lex": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        66,
+        135,
+        195,
+        234,
+        266
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        29,
+        39,
+        79,
+        103,
+        106,
+        120
+      ]
+    },
+    "Coherence Process": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        31,
+        39,
+        47,
+        106,
+        121,
+        314
+      ]
+    },
+    "Agency System": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        298
+      ]
+    },
+    "Bunker": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        95,
+        101,
+        120
+      ]
+    },
+    "Firewall": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        66,
+        95,
+        102,
+        120,
+        234
+      ]
+    },
+    "Firewalls": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        102
+      ]
+    },
+    "Rage Circuit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        255
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Firewall Conflict": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        66,
+        102,
+        120,
+        234
+      ]
+    },
+    "Zero Signal": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        145,
+        232,
+        268,
+        291
+      ]
+    },
+    "Echo Trace": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        146,
+        233,
+        292
+      ]
+    },
+    "Not Mine": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        256,
+        293
+      ]
+    },
+    "Spine Root": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        173,
+        235,
+        243,
+        254,
+        294
+      ]
+    },
+    "Flicker Self": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        163,
+        245,
+        295
+      ]
+    },
+    "Soft Split": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        266,
+        296
+      ]
+    },
+    "Tremor Grace": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        181,
+        235,
+        297
+      ]
+    },
+    "Render Glitch": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        108,
+        193,
+        246,
+        293
+      ]
+    },
+    "Neurochemische Signaturen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        276,
+        280
+      ]
+    },
+    "Klangbasierte Zeugenschaft": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        306
+      ]
+    },
+    "Transfusion": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        39,
+        131,
+        186,
+        193,
+        284
+      ]
+    },
+    "GABA-Crash": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        145,
+        232,
+        291
+      ]
+    },
+    "Glutamatsturm": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        146,
+        255
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        150,
+        154,
+        199,
+        233,
+        292
+      ]
+    },
+    "Tertiäre Strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        55
+      ]
+    },
+    "Multivokalität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        264
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 11,
+      "lines": [
+        27,
+        43,
+        47,
+        55,
+        67,
+        79,
+        99,
+        102,
+        120,
+        267,
+        290
+      ]
+    },
+    "ANP": {
+      "n": 6,
+      "n_including_compounds": 12,
+      "lines": [
+        55,
+        59,
+        63,
+        65,
+        66,
+        90,
+        102,
+        267,
+        292,
+        293,
+        297
+      ]
+    },
+    "ANPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        63,
+        102
+      ]
+    },
+    "EP": {
+      "n": 6,
+      "n_including_compounds": 16,
+      "lines": [
+        55,
+        65,
+        66,
+        72,
+        76,
+        78,
+        80,
+        81,
+        102,
+        104,
+        267,
+        291,
+        292,
+        295
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        76,
+        102
+      ]
+    },
+    "Dissoziation": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        47,
+        55,
+        99,
+        246,
+        293
+      ]
+    }
+  }
+}

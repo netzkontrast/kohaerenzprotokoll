@@ -1,0 +1,146 @@
+{
+  "document": "parakonsistente-logik-fuer-kohaerenz-protokoll",
+  "drive_id": "1IMEJ_QQGzV0FxtoXLAaDUP-29F59nCAHK2NPjVs9dGY",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; bare Kael left off the candidate list because its compounds hold an earlier name, and read through the sweep; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-559/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 71,
+    "decisions": 75,
+    "decided_by_lookup": 52,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A report on paraconsistent logic for AEGIS and the four core worlds: its two scenarios for AEGIS, its logic per core world and its readings of Kael, the alters, the guardians, the Potentialmeer and the cracks went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        155,
+        165,
+        167,
+        300
+      ],
+      "attribution": "",
+      "note": "a paraconsistent system, or a classical one under stress"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        261
+      ],
+      "attribution": "",
+      "note": "each alter's experience of a world's logic"
+    },
+    {
+      "page": "did",
+      "lines": [
+        266
+      ],
+      "attribution": "",
+      "note": "a metaphor deepened by logics"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        262,
+        364
+      ],
+      "attribution": "",
+      "note": "carriers of AEGIS's logic in foreign worlds"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        181,
+        311
+      ],
+      "attribution": "",
+      "note": "the connecting consciousness"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        194,
+        395,
+        396,
+        397,
+        398
+      ],
+      "attribution": "",
+      "note": "one logic per core world"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        159,
+        169
+      ],
+      "attribution": "",
+      "note": "a reality that is not classical"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        159
+      ],
+      "attribution": "",
+      "note": "regions of both-or-neither, or local explosions"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a research report read as scenarios and a recommendation; L45, L153, L171, L188, L293 and L383 (earlier names) are not cited; the logic vocabulary is not promoted",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 171,
+      "decision": "occurrence",
+      "why": "an earlier name; the line is not cited"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 23,
+      "decision": "reading",
+      "why": "read from L181 and L311"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 157,
+      "decision": "occurrence",
+      "why": "the simulation in passing"
+    }
+  ],
+  "not_promoted": [
+    "Szenario A/B, FDE, LFI, C-systems and every logic term, the logic table of the core worlds, EST, the log diction"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

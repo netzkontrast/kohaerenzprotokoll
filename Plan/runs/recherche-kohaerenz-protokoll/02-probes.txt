@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      16
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           68
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemadministratoren, Systeme, Systemen, Systemfehler, Systemfehlers, Systemhüter, Systemlogik, Systems
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsebene, Bewusstseinsebenen, Bewusstseinsphilosophie, Bewusstwerdung
+  konze    Konzept, Konzeptdokument, Konzeptdokuments, Konzepte, Konzepten, Konzepts
+  reche    Recherche, Rechercheaufgaben, Rechercheauftrag, Rechercheergebnisse, Recherchefragen, Recherchiere
+  thera    Therapeuten, Therapie, Therapieansatz, Therapieansätzen, Therapiesuche
+  emoti    Emotion, Emotional, Emotions, Emotionsregulation
+  inter    Interaktionen, Intern, Interpretationsebenen, Interventionen
+  reali    Realität, Realitäten, Realitätsebenen, Realitätsrisse
+  antei    Anteil, Anteile, Anteilen
+  besch    Beschreibe, Beschreibung, Beschützer
+  fragm    Fragmenten, Fragmentiertes, Fragmentierung
+  funkt    Funktion, Funktionale, Funktionen
+  heilu    Heilung, Heilungsprozess, Heilungsweg
+  innen    Innenwelt, Innenwelten, Innenweltkommunikation
+  metap    Metapher, Metaphern, Metaphorisch
+  perso    Person, Persona, Personas
+  psych    Psyche, Psychologie, Psychologisch
+  simul    Simulation, Simulationen, Simulationsplot
+  traum    Trauma, Traumata, Traumaverarbeitung
+  welte    Welten, Weltenlogik, Weltenwechsel
+  alter    Alter, Alters
+  amnes    Amnesie, Amnesien
+  arbei    Arbeit, Arbeitstitel
+  archi    Architekt, Architektur
+  bezie    Beziehung, Beziehungskonflikt
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Ende < Transzendenz
+  Ende < Weitreichende
+  Ende < Wiederkehrende
+  Info < Information
+  Info < Kontextinformationen
+  Info < Informationsverarbeitung
+  Kern < Kernthemen
+  Kern < Kernkonzept
+  Kern < Kernelemente
+  Kern < Kernbewusstsein
+  Neue < Neues
+  Plot < Plotpunkte
+  Plot < Plotpunkten
+  Plot < Simulationsplot
+  Teil < Teile
+  Teil < Teils
+  Teil < Anteil
+  Teil < Anteile

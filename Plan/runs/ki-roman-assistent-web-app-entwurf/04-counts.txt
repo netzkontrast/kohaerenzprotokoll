@@ -1,0 +1,104 @@
+# counts for 80 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                4 word     7 in   [11, 25, 53, 61, 78, 89]
+                                    3      as Kohärenz-Protokolls
+  Kohärenz Protokoll                5 word     5 in   [15, 97, 127, 212, 234]
+  Kohärenz-Protokolls               3 word     3 in   [25, 53, 78]
+  Kael                              2 word     3 in   [27, 97, 112]
+                                    1      as Kaels
+  Kaels                             1 word     1 in   [112]
+  Juna                              3 word     3 in   [103, 157, 204]
+                                    1      as junaAnomalyPresence
+  Nyx                               3 word     3 in   [62, 104, 144]
+  Lex                               3 word     3 in   [47, 104, 157]
+  Selene                            2 word     2 in   [62, 147]
+  Lia                               2 word     2 in   [68, 143]
+  Moros                             2 word     2 in   [171, 178]
+  AEGIS                             3 word     6 in   [63, 103, 149, 157, 159, 190]
+                                    2      as AEGIS-Logik
+                                    1      as aegisControlLevel
+                                    1      as AEGIS-System
+  System Kael                       1 word     1 in   [97]
+  Dual-Kernel-Theorie               4 word     4 in   [17, 29, 63, 188]
+  Kohärenz-Kernel                   1 word     1 in   [29]
+  Kollaps-Kernel                    2 word     2 in   [29, 142]
+  Kernwelten                        2 word     2 in   [29, 97]
+  Welt-Bibel                        4 word     4 in   [29, 78, 97, 169]
+  TSDP                              3 word     6 in   [19, 27, 62, 97, 153, 159]
+                                    1      as TSDP-Geflecht
+                                    1      as TSDP-Struktur
+                                    1      as TSDP-Profile
+  ANPs                              1 word     1 in   [27]
+  EPs                               2 word     2 in   [27, 157]
+  Alters                            2 word     2 in   [27, 104]
+  Anteilen                          3 word     3 in   [27, 112, 157]
+  Anscheinend Normalen Persönlichkeitsanteile    2 word     2 in   [27, 157]
+  Emotionalen Persönlichkeitsanteile    2 word     2 in   [27, 157]
+  Funktionalen Multiplizität        1 word     1 in   [147]
+  Axis Mundi                        6 word     6 in   [25, 63, 129, 155, 190]
+  Axis Mundi Dashboard              1 word     1 in   [25]
+  Charakter-Nexus und das TSDP-Geflecht    1 word     1 in   [27]
+  Metaphysische und Physikalische Constraint-Engine    1 word     1 in   [29]
+  Kintsugi-Integrationswerkstatt    1 word     1 in   [31]
+  Kintsugi                          2 word    10 in   [31, 65, 113, 129, 143, 161]  <-- substring
+                                    1      as Kintsugi-Integrationswerkstatt
+                                    1      as Kintsugi-Reparatur-Animationen
+                                    1      as Kintsugi-UI
+                                    1      as Kintsugi-Impulsen
+  Kintsugi-UI                       1 word     1 in   [161]
+  Kintsugi-Impulsen                 1 word     1 in   [173]
+  Bruchlinien                       2 word     2 in   [31, 161]
+  Nichts Rauschen                   1 word     1 in   [19]
+  Cache-Inkohärenz                  1 word     1 in   [144]
+  Charged Void                      1 word     1 in   [159]
+  Architectural Storytelling        3 word     3 in   [114, 129, 190]
+  Wachsende Landkarte               2 word     2 in   [155, 192]
+  Generative UI                    12 word    13 in   [17, 33, 107, 141, 186, 196]
+  GenUI                             1 word     1 in   [17]
+  A2UI                             10 word    18 in   [17, 37, 39, 74, 89, 107]
+                                    2      as A2UI-Protokoll
+                                    1      as A2UI-Dashboard-Zustände
+                                    1      as A2UI-Prozess
+                                    1      as A2UI-JSON-Objekten
+  AG-UI                             5 word     5 in   [37, 41, 214, 218]
+                                    1      as ag-ui-agent-user-interaction-protocol
+  Vercel AI SDK                     6 word     6 in   [17, 43, 45, 68, 186, 208]
+  novel-architect                   5 word     5 in   [76, 78, 88, 169, 188]
+  Novel Writing Assistent           1 word     1 in   [97]
+  renderCharacterNode               3 word     3 in   [62, 68, 112]
+  analyzePlotCoherence              3 word     3 in   [63, 111, 171]
+  summonWorldConstraint             1 word     1 in   [64]
+  proposeKintsugiResolution         2 word     2 in   [65, 113]
+  updateMetaphysicalState           1 word     1 in   [66]
+  Rifts                             1 word     2 in   [63]
+  Neobruralismus                    1 word     1 in   [64]
+  Biomorphismus                     1 word     1 in   [157]
+  Negativraum                       2 word     2 in   [159]
+  Landauer-Prinzip                  3 word     3 in   [29, 64, 105]
+  Planck-Skala                      2 word     2 in   [19, 64]
+  Planck-Barrieren                  1 word     1 in   [105]
+  Bekenstein-Schranke               1 word     1 in   [171]
+  Turing-Mechanik                   1 word     1 in   [167]
+  Informationsparadoxon             1 word     1 in   [105]
+  Gödels Unvollständigkeitssätze    1 word     1 in   [29]
+  Protektor                         2 word     2 in   [104, 144]
+  Integratorin                      1 word     1 in   [147]
+  Kollaps                           1 word     3 in   [29, 142, 171]  <-- substring
+                                    2      as Kollaps-Kernel
+  Kernangst                         1 word     1 in   [68]
+  Evokationstaktik                  1 word     1 in   [171]
+  Dual-Kernel-Evaluierung           1 word     1 in   [103]
+  Systemwächter                     1 word     1 in   [171]
+  Chat+                             1 word     1 in   [23]
+  Co-Creator Workspace              1 word     1 in   [23]
+  Eintrübung                        2 word     2 in   [66, 149]
+  Kontamination                     1 word     1 in   [149]
+  --color-selene-whitegold          2 word     2 in   [147, 161]
+  isMeta                            1 word     1 in   [105]
+  Think before Rendering            1 word     1 in   [99]
+  Tool Calling                      2 word     2 in   [47, 221]
+  AI Slop                           2 word     2 in   [55, 74]
+  Trickster-Kind-EP                 1 word     1 in   [68]

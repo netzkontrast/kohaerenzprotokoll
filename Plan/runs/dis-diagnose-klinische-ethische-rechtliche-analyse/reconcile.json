@@ -1,0 +1,50 @@
+{
+  "document": "dis-diagnose-klinische-ethische-rechtliche-analyse",
+  "drive_id": "1z_NCfOK4flrQUQu7PoVMv58LkzCLqW9RsBHXdlx3o8E",
+  "step": "reconcile",
+  "at": "2026-10-21",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-21, from the full-ingest task with no count before the list; light pass at reconciliation; no readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 13,
+    "decisions": 13,
+    "decided_by_lookup": 13,
+    "needs_judgement": 0
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A clinical, ethical and legal analysis of a real diagnosis, with no novel content (decision 028): read as a light pass, nothing harvested.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "light pass (decision 028): personal, medical and legal material (decision 028); not harvested; every term is an occurrence only; nothing harvested",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 311,
+      "decision": "occurrence",
+      "why": "personal, medical and legal material (decision 028); not harvested"
+    }
+  ],
+  "not_promoted": [
+    "everything: a light pass"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

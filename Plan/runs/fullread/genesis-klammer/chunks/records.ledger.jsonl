@@ -1,0 +1,41 @@
+{"ref": "Plan/weichen/w14-kap40.md:26", "state": "used", "thoughts": ["cR-01"]}
+{"ref": "Wiki/conflicts/c11-landauer-warmth-or-cold-ozone.md:215", "state": "used", "thoughts": ["cR-05"]}
+{"ref": "Wiki/conflicts/c12-genesis-beats.md:219", "state": "used", "thoughts": ["s-01"], "note": "session: C12 is decided by the author (2026-10-05, W12) — the [K] thought s-01"}
+{"ref": "Wiki/candidates/aegis.md:3119", "state": "used", "thoughts": ["cR-02"]}
+{"ref": "Wiki/candidates/formel-inversion.md:35", "state": "same-as", "thoughts": [], "note": "wie kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L275 (Kapitel 01); sieben Spiegelpunkte."}
+{"ref": "Wiki/candidates/formel-inversion.md:158", "state": "context", "thoughts": [], "note": "Zusammenfassung der Formel-Quellen (Vortex, Übergang 39 → 40); keine eigene Aussage über die Klammer."}
+{"ref": "Wiki/candidates/genesis.md:624", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 (Kapitel 01); Zitat des Klammer-Satzes."}
+{"ref": "Wiki/candidates/komponente-734.md:449", "state": "occurrence", "thoughts": [], "note": "Nennt die Abhandlung nur als Quelle für den Zeitpunkt der Komponente."}
+{"ref": "Wiki/candidates/nichts-rauschen.md:710", "state": "same-as", "thoughts": [], "note": "wie kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173 (Kapitel 01); plurale Einheit trägt die Reinform, ohne sie zu sein."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:106", "state": "used", "thoughts": ["cR-04"]}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:168", "state": "context", "thoughts": [], "note": "Überschrift „12 · Genesis-Klammer und Ouroboros-Struktur“ des Glossars (L621); die Zuordnung steht in BEG L622 und L625."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:172", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L622 (Kapitel 01); Genesis-Klammer als eigener Eintrag; Reset-Lesart."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:189", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 (Kapitel 01); beide Spiegelungen."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:192", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470 (Kapitel 01); Kap 0↔40 (Genesis-Klammer)."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:210", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618 (Kapitel 01); Echo, nicht Wiederholung."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:253", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 (Kapitel 01); beide Paare unter einem Namen; äußeres Paar Genesis-Klammer innerhalb."}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:257", "state": "same-as", "thoughts": [], "note": "wie kapitel-kompendium-gather-2026-05-31-md.md:L92 (Kapitel 01); Kompendium, Glossar und Storyform-Outline halten Ouroboros für die innere Klammer."}
+{"ref": "Wiki/candidates/residual-echos.md:19", "state": "same-as", "thoughts": [], "note": "wie kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L321 (Kapitel 01); Echos des Ursprungs-Ichs, als Rauschen klassifiziert."}
+{"ref": "Wiki/candidates/vermittler-stimme.md:45", "state": "used", "thoughts": ["cR-03"]}
+{"ref": "Wiki/candidates/vermittler-stimme.md:143", "state": "used", "thoughts": ["cR-03"]}
+{"ref": "Wiki/chapters/kap-00.md:23", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125 (Kapitel 01); Genesis-Hälfte der Klammer; Wir-AEGIS-Vorwort nach der Abhandlung."}
+{"ref": "Wiki/chapters/kap-00.md:203", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125 (Kapitel 01); Position: Genesis-Klammer."}
+{"ref": "Wiki/chapters/kap-00.md:230", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 (Kapitel 01); Frame-Zitate."}
+{"ref": "Wiki/chapters/kap-00.md:231", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470 (Kapitel 01); Kap 0↔40 (Genesis-Klammer)."}
+{"ref": "Wiki/chapters/kap-00.md:252", "state": "same-as", "thoughts": [], "note": "wie kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173 (Kapitel 01); Beats 2 und 3 sind Kap 0."}
+{"ref": "Wiki/chapters/kap-00.md:253", "state": "occurrence", "thoughts": [], "note": "Storyform-Status von Kap 0 (B erst mit dem Klick); betrifft die Klammer nur mittelbar."}
+{"ref": "Wiki/chapters/kap-00.md:271", "state": "occurrence", "thoughts": [], "note": "Frage B3 der Kapitelseite."}
+{"ref": "Wiki/chapters/kap-00.md:272", "state": "occurrence", "thoughts": [], "note": "Frage B4 der Kapitelseite (Stimme)."}
+{"ref": "Wiki/chapters/kap-00.md:286", "state": "occurrence", "thoughts": [], "note": "Frage S5 der Kapitelseite."}
+{"ref": "Wiki/chapters/kap-01.md:641", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470 (Kapitel 01); Kap 0↔40 (Genesis-Klammer)."}
+{"ref": "Wiki/chapters/kap-39.md:497", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470 (Kapitel 01); Kap 0↔40 (Genesis-Klammer)."}
+{"ref": "Wiki/chapters/kap-39.md:547", "state": "occurrence", "thoughts": [], "note": "Frage S5 der Kapitelseite (vierter Beat)."}
+{"ref": "Wiki/chapters/kap-40.md:23", "state": "same-as", "thoughts": [], "note": "wie kapitel-kompendium-gather-2026-05-31-md.md:L92 (Kapitel 01); Außen-Klammer des Erzählers; Doppel-Klammer-Akzent Driver Decision / Be-er: A L390."}
+{"ref": "Wiki/chapters/kap-40.md:182", "state": "occurrence", "thoughts": [], "note": "Überschrift eines Leseabschnitts."}
+{"ref": "Wiki/chapters/kap-40.md:188", "state": "same-as", "thoughts": [], "note": "wie kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 (Kapitel 01); Frame-Zitate."}
+{"ref": "Wiki/chapters/kap-40.md:201", "state": "same-as", "thoughts": [], "note": "wie kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L368 (Kapitel 01); Letztes Bild: Welt gegen Scherben; die Abhandlung nennt ihre Fassung „laut Konzept“; Erstfassung L123/L147."}
+{"ref": "Wiki/chapters/kap-40.md:214", "state": "occurrence", "thoughts": [], "note": "Frage B4 der Kapitelseite (Stimme)."}
+{"ref": "Wiki/chapters/kap-40.md:215", "state": "occurrence", "thoughts": [], "note": "Frage B5 der Kapitelseite (Sinneseindrücke)."}
+{"ref": "Wiki/chapters/kap-40.md:217", "state": "same-as", "thoughts": [], "note": "wie kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L29 (Kapitel 01); nicht Auflösung, sondern plurale Trägerschaft; Ketsu und äußere Klammer."}
+{"ref": "Wiki/chapters/kap-40.md:227", "state": "occurrence", "thoughts": [], "note": "Frage S4 der Kapitelseite."}
+{"ref": "Wiki/chapters/kap-40.md:231", "state": "occurrence", "thoughts": [], "note": "Frage S8 der Kapitelseite (Stimme)."}

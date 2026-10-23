@@ -1,0 +1,159 @@
+{
+  "document": "projekt-kohaerenz-protokoll-tiefenanalyse",
+  "drive_id": "1Afepl_qhw7cQsk02oPVe9_y2OvIwHblEH1RO7t2zMDw",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 115,
+    "decisions": 118,
+    "decided_by_lookup": 88,
+    "needs_judgement": 30
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        165,
+        170,
+        171,
+        180,
+        189
+      ],
+      "attribution": "",
+      "note": "an allopoietic antagonist that gaslights"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        58,
+        595,
+        596,
+        846
+      ],
+      "attribution": "",
+      "note": "a persecutor introject, misguided help"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        202,
+        796
+      ],
+      "attribution": "",
+      "note": "entropy injected, and an anti-entropy rule for the page"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        108,
+        116,
+        121,
+        873
+      ],
+      "attribution": "",
+      "note": "an external catalyst"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        24,
+        68,
+        78,
+        90,
+        893
+      ],
+      "attribution": "",
+      "note": "the whole system and its host"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        392,
+        403
+      ],
+      "attribution": "",
+      "note": "one half of the Lia/Kiko child part"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        392,
+        403,
+        531
+      ],
+      "attribution": "",
+      "note": "a child and hope part, joined with Kiko"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        737
+      ],
+      "attribution": "",
+      "note": "shown as whitespace"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        90,
+        156,
+        873
+      ],
+      "attribution": "",
+      "note": "deviations from Kael's baseline"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        24,
+        78
+      ],
+      "attribution": "",
+      "note": "the Kael system as tertiary structural dissociation"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 935,
+      "decision": "occurrence",
+      "why": "the reference list, not harvested"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 3,
+      "decision": "occurrence",
+      "why": "the document's title"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

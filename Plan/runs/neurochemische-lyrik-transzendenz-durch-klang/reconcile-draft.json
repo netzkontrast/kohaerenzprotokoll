@@ -1,0 +1,78 @@
+{
+  "document": "neurochemische-lyrik-transzendenz-durch-klang",
+  "drive_id": "124sS7ztAn6kTctZ8X3LVTVZesL4UcXtc1JyXZHwqUo4",
+  "step": "reconcile",
+  "at": "2026-10-21",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 40,
+    "decisions": 40,
+    "decided_by_lookup": 32,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 67,
+      "decision": "occurrence",
+      "why": "an album document (decision 028); not harvested"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "an album document (decision 028); not harvested"
+    },
+    {
+      "page": "lia",
+      "surface": "Lia",
+      "line": 295,
+      "decision": "occurrence",
+      "why": "an album document (decision 028); not harvested"
+    },
+    {
+      "page": "rhys",
+      "surface": "Rhys",
+      "line": 68,
+      "decision": "occurrence",
+      "why": "an album document (decision 028); not harvested"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "an album document (decision 028); not harvested"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

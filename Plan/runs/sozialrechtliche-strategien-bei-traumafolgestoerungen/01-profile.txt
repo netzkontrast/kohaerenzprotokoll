@@ -1,0 +1,14 @@
+# sozialrechtliche-strategien-bei-traumafolgestoerungen
+  lines                495  (frontmatter ends at 9)
+  body words           9242
+  headings             40   bold-only lines 5
+  table rows           26   code fences 0
+  question marks       42
+  backslash escapes    127
+  typographic marks    12   ascii quotes 46
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    14
+  repeated labels      none
+  longest line         1805 chars
+

@@ -1,0 +1,275 @@
+{
+  "document": "gutachterprofil-und-alternativen-ptbs-dis",
+  "drive_id": "1JOi588vta1RM6fD0fNUOeNBoPLhSi55SDkMBbR7Qb44",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 17,
+  "backslash_escapes": 36,
+  "typographic_marks": 6,
+  "ascii_quotes": 96,
+  "inflection_families": {
+    "gutac": [
+      "Gutachten",
+      "Gutachtenpraxis",
+      "Gutachtens",
+      "Gutachter",
+      "Gutachterin",
+      "Gutachterinnen",
+      "Gutachterliches",
+      "Gutachterliste",
+      "Gutachtern",
+      "Gutachteroptionen",
+      "Gutachters",
+      "Gutachtersuchen",
+      "Gutachtertätigkeit"
+    ],
+    "psych": [
+      "Psychiatrie",
+      "Psychiatrische",
+      "Psychologische",
+      "Psychosen",
+      "Psychosomatik",
+      "Psychosomatische",
+      "Psychotherapeuten",
+      "Psychotherapeutenkammer",
+      "Psychotherapie",
+      "Psychotraumatologie"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumafokus",
+      "Traumafolgen",
+      "Traumafolgestörungen",
+      "Traumaspezialisten",
+      "Traumata",
+      "Traumatherapiemethode",
+      "Traumatologie"
+    ],
+    "begut": [
+      "Begutachtung",
+      "Begutachtungen",
+      "Begutachtungs",
+      "Begutachtungsansatzes",
+      "Begutachtungsleitlinien",
+      "Begutachtungsprozess"
+    ],
+    "neuro": [
+      "NeuroTransmitter",
+      "Neurologe",
+      "Neurologen",
+      "Neurologie",
+      "Neurologischen",
+      "Neurowissenschaftliche"
+    ],
+    "sozia": [
+      "Sozial",
+      "Sozialgericht",
+      "Sozialgerichte",
+      "Sozialgerichtsbarkeit",
+      "Sozialrecht",
+      "Sozialverbände"
+    ],
+    "fachg": [
+      "Fachgebiet",
+      "Fachgebieten",
+      "Fachgebietes",
+      "Fachgesellschaft",
+      "Fachgesellschaften"
+    ],
+    "sachv": [
+      "Sachverständige",
+      "Sachverständigen",
+      "Sachverständigengutachten",
+      "Sachverständigenlisten",
+      "Sachverständiger"
+    ],
+    "schwe": [
+      "Schwerbehinderung",
+      "Schwere",
+      "Schwerpunkt",
+      "Schwerpunkte",
+      "Schwerpunkten"
+    ],
+    "spezi": [
+      "Spezialisierung",
+      "Spezialisierungen",
+      "Spezialisten",
+      "Spezifische",
+      "Spezifität"
+    ],
+    "weite": [
+      "Weiterbildungsbefugte",
+      "Weiterbildungsbefugten",
+      "Weitere",
+      "Weiterhin",
+      "Weitervermittlung"
+    ],
+    "wider": [
+      "Widerspruch",
+      "Widerspruchseinreichung",
+      "Widerspruchsfrist",
+      "Widerspruchsschreiben",
+      "Widerspruchsverfahren"
+    ],
+    "ärzte": [
+      "Ärzte",
+      "Ärztekammer",
+      "Ärztekammerlisten",
+      "Ärztekammern",
+      "Ärztevereinigungen"
+    ],
+    "grund": [
+      "Grund",
+      "Grundlage",
+      "Grundlagen",
+      "Grundversorgung"
+    ],
+    "krank": [
+      "Krankengeschichte",
+      "Krankenkasse",
+      "Krankheitsbilder",
+      "Krankheitsbildern"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensbereiche",
+      "Lebensqualität"
+    ],
+    "leist": [
+      "Leistung",
+      "Leistungsbestandteil",
+      "Leistungsminderung",
+      "Leistungsspektrum"
+    ],
+    "praxi": [
+      "Praxis",
+      "Praxispartner",
+      "Praxisstandort",
+      "Praxiswebseite"
+    ],
+    "reche": [
+      "Recherche",
+      "Rechercheauftrag",
+      "Recherchekontext",
+      "Recherchen"
+    ],
+    "stand": [
+      "Standard",
+      "Standardausbildung",
+      "Standards",
+      "Standort"
+    ],
+    "unive": [
+      "Universitaeten",
+      "Universität",
+      "Universitäten",
+      "Universitätskliniken"
+    ],
+    "zusat": [
+      "Zusatzbezeichnung",
+      "Zusatzbezeichnungen",
+      "Zusatzqualifikation",
+      "Zusatzqualifikationen"
+    ],
+    "alter": [
+      "Alternativ",
+      "Alternativen",
+      "Alternativgutachter"
+    ],
+    "anspr": [
+      "Ansprache",
+      "Ansprechpartner",
+      "Ansprüche"
+    ],
+    "arbei": [
+      "Arbeitet",
+      "Arbeitsgemeinschaft",
+      "Arbeitsunfall"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Arzt",
+      "Chefarzt"
+    ],
+    [
+      "Arzt",
+      "Facharzt"
+    ],
+    [
+      "Arzt",
+      "Arztsuche"
+    ],
+    [
+      "Best",
+      "Bestätigungen"
+    ],
+    [
+      "Best",
+      "Leistungsbestandteil"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Dort",
+      "Dortmund"
+    ],
+    [
+      "Dort",
+      "Standort"
+    ],
+    [
+      "Dort",
+      "Praxisstandort"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Fall",
+      "Falls"
+    ],
+    [
+      "Fall",
+      "Falles"
+    ],
+    [
+      "Fall",
+      "Unfall"
+    ],
+    [
+      "Fall",
+      "Banküberfall"
+    ],
+    [
+      "Fall",
+      "Arbeitsunfall"
+    ],
+    [
+      "Fall",
+      "Unfallversicherung"
+    ],
+    [
+      "Fall",
+      "Unfallversicherungsgutachten"
+    ],
+    [
+      "Feld",
+      "Suchfeldern"
+    ]
+  ]
+}

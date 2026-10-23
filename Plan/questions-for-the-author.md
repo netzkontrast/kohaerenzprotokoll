@@ -453,6 +453,34 @@ the author wants them (*Questions for the author*).
 
 ## Part 2 — the pipeline and its tools
 
+### Reading one term page whole (2026-10-23)
+
+The plan for the full read of a candidate page and its thought page is `Plan/concept/term-digest_2026-10-23.md`; its §11 holds
+the questions, each with a recommendation:
+
+1. **Order** — the full read before promotion, so that the thought page is what the author reviews, or after it.
+2. **One review or two** — one word promotes the candidate and approves the thought page (recommended), or two acts as now.
+3. **Language** — German (recommended) or English.
+4. **Readers** — whether a chunk may go to a Sonnet subagent, up to two at a time, or the session reads every chunk.
+5. **Which page first** — `genesis-klammer`, `kishotenketsu`, `nexus`, then `entropie`, or a term the next chapters need.
+6. **The graph** — thoughts in the core graph (recommended) or beside it until a thought page is reviewed.
+
+**Answered 2026-10-23:** 1 before promotion, 2 one act, 4 yes, up to two Sonnet readers, 5 `genesis-klammer` first. 3 and 6 are open; the work proceeds on the recommendations.
+
+### Raised by the ingest of 2026-10-21 (documents 532–590)
+
+- **Two manifest rows are Drive shortcuts, and their targets are not landed.** `kohaerenz-protokoll-plot-entwurf-finalisierung`
+  and `beziehungsheilung-nach-trauma-konzeptpapier` landed as stubs because Drive stores them as shortcuts. A title search finds
+  two documents „Kohärenz Protokoll: Plot-Entwurf-Finalisierung" (29908 bytes each, 2025-04-20) and one „Beziehungsheilung nach
+  Trauma: Konzeptpapier für Musik-Prelude" that no manifest row holds. Should these be added to the manifest and read, or do the
+  shortcuts stay as they are? Detail in `Plan/learnings/fetch.md`.
+  **Answered 2026-10-23: no.** The author ended the ingest here; the shortcuts stay as they are and the three documents are
+  not added to the manifest.
+- **More earlier names than decision 028 lists.** The corpus gives `Alexander`, `Stefan`, `Data`, „Die Wächterin“, „Der Kleine“
+  and „Beobachter/Kritiker“ after „ehem.“; the ingest now treats them as earlier names. `rag.py`'s withholding regex knows only
+  the five, and `Wiki/candidates/alex.md` carries `Alexander` from an older reconciliation. Should the withheld list grow, and
+  may the session redact the alex page's heading and quotation?
+
 ### The process — the author's call, with the detail under *Open decisions*
 
 - **Planning agent sessions from the website** (2026-10-05, `Plan/concept/agent-sessions_2026-10-05.md`). The app

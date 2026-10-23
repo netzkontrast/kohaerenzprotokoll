@@ -1,0 +1,350 @@
+{
+  "document": "heilung-hirnchemie-kunst-trauma",
+  "drive_id": "1datcyIpaP0zPwkjgyzPclkr3fuhg4on20WmxyP07lGw",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "KAIROS / CHRONOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        38
+      ]
+    },
+    "Die Un-Zeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Amygdala Hijack": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        45,
+        74
+      ]
+    },
+    "Dorsal Vagal": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        46,
+        88,
+        143
+      ]
+    },
+    "Das fragmentierte Archiv": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        101
+      ]
+    },
+    "Anhedonie": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        48,
+        114,
+        120
+      ]
+    },
+    "Die Orientierungsreaktion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        135
+      ]
+    },
+    "Titration": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        147,
+        154
+      ]
+    },
+    "Embodiment": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        159,
+        221,
+        269
+      ]
+    },
+    "Das relationale Zuhause": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        171
+      ]
+    },
+    "Die Exekutive": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        53,
+        192
+      ]
+    },
+    "Narrative Integration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        54,
+        205
+      ]
+    },
+    "Das erweiterte Fenster": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        217
+      ]
+    },
+    "Posttraumatisches Wachstum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        228
+      ]
+    },
+    "Die Wiederherstellung der Zeit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        247
+      ]
+    },
+    "Neurochemische Signatur": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        78,
+        92,
+        105,
+        118,
+        139,
+        151,
+        163,
+        175,
+        196,
+        209,
+        221,
+        232,
+        245
+      ]
+    },
+    "Poetisches Leitmotiv": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        82,
+        95,
+        108,
+        121,
+        141,
+        153,
+        165,
+        178,
+        199,
+        211,
+        222,
+        235
+      ]
+    },
+    "Phänomenologisches Leitmotiv": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        246
+      ]
+    },
+    "Bildsprache": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        83,
+        96,
+        109,
+        122,
+        142,
+        154,
+        166,
+        179,
+        200,
+        212,
+        223,
+        236,
+        248
+      ]
+    },
+    "Akustische & Lyrische Skizze": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        84,
+        97,
+        110,
+        123,
+        143,
+        155,
+        167,
+        180,
+        201,
+        213,
+        224,
+        237,
+        249
+      ]
+    },
+    "Interdisziplinäre Erweiterung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        81,
+        107,
+        198
+      ]
+    },
+    "Kairos": {
+      "n": 11,
+      "n_including_compounds": 12,
+      "lines": [
+        30,
+        32,
+        34,
+        57,
+        184,
+        188,
+        241,
+        246,
+        247,
+        285,
+        286
+      ]
+    },
+    "Chronos": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        30,
+        66,
+        188,
+        247,
+        285,
+        286
+      ]
+    },
+    "HPA-Achse": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        26,
+        32,
+        78,
+        92
+      ]
+    },
+    "Default Mode Network": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        28,
+        47,
+        106,
+        232
+      ]
+    },
+    "Toleranzfenster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Kintsugi": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54,
+        205,
+        212
+      ]
+    },
+    "Neuroplastizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        54,
+        127,
+        209
+      ]
+    },
+    "Vagustonus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        55,
+        217,
+        221
+      ]
+    },
+    "Polyvagal-Theorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        80
+      ]
+    },
+    "Interozeption": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        51,
+        163
+      ]
+    },
+    "Ko-Regulation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        171
+      ]
+    },
+    "Hypokortisolismus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        46,
+        92
+      ]
+    }
+  }
+}

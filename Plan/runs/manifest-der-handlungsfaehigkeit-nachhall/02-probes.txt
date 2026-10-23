@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      15
+  backslash escapes      224
+  typographic marks      10
+  ascii quotes           78
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstdefinition, Selbstkonfrontation, Selbstreflexion, Selbstvertrauen
+  syste    System, Systemabsturzes, Systeme, Systems
+  absch    Abschluss, Abschnitt
+  atmos    Atmospheric, Atmosphärische
+  betra    Betrachter, Betrachters
+  bleib    Bleiben, Bleibens
+  bruch    Bruch, Bruchstück
+  entsc    Entscheidend, Entscheidung
+  erfah    Erfahrung, Erfahrungen
+  funkt    Funktion, Funktionalität
+  gemei    Gemeinsam, Gemeinschaft
+  germa    GERMAN, German
+  gleic    Gleichgewicht, Gleichheit
+  integ    Integration, Integrität
+  kampf    Kampf, Kampfes
+  kerns    Kerns, Kernsatz
+  manif    Manifest, Manifests
+  multi    Multipel, Multiplizität
+  proto    Protokoll, Protokolle
+  proze    Prozess, Prozesses
+  refle    Reflection, Reflexionen
+  refra    Refrain, Refrains
+  reson    Resonanzboden, Resonanzraum
+  schme    Schmerz, Schmerzes
+  schwi    Schwierigkeiten, Schwingung
+
+# substring pairs -- never one term, often merged by accident
+  Bild < Bilder
+  Dies < Dieser
+  Form < Seinsform
+  Here < Coherence
+  Hier < Hiersein
+  Kern < Kerns
+  Kern < Kernsatz
+  Kern < Kernbotschaften
+  Mask < Maske
+  Nach < Nachhall
+  Raum < Resonanzraum
+  Text < Kontext
+  Bruch < Bruchstück
+  Kampf < Kampfes
+  Kerns < Kernsatz
+  Teile < Anteile
+  Unser < Unsere
+  Verse < Verses
+  Wesen < Abwesenheit
+  GERMAN < German

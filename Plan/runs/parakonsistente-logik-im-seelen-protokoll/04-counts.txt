@@ -1,0 +1,84 @@
+# counts for 66 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Seelen-Kohärenz-Protokoll     6 word     6 in   [11, 15, 31, 99, 265, 356]
+  Seelen-Kohärenz-Protokoll         7 word     7 in   [11, 15, 31, 40, 99, 265]
+  Seelen-Kohärenz-Programm          2 word     2 in   [17, 214]
+  Aegis                            20 word    25 in   [15, 17, 19, 77, 97, 99]
+                                    2      as Aegis-Systems
+                                    2      as Aegis-System
+                                    1      as Aegis-Simulationssystems
+  Guardians                        14 word    14 in   [15, 77, 162, 210, 212, 215]
+  Kernwelten                       10 word    10 in   [15, 17, 19, 162, 164, 166]
+  Konstrukt-Stadt                   7 word     7 in   [170, 208, 227, 254, 291, 300]
+  Resonanz-Landschaft               8 word     8 in   [75, 178, 208, 227, 255, 291]
+  Grenzfeste                        3 word     3 in   [186, 256, 303]
+  Möglichkeits-Garten               6 word     7 in   [73, 75, 194, 222, 257, 291]
+                                    1      as Möglichkeits-Gartens
+  Möglichkeits-Gartens              1 word     1 in   [75]
+  LogOS                            17 word    17 in   [77, 99, 170, 174, 208, 219]
+  Mnemosyne                         7 word     7 in   [77, 178, 220, 242, 260, 311]
+  Cerberus                          6 word     6 in   [186, 190, 221]
+  Kairos/Sophia                     2 word     2 in   [194, 222]
+  Kairos                            3 word     3 in   [194, 222, 242]
+  Sophia                            3 word     3 in   [194, 222, 282]
+  Architekt                         2 word     3 in   [170, 219]
+                                    1      as Architekten-Persona
+  Echo                              2 word     3 in   [178, 220]
+                                    1      as Echo-Persona
+  Wächter                           3 word     3 in   [186, 221]
+  Partnerin                         9 word    15 in   [17, 40, 97, 99, 182, 223]
+                                    6      as Partnerin-Anomalie
+  Partnerin-Anomalie                6 word     6 in   [40, 97, 223, 227, 228, 262]
+  Risse                            15 word    15 in   [17, 40, 97, 101, 170, 202]
+  Glitches                          5 word     5 in   [101, 170, 254, 300, 322]
+  Personas                          2 word     2 in   [17, 317]
+  Protagonist                       1 word     4 in   [17, 182, 324, 344]  <-- substring
+                                    3      as Protagonisten
+  Integration                       7 word     8 in   [17, 40, 277, 294, 324, 344]
+                                    1      as Integrationsvorschläge
+  Fragmentierung                    5 word     5 in   [15, 17, 273, 344, 358]
+  Realitätsrisse                    1 word     1 in   [15]
+  Kernfragmentierung                1 word     1 in   [101]
+  Kern-Seelenanteils                1 word     1 in   [17]
+  Meta-Narrator                     1 word     1 in   [328]
+  blinden Fleck                     4 word     7 in   [73, 99, 233, 262, 273, 291]
+  blinde Flecken                    1 word     1 in   [15]
+  Blinden Flecks                    1 word     1 in   [228]
+  Reparaturstrategien               3 word     4 in   [223, 233, 237, 258]
+  Reparaturversuche                 1 word     2 in   [97, 312]
+                                    1      as Reparaturversuchen
+  logisches Vakuum                  1 word     1 in   [208]
+  Firewall                          1 word     1 in   [227]
+  Parakonsistente Logik             4 word     5 in   [11, 25, 34, 35, 151]
+  Parakonsistenz                    7 word     7 in   [35, 40, 64, 66, 214, 252]
+  Parakomplettheit                  2 word     2 in   [64, 67]
+  Dialetheismus                     4 word     4 in   [35, 40]
+  FDE                              39 word    58 in   [11, 15, 21, 42, 44, 46]
+  First Degree Entailment           5 word     5 in   [15, 42, 44, 105, 151]
+  Dunn/Belnap-Logik                 1 word     1 in   [44]
+  B4                                1 word     1 in   [44]
+  C-Systeme                        17 word    26 in   [11, 15, 21, 79, 81, 83]
+                                    9      as C-Systemen
+  Konsistenzoperator                1 word     2 in   [83, 99]
+                                    1      as Konsistenzoperators
+  Konsistenzoperators               1 word     1 in   [83]
+  ECQ                              17 word    20 in   [25, 27, 66, 81, 85, 97]
+  Ex Contradictione Quodlibet       1 word     1 in   [25]
+  Explosionsprinzip                 3 word     3 in   [25, 81, 85]
+  Wahrheitsgitter                   6 word     6 in   [55, 58, 60, 61, 62, 77]
+  Informationsgitter                2 word     2 in   [56, 77]
+  Logics of Formal Inconsistency    1 word     1 in   [81]
+  LFIs                              3 word     3 in   [81, 83]
+  Trivialität                       2 word     2 in   [29, 227]
+  Inkonsistenz                     11 word    22 in   [29, 36, 97, 101, 122, 132]
+                                   10      as Inkonsistenzen
+  Überbestimmtheit                  4 word     4 in   [127, 131, 132, 155]
+  Wahrheitswertlücken               2 word     2 in   [131, 154]
+  Satz vom ausgeschlossenen Dritten    2 word     2 in   [67, 198]
+  designierten                      3 word     3 in   [66, 67, 69]
+  PL                               15 word    18 in   [25, 29, 38, 105, 113, 121]
+  Both                              6 word     6 in   [50, 73, 77, 111, 131, 194]
+  Neither                           4 word     4 in   [51, 73, 131, 194]

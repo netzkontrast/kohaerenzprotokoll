@@ -1,0 +1,105 @@
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Anti-Muster"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Anti-Muster` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#4]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Was passieren muss"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Was passieren muss` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Ein konkreter Vorschlag"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ein konkreter Vorschlag` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Anwendung auf den Roman"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anwendung auf den Roman` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "AEGIS"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`AEGIS` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#7]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#3]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Kiko"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kiko` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Anscheinend Normalen Persönlichkeitsanteile"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Anscheinend Normalen Persönlichkeitsanteile` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "ANPs"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`ANPs` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#2]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Datenkorruption"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Datenkorruption` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Paradox der fehlausgerichteten Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Paradox der fehlausgerichteten Kohärenz` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "fehlerhaften Gott"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`fehlerhaften Gott` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Funktionalen Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funktionalen Multiplizität` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Algorithmischen Melancholie"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Algorithmischen Melancholie` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#1]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#0]
+$ python3 scripts/read.py sf-roman-eroeffnung-fesselnde-techniken-analysiert --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[sf-roman-eroeffnung-fesselnde-techniken-analysiert.md:#0]
+stance_marker_count: 4+1+1+1 = 7
+$ grep -n for early names
+(none above)

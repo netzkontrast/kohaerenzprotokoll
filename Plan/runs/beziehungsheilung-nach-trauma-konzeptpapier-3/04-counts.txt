@@ -1,0 +1,94 @@
+# counts for 64 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Walking on Both Sides            11 word    11 in   [11, 13, 17, 21, 79, 160]
+  Prelude                          12 word    21 in   [11, 17, 25, 156, 230, 252]
+                                    5      as Preludes
+  K-PTBS                            3 word     4 in   [31, 33, 34, 69]
+                                    1      as K-PTBS-Betroffenen
+  PTBS                              2 word     7 in   [31, 33, 34, 69, 394, 439]  <-- substring
+  Difficulties with Self Organization    1 word     1 in   [31]
+  DSO                               1 word     1 in   [31]
+  Bindungstheorie                   2 word     2 in   [25, 41]
+  Bindungsstil                      4 word    12 in   [25, 41, 43, 51, 53, 55]  <-- substring
+                                    7      as Bindungsstile
+                                    1      as Bindungsstilen
+                                    1      as bindungsstil-test
+  Bindungsstile                     7 word     8 in   [25, 41, 43, 51, 53, 55]
+                                    1      as Bindungsstilen
+  desorganisierten                  1 word     1 in   [43]
+  Bindungswippe                     1 word     1 in   [47]
+  Dissoziation                     19 word    21 in   [25, 34, 63, 67, 69, 71]
+                                    2      as Dissoziationsepisode
+  Depersonalisation                 1 word     1 in   [69]
+  Derealisation                     1 word     1 in   [69]
+  Amnesie                           1 word     1 in   [69]
+  Dissoziationsepisode              2 word     2 in   [302, 338]
+  Hypervigilanz                     2 word     2 in   [288, 319]
+  Co-Abhängigkeit                  22 word    23 in   [83, 85, 87, 89, 91, 101]
+                                    1      as Co-Abhängigkeits-Heilung
+  Parentifizierung                  2 word     2 in   [89, 395]
+  Fawn Response                     2 word     2 in   [89, 396]
+  Bindungsverletzung                1 word     9 in   [105, 109, 134, 136, 138, 156]  <-- substring
+                                    8      as Bindungsverletzungen
+  Trauma-Reinszenierung             1 word     1 in   [126]
+  Interaktionszyklen                4 word     4 in   [51, 124, 128, 156]
+  Forderungs-Rückzugs-Muster        1 word     1 in   [130]
+  Verfolger-Distanzierer-Dynamik    1 word     1 in   [130]
+  EFT                              12 word    14 in   [132, 138, 148, 224, 304, 348]
+  TSPT                              1 word     1 in   [132]
+  Attachment Injury Resolution Model    2 word     2 in   [138, 401]
+  AIRM                              6 word     6 in   [138, 140, 228, 304, 348, 401]
+  Tabula Rasa                       2 word     2 in   [150, 152]
+  Blank Slate                       3 word     3 in   [152, 417, 418]
+  Differenzierung                  37 word    43 in   [25, 158, 160, 162, 164, 166]
+                                    3      as Differenzierungsgrad
+                                    1      as Differenzierungs-Fähigkeit
+                                    1      as Differenzierungsfähigkeiten
+                                    1      as Differenzierung_des_Selbst
+  Fusion                           10 word    10 in   [169, 171, 175, 185, 188, 204]
+  Enmeshment                        1 word     1 in   [175]
+  Cut-off                           8 word     8 in   [169, 171, 185, 188, 190, 191]
+  Crucible Approach                 3 word     3 in   [195, 215, 436]
+  Solid Flexible Self               2 word     2 in   [197, 230]
+  Quiet Mind – Calm Heart           2 word     2 in   [198, 230]
+  Grounded Responding               1 word     1 in   [199]
+  Meaningful Endurance              3 word     3 in   [200, 211, 230]
+  Vier Punkte der Balance           1 word     1 in   [193]
+  Trigger                          16 word    21 in   [36, 79, 118, 128, 132, 187]
+                                    2      as Triggern
+                                    1      as triggern
+                                    1      as Trigger-Situation
+                                    1      as Triggers
+  Misattunement                     1 word     1 in   [292]
+  Heldenreise                       3 word     3 in   [246, 250, 260]
+  Anima                             3 word     4 in   [254, 263, 454]
+                                    1      as Animato
+                                    1      as animato
+  Animus                            3 word     3 in   [254, 263]
+  Der Schatten in Beziehungen       1 word     1 in   [256]
+  Verwundeter Heiler                1 word     1 in   [257]
+  Individuationsreise               1 word     1 in   [263]
+  Transformationsreise              1 word     1 in   [262]
+  Transformative Relationship Events    1 word     1 in   [273]
+  Narrative Phänomenologie          1 word     1 in   [274]
+  Co-Kreations-Narrativ             1 word     1 in   [275]
+  RCI-Modell                        1 word     1 in   [258]
+  Seiltanz                          2 word     2 in   [240, 330]
+  Das Beziehungs-Labyrinth          1 word     1 in   [241]
+  Bindungsgeister                   1 word     1 in   [39]
+  Wendepunkt                        5 word     9 in   [274, 296, 298, 304, 305, 306]
+                                    3      as Wendepunkte
+                                    1      as Wendepunkten
+  Konflikt                         10 word    36 in   [41, 47, 48, 63, 71, 77]  <-- substring
+                                    9      as Konflikten
+                                    8      as Konflikte
+                                    2      as Konfliktlösung
+                                    2      as Konflikts
+  Das Danach                        1 word     1 in   [314]
+  Das Paradox                       2 word     2 in   [287, 324]
+  Der Trigger                       1 word     1 in   [334]
+  Der Reparaturversuch              1 word     1 in   [344]
+  Schmelztiegel-Moment              1 word     1 in   [334]

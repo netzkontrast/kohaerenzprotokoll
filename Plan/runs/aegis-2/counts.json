@@ -1,0 +1,165 @@
+{
+  "document": "aegis-2",
+  "drive_id": "1n7bk15RlotaCNhy1uCFONLNwo_Agdr_Y",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Aegis Entity Mapping": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        13
+      ]
+    },
+    "Existence": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "Experience": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        13
+      ]
+    },
+    "Structure": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        59
+      ]
+    },
+    "Flow": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        13,
+        59
+      ]
+    },
+    "Host (Organic Core)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        29
+      ]
+    },
+    "Host": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        29
+      ]
+    },
+    "Organic Core": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        29
+      ]
+    },
+    "Aegis (Machine Core)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        69
+      ]
+    },
+    "Aegis": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        13,
+        29,
+        69
+      ]
+    },
+    "Machine Core": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        69
+      ]
+    },
+    "Creative Alter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        35
+      ]
+    },
+    "Child Alter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        31
+      ]
+    },
+    "Protector Alter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        33
+      ]
+    },
+    "Gatekeeper": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        33,
+        49
+      ]
+    },
+    "Logic/Analyst Alter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        65
+      ]
+    },
+    "Trauma Holder": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        41
+      ]
+    },
+    "Al Agent (LLM)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        61
+      ]
+    },
+    "Integrated Self (Ideal)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        57
+      ]
+    }
+  }
+}

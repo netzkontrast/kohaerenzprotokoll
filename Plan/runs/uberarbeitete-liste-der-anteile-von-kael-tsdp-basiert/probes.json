@@ -1,0 +1,239 @@
+{
+  "document": "uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert",
+  "drive_id": "1CZneqMlyqwodS4yabKPv-qcsK8ecE3WuVVxwuNflXGo",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 50,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstaufgabe",
+      "Selbstbehauptung",
+      "Selbstberuhigung",
+      "Selbstbestimmung",
+      "Selbstbewusstsein",
+      "Selbstbild",
+      "Selbstermächtigung",
+      "Selbstinstrumentalisierung",
+      "Selbstregulation"
+    ],
+    "emoti": [
+      "Emotionale",
+      "Emotionaler",
+      "Emotionen",
+      "Emotionsblockade",
+      "Emotionskontrolle",
+      "Emotionslosigkeit",
+      "Emotionsregulation"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungs",
+      "Bindungsaufbau",
+      "Bindungsmodus",
+      "Bindungssuche",
+      "Bindungsverhalten"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionalität",
+      "Funktionieren",
+      "Funktionierens",
+      "Funktionsweise"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzfunktion",
+      "Schutzinstinkt",
+      "Schutzmechanismus",
+      "Schutzmodus"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeit",
+      "Analytiker",
+      "Analytischer"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "bedür": [
+      "Bedürfnis",
+      "Bedürfnisse",
+      "Bedürfnissen",
+      "Bedürftigkeit"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problemlöser",
+      "Problemlösung"
+    ],
+    "syste": [
+      "System",
+      "Systemarchitekt",
+      "Systemdynamiken",
+      "Systems"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionspartner",
+      "Internes"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktvermeidung"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollverlust",
+      "Kontrollverlusts"
+    ],
+    "krise": [
+      "Krise",
+      "Krisen",
+      "Krisenmanager"
+    ],
+    "sexua": [
+      "Sexual",
+      "Sexualisierung",
+      "Sexualität"
+    ],
+    "struk": [
+      "Strukturen",
+      "Strukturiertes",
+      "Strukturierung"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumagefühle",
+      "Traumas"
+    ],
+    "uners": [
+      "Unerschrockenheit",
+      "Unerschütterliche",
+      "Unerschütterlichkeit"
+    ],
+    "vertr": [
+      "Vertrauen",
+      "Vertrauensbruch",
+      "Vertrauensbrüchen"
+    ],
+    "überl": [
+      "Überlastung",
+      "Überleben",
+      "Überlebensstrategie"
+    ],
+    "allta": [
+      "Alltagsmanagement",
+      "Alltagsmanager"
+    ],
+    "ambiv": [
+      "Ambivalentes",
+      "Ambivalenz"
+    ],
+    "angst": [
+      "Angst",
+      "Angstblockaden"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alex",
+      "(an earlier name, redacted under decision 028)"
+    ],
+    [
+      "Auge",
+      "Augenhöhe"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Kern",
+      "Kernängste"
+    ],
+    [
+      "Last",
+      "Überlastung"
+    ],
+    [
+      "Leid",
+      "Leiden"
+    ],
+    [
+      "Lust",
+      "Kontrollverlust"
+    ],
+    [
+      "Lust",
+      "Kontrollverlusts"
+    ],
+    [
+      "Meta",
+      "Metakognitiver"
+    ],
+    [
+      "Nähe",
+      "Todesnähe"
+    ],
+    [
+      "Nähe",
+      "Annäherung"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Alleinseins"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Selbstbewusstsein"
+    ],
+    [
+      "Sein",
+      "Verantwortungsbewusstsein"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Anteils"
+    ]
+  ]
+}

@@ -1,0 +1,124 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+Candidates read from the whole document (L1 to L1008), one reading pass. The document maps the novel's figures onto a clinical model of structural dissociation and adds a typographic plan and a plan for reader effect. Four of its thirteen figures carry earlier names, which are left off this list by rule; they are reached below only through their function labels. The reference list at the end (L921 to L1007) is research on a real diagnosis and on typography and is not listed. The core trauma is rendered by the document as a colour and as a figure; the list holds only the figure's role words, and the trauma symbol itself is a Kernwunde whose detail is not written here.
+
+## figures and roles
+
+- Kael
+- Juna
+- Juna/V
+- Juna / V
+- AEGIS
+- Lichtinstanz
+- Lia
+- Kiko
+- Lia/Kiko
+- Argus
+- Beschützer-Anteil
+- Gesamtsystem
+- Kael-Gesamtsystem
+- Host
+- Kael-Host
+- Katalysator
+- Externer Katalysator
+- Maske
+- EP-Fight
+
+## the document's own terms
+
+- PKP
+- Phänotyp-Kohärenz-Protokolle
+- TSDP
+- TSDP-Mapping
+- ANP
+- ANPs
+- EP
+- EPs
+- ISH
+- Kerntrauma
+- Ontologische Prägung
+- Kognitives Betriebssystem
+- Phänotypische Schnittstelle
+- Existenzielle Resonanz
+- Interaktions-Matrix
+- Kern-Direktive
+- Verbale Signatur
+- Textuelle Signatur
+- Somatische Signatur
+- Farbpalette
+- Narrative Währung
+- Triadische Währung
+- Währungs-Verlauf
+- Empathie
+- Neugier
+- Spannung
+- 'O'
+- K\_₁
+- K\_₀
+- Overhead
+- Sünde gegen die Kohärenz
+- Riss
+- Risse
+- Grauer Verfall
+- Grauen Verfall
+- Nichts Rauschen
+- Stasis
+- Vagheit
+- Kohärenz Protokoll
+- Anti-Entropie-Protokoll
+- Expressive Typografie
+- Typografische Anker
+- Baseline-Schrift
+- Anker-Raster
+- 80/20-Regel
+- Spot-Farbe
+- Glitch Text
+- Überlappender Text
+- Layout-Fragmentierung
+- Weißraum
+- Intrusion
+- Amnesie-Schranke
+- Vermeidungsprotokolle
+- Harmonie-Protokoll
+- Selbst-Protokoll
+- Going on with Normal Life
+- Boss-Phase
+- Akt I
+- Zersplitterung
+- Metaebene
+- Integration & Transzendenz
+- Lore
+- Hoffnung
+- Kollaps
+- Introjekt
+- Protector
+- Persecutor
+- Caretaker
+- Fight
+- Flight
+- Freeze
+
+## lens
+
+- Tertiäre Strukturelle Dissoziation
+- Strukturellen Dissoziation
+- Sekundären Dissoziation
+- Apparently Normal Part
+- Apparently Normal Parts
+- Emotional Parts
+- Internal Self-Helper
+- Defense Cascade
+- Dissoziation
+- Masking
+- Sublimation
+- Gaslighting
+- Synchronizität
+- sinnvolle Koinzidenz
+- autopoietisches System
+- allopoietisches System
+- Entropie
+- narrative Transportation
+- Ergodic literature
+- Ergodisches Design
+- Color Foregrounding
+- Katharsis

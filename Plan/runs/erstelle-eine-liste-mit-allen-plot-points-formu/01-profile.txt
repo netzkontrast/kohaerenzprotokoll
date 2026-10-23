@@ -1,0 +1,14 @@
+# erstelle-eine-liste-mit-allen-plot-points-formu
+  lines                60  (frontmatter ends at 9)
+  body words           1157
+  headings             0   bold-only lines 4
+  table rows           0   code fences 0
+  question marks       0
+  backslash escapes    0
+  typographic marks    1   ascii quotes 36
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    6
+  repeated labels      Konzept x3
+  longest line         951 chars
+

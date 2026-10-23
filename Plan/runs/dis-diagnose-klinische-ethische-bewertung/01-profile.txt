@@ -1,0 +1,14 @@
+# dis-diagnose-klinische-ethische-bewertung
+  lines                330  (frontmatter ends at 9)
+  body words           8512
+  headings             11   bold-only lines 21
+  table rows           25   code fences 0
+  question marks       6
+  backslash escapes    85
+  typographic marks    87   ascii quotes 84
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    12
+  repeated labels      none
+  longest line         1281 chars
+

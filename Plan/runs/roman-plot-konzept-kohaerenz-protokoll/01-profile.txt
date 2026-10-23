@@ -1,0 +1,14 @@
+# roman-plot-konzept-kohaerenz-protokoll
+  lines                269  (frontmatter ends at 9)
+  body words           6581
+  headings             1   bold-only lines 13
+  table rows           9   code fences 0
+  question marks       1
+  backslash escapes    110
+  typographic marks    21   ascii quotes 240
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    61
+  repeated labels      Teil 1 x4, Teil 2 x4, Teil 3 x4
+  longest line         1890 chars
+
