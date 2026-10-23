@@ -453,6 +453,18 @@ the author wants them (*Questions for the author*).
 
 ## Part 2 — the pipeline and its tools
 
+### Reading one term page whole (2026-10-23)
+
+The plan for the full read of a candidate page and its thought page is `Plan/concept/term-digest_2026-10-23.md`; its §11 holds
+the questions, each with a recommendation:
+
+1. **Order** — the full read before promotion, so that the thought page is what the author reviews, or after it.
+2. **One review or two** — one word promotes the candidate and approves the thought page (recommended), or two acts as now.
+3. **Language** — German (recommended) or English.
+4. **Readers** — whether a chunk may go to a Sonnet subagent, up to two at a time, or the session reads every chunk.
+5. **Which page first** — `genesis-klammer`, `kishotenketsu`, `nexus`, then `entropie`, or a term the next chapters need.
+6. **The graph** — thoughts in the core graph (recommended) or beside it until a thought page is reviewed.
+
 ### Raised by the ingest of 2026-10-21 (documents 532–590)
 
 - **Two manifest rows are Drive shortcuts, and their targets are not landed.** `kohaerenz-protokoll-plot-entwurf-finalisierung`
