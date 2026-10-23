@@ -76,6 +76,7 @@ class Component extends DCLogic {
 
   go(screen, extra) {
     const patch = { screen: screen, q: '' };
+    if (extra && 'page' in extra && !('wth' in extra)) patch.wth = null; // a selected thought belongs to its page
     if (extra) Object.keys(extra).forEach((k) => { patch[k] = extra[k]; });
     this.setState(patch);
   }
@@ -93,7 +94,7 @@ class Component extends DCLogic {
     const e = encodeURIComponent;
     let tail = '';
     if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
-    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s) + (s.wview ? '/' + s.wview : '');
+    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s) + (s.wth ? '/g/' + e(s.wth) : s.wview ? '/' + s.wview : '');
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
     else if (screen === 'questions' && s.qt === 'reading') tail = 'reading' + (s.rqi ? '/' + e(s.rqi) : s.rt ? '/' + e(s.rt) : '');
     else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
@@ -122,9 +123,17 @@ class Component extends DCLogic {
     const parts = hash.slice(2).split('/').map((x) => { try { return decodeURIComponent(x); } catch (err) { return x; } });
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
-    const st = { screen: screen, q: '', page: null, wview: null, qt: null, ques: null, rqi: null, rt: '' };
+    const st = { screen: screen, q: '', page: null, wview: null, wth: null, qt: null, ques: null, rqi: null, rt: '' };
     if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
-    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) { st.page = i; if (['term', 'readings', 'promotion'].includes(parts[2])) st.wview = parts[2]; } }
+    else if (screen === 'wiki' && parts[1]) {
+      const i = at(D.pages, 's', parts[1]);
+      st.wth = null;
+      if (i >= 0) {
+        st.page = i;
+        if (['term', 'gedanken', 'readings', 'promotion'].includes(parts[2])) st.wview = parts[2];
+        else if (parts[2] === 'g' && D.pages[i].th.some((t) => t.id === parts[3])) { st.wview = 'gedanken'; st.wth = parts[3]; }
+      }
+    }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
       if (parts[1] === 'reading') { st.qt = 'reading'; st.rqi = null; st.rt = ''; if (D.readingById[parts[2]]) { st.rqi = parts[2]; st.rt = D.pages[D.readingById[parts[2]].owner].s; st.rqpage = Math.floor((+parts[2].slice(-3) - 1) / 25); st.rq = ''; st.rc = ''; st.rkind = ''; st.rstatus = ''; st.rmentions = false; } else if (at(D.pages, 's', parts[2]) >= 0) st.rt = parts[2]; return st; }
@@ -397,6 +406,12 @@ class Component extends DCLogic {
     (rs || []).forEach((r) => {
       if (typeof r === 'string') { out.push({ isT: true, x: r }); return; }
       const t = r[0];
+      if (t === 'th') {
+        // a thought on a thought page: selects it, under its own address #/wiki/<slug>/g/<id>
+        if (flat) out.push({ isT: true, x: r[1] });
+        else out.push({ isL: true, x: r[1], go: () => this.setState({ wth: r[2], wview: 'gedanken' }) });
+        return;
+      }
       if (t === 'l') {
         const idx = r[2];
         if (flat) out.push({ isT: true, x: r[1] });
@@ -454,6 +469,36 @@ class Component extends DCLogic {
         sigBg: canon ? '#2B4C8C' : '#E4E9F2', sigFg: canon ? '#FBFAF6' : '#2B4C8C',
         anchor: prefix + '-' + i, pt: 6, label: this.txt(sc[0]), dt: sc[2] || '',
       });
+    });
+    return out;
+  }
+
+  thoughtSecs(p, sel) {
+    // The thought page as sections by kind (fullread.KINDS); a selected thought first, with what it differs from.
+    const KINDS = [['kurz', 'Kurz'], ['decided', 'Was das Projekt entschieden hat'], ['definition', 'Was es ist'], ['function', 'Was es im Roman tut'],
+      ['mechanism', 'Wie es wirkt'], ['origin', 'Woher es kommt'], ['evolution', 'Wie sich das Bild verändert hat'], ['relation', 'Bezüge zu anderen Begriffen'],
+      ['differ', 'Wo die Quellen auseinandergehen'], ['prose', 'In der Prosa'], ['open', 'Offen']];
+    const STANCE = { asserts: '', proposes: ' schlägt vor', questions: ' fragt', rejects: ' verwirft', reports: ' berichtet' };
+    const D = this.kp();
+    const byId = {};
+    p.th.forEach((t) => { byId[t.id] = t; });
+    const item = (t) => {
+      const runs = [['th', t.id, t.id], ' [' + t.tag + '] ' + t.x];
+      if (t.src.length) runs.push(' — ', ['r', t.src.map((x) => [x[0], 'L' + x[1] + STANCE[x[2]]])]);
+      t.inv.forEach((i) => runs.push(' · ', ['l', D.pages[i].t, i]));
+      if (t.dif.length) { runs.push(' · anders als '); t.dif.forEach((d, j) => runs.push(j ? ', ' : '', ['th', d, d])); }
+      if (t.from.length) { runs.push(' · aus '); t.from.forEach((d, j) => runs.push(j ? ', ' : '', ['th', d, d])); }
+      return runs;
+    };
+    const out = [];
+    const chosen = sel && byId[sel];
+    if (chosen) {
+      const related = chosen.dif.concat(p.th.filter((t) => t.dif.includes(chosen.id)).map((t) => t.id)).filter((x, i, a) => byId[x] && a.indexOf(x) === i);
+      out.push([['Gedanke ' + chosen.id], -1, '', [['ul', [item(chosen)]]].concat(related.length ? [['p', ['Steht in Spannung zu:']], ['ul', related.map((x) => item(byId[x]))]] : [])]);
+    }
+    KINDS.forEach(([k, title]) => {
+      const mine = p.th.filter((t) => t.k === k);
+      if (mine.length) out.push([[title + ' · ' + mine.length], -1, '', [['ul', mine.map(item)]]]);
     });
     return out;
   }
@@ -874,6 +919,7 @@ class Component extends DCLogic {
       const idx = D.pageOrder.filter((i) => {
         const p = D.pages[i];
         if (wf === 'terms' && !p.tp) return false;
+        if (wf === 'read' && !p.th.length) return false;
         if (wf === 'reviewed' && p.st !== 'reviewed') return false;
         if (wf === 'candidates' && p.st === 'reviewed') return false;
         if (wf === 'approved' && p.tp !== 'approved') return false;
@@ -889,10 +935,10 @@ class Component extends DCLogic {
         const p = D.pages[i];
         const on = i === sel;
         return {
-          t: p.t, meta: (p.tp ? 'Begriffsseite · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.st === 'reviewed' ? 'Promoviert · Lesarten geprüft' : 'Kandidat') + ' · ' + p.rd + ' Lesarten' + (p.waiting ? ' · neue Lesarten' : ''),
+          t: p.t, meta: (p.th.length ? 'Gedankenseite · ' + p.th.length + ' Gedanken · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.tp ? 'Begriffsseite · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.st === 'reviewed' ? 'Promoviert · Lesarten geprüft' : 'Kandidat') + ' · ' + p.rd + ' Lesarten' + (p.waiting ? ' · neue Lesarten' : ''),
           hasC: p.cx.length > 0, cids: p.cx.map((c) => D.conflicts[c].id).join(' '),
           bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent', cur: on ? 'true' : undefined,
-          go: () => this.setState({ page: i, wview: null }),
+          go: () => this.setState({ page: i, wview: null, wth: null }),
         };
       });
       w.empty = w.list.length === 0;
@@ -905,6 +951,7 @@ class Component extends DCLogic {
       w.filters = [
         fl('all', 'Alle', D.pages.length),
         fl('terms', 'Begriffsseiten', cnt((p) => !!p.tp)),
+        fl('read', 'Ganz gelesen', cnt((p) => p.th.length > 0)),
         fl('reviewed', 'Promoviert', cnt((p) => p.st === 'reviewed')),
         fl('candidates', 'Kandidaten', cnt((p) => p.st !== 'reviewed')),
         fl('approved', 'Bestätigt', cnt((p) => p.tp === 'approved')),
@@ -922,9 +969,9 @@ class Component extends DCLogic {
       w.onQ = (e) => this.setState({ wq: e.target.value });
 
       const p = D.pages[sel];
-      const view = s.wview || (p.tp ? 'term' : 'readings');
+      const view = s.wview || (p.th.length ? 'gedanken' : p.tp ? 'term' : 'readings');
       w.view = view;
-      w.views = [['term', 'Begriffsseite'], ['readings', 'Quellenlesarten'], ['promotion', 'Promotion & Stand']].map(([key, label]) => ({ label: label, on: view === key, go: () => this.setState({ wview: key }), disabled: key === 'term' && !p.tp }));
+      w.views = [['gedanken', 'Gedanken'], ['term', 'Begriffsseite'], ['readings', 'Quellenlesarten'], ['promotion', 'Promotion & Stand']].map(([key, label]) => ({ label: label, on: view === key, go: () => this.setState({ wview: key, wth: null }), disabled: (key === 'term' && !p.tp) || (key === 'gedanken' && !p.th.length) }));
       w.questions = () => this.go('questions', { qt: 'reading', rt: p.s, rqi: null, rqpage: 0 });
       const chips = [this.chip(p.st || 'candidate', 'ink'), this.chip(p.src + ' sources'), this.chip(p.rd + (p.rd === 1 ? ' reading' : ' readings'))];
       if (p.tp) chips.unshift(this.chip('Begriffsseite · ' + p.tp, 'blue'));
@@ -940,18 +987,25 @@ class Component extends DCLogic {
           'Kandidatenseite: ' + (p.st === 'reviewed' ? 'vom Autor geprüft und promoviert' : 'noch nicht promoviert') + (p.reviewed ? ' · ' + p.reviewed : '') + '.',
           'Begriffsseite: ' + (p.tp === 'approved' ? 'vom Autor bestätigt' : p.tp ? 'deutscher Entwurf, Bestätigung steht aus' : 'noch nicht ausgearbeitet') + '.',
           p.waiting + ' neue Lesarten warten seit der Prüfung. ' + (p.termBehind ? 'Die Begriffsseite bezieht sich auf einen älteren Kandidatenstand.' : 'Kein Rückstand der Begriffsseite festgestellt.'),
+          ...(p.fr ? ['Vollständige Lektüre: ' + p.fr.refs + ' Belegstellen, ' + Object.entries(p.fr.states).filter((x) => x[1]).map((x) => x[1] + ' ' + x[0]).join(', ') + '; ' + p.th.length + ' Gedanken; '
+            + (p.fr.open ? p.fr.open + ' noch ohne Zustand; ' : '') + (p.fr.problems ? p.fr.problems + ' Problem(e) in fullread.py check' : 'fullread.py check ohne Befund') + (p.fr.behind ? '; die Kandidatenseite hat sich seither bewegt' : '') + '.',
+            'Ein Wort des Autors promoviert die Kandidatenseite und bestätigt die Gedankenseite zugleich (promote.py apply).'] : []),
           'Promotion bestätigt die Prüfung der Quellenlesarten. Sie macht keine Lesart zum Romankanon.',
           'Kanonentscheidungen stehen in Manuscript/kanon.md, den Entscheidungen und beantworteten Weichen.',
         ];
         rd.secs = this.secs(null, [[['Prüfung und Bestätigung'], -1, '', [['ul', text.map((x) => [x])]]], [['Nächster Arbeitsschritt'], -1, '', [['p', [p.st === 'reviewed' ? (p.tp ? 'Die Begriffsseite lesen, neue Lesarten vergleichen und eine Empfehlung zur Bestätigung vorbereiten.' : 'Aus den geprüften Lesarten eine deutsche Begriffsseite ausarbeiten.') : 'Quellen und offene Konflikte prüfen; anschließend die Promotion dem Autor vorlegen.']], ['p', ['Prüfbogen: python3 scripts/promote.py sheet ' + p.s]], ['p', ['Begriffsseite: python3 scripts/terms.py finds ' + p.s]]]]], uid + '-promotion-' + sel);
         rd.key += ':promotion';
+      } else if (view === 'gedanken' && p.th.length) {
+        rd.secs = this.secs(null, this.thoughtSecs(p, s.wth), uid + '-th-' + sel);
+        rd.key += ':th:' + (s.wth || '');
       } else if (view === 'term' && !p.tp) {
         rd.secs = this.secs(null, [[['Noch keine Begriffsseite'], -1, '', [['p', ['Für diesen Begriff ist noch keine ausgearbeitete Begriffsseite vorhanden. Unter Quellenlesarten stehen die bisherigen Befunde; unter Promotion & Stand der nächste Schritt.']]]]], uid + '-empty-' + sel);
       }
       rd.key += ':' + view;
       if (view === 'promotion') rd.kicker = 'Promotionsstand · ' + p.t;
+      if (view === 'gedanken') rd.kicker = 'Gedankenseite · Wiki/terms/' + p.s + '.md · vollständige Lektüre';
       rd.hasSub = true;
-      rd.sub = view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? 'Zwei Schritte: Quellenlesarten prüfen, anschließend die Begriffsseite bestätigen.' : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
+      rd.sub = view === 'gedanken' ? 'Jeder Gedanke einmal, mit allen Quellen, die ihn tragen, und ihrer Haltung. Ein Klick auf die Kennung gibt dem Gedanken seine Adresse.' : view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? 'Zwei Schritte: Quellenlesarten prüfen, anschließend die Begriffsseite bestätigen.' : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
       wr.toc = rd.secs.filter((x) => x.hasHead).map((x) => {
         let label = x.label;
         if (x.hasSig) {

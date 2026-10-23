@@ -123,6 +123,7 @@ import subject  # noqa: E402
 import wiki_index  # noqa: E402
 import reading_questions  # noqa: E402
 import promote  # noqa: E402
+import fullread  # noqa: E402
 from account import account_order  # noqa: E402
 
 HERE = ROOT / "scripts"
@@ -730,6 +731,7 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
         tpath = TERMS / f"{slug}.md"
         tstatus = ""
         tlede, tsecs, term_behind = [], [], False
+        thoughts, fullread_state = [], None
         if tpath.exists():
             ttext = tpath.read_text(encoding="utf-8")
             tstatus = wiki_index.frontmatter(ttext).get("status", "") or "draft"
@@ -738,6 +740,16 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
             tbody = re.sub(r"^## ", "## Begriffsseite · ", tbody, flags=re.M)
             _, tlede, tsecs = md.sections(tbody)
             term_behind = wiki_index.frontmatter(ttext).get("candidate_hash") != promote.digest(text) or bool(promote.since_readings(text))
+            if wiki_index.frontmatter(ttext).get("form") == "gedanken":
+                # The full read's thought page: every thought with its sources, for the Gedanken view and its addresses.
+                thoughts = [{"id": t["id"], "k": t["kind"], "tag": t["tag"], "x": t["text"],
+                             "src": [[md._doc(x["doc"]), x["line"], x["stance"]] for x in t["sources"]],
+                             "inv": [pidx[x] for x in t["involves"] if x in pidx], "dif": t["differs_from"],
+                             "from": t["refs"]} for t in fullread.thoughts_of(ttext)]
+                st = fullread.status(slug)
+                fails, notes = fullread.problems_of(slug)
+                fullread_state = {"refs": st["refs"], "states": st["states"], "open": len(st["open"]),
+                                  "problems": len(fails), "behind": bool(notes)}
             sep = [md.runs(f"Kandidatenseite · die Lesarten der Quellen, Wiki/candidates/{slug}.md"), -1, "", lede]
             # Render the two layers independently; the old address still opens this term.
         node = g["nodes"].get(f"term:{slug}", {})
@@ -746,7 +758,7 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
         pages.append({"s": slug, "t": meta.get("term") or title or slug, "st": meta.get("status", ""), "tp": tstatus,
                       "src": num(meta.get("sources")), "rd": num(meta.get("readings")), "cf": meta.get("conflict", ""),
                       "g": meta.get("gathered", ""), "reviewed": meta.get("reviewed", ""),
-                      "waiting": len(promote.since_readings(text)), "termBehind": term_behind, "termLede": tlede, "termSec": tsecs, "sf": [x for x in node.get("surfaces", []) if x != slug][:24],
+                      "waiting": len(promote.since_readings(text)), "termBehind": term_behind, "th": thoughts, "fr": fullread_state, "termLede": tlede, "termSec": tsecs, "sf": [x for x in node.get("surfaces", []) if x != slug][:24],
                       "lede": lede, "sec": secs,
                       "ev": [ev.get("verified", 0), ev.get("unchecked", 0), ev.get("unresolved", 0)],
                       "ing": [], "out": [], "in": [], "cx": [], "qx": []})
@@ -949,8 +961,15 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
     # out -- and named, with its edges, so `check` can still account for every
     # node and edge `state.py` measures instead of the counts quietly parting.
     unread = []
+    # A thought (and the decision record a [K] thought names) is shown on its term's page, under its own address
+    # (#/wiki/<slug>/g/<id>), not as a dot in the map: 76 dots around one term would hide the map. Counted, like
+    # the unread documents, so the totals still agree with state.py.
+    beside = []
     for nid, n in g["nodes"].items():
         kind = n["type"]
+        if kind in ("thought", "record"):
+            beside.append(nid)
+            continue
         if kind == "term":
             ref, label = pidx[n["slug"]], pages[pidx[n["slug"]]]["t"]
         elif kind == "doc":
@@ -1017,7 +1036,8 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
         "graph": {"nodes": gnodes, "edges": gedges, "types": types, "w": GRAPH_W, "h": GRAPH_H,
                   "unread": {"docs": sorted(n.split(":", 1)[1] for n in unread),
                              "edges": sum(1 for e in g["edges"]
-                                          if e["source"] in unread or e["target"] in unread)}},
+                                          if {e["source"], e["target"]} & (set(unread) | set(beside)))},
+                  "beside": len(beside)},
         "catdesc": {r["category"]: r.get("index_section", "") for r in manifest},
         "corpus": {"cats": cats, "tiers": tiers, "fmts": fmts, "sections": sections, "rows": rows, "folded": folded},
     }
@@ -1136,6 +1156,10 @@ def agent_index(data: dict) -> list[dict]:
                "address": f"#/questions/{q['id']}", "status": q["status"]} for q in data["questions"]]
     items += [{"kind": "term-page", "id": p["s"], "title": p["t"], "path": rel(TERMS / f"{p['s']}.md"),
                "address": f"#/wiki/{p['s']}/term", "status": p["tp"]} for p in data["pages"] if p["tp"]]
+    items += [{"kind": "thought", "id": f"{p['s']}/{t['id']}", "title": t["x"][:160], "path": rel(TERMS / f"{p['s']}.md"),
+               "address": f"#/wiki/{p['s']}/g/{t['id']}", "status": p["tp"], "thought_kind": t["k"], "tag": t["tag"],
+               "sources": [f"{data['docs'][x[0]]['slug'] if isinstance(x[0], int) and x[0] >= 0 else x[0]}.md:L{x[1]}" for x in t["src"]]}
+              for p in data["pages"] for t in p["th"]]
     items += [{"kind": "reading-question", "id": q["id"], "title": q["q"],
                "path": f"Wiki/questions/reading/{data['pages'][q['owner']]['s']}.json",
                "address": f"#/questions/reading/{q['id']}", "status": "proposed", "answer_status": "unchecked"}
@@ -1330,6 +1354,26 @@ def check_data(data: dict) -> list[str]:
     if any(counts.get(i) != 100 for i in range(n_pages)) or sum(counts.values()) != 100 * n_pages:
         problems.append("reading questions: expected 100 for every term")
     if len({q.get("id") for q in rq}) != len(rq): problems.append("reading questions: duplicate identity")
+    for p in data["pages"]:
+        # The Gedanken view and its addresses: every thought unique, its sources and links pointing at something,
+        # its source-carrying tags cited, and the count the page's frontmatter states.
+        th = p.get("th") or []
+        ids = [t["id"] for t in th]
+        if len(set(ids)) != len(ids):
+            problems.append(f"{p['s']}: a thought id repeats")
+        for t in th:
+            if t["tag"] in ("S", "V") and not t["src"]:
+                problems.append(f"{p['s']}/{t['id']}: [{t['tag']}] with no source in the app")
+            if any(not isinstance(x[0], int) or not 0 <= x[0] < n_docs for x in t["src"]):
+                problems.append(f"{p['s']}/{t['id']}: a source is no read document")
+            if any(d not in ids for d in t["dif"] + t["from"]):
+                problems.append(f"{p['s']}/{t['id']}: names a thought that is not on the page")
+        if th:
+            stated = wiki_index.frontmatter((TERMS / f"{p['s']}.md").read_text(encoding="utf-8")).get("thoughts")
+            if str(len(th)) != str(stated):
+                problems.append(f"{p['s']}: the app holds {len(th)} thoughts, the page states {stated}")
+            if not p.get("fr") or p["fr"]["problems"]:
+                problems.append(f"{p['s']}: the full read does not pass fullread.py check")
     for q in rq:
         if any(not isinstance(i, int) or not 0 <= i < n_pages for i in q.get("terms", [])):
             problems.append("reading questions: link to no term")
@@ -1418,7 +1462,7 @@ def check_data(data: dict) -> list[str]:
                       ("sources.total", len(data["corpus"]["rows"])),
                       ("sources.landed", sum(r[6] for r in data["corpus"]["rows"])),
                       ("sources.folded", data["corpus"]["folded"]),
-                      ("graph.nodes", len(data["graph"]["nodes"]) + len(unread["docs"])),
+                      ("graph.nodes", len(data["graph"]["nodes"]) + len(unread["docs"]) + data["graph"].get("beside", 0)),
                       ("graph.edges", len(data["graph"]["edges"]) + unread["edges"])):
         if measured.get(key) != have:
             problems.append(f"{key}: the app holds {have}, scripts/state.py measures {measured.get(key)}")
@@ -1451,7 +1495,8 @@ const rt = (st, label) => {
   if (h2 !== h) bad.push(label + ': ' + h + ' comes back as ' + h2);
 };
 ['now', 'wiki', 'conflicts', 'questions', 'manuscript', 'graph', 'corpus', 'process'].forEach((x) => rt({ screen: x }, 'screen ' + x));
-D.pages.forEach((x, i) => { rt({ screen: 'wiki', page: i }, 'page ' + x.s); ['term', 'readings', 'promotion'].forEach((v) => rt({ screen: 'wiki', page: i, wview: v }, 'wiki view ' + v + x.s)); });
+D.pages.forEach((x, i) => { rt({ screen: 'wiki', page: i }, 'page ' + x.s); ['term', 'gedanken', 'readings', 'promotion'].forEach((v) => rt({ screen: 'wiki', page: i, wview: v }, 'wiki view ' + v + x.s)); });
+D.pages.forEach((x, i) => x.th.forEach((t) => rt({ screen: 'wiki', page: i, wview: 'gedanken', wth: t.id }, 'thought ' + x.s + '/' + t.id)));
 D.readingQuestions.forEach((x) => rt({ screen: 'questions', qt: 'reading', rqi: x.id, rt: D.pages[x.owner].s }, 'reading ' + x.id));
 D.pages.forEach((x) => rt({ screen: 'questions', qt: 'reading', rt: x.s }, 'bank ' + x.s));
 D.conflicts.forEach((x, i) => rt({ screen: 'conflicts', conf: i }, 'conflict ' + x.id));
