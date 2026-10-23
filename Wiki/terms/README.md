@@ -33,7 +33,7 @@ Wo die Quellen auseinandergehen · In der Prosa · Offen · Autor-Notizen · Her
 `## Autor-Notizen` holds the author's own block between `<!-- autor:anfang -->` and
 `<!-- autor:ende -->`; no tool writes it and no rule applies inside it.
 
-**1 <!--state:wiki.terms--> term page, 0 <!--state:wiki.terms_approved--> approved.**
+**2 <!--state:wiki.terms--> term page, 0 <!--state:wiki.terms_approved--> approved.**
 
 ```bash
 python3 scripts/terms.py finds <slug>      # where the project's own records name the term
@@ -41,6 +41,13 @@ python3 scripts/terms.py scaffold <slug>   # a new draft; refuses a candidate th
 python3 scripts/terms.py check             # every rule above; on GitHub with every push
 python3 scripts/terms.py approve <slug> --words "<the author's words>"
 ```
+
+**A thought page** (`form: gedanken`, since 2026-10-23) is the other kind: written by a full read of the
+candidate *before* its review — every cited line opened, every thought written once with all its sources and
+stances, a ledger proving every citation was accounted for (`python3 scripts/fullread.py`, skill `full-read`,
+`Plan/concept/term-digest_2026-10-23.md`). Its sections follow the questions a writer asks of a term. It is what
+the author reviews, and one word of the author's promotes the candidate and approves the page together
+(`promote.py apply`). The first is `genesis-klammer`.
 
 A draft is written by a session or the author; only the author approves. An approved page
 is pinned (outside the author's block) and `check` fails when it changes. When its

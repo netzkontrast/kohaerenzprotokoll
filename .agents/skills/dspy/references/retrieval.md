@@ -633,8 +633,8 @@ P8): an edge to a page that does not exist, a document no manifest row lands.
 Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
-**Current counts**: 612 <!--state:graph.nodes--> nodes,
-16840 <!--state:graph.edges--> edges; the evidence layer holds
+**Current counts**: 689 <!--state:graph.nodes--> nodes,
+17154 <!--state:graph.edges--> edges; the evidence layer holds
 31757 <!--state:graph.evidence--> quotations, of which
 31749 <!--state:graph.evidence_verified--> verify against their cited line.
 
