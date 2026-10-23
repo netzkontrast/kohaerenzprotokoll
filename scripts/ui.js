@@ -484,7 +484,8 @@ class Component extends DCLogic {
     p.th.forEach((t) => { byId[t.id] = t; });
     const item = (t) => {
       const runs = [['th', t.id, t.id], ' [' + t.tag + '] ' + t.x];
-      if (t.src.length) runs.push(' — ', ['r', t.src.map((x) => [x[0], 'L' + x[1] + STANCE[x[2]]])]);
+      // one reference chip per source, so a long list wraps between them on a narrow screen
+      if (t.src.length) { runs.push(' — '); t.src.forEach((x, j) => runs.push(j ? ' ' : '', ['r', [[x[0], 'L' + x[1] + STANCE[x[2]]]]])); }
       t.inv.forEach((i) => runs.push(' · ', ['l', D.pages[i].t, i]));
       if (t.dif.length) { runs.push(' · anders als '); t.dif.forEach((d, j) => runs.push(j ? ', ' : '', ['th', d, d])); }
       if (t.from.length) { runs.push(' · aus '); t.from.forEach((d, j) => runs.push(j ? ', ' : '', ['th', d, d])); }
