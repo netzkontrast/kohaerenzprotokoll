@@ -46,6 +46,7 @@ decision files are missing from it or listed here without existing, and
 | `027-term-pages.md` | 2026-10-08 | Term pages in `Wiki/terms/`: a German page for the author, written from a reviewed candidate, every point tagged and evidenced, `[K]` only from an author's decision; `terms.py` checks them, the author approves |
 | `028-held-documents-released.md` | 2026-10-16 | The 70 held documents are released: the early names read but never written, the album and the DIS and personal material in a light pass, reboot-2's gold list retired and the document read afresh; the empty export and the mp3 stay held |
 | `029-mcp-server-on-vercel.md` | 2026-10-16 | The retrieval tools as a read-only FastMCP server on Vercel: search over the landed documents and the wiki, graph retrieval, line windows and quotation checks; the documents' lines go to Vercel behind its login; access by a protection-bypass secret |
+| `030-the-writing-workshop.md` | 2026-10-26 | The writing workshop: a session writes scene by scene on beats the author approves, Weichen answered per chapter, a briefing of the decided and the proposed, a continuity register, a prose-rule register with status, 3,000–5,000 words per chapter in the pilot, marks per paragraph in the app and approval by the author's words, every tool before the first scene |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

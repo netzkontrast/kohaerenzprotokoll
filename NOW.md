@@ -4,6 +4,7 @@ The current handover, in execution order. History is in git; author questions ar
 
 ## The author's standing instructions
 
+- 2026-10-26 **The writing workshop (decision 030):** a session writes scene by scene on beats the author approves; Weichen per chapter from the briefing; every tool (`rules.py`, `weiche.py`, `continuity.py`, `brief.py`, `manuscript.py`, the Schreibtisch) before the first scene; pilot Kap 1–3 at 3,000–5,000 words per chapter; approval stays the author's words. Plan: `Plan/concept/writing-workshop_2026-10-26.md`.
 - 2026-10-13 **AEGIS agent and interactive-novel planning:** prepare a PR, simplify NOW.md/CLAUDE.md and align the skill review with the new Claude instructions. The offline pilot is the proposed next implementation; no simulation output becomes canon.
 - 2026-10-05 **Ingest in batches of ten:** prioritize unread sources named by open conflicts, then the canon era, then date. Complete and reconcile each document before the next. Use a light pass for prompts/templates/near-duplicates. Stop and report after a batch, a new conflict record, or a check still red after one fix. At most one chapter-relevant question per document; keep the app current after each document.
 - 2026-10-05 **Up to two parallel Sonnet ingest readers:** census/note reading may overlap; reconciliation, readings and commits stay sequential in queue order. Other model calls remain serial and recorded.
@@ -50,6 +51,7 @@ Read `Plan/questions-for-the-author.md` for the full record. Resolve only the ch
 
 ## Half-done — where the next session starts
 
+- **The writing workshop** — decision 030 and `Plan/concept/writing-workshop_2026-10-26.md`: the six tools between structure and prose, then the pilot Kap 1–3 scene by scene. **Next:** build `rules.py` (the prose-rule register with the standing rules as checks), `weiche.py`, `continuity.py` (the four tables seeded), `brief.py kap 1`, `manuscript.py` and the Schreibtisch, each with its selftest; then `brief.py kap 1` and the Weichen it lists for the author.
 - **AEGIS agent pilot** — proposed implementation from the author's 2026-10-13 planning request. Read `Plan/briefings/aegis-agent-pilot.md` and `Plan/concept/aegis-agent_2026-10-13.md`. **Next:** define two manual cases and implement their offline perception/action/event/replay loop before adding any live model or playable UI.
 - **The storyforms, step by step with the author** — approved structure in `Plan/storyform/`; content decisions in `Manuscript/kanon.md`; treatment and chapter execution remain proposals where not approved. `Plan/runs/storyform-2026-10-06/entscheidungsvorlage.md` orders remaining choices. **Next:** hold the joint decision session, then approve the treatment act by act before deriving NCP events from those approved paragraphs.
 - **The architecture is [`SPEC.md`](SPEC.md), adopted by the author** — decision 021; offline migration steps are built. Optional finders stay optional. **Next:** design and run step 8 E4, fixed pack versus bounded expansion versus RLM at equal total cost, Claude only, serial, within the specific $20 allowance and read evidence only.

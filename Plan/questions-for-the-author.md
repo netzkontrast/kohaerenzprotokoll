@@ -481,6 +481,12 @@ the questions, each with a recommendation:
   the five, and `Wiki/candidates/alex.md` carries `Alexander` from an older reconciliation. Should the withheld list grow, and
   may the session redact the alex page's heading and quotation?
 
+### Answered 2026-10-26 — the writing workshop (decision 030)
+
+Question A of the writing plan (who writes the prose): **A2**, a session scene by scene on beats the author approves, the
+author editing each scene before the next. W16 for the pilot: 3,000–5,000 words. The nine other answers and the plan:
+`Plan/decisions/030-the-writing-workshop.md`, `Plan/concept/writing-workshop_2026-10-26.md`.
+
 ### The process — the author's call, with the detail under *Open decisions*
 
 - **Planning agent sessions from the website** (2026-10-05, `Plan/concept/agent-sessions_2026-10-05.md`). The app
