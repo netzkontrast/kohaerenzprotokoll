@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from characters import chapter_events, load, validate
+from characters import chapter_events, load, state_at, validate
 
 
 class CompetencyQuestions(unittest.TestCase):
@@ -80,6 +80,38 @@ class CompetencyQuestions(unittest.TestCase):
             self.data['chapters'][0]['promotion']['decision_path'] = '../../outside.md'
             with self.assertRaises(ValueError):
                 chapter_events(self.data, 'c-opening', canon=True, root=root)
+
+    def test_state_reconstruction(self):
+        frozen = copy.deepcopy(self.data)
+        self.assertEqual(state_at(self.data, 'i-ada', 'e-arrival'), 'calm')
+        self.assertEqual(state_at(self.data, 'i-ada', 'e-alarm'), 'alert')
+        self.assertIsNone(state_at(self.data, 'i-bex', 'e-alarm'))
+        self.assertEqual(self.data, frozen)
+        with self.assertRaisesRegex(ValueError, 'cross-session'):
+            state_at(self.data, 'i-ada-two', 'e-alarm')
+        with self.assertRaisesRegex(ValueError, 'unknown instance'):
+            state_at(self.data, 'missing', 'e-alarm')
+        with self.assertRaisesRegex(ValueError, 'unknown event'):
+            state_at(self.data, 'i-ada', 'missing')
+
+    def test_chains_follow_chronology(self):
+        self.data['transitions'].append({
+            'id': 'st-initial', 'instance_id': 'i-ada',
+            'event_id': 'e-arrival', 'before': 'asleep', 'after': 'calm'})
+        self.assertEqual(state_at(self.data, 'i-ada', 'e-alarm'), 'alert')
+        self.data['transitions'][1]['after'] = 'afraid'
+        with self.assertRaisesRegex(ValueError, 'broken state chain'):
+            validate(self.data)
+
+    def test_simultaneous_transitions_rejected(self):
+        transition = dict(self.data['transitions'][0], id='st-duplicate')
+        self.data['transitions'].append(transition)
+        with self.assertRaisesRegex(ValueError, 'ambiguous simultaneous'):
+            validate(self.data)
+
+    def test_unknown_chapter(self):
+        with self.assertRaisesRegex(ValueError, 'unknown chapter'):
+            chapter_events(self.data, 'missing')
 
 
 if __name__ == '__main__':

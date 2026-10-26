@@ -73,3 +73,13 @@ SPARQL, install RDF/OWL, query endpoints or import the AO3 corpus.
 This pilot is tested in CI but has no UI, public API, deployment, live-model
 adapter or automatic graph integration. Python validation is the runtime gate;
 TS declarations alone do not validate untrusted JSON.
+
+## Event-time reconstruction
+
+`characters.state_at(data, instance_id, event_id)` reconstructs the state after
+that event in fabula order, even if chapter order is reversed. Before the first
+transition it returns the explicitly recorded `before`; without transitions it
+returns `None` (unknown). Cross-session queries and broken or simultaneous state
+chains are refused. This reads fictional session data only and never infers a
+player state. Additional regression cases cover these boundaries and missing
+chapter IDs.

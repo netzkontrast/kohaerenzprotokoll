@@ -113,7 +113,8 @@ def chapter_events(data: dict, chapter_id: str, *, canon=False, root: Path | Non
     The file's editorial authority still requires human review, not a string flag.
     """
     validate(data)
-    chapter = next(c for c in data['chapters'] if c['id'] == chapter_id)
+    chapter = next((c for c in data['chapters'] if c['id'] == chapter_id), None)
+    require(chapter is not None, f'unknown chapter: {chapter_id}')
     if canon:
         require(root is not None and 'promotion' in chapter, 'chapter is a session proposal')
         base = root.resolve()
@@ -122,3 +123,30 @@ def chapter_events(data: dict, chapter_id: str, *, canon=False, root: Path | Non
                 and path.is_file(), 'promotion decision must exist under Plan/decisions')
     events = {e['id']: e for e in data['events']}
     return [events[eid] for eid in chapter['event_ids']]
+
+
+def state_at(data: dict, instance_id: str, event_id: str) -> str | None:
+    """State after an event in the instance's own session; None means unknown.
+
+    Uses chronological positions, never chapter presentation order. Before the
+    first recorded transition, its explicit 'before' is the known initial state.
+    Figures without transitions have no inferred state. No input is mutated.
+    """
+    validate(data)
+    instances = {i['id']: i for i in data['instances']}
+    events = {e['id']: e for e in data['events']}
+    require(instance_id in instances, f'unknown instance: {instance_id}')
+    require(event_id in events, f'unknown event: {event_id}')
+    require(instances[instance_id]['session_id'] == events[event_id]['session_id'],
+            'cross-session state query')
+    transitions = sorted(
+        (t for t in data['transitions'] if t['instance_id'] == instance_id),
+        key=lambda t: events[t['event_id']]['position'])
+    if not transitions:
+        return None
+    state = transitions[0]['before']
+    for transition in transitions:
+        if events[transition['event_id']]['position'] > events[event_id]['position']:
+            break
+        state = transition['after']
+    return state
